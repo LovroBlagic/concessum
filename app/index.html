@@ -1,0 +1,167 @@
+<!doctype html>
+<html lang="hr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Koncesijski sat</title>
+  <meta name="description" content="Koje koncesije u Hrvatskoj uskoro ističu, i gdje istekle koncesije ostaju bez nastavka – pregled po općinama iz Registra koncesija (FINA).">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <a class="preskoci" href="#sadrzaj">Preskoči na sadržaj</a>
+
+  <header class="zaglavlje">
+    <div class="omotac zaglavlje-red">
+      <a class="logo" href="#karta"><span class="logo-sat" aria-hidden="true"></span>Koncesijski <span>sat</span></a>
+      <nav aria-label="Glavna navigacija">
+        <ul class="nav">
+          <li><a href="#karta" data-ruta="karta">Karta</a></li>
+          <li><a href="#sat" data-ruta="sat">Što ističe</a></li>
+          <li><a href="#opcina" data-ruta="opcina">Profil općine</a></li>
+          <li><a href="#metodologija" data-ruta="metodologija">Metodologija</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <main id="sadrzaj" class="omotac" tabindex="-1">
+    <section class="kpi-red" id="kpi" aria-label="Ključne brojke"></section>
+
+    <div class="filteri" role="group" aria-label="Filteri">
+      <label>Sektor
+        <select id="f-sektor"></select>
+      </label>
+      <label class="samo-karta">Pokazatelj na karti
+        <select id="f-pokazatelj">
+          <option value="udio">Udio isteklih bez nastavka</option>
+          <option value="istjece12">Ističe u idućih 12 mjeseci</option>
+          <option value="aktivne">Aktivne koncesije</option>
+          <option value="bez">Istekle bez nastavka (broj)</option>
+        </select>
+      </label>
+      <label class="samo-sat">Razdoblje
+        <select id="f-razdoblje">
+          <option value="6">idućih 6 mjeseci</option>
+          <option value="12" selected>idućih 12 mjeseci</option>
+          <option value="24">idućih 24 mjeseca</option>
+          <option value="36">idućih 36 mjeseci</option>
+        </select>
+      </label>
+      <label class="samo-sat samo-opcina">Traži
+        <input type="search" id="f-trazi" placeholder="koncesionar, davatelj, vrsta…">
+      </label>
+    </div>
+
+    <!-- KARTA -->
+    <section class="ekran" id="ekran-karta" aria-labelledby="h-karta">
+      <h1 id="h-karta" class="vizualno-skriveno">Karta</h1>
+      <div class="karta-raspored">
+        <div class="kartica karta-kartica">
+          <div class="kartica-glava">
+            <h2 id="karta-naslov">Udio isteklih koncesija bez nastavka</h2>
+            <p class="opis" id="karta-opis"></p>
+          </div>
+          <div id="graf-karta" class="graf graf-karta" role="img"></div>
+        </div>
+        <aside class="kartica poredak">
+          <div class="kartica-glava">
+            <h2>Poredak općina</h2>
+            <p class="opis" id="poredak-opis"></p>
+          </div>
+          <ol id="poredak" class="poredak-lista"></ol>
+        </aside>
+      </div>
+    </section>
+
+    <!-- SAT -->
+    <section class="ekran" id="ekran-sat" aria-labelledby="h-sat" hidden>
+      <div class="kartica">
+        <div class="kartica-glava">
+          <h1 id="h-sat">Što ističe i kada</h1>
+          <p class="opis">Broj ugovora koji ističu po mjesecima, po sektoru. Klik na stupac filtrira tablicu na taj mjesec.</p>
+        </div>
+        <div id="graf-sat" class="graf" role="img"></div>
+      </div>
+      <div class="kartica">
+        <div class="kartica-glava red-razmak">
+          <h2 id="tablica-sat-naslov">Ugovori koji ističu</h2>
+          <button type="button" class="gumb" id="sat-ponisti" hidden>Prikaži sve mjesece</button>
+        </div>
+        <div class="tablica-omotac"><table class="tablica" id="tablica-sat"></table></div>
+        <p class="opis" id="tablica-sat-napomena"></p>
+      </div>
+    </section>
+
+    <!-- OPĆINA -->
+    <section class="ekran" id="ekran-opcina" aria-labelledby="h-opcina" hidden>
+      <div class="red-razmak opcina-zaglavlje">
+        <h1 id="h-opcina">Profil općine</h1>
+        <label>Općina / grad
+          <select id="f-opcina"></select>
+        </label>
+      </div>
+      <div class="kpi-red" id="opcina-kpi"></div>
+      <p class="sazetak" id="opcina-sazetak"></p>
+      <div class="dva-stupca">
+        <div class="kartica">
+          <div class="kartica-glava"><h2>Ugovori kroz vrijeme</h2>
+            <p class="opis">Broj ugovora koji počinju i ističu po godini.</p></div>
+          <div id="graf-opcina-vrijeme" class="graf" role="img"></div>
+        </div>
+        <div class="kartica">
+          <div class="kartica-glava"><h2>Što je bilo nakon isteka</h2>
+            <p class="opis">Ugovori istekli prije više od 12 mjeseci (bez zdravstva), po sektoru.</p></div>
+          <div id="graf-opcina-nastavak" class="graf" role="img"></div>
+        </div>
+      </div>
+      <div class="kartica">
+        <div class="kartica-glava"><h2>Svi ugovori</h2></div>
+        <div class="tablica-omotac"><table class="tablica" id="tablica-opcina"></table></div>
+        <p class="opis" id="tablica-opcina-napomena"></p>
+      </div>
+    </section>
+
+    <!-- METODOLOGIJA -->
+    <section class="ekran tekst" id="ekran-metodologija" aria-labelledby="h-met" hidden>
+      <h1 id="h-met">Metodologija</h1>
+      <h2>Izvor</h2>
+      <p>Registar koncesija Ministarstva financija, javni pregled na <a href="https://servisi.fina.hr/regkonc/" rel="noopener">servisi.fina.hr/regkonc</a>.
+        Granice općina i gradova: <a href="https://www.geoboundaries.org/" rel="noopener">geoBoundaries</a> (HRV ADM2, CC BY 4.0).</p>
+      <h2>Obrada</h2>
+      <ol>
+        <li>Iz registra uzimamo davatelja, lokaciju, koncesionara, vrstu i datume početka i isteka; duplikati se uklanjaju. Ugovori s nemogućim datumom isteka (npr. godina 0039) su izostavljeni.</li>
+        <li><strong>Općina</strong> se određuje iz polja LOKACIJA, a ako se ne može prepoznati, iz naziva davatelja. Nazivi se normaliziraju (bez „Grad“/„Općina“, dijakritika i dvojezičnih nastavaka), a sitne razlike u pisanju hvataju se usporedbom sličnosti (≥ 88 %). Otočne općine Krka i Lošinja smještene su na poligon otoka jer ga geoBoundaries ne dijeli. Na općinu je smješteno <span id="m-smjesteno"></span> ugovora.</li>
+        <li><strong>Status</strong> se računa u odnosu na današnji datum u pregledniku: aktivna, ističe u 6/12/24 mjeseca ili istekla.</li>
+        <li><strong>Nastavak nakon isteka</strong> promatramo samo za ugovore istekle prije više od 12 mjeseci, da je novi ugovor imao vremena biti sklopljen:
+          <ul>
+            <li><em>obnovljena</em> – isti davatelj, vrsta i lokacija; isti koncesionar sklopio je novi ugovor koji počinje od mjesec dana prije do 12 mjeseci nakon isteka;</li>
+            <li><em>zamjena</em> – u istom razdoblju postoji novi ugovor iste vrste na istoj lokaciji, ali s drugim koncesionarom;</li>
+            <li><em>bez nastavka</em> – ni jedno ni drugo.</li>
+          </ul>
+        </li>
+        <li>Zdravstvene koncesije isključene su iz pokazatelja nastavka: ukinute su zakonom (s 4.293 u 2018. na 1 u 2024.), pa njihov istek nije propust.</li>
+        <li>Sektori su grupe stotinjak različitih naziva vrsta koncesija, prema ključnim riječima u nazivu.</li>
+      </ol>
+      <h2>Ograničenja</h2>
+      <ul>
+        <li>Registar nema točnu lokaciju unutar općine (npr. koja plaža), pa „bez nastavka“ znači da u općini nije sklopljen novi ugovor iste vrste, ne nužno da je konkretni prostor ostao prazan. Može biti i obrnuto: nastavak drugdje u općini prikriva prazan prostor.</li>
+        <li>Neki davatelji upisuju ugovore kasno ili ne upisuju sve anekse; produljenje aneksom bez novog ugovora izgleda kao „bez nastavka“.</li>
+        <li>Koncesije koje daje država ili županija pripisane su općini u kojoj se nalaze, ne davatelju.</li>
+        <li>Iznosi naknada nisu prikazani jer su u izvoru nekonzistentno upisani (fiksne i varijabilne naknade, različite osnovice).</li>
+      </ul>
+      <p class="opis" id="m-generirano"></p>
+    </section>
+  </main>
+
+  <footer class="podnozje omotac">
+    <p>Podaci: Registar koncesija (FINA / Ministarstvo financija), geoBoundaries. Hackathon, tema <em>Gospodarstvo i učinkovito upravljanje</em>.</p>
+  </footer>
+
+  <div id="tooltip-zivo" class="vizualno-skriveno" aria-live="polite"></div>
+
+  <script src="vendor/echarts.min.js"></script>
+  <script src="data/granice.js"></script>
+  <script src="data/podaci.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

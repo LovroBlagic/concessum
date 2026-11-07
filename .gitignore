@@ -1,0 +1,11 @@
+# duplikati izlaza obrade
+koncesije_1.json
+koncesije_2.json
+opcine_1.geojson
+opcine_2.geojson
+# privremeni kadrovi rendera
+video/frames_*/
+video/provjera_*/
+node_modules/
+.vercel
+.DS_Store

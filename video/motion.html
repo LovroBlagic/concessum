@@ -1,0 +1,532 @@
+<!doctype html>
+<html lang="hr">
+<head>
+<meta charset="utf-8">
+<title>Koncesijski sat – motion</title>
+<style>
+  :root {
+    --bg: #0c0e11; --tekst: #f1efe9; --tekst-2: #9aa0aa; --rub: #2a2e35;
+    --teal: #4fc1c6; --narancasta: #f0844e; --crvena: #f06a55; --zuta: #f0b545;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html, body { width: 1920px; height: 1080px; overflow: hidden; background: var(--bg); }
+  body { color: var(--tekst); font-family: "SF Pro Display", system-ui, -apple-system, "Segoe UI", sans-serif; font-variant-numeric: tabular-nums; -webkit-font-smoothing: antialiased; }
+  .mono { font-family: "SF Mono", Menlo, ui-monospace, monospace; }
+  #stage { position: absolute; inset: 0; overflow: hidden; }
+  #bg { position: absolute; inset: -10%; background:
+      radial-gradient(1200px 700px at 30% 30%, rgba(79,193,198,.10), transparent 60%),
+      radial-gradient(1000px 700px at 80% 80%, rgba(240,132,78,.08), transparent 60%), var(--bg); }
+  .scena { position: absolute; inset: 0; will-change: transform, opacity, filter; }
+  .abs { position: absolute; }
+  .centar { left: 50%; top: 50%; transform: translate(-50%, -50%); }
+
+  /* S1 */
+  #sat-svg { position: absolute; left: 50%; top: 50%; width: 420px; height: 420px; margin: -210px 0 0 -210px; overflow: visible; }
+  #naslov { position: absolute; left: 50%; top: 50%; white-space: nowrap; font-weight: 800; font-size: 150px; letter-spacing: -4px; line-height: 1; }
+  #naslov .slovo { display: inline-block; }
+  #naslov .sat { color: var(--teal); }
+  #podnaslov { position: absolute; left: 50%; top: 50%; font-size: 34px; color: var(--tekst-2); white-space: nowrap; letter-spacing: 1px; }
+
+  /* S2 */
+  #rok { position: absolute; left: 50%; top: 40%; font-size: 120px; font-weight: 800; letter-spacing: -3px; white-space: nowrap; }
+  #rok em { font-style: normal; color: var(--narancasta); }
+  #vremenska { position: absolute; left: 0; top: 66%; height: 120px; width: 100%; }
+  #vremenska-traka { position: absolute; top: 0; left: 0; height: 100%; }
+  .god { position: absolute; top: 0; width: 2px; height: 46px; background: var(--rub); }
+  .god span { position: absolute; top: 58px; left: 50%; transform: translateX(-50%); font-size: 26px; color: var(--tekst-2); }
+  .mjc { position: absolute; top: 0; width: 1px; height: 18px; background: #22262c; }
+  #danas { position: absolute; left: 50%; top: 66%; width: 4px; height: 120px; margin-left: -2px; background: var(--crvena); box-shadow: 0 0 30px var(--crvena); }
+  #danas span { position: absolute; bottom: 132px; left: 50%; transform: translateX(-50%); white-space: nowrap; color: var(--crvena); font-weight: 700; font-size: 28px; letter-spacing: 3px; }
+
+  /* S3 */
+  .stat { position: absolute; left: 50%; top: 50%; text-align: center; white-space: nowrap; }
+  .stat .broj { font-size: 300px; font-weight: 800; letter-spacing: -10px; line-height: .9; }
+  .stat .op { font-size: 46px; color: var(--tekst-2); margin-top: 18px; }
+  .stat .op b { color: var(--tekst); }
+  #prsten { position: absolute; left: 50%; top: 50%; width: 760px; height: 760px; margin: -380px 0 0 -380px; }
+
+  /* S4 */
+  #karta-svg { position: absolute; left: 0; top: 0; width: 1920px; height: 1080px; }
+  #karta-naslov { position: absolute; left: 120px; top: 110px; font-size: 64px; font-weight: 800; letter-spacing: -1px; line-height: 1.05; }
+  #karta-naslov small { display: block; font-size: 30px; font-weight: 500; color: var(--tekst-2); letter-spacing: 0; margin-top: 10px; }
+  #legenda { position: absolute; left: 120px; bottom: 120px; width: 360px; }
+  #legenda .traka { height: 14px; border-radius: 7px; background: linear-gradient(90deg, #f3e9c6, #e9a96b, #d2541b, #7f1d1d); }
+  #legenda .oz { display: flex; justify-content: space-between; color: var(--tekst-2); font-size: 22px; margin-top: 8px; }
+  #oblacic { position: absolute; padding: 22px 28px; background: rgba(20,22,26,.92); border: 1px solid var(--rub); border-left: 5px solid var(--crvena); border-radius: 10px; white-space: nowrap; box-shadow: 0 20px 60px rgba(0,0,0,.5); }
+  #oblacic .n { font-size: 30px; font-weight: 700; }
+  #oblacic .b { font-size: 84px; font-weight: 800; color: var(--crvena); line-height: 1; margin: 6px 0; letter-spacing: -2px; }
+  #oblacic .o { font-size: 24px; color: var(--tekst-2); }
+
+  /* S5 */
+  #pozornica { position: absolute; inset: 0; perspective: 2200px; }
+  .ekran { position: absolute; left: 50%; top: 50%; width: 1440px; height: 900px; margin: -450px 0 0 -720px; border-radius: 18px; overflow: hidden; box-shadow: 0 40px 120px rgba(0,0,0,.7), 0 0 0 1px rgba(255,255,255,.08); background: #14161a; }
+  .ekran img { width: 100%; height: 100%; display: block; }
+  #ekran-oznake { position: absolute; left: 0; right: 0; bottom: 70px; text-align: center; font-size: 34px; font-weight: 600; letter-spacing: 1px; }
+  #ekran-oznake span { margin: 0 26px; color: #4a4f58; }
+  #ekran-oznake span.akt { color: var(--tekst); }
+
+  /* S6 MCP */
+  #mcp-glava { position: absolute; left: 120px; top: 110px; }
+  #uskoro { display: inline-block; padding: 8px 18px; border-radius: 999px; border: 2px solid var(--zuta); color: var(--zuta); font-weight: 700; letter-spacing: 4px; font-size: 22px; }
+  #mcp-naslov { font-size: 76px; font-weight: 800; letter-spacing: -2px; margin-top: 22px; line-height: 1.02; }
+  #mcp-naslov span { color: var(--teal); }
+  #mcp-opis { font-size: 30px; color: var(--tekst-2); margin-top: 18px; width: 640px; line-height: 1.35; }
+  #alati { position: absolute; left: 120px; top: 560px; width: 660px; }
+  .alat { display: flex; align-items: center; gap: 18px; padding: 16px 22px; margin-bottom: 14px; border-radius: 12px; background: #15181d; border: 1px solid var(--rub); font-size: 25px; }
+  .alat .ikona { width: 14px; height: 14px; border-radius: 50%; background: var(--teal); box-shadow: 0 0 14px var(--teal); flex: none; }
+  .alat .ime { color: var(--tekst); }
+  .alat .arg { color: var(--tekst-2); }
+  #razg { position: absolute; left: 880px; top: 110px; width: 920px; height: 860px; border-radius: 22px; background: #121418; border: 1px solid var(--rub); box-shadow: 0 40px 120px rgba(0,0,0,.6); overflow: hidden; }
+  #razg-glava { height: 70px; border-bottom: 1px solid var(--rub); display: flex; align-items: center; padding: 0 28px; gap: 12px; color: var(--tekst-2); font-size: 22px; }
+  #razg-glava i { width: 12px; height: 12px; border-radius: 50%; background: #2f333a; display: inline-block; }
+  #razg-glava b { margin-left: auto; color: var(--teal); font-weight: 600; font-size: 20px; letter-spacing: 1px; }
+  #razg-tijelo { padding: 34px; }
+  .poruka-k { margin-left: auto; max-width: 640px; padding: 20px 26px; border-radius: 20px 20px 6px 20px; background: #263039; font-size: 29px; line-height: 1.35; }
+  .kursor { display: inline-block; width: 3px; height: 1.05em; background: var(--tekst); vertical-align: -0.15em; margin-left: 2px; }
+  .asistent { margin-top: 34px; font-size: 22px; color: var(--narancasta); font-weight: 700; display: flex; align-items: center; gap: 10px; letter-spacing: .5px; }
+  .asistent .zv { width: 26px; height: 26px; }
+  .alat-poziv { margin-top: 18px; padding: 18px 22px; border-radius: 12px; background: #0e1013; border: 1px solid var(--rub); font-size: 20px; display: flex; align-items: center; gap: 14px; white-space: nowrap; }
+  .alat-poziv .stat-ik { width: 28px; height: 28px; flex: none; }
+  .alat-poziv .rez { margin-left: auto; color: var(--teal); }
+  .odgovor { margin-top: 26px; font-size: 32px; line-height: 1.45; }
+  .odgovor b { color: var(--crvena); }
+  .odgovor strong { color: var(--tekst); }
+  #koncept { position: absolute; right: 120px; bottom: 40px; font-size: 20px; color: #6b717b; letter-spacing: 1px; }
+
+  /* S7 */
+  #outro-naslov { position: absolute; left: 50%; top: 52%; font-size: 120px; font-weight: 800; letter-spacing: -3px; white-space: nowrap; }
+  #outro-naslov span { color: var(--teal); }
+  #outro-pod { position: absolute; left: 50%; top: 64%; font-size: 34px; color: var(--tekst-2); white-space: nowrap; letter-spacing: 1px; }
+  #outro-izvor { position: absolute; left: 50%; bottom: 80px; font-size: 22px; color: #6b717b; white-space: nowrap; }
+  #outro-sat { position: absolute; left: 50%; top: 32%; width: 160px; height: 160px; margin: -80px 0 0 -80px; overflow: visible; }
+
+  /* FX */
+  #bljesak { position: absolute; inset: 0; background: #fff; mix-blend-mode: overlay; opacity: 0; pointer-events: none; }
+  #zrno { position: absolute; inset: 0; width: 1920px; height: 1080px; opacity: .07; mix-blend-mode: overlay; image-rendering: pixelated; pointer-events: none; }
+  #vinjeta { position: absolute; inset: 0; background: radial-gradient(ellipse at center, transparent 55%, rgba(0,0,0,.55) 100%); pointer-events: none; }
+  #crno { position: absolute; inset: 0; background: #000; opacity: 0; pointer-events: none; }
+  #traka-napretka { position: absolute; left: 0; bottom: 0; height: 4px; background: var(--teal); opacity: .8; }
+</style>
+</head>
+<body>
+<div id="stage">
+  <div id="bg"></div>
+
+  <!-- S1: sat + naslov -->
+  <div class="scena" id="s1">
+    <svg id="sat-svg" viewBox="-210 -210 420 420">
+      <circle id="sat-krug" r="190" fill="none" stroke="#4fc1c6" stroke-width="14" stroke-linecap="round" transform="rotate(-90)"/>
+      <g id="sat-crtice"></g>
+      <line id="sat-mala" x1="0" y1="0" x2="0" y2="-95" stroke="#f1efe9" stroke-width="14" stroke-linecap="round"/>
+      <line id="sat-velika" x1="0" y1="0" x2="0" y2="-145" stroke="#4fc1c6" stroke-width="10" stroke-linecap="round"/>
+      <circle r="14" fill="#f1efe9"/>
+    </svg>
+    <div id="naslov"></div>
+    <div id="podnaslov"></div>
+  </div>
+
+  <!-- S2: svaka ima rok -->
+  <div class="scena" id="s2">
+    <div id="rok">Svaka koncesija ima <em>rok.</em></div>
+    <div id="vremenska"><div id="vremenska-traka"></div></div>
+    <div id="danas"><span>DANAS · 7. 11. 2026.</span></div>
+  </div>
+
+  <!-- S3: brojke -->
+  <div class="scena" id="s3">
+    <svg id="prsten" viewBox="-380 -380 760 760">
+      <circle r="350" fill="none" stroke="#1f2329" stroke-width="22"/>
+      <circle id="prsten-luk" r="350" fill="none" stroke="#f06a55" stroke-width="22" stroke-linecap="round" transform="rotate(-90)"/>
+    </svg>
+    <div class="stat" id="st1"><div class="broj" style="color:var(--zuta)">816</div><div class="op">koncesija ističe u <b>idućih 12 mjeseci</b></div></div>
+    <div class="stat" id="st2"><div class="broj" style="color:var(--crvena)">522</div><div class="op">od toga već u <b>idućih 6 mjeseci</b></div></div>
+    <div class="stat" id="st3"><div class="broj">54 %</div><div class="op">isteklih koncesija <b>ostane bez nastavka</b></div></div>
+  </div>
+
+  <!-- S4: karta -->
+  <div class="scena" id="s4">
+    <svg id="karta-svg" viewBox="0 0 1920 1080"><g id="kamera"><g id="opcine"></g><g id="puls"></g></g></svg>
+    <div id="karta-naslov">Gdje koncesije<br>ostaju bez nastavka<small>udio isteklih ugovora bez novog, po općinama</small></div>
+    <div id="legenda"><div class="traka"></div><div class="oz"><span>0 %</span><span>100 %</span></div></div>
+    <div id="oblacic"><div class="n">Grad Dubrovnik</div><div class="b">215</div><div class="o">koncesija ističe u idućih 12 mjeseci</div></div>
+  </div>
+
+  <!-- S5: aplikacija -->
+  <div class="scena" id="s5">
+    <div id="pozornica">
+      <div class="ekran" id="e1"><img src="assets/karta.png" alt=""></div>
+      <div class="ekran" id="e2"><img src="assets/sat.png" alt=""></div>
+      <div class="ekran" id="e3"><img src="assets/opcina.png" alt=""></div>
+    </div>
+    <div id="ekran-oznake"><span id="o1">Karta</span><span id="o2">Što ističe</span><span id="o3">Profil općine</span></div>
+  </div>
+
+  <!-- S6: MCP -->
+  <div class="scena" id="s6">
+    <div id="mcp-glava">
+      <div id="uskoro">USKORO</div>
+      <div id="mcp-naslov">Koncesijski sat<br><span>MCP server</span></div>
+      <div id="mcp-opis">Registar koncesija kao alat koji AI asistent može pitati – na hrvatskom, u razgovoru.</div>
+    </div>
+    <div id="alati">
+      <div class="alat mono" id="a1"><span class="ikona"></span><span class="ime">istjece_uskoro</span><span class="arg">(opcina, do)</span></div>
+      <div class="alat mono" id="a2"><span class="ikona"></span><span class="ime">profil_opcine</span><span class="arg">(opcina)</span></div>
+      <div class="alat mono" id="a3"><span class="ikona"></span><span class="ime">bez_nastavka</span><span class="arg">(sektor)</span></div>
+      <div class="alat mono" id="a4"><span class="ikona"></span><span class="ime">trazi_koncesionara</span><span class="arg">(naziv)</span></div>
+    </div>
+    <div id="razg">
+      <div id="razg-glava"><i></i><i></i><i></i>&nbsp; Razgovor<b class="mono">⚡ koncesijski-sat</b></div>
+      <div id="razg-tijelo">
+        <div class="poruka-k" id="pitanje"></div>
+        <div class="asistent" id="asis">
+          <svg class="zv" viewBox="-12 -12 24 24"><g id="zvijezda" fill="#f0844e"></g></svg>Claude
+        </div>
+        <div class="alat-poziv mono" id="poziv">
+          <svg class="stat-ik" viewBox="-14 -14 28 28"><circle id="spin" r="10" fill="none" stroke="#4fc1c6" stroke-width="3" stroke-linecap="round" stroke-dasharray="40 100"/><path id="kvaka" d="M-6 0 L-2 5 L7 -5" fill="none" stroke="#4fc1c6" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+          <span>istjece_uskoro(opcina: <span style="color:#f0b545">"Dubrovnik"</span>, do: <span style="color:#f0b545">"2026-12-31"</span>)</span>
+          <span class="rez" id="rez">203 ugovora</span>
+        </div>
+        <div class="odgovor" id="odgovor"></div>
+      </div>
+    </div>
+    <div id="koncept">ILUSTRACIJA KONCEPTA · MCP SERVER JE U IZRADI</div>
+  </div>
+
+  <!-- S7: outro -->
+  <div class="scena" id="s7">
+    <svg id="outro-sat" viewBox="-210 -210 420 420">
+      <circle id="o-krug" r="190" fill="none" stroke="#4fc1c6" stroke-width="22" stroke-linecap="round" transform="rotate(-90)"/>
+      <line id="o-mala" x1="0" y1="0" x2="0" y2="-95" stroke="#f1efe9" stroke-width="22" stroke-linecap="round"/>
+      <line id="o-velika" x1="0" y1="0" x2="0" y2="-140" stroke="#4fc1c6" stroke-width="16" stroke-linecap="round"/>
+    </svg>
+    <div id="outro-naslov">Koncesijski <span>sat</span></div>
+    <div id="outro-pod">karta · rokovi · profil općine · <span style="color:#f0b545">MCP uskoro</span></div>
+    <div id="outro-izvor">Podaci: Registar koncesija (FINA / Ministarstvo financija) · geoBoundaries</div>
+  </div>
+
+  <div id="bljesak"></div>
+  <canvas id="zrno" width="480" height="270"></canvas>
+  <div id="vinjeta"></div>
+  <div id="crno"></div>
+  <div id="traka-napretka"></div>
+</div>
+
+<script src="../app/data/granice.js"></script>
+<script src="../app/data/podaci.js"></script>
+<script>
+"use strict";
+const TRAJANJE = 30;
+const $ = (s) => document.querySelector(s);
+
+// ---------- easing (AE-style) ----------
+const cl = (x, a = 0, b = 1) => Math.max(a, Math.min(b, x));
+const pr = (t, a, b) => cl((t - a) / (b - a));
+const lerp = (a, b, x) => a + (b - a) * x;
+const eOutExpo = (x) => x >= 1 ? 1 : 1 - Math.pow(2, -10 * x);
+const eInExpo = (x) => x <= 0 ? 0 : Math.pow(2, 10 * x - 10);
+const eInOut = (x) => x < .5 ? 4 * x * x * x : 1 - Math.pow(-2 * x + 2, 3) / 2;
+const eOutBack = (x) => { const c1 = 1.70158, c3 = c1 + 1; return 1 + c3 * Math.pow(x - 1, 3) + c1 * Math.pow(x - 1, 2); };
+const eOutCubic = (x) => 1 - Math.pow(1 - x, 3);
+// "in-out" vidljivost scene sa zamućenjem kao motion blur
+function scena(el, t, a, b, { inD = .35, outD = .35, inS = 1.08, outS = .94, blur = 18 } = {}) {
+  const i = eOutExpo(pr(t, a, a + inD)), o = eInExpo(pr(t, b - outD, b));
+  const vid = t >= a && t < b;
+  el.style.display = vid ? "block" : "none";
+  if (!vid) return;
+  const s = lerp(inS, 1, i) * lerp(1, outS, o);
+  el.style.opacity = Math.min(i, 1 - o);
+  el.style.transform = `scale(${s})`;
+  el.style.filter = `blur(${(1 - i) * blur + o * blur}px)`;
+}
+
+// ---------- S1 ----------
+const krug = $("#sat-krug"), OPS = 2 * Math.PI * 190;
+krug.style.strokeDasharray = OPS;
+const crtice = $("#sat-crtice");
+for (let k = 0; k < 12; k++) {
+  const a = k / 12 * 2 * Math.PI;
+  crtice.insertAdjacentHTML("beforeend", `<line x1="${Math.sin(a) * 150}" y1="${-Math.cos(a) * 150}" x2="${Math.sin(a) * 168}" y2="${-Math.cos(a) * 168}" stroke="#f1efe9" stroke-width="${k % 3 ? 4 : 8}" stroke-linecap="round" data-k="${k}"/>`);
+}
+const naslov = $("#naslov");
+"Koncesijski sat".split("").forEach((c, i) => naslov.insertAdjacentHTML("beforeend",
+  `<span class="slovo${i >= 12 ? " sat" : ""}">${c === " " ? "&nbsp;" : c}</span>`));
+const slova = [...naslov.children];
+const fmt = new Intl.NumberFormat("hr-HR");
+
+function s1(t) {
+  scena($("#s1"), t, 0, 3.3, { inD: .01, outD: .3, outS: 1.25 });
+  if (t >= 3.3) return;
+  krug.style.strokeDashoffset = OPS * (1 - eInOut(pr(t, .05, 1.1)));
+  crtice.querySelectorAll("line").forEach((l) => {
+    const p = eOutBack(pr(t, .5 + l.dataset.k * .04, .8 + l.dataset.k * .04));
+    l.style.opacity = cl(p * 2); l.style.transform = `scale(${p})`;
+  });
+  const sweep = eOutExpo(pr(t, .3, 2.2));
+  $("#sat-velika").setAttribute("transform", `rotate(${sweep * 720 + 40})`);
+  $("#sat-mala").setAttribute("transform", `rotate(${sweep * 60 + 300})`);
+  // sat se smanjuje i odlazi lijevo, naslov ulazi
+  const m = eInOut(pr(t, 1.3, 2.1));
+  const sat = $("#sat-svg");
+  sat.style.transform = `translate(${lerp(0, -560, m)}px, ${lerp(0, -30, m)}px) scale(${lerp(1, .52, m)})`;
+  naslov.style.transform = `translate(calc(-50% + ${lerp(60, 110, m)}px), -75%)`;
+  slova.forEach((s, i) => {
+    const p = eOutExpo(pr(t, 1.55 + i * .035, 2.15 + i * .035));
+    s.style.opacity = p; s.style.transform = `translateY(${(1 - p) * 90}px) rotate(${(1 - p) * 8}deg)`;
+    s.style.filter = `blur(${(1 - p) * 12}px)`;
+  });
+  const pp = eOutCubic(pr(t, 2.1, 2.9));
+  const pod = $("#podnaslov");
+  pod.style.opacity = pp;
+  pod.style.transform = `translate(calc(-50% + 110px), ${lerp(110, 80, pp)}px)`;
+  pod.textContent = `Registar koncesija · ${fmt.format(Math.round(24667 * eOutExpo(pr(t, 2.1, 3.1))))} ugovora`;
+}
+
+// ---------- S2 ----------
+const PX_GOD = 260, G0 = 1998, G1 = 2034;
+const vt = $("#vremenska-traka");
+for (let y = G0; y <= G1; y++) {
+  vt.insertAdjacentHTML("beforeend", `<div class="god" style="left:${(y - G0) * PX_GOD}px"><span>${y}</span></div>`);
+  for (let mj = 1; mj < 12; mj++) vt.insertAdjacentHTML("beforeend", `<div class="mjc" style="left:${(y - G0 + mj / 12) * PX_GOD}px"></div>`);
+}
+const danasX = (2026 + 310 / 365 - G0) * PX_GOD;
+function s2(t) {
+  scena($("#s2"), t, 3.3, 7.1, { inS: .8, outS: 1.15 });
+  if (t < 3.3 || t >= 7.1) return;
+  const p = eOutExpo(pr(t, 3.3, 5.6));
+  vt.style.transform = `translateX(${960 - lerp(danasX - 3200, danasX, p)}px)`;
+  vt.style.filter = `blur(${(1 - pr(t, 3.3, 5)) * 6}px)`;
+  const r = eOutExpo(pr(t, 3.45, 4.2));
+  const rok = $("#rok");
+  rok.style.transform = `translate(-50%, -50%) translateY(${(1 - r) * 60}px)`;
+  rok.style.opacity = r;
+  rok.style.letterSpacing = `${lerp(20, -3, r)}px`;
+  const d = eOutBack(pr(t, 5.2, 5.7));
+  const danas = $("#danas");
+  danas.style.transform = `scaleY(${d})`; danas.style.transformOrigin = "bottom";
+  danas.style.opacity = cl(d);
+  // lagani "camera push"
+  $("#s2").style.transform += ` scale(${lerp(1, 1.06, pr(t, 3.3, 7.1))})`;
+}
+
+// ---------- S3 ----------
+const luk = $("#prsten-luk"), LOPS = 2 * Math.PI * 350;
+luk.style.strokeDasharray = LOPS;
+const SLAM = [["#st1", 7.1, 8.8, 816], ["#st2", 8.8, 10.5, 522], ["#st3", 10.5, 12.6, 54]];
+function s3(t) {
+  scena($("#s3"), t, 7.1, 12.6, { inD: .01, outD: .3, outS: .7 });
+  if (t < 7.1 || t >= 12.6) return;
+  SLAM.forEach(([id, a, b, n], i) => {
+    const el = $(id);
+    const vid = t >= a && t < b;
+    el.style.display = vid ? "block" : "none";
+    if (!vid) return;
+    const p = eOutExpo(pr(t, a, a + .45));
+    const o = eInExpo(pr(t, b - .25, b));
+    const s = lerp(1.6, 1, p) * lerp(1, .85, o);
+    el.style.opacity = Math.min(p, 1 - o);
+    el.style.filter = `blur(${(1 - p) * 30 + o * 20}px)`;
+    el.style.transform = `translate(-50%, -50%) scale(${s}) translateX(${o * -200}px)`;
+    const c = Math.round(n * eOutExpo(pr(t, a, a + 1)));
+    el.querySelector(".broj").textContent = i === 2 ? `${c} %` : fmt.format(c);
+    const op = el.querySelector(".op"), q = eOutCubic(pr(t, a + .3, a + .8));
+    op.style.opacity = q; op.style.transform = `translateY(${(1 - q) * 30}px)`;
+  });
+  // prsten na 54 %
+  const pk = eInOut(pr(t, 10.6, 11.8));
+  luk.style.strokeDashoffset = LOPS * (1 - .54 * pk);
+  const prst = $("#prsten");
+  prst.style.opacity = cl(pr(t, 10.5, 10.8)) * (1 - pr(t, 12.3, 12.6));
+  prst.style.transform = `rotate(${lerp(-30, 0, eOutExpo(pr(t, 10.5, 11.5)))}deg) scale(${lerp(.8, 1, eOutExpo(pr(t, 10.5, 11.2)))})`;
+  $("#bljesak").style.opacity = Math.max(...SLAM.map(([, a]) => cl(1 - (t - a) / .18) * (t >= a ? .5 : 0)));
+}
+
+// ---------- S4: karta ----------
+const P = window.PODACI, G = window.GRANICE;
+const DANAS = new Date("2026-11-07T00:00:00");
+const agg = {};
+P.ugovori.forEach((r) => {
+  if (r[3] < 0) return;
+  const k = P.opcine[r[3]]; const a = agg[k] || (agg[k] = { zr: 0, bez: 0 });
+  if (r[6]) { a.zr++; if (r[6] === 3) a.bez++; }
+});
+const BOJE = [[243, 233, 198], [233, 169, 107], [210, 84, 27], [127, 29, 29]];
+const boja = (v) => { const x = v * 3, i = Math.min(2, Math.floor(x)), f = x - i; const c = BOJE[i].map((q, j) => Math.round(lerp(q, BOJE[i + 1][j], f))); return `rgb(${c})`; };
+// projekcija
+const LON0 = 13.3, LON1 = 19.5, LAT0 = 42.3, LAT1 = 46.6, KX = Math.cos(44.5 * Math.PI / 180);
+const SC = Math.min(1100 / ((LON1 - LON0) * KX), 900 / (LAT1 - LAT0));
+const OX = 760, OY = 90;
+const proj = ([lon, lat]) => [OX + (lon - LON0) * KX * SC, OY + (LAT1 - lat) * SC];
+let dubC = null;
+const opcEl = $("#opcine"), paths = [];
+G.features.forEach((f) => {
+  let d = "", sx = 0, sy = 0, n = 0;
+  f.geometry.coordinates.forEach((poly) => poly.forEach((ring) => {
+    ring.forEach((pt, i) => { const [x, y] = proj(pt); d += (i ? "L" : "M") + x.toFixed(1) + " " + y.toFixed(1); sx += x; sy += y; n++; });
+    d += "Z";
+  }));
+  const a = agg[f.properties.name];
+  const v = a && a.zr >= 5 ? a.bez / a.zr : null;
+  const el = document.createElementNS("http://www.w3.org/2000/svg", "path");
+  el.setAttribute("d", d);
+  el.setAttribute("fill", v == null ? "#2a2e35" : boja(v));
+  el.setAttribute("stroke", "#0c0e11"); el.setAttribute("stroke-width", ".6");
+  opcEl.appendChild(el);
+  const cx = sx / n, cy = sy / n;
+  paths.push({ el, cx, cy, kasn: (cx - 760) / 1100 * .55 + (cy - 90) / 900 * .25 });
+  if (f.properties.naziv === "Grad Dubrovnik") dubC = [cx, cy];
+});
+const puls = $("#puls");
+for (let k = 0; k < 3; k++) puls.insertAdjacentHTML("beforeend", `<circle cx="${dubC[0]}" cy="${dubC[1]}" r="10" fill="none" stroke="#f06a55" stroke-width="3"/>`);
+puls.insertAdjacentHTML("beforeend", `<circle cx="${dubC[0]}" cy="${dubC[1]}" r="7" fill="#f06a55"/>`);
+function s4(t) {
+  scena($("#s4"), t, 12.6, 17.3, { inS: 1.15, outS: 1.4 });
+  if (t < 12.6 || t >= 17.3) return;
+  paths.forEach((p) => {
+    const q = eOutCubic(pr(t, 12.7 + p.kasn, 13.2 + p.kasn));
+    p.el.style.opacity = q;
+    p.el.style.transform = `translateY(${(1 - q) * 14}px)`;
+  });
+  const n = eOutCubic(pr(t, 12.8, 13.4));
+  $("#karta-naslov").style.opacity = n * (1 - pr(t, 14.8, 15.1));
+  $("#karta-naslov").style.transform = `translateX(${(1 - n) * -60}px)`;
+  $("#legenda").style.opacity = cl(pr(t, 13.3, 13.7)) * (1 - pr(t, 14.8, 15.1));
+  // kamera prema Dubrovniku
+  const z = eInOut(pr(t, 14.7, 16.0));
+  const s = lerp(1, 2.6, z), fx = lerp(960, dubC[0], z), fy = lerp(540, dubC[1], z);
+  const tx = 960 - fx * s + lerp(0, -260, z), ty = 540 - fy * s + lerp(0, 40, z);
+  $("#kamera").setAttribute("transform", `translate(${tx} ${ty}) scale(${s})`);
+  puls.style.opacity = cl(pr(t, 15.6, 15.8));
+  puls.querySelectorAll("circle").forEach((c, k) => {
+    if (k === 3) return;
+    const f = ((t - 15.6 - k * .35) / 1.05 % 1 + 1) % 1;
+    c.setAttribute("r", 8 + f * 40 / s * 2.6); c.style.opacity = t < 15.6 + k * .35 ? 0 : 1 - f;
+  });
+  const ob = $("#oblacic"), b = eOutBack(pr(t, 15.75, 16.25));
+  ob.style.left = (dubC[0] * s + tx + 90) + "px"; ob.style.top = (dubC[1] * s + ty - 230) + "px";
+  ob.style.opacity = cl(b); ob.style.transform = `scale(${b}) `; ob.style.transformOrigin = "left bottom";
+  ob.querySelector(".b").textContent = Math.round(215 * eOutExpo(pr(t, 15.8, 16.6)));
+}
+
+// ---------- S5: aplikacija ----------
+const EKRANI = [["#e1", "#o1", 17.3], ["#e2", "#o2", 18.4], ["#e3", "#o3", 19.5]];
+function s5(t) {
+  scena($("#s5"), t, 17.3, 20.8, { inS: .9, outS: 1.1 });
+  if (t < 17.3 || t >= 20.8) return;
+  EKRANI.forEach(([id, oz, a], i) => {
+    const el = $(id);
+    const u = eOutExpo(pr(t, a, a + .7));                     // ulaz
+    const nx = i < 2 ? eInOut(pr(t, EKRANI[i + 1][2], EKRANI[i + 1][2] + .7)) : 0;  // odlazak u pozadinu
+    const x = lerp(1500, 0, u) + nx * -420;
+    const ry = lerp(-38, -14, u) + nx * -14;
+    const z = nx * -500;
+    el.style.transform = `translate3d(${x}px, ${lerp(60, 0, u)}px, ${z}px) rotateY(${ry}deg) rotateX(4deg) scale(.82)`;
+    el.style.opacity = t < a ? 0 : cl(u * 2) * lerp(1, .45, nx);
+    el.style.filter = `blur(${nx * 4}px) brightness(${lerp(1, .6, nx)})`;
+    el.style.zIndex = i;
+    const akt = t >= a && (i === 2 || t < EKRANI[i + 1][2]);
+    $(oz).className = akt ? "akt" : "";
+  });
+}
+
+// ---------- S6: MCP ----------
+const PITANJE = "Koje koncesije u Dubrovniku ističu do kraja godine?";
+const ODGOVOR = [
+  ["Do kraja 2026. ističe ", ""], ["203 koncesije", "strong"], [". Čak ", ""], ["201 ističe istog dana – 31. 12. 2026.", "b"],
+  [" Riječ je o 149 koncesija za luku i 51 na pomorskom dobru. Ako novi postupci nisu pokrenuti, sezona 2027. počinje bez ugovora.", ""],
+];
+const ODG_LEN = ODGOVOR.reduce((s, [x]) => s + x.length, 0);
+const zv = $("#zvijezda");
+for (let k = 0; k < 8; k++) zv.insertAdjacentHTML("beforeend", `<rect x="-1.6" y="-11" width="3.2" height="9" rx="1.6" transform="rotate(${k * 45})"/>`);
+function s6(t) {
+  scena($("#s6"), t, 20.8, 28.2, { inS: 1.05, outS: .9 });
+  if (t < 20.8 || t >= 28.2) return;
+  const g = eOutExpo(pr(t, 20.9, 21.5));
+  const glava = $("#mcp-glava");
+  glava.style.opacity = g; glava.style.transform = `translateX(${(1 - g) * -80}px)`;
+  const us = $("#uskoro"); const bl = Math.sin(t * 6) * .5 + .5;
+  us.style.boxShadow = `0 0 ${10 + bl * 18}px rgba(240,181,69,${.25 + bl * .35})`;
+  ["#a1", "#a2", "#a3", "#a4"].forEach((id, i) => {
+    const q = eOutExpo(pr(t, 21.4 + i * .12, 21.9 + i * .12));
+    const el = $(id); el.style.opacity = q; el.style.transform = `translateY(${(1 - q) * 30}px)`;
+    const akt = i === 0 && t > 23.6 && t < 24.9;
+    el.style.borderColor = akt ? "#4fc1c6" : ""; el.style.background = akt ? "#13272a" : "";
+  });
+  const rz = eOutExpo(pr(t, 21.1, 21.8));
+  const razg = $("#razg");
+  razg.style.opacity = rz; razg.style.transform = `translateY(${(1 - rz) * 80}px) perspective(1600px) rotateY(${(1 - rz) * -10}deg)`;
+  // tipkanje pitanja
+  const nP = Math.round(PITANJE.length * pr(t, 21.9, 23.3));
+  const pit = $("#pitanje");
+  pit.style.visibility = t >= 21.85 ? "visible" : "hidden";
+  pit.innerHTML = PITANJE.slice(0, nP) + (t < 23.5 && Math.floor(t * 3) % 2 === 0 ? '<span class="kursor"></span>' : "");
+  // asistent
+  const as = $("#asis"); const aq = eOutCubic(pr(t, 23.4, 23.7));
+  as.style.opacity = aq; zv.setAttribute("transform", `rotate(${t * 90})`);
+  // poziv alata
+  const pz = $("#poziv"), pq = eOutExpo(pr(t, 23.6, 24));
+  pz.style.opacity = pq; pz.style.transform = `translateY(${(1 - pq) * 20}px)`;
+  const gotov = t >= 24.7;
+  $("#spin").style.display = gotov ? "none" : "block";
+  $("#spin").setAttribute("transform", `rotate(${t * 720})`);
+  const kv = $("#kvaka"); kv.style.display = gotov ? "block" : "none";
+  kv.style.strokeDasharray = 30; kv.style.strokeDashoffset = 30 * (1 - eOutCubic(pr(t, 24.7, 25)));
+  $("#rez").style.opacity = cl(pr(t, 24.75, 25));
+  // odgovor se "streama"
+  let ost = Math.round(ODG_LEN * pr(t, 25, 27.4)), html = "";
+  for (const [txt, tag] of ODGOVOR) {
+    if (ost <= 0) break;
+    const dio = txt.slice(0, ost); ost -= dio.length;
+    html += tag ? `<${tag}>${dio}</${tag}>` : dio;
+  }
+  $("#odgovor").innerHTML = html + (t > 24.95 && t < 27.6 ? '<span class="kursor" style="background:#f0844e"></span>' : "");
+  $("#koncept").style.opacity = cl(pr(t, 22, 22.5)) * .9;
+  // lagani drift kamere
+  $("#s6").style.transform += ` translateX(${lerp(10, -10, pr(t, 20.8, 28.2))}px)`;
+}
+
+// ---------- S7: outro ----------
+const oK = $("#o-krug"); oK.style.strokeDasharray = OPS;
+function s7(t) {
+  scena($("#s7"), t, 28.2, 30.01, { inS: 1.2, outD: .01 });
+  if (t < 28.2) return;
+  oK.style.strokeDashoffset = OPS * (1 - eInOut(pr(t, 28.2, 29)));
+  const sw = eOutExpo(pr(t, 28.3, 29.4));
+  $("#o-velika").setAttribute("transform", `rotate(${sw * 360 + 60})`);
+  $("#o-mala").setAttribute("transform", `rotate(${sw * 30 + 290})`);
+  const n = eOutExpo(pr(t, 28.4, 29)), p = eOutExpo(pr(t, 28.7, 29.3)), iz = cl(pr(t, 28.9, 29.3));
+  const on = $("#outro-naslov"); on.style.opacity = n; on.style.transform = `translate(-50%, -50%) translateY(${(1 - n) * 50}px)`; on.style.letterSpacing = `${lerp(14, -3, n)}px`;
+  const op = $("#outro-pod"); op.style.opacity = p; op.style.transform = `translate(-50%, -50%) translateY(${(1 - p) * 30}px)`;
+  const oi = $("#outro-izvor"); oi.style.opacity = iz; oi.style.transform = "translateX(-50%)";
+}
+
+// ---------- FX ----------
+const zrno = $("#zrno").getContext("2d"), zImg = zrno.createImageData(480, 270);
+function rng(seed) { return () => { seed = (seed * 1664525 + 1013904223) >>> 0; return seed / 4294967296; }; }
+function fx(t, frame) {
+  const r = rng(frame + 1);
+  for (let i = 0; i < zImg.data.length; i += 4) { const v = r() * 255; zImg.data[i] = zImg.data[i + 1] = zImg.data[i + 2] = v; zImg.data[i + 3] = 255; }
+  zrno.putImageData(zImg, 0, 0);
+  // pozadina polako pluta
+  $("#bg").style.transform = `translate(${Math.sin(t * .3) * 40}px, ${Math.cos(t * .25) * 30}px)`;
+  // flash na rezovima
+  const rezovi = [3.3, 12.6, 17.3, 20.8, 28.2];
+  const fl = Math.max(...rezovi.map((c) => t >= c ? cl(1 - (t - c) / .2) * .35 : 0));
+  const b = $("#bljesak"); b.style.opacity = Math.max(parseFloat(b.style.opacity) || 0, fl);
+  $("#crno").style.opacity = Math.max(1 - pr(t, 0, .25), pr(t, 29.55, 30));
+  $("#traka-napretka").style.width = (t / TRAJANJE * 100) + "%";
+}
+
+window.renderFrame = function (frame, fps = 30) {
+  const t = frame / fps;
+  $("#bljesak").style.opacity = 0;
+  s1(t); s2(t); s3(t); s4(t); s5(t); s6(t); s7(t); fx(t, frame);
+};
+window.TRAJANJE = TRAJANJE;
+// pregled u pregledniku: ?t=12.5 ili reprodukcija u stvarnom vremenu
+const q = new URLSearchParams(location.search);
+if (q.has("t")) renderFrame(Math.round(parseFloat(q.get("t")) * 30));
+else if (!q.has("render")) { const t0 = performance.now(); (function petlja() { renderFrame(Math.floor((performance.now() - t0) / 1000 * 30) % (TRAJANJE * 30)); requestAnimationFrame(petlja); })(); }
+else renderFrame(0);
+</script>
+</body>
+</html>
