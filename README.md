@@ -131,6 +131,8 @@ node video/render.cjs --html showcase/showcase.html --izlaz koncesijski_sat_show
 | Alat | Namjena | Licenca |
 |---|---|---|
 | [Apache ECharts](https://echarts.apache.org) 5.5 | Karta i grafovi | Apache-2.0 |
+| [Fraunces](https://github.com/undercasetype/Fraunces), [IBM Plex Sans i Mono](https://github.com/IBM/plex) | Pisma, lokalno u `app/fonts/` | SIL OFL 1.1 |
+| [Lucide](https://lucide.dev) | Ikone (preuzimanje, kalendar, ispis, pretraga), ugrađene kao SVG | ISC |
 | [pandas](https://pandas.pydata.org) | Obrada podataka | BSD-3-Clause |
 | [RapidFuzz](https://github.com/rapidfuzz/RapidFuzz) | Prepoznavanje naziva općina s tipfelerima | MIT |
 | [Playwright](https://playwright.dev), [FFmpeg](https://ffmpeg.org) | Snimke ekrana i render videa | Apache-2.0, LGPL/GPL |

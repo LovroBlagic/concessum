@@ -5,38 +5,48 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Koncesijski sat</title>
   <meta name="description" content="Koje koncesije u Hrvatskoj uskoro ističu, i gdje istekle koncesije ostaju bez nastavka – pregled po općinama iz Registra koncesija (FINA).">
+  <link rel="preload" href="fonts/IBMPlexSans-400-normal-latin.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="fonts/Fraunces-400-normal-latin.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="stylesheet" href="theme.css">
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
   <a class="preskoci" href="#sadrzaj">Preskoči na sadržaj</a>
 
-  <header class="zaglavlje">
-    <div class="omotac zaglavlje-red">
-      <a class="logo" href="#karta"><span class="logo-sat" aria-hidden="true"></span>Koncesijski <span>sat</span></a>
-      <form id="brza-forma" class="brza" role="search">
-        <label class="vizualno-skriveno" for="brza-opcina">Pronađi općinu ili grad</label>
-        <input id="brza-opcina" type="search" list="popis-opcina" placeholder="Pronađi općinu ili grad…" autocomplete="off">
-        <datalist id="popis-opcina"></datalist>
-      </form>
-      <nav aria-label="Glavna navigacija">
-        <ul class="nav">
-          <li><a href="#karta" data-ruta="karta">Karta</a></li>
-          <li><a href="#sat" data-ruta="sat">Što ističe</a></li>
-          <li><a href="#opcina" data-ruta="opcina">Profil općine</a></li>
-          <li><a href="#metodologija" data-ruta="metodologija">Metodologija</a></li>
-        </ul>
-      </nav>
-    </div>
+  <div class="ljuska">
+  <header class="bocna">
+    <a class="logo" href="#karta">Koncesijski sat</a>
+    <p class="logo-pod">Registar koncesija · Republika Hrvatska</p>
+    <form id="brza-forma" class="brza" role="search">
+      <label class="oznaka-polja" for="brza-opcina">Općina ili grad</label>
+      <span class="polje-ikona"><svg class="ikona" viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m21 21-4.3-4.3"/></svg><input id="brza-opcina" type="search" list="popis-opcina" placeholder="npr. Dubrovnik" autocomplete="off"></span>
+      <datalist id="popis-opcina"></datalist>
+    </form>
+    <nav aria-label="Glavna navigacija">
+      <ul class="nav">
+        <li><a href="#karta" data-ruta="karta"><span class="rb">01</span>Karta</a></li>
+        <li><a href="#sat" data-ruta="sat"><span class="rb">02</span>Što ističe</a></li>
+        <li><a href="#opcina" data-ruta="opcina"><span class="rb">03</span>Profil općine</a></li>
+        <li><a href="#metodologija" data-ruta="metodologija"><span class="rb">04</span>Metodologija</a></li>
+      </ul>
+    </nav>
+    <p class="meta bocna-meta" id="bocna-meta"></p>
   </header>
 
-  <main id="sadrzaj" class="omotac" tabindex="-1">
+  <main id="sadrzaj" tabindex="-1">
+    <div class="masthead" id="masthead">
+      <p class="sekcija-broj" id="mast-broj">01</p>
+      <h1 id="mast-naslov">Koncesije po općinama</h1>
+      <p class="meta" id="mast-meta"></p>
+    </div>
     <aside class="upute" id="upute" hidden aria-label="Kako koristiti">
+      <p class="oznaka-polja">Kako koristiti</p>
       <ol>
-        <li><b>Upišite svoju općinu</b> u tražilicu gore ili kliknite na kartu – dobit ćete profil s rokovima, naknadama i sažetkom.</li>
+        <li><b>Upišite svoju općinu</b> u tražilicu lijevo ili kliknite na kartu – dobit ćete profil s rokovima, naknadama i sažetkom.</li>
         <li><b>Što ističe</b> pokazuje sve ugovore kojima rok istječe po mjesecima; klik na stupac suzi popis na taj mjesec.</li>
         <li>Popis <b>preuzmite u Excel (CSV)</b> ili <b>dodajte rokove u kalendar</b> s podsjetnikom 6 mjeseci prije isteka.</li>
       </ol>
-      <button type="button" class="gumb gumb-tih" id="upute-zatvori" aria-label="Zatvori upute">Razumijem</button>
+      <button type="button" class="gumb gumb-tekst" id="upute-zatvori" aria-label="Zatvori upute">Razumijem</button>
     </aside>
 
     <section class="kpi-red" id="kpi" aria-label="Ključne brojke"></section>
@@ -68,13 +78,13 @@
     </div>
 
     <!-- KARTA -->
-    <section class="ekran" id="ekran-karta" aria-labelledby="h-karta">
-      <h1 id="h-karta" class="vizualno-skriveno">Karta</h1>
+    <section class="ekran" id="ekran-karta" aria-labelledby="mast-naslov">
       <div class="karta-raspored">
         <div class="kartica karta-kartica">
           <div class="kartica-glava">
             <h2 id="karta-naslov">Udio isteklih koncesija bez nastavka</h2>
             <p class="opis" id="karta-opis"></p>
+            <p class="meta">geoBoundaries ADM2 · 556 općina i gradova · povucite i zumirajte, klik otvara profil</p>
           </div>
           <div id="graf-karta" class="graf graf-karta" role="img"></div>
         </div>
@@ -89,11 +99,11 @@
     </section>
 
     <!-- SAT -->
-    <section class="ekran" id="ekran-sat" aria-labelledby="h-sat" hidden>
+    <section class="ekran" id="ekran-sat" aria-labelledby="mast-naslov" hidden>
       <div class="kartica">
         <div class="kartica-glava">
-          <h1 id="h-sat">Što ističe i kada</h1>
-          <p class="opis">Broj ugovora koji ističu po mjesecima, po sektoru. Klik na stupac filtrira tablicu na taj mjesec.</p>
+          <h2 id="h-sat">Po mjesecu isteka</h2>
+          <p class="opis">Broj ugovora koji ističu po mjesecima; istaknut je sektor s najviše ugovora. Klik na stupac filtrira tablicu na taj mjesec.</p>
         </div>
         <div id="graf-sat" class="graf" role="img"></div>
       </div>
@@ -101,9 +111,9 @@
         <div class="kartica-glava red-razmak">
           <h2 id="tablica-sat-naslov">Ugovori koji ističu</h2>
           <div class="gumbi">
-            <button type="button" class="gumb" id="sat-ponisti" hidden>Prikaži sve mjesece</button>
-            <button type="button" class="gumb" id="sat-csv" title="Svi ugovori s popisa, za Excel">Preuzmi CSV</button>
-            <button type="button" class="gumb" id="sat-ics" title="Rok svakog ugovora kao događaj, s podsjetnikom 6 mjeseci i mjesec dana prije">Dodaj u kalendar</button>
+            <button type="button" class="gumb gumb-tekst" id="sat-ponisti" hidden>Prikaži sve mjesece</button>
+            <button type="button" class="gumb" id="sat-csv" title="Svi ugovori s popisa, za Excel"><svg class="ikona" viewBox="0 0 24 24" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><path d="m7 10 5 5 5-5"/><path d="M12 15V3"/></svg>Preuzmi CSV</button>
+            <button type="button" class="gumb gumb-glavni" id="sat-ics" title="Rok svakog ugovora kao događaj, s podsjetnikom 6 mjeseci i mjesec dana prije"><svg class="ikona" viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="4" width="18" height="18" rx="2"/><path d="M16 2v4M8 2v4M3 10h18"/></svg>Dodaj u kalendar</button>
           </div>
         </div>
         <div class="tablica-omotac"><table class="tablica" id="tablica-sat"></table></div>
@@ -114,12 +124,16 @@
     <!-- OPĆINA -->
     <section class="ekran" id="ekran-opcina" aria-labelledby="h-opcina" hidden>
       <div class="red-razmak opcina-zaglavlje">
-        <h1 id="h-opcina">Profil općine</h1>
+        <div>
+          <p class="sekcija-broj">03 · Profil općine</p>
+          <h1 id="h-opcina">Profil općine</h1>
+          <p class="meta" id="opcina-meta"></p>
+        </div>
         <div class="gumbi">
           <label>Općina / grad
             <select id="f-opcina"></select>
           </label>
-          <button type="button" class="gumb" id="opcina-ispis" title="Ispis ili spremanje profila kao PDF">Ispiši izvještaj</button>
+          <button type="button" class="gumb" id="opcina-ispis" title="Ispis ili spremanje profila kao PDF"><svg class="ikona" viewBox="0 0 24 24" aria-hidden="true"><path d="M6 9V2h12v7"/><path d="M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2"/><rect x="6" y="14" width="12" height="8"/></svg>Ispiši izvještaj</button>
         </div>
       </div>
       <div class="kpi-red" id="opcina-kpi"></div>
@@ -139,8 +153,8 @@
       <div class="kartica">
         <div class="kartica-glava red-razmak"><h2>Svi ugovori</h2>
           <div class="gumbi">
-            <button type="button" class="gumb" id="opcina-csv" title="Svi ugovori općine, za Excel">Preuzmi CSV</button>
-            <button type="button" class="gumb" id="opcina-ics" title="Rokovi aktivnih ugovora kao događaji, s podsjetnikom 6 mjeseci i mjesec dana prije">Dodaj rokove u kalendar</button>
+            <button type="button" class="gumb" id="opcina-csv" title="Svi ugovori općine, za Excel"><svg class="ikona" viewBox="0 0 24 24" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><path d="m7 10 5 5 5-5"/><path d="M12 15V3"/></svg>Preuzmi CSV</button>
+            <button type="button" class="gumb gumb-glavni" id="opcina-ics" title="Rokovi aktivnih ugovora kao događaji, s podsjetnikom 6 mjeseci i mjesec dana prije"><svg class="ikona" viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="4" width="18" height="18" rx="2"/><path d="M16 2v4M8 2v4M3 10h18"/></svg>Dodaj rokove u kalendar</button>
           </div>
         </div>
         <div class="tablica-omotac"><table class="tablica" id="tablica-opcina"></table></div>
@@ -150,7 +164,8 @@
 
     <!-- METODOLOGIJA -->
     <section class="ekran tekst" id="ekran-metodologija" aria-labelledby="h-met" hidden>
-      <h1 id="h-met">Metodologija</h1>
+      <p class="sekcija-broj">04 · Metodologija</p>
+      <h1 id="h-met">Kako su podaci obrađeni</h1>
       <h2>Izvor</h2>
       <p>Registar koncesija Ministarstva financija, javni pregled na <a href="https://servisi.fina.hr/regkonc/" rel="noopener">servisi.fina.hr/regkonc</a>.
         Granice općina i gradova: <a href="https://www.geoboundaries.org/" rel="noopener">geoBoundaries</a> (HRV ADM2, CC BY 4.0).</p>
@@ -182,13 +197,14 @@
       </ul>
       <p class="opis" id="m-generirano"></p>
     </section>
-  </main>
 
-  <footer class="podnozje omotac">
+  <footer class="podnozje">
     <p>Podaci: Registar koncesija (FINA / Ministarstvo financija) s <a href="https://data.gov.hr/" rel="noopener">data.gov.hr</a>, geoBoundaries. ·
       <a href="data/koncesije.csv" download>Preuzmi podatke (CSV)</a> · <a href="https://github.com/LovroBlagic/koncesijski-sat" rel="noopener">Izvorni kod</a> ·
       Datathon Portala otvorenih podataka, izazov <em>Gospodarstvo i učinkovito upravljanje</em>.</p>
   </footer>
+  </main>
+  </div>
 
   <div id="tooltip-zivo" class="vizualno-skriveno" aria-live="polite"></div>
 

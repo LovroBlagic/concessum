@@ -46,10 +46,15 @@
 
   // ---------- boje ----------
   const css = (v) => getComputedStyle(document.documentElement).getPropertyValue(v).trim();
-  const SEKTOR_BOJE = {
-    luke: "#2a6fdb", pomorsko: "#16a3b0", zdravstvo: "#c94f7c", komunalno: "#e08a1e", rudarstvo: "#7a5c3e",
-    vode: "#5aa9e6", mediji: "#8e6bd1", poljoprivreda: "#4f9a3a", turizam: "#d4b106", promet: "#6b7280", ostalo: "#a3a3a3",
+  // miješanje dvije hex boje (za ljestvice karte iz tokena teme)
+  const mix = (a, b, t) => {
+    const h = (c) => [1, 3, 5].map((i) => parseInt(c.slice(i, i + 2), 16));
+    const [x, y] = [h(a), h(b)];
+    return "#" + x.map((v, i) => Math.round(v + (y[i] - v) * t).toString(16).padStart(2, "0")).join("");
   };
+  const rampa = (kraj) => [css("--g-6"), mix(css("--g-6"), kraj, 0.45), kraj, mix(kraj, css("--ink"), 0.4)];
+  // sektori: sivi tonovi; bojom samo sektor koji je u fokusu (odabran ili najveći)
+  const SIVI = ["--g-3", "--g-4", "--g-5", "--g-2", "--g-6"];
 
   // ---------- stanje ----------
   const S = { sektor: "", pokazatelj: "udio", razdoblje: 12, trazi: "", mjesec: null, opcina: null, sort: { opc: ["do", -1] } };
@@ -99,34 +104,42 @@
   const grafovi = {};
   const graf = (id) => grafovi[id] || (grafovi[id] = echarts.init(document.getElementById(id), null, { renderer: "canvas" }));
   window.addEventListener("resize", () => Object.values(grafovi).forEach((g) => g.resize()));
+  const MONO = '"IBM Plex Mono", ui-monospace, Menlo, monospace', SANS = '"IBM Plex Sans", "Helvetica Neue", Arial, sans-serif';
   const osnova = () => ({
-    textStyle: { color: css("--tekst"), fontFamily: "system-ui, -apple-system, Segoe UI, Roboto, sans-serif" },
-    tooltip: { backgroundColor: css("--povrsina"), borderColor: css("--rub"), textStyle: { color: css("--tekst") } },
+    textStyle: { color: css("--ink"), fontFamily: SANS, fontSize: 13 },
+    tooltip: { backgroundColor: css("--surface"), borderColor: css("--line"), borderWidth: 1, padding: [8, 12],
+      extraCssText: `border-radius:2px;box-shadow:${css("--sjena-izbornik")};`, textStyle: { color: css("--ink"), fontFamily: SANS, fontSize: 13 } },
   });
-  const os = () => ({ axisLine: { lineStyle: { color: css("--rub") } }, axisLabel: { color: css("--tekst-2") }, splitLine: { lineStyle: { color: css("--rub") } } });
+  // legenda samo za stupčaste grafove (na karti bi ECharts iscrtao oznake serije po općinama)
+  const legenda = () => ({ textStyle: { color: css("--ink-muted"), fontFamily: SANS, fontSize: 11 }, itemWidth: 10, itemHeight: 10, icon: "rect", itemGap: 14 });
+  // y-os: tanke vodoravne crte; x-os: bez mreže. Oznake osi u mono 11 px.
+  const os = (mreza = true) => ({ axisLine: { show: !mreza, lineStyle: { color: css("--line") } }, axisTick: { show: false },
+    axisLabel: { color: css("--ink-muted"), fontFamily: MONO, fontSize: 11 },
+    splitLine: { show: mreza, lineStyle: { color: css("--line"), width: 1 } } });
 
   // ---------- KPI ----------
   function kpi(el, stavke) {
-    el.innerHTML = stavke.map(([v, op, kl, obj]) => `<div class="kpi ${kl || ""}"${obj ? ` title="${esc(obj)}"` : ""}><div class="kpi-vr">${v}</div><div class="kpi-op">${op}</div>${obj ? `<div class="kpi-obj">${esc(obj)}</div>` : ""}</div>`).join("");
+    el.innerHTML = stavke.map(([v, op, kl, obj, raz]) => `<div class="kpi ${kl || ""}"${obj ? ` title="${esc(obj)}"` : ""}><div class="kpi-op">${op}</div><div class="kpi-vr">${v}</div>` +
+      (raz ? `<div class="kpi-razlika ${raz[1]}">${raz[0]}</div>` : "") + (obj ? `<div class="kpi-obj">${esc(obj)}</div>` : "") + `</div>`).join("");
   }
   function kpiGlobal() {
     const a = agregat(U.filter(filt));
     kpi($("#kpi"), [
-      [fmt.format(a.akt), "aktivnih ugovora", "", "Ugovori kojima rok još nije istekao."],
-      [fmt.format(a.i6), "ističe u 6 mjeseci", "hitno", "Za ove ugovore novi postupak treba biti u tijeku već sada."],
-      [fmt.format(a.i12), "ističe u 12 mjeseci", "", "Vrijeme za pripremu novog natječaja."],
-      [eur(a.n12), "godišnje naknade ističe u 12 mj.", "novac", "Ugovorena fiksna godišnja naknada ugovora koji ističu; bez novog ugovora taj prihod prestaje."],
-      [pct(a.udio), "isteklih bez nastavka", "naglasak", "Od ugovora isteklih prije više od godinu dana (bez zdravstva), udio koji nije obnovljen niti zamijenjen."],
+      [fmt.format(a.akt), "Aktivni ugovori", "", "Ugovori kojima rok još nije istekao."],
+      [fmt.format(a.i6), "Ističe u 6 mj.", "hitno", "Za ove ugovore novi postupak treba biti u tijeku već sada."],
+      [fmt.format(a.i12), "Ističe u 12 mj.", "", "Vrijeme za pripremu novog natječaja."],
+      [eur(a.n12), "Naknada koja ističe", "novac", "Ugovorena fiksna godišnja naknada ugovora koji ističu u 12 mj.; bez novog ugovora taj prihod prestaje."],
+      [pct(a.udio), "Istekle bez nastavka", "naglasak", "Od ugovora isteklih prije više od godinu dana (bez zdravstva), udio koji nije obnovljen niti zamijenjen."],
     ]);
   }
 
   // ---------- KARTA ----------
   const POK = {
-    udio: { naslov: "Udio isteklih koncesija bez nastavka", opis: `Od ugovora isteklih prije više od 12 mjeseci (bez zdravstva): koliko ih nije obnovljeno niti zamijenjeno novim ugovorom iste vrste. Sivo: manje od ${MIN_ZRELIH} takvih ugovora.`, v: (a) => a.zr >= MIN_ZRELIH ? a.udio : null, f: pct, boje: ["#f3e9c6", "#e9a96b", "#d2541b", "#7f1d1d"] },
-    istjece12: { naslov: "Koncesije koje ističu u idućih 12 mjeseci", opis: "Broj ugovora kojima istječe rok u sljedećih godinu dana: tu bi davatelj već trebao pripremati novi postupak.", v: (a) => a.i12 || null, f: fmt.format, boje: ["#fdf0c4", "#f0b545", "#c8412d", "#6e1a12"] },
-    aktivne: { naslov: "Aktivne koncesije", opis: "Broj ugovora koji danas vrijede.", v: (a) => a.akt || null, f: fmt.format, boje: ["#d8f0ee", "#6cc0c0", "#0b6e74", "#073b3f"] },
-    naknada12: { naslov: "Godišnja naknada koja ističe u 12 mjeseci", opis: "Zbroj ugovorene fiksne godišnje naknade (EUR) za ugovore koji ističu u sljedećih godinu dana: koliko prihoda ovisi o tome hoće li novi ugovor biti sklopljen na vrijeme.", v: (a) => a.n12 || null, f: eur, boje: ["#fdf0c4", "#f0b545", "#c8412d", "#6e1a12"] },
-    bez: { naslov: "Istekle koncesije bez nastavka (broj)", opis: "Broj ugovora isteklih prije više od 12 mjeseci za koje nije pronađen novi ugovor iste vrste u općini (bez zdravstva).", v: (a) => a.bez || null, f: fmt.format, boje: ["#f3e9c6", "#e9a96b", "#d2541b", "#7f1d1d"] },
+    udio: { naslov: "Udio isteklih koncesija bez nastavka", opis: `Od ugovora isteklih prije više od 12 mjeseci (bez zdravstva): koliko ih nije obnovljeno niti zamijenjeno novim ugovorom iste vrste. Sivo: manje od ${MIN_ZRELIH} takvih ugovora.`, v: (a) => a.zr >= MIN_ZRELIH ? a.udio : null, f: pct, boje: () => rampa(css("--accent-2")) },
+    istjece12: { naslov: "Koncesije koje ističu u idućih 12 mjeseci", opis: "Broj ugovora kojima istječe rok u sljedećih godinu dana: tu bi davatelj već trebao pripremati novi postupak.", v: (a) => a.i12 || null, f: fmt.format, boje: () => rampa(css("--accent-2")) },
+    aktivne: { naslov: "Aktivne koncesije", opis: "Broj ugovora koji danas vrijede.", v: (a) => a.akt || null, f: fmt.format, boje: () => rampa(css("--accent")) },
+    naknada12: { naslov: "Godišnja naknada koja ističe u 12 mjeseci", opis: "Zbroj ugovorene fiksne godišnje naknade (EUR) za ugovore koji ističu u sljedećih godinu dana: koliko prihoda ovisi o tome hoće li novi ugovor biti sklopljen na vrijeme.", v: (a) => a.n12 || null, f: eur, boje: () => rampa(css("--accent-2")) },
+    bez: { naslov: "Istekle koncesije bez nastavka (broj)", opis: "Broj ugovora isteklih prije više od 12 mjeseci za koje nije pronađen novi ugovor iste vrste u općini (bez zdravstva).", v: (a) => a.bez || null, f: fmt.format, boje: () => rampa(css("--accent-2")) },
   };
   function karta() {
     const po = poOpcini(), p = POK[S.pokazatelj];
@@ -148,11 +161,11 @@
         return `<b>${n}</b><br>${p.naslov}: <b>${isNaN(d.value) ? "–" : p.f(d.value)}</b><br>` +
           `aktivne ${fmt.format(a.akt)} · ističe u 12 mj. ${fmt.format(a.i12)} (${eur(a.n12)}/god.)<br>istekle bez nastavka ${fmt.format(a.bez)} / ${fmt.format(a.zr)}<br><i>klik za profil općine</i>`;
       } },
-      visualMap: { min: 0, max, calculable: true, left: 8, bottom: 8, inRange: { color: p.boje },
-        textStyle: { color: css("--tekst-2") }, itemHeight: 120, formatter: (v) => p.f(v) },
+      visualMap: { min: 0, max, calculable: true, left: 8, bottom: 8, inRange: { color: p.boje() },
+        textStyle: { color: css("--ink-muted"), fontFamily: MONO, fontSize: 11 }, itemWidth: 10, itemHeight: 120, formatter: (v) => p.f(v) },
       series: [{ type: "map", map: "hr", roam: true, scaleLimit: { min: 1, max: 12 }, nameProperty: "name", data,
-        itemStyle: { areaColor: css("--rub"), borderColor: css("--povrsina"), borderWidth: 0.5 },
-        emphasis: { label: { show: false }, itemStyle: { areaColor: css("--naglasak"), borderColor: css("--tekst") } },
+        itemStyle: { areaColor: css("--line"), borderColor: css("--bg"), borderWidth: 0.5 },
+        emphasis: { label: { show: false }, itemStyle: { areaColor: css("--accent"), borderColor: css("--ink"), borderWidth: 1 } },
         select: { disabled: true }, label: { show: false } }],
     }, true);
     g.off("click"); g.on("click", (e) => { location.hash = "#opcina/" + e.name; });
@@ -184,15 +197,20 @@
       tooltip: { ...osnova().tooltip, trigger: "axis", axisPointer: { type: "shadow" },
         formatter: (ps) => `<b>${ps[0].axisValue}</b><br>` + ps.filter((p) => p.value).map((p) => `${p.marker}${esc(sektorNaziv[p.seriesId])}: <b>${p.value}</b>`).join("<br>") +
           `<br>Ukupno: <b>${ps.reduce((s, p) => s + p.value, 0)}</b>` },
-      legend: { type: "scroll", top: 0, textStyle: { color: css("--tekst-2") } },
-      grid: { left: 40, right: 12, top: 36, bottom: 28 },
-      xAxis: { type: "category", data: labele, ...os(), axisLabel: { color: css("--tekst-2"), hideOverlap: true } },
+      legend: { ...legenda(), type: "scroll", top: 0, left: 0 },
+      grid: { left: 40, right: 12, top: 40, bottom: 28 },
+      xAxis: { type: "category", data: labele, ...os(false), axisLabel: { color: css("--ink-muted"), fontFamily: MONO, fontSize: 11, hideOverlap: true } },
       yAxis: { type: "value", ...os(), minInterval: 1 },
-      series: sektori.filter((s) => mat[s].some((x) => x)).map((s) => ({
-        id: s, name: sektorNaziv[s], type: "bar", stack: "a", data: mat[s], barMaxWidth: 36,
-        itemStyle: { color: SEKTOR_BOJE[s], borderRadius: 0, opacity: (j) => 1 },
-        emphasis: { focus: "series" },
-      })),
+      series: (() => {
+        // sektor s najviše ugovora u bojom naglaska, drugi svjetlijim naglaskom, ostali sivo
+        const red = sektori.filter((s) => mat[s].some((x) => x)).sort((a, b) => mat[b].reduce((x, y) => x + y) - mat[a].reduce((x, y) => x + y));
+        const boja = (s, i) => i === 0 ? css("--accent") : i === 1 ? css("--accent-svijetli") : css(SIVI[(i - 2) % SIVI.length]);
+        return red.map((s, i) => ({
+          id: s, name: sektorNaziv[s], type: "bar", stack: "a", data: mat[s], barMaxWidth: 28,
+          itemStyle: { color: boja(s, i), borderColor: css("--bg"), borderWidth: 0.5 },
+          emphasis: { focus: "series" },
+        }));
+      })(),
     }, true);
     g.off("click"); g.on("click", (e) => { S.mjesec = kljuc(mjeseci[e.dataIndex]); prikazi(); });
     $("#graf-sat").setAttribute("aria-label", `Stupčasti graf: ${lista.length} ugovora ističe u idućih ${N} mjeseci, po mjesecima i sektorima. Isti ugovori su u tablici ispod.`);
@@ -224,15 +242,17 @@
     const id = S.opcina, naziv = nazivOpcine[id];
     opcSel.value = id; spremi("opcina", id);
     $("#h-opcina").textContent = naziv;
+    $("#opcina-meta").textContent = `${fmt.format(U.filter((u) => u.opc === id).length)} ugovora u registru · stanje na ${hrDat(DANAS)} · ID ${id}`;
     document.title = `${naziv} · Koncesijski sat`;
     const sve = U.filter((u) => u.opc === id && filt(u));
     const a = agregat(sve), rh = agregat(U.filter(filt));
     kpi($("#opcina-kpi"), [
-      [fmt.format(a.akt), "aktivnih ugovora", "", "Ugovori kojima rok još nije istekao."],
-      [fmt.format(a.i6), "ističe u 6 mjeseci", "hitno", "Za ove ugovore novi postupak treba biti u tijeku već sada."],
-      [fmt.format(a.i12), "ističe u 12 mjeseci", "", "Vrijeme za pripremu novog natječaja."],
-      [eur(a.n12), "godišnje naknade ističe u 12 mj.", "novac", "Ugovorena fiksna godišnja naknada ugovora koji ističu u idućih 12 mjeseci."],
-      [pct(a.udio), `isteklih bez nastavka (RH ${pct(rh.udio)})`, "naglasak", "Od ugovora isteklih prije više od godinu dana (bez zdravstva), udio koji nije obnovljen niti zamijenjen."],
+      [fmt.format(a.akt), "Aktivni ugovori", "", "Ugovori kojima rok još nije istekao."],
+      [fmt.format(a.i6), "Ističe u 6 mj.", "hitno", "Za ove ugovore novi postupak treba biti u tijeku već sada."],
+      [fmt.format(a.i12), "Ističe u 12 mj.", "", "Vrijeme za pripremu novog natječaja."],
+      [eur(a.n12), "Naknada koja ističe", "novac", "Ugovorena fiksna godišnja naknada ugovora koji ističu u idućih 12 mjeseci."],
+      [pct(a.udio), "Istekle bez nastavka", "naglasak", "Od ugovora isteklih prije više od godinu dana (bez zdravstva), udio koji nije obnovljen niti zamijenjen.",
+        a.udio != null && rh.udio != null ? [`${a.udio >= rh.udio ? "+" : "−"}${Math.abs(Math.round((a.udio - rh.udio) * 100))} pb vs RH ${pct(rh.udio)}`, a.udio > rh.udio ? "losije" : "bolje"] : null],
     ]);
 
     // automatski sažetak iz brojki
@@ -267,14 +287,14 @@
     g1.setOption({
       ...osnova(),
       tooltip: { ...osnova().tooltip, trigger: "axis" },
-      legend: { top: 0, textStyle: { color: css("--tekst-2") } },
-      grid: { left: 36, right: 12, top: 32, bottom: 28 },
-      xAxis: { type: "category", data: god, ...os() },
+      legend: { ...legenda(), top: 0, left: 0 },
+      grid: { left: 36, right: 12, top: 36, bottom: 28 },
+      xAxis: { type: "category", data: god, ...os(false) },
       yAxis: { type: "value", minInterval: 1, ...os() },
       series: [
-        { name: "počinje", type: "bar", data: poc, itemStyle: { color: css("--naglasak") } },
-        { name: "ističe", type: "bar", data: ist, itemStyle: { color: css("--naglasak-2") },
-          markLine: { symbol: "none", silent: true, label: { formatter: "danas", color: css("--tekst-2") }, lineStyle: { color: css("--tekst-2"), type: "dashed" },
+        { name: "počinje", type: "bar", data: poc, itemStyle: { color: css("--g-4") }, barGap: "10%" },
+        { name: "ističe", type: "bar", data: ist, itemStyle: { color: css("--accent") },
+          markLine: { symbol: "none", silent: true, label: { formatter: "danas", color: css("--ink-muted"), fontFamily: MONO, fontSize: 11 }, lineStyle: { color: css("--ink-muted"), type: [3, 3], width: 1 },
             data: [{ xAxis: String(DANAS.getFullYear()) }] } },
       ],
     }, true);
@@ -287,14 +307,14 @@
     g2.setOption({
       ...osnova(),
       tooltip: { ...osnova().tooltip, trigger: "axis", axisPointer: { type: "shadow" } },
-      legend: { top: 0, textStyle: { color: css("--tekst-2") } },
-      grid: { left: 8, right: 16, top: 32, bottom: 8, containLabel: true },
+      legend: { ...legenda(), top: 0, left: 0 },
+      grid: { left: 8, right: 16, top: 36, bottom: 8, containLabel: true },
       xAxis: { type: "value", minInterval: 1, ...os() },
-      yAxis: { type: "category", data: sk.map((s) => sektorNaziv[s]), ...os(), axisLabel: { color: css("--tekst-2"), width: 140, overflow: "truncate" } },
-      series: [[1, "obnovljena", "--s-aktivna"], [2, "zamjena", "--naglasak"], [3, "bez nastavka", "--s-hitno"]].map(([k, n, c]) => ({
+      yAxis: { type: "category", data: sk.map((s) => sektorNaziv[s]), ...os(false), axisLabel: { color: css("--ink-muted"), fontFamily: SANS, fontSize: 11, width: 140, overflow: "truncate" } },
+      series: [[1, "obnovljena", "--g-3"], [2, "zamjena", "--g-5"], [3, "bez nastavka", "--accent-2"]].map(([k, n, c]) => ({
         name: n, type: "bar", stack: "a", data: sk.map((s) => ns[s][k]), itemStyle: { color: css(c) }, barMaxWidth: 28,
       })),
-      graphic: sk.length ? [] : [{ type: "text", left: "center", top: "middle", style: { text: "Nema isteklih ugovora za ocjenu nastavka.", fill: css("--tekst-2"), fontSize: 13 } }],
+      graphic: sk.length ? [] : [{ type: "text", left: "center", top: "middle", style: { text: "Nema isteklih ugovora za ocjenu nastavka.", fill: css("--ink-muted"), fontSize: 13, fontFamily: SANS } }],
     }, true);
     $("#graf-opcina-nastavak").setAttribute("aria-label", "Ishod isteklih ugovora po sektoru: " + sk.map((s) => `${sektorNaziv[s]}: obnovljeno ${ns[s][1]}, zamjena ${ns[s][2]}, bez nastavka ${ns[s][3]}`).join("; "));
 
@@ -393,12 +413,20 @@
     else if (ruta === "opcina") opcina();
     requestAnimationFrame(() => Object.values(grafovi).forEach((g) => g.resize()));
   }
+  const MAST = {
+    karta: ["01 · Karta", "Koncesije po općinama"],
+    sat: ["02 · Što ističe", "Što ističe i kada"],
+  };
+  const metaIzvor = `Stanje na ${hrDat(DANAS)} · ${fmt.format(U.length)} ugovora · Izvor: Registar koncesija (FINA), data.gov.hr · obrađeno ${P.generirano}`;
+  $("#bocna-meta").innerHTML = `Podaci obrađeni ${esc(P.generirano)}<br>${fmt.format(U.length)} ugovora · ${fmt.format(P.koncesionari.length)} koncesionara<br>` +
+    `<a href="data/koncesije.csv" download>koncesije.csv</a> · <a href="https://github.com/LovroBlagic/koncesijski-sat" rel="noopener">izvorni kod</a>`;
   function usmjeri() {
     const [r, arg] = location.hash.replace(/^#/, "").split("/");
     ruta = ["karta", "sat", "opcina", "metodologija"].includes(r) ? r : "karta";
     if (ruta === "opcina") S.opcina = arg || S.opcina;
     if (ruta !== "opcina") document.title = "Koncesijski sat";
     document.body.dataset.ruta = ruta;
+    if (MAST[ruta]) { $("#mast-broj").textContent = MAST[ruta][0]; $("#mast-naslov").textContent = MAST[ruta][1]; $("#mast-meta").textContent = metaIzvor; }
     document.querySelectorAll(".ekran").forEach((e) => { e.hidden = e.id !== "ekran-" + ruta; });
     document.querySelectorAll("[data-ruta]").forEach((a) => a.dataset.ruta === ruta ? a.setAttribute("aria-current", "page") : a.removeAttribute("aria-current"));
     prikazi();
