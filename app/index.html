@@ -13,6 +13,11 @@
   <header class="zaglavlje">
     <div class="omotac zaglavlje-red">
       <a class="logo" href="#karta"><span class="logo-sat" aria-hidden="true"></span>Koncesijski <span>sat</span></a>
+      <form id="brza-forma" class="brza" role="search">
+        <label class="vizualno-skriveno" for="brza-opcina">Pronađi općinu ili grad</label>
+        <input id="brza-opcina" type="search" list="popis-opcina" placeholder="Pronađi općinu ili grad…" autocomplete="off">
+        <datalist id="popis-opcina"></datalist>
+      </form>
       <nav aria-label="Glavna navigacija">
         <ul class="nav">
           <li><a href="#karta" data-ruta="karta">Karta</a></li>
@@ -25,6 +30,15 @@
   </header>
 
   <main id="sadrzaj" class="omotac" tabindex="-1">
+    <aside class="upute" id="upute" hidden aria-label="Kako koristiti">
+      <ol>
+        <li><b>Upišite svoju općinu</b> u tražilicu gore ili kliknite na kartu – dobit ćete profil s rokovima, naknadama i sažetkom.</li>
+        <li><b>Što ističe</b> pokazuje sve ugovore kojima rok istječe po mjesecima; klik na stupac suzi popis na taj mjesec.</li>
+        <li>Popis <b>preuzmite u Excel (CSV)</b> ili <b>dodajte rokove u kalendar</b> s podsjetnikom 6 mjeseci prije isteka.</li>
+      </ol>
+      <button type="button" class="gumb gumb-tih" id="upute-zatvori" aria-label="Zatvori upute">Razumijem</button>
+    </aside>
+
     <section class="kpi-red" id="kpi" aria-label="Ključne brojke"></section>
 
     <div class="filteri" role="group" aria-label="Filteri">
@@ -35,6 +49,7 @@
         <select id="f-pokazatelj">
           <option value="udio">Udio isteklih bez nastavka</option>
           <option value="istjece12">Ističe u idućih 12 mjeseci</option>
+          <option value="naknada12">Naknada koja ističe u 12 mj. (EUR)</option>
           <option value="aktivne">Aktivne koncesije</option>
           <option value="bez">Istekle bez nastavka (broj)</option>
         </select>
@@ -85,7 +100,11 @@
       <div class="kartica">
         <div class="kartica-glava red-razmak">
           <h2 id="tablica-sat-naslov">Ugovori koji ističu</h2>
-          <button type="button" class="gumb" id="sat-ponisti" hidden>Prikaži sve mjesece</button>
+          <div class="gumbi">
+            <button type="button" class="gumb" id="sat-ponisti" hidden>Prikaži sve mjesece</button>
+            <button type="button" class="gumb" id="sat-csv" title="Svi ugovori s popisa, za Excel">Preuzmi CSV</button>
+            <button type="button" class="gumb" id="sat-ics" title="Rok svakog ugovora kao događaj, s podsjetnikom 6 mjeseci i mjesec dana prije">Dodaj u kalendar</button>
+          </div>
         </div>
         <div class="tablica-omotac"><table class="tablica" id="tablica-sat"></table></div>
         <p class="opis" id="tablica-sat-napomena"></p>
@@ -96,9 +115,12 @@
     <section class="ekran" id="ekran-opcina" aria-labelledby="h-opcina" hidden>
       <div class="red-razmak opcina-zaglavlje">
         <h1 id="h-opcina">Profil općine</h1>
-        <label>Općina / grad
-          <select id="f-opcina"></select>
-        </label>
+        <div class="gumbi">
+          <label>Općina / grad
+            <select id="f-opcina"></select>
+          </label>
+          <button type="button" class="gumb" id="opcina-ispis" title="Ispis ili spremanje profila kao PDF">Ispiši izvještaj</button>
+        </div>
       </div>
       <div class="kpi-red" id="opcina-kpi"></div>
       <p class="sazetak" id="opcina-sazetak"></p>
@@ -115,7 +137,12 @@
         </div>
       </div>
       <div class="kartica">
-        <div class="kartica-glava"><h2>Svi ugovori</h2></div>
+        <div class="kartica-glava red-razmak"><h2>Svi ugovori</h2>
+          <div class="gumbi">
+            <button type="button" class="gumb" id="opcina-csv" title="Svi ugovori općine, za Excel">Preuzmi CSV</button>
+            <button type="button" class="gumb" id="opcina-ics" title="Rokovi aktivnih ugovora kao događaji, s podsjetnikom 6 mjeseci i mjesec dana prije">Dodaj rokove u kalendar</button>
+          </div>
+        </div>
         <div class="tablica-omotac"><table class="tablica" id="tablica-opcina"></table></div>
         <p class="opis" id="tablica-opcina-napomena"></p>
       </div>
@@ -127,6 +154,10 @@
       <h2>Izvor</h2>
       <p>Registar koncesija Ministarstva financija, javni pregled na <a href="https://servisi.fina.hr/regkonc/" rel="noopener">servisi.fina.hr/regkonc</a>.
         Granice općina i gradova: <a href="https://www.geoboundaries.org/" rel="noopener">geoBoundaries</a> (HRV ADM2, CC BY 4.0).</p>
+      <h2>Otvoreni podaci</h2>
+      <p>Obrađeni skup (svi ugovori s općinom, sektorom, ishodom nakon isteka i naknadom) slobodno je dostupan kao
+        <a href="data/koncesije.csv" download>koncesije.csv</a> (UTF-8). Izvor je skup „Informacije o ugovorenim koncesijama“ na
+        <a href="https://data.gov.hr/ckan/dataset/informacije-o-ugovorenim-koncesijama" rel="noopener">Portalu otvorenih podataka</a> (Otvorena dozvola).</p>
       <h2>Obrada</h2>
       <ol>
         <li>Iz registra uzimamo davatelja, lokaciju, koncesionara, vrstu i datume početka i isteka; duplikati se uklanjaju. Ugovori s nemogućim datumom isteka (npr. godina 0039) su izostavljeni.</li>
@@ -147,14 +178,16 @@
         <li>Registar nema točnu lokaciju unutar općine (npr. koja plaža), pa „bez nastavka“ znači da u općini nije sklopljen novi ugovor iste vrste, ne nužno da je konkretni prostor ostao prazan. Može biti i obrnuto: nastavak drugdje u općini prikriva prazan prostor.</li>
         <li>Neki davatelji upisuju ugovore kasno ili ne upisuju sve anekse; produljenje aneksom bez novog ugovora izgleda kao „bez nastavka“.</li>
         <li>Koncesije koje daje država ili županija pripisane su općini u kojoj se nalaze, ne davatelju.</li>
-        <li>Iznosi naknada nisu prikazani jer su u izvoru nekonzistentno upisani (fiksne i varijabilne naknade, različite osnovice).</li>
+        <li><strong>Naknada</strong> je ugovoreni iznos jednogodišnje <em>fiksne</em> naknade iz registra (UGOV_IZN_JEDNOGOD_NAK_U_EUR), poznat za većinu ugovora. Varijabilni dio (postotak prihoda i sl.) u registru nema iznos, pa su prikazani iznosi donja granica stvarnog prihoda.</li>
       </ul>
       <p class="opis" id="m-generirano"></p>
     </section>
   </main>
 
   <footer class="podnozje omotac">
-    <p>Podaci: Registar koncesija (FINA / Ministarstvo financija), geoBoundaries. Hackathon, tema <em>Gospodarstvo i učinkovito upravljanje</em>.</p>
+    <p>Podaci: Registar koncesija (FINA / Ministarstvo financija) s <a href="https://data.gov.hr/" rel="noopener">data.gov.hr</a>, geoBoundaries. ·
+      <a href="data/koncesije.csv" download>Preuzmi podatke (CSV)</a> · <a href="https://github.com/LovroBlagic/koncesijski-sat" rel="noopener">Izvorni kod</a> ·
+      Datathon Portala otvorenih podataka, izazov <em>Gospodarstvo i učinkovito upravljanje</em>.</p>
   </footer>
 
   <div id="tooltip-zivo" class="vizualno-skriveno" aria-live="polite"></div>

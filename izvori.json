@@ -1,0 +1,25 @@
+[
+  {
+    "naziv": "Informacije o ugovorenim koncesijama",
+    "izdavatelj": "Financijska agencija",
+    "dozvola": "Otvorena dozvola (OD)",
+    "portal": "https://data.gov.hr/ckan/dataset/informacije-o-ugovorenim-koncesijama",
+    "zadnja_izmjena_na_portalu": "2026-04-15T19:05:23.921325",
+    "lokalno": "koncesije.txt",
+    "resursi": [
+      {
+        "naziv": "Informacije o ugovorenim koncesijama - Pregled javnih podataka",
+        "format": "CSV",
+        "url": "http://servisi.fina.hr/regkonc/index.do"
+      }
+    ],
+    "lokalna_kopija": "2026-11-07T15:06:13+00:00"
+  },
+  {
+    "naziv": "geoBoundaries – Croatia ADM2 (granice općina i gradova)",
+    "izdavatelj": "William & Mary geoLab",
+    "dozvola": "CC BY 4.0",
+    "poveznica": "https://www.geoboundaries.org/countryDownloads.html",
+    "lokalno": "geo.geojson"
+  }
+]

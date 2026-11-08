@@ -1,6 +1,6 @@
 """Koncesijski sat: obrada Registra koncesija (FINA) i spajanje s granicama općina.
 
-Ulaz:  koncesije.txt (CSV iz servisi.fina.hr/regkonc, ';', UTF-8), geo.geojson (geoBoundaries HRV ADM2)
+Ulaz:  koncesije.txt (CSV iz servisi.fina.hr/regkonc, ';', windows-1250 ili UTF-8), geo.geojson (geoBoundaries HRV ADM2)
 Izlaz: koncesije.json, opcine.geojson, sazetak.txt
 """
 import csv, json, re, sys, unicodedata
@@ -27,7 +27,12 @@ ALIAS = {"MALI LOSINJ": "LOSINJ", "BASKA": "KRK", "PUNAT": "KRK", "DOBRINJ": "KR
 
 # 1. Učitavanje: uzimamo prvih 8 stupaca, koji su u svim redcima uredni
 redci = []
-with open(sys.argv[1] if len(sys.argv) > 1 else "koncesije.txt", encoding="utf-8") as f:
+ULAZ = sys.argv[1] if len(sys.argv) > 1 else "koncesije.txt"
+try:                                   # FINA izvoz je windows-1250, podržimo i UTF-8
+    open(ULAZ, encoding="utf-8").read(); KOD = "utf-8"
+except UnicodeDecodeError:
+    KOD = "cp1250"
+with open(ULAZ, encoding=KOD) as f:
     r = csv.reader(f, delimiter=";")
     next(r)
     for p in r:

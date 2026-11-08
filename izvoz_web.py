@@ -1,9 +1,10 @@
 """Koncesijski sat: izvoz za web aplikaciju.
 
-Ulaz:  koncesije.json, opcine.geojson (izlaz obrada.py)
-Izlaz: app/data/podaci.js (ugovori, kompaktno), app/data/granice.js (pojednostavljene granice)
+Ulaz:  koncesije.json, opcine.geojson (izlaz obrada.py), koncesije.txt (izvorni CSV, za iznos naknade)
+Izlaz: app/data/podaci.js (ugovori, kompaktno), app/data/granice.js (pojednostavljene granice),
+       app/data/koncesije.csv (otvoreni izvoz obrađenih podataka, UTF-8)
 """
-import json, os, re
+import csv, json, os, re
 from datetime import date
 
 OUT = os.path.join(os.path.dirname(__file__) or ".", "app", "data")
@@ -38,6 +39,32 @@ def datum(s):
         return None
     return s
 
+# ---------- naknade iz izvornog CSV-a ----------
+# UGOV_IZN_JEDNOGOD_NAK_U_EUR = ugovoreni iznos jednogodišnje FIKSNE naknade (EUR); varijabilni dio
+# (postotak prihoda i sl.) nema iznos u registru, pa je ovo donja granica stvarne naknade.
+def iso(d):
+    m = re.match(r"(\d\d)\.(\d\d)\.(\d{4})", d.strip())
+    return f"{m[3]}-{m[2]}-{m[1]}" if m else None
+def iznos(s):
+    try:
+        return float(s.strip().replace(".", "").replace(",", "."))
+    except ValueError:
+        return None
+def kodiranje(fn):
+    """FINA izvoz je windows-1250; podržimo i UTF-8."""
+    try:
+        open(fn, encoding="utf-8").read(); return "utf-8"
+    except UnicodeDecodeError:
+        return "cp1250"
+NAKNADA = {}
+with open("koncesije.txt", encoding=kodiranje("koncesije.txt")) as f:
+    r = csv.reader(f, delimiter=";"); next(r)
+    for p in r:
+        if len(p) > 10 and p[8] == "Fiksna naknada" and p[10] == "EUR":
+            v = iznos(p[9])
+            if v is not None:
+                NAKNADA.setdefault((p[1], p[4], p[2], iso(p[6]), iso(p[7])), v)
+
 # ---------- ugovori ----------
 uk = json.load(open("koncesije.json", encoding="utf-8"))
 tablice = {"davatelj": [], "koncesionar": [], "vrsta": [], "opcina": []}
@@ -63,6 +90,7 @@ for r in uk:
         od or "", do,
         NAST[r["nastavak"]],
         r["lokacija"],
+        round(NAKNADA[k]) if (k := (r["oib_davatelja"], r["oib_koncesionara"], r["lokacija"], r["od"], r["do"])) in NAKNADA else None,
     ])
 vrste_sektor = [sektor(v) for v in tablice["vrsta"]]
 
@@ -72,13 +100,28 @@ podaci = dict(
     vrste=tablice["vrsta"], vrsteSektor=vrste_sektor,
     davatelji=tablice["davatelj"], koncesionari=tablice["koncesionar"],
     opcine=tablice["opcina"],
-    stupci=["davatelj", "koncesionar", "vrsta", "opcina", "od", "do", "nastavak", "lokacija"],
+    stupci=["davatelj", "koncesionar", "vrsta", "opcina", "od", "do", "nastavak", "lokacija", "naknada"],
     ugovori=redci,
 )
 with open(os.path.join(OUT, "podaci.js"), "w", encoding="utf-8") as f:
     f.write("window.PODACI=")
     json.dump(podaci, f, ensure_ascii=False, separators=(",", ":"))
     f.write(";\n")
+
+# ---------- otvoreni izvoz (CSV) ----------
+naziv_opc = {ft["properties"]["shapeID"]: ft["properties"]["shapeName"]
+             for ft in json.load(open("opcine.geojson", encoding="utf-8"))["features"]}
+NAST_TXT = ["", "obnovljena", "zamjena", "bez_nastavka"]
+sekt_naziv = {k: n for k, n, _ in SEKTORI}
+with open(os.path.join(OUT, "koncesije.csv"), "w", encoding="utf-8-sig", newline="") as f:
+    w = csv.writer(f)
+    w.writerow(["davatelj", "koncesionar", "vrsta", "sektor", "opcina_id", "opcina", "lokacija",
+                "pocetak", "istek", "nastavak_nakon_isteka", "godisnja_fiksna_naknada_eur"])
+    for x in redci:
+        oid = tablice["opcina"][x[3]] if x[3] >= 0 else ""
+        w.writerow([tablice["davatelj"][x[0]], tablice["koncesionar"][x[1]], tablice["vrsta"][x[2]],
+                    sekt_naziv[vrste_sektor[x[2]]], oid, naziv_opc.get(oid, ""), x[7], x[4], x[5],
+                    NAST_TXT[x[6]], "" if x[8] is None else x[8]])
 
 # ---------- granice ----------
 def dp(pts, tol):
@@ -143,5 +186,6 @@ with open(os.path.join(OUT, "granice.js"), "w", encoding="utf-8") as f:
 
 from collections import Counter
 print("ugovora:", len(redci), "| sektori:", Counter(vrste_sektor[r[2]] for r in redci).most_common())
-for fn in ("podaci.js", "granice.js"):
+print("s naknadom:", sum(1 for x in redci if x[8] is not None))
+for fn in ("podaci.js", "granice.js", "koncesije.csv"):
     print(fn, round(os.path.getsize(os.path.join(OUT, fn)) / 1e6, 2), "MB")
