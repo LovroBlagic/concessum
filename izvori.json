@@ -1,10 +1,12 @@
 [
   {
+    "id_skupa": "02d42212-5148-4fb8-9330-0e1c0fc1b88d",
     "naziv": "Informacije o ugovorenim koncesijama",
     "izdavatelj": "Financijska agencija",
     "dozvola": "Otvorena dozvola (OD)",
     "portal": "https://data.gov.hr/ckan/dataset/informacije-o-ugovorenim-koncesijama",
-    "zadnja_izmjena_na_portalu": "2026-04-15T19:05:23.921325",
+    "zadnja_izmjena_na_portalu": "2026-04-15",
+    "uloga": "Glavni skup: ugovorene koncesije, OIB davatelja i koncesionara, rokovi, fiksne i varijabilne naknade.",
     "lokalno": "koncesije.txt",
     "resursi": [
       {
@@ -13,13 +15,130 @@
         "url": "http://servisi.fina.hr/regkonc/index.do"
       }
     ],
-    "lokalna_kopija": "2026-11-07T15:06:13+00:00"
+    "lokalna_kopija": "2026-11-07T17:54:31+00:00"
+  },
+  {
+    "id_skupa": "d3326371-4013-4e9f-a76f-b52cb7393007",
+    "naziv": "Popis brojčanih oznaka javnopravnih tijela u elektroničkom obliku",
+    "izdavatelj": "Ministarstvo pravosuđa, uprave i digitalne transformacije",
+    "dozvola": "Otvorena dozvola (OD)",
+    "portal": "https://data.gov.hr/ckan/dataset/popis-javnopravnih-tijela",
+    "zadnja_izmjena_na_portalu": "2026-07-24T12:24:55.490298",
+    "uloga": "Živi JSON API (jpt.gov.hr): OIB, matična oznaka, vrsta tijela, županija, sjedište i službeni e-mail davatelja.",
+    "lokalno": "jpt.json",
+    "resursi": [
+      {
+        "naziv": "API - Popis aktivnih oznaka javnopravnih tijela na današnji dan",
+        "format": "JSON",
+        "url": "https://jpt.gov.hr/Backend_Prod/api/PopisOznakaNaDanasnjiDan"
+      },
+      {
+        "naziv": "API - Dohvat javnopravnog tijela na temelju oznake",
+        "format": "JSON",
+        "url": "https://jpt.gov.hr/Backend_Prod/api/JavnoPravnoTijelo/{oznaka}"
+      },
+      {
+        "naziv": "API - Dohvat oznake javnopravnog tijela na temelju OIB-a",
+        "format": "JSON",
+        "url": "https://jpt.gov.hr/Backend_Prod/api/Oznaka/{oib}"
+      }
+    ],
+    "preuzeti_resurs": "https://jpt.gov.hr/Backend_Prod/api/PopisOznakaNaDanasnjiDan",
+    "sha256": "f9216bb660f4b0507b92ba5376786529b0a7ca1903718dd1d9a507f20293b340"
+  },
+  {
+    "id_skupa": "1edeff82-7518-4ff7-acc0-30e637e01355",
+    "naziv": "Statistika u nizu: Popis stanovništva, kućanstava i stanova 2021.  - stanovništvo",
+    "izdavatelj": "Državni zavod za statistiku",
+    "dozvola": "Otvorena dozvola (OD)",
+    "portal": "https://data.gov.hr/ckan/dataset/statistika-u-nizu-popis-stanovnistva-kucanstava-i-stanova-2021",
+    "zadnja_izmjena_na_portalu": "2026-07-16T11:55:08.447686",
+    "uloga": "Popis 2021. (DZS): broj stanovnika po gradovima i općinama za izračun koncesijske naknade po stanovniku.",
+    "lokalno": "popis2021.xlsx",
+    "resursi": [
+      {
+        "naziv": "Stanovništvo po naseljima",
+        "format": "XLSX",
+        "url": "https://podaci.dzs.hr/media/rqybclnx/popis_2021-stanovnistvo_po_naseljima.xlsx"
+      },
+      {
+        "naziv": "Stanovništvo po gradovima i općinama",
+        "format": "XLSX",
+        "url": "https://podaci.dzs.hr/media/td3jvrbu/popis_2021-stanovnistvo_po_gradovima_opcinama.xlsx"
+      },
+      {
+        "naziv": "Stanovništvo po županijama",
+        "format": "XLSX",
+        "url": "https://podaci.dzs.hr/media/bahkzev0/popis_2021-stanovnistvo_po_zupanijama.xlsx"
+      },
+      {
+        "naziv": "Stanovništvo - Republika Hrvatska",
+        "format": "XLSX",
+        "url": "https://podaci.dzs.hr/media/3hue4q5v/popis_2021-stanovnistvo_rh.xlsx"
+      }
+    ],
+    "preuzeti_resurs": "https://podaci.dzs.hr/media/td3jvrbu/popis_2021-stanovnistvo_po_gradovima_opcinama.xlsx",
+    "sha256": "c2b1cff240a19b5bfbf6dcb5e919a264284dfa444a326adae5517bf39b6d7d42"
+  },
+  {
+    "id_skupa": "9c50ed95-d082-402a-adb7-8495e4e18157",
+    "naziv": "Adresar",
+    "izdavatelj": "Središnji državni ured za razvoj digitalnog društva (NEAKTIVAN)",
+    "dozvola": "Otvorena dozvola (OD)",
+    "portal": "https://data.gov.hr/ckan/dataset/adresar-tijela-javne-vlasti",
+    "zadnja_izmjena_na_portalu": "2026-04-15T18:54:38.065031",
+    "uloga": "Adresar tijela javne vlasti: službene web-stranice gradova i općina.",
+    "lokalno": "adresar.xml",
+    "resursi": [
+      {
+        "naziv": "Adresar tijela javne vlasti",
+        "format": "XML",
+        "url": "https://data.gov.hr/ckan/dataset/9c50ed95-d082-402a-adb7-8495e4e18157/resource/41e20057-a2e8-40f6-8cde-4d0aea3b2f32/download/adresar-tijela-javne-vlasti.xml"
+      }
+    ],
+    "preuzeti_resurs": "https://data.gov.hr/ckan/dataset/9c50ed95-d082-402a-adb7-8495e4e18157/resource/41e20057-a2e8-40f6-8cde-4d0aea3b2f32/download/adresar-tijela-javne-vlasti.xml",
+    "sha256": "1ad9a157192d525702202b6ed0b616670696d1cfc797bf0b6b8664c7b00b69ed"
+  },
+  {
+    "id_skupa": "3c19c044-4cc4-42f1-ac97-29286a2bf305",
+    "naziv": "Usporedba poreznih stopa prema odlukama jedinica lokalne samouprave u Republici Hrvatskoj",
+    "izdavatelj": "Porezna uprava",
+    "dozvola": "Otvorena dozvola (OD)",
+    "portal": "https://data.gov.hr/ckan/dataset/https-porezna-uprava-gov-hr-hr-odluke-jls-4009",
+    "zadnja_izmjena_na_portalu": "2026-04-15T19:03:34.194601",
+    "uloga": "Porezna uprava: niža i viša stopa poreza na dohodak po gradovima i općinama za 2025. i 2026.",
+    "lokalno": "porez_jls.xlsx",
+    "resursi": [
+      {
+        "naziv": "",
+        "format": "",
+        "url": "https://porezna-uprava.gov.hr/hr/odluke-jls/4009"
+      },
+      {
+        "naziv": "",
+        "format": "XLSX",
+        "url": "https://data.gov.hr/ckan/dataset/3c19c044-4cc4-42f1-ac97-29286a2bf305/resource/3c80d05a-3104-4f26-ad27-9ddb63d39070/download/tablica-poreznih-stopa-godinjeg-poreza-na-dohodak-za-2026-godinu-1.xlsx"
+      },
+      {
+        "naziv": "",
+        "format": "XLSX",
+        "url": "https://data.gov.hr/ckan/dataset/3c19c044-4cc4-42f1-ac97-29286a2bf305/resource/a33cb1d7-969f-498f-9e9d-0d6eddd9cd87/download/stope_poreza_na_dohodak_usporedba-2025-i-2026.xlsx"
+      },
+      {
+        "naziv": "",
+        "format": "XLSX",
+        "url": "https://data.gov.hr/ckan/dataset/3c19c044-4cc4-42f1-ac97-29286a2bf305/resource/7e17aa53-12a3-40c4-92df-3ea253737bbb/download/visina-stopa-poreza-na-potronju-za-2026.-godinu.xlsx"
+      }
+    ],
+    "preuzeti_resurs": "https://data.gov.hr/ckan/dataset/3c19c044-4cc4-42f1-ac97-29286a2bf305/resource/a33cb1d7-969f-498f-9e9d-0d6eddd9cd87/download/stope_poreza_na_dohodak_usporedba-2025-i-2026.xlsx",
+    "sha256": "8d55ce27993d5cca2ca2c449d88859d899d7353437de7c171c9fa38590dd9d2f"
   },
   {
     "naziv": "geoBoundaries – Croatia ADM2 (granice općina i gradova)",
     "izdavatelj": "William & Mary geoLab",
     "dozvola": "CC BY 4.0",
     "poveznica": "https://www.geoboundaries.org/countryDownloads.html",
-    "lokalno": "geo.geojson"
+    "lokalno": "geo.geojson",
+    "uloga": "Poligoni granica općina i gradova za kartografski prikaz."
   }
 ]

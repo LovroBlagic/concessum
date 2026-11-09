@@ -11,20 +11,20 @@ X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-963f35e64192a0a8@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-8ccabbb70a3f9b87@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20381231
 DTEND;VALUE=DATE:20390101
 SUMMARY:Ističe 3 koncesije · GRAD MALI LOŠINJ
 DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2038. Godišnja fiksna na
  knada: 254 €.\n\n• VODOOPSKRBA I ODVODNJA CRES LOŠINJ D.O.O. – Konc
- esija na pomorskom dobru (MALI LOŠINJ\, Otok Losinj)\, 206 €/god.\n• 
- VODOOPSKRBA I ODVODNJA CRES LOŠINJ D.O.O. – Koncesija na pomorskom dobr
- u (MALI LOŠINJ\, Otok Losinj)\, 24 €/god.\n• VODOOPSKRBA I ODVODNJA C
- RES LOŠINJ D.O.O. – Koncesija na pomorskom dobru (MALI LOŠINJ\, Otok L
- osinj)\, 24 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#
- sat\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026
- .
+ esija na pomorskom dobru (MALI LOŠINJ\, Grad Mali Lošinj (Lošinj))\, 20
+ 6 €/god.\n• VODOOPSKRBA I ODVODNJA CRES LOŠINJ D.O.O. – Koncesija n
+ a pomorskom dobru (MALI LOŠINJ\, Grad Mali Lošinj (Lošinj))\, 24 €/go
+ d.\n• VODOOPSKRBA I ODVODNJA CRES LOŠINJ D.O.O. – Koncesija na pomors
+ kom dobru (MALI LOŠINJ\, Grad Mali Lošinj (Lošinj))\, 24 €/god.\n\nŠ
+ to ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar konce
+ sija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -34,8 +34,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-963f35e64192a0a8@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-8ccabbb70a3f9b87@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20380630
 DTEND;VALUE=DATE:20380701
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · GRAD MALI LOŠ
@@ -43,11 +43,12 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · GRAD MALI LOŠ
 DESCRIPTION:31. 12. 2038. ističe 3 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• VODOOPSKRBA I ODVODNJA CRES LOŠINJ D.O.O. – Koncesija na pom
- orskom dobru (MALI LOŠINJ\, Otok Losinj)\, 206 €/god.\n• VODOOPSKRBA 
- I ODVODNJA CRES LOŠINJ D.O.O. – Koncesija na pomorskom dobru (MALI LOŠ
- INJ\, Otok Losinj)\, 24 €/god.\n• VODOOPSKRBA I ODVODNJA CRES LOŠINJ 
- D.O.O. – Koncesija na pomorskom dobru (MALI LOŠINJ\, Otok Losinj)\, 24 
- €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
+ orskom dobru (MALI LOŠINJ\, Grad Mali Lošinj (Lošinj))\, 206 €/god.\n
+ • VODOOPSKRBA I ODVODNJA CRES LOŠINJ D.O.O. – Koncesija na pomorskom 
+ dobru (MALI LOŠINJ\, Grad Mali Lošinj (Lošinj))\, 24 €/god.\n• VODO
+ OPSKRBA I ODVODNJA CRES LOŠINJ D.O.O. – Koncesija na pomorskom dobru (M
+ ALI LOŠINJ\, Grad Mali Lošinj (Lošinj))\, 24 €/god.\n\nŠto ističe: 
+ https://koncesijski-sat.vercel.app/#sat
 URL:https://koncesijski-sat.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -58,16 +59,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-c8b3506e84b7588f@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-036766451fca8b35@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20391231
 DTEND;VALUE=DATE:20400101
 SUMMARY:Ističe koncesija: HRVATSKA ELEKTROPRIVREDA  D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 31. 12. 2039. Godišnja fiksna nak
  nada: 3.120 €.\n\n• HRVATSKA ELEKTROPRIVREDA  D.D. – Koncesija na po
- morskom dobru (MALI LOŠINJ\, Otok Losinj)\, 3.120 €/god.\n\nŠto istič
- e: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FIN
- A)\, obrada Koncesijski sat 9. 11. 2026.
+ morskom dobru (MALI LOŠINJ\, Grad Mali Lošinj (Lošinj))\, 3.120 €/god
+ .\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Regista
+ r koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -77,8 +78,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-c8b3506e84b7588f@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-036766451fca8b35@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20390630
 DTEND;VALUE=DATE:20390701
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKA ELEKTRO
@@ -86,8 +87,8 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKA ELEKTRO
 DESCRIPTION:31. 12. 2039. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• HRVATSKA ELEKTROPRIVREDA  D.D. – Koncesija na pomorskom dobru 
- (MALI LOŠINJ\, Otok Losinj)\, 3.120 €/god.\n\nŠto ističe: https://kon
- cesijski-sat.vercel.app/#sat
+ (MALI LOŠINJ\, Grad Mali Lošinj (Lošinj))\, 3.120 €/god.\n\nŠto isti
+ če: https://koncesijski-sat.vercel.app/#sat
 URL:https://koncesijski-sat.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -98,16 +99,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-d07043ba57c60833@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-ff5125e1711bc2da@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20421231
 DTEND;VALUE=DATE:20430101
 SUMMARY:Ističe koncesija: VODOOPSKRBA I ODVODNJA CRES LOŠINJ DOO
 DESCRIPTION:1 ugovor o koncesiji ističe 31. 12. 2042. Godišnja fiksna nak
  nada: 8 €.\n\n• VODOOPSKRBA I ODVODNJA CRES LOŠINJ DOO – Koncesija 
- na pomorskom dobru (MALI LOŠINJ\, Otok Losinj)\, 8 €/god.\n\nŠto isti
- če: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (F
- INA)\, obrada Koncesijski sat 9. 11. 2026.
+ na pomorskom dobru (MALI LOŠINJ\, Grad Mali Lošinj (Lošinj))\, 8 €/go
+ d.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Regist
+ ar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -117,8 +118,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-d07043ba57c60833@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-ff5125e1711bc2da@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20420630
 DTEND;VALUE=DATE:20420701
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VODOOPSKRBA I OD
@@ -126,8 +127,8 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VODOOPSKRBA I OD
 DESCRIPTION:31. 12. 2042. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• VODOOPSKRBA I ODVODNJA CRES LOŠINJ DOO – Koncesija na pomorsk
- om dobru (MALI LOŠINJ\, Otok Losinj)\, 8 €/god.\n\nŠto ističe: https:
- //koncesijski-sat.vercel.app/#sat
+ om dobru (MALI LOŠINJ\, Grad Mali Lošinj (Lošinj))\, 8 €/god.\n\nŠto
+  ističe: https://koncesijski-sat.vercel.app/#sat
 URL:https://koncesijski-sat.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM

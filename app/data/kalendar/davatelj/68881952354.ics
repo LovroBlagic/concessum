@@ -11,17 +11,17 @@ X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-76e66d9f3fca1bff@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-3349d8e54ef805a1@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20301124
 DTEND;VALUE=DATE:20301125
 SUMMARY:Ističe koncesija: KOMUNALAC PETRINJA D.O.O.- ODVOZ OTPADA
 DESCRIPTION:1 ugovor o koncesiji ističe 24. 11. 2030. Godišnja fiksna nak
  nada: 1.500 €.\n\n• KOMUNALAC PETRINJA D.O.O.- ODVOZ OTPADA – Konces
  ija skupljanja i odvoza komunalnog otpada (DONJI KUKURUZARI\, Općina Donj
- i Kukuzari)\, 1.500 €/god.\n\nŠto ističe: https://koncesijski-sat.verc
- el.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 
- 11. 2026.
+ i Kukuruzari)\, 1.500 €/god.\n\nŠto ističe: https://koncesijski-sat.ve
+ rcel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9
+ . 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -31,8 +31,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-76e66d9f3fca1bff@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-3349d8e54ef805a1@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20300524
 DTEND;VALUE=DATE:20300525
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (KOMUNALAC PETRIN
@@ -40,8 +40,8 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (KOMUNALAC PETRIN
 DESCRIPTION:24. 11. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• KOMUNALAC PETRINJA D.O.O.- ODVOZ OTPADA – Koncesija skupljanja
-  i odvoza komunalnog otpada (DONJI KUKURUZARI\, Općina Donji Kukuzari)\, 
- 1.500 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
+  i odvoza komunalnog otpada (DONJI KUKURUZARI\, Općina Donji Kukuruzari)\
+ , 1.500 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
 URL:https://koncesijski-sat.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM

@@ -12,8 +12,8 @@ X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-dc7465a40e278cab@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-0e7030df919075c4@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20271231
 DTEND;VALUE=DATE:20280101
 SUMMARY:Ističe 4 koncesije · AGENCIJA ZA OBALNI LINIJSKI POMORSKI PROMET
@@ -21,14 +21,14 @@ DESCRIPTION:4 ugovora o koncesiji ističe 31. 12. 2027. Godišnja fiksna na
  knada: 10.616 €.\n\n• RAPSKA PLOVIDBA D.D. – Koncesija za organizira
  nje unutarnjeg linijskog prijevoza (RAB\, Grad Rab)\, 2.654 €/god.\n• 
  JADROLINIJA\, DRUŠTVO ZA LINIJSKI POMORSKI PRIJEVOZ PUTNIKA I TERETA – 
- Koncesija za organiziranje unutarnjeg linijskog prijevoza (KRK\, Otok Krk)
- \, 2.654 €/god.\n• JADROLINIJA\, DRUŠTVO ZA LINIJSKI POMORSKI PRIJEVO
- Z PUTNIKA I TERETA – Koncesija za organiziranje unutarnjeg linijskog pri
- jevoza (CRES\, Otok Cres)\, 2.654 €/god.\n• JADROLINIJA\, DRUŠTVO ZA 
- LINIJSKI POMORSKI PRIJEVOZ PUTNIKA I TERETA – Koncesija za organiziranje
-  unutarnjeg linijskog prijevoza (SPLIT\, Grad Split)\, 2.654 €/god.\n\n
- Što ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar kon
- cesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ Koncesija za organiziranje unutarnjeg linijskog prijevoza (KRK\, Otok Krk 
+ (Grad Krk i općine))\, 2.654 €/god.\n• JADROLINIJA\, DRUŠTVO ZA LINI
+ JSKI POMORSKI PRIJEVOZ PUTNIKA I TERETA – Koncesija za organiziranje unu
+ tarnjeg linijskog prijevoza (CRES\, Otok Cres)\, 2.654 €/god.\n• JADRO
+ LINIJA\, DRUŠTVO ZA LINIJSKI POMORSKI PRIJEVOZ PUTNIKA I TERETA – Konce
+ sija za organiziranje unutarnjeg linijskog prijevoza (SPLIT\, Grad Split)\
+ , 2.654 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\
+ nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -39,8 +39,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-dc7465a40e278cab@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-0e7030df919075c4@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20270630
 DTEND;VALUE=DATE:20270701
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 4 koncesije · AGENCIJA ZA OB
@@ -50,13 +50,13 @@ DESCRIPTION:31. 12. 2027. ističe 4 ugovora o koncesiji. Novi postupak dodj
  ra.\n\n• RAPSKA PLOVIDBA D.D. – Koncesija za organiziranje unutarnjeg 
  linijskog prijevoza (RAB\, Grad Rab)\, 2.654 €/god.\n• JADROLINIJA\, D
  RUŠTVO ZA LINIJSKI POMORSKI PRIJEVOZ PUTNIKA I TERETA – Koncesija za or
- ganiziranje unutarnjeg linijskog prijevoza (KRK\, Otok Krk)\, 2.654 €/go
- d.\n• JADROLINIJA\, DRUŠTVO ZA LINIJSKI POMORSKI PRIJEVOZ PUTNIKA I TER
- ETA – Koncesija za organiziranje unutarnjeg linijskog prijevoza (CRES\, 
- Otok Cres)\, 2.654 €/god.\n• JADROLINIJA\, DRUŠTVO ZA LINIJSKI POMORS
- KI PRIJEVOZ PUTNIKA I TERETA – Koncesija za organiziranje unutarnjeg lin
- ijskog prijevoza (SPLIT\, Grad Split)\, 2.654 €/god.\n\nŠto ističe: ht
- tps://koncesijski-sat.vercel.app/#sat
+ ganiziranje unutarnjeg linijskog prijevoza (KRK\, Otok Krk (Grad Krk i op
+ ćine))\, 2.654 €/god.\n• JADROLINIJA\, DRUŠTVO ZA LINIJSKI POMORSKI 
+ PRIJEVOZ PUTNIKA I TERETA – Koncesija za organiziranje unutarnjeg linijs
+ kog prijevoza (CRES\, Otok Cres)\, 2.654 €/god.\n• JADROLINIJA\, DRUŠ
+ TVO ZA LINIJSKI POMORSKI PRIJEVOZ PUTNIKA I TERETA – Koncesija za organi
+ ziranje unutarnjeg linijskog prijevoza (SPLIT\, Grad Split)\, 2.654 €/go
+ d.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
 URL:https://koncesijski-sat.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -67,8 +67,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-5e1289bb2afed5f0@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-af9b98bb0a8d62fb@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20310203
 DTEND;VALUE=DATE:20310204
 SUMMARY:Ističe 3 koncesije · AGENCIJA ZA OBALNI LINIJSKI POMORSKI PROMET
@@ -91,8 +91,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-5e1289bb2afed5f0@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-af9b98bb0a8d62fb@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20300803
 DTEND;VALUE=DATE:20300804
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · AGENCIJA ZA OB

@@ -3,17 +3,17 @@ VERSION:2.0
 PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Rokovi koncesija · Općina Donji Kukuzari
-X-WR-CALDESC:Svi ugovori o koncesiji na području: Općina Donji Kukuzari (
- pregled\, svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvj
- ežava se nakon svake obrade podataka. https://koncesijski-sat.vercel.app/
- #opcina/41942358B35075150352147
+X-WR-CALNAME:Rokovi koncesija · Općina Donji Kukuruzari
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Općina Donji Kukuruzari
+  (pregled\, svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Os
+ vježava se nakon svake obrade podataka. https://koncesijski-sat.vercel.ap
+ p/#opcina/41942358B35075150352147
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-423832ab1502aa07@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-094df26f2f7a9a2a@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20301124
 DTEND;VALUE=DATE:20301125
 SUMMARY:Ističe koncesija: KOMUNALAC PETRINJA D.O.O.- ODVOZ OTPADA
@@ -32,8 +32,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-423832ab1502aa07@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-094df26f2f7a9a2a@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20300524
 DTEND;VALUE=DATE:20300525
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (KOMUNALAC PETRIN

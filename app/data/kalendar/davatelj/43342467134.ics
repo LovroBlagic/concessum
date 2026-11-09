@@ -11,8 +11,8 @@ X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-687a2b00fa98e599@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-8ef4cdffdba0334a@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
 SUMMARY:Ističe 2 koncesije · LUČKA UPRAVA SENJ
@@ -32,21 +32,21 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-bbb02ceae488b3c7@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-a1199e5f1f82d0d9@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20271231
 DTEND;VALUE=DATE:20280101
 SUMMARY:Ističe 6 koncesija · LUČKA UPRAVA SENJ
 DESCRIPTION:6 ugovora o koncesiji ističe 31. 12. 2027. Godišnja fiksna na
  knada: 155.300 €.\n\n• RAPSKA PLOVIDBA D.D. – Koncesija za luku (LI
- ČKO-SENJSKA ŽUPANIJA)\, 150.000 €/god.\n• RAPSKA PLOVIDBA D.D. – K
- oncesija za luku (SENJ\, Grad Senj)\, 3.000 €/god.\n• INA\, D.D. – K
- oncesija za luku (SENJ\, Grad Senj)\, 1.000 €/god.\n• PLODINE D.D. –
-  Koncesija za luku (SENJ\, Grad Senj)\, 1.000 €/god.\n• LEJLA HUBA\, H
- ARD HOT-COLD\, VL. LEJLA HUBA – Koncesija za luku (SENJ\, Grad Senj)\, 3
- 00 €/god.\n• OBRT – Koncesija za luku (RAB\, Grad Rab)\n\nŠto isti
- če: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (F
- INA)\, obrada Koncesijski sat 9. 11. 2026.
+ ČKO-SENJSKA ŽUPANIJA\, Grad Senj)\, 150.000 €/god.\n• RAPSKA PLOVIDB
+ A D.D. – Koncesija za luku (SENJ\, Grad Senj)\, 3.000 €/god.\n• INA\
+ , D.D. – Koncesija za luku (SENJ\, Grad Senj)\, 1.000 €/god.\n• PLOD
+ INE D.D. – Koncesija za luku (SENJ\, Grad Senj)\, 1.000 €/god.\n• LE
+ JLA HUBA\, HARD HOT-COLD\, VL. LEJLA HUBA – Koncesija za luku (SENJ\, Gr
+ ad Senj)\, 300 €/god.\n• OBRT – Koncesija za luku (RAB\, Grad Rab)\n
+ \nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar k
+ oncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -56,8 +56,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-bbb02ceae488b3c7@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-a1199e5f1f82d0d9@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20270630
 DTEND;VALUE=DATE:20270701
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 6 koncesija · LUČKA UPRAVA 
@@ -65,13 +65,13 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 6 koncesija · LUČKA UPRAVA
 DESCRIPTION:31. 12. 2027. ističe 6 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• RAPSKA PLOVIDBA D.D. – Koncesija za luku (LIČKO-SENJSKA ŽUP
- ANIJA)\, 150.000 €/god.\n• RAPSKA PLOVIDBA D.D. – Koncesija za luku 
- (SENJ\, Grad Senj)\, 3.000 €/god.\n• INA\, D.D. – Koncesija za luku 
- (SENJ\, Grad Senj)\, 1.000 €/god.\n• PLODINE D.D. – Koncesija za luk
- u (SENJ\, Grad Senj)\, 1.000 €/god.\n• LEJLA HUBA\, HARD HOT-COLD\, VL
- . LEJLA HUBA – Koncesija za luku (SENJ\, Grad Senj)\, 300 €/god.\n• 
- OBRT – Koncesija za luku (RAB\, Grad Rab)\n\nŠto ističe: https://konce
- sijski-sat.vercel.app/#sat
+ ANIJA\, Grad Senj)\, 150.000 €/god.\n• RAPSKA PLOVIDBA D.D. – Konces
+ ija za luku (SENJ\, Grad Senj)\, 3.000 €/god.\n• INA\, D.D. – Konces
+ ija za luku (SENJ\, Grad Senj)\, 1.000 €/god.\n• PLODINE D.D. – Konc
+ esija za luku (SENJ\, Grad Senj)\, 1.000 €/god.\n• LEJLA HUBA\, HARD H
+ OT-COLD\, VL. LEJLA HUBA – Koncesija za luku (SENJ\, Grad Senj)\, 300 
+ €/god.\n• OBRT – Koncesija za luku (RAB\, Grad Rab)\n\nŠto ističe:
+  https://koncesijski-sat.vercel.app/#sat
 URL:https://koncesijski-sat.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -82,8 +82,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-3c98d56706de6d8f@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-fbbc745d89d52242@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20280831
 DTEND;VALUE=DATE:20280901
 SUMMARY:Ističe 2 koncesije · LUČKA UPRAVA SENJ
@@ -102,8 +102,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-3c98d56706de6d8f@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-fbbc745d89d52242@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20280229
 DTEND;VALUE=DATE:20280301
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · LUČKA UPRAVA 
@@ -124,25 +124,25 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-5e5dc7270244a6a7@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-d243b622a376c2b8@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20281231
 DTEND;VALUE=DATE:20290101
 SUMMARY:Ističe 8 koncesija · LUČKA UPRAVA SENJ
 DESCRIPTION:8 ugovora o koncesiji ističe 31. 12. 2028. Godišnja fiksna na
  knada: 31.064 €.\n\n• GKD SENJ D.O.O. – Koncesija za luku (SENJ\, Gr
  ad Senj)\, 12.578 €/god.\n• GKD SENJ D.O.O. – Koncesija za luku (LI
- ČKO-SENJSKA ŽUPANIJA)\, 7.481 €/god.\n• ADRIATIC FARMING D.O.O. – 
- Koncesija za gospodarsko korištenje (SENJ\, Grad Senj)\, 4.505 €/god.\n
- • MADI\, OBRT ZA UGOST.VL. MARKO VUKELIĆ – Koncesija za luku (KARLOBA
- G\, Općina Karlobag)\, 1.500 €/god.\n• ROKO\, VL. IVANA HUBA – Konc
- esija za luku (SENJ\, Grad Senj)\, 1.500 €/god.\n• MARINTINO\, VL. MAR
- IJAN TOMLJANOVIĆ – Koncesija za luku (SENJ\, Grad Senj)\, 1.500 €/god
- .\n• DAMIR MLAČAK J. D. O. O. – Koncesija za upravljanje i održavanj
- e javnog nužnika (SENJ\, Grad Senj)\, 1.000 €/god.\n• ADRIA YACHTING 
- D.O.O. – Koncesija za luku (SENJ\, Grad Senj)\, 1.000 €/god.\n\nŠto i
- stiče: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija
-  (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ ČKO-SENJSKA ŽUPANIJA\, Grad Senj)\, 7.481 €/god.\n• ADRIATIC FARMING
+  D.O.O. – Koncesija za gospodarsko korištenje (SENJ\, Grad Senj)\, 4.50
+ 5 €/god.\n• MADI\, OBRT ZA UGOST.VL. MARKO VUKELIĆ – Koncesija za l
+ uku (KARLOBAG\, Općina Karlobag)\, 1.500 €/god.\n• ROKO\, VL. IVANA H
+ UBA – Koncesija za luku (SENJ\, Grad Senj)\, 1.500 €/god.\n• MARINTI
+ NO\, VL. MARIJAN TOMLJANOVIĆ – Koncesija za luku (SENJ\, Grad Senj)\, 1
+ .500 €/god.\n• DAMIR MLAČAK J. D. O. O. – Koncesija za upravljanje 
+ i održavanje javnog nužnika (SENJ\, Grad Senj)\, 1.000 €/god.\n• ADR
+ IA YACHTING D.O.O. – Koncesija za luku (SENJ\, Grad Senj)\, 1.000 €/go
+ d.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Regist
+ ar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -152,8 +152,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-5e5dc7270244a6a7@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-d243b622a376c2b8@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20280630
 DTEND;VALUE=DATE:20280701
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 8 koncesija · LUČKA UPRAVA 
@@ -162,16 +162,16 @@ DESCRIPTION:31. 12. 2028. ističe 8 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• GKD SENJ D.O.O. – Koncesija za luku (SENJ\, Grad Senj)\, 12.5
  78 €/god.\n• GKD SENJ D.O.O. – Koncesija za luku (LIČKO-SENJSKA ŽU
- PANIJA)\, 7.481 €/god.\n• ADRIATIC FARMING D.O.O. – Koncesija za gos
- podarsko korištenje (SENJ\, Grad Senj)\, 4.505 €/god.\n• MADI\, OBRT 
- ZA UGOST.VL. MARKO VUKELIĆ – Koncesija za luku (KARLOBAG\, Općina Karl
- obag)\, 1.500 €/god.\n• ROKO\, VL. IVANA HUBA – Koncesija za luku (S
- ENJ\, Grad Senj)\, 1.500 €/god.\n• MARINTINO\, VL. MARIJAN TOMLJANOVI
- Ć – Koncesija za luku (SENJ\, Grad Senj)\, 1.500 €/god.\n• DAMIR ML
- AČAK J. D. O. O. – Koncesija za upravljanje i održavanje javnog nužni
- ka (SENJ\, Grad Senj)\, 1.000 €/god.\n• ADRIA YACHTING D.O.O. – Konc
- esija za luku (SENJ\, Grad Senj)\, 1.000 €/god.\n\nŠto ističe: https:/
- /koncesijski-sat.vercel.app/#sat
+ PANIJA\, Grad Senj)\, 7.481 €/god.\n• ADRIATIC FARMING D.O.O. – Konc
+ esija za gospodarsko korištenje (SENJ\, Grad Senj)\, 4.505 €/god.\n• 
+ MADI\, OBRT ZA UGOST.VL. MARKO VUKELIĆ – Koncesija za luku (KARLOBAG\, 
+ Općina Karlobag)\, 1.500 €/god.\n• ROKO\, VL. IVANA HUBA – Koncesij
+ a za luku (SENJ\, Grad Senj)\, 1.500 €/god.\n• MARINTINO\, VL. MARIJAN
+  TOMLJANOVIĆ – Koncesija za luku (SENJ\, Grad Senj)\, 1.500 €/god.\n
+ • DAMIR MLAČAK J. D. O. O. – Koncesija za upravljanje i održavanje j
+ avnog nužnika (SENJ\, Grad Senj)\, 1.000 €/god.\n• ADRIA YACHTING D.O
+ .O. – Koncesija za luku (SENJ\, Grad Senj)\, 1.000 €/god.\n\nŠto isti
+ če: https://koncesijski-sat.vercel.app/#sat
 URL:https://koncesijski-sat.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -182,8 +182,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-db16262f3721e867@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-c165045bbb6f2819@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20291231
 DTEND;VALUE=DATE:20300101
 SUMMARY:Ističe 13 koncesija · LUČKA UPRAVA SENJ
@@ -217,8 +217,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-db16262f3721e867@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-c165045bbb6f2819@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20290630
 DTEND;VALUE=DATE:20290701
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 13 koncesija · LUČKA UPRAVA
@@ -254,8 +254,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-4336141b7a35e79a@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-92b1f939b7d069f6@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20361231
 DTEND;VALUE=DATE:20370101
 SUMMARY:Ističe koncesija: A-MORE\, OBRT ZA TRGOVINU\, VL. MONIKA NEKIĆ RO
@@ -275,8 +275,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-4336141b7a35e79a@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-92b1f939b7d069f6@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20360630
 DTEND;VALUE=DATE:20360701
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (A-MORE\, OBRT ZA

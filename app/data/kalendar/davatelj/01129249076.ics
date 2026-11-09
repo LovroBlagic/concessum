@@ -11,14 +11,14 @@ X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-25c0659a357347c8@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-c60a04f428aed630@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20300821
 DTEND;VALUE=DATE:20300822
 SUMMARY:Ističe koncesija: DIMNJAČARSKI SERVIS J.D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 21. 8. 2030. Godišnja fiksna nakn
  ada: 600 €.\n\n• DIMNJAČARSKI SERVIS J.D.O.O. – Koncesija za obavlj
- anje dimnjačarskih poslova (HRVATSKA DUBICA\, Općina Hvratska Dubica)\, 
+ anje dimnjačarskih poslova (HRVATSKA DUBICA\, Općina Hrvatska Dubica)\, 
  600 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzv
  or: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#sat
@@ -30,8 +30,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-25c0659a357347c8@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-c60a04f428aed630@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20300221
 DTEND;VALUE=DATE:20300222
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DIMNJAČARSKI SE
@@ -39,7 +39,7 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DIMNJAČARSKI SE
 DESCRIPTION:21. 8. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• DIMNJAČARSKI SERVIS J.D.O.O. – Koncesija za obavljanje dimnja
- čarskih poslova (HRVATSKA DUBICA\, Općina Hvratska Dubica)\, 600 €/god
+ čarskih poslova (HRVATSKA DUBICA\, Općina Hrvatska Dubica)\, 600 €/god
  .\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
 URL:https://koncesijski-sat.vercel.app/#sat
 TRANSP:TRANSPARENT

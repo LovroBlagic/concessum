@@ -3,8 +3,8 @@ VERSION:2.0
 PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Rokovi koncesija · Općina Hvratska Dubica
-X-WR-CALDESC:Svi ugovori o koncesiji na području: Općina Hvratska Dubica 
+X-WR-CALNAME:Rokovi koncesija · Općina Hrvatska Dubica
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Općina Hrvatska Dubica 
  (pregled\, svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osv
  ježava se nakon svake obrade podataka. https://koncesijski-sat.vercel.app
  /#opcina/41942358B70634803465556
@@ -12,8 +12,8 @@ X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-01d5ebf61b8bc199@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-74e7ddaf147dd8f9@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20300821
 DTEND;VALUE=DATE:20300822
 SUMMARY:Ističe koncesija: DIMNJAČARSKI SERVIS J.D.O.O.
@@ -32,8 +32,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-01d5ebf61b8bc199@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-74e7ddaf147dd8f9@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20300221
 DTEND;VALUE=DATE:20300222
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DIMNJAČARSKI SE

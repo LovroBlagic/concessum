@@ -12,8 +12,8 @@ X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-80e7ec1164e194e6@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-f94607b3425cd709@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
 SUMMARY:Ističe 2 koncesije · Senj
@@ -34,55 +34,58 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-599f895376a0f27e@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-9c3aae16951f7aaa@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20271231
 DTEND;VALUE=DATE:20280101
-SUMMARY:Ističe 4 koncesije · Senj
-DESCRIPTION:4 ugovora o koncesiji ističe 31. 12. 2027. Godišnja fiksna na
- knada: 5.300 €.\n\n• RAPSKA PLOVIDBA D.D. – Koncesija za luku (SENJ)
-  · davatelj: LUČKA UPRAVA SENJ\, 3.000 €/god.\n• INA\, D.D. – Konc
- esija za luku (SENJ) · davatelj: LUČKA UPRAVA SENJ\, 1.000 €/god.\n•
-  PLODINE D.D. – Koncesija za luku (SENJ) · davatelj: LUČKA UPRAVA SENJ
- \, 1.000 €/god.\n• LEJLA HUBA\, HARD HOT-COLD\, VL. LEJLA HUBA – Kon
- cesija za luku (SENJ) · davatelj: LUČKA UPRAVA SENJ\, 300 €/god.\n\nPr
- ofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B47625090
- 696764\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2
- 026.
+SUMMARY:Ističe 5 koncesija · Senj
+DESCRIPTION:5 ugovora o koncesiji ističe 31. 12. 2027. Godišnja fiksna na
+ knada: 155.300 €.\n\n• RAPSKA PLOVIDBA D.D. – Koncesija za luku (LI
+ ČKO-SENJSKA ŽUPANIJA) · davatelj: LUČKA UPRAVA SENJ\, 150.000 €/god.
+ \n• RAPSKA PLOVIDBA D.D. – Koncesija za luku (SENJ) · davatelj: LUČK
+ A UPRAVA SENJ\, 3.000 €/god.\n• INA\, D.D. – Koncesija za luku (SENJ
+ ) · davatelj: LUČKA UPRAVA SENJ\, 1.000 €/god.\n• PLODINE D.D. – K
+ oncesija za luku (SENJ) · davatelj: LUČKA UPRAVA SENJ\, 1.000 €/god.\n
+ • LEJLA HUBA\, HARD HOT-COLD\, VL. LEJLA HUBA – Koncesija za luku (SEN
+ J) · davatelj: LUČKA UPRAVA SENJ\, 300 €/god.\n\nProfil općine: https
+ ://koncesijski-sat.vercel.app/#opcina/41942358B47625090696764\nIzvor: Regi
+ star koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B47625090696764
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Ističe 4 koncesije · Senj
+DESCRIPTION:Ističe 5 koncesija · Senj
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-599f895376a0f27e@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-9c3aae16951f7aaa@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20270630
 DTEND;VALUE=DATE:20270701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 4 koncesije · Senj
-DESCRIPTION:31. 12. 2027. ističe 4 ugovora o koncesiji. Novi postupak dodj
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 5 koncesija · Senj
+DESCRIPTION:31. 12. 2027. ističe 5 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
- ra.\n\n• RAPSKA PLOVIDBA D.D. – Koncesija za luku (SENJ) · davatelj: 
- LUČKA UPRAVA SENJ\, 3.000 €/god.\n• INA\, D.D. – Koncesija za luku 
- (SENJ) · davatelj: LUČKA UPRAVA SENJ\, 1.000 €/god.\n• PLODINE D.D. 
- – Koncesija za luku (SENJ) · davatelj: LUČKA UPRAVA SENJ\, 1.000 €/g
- od.\n• LEJLA HUBA\, HARD HOT-COLD\, VL. LEJLA HUBA – Koncesija za luku
-  (SENJ) · davatelj: LUČKA UPRAVA SENJ\, 300 €/god.\n\nProfil općine: 
- https://koncesijski-sat.vercel.app/#opcina/41942358B47625090696764
+ ra.\n\n• RAPSKA PLOVIDBA D.D. – Koncesija za luku (LIČKO-SENJSKA ŽUP
+ ANIJA) · davatelj: LUČKA UPRAVA SENJ\, 150.000 €/god.\n• RAPSKA PLOV
+ IDBA D.D. – Koncesija za luku (SENJ) · davatelj: LUČKA UPRAVA SENJ\, 3
+ .000 €/god.\n• INA\, D.D. – Koncesija za luku (SENJ) · davatelj: LU
+ ČKA UPRAVA SENJ\, 1.000 €/god.\n• PLODINE D.D. – Koncesija za luku 
+ (SENJ) · davatelj: LUČKA UPRAVA SENJ\, 1.000 €/god.\n• LEJLA HUBA\, 
+ HARD HOT-COLD\, VL. LEJLA HUBA – Koncesija za luku (SENJ) · davatelj: L
+ UČKA UPRAVA SENJ\, 300 €/god.\n\nProfil općine: https://koncesijski-sa
+ t.vercel.app/#opcina/41942358B47625090696764
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B47625090696764
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 4 koncesije · Senj
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 5 koncesija · Senj
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-01d499061f1a7364@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-bc779fe8dde1edd6@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20280831
 DTEND;VALUE=DATE:20280901
 SUMMARY:Ističe 2 koncesije · Senj
@@ -102,8 +105,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-01d499061f1a7364@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-bc779fe8dde1edd6@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20280229
 DTEND;VALUE=DATE:20280301
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Senj
@@ -123,8 +126,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-14b05d96a39a251c@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-48075de59338fc25@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20281005
 DTEND;VALUE=DATE:20281006
 SUMMARY:Ističe koncesija: NOVI DIM D.O.O.
@@ -142,8 +145,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-14b05d96a39a251c@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-48075de59338fc25@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20280405
 DTEND;VALUE=DATE:20280406
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (NOVI DIM D.O.O.)
@@ -162,62 +165,66 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-22b010f7d2613548@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-ba49614c540269ac@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20281231
 DTEND;VALUE=DATE:20290101
-SUMMARY:Ističe 6 koncesija · Senj
-DESCRIPTION:6 ugovora o koncesiji ističe 31. 12. 2028. Godišnja fiksna na
- knada: 22.083 €.\n\n• GKD SENJ D.O.O. – Koncesija za luku (SENJ) · 
- davatelj: LUČKA UPRAVA SENJ\, 12.578 €/god.\n• ADRIATIC FARMING D.O.O
- . – Koncesija za gospodarsko korištenje (SENJ) · davatelj: LUČKA UPRA
- VA SENJ\, 4.505 €/god.\n• ROKO\, VL. IVANA HUBA – Koncesija za luku 
- (SENJ) · davatelj: LUČKA UPRAVA SENJ\, 1.500 €/god.\n• MARINTINO\, V
- L. MARIJAN TOMLJANOVIĆ – Koncesija za luku (SENJ) · davatelj: LUČKA U
- PRAVA SENJ\, 1.500 €/god.\n• DAMIR MLAČAK J. D. O. O. – Koncesija z
- a upravljanje i održavanje javnog nužnika (SENJ) · davatelj: LUČKA UPR
- AVA SENJ\, 1.000 €/god.\n• ADRIA YACHTING D.O.O. – Koncesija za luku
-  (SENJ) · davatelj: LUČKA UPRAVA SENJ\, 1.000 €/god.\n\nProfil općine
- : https://koncesijski-sat.vercel.app/#opcina/41942358B47625090696764\nIzvo
- r: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+SUMMARY:Ističe 7 koncesija · Senj
+DESCRIPTION:7 ugovora o koncesiji ističe 31. 12. 2028. Godišnja fiksna na
+ knada: 29.564 €.\n\n• GKD SENJ D.O.O. – Koncesija za luku (SENJ) · 
+ davatelj: LUČKA UPRAVA SENJ\, 12.578 €/god.\n• GKD SENJ D.O.O. – Ko
+ ncesija za luku (LIČKO-SENJSKA ŽUPANIJA) · davatelj: LUČKA UPRAVA SENJ
+ \, 7.481 €/god.\n• ADRIATIC FARMING D.O.O. – Koncesija za gospodarsk
+ o korištenje (SENJ) · davatelj: LUČKA UPRAVA SENJ\, 4.505 €/god.\n•
+  ROKO\, VL. IVANA HUBA – Koncesija za luku (SENJ) · davatelj: LUČKA UP
+ RAVA SENJ\, 1.500 €/god.\n• MARINTINO\, VL. MARIJAN TOMLJANOVIĆ – K
+ oncesija za luku (SENJ) · davatelj: LUČKA UPRAVA SENJ\, 1.500 €/god.\n
+ • DAMIR MLAČAK J. D. O. O. – Koncesija za upravljanje i održavanje j
+ avnog nužnika (SENJ) · davatelj: LUČKA UPRAVA SENJ\, 1.000 €/god.\n
+ • ADRIA YACHTING D.O.O. – Koncesija za luku (SENJ) · davatelj: LUČKA
+  UPRAVA SENJ\, 1.000 €/god.\n\nProfil općine: https://koncesijski-sat.v
+ ercel.app/#opcina/41942358B47625090696764\nIzvor: Registar koncesija (FINA
+ )\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B47625090696764
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Ističe 6 koncesija · Senj
+DESCRIPTION:Ističe 7 koncesija · Senj
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-22b010f7d2613548@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-ba49614c540269ac@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20280630
 DTEND;VALUE=DATE:20280701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 6 koncesija · Senj
-DESCRIPTION:31. 12. 2028. ističe 6 ugovora o koncesiji. Novi postupak dodj
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 7 koncesija · Senj
+DESCRIPTION:31. 12. 2028. ističe 7 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• GKD SENJ D.O.O. – Koncesija za luku (SENJ) · davatelj: LUČK
- A UPRAVA SENJ\, 12.578 €/god.\n• ADRIATIC FARMING D.O.O. – Koncesija
-  za gospodarsko korištenje (SENJ) · davatelj: LUČKA UPRAVA SENJ\, 4.505
-  €/god.\n• ROKO\, VL. IVANA HUBA – Koncesija za luku (SENJ) · davat
- elj: LUČKA UPRAVA SENJ\, 1.500 €/god.\n• MARINTINO\, VL. MARIJAN TOML
- JANOVIĆ – Koncesija za luku (SENJ) · davatelj: LUČKA UPRAVA SENJ\, 1.
- 500 €/god.\n• DAMIR MLAČAK J. D. O. O. – Koncesija za upravljanje i
-  održavanje javnog nužnika (SENJ) · davatelj: LUČKA UPRAVA SENJ\, 1.00
- 0 €/god.\n• ADRIA YACHTING D.O.O. – Koncesija za luku (SENJ) · dava
- telj: LUČKA UPRAVA SENJ\, 1.000 €/god.\n\nProfil općine: https://konce
- sijski-sat.vercel.app/#opcina/41942358B47625090696764
+ A UPRAVA SENJ\, 12.578 €/god.\n• GKD SENJ D.O.O. – Koncesija za luku
+  (LIČKO-SENJSKA ŽUPANIJA) · davatelj: LUČKA UPRAVA SENJ\, 7.481 €/go
+ d.\n• ADRIATIC FARMING D.O.O. – Koncesija za gospodarsko korištenje (
+ SENJ) · davatelj: LUČKA UPRAVA SENJ\, 4.505 €/god.\n• ROKO\, VL. IVA
+ NA HUBA – Koncesija za luku (SENJ) · davatelj: LUČKA UPRAVA SENJ\, 1.5
+ 00 €/god.\n• MARINTINO\, VL. MARIJAN TOMLJANOVIĆ – Koncesija za luk
+ u (SENJ) · davatelj: LUČKA UPRAVA SENJ\, 1.500 €/god.\n• DAMIR MLAČ
+ AK J. D. O. O. – Koncesija za upravljanje i održavanje javnog nužnika 
+ (SENJ) · davatelj: LUČKA UPRAVA SENJ\, 1.000 €/god.\n• ADRIA YACHTIN
+ G D.O.O. – Koncesija za luku (SENJ) · davatelj: LUČKA UPRAVA SENJ\, 1.
+ 000 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina
+ /41942358B47625090696764
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B47625090696764
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 6 koncesija · Senj
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 7 koncesija · Senj
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-0486ed6970a679e1@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-f5467261266880ca@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20291231
 DTEND;VALUE=DATE:20300101
 SUMMARY:Ističe 9 koncesija · Senj
@@ -248,8 +255,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-0486ed6970a679e1@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-f5467261266880ca@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20290630
 DTEND;VALUE=DATE:20290701
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 9 koncesija · Senj
@@ -280,8 +287,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-6e1299f09346e79c@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-c824de45ccad6629@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20300331
 DTEND;VALUE=DATE:20300401
 SUMMARY:Ističe koncesija: LIKA LOVSTVO D.O.O.
@@ -300,8 +307,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-6e1299f09346e79c@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-c824de45ccad6629@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20290930
 DTEND;VALUE=DATE:20291001
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (LIKA LOVSTVO D.O
@@ -322,8 +329,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-175b84e779ae3cee@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-f1575f19726c9e51@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20341031
 DTEND;VALUE=DATE:20341101
 SUMMARY:Ističe koncesija: HRVATSKA ELEKTROPRIVREDA  D.D.
@@ -342,8 +349,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-175b84e779ae3cee@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-f1575f19726c9e51@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20340430
 DTEND;VALUE=DATE:20340501
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKA ELEKTRO
@@ -364,8 +371,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-5d489635929ae617@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-0079de6cced7cfdf@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20351116
 DTEND;VALUE=DATE:20351117
 SUMMARY:Ističe koncesija: AUTO ZUBAK-ZAGREB D.O.O.
@@ -384,8 +391,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-5d489635929ae617@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-0079de6cced7cfdf@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20350516
 DTEND;VALUE=DATE:20350517
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (AUTO ZUBAK-ZAGRE
@@ -405,8 +412,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-83474e53cd01b403@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-b76fba79e7b0f3b3@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20361231
 DTEND;VALUE=DATE:20370101
 SUMMARY:Ističe koncesija: A-MORE\, OBRT ZA TRGOVINU\, VL. MONIKA NEKIĆ RO
@@ -427,8 +434,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-83474e53cd01b403@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-b76fba79e7b0f3b3@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20360630
 DTEND;VALUE=DATE:20360701
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (A-MORE\, OBRT ZA
@@ -449,8 +456,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-ee3f94a8c615e47f@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-1809063783ee17cc@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20390430
 DTEND;VALUE=DATE:20390501
 SUMMARY:Ističe koncesija: NORDIC FISH D.O.O.
@@ -469,8 +476,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-ee3f94a8c615e47f@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-1809063783ee17cc@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20381030
 DTEND;VALUE=DATE:20381031
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (NORDIC FISH D.O.
@@ -491,8 +498,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-2cae1898d50351cd@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-c4844b62ef02ca21@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20410510
 DTEND;VALUE=DATE:20410511
 SUMMARY:Ističe koncesija: VODOVOD D.O.O.
@@ -510,8 +517,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-2cae1898d50351cd@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-c4844b62ef02ca21@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20401110
 DTEND;VALUE=DATE:20401111
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VODOVOD D.O.O.)
@@ -530,8 +537,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-262ae0c3240379f4@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-fbda88567a7d21d3@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20451231
 DTEND;VALUE=DATE:20460101
 SUMMARY:Ističe koncesija: RADIO SENJ D.O.O.
@@ -550,8 +557,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-262ae0c3240379f4@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-fbda88567a7d21d3@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20450630
 DTEND;VALUE=DATE:20450701
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (RADIO SENJ D.O.O
@@ -572,8 +579,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-df29711d9695b0e9@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-fa6f68bd6dc000d6@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20600605
 DTEND;VALUE=DATE:20600606
 SUMMARY:Ističe koncesija: HEP-OPERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O.
@@ -593,8 +600,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-df29711d9695b0e9@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-fa6f68bd6dc000d6@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20591205
 DTEND;VALUE=DATE:20591206
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP-OPERATOR DIS
@@ -616,8 +623,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-db66155d85abeb25@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-37e6fc747e5d30fc@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20601015
 DTEND;VALUE=DATE:20601016
 SUMMARY:Ističe koncesija: DRŽAVNI HIDROMETEOROLOŠKI ZAVOD
@@ -636,8 +643,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-db66155d85abeb25@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-37e6fc747e5d30fc@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20600415
 DTEND;VALUE=DATE:20600416
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DRŽAVNI HIDROME
@@ -658,8 +665,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-f0e4f1ae989a71b2@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-af15eeb2215f4536@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20760717
 DTEND;VALUE=DATE:20760718
 SUMMARY:Ističe koncesija: HRVATSKI TELEKOM D.D.
@@ -678,8 +685,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-f0e4f1ae989a71b2@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-af15eeb2215f4536@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20760117
 DTEND;VALUE=DATE:20760118
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKI TELEKOM

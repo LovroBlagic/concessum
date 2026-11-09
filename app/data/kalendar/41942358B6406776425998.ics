@@ -3,8 +3,8 @@ VERSION:2.0
 PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Rokovi koncesija · Grad Ivanić Grad
-X-WR-CALDESC:Svi ugovori o koncesiji na području: Grad Ivanić Grad (pregl
+X-WR-CALNAME:Rokovi koncesija · Grad Ivanić-Grad
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Grad Ivanić-Grad (pregl
  ed\, svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježav
  a se nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#opci
  na/41942358B6406776425998
@@ -12,11 +12,11 @@ X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-b9cf64563d30b9d9@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-3eae2cf899632d1b@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
-SUMMARY:Ističe 2 koncesije · Ivanić Grad
+SUMMARY:Ističe 2 koncesije · Ivanić-Grad
 DESCRIPTION:2 ugovora o koncesiji ističe 31. 12. 2026.\n\n• INA-INDUSTRI
  JA NAFTE  D.D. – Dozvola za eksploataciju ugljikovodika (prema Zakonu o 
  ugljikovodicima) (IVANIĆ GRAD) · davatelj: MINISTARSTVO GOSPODARSTVA\n
@@ -29,13 +29,13 @@ URL:https://koncesijski-sat.vercel.app/#opcina/41942358B6406776425998
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Ističe 2 koncesije · Ivanić Grad
+DESCRIPTION:Ističe 2 koncesije · Ivanić-Grad
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-40aa8c03c7ea994c@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-47fa330268d669f8@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20271113
 DTEND;VALUE=DATE:20271114
 SUMMARY:Ističe koncesija: ASPECT CROATIA KFT.
@@ -54,8 +54,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-40aa8c03c7ea994c@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-47fa330268d669f8@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20270513
 DTEND;VALUE=DATE:20270514
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ASPECT CROATIA K
@@ -76,8 +76,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-046caa0b746ee3fb@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-358987a4df61cbf5@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20271231
 DTEND;VALUE=DATE:20280101
 SUMMARY:Ističe koncesija: INA-INDUSTRIJA NAFTE  D.D.
@@ -96,8 +96,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-046caa0b746ee3fb@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-358987a4df61cbf5@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20270630
 DTEND;VALUE=DATE:20270701
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA-INDUSTRIJA N
@@ -118,8 +118,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-cdd72f8c431fe997@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-aee9e56e3819298b@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20280228
 DTEND;VALUE=DATE:20280229
 SUMMARY:Ističe koncesija: IVAPLIN D.O.O.
@@ -138,8 +138,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-cdd72f8c431fe997@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-aee9e56e3819298b@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20270828
 DTEND;VALUE=DATE:20270829
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (IVAPLIN D.O.O.)
@@ -159,11 +159,11 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-b10ff5b69226e921@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-1f99a0d01d5cd11b@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20351231
 DTEND;VALUE=DATE:20360101
-SUMMARY:Ističe 3 koncesije · Ivanić Grad
+SUMMARY:Ističe 3 koncesije · Ivanić-Grad
 DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2035. Godišnja fiksna na
  knada: 10.201 €.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauz
  etu površinu odobrenog eksploatacijskog polja (IVANIĆ GRAD) · davatelj:
@@ -178,16 +178,16 @@ URL:https://koncesijski-sat.vercel.app/#opcina/41942358B6406776425998
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Ističe 3 koncesije · Ivanić Grad
+DESCRIPTION:Ističe 3 koncesije · Ivanić-Grad
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-b10ff5b69226e921@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-1f99a0d01d5cd11b@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20350630
 DTEND;VALUE=DATE:20350701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Ivanić Grad
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Ivanić-Grad
 DESCRIPTION:31. 12. 2035. ističe 3 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauzetu površinu o
@@ -202,14 +202,14 @@ URL:https://koncesijski-sat.vercel.app/#opcina/41942358B6406776425998
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Ivanić Gr
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Ivanić-Gr
  ad
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-1bd118dabf21c5af@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-47825a1c9f4a32dc@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20370112
 DTEND;VALUE=DATE:20370113
 SUMMARY:Ističe koncesija: ŠIRJAN D.O.O.
@@ -228,8 +228,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-1bd118dabf21c5af@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-47825a1c9f4a32dc@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20360712
 DTEND;VALUE=DATE:20360713
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ŠIRJAN D.O.O.)
@@ -249,11 +249,11 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-5ae6b611f5184bde@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-e7c4af2a42b4ccf4@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20401231
 DTEND;VALUE=DATE:20410101
-SUMMARY:Ističe 3 koncesije · Ivanić Grad
+SUMMARY:Ističe 3 koncesije · Ivanić-Grad
 DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2040. Godišnja fiksna na
  knada: 4.495 €.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauze
  tu površinu odobrenog eksploatacijskog polja (IVANIĆ GRAD) · davatelj: 
@@ -268,16 +268,16 @@ URL:https://koncesijski-sat.vercel.app/#opcina/41942358B6406776425998
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Ističe 3 koncesije · Ivanić Grad
+DESCRIPTION:Ističe 3 koncesije · Ivanić-Grad
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-5ae6b611f5184bde@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-e7c4af2a42b4ccf4@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20400630
 DTEND;VALUE=DATE:20400701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Ivanić Grad
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Ivanić-Grad
 DESCRIPTION:31. 12. 2040. ističe 3 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauzetu površinu o
@@ -292,17 +292,17 @@ URL:https://koncesijski-sat.vercel.app/#opcina/41942358B6406776425998
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Ivanić Gr
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Ivanić-Gr
  ad
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-0ff35a355dd7256f@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-b826fdb9cf242aae@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20411231
 DTEND;VALUE=DATE:20420101
-SUMMARY:Ističe 9 koncesija · Ivanić Grad
+SUMMARY:Ističe 9 koncesija · Ivanić-Grad
 DESCRIPTION:9 ugovora o koncesiji ističe 31. 12. 2041. Godišnja fiksna na
  knada: 28.679 €.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauz
  etu površinu odobrenog eksploatacijskog polja (IVANIĆ GRAD) · davatelj:
@@ -330,16 +330,16 @@ URL:https://koncesijski-sat.vercel.app/#opcina/41942358B6406776425998
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Ističe 9 koncesija · Ivanić Grad
+DESCRIPTION:Ističe 9 koncesija · Ivanić-Grad
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-0ff35a355dd7256f@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-b826fdb9cf242aae@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20410630
 DTEND;VALUE=DATE:20410701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 9 koncesija · Ivanić Grad
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 9 koncesija · Ivanić-Grad
 DESCRIPTION:31. 12. 2041. ističe 9 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauzetu površinu o
@@ -367,14 +367,14 @@ URL:https://koncesijski-sat.vercel.app/#opcina/41942358B6406776425998
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 9 koncesija · Ivanić Gr
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 9 koncesija · Ivanić-Gr
  ad
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-a1889851edfe72ed@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-9fa764e72d235f5d@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20441231
 DTEND;VALUE=DATE:20450101
 SUMMARY:Ističe koncesija: ŠIRJAN D.O.O.
@@ -393,8 +393,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-a1889851edfe72ed@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-9fa764e72d235f5d@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20440630
 DTEND;VALUE=DATE:20440701
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ŠIRJAN D.O.O.)
@@ -414,8 +414,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-cfa3fd812b7d2f39@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-d5c172c0c5941de3@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20451231
 DTEND;VALUE=DATE:20460101
 SUMMARY:Ističe koncesija: OBITELJSKI RADIO IVANIĆ D.O.O.
@@ -434,8 +434,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-cfa3fd812b7d2f39@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-d5c172c0c5941de3@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20450630
 DTEND;VALUE=DATE:20450701
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (OBITELJSKI RADIO
@@ -456,8 +456,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-3389c71ed1d0e569@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-bb0d543848d5a7ee@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20480920
 DTEND;VALUE=DATE:20480921
 SUMMARY:Ističe koncesija: INA-INDUSTRIJA NAFTE  D.D.
@@ -476,8 +476,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-3389c71ed1d0e569@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-bb0d543848d5a7ee@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20480320
 DTEND;VALUE=DATE:20480321
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA-INDUSTRIJA N
@@ -498,8 +498,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-70130ab8cd33edcc@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-bc1b891fc4baf9e4@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20481204
 DTEND;VALUE=DATE:20481205
 SUMMARY:Ističe koncesija: ŠIRJAN D.O.O. PODRAČUN
@@ -518,8 +518,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-70130ab8cd33edcc@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-bc1b891fc4baf9e4@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20480604
 DTEND;VALUE=DATE:20480605
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ŠIRJAN D.O.O. P

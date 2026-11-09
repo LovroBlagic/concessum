@@ -11,16 +11,16 @@ X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-f014cb7ea86874ad@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-bd7b8622dfd977f8@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20271231
 DTEND;VALUE=DATE:20280101
 SUMMARY:Ističe koncesija: DEZINSEKCIJA\, D. O. O.
 DESCRIPTION:1 ugovor o koncesiji ističe 31. 12. 2027. Godišnja fiksna nak
  nada: 768 €.\n\n• DEZINSEKCIJA\, D. O. O. – Koncesija na pomorskom d
- obru (KRK\, Otok Krk)\, 768 €/god.\n\nŠto ističe: https://koncesijski-
- sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski
-  sat 9. 11. 2026.
+ obru (KRK\, Otok Krk (Grad Krk i općine))\, 768 €/god.\n\nŠto ističe:
+  https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)
+ \, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -30,8 +30,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-f014cb7ea86874ad@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-bd7b8622dfd977f8@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20270630
 DTEND;VALUE=DATE:20270701
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DEZINSEKCIJA\, D
@@ -39,8 +39,8 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DEZINSEKCIJA\, D
 DESCRIPTION:31. 12. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• DEZINSEKCIJA\, D. O. O. – Koncesija na pomorskom dobru (KRK\, 
- Otok Krk)\, 768 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.a
- pp/#sat
+ Otok Krk (Grad Krk i općine))\, 768 €/god.\n\nŠto ističe: https://kon
+ cesijski-sat.vercel.app/#sat
 URL:https://koncesijski-sat.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -51,17 +51,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-3221b73a50408b72@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-15e83c875735d255@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20280611
 DTEND;VALUE=DATE:20280612
 SUMMARY:Ističe koncesija: FISH HOUSE OMIŠALJ D.O.O.-PODRAČUN
 DESCRIPTION:1 ugovor o koncesiji ističe 11. 6. 2028. Godišnja fiksna nakn
  ada: 11.308 €.\n\n• FISH HOUSE OMIŠALJ D.O.O.-PODRAČUN – Koncesija
   pomorskog dobra u svrhu gospodarskog korištenja luke (OMIŠALJ\, Otok Kr
- k)\, 11.308 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#
- sat\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026
- .
+ k (Grad Krk i općine))\, 11.308 €/god.\n\nŠto ističe: https://koncesi
+ jski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Konces
+ ijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -71,8 +71,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-3221b73a50408b72@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-15e83c875735d255@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20271211
 DTEND;VALUE=DATE:20271212
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (FISH HOUSE OMIŠ
@@ -80,8 +80,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (FISH HOUSE OMIŠ
 DESCRIPTION:11. 6. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• FISH HOUSE OMIŠALJ D.O.O.-PODRAČUN – Koncesija pomorskog dobr
- a u svrhu gospodarskog korištenja luke (OMIŠALJ\, Otok Krk)\, 11.308 €
- /god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
+ a u svrhu gospodarskog korištenja luke (OMIŠALJ\, Otok Krk (Grad Krk i o
+ pćine))\, 11.308 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel
+ .app/#sat
 URL:https://koncesijski-sat.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -92,16 +93,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-ab7f4f4f2c644d08@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-297181b757287600@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20280613
 DTEND;VALUE=DATE:20280614
 SUMMARY:Ističe koncesija: KRČKE VILLE D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 13. 6. 2028. Godišnja fiksna nakn
  ada: 5.256 €.\n\n• KRČKE VILLE D.O.O. – Koncesija pomorskog dobra u
-  svrhu gospodarskog korištenja luke (KRK\, Otok Krk)\, 5.256 €/god.\n\n
- Što ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar kon
- cesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+  svrhu gospodarskog korištenja luke (KRK\, Otok Krk (Grad Krk i općine))
+ \, 5.256 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
+ \nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -111,8 +112,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-ab7f4f4f2c644d08@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-297181b757287600@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20271213
 DTEND;VALUE=DATE:20271214
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (KRČKE VILLE D.O
@@ -120,8 +121,8 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (KRČKE VILLE D.O
 DESCRIPTION:13. 6. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• KRČKE VILLE D.O.O. – Koncesija pomorskog dobra u svrhu gospoda
- rskog korištenja luke (KRK\, Otok Krk)\, 5.256 €/god.\n\nŠto ističe: 
- https://koncesijski-sat.vercel.app/#sat
+ rskog korištenja luke (KRK\, Otok Krk (Grad Krk i općine))\, 5.256 €/g
+ od.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
 URL:https://koncesijski-sat.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -132,16 +133,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-f6a2e2bf33f437de@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-28ee72b2fce0da8d@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20290528
 DTEND;VALUE=DATE:20290529
 SUMMARY:Ističe koncesija: OTO-NAUTIKA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 28. 5. 2029. Godišnja fiksna nakn
  ada: 1.781 €.\n\n• OTO-NAUTIKA D.O.O. – Koncesija za luku (OMIŠALJ\
- , Otok Krk)\, 1.781 €/god.\n\nŠto ističe: https://koncesijski-sat.verc
- el.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 
- 11. 2026.
+ , Otok Krk (Grad Krk i općine))\, 1.781 €/god.\n\nŠto ističe: https:/
+ /koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrad
+ a Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -151,16 +152,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-f6a2e2bf33f437de@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-28ee72b2fce0da8d@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20281128
 DTEND;VALUE=DATE:20281129
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (OTO-NAUTIKA D.O.
  O.)
 DESCRIPTION:28. 5. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
- .\n\n• OTO-NAUTIKA D.O.O. – Koncesija za luku (OMIŠALJ\, Otok Krk)\, 
- 1.781 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
+ .\n\n• OTO-NAUTIKA D.O.O. – Koncesija za luku (OMIŠALJ\, Otok Krk (Gr
+ ad Krk i općine))\, 1.781 €/god.\n\nŠto ističe: https://koncesijski-s
+ at.vercel.app/#sat
 URL:https://koncesijski-sat.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -171,14 +173,14 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-5989b5f60a918d1f@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-da614fd64c4b533c@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20290623
 DTEND;VALUE=DATE:20290624
 SUMMARY:Ističe koncesija: KOMUNALNO DRUŠTVO DUBAŠNICA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 23. 6. 2029. Godišnja fiksna nakn
  ada: 23.625 €.\n\n• KOMUNALNO DRUŠTVO DUBAŠNICA D.O.O. – Koncesija
-  na pomorskom dobru (MALINSKA-DUBAŠNICA\, Općina Malinska - Dubašnica)\
+  na pomorskom dobru (MALINSKA-DUBAŠNICA\, Otok Krk (Grad Krk i općine))\
  , 23.625 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
  \nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#sat
@@ -190,8 +192,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-5989b5f60a918d1f@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-da614fd64c4b533c@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20281223
 DTEND;VALUE=DATE:20281224
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (KOMUNALNO DRUŠT
@@ -199,7 +201,7 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (KOMUNALNO DRUŠT
 DESCRIPTION:23. 6. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• KOMUNALNO DRUŠTVO DUBAŠNICA D.O.O. – Koncesija na pomorskom d
- obru (MALINSKA-DUBAŠNICA\, Općina Malinska - Dubašnica)\, 23.625 €/go
+ obru (MALINSKA-DUBAŠNICA\, Otok Krk (Grad Krk i općine))\, 23.625 €/go
  d.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
 URL:https://koncesijski-sat.vercel.app/#sat
 TRANSP:TRANSPARENT
@@ -211,15 +213,15 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-ec92a4ba45b1e1ff@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-5459b8c8257eccb0@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20290704
 DTEND;VALUE=DATE:20290705
 SUMMARY:Ističe koncesija: KOMUNALNO DRUŠTVO DUBAŠNICA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 4. 7. 2029. Godišnja fiksna nakna
  da: 3.283 €.\n\n• KOMUNALNO DRUŠTVO DUBAŠNICA D.O.O. – Koncesija z
  a obavljanje poslova organizacije i naplate parkiranja (MALINSKA-DUBAŠNIC
- A\, Općina Malinska - Dubašnica)\, 3.283 €/god.\n\nŠto ističe: https
+ A\, Otok Krk (Grad Krk i općine))\, 3.283 €/god.\n\nŠto ističe: https
  ://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obr
  ada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#sat
@@ -231,8 +233,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-ec92a4ba45b1e1ff@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-5459b8c8257eccb0@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20290104
 DTEND;VALUE=DATE:20290105
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (KOMUNALNO DRUŠT
@@ -240,8 +242,8 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (KOMUNALNO DRUŠT
 DESCRIPTION:4. 7. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• KOMUNALNO DRUŠTVO DUBAŠNICA D.O.O. – Koncesija za obavljanje p
- oslova organizacije i naplate parkiranja (MALINSKA-DUBAŠNICA\, Općina Ma
- linska - Dubašnica)\, 3.283 €/god.\n\nŠto ističe: https://koncesijski
+ oslova organizacije i naplate parkiranja (MALINSKA-DUBAŠNICA\, Otok Krk (
+ Grad Krk i općine))\, 3.283 €/god.\n\nŠto ističe: https://koncesijski
  -sat.vercel.app/#sat
 URL:https://koncesijski-sat.vercel.app/#sat
 TRANSP:TRANSPARENT
@@ -253,16 +255,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-d2684527382cbc3d@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-a87a1bcb87b667c1@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20300804
 DTEND;VALUE=DATE:20300805
 SUMMARY:Ističe koncesija: FLASH ENERGY D.O.O
 DESCRIPTION:1 ugovor o koncesiji ističe 4. 8. 2030. Godišnja fiksna nakna
  da: 2.476 €.\n\n• FLASH ENERGY D.O.O – Koncesija pomorskog dobra u s
- vrhu gospodarskog korištenja luke (KRK\, Otok Krk)\, 2.476 €/god.\n\nŠ
- to ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar konce
- sija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ vrhu gospodarskog korištenja luke (KRK\, Otok Krk (Grad Krk i općine))\,
+  2.476 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\n
+ Izvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -272,8 +274,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-d2684527382cbc3d@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-a87a1bcb87b667c1@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20300204
 DTEND;VALUE=DATE:20300205
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (FLASH ENERGY D.O
@@ -281,8 +283,8 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (FLASH ENERGY D.O
 DESCRIPTION:4. 8. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• FLASH ENERGY D.O.O – Koncesija pomorskog dobra u svrhu gospodars
- kog korištenja luke (KRK\, Otok Krk)\, 2.476 €/god.\n\nŠto ističe: ht
- tps://koncesijski-sat.vercel.app/#sat
+ kog korištenja luke (KRK\, Otok Krk (Grad Krk i općine))\, 2.476 €/god
+ .\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
 URL:https://koncesijski-sat.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -293,16 +295,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-e870690da161d33b@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-8371d41b46246a65@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20310408
 DTEND;VALUE=DATE:20310409
 SUMMARY:Ističe koncesija: INA-INDUSTRIJA NAFTE  D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 8. 4. 2031. Godišnja fiksna nakna
  da: 1.875 €.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija na pomorsko
- m dobru (KRK\, Otok Krk)\, 1.875 €/god.\n\nŠto ističe: https://koncesi
- jski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Konces
- ijski sat 9. 11. 2026.
+ m dobru (KRK\, Otok Krk (Grad Krk i općine))\, 1.875 €/god.\n\nŠto ist
+ iče: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (
+ FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -312,8 +314,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-e870690da161d33b@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-8371d41b46246a65@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20301008
 DTEND;VALUE=DATE:20301009
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA-INDUSTRIJA N
@@ -321,8 +323,8 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA-INDUSTRIJA N
 DESCRIPTION:8. 4. 2031. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija na pomorskom dobru (KRK\,
-  Otok Krk)\, 1.875 €/god.\n\nŠto ističe: https://koncesijski-sat.verce
- l.app/#sat
+  Otok Krk (Grad Krk i općine))\, 1.875 €/god.\n\nŠto ističe: https://
+ koncesijski-sat.vercel.app/#sat
 URL:https://koncesijski-sat.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -333,16 +335,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-ca27177b9cf62c8d@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-fa565d4ac08cafab@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20310521
 DTEND;VALUE=DATE:20310522
 SUMMARY:Ističe koncesija: INA-INDUSTRIJA NAFTE  D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 21. 5. 2031. Godišnja fiksna nakn
  ada: 1.326 €.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija na pomorsk
- om dobru (KRK\, Otok Krk)\, 1.326 €/god.\n\nŠto ističe: https://konces
- ijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Konce
- sijski sat 9. 11. 2026.
+ om dobru (KRK\, Otok Krk (Grad Krk i općine))\, 1.326 €/god.\n\nŠto is
+ tiče: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija 
+ (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -352,8 +354,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-ca27177b9cf62c8d@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-fa565d4ac08cafab@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20301121
 DTEND;VALUE=DATE:20301122
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA-INDUSTRIJA N
@@ -361,8 +363,8 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA-INDUSTRIJA N
 DESCRIPTION:21. 5. 2031. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija na pomorskom dobru (KRK\
- , Otok Krk)\, 1.326 €/god.\n\nŠto ističe: https://koncesijski-sat.verc
- el.app/#sat
+ , Otok Krk (Grad Krk i općine))\, 1.326 €/god.\n\nŠto ističe: https:/
+ /koncesijski-sat.vercel.app/#sat
 URL:https://koncesijski-sat.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -373,16 +375,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-5f6ac73152378e04@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-37984391b2599755@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20360721
 DTEND;VALUE=DATE:20360722
 SUMMARY:Ističe koncesija: GAME J. D. O. O.
 DESCRIPTION:1 ugovor o koncesiji ističe 21. 7. 2036. Godišnja fiksna nakn
  ada: 5.000 €.\n\n• GAME J. D. O. O. – Koncesija za obavljanje poslov
- a organizacije i naplate parkiranja (OMIŠALJ\, Otok Krk)\, 5.000 €/god.
- \n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar
-  koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ a organizacije i naplate parkiranja (OMIŠALJ\, Otok Krk (Grad Krk i opći
+ ne))\, 5.000 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/
+ #sat\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 202
+ 6.
 URL:https://koncesijski-sat.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -392,8 +395,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-5f6ac73152378e04@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-37984391b2599755@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20360121
 DTEND;VALUE=DATE:20360122
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (GAME J. D. O. O.
@@ -401,8 +404,8 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (GAME J. D. O. O.
 DESCRIPTION:21. 7. 2036. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• GAME J. D. O. O. – Koncesija za obavljanje poslova organizacije
-  i naplate parkiranja (OMIŠALJ\, Otok Krk)\, 5.000 €/god.\n\nŠto isti
- če: https://koncesijski-sat.vercel.app/#sat
+  i naplate parkiranja (OMIŠALJ\, Otok Krk (Grad Krk i općine))\, 5.000 
+ €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
 URL:https://koncesijski-sat.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -413,15 +416,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-a3155bb17f8d16e7@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-01606eae8185724e@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20370602
 DTEND;VALUE=DATE:20370603
 SUMMARY:Ističe koncesija: VECLA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 2. 6. 2037. Godišnja fiksna nakna
- da: 10.246 €.\n\n• VECLA D.O.O. – Koncesija za luku (KRK\, Otok Krk)
- \, 10.246 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sa
- t\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ da: 10.246 €.\n\n• VECLA D.O.O. – Koncesija za luku (KRK\, Otok Krk 
+ (Grad Krk i općine))\, 10.246 €/god.\n\nŠto ističe: https://koncesijs
+ ki-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Koncesij
+ ski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -431,15 +435,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-a3155bb17f8d16e7@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-01606eae8185724e@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20361202
 DTEND;VALUE=DATE:20361203
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VECLA D.O.O.)
 DESCRIPTION:2. 6. 2037. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
- \n\n• VECLA D.O.O. – Koncesija za luku (KRK\, Otok Krk)\, 10.246 €/g
- od.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
+ \n\n• VECLA D.O.O. – Koncesija za luku (KRK\, Otok Krk (Grad Krk i op
+ ćine))\, 10.246 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.
+ app/#sat
 URL:https://koncesijski-sat.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM

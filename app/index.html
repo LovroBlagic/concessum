@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Koncesijski sat</title>
-  <meta name="description" content="Koje koncesije u Hrvatskoj uskoro ističu, i gdje istekle koncesije ostaju bez nastavka – pregled po općinama iz Registra koncesija (FINA).">
+  <meta name="description" content="Koje koncesije u Hrvatskoj uskoro ističu, što je stvarni predmet ugovora (AI sažetak), kakav je portfelj koncesionara po OIB-u i gdje istekle koncesije ostaju bez nastavka.">
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -23,6 +23,7 @@
           <li><a href="#karta" data-ruta="karta">Karta</a></li>
           <li><a href="#sat" data-ruta="sat">Što ističe</a></li>
           <li><a href="#opcina" data-ruta="opcina">Profil općine</a></li>
+          <li><a href="#revizija" data-ruta="revizija">Rizici i revizija</a></li>
           <li><a href="#metodologija" data-ruta="metodologija">Metodologija</a></li>
         </ul>
       </nav>
@@ -32,9 +33,9 @@
   <main id="sadrzaj" class="omotac" tabindex="-1">
     <aside class="upute" id="upute" hidden aria-label="Kako koristiti">
       <ol>
-        <li><b>Upišite svoju općinu</b> u tražilicu gore ili kliknite na kartu – dobit ćete profil s rokovima, naknadama i sažetkom.</li>
-        <li><b>Što ističe</b> pokazuje sve ugovore kojima rok istječe po mjesecima; klik na stupac suzi popis na taj mjesec.</li>
-        <li>Popis <b>preuzmite u Excel (CSV)</b> ili <b>dodajte rokove u kalendar</b> s podsjetnikom 6 mjeseci prije isteka.</li>
+        <li><b>Upišite općinu</b> gore ili kliknite na kartu – dobit ćete profil spojen s 5 izvora s <code>data.gov.hr</code> (OIB, stanovništvo, porezne stope, rokovi).</li>
+        <li><b>Kliknite na bilo koji ugovor</b> u tablici za <b>✨ AI sažetak stvarne namjene</b> (npr. hotelska plaža, bunker stanica, marikultura), OIB portfelj tvrtke i <b>zakonski hodogram nabave</b>.</li>
+        <li>U kartici <b>Rizici i revizija</b> pregledajte cjenovne odmake, najveće koncesionare po OIB-u i jednim klikom generirajte službeni dopis ili ZPPI zahtjev.</li>
       </ol>
       <button type="button" class="gumb gumb-tih" id="upute-zatvori" aria-label="Zatvori upute">Razumijem</button>
     </aside>
@@ -45,13 +46,18 @@
       <label>Sektor
         <select id="f-sektor"></select>
       </label>
+      <label>AI namjena (u naravi)
+        <select id="f-namjena"></select>
+      </label>
       <label class="samo-karta">Pokazatelj na karti
         <select id="f-pokazatelj">
           <option value="udio">Udio isteklih bez nastavka</option>
           <option value="istjece12">Ističe u idućih 12 mjeseci</option>
           <option value="naknada12">Naknada koja ističe u 12 mj. (EUR)</option>
+          <option value="naknadaSt">Aktivna naknada po stanovniku (EUR / st.)</option>
           <option value="aktivne">Aktivne koncesije</option>
           <option value="bez">Istekle bez nastavka (broj)</option>
+          <option value="rizik">Ugovori s cjenovnim odmakom / rizikom</option>
         </select>
       </label>
       <label class="samo-sat">Razdoblje
@@ -63,7 +69,7 @@
         </select>
       </label>
       <label class="samo-sat samo-opcina">Traži
-        <input type="search" id="f-trazi" placeholder="koncesionar, davatelj, vrsta…">
+        <input type="search" id="f-trazi" placeholder="koncesionar, OIB, davatelj, namjena…">
       </label>
     </div>
 
@@ -93,17 +99,20 @@
       <div class="kartica">
         <div class="kartica-glava">
           <h1 id="h-sat">Što ističe i kada</h1>
-          <p class="opis">Broj ugovora koji ističu po mjesecima, po sektoru. Klik na stupac filtrira tablicu na taj mjesec.</p>
+          <p class="opis">Broj ugovora koji ističu po mjesecima, po sektoru. Klik na stupac filtrira tablicu na taj mjesec, a klik na ugovor u tablici otvara AI sažetak i zakonski hodogram postupka.</p>
         </div>
         <div id="graf-sat" class="graf" role="img"></div>
       </div>
       <div class="kartica">
         <div class="kartica-glava red-razmak">
-          <h2 id="tablica-sat-naslov">Ugovori koji ističu</h2>
+          <div>
+            <h2 id="tablica-sat-naslov">Ugovori koji ističu</h2>
+            <p class="opis">Kliknite na bilo koji redak za ✨ AI sažetak koncesije, OIB portfelj koncesionara, zakonski hodogram nabave i generator dopisa.</p>
+          </div>
           <div class="gumbi">
             <button type="button" class="gumb" id="sat-ponisti" hidden>Prikaži sve mjesece</button>
             <button type="button" class="gumb" id="sat-csv" title="Svi ugovori s popisa, za Excel">Preuzmi CSV</button>
-            <button type="button" class="gumb" id="sat-ics" title="Rok svakog ugovora kao događaj, s podsjetnikom 6 mjeseci i mjesec dana prije">Dodaj u kalendar</button>
+            <button type="button" class="gumb" id="sat-ics" title="Rok svakog ugovora kao događaj, s podsjetnikom 6 mjeseci i mjesec dana prije">Dodaj u kalendar (.ics)</button>
           </div>
         </div>
         <div class="tablica-omotac"><table class="tablica" id="tablica-sat"></table></div>
@@ -119,12 +128,14 @@
           <label>Općina / grad
             <select id="f-opcina"></select>
           </label>
+          <button type="button" class="gumb" id="opcina-dopis" title="Generiraj službeni dopis ili ZPPI zahtjev za ovu općinu">✉️ Dopis / ZPPI za općinu</button>
           <button type="button" class="gumb" id="opcina-ispis" title="Ispis ili spremanje profila kao PDF">Ispiši izvještaj</button>
           <button type="button" class="gumb gumb-puni" id="opcina-pretplata" aria-haspopup="dialog" title="Kalendar s rokovima ove općine koji se sam osvježava">Pretplati se na rokove</button>
         </div>
       </div>
+      <div class="jls-traka" id="opcina-meta" aria-label="Povezani podaci s data.gov.hr"></div>
       <div class="kpi-red" id="opcina-kpi"></div>
-      <p class="sazetak" id="opcina-sazetak"></p>
+      <div class="sazetak" id="opcina-sazetak"></div>
       <div class="dva-stupca">
         <div class="kartica">
           <div class="kartica-glava"><h2>Ugovori kroz vrijeme</h2>
@@ -138,7 +149,11 @@
         </div>
       </div>
       <div class="kartica">
-        <div class="kartica-glava red-razmak"><h2>Svi ugovori</h2>
+        <div class="kartica-glava red-razmak">
+          <div>
+            <h2>Svi ugovori općine</h2>
+            <p class="opis">Kliknite na ugovor za ✨ AI procjenu stvarne namjene, OIB portfelj koncesionara i hodogram javne nabave.</p>
+          </div>
           <div class="gumbi">
             <button type="button" class="gumb" id="opcina-csv" title="Svi ugovori općine, za Excel">Preuzmi CSV</button>
             <button type="button" class="gumb" id="opcina-ics" title="Jednokratna kopija rokova (.ics) s podsjetnikom 6 mjeseci i mjesec dana prije; za kalendar koji se sam osvježava koristite pretplatu">Preuzmi rokove (.ics)</button>
@@ -149,45 +164,137 @@
       </div>
     </section>
 
+    <!-- RIZICI I REVIZIJA -->
+    <section class="ekran" id="ekran-revizija" aria-labelledby="h-revizija" hidden>
+      <div class="kartica">
+        <div class="kartica-glava red-razmak">
+          <div>
+            <h1 id="h-revizija">Sustav ranog upozoravanja i revizije rizika</h1>
+            <p class="opis">Automatska detekcija ugovora s cjenovnim odmakom (ispod 15 % medijana iste AI namjene), izrazito dugim trajanjem (&gt; 30 god.) ili bez upisane naknade. Kliknite na ugovor za AI uvid i ZPPI upit.</p>
+            <div class="pilule" role="group" aria-label="Vrsta rizika">
+              <button type="button" class="pilula" data-rizik="1" aria-pressed="true">⚠️ Cjenovni odmak (niska naknada)</button>
+              <button type="button" class="pilula" data-rizik="2" aria-pressed="false">⏳ Rok dulji od 30 godina</button>
+              <button type="button" class="pilula" data-rizik="4" aria-pressed="false">❓ Bez upisane naknade (aktivni)</button>
+              <button type="button" class="pilula" data-rizik="0" aria-pressed="false">Svi označeni ugovori</button>
+            </div>
+          </div>
+          <div class="gumbi">
+            <button type="button" class="gumb" id="revizija-csv">Preuzmi rizične ugovore (CSV)</button>
+          </div>
+        </div>
+        <div class="tablica-omotac"><table class="tablica" id="tablica-revizija"></table></div>
+        <p class="opis" id="tablica-revizija-napomena"></p>
+      </div>
+
+      <div class="dva-stupca">
+        <div class="kartica">
+          <div class="kartica-glava">
+            <h2>Najveći koncesionari u RH (povezano po OIB-u)</h2>
+            <p class="opis">Koncesionari grupirani po OIB-u kroz sve varijacije naziva, s AI klasifikacijom djelatnosti, brojem općina i ukupnom naknadom.</p>
+          </div>
+          <div class="tablica-omotac"><table class="tablica" id="tablica-koncesionari"></table></div>
+        </div>
+        <div class="kartica">
+          <div class="kartica-glava">
+            <h2>Općine s najvećim fiskalnim rizikom u 12 mj.</h2>
+            <p class="opis">Povezano s DZS Popisom 2021. i Poreznom upravom: gdje ističe najviše naknade po stanovniku (€/st.) uz povijesni udio bez nastavka.</p>
+          </div>
+          <div class="tablica-omotac"><table class="tablica" id="tablica-fiskalni-rizik"></table></div>
+        </div>
+      </div>
+    </section>
+
     <!-- METODOLOGIJA -->
     <section class="ekran tekst" id="ekran-metodologija" aria-labelledby="h-met" hidden>
-      <h1 id="h-met">Metodologija</h1>
-      <h2>Izvor</h2>
-      <p>Registar koncesija Ministarstva financija, javni pregled na <a href="https://servisi.fina.hr/regkonc/" rel="noopener">servisi.fina.hr/regkonc</a>.
-        Granice općina i gradova: <a href="https://www.geoboundaries.org/" rel="noopener">geoBoundaries</a> (HRV ADM2, CC BY 4.0).</p>
-      <h2>Otvoreni podaci</h2>
-      <p>Obrađeni skup (svi ugovori s općinom, sektorom, ishodom nakon isteka i naknadom) slobodno je dostupan kao
-        <a href="data/koncesije.csv" download>koncesije.csv</a> (UTF-8). Izvor je skup „Informacije o ugovorenim koncesijama“ na
-        <a href="https://data.gov.hr/ckan/dataset/informacije-o-ugovorenim-koncesijama" rel="noopener">Portalu otvorenih podataka</a> (Otvorena dozvola).</p>
-      <h2>Obrada</h2>
+      <h1 id="h-met">Metodologija i povezani izvori podataka</h1>
+      <h2>Povezanih 5 otvorenih skupova s Portala otvorenih podataka (data.gov.hr)</h2>
+      <p>Koncesijski sat putem CKAN Action API-ja (<code>izvori.py</code>) dohvaća, provjerava i povezuje pet nacionalnih otvorenih skupova podataka te geografske granice:</p>
       <ol>
-        <li>Iz registra uzimamo davatelja, lokaciju, koncesionara, vrstu i datume početka i isteka; duplikati se uklanjaju. Ugovori s nemogućim datumom isteka (npr. godina 0039) su izostavljeni.</li>
-        <li><strong>Općina</strong> se određuje iz polja LOKACIJA, a ako se ne može prepoznati, iz naziva davatelja. Nazivi se normaliziraju (bez „Grad“/„Općina“, dijakritika i dvojezičnih nastavaka), a sitne razlike u pisanju hvataju se usporedbom sličnosti (≥ 88 %). Otočne općine Krka i Lošinja smještene su na poligon otoka jer ga geoBoundaries ne dijeli. Na općinu je smješteno <span id="m-smjesteno"></span> ugovora.</li>
-        <li><strong>Status</strong> se računa u odnosu na današnji datum u pregledniku: aktivna, ističe u 6/12/24 mjeseca ili istekla.</li>
-        <li><strong>Nastavak nakon isteka</strong> promatramo samo za ugovore istekle prije više od 12 mjeseci, da je novi ugovor imao vremena biti sklopljen:
-          <ul>
-            <li><em>obnovljena</em> – isti davatelj, vrsta i lokacija; isti koncesionar sklopio je novi ugovor koji počinje od mjesec dana prije do 12 mjeseci nakon isteka;</li>
-            <li><em>zamjena</em> – u istom razdoblju postoji novi ugovor iste vrste na istoj lokaciji, ali s drugim koncesionarom;</li>
-            <li><em>bez nastavka</em> – ni jedno ni drugo.</li>
-          </ul>
-        </li>
-        <li>Zdravstvene koncesije isključene su iz pokazatelja nastavka: ukinute su zakonom (s 4.293 u 2018. na 1 u 2024.), pa njihov istek nije propust.</li>
-        <li>Sektori su grupe stotinjak različitih naziva vrsta koncesija, prema ključnim riječima u nazivu.</li>
+        <li><strong>Informacije o ugovorenim koncesijama (Registar koncesija, FINA / Ministarstvo financija)</strong> – <a href="https://data.gov.hr/ckan/dataset/informacije-o-ugovorenim-koncesijama" rel="noopener">data.gov.hr</a> (Otvorena dozvola): ugovori, OIB davatelja i koncesionara, rokovi te fiksne i varijabilne naknade.</li>
+        <li><strong>Popis brojčanih oznaka javnopravnih tijela (MPUDT, živi JSON API <code>jpt.gov.hr</code>)</strong> – <a href="https://data.gov.hr/ckan/dataset/popis-javnopravnih-tijela" rel="noopener">data.gov.hr</a> (Otvorena dozvola): spajanje preko <code>OIB_DAVAT</code> za svih 4.679 javnopravnih tijela (vrsta tijela, nadležna županija, sjedište za precizno smještanje lučkih uprava na općinu te službene e-adrese za generiranje dopisa).</li>
+        <li><strong>Popis stanovništva 2021. po gradovima i općinama (Državni zavod za statistiku, DZS)</strong> – <a href="https://data.gov.hr/ckan/dataset/statistika-u-nizu-popis-stanovnistva-kucanstava-i-stanova-2021" rel="noopener">data.gov.hr</a> (Otvorena dozvola): broj stanovnika svih 556 JLS-ova za izračun koncesijske naknade po stanovniku (€/st.).</li>
+        <li><strong>Adresar tijela javne vlasti (MPUDT / SDU)</strong> – <a href="https://data.gov.hr/ckan/dataset/adresar-tijela-javne-vlasti" rel="noopener">data.gov.hr</a> (Otvorena dozvola): službene web-stranice gradova i općina.</li>
+        <li><strong>Usporedba poreznih stopa prema odlukama JLS-ova za 2025. i 2026. (Porezna uprava)</strong> – <a href="https://data.gov.hr/ckan/dataset/https-porezna-uprava-gov-hr-hr-odluke-jls-4009" rel="noopener">data.gov.hr</a> (Otvorena dozvola): niža i viša stopa poreza na dohodak po jedinici za usporedbu poreznog opterećenja građana s propuštenim prihodima od koncesija.</li>
+        <li><strong>geoBoundaries HRV ADM2</strong> (<a href="https://www.geoboundaries.org/" rel="noopener">geoboundaries.org</a>, CC BY 4.0) – poligoni općina i gradova uz ispravljene tipfelere u nazivima.</li>
+      </ol>
+      <h2>Otvoreni izvoz</h2>
+      <p>Obrađeni i obogaćeni skup (svi ugovori s općinom, vrstom davatelja iz JPT-a, AI procjenom stvarne namjene, ishodom nakon isteka te fiksnom i varijabilnom naknadom) slobodno je dostupan kao <a href="data/koncesije.csv" download>koncesije.csv</a> (UTF-8).</p>
+      <h2>Obrada, AI sažetak namjene i detekcija anomalija</h2>
+      <ol>
+        <li><strong>Smještanje na općinu (97,3 % ugovora):</strong> određuje se iz polja <code>LOKACIJA</code>, zatim preko <code>OIB_DAVAT</code> iz živog registra <code>jpt.gov.hr</code> (čime se lučke uprave i lokalne ustanove točno pripisuju gradu/općini sjedišta) te naposljetku iz naziva davatelja uz normalizaciju i usporedbu sličnosti (≥ 88 %). Na općinu je smješteno <span id="m-smjesteno"></span> ugovora (preostalih 2,7 % odnosi se na cijelu RH ili više županija).</li>
+        <li><strong>AI sažetak i klasifikacija stvarne namjene (26 kategorija):</strong> u Registru koncesija ugovori su često zavedeni pod općenitim nazivom (npr. <em>„Koncesija na pomorskom dobru“</em> ili <em>„Koncesija za luku“</em>). Klasifikator analizira profil i djelatnost koncesionara po OIB-u (npr. hotelska kuća, naftna kompanija, putnička agencija, marikultura, komunalno poduzeće, sportski klub), zakonsku ulogu davatelja (lučka uprava vs. županija/ministarstvo) i lokaciju te određuje što je ugovor u naravi (npr. <em>hotelska plaža uz resort</em>, <em>obalna benzinska postaja za plovila</em>, <em>prihvat putnika s kruzera</em>, <em>uzgajalište školjkaša</em> ili <em>podmorski ispust</em>).</li>
+        <li><strong>Povezivanje koncesionara po OIB-u i zaštita privatnosti (GDPR):</strong> pravne osobe grupiraju se po <code>OIB_KORIS</code> unatoč različitim zapisima naziva u registru (npr. <em>INA d.d.</em> / <em>INA-Industrija nafte d.d.</em>). Za fizičke osobe i obrte OIB se ne izlaže u sučelju niti u otvorenom izvozu.</li>
+        <li><strong>Nastavak nakon isteka:</strong> za ugovore istekle prije više od 12 mjeseci (bez ukinutih zdravstvenih koncesija) provjerava se postoji li u razdoblju od −1 do +12 mjeseci novi ugovor istog davatelja, vrste i lokacije (<em>obnovljena</em> s istim OIB-om koncesionara, <em>zamjena</em> s drugim koncesionarom ili <em>bez nastavka</em>).</li>
+        <li><strong>Cjenovni odmaci i rizici:</strong> za svaku od 26 stvarnih namjena računa se medijan godišnje fiksne naknade u RH. Ugovori čija je fiksna naknada manja od 15 % medijana istovrsnih ugovora (i &lt; 250 €) bez ugovorene varijabilne naknade označavaju se kao signal za reviziju.</li>
       </ol>
       <h2>Ograničenja</h2>
       <ul>
-        <li>Registar nema točnu lokaciju unutar općine (npr. koja plaža), pa „bez nastavka“ znači da u općini nije sklopljen novi ugovor iste vrste, ne nužno da je konkretni prostor ostao prazan. Može biti i obrnuto: nastavak drugdje u općini prikriva prazan prostor.</li>
-        <li>Neki davatelji upisuju ugovore kasno ili ne upisuju sve anekse; produljenje aneksom bez novog ugovora izgleda kao „bez nastavka“.</li>
-        <li>Koncesije koje daje država ili županija pripisane su općini u kojoj se nalaze, ne davatelju.</li>
-        <li><strong>Naknada</strong> je ugovoreni iznos jednogodišnje <em>fiksne</em> naknade iz registra (UGOV_IZN_JEDNOGOD_NAK_U_EUR), poznat za većinu ugovora. Varijabilni dio (postotak prihoda i sl.) u registru nema iznos, pa su prikazani iznosi donja granica stvarnog prihoda.</li>
+        <li>Registar ne sadrži katastarsku česticu, pa „bez nastavka“ znači da u općini nije sklopljen novi ugovor iste vrste, a AI procjena namjene je analitički uvid izveden iz djelatnosti subjekta i vrste ugovora, ne iz tekstualnog ugovora.</li>
+        <li>Prikazani iznosi naknade u eurima predstavljaju ugovorenu <em>fiksnu</em> godišnju naknadu, dok je varijabilni dio (npr. postotak prihoda) istaknut uz ugovor, ali njegov ostvareni godišnji iznos u eurima nije javan u FINA-inom izvozu.</li>
       </ul>
       <p class="opis" id="m-generirano"></p>
     </section>
   </main>
 
+  <!-- MODAL UGOVORA: AI SAŽETAK, OIB PORTFELJ, ZAKONSKI HODOGRAM I DOPIS -->
+  <dialog id="modal-ugovor" class="modal" aria-labelledby="m-naslov">
+    <div class="modal-glava">
+      <div>
+        <div id="m-oznake" class="gumbi"></div>
+        <h2 id="m-naslov">Detalji ugovora o koncesiji</h2>
+        <p class="opis" id="m-podnaslov"></p>
+      </div>
+      <button type="button" class="gumb" id="m-zatvori" aria-label="Zatvori prozor">✕ Zatvori</button>
+    </div>
+    <div class="modal-tijelo">
+      <div class="ai-okvir">
+        <div class="ai-okvir-naslov">
+          <span>✨ AI sažetak i procjena stvarnog predmeta koncesije</span>
+          <span id="m-ai-bedz" class="ai-oznaka"></span>
+        </div>
+        <div id="m-ai-tekst"></div>
+      </div>
+
+      <div class="modal-mreza">
+        <div class="mini-kartica" id="m-korisnik-kartica"></div>
+        <div class="mini-kartica" id="m-davatelj-kartica"></div>
+      </div>
+
+      <div class="kartica" id="m-hodogram-kartica">
+        <div class="kartica-glava red-razmak">
+          <div>
+            <h2>Zakonski hodogram postupka (Zakon o koncesijama, NN 69/17, 107/20)</h2>
+            <p class="opis">Preporučeni zakonski koraci i rokovi prije isteka ugovora kako ne bi došlo do prekida koncesije i gubitka proračunskog prihoda.</p>
+          </div>
+          <button type="button" class="gumb" id="m-hodogram-ics">📅 Dodaj svih 5 koraka u kalendar (.ics)</button>
+        </div>
+        <ol class="hodogram" id="m-hodogram"></ol>
+      </div>
+
+      <div class="kartica">
+        <div class="kartica-glava red-razmak">
+          <div>
+            <h2>Generator službenog dopisa / Zahtjeva za pristup informacijama (ZPPI)</h2>
+            <p class="opis">Gotov predložak s podacima ugovora i službenom e-adresom davatelja iz Registra javnopravnih tijela (<code>jpt.gov.hr</code>).</p>
+          </div>
+          <div class="pilule" role="group" aria-label="Vrsta predloška">
+            <button type="button" class="pilula" id="m-tip-sluzbenik" aria-pressed="true">🏛️ Za službenika (priprema postupka)</button>
+            <button type="button" class="pilula" id="m-tip-zppi" aria-pressed="false">🔍 Za građane i novinare (ZPPI zahtjev)</button>
+          </div>
+        </div>
+        <textarea id="m-dopis-tekst" class="dopis-polje" aria-label="Tekst generiranog dopisa"></textarea>
+        <div class="gumbi" style="margin-top:10px">
+          <button type="button" class="gumb gumb-puni" id="m-dopis-kopiraj">📋 Kopiraj tekst dopisa</button>
+          <a class="gumb" id="m-dopis-mailto" href="#">✉️ Otvori u programu za e-poštu</a>
+          <span class="opis" id="m-dopis-status"></span>
+        </div>
+      </div>
+    </div>
+  </dialog>
+
   <footer class="podnozje omotac">
-    <p>Podaci: Registar koncesija (FINA / Ministarstvo financija) s <a href="https://data.gov.hr/" rel="noopener">data.gov.hr</a>, geoBoundaries. ·
-      <a href="data/koncesije.csv" download>Preuzmi podatke (CSV)</a> · <a href="https://github.com/LovroBlagic/koncesijski-sat" rel="noopener">Izvorni kod</a> ·
+    <p>Podaci (5 skupova s <a href="https://data.gov.hr/" rel="noopener">data.gov.hr</a>): Registar koncesija (FINA / MFIN), Popis javnopravnih tijela (<code>jpt.gov.hr</code>), Popis stanovništva 2021. (DZS), Adresar tijela javne vlasti, Stope poreza na dohodak JLS (Porezna uprava) + geoBoundaries. ·
+      <a href="data/koncesije.csv" download>Preuzmi obogaćene podatke (CSV)</a> · <a href="https://github.com/LovroBlagic/koncesijski-sat" rel="noopener">Izvorni kod</a> ·
       Datathon Portala otvorenih podataka, izazov <em>Gospodarstvo i učinkovito upravljanje</em>.</p>
   </footer>
 

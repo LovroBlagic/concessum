@@ -3,8 +3,8 @@ VERSION:2.0
 PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Rokovi koncesija · Opicina Pirovac
-X-WR-CALDESC:Svi ugovori o koncesiji na području: Opicina Pirovac (pregled
+X-WR-CALNAME:Rokovi koncesija · Općina Pirovac
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Općina Pirovac (pregled
  \, svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježava 
  se nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#opcina
  /41942358B56064565121242
@@ -12,8 +12,8 @@ X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-14b7bb9713223380@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-528014217a55a28e@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20330904
 DTEND;VALUE=DATE:20330905
 SUMMARY:Ističe koncesija: PIROVČANKA POLJOPRIVREDNA ZADRUGA
@@ -32,8 +32,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-14b7bb9713223380@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-528014217a55a28e@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20330304
 DTEND;VALUE=DATE:20330305
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PIROVČANKA POLJ
@@ -54,8 +54,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-0ab0bb84f441ce84@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-4dc1699fd8e99e4e@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20330924
 DTEND;VALUE=DATE:20330925
 SUMMARY:Ističe koncesija: MARINA PIROVAC D.O.O.
@@ -74,8 +74,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-0ab0bb84f441ce84@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-4dc1699fd8e99e4e@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20330324
 DTEND;VALUE=DATE:20330325
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MARINA PIROVAC D
@@ -96,8 +96,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-297172b92a826ec8@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-9af7f59761821ab7@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20390610
 DTEND;VALUE=DATE:20390611
 SUMMARY:Ističe koncesija: HEP - OPERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O.
@@ -117,8 +117,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-297172b92a826ec8@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-9af7f59761821ab7@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20381210
 DTEND;VALUE=DATE:20381211
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP - OPERATOR D
@@ -139,8 +139,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-046f56d9ac51c889@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-919538fe7ceb5a99@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20440314
 DTEND;VALUE=DATE:20440315
 SUMMARY:Ističe koncesija: VODOVOD I ODVODNJA D.O.O.
@@ -159,8 +159,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-046f56d9ac51c889@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-919538fe7ceb5a99@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20430914
 DTEND;VALUE=DATE:20430915
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VODOVOD I ODVODN
@@ -181,8 +181,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-7d479d5fdb5bf8ea@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-a87d60cfef2fe15b@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20460129
 DTEND;VALUE=DATE:20460130
 SUMMARY:Ističe koncesija: VRILO D.O.O.
@@ -200,8 +200,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-7d479d5fdb5bf8ea@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-a87d60cfef2fe15b@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20450729
 DTEND;VALUE=DATE:20450730
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VRILO D.O.O.)
@@ -220,11 +220,11 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-d75990495433de81@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-ca76e91381930caa@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20551231
 DTEND;VALUE=DATE:20560101
-SUMMARY:Ističe 3 koncesije · Opicina Pirovac
+SUMMARY:Ističe 3 koncesije · Pirovac
 DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2055. Godišnja fiksna na
  knada: 1.324 €.\n\n• SARAĐEN D.O.O. – Koncesija za površinu utvrđ
  enog eksploatacijskog polja neenergetskih mineralnih sirovina (PIROVAC) ·
@@ -239,17 +239,16 @@ URL:https://koncesijski-sat.vercel.app/#opcina/41942358B56064565121242
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Ističe 3 koncesije · Opicina Pirovac
+DESCRIPTION:Ističe 3 koncesije · Pirovac
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-d75990495433de81@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-ca76e91381930caa@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20550630
 DTEND;VALUE=DATE:20550701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Opicina Pirova
- c
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Pirovac
 DESCRIPTION:31. 12. 2055. ističe 3 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• SARAĐEN D.O.O. – Koncesija za površinu utvrđenog eksploata
@@ -264,8 +263,7 @@ URL:https://koncesijski-sat.vercel.app/#opcina/41942358B56064565121242
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Opicina Pi
- rovac
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Pirovac
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT

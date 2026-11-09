@@ -11,16 +11,16 @@ X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-b3705a0ad67db1f0@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-7269f6291a225e8b@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20290318
 DTEND;VALUE=DATE:20290319
 SUMMARY:Ističe koncesija: MLD-USLUGE D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 18. 3. 2029. Godišnja fiksna nakn
  ada: 1.330 €.\n\n• MLD-USLUGE D.O.O. – Koncesija za obavljanje dimnj
- ačarskih poslova (KRK\, Otok Krk)\, 1.330 €/god.\n\nŠto ističe: https
- ://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obr
- ada Koncesijski sat 9. 11. 2026.
+ ačarskih poslova (KRK\, Otok Krk (Grad Krk i općine))\, 1.330 €/god.\n
+ \nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar k
+ oncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -30,8 +30,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-b3705a0ad67db1f0@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-7269f6291a225e8b@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20280918
 DTEND;VALUE=DATE:20280919
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MLD-USLUGE D.O.O
@@ -39,8 +39,8 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MLD-USLUGE D.O.O
 DESCRIPTION:18. 3. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• MLD-USLUGE D.O.O. – Koncesija za obavljanje dimnjačarskih posl
- ova (KRK\, Otok Krk)\, 1.330 €/god.\n\nŠto ističe: https://koncesijski
- -sat.vercel.app/#sat
+ ova (KRK\, Otok Krk (Grad Krk i općine))\, 1.330 €/god.\n\nŠto ističe
+ : https://koncesijski-sat.vercel.app/#sat
 URL:https://koncesijski-sat.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM

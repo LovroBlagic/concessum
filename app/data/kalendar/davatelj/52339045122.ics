@@ -11,14 +11,14 @@ X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-01c5b5056dda9c3b@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-8aa492f8946f0058@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20370112
 DTEND;VALUE=DATE:20370113
 SUMMARY:Ističe koncesija: ŠIRJAN D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 12. 1. 2037. Godišnja fiksna nakn
  ada: 26.173 €.\n\n• ŠIRJAN D.O.O. – Koncesija za korištenje poljop
- rivrednog zemljišta u vlasništvu države (IVANIĆ GRAD\, Grad Ivanić Gr
+ rivrednog zemljišta u vlasništvu države (IVANIĆ GRAD\, Grad Ivanić-Gr
  ad)\, 26.173 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/
  #sat\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 202
  6.
@@ -31,15 +31,15 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-01c5b5056dda9c3b@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-8aa492f8946f0058@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20360712
 DTEND;VALUE=DATE:20360713
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ŠIRJAN D.O.O.)
 DESCRIPTION:12. 1. 2037. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• ŠIRJAN D.O.O. – Koncesija za korištenje poljoprivrednog zemlj
- išta u vlasništvu države (IVANIĆ GRAD\, Grad Ivanić Grad)\, 26.173 
+ išta u vlasništvu države (IVANIĆ GRAD\, Grad Ivanić-Grad)\, 26.173 
  €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
 URL:https://koncesijski-sat.vercel.app/#sat
 TRANSP:TRANSPARENT

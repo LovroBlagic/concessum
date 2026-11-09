@@ -3,8 +3,8 @@ VERSION:2.0
 PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Rokovi koncesija · Općina Veliki Pisanica
-X-WR-CALDESC:Svi ugovori o koncesiji na području: Općina Veliki Pisanica 
+X-WR-CALNAME:Rokovi koncesija · Općina Velika Pisanica
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Općina Velika Pisanica 
  (pregled\, svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osv
  ježava se nakon svake obrade podataka. https://koncesijski-sat.vercel.app
  /#opcina/41942358B91711209403379
@@ -12,11 +12,11 @@ X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-dfaa70ddcdabf1a2@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-f49eeb829937da2b@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
-SUMMARY:Ističe 2 koncesije · Veliki Pisanica
+SUMMARY:Ističe 2 koncesije · Velika Pisanica
 DESCRIPTION:2 ugovora o koncesiji ističe 31. 12. 2026.\n\n• INA D.D. –
   Dozvola za eksploataciju ugljikovodika (prema Zakonu o ugljikovodicima) (
  VELIKA PISANICA) · davatelj: MINISTARSTVO GOSPODARSTVA\n• INA-INDUSTRIJ
@@ -29,13 +29,13 @@ URL:https://koncesijski-sat.vercel.app/#opcina/41942358B91711209403379
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Ističe 2 koncesije · Veliki Pisanica
+DESCRIPTION:Ističe 2 koncesije · Velika Pisanica
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-50d46d3cd0906cb3@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-a03b7af8ed2eba7a@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20550626
 DTEND;VALUE=DATE:20550627
 SUMMARY:Ističe koncesija: ASPECT CROATIA KFT. - PODRUŽNICA ZAGREB
@@ -54,8 +54,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-50d46d3cd0906cb3@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-a03b7af8ed2eba7a@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20541226
 DTEND;VALUE=DATE:20541227
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ASPECT CROATIA K

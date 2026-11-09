@@ -11,15 +11,15 @@ X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-fc43d237e87a5c7b@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-d484fb84f61570ab@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20280228
 DTEND;VALUE=DATE:20280229
 SUMMARY:Ističe 4 koncesije · ZAGREBAČKA ŽUPANIJA
 DESCRIPTION:4 ugovora o koncesiji ističe 28. 2. 2028. Godišnja fiksna nak
  nada: 5.308 €.\n\n• IVAPLIN D.O.O. – Koncesija za obavljanje distrib
  ucije plina na postojećem distribucijskom sustavu (IVANIĆ GRAD\, Grad Iv
- anić Grad)\, 1.327 €/god.\n• ZELINA-PLIN D.O.O. – Koncesija za obav
+ anić-Grad)\, 1.327 €/god.\n• ZELINA-PLIN D.O.O. – Koncesija za obav
  ljanje distribucije plina na postojećem distribucijskom sustavu (SVETI IV
  AN ZELINA\, Grad Sveti Ivan Zelina)\, 1.327 €/god.\n• DUKOM PLIN D.O.O
  . – Koncesija za obavljanje distribucije plina na postojećem distribuci
@@ -37,8 +37,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-fc43d237e87a5c7b@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-d484fb84f61570ab@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20270828
 DTEND;VALUE=DATE:20270829
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 4 koncesije · ZAGREBAČKA Ž
@@ -46,7 +46,7 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 4 koncesije · ZAGREBAČKA Ž
 DESCRIPTION:28. 2. 2028. ističe 4 ugovora o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• IVAPLIN D.O.O. – Koncesija za obavljanje distribucije plina na
-  postojećem distribucijskom sustavu (IVANIĆ GRAD\, Grad Ivanić Grad)\, 
+  postojećem distribucijskom sustavu (IVANIĆ GRAD\, Grad Ivanić-Grad)\, 
  1.327 €/god.\n• ZELINA-PLIN D.O.O. – Koncesija za obavljanje distrib
  ucije plina na postojećem distribucijskom sustavu (SVETI IVAN ZELINA\, Gr
  ad Sveti Ivan Zelina)\, 1.327 €/god.\n• DUKOM PLIN D.O.O. – Koncesij
@@ -65,8 +65,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-0aac765524a4d4ac@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-788e3240c274bae0@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20290108
 DTEND;VALUE=DATE:20290109
 SUMMARY:Ističe 2 koncesije · ZAGREBAČKA ŽUPANIJA
@@ -87,8 +87,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-0aac765524a4d4ac@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-788e3240c274bae0@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20280708
 DTEND;VALUE=DATE:20280709
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · ZAGREBAČKA Ž
@@ -111,8 +111,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-9193ea0d48caea1e@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-7cf38046a1ff9171@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20290728
 DTEND;VALUE=DATE:20290729
 SUMMARY:Ističe koncesija: MONTCOGIM-PLINARA D.O.O.
@@ -131,8 +131,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-9193ea0d48caea1e@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-7cf38046a1ff9171@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20290128
 DTEND;VALUE=DATE:20290129
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MONTCOGIM-PLINAR

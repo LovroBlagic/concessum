@@ -12,8 +12,8 @@ X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-8412d0245a1b6c26@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-a471956730e3155b@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20280517
 DTEND;VALUE=DATE:20280518
 SUMMARY:Ističe 2 koncesije · MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE
@@ -35,8 +35,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-8412d0245a1b6c26@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-a471956730e3155b@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20271117
 DTEND;VALUE=DATE:20271118
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · MINISTARSTVO M
@@ -59,16 +59,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-fcbfbb8eea0cde40@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-2adb4a15e04a17e8@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20281005
 DTEND;VALUE=DATE:20281006
 SUMMARY:Ističe koncesija: MORUS ALBA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 5. 10. 2028. Godišnja fiksna nakn
  ada: 64.306 €.\n\n• MORUS ALBA D.O.O. – Koncesija na pomorskom dobru
-  (MALI LOŠINJ\, Otok Losinj)\, 64.306 €/god.\n\nŠto ističe: https://k
- oncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada 
- Koncesijski sat 9. 11. 2026.
+  (MALI LOŠINJ\, Grad Mali Lošinj (Lošinj))\, 64.306 €/god.\n\nŠto is
+ tiče: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija 
+ (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -78,8 +78,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-fcbfbb8eea0cde40@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-2adb4a15e04a17e8@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20280405
 DTEND;VALUE=DATE:20280406
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MORUS ALBA D.O.O
@@ -87,8 +87,8 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MORUS ALBA D.O.O
 DESCRIPTION:5. 10. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• MORUS ALBA D.O.O. – Koncesija na pomorskom dobru (MALI LOŠINJ\
- , Otok Losinj)\, 64.306 €/god.\n\nŠto ističe: https://koncesijski-sat.
- vercel.app/#sat
+ , Grad Mali Lošinj (Lošinj))\, 64.306 €/god.\n\nŠto ističe: https://
+ koncesijski-sat.vercel.app/#sat
 URL:https://koncesijski-sat.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -99,8 +99,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-7add670eecc3dea7@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-0a2659a756b8464e@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20290401
 DTEND;VALUE=DATE:20290402
 SUMMARY:Ističe koncesija: POMORSKO ŠPORTSKO RIBOLOVNO DRUŠTVO
@@ -118,8 +118,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-7add670eecc3dea7@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-0a2659a756b8464e@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20281001
 DTEND;VALUE=DATE:20281002
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (POMORSKO ŠPORTS
@@ -139,23 +139,24 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-4b6525df1043379b@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-3bc9bad0f25689ce@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20290905
 DTEND;VALUE=DATE:20290906
 SUMMARY:Ističe 7 koncesija · MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE
 DESCRIPTION:7 ugovora o koncesiji ističe 5. 9. 2029. Godišnja fiksna nakn
  ada: 81.590 €.\n\n• INA\, D.D. – Koncesija na pomorskom dobru (KORČ
  ULA\, Grad Korčula)\, 36.595 €/god.\n• INA\, D.D. – Koncesija na po
- morskom dobru (MALI LOŠINJ\, Otok Losinj)\, 11.265 €/god.\n• INA\, D.
- D. – Koncesija na pomorskom dobru (CRIKVENICA\, Grad Crikvenica)\, 8.585
-  €/god.\n• INA\, D.D. – Koncesija na pomorskom dobru (BOL\, Općina 
- Bol)\, 8.560 €/god.\n• INA\, D.D. – Koncesija na pomorskom dobru (Š
- OLTA\, Općina Šolta)\, 6.375 €/god.\n• INA\, D.D. – Koncesija na p
- omorskom dobru (LASTOVO\, Općina Lastovo)\, 5.215 €/god.\n• INA\, D.D
- . – Koncesija na pomorskom dobru (DUBROVNIK\, Grad Dubrovnik)\, 4.995 
- €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: 
- Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ morskom dobru (MALI LOŠINJ\, Grad Mali Lošinj (Lošinj))\, 11.265 €/go
+ d.\n• INA\, D.D. – Koncesija na pomorskom dobru (CRIKVENICA\, Grad Cri
+ kvenica)\, 8.585 €/god.\n• INA\, D.D. – Koncesija na pomorskom dobru
+  (BOL\, Općina Bol)\, 8.560 €/god.\n• INA\, D.D. – Koncesija na pom
+ orskom dobru (ŠOLTA\, Općina Šolta)\, 6.375 €/god.\n• INA\, D.D. 
+ – Koncesija na pomorskom dobru (LASTOVO\, Općina Lastovo)\, 5.215 €/g
+ od.\n• INA\, D.D. – Koncesija na pomorskom dobru (DUBROVNIK\, Grad Dub
+ rovnik)\, 4.995 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.a
+ pp/#sat\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 
+ 2026.
 URL:https://koncesijski-sat.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -166,8 +167,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-4b6525df1043379b@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-3bc9bad0f25689ce@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20290305
 DTEND;VALUE=DATE:20290306
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 7 koncesija · MINISTARSTVO M
@@ -176,14 +177,14 @@ DESCRIPTION:5. 9. 2029. ističe 7 ugovora o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• INA\, D.D. – Koncesija na pomorskom dobru (KORČULA\, Grad Kor
  čula)\, 36.595 €/god.\n• INA\, D.D. – Koncesija na pomorskom dobru 
- (MALI LOŠINJ\, Otok Losinj)\, 11.265 €/god.\n• INA\, D.D. – Koncesi
- ja na pomorskom dobru (CRIKVENICA\, Grad Crikvenica)\, 8.585 €/god.\n•
-  INA\, D.D. – Koncesija na pomorskom dobru (BOL\, Općina Bol)\, 8.560 
- €/god.\n• INA\, D.D. – Koncesija na pomorskom dobru (ŠOLTA\, Općin
- a Šolta)\, 6.375 €/god.\n• INA\, D.D. – Koncesija na pomorskom dobr
- u (LASTOVO\, Općina Lastovo)\, 5.215 €/god.\n• INA\, D.D. – Koncesi
- ja na pomorskom dobru (DUBROVNIK\, Grad Dubrovnik)\, 4.995 €/god.\n\nŠt
- o ističe: https://koncesijski-sat.vercel.app/#sat
+ (MALI LOŠINJ\, Grad Mali Lošinj (Lošinj))\, 11.265 €/god.\n• INA\, 
+ D.D. – Koncesija na pomorskom dobru (CRIKVENICA\, Grad Crikvenica)\, 8.5
+ 85 €/god.\n• INA\, D.D. – Koncesija na pomorskom dobru (BOL\, Općin
+ a Bol)\, 8.560 €/god.\n• INA\, D.D. – Koncesija na pomorskom dobru (
+ ŠOLTA\, Općina Šolta)\, 6.375 €/god.\n• INA\, D.D. – Koncesija na
+  pomorskom dobru (LASTOVO\, Općina Lastovo)\, 5.215 €/god.\n• INA\, D
+ .D. – Koncesija na pomorskom dobru (DUBROVNIK\, Grad Dubrovnik)\, 4.995 
+ €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
 URL:https://koncesijski-sat.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -194,8 +195,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-d7bd350ae4a3ae1b@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-4e6d9cb596ffda3b@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20300107
 DTEND;VALUE=DATE:20300108
 SUMMARY:Ističe koncesija: B & P D.O.O.
@@ -213,8 +214,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-d7bd350ae4a3ae1b@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-4e6d9cb596ffda3b@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20290707
 DTEND;VALUE=DATE:20290708
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (B & P D.O.O.)
@@ -233,8 +234,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-84022e2e0dde7900@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-d6d4c28e0c4a5947@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20300606
 DTEND;VALUE=DATE:20300607
 SUMMARY:Ističe 5 koncesija · MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE
@@ -257,8 +258,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-84022e2e0dde7900@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-d6d4c28e0c4a5947@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20291206
 DTEND;VALUE=DATE:20291207
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 5 koncesija · MINISTARSTVO M
@@ -282,17 +283,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-dc635589bd067162@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-29dd6dde924b6a6b@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20300816
 DTEND;VALUE=DATE:20300817
 SUMMARY:Ističe koncesija: LOŠINJSKA PLOVIDBA BRODOGRADILIŠTE D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 16. 8. 2030. Godišnja fiksna nakn
  ada: 5.616 €.\n\n• LOŠINJSKA PLOVIDBA BRODOGRADILIŠTE D.O.O. – Kon
  cesija pomorskog dobra u svrhu gospodarskog korištenja luke (MALI LOŠINJ
- \, Otok Losinj)\, 5.616 €/god.\n\nŠto ističe: https://koncesijski-sat.
- vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat
-  9. 11. 2026.
+ \, Grad Mali Lošinj (Lošinj))\, 5.616 €/god.\n\nŠto ističe: https://
+ koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada
+  Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -302,8 +303,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-dc635589bd067162@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-29dd6dde924b6a6b@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20300216
 DTEND;VALUE=DATE:20300217
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (LOŠINJSKA PLOVI
@@ -311,9 +312,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (LOŠINJSKA PLOVI
 DESCRIPTION:16. 8. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• LOŠINJSKA PLOVIDBA BRODOGRADILIŠTE D.O.O. – Koncesija pomorsk
- og dobra u svrhu gospodarskog korištenja luke (MALI LOŠINJ\, Otok Losinj
- )\, 5.616 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sa
- t
+ og dobra u svrhu gospodarskog korištenja luke (MALI LOŠINJ\, Grad Mali L
+ ošinj (Lošinj))\, 5.616 €/god.\n\nŠto ističe: https://koncesijski-sa
+ t.vercel.app/#sat
 URL:https://koncesijski-sat.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -324,8 +325,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-b4e18475723cc120@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-fcc190b732674bb0@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20301110
 DTEND;VALUE=DATE:20301111
 SUMMARY:Ističe 6 koncesija · MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE
@@ -352,8 +353,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-b4e18475723cc120@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-fcc190b732674bb0@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20300510
 DTEND;VALUE=DATE:20300511
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 6 koncesija · MINISTARSTVO M
@@ -381,39 +382,39 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-01801219ec1389d7@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-b0fea50872e5074f@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20301231
 DTEND;VALUE=DATE:20310101
 SUMMARY:Ističe 16 koncesija · MINISTARSTVO MORA\, PROMETA I INFRASTRUKTUR
  E
 DESCRIPTION:16 ugovora o koncesiji ističe 31. 12. 2030. Godišnja fiksna n
  aknada: 152.443 €.\n\n• ACI D.D. – Koncesija na pomorskom dobru (MUR
- TER - KORNATI\, Opicina Muter-Kornati)\, 48.144 €/god.\n• ACI D.D. –
-  Koncesija za luku nautičkog turizma (HVAR\, Grad Hvar)\, 23.561 €/god.
- \n• ACI D.D. – Koncesija pomorskog dobra u svrhu gospodarskog korište
- nja luke (HVAR\, Grad Hvar)\, 23.561 €/god.\n• ACI D.D. – Koncesija 
- pomorskog dobra u svrhu gospodarskog korištenja luke (UMAG - UMAGO\, Grad
-  Umag)\, 12.572 €/god.\n• ACI D.D. – Koncesija na pomorskom dobru (V
- ODICE\, Grad Vodice)\, 6.786 €/god.\n• ACI D.D. – Koncesija na pomor
- skom dobru (ROVINJ - ROVIGNO\, Grad Rovinj)\, 6.279 €/god.\n• ACI D.D.
-  – Koncesija na pomorskom dobru (TISNO)\, 4.468 €/god.\n• ACI D.D. 
- – Koncesija za luku nautičkog turizma (MURTER - KORNATI\, Opicina Muter
- -Kornati)\, 4.059 €/god.\n• ACI D.D. – Koncesija pomorskog dobra u s
- vrhu gospodarskog korištenja luke (SKRADIN\, Grad Skradin)\, 3.504 €/go
- d.\n• ACI D.D. – Koncesija za luku nautičkog turizma (PAG\, Grad Pag)
- \, 3.269 €/god.\n• ACI D.D. – Koncesija djelatnosti premještanja i 
- uklanjanja nepropisno parkiranih i napuštenih vozila (MURTER - KORNATI\, 
- Opicina Muter-Kornati)\, 3.246 €/god.\n• ACI D.D. – Koncesija pomors
- kog dobra u svrhu gospodarskog korištenja luke (PULA - POLA\, Grad Pula)\
- , 3.094 €/god.\n• ACI D.D. – Koncesija pomorskog dobra u svrhu gospo
- darskog korištenja luke (MILNA\, Općina Milna)\, 3.087 €/god.\n• ACI
-  D.D. – Koncesija pomorskog dobra u svrhu gospodarskog korištenja luke 
- (KORČULA\, Grad Korčula)\, 2.794 €/god.\n• ACI D.D. – Koncesija na
-  pomorskom dobru (TROGIR\, Grad Trogir)\, 2.462 €/god.\n• ACI D.D. –
-  Koncesija za luku nautičkog turizma (RAB\, Grad Rab)\, 1.557 €/god.\n\
- nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar ko
- ncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ TER - KORNATI\, Općina Murter-Kornati)\, 48.144 €/god.\n• ACI D.D. 
+ – Koncesija za luku nautičkog turizma (HVAR\, Grad Hvar)\, 23.561 €/g
+ od.\n• ACI D.D. – Koncesija pomorskog dobra u svrhu gospodarskog kori
+ štenja luke (HVAR\, Grad Hvar)\, 23.561 €/god.\n• ACI D.D. – Konces
+ ija pomorskog dobra u svrhu gospodarskog korištenja luke (UMAG - UMAGO\, 
+ Grad Umag)\, 12.572 €/god.\n• ACI D.D. – Koncesija na pomorskom dobr
+ u (VODICE\, Grad Vodice)\, 6.786 €/god.\n• ACI D.D. – Koncesija na p
+ omorskom dobru (ROVINJ - ROVIGNO\, Grad Rovinj)\, 6.279 €/god.\n• ACI 
+ D.D. – Koncesija na pomorskom dobru (TISNO)\, 4.468 €/god.\n• ACI D.
+ D. – Koncesija za luku nautičkog turizma (MURTER - KORNATI\, Općina Mu
+ rter-Kornati)\, 4.059 €/god.\n• ACI D.D. – Koncesija pomorskog dobra
+  u svrhu gospodarskog korištenja luke (SKRADIN\, Grad Skradin)\, 3.504 
+ €/god.\n• ACI D.D. – Koncesija za luku nautičkog turizma (PAG\, Gra
+ d Pag)\, 3.269 €/god.\n• ACI D.D. – Koncesija djelatnosti premješta
+ nja i uklanjanja nepropisno parkiranih i napuštenih vozila (MURTER - KORN
+ ATI\, Općina Murter-Kornati)\, 3.246 €/god.\n• ACI D.D. – Koncesija
+  pomorskog dobra u svrhu gospodarskog korištenja luke (PULA - POLA\, Grad
+  Pula)\, 3.094 €/god.\n• ACI D.D. – Koncesija pomorskog dobra u svrh
+ u gospodarskog korištenja luke (MILNA\, Općina Milna)\, 3.087 €/god.\n
+ • ACI D.D. – Koncesija pomorskog dobra u svrhu gospodarskog korištenj
+ a luke (KORČULA\, Grad Korčula)\, 2.794 €/god.\n• ACI D.D. – Konce
+ sija na pomorskom dobru (TROGIR\, Grad Trogir)\, 2.462 €/god.\n• ACI D
+ .D. – Koncesija za luku nautičkog turizma (RAB\, Grad Rab)\, 1.557 €/
+ god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Regi
+ star koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -424,8 +425,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-01801219ec1389d7@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-b0fea50872e5074f@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20300630
 DTEND;VALUE=DATE:20300701
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 16 koncesija · MINISTARSTVO 
@@ -433,8 +434,8 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 16 koncesija · MINISTARSTVO
 DESCRIPTION:31. 12. 2030. ističe 16 ugovora o koncesiji. Novi postupak dod
  jele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugov
  ora.\n\n• ACI D.D. – Koncesija na pomorskom dobru (MURTER - KORNATI\, 
- Opicina Muter-Kornati)\, 48.144 €/god.\n• ACI D.D. – Koncesija za lu
- ku nautičkog turizma (HVAR\, Grad Hvar)\, 23.561 €/god.\n• ACI D.D. 
+ Općina Murter-Kornati)\, 48.144 €/god.\n• ACI D.D. – Koncesija za l
+ uku nautičkog turizma (HVAR\, Grad Hvar)\, 23.561 €/god.\n• ACI D.D. 
  – Koncesija pomorskog dobra u svrhu gospodarskog korištenja luke (HVAR\
  , Grad Hvar)\, 23.561 €/god.\n• ACI D.D. – Koncesija pomorskog dobra
   u svrhu gospodarskog korištenja luke (UMAG - UMAGO\, Grad Umag)\, 12.572
@@ -442,21 +443,21 @@ DESCRIPTION:31. 12. 2030. ističe 16 ugovora o koncesiji. Novi postupak dod
  dice)\, 6.786 €/god.\n• ACI D.D. – Koncesija na pomorskom dobru (ROV
  INJ - ROVIGNO\, Grad Rovinj)\, 6.279 €/god.\n• ACI D.D. – Koncesija 
  na pomorskom dobru (TISNO)\, 4.468 €/god.\n• ACI D.D. – Koncesija za
-  luku nautičkog turizma (MURTER - KORNATI\, Opicina Muter-Kornati)\, 4.05
- 9 €/god.\n• ACI D.D. – Koncesija pomorskog dobra u svrhu gospodarsko
- g korištenja luke (SKRADIN\, Grad Skradin)\, 3.504 €/god.\n• ACI D.D.
-  – Koncesija za luku nautičkog turizma (PAG\, Grad Pag)\, 3.269 €/god
- .\n• ACI D.D. – Koncesija djelatnosti premještanja i uklanjanja nepro
- pisno parkiranih i napuštenih vozila (MURTER - KORNATI\, Opicina Muter-Ko
- rnati)\, 3.246 €/god.\n• ACI D.D. – Koncesija pomorskog dobra u svrh
- u gospodarskog korištenja luke (PULA - POLA\, Grad Pula)\, 3.094 €/god.
- \n• ACI D.D. – Koncesija pomorskog dobra u svrhu gospodarskog korište
- nja luke (MILNA\, Općina Milna)\, 3.087 €/god.\n• ACI D.D. – Konces
- ija pomorskog dobra u svrhu gospodarskog korištenja luke (KORČULA\, Grad
-  Korčula)\, 2.794 €/god.\n• ACI D.D. – Koncesija na pomorskom dobru
-  (TROGIR\, Grad Trogir)\, 2.462 €/god.\n• ACI D.D. – Koncesija za lu
- ku nautičkog turizma (RAB\, Grad Rab)\, 1.557 €/god.\n\nŠto ističe: h
- ttps://koncesijski-sat.vercel.app/#sat
+  luku nautičkog turizma (MURTER - KORNATI\, Općina Murter-Kornati)\, 4.0
+ 59 €/god.\n• ACI D.D. – Koncesija pomorskog dobra u svrhu gospodarsk
+ og korištenja luke (SKRADIN\, Grad Skradin)\, 3.504 €/god.\n• ACI D.D
+ . – Koncesija za luku nautičkog turizma (PAG\, Grad Pag)\, 3.269 €/go
+ d.\n• ACI D.D. – Koncesija djelatnosti premještanja i uklanjanja nepr
+ opisno parkiranih i napuštenih vozila (MURTER - KORNATI\, Općina Murter-
+ Kornati)\, 3.246 €/god.\n• ACI D.D. – Koncesija pomorskog dobra u sv
+ rhu gospodarskog korištenja luke (PULA - POLA\, Grad Pula)\, 3.094 €/go
+ d.\n• ACI D.D. – Koncesija pomorskog dobra u svrhu gospodarskog koriš
+ tenja luke (MILNA\, Općina Milna)\, 3.087 €/god.\n• ACI D.D. – Konc
+ esija pomorskog dobra u svrhu gospodarskog korištenja luke (KORČULA\, Gr
+ ad Korčula)\, 2.794 €/god.\n• ACI D.D. – Koncesija na pomorskom dob
+ ru (TROGIR\, Grad Trogir)\, 2.462 €/god.\n• ACI D.D. – Koncesija za 
+ luku nautičkog turizma (RAB\, Grad Rab)\, 1.557 €/god.\n\nŠto ističe:
+  https://koncesijski-sat.vercel.app/#sat
 URL:https://koncesijski-sat.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -467,8 +468,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-fc05b4eecefdd747@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-7658e2378d59495c@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20310113
 DTEND;VALUE=DATE:20310114
 SUMMARY:Ističe koncesija: ILIRIJA D.D.
@@ -486,8 +487,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-fc05b4eecefdd747@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-7658e2378d59495c@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20300713
 DTEND;VALUE=DATE:20300714
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ILIRIJA D.D.)
@@ -506,8 +507,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-5ec7042ec7d4d4d4@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-8d11a42a073da7b2@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20310202
 DTEND;VALUE=DATE:20310203
 SUMMARY:Ističe koncesija: FOND ZA ZAŠTITU OKOLIŠA I ENERGETSKU UČINKOVI
@@ -527,8 +528,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-5ec7042ec7d4d4d4@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-8d11a42a073da7b2@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20300802
 DTEND;VALUE=DATE:20300803
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (FOND ZA ZAŠTITU
@@ -548,8 +549,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-a54634cc19a902b9@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-9cd2d1afe11259e9@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20310428
 DTEND;VALUE=DATE:20310429
 SUMMARY:Ističe koncesija: JEDRILIČARSKI KLUB USKOK
@@ -567,8 +568,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-a54634cc19a902b9@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-9cd2d1afe11259e9@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20301028
 DTEND;VALUE=DATE:20301029
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (JEDRILIČARSKI K
@@ -588,8 +589,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-f283fdd8e9e4f05f@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-44c185cb19fbf5f9@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20310708
 DTEND;VALUE=DATE:20310709
 SUMMARY:Ističe 3 koncesije · MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE
@@ -612,8 +613,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-f283fdd8e9e4f05f@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-44c185cb19fbf5f9@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20310108
 DTEND;VALUE=DATE:20310109
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · MINISTARSTVO M
@@ -637,8 +638,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-0a8168912dee82b0@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-749f887d6d5269d6@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20310711
 DTEND;VALUE=DATE:20310712
 SUMMARY:Ističe koncesija: AUTOCESTA ZAGREB-MACELJ D.O.O.
@@ -656,8 +657,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-0a8168912dee82b0@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-749f887d6d5269d6@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20310111
 DTEND;VALUE=DATE:20310112
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (AUTOCESTA ZAGREB
@@ -677,8 +678,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-33df3de11fb915ba@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-dcc07a1e6569e456@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20310808
 DTEND;VALUE=DATE:20310809
 SUMMARY:Ističe koncesija: BRODOGRADILIŠTE VIKTOR LENAC D.D.
@@ -697,8 +698,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-33df3de11fb915ba@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-dcc07a1e6569e456@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20310208
 DTEND;VALUE=DATE:20310209
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BRODOGRADILIŠTE
@@ -718,8 +719,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-6005e24a2b1e9989@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-87b06a37396bcdbe@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20310916
 DTEND;VALUE=DATE:20310917
 SUMMARY:Ističe 2 koncesije · MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE
@@ -740,8 +741,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-6005e24a2b1e9989@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-87b06a37396bcdbe@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20310316
 DTEND;VALUE=DATE:20310317
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · MINISTARSTVO M
@@ -763,8 +764,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-0bcb0add59e4e812@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-9d7c555103424aac@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20311021
 DTEND;VALUE=DATE:20311022
 SUMMARY:Ističe koncesija: NAUTA LAMJANA D.O.O. ZA PROIZVODNJU I POPRAVAK B
@@ -785,8 +786,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-0bcb0add59e4e812@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-9d7c555103424aac@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20310421
 DTEND;VALUE=DATE:20310422
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (NAUTA LAMJANA D.
@@ -807,16 +808,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-09302ff545c411cd@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-84f25b59cd6b1766@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20311119
 DTEND;VALUE=DATE:20311120
 SUMMARY:Ističe koncesija: MARINA PUNAT D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 19. 11. 2031. Godišnja fiksna nak
  nada: 21.463 €.\n\n• MARINA PUNAT D.O.O. – Koncesija pomorskog dobra
-  u svrhu gospodarskog korištenja luke (PUNAT\, Otok Krk)\, 21.463 €/god
- .\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Regista
- r koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+  u svrhu gospodarskog korištenja luke (PUNAT\, Otok Krk (Grad Krk i opći
+ ne))\, 21.463 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app
+ /#sat\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 20
+ 26.
 URL:https://koncesijski-sat.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -826,8 +828,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-09302ff545c411cd@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-84f25b59cd6b1766@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20310519
 DTEND;VALUE=DATE:20310520
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MARINA PUNAT D.O
@@ -835,8 +837,8 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MARINA PUNAT D.O
 DESCRIPTION:19. 11. 2031. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• MARINA PUNAT D.O.O. – Koncesija pomorskog dobra u svrhu gospod
- arskog korištenja luke (PUNAT\, Otok Krk)\, 21.463 €/god.\n\nŠto isti
- če: https://koncesijski-sat.vercel.app/#sat
+ arskog korištenja luke (PUNAT\, Otok Krk (Grad Krk i općine))\, 21.463 
+ €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
 URL:https://koncesijski-sat.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -847,8 +849,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-3428d23e1d2ed81b@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-50303144e3d53030@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20320221
 DTEND;VALUE=DATE:20320222
 SUMMARY:Ističe 2 koncesije · MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE
@@ -871,8 +873,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-3428d23e1d2ed81b@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-50303144e3d53030@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20310821
 DTEND;VALUE=DATE:20310822
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · MINISTARSTVO M
@@ -896,8 +898,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-8e5f94146dde6b5a@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-b0ccfa3e8f84d6e4@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20320419
 DTEND;VALUE=DATE:20320420
 SUMMARY:Ističe 2 koncesije · MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE
@@ -919,8 +921,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-8e5f94146dde6b5a@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-b0ccfa3e8f84d6e4@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20311019
 DTEND;VALUE=DATE:20311020
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · MINISTARSTVO M
@@ -943,16 +945,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-4cb374349e6dd17d@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-9d233bb028b27978@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20320801
 DTEND;VALUE=DATE:20320802
 SUMMARY:Ističe koncesija: TIFON D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 1. 8. 2032. Godišnja fiksna nakna
  da: 502 €.\n\n• TIFON D.O.O. – Koncesija pomorskog dobra u svrhu izg
- radnje i gospodarskog korištenja (MALI LOŠINJ\, Otok Losinj)\, 502 €/g
- od.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Regis
- tar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ radnje i gospodarskog korištenja (MALI LOŠINJ\, Grad Mali Lošinj (Loši
+ nj))\, 502 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#s
+ at\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -962,16 +964,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-4cb374349e6dd17d@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-9d233bb028b27978@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20320201
 DTEND;VALUE=DATE:20320202
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (TIFON D.O.O.)
 DESCRIPTION:1. 8. 2032. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• TIFON D.O.O. – Koncesija pomorskog dobra u svrhu izgradnje i gos
- podarskog korištenja (MALI LOŠINJ\, Otok Losinj)\, 502 €/god.\n\nŠto 
- ističe: https://koncesijski-sat.vercel.app/#sat
+ podarskog korištenja (MALI LOŠINJ\, Grad Mali Lošinj (Lošinj))\, 502 
+ €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
 URL:https://koncesijski-sat.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -982,16 +984,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-d3208307bf0beb9c@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-a5f7cf8b9f11a917@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20320816
 DTEND;VALUE=DATE:20320817
 SUMMARY:Ističe koncesija: BRODOGRADILIŠTE PUNAT D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 16. 8. 2032. Godišnja fiksna nakn
  ada: 3.356 €.\n\n• BRODOGRADILIŠTE PUNAT D.O.O. – Koncesija pomorsk
- og dobra u svrhu gospodarskog korištenja luke (PUNAT\, Otok Krk)\, 3.356 
- €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: 
- Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ og dobra u svrhu gospodarskog korištenja luke (PUNAT\, Otok Krk (Grad Krk
+  i općine))\, 3.356 €/god.\n\nŠto ističe: https://koncesijski-sat.ver
+ cel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9.
+  11. 2026.
 URL:https://koncesijski-sat.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1001,8 +1004,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-d3208307bf0beb9c@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-a5f7cf8b9f11a917@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20320216
 DTEND;VALUE=DATE:20320217
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BRODOGRADILIŠTE
@@ -1010,8 +1013,8 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BRODOGRADILIŠTE
 DESCRIPTION:16. 8. 2032. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• BRODOGRADILIŠTE PUNAT D.O.O. – Koncesija pomorskog dobra u svr
- hu gospodarskog korištenja luke (PUNAT\, Otok Krk)\, 3.356 €/god.\n\nŠ
- to ističe: https://koncesijski-sat.vercel.app/#sat
+ hu gospodarskog korištenja luke (PUNAT\, Otok Krk (Grad Krk i općine))\,
+  3.356 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
 URL:https://koncesijski-sat.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1022,8 +1025,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-abf8d08b957a41dc@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-6da57b3b9ca24c33@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20321018
 DTEND;VALUE=DATE:20321019
 SUMMARY:Ističe koncesija: SIGMA POSLOVODSTVO D.O.O.
@@ -1042,8 +1045,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-abf8d08b957a41dc@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-6da57b3b9ca24c33@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20320418
 DTEND;VALUE=DATE:20320419
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (SIGMA POSLOVODST
@@ -1064,8 +1067,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-f5cd16803166cf19@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-686ced0f9e2580d7@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20330524
 DTEND;VALUE=DATE:20330525
 SUMMARY:Ističe 2 koncesije · MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE
@@ -1086,8 +1089,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-f5cd16803166cf19@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-686ced0f9e2580d7@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20321124
 DTEND;VALUE=DATE:20321125
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · MINISTARSTVO M
@@ -1109,8 +1112,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-0f39a25e7c8688ac@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-c12a2744c5bf68b0@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20330908
 DTEND;VALUE=DATE:20330909
 SUMMARY:Ističe koncesija: PLOMIN HOLDING D.O.O.
@@ -1128,8 +1131,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-0f39a25e7c8688ac@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-c12a2744c5bf68b0@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20330308
 DTEND;VALUE=DATE:20330309
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PLOMIN HOLDING D
@@ -1149,8 +1152,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-b775fa78560ffc1f@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-e2c0c5ea94d3088b@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20331009
 DTEND;VALUE=DATE:20331010
 SUMMARY:Ističe koncesija: CALUCEM D.O.O.
@@ -1168,8 +1171,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-b775fa78560ffc1f@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-e2c0c5ea94d3088b@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20330409
 DTEND;VALUE=DATE:20330410
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (CALUCEM D.O.O.)
@@ -1188,8 +1191,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-ee47f429452ea6e4@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-71a29afd62132a0d@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20331231
 DTEND;VALUE=DATE:20340101
 SUMMARY:Ističe koncesija: HOLCIM (HRVATSKA) D.O.O. ZA PROIZVODNJU CEMENTA
@@ -1209,8 +1212,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-ee47f429452ea6e4@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-71a29afd62132a0d@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20330630
 DTEND;VALUE=DATE:20330701
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HOLCIM (HRVATSKA
@@ -1231,8 +1234,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-bda832f9246caba3@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-a0fe947f870c39e6@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20340326
 DTEND;VALUE=DATE:20340327
 SUMMARY:Ističe koncesija: DANUVIUS MARINA D.O.O.
@@ -1251,8 +1254,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-bda832f9246caba3@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-a0fe947f870c39e6@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20330926
 DTEND;VALUE=DATE:20330927
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DANUVIUS MARINA 
@@ -1272,16 +1275,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-bd35c3889a59d14f@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-cc75e7e9c54b30e2@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20340609
 DTEND;VALUE=DATE:20340610
 SUMMARY:Ističe koncesija: PELAGOS NET FARMA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 9. 6. 2034. Godišnja fiksna nakna
  da: 15.322 €.\n\n• PELAGOS NET FARMA D.O.O. – Koncesija na pomorskom
-  dobru (MURTER - KORNATI\, Opicina Muter-Kornati)\, 15.322 €/god.\n\nŠt
- o ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar konces
- ija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+  dobru (MURTER - KORNATI\, Općina Murter-Kornati)\, 15.322 €/god.\n\nŠ
+ to ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar konce
+ sija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1291,8 +1294,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-bd35c3889a59d14f@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-cc75e7e9c54b30e2@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20331209
 DTEND;VALUE=DATE:20331210
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PELAGOS NET FARM
@@ -1300,8 +1303,8 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PELAGOS NET FARM
 DESCRIPTION:9. 6. 2034. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• PELAGOS NET FARMA D.O.O. – Koncesija na pomorskom dobru (MURTER 
- - KORNATI\, Opicina Muter-Kornati)\, 15.322 €/god.\n\nŠto ističe: http
- s://koncesijski-sat.vercel.app/#sat
+ - KORNATI\, Općina Murter-Kornati)\, 15.322 €/god.\n\nŠto ističe: htt
+ ps://koncesijski-sat.vercel.app/#sat
 URL:https://koncesijski-sat.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1312,8 +1315,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-efd6fd5c07a65856@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-fa75034ebe36bb39@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20340926
 DTEND;VALUE=DATE:20340927
 SUMMARY:Ističe 2 koncesije · MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE
@@ -1335,8 +1338,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-efd6fd5c07a65856@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-fa75034ebe36bb39@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20340326
 DTEND;VALUE=DATE:20340327
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · MINISTARSTVO M
@@ -1358,8 +1361,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-1a9af2f4f4b3edc2@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-ac9280dc52b69c7b@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20341031
 DTEND;VALUE=DATE:20341101
 SUMMARY:Ističe 2 koncesije · MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE
@@ -1380,8 +1383,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-1a9af2f4f4b3edc2@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-ac9280dc52b69c7b@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20340430
 DTEND;VALUE=DATE:20340501
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · MINISTARSTVO M
@@ -1403,8 +1406,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-0ba925a4347452bb@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-38394e04c382ff4c@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20341216
 DTEND;VALUE=DATE:20341217
 SUMMARY:Ističe koncesija: PLOVPUT D.O.O.
@@ -1422,8 +1425,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-0ba925a4347452bb@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-38394e04c382ff4c@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20340616
 DTEND;VALUE=DATE:20340617
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PLOVPUT D.O.O.)
@@ -1442,8 +1445,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-eaf0a7ed898e2403@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-0b8451a712f24453@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20350116
 DTEND;VALUE=DATE:20350117
 SUMMARY:Ističe koncesija: RIBARSKA ZADRUGA ADRIA
@@ -1461,8 +1464,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-eaf0a7ed898e2403@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-0b8451a712f24453@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20340716
 DTEND;VALUE=DATE:20340717
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (RIBARSKA ZADRUGA
@@ -1481,8 +1484,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-214d0e93838cc135@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-aa2f2c2b2ace0556@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20350428
 DTEND;VALUE=DATE:20350429
 SUMMARY:Ističe koncesija: KORNAT ITTICA D.O.O.
@@ -1500,8 +1503,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-214d0e93838cc135@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-aa2f2c2b2ace0556@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20341028
 DTEND;VALUE=DATE:20341029
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (KORNAT ITTICA D.
@@ -1521,17 +1524,18 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-891d5fbad2af1f18@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-c8a69b12759940c6@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20350519
 DTEND;VALUE=DATE:20350520
 SUMMARY:Ističe 2 koncesije · MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE
 DESCRIPTION:2 ugovora o koncesiji ističe 19. 5. 2035. Godišnja fiksna nak
  nada: 67.000 €.\n\n• JADRANSKI NAFTOVOD  D.D. – Koncesija na pomorsk
- om dobru (OMIŠALJ\, Otok Krk)\, 33.500 €/god.\n• JADRANSKI NAFTOVOD D
- .D. – Koncesija na pomorskom dobru (KOSTRENA\, Općina Kostrena)\, 33.50
- 0 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor
- : Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ om dobru (OMIŠALJ\, Otok Krk (Grad Krk i općine))\, 33.500 €/god.\n•
+  JADRANSKI NAFTOVOD D.D. – Koncesija na pomorskom dobru (KOSTRENA\, Opć
+ ina Kostrena)\, 33.500 €/god.\n\nŠto ističe: https://koncesijski-sat.v
+ ercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 
+ 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1542,8 +1546,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-891d5fbad2af1f18@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-c8a69b12759940c6@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20341119
 DTEND;VALUE=DATE:20341120
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · MINISTARSTVO M
@@ -1551,9 +1555,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · MINISTARSTVO M
 DESCRIPTION:19. 5. 2035. ističe 2 ugovora o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• JADRANSKI NAFTOVOD  D.D. – Koncesija na pomorskom dobru (OMIŠ
- ALJ\, Otok Krk)\, 33.500 €/god.\n• JADRANSKI NAFTOVOD D.D. – Koncesi
- ja na pomorskom dobru (KOSTRENA\, Općina Kostrena)\, 33.500 €/god.\n\n
- Što ističe: https://koncesijski-sat.vercel.app/#sat
+ ALJ\, Otok Krk (Grad Krk i općine))\, 33.500 €/god.\n• JADRANSKI NAFT
+ OVOD D.D. – Koncesija na pomorskom dobru (KOSTRENA\, Općina Kostrena)\,
+  33.500 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
 URL:https://koncesijski-sat.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1564,8 +1568,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-58a8bb60eba07ed9@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-32b94a226428e0c1@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20360218
 DTEND;VALUE=DATE:20360219
 SUMMARY:Ističe 2 koncesije · MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE
@@ -1586,8 +1590,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-58a8bb60eba07ed9@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-32b94a226428e0c1@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20350818
 DTEND;VALUE=DATE:20350819
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · MINISTARSTVO M
@@ -1609,8 +1613,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-6c774fb66b22c4a2@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-2351a9006a1a4eba@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20360612
 DTEND;VALUE=DATE:20360613
 SUMMARY:Ističe 23 koncesije · MINISTARSTVO MORA\, PROMETA I INFRASTRUKTUR
@@ -1632,31 +1636,31 @@ DESCRIPTION:23 ugovora o koncesiji ističe 12. 6. 2036. Godišnja fiksna na
  (OREBIĆ\, Općina Orebić)\, 5.095 €/god.\n• HRVATSKI OPERATOR PRIJEN
  OSNOG SUSTAVA D.D. – Koncesija na pomorskom dobru (MLJET\, Općina Mljet
  )\, 5.095 €/god.\n• HRVATSKI OPERATOR PRIJENOSNOG SUSTAVA D.D. – Kon
- cesija na pomorskom dobru (MALI LOŠINJ\, Otok Losinj)\, 4.547 €/god.\n
- • HRVATSKI OPERATOR PRIJENOSNOG SUSTAVA D.D. – Koncesija na pomorskom 
- dobru (RAB\, Grad Rab)\, 4.401 €/god.\n• HRVATSKI OPERATOR PRIJENOSNOG
-  SUSTAVA D.D. – Koncesija na pomorskom dobru (ŠOLTA\, Općina Šolta)\,
-  4.214 €/god.\n• HRVATSKI OPERATOR PRIJENOSNOG SUSTAVA D.D. – Konces
- ija na pomorskom dobru (SALI\, Općina Sali)\, 4.145 €/god.\n• HRVATSK
- I OPERATOR PRIJENOSNOG SUSTAVA D.D. – Koncesija na pomorskom dobru (OKRU
- G\, Općina Okrug)\, 3.086 €/god.\n• HRVATSKI OPERATOR PRIJENOSNOG SUS
- TAVA D.D. – Koncesija na pomorskom dobru (NEREŽIŠĆA\, Općina Nereži
- šća)\, 2.863 €/god.\n• HRVATSKI OPERATOR PRIJENOSNOG SUSTAVA D.D. 
- – Koncesija na pomorskom dobru (POSTIRA\, Općina Postira)\, 2.863 €/g
- od.\n• HRVATSKI OPERATOR PRIJENOSNOG SUSTAVA D.D. – Koncesija na pomor
- skom dobru (ZADAR\, Grad Zadar)\, 2.818 €/god.\n• HRVATSKI OPERATOR PR
- IJENOSNOG SUSTAVA D.D. – Koncesija na pomorskom dobru (BIBINJE\, Općina
-  Bibinje)\, 1.459 €/god.\n• HRVATSKI OPERATOR PRIJENOSNOG SUSTAVA D.D.
-  – Koncesija na pomorskom dobru (MILNA\, Općina Milna)\, 1.129 €/god.
- \n• HRVATSKI OPERATOR PRIJENOSNOG SUSTAVA D.D. – Koncesija na pomorsko
- m dobru (VODICE\, Grad Vodice)\, 972 €/god.\n• HRVATSKI OPERATOR PRIJE
- NOSNOG SUSTAVA D.D. – Koncesija na pomorskom dobru (KARLOBAG\, Općina K
- arlobag)\, 945 €/god.\n• HRVATSKI OPERATOR PRIJENOSNOG SUSTAVA D.D. 
- – Koncesija na pomorskom dobru (PRIVLAKA\, Općina Privlaka)\, 923 €/g
- od.\n• HRVATSKI OPERATOR PRIJENOSNOG SUSTAVA D.D. – Koncesija na pomor
- skom dobru (POVLJANA\, Općina Povljana)\, 923 €/god.\n\nŠto ističe: h
- ttps://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\,
-  obrada Koncesijski sat 9. 11. 2026.
+ cesija na pomorskom dobru (MALI LOŠINJ\, Grad Mali Lošinj (Lošinj))\, 4
+ .547 €/god.\n• HRVATSKI OPERATOR PRIJENOSNOG SUSTAVA D.D. – Koncesij
+ a na pomorskom dobru (RAB\, Grad Rab)\, 4.401 €/god.\n• HRVATSKI OPERA
+ TOR PRIJENOSNOG SUSTAVA D.D. – Koncesija na pomorskom dobru (ŠOLTA\, Op
+ ćina Šolta)\, 4.214 €/god.\n• HRVATSKI OPERATOR PRIJENOSNOG SUSTAVA 
+ D.D. – Koncesija na pomorskom dobru (SALI\, Općina Sali)\, 4.145 €/go
+ d.\n• HRVATSKI OPERATOR PRIJENOSNOG SUSTAVA D.D. – Koncesija na pomors
+ kom dobru (OKRUG\, Općina Okrug)\, 3.086 €/god.\n• HRVATSKI OPERATOR 
+ PRIJENOSNOG SUSTAVA D.D. – Koncesija na pomorskom dobru (NEREŽIŠĆA\, 
+ Općina Nerežišća)\, 2.863 €/god.\n• HRVATSKI OPERATOR PRIJENOSNOG 
+ SUSTAVA D.D. – Koncesija na pomorskom dobru (POSTIRA\, Općina Postira)\
+ , 2.863 €/god.\n• HRVATSKI OPERATOR PRIJENOSNOG SUSTAVA D.D. – Konce
+ sija na pomorskom dobru (ZADAR\, Grad Zadar)\, 2.818 €/god.\n• HRVATSK
+ I OPERATOR PRIJENOSNOG SUSTAVA D.D. – Koncesija na pomorskom dobru (BIBI
+ NJE\, Općina Bibinje)\, 1.459 €/god.\n• HRVATSKI OPERATOR PRIJENOSNOG
+  SUSTAVA D.D. – Koncesija na pomorskom dobru (MILNA\, Općina Milna)\, 1
+ .129 €/god.\n• HRVATSKI OPERATOR PRIJENOSNOG SUSTAVA D.D. – Koncesij
+ a na pomorskom dobru (VODICE\, Grad Vodice)\, 972 €/god.\n• HRVATSKI O
+ PERATOR PRIJENOSNOG SUSTAVA D.D. – Koncesija na pomorskom dobru (KARLOBA
+ G\, Općina Karlobag)\, 945 €/god.\n• HRVATSKI OPERATOR PRIJENOSNOG SU
+ STAVA D.D. – Koncesija na pomorskom dobru (PRIVLAKA\, Općina Privlaka)\
+ , 923 €/god.\n• HRVATSKI OPERATOR PRIJENOSNOG SUSTAVA D.D. – Koncesi
+ ja na pomorskom dobru (POVLJANA\, Općina Povljana)\, 923 €/god.\n\nŠto
+  ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesi
+ ja (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1667,8 +1671,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-6c774fb66b22c4a2@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-2351a9006a1a4eba@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20351212
 DTEND;VALUE=DATE:20351213
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 23 koncesije · MINISTARSTVO 
@@ -1691,30 +1695,30 @@ DESCRIPTION:12. 6. 2036. ističe 23 ugovora o koncesiji. Novi postupak dodj
  na Orebić)\, 5.095 €/god.\n• HRVATSKI OPERATOR PRIJENOSNOG SUSTAVA D.
  D. – Koncesija na pomorskom dobru (MLJET\, Općina Mljet)\, 5.095 €/go
  d.\n• HRVATSKI OPERATOR PRIJENOSNOG SUSTAVA D.D. – Koncesija na pomors
- kom dobru (MALI LOŠINJ\, Otok Losinj)\, 4.547 €/god.\n• HRVATSKI OPER
- ATOR PRIJENOSNOG SUSTAVA D.D. – Koncesija na pomorskom dobru (RAB\, Grad
-  Rab)\, 4.401 €/god.\n• HRVATSKI OPERATOR PRIJENOSNOG SUSTAVA D.D. –
-  Koncesija na pomorskom dobru (ŠOLTA\, Općina Šolta)\, 4.214 €/god.\n
+ kom dobru (MALI LOŠINJ\, Grad Mali Lošinj (Lošinj))\, 4.547 €/god.\n
  • HRVATSKI OPERATOR PRIJENOSNOG SUSTAVA D.D. – Koncesija na pomorskom 
- dobru (SALI\, Općina Sali)\, 4.145 €/god.\n• HRVATSKI OPERATOR PRIJEN
- OSNOG SUSTAVA D.D. – Koncesija na pomorskom dobru (OKRUG\, Općina Okrug
- )\, 3.086 €/god.\n• HRVATSKI OPERATOR PRIJENOSNOG SUSTAVA D.D. – Kon
- cesija na pomorskom dobru (NEREŽIŠĆA\, Općina Nerežišća)\, 2.863 
- €/god.\n• HRVATSKI OPERATOR PRIJENOSNOG SUSTAVA D.D. – Koncesija na 
- pomorskom dobru (POSTIRA\, Općina Postira)\, 2.863 €/god.\n• HRVATSKI
-  OPERATOR PRIJENOSNOG SUSTAVA D.D. – Koncesija na pomorskom dobru (ZADAR
- \, Grad Zadar)\, 2.818 €/god.\n• HRVATSKI OPERATOR PRIJENOSNOG SUSTAVA
-  D.D. – Koncesija na pomorskom dobru (BIBINJE\, Općina Bibinje)\, 1.459
-  €/god.\n• HRVATSKI OPERATOR PRIJENOSNOG SUSTAVA D.D. – Koncesija na
-  pomorskom dobru (MILNA\, Općina Milna)\, 1.129 €/god.\n• HRVATSKI OP
- ERATOR PRIJENOSNOG SUSTAVA D.D. – Koncesija na pomorskom dobru (VODICE\,
-  Grad Vodice)\, 972 €/god.\n• HRVATSKI OPERATOR PRIJENOSNOG SUSTAVA D.
- D. – Koncesija na pomorskom dobru (KARLOBAG\, Općina Karlobag)\, 945 
- €/god.\n• HRVATSKI OPERATOR PRIJENOSNOG SUSTAVA D.D. – Koncesija na 
- pomorskom dobru (PRIVLAKA\, Općina Privlaka)\, 923 €/god.\n• HRVATSKI
-  OPERATOR PRIJENOSNOG SUSTAVA D.D. – Koncesija na pomorskom dobru (POVLJ
- ANA\, Općina Povljana)\, 923 €/god.\n\nŠto ističe: https://koncesijsk
- i-sat.vercel.app/#sat
+ dobru (RAB\, Grad Rab)\, 4.401 €/god.\n• HRVATSKI OPERATOR PRIJENOSNOG
+  SUSTAVA D.D. – Koncesija na pomorskom dobru (ŠOLTA\, Općina Šolta)\,
+  4.214 €/god.\n• HRVATSKI OPERATOR PRIJENOSNOG SUSTAVA D.D. – Konces
+ ija na pomorskom dobru (SALI\, Općina Sali)\, 4.145 €/god.\n• HRVATSK
+ I OPERATOR PRIJENOSNOG SUSTAVA D.D. – Koncesija na pomorskom dobru (OKRU
+ G\, Općina Okrug)\, 3.086 €/god.\n• HRVATSKI OPERATOR PRIJENOSNOG SUS
+ TAVA D.D. – Koncesija na pomorskom dobru (NEREŽIŠĆA\, Općina Nereži
+ šća)\, 2.863 €/god.\n• HRVATSKI OPERATOR PRIJENOSNOG SUSTAVA D.D. 
+ – Koncesija na pomorskom dobru (POSTIRA\, Općina Postira)\, 2.863 €/g
+ od.\n• HRVATSKI OPERATOR PRIJENOSNOG SUSTAVA D.D. – Koncesija na pomor
+ skom dobru (ZADAR\, Grad Zadar)\, 2.818 €/god.\n• HRVATSKI OPERATOR PR
+ IJENOSNOG SUSTAVA D.D. – Koncesija na pomorskom dobru (BIBINJE\, Općina
+  Bibinje)\, 1.459 €/god.\n• HRVATSKI OPERATOR PRIJENOSNOG SUSTAVA D.D.
+  – Koncesija na pomorskom dobru (MILNA\, Općina Milna)\, 1.129 €/god.
+ \n• HRVATSKI OPERATOR PRIJENOSNOG SUSTAVA D.D. – Koncesija na pomorsko
+ m dobru (VODICE\, Grad Vodice)\, 972 €/god.\n• HRVATSKI OPERATOR PRIJE
+ NOSNOG SUSTAVA D.D. – Koncesija na pomorskom dobru (KARLOBAG\, Općina K
+ arlobag)\, 945 €/god.\n• HRVATSKI OPERATOR PRIJENOSNOG SUSTAVA D.D. 
+ – Koncesija na pomorskom dobru (PRIVLAKA\, Općina Privlaka)\, 923 €/g
+ od.\n• HRVATSKI OPERATOR PRIJENOSNOG SUSTAVA D.D. – Koncesija na pomor
+ skom dobru (POVLJANA\, Općina Povljana)\, 923 €/god.\n\nŠto ističe: h
+ ttps://koncesijski-sat.vercel.app/#sat
 URL:https://koncesijski-sat.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1725,8 +1729,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-0efed9c25c0054f7@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-0aac3cfd64752f3c@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20361001
 DTEND;VALUE=DATE:20361002
 SUMMARY:Ističe koncesija: MARINA SIGNUM D.D.
@@ -1745,8 +1749,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-0efed9c25c0054f7@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-0aac3cfd64752f3c@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20360401
 DTEND;VALUE=DATE:20360402
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MARINA SIGNUM D.
@@ -1766,8 +1770,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-e9c1299990971628@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-072e70a5c17915ed@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20370404
 DTEND;VALUE=DATE:20370405
 SUMMARY:Ističe 3 koncesije · MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE
@@ -1789,8 +1793,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-e9c1299990971628@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-072e70a5c17915ed@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20361004
 DTEND;VALUE=DATE:20361005
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · MINISTARSTVO M
@@ -1813,8 +1817,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-acdbd1fa3dc9c42f@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-a206883a1f6ba103@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20371231
 DTEND;VALUE=DATE:20380101
 SUMMARY:Ističe 2 koncesije · MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE
@@ -1823,9 +1827,9 @@ DESCRIPTION:2 ugovora o koncesiji ističe 31. 12. 2037. Godišnja fiksna na
  svrhu izgradnje i gospodarskog korištenja luke posebne namjene (PULA - PO
  LA\, Grad Pula)\, 240.245 €/god.\n• MARINA HRAMINA D.O.O. – Koncesij
  a pomorskog dobra u svrhu gospodarskog korištenja luke (MURTER - KORNATI\
- , Opicina Muter-Kornati)\, 10.295 €/god.\n\nŠto ističe: https://konces
- ijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Konce
- sijski sat 9. 11. 2026.
+ , Općina Murter-Kornati)\, 10.295 €/god.\n\nŠto ističe: https://konce
+ sijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Konc
+ esijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1836,8 +1840,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-acdbd1fa3dc9c42f@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-a206883a1f6ba103@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20370630
 DTEND;VALUE=DATE:20370701
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · MINISTARSTVO M
@@ -1847,9 +1851,9 @@ DESCRIPTION:31. 12. 2037. ističe 2 ugovora o koncesiji. Novi postupak dodj
  ra.\n\n• TEHNOMONT D.D. – Koncesija pomorskog dobra u svrhu izgradnje 
  i gospodarskog korištenja luke posebne namjene (PULA - POLA\, Grad Pula)\
  , 240.245 €/god.\n• MARINA HRAMINA D.O.O. – Koncesija pomorskog dobr
- a u svrhu gospodarskog korištenja luke (MURTER - KORNATI\, Opicina Muter-
- Kornati)\, 10.295 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel
- .app/#sat
+ a u svrhu gospodarskog korištenja luke (MURTER - KORNATI\, Općina Murter
+ -Kornati)\, 10.295 €/god.\n\nŠto ističe: https://koncesijski-sat.verce
+ l.app/#sat
 URL:https://koncesijski-sat.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1860,8 +1864,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-d00a45c79c514f2c@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-5143b01ffd0aba18@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20380104
 DTEND;VALUE=DATE:20380105
 SUMMARY:Ističe koncesija: MARINA ŠIBENIK D.O.O.
@@ -1880,8 +1884,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-d00a45c79c514f2c@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-5143b01ffd0aba18@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20370704
 DTEND;VALUE=DATE:20370705
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MARINA ŠIBENIK 
@@ -1902,16 +1906,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-a6e954d766679023@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-7190d353bfd7421a@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20380313
 DTEND;VALUE=DATE:20380314
 SUMMARY:Ističe koncesija: JAVNA USTANOVA NACIONALNI PARK KORNATI
 DESCRIPTION:1 ugovor o koncesiji ističe 13. 3. 2038. Godišnja fiksna nakn
  ada: 29.075 €.\n\n• JAVNA USTANOVA NACIONALNI PARK KORNATI – Koncesi
- ja na pomorskom dobru (MURTER - KORNATI\, Opicina Muter-Kornati)\, 29.075 
- €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: 
- Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ ja na pomorskom dobru (MURTER - KORNATI\, Općina Murter-Kornati)\, 29.075
+  €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor:
+  Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1921,8 +1925,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-a6e954d766679023@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-7190d353bfd7421a@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20370913
 DTEND;VALUE=DATE:20370914
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (JAVNA USTANOVA N
@@ -1930,8 +1934,8 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (JAVNA USTANOVA N
 DESCRIPTION:13. 3. 2038. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• JAVNA USTANOVA NACIONALNI PARK KORNATI – Koncesija na pomorskom
-  dobru (MURTER - KORNATI\, Opicina Muter-Kornati)\, 29.075 €/god.\n\nŠt
- o ističe: https://koncesijski-sat.vercel.app/#sat
+  dobru (MURTER - KORNATI\, Općina Murter-Kornati)\, 29.075 €/god.\n\nŠ
+ to ističe: https://koncesijski-sat.vercel.app/#sat
 URL:https://koncesijski-sat.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1942,8 +1946,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-ea3775f57613c55e@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-29d6c3dd72e99857@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20380406
 DTEND;VALUE=DATE:20380407
 SUMMARY:Ističe koncesija: KORNAT ITTICA D.O.O.
@@ -1961,8 +1965,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-ea3775f57613c55e@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-29d6c3dd72e99857@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20371006
 DTEND;VALUE=DATE:20371007
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (KORNAT ITTICA D.
@@ -1982,8 +1986,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-1471b4347c3cd5cd@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-e2d95dcdc1cf967c@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20390220
 DTEND;VALUE=DATE:20390221
 SUMMARY:Ističe koncesija: VRELO D.O.O.
@@ -2001,8 +2005,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-1471b4347c3cd5cd@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-e2d95dcdc1cf967c@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20380820
 DTEND;VALUE=DATE:20380821
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VRELO D.O.O.)
@@ -2021,8 +2025,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-400025f5689e6916@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-9ef81d8379137b13@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20390223
 DTEND;VALUE=DATE:20390224
 SUMMARY:Ističe koncesija: LIBURNIJSKE VODE D.O.O.
@@ -2040,8 +2044,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-400025f5689e6916@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-9ef81d8379137b13@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20380823
 DTEND;VALUE=DATE:20380824
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (LIBURNIJSKE VODE
@@ -2061,8 +2065,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-5879471467dfe2f7@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-2e841f43cc67bb86@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20390430
 DTEND;VALUE=DATE:20390501
 SUMMARY:Ističe 2 koncesije · MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE
@@ -2082,8 +2086,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-5879471467dfe2f7@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-2e841f43cc67bb86@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20381030
 DTEND;VALUE=DATE:20381031
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · MINISTARSTVO M
@@ -2104,8 +2108,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-1017df22f420b307@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-d62f5af5efe7d7aa@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20390701
 DTEND;VALUE=DATE:20390702
 SUMMARY:Ističe koncesija: MARTINOVIĆ-FISH D.O.O.
@@ -2123,8 +2127,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-1017df22f420b307@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-d62f5af5efe7d7aa@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20390101
 DTEND;VALUE=DATE:20390102
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MARTINOVIĆ-FISH
@@ -2144,8 +2148,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-e0674e35fad42f45@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-1540ded5d6481e53@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20400724
 DTEND;VALUE=DATE:20400725
 SUMMARY:Ističe koncesija: BIVALVIA MARIS D.O.O.
@@ -2163,8 +2167,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-e0674e35fad42f45@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-1540ded5d6481e53@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20400124
 DTEND;VALUE=DATE:20400125
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BIVALVIA MARIS D
@@ -2184,8 +2188,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-89caeba450bf5c2b@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-2cc84d68056d952c@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20400804
 DTEND;VALUE=DATE:20400805
 SUMMARY:Ističe koncesija: VOLO D.O.O.
@@ -2203,8 +2207,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-89caeba450bf5c2b@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-2cc84d68056d952c@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20400204
 DTEND;VALUE=DATE:20400205
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VOLO D.O.O.)
@@ -2221,8 +2225,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-d12a5efd3b5d4064@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-1b14823580da4888@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20400915
 DTEND;VALUE=DATE:20400916
 SUMMARY:Ističe koncesija: HRVATSKA  ELEKTROPRIVREDA D.D.
@@ -2240,8 +2244,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-d12a5efd3b5d4064@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-1b14823580da4888@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20400315
 DTEND;VALUE=DATE:20400316
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKA  ELEKTR
@@ -2261,8 +2265,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-7e4c9cb49b27cd44@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-0e1530d4a972322e@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20401028
 DTEND;VALUE=DATE:20401029
 SUMMARY:Ističe koncesija: HOTEL MEDENA D.D.
@@ -2280,8 +2284,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-7e4c9cb49b27cd44@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-0e1530d4a972322e@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20400428
 DTEND;VALUE=DATE:20400429
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HOTEL MEDENA D.D
@@ -2301,8 +2305,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-7810b57dd9b182f2@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-957b984574718c32@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20410118
 DTEND;VALUE=DATE:20410119
 SUMMARY:Ističe 2 koncesije · MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE
@@ -2323,8 +2327,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-7810b57dd9b182f2@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-957b984574718c32@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20400718
 DTEND;VALUE=DATE:20400719
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · MINISTARSTVO M
@@ -2345,8 +2349,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-965426269d2ad4f6@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-148064ee32fee9b0@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20410621
 DTEND;VALUE=DATE:20410622
 SUMMARY:Ističe koncesija: KALI TUNA D.O.O. KALI
@@ -2364,8 +2368,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-965426269d2ad4f6@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-148064ee32fee9b0@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20401221
 DTEND;VALUE=DATE:20401222
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (KALI TUNA D.O.O.
@@ -2385,8 +2389,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-806f9fbceac02d6c@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-8a80097f9e4c11bf@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20411010
 DTEND;VALUE=DATE:20411011
 SUMMARY:Ističe 4 koncesije · MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE
@@ -2410,8 +2414,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-806f9fbceac02d6c@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-8a80097f9e4c11bf@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20410410
 DTEND;VALUE=DATE:20410411
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 4 koncesije · MINISTARSTVO M
@@ -2436,8 +2440,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-9cf46d1221065741@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-07e8e37c8be26860@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20411215
 DTEND;VALUE=DATE:20411216
 SUMMARY:Ističe koncesija: BINA-ISTRA D.D.
@@ -2459,8 +2463,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-9cf46d1221065741@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-07e8e37c8be26860@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20410615
 DTEND;VALUE=DATE:20410616
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BINA-ISTRA D.D.)
@@ -2483,8 +2487,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-4ecd70ffa56cad22@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-660493be1742e23d@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20420411
 DTEND;VALUE=DATE:20420412
 SUMMARY:Ističe koncesija: MEĐUNARODNA ZRAČNA LUKA ZAGREB D.D.
@@ -2502,8 +2506,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-4ecd70ffa56cad22@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-660493be1742e23d@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20411011
 DTEND;VALUE=DATE:20411012
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MEĐUNARODNA ZRA
@@ -2523,8 +2527,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-74947b329f934c68@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-85182db552f43718@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20420523
 DTEND;VALUE=DATE:20420524
 SUMMARY:Ističe koncesija: USLUGE MLJET D.O.O.
@@ -2542,8 +2546,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-74947b329f934c68@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-85182db552f43718@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20411123
 DTEND;VALUE=DATE:20411124
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (USLUGE MLJET D.O
@@ -2563,16 +2567,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-c4a2567e3e07897a@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-5bd16aeda5e91c03@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20420716
 DTEND;VALUE=DATE:20420717
 SUMMARY:Ističe koncesija: JADRANSKI NAFTOVOD D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 16. 7. 2042. Godišnja fiksna nakn
  ada: 42.687 €.\n\n• JADRANSKI NAFTOVOD D.D. – Koncesija na pomorskom
-  dobru (OMIŠALJ\, Otok Krk)\, 42.687 €/god.\n\nŠto ističe: https://ko
- ncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada K
- oncesijski sat 9. 11. 2026.
+  dobru (OMIŠALJ\, Otok Krk (Grad Krk i općine))\, 42.687 €/god.\n\nŠt
+ o ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar konces
+ ija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -2582,8 +2586,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-c4a2567e3e07897a@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-5bd16aeda5e91c03@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20420116
 DTEND;VALUE=DATE:20420117
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (JADRANSKI NAFTOV
@@ -2591,8 +2595,8 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (JADRANSKI NAFTOV
 DESCRIPTION:16. 7. 2042. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• JADRANSKI NAFTOVOD D.D. – Koncesija na pomorskom dobru (OMIŠAL
- J\, Otok Krk)\, 42.687 €/god.\n\nŠto ističe: https://koncesijski-sat.v
- ercel.app/#sat
+ J\, Otok Krk (Grad Krk i općine))\, 42.687 €/god.\n\nŠto ističe: http
+ s://koncesijski-sat.vercel.app/#sat
 URL:https://koncesijski-sat.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -2603,8 +2607,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-038e1093ea9e191c@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-116c440002bcf579@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20421109
 DTEND;VALUE=DATE:20421110
 SUMMARY:Ističe 3 koncesije · MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE
@@ -2629,8 +2633,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-038e1093ea9e191c@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-116c440002bcf579@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20420509
 DTEND;VALUE=DATE:20420510
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · MINISTARSTVO M
@@ -2656,17 +2660,18 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-226b31cfad8f20d0@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-0b3c953257b74beb@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20421115
 DTEND;VALUE=DATE:20421116
 SUMMARY:Ističe 2 koncesije · MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE
 DESCRIPTION:2 ugovora o koncesiji ističe 15. 11. 2042. Godišnja fiksna na
  knada: 50.270 €.\n\n• JADRANSKI NAFTOVOD D.D. – Koncesija na pomorsk
  om dobru (KRALJEVICA\, Grad Kraljevica)\, 25.135 €/god.\n• JADRANSKI N
- AFTOVOD D.D. – Koncesija na pomorskom dobru (OMIŠALJ\, Otok Krk)\, 25.1
- 35 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzvo
- r: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ AFTOVOD D.D. – Koncesija na pomorskom dobru (OMIŠALJ\, Otok Krk (Grad K
+ rk i općine))\, 25.135 €/god.\n\nŠto ističe: https://koncesijski-sat.
+ vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat
+  9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -2677,8 +2682,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-226b31cfad8f20d0@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-0b3c953257b74beb@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20420515
 DTEND;VALUE=DATE:20420516
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · MINISTARSTVO M
@@ -2687,8 +2692,9 @@ DESCRIPTION:15. 11. 2042. ističe 2 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• JADRANSKI NAFTOVOD D.D. – Koncesija na pomorskom dobru (KRALJ
  EVICA\, Grad Kraljevica)\, 25.135 €/god.\n• JADRANSKI NAFTOVOD D.D. 
- – Koncesija na pomorskom dobru (OMIŠALJ\, Otok Krk)\, 25.135 €/god.\n
- \nŠto ističe: https://koncesijski-sat.vercel.app/#sat
+ – Koncesija na pomorskom dobru (OMIŠALJ\, Otok Krk (Grad Krk i općine)
+ )\, 25.135 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#s
+ at
 URL:https://koncesijski-sat.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -2699,16 +2705,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-6fffa595a38b52d2@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-9afd498a3d6d2996@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20430515
 DTEND;VALUE=DATE:20430516
 SUMMARY:Ističe koncesija: LABRAX ADRIA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 15. 5. 2043. Godišnja fiksna nakn
  ada: 13.122 €.\n\n• LABRAX ADRIA D.O.O. – Koncesija na pomorskom dob
- ru (KRK\, Otok Krk)\, 13.122 €/god.\n\nŠto ističe: https://koncesijski
- -sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Koncesijsk
- i sat 9. 11. 2026.
+ ru (KRK\, Otok Krk (Grad Krk i općine))\, 13.122 €/god.\n\nŠto ističe
+ : https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA
+ )\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -2718,8 +2724,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-6fffa595a38b52d2@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-9afd498a3d6d2996@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20421115
 DTEND;VALUE=DATE:20421116
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (LABRAX ADRIA D.O
@@ -2727,8 +2733,8 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (LABRAX ADRIA D.O
 DESCRIPTION:15. 5. 2043. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• LABRAX ADRIA D.O.O. – Koncesija na pomorskom dobru (KRK\, Otok 
- Krk)\, 13.122 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app
- /#sat
+ Krk (Grad Krk i općine))\, 13.122 €/god.\n\nŠto ističe: https://konce
+ sijski-sat.vercel.app/#sat
 URL:https://koncesijski-sat.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -2739,8 +2745,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-656a9747d87871e1@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-3a224bee4aebc413@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20431223
 DTEND;VALUE=DATE:20431224
 SUMMARY:Ističe koncesija: MARINE KAŠTELA D.O.O.
@@ -2758,8 +2764,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-656a9747d87871e1@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-3a224bee4aebc413@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20430623
 DTEND;VALUE=DATE:20430624
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MARINE KAŠTELA 
@@ -2779,8 +2785,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-cec59ece150f5f44@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-83b7651be20f8c09@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20450608
 DTEND;VALUE=DATE:20450609
 SUMMARY:Ističe koncesija: JAVNA USTANOVA NACIONALNI PARK MLJET
@@ -2798,8 +2804,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-cec59ece150f5f44@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-83b7651be20f8c09@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20441208
 DTEND;VALUE=DATE:20441209
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (JAVNA USTANOVA N
@@ -2819,8 +2825,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-ee72322374d2b423@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-b6c0500526f6c213@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20451105
 DTEND;VALUE=DATE:20451106
 SUMMARY:Ističe 2 koncesije · MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE
@@ -2840,8 +2846,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-ee72322374d2b423@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-b6c0500526f6c213@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20450505
 DTEND;VALUE=DATE:20450506
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · MINISTARSTVO M
@@ -2862,8 +2868,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-5af28e69c124b1a5@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-6cedfc3f9ae400ae@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20451128
 DTEND;VALUE=DATE:20451129
 SUMMARY:Ističe koncesija: INSTITUT RUĐER BOŠKOVIĆ
@@ -2880,8 +2886,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-5af28e69c124b1a5@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-6cedfc3f9ae400ae@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20450528
 DTEND;VALUE=DATE:20450529
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INSTITUT RUĐER 
@@ -2901,8 +2907,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-19dfcf080bcc584a@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-ce499b8b616dcef2@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20460101
 DTEND;VALUE=DATE:20460102
 SUMMARY:Ističe koncesija: VELE MARE D.O.O.
@@ -2920,8 +2926,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-19dfcf080bcc584a@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-ce499b8b616dcef2@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20450701
 DTEND;VALUE=DATE:20450702
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VELE MARE D.O.O.
@@ -2941,8 +2947,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-1c73a45eda423245@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-dc291d373eca4470@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20460105
 DTEND;VALUE=DATE:20460106
 SUMMARY:Ističe koncesija: SARDINA D.O.O.
@@ -2960,8 +2966,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-1c73a45eda423245@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-dc291d373eca4470@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20450705
 DTEND;VALUE=DATE:20450706
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (SARDINA D.O.O.)
@@ -2980,8 +2986,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-07b0a547b6972dd2@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-df049e87e4c08bf6@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20460509
 DTEND;VALUE=DATE:20460510
 SUMMARY:Ističe 2 koncesije · MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE
@@ -3001,8 +3007,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-07b0a547b6972dd2@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-df049e87e4c08bf6@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20451109
 DTEND;VALUE=DATE:20451110
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · MINISTARSTVO M
@@ -3023,8 +3029,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-2063003e48bef8a9@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-1a0c86d3b8081f97@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20460717
 DTEND;VALUE=DATE:20460718
 SUMMARY:Ističe koncesija: HRVATSKA ELEKTROPRIVREDA  D.D.
@@ -3043,8 +3049,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-2063003e48bef8a9@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-1a0c86d3b8081f97@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20460117
 DTEND;VALUE=DATE:20460118
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKA ELEKTRO
@@ -3065,8 +3071,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-310a6b8c20c93853@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-6edaf56f3734305e@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20460909
 DTEND;VALUE=DATE:20460910
 SUMMARY:Ističe 2 koncesije · MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE
@@ -3086,8 +3092,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-310a6b8c20c93853@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-6edaf56f3734305e@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20460309
 DTEND;VALUE=DATE:20460310
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · MINISTARSTVO M
@@ -3108,8 +3114,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-4d1b41eec014a2d6@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-b9bbf88e203eb44b@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20480130
 DTEND;VALUE=DATE:20480131
 SUMMARY:Ističe koncesija: MARINA BORIK D.O.O.
@@ -3127,8 +3133,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-4d1b41eec014a2d6@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-b9bbf88e203eb44b@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20470730
 DTEND;VALUE=DATE:20470731
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MARINA BORIK D.O
@@ -3148,8 +3154,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-8638830bfa7a2ee9@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-2c2968cb76d29f62@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20481110
 DTEND;VALUE=DATE:20481111
 SUMMARY:Ističe 2 koncesije · MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE
@@ -3170,8 +3176,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-8638830bfa7a2ee9@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-2c2968cb76d29f62@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20480510
 DTEND;VALUE=DATE:20480511
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · MINISTARSTVO M
@@ -3193,17 +3199,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-9dffd02c62bd08da@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-49dc100dd104411a@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20490312
 DTEND;VALUE=DATE:20490313
 SUMMARY:Ističe 2 koncesije · MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE
 DESCRIPTION:2 ugovora o koncesiji ističe 12. 3. 2049. Godišnja fiksna nak
  nada: 11.882 €.\n\n• PLINACRO D.O.O. – Koncesija na pomorskom dobru 
- (OMIŠALJ\, Otok Krk)\, 5.941 €/god.\n• PLINACRO D.O.O. – Koncesija 
- na pomorskom dobru (KRALJEVICA\, Grad Kraljevica)\, 5.941 €/god.\n\nŠto
-  ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesi
- ja (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ (OMIŠALJ\, Otok Krk (Grad Krk i općine))\, 5.941 €/god.\n• PLINACRO 
+ D.O.O. – Koncesija na pomorskom dobru (KRALJEVICA\, Grad Kraljevica)\, 5
+ .941 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIz
+ vor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -3214,8 +3220,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-9dffd02c62bd08da@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-49dc100dd104411a@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20480912
 DTEND;VALUE=DATE:20480913
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · MINISTARSTVO M
@@ -3223,9 +3229,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · MINISTARSTVO M
 DESCRIPTION:12. 3. 2049. ističe 2 ugovora o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• PLINACRO D.O.O. – Koncesija na pomorskom dobru (OMIŠALJ\, Oto
- k Krk)\, 5.941 €/god.\n• PLINACRO D.O.O. – Koncesija na pomorskom do
- bru (KRALJEVICA\, Grad Kraljevica)\, 5.941 €/god.\n\nŠto ističe: https
- ://koncesijski-sat.vercel.app/#sat
+ k Krk (Grad Krk i općine))\, 5.941 €/god.\n• PLINACRO D.O.O. – Konc
+ esija na pomorskom dobru (KRALJEVICA\, Grad Kraljevica)\, 5.941 €/god.\n
+ \nŠto ističe: https://koncesijski-sat.vercel.app/#sat
 URL:https://koncesijski-sat.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -3236,8 +3242,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-52361a06c4c84a2f@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-e67eafd268b089f0@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20490531
 DTEND;VALUE=DATE:20490601
 SUMMARY:Ističe koncesija: POMORSKO ŠPORTSKO DRUŠTVO ŠPINUT
@@ -3255,8 +3261,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-52361a06c4c84a2f@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-e67eafd268b089f0@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20481130
 DTEND;VALUE=DATE:20481201
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (POMORSKO ŠPORTS
@@ -3276,8 +3282,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-07e3f3092427ddc8@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-60b429d9b46f3c69@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20501120
 DTEND;VALUE=DATE:20501121
 SUMMARY:Ističe koncesija: DALMONT D.O.O.
@@ -3295,8 +3301,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-07e3f3092427ddc8@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-60b429d9b46f3c69@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20500520
 DTEND;VALUE=DATE:20500521
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DALMONT D.O.O.)
@@ -3315,8 +3321,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-80230f5cb4b6342c@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-6ab966e3cbb5d3ed@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20510406
 DTEND;VALUE=DATE:20510407
 SUMMARY:Ističe koncesija: INA-INDUSTRIJA NAFTE  D.D.
@@ -3334,8 +3340,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-80230f5cb4b6342c@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-6ab966e3cbb5d3ed@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20501006
 DTEND;VALUE=DATE:20501007
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA-INDUSTRIJA N
@@ -3355,8 +3361,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-e94e3592d4b68a63@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-f07e6bcd5e10b764@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20510528
 DTEND;VALUE=DATE:20510529
 SUMMARY:Ističe 2 koncesije · MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE
@@ -3378,8 +3384,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-e94e3592d4b68a63@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-f07e6bcd5e10b764@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20501128
 DTEND;VALUE=DATE:20501129
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · MINISTARSTVO M
@@ -3402,8 +3408,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-95ad49ad5f9d1c4f@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-d07ef33c53d4fe4d@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20520701
 DTEND;VALUE=DATE:20520702
 SUMMARY:Ističe koncesija: LAGUNA TRADE D.O.O.
@@ -3421,8 +3427,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-95ad49ad5f9d1c4f@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-d07ef33c53d4fe4d@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20520101
 DTEND;VALUE=DATE:20520102
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (LAGUNA TRADE D.O
@@ -3442,8 +3448,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-9ff23be724d0100d@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-9c6bffbead594c12@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20530519
 DTEND;VALUE=DATE:20530520
 SUMMARY:Ističe koncesija: ACI - GITONE D.O.O.
@@ -3462,8 +3468,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-9ff23be724d0100d@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-9c6bffbead594c12@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20521119
 DTEND;VALUE=DATE:20521120
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ACI - GITONE D.O
@@ -3483,8 +3489,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-f75e8536f279ab0d@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-24a33bf06db7b916@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20540119
 DTEND;VALUE=DATE:20540120
 SUMMARY:Ističe koncesija: LAGUNA TRADE D.O.O.
@@ -3502,8 +3508,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-f75e8536f279ab0d@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-24a33bf06db7b916@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20530719
 DTEND;VALUE=DATE:20530720
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (LAGUNA TRADE D.O
@@ -3523,8 +3529,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-2e21d819e0d70cda@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-f83f21dbd11570cb@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20541025
 DTEND;VALUE=DATE:20541026
 SUMMARY:Ističe koncesija: ISKRA BRODOGRADILIŠTE 1 D.O.O.
@@ -3543,8 +3549,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-2e21d819e0d70cda@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-f83f21dbd11570cb@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20540425
 DTEND;VALUE=DATE:20540426
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ISKRA BRODOGRADI
@@ -3564,8 +3570,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-c64f6fd4ea961f5c@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-257ff1be3d68db21@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20551021
 DTEND;VALUE=DATE:20551022
 SUMMARY:Ističe koncesija: YACHT LIFE D.O.O.
@@ -3584,8 +3590,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-c64f6fd4ea961f5c@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-257ff1be3d68db21@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20550421
 DTEND;VALUE=DATE:20550422
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (YACHT LIFE D.O.O
@@ -3605,8 +3611,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-8881786e2f41dd03@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-1ca36881798385b2@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20571110
 DTEND;VALUE=DATE:20571111
 SUMMARY:Ističe 2 koncesije · MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE
@@ -3628,8 +3634,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-8881786e2f41dd03@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-1ca36881798385b2@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20570510
 DTEND;VALUE=DATE:20570511
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · MINISTARSTVO M
@@ -3652,8 +3658,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-05358cf49367e9d2@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-38f0dbdf4ca759f4@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20581112
 DTEND;VALUE=DATE:20581113
 SUMMARY:Ističe 2 koncesije · MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE
@@ -3675,8 +3681,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-05358cf49367e9d2@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-38f0dbdf4ca759f4@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20580512
 DTEND;VALUE=DATE:20580513
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · MINISTARSTVO M
@@ -3698,8 +3704,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-34440aae2f367243@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-fe3daddcfb8645e1@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20600502
 DTEND;VALUE=DATE:20600503
 SUMMARY:Ističe koncesija: HRVATSKE CESTE D.O.O.
@@ -3717,8 +3723,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-34440aae2f367243@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-fe3daddcfb8645e1@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20591102
 DTEND;VALUE=DATE:20591103
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKE CESTE D
@@ -3738,8 +3744,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-26648512a329d4f9@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-89c71051a90a53ee@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20600605
 DTEND;VALUE=DATE:20600606
 SUMMARY:Ističe 2 koncesije · MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE
@@ -3761,8 +3767,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-26648512a329d4f9@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-89c71051a90a53ee@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20591205
 DTEND;VALUE=DATE:20591206
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · MINISTARSTVO M
@@ -3785,8 +3791,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-e1fde49f443a05f3@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-67a32737fd670b74@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20601015
 DTEND;VALUE=DATE:20601016
 SUMMARY:Ističe 27 koncesija · MINISTARSTVO MORA\, PROMETA I INFRASTRUKTUR
@@ -3794,47 +3800,48 @@ SUMMARY:Ističe 27 koncesija · MINISTARSTVO MORA\, PROMETA I INFRASTRUKTUR
 DESCRIPTION:27 ugovora o koncesiji ističe 15. 10. 2060. Godišnja fiksna n
  aknada: 616 €.\n\n• DRŽAVNI HIDROMETEOROLOŠKI ZAVOD – Koncesija na
   pomorskom dobru (ZADAR\, Grad Zadar)\, 58 €/god.\n• DRŽAVNI HIDROMET
- EOROLOŠKI ZAVOD – Koncesija na pomorskom dobru (MALI LOŠINJ\, Otok Los
- inj)\, 40 €/god.\n• DRŽAVNI HIDROMETEOROLOŠKI ZAVOD – Koncesija na
-  pomorskom dobru (PLOČE\, Grad Ploče)\, 32 €/god.\n• DRŽAVNI HIDROM
- ETEOROLOŠKI ZAVOD – Koncesija na pomorskom dobru (HVAR\, Grad Hvar)\, 3
+ EOROLOŠKI ZAVOD – Koncesija na pomorskom dobru (MALI LOŠINJ\, Grad Mal
+ i Lošinj (Lošinj))\, 40 €/god.\n• DRŽAVNI HIDROMETEOROLOŠKI ZAVOD 
+ – Koncesija na pomorskom dobru (PLOČE\, Grad Ploče)\, 32 €/god.\n•
+  DRŽAVNI HIDROMETEOROLOŠKI ZAVOD – Koncesija na pomorskom dobru (HVAR\
+ , Grad Hvar)\, 32 €/god.\n• DRŽAVNI HIDROMETEOROLOŠKI ZAVOD – Konc
+ esija na pomorskom dobru (DUBROVNIK\, Grad Dubrovnik)\, 32 €/god.\n• D
+ RŽAVNI HIDROMETEOROLOŠKI ZAVOD – Koncesija na pomorskom dobru (MAKARSK
+ A\, Grad Makarska)\, 29 €/god.\n• DRŽAVNI HIDROMETEOROLOŠKI ZAVOD 
+ – Koncesija na pomorskom dobru (KOSTRENA\, Općina Kostrena)\, 29 €/go
+ d.\n• DRŽAVNI HIDROMETEOROLOŠKI ZAVOD – Koncesija na pomorskom dobru
+  (KOMIŽA\, Grad Komiža)\, 26 €/god.\n• DRŽAVNI HIDROMETEOROLOŠKI Z
+ AVOD – Koncesija na pomorskom dobru (ROGOZNICA\, Općina Rogoznica)\, 26
+  €/god.\n• DRŽAVNI HIDROMETEOROLOŠKI ZAVOD – Koncesija na pomorsko
+ m dobru (BOL\, Općina Bol)\, 26 €/god.\n• DRŽAVNI HIDROMETEOROLOŠKI
+  ZAVOD – Koncesija na pomorskom dobru (PULA - POLA\, Grad Pula)\, 26 €
+ /god.\n• DRŽAVNI HIDROMETEOROLOŠKI ZAVOD – Koncesija na pomorskom do
+ bru (KRK\, Otok Krk (Grad Krk i općine))\, 26 €/god.\n• DRŽAVNI HIDR
+ OMETEOROLOŠKI ZAVOD – Koncesija na pomorskom dobru (SALI\, Općina Sali
+ )\, 22 €/god.\n• DRŽAVNI HIDROMETEOROLOŠKI ZAVOD – Koncesija na po
+ morskom dobru (KARLOBAG\, Općina Karlobag)\, 22 €/god.\n• DRŽAVNI HI
+ DROMETEOROLOŠKI ZAVOD – Koncesija na pomorskom dobru (ROVINJ - ROVIGNO\
+ , Grad Rovinj)\, 20 €/god.\n• DRŽAVNI HIDROMETEOROLOŠKI ZAVOD – Ko
+ ncesija na pomorskom dobru (NOVIGRAD\, Grad Novigrad)\, 20 €/god.\n• D
+ RŽAVNI HIDROMETEOROLOŠKI ZAVOD – Koncesija na pomorskom dobru (BIOGRAD
+  NA MORU\, Grad Biograd na Moru)\, 17 €/god.\n• DRŽAVNI HIDROMETEOROL
+ OŠKI ZAVOD – Koncesija na pomorskom dobru (CRIKVENICA\, Grad Crikvenica
+ )\, 17 €/god.\n• DRŽAVNI HIDROMETEOROLOŠKI ZAVOD – Koncesija na po
+ morskom dobru (LASTOVO\, Općina Lastovo)\, 14 €/god.\n• DRŽAVNI HIDR
+ OMETEOROLOŠKI ZAVOD – Koncesija na pomorskom dobru (STON\, Općina Ston
+ )\, 14 €/god.\n• DRŽAVNI HIDROMETEOROLOŠKI ZAVOD – Koncesija na po
+ morskom dobru (SPLIT\, Grad Split)\, 14 €/god.\n• DRŽAVNI HIDROMETEOR
+ OLOŠKI ZAVOD – Koncesija na pomorskom dobru (SENJ\, Grad Senj)\, 14 €
+ /god.\n• DRŽAVNI HIDROMETEOROLOŠKI ZAVOD – Koncesija na pomorskom do
+ bru (KORČULA\, Grad Korčula)\, 12 €/god.\n• DRŽAVNI HIDROMETEOROLO
+ ŠKI ZAVOD – Koncesija na pomorskom dobru (ŠIBENIK\, Grad Šibenik)\, 1
  2 €/god.\n• DRŽAVNI HIDROMETEOROLOŠKI ZAVOD – Koncesija na pomorsk
- om dobru (DUBROVNIK\, Grad Dubrovnik)\, 32 €/god.\n• DRŽAVNI HIDROMET
- EOROLOŠKI ZAVOD – Koncesija na pomorskom dobru (MAKARSKA\, Grad Makarsk
- a)\, 29 €/god.\n• DRŽAVNI HIDROMETEOROLOŠKI ZAVOD – Koncesija na p
- omorskom dobru (KOSTRENA\, Općina Kostrena)\, 29 €/god.\n• DRŽAVNI H
- IDROMETEOROLOŠKI ZAVOD – Koncesija na pomorskom dobru (KOMIŽA\, Grad K
- omiža)\, 26 €/god.\n• DRŽAVNI HIDROMETEOROLOŠKI ZAVOD – Koncesija
-  na pomorskom dobru (ROGOZNICA\, Općina Rogoznica)\, 26 €/god.\n• DR
- ŽAVNI HIDROMETEOROLOŠKI ZAVOD – Koncesija na pomorskom dobru (BOL\, Op
- ćina Bol)\, 26 €/god.\n• DRŽAVNI HIDROMETEOROLOŠKI ZAVOD – Konces
- ija na pomorskom dobru (PULA - POLA\, Grad Pula)\, 26 €/god.\n• DRŽAV
- NI HIDROMETEOROLOŠKI ZAVOD – Koncesija na pomorskom dobru (KRK\, Otok K
- rk)\, 26 €/god.\n• DRŽAVNI HIDROMETEOROLOŠKI ZAVOD – Koncesija na 
- pomorskom dobru (SALI\, Općina Sali)\, 22 €/god.\n• DRŽAVNI HIDROMET
- EOROLOŠKI ZAVOD – Koncesija na pomorskom dobru (KARLOBAG\, Općina Karl
- obag)\, 22 €/god.\n• DRŽAVNI HIDROMETEOROLOŠKI ZAVOD – Koncesija n
- a pomorskom dobru (ROVINJ - ROVIGNO\, Grad Rovinj)\, 20 €/god.\n• DRŽ
- AVNI HIDROMETEOROLOŠKI ZAVOD – Koncesija na pomorskom dobru (NOVIGRAD\,
-  Grad Novigrad)\, 20 €/god.\n• DRŽAVNI HIDROMETEOROLOŠKI ZAVOD – K
- oncesija na pomorskom dobru (BIOGRAD NA MORU\, Grad Biograd na Moru)\, 17 
+ om dobru (STARI GRAD\, Grad Stari Grad)\, 12 €/god.\n• DRŽAVNI HIDROM
+ ETEOROLOŠKI ZAVOD – Koncesija na pomorskom dobru (RAB\, Grad Rab)\, 12 
  €/god.\n• DRŽAVNI HIDROMETEOROLOŠKI ZAVOD – Koncesija na pomorskom
-  dobru (CRIKVENICA\, Grad Crikvenica)\, 17 €/god.\n• DRŽAVNI HIDROMET
- EOROLOŠKI ZAVOD – Koncesija na pomorskom dobru (LASTOVO\, Općina Lasto
- vo)\, 14 €/god.\n• DRŽAVNI HIDROMETEOROLOŠKI ZAVOD – Koncesija na 
- pomorskom dobru (STON\, Općina Ston)\, 14 €/god.\n• DRŽAVNI HIDROMET
- EOROLOŠKI ZAVOD – Koncesija na pomorskom dobru (SPLIT\, Grad Split)\, 1
- 4 €/god.\n• DRŽAVNI HIDROMETEOROLOŠKI ZAVOD – Koncesija na pomorsk
- om dobru (SENJ\, Grad Senj)\, 14 €/god.\n• DRŽAVNI HIDROMETEOROLOŠKI
-  ZAVOD – Koncesija na pomorskom dobru (KORČULA\, Grad Korčula)\, 12 
- €/god.\n• DRŽAVNI HIDROMETEOROLOŠKI ZAVOD – Koncesija na pomorskom
-  dobru (ŠIBENIK\, Grad Šibenik)\, 12 €/god.\n• DRŽAVNI HIDROMETEORO
- LOŠKI ZAVOD – Koncesija na pomorskom dobru (STARI GRAD\, Grad Stari Gra
- d)\, 12 €/god.\n• DRŽAVNI HIDROMETEOROLOŠKI ZAVOD – Koncesija na p
- omorskom dobru (RAB\, Grad Rab)\, 12 €/god.\n• DRŽAVNI HIDROMETEOROLO
- ŠKI ZAVOD – Koncesija na pomorskom dobru (CRES\, Otok Cres)\, 12 €/go
- d.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Regist
- ar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+  dobru (CRES\, Otok Cres)\, 12 €/god.\n\nŠto ističe: https://koncesijs
+ ki-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Koncesij
+ ski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -3845,8 +3852,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-e1fde49f443a05f3@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-67a32737fd670b74@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20600415
 DTEND;VALUE=DATE:20600416
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 27 koncesija · MINISTARSTVO 
@@ -3855,46 +3862,47 @@ DESCRIPTION:15. 10. 2060. ističe 27 ugovora o koncesiji. Novi postupak dod
  jele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugov
  ora.\n\n• DRŽAVNI HIDROMETEOROLOŠKI ZAVOD – Koncesija na pomorskom d
  obru (ZADAR\, Grad Zadar)\, 58 €/god.\n• DRŽAVNI HIDROMETEOROLOŠKI Z
- AVOD – Koncesija na pomorskom dobru (MALI LOŠINJ\, Otok Losinj)\, 40 
- €/god.\n• DRŽAVNI HIDROMETEOROLOŠKI ZAVOD – Koncesija na pomorskom
-  dobru (PLOČE\, Grad Ploče)\, 32 €/god.\n• DRŽAVNI HIDROMETEOROLOŠ
- KI ZAVOD – Koncesija na pomorskom dobru (HVAR\, Grad Hvar)\, 32 €/god.
- \n• DRŽAVNI HIDROMETEOROLOŠKI ZAVOD – Koncesija na pomorskom dobru (
- DUBROVNIK\, Grad Dubrovnik)\, 32 €/god.\n• DRŽAVNI HIDROMETEOROLOŠKI
-  ZAVOD – Koncesija na pomorskom dobru (MAKARSKA\, Grad Makarska)\, 29 
- €/god.\n• DRŽAVNI HIDROMETEOROLOŠKI ZAVOD – Koncesija na pomorskom
-  dobru (KOSTRENA\, Općina Kostrena)\, 29 €/god.\n• DRŽAVNI HIDROMETE
- OROLOŠKI ZAVOD – Koncesija na pomorskom dobru (KOMIŽA\, Grad Komiža)\
- , 26 €/god.\n• DRŽAVNI HIDROMETEOROLOŠKI ZAVOD – Koncesija na pomo
- rskom dobru (ROGOZNICA\, Općina Rogoznica)\, 26 €/god.\n• DRŽAVNI HI
- DROMETEOROLOŠKI ZAVOD – Koncesija na pomorskom dobru (BOL\, Općina Bol
- )\, 26 €/god.\n• DRŽAVNI HIDROMETEOROLOŠKI ZAVOD – Koncesija na po
- morskom dobru (PULA - POLA\, Grad Pula)\, 26 €/god.\n• DRŽAVNI HIDROM
- ETEOROLOŠKI ZAVOD – Koncesija na pomorskom dobru (KRK\, Otok Krk)\, 26 
- €/god.\n• DRŽAVNI HIDROMETEOROLOŠKI ZAVOD – Koncesija na pomorskom
-  dobru (SALI\, Općina Sali)\, 22 €/god.\n• DRŽAVNI HIDROMETEOROLOŠK
- I ZAVOD – Koncesija na pomorskom dobru (KARLOBAG\, Općina Karlobag)\, 2
- 2 €/god.\n• DRŽAVNI HIDROMETEOROLOŠKI ZAVOD – Koncesija na pomorsk
- om dobru (ROVINJ - ROVIGNO\, Grad Rovinj)\, 20 €/god.\n• DRŽAVNI HIDR
- OMETEOROLOŠKI ZAVOD – Koncesija na pomorskom dobru (NOVIGRAD\, Grad Nov
- igrad)\, 20 €/god.\n• DRŽAVNI HIDROMETEOROLOŠKI ZAVOD – Koncesija 
- na pomorskom dobru (BIOGRAD NA MORU\, Grad Biograd na Moru)\, 17 €/god.\
- n• DRŽAVNI HIDROMETEOROLOŠKI ZAVOD – Koncesija na pomorskom dobru (C
- RIKVENICA\, Grad Crikvenica)\, 17 €/god.\n• DRŽAVNI HIDROMETEOROLOŠK
- I ZAVOD – Koncesija na pomorskom dobru (LASTOVO\, Općina Lastovo)\, 14 
- €/god.\n• DRŽAVNI HIDROMETEOROLOŠKI ZAVOD – Koncesija na pomorskom
-  dobru (STON\, Općina Ston)\, 14 €/god.\n• DRŽAVNI HIDROMETEOROLOŠK
- I ZAVOD – Koncesija na pomorskom dobru (SPLIT\, Grad Split)\, 14 €/god
- .\n• DRŽAVNI HIDROMETEOROLOŠKI ZAVOD – Koncesija na pomorskom dobru 
- (SENJ\, Grad Senj)\, 14 €/god.\n• DRŽAVNI HIDROMETEOROLOŠKI ZAVOD 
- – Koncesija na pomorskom dobru (KORČULA\, Grad Korčula)\, 12 €/god.\
- n• DRŽAVNI HIDROMETEOROLOŠKI ZAVOD – Koncesija na pomorskom dobru (
- ŠIBENIK\, Grad Šibenik)\, 12 €/god.\n• DRŽAVNI HIDROMETEOROLOŠKI Z
- AVOD – Koncesija na pomorskom dobru (STARI GRAD\, Grad Stari Grad)\, 12 
- €/god.\n• DRŽAVNI HIDROMETEOROLOŠKI ZAVOD – Koncesija na pomorskom
-  dobru (RAB\, Grad Rab)\, 12 €/god.\n• DRŽAVNI HIDROMETEOROLOŠKI ZAV
- OD – Koncesija na pomorskom dobru (CRES\, Otok Cres)\, 12 €/god.\n\nŠ
- to ističe: https://koncesijski-sat.vercel.app/#sat
+ AVOD – Koncesija na pomorskom dobru (MALI LOŠINJ\, Grad Mali Lošinj (L
+ ošinj))\, 40 €/god.\n• DRŽAVNI HIDROMETEOROLOŠKI ZAVOD – Koncesij
+ a na pomorskom dobru (PLOČE\, Grad Ploče)\, 32 €/god.\n• DRŽAVNI HI
+ DROMETEOROLOŠKI ZAVOD – Koncesija na pomorskom dobru (HVAR\, Grad Hvar)
+ \, 32 €/god.\n• DRŽAVNI HIDROMETEOROLOŠKI ZAVOD – Koncesija na pom
+ orskom dobru (DUBROVNIK\, Grad Dubrovnik)\, 32 €/god.\n• DRŽAVNI HIDR
+ OMETEOROLOŠKI ZAVOD – Koncesija na pomorskom dobru (MAKARSKA\, Grad Mak
+ arska)\, 29 €/god.\n• DRŽAVNI HIDROMETEOROLOŠKI ZAVOD – Koncesija 
+ na pomorskom dobru (KOSTRENA\, Općina Kostrena)\, 29 €/god.\n• DRŽAV
+ NI HIDROMETEOROLOŠKI ZAVOD – Koncesija na pomorskom dobru (KOMIŽA\, Gr
+ ad Komiža)\, 26 €/god.\n• DRŽAVNI HIDROMETEOROLOŠKI ZAVOD – Konce
+ sija na pomorskom dobru (ROGOZNICA\, Općina Rogoznica)\, 26 €/god.\n•
+  DRŽAVNI HIDROMETEOROLOŠKI ZAVOD – Koncesija na pomorskom dobru (BOL\,
+  Općina Bol)\, 26 €/god.\n• DRŽAVNI HIDROMETEOROLOŠKI ZAVOD – Kon
+ cesija na pomorskom dobru (PULA - POLA\, Grad Pula)\, 26 €/god.\n• DR
+ ŽAVNI HIDROMETEOROLOŠKI ZAVOD – Koncesija na pomorskom dobru (KRK\, Ot
+ ok Krk (Grad Krk i općine))\, 26 €/god.\n• DRŽAVNI HIDROMETEOROLOŠK
+ I ZAVOD – Koncesija na pomorskom dobru (SALI\, Općina Sali)\, 22 €/go
+ d.\n• DRŽAVNI HIDROMETEOROLOŠKI ZAVOD – Koncesija na pomorskom dobru
+  (KARLOBAG\, Općina Karlobag)\, 22 €/god.\n• DRŽAVNI HIDROMETEOROLO
+ ŠKI ZAVOD – Koncesija na pomorskom dobru (ROVINJ - ROVIGNO\, Grad Rovin
+ j)\, 20 €/god.\n• DRŽAVNI HIDROMETEOROLOŠKI ZAVOD – Koncesija na p
+ omorskom dobru (NOVIGRAD\, Grad Novigrad)\, 20 €/god.\n• DRŽAVNI HIDR
+ OMETEOROLOŠKI ZAVOD – Koncesija na pomorskom dobru (BIOGRAD NA MORU\, G
+ rad Biograd na Moru)\, 17 €/god.\n• DRŽAVNI HIDROMETEOROLOŠKI ZAVOD 
+ – Koncesija na pomorskom dobru (CRIKVENICA\, Grad Crikvenica)\, 17 €/g
+ od.\n• DRŽAVNI HIDROMETEOROLOŠKI ZAVOD – Koncesija na pomorskom dobr
+ u (LASTOVO\, Općina Lastovo)\, 14 €/god.\n• DRŽAVNI HIDROMETEOROLOŠ
+ KI ZAVOD – Koncesija na pomorskom dobru (STON\, Općina Ston)\, 14 €/g
+ od.\n• DRŽAVNI HIDROMETEOROLOŠKI ZAVOD – Koncesija na pomorskom dobr
+ u (SPLIT\, Grad Split)\, 14 €/god.\n• DRŽAVNI HIDROMETEOROLOŠKI ZAVO
+ D – Koncesija na pomorskom dobru (SENJ\, Grad Senj)\, 14 €/god.\n• D
+ RŽAVNI HIDROMETEOROLOŠKI ZAVOD – Koncesija na pomorskom dobru (KORČUL
+ A\, Grad Korčula)\, 12 €/god.\n• DRŽAVNI HIDROMETEOROLOŠKI ZAVOD 
+ – Koncesija na pomorskom dobru (ŠIBENIK\, Grad Šibenik)\, 12 €/god.\
+ n• DRŽAVNI HIDROMETEOROLOŠKI ZAVOD – Koncesija na pomorskom dobru (S
+ TARI GRAD\, Grad Stari Grad)\, 12 €/god.\n• DRŽAVNI HIDROMETEOROLOŠK
+ I ZAVOD – Koncesija na pomorskom dobru (RAB\, Grad Rab)\, 12 €/god.\n
+ • DRŽAVNI HIDROMETEOROLOŠKI ZAVOD – Koncesija na pomorskom dobru (CR
+ ES\, Otok Cres)\, 12 €/god.\n\nŠto ističe: https://koncesijski-sat.ver
+ cel.app/#sat
 URL:https://koncesijski-sat.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -3905,16 +3913,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-c63c839a0fe7657e@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-1abf7270dbfbbb12@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20610601
 DTEND;VALUE=DATE:20610602
 SUMMARY:Ističe koncesija: JANAF\, D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 1. 6. 2061. Godišnja fiksna nakna
  da: 118 €.\n\n• JANAF\, D.D. – Koncesija na pomorskom dobru (OMIŠAL
- J\, Otok Krk)\, 118 €/god.\n\nŠto ističe: https://koncesijski-sat.verc
- el.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 
- 11. 2026.
+ J\, Otok Krk (Grad Krk i općine))\, 118 €/god.\n\nŠto ističe: https:/
+ /koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrad
+ a Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -3924,15 +3932,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-c63c839a0fe7657e@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-1abf7270dbfbbb12@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20601201
 DTEND;VALUE=DATE:20601202
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (JANAF\, D.D.)
 DESCRIPTION:1. 6. 2061. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• JANAF\, D.D. – Koncesija na pomorskom dobru (OMIŠALJ\, Otok Krk
- )\, 118 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
+  (Grad Krk i općine))\, 118 €/god.\n\nŠto ističe: https://koncesijski
+ -sat.vercel.app/#sat
 URL:https://koncesijski-sat.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -3943,8 +3952,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-f851eb154b30dec2@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-0fdd2df61ca0a643@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20610628
 DTEND;VALUE=DATE:20610629
 SUMMARY:Ističe koncesija: INA-INDUSTRIJA NAFTE  D.D.
@@ -3963,8 +3972,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-f851eb154b30dec2@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-0fdd2df61ca0a643@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20601228
 DTEND;VALUE=DATE:20601229
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA-INDUSTRIJA N
@@ -3985,8 +3994,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-80a673aa5788f8e3@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-7ae576b5313f5755@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20621114
 DTEND;VALUE=DATE:20621115
 SUMMARY:Ističe koncesija: ŽNJAN D.O.O.
@@ -4004,8 +4013,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-80a673aa5788f8e3@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-7ae576b5313f5755@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20620514
 DTEND;VALUE=DATE:20620515
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ŽNJAN D.O.O.)
@@ -4023,8 +4032,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-45d14869a37d1889@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-935198770ca3f48e@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20650905
 DTEND;VALUE=DATE:20650906
 SUMMARY:Ističe 2 koncesije · MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE
@@ -4046,8 +4055,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-45d14869a37d1889@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-935198770ca3f48e@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20650305
 DTEND;VALUE=DATE:20650306
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · MINISTARSTVO M
@@ -4070,8 +4079,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-f87c05031cbc6a1a@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-884f639a6a94fa40@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20670428
 DTEND;VALUE=DATE:20670429
 SUMMARY:Ističe koncesija: KERMAS ISTRA D.O.O.
@@ -4089,8 +4098,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-f87c05031cbc6a1a@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-884f639a6a94fa40@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20661028
 DTEND;VALUE=DATE:20661029
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (KERMAS ISTRA D.O
@@ -4110,8 +4119,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-6855192bfec8a4f0@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-c616246aecf00ec3@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20680723
 DTEND;VALUE=DATE:20680724
 SUMMARY:Ističe 3 koncesije · MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE
@@ -4133,8 +4142,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-6855192bfec8a4f0@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-c616246aecf00ec3@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20680123
 DTEND;VALUE=DATE:20680124
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · MINISTARSTVO M
@@ -4156,8 +4165,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-f083826d6ffa178e@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-b53da0297337985f@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20681205
 DTEND;VALUE=DATE:20681206
 SUMMARY:Ističe koncesija: HRVATSKE CESTE D.O.O.
@@ -4175,8 +4184,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-f083826d6ffa178e@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-b53da0297337985f@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20680605
 DTEND;VALUE=DATE:20680606
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKE CESTE D
@@ -4196,17 +4205,18 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-649796d2733fb41a@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-7c52a97872bb3fcf@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20751010
 DTEND;VALUE=DATE:20751011
 SUMMARY:Ističe 2 koncesije · MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE
 DESCRIPTION:2 ugovora o koncesiji ističe 10. 10. 2075. Godišnja fiksna na
  knada: 21.078 €.\n\n• HRVATSKI TELEKOM D.D. – Koncesija na pomorskom
-  dobru (MALI LOŠINJ\, Otok Losinj)\, 10.539 €/god.\n• HRVATSKI TELEKO
- M D.D. – Koncesija na pomorskom dobru (NOVALJA\, Grad Novalja)\, 10.539 
- €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: 
- Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+  dobru (MALI LOŠINJ\, Grad Mali Lošinj (Lošinj))\, 10.539 €/god.\n•
+  HRVATSKI TELEKOM D.D. – Koncesija na pomorskom dobru (NOVALJA\, Grad No
+ valja)\, 10.539 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.a
+ pp/#sat\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 
+ 2026.
 URL:https://koncesijski-sat.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -4217,8 +4227,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-649796d2733fb41a@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-7c52a97872bb3fcf@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20750410
 DTEND;VALUE=DATE:20750411
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · MINISTARSTVO M
@@ -4226,9 +4236,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · MINISTARSTVO M
 DESCRIPTION:10. 10. 2075. ističe 2 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• HRVATSKI TELEKOM D.D. – Koncesija na pomorskom dobru (MALI LO
- ŠINJ\, Otok Losinj)\, 10.539 €/god.\n• HRVATSKI TELEKOM D.D. – Konc
- esija na pomorskom dobru (NOVALJA\, Grad Novalja)\, 10.539 €/god.\n\nŠt
- o ističe: https://koncesijski-sat.vercel.app/#sat
+ ŠINJ\, Grad Mali Lošinj (Lošinj))\, 10.539 €/god.\n• HRVATSKI TELEK
+ OM D.D. – Koncesija na pomorskom dobru (NOVALJA\, Grad Novalja)\, 10.539
+  €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
 URL:https://koncesijski-sat.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -4239,8 +4249,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-3968ef9888e7e52f@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:istek-8a2ba8f52bbd9b67@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20760717
 DTEND;VALUE=DATE:20760718
 SUMMARY:Ističe 60 koncesija · MINISTARSTVO MORA\, PROMETA I INFRASTRUKTUR
@@ -4253,59 +4263,60 @@ DESCRIPTION:60 ugovora o koncesiji ističe 17. 7. 2076. Godišnja fiksna na
  (MLJET\, Općina Mljet)\, 14.487 €/god.\n• HRVATSKI TELEKOM D.D. – P
  osebna upotreba pomorskog dobra (DUBROVNIK\, Grad Dubrovnik)\, 9.164 €/g
  od.\n• HRVATSKI TELEKOM D.D. – Posebna upotreba pomorskog dobra (BAŠK
- A\, Otok Krk)\, 9.048 €/god.\n• HRVATSKI TELEKOM D.D. – Posebna upot
- reba pomorskog dobra (VIS\, Grad Vis)\, 8.371 €/god.\n• HRVATSKI TELEK
- OM D.D. – Posebna upotreba pomorskog dobra (LUMBARDA\, Općina Lumbarda)
- \, 6.299 €/god.\n• HRVATSKI TELEKOM D.D. – Posebna upotreba pomorsko
- g dobra (ŠOLTA\, Općina Šolta)\, 6.078 €/god.\n• HRVATSKI TELEKOM D
- .D. – Posebna upotreba pomorskog dobra (OREBIĆ\, Općina Orebić)\, 5.8
- 01 €/god.\n• HRVATSKI TELEKOM D.D. – Posebna upotreba pomorskog dobr
- a (JELSA\, Općina Jelsa)\, 5.562 €/god.\n• HRVATSKI TELEKOM D.D. – 
- Posebna upotreba pomorskog dobra (MILNA\, Općina Milna)\, 5.070 €/god.\
- n• HRVATSKI TELEKOM D.D. – Posebna upotreba pomorskog dobra (LOPAR\, O
- pćina Lopar)\, 4.739 €/god.\n• HRVATSKI TELEKOM D.D. – Posebna upot
- reba pomorskog dobra (PULA - POLA\, Grad Pula)\, 4.623 €/god.\n• HRVAT
- SKI TELEKOM D.D. – Posebna upotreba pomorskog dobra (LASTOVO\, Općina L
- astovo)\, 4.555 €/god.\n• HRVATSKI TELEKOM D.D. – Posebna upotreba p
- omorskog dobra (SMOKVICA\, Općina Smokvica)\, 4.555 €/god.\n• HRVATSK
- I TELEKOM D.D. – Posebna upotreba pomorskog dobra (TROGIR\, Grad Trogir)
- \, 4.503 €/god.\n• HRVATSKI TELEKOM D.D. – Posebna upotreba pomorsko
- g dobra (SENJ\, Grad Senj)\, 4.308 €/god.\n• HRVATSKI TELEKOM D.D. –
-  Posebna upotreba pomorskog dobra (SUPETAR\, Grad Supetar)\, 3.772 €/god
- .\n• HRVATSKI TELEKOM D.D. – Posebna upotreba pomorskog dobra (PODSTRA
- NA\, Općina Podstrana)\, 3.772 €/god.\n• HRVATSKI TELEKOM D.D. – Po
- sebna upotreba pomorskog dobra (VELA LUKA\, Općina Vela Luka)\, 3.533 €
- /god.\n• HRVATSKI TELEKOM D.D. – Posebna upotreba pomorskog dobra (RAB
- \, Grad Rab)\, 3.468 €/god.\n• HRVATSKI TELEKOM D.D. – Posebna upotr
- eba pomorskog dobra (NOVALJA\, Grad Novalja)\, 3.468 €/god.\n• HRVATSK
- I TELEKOM D.D. – Posebna upotreba pomorskog dobra (PLOČE\, Grad Ploče)
- \, 3.401 €/god.\n• HRVATSKI TELEKOM D.D. – Posebna upotreba pomorsko
- g dobra (JANJINA\, Općina Janjina)\, 3.401 €/god.\n• HRVATSKI TELEKOM
-  D.D. – Posebna upotreba pomorskog dobra (OKRUG\, Općina Okrug)\, 3.268
+ A\, Otok Krk (Grad Krk i općine))\, 9.048 €/god.\n• HRVATSKI TELEKOM 
+ D.D. – Posebna upotreba pomorskog dobra (VIS\, Grad Vis)\, 8.371 €/god
+ .\n• HRVATSKI TELEKOM D.D. – Posebna upotreba pomorskog dobra (LUMBARD
+ A\, Općina Lumbarda)\, 6.299 €/god.\n• HRVATSKI TELEKOM D.D. – Pose
+ bna upotreba pomorskog dobra (ŠOLTA\, Općina Šolta)\, 6.078 €/god.\n
+ • HRVATSKI TELEKOM D.D. – Posebna upotreba pomorskog dobra (OREBIĆ\, 
+ Općina Orebić)\, 5.801 €/god.\n• HRVATSKI TELEKOM D.D. – Posebna u
+ potreba pomorskog dobra (JELSA\, Općina Jelsa)\, 5.562 €/god.\n• HRVA
+ TSKI TELEKOM D.D. – Posebna upotreba pomorskog dobra (MILNA\, Općina Mi
+ lna)\, 5.070 €/god.\n• HRVATSKI TELEKOM D.D. – Posebna upotreba pomo
+ rskog dobra (LOPAR\, Općina Lopar)\, 4.739 €/god.\n• HRVATSKI TELEKOM
+  D.D. – Posebna upotreba pomorskog dobra (PULA - POLA\, Grad Pula)\, 4.6
+ 23 €/god.\n• HRVATSKI TELEKOM D.D. – Posebna upotreba pomorskog dobr
+ a (LASTOVO\, Općina Lastovo)\, 4.555 €/god.\n• HRVATSKI TELEKOM D.D. 
+ – Posebna upotreba pomorskog dobra (SMOKVICA\, Općina Smokvica)\, 4.555
   €/god.\n• HRVATSKI TELEKOM D.D. – Posebna upotreba pomorskog dobra 
- (PAG\, Grad Pag)\, 2.705 €/god.\n• HRVATSKI TELEKOM D.D. – Posebna u
- potreba pomorskog dobra (KARLOBAG\, Općina Karlobag)\, 2.705 €/god.\n
- • HRVATSKI TELEKOM D.D. – Posebna upotreba pomorskog dobra (BRELA\, Op
- ćina Brela)\, 2.568 €/god.\n• HRVATSKI TELEKOM D.D. – Posebna upotr
- eba pomorskog dobra (SELCA\, Općina Selca)\, 2.568 €/god.\n• HRVATSKI
-  TELEKOM D.D. – Posebna upotreba pomorskog dobra (STARI GRAD\, Grad Star
- i Grad)\, 2.025 €/god.\n• HRVATSKI TELEKOM D.D. – Posebna upotreba p
- omorskog dobra (BOL\, Općina Bol)\, 2.025 €/god.\n• HRVATSKI TELEKOM 
- D.D. – Posebna upotreba pomorskog dobra (STARI GRAD\, Grad Stari Grad)\,
-  2.025 €/god.\n• HRVATSKI TELEKOM D.D. – Posebna upotreba pomorskog 
- dobra (KRK\, Otok Krk)\, 1.802 €/god.\n• HRVATSKI TELEKOM D.D. – Pos
- ebna upotreba pomorskog dobra (CRES\, Otok Cres)\, 1.802 €/god.\n• HRV
- ATSKI TELEKOM D.D. – Posebna upotreba pomorskog dobra (TISNO)\, 1.784 
+ (TROGIR\, Grad Trogir)\, 4.503 €/god.\n• HRVATSKI TELEKOM D.D. – Pos
+ ebna upotreba pomorskog dobra (SENJ\, Grad Senj)\, 4.308 €/god.\n• HRV
+ ATSKI TELEKOM D.D. – Posebna upotreba pomorskog dobra (SUPETAR\, Grad Su
+ petar)\, 3.772 €/god.\n• HRVATSKI TELEKOM D.D. – Posebna upotreba po
+ morskog dobra (PODSTRANA\, Općina Podstrana)\, 3.772 €/god.\n• HRVATS
+ KI TELEKOM D.D. – Posebna upotreba pomorskog dobra (VELA LUKA\, Općina 
+ Vela Luka)\, 3.533 €/god.\n• HRVATSKI TELEKOM D.D. – Posebna upotreb
+ a pomorskog dobra (RAB\, Grad Rab)\, 3.468 €/god.\n• HRVATSKI TELEKOM 
+ D.D. – Posebna upotreba pomorskog dobra (NOVALJA\, Grad Novalja)\, 3.468
+  €/god.\n• HRVATSKI TELEKOM D.D. – Posebna upotreba pomorskog dobra 
+ (PLOČE\, Grad Ploče)\, 3.401 €/god.\n• HRVATSKI TELEKOM D.D. – Pos
+ ebna upotreba pomorskog dobra (JANJINA\, Općina Janjina)\, 3.401 €/god.
+ \n• HRVATSKI TELEKOM D.D. – Posebna upotreba pomorskog dobra (OKRUG\, 
+ Općina Okrug)\, 3.268 €/god.\n• HRVATSKI TELEKOM D.D. – Posebna upo
+ treba pomorskog dobra (PAG\, Grad Pag)\, 2.705 €/god.\n• HRVATSKI TELE
+ KOM D.D. – Posebna upotreba pomorskog dobra (KARLOBAG\, Općina Karlobag
+ )\, 2.705 €/god.\n• HRVATSKI TELEKOM D.D. – Posebna upotreba pomorsk
+ og dobra (BRELA\, Općina Brela)\, 2.568 €/god.\n• HRVATSKI TELEKOM D.
+ D. – Posebna upotreba pomorskog dobra (SELCA\, Općina Selca)\, 2.568 
  €/god.\n• HRVATSKI TELEKOM D.D. – Posebna upotreba pomorskog dobra (
- MALI LOŠINJ\, Otok Losinj)\, 1.743 €/god.\n• HRVATSKI TELEKOM D.D. 
- – Posebna upotreba pomorskog dobra (SPLIT\, Grad Split)\, 1.742 €/god.
- \n• HRVATSKI TELEKOM D.D. – Posebna upotreba pomorskog dobra (GRADAC\,
-  Općina Gradac)\, 1.647 €/god.\n• HRVATSKI TELEKOM D.D. – Posebna u
- potreba pomorskog dobra (SUĆURAJ\, Općina Sućuraj)\, 1.647 €/god.\n
- • HRVATSKI TELEKOM D.D. – Posebna upotreba pomorskog dobra (ZADAR\, Gr
- ad Zadar)\, 1.445 €/god.\n… i još 20 (cijeli popis u aplikaciji)\n\n
- Što ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar kon
- cesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ STARI GRAD\, Grad Stari Grad)\, 2.025 €/god.\n• HRVATSKI TELEKOM D.D. 
+ – Posebna upotreba pomorskog dobra (BOL\, Općina Bol)\, 2.025 €/god.\
+ n• HRVATSKI TELEKOM D.D. – Posebna upotreba pomorskog dobra (STARI GRA
+ D\, Grad Stari Grad)\, 2.025 €/god.\n• HRVATSKI TELEKOM D.D. – Poseb
+ na upotreba pomorskog dobra (KRK\, Otok Krk (Grad Krk i općine))\, 1.802 
+ €/god.\n• HRVATSKI TELEKOM D.D. – Posebna upotreba pomorskog dobra (
+ CRES\, Otok Cres)\, 1.802 €/god.\n• HRVATSKI TELEKOM D.D. – Posebna 
+ upotreba pomorskog dobra (TISNO)\, 1.784 €/god.\n• HRVATSKI TELEKOM D.
+ D. – Posebna upotreba pomorskog dobra (MALI LOŠINJ\, Grad Mali Lošinj 
+ (Lošinj))\, 1.743 €/god.\n• HRVATSKI TELEKOM D.D. – Posebna upotreb
+ a pomorskog dobra (SPLIT\, Grad Split)\, 1.742 €/god.\n• HRVATSKI TELE
+ KOM D.D. – Posebna upotreba pomorskog dobra (GRADAC\, Općina Gradac)\, 
+ 1.647 €/god.\n• HRVATSKI TELEKOM D.D. – Posebna upotreba pomorskog d
+ obra (SUĆURAJ\, Općina Sućuraj)\, 1.647 €/god.\n• HRVATSKI TELEKOM 
+ D.D. – Posebna upotreba pomorskog dobra (ZADAR\, Grad Zadar)\, 1.445 €
+ /god.\n… i još 20 (cijeli popis u aplikaciji)\n\nŠto ističe: https://
+ koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada
+  Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -4316,8 +4327,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-3968ef9888e7e52f@koncesijski-sat
-DTSTAMP:20261109T135541Z
+UID:priprema-8a2ba8f52bbd9b67@koncesijski-sat
+DTSTAMP:20261109T152427Z
 DTSTART;VALUE=DATE:20760117
 DTEND;VALUE=DATE:20760118
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 60 koncesija · MINISTARSTVO 
@@ -4330,59 +4341,60 @@ DESCRIPTION:17. 7. 2076. ističe 60 ugovora o koncesiji. Novi postupak dodj
  RVATSKI TELEKOM D.D. – Posebna upotreba pomorskog dobra (MLJET\, Općina
   Mljet)\, 14.487 €/god.\n• HRVATSKI TELEKOM D.D. – Posebna upotreba 
  pomorskog dobra (DUBROVNIK\, Grad Dubrovnik)\, 9.164 €/god.\n• HRVATSK
- I TELEKOM D.D. – Posebna upotreba pomorskog dobra (BAŠKA\, Otok Krk)\, 
- 9.048 €/god.\n• HRVATSKI TELEKOM D.D. – Posebna upotreba pomorskog d
- obra (VIS\, Grad Vis)\, 8.371 €/god.\n• HRVATSKI TELEKOM D.D. – Pose
- bna upotreba pomorskog dobra (LUMBARDA\, Općina Lumbarda)\, 6.299 €/god
- .\n• HRVATSKI TELEKOM D.D. – Posebna upotreba pomorskog dobra (ŠOLTA\
- , Općina Šolta)\, 6.078 €/god.\n• HRVATSKI TELEKOM D.D. – Posebna 
- upotreba pomorskog dobra (OREBIĆ\, Općina Orebić)\, 5.801 €/god.\n•
-  HRVATSKI TELEKOM D.D. – Posebna upotreba pomorskog dobra (JELSA\, Opći
- na Jelsa)\, 5.562 €/god.\n• HRVATSKI TELEKOM D.D. – Posebna upotreba
-  pomorskog dobra (MILNA\, Općina Milna)\, 5.070 €/god.\n• HRVATSKI TE
- LEKOM D.D. – Posebna upotreba pomorskog dobra (LOPAR\, Općina Lopar)\, 
- 4.739 €/god.\n• HRVATSKI TELEKOM D.D. – Posebna upotreba pomorskog d
- obra (PULA - POLA\, Grad Pula)\, 4.623 €/god.\n• HRVATSKI TELEKOM D.D.
-  – Posebna upotreba pomorskog dobra (LASTOVO\, Općina Lastovo)\, 4.555 
+ I TELEKOM D.D. – Posebna upotreba pomorskog dobra (BAŠKA\, Otok Krk (Gr
+ ad Krk i općine))\, 9.048 €/god.\n• HRVATSKI TELEKOM D.D. – Posebna
+  upotreba pomorskog dobra (VIS\, Grad Vis)\, 8.371 €/god.\n• HRVATSKI 
+ TELEKOM D.D. – Posebna upotreba pomorskog dobra (LUMBARDA\, Općina Lumb
+ arda)\, 6.299 €/god.\n• HRVATSKI TELEKOM D.D. – Posebna upotreba pom
+ orskog dobra (ŠOLTA\, Općina Šolta)\, 6.078 €/god.\n• HRVATSKI TELE
+ KOM D.D. – Posebna upotreba pomorskog dobra (OREBIĆ\, Općina Orebić)\
+ , 5.801 €/god.\n• HRVATSKI TELEKOM D.D. – Posebna upotreba pomorskog
+  dobra (JELSA\, Općina Jelsa)\, 5.562 €/god.\n• HRVATSKI TELEKOM D.D.
+  – Posebna upotreba pomorskog dobra (MILNA\, Općina Milna)\, 5.070 €/
+ god.\n• HRVATSKI TELEKOM D.D. – Posebna upotreba pomorskog dobra (LOPA
+ R\, Općina Lopar)\, 4.739 €/god.\n• HRVATSKI TELEKOM D.D. – Posebna
+  upotreba pomorskog dobra (PULA - POLA\, Grad Pula)\, 4.623 €/god.\n• 
+ HRVATSKI TELEKOM D.D. – Posebna upotreba pomorskog dobra (LASTOVO\, Opć
+ ina Lastovo)\, 4.555 €/god.\n• HRVATSKI TELEKOM D.D. – Posebna upotr
+ eba pomorskog dobra (SMOKVICA\, Općina Smokvica)\, 4.555 €/god.\n• HR
+ VATSKI TELEKOM D.D. – Posebna upotreba pomorskog dobra (TROGIR\, Grad Tr
+ ogir)\, 4.503 €/god.\n• HRVATSKI TELEKOM D.D. – Posebna upotreba pom
+ orskog dobra (SENJ\, Grad Senj)\, 4.308 €/god.\n• HRVATSKI TELEKOM D.D
+ . – Posebna upotreba pomorskog dobra (SUPETAR\, Grad Supetar)\, 3.772 
  €/god.\n• HRVATSKI TELEKOM D.D. – Posebna upotreba pomorskog dobra (
- SMOKVICA\, Općina Smokvica)\, 4.555 €/god.\n• HRVATSKI TELEKOM D.D. 
- – Posebna upotreba pomorskog dobra (TROGIR\, Grad Trogir)\, 4.503 €/go
- d.\n• HRVATSKI TELEKOM D.D. – Posebna upotreba pomorskog dobra (SENJ\,
-  Grad Senj)\, 4.308 €/god.\n• HRVATSKI TELEKOM D.D. – Posebna upotre
- ba pomorskog dobra (SUPETAR\, Grad Supetar)\, 3.772 €/god.\n• HRVATSKI
-  TELEKOM D.D. – Posebna upotreba pomorskog dobra (PODSTRANA\, Općina Po
- dstrana)\, 3.772 €/god.\n• HRVATSKI TELEKOM D.D. – Posebna upotreba 
- pomorskog dobra (VELA LUKA\, Općina Vela Luka)\, 3.533 €/god.\n• HRVA
- TSKI TELEKOM D.D. – Posebna upotreba pomorskog dobra (RAB\, Grad Rab)\, 
- 3.468 €/god.\n• HRVATSKI TELEKOM D.D. – Posebna upotreba pomorskog d
- obra (NOVALJA\, Grad Novalja)\, 3.468 €/god.\n• HRVATSKI TELEKOM D.D. 
- – Posebna upotreba pomorskog dobra (PLOČE\, Grad Ploče)\, 3.401 €/go
- d.\n• HRVATSKI TELEKOM D.D. – Posebna upotreba pomorskog dobra (JANJIN
- A\, Općina Janjina)\, 3.401 €/god.\n• HRVATSKI TELEKOM D.D. – Poseb
- na upotreba pomorskog dobra (OKRUG\, Općina Okrug)\, 3.268 €/god.\n• 
- HRVATSKI TELEKOM D.D. – Posebna upotreba pomorskog dobra (PAG\, Grad Pag
- )\, 2.705 €/god.\n• HRVATSKI TELEKOM D.D. – Posebna upotreba pomorsk
- og dobra (KARLOBAG\, Općina Karlobag)\, 2.705 €/god.\n• HRVATSKI TELE
- KOM D.D. – Posebna upotreba pomorskog dobra (BRELA\, Općina Brela)\, 2.
- 568 €/god.\n• HRVATSKI TELEKOM D.D. – Posebna upotreba pomorskog dob
- ra (SELCA\, Općina Selca)\, 2.568 €/god.\n• HRVATSKI TELEKOM D.D. –
-  Posebna upotreba pomorskog dobra (STARI GRAD\, Grad Stari Grad)\, 2.025 
- €/god.\n• HRVATSKI TELEKOM D.D. – Posebna upotreba pomorskog dobra (
- BOL\, Općina Bol)\, 2.025 €/god.\n• HRVATSKI TELEKOM D.D. – Posebna
-  upotreba pomorskog dobra (STARI GRAD\, Grad Stari Grad)\, 2.025 €/god.\
- n• HRVATSKI TELEKOM D.D. – Posebna upotreba pomorskog dobra (KRK\, Oto
- k Krk)\, 1.802 €/god.\n• HRVATSKI TELEKOM D.D. – Posebna upotreba po
- morskog dobra (CRES\, Otok Cres)\, 1.802 €/god.\n• HRVATSKI TELEKOM D.
- D. – Posebna upotreba pomorskog dobra (TISNO)\, 1.784 €/god.\n• HRVA
- TSKI TELEKOM D.D. – Posebna upotreba pomorskog dobra (MALI LOŠINJ\, Oto
- k Losinj)\, 1.743 €/god.\n• HRVATSKI TELEKOM D.D. – Posebna upotreba
-  pomorskog dobra (SPLIT\, Grad Split)\, 1.742 €/god.\n• HRVATSKI TELEK
- OM D.D. – Posebna upotreba pomorskog dobra (GRADAC\, Općina Gradac)\, 1
- .647 €/god.\n• HRVATSKI TELEKOM D.D. – Posebna upotreba pomorskog do
- bra (SUĆURAJ\, Općina Sućuraj)\, 1.647 €/god.\n• HRVATSKI TELEKOM D
- .D. – Posebna upotreba pomorskog dobra (ZADAR\, Grad Zadar)\, 1.445 €/
- god.\n… i još 20 (cijeli popis u aplikaciji)\n\nŠto ističe: https://k
- oncesijski-sat.vercel.app/#sat
+ PODSTRANA\, Općina Podstrana)\, 3.772 €/god.\n• HRVATSKI TELEKOM D.D.
+  – Posebna upotreba pomorskog dobra (VELA LUKA\, Općina Vela Luka)\, 3.
+ 533 €/god.\n• HRVATSKI TELEKOM D.D. – Posebna upotreba pomorskog dob
+ ra (RAB\, Grad Rab)\, 3.468 €/god.\n• HRVATSKI TELEKOM D.D. – Posebn
+ a upotreba pomorskog dobra (NOVALJA\, Grad Novalja)\, 3.468 €/god.\n• 
+ HRVATSKI TELEKOM D.D. – Posebna upotreba pomorskog dobra (PLOČE\, Grad 
+ Ploče)\, 3.401 €/god.\n• HRVATSKI TELEKOM D.D. – Posebna upotreba p
+ omorskog dobra (JANJINA\, Općina Janjina)\, 3.401 €/god.\n• HRVATSKI 
+ TELEKOM D.D. – Posebna upotreba pomorskog dobra (OKRUG\, Općina Okrug)\
+ , 3.268 €/god.\n• HRVATSKI TELEKOM D.D. – Posebna upotreba pomorskog
+  dobra (PAG\, Grad Pag)\, 2.705 €/god.\n• HRVATSKI TELEKOM D.D. – Po
+ sebna upotreba pomorskog dobra (KARLOBAG\, Općina Karlobag)\, 2.705 €/g
+ od.\n• HRVATSKI TELEKOM D.D. – Posebna upotreba pomorskog dobra (BRELA
+ \, Općina Brela)\, 2.568 €/god.\n• HRVATSKI TELEKOM D.D. – Posebna 
+ upotreba pomorskog dobra (SELCA\, Općina Selca)\, 2.568 €/god.\n• HRV
+ ATSKI TELEKOM D.D. – Posebna upotreba pomorskog dobra (STARI GRAD\, Grad
+  Stari Grad)\, 2.025 €/god.\n• HRVATSKI TELEKOM D.D. – Posebna upotr
+ eba pomorskog dobra (BOL\, Općina Bol)\, 2.025 €/god.\n• HRVATSKI TEL
+ EKOM D.D. – Posebna upotreba pomorskog dobra (STARI GRAD\, Grad Stari Gr
+ ad)\, 2.025 €/god.\n• HRVATSKI TELEKOM D.D. – Posebna upotreba pomor
+ skog dobra (KRK\, Otok Krk (Grad Krk i općine))\, 1.802 €/god.\n• HRV
+ ATSKI TELEKOM D.D. – Posebna upotreba pomorskog dobra (CRES\, Otok Cres)
+ \, 1.802 €/god.\n• HRVATSKI TELEKOM D.D. – Posebna upotreba pomorsko
+ g dobra (TISNO)\, 1.784 €/god.\n• HRVATSKI TELEKOM D.D. – Posebna up
+ otreba pomorskog dobra (MALI LOŠINJ\, Grad Mali Lošinj (Lošinj))\, 1.74
+ 3 €/god.\n• HRVATSKI TELEKOM D.D. – Posebna upotreba pomorskog dobra
+  (SPLIT\, Grad Split)\, 1.742 €/god.\n• HRVATSKI TELEKOM D.D. – Pose
+ bna upotreba pomorskog dobra (GRADAC\, Općina Gradac)\, 1.647 €/god.\n
+ • HRVATSKI TELEKOM D.D. – Posebna upotreba pomorskog dobra (SUĆURAJ\,
+  Općina Sućuraj)\, 1.647 €/god.\n• HRVATSKI TELEKOM D.D. – Posebna
+  upotreba pomorskog dobra (ZADAR\, Grad Zadar)\, 1.445 €/god.\n… i jo
+ š 20 (cijeli popis u aplikaciji)\n\nŠto ističe: https://koncesijski-sat
+ .vercel.app/#sat
 URL:https://koncesijski-sat.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
