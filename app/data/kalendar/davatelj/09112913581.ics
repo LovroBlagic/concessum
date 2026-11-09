@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · GRAD NOVSKA
 X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje GRAD NOVSKA. Iz Registra k
  oncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podataka. 
- https://koncesijski-sat.vercel.app/#sat
+ https://concessum.vercel.app/#sat
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
@@ -18,9 +18,9 @@ DTEND;VALUE=DATE:20311011
 SUMMARY:Ističe koncesija: E.ON DISTRIBUCIJA PLINA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 10. 10. 2031.\n\n• E.ON DISTRIBU
  CIJA PLINA D.O.O. – Koncesija za opskrbu potrošača prirodnim plinom (N
- OVSKA\, Grad Novska)\n\nŠto ističe: https://koncesijski-sat.vercel.app/#
- sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ OVSKA\, Grad Novska)\n\nŠto ističe: https://concessum.vercel.app/#sat\nI
+ zvor: Registar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -38,9 +38,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (E.ON DISTRIBUCIJ
 DESCRIPTION:10. 10. 2031. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• E.ON DISTRIBUCIJA PLINA D.O.O. – Koncesija za opskrbu potroša
- ča prirodnim plinom (NOVSKA\, Grad Novska)\n\nŠto ističe: https://konce
- sijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ ča prirodnim plinom (NOVSKA\, Grad Novska)\n\nŠto ističe: https://conce
+ ssum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -60,10 +60,10 @@ DESCRIPTION:2 ugovora o koncesiji ističe 15. 10. 2038. Godišnja fiksna na
  štenje poljoprivrednog zemljišta u vlasništvu države (NOVSKA\, Grad No
  vska)\, 53.246 €/god.\n• POLJOPRIVREDNA  ZADRUGA BRANITELJA EKO OGRC 
  – Koncesija za korištenje poljoprivrednog zemljišta u vlasništvu drž
- ave (NOVSKA\, Grad Novska)\, 5.879 €/god.\n\nŠto ističe: https://konce
- sijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Conc
- essum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ ave (NOVSKA\, Grad Novska)\, 5.879 €/god.\n\nŠto ističe: https://conce
+ ssum.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 
+ 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -83,9 +83,9 @@ DESCRIPTION:15. 10. 2038. ističe 2 ugovora o koncesiji. Novi postupak dodj
  vrednog zemljišta u vlasništvu države (NOVSKA\, Grad Novska)\, 53.246 
  €/god.\n• POLJOPRIVREDNA  ZADRUGA BRANITELJA EKO OGRC – Koncesija za
   korištenje poljoprivrednog zemljišta u vlasništvu države (NOVSKA\, Gr
- ad Novska)\, 5.879 €/god.\n\nŠto ističe: https://koncesijski-sat.verce
- l.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ ad Novska)\, 5.879 €/god.\n\nŠto ističe: https://concessum.vercel.app/
+ #sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY

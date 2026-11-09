@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · OPĆINA BRESTOVAC
 X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje OPĆINA BRESTOVAC. Iz Regi
  stra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade poda
- taka. https://koncesijski-sat.vercel.app/#sat
+ taka. https://concessum.vercel.app/#sat
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
@@ -19,10 +19,10 @@ SUMMARY:Ističe koncesija: EKO-IMANJE MAVROVIĆ D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 23. 6. 2033. Godišnja fiksna nakn
  ada: 20.448 €.\n\n• EKO-IMANJE MAVROVIĆ D.O.O. – Koncesija za kori
  štenje poljoprivrednog zemljišta u vlasništvu države (BRESTOVAC\, Opć
- ina Brestovac)\, 20.448 €/god.\n\nŠto ističe: https://koncesijski-sat.
- vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 11
- . 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ ina Brestovac)\, 20.448 €/god.\n\nŠto ističe: https://concessum.vercel
+ .app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 11. 2026
+ .
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -41,8 +41,8 @@ DESCRIPTION:23. 6. 2033. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• EKO-IMANJE MAVROVIĆ D.O.O. – Koncesija za korištenje poljopri
  vrednog zemljišta u vlasništvu države (BRESTOVAC\, Općina Brestovac)\,
-  20.448 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+  20.448 €/god.\n\nŠto ističe: https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY

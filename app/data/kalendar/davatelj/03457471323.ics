@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · LUČKA UPRAVA ZADAR
 X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje LUČKA UPRAVA ZADAR. Iz Re
  gistra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade po
- dataka. https://koncesijski-sat.vercel.app/#sat
+ dataka. https://concessum.vercel.app/#sat
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
@@ -44,9 +44,9 @@ DESCRIPTION:18 ugovora o koncesiji ističe 31. 12. 2026. Godišnja fiksna n
  BROVNIK D.O.O. – Koncesija na pomorskom dobru (ZADAR\, Grad Zadar)\, 400
   €/god.\n• JADROAGENT MEĐUNARODNA POMORSKA I PROMETNA AGENCIJA D.D. 
  – Koncesija za luku (ZADAR\, Grad Zadar)\, 200 €/god.\n\nŠto ističe:
-  https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)
- \, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+  https://concessum.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obr
+ ada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -103,10 +103,10 @@ DESCRIPTION:33 ugovora o koncesiji ističe 31. 12. 2027. Godišnja fiksna n
  400 €/god.\n• CROATIAINSPECT D.O.O. – Koncesija za luku (ZADAR\, Gra
  d Zadar)\, 400 €/god.\n• INTEREUROPA D.O.O. – Koncesija za luku (ZAD
  AR\, Grad Zadar)\, 200 €/god.\n• TRANSJUG D.O.O. – Koncesija za luku
-  (ZADAR\, Grad Zadar)\, 200 €/god.\n\nŠto ističe: https://koncesijski-
- sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9
- . 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+  (ZADAR\, Grad Zadar)\, 200 €/god.\n\nŠto ističe: https://concessum.ve
+ rcel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 11. 
+ 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -165,9 +165,8 @@ DESCRIPTION:31. 12. 2027. ističe 33 ugovora o koncesiji. Novi postupak dod
  • CROATIAINSPECT D.O.O. – Koncesija za luku (ZADAR\, Grad Zadar)\, 400
   €/god.\n• INTEREUROPA D.O.O. – Koncesija za luku (ZADAR\, Grad Zada
  r)\, 200 €/god.\n• TRANSJUG D.O.O. – Koncesija za luku (ZADAR\, Grad
-  Zadar)\, 200 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app
- /#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+  Zadar)\, 200 €/god.\n\nŠto ističe: https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -194,9 +193,9 @@ DESCRIPTION:8 ugovora o koncesiji ističe 31. 12. 2028. Godišnja fiksna na
  omorskom dobru (ZADAR\, Grad Zadar)\, 400 €/god.\n• ADRIAINSPEKT  D. O
  . O. – Koncesija na pomorskom dobru (ZADAR\, Grad Zadar)\, 400 €/god.\
  n• INSPEKT-RGH D.O.O. – Koncesija na pomorskom dobru (ZADAR\, Grad Zad
- ar)\, 400 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sa
- t\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ ar)\, 400 €/god.\n\nŠto ističe: https://concessum.vercel.app/#sat\nIzv
+ or: Registar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -224,8 +223,8 @@ DESCRIPTION:31. 12. 2028. ističe 8 ugovora o koncesiji. Novi postupak dodj
   (ZADAR\, Grad Zadar)\, 400 €/god.\n• ADRIAINSPEKT  D. O. O. – Konce
  sija na pomorskom dobru (ZADAR\, Grad Zadar)\, 400 €/god.\n• INSPEKT-R
  GH D.O.O. – Koncesija na pomorskom dobru (ZADAR\, Grad Zadar)\, 400 €/
- god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ god.\n\nŠto ističe: https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -242,10 +241,9 @@ DTEND;VALUE=DATE:20290515
 SUMMARY:Ističe koncesija: EUROPLAKAT D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 14. 5. 2029. Godišnja fiksna nakn
  ada: 4.299 €.\n\n• EUROPLAKAT D.O.O. – Koncesija za luku (ZADAR\, Gr
- ad Zadar)\, 4.299 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel
- .app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 11. 2026
- .
-URL:https://koncesijski-sat.vercel.app/#sat
+ ad Zadar)\, 4.299 €/god.\n\nŠto ističe: https://concessum.vercel.app/#
+ sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -263,8 +261,8 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (EUROPLAKAT D.O.O
 DESCRIPTION:14. 5. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• EUROPLAKAT D.O.O. – Koncesija za luku (ZADAR\, Grad Zadar)\, 4.
- 299 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ 299 €/god.\n\nŠto ističe: https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -281,10 +279,10 @@ DTEND;VALUE=DATE:20310421
 SUMMARY:Ističe koncesija: PETROL D.O.O. ZAGREB
 DESCRIPTION:1 ugovor o koncesiji ističe 20. 4. 2031. Godišnja fiksna nakn
  ada: 221.088 €.\n\n• PETROL D.O.O. ZAGREB – Koncesija za luku (ZADAR
- \, Grad Zadar)\, 221.088 €/god.\n\nŠto ističe: https://koncesijski-sat
- .vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 1
- 1. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ \, Grad Zadar)\, 221.088 €/god.\n\nŠto ističe: https://concessum.verce
+ l.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 11. 202
+ 6.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -302,8 +300,8 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PETROL D.O.O. ZA
 DESCRIPTION:20. 4. 2031. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• PETROL D.O.O. ZAGREB – Koncesija za luku (ZADAR\, Grad Zadar)\,
-  221.088 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+  221.088 €/god.\n\nŠto ističe: https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -320,10 +318,10 @@ DTEND;VALUE=DATE:20320101
 SUMMARY:Ističe koncesija: DELTA LOGISTIKA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 31. 12. 2031. Godišnja fiksna nak
  nada: 141.000 €.\n\n• DELTA LOGISTIKA D.O.O. – Koncesija na pomorsko
- m dobru (ZADAR\, Grad Zadar)\, 141.000 €/god.\n\nŠto ističe: https://k
- oncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada 
- Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ m dobru (ZADAR\, Grad Zadar)\, 141.000 €/god.\n\nŠto ističe: https://c
+ oncessum.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Conces
+ sum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -341,9 +339,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DELTA LOGISTIKA
 DESCRIPTION:31. 12. 2031. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• DELTA LOGISTIKA D.O.O. – Koncesija na pomorskom dobru (ZADAR\,
-  Grad Zadar)\, 141.000 €/god.\n\nŠto ističe: https://koncesijski-sat.v
- ercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+  Grad Zadar)\, 141.000 €/god.\n\nŠto ističe: https://concessum.vercel.
+ app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -360,10 +358,9 @@ DTEND;VALUE=DATE:20330120
 SUMMARY:Ističe koncesija: MAX PLASTIKA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 19. 1. 2033. Godišnja fiksna nakn
  ada: 36.009 €.\n\n• MAX PLASTIKA D.O.O. – Koncesija za luku (ZADAR\,
-  Grad Zadar)\, 36.009 €/god.\n\nŠto ističe: https://koncesijski-sat.ve
- rcel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 11. 
- 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+  Grad Zadar)\, 36.009 €/god.\n\nŠto ističe: https://concessum.vercel.a
+ pp/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -381,8 +378,8 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MAX PLASTIKA D.O
 DESCRIPTION:19. 1. 2033. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• MAX PLASTIKA D.O.O. – Koncesija za luku (ZADAR\, Grad Zadar)\, 
- 36.009 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ 36.009 €/god.\n\nŠto ističe: https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -399,10 +396,10 @@ DTEND;VALUE=DATE:20341028
 SUMMARY:Ističe koncesija: SARAG GAŽENICA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 27. 10. 2034. Godišnja fiksna nak
  nada: 30.000 €.\n\n• SARAG GAŽENICA D.O.O. – Koncesija na pomorskom
-  dobru (ZADAR\, Grad Zadar)\, 30.000 €/god.\n\nŠto ističe: https://kon
- cesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Co
- ncessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+  dobru (ZADAR\, Grad Zadar)\, 30.000 €/god.\n\nŠto ističe: https://con
+ cessum.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessu
+ m 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -420,9 +417,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (SARAG GAŽENICA
 DESCRIPTION:27. 10. 2034. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• SARAG GAŽENICA D.O.O. – Koncesija na pomorskom dobru (ZADAR\,
-  Grad Zadar)\, 30.000 €/god.\n\nŠto ističe: https://koncesijski-sat.ve
- rcel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+  Grad Zadar)\, 30.000 €/god.\n\nŠto ističe: https://concessum.vercel.a
+ pp/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -440,9 +437,9 @@ SUMMARY:Ističe koncesija: RIBARSKA ZADRUGA ZADAR RIBARSKA ZADRUGA ZADAR
 DESCRIPTION:1 ugovor o koncesiji ističe 31. 12. 2034. Godišnja fiksna nak
  nada: 11.000 €.\n\n• RIBARSKA ZADRUGA ZADAR RIBARSKA ZADRUGA ZADAR –
   Koncesija na pomorskom dobru (ZADAR\, Grad Zadar)\, 11.000 €/god.\n\nŠ
- to ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar konce
- sija (FINA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ to ističe: https://concessum.vercel.app/#sat\nIzvor: Registar koncesija (
+ FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -462,8 +459,8 @@ DESCRIPTION:31. 12. 2034. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• RIBARSKA ZADRUGA ZADAR RIBARSKA ZADRUGA ZADAR – Koncesija na p
  omorskom dobru (ZADAR\, Grad Zadar)\, 11.000 €/god.\n\nŠto ističe: htt
- ps://koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ ps://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -480,10 +477,9 @@ DTEND;VALUE=DATE:20350120
 SUMMARY:Ističe koncesija: MAX PLASTIKA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 19. 1. 2035. Godišnja fiksna nakn
  ada: 51.577 €.\n\n• MAX PLASTIKA D.O.O. – Koncesija za luku (ZADAR\,
-  Grad Zadar)\, 51.577 €/god.\n\nŠto ističe: https://koncesijski-sat.ve
- rcel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 11. 
- 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+  Grad Zadar)\, 51.577 €/god.\n\nŠto ističe: https://concessum.vercel.a
+ pp/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -501,8 +497,8 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MAX PLASTIKA D.O
 DESCRIPTION:19. 1. 2035. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• MAX PLASTIKA D.O.O. – Koncesija za luku (ZADAR\, Grad Zadar)\, 
- 51.577 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ 51.577 €/god.\n\nŠto ističe: https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -520,9 +516,9 @@ SUMMARY:Ističe koncesija: ZADAR INTERNATIONAL PORT OPERATIONS
 DESCRIPTION:1 ugovor o koncesiji ističe 11. 9. 2038. Godišnja fiksna nakn
  ada: 223.995 €.\n\n• ZADAR INTERNATIONAL PORT OPERATIONS – Koncesija
   za luku (ZADAR\, Grad Zadar)\, 223.995 €/god.\n\nŠto ističe: https://
- koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada
-  Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ concessum.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Conce
+ ssum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -540,9 +536,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ZADAR INTERNATIO
 DESCRIPTION:11. 9. 2038. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• ZADAR INTERNATIONAL PORT OPERATIONS – Koncesija za luku (ZADAR\
- , Grad Zadar)\, 223.995 €/god.\n\nŠto ističe: https://koncesijski-sat.
- vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ , Grad Zadar)\, 223.995 €/god.\n\nŠto ističe: https://concessum.vercel
+ .app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -561,9 +557,9 @@ SUMMARY:Ističe koncesija: HEP - OPERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O. DP
 DESCRIPTION:1 ugovor o koncesiji ističe 28. 5. 2041. Godišnja fiksna nakn
  ada: 358 €.\n\n• HEP - OPERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O. DP ELEK
  TRA ZADAR – Posebna upotreba pomorskog dobra (ZADAR\, Grad Zadar)\, 358 
- €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: 
- Registar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ €/god.\n\nŠto ističe: https://concessum.vercel.app/#sat\nIzvor: Regist
+ ar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -583,8 +579,8 @@ DESCRIPTION:28. 5. 2041. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• HEP - OPERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O. DP ELEKTRA ZADAR 
  – Posebna upotreba pomorskog dobra (ZADAR\, Grad Zadar)\, 358 €/god.\n
- \nŠto ističe: https://koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ \nŠto ističe: https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -603,9 +599,9 @@ SUMMARY:Ističe koncesija: HEP - OPERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O. DP
 DESCRIPTION:1 ugovor o koncesiji ističe 19. 9. 2041. Godišnja fiksna nakn
  ada: 346 €.\n\n• HEP - OPERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O. DP ELEK
  TRA ZADAR – Posebna upotreba pomorskog dobra (ZADAR\, Grad Zadar)\, 346 
- €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: 
- Registar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ €/god.\n\nŠto ističe: https://concessum.vercel.app/#sat\nIzvor: Regist
+ ar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -625,8 +621,8 @@ DESCRIPTION:19. 9. 2041. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• HEP - OPERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O. DP ELEKTRA ZADAR 
  – Posebna upotreba pomorskog dobra (ZADAR\, Grad Zadar)\, 346 €/god.\n
- \nŠto ističe: https://koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ \nŠto ističe: https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -643,10 +639,10 @@ DTEND;VALUE=DATE:20420214
 SUMMARY:Ističe koncesija: EVN CROATIA PLIN D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 13. 2. 2042. Godišnja fiksna nakn
  ada: 66 €.\n\n• EVN CROATIA PLIN D.O.O. – Koncesija na pomorskom dob
- ru (ZADAR\, Grad Zadar)\, 66 €/god.\n\nŠto ističe: https://koncesijski
- -sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 
- 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ ru (ZADAR\, Grad Zadar)\, 66 €/god.\n\nŠto ističe: https://concessum.v
+ ercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 11.
+  2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -664,9 +660,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (EVN CROATIA PLIN
 DESCRIPTION:13. 2. 2042. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• EVN CROATIA PLIN D.O.O. – Koncesija na pomorskom dobru (ZADAR\,
-  Grad Zadar)\, 66 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel
- .app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+  Grad Zadar)\, 66 €/god.\n\nŠto ističe: https://concessum.vercel.app/#
+ sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -683,10 +679,10 @@ DTEND;VALUE=DATE:20451125
 SUMMARY:Ističe koncesija: SARAG GAŽENICA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 24. 11. 2045. Godišnja fiksna nak
  nada: 30.706 €.\n\n• SARAG GAŽENICA D.O.O. – Koncesija za luku (ZAD
- AR\, Grad Zadar)\, 30.706 €/god.\n\nŠto ističe: https://koncesijski-sa
- t.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 
- 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ AR\, Grad Zadar)\, 30.706 €/god.\n\nŠto ističe: https://concessum.verc
+ el.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 11. 20
+ 26.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -704,9 +700,8 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (SARAG GAŽENICA
 DESCRIPTION:24. 11. 2045. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• SARAG GAŽENICA D.O.O. – Koncesija za luku (ZADAR\, Grad Zadar
- )\, 30.706 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#s
- at
-URL:https://koncesijski-sat.vercel.app/#sat
+ )\, 30.706 €/god.\n\nŠto ističe: https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -723,10 +718,10 @@ DTEND;VALUE=DATE:20560402
 SUMMARY:Ističe koncesija: DELTA LOGISTIC INTERNATIONAL D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 1. 4. 2056. Godišnja fiksna nakna
  da: 367.676 €.\n\n• DELTA LOGISTIC INTERNATIONAL D.O.O. – Koncesija 
- za luku (ZADAR\, Grad Zadar)\, 367.676 €/god.\n\nŠto ističe: https://k
- oncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada 
- Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ za luku (ZADAR\, Grad Zadar)\, 367.676 €/god.\n\nŠto ističe: https://c
+ oncessum.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Conces
+ sum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -744,9 +739,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DELTA LOGISTIC I
 DESCRIPTION:1. 4. 2056. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• DELTA LOGISTIC INTERNATIONAL D.O.O. – Koncesija za luku (ZADAR\,
-  Grad Zadar)\, 367.676 €/god.\n\nŠto ističe: https://koncesijski-sat.v
- ercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+  Grad Zadar)\, 367.676 €/god.\n\nŠto ističe: https://concessum.vercel.
+ app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY

@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · GRAD PLETERNICA
 X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje GRAD PLETERNICA. Iz Regist
  ra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podata
- ka. https://koncesijski-sat.vercel.app/#sat
+ ka. https://concessum.vercel.app/#sat
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
@@ -18,9 +18,9 @@ DTEND;VALUE=DATE:20290801
 SUMMARY:Ističe koncesija: MONTCOGIM-PLINARA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 31. 7. 2029.\n\n• MONTCOGIM-PLIN
  ARA D.O.O. – Koncesija za opskrbu potrošača prirodnim plinom (PLETERNI
- CA\, Grad Pleternica)\n\nŠto ističe: https://koncesijski-sat.vercel.app/
- #sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ CA\, Grad Pleternica)\n\nŠto ističe: https://concessum.vercel.app/#sat\n
+ Izvor: Registar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -38,9 +38,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MONTCOGIM-PLINAR
 DESCRIPTION:31. 7. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• MONTCOGIM-PLINARA D.O.O. – Koncesija za opskrbu potrošača pri
- rodnim plinom (PLETERNICA\, Grad Pleternica)\n\nŠto ističe: https://konc
- esijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ rodnim plinom (PLETERNICA\, Grad Pleternica)\n\nŠto ističe: https://conc
+ essum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY

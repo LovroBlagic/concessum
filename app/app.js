@@ -809,7 +809,7 @@
   $("#opcina-ispis").onclick = () => window.print();
 
   // ---------- pretplata na kalendar (statični feed po općini, generira izvoz_web.py) ----------
-  const JAVNO = /^(localhost|127\.0\.0\.1)$/.test(location.hostname) ? "https://koncesijski-sat.vercel.app" : location.origin;
+  const JAVNO = /^(localhost|127\.0\.0\.1)$/.test(location.hostname) ? "https://concessum.vercel.app" : location.origin;
   const GEN = parse(P.generirano);
   // Kalendar po općini = pregled svih ugovora na području; po davatelju = „moji ugovori“ (tko vodi postupak).
   // Općine same dodjeljuju tek ~12 % koncesija na svom području, ostalo lučke uprave, županije i ministarstva.

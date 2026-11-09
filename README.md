@@ -3,9 +3,9 @@
 **Koje koncesije u Hrvatskoj uskoro ističu, što je stvarna namjena svake koncesije na terenu, koliki je fiskalni rizik za proračune općina i gdje istekle koncesije ostaju bez nastavka.**
 Registar koncesija (FINA) povezan je s **5 otvorenih skupova podataka s Portala otvorenih podataka (`data.gov.hr`)** preko OIB-a i JLS šifri u alat za upravljanje rokovima, AI procjenu stvarne namjene koncesije, reviziju cjenovnih anomalija i automatsku pripremu službenih dopisa.
 
-- **Aplikacija:** https://koncesijski-sat.vercel.app
-- **Izvorni kod:** https://github.com/LovroBlagic/koncesijski-sat
-- **Otvoreni izvoz obrađenih podataka:** https://koncesijski-sat.vercel.app/data/koncesije.csv
+- **Aplikacija:** https://concessum.vercel.app
+- **Izvorni kod:** https://github.com/LovroBlagic/concessum
+- **Otvoreni izvoz obrađenih podataka:** https://concessum.vercel.app/data/koncesije.csv
 - Datathon Portala otvorenih podataka 2026, izazov **C) Gospodarstvo i učinkovito upravljanje**
 
 ## Problem

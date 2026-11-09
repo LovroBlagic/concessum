@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · OPĆINA MALA SUBOTICA
 X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje OPĆINA MALA SUBOTICA. Iz 
  Registra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade 
- podataka. https://koncesijski-sat.vercel.app/#sat
+ podataka. https://concessum.vercel.app/#sat
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
@@ -19,9 +19,9 @@ SUMMARY:Ističe koncesija: BRU-FRA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 3. 10. 2034. Godišnja fiksna nakn
  ada: 1.351 €.\n\n• BRU-FRA D.O.O. – Koncesija za obavljanje dimnjač
  arskih poslova (MALA SUBOTICA\, Općina Mala Subotica)\, 1.351 €/god.\n\
- nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar ko
- ncesija (FINA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ nŠto ističe: https://concessum.vercel.app/#sat\nIzvor: Registar koncesij
+ a (FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -39,8 +39,8 @@ DESCRIPTION:3. 10. 2034. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• BRU-FRA D.O.O. – Koncesija za obavljanje dimnjačarskih poslova
   (MALA SUBOTICA\, Općina Mala Subotica)\, 1.351 €/god.\n\nŠto ističe:
-  https://koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+  https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -59,10 +59,10 @@ SUMMARY:Ističe koncesija: DIMOS\, OBRT ZA DIMNJAČARSKE USLUGE\, VL. ROBER
 DESCRIPTION:1 ugovor o koncesiji ističe 31. 3. 2036. Godišnja fiksna nakn
  ada: 1.410 €.\n\n• DIMOS\, OBRT ZA DIMNJAČARSKE USLUGE\, VL. ROBERT Z
  VER – Koncesija za obavljanje dimnjačarskih poslova (MALA SUBOTICA\, Op
- ćina Mala Subotica)\, 1.410 €/god.\n\nŠto ističe: https://koncesijski
- -sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 
- 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ ćina Mala Subotica)\, 1.410 €/god.\n\nŠto ističe: https://concessum.v
+ ercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 11.
+  2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -82,9 +82,8 @@ DESCRIPTION:31. 3. 2036. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• DIMOS\, OBRT ZA DIMNJAČARSKE USLUGE\, VL. ROBERT ZVER – Konces
  ija za obavljanje dimnjačarskih poslova (MALA SUBOTICA\, Općina Mala Sub
- otica)\, 1.410 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.ap
- p/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ otica)\, 1.410 €/god.\n\nŠto ističe: https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY

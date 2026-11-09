@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · OPĆINA SUHOPOLJE
 X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje OPĆINA SUHOPOLJE. Iz Regi
  stra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade poda
- taka. https://koncesijski-sat.vercel.app/#sat
+ taka. https://concessum.vercel.app/#sat
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
@@ -19,9 +19,9 @@ SUMMARY:Ističe koncesija: ŽDREBAC D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 27. 2. 2030. Godišnja fiksna nakn
  ada: 1.500 €.\n\n• ŽDREBAC D.O.O. – Koncesija za obavljanje dimnja
  čarskih poslova (SUHOPOLJE\, Općina Suhopolje)\, 1.500 €/god.\n\nŠto 
- ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesij
- a (FINA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ ističe: https://concessum.vercel.app/#sat\nIzvor: Registar koncesija (FIN
+ A)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -39,8 +39,8 @@ DESCRIPTION:27. 2. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• ŽDREBAC D.O.O. – Koncesija za obavljanje dimnjačarskih poslov
  a (SUHOPOLJE\, Općina Suhopolje)\, 1.500 €/god.\n\nŠto ističe: https:
- //koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ //concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -58,9 +58,9 @@ SUMMARY:Ističe koncesija: DIBA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 11. 6. 2038. Godišnja fiksna nakn
  ada: 119.664 €.\n\n• DIBA D.O.O. – Koncesija za korištenje poljopri
  vrednog zemljišta u vlasništvu države (SUHOPOLJE\, Općina Suhopolje)\,
-  119.664 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
- \nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+  119.664 €/god.\n\nŠto ističe: https://concessum.vercel.app/#sat\nIzvo
+ r: Registar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -78,8 +78,8 @@ DESCRIPTION:11. 6. 2038. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• DIBA D.O.O. – Koncesija za korištenje poljoprivrednog zemljiš
  ta u vlasništvu države (SUHOPOLJE\, Općina Suhopolje)\, 119.664 €/god
- .\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ .\n\nŠto ističe: https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY

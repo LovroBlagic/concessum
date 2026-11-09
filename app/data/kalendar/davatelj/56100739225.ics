@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · OPĆINA PETLOVAC
 X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje OPĆINA PETLOVAC. Iz Regis
  tra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podat
- aka. https://koncesijski-sat.vercel.app/#sat
+ aka. https://concessum.vercel.app/#sat
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
@@ -21,10 +21,10 @@ DESCRIPTION:2 ugovora o koncesiji ističe 7. 12. 2036. Godišnja fiksna nak
  oljoprivrednog zemljišta u vlasništvu države (PETLOVAC\, Općina Petlov
  ac)\, 213.722 €/god.\n• BELJE PLUS D.O.O. ZA JAMČEVINU – Koncesija 
  za korištenje poljoprivrednog zemljišta u vlasništvu države (PETLOVAC\
- , Općina Petlovac)\, 213.722 €/god.\n\nŠto ističe: https://koncesijsk
- i-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum
-  9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ , Općina Petlovac)\, 213.722 €/god.\n\nŠto ističe: https://concessum.
+ vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 11
+ . 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -45,9 +45,9 @@ DESCRIPTION:7. 12. 2036. ističe 2 ugovora o koncesiji. Novi postupak dodje
  emljišta u vlasništvu države (PETLOVAC\, Općina Petlovac)\, 213.722 
  €/god.\n• BELJE PLUS D.O.O. ZA JAMČEVINU – Koncesija za korištenje
   poljoprivrednog zemljišta u vlasništvu države (PETLOVAC\, Općina Petl
- ovac)\, 213.722 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.a
- pp/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ ovac)\, 213.722 €/god.\n\nŠto ističe: https://concessum.vercel.app/#sa
+ t
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY

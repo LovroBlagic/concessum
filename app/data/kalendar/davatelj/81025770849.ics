@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · OPĆINA BRTONIGLA (VERTENEGLIO)
 X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje OPĆINA BRTONIGLA (VERTENE
  GLIO). Iz Registra koncesija (FINA\, data.gov.hr). Osvježava se nakon sva
- ke obrade podataka. https://koncesijski-sat.vercel.app/#sat
+ ke obrade podataka. https://concessum.vercel.app/#sat
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
@@ -19,9 +19,9 @@ SUMMARY:Ističe koncesija: D.M.M. - TIM D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 8. 4. 2029. Godišnja fiksna nakna
  da: 500 €.\n\n• D.M.M. - TIM D.O.O. – Koncesija za obavljanje dimnja
  čarskih poslova (BRTONIGLA - VERTENEGLIO\, Općina Brtonigla)\, 500 €/g
- od.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Regis
- tar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ od.\n\nŠto ističe: https://concessum.vercel.app/#sat\nIzvor: Registar ko
+ ncesija (FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -40,8 +40,8 @@ DESCRIPTION:8. 4. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• D.M.M. - TIM D.O.O. – Koncesija za obavljanje dimnjačarskih pos
  lova (BRTONIGLA - VERTENEGLIO\, Općina Brtonigla)\, 500 €/god.\n\nŠto 
- ističe: https://koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ ističe: https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY

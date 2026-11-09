@@ -1,7 +1,7 @@
 # Scenarij za 3-minutni video: Concessum (Izazov C)
 
 **Trajanje:** maksimalno 3 minute (strogi uvjet ocjenjivanja – nosi 10 bodova!)  
-**Format:** Snimka zaslona preglednika (http://localhost:8766 ili https://koncesijski-sat.vercel.app) s glasovnim vođenjem.
+**Format:** Snimka zaslona preglednika (http://localhost:8766 ili https://concessum.vercel.app) s glasovnim vođenjem.
 
 ---
 

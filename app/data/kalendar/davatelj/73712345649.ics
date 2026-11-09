@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · OPĆINA NOVIGRAD PODRAVSKI
 X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje OPĆINA NOVIGRAD PODRAVSKI
  . Iz Registra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake ob
- rade podataka. https://koncesijski-sat.vercel.app/#sat
+ rade podataka. https://concessum.vercel.app/#sat
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
@@ -19,9 +19,9 @@ SUMMARY:Ističe koncesija: KOMUNALNE USLUGE ĐURĐEVAC D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 6. 11. 2027. Godišnja fiksna nakn
  ada: 800 €.\n\n• KOMUNALNE USLUGE ĐURĐEVAC D.O.O. – Koncesija za o
  bavljanje dimnjačarskih poslova (NOVIGRAD PODRAVSKI\, Općina Novigrad Po
- dravski)\, 800 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.ap
- p/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ dravski)\, 800 €/god.\n\nŠto ističe: https://concessum.vercel.app/#sat
+ \nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -40,8 +40,8 @@ DESCRIPTION:6. 11. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• KOMUNALNE USLUGE ĐURĐEVAC D.O.O. – Koncesija za obavljanje di
  mnjačarskih poslova (NOVIGRAD PODRAVSKI\, Općina Novigrad Podravski)\, 8
- 00 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ 00 €/god.\n\nŠto ističe: https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY

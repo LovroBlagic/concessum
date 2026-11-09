@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · OPĆINA PUNITOVCI
 X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje OPĆINA PUNITOVCI. Iz Regi
  stra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade poda
- taka. https://koncesijski-sat.vercel.app/#sat
+ taka. https://concessum.vercel.app/#sat
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
@@ -21,9 +21,9 @@ DESCRIPTION:2 ugovora o koncesiji ističe 23. 12. 2038. Godišnja fiksna na
  oprivrednog zemljišta u vlasništvu države (PUNITOVCI\, Općina Punitovc
  i)\, 22.563 €/god.\n• GRUBE D.O.O. – Koncesija za korištenje poljop
  rivrednog zemljišta u vlasništvu države (PUNITOVCI\, Općina Punitovci)
- \, 4.835 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
- \nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ \, 4.835 €/god.\n\nŠto ističe: https://concessum.vercel.app/#sat\nIzvo
+ r: Registar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -44,8 +44,8 @@ DESCRIPTION:23. 12. 2038. ističe 2 ugovora o koncesiji. Novi postupak dodj
  ljišta u vlasništvu države (PUNITOVCI\, Općina Punitovci)\, 22.563 €
  /god.\n• GRUBE D.O.O. – Koncesija za korištenje poljoprivrednog zemlj
  išta u vlasništvu države (PUNITOVCI\, Općina Punitovci)\, 4.835 €/go
- d.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ d.\n\nŠto ističe: https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY

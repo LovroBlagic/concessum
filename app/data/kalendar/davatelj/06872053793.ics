@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · KOPRIVNIČKO-KRIŽEVAČKA ŽUPANIJA
 X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje KOPRIVNIČKO-KRIŽEVAČKA 
  ŽUPANIJA. Iz Registra koncesija (FINA\, data.gov.hr). Osvježava se nakon
-  svake obrade podataka. https://koncesijski-sat.vercel.app/#sat
+  svake obrade podataka. https://concessum.vercel.app/#sat
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
@@ -31,9 +31,9 @@ DESCRIPTION:3 ugovora o koncesiji ističe 19. 12. 2038. Godišnja fiksna na
  27 €/god.\n• RADNIK-PLIN D.O.O. – Koncesija za obavljanje distribuci
  je plina na postojećem distribucijskom sustavu (KRIŽEVCI\, SVETI IVAN Ž
  ABNO\, SVETI IVAN ŽABNO\, Grad Križevci)\, 1.327 €/god.\n\nŠto istič
- e: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FIN
- A)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ e: https://concessum.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, o
+ brada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -63,9 +63,9 @@ DESCRIPTION:19. 12. 2038. ističe 3 ugovora o koncesiji. Novi postupak dodj
  , SOKOLOVAC\, ĐELEKOVEC\, ĐELEKOVEC\, Općina Drnje)\, 1.327 €/god.\n
  • RADNIK-PLIN D.O.O. – Koncesija za obavljanje distribucije plina na p
  ostojećem distribucijskom sustavu (KRIŽEVCI\, SVETI IVAN ŽABNO\, SVETI 
- IVAN ŽABNO\, Grad Križevci)\, 1.327 €/god.\n\nŠto ističe: https://ko
- ncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ IVAN ŽABNO\, Grad Križevci)\, 1.327 €/god.\n\nŠto ističe: https://co
+ ncessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY

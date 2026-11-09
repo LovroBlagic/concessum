@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · OPĆINA STRIZIVOJNA
 X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje OPĆINA STRIZIVOJNA. Iz Re
  gistra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade po
- dataka. https://koncesijski-sat.vercel.app/#sat
+ dataka. https://concessum.vercel.app/#sat
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
@@ -19,9 +19,9 @@ SUMMARY:Ističe koncesija: HEP - PLIN  D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 4. 3. 2032. Godišnja fiksna nakna
  da: 75.120 €.\n\n• HEP - PLIN  D.O.O. – Koncesija za opskrbu potroš
  ača prirodnim plinom (STRIZIVOJNA\, Općina Strizivojna)\, 75.120 €/god
- .\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Regista
- r koncesija (FINA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ .\n\nŠto ističe: https://concessum.vercel.app/#sat\nIzvor: Registar konc
+ esija (FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -40,8 +40,8 @@ DESCRIPTION:4. 3. 2032. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• HEP - PLIN  D.O.O. – Koncesija za opskrbu potrošača prirodnim 
  plinom (STRIZIVOJNA\, Općina Strizivojna)\, 75.120 €/god.\n\nŠto isti
- če: https://koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ če: https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY

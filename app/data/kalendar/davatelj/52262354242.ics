@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · OPĆINA OPRISAVCI
 X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje OPĆINA OPRISAVCI. Iz Regi
  stra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade poda
- taka. https://koncesijski-sat.vercel.app/#sat
+ taka. https://concessum.vercel.app/#sat
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
@@ -20,10 +20,10 @@ SUMMARY:Ističe koncesija: MULL-TRANS D.O.O. ZA PRIJEVOZ\, ŠPEDICIJU\, TRG
 DESCRIPTION:1 ugovor o koncesiji ističe 1. 3. 2028. Godišnja fiksna nakna
  da: 4.842 €.\n\n• MULL-TRANS D.O.O. ZA PRIJEVOZ\, ŠPEDICIJU\, TRGOVIN
  U I ZASTUPANJE – Koncesija skupljanja i odvoza komunalnog otpada (OPRISA
- VCI\, Općina Oprisavci)\, 4.842 €/god.\n\nŠto ističe: https://koncesi
- jski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Conces
- sum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ VCI\, Općina Oprisavci)\, 4.842 €/god.\n\nŠto ističe: https://concess
+ um.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9.
+  11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -43,9 +43,9 @@ DESCRIPTION:1. 3. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• MULL-TRANS D.O.O. ZA PRIJEVOZ\, ŠPEDICIJU\, TRGOVINU I ZASTUPANJE
   – Koncesija skupljanja i odvoza komunalnog otpada (OPRISAVCI\, Općina 
- Oprisavci)\, 4.842 €/god.\n\nŠto ističe: https://koncesijski-sat.verce
- l.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ Oprisavci)\, 4.842 €/god.\n\nŠto ističe: https://concessum.vercel.app/
+ #sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY

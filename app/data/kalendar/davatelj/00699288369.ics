@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · OPĆINA TISNO
 X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje OPĆINA TISNO. Iz Registra
   koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podataka
- . https://koncesijski-sat.vercel.app/#sat
+ . https://concessum.vercel.app/#sat
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
@@ -21,10 +21,10 @@ DESCRIPTION:3 ugovora o koncesiji ističe 14. 11. 2029. Godišnja fiksna na
  avljanje komunalnih djelatnosti (TISNO)\, 1.600 €/god.\n• TRGOVAČKI O
  BRT VOĆE BETINA – Održavanje tržnice na malo (TISNO)\, 1.300 €/god.
  \n• TRGOVAČKI OBRT VOĆE BETINA – Koncesija za obavljanje djelatnosti
-  tržnica na malo (TISNO)\, 1.300 €/god.\n\nŠto ističe: https://konces
- ijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Conce
- ssum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+  tržnica na malo (TISNO)\, 1.300 €/god.\n\nŠto ističe: https://conces
+ sum.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9
+ . 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -44,9 +44,9 @@ DESCRIPTION:14. 11. 2029. ističe 3 ugovora o koncesiji. Novi postupak dodj
  alnih djelatnosti (TISNO)\, 1.600 €/god.\n• TRGOVAČKI OBRT VOĆE BETI
  NA – Održavanje tržnice na malo (TISNO)\, 1.300 €/god.\n• TRGOVAČ
  KI OBRT VOĆE BETINA – Koncesija za obavljanje djelatnosti tržnica na m
- alo (TISNO)\, 1.300 €/god.\n\nŠto ističe: https://koncesijski-sat.verc
- el.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ alo (TISNO)\, 1.300 €/god.\n\nŠto ističe: https://concessum.vercel.app
+ /#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY

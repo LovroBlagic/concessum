@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · OPĆINA LOVINAC
 X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje OPĆINA LOVINAC. Iz Regist
  ra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podata
- ka. https://koncesijski-sat.vercel.app/#sat
+ ka. https://concessum.vercel.app/#sat
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
@@ -19,9 +19,9 @@ SUMMARY:Ističe koncesija: DIVEKS J.D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 10. 12. 2026. Godišnja fiksna nak
  nada: 74 €.\n\n• DIVEKS J.D.O.O. – Koncesija za obavljanje dimnjača
  rskih poslova (LOVINAC\, Općina Lovinac)\, 74 €/god.\n\nŠto ističe: h
- ttps://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\,
-  obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ ttps://concessum.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrad
+ a Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY

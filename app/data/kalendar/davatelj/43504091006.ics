@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · LUČKA UPRAVA VUKOVAR
 X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje LUČKA UPRAVA VUKOVAR. Iz 
  Registra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade 
- podataka. https://koncesijski-sat.vercel.app/#sat
+ podataka. https://concessum.vercel.app/#sat
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
@@ -18,10 +18,9 @@ DTEND;VALUE=DATE:20270101
 SUMMARY:Ističe koncesija: LUKA VUKOVAR D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 31. 12. 2026. Godišnja fiksna nak
  nada: 866 €.\n\n• LUKA VUKOVAR D.O.O. – Koncesija za luku (VUKOVAR\,
-  Grad Vukovar)\, 866 €/god.\n\nŠto ističe: https://koncesijski-sat.ver
- cel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 11. 2
- 026.
-URL:https://koncesijski-sat.vercel.app/#sat
+  Grad Vukovar)\, 866 €/god.\n\nŠto ističe: https://concessum.vercel.ap
+ p/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY

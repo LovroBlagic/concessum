@@ -187,7 +187,7 @@ def profil_opcine(opcina):
                 sljedeci_istekovi=[ugovor_out(u) for u in sljedeci],
                 napomena="Udio bez nastavka računa se samo za ugovore istekle prije više od 12 mjeseci, bez zdravstva; "
                           "naknada je ugovorena fiksna godišnja naknada (donja granica prihoda).",
-                poveznica=f"https://koncesijski-sat.vercel.app/#opcina/{oid}")
+                poveznica=f"https://concessum.vercel.app/#opcina/{oid}")
 
 
 def bez_nastavka(opcina=None, sektor=None, limit=30):

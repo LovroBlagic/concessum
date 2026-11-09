@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · OPĆINA OREHOVICA
 X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje OPĆINA OREHOVICA. Iz Regi
  stra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade poda
- taka. https://koncesijski-sat.vercel.app/#sat
+ taka. https://concessum.vercel.app/#sat
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
@@ -19,9 +19,9 @@ SUMMARY:Ističe koncesija: DIMOS\, ROBERT ZVER
 DESCRIPTION:1 ugovor o koncesiji ističe 14. 1. 2028. Godišnja fiksna nakn
  ada: 1.599 €.\n\n• DIMOS\, ROBERT ZVER – Koncesija za obavljanje dim
  njačarskih poslova (OREHOVICA\, Općina Orehovica)\, 1.599 €/god.\n\nŠ
- to ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar konce
- sija (FINA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ to ističe: https://concessum.vercel.app/#sat\nIzvor: Registar koncesija (
+ FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -40,8 +40,8 @@ DESCRIPTION:14. 1. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• DIMOS\, ROBERT ZVER – Koncesija za obavljanje dimnjačarskih po
  slova (OREHOVICA\, Općina Orehovica)\, 1.599 €/god.\n\nŠto ističe: ht
- tps://koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ tps://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY

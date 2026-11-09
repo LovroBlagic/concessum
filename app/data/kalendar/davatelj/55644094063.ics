@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · GRAD ŠIBENIK
 X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje GRAD ŠIBENIK. Iz Registra
   koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podataka
- . https://koncesijski-sat.vercel.app/#sat
+ . https://concessum.vercel.app/#sat
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
@@ -20,10 +20,10 @@ SUMMARY:Ističe koncesija: MARIO GARMA MG OBRT ZA CENTRALNA GRIJANJA I VODO
 DESCRIPTION:1 ugovor o koncesiji ističe 7. 10. 2029. Godišnja fiksna nakn
  ada: 2.900 €.\n\n• MARIO GARMA MG OBRT ZA CENTRALNA GRIJANJA I VODOINS
  TALACIJU\, VL. MARIO GARMA – Koncesija za obavljanje dimnjačarskih posl
- ova (ŠIBENIK\, Grad Šibenik)\, 2.900 €/god.\n\nŠto ističe: https://k
- oncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada 
- Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ ova (ŠIBENIK\, Grad Šibenik)\, 2.900 €/god.\n\nŠto ističe: https://c
+ oncessum.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Conces
+ sum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -43,9 +43,9 @@ DESCRIPTION:7. 10. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• MARIO GARMA MG OBRT ZA CENTRALNA GRIJANJA I VODOINSTALACIJU\, VL.
   MARIO GARMA – Koncesija za obavljanje dimnjačarskih poslova (ŠIBENIK\
- , Grad Šibenik)\, 2.900 €/god.\n\nŠto ističe: https://koncesijski-sat
- .vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ , Grad Šibenik)\, 2.900 €/god.\n\nŠto ističe: https://concessum.verce
+ l.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY

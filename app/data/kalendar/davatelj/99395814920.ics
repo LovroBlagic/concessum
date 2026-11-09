@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · ŠIBENSKO-KNINSKA ŽUPANIJA
 X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje ŠIBENSKO-KNINSKA ŽUPANIJ
  A. Iz Registra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake o
- brade podataka. https://koncesijski-sat.vercel.app/#sat
+ brade podataka. https://concessum.vercel.app/#sat
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
@@ -19,9 +19,9 @@ SUMMARY:Ističe koncesija: SPORTSKI KLUB ZA RIBOLOV NA MORU GAUN
 DESCRIPTION:1 ugovor o koncesiji ističe 22. 1. 2027. Godišnja fiksna nakn
  ada: 1.634 €.\n\n• SPORTSKI KLUB ZA RIBOLOV NA MORU GAUN – Koncesija
   na pomorskom dobru (ŠIBENIK\, Grad Šibenik)\, 1.634 €/god.\n\nŠto is
- tiče: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija 
- (FINA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ tiče: https://concessum.vercel.app/#sat\nIzvor: Registar koncesija (FINA)
+ \, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -38,9 +38,9 @@ SUMMARY:Ističe koncesija: SPORTSKI CENTAR MANDALINA J.D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 27. 1. 2027. Godišnja fiksna nakn
  ada: 2.941 €.\n\n• SPORTSKI CENTAR MANDALINA J.D.O.O. – Koncesija na
   pomorskom dobru (ŠIBENIK\, Grad Šibenik)\, 2.941 €/god.\n\nŠto isti
- če: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (F
- INA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ če: https://concessum.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\,
+  obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -56,10 +56,10 @@ DTEND;VALUE=DATE:20270216
 SUMMARY:Ističe koncesija: GRADSKO PODUZEĆE D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 15. 2. 2027. Godišnja fiksna nakn
  ada: 7.220 €.\n\n• GRADSKO PODUZEĆE D.O.O. – Koncesija na pomorskom
-  dobru (VODICE\, Grad Vodice)\, 7.220 €/god.\n\nŠto ističe: https://ko
- ncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada C
- oncessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+  dobru (VODICE\, Grad Vodice)\, 7.220 €/god.\n\nŠto ističe: https://co
+ ncessum.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concess
+ um 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -75,10 +75,10 @@ DTEND;VALUE=DATE:20270219
 SUMMARY:Ističe koncesija: SEASHELL D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 18. 2. 2027. Godišnja fiksna nakn
  ada: 506 €.\n\n• SEASHELL D.O.O. – Koncesija na pomorskom dobru (ŠI
- BENIK\, Grad Šibenik)\, 506 €/god.\n\nŠto ističe: https://koncesijski
- -sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 
- 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ BENIK\, Grad Šibenik)\, 506 €/god.\n\nŠto ističe: https://concessum.v
+ ercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 11.
+  2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -94,10 +94,9 @@ DTEND;VALUE=DATE:20270614
 SUMMARY:Ističe koncesija: KRAPANO D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 13. 6. 2027. Godišnja fiksna nakn
  ada: 1.605 €.\n\n• KRAPANO D.O.O. – Koncesija za plažu (ŠIBENIK\, 
- Grad Šibenik)\, 1.605 €/god.\n\nŠto ističe: https://koncesijski-sat.v
- ercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 11.
-  2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ Grad Šibenik)\, 1.605 €/god.\n\nŠto ističe: https://concessum.vercel.
+ app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -114,8 +113,8 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (KRAPANO D.O.O.)
 DESCRIPTION:13. 6. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• KRAPANO D.O.O. – Koncesija za plažu (ŠIBENIK\, Grad Šibenik)
- \, 1.605 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ \, 1.605 €/god.\n\nŠto ističe: https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -134,9 +133,9 @@ DESCRIPTION:2 ugovora o koncesiji ističe 1. 8. 2027. Godišnja fiksna nakn
  ada: 1.150 €.\n\n• MARINEX & CO D.O.O. – Koncesija na pomorskom dobr
  u (ROGOZNICA\, Općina Rogoznica)\, 575 €/god.\n• MARINEX & CO D.O.O. 
  – Koncesija na pomorskom dobru (ROGOZNICA\, Općina Rogoznica)\, 575 €
- /god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Reg
- istar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ /god.\n\nŠto ističe: https://concessum.vercel.app/#sat\nIzvor: Registar 
+ koncesija (FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -156,8 +155,8 @@ DESCRIPTION:1. 8. 2027. ističe 2 ugovora o koncesiji. Novi postupak dodjel
  .\n\n• MARINEX & CO D.O.O. – Koncesija na pomorskom dobru (ROGOZNICA\,
   Općina Rogoznica)\, 575 €/god.\n• MARINEX & CO D.O.O. – Koncesija 
  na pomorskom dobru (ROGOZNICA\, Općina Rogoznica)\, 575 €/god.\n\nŠto 
- ističe: https://koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ ističe: https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -174,9 +173,9 @@ DTEND;VALUE=DATE:20271104
 SUMMARY:Ističe koncesija: BTP D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 3. 11. 2027. Godišnja fiksna nakn
  ada: 3.714 €.\n\n• BTP D.D. – Koncesija na pomorskom dobru (TISNO)\,
-  3.714 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\n
- Izvor: Registar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+  3.714 €/god.\n\nŠto ističe: https://concessum.vercel.app/#sat\nIzvor:
+  Registar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -193,8 +192,8 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BTP D.D.)
 DESCRIPTION:3. 11. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• BTP D.D. – Koncesija na pomorskom dobru (TISNO)\, 3.714 €/god
- .\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ .\n\nŠto ističe: https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -243,9 +242,9 @@ DESCRIPTION:18 ugovora o koncesiji ističe 27. 12. 2027. Godišnja fiksna n
  .O. – Koncesija na pomorskom dobru u svrhu uzgoja morske ribe i školjka
  ša (ŠIBENIK\, Grad Šibenik)\, 232 €/god.\n• ŠIBENSKI ŠKOLJKAŠI D
  .O.O. – Koncesija na pomorskom dobru (ŠIBENIK\, Grad Šibenik)\, 232 
- €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: 
- Registar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ €/god.\n\nŠto ističe: https://concessum.vercel.app/#sat\nIzvor: Regist
+ ar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -296,8 +295,8 @@ DESCRIPTION:27. 12. 2027. ističe 18 ugovora o koncesiji. Novi postupak dod
  sija na pomorskom dobru u svrhu uzgoja morske ribe i školjkaša (ŠIBENIK
  \, Grad Šibenik)\, 232 €/god.\n• ŠIBENSKI ŠKOLJKAŠI D.O.O. – Kon
  cesija na pomorskom dobru (ŠIBENIK\, Grad Šibenik)\, 232 €/god.\n\nŠt
- o ističe: https://koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ o ističe: https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -315,10 +314,10 @@ SUMMARY:Ističe koncesija: INA-INDUSTRIJA NAFTE  D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 29. 5. 2028. Godišnja fiksna nakn
  ada: 46.451 €.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija pomorskog
   dobra u svrhu izgradnje i gospodarskog korištenja (MURTER - KORNATI\, Op
- ćina Murter-Kornati)\, 46.451 €/god.\n\nŠto ističe: https://koncesijs
- ki-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessu
- m 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ ćina Murter-Kornati)\, 46.451 €/god.\n\nŠto ističe: https://concessum
+ .vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 1
+ 1. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -337,9 +336,9 @@ DESCRIPTION:29. 5. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija pomorskog dobra u svrhu 
  izgradnje i gospodarskog korištenja (MURTER - KORNATI\, Općina Murter-Ko
- rnati)\, 46.451 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.a
- pp/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ rnati)\, 46.451 €/god.\n\nŠto ističe: https://concessum.vercel.app/#sa
+ t
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -357,9 +356,9 @@ SUMMARY:Ističe koncesija: GRADSKO PODUZEĆE D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 14. 6. 2028. Godišnja fiksna nakn
  ada: 555 €.\n\n• GRADSKO PODUZEĆE D.O.O. – Koncesija za obavljanje 
  djelatnosti organizacije parkiranja (VODICE\, Grad Vodice)\, 555 €/god.\
- n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar 
- koncesija (FINA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ n\nŠto ističe: https://concessum.vercel.app/#sat\nIzvor: Registar konces
+ ija (FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -378,8 +377,8 @@ DESCRIPTION:14. 6. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• GRADSKO PODUZEĆE D.O.O. – Koncesija za obavljanje djelatnosti 
  organizacije parkiranja (VODICE\, Grad Vodice)\, 555 €/god.\n\nŠto isti
- če: https://koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ če: https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -398,10 +397,9 @@ SUMMARY:Ističe koncesija: ŽUPANIJSKA UPRAVA ZA CESTE NA PODRUČJU ŠIBENS
 DESCRIPTION:1 ugovor o koncesiji ističe 21. 12. 2028. Godišnja fiksna nak
  nada: 709 €.\n\n• ŽUPANIJSKA UPRAVA ZA CESTE NA PODRUČJU ŠIBENSKO-K
  NINSKE ŽUPANIJE – Posebna upotreba pomorskog dobra (ROGOZNICA\, Općina
-  Rogoznica)\, 709 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel
- .app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 11. 2026
- .
-URL:https://koncesijski-sat.vercel.app/#sat
+  Rogoznica)\, 709 €/god.\n\nŠto ističe: https://concessum.vercel.app/#
+ sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -421,8 +419,8 @@ DESCRIPTION:21. 12. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• ŽUPANIJSKA UPRAVA ZA CESTE NA PODRUČJU ŠIBENSKO-KNINSKE ŽUPA
  NIJE – Posebna upotreba pomorskog dobra (ROGOZNICA\, Općina Rogoznica)\
- , 709 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ , 709 €/god.\n\nŠto ističe: https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -440,9 +438,9 @@ SUMMARY:Ističe koncesija: KRAPANO D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 9. 2. 2029. Godišnja fiksna nakna
  da: 3.467 €.\n\n• KRAPANO D.O.O. – Koncesija pomorskog dobra u svrhu
   izgradnje i gospodarskog korištenja (ŠIBENIK\, Grad Šibenik)\, 3.467 
- €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: 
- Registar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ €/god.\n\nŠto ističe: https://concessum.vercel.app/#sat\nIzvor: Regist
+ ar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -460,8 +458,8 @@ DESCRIPTION:9. 2. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• KRAPANO D.O.O. – Koncesija pomorskog dobra u svrhu izgradnje i g
  ospodarskog korištenja (ŠIBENIK\, Grad Šibenik)\, 3.467 €/god.\n\nŠt
- o ističe: https://koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ o ističe: https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -479,9 +477,9 @@ SUMMARY:Ističe koncesija: VILLA DUBROVNIK D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 27. 3. 2029. Godišnja fiksna nakn
  ada: 5.141 €.\n\n• VILLA DUBROVNIK D.D. – Koncesija pomorskog dobra 
  u svrhu izgradnje i gospodarskog korištenja (ŠIBENIK\, Grad Šibenik)\, 
- 5.141 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nI
- zvor: Registar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ 5.141 €/god.\n\nŠto ističe: https://concessum.vercel.app/#sat\nIzvor: 
+ Registar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -500,8 +498,8 @@ DESCRIPTION:27. 3. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• VILLA DUBROVNIK D.D. – Koncesija pomorskog dobra u svrhu izgrad
  nje i gospodarskog korištenja (ŠIBENIK\, Grad Šibenik)\, 5.141 €/god.
- \n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ \n\nŠto ističe: https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -521,9 +519,9 @@ DESCRIPTION:2 ugovora o koncesiji ističe 30. 3. 2029. Godišnja fiksna nak
  omorskog dobra u svrhu gospodarskog korištenja luke (TISNO)\, 67.537 €/
  god.\n• BRODOGRADILIŠTE I MARINA D.O.O. – Koncesija pomorskog dobra u
   svrhu gospodarskog korištenja luke (TISNO)\, 67.537 €/god.\n\nŠto ist
- iče: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (
- FINA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ iče: https://concessum.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\
+ , obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -543,9 +541,9 @@ DESCRIPTION:30. 3. 2029. ističe 2 ugovora o koncesiji. Novi postupak dodje
  a.\n\n• BRODOGRADILIŠTE I MARINA D.O.O. – Koncesija pomorskog dobra u
   svrhu gospodarskog korištenja luke (TISNO)\, 67.537 €/god.\n• BRODOG
  RADILIŠTE I MARINA D.O.O. – Koncesija pomorskog dobra u svrhu gospodars
- kog korištenja luke (TISNO)\, 67.537 €/god.\n\nŠto ističe: https://ko
- ncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ kog korištenja luke (TISNO)\, 67.537 €/god.\n\nŠto ističe: https://co
+ ncessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -564,10 +562,10 @@ SUMMARY:Ističe koncesija: ZMINJAK RIBARSKO-UGOSTITELJSKI OBRT OTOK ZMINJAK
 DESCRIPTION:1 ugovor o koncesiji ističe 6. 4. 2029. Godišnja fiksna nakna
  da: 6.200 €.\n\n• ZMINJAK RIBARSKO-UGOSTITELJSKI OBRT OTOK ZMINJAK VL.
  KREŠIMIR PLESLIĆ – Koncesija na pomorskom dobru (MURTER - KORNATI\, Op
- ćina Murter-Kornati)\, 6.200 €/god.\n\nŠto ističe: https://koncesijsk
- i-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum
-  9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ ćina Murter-Kornati)\, 6.200 €/god.\n\nŠto ističe: https://concessum.
+ vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 11
+ . 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -587,9 +585,9 @@ DESCRIPTION:6. 4. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• ZMINJAK RIBARSKO-UGOSTITELJSKI OBRT OTOK ZMINJAK VL.KREŠIMIR PLES
  LIĆ – Koncesija na pomorskom dobru (MURTER - KORNATI\, Općina Murter-K
- ornati)\, 6.200 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.a
- pp/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ ornati)\, 6.200 €/god.\n\nŠto ističe: https://concessum.vercel.app/#sa
+ t
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -606,10 +604,9 @@ DTEND;VALUE=DATE:20290902
 SUMMARY:Ističe koncesija: MJESNO PODUZEĆE D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 1. 9. 2029. Godišnja fiksna nakna
  da: 4.634 €.\n\n• MJESNO PODUZEĆE D.O.O. – Koncesija na pomorskom d
- obru (TRIBUNJ)\, 4.634 €/god.\n\nŠto ističe: https://koncesijski-sat.v
- ercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 11.
-  2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ obru (TRIBUNJ)\, 4.634 €/god.\n\nŠto ističe: https://concessum.vercel.
+ app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -627,8 +624,8 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MJESNO PODUZEĆE
 DESCRIPTION:1. 9. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• MJESNO PODUZEĆE D.O.O. – Koncesija na pomorskom dobru (TRIBUNJ)
- \, 4.634 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ \, 4.634 €/god.\n\nŠto ističe: https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -645,10 +642,10 @@ DTEND;VALUE=DATE:20291211
 SUMMARY:Ističe koncesija: KAMP JASENOVO D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 10. 12. 2029. Godišnja fiksna nak
  nada: 1.585 €.\n\n• KAMP JASENOVO D.O.O. – Koncesija na pomorskom do
- bru (ŠIBENIK\, Grad Šibenik)\, 1.585 €/god.\n\nŠto ističe: https://k
- oncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada 
- Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ bru (ŠIBENIK\, Grad Šibenik)\, 1.585 €/god.\n\nŠto ističe: https://c
+ oncessum.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Conces
+ sum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -666,9 +663,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (KAMP JASENOVO D.
 DESCRIPTION:10. 12. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• KAMP JASENOVO D.O.O. – Koncesija na pomorskom dobru (ŠIBENIK\
- , Grad Šibenik)\, 1.585 €/god.\n\nŠto ističe: https://koncesijski-sat
- .vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ , Grad Šibenik)\, 1.585 €/god.\n\nŠto ističe: https://concessum.verce
+ l.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -686,10 +683,9 @@ SUMMARY:Ističe koncesija: KAKAN D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 26. 6. 2030. Godišnja fiksna nakn
  ada: 32.775 €.\n\n• KAKAN D.O.O. – Koncesija pomorskog dobra u svrhu
   izgradnje i gospodarskog korištenja luke posebne namjene (ŠIBENIK\, Gra
- d Šibenik)\, 32.775 €/god.\n\nŠto ističe: https://koncesijski-sat.ver
- cel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 11. 2
- 026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ d Šibenik)\, 32.775 €/god.\n\nŠto ističe: https://concessum.vercel.ap
+ p/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -707,8 +703,8 @@ DESCRIPTION:26. 6. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• KAKAN D.O.O. – Koncesija pomorskog dobra u svrhu izgradnje i go
  spodarskog korištenja luke posebne namjene (ŠIBENIK\, Grad Šibenik)\, 3
- 2.775 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ 2.775 €/god.\n\nŠto ističe: https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -726,9 +722,9 @@ SUMMARY:Ističe koncesija: LAGUNA TRADE D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 3. 8. 2030. Godišnja fiksna nakna
  da: 8.756 €.\n\n• LAGUNA TRADE D.O.O. – Koncesija na pomorskom dobru
   (ROGOZNICA\, Općina Rogoznica)\, 8.756 €/god.\n\nŠto ističe: https:/
- /koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrad
- a Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ /concessum.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Conc
+ essum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -746,9 +742,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (LAGUNA TRADE D.O
 DESCRIPTION:3. 8. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• LAGUNA TRADE D.O.O. – Koncesija na pomorskom dobru (ROGOZNICA\, 
- Općina Rogoznica)\, 8.756 €/god.\n\nŠto ističe: https://koncesijski-s
- at.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ Općina Rogoznica)\, 8.756 €/god.\n\nŠto ističe: https://concessum.ver
+ cel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -766,9 +762,9 @@ SUMMARY:Ističe koncesija: MALI ŠKVER D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 31. 12. 2030. Godišnja fiksna nak
  nada: 8.285 €.\n\n• MALI ŠKVER D.O.O. – Koncesija na pomorskom dobr
  u (MURTER - KORNATI\, Općina Murter-Kornati)\, 8.285 €/god.\n\nŠto ist
- iče: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (
- FINA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ iče: https://concessum.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\
+ , obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -787,8 +783,8 @@ DESCRIPTION:31. 12. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• MALI ŠKVER D.O.O. – Koncesija na pomorskom dobru (MURTER - KO
  RNATI\, Općina Murter-Kornati)\, 8.285 €/god.\n\nŠto ističe: https://
- koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -805,10 +801,10 @@ DTEND;VALUE=DATE:20310310
 SUMMARY:Ističe koncesija: SOLARIS D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 9. 3. 2031. Godišnja fiksna nakna
  da: 29.011 €.\n\n• SOLARIS D.D. – Koncesija na pomorskom dobru (ŠIB
- ENIK\, Grad Šibenik)\, 29.011 €/god.\n\nŠto ističe: https://koncesijs
- ki-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessu
- m 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ ENIK\, Grad Šibenik)\, 29.011 €/god.\n\nŠto ističe: https://concessum
+ .vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 1
+ 1. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -825,9 +821,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (SOLARIS D.D.)
 DESCRIPTION:9. 3. 2031. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• SOLARIS D.D. – Koncesija na pomorskom dobru (ŠIBENIK\, Grad Ši
- benik)\, 29.011 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.a
- pp/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ benik)\, 29.011 €/god.\n\nŠto ističe: https://concessum.vercel.app/#sa
+ t
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -844,10 +840,10 @@ DTEND;VALUE=DATE:20310501
 SUMMARY:Ističe koncesija: CIRUS D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 30. 4. 2031. Godišnja fiksna nakn
  ada: 9.803 €.\n\n• CIRUS D.O.O. – Koncesija na pomorskom dobru (PRIM
- OŠTEN\, Općina Primošten)\, 9.803 €/god.\n\nŠto ističe: https://kon
- cesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Co
- ncessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ OŠTEN\, Općina Primošten)\, 9.803 €/god.\n\nŠto ističe: https://con
+ cessum.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessu
+ m 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -864,9 +860,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (CIRUS D.O.O.)
 DESCRIPTION:30. 4. 2031. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• CIRUS D.O.O. – Koncesija na pomorskom dobru (PRIMOŠTEN\, Opći
- na Primošten)\, 9.803 €/god.\n\nŠto ističe: https://koncesijski-sat.v
- ercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ na Primošten)\, 9.803 €/god.\n\nŠto ističe: https://concessum.vercel.
+ app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -883,10 +879,10 @@ DTEND;VALUE=DATE:20310905
 SUMMARY:Ističe koncesija: MAGNUS D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 4. 9. 2031. Godišnja fiksna nakna
  da: 9.665 €.\n\n• MAGNUS D.O.O. – Koncesija na pomorskom dobru (ŠIB
- ENIK\, Grad Šibenik)\, 9.665 €/god.\n\nŠto ističe: https://koncesijsk
- i-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum
-  9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ ENIK\, Grad Šibenik)\, 9.665 €/god.\n\nŠto ističe: https://concessum.
+ vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 11
+ . 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -903,9 +899,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MAGNUS D.O.O.)
 DESCRIPTION:4. 9. 2031. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• MAGNUS D.O.O. – Koncesija na pomorskom dobru (ŠIBENIK\, Grad Š
- ibenik)\, 9.665 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.a
- pp/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ ibenik)\, 9.665 €/god.\n\nŠto ističe: https://concessum.vercel.app/#sa
+ t
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -923,9 +919,9 @@ SUMMARY:Ističe koncesija: RAOL D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 10. 11. 2031. Godišnja fiksna nak
  nada: 13.422 €.\n\n• RAOL D.O.O. – Koncesija na pomorskom dobru (MUR
  TER - KORNATI\, Općina Murter-Kornati)\, 13.422 €/god.\n\nŠto ističe:
-  https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)
- \, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+  https://concessum.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obr
+ ada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -942,9 +938,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (RAOL D.O.O.)
 DESCRIPTION:10. 11. 2031. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• RAOL D.O.O. – Koncesija na pomorskom dobru (MURTER - KORNATI\,
-  Općina Murter-Kornati)\, 13.422 €/god.\n\nŠto ističe: https://konces
- ijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+  Općina Murter-Kornati)\, 13.422 €/god.\n\nŠto ističe: https://conces
+ sum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -960,10 +956,10 @@ DTEND;VALUE=DATE:20311222
 SUMMARY:Ističe koncesija: SOLARIS D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 21. 12. 2031. Godišnja fiksna nak
  nada: 74.669 €.\n\n• SOLARIS D.D. – Koncesija na pomorskom dobru (Š
- IBENIK\, Grad Šibenik)\, 74.669 €/god.\n\nŠto ističe: https://koncesi
- jski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Conces
- sum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ IBENIK\, Grad Šibenik)\, 74.669 €/god.\n\nŠto ističe: https://concess
+ um.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9.
+  11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -980,9 +976,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (SOLARIS D.D.)
 DESCRIPTION:21. 12. 2031. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• SOLARIS D.D. – Koncesija na pomorskom dobru (ŠIBENIK\, Grad 
- Šibenik)\, 74.669 €/god.\n\nŠto ističe: https://koncesijski-sat.verce
- l.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ Šibenik)\, 74.669 €/god.\n\nŠto ističe: https://concessum.vercel.app/
+ #sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1000,10 +996,10 @@ SUMMARY:Ističe koncesija: HEP-OPERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 13. 1. 2032. Godišnja fiksna nakn
  ada: 29 €.\n\n• HEP-OPERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O. – Konces
  ija pomorskog dobra za posebnu upotrebu u svrhu gradnje kabelske veze (ŠI
- BENIK\, Grad Šibenik)\, 29 €/god.\n\nŠto ističe: https://koncesijski-
- sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9
- . 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ BENIK\, Grad Šibenik)\, 29 €/god.\n\nŠto ističe: https://concessum.ve
+ rcel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 11. 
+ 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1022,9 +1018,9 @@ DESCRIPTION:13. 1. 2032. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• HEP-OPERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O. – Koncesija pomorsk
  og dobra za posebnu upotrebu u svrhu gradnje kabelske veze (ŠIBENIK\, Gra
- d Šibenik)\, 29 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.
- app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ d Šibenik)\, 29 €/god.\n\nŠto ističe: https://concessum.vercel.app/#s
+ at
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1042,10 +1038,9 @@ SUMMARY:Ističe koncesija: MOTIO D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 15. 6. 2032. Godišnja fiksna nakn
  ada: 11.834 €.\n\n• MOTIO D.O.O. – Koncesija pomorskog dobra u svrhu
   izgradnje i gospodarskog korištenja luke posebne namjene (ŠIBENIK\, Gra
- d Šibenik)\, 11.834 €/god.\n\nŠto ističe: https://koncesijski-sat.ver
- cel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 11. 2
- 026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ d Šibenik)\, 11.834 €/god.\n\nŠto ističe: https://concessum.vercel.ap
+ p/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1063,8 +1058,8 @@ DESCRIPTION:15. 6. 2032. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• MOTIO D.O.O. – Koncesija pomorskog dobra u svrhu izgradnje i go
  spodarskog korištenja luke posebne namjene (ŠIBENIK\, Grad Šibenik)\, 1
- 1.834 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ 1.834 €/god.\n\nŠto ističe: https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1082,9 +1077,9 @@ SUMMARY:Ističe koncesija: COLONIA D.O.O. ZA UGOSTITELJSTVO
 DESCRIPTION:1 ugovor o koncesiji ističe 19. 4. 2033. Godišnja fiksna nakn
  ada: 6.047 €.\n\n• COLONIA D.O.O. ZA UGOSTITELJSTVO – Koncesija na p
  omorskom dobru (MURTER - KORNATI\, Općina Murter-Kornati)\, 6.047 €/god
- .\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Regista
- r koncesija (FINA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ .\n\nŠto ističe: https://concessum.vercel.app/#sat\nIzvor: Registar konc
+ esija (FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1103,8 +1098,8 @@ DESCRIPTION:19. 4. 2033. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• COLONIA D.O.O. ZA UGOSTITELJSTVO – Koncesija na pomorskom dobru
   (MURTER - KORNATI\, Općina Murter-Kornati)\, 6.047 €/god.\n\nŠto isti
- če: https://koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ če: https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1122,9 +1117,9 @@ SUMMARY:Ističe koncesija: SEASHELL D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 14. 6. 2033. Godišnja fiksna nakn
  ada: 1.959 €.\n\n• SEASHELL D.O.O. – Koncesija na pomorskom dobru u 
  svrhu uzgoja morske ribe i školjkaša (TRIBUNJ)\, 1.959 €/god.\n\nŠto 
- ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesij
- a (FINA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ ističe: https://concessum.vercel.app/#sat\nIzvor: Registar koncesija (FIN
+ A)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1142,8 +1137,8 @@ DESCRIPTION:14. 6. 2033. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• SEASHELL D.O.O. – Koncesija na pomorskom dobru u svrhu uzgoja m
  orske ribe i školjkaša (TRIBUNJ)\, 1.959 €/god.\n\nŠto ističe: https
- ://koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ ://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1162,9 +1157,9 @@ DESCRIPTION:2 ugovora o koncesiji ističe 10. 8. 2033. Godišnja fiksna nak
  nada: 13.180 €.\n\n• SOTTOVENTO D.O.O. – Koncesija na pomorskom dobr
  u (ŠIBENIK\, Grad Šibenik)\, 6.590 €/god.\n• SOTTOVENTO D.O.O. – K
  oncesija na pomorskom dobru (ŠIBENIK\, Grad Šibenik)\, 6.590 €/god.\n\
- nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar ko
- ncesija (FINA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ nŠto ističe: https://concessum.vercel.app/#sat\nIzvor: Registar koncesij
+ a (FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1184,8 +1179,8 @@ DESCRIPTION:10. 8. 2033. ističe 2 ugovora o koncesiji. Novi postupak dodje
  a.\n\n• SOTTOVENTO D.O.O. – Koncesija na pomorskom dobru (ŠIBENIK\, G
  rad Šibenik)\, 6.590 €/god.\n• SOTTOVENTO D.O.O. – Koncesija na pom
  orskom dobru (ŠIBENIK\, Grad Šibenik)\, 6.590 €/god.\n\nŠto ističe: 
- https://koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1205,9 +1200,9 @@ DESCRIPTION:2 ugovora o koncesiji ističe 4. 9. 2033. Godišnja fiksna nakn
  a pomorskom dobru (PIROVAC\, Općina Pirovac)\, 14.042 €/god.\n• JAVNA
   USTANOVA ZAŠTIĆENE PRIRODNE VRIJEDNOSTI ŠIBENSKO-KNINSKE ŽUPANIJE –
   Koncesija na pomorskom dobru (ŠIBENIK\, Grad Šibenik)\n\nŠto ističe: 
- https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\
- , obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ https://concessum.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obra
+ da Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1227,9 +1222,9 @@ DESCRIPTION:4. 9. 2033. ističe 2 ugovora o koncesiji. Novi postupak dodjel
  .\n\n• PIROVČANKA POLJOPRIVREDNA ZADRUGA – Koncesija na pomorskom dob
  ru (PIROVAC\, Općina Pirovac)\, 14.042 €/god.\n• JAVNA USTANOVA ZAŠT
  IĆENE PRIRODNE VRIJEDNOSTI ŠIBENSKO-KNINSKE ŽUPANIJE – Koncesija na p
- omorskom dobru (ŠIBENIK\, Grad Šibenik)\n\nŠto ističe: https://koncesi
- jski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ omorskom dobru (ŠIBENIK\, Grad Šibenik)\n\nŠto ističe: https://concess
+ um.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1247,9 +1242,9 @@ SUMMARY:Ističe koncesija: MARINA PIROVAC D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 24. 9. 2033. Godišnja fiksna nakn
  ada: 35.057 €.\n\n• MARINA PIROVAC D.O.O. – Koncesija za uporabu i k
  orištenje luke posebne namjene (PIROVAC\, Općina Pirovac)\, 35.057 €/g
- od.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Regis
- tar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ od.\n\nŠto ističe: https://concessum.vercel.app/#sat\nIzvor: Registar ko
+ ncesija (FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1268,8 +1263,8 @@ DESCRIPTION:24. 9. 2033. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• MARINA PIROVAC D.O.O. – Koncesija za uporabu i korištenje luke
   posebne namjene (PIROVAC\, Općina Pirovac)\, 35.057 €/god.\n\nŠto ist
- iče: https://koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ iče: https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1288,9 +1283,9 @@ SUMMARY:Ističe koncesija: JAVNE USTANOVE ZAŠTIĆENE PRIRODNE VRIJEDNOSTI
 DESCRIPTION:1 ugovor o koncesiji ističe 14. 10. 2033.\n\n• JAVNE USTANOV
  E ZAŠTIĆENE PRIRODNE VRIJEDNOSTI ŠIBENSKO-KNINSKE ŽUPANIJE – Koncesi
  ja na pomorskom dobru (ŠIBENIK\, Grad Šibenik)\n\nŠto ističe: https://
- koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada
-  Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ concessum.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Conce
+ ssum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1310,8 +1305,8 @@ DESCRIPTION:14. 10. 2033. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• JAVNE USTANOVE ZAŠTIĆENE PRIRODNE VRIJEDNOSTI ŠIBENSKO-KNINSK
  E ŽUPANIJE – Koncesija na pomorskom dobru (ŠIBENIK\, Grad Šibenik)\n\
- nŠto ističe: https://koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ nŠto ističe: https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1328,10 +1323,10 @@ DTEND;VALUE=DATE:20331110
 SUMMARY:Ističe koncesija: MJESNO PODUZEĆE DOO
 DESCRIPTION:1 ugovor o koncesiji ističe 9. 11. 2033. Godišnja fiksna nakn
  ada: 3.759 €.\n\n• MJESNO PODUZEĆE DOO – Posebna upotreba pomorskog
-  dobra (TRIBUNJ)\, 3.759 €/god.\n\nŠto ističe: https://koncesijski-sat
- .vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 1
- 1. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+  dobra (TRIBUNJ)\, 3.759 €/god.\n\nŠto ističe: https://concessum.verce
+ l.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 11. 202
+ 6.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1349,9 +1344,8 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MJESNO PODUZEĆE
 DESCRIPTION:9. 11. 2033. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• MJESNO PODUZEĆE DOO – Posebna upotreba pomorskog dobra (TRIBUN
- J)\, 3.759 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#s
- at
-URL:https://koncesijski-sat.vercel.app/#sat
+ J)\, 3.759 €/god.\n\nŠto ističe: https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1369,9 +1363,9 @@ SUMMARY:Ističe koncesija: HEP-OPERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 24. 3. 2034. Godišnja fiksna nakn
  ada: 157 €.\n\n• HEP-OPERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O. – Poseb
  na upotreba pomorskog dobra (TRIBUNJ)\, 157 €/god.\n\nŠto ističe: http
- s://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, ob
- rada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ s://concessum.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada C
+ oncessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1389,9 +1383,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP-OPERATOR DIS
 DESCRIPTION:24. 3. 2034. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• HEP-OPERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O. – Posebna upotreba 
- pomorskog dobra (TRIBUNJ)\, 157 €/god.\n\nŠto ističe: https://koncesij
- ski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ pomorskog dobra (TRIBUNJ)\, 157 €/god.\n\nŠto ističe: https://concessu
+ m.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1409,9 +1403,9 @@ SUMMARY:Ističe koncesija: ČIGRAĐA UGOSTITELJSKI OBRT TURČINOV DARKO
 DESCRIPTION:1 ugovor o koncesiji ističe 31. 1. 2035. Godišnja fiksna nakn
  ada: 6.358 €.\n\n• ČIGRAĐA UGOSTITELJSKI OBRT TURČINOV DARKO – Ko
  ncesija na pomorskom dobru (MURTER - KORNATI\, Općina Murter-Kornati)\, 6
- .358 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIz
- vor: Registar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ .358 €/god.\n\nŠto ističe: https://concessum.vercel.app/#sat\nIzvor: R
+ egistar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1430,8 +1424,8 @@ DESCRIPTION:31. 1. 2035. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• ČIGRAĐA UGOSTITELJSKI OBRT TURČINOV DARKO – Koncesija na pom
  orskom dobru (MURTER - KORNATI\, Općina Murter-Kornati)\, 6.358 €/god.\
- n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ n\nŠto ističe: https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1449,9 +1443,9 @@ SUMMARY:Ističe koncesija: REGULAR YACHTING 91 Y.D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 25. 11. 2035. Godišnja fiksna nak
  nada: 11.176 €.\n\n• REGULAR YACHTING 91 Y.D.O.O. – Koncesija pomors
  kog dobra u svrhu gospodarskog korištenja luke (ŠIBENIK\, Grad Šibenik)
- \, 11.176 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sa
- t\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ \, 11.176 €/god.\n\nŠto ističe: https://concessum.vercel.app/#sat\nIzv
+ or: Registar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1470,8 +1464,8 @@ DESCRIPTION:25. 11. 2035. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• REGULAR YACHTING 91 Y.D.O.O. – Koncesija pomorskog dobra u svr
  hu gospodarskog korištenja luke (ŠIBENIK\, Grad Šibenik)\, 11.176 €/g
- od.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ od.\n\nŠto ističe: https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1492,10 +1486,9 @@ DESCRIPTION:2 ugovora o koncesiji ističe 1. 12. 2035. Godišnja fiksna nak
   svrhu gradnje kabelske veze (ŠIBENIK\, Grad Šibenik)\, 184 €/god.\n
  • HEP-OPERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O. ZAGREB – Koncesija pomor
  skog dobra za posebnu upotrebu u svrhu gradnje kabelske veze (ŠIBENIK\, G
- rad Šibenik)\, 184 €/god.\n\nŠto ističe: https://koncesijski-sat.verc
- el.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 11. 20
- 26.
-URL:https://koncesijski-sat.vercel.app/#sat
+ rad Šibenik)\, 184 €/god.\n\nŠto ističe: https://concessum.vercel.app
+ /#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1517,8 +1510,8 @@ DESCRIPTION:1. 12. 2035. ističe 2 ugovora o koncesiji. Novi postupak dodje
  je kabelske veze (ŠIBENIK\, Grad Šibenik)\, 184 €/god.\n• HEP-OPERAT
  OR DISTRIBUCIJSKOG SUSTAVA D.O.O. ZAGREB – Koncesija pomorskog dobra za 
  posebnu upotrebu u svrhu gradnje kabelske veze (ŠIBENIK\, Grad Šibenik)\
- , 184 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ , 184 €/god.\n\nŠto ističe: https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1536,9 +1529,9 @@ SUMMARY:Ističe koncesija: COLONIA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 11. 3. 2036. Godišnja fiksna nakn
  ada: 5.193 €.\n\n• COLONIA D.O.O. – Koncesija na pomorskom dobru (MU
  RTER - KORNATI\, Općina Murter-Kornati)\, 5.193 €/god.\n\nŠto ističe:
-  https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)
- \, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+  https://concessum.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obr
+ ada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1555,9 +1548,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (COLONIA D.O.O.)
 DESCRIPTION:11. 3. 2036. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• COLONIA D.O.O. – Koncesija na pomorskom dobru (MURTER - KORNATI
- \, Općina Murter-Kornati)\, 5.193 €/god.\n\nŠto ističe: https://konce
- sijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ \, Općina Murter-Kornati)\, 5.193 €/god.\n\nŠto ističe: https://conce
+ ssum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1574,10 +1567,10 @@ DTEND;VALUE=DATE:20360513
 SUMMARY:Ističe koncesija: SK MOJAĆ ZABLAĆE
 DESCRIPTION:1 ugovor o koncesiji ističe 12. 5. 2036. Godišnja fiksna nakn
  ada: 3.200 €.\n\n• SK MOJAĆ ZABLAĆE – Koncesija na pomorskom dobru
-  (ŠIBENIK\, Grad Šibenik)\, 3.200 €/god.\n\nŠto ističe: https://konc
- esijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Con
- cessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+  (ŠIBENIK\, Grad Šibenik)\, 3.200 €/god.\n\nŠto ističe: https://conc
+ essum.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum
+  9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1595,9 +1588,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (SK MOJAĆ ZABLA
 DESCRIPTION:12. 5. 2036. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• SK MOJAĆ ZABLAĆE – Koncesija na pomorskom dobru (ŠIBENIK\, G
- rad Šibenik)\, 3.200 €/god.\n\nŠto ističe: https://koncesijski-sat.ve
- rcel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ rad Šibenik)\, 3.200 €/god.\n\nŠto ističe: https://concessum.vercel.a
+ pp/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1615,9 +1608,9 @@ SUMMARY:Ističe koncesija: SPORTSKI KLUB ZA RIBOLOV NA MORU PIRKA TRIBUNJ
 DESCRIPTION:1 ugovor o koncesiji ističe 22. 5. 2036. Godišnja fiksna nakn
  ada: 1.465 €.\n\n• SPORTSKI KLUB ZA RIBOLOV NA MORU PIRKA TRIBUNJ – 
  Koncesija na pomorskom dobru (TRIBUNJ)\, 1.465 €/god.\n\nŠto ističe: h
- ttps://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\,
-  obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ ttps://concessum.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrad
+ a Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1636,9 +1629,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (SPORTSKI KLUB ZA
 DESCRIPTION:22. 5. 2036. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• SPORTSKI KLUB ZA RIBOLOV NA MORU PIRKA TRIBUNJ – Koncesija na p
- omorskom dobru (TRIBUNJ)\, 1.465 €/god.\n\nŠto ističe: https://koncesi
- jski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ omorskom dobru (TRIBUNJ)\, 1.465 €/god.\n\nŠto ističe: https://concess
+ um.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1656,10 +1649,10 @@ SUMMARY:Ističe koncesija: HEP-OPERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 1. 6. 2036. Godišnja fiksna nakna
  da: 133 €.\n\n• HEP-OPERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O. – Konces
  ija pomorskog dobra za posebnu upotrebu u svrhu gradnje kabelske veze (ŠI
- BENIK\, Grad Šibenik)\, 133 €/god.\n\nŠto ističe: https://koncesijski
- -sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 
- 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ BENIK\, Grad Šibenik)\, 133 €/god.\n\nŠto ističe: https://concessum.v
+ ercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 11.
+  2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1678,9 +1671,9 @@ DESCRIPTION:1. 6. 2036. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• HEP-OPERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O. – Koncesija pomorsko
  g dobra za posebnu upotrebu u svrhu gradnje kabelske veze (ŠIBENIK\, Grad
-  Šibenik)\, 133 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.
- app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+  Šibenik)\, 133 €/god.\n\nŠto ističe: https://concessum.vercel.app/#s
+ at
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1699,9 +1692,9 @@ DESCRIPTION:1 ugovor o koncesiji ističe 26. 9. 2036. Godišnja fiksna nakn
  ada: 3.637 €.\n\n• JAVNA USTANOVA NACIONALNI PARK KRKA – Koncesija p
  omorskog dobra u svrhu izgradnje i gospodarskog korištenja luke posebne n
  amjene (SKRADIN\, Grad Skradin)\, 3.637 €/god.\n\nŠto ističe: https://
- koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada
-  Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ concessum.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Conce
+ ssum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1720,9 +1713,9 @@ DESCRIPTION:26. 9. 2036. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• JAVNA USTANOVA NACIONALNI PARK KRKA – Koncesija pomorskog dobra
   u svrhu izgradnje i gospodarskog korištenja luke posebne namjene (SKRADI
- N\, Grad Skradin)\, 3.637 €/god.\n\nŠto ističe: https://koncesijski-sa
- t.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ N\, Grad Skradin)\, 3.637 €/god.\n\nŠto ističe: https://concessum.verc
+ el.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1741,9 +1734,9 @@ SUMMARY:Ističe koncesija: KLISMAR SPLIT D.O.O. ZA MORSKO RIBARSTVO I TRG.E
 DESCRIPTION:1 ugovor o koncesiji ističe 1. 10. 2036. Godišnja fiksna nakn
  ada: 5.480 €.\n\n• KLISMAR SPLIT D.O.O. ZA MORSKO RIBARSTVO I TRG.EXPO
  RT-IMPORT – Koncesija na pomorskom dobru (ROGOZNICA\, Općina Rogoznica)
- \, 5.480 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
- \nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ \, 5.480 €/god.\n\nŠto ističe: https://concessum.vercel.app/#sat\nIzvo
+ r: Registar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1763,8 +1756,8 @@ DESCRIPTION:1. 10. 2036. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• KLISMAR SPLIT D.O.O. ZA MORSKO RIBARSTVO I TRG.EXPORT-IMPORT – 
  Koncesija na pomorskom dobru (ROGOZNICA\, Općina Rogoznica)\, 5.480 €/g
- od.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ od.\n\nŠto ističe: https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1782,9 +1775,9 @@ SUMMARY:Ističe koncesija: IVANA KLASIČEK\, KORNATI\, VL. IVANA KLASIČEK
 DESCRIPTION:1 ugovor o koncesiji ističe 31. 1. 2037. Godišnja fiksna nakn
  ada: 8.229 €.\n\n• IVANA KLASIČEK\, KORNATI\, VL. IVANA KLASIČEK –
   Koncesija na pomorskom dobru (MURTER - KORNATI\, Općina Murter-Kornati)\
- , 8.229 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\
- nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ , 8.229 €/god.\n\nŠto ističe: https://concessum.vercel.app/#sat\nIzvor
+ : Registar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1804,8 +1797,8 @@ DESCRIPTION:31. 1. 2037. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• IVANA KLASIČEK\, KORNATI\, VL. IVANA KLASIČEK – Koncesija na 
  pomorskom dobru (MURTER - KORNATI\, Općina Murter-Kornati)\, 8.229 €/go
- d.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ d.\n\nŠto ističe: https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1823,9 +1816,9 @@ SUMMARY:Ističe koncesija: HEP-OPERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 6. 4. 2037. Godišnja fiksna nakna
  da: 84 €.\n\n• HEP-OPERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O. – Posebna
   upotreba pomorskog dobra (ROGOZNICA\, Općina Rogoznica)\, 84 €/god.\n\
- nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar ko
- ncesija (FINA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ nŠto ističe: https://concessum.vercel.app/#sat\nIzvor: Registar koncesij
+ a (FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1844,8 +1837,8 @@ DESCRIPTION:6. 4. 2037. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• HEP-OPERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O. – Posebna upotreba p
  omorskog dobra (ROGOZNICA\, Općina Rogoznica)\, 84 €/god.\n\nŠto isti
- če: https://koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ če: https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1864,9 +1857,9 @@ DESCRIPTION:2 ugovora o koncesiji ističe 16. 4. 2037. Godišnja fiksna nak
  nada: 10.095 €.\n\n• KOSIRINA D.O.O. – Koncesija na pomorskom dobru 
  (TISNO)\, 5.724 €/god.\n• KOSIRINA D.O.O. – Koncesija na pomorskom d
  obru (MURTER - KORNATI\, Općina Murter-Kornati)\, 4.371 €/god.\n\nŠto 
- ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesij
- a (FINA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ ističe: https://concessum.vercel.app/#sat\nIzvor: Registar koncesija (FIN
+ A)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1886,8 +1879,8 @@ DESCRIPTION:16. 4. 2037. ističe 2 ugovora o koncesiji. Novi postupak dodje
  a.\n\n• KOSIRINA D.O.O. – Koncesija na pomorskom dobru (TISNO)\, 5.724
   €/god.\n• KOSIRINA D.O.O. – Koncesija na pomorskom dobru (MURTER - 
  KORNATI\, Općina Murter-Kornati)\, 4.371 €/god.\n\nŠto ističe: https:
- //koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ //concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1910,9 +1903,9 @@ DESCRIPTION:3 ugovora o koncesiji ističe 12. 6. 2038. Godišnja fiksna nak
  radnje kabelske veze (ROGOZNICA\, Općina Rogoznica)\, 25 €/god.\n• HE
  P-OPERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O. – Koncesija pomorskog dobra za
   posebnu upotrebu u svrhu gradnje kabelske veze (ROGOZNICA\, Općina Rogoz
- nica)\, 25 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#s
- at\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ nica)\, 25 €/god.\n\nŠto ističe: https://concessum.vercel.app/#sat\nIz
+ vor: Registar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1936,8 +1929,8 @@ DESCRIPTION:12. 6. 2038. ističe 3 ugovora o koncesiji. Novi postupak dodje
  ke veze (ROGOZNICA\, Općina Rogoznica)\, 25 €/god.\n• HEP-OPERATOR DI
  STRIBUCIJSKOG SUSTAVA D.O.O. – Koncesija pomorskog dobra za posebnu upot
  rebu u svrhu gradnje kabelske veze (ROGOZNICA\, Općina Rogoznica)\, 25 
- €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ €/god.\n\nŠto ističe: https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1955,10 +1948,10 @@ SUMMARY:Ističe koncesija: HEP - OPERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 6. 9. 2038. Godišnja fiksna nakna
  da: 221 €.\n\n• HEP - OPERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O. – Konc
  esija pomorskog dobra za posebnu upotrebu u svrhu gradnje kabelske veze (R
- OGOZNICA\, Općina Rogoznica)\, 221 €/god.\n\nŠto ističe: https://konc
- esijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Con
- cessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ OGOZNICA\, Općina Rogoznica)\, 221 €/god.\n\nŠto ističe: https://conc
+ essum.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum
+  9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1978,9 +1971,9 @@ DESCRIPTION:6. 9. 2038. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• HEP - OPERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O. – Koncesija pomors
  kog dobra za posebnu upotrebu u svrhu gradnje kabelske veze (ROGOZNICA\, O
- pćina Rogoznica)\, 221 €/god.\n\nŠto ističe: https://koncesijski-sat.
- vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ pćina Rogoznica)\, 221 €/god.\n\nŠto ističe: https://concessum.vercel
+ .app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1997,10 +1990,10 @@ DTEND;VALUE=DATE:20390406
 SUMMARY:Ističe koncesija: MUZEJ BETINSKE DRVNE BRODOGRADNJE
 DESCRIPTION:1 ugovor o koncesiji ističe 5. 4. 2039. Godišnja fiksna nakna
  da: 983 €.\n\n• MUZEJ BETINSKE DRVNE BRODOGRADNJE – Posebna upotreba
-  pomorskog dobra (TISNO)\, 983 €/god.\n\nŠto ističe: https://koncesijs
- ki-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessu
- m 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+  pomorskog dobra (TISNO)\, 983 €/god.\n\nŠto ističe: https://concessum
+ .vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 1
+ 1. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2018,9 +2011,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MUZEJ BETINSKE D
 DESCRIPTION:5. 4. 2039. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• MUZEJ BETINSKE DRVNE BRODOGRADNJE – Posebna upotreba pomorskog d
- obra (TISNO)\, 983 €/god.\n\nŠto ističe: https://koncesijski-sat.verce
- l.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ obra (TISNO)\, 983 €/god.\n\nŠto ističe: https://concessum.vercel.app/
+ #sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2041,9 +2034,9 @@ DESCRIPTION:3 ugovora o koncesiji ističe 9. 4. 2039. Godišnja fiksna nakn
  OVOD I ODVODNJA D.O.O.RN.POS.NAM – Posebna upotreba pomorskog dobra (TRI
  BUNJ)\, 362 €/god.\n• VODOVOD I ODVODNJA D.O.O.RN.POS.NAM – Posebna 
  upotreba pomorskog dobra (VODICE\, Grad Vodice)\, 93 €/god.\n\nŠto isti
- če: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (F
- INA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ če: https://concessum.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\,
+  obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2065,8 +2058,8 @@ DESCRIPTION:9. 4. 2039. ističe 3 ugovora o koncesiji. Novi postupak dodjel
  A D.O.O.RN.POS.NAM – Posebna upotreba pomorskog dobra (TRIBUNJ)\, 362 
  €/god.\n• VODOVOD I ODVODNJA D.O.O.RN.POS.NAM – Posebna upotreba pom
  orskog dobra (VODICE\, Grad Vodice)\, 93 €/god.\n\nŠto ističe: https:/
- /koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ /concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2084,9 +2077,9 @@ SUMMARY:Ističe koncesija: HEP - OPERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 12. 4. 2039. Godišnja fiksna nakn
  ada: 147 €.\n\n• HEP - OPERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O. – Pos
  ebna upotreba pomorskog dobra (ROGOZNICA\, Općina Rogoznica)\, 147 €/go
- d.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Regist
- ar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ d.\n\nŠto ističe: https://concessum.vercel.app/#sat\nIzvor: Registar kon
+ cesija (FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2106,8 +2099,8 @@ DESCRIPTION:12. 4. 2039. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• HEP - OPERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O. – Posebna upotreb
  a pomorskog dobra (ROGOZNICA\, Općina Rogoznica)\, 147 €/god.\n\nŠto i
- stiče: https://koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ stiče: https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2128,9 +2121,9 @@ DESCRIPTION:2 ugovora o koncesiji ističe 10. 6. 2039. Godišnja fiksna nak
  (TISNO)\, 393 €/god.\n• HEP - OPERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O. 
  – Koncesija pomorskog dobra za posebnu upotrebu u svrhu gradnje kabelske
   veze (PIROVAC\, Općina Pirovac)\, 160 €/god.\n\nŠto ističe: https://
- koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada
-  Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ concessum.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Conce
+ ssum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2151,9 +2144,9 @@ DESCRIPTION:10. 6. 2039. ističe 2 ugovora o koncesiji. Novi postupak dodje
  rskog dobra za posebnu upotrebu u svrhu gradnje kabelske veze (TISNO)\, 39
  3 €/god.\n• HEP - OPERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O. – Koncesij
  a pomorskog dobra za posebnu upotrebu u svrhu gradnje kabelske veze (PIROV
- AC\, Općina Pirovac)\, 160 €/god.\n\nŠto ističe: https://koncesijski-
- sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ AC\, Općina Pirovac)\, 160 €/god.\n\nŠto ističe: https://concessum.ve
+ rcel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2170,9 +2163,9 @@ DTEND;VALUE=DATE:20390831
 SUMMARY:Ističe koncesija: HRVATSKI VESLAČKI SAVEZ
 DESCRIPTION:1 ugovor o koncesiji ističe 30. 8. 2039.\n\n• HRVATSKI VESLA
  ČKI SAVEZ – Posebna upotreba pomorskog dobra (ŠIBENIK\, Grad Šibenik)
- \n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar
-  koncesija (FINA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ \n\nŠto ističe: https://concessum.vercel.app/#sat\nIzvor: Registar konce
+ sija (FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2190,9 +2183,8 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKI VESLAČ
 DESCRIPTION:30. 8. 2039. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• HRVATSKI VESLAČKI SAVEZ – Posebna upotreba pomorskog dobra (Š
- IBENIK\, Grad Šibenik)\n\nŠto ističe: https://koncesijski-sat.vercel.ap
- p/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ IBENIK\, Grad Šibenik)\n\nŠto ističe: https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2213,9 +2205,9 @@ DESCRIPTION:3 ugovora o koncesiji ističe 4. 12. 2039. Godišnja fiksna nak
  • HEP - OPERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O. – Koncesija na pomorsk
  om dobru (TRIBUNJ)\, 1.587 €/god.\n• HEP - OPERATOR DISTRIBUCIJSKOG SU
  STAVA D.O.O. – Koncesija na pomorskom dobru (VODICE\, Grad Vodice)\, 1.5
- 39 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzvo
- r: Registar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ 39 €/god.\n\nŠto ističe: https://concessum.vercel.app/#sat\nIzvor: Reg
+ istar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2237,8 +2229,8 @@ DESCRIPTION:4. 12. 2039. ističe 3 ugovora o koncesiji. Novi postupak dodje
  ATOR DISTRIBUCIJSKOG SUSTAVA D.O.O. – Koncesija na pomorskom dobru (TRIB
  UNJ)\, 1.587 €/god.\n• HEP - OPERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O. 
  – Koncesija na pomorskom dobru (VODICE\, Grad Vodice)\, 1.539 €/god.\n
- \nŠto ističe: https://koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ \nŠto ističe: https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2256,9 +2248,9 @@ SUMMARY:Ističe koncesija: PRIMOŠTEN ODVODNJA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 10. 1. 2040. Godišnja fiksna nakn
  ada: 70 €.\n\n• PRIMOŠTEN ODVODNJA D.O.O. – Posebna upotreba pomors
  kog dobra (PRIMOŠTEN\, Općina Primošten)\, 70 €/god.\n\nŠto ističe:
-  https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)
- \, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+  https://concessum.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obr
+ ada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2276,9 +2268,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PRIMOŠTEN ODVOD
 DESCRIPTION:10. 1. 2040. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• PRIMOŠTEN ODVODNJA D.O.O. – Posebna upotreba pomorskog dobra (
- PRIMOŠTEN\, Općina Primošten)\, 70 €/god.\n\nŠto ističe: https://ko
- ncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ PRIMOŠTEN\, Općina Primošten)\, 70 €/god.\n\nŠto ističe: https://co
+ ncessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2297,9 +2289,9 @@ DESCRIPTION:2 ugovora o koncesiji ističe 14. 4. 2040. Godišnja fiksna nak
  nada: 449 €.\n\n• PRIMOŠTEN ODVODNJA D.O.O. – Posebna upotreba pomo
  rskog dobra (PRIMOŠTEN\, Općina Primošten)\, 233 €/god.\n• GRAD VOD
  ICE – Posebna upotreba pomorskog dobra (VODICE\, Grad Vodice)\, 216 €/
- god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Regi
- star koncesija (FINA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ god.\n\nŠto ističe: https://concessum.vercel.app/#sat\nIzvor: Registar k
+ oncesija (FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2319,8 +2311,8 @@ DESCRIPTION:14. 4. 2040. ističe 2 ugovora o koncesiji. Novi postupak dodje
  a.\n\n• PRIMOŠTEN ODVODNJA D.O.O. – Posebna upotreba pomorskog dobra 
  (PRIMOŠTEN\, Općina Primošten)\, 233 €/god.\n• GRAD VODICE – Pose
  bna upotreba pomorskog dobra (VODICE\, Grad Vodice)\, 216 €/god.\n\nŠto
-  ističe: https://koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+  ističe: https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2338,9 +2330,9 @@ SUMMARY:Ističe koncesija: USTANOVA RAZVOJNO INOVACIJSKI CENTAR ALUTECH
 DESCRIPTION:1 ugovor o koncesiji ističe 12. 10. 2040. Godišnja fiksna nak
  nada: 352 €.\n\n• USTANOVA RAZVOJNO INOVACIJSKI CENTAR ALUTECH – Kon
  cesija na pomorskom dobru (ŠIBENIK\, Grad Šibenik)\, 352 €/god.\n\nŠt
- o ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar konces
- ija (FINA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ o ističe: https://concessum.vercel.app/#sat\nIzvor: Registar koncesija (F
+ INA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2359,8 +2351,8 @@ DESCRIPTION:12. 10. 2040. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• USTANOVA RAZVOJNO INOVACIJSKI CENTAR ALUTECH – Koncesija na po
  morskom dobru (ŠIBENIK\, Grad Šibenik)\, 352 €/god.\n\nŠto ističe: h
- ttps://koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ ttps://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2378,9 +2370,9 @@ SUMMARY:Ističe koncesija: UGOSTITELJSKI OBRT  'ŽMARA'
 DESCRIPTION:1 ugovor o koncesiji ističe 23. 10. 2041. Godišnja fiksna nak
  nada: 11.340 €.\n\n• UGOSTITELJSKI OBRT  'ŽMARA' – Koncesija na pom
  orskom dobru (MURTER - KORNATI\, Općina Murter-Kornati)\, 11.340 €/god.
- \n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar
-  koncesija (FINA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ \n\nŠto ističe: https://concessum.vercel.app/#sat\nIzvor: Registar konce
+ sija (FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2399,8 +2391,8 @@ DESCRIPTION:23. 10. 2041. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• UGOSTITELJSKI OBRT  'ŽMARA' – Koncesija na pomorskom dobru (M
  URTER - KORNATI\, Općina Murter-Kornati)\, 11.340 €/god.\n\nŠto istič
- e: https://koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ e: https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2418,9 +2410,9 @@ SUMMARY:Ističe koncesija: UGOSTITELJSKI OBRT RIVA OTOK ŽIRJE
 DESCRIPTION:1 ugovor o koncesiji ističe 5. 11. 2041. Godišnja fiksna nakn
  ada: 43.281 €.\n\n• UGOSTITELJSKI OBRT RIVA OTOK ŽIRJE – Koncesija 
  na pomorskom dobru (ŠIBENIK\, Grad Šibenik)\, 43.281 €/god.\n\nŠto is
- tiče: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija 
- (FINA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ tiče: https://concessum.vercel.app/#sat\nIzvor: Registar koncesija (FINA)
+ \, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2439,8 +2431,8 @@ DESCRIPTION:5. 11. 2041. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• UGOSTITELJSKI OBRT RIVA OTOK ŽIRJE – Koncesija na pomorskom do
  bru (ŠIBENIK\, Grad Šibenik)\, 43.281 €/god.\n\nŠto ističe: https://
- koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2458,9 +2450,9 @@ SUMMARY:Ističe koncesija: VODOVOD I ODVODNJA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 27. 1. 2042. Godišnja fiksna nakn
  ada: 40 €.\n\n• VODOVOD I ODVODNJA D.O.O. – Posebna upotreba pomorsk
  og dobra (PRIMOŠTEN\, Općina Primošten)\, 40 €/god.\n\nŠto ističe: 
- https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\
- , obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ https://concessum.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obra
+ da Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2478,9 +2470,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VODOVOD I ODVODN
 DESCRIPTION:27. 1. 2042. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• VODOVOD I ODVODNJA D.O.O. – Posebna upotreba pomorskog dobra (P
- RIMOŠTEN\, Općina Primošten)\, 40 €/god.\n\nŠto ističe: https://kon
- cesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ RIMOŠTEN\, Općina Primošten)\, 40 €/god.\n\nŠto ističe: https://con
+ cessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2505,10 +2497,10 @@ DESCRIPTION:4 ugovora o koncesiji ističe 10. 3. 2043. Godišnja fiksna nak
   posebnu upotrebu u svrhu gradnje kabelske veze (ŠIBENIK\, Grad Šibenik)
  \, 64 €/god.\n• HEP-OPERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O. – Konces
  ija pomorskog dobra za posebnu upotrebu u svrhu gradnje kabelske veze (ŠI
- BENIK\, Grad Šibenik)\, 64 €/god.\n\nŠto ističe: https://koncesijski-
- sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9
- . 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ BENIK\, Grad Šibenik)\, 64 €/god.\n\nŠto ističe: https://concessum.ve
+ rcel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 11. 
+ 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2534,9 +2526,9 @@ DESCRIPTION:10. 3. 2043. ističe 4 ugovora o koncesiji. Novi postupak dodje
  trebu u svrhu gradnje kabelske veze (ŠIBENIK\, Grad Šibenik)\, 64 €/go
  d.\n• HEP-OPERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O. – Koncesija pomorsko
  g dobra za posebnu upotrebu u svrhu gradnje kabelske veze (ŠIBENIK\, Grad
-  Šibenik)\, 64 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.a
- pp/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+  Šibenik)\, 64 €/god.\n\nŠto ističe: https://concessum.vercel.app/#sa
+ t
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2555,9 +2547,9 @@ DESCRIPTION:2 ugovora o koncesiji ističe 14. 4. 2043. Godišnja fiksna nak
  nada: 2.211 €.\n\n• VODOVOD I ODVODNJA D.O.O. – Posebna upotreba pom
  orskog dobra (ŠIBENIK\, Grad Šibenik)\, 1.957 €/god.\n• VODOVOD I OD
  VODNJA D.O.O. – Posebna upotreba pomorskog dobra (VODICE\, Grad Vodice)\
- , 254 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nI
- zvor: Registar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ , 254 €/god.\n\nŠto ističe: https://concessum.vercel.app/#sat\nIzvor: 
+ Registar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2577,8 +2569,8 @@ DESCRIPTION:14. 4. 2043. ističe 2 ugovora o koncesiji. Novi postupak dodje
  a.\n\n• VODOVOD I ODVODNJA D.O.O. – Posebna upotreba pomorskog dobra (
  ŠIBENIK\, Grad Šibenik)\, 1.957 €/god.\n• VODOVOD I ODVODNJA D.O.O. 
  – Posebna upotreba pomorskog dobra (VODICE\, Grad Vodice)\, 254 €/god.
- \n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ \n\nŠto ističe: https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2596,9 +2588,9 @@ SUMMARY:Ističe koncesija: HEP-OPERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 20. 11. 2043. Godišnja fiksna nak
  nada: 70 €.\n\n• HEP-OPERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O. – Poseb
  na upotreba pomorskog dobra (TISNO)\, 70 €/god.\n\nŠto ističe: https:/
- /koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrad
- a Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ /concessum.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Conc
+ essum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2616,9 +2608,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP-OPERATOR DIS
 DESCRIPTION:20. 11. 2043. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• HEP-OPERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O. – Posebna upotreba
-  pomorskog dobra (TISNO)\, 70 €/god.\n\nŠto ističe: https://koncesijsk
- i-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+  pomorskog dobra (TISNO)\, 70 €/god.\n\nŠto ističe: https://concessum.
+ vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2637,9 +2629,9 @@ DESCRIPTION:2 ugovora o koncesiji ističe 14. 3. 2044. Godišnja fiksna nak
  nada: 244 €.\n\n• VODOVOD I ODVODNJA D.O.O. – Posebna upotreba pomor
  skog dobra (PIROVAC\, Općina Pirovac)\, 180 €/god.\n• VODOVOD I ODVOD
  NJA D.O.O. – Posebna upotreba pomorskog dobra (TISNO)\, 64 €/god.\n\n
- Što ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar kon
- cesija (FINA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ Što ističe: https://concessum.vercel.app/#sat\nIzvor: Registar koncesija
+  (FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2659,8 +2651,8 @@ DESCRIPTION:14. 3. 2044. ističe 2 ugovora o koncesiji. Novi postupak dodje
  a.\n\n• VODOVOD I ODVODNJA D.O.O. – Posebna upotreba pomorskog dobra (
  PIROVAC\, Općina Pirovac)\, 180 €/god.\n• VODOVOD I ODVODNJA D.O.O. 
  – Posebna upotreba pomorskog dobra (TISNO)\, 64 €/god.\n\nŠto ističe
- : https://koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ : https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2679,9 +2671,9 @@ SUMMARY:Ističe koncesija: VODOVOD I ODVODNJA D.O.O.-RAZVOJ VODOOPSKRBE OP
 DESCRIPTION:1 ugovor o koncesiji ističe 31. 5. 2044. Godišnja fiksna nakn
  ada: 8 €.\n\n• VODOVOD I ODVODNJA D.O.O.-RAZVOJ VODOOPSKRBE OPĆINE ST
  ANKOVCI – Posebna upotreba pomorskog dobra (VODICE\, Grad Vodice)\, 8 
- €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: 
- Registar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ €/god.\n\nŠto ističe: https://concessum.vercel.app/#sat\nIzvor: Regist
+ ar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2701,8 +2693,8 @@ DESCRIPTION:31. 5. 2044. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• VODOVOD I ODVODNJA D.O.O.-RAZVOJ VODOOPSKRBE OPĆINE STANKOVCI 
  – Posebna upotreba pomorskog dobra (VODICE\, Grad Vodice)\, 8 €/god.\n
- \nŠto ističe: https://koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ \nŠto ističe: https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2720,9 +2712,9 @@ SUMMARY:Ističe koncesija: HŽ INFRASTRUKTURA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 6. 9. 2044. Godišnja fiksna nakna
  da: 26 €.\n\n• HŽ INFRASTRUKTURA D.O.O. – Posebna upotreba pomorsko
  g dobra (ŠIBENIK\, Grad Šibenik)\, 26 €/god.\n\nŠto ističe: https://
- koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada
-  Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ concessum.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Conce
+ ssum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2740,9 +2732,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HŽ INFRASTRUKTU
 DESCRIPTION:6. 9. 2044. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• HŽ INFRASTRUKTURA D.O.O. – Posebna upotreba pomorskog dobra (Š
- IBENIK\, Grad Šibenik)\, 26 €/god.\n\nŠto ističe: https://koncesijski
- -sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ IBENIK\, Grad Šibenik)\, 26 €/god.\n\nŠto ističe: https://concessum.v
+ ercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2760,9 +2752,9 @@ SUMMARY:Ističe koncesija: HEP OPERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 6. 11. 2044. Godišnja fiksna nakn
  ada: 57 €.\n\n• HEP OPERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O. – Posebn
  a upotreba pomorskog dobra (ŠIBENIK\, Grad Šibenik)\, 57 €/god.\n\nŠt
- o ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar konces
- ija (FINA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ o ističe: https://concessum.vercel.app/#sat\nIzvor: Registar koncesija (F
+ INA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2781,8 +2773,8 @@ DESCRIPTION:6. 11. 2044. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• HEP OPERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O. – Posebna upotreba 
  pomorskog dobra (ŠIBENIK\, Grad Šibenik)\, 57 €/god.\n\nŠto ističe: 
- https://koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2800,9 +2792,9 @@ SUMMARY:Ističe koncesija: HEP-OPERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 16. 9. 2045. Godišnja fiksna nakn
  ada: 2 €.\n\n• HEP-OPERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O. – Posebna
   upotreba pomorskog dobra (ŠIBENIK\, Grad Šibenik)\, 2 €/god.\n\nŠto 
- ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesij
- a (FINA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ ističe: https://concessum.vercel.app/#sat\nIzvor: Registar koncesija (FIN
+ A)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2821,8 +2813,8 @@ DESCRIPTION:16. 9. 2045. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• HEP-OPERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O. – Posebna upotreba 
  pomorskog dobra (ŠIBENIK\, Grad Šibenik)\, 2 €/god.\n\nŠto ističe: h
- ttps://koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ ttps://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2847,9 +2839,9 @@ DESCRIPTION:4 ugovora o koncesiji ističe 26. 11. 2045. Godišnja fiksna na
   ribe i školjkaša (ŠIBENIK\, Grad Šibenik)\, 540 €/god.\n• OBRT Ć
  ORAN UZGAJALIŠTE ŠKOLJAKA – Koncesija na pomorskom dobru u svrhu uzgoj
  a morske ribe i školjkaša (ŠIBENIK\, Grad Šibenik)\, 540 €/god.\n\n
- Što ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar kon
- cesija (FINA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ Što ističe: https://concessum.vercel.app/#sat\nIzvor: Registar koncesija
+  (FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2875,8 +2867,8 @@ DESCRIPTION:26. 11. 2045. ističe 4 ugovora o koncesiji. Novi postupak dodj
  aša (ŠIBENIK\, Grad Šibenik)\, 540 €/god.\n• OBRT ĆORAN UZGAJALIŠ
  TE ŠKOLJAKA – Koncesija na pomorskom dobru u svrhu uzgoja morske ribe i
   školjkaša (ŠIBENIK\, Grad Šibenik)\, 540 €/god.\n\nŠto ističe: ht
- tps://koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ tps://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2893,10 +2885,10 @@ DTEND;VALUE=DATE:20460130
 SUMMARY:Ističe koncesija: VRILO D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 29. 1. 2046. Godišnja fiksna nakn
  ada: 115 €.\n\n• VRILO D.O.O. – Posebna upotreba pomorskog dobra (PI
- ROVAC\, Općina Pirovac)\, 115 €/god.\n\nŠto ističe: https://koncesijs
- ki-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessu
- m 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ ROVAC\, Općina Pirovac)\, 115 €/god.\n\nŠto ističe: https://concessum
+ .vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 1
+ 1. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2913,9 +2905,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VRILO D.O.O.)
 DESCRIPTION:29. 1. 2046. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• VRILO D.O.O. – Posebna upotreba pomorskog dobra (PIROVAC\, Opć
- ina Pirovac)\, 115 €/god.\n\nŠto ističe: https://koncesijski-sat.verce
- l.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ ina Pirovac)\, 115 €/god.\n\nŠto ističe: https://concessum.vercel.app/
+ #sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2939,9 +2931,9 @@ DESCRIPTION:3 ugovora o koncesiji ističe 26. 5. 2046. Godišnja fiksna nak
  ibenik)\, 477 €/god.\n• KATIĆ\, OBRT ZA RIBARSTVO\, TRGOVINU I USLUGE
  \, VL. IVICA KATIĆ – Koncesija na pomorskom dobru u svrhu uzgoja morske
   ribe i školjkaša (ŠIBENIK\, Grad Šibenik)\, 477 €/god.\n\nŠto isti
- če: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (F
- INA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ če: https://concessum.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\,
+  obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2966,8 +2958,8 @@ DESCRIPTION:26. 5. 2046. ističe 3 ugovora o koncesiji. Novi postupak dodje
  7 €/god.\n• KATIĆ\, OBRT ZA RIBARSTVO\, TRGOVINU I USLUGE\, VL. IVICA
   KATIĆ – Koncesija na pomorskom dobru u svrhu uzgoja morske ribe i ško
  ljkaša (ŠIBENIK\, Grad Šibenik)\, 477 €/god.\n\nŠto ističe: https:/
- /koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ /concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2987,9 +2979,9 @@ DESCRIPTION:1 ugovor o koncesiji ističe 19. 6. 2046. Godišnja fiksna nakn
  ada: 401 €.\n\n• TOMISLAV BULAT CIPACLUKI\, VL. TOMISLAV BULAT I BOŽO
   PETRIČEVĆ – Koncesija na pomorskom dobru u svrhu uzgoja morske ribe i
   školjkaša (ŠIBENIK\, Grad Šibenik)\, 401 €/god.\n\nŠto ističe: ht
- tps://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, 
- obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ tps://concessum.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada
+  Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -3009,9 +3001,9 @@ DESCRIPTION:19. 6. 2046. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• TOMISLAV BULAT CIPACLUKI\, VL. TOMISLAV BULAT I BOŽO PETRIČEVĆ
   – Koncesija na pomorskom dobru u svrhu uzgoja morske ribe i školjkaša
-  (ŠIBENIK\, Grad Šibenik)\, 401 €/god.\n\nŠto ističe: https://konces
- ijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+  (ŠIBENIK\, Grad Šibenik)\, 401 €/god.\n\nŠto ističe: https://conces
+ sum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -3030,10 +3022,9 @@ SUMMARY:Ističe koncesija: ROMANO PRELEVIĆ - PROFESIONALNI RIBAR -  ROMANO
 DESCRIPTION:1 ugovor o koncesiji ističe 27. 10. 2046. Godišnja fiksna nak
  nada: 317 €.\n\n• ROMANO PRELEVIĆ - PROFESIONALNI RIBAR -  ROMANO  PR
  ELEVIĆ\, VL.ROMANO PRELEVIĆ – Koncesija na pomorskom dobru (ŠIBENIK\,
-  Grad Šibenik)\, 317 €/god.\n\nŠto ističe: https://koncesijski-sat.ve
- rcel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 11. 
- 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+  Grad Šibenik)\, 317 €/god.\n\nŠto ističe: https://concessum.vercel.a
+ pp/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -3053,9 +3044,8 @@ DESCRIPTION:27. 10. 2046. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• ROMANO PRELEVIĆ - PROFESIONALNI RIBAR -  ROMANO  PRELEVIĆ\, VL
  .ROMANO PRELEVIĆ – Koncesija na pomorskom dobru (ŠIBENIK\, Grad Šiben
- ik)\, 317 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sa
- t
-URL:https://koncesijski-sat.vercel.app/#sat
+ ik)\, 317 €/god.\n\nŠto ističe: https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -3074,9 +3064,9 @@ DESCRIPTION:1 ugovor o koncesiji ističe 29. 5. 2060.\n\n• EVN CROATIA PL
  IN D.O.O. – Koncesija za izgradnju distribucijskog sustava plinovoda i p
  ružanje usluga distribucijskim sustavom (BILICE\, DRNIŠ\, KNIN\, MURTER 
  - KORNATI\, PIROVAC\, TISNO\, TRIBUNJ\, VODICE\, ŠIBENIK\, Općina Bilice
- )\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Regista
- r koncesija (FINA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ )\n\nŠto ističe: https://concessum.vercel.app/#sat\nIzvor: Registar konc
+ esija (FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -3096,9 +3086,9 @@ DESCRIPTION:29. 5. 2060. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  .\n\n• EVN CROATIA PLIN D.O.O. – Koncesija za izgradnju distribucijsko
  g sustava plinovoda i pružanje usluga distribucijskim sustavom (BILICE\, 
  DRNIŠ\, KNIN\, MURTER - KORNATI\, PIROVAC\, TISNO\, TRIBUNJ\, VODICE\, Š
- IBENIK\, Općina Bilice)\n\nŠto ističe: https://koncesijski-sat.vercel.a
- pp/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ IBENIK\, Općina Bilice)\n\nŠto ističe: https://concessum.vercel.app/#sa
+ t
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY

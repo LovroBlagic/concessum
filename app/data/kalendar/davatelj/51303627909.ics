@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · LUČKA UPRAVA DUBROVNIK
 X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje LUČKA UPRAVA DUBROVNIK. I
  z Registra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrad
- e podataka. https://koncesijski-sat.vercel.app/#sat
+ e podataka. https://concessum.vercel.app/#sat
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
@@ -20,9 +20,9 @@ SUMMARY:Ističe koncesija: URESI OD SRCA\, TRGOVAČKI OBRT\, VL. LANA KURTO
 DESCRIPTION:1 ugovor o koncesiji ističe 3. 12. 2026. Godišnja fiksna nakn
  ada: 2.557 €.\n\n• URESI OD SRCA\, TRGOVAČKI OBRT\, VL. LANA KURTOVI
  Ć HARTMAN – Koncesija na pomorskom dobru (DUBROVNIK\, Grad Dubrovnik)\,
-  2.557 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\n
- Izvor: Registar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+  2.557 €/god.\n\nŠto ističe: https://concessum.vercel.app/#sat\nIzvor:
+  Registar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -105,9 +105,9 @@ DESCRIPTION:200 ugovora o koncesiji ističe 31. 12. 2026. Godišnja fiksna
  00 €/god.\n• CIAN DRUŠTVO S OGRANIČENOM ODGOVORNOŠĆU ZA SANITARNU 
  ZAŠTITU ČOVJEKOVE – Koncesija za luku (DUBROVNIK\, Grad Dubrovnik)\, 1
  .000 €/god.\n… i još 160 (cijeli popis u aplikaciji)\n\nŠto ističe:
-  https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)
- \, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+  https://concessum.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obr
+ ada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -126,9 +126,9 @@ DESCRIPTION:3 ugovora o koncesiji ističe 11. 1. 2027. Godišnja fiksna nak
   Grad Dubrovnik)\, 11.101 €/god.\n• LUKA DUBROVNIK D.D. – Koncesija 
  za luku (DUBROVNIK\, Grad Dubrovnik)\, 11.000 €/god.\n• ADRIA ALFA D.O
  .O. – Koncesija za luku (DUBROVNIK\, Grad Dubrovnik)\, 7.100 €/god.\n\
- nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar ko
- ncesija (FINA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ nŠto ističe: https://concessum.vercel.app/#sat\nIzvor: Registar koncesij
+ a (FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -145,9 +145,9 @@ SUMMARY:Ističe koncesija: ADRIATIC DESTINATION MANAGEMENT COMPANY D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 15. 1. 2027. Godišnja fiksna nakn
  ada: 5.834 €.\n\n• ADRIATIC DESTINATION MANAGEMENT COMPANY D.O.O. – 
  Koncesija za luku (DUBROVNIK\, Grad Dubrovnik)\, 5.834 €/god.\n\nŠto is
- tiče: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija 
- (FINA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ tiče: https://concessum.vercel.app/#sat\nIzvor: Registar koncesija (FINA)
+ \, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -164,10 +164,9 @@ DTEND;VALUE=DATE:20270117
 SUMMARY:Ističe koncesija: GULLIVER DMC
 DESCRIPTION:1 ugovor o koncesiji ističe 16. 1. 2027. Godišnja fiksna nakn
  ada: 5.850 €.\n\n• GULLIVER DMC – Koncesija za luku (DUBROVNIK\, Gra
- d Dubrovnik)\, 5.850 €/god.\n\nŠto ističe: https://koncesijski-sat.ver
- cel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 11. 2
- 026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ d Dubrovnik)\, 5.850 €/god.\n\nŠto ističe: https://concessum.vercel.ap
+ p/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -183,10 +182,10 @@ DTEND;VALUE=DATE:20270126
 SUMMARY:Ističe koncesija: DUBROVAČKI PELJAR D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 25. 1. 2027. Godišnja fiksna nakn
  ada: 5.700 €.\n\n• DUBROVAČKI PELJAR D.O.O. – Koncesija za luku (DU
- BROVNIK\, Grad Dubrovnik)\, 5.700 €/god.\n\nŠto ističe: https://konces
- ijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Conce
- ssum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ BROVNIK\, Grad Dubrovnik)\, 5.700 €/god.\n\nŠto ističe: https://conces
+ sum.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9
+ . 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -202,10 +201,10 @@ DTEND;VALUE=DATE:20270416
 SUMMARY:Ističe koncesija: ADRIATIC SUNSETS D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 15. 4. 2027. Godišnja fiksna nakn
  ada: 7.800 €.\n\n• ADRIATIC SUNSETS D.O.O. – Koncesija za luku (DUBR
- OVNIK\, Grad Dubrovnik)\, 7.800 €/god.\n\nŠto ističe: https://koncesij
- ski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concess
- um 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ OVNIK\, Grad Dubrovnik)\, 7.800 €/god.\n\nŠto ističe: https://concessu
+ m.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 
+ 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -221,10 +220,9 @@ DTEND;VALUE=DATE:20270820
 SUMMARY:Ističe koncesija: TELE-5 D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 19. 8. 2027. Godišnja fiksna nakn
  ada: 612 €.\n\n• TELE-5 D.O.O. – Koncesija za luku (DUBROVNIK\, Grad
-  Dubrovnik)\, 612 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel
- .app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 11. 2026
- .
-URL:https://koncesijski-sat.vercel.app/#sat
+  Dubrovnik)\, 612 €/god.\n\nŠto ističe: https://concessum.vercel.app/#
+ sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -241,8 +239,8 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (TELE-5 D.O.O.)
 DESCRIPTION:19. 8. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• TELE-5 D.O.O. – Koncesija za luku (DUBROVNIK\, Grad Dubrovnik)\
- , 612 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ , 612 €/god.\n\nŠto ističe: https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -299,9 +297,9 @@ DESCRIPTION:26 ugovora o koncesiji ističe 31. 12. 2027. Godišnja fiksna n
  VNIK\, Grad Dubrovnik)\n• CORAL CROATIA D.O.O. – Koncesija na pomorsko
  m dobru (DUBROVNIK\, Grad Dubrovnik)\n• TRAVEMO CLUB D.O.O. – Koncesij
  a na pomorskom dobru (DUBROVNIK\, Grad Dubrovnik)\n\nŠto ističe: https:/
- /koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrad
- a Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ /concessum.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Conc
+ essum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -358,9 +356,9 @@ DESCRIPTION:31. 12. 2027. ističe 26 ugovora o koncesiji. Novi postupak dod
  O DINAMIC D.O.O. – Koncesija na pomorskom dobru (DUBROVNIK\, Grad Dubrov
  nik)\n• CORAL CROATIA D.O.O. – Koncesija na pomorskom dobru (DUBROVNIK
  \, Grad Dubrovnik)\n• TRAVEMO CLUB D.O.O. – Koncesija na pomorskom dob
- ru (DUBROVNIK\, Grad Dubrovnik)\n\nŠto ističe: https://koncesijski-sat.v
- ercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ ru (DUBROVNIK\, Grad Dubrovnik)\n\nŠto ističe: https://concessum.vercel.
+ app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -378,9 +376,9 @@ SUMMARY:Ističe koncesija: MAESTOSO DUBROVNIK D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 31. 12. 2028. Godišnja fiksna nak
  nada: 43.200 €.\n\n• MAESTOSO DUBROVNIK D.O.O. – Koncesija na pomors
  kom dobru (DUBROVNIK\, Grad Dubrovnik)\, 43.200 €/god.\n\nŠto ističe: 
- https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\
- , obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ https://concessum.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obra
+ da Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -398,9 +396,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MAESTOSO DUBROVN
 DESCRIPTION:31. 12. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• MAESTOSO DUBROVNIK D.O.O. – Koncesija na pomorskom dobru (DUBR
- OVNIK\, Grad Dubrovnik)\, 43.200 €/god.\n\nŠto ističe: https://koncesi
- jski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ OVNIK\, Grad Dubrovnik)\, 43.200 €/god.\n\nŠto ističe: https://concess
+ um.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -418,9 +416,9 @@ SUMMARY:Ističe koncesija: REPUBLIKA HRVATSKA\, MINISTARSTVO UNUTARNJIH POS
  LOVA
 DESCRIPTION:1 ugovor o koncesiji ističe 31. 12. 2038.\n\n• REPUBLIKA HRV
  ATSKA\, MINISTARSTVO UNUTARNJIH POSLOVA – Koncesija za luku (DUBROVNIK\,
-  Grad Dubrovnik)\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\
- nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+  Grad Dubrovnik)\n\nŠto ističe: https://concessum.vercel.app/#sat\nIzvor
+ : Registar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -439,9 +437,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (REPUBLIKA HRVATS
 DESCRIPTION:31. 12. 2038. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• REPUBLIKA HRVATSKA\, MINISTARSTVO UNUTARNJIH POSLOVA – Koncesi
- ja za luku (DUBROVNIK\, Grad Dubrovnik)\n\nŠto ističe: https://koncesijs
- ki-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ ja za luku (DUBROVNIK\, Grad Dubrovnik)\n\nŠto ističe: https://concessum
+ .vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -458,10 +456,10 @@ DTEND;VALUE=DATE:20420616
 SUMMARY:Ističe koncesija: ADRIA OIL D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 15. 6. 2042. Godišnja fiksna nakn
  ada: 113.884 €.\n\n• ADRIA OIL D.O.O. – Koncesija za luku (DUBROVNIK
- \, Grad Dubrovnik)\, 113.884 €/god.\n\nŠto ističe: https://koncesijski
- -sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 
- 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ \, Grad Dubrovnik)\, 113.884 €/god.\n\nŠto ističe: https://concessum.v
+ ercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 11.
+  2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -479,9 +477,8 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ADRIA OIL D.O.O.
 DESCRIPTION:15. 6. 2042. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• ADRIA OIL D.O.O. – Koncesija za luku (DUBROVNIK\, Grad Dubrovni
- k)\, 113.884 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/
- #sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ k)\, 113.884 €/god.\n\nŠto ističe: https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -498,10 +495,10 @@ DTEND;VALUE=DATE:20530719
 SUMMARY:Ističe koncesija: LUKA DUBROVNIK D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 18. 7. 2053. Godišnja fiksna nakn
  ada: 32.862 €.\n\n• LUKA DUBROVNIK D.D. – Koncesija za luku (DUBROVN
- IK\, Grad Dubrovnik)\, 32.862 €/god.\n\nŠto ističe: https://koncesijsk
- i-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum
-  9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ IK\, Grad Dubrovnik)\, 32.862 €/god.\n\nŠto ističe: https://concessum.
+ vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 11
+ . 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -519,9 +516,8 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (LUKA DUBROVNIK D
 DESCRIPTION:18. 7. 2053. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• LUKA DUBROVNIK D.D. – Koncesija za luku (DUBROVNIK\, Grad Dubro
- vnik)\, 32.862 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.ap
- p/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ vnik)\, 32.862 €/god.\n\nŠto ističe: https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY

@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · GRAD KOPRIVNICA
 X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje GRAD KOPRIVNICA. Iz Regist
  ra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podata
- ka. https://koncesijski-sat.vercel.app/#sat
+ ka. https://concessum.vercel.app/#sat
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
@@ -22,9 +22,9 @@ DESCRIPTION:3 ugovora o koncesiji ističe 1. 11. 2030.\n\n• DIS\, OBRT ZA
  UBELJA\, VL. GORAN TRUBELJA – Koncesija za obavljanje dimnjačarskih pos
  lova (KOPRIVNICA\, Grad Koprivnica)\n• MLD-USLUGE D.O.O. – Koncesija z
  a obavljanje dimnjačarskih poslova (KOPRIVNICA\, Grad Koprivnica)\n\nŠto
-  ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesi
- ja (FINA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+  ističe: https://concessum.vercel.app/#sat\nIzvor: Registar koncesija (FI
+ NA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -46,8 +46,8 @@ DESCRIPTION:1. 11. 2030. ističe 3 ugovora o koncesiji. Novi postupak dodje
  • DIMNJAČARSKI OBRT TRUBELJA\, VL. GORAN TRUBELJA – Koncesija za obav
  ljanje dimnjačarskih poslova (KOPRIVNICA\, Grad Koprivnica)\n• MLD-USLU
  GE D.O.O. – Koncesija za obavljanje dimnjačarskih poslova (KOPRIVNICA\,
-  Grad Koprivnica)\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+  Grad Koprivnica)\n\nŠto ističe: https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY

@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · GRAD MAKARSKA
 X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje GRAD MAKARSKA. Iz Registra
   koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podataka
- . https://koncesijski-sat.vercel.app/#sat
+ . https://concessum.vercel.app/#sat
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
@@ -19,9 +19,9 @@ SUMMARY:Ističe koncesija: NIKOLA KRSTIĆ\, FUMAR\, VL. NIKOLA KRSTIĆ
 DESCRIPTION:1 ugovor o koncesiji ističe 29. 3. 2028. Godišnja fiksna nakn
  ada: 800 €.\n\n• NIKOLA KRSTIĆ\, FUMAR\, VL. NIKOLA KRSTIĆ – Konce
  sija za obavljanje dimnjačarskih poslova (MAKARSKA\, Grad Makarska)\, 800
-  €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor:
-  Registar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+  €/god.\n\nŠto ističe: https://concessum.vercel.app/#sat\nIzvor: Regis
+ tar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -40,8 +40,8 @@ DESCRIPTION:29. 3. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• NIKOLA KRSTIĆ\, FUMAR\, VL. NIKOLA KRSTIĆ – Koncesija za obav
  ljanje dimnjačarskih poslova (MAKARSKA\, Grad Makarska)\, 800 €/god.\n\
- nŠto ističe: https://koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ nŠto ističe: https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY

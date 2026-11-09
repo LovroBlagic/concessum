@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · OPĆINA ĐURĐENOVAC
 X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje OPĆINA ĐURĐENOVAC. Iz R
  egistra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade p
- odataka. https://koncesijski-sat.vercel.app/#sat
+ odataka. https://concessum.vercel.app/#sat
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
@@ -18,9 +18,9 @@ DTEND;VALUE=DATE:20271202
 SUMMARY:Ističe koncesija: HEP - PLIN  D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 1. 12. 2027.\n\n• HEP - PLIN  D.
  O.O. – Koncesija za opskrbu potrošača prirodnim plinom (ĐURĐENOVAC\,
-  Općina Đurđenovac)\n\nŠto ističe: https://koncesijski-sat.vercel.app
- /#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+  Općina Đurđenovac)\n\nŠto ističe: https://concessum.vercel.app/#sat\
+ nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -38,9 +38,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP - PLIN  D.O.
 DESCRIPTION:1. 12. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• HEP - PLIN  D.O.O. – Koncesija za opskrbu potrošača prirodnim
-  plinom (ĐURĐENOVAC\, Općina Đurđenovac)\n\nŠto ističe: https://kon
- cesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+  plinom (ĐURĐENOVAC\, Općina Đurđenovac)\n\nŠto ističe: https://con
+ cessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -58,10 +58,9 @@ SUMMARY:Ističe koncesija: HANA-KOŠKA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 27. 10. 2034. Godišnja fiksna nak
  nada: 10.100 €.\n\n• HANA-KOŠKA D.O.O. – Koncesija za korištenje p
  oljoprivrednog zemljišta u vlasništvu države (ĐURĐENOVAC\, Općina Đ
- urđenovac)\, 10.100 €/god.\n\nŠto ističe: https://koncesijski-sat.ver
- cel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 11. 2
- 026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ urđenovac)\, 10.100 €/god.\n\nŠto ističe: https://concessum.vercel.ap
+ p/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -80,8 +79,8 @@ DESCRIPTION:27. 10. 2034. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• HANA-KOŠKA D.O.O. – Koncesija za korištenje poljoprivrednog 
  zemljišta u vlasništvu države (ĐURĐENOVAC\, Općina Đurđenovac)\, 1
- 0.100 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ 0.100 €/god.\n\nŠto ističe: https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -99,9 +98,9 @@ SUMMARY:Ističe koncesija: NJIVE D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 24. 6. 2035. Godišnja fiksna nakn
  ada: 9.160 €.\n\n• NJIVE D.O.O. – Koncesija za korištenje poljopriv
  rednog zemljišta u vlasništvu države (ĐURĐENOVAC\, Općina Đurđenov
- ac)\, 9.160 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#
- sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ ac)\, 9.160 €/god.\n\nŠto ističe: https://concessum.vercel.app/#sat\nI
+ zvor: Registar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -119,8 +118,8 @@ DESCRIPTION:24. 6. 2035. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• NJIVE D.O.O. – Koncesija za korištenje poljoprivrednog zemlji
  šta u vlasništvu države (ĐURĐENOVAC\, Općina Đurđenovac)\, 9.160 
- €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ €/god.\n\nŠto ističe: https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -138,10 +137,9 @@ SUMMARY:Ističe koncesija: FARMA LIPINE D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 24. 2. 2036. Godišnja fiksna nakn
  ada: 35.016 €.\n\n• FARMA LIPINE D.O.O. – Koncesija za korištenje p
  oljoprivrednog zemljišta u vlasništvu države (ĐURĐENOVAC\, Općina Đ
- urđenovac)\, 35.016 €/god.\n\nŠto ističe: https://koncesijski-sat.ver
- cel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 11. 2
- 026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ urđenovac)\, 35.016 €/god.\n\nŠto ističe: https://concessum.vercel.ap
+ p/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -160,8 +158,8 @@ DESCRIPTION:24. 2. 2036. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• FARMA LIPINE D.O.O. – Koncesija za korištenje poljoprivrednog 
  zemljišta u vlasništvu države (ĐURĐENOVAC\, Općina Đurđenovac)\, 3
- 5.016 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ 5.016 €/god.\n\nŠto ističe: https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY

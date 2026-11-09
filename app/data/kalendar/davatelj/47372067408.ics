@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · OPĆINA ANDRIJAŠEVCI
 X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje OPĆINA ANDRIJAŠEVCI. Iz 
  Registra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade 
- podataka. https://koncesijski-sat.vercel.app/#sat
+ podataka. https://concessum.vercel.app/#sat
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
@@ -18,9 +18,9 @@ DTEND;VALUE=DATE:20310601
 SUMMARY:Ističe koncesija: NEVKOŠ D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 31. 5. 2031.\n\n• NEVKOŠ D.O.O.
   – Koncesija za obavljanje komunalnih djelatnosti (ANDRIJAŠEVCI\, Opći
- na Andrijaševci)\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
- \nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ na Andrijaševci)\n\nŠto ističe: https://concessum.vercel.app/#sat\nIzvo
+ r: Registar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -37,9 +37,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (NEVKOŠ D.O.O.)
 DESCRIPTION:31. 5. 2031. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• NEVKOŠ D.O.O. – Koncesija za obavljanje komunalnih djelatnosti
-  (ANDRIJAŠEVCI\, Općina Andrijaševci)\n\nŠto ističe: https://koncesij
- ski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+  (ANDRIJAŠEVCI\, Općina Andrijaševci)\n\nŠto ističe: https://concessu
+ m.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY

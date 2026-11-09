@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · OPĆINA PUŠĆA
 X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje OPĆINA PUŠĆA. Iz Regist
  ra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podata
- ka. https://koncesijski-sat.vercel.app/#sat
+ ka. https://concessum.vercel.app/#sat
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
@@ -19,9 +19,9 @@ SUMMARY:Ističe koncesija: LEUŠTEK J.D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 12. 5. 2027. Godišnja fiksna nakn
  ada: 1.725 €.\n\n• LEUŠTEK J.D.O.O. – Koncesija za obavljanje dimnj
  ačarskih poslova (PUŠČA\, Općina Pušća)\, 1.725 €/god.\n\nŠto ist
- iče: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (
- FINA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ iče: https://concessum.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\
+ , obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -40,8 +40,8 @@ DESCRIPTION:12. 5. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• LEUŠTEK J.D.O.O. – Koncesija za obavljanje dimnjačarskih posl
  ova (PUŠČA\, Općina Pušća)\, 1.725 €/god.\n\nŠto ističe: https://
- koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY

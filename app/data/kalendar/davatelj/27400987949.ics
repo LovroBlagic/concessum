@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · BRODSKO-POSAVSKA ŽUPANIJA
 X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje BRODSKO-POSAVSKA ŽUPANIJA
  . Iz Registra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake ob
- rade podataka. https://koncesijski-sat.vercel.app/#sat
+ rade podataka. https://concessum.vercel.app/#sat
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
@@ -22,10 +22,10 @@ DESCRIPTION:2 ugovora o koncesiji ističe 21. 2. 2037.\n\n• BROD-PLIN D.O
  AR\, ORIOVAC\, PODCRKAVLJE\, SIBINJ\, SLAVONSKI BROD\, VRPOLJE\, Općina B
  ebrina)\n• E.ON DISTRIBUCIJA PLINA D.O.O. – Koncesija za obavljanje di
  stribucije plina na postojećem distribucijskom sustavu (DONJI ANDRIJEVCI\
- , GARČIN\, Općina Donji Andrijevci)\n\nŠto ističe: https://koncesijski
- -sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 
- 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ , GARČIN\, Općina Donji Andrijevci)\n\nŠto ističe: https://concessum.v
+ ercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 11.
+  2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -48,8 +48,8 @@ DESCRIPTION:21. 2. 2037. ističe 2 ugovora o koncesiji. Novi postupak dodje
  D\, VRPOLJE\, Općina Bebrina)\n• E.ON DISTRIBUCIJA PLINA D.O.O. – Kon
  cesija za obavljanje distribucije plina na postojećem distribucijskom sus
  tavu (DONJI ANDRIJEVCI\, GARČIN\, Općina Donji Andrijevci)\n\nŠto isti
- če: https://koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ če: https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -70,9 +70,9 @@ DESCRIPTION:1 ugovor o koncesiji ističe 23. 2. 2037. Godišnja fiksna nakn
   GORNJI BOGIĆEVCI\, GORNJI BOGIĆEVCI\, NOVA KAPELA\, NOVA KAPELA\, OKUČ
  ANI\, OKUČANI\, STARA GRADIŠKA\, STARA GRADIŠKA\, STARO PETROVO SELO\, 
  STARO PETROVO SELO\, VRBJE\, VRBJE\, Općina Davor)\, 2.329 €/god.\n\nŠ
- to ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar konce
- sija (FINA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ to ističe: https://concessum.vercel.app/#sat\nIzvor: Registar koncesija (
+ FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -94,8 +94,8 @@ DESCRIPTION:23. 2. 2037. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  EVCI\, GORNJI BOGIĆEVCI\, NOVA KAPELA\, NOVA KAPELA\, OKUČANI\, OKUČANI
  \, STARA GRADIŠKA\, STARA GRADIŠKA\, STARO PETROVO SELO\, STARO PETROVO 
  SELO\, VRBJE\, VRBJE\, Općina Davor)\, 2.329 €/god.\n\nŠto ističe: ht
- tps://koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ tps://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -113,9 +113,9 @@ SUMMARY:Ističe koncesija: BROD-PLIN D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 7. 2. 2052.\n\n• BROD-PLIN D.O.O
  . – Koncesija za obavljanje distribucije plina na postojećem distribuci
  jskom sustavu (GUNDINCI\, SIKIREVCI\, SLAVONSKI ŠAMAC\, VELIKA KOPANICA\,
-  Općina Gundinci)\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sa
- t\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+  Općina Gundinci)\n\nŠto ističe: https://concessum.vercel.app/#sat\nIzv
+ or: Registar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -134,9 +134,9 @@ DESCRIPTION:7. 2. 2052. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• BROD-PLIN D.O.O. – Koncesija za obavljanje distribucije plina na
   postojećem distribucijskom sustavu (GUNDINCI\, SIKIREVCI\, SLAVONSKI ŠA
- MAC\, VELIKA KOPANICA\, Općina Gundinci)\n\nŠto ističe: https://koncesi
- jski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ MAC\, VELIKA KOPANICA\, Općina Gundinci)\n\nŠto ističe: https://concess
+ um.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY

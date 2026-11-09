@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · OPĆINA KLAKAR
 X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje OPĆINA KLAKAR. Iz Registr
  a koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podatak
- a. https://koncesijski-sat.vercel.app/#sat
+ a. https://concessum.vercel.app/#sat
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
@@ -19,10 +19,10 @@ SUMMARY:Ističe koncesija: ITELYUM INTEGRA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 25. 5. 2030.\n\n• ITELYUM INTEGR
  A D.O.O. – Koncesija za obavljanje komunalne djelatnosti skupljanja\, od
  voza\, obrade\, održavanje čistoće i odlaganje komunal. i industrijskog
-  otpada (KLAKAR\, Općina Klakar)\n\nŠto ističe: https://koncesijski-sat
- .vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 1
- 1. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+  otpada (KLAKAR\, Općina Klakar)\n\nŠto ističe: https://concessum.verce
+ l.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 11. 202
+ 6.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -42,8 +42,8 @@ DESCRIPTION:25. 5. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  .\n\n• ITELYUM INTEGRA D.O.O. – Koncesija za obavljanje komunalne djel
  atnosti skupljanja\, odvoza\, obrade\, održavanje čistoće i odlaganje k
  omunal. i industrijskog otpada (KLAKAR\, Općina Klakar)\n\nŠto ističe: 
- https://koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY

@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · OPĆINA LIPOVLJANI
 X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje OPĆINA LIPOVLJANI. Iz Reg
  istra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade pod
- ataka. https://koncesijski-sat.vercel.app/#sat
+ ataka. https://concessum.vercel.app/#sat
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
@@ -18,10 +18,9 @@ DTEND;VALUE=DATE:20320101
 SUMMARY:Ističe koncesija: E.ON DISTRIBUCIJA PLINA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 31. 12. 2031.\n\n• E.ON DISTRIBU
  CIJA PLINA D.O.O. – Koncesija za opskrbu potrošača prirodnim plinom (L
- IPOVLJANI\, Općina Lipovljani)\n\nŠto ističe: https://koncesijski-sat.v
- ercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 11.
-  2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ IPOVLJANI\, Općina Lipovljani)\n\nŠto ističe: https://concessum.vercel.
+ app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -40,8 +39,8 @@ DESCRIPTION:31. 12. 2031. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• E.ON DISTRIBUCIJA PLINA D.O.O. – Koncesija za opskrbu potroša
  ča prirodnim plinom (LIPOVLJANI\, Općina Lipovljani)\n\nŠto ističe: ht
- tps://koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ tps://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY

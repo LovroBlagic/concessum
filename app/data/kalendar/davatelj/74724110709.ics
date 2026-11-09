@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · VUKOVARSKO-SRIJEMSKA ŽUPANIJA
 X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje VUKOVARSKO-SRIJEMSKA ŽUPA
  NIJA. Iz Registra koncesija (FINA\, data.gov.hr). Osvježava se nakon svak
- e obrade podataka. https://koncesijski-sat.vercel.app/#sat
+ e obrade podataka. https://concessum.vercel.app/#sat
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
@@ -22,9 +22,9 @@ DESCRIPTION:1 ugovor o koncesiji ističe 9. 12. 2048.\n\n• PLINARA ISTOČ
  , CERNA\, DRENOVCI\, GRADIŠTE\, GUNJA\, ILOK\, IVANKOVO\, JARMINA\, LOVAS
  \, NUŠTAR\, OTOK\, PRIVLAKA\, STARI JANKOVCI\, STARI MIKANOVCI\, VINKOVCI
  \, VOĐINCI\, VRBANJA\, ŠTITAR\, ŽUPANJA\, Općina Andrijaševci)\n\nŠt
- o ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar konces
- ija (FINA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ o ističe: https://concessum.vercel.app/#sat\nIzvor: Registar koncesija (F
+ INA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -46,8 +46,8 @@ DESCRIPTION:9. 12. 2048. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  BINA GREDA\, BOŠNJACI\, CERNA\, DRENOVCI\, GRADIŠTE\, GUNJA\, ILOK\, IVA
  NKOVO\, JARMINA\, LOVAS\, NUŠTAR\, OTOK\, PRIVLAKA\, STARI JANKOVCI\, STA
  RI MIKANOVCI\, VINKOVCI\, VOĐINCI\, VRBANJA\, ŠTITAR\, ŽUPANJA\, Općin
- a Andrijaševci)\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ a Andrijaševci)\n\nŠto ističe: https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY

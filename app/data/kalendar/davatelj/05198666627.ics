@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · OPĆINA BALE-COMUNE DI VALLE
 X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje OPĆINA BALE-COMUNE DI VAL
  LE. Iz Registra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake 
- obrade podataka. https://koncesijski-sat.vercel.app/#sat
+ obrade podataka. https://concessum.vercel.app/#sat
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
@@ -20,10 +20,9 @@ SUMMARY:Ističe koncesija: DIMNJAK D.O.O. ZA DIMNJAČARSKE USLUGE I LOŽIŠ
 DESCRIPTION:1 ugovor o koncesiji ističe 1. 12. 2028. Godišnja fiksna nakn
  ada: 500 €.\n\n• DIMNJAK D.O.O. ZA DIMNJAČARSKE USLUGE I LOŽIŠNU TE
  HNIKU – Koncesija za obavljanje dimnjačarskih poslova (BALE - VALLE\, O
- pćina Bale)\, 500 €/god.\n\nŠto ističe: https://koncesijski-sat.verce
- l.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 11. 202
- 6.
-URL:https://koncesijski-sat.vercel.app/#sat
+ pćina Bale)\, 500 €/god.\n\nŠto ističe: https://concessum.vercel.app/
+ #sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -43,8 +42,8 @@ DESCRIPTION:1. 12. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• DIMNJAK D.O.O. ZA DIMNJAČARSKE USLUGE I LOŽIŠNU TEHNIKU – Ko
  ncesija za obavljanje dimnjačarskih poslova (BALE - VALLE\, Općina Bale)
- \, 500 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ \, 500 €/god.\n\nŠto ističe: https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY

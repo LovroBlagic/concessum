@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · OPĆINA MARIJANCI
 X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje OPĆINA MARIJANCI. Iz Regi
  stra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade poda
- taka. https://koncesijski-sat.vercel.app/#sat
+ taka. https://concessum.vercel.app/#sat
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
@@ -19,9 +19,9 @@ SUMMARY:Ističe koncesija: SAMOSTAL.DIMNJAČARSKA RADNJA TIBORJANCI
 DESCRIPTION:1 ugovor o koncesiji ističe 24. 7. 2028. Godišnja fiksna nakn
  ada: 309 €.\n\n• SAMOSTAL.DIMNJAČARSKA RADNJA TIBORJANCI – Koncesij
  a za obavljanje dimnjačarskih poslova (MARIJANCI\, Općina Marijanci)\, 3
- 09 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzvo
- r: Registar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ 09 €/god.\n\nŠto ističe: https://concessum.vercel.app/#sat\nIzvor: Reg
+ istar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -40,8 +40,8 @@ DESCRIPTION:24. 7. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• SAMOSTAL.DIMNJAČARSKA RADNJA TIBORJANCI – Koncesija za obavlja
  nje dimnjačarskih poslova (MARIJANCI\, Općina Marijanci)\, 309 €/god.\
- n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ n\nŠto ističe: https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -58,9 +58,9 @@ DTEND;VALUE=DATE:20281229
 SUMMARY:Ističe koncesija: HEP - PLIN  D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 28. 12. 2028.\n\n• HEP - PLIN  D
  .O.O. – Koncesija za opskrbu potrošača prirodnim plinom (MARIJANCI\, O
- pćina Marijanci)\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
- \nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ pćina Marijanci)\n\nŠto ističe: https://concessum.vercel.app/#sat\nIzvo
+ r: Registar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -78,9 +78,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP - PLIN  D.O.
 DESCRIPTION:28. 12. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• HEP - PLIN  D.O.O. – Koncesija za opskrbu potrošača prirodni
- m plinom (MARIJANCI\, Općina Marijanci)\n\nŠto ističe: https://koncesij
- ski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ m plinom (MARIJANCI\, Općina Marijanci)\n\nŠto ističe: https://concessu
+ m.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY

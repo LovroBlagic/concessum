@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · GRAD BELIŠĆE
 X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje GRAD BELIŠĆE. Iz Registr
  a koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podatak
- a. https://koncesijski-sat.vercel.app/#sat
+ a. https://concessum.vercel.app/#sat
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
@@ -19,9 +19,9 @@ SUMMARY:Ističe koncesija: SAMOSTAL.DIMNJAČARSKA RADNJA TIBORJANCI
 DESCRIPTION:1 ugovor o koncesiji ističe 15. 5. 2033. Godišnja fiksna nakn
  ada: 1.400 €.\n\n• SAMOSTAL.DIMNJAČARSKA RADNJA TIBORJANCI – Konces
  ija za obavljanje dimnjačarskih poslova (BELIŠĆE\, Grad Belišće)\, 1.
- 400 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzv
- or: Registar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ 400 €/god.\n\nŠto ističe: https://concessum.vercel.app/#sat\nIzvor: Re
+ gistar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -40,8 +40,8 @@ DESCRIPTION:15. 5. 2033. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• SAMOSTAL.DIMNJAČARSKA RADNJA TIBORJANCI – Koncesija za obavlja
  nje dimnjačarskih poslova (BELIŠĆE\, Grad Belišće)\, 1.400 €/god.\n
- \nŠto ističe: https://koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ \nŠto ističe: https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -61,10 +61,9 @@ DESCRIPTION:2 ugovora o koncesiji ističe 12. 1. 2037. Godišnja fiksna nak
  poljoprivrednog zemljišta u vlasništvu države (BELIŠĆE\, Grad Beliš
  će)\, 69.220 €/god.\n• PPK VALPOVO EKO D.O.O. – Koncesija za koriš
  tenje poljoprivrednog zemljišta u vlasništvu države (BELIŠĆE\, Grad B
- elišće)\, 26.099 €/god.\n\nŠto ističe: https://koncesijski-sat.verce
- l.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 11. 202
- 6.
-URL:https://koncesijski-sat.vercel.app/#sat
+ elišće)\, 26.099 €/god.\n\nŠto ističe: https://concessum.vercel.app/
+ #sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -84,8 +83,8 @@ DESCRIPTION:12. 1. 2037. ističe 2 ugovora o koncesiji. Novi postupak dodje
   zemljišta u vlasništvu države (BELIŠĆE\, Grad Belišće)\, 69.220 
  €/god.\n• PPK VALPOVO EKO D.O.O. – Koncesija za korištenje poljopri
  vrednog zemljišta u vlasništvu države (BELIŠĆE\, Grad Belišće)\, 26
- .099 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ .099 €/god.\n\nŠto ističe: https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY

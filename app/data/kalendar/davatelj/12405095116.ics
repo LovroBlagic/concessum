@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · GRAD KRK
 X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje GRAD KRK. Iz Registra konc
  esija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podataka. htt
- ps://koncesijski-sat.vercel.app/#sat
+ ps://concessum.vercel.app/#sat
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
@@ -19,9 +19,9 @@ SUMMARY:Ističe koncesija: MLD-USLUGE D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 18. 3. 2029. Godišnja fiksna nakn
  ada: 1.330 €.\n\n• MLD-USLUGE D.O.O. – Koncesija za obavljanje dimnj
  ačarskih poslova (KRK\, Otok Krk (Grad Krk i općine))\, 1.330 €/god.\n
- \nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar k
- oncesija (FINA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ \nŠto ističe: https://concessum.vercel.app/#sat\nIzvor: Registar koncesi
+ ja (FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -40,8 +40,8 @@ DESCRIPTION:18. 3. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• MLD-USLUGE D.O.O. – Koncesija za obavljanje dimnjačarskih posl
  ova (KRK\, Otok Krk (Grad Krk i općine))\, 1.330 €/god.\n\nŠto ističe
- : https://koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ : https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY

@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · OPĆINA KAPTOL
 X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje OPĆINA KAPTOL. Iz Registr
  a koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podatak
- a. https://koncesijski-sat.vercel.app/#sat
+ a. https://concessum.vercel.app/#sat
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
@@ -19,9 +19,9 @@ SUMMARY:Ističe koncesija: KUTJEVO  D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 22. 2. 2036. Godišnja fiksna nakn
  ada: 8.627 €.\n\n• KUTJEVO  D.D. – Koncesija za korištenje poljopri
  vrednog zemljišta u vlasništvu države (KAPTOL\, Općina Kaptol)\, 8.627
-  €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor:
-  Registar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+  €/god.\n\nŠto ističe: https://concessum.vercel.app/#sat\nIzvor: Regis
+ tar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -39,8 +39,8 @@ DESCRIPTION:22. 2. 2036. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• KUTJEVO  D.D. – Koncesija za korištenje poljoprivrednog zemlji
  šta u vlasništvu države (KAPTOL\, Općina Kaptol)\, 8.627 €/god.\n\n
- Što ističe: https://koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ Što ističe: https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY

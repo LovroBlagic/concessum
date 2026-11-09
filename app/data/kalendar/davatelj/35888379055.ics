@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · ŽUPANIJSKA LUČKA UPRAVA CRES
 X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje ŽUPANIJSKA LUČKA UPRAVA 
  CRES. Iz Registra koncesija (FINA\, data.gov.hr). Osvježava se nakon svak
- e obrade podataka. https://koncesijski-sat.vercel.app/#sat
+ e obrade podataka. https://concessum.vercel.app/#sat
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
@@ -22,9 +22,9 @@ DESCRIPTION:3 ugovora o koncesiji ističe 1. 1. 2027. Godišnja fiksna nakn
  451 €/god.\n• REGATA-BUFFET – Koncesija pomorskog dobra u svrhu gosp
  odarskog korištenja luke (CRES\, Otok Cres)\, 3.292 €/god.\n• FARESIN
  A D.O.O. – Koncesija za luku (CRES\, Otok Cres)\, 3.185 €/god.\n\nŠto
-  ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesi
- ja (FINA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+  ističe: https://concessum.vercel.app/#sat\nIzvor: Registar koncesija (FI
+ NA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -42,9 +42,9 @@ DESCRIPTION:2 ugovora o koncesiji ističe 1. 1. 2028. Godišnja fiksna nakn
  ada: 6.264 €.\n\n• BELI UGOSTITELJSKI OBRT\,VL. ARON HRŽIĆ\, BELI\, 
  BELI 6 – Koncesija na pomorskom dobru (CRES\, Otok Cres)\, 5.999 €/god
  .\n• DEZINSEKCIJA\, D. O. O. – Koncesija na pomorskom dobru (CRES\, Ot
- ok Cres)\, 265 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.ap
- p/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ ok Cres)\, 265 €/god.\n\nŠto ističe: https://concessum.vercel.app/#sat
+ \nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -64,8 +64,8 @@ DESCRIPTION:1. 1. 2028. ističe 2 ugovora o koncesiji. Novi postupak dodjel
  .\n\n• BELI UGOSTITELJSKI OBRT\,VL. ARON HRŽIĆ\, BELI\, BELI 6 – Kon
  cesija na pomorskom dobru (CRES\, Otok Cres)\, 5.999 €/god.\n• DEZINSE
  KCIJA\, D. O. O. – Koncesija na pomorskom dobru (CRES\, Otok Cres)\, 265
-  €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+  €/god.\n\nŠto ističe: https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -83,9 +83,9 @@ SUMMARY:Ističe koncesija: SPORT I REKREACIJA KOVAČINE J.D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 1. 6. 2028. Godišnja fiksna nakna
  da: 3.292 €.\n\n• SPORT I REKREACIJA KOVAČINE J.D.O.O. – Koncesija 
  na pomorskom dobru (CRES\, Otok Cres)\, 3.292 €/god.\n\nŠto ističe: ht
- tps://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, 
- obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ tps://concessum.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada
+  Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -103,9 +103,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (SPORT I REKREACI
 DESCRIPTION:1. 6. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• SPORT I REKREACIJA KOVAČINE J.D.O.O. – Koncesija na pomorskom d
- obru (CRES\, Otok Cres)\, 3.292 €/god.\n\nŠto ističe: https://koncesij
- ski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ obru (CRES\, Otok Cres)\, 3.292 €/god.\n\nŠto ističe: https://concessu
+ m.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -122,10 +122,9 @@ DTEND;VALUE=DATE:20310102
 SUMMARY:Ističe koncesija: CRESANKA D. D.
 DESCRIPTION:1 ugovor o koncesiji ističe 1. 1. 2031. Godišnja fiksna nakna
  da: 715 €.\n\n• CRESANKA D. D. – Koncesija na pomorskom dobru (CRES\
- , Otok Cres)\, 715 €/god.\n\nŠto ističe: https://koncesijski-sat.verce
- l.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 11. 202
- 6.
-URL:https://koncesijski-sat.vercel.app/#sat
+ , Otok Cres)\, 715 €/god.\n\nŠto ističe: https://concessum.vercel.app/
+ #sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -142,8 +141,8 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (CRESANKA D. D.)
 DESCRIPTION:1. 1. 2031. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• CRESANKA D. D. – Koncesija na pomorskom dobru (CRES\, Otok Cres)
- \, 715 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ \, 715 €/god.\n\nŠto ističe: https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -161,10 +160,9 @@ SUMMARY:Ističe koncesija: UGOSTITELJSKI OBRT MERAG\, VL. TONČI ZUBOVIĆ
 DESCRIPTION:1 ugovor o koncesiji ističe 1. 1. 2036. Godišnja fiksna nakna
  da: 9.888 €.\n\n• UGOSTITELJSKI OBRT MERAG\, VL. TONČI ZUBOVIĆ – K
  oncesija za obavljanje ugostiteljske djelatnosti na lučkom području (CRE
- S\, Otok Cres)\, 9.888 €/god.\n\nŠto ističe: https://koncesijski-sat.v
- ercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 11.
-  2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ S\, Otok Cres)\, 9.888 €/god.\n\nŠto ističe: https://concessum.vercel.
+ app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -184,8 +182,8 @@ DESCRIPTION:1. 1. 2036. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• UGOSTITELJSKI OBRT MERAG\, VL. TONČI ZUBOVIĆ – Koncesija za ob
  avljanje ugostiteljske djelatnosti na lučkom području (CRES\, Otok Cres)
- \, 9.888 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ \, 9.888 €/god.\n\nŠto ističe: https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -203,10 +201,9 @@ SUMMARY:Ističe koncesija: HRVATSKI OPERATOR PRIJENOSNOG SUSTAVA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 1. 1. 2040. Godišnja fiksna nakna
  da: 483 €.\n\n• HRVATSKI OPERATOR PRIJENOSNOG SUSTAVA D.O.O. – Konce
  sija pomorskog dobra za posebnu upotrebu u svrhu gradnje kabelske veze (CR
- ES\, Otok Cres)\, 483 €/god.\n\nŠto ističe: https://koncesijski-sat.ve
- rcel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 11. 
- 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ ES\, Otok Cres)\, 483 €/god.\n\nŠto ističe: https://concessum.vercel.a
+ pp/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -225,9 +222,8 @@ DESCRIPTION:1. 1. 2040. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• HRVATSKI OPERATOR PRIJENOSNOG SUSTAVA D.O.O. – Koncesija pomorsk
  og dobra za posebnu upotrebu u svrhu gradnje kabelske veze (CRES\, Otok Cr
- es)\, 483 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sa
- t
-URL:https://koncesijski-sat.vercel.app/#sat
+ es)\, 483 €/god.\n\nŠto ističe: https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY

@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · OPĆINA DARDA
 X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje OPĆINA DARDA. Iz Registra
   koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podataka
- . https://koncesijski-sat.vercel.app/#sat
+ . https://concessum.vercel.app/#sat
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
@@ -19,9 +19,9 @@ SUMMARY:Ističe koncesija: FLORIJAN DIMNJAČARSKE USLUGE
 DESCRIPTION:1 ugovor o koncesiji ističe 7. 1. 2027. Godišnja fiksna nakna
  da: 1.460 €.\n\n• FLORIJAN DIMNJAČARSKE USLUGE – Koncesija za obavl
  janje dimnjačarskih poslova (DARDA\, Općina Darda)\, 1.460 €/god.\n\n
- Što ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar kon
- cesija (FINA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ Što ističe: https://concessum.vercel.app/#sat\nIzvor: Registar koncesija
+  (FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -38,9 +38,9 @@ SUMMARY:Ističe koncesija: PARANGAL  D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 7. 3. 2027. Godišnja fiksna nakna
  da: 664 €.\n\n• PARANGAL  D.O.O. – Koncesija za obavljanje poslova n
  a održavanju javne rasvjete (DARDA\, Općina Darda)\, 664 €/god.\n\nŠt
- o ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar konces
- ija (FINA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ o ističe: https://concessum.vercel.app/#sat\nIzvor: Registar koncesija (F
+ INA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -57,9 +57,9 @@ SUMMARY:Ističe koncesija: BELJE PLUS D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 22. 8. 2036. Godišnja fiksna nakn
  ada: 138.911 €.\n\n• BELJE PLUS D.O.O. – Koncesija za korištenje po
  ljoprivrednog zemljišta u vlasništvu države (DARDA\, Općina Darda)\, 1
- 38.911 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\n
- Izvor: Registar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ 38.911 €/god.\n\nŠto ističe: https://concessum.vercel.app/#sat\nIzvor:
+  Registar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -78,8 +78,8 @@ DESCRIPTION:22. 8. 2036. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• BELJE PLUS D.O.O. – Koncesija za korištenje poljoprivrednog ze
  mljišta u vlasništvu države (DARDA\, Općina Darda)\, 138.911 €/god.\
- n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ n\nŠto ističe: https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY

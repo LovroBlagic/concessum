@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · LUČKA UPRAVA OSIJEK
 X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje LUČKA UPRAVA OSIJEK. Iz R
  egistra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade p
- odataka. https://koncesijski-sat.vercel.app/#sat
+ odataka. https://concessum.vercel.app/#sat
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
@@ -20,9 +20,9 @@ DESCRIPTION:2 ugovora o koncesiji ističe 31. 5. 2036. Godišnja fiksna nak
  nada: 15.093 €.\n\n• LUKA TRANZIT OSIJEK D.O.O. – Koncesija za luku 
  (OSIJEK\, Grad Osijek)\, 15.000 €/god.\n• LUKA TRANZIT OSIJEK D.O.O. 
  – Koncesija za luku (OSIJEK\, Grad Osijek)\, 93 €/god.\n\nŠto ističe
- : https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA
- )\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ : https://concessum.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, ob
+ rada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -41,9 +41,9 @@ DESCRIPTION:31. 5. 2036. ističe 2 ugovora o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• LUKA TRANZIT OSIJEK D.O.O. – Koncesija za luku (OSIJEK\, Grad 
  Osijek)\, 15.000 €/god.\n• LUKA TRANZIT OSIJEK D.O.O. – Koncesija za
-  luku (OSIJEK\, Grad Osijek)\, 93 €/god.\n\nŠto ističe: https://konces
- ijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+  luku (OSIJEK\, Grad Osijek)\, 93 €/god.\n\nŠto ističe: https://conces
+ sum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY

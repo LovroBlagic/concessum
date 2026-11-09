@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · POŽEŠKO-SLAVONSKA ŽUPANIJA
 X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje POŽEŠKO-SLAVONSKA ŽUPAN
  IJA. Iz Registra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake
-  obrade podataka. https://koncesijski-sat.vercel.app/#sat
+  obrade podataka. https://concessum.vercel.app/#sat
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
@@ -20,9 +20,9 @@ DESCRIPTION:1 ugovor o koncesiji ističe 12. 6. 2038. Godišnja fiksna nakn
  ada: 1.327 €.\n\n• HEP - PLIN  D.O.O. – Koncesija za izgradnju distr
  ibucijskog sustava plinovoda i pružanje usluga distribucijskim sustavom (
  KAPTOL\, VELIKA\, VELIKA\, Općina Kaptol)\, 1.327 €/god.\n\nŠto istič
- e: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FIN
- A)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ e: https://concessum.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, o
+ brada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -41,9 +41,9 @@ DESCRIPTION:12. 6. 2038. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• HEP - PLIN  D.O.O. – Koncesija za izgradnju distribucijskog sus
  tava plinovoda i pružanje usluga distribucijskim sustavom (KAPTOL\, VELIK
- A\, VELIKA\, Općina Kaptol)\, 1.327 €/god.\n\nŠto ističe: https://kon
- cesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ A\, VELIKA\, Općina Kaptol)\, 1.327 €/god.\n\nŠto ističe: https://con
+ cessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY

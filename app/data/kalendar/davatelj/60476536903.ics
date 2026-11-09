@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · OPĆINA STRAHONINEC
 X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje OPĆINA STRAHONINEC. Iz Re
  gistra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade po
- dataka. https://koncesijski-sat.vercel.app/#sat
+ dataka. https://concessum.vercel.app/#sat
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
@@ -19,9 +19,9 @@ SUMMARY:Ističe koncesija: DIMNJAČARSKI OBRT IVAN ZVER\, ČAKOVEC
 DESCRIPTION:1 ugovor o koncesiji ističe 26. 10. 2043. Godišnja fiksna nak
  nada: 2.004 €.\n\n• DIMNJAČARSKI OBRT IVAN ZVER\, ČAKOVEC – Konces
  ija za obavljanje dimnjačarskih poslova (STRAHONINEC\, Općina Strahonine
- c)\, 2.004 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#s
- at\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ c)\, 2.004 €/god.\n\nŠto ističe: https://concessum.vercel.app/#sat\nIz
+ vor: Registar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -40,8 +40,8 @@ DESCRIPTION:26. 10. 2043. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• DIMNJAČARSKI OBRT IVAN ZVER\, ČAKOVEC – Koncesija za obavlja
  nje dimnjačarskih poslova (STRAHONINEC\, Općina Strahoninec)\, 2.004 €
- /god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ /god.\n\nŠto ističe: https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY

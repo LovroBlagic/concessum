@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · KRAPINSKO-ZAGORSKA ŽUPANIJA
 X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje KRAPINSKO-ZAGORSKA ŽUPANI
  JA. Iz Registra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake 
- obrade podataka. https://koncesijski-sat.vercel.app/#sat
+ obrade podataka. https://concessum.vercel.app/#sat
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
@@ -20,10 +20,10 @@ SUMMARY:Ističe koncesija: IVANA GOSPODARIĆ - ZAJEDNIČKI OBRT: UGOSTITELJ
 DESCRIPTION:1 ugovor o koncesiji ističe 11. 11. 2034. Godišnja fiksna nak
  nada: 27 €.\n\n• IVANA GOSPODARIĆ - ZAJEDNIČKI OBRT: UGOSTITELJSTVO 
  I TRGOVINA – Koncesija na vodama i javnom vodnom dobru (STUBIČKE TOPLIC
- E\, Općina Stubičke Toplice)\, 27 €/god.\n\nŠto ističe: https://konc
- esijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Con
- cessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ E\, Općina Stubičke Toplice)\, 27 €/god.\n\nŠto ističe: https://conc
+ essum.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum
+  9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -43,9 +43,9 @@ DESCRIPTION:11. 11. 2034. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• IVANA GOSPODARIĆ - ZAJEDNIČKI OBRT: UGOSTITELJSTVO I TRGOVINA 
  – Koncesija na vodama i javnom vodnom dobru (STUBIČKE TOPLICE\, Općina
-  Stubičke Toplice)\, 27 €/god.\n\nŠto ističe: https://koncesijski-sat
- .vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+  Stubičke Toplice)\, 27 €/god.\n\nŠto ističe: https://concessum.verce
+ l.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY

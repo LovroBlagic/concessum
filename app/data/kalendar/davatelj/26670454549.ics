@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · OPĆINA MARUŠEVEC
 X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje OPĆINA MARUŠEVEC. Iz Reg
  istra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade pod
- ataka. https://koncesijski-sat.vercel.app/#sat
+ ataka. https://concessum.vercel.app/#sat
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
@@ -19,9 +19,9 @@ SUMMARY:Ističe koncesija: DIMAX D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 28. 9. 2030. Godišnja fiksna nakn
  ada: 810 €.\n\n• DIMAX D.O.O. – Koncesija za obavljanje dimnjačarsk
  ih poslova (MARUŠEVEC\, Općina Maruševec)\, 810 €/god.\n\nŠto istič
- e: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FIN
- A)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ e: https://concessum.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, o
+ brada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -38,9 +38,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DIMAX D.O.O.)
 DESCRIPTION:28. 9. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• DIMAX D.O.O. – Koncesija za obavljanje dimnjačarskih poslova (
- MARUŠEVEC\, Općina Maruševec)\, 810 €/god.\n\nŠto ističe: https://k
- oncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ MARUŠEVEC\, Općina Maruševec)\, 810 €/god.\n\nŠto ističe: https://c
+ oncessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY

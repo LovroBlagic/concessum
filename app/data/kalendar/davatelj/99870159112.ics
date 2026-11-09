@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · GRAD ORAHOVICA
 X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje GRAD ORAHOVICA. Iz Registr
  a koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podatak
- a. https://koncesijski-sat.vercel.app/#sat
+ a. https://concessum.vercel.app/#sat
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
@@ -19,10 +19,10 @@ SUMMARY:Ističe koncesija: POLJOPRIVREDNO PODUZEĆE ORAHOVICA D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 15. 10. 2038. Godišnja fiksna nak
  nada: 21.579 €.\n\n• POLJOPRIVREDNO PODUZEĆE ORAHOVICA D.D. – Konce
  sija za korištenje poljoprivrednog zemljišta u vlasništvu države (ORAH
- OVICA\, Grad Orahovica)\, 21.579 €/god.\n\nŠto ističe: https://koncesi
- jski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Conces
- sum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ OVICA\, Grad Orahovica)\, 21.579 €/god.\n\nŠto ističe: https://concess
+ um.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9.
+  11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -41,9 +41,9 @@ DESCRIPTION:15. 10. 2038. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• POLJOPRIVREDNO PODUZEĆE ORAHOVICA D.D. – Koncesija za korišt
  enje poljoprivrednog zemljišta u vlasništvu države (ORAHOVICA\, Grad Or
- ahovica)\, 21.579 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel
- .app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ ahovica)\, 21.579 €/god.\n\nŠto ističe: https://concessum.vercel.app/#
+ sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -61,10 +61,10 @@ SUMMARY:Ističe koncesija: POLJOPRIVREDNO PODUZEĆE ORAHOVICA D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 1. 9. 2048. Godišnja fiksna nakna
  da: 5.592 €.\n\n• POLJOPRIVREDNO PODUZEĆE ORAHOVICA D.D. – Koncesij
  a za korištenje poljoprivrednog zemljišta u vlasništvu države (ORAHOVI
- CA\, Grad Orahovica)\, 5.592 €/god.\n\nŠto ističe: https://koncesijski
- -sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 
- 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ CA\, Grad Orahovica)\, 5.592 €/god.\n\nŠto ističe: https://concessum.v
+ ercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 11.
+  2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -83,9 +83,8 @@ DESCRIPTION:1. 9. 2048. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• POLJOPRIVREDNO PODUZEĆE ORAHOVICA D.D. – Koncesija za korišten
  je poljoprivrednog zemljišta u vlasništvu države (ORAHOVICA\, Grad Orah
- ovica)\, 5.592 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.ap
- p/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ ovica)\, 5.592 €/god.\n\nŠto ističe: https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY

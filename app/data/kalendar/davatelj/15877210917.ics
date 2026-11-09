@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · VARAŽDINSKA ŽUPANIJA
 X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje VARAŽDINSKA ŽUPANIJA. Iz
   Registra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade
-  podataka. https://koncesijski-sat.vercel.app/#sat
+  podataka. https://concessum.vercel.app/#sat
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
@@ -19,9 +19,9 @@ SUMMARY:Ističe koncesija: TERMOPLIN D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 24. 2. 2039. Godišnja fiksna nakn
  ada: 1.327 €.\n\n• TERMOPLIN D.D. – Koncesija za obavljanje distribu
  cije plina na postojećem distribucijskom sustavu (VARAŽDINSKA ŽUPANIJA)
- \, 1.327 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
- \nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ \, 1.327 €/god.\n\nŠto ističe: https://concessum.vercel.app/#sat\nIzvo
+ r: Registar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -39,8 +39,8 @@ DESCRIPTION:24. 2. 2039. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• TERMOPLIN D.D. – Koncesija za obavljanje distribucije plina na 
  postojećem distribucijskom sustavu (VARAŽDINSKA ŽUPANIJA)\, 1.327 €/g
- od.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ od.\n\nŠto ističe: https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -58,10 +58,10 @@ SUMMARY:Ističe koncesija: TERMOPLIN D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 15. 5. 2039. Godišnja fiksna nakn
  ada: 1.327 €.\n\n• TERMOPLIN D.D. – Koncesija za obavljanje distribu
  cije plina na postojećem distribucijskom sustavu (BREZNICA\, VISOKO\, VIS
- OKO\, Općina Breznica)\, 1.327 €/god.\n\nŠto ističe: https://koncesij
- ski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concess
- um 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ OKO\, Općina Breznica)\, 1.327 €/god.\n\nŠto ističe: https://concessu
+ m.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 
+ 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -79,9 +79,9 @@ DESCRIPTION:15. 5. 2039. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• TERMOPLIN D.D. – Koncesija za obavljanje distribucije plina na 
  postojećem distribucijskom sustavu (BREZNICA\, VISOKO\, VISOKO\, Općina 
- Breznica)\, 1.327 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel
- .app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ Breznica)\, 1.327 €/god.\n\nŠto ističe: https://concessum.vercel.app/#
+ sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -102,9 +102,9 @@ DESCRIPTION:2 ugovora o koncesiji ističe 21. 9. 2039. Godišnja fiksna nak
  , KLENOVNIK\, NOVI MAROF\, NOVI MAROF\, Grad Ivanec)\, 1.327 €/god.\n•
   IVKOM PLIN D.O.O. – Koncesija za izgradnju distribucijskog sustava plin
  ovoda i pružanje usluga distribucijskim sustavom (DONJA VOĆA\, Općina D
- onja Voća)\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzvo
- r: Registar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ onja Voća)\n\nŠto ističe: https://concessum.vercel.app/#sat\nIzvor: Reg
+ istar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -126,8 +126,8 @@ DESCRIPTION:21. 9. 2039. ističe 2 ugovora o koncesiji. Novi postupak dodje
  NOVI MAROF\, NOVI MAROF\, Grad Ivanec)\, 1.327 €/god.\n• IVKOM PLIN D.
  O.O. – Koncesija za izgradnju distribucijskog sustava plinovoda i pruža
  nje usluga distribucijskim sustavom (DONJA VOĆA\, Općina Donja Voća)\n\
- nŠto ističe: https://koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ nŠto ističe: https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY

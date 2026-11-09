@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · GRAD NIN
 X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje GRAD NIN. Iz Registra konc
  esija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podataka. htt
- ps://koncesijski-sat.vercel.app/#sat
+ ps://concessum.vercel.app/#sat
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
@@ -19,9 +19,9 @@ SUMMARY:Ističe koncesija: VIGENS D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 21. 8. 2037. Godišnja fiksna nakn
  ada: 31.853 €.\n\n• VIGENS D.O.O. – Koncesija za korištenje poljopr
  ivrednog zemljišta u vlasništvu države (NIN\, Grad Nin)\, 31.853 €/go
- d.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Regist
- ar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ d.\n\nŠto ističe: https://concessum.vercel.app/#sat\nIzvor: Registar kon
+ cesija (FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -39,8 +39,8 @@ DESCRIPTION:21. 8. 2037. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• VIGENS D.O.O. – Koncesija za korištenje poljoprivrednog zemlji
  šta u vlasništvu države (NIN\, Grad Nin)\, 31.853 €/god.\n\nŠto isti
- če: https://koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ če: https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY

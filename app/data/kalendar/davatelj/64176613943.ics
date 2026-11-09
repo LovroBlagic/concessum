@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · OPĆINA ČEPIN
 X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje OPĆINA ČEPIN. Iz Registr
  a koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podatak
- a. https://koncesijski-sat.vercel.app/#sat
+ a. https://concessum.vercel.app/#sat
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
@@ -21,9 +21,9 @@ DESCRIPTION:2 ugovora o koncesiji ističe 10. 7. 2036. Godišnja fiksna nak
  ljoprivrednog zemljišta u vlasništvu države (ČEPIN\, Općina Čepin)\,
   16.285 €/god.\n• NOVI AGRAR D.O.O. – Koncesija za korištenje poljo
  privrednog zemljišta u vlasništvu države (ČEPIN\, Općina Čepin)\, 16
- .285 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIz
- vor: Registar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ .285 €/god.\n\nŠto ističe: https://concessum.vercel.app/#sat\nIzvor: R
+ egistar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -43,8 +43,8 @@ DESCRIPTION:10. 7. 2036. ističe 2 ugovora o koncesiji. Novi postupak dodje
  emljišta u vlasništvu države (ČEPIN\, Općina Čepin)\, 16.285 €/god
  .\n• NOVI AGRAR D.O.O. – Koncesija za korištenje poljoprivrednog zeml
  jišta u vlasništvu države (ČEPIN\, Općina Čepin)\, 16.285 €/god.\n
- \nŠto ističe: https://koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ \nŠto ističe: https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY

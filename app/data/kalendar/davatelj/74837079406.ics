@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · OPĆINA CERNIK
 X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje OPĆINA CERNIK. Iz Registr
  a koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podatak
- a. https://koncesijski-sat.vercel.app/#sat
+ a. https://concessum.vercel.app/#sat
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
@@ -18,9 +18,9 @@ DTEND;VALUE=DATE:20270809
 SUMMARY:Ističe koncesija: DIM- ING\, VL. JOSIP BAKOVIĆ
 DESCRIPTION:1 ugovor o koncesiji ističe 8. 8. 2027.\n\n• DIM- ING\, VL. 
  JOSIP BAKOVIĆ – Koncesija za obavljanje dimnjačarskih poslova (CERNIK\
- , Općina Cernik)\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
- \nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ , Općina Cernik)\n\nŠto ističe: https://concessum.vercel.app/#sat\nIzvo
+ r: Registar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -38,9 +38,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DIM- ING\, VL. J
 DESCRIPTION:8. 8. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• DIM- ING\, VL. JOSIP BAKOVIĆ – Koncesija za obavljanje dimnjač
- arskih poslova (CERNIK\, Općina Cernik)\n\nŠto ističe: https://koncesij
- ski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ arskih poslova (CERNIK\, Općina Cernik)\n\nŠto ističe: https://concessu
+ m.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -57,9 +57,9 @@ DTEND;VALUE=DATE:20350101
 SUMMARY:Ističe koncesija: PLIN-PROJEKT D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 31. 12. 2034.\n\n• PLIN-PROJEKT 
  D.O.O. – Koncesija za opskrbu potrošača prirodnim plinom (CERNIK\, Op
- ćina Cernik)\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIz
- vor: Registar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ ćina Cernik)\n\nŠto ističe: https://concessum.vercel.app/#sat\nIzvor: R
+ egistar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -77,9 +77,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PLIN-PROJEKT D.O
 DESCRIPTION:31. 12. 2034. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• PLIN-PROJEKT D.O.O. – Koncesija za opskrbu potrošača prirodn
- im plinom (CERNIK\, Općina Cernik)\n\nŠto ističe: https://koncesijski-s
- at.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ im plinom (CERNIK\, Općina Cernik)\n\nŠto ističe: https://concessum.ver
+ cel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY

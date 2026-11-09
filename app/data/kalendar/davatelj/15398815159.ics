@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · OPĆINA TRPINJA
 X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje OPĆINA TRPINJA. Iz Regist
  ra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podata
- ka. https://koncesijski-sat.vercel.app/#sat
+ ka. https://concessum.vercel.app/#sat
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
@@ -19,9 +19,9 @@ SUMMARY:Ističe koncesija: HEP PLIN D.O.O. OSIJEK
 DESCRIPTION:1 ugovor o koncesiji ističe 20. 4. 2031.\n\n• HEP PLIN D.O.O
  . OSIJEK – Koncesija za obavljanje distribucije plina na postojećem dis
  tribucijskom sustavu (TRPINJA\, Općina Trpinja)\n\nŠto ističe: https://
- koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada
-  Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ concessum.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Conce
+ ssum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -40,8 +40,8 @@ DESCRIPTION:20. 4. 2031. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• HEP PLIN D.O.O. OSIJEK – Koncesija za obavljanje distribucije p
  lina na postojećem distribucijskom sustavu (TRPINJA\, Općina Trpinja)\n\
- nŠto ističe: https://koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ nŠto ističe: https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY

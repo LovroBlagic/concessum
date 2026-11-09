@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · SISAČKO-MOSLAVAČKA ŽUPANIJA
 X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje SISAČKO-MOSLAVAČKA ŽUPA
  NIJA. Iz Registra koncesija (FINA\, data.gov.hr). Osvježava se nakon svak
- e obrade podataka. https://koncesijski-sat.vercel.app/#sat
+ e obrade podataka. https://concessum.vercel.app/#sat
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
@@ -19,10 +19,9 @@ SUMMARY:Ističe koncesija: PLIN-PROJEKT D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 2. 1. 2038. Godišnja fiksna nakna
  da: 1.327 €.\n\n• PLIN-PROJEKT D.O.O. – Koncesija za obavljanje dist
  ribucije plina na postojećem distribucijskom sustavu (JASENOVAC\, Općina
-  Jasenovac)\, 1.327 €/god.\n\nŠto ističe: https://koncesijski-sat.verc
- el.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 11. 20
- 26.
-URL:https://koncesijski-sat.vercel.app/#sat
+  Jasenovac)\, 1.327 €/god.\n\nŠto ističe: https://concessum.vercel.app
+ /#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -41,8 +40,8 @@ DESCRIPTION:2. 1. 2038. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• PLIN-PROJEKT D.O.O. – Koncesija za obavljanje distribucije plina
   na postojećem distribucijskom sustavu (JASENOVAC\, Općina Jasenovac)\, 
- 1.327 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ 1.327 €/god.\n\nŠto ističe: https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -61,9 +60,9 @@ DESCRIPTION:1 ugovor o koncesiji ističe 2. 3. 2039. Godišnja fiksna nakna
  da: 1.327 €.\n\n• MOSLAVINA PLIN D.O.O. – Koncesija za obavljanje di
  stribucije plina na postojećem distribucijskom sustavu (KUTINA\, POPOVAČ
  A\, POPOVAČA\, VELIKA LUDINA\, VELIKA LUDINA\, Grad Kutina)\, 1.327 €/g
- od.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Regis
- tar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ od.\n\nŠto ističe: https://concessum.vercel.app/#sat\nIzvor: Registar ko
+ ncesija (FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -83,8 +82,8 @@ DESCRIPTION:2. 3. 2039. ističe 1 ugovor o koncesiji. Novi postupak dodjele
  \n\n• MOSLAVINA PLIN D.O.O. – Koncesija za obavljanje distribucije pli
  na na postojećem distribucijskom sustavu (KUTINA\, POPOVAČA\, POPOVAČA\
  , VELIKA LUDINA\, VELIKA LUDINA\, Grad Kutina)\, 1.327 €/god.\n\nŠto is
- tiče: https://koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ tiče: https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY

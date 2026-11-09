@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · OPĆINA BUDINŠČINA
 X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje OPĆINA BUDINŠČINA. Iz R
  egistra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade p
- odataka. https://koncesijski-sat.vercel.app/#sat
+ odataka. https://concessum.vercel.app/#sat
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
@@ -19,10 +19,10 @@ SUMMARY:Ističe 2 koncesije · OPĆINA BUDINŠČINA
 DESCRIPTION:2 ugovora o koncesiji ističe 10. 4. 2030.\n\n• LEUŠTEK J.D.
  O.O. – Koncesija za obavljanje dimnjačarskih poslova (BUDINŠČINA\, Op
  ćina Budinšćina)\n• LEUŠTEK J.D.O.O. – Koncesija za obavljanje dim
- njačarskih poslova (\, Općina Budinšćina)\n\nŠto ističe: https://kon
- cesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Co
- ncessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ njačarskih poslova (\, Općina Budinšćina)\n\nŠto ističe: https://con
+ cessum.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessu
+ m 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -42,8 +42,8 @@ DESCRIPTION:10. 4. 2030. ističe 2 ugovora o koncesiji. Novi postupak dodje
  a.\n\n• LEUŠTEK J.D.O.O. – Koncesija za obavljanje dimnjačarskih pos
  lova (BUDINŠČINA\, Općina Budinšćina)\n• LEUŠTEK J.D.O.O. – Konc
  esija za obavljanje dimnjačarskih poslova (\, Općina Budinšćina)\n\nŠ
- to ističe: https://koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ to ističe: https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY

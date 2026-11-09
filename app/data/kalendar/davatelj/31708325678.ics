@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · GRAD BAKAR
 X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje GRAD BAKAR. Iz Registra ko
  ncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podataka. h
- ttps://koncesijski-sat.vercel.app/#sat
+ ttps://concessum.vercel.app/#sat
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
@@ -19,9 +19,9 @@ SUMMARY:Ističe koncesija: KD VODOVOD I KANALIZACIJA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 28. 2. 2041. Godišnja fiksna nakn
  ada: 614 €.\n\n• KD VODOVOD I KANALIZACIJA D.O.O. – Koncesija na pom
  orskom dobru (BAKAR\, Grad Bakar)\, 614 €/god.\n\nŠto ističe: https://
- koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada
-  Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ concessum.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Conce
+ ssum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -39,9 +39,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (KD VODOVOD I KAN
 DESCRIPTION:28. 2. 2041. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• KD VODOVOD I KANALIZACIJA D.O.O. – Koncesija na pomorskom dobru
-  (BAKAR\, Grad Bakar)\, 614 €/god.\n\nŠto ističe: https://koncesijski-
- sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+  (BAKAR\, Grad Bakar)\, 614 €/god.\n\nŠto ističe: https://concessum.ve
+ rcel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY

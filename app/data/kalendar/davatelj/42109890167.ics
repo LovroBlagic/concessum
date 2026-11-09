@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · OPĆINA SUNJA
 X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje OPĆINA SUNJA. Iz Registra
   koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podataka
- . https://koncesijski-sat.vercel.app/#sat
+ . https://concessum.vercel.app/#sat
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
@@ -19,9 +19,9 @@ SUMMARY:Ističe koncesija: POLJOPRIVREDNA ZADRUGA POSAVINA
 DESCRIPTION:1 ugovor o koncesiji ističe 15. 10. 2038. Godišnja fiksna nak
  nada: 927 €.\n\n• POLJOPRIVREDNA ZADRUGA POSAVINA – Koncesija za kor
  ištenje poljoprivrednog zemljišta u vlasništvu države (SUNJA\, Općina
-  Sunja)\, 927 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app
- /#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+  Sunja)\, 927 €/god.\n\nŠto ističe: https://concessum.vercel.app/#sat\
+ nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -40,8 +40,8 @@ DESCRIPTION:15. 10. 2038. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• POLJOPRIVREDNA ZADRUGA POSAVINA – Koncesija za korištenje pol
  joprivrednog zemljišta u vlasništvu države (SUNJA\, Općina Sunja)\, 92
- 7 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ 7 €/god.\n\nŠto ističe: https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY

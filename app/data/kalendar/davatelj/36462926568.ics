@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · OPĆINA MALINSKA-DUBAŠNICA
 X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje OPĆINA MALINSKA-DUBAŠNIC
  A. Iz Registra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake o
- brade podataka. https://koncesijski-sat.vercel.app/#sat
+ brade podataka. https://concessum.vercel.app/#sat
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
@@ -19,9 +19,9 @@ SUMMARY:Ističe koncesija: MLD-USLUGE D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 9. 5. 2028. Godišnja fiksna nakna
  da: 640 €.\n\n• MLD-USLUGE D.O.O. – Koncesija za obavljanje dimnjač
  arskih poslova (MALINSKA-DUBAŠNICA\, Otok Krk (Grad Krk i općine))\, 640
-  €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor:
-  Registar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+  €/god.\n\nŠto ističe: https://concessum.vercel.app/#sat\nIzvor: Regis
+ tar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -40,8 +40,8 @@ DESCRIPTION:9. 5. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• MLD-USLUGE D.O.O. – Koncesija za obavljanje dimnjačarskih poslo
  va (MALINSKA-DUBAŠNICA\, Otok Krk (Grad Krk i općine))\, 640 €/god.\n\
- nŠto ističe: https://koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ nŠto ističe: https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY

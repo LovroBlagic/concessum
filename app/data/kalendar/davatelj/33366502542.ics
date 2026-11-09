@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · GRAD SLUNJ
 X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje GRAD SLUNJ. Iz Registra ko
  ncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podataka. h
- ttps://koncesijski-sat.vercel.app/#sat
+ ttps://concessum.vercel.app/#sat
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
@@ -18,9 +18,9 @@ DTEND;VALUE=DATE:20270808
 SUMMARY:Ističe koncesija: ENERGON DIMNJAČARSKI OBRT
 DESCRIPTION:1 ugovor o koncesiji ističe 7. 8. 2027.\n\n• ENERGON DIMNJA
  ČARSKI OBRT – Koncesija za obavljanje dimnjačarskih poslova (SLUNJ\, G
- rad Slunj)\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor
- : Registar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ rad Slunj)\n\nŠto ističe: https://concessum.vercel.app/#sat\nIzvor: Regi
+ star koncesija (FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -38,9 +38,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ENERGON DIMNJAČ
 DESCRIPTION:7. 8. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• ENERGON DIMNJAČARSKI OBRT – Koncesija za obavljanje dimnjačars
- kih poslova (SLUNJ\, Grad Slunj)\n\nŠto ističe: https://koncesijski-sat.
- vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ kih poslova (SLUNJ\, Grad Slunj)\n\nŠto ističe: https://concessum.vercel
+ .app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY

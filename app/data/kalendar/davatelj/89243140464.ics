@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · OPĆINA DUBRAVICA
 X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje OPĆINA DUBRAVICA. Iz Regi
  stra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade poda
- taka. https://koncesijski-sat.vercel.app/#sat
+ taka. https://concessum.vercel.app/#sat
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
@@ -21,9 +21,9 @@ DESCRIPTION:2 ugovora o koncesiji ističe 15. 5. 2029. Godišnja fiksna nak
  oncesija za obavljanje dimnjačarskih poslova (DUBRAVICA\, Općina Dubravi
  ca)\, 410 €/god.\n• MARKO POGAČIĆ - DIMNJAČAR – Koncesija za obav
  ljanje dimnjačarskih poslova (DUBRAVICA\, Općina Dubravica)\, 410 €/go
- d.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Regist
- ar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ d.\n\nŠto ističe: https://concessum.vercel.app/#sat\nIzvor: Registar kon
+ cesija (FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -44,8 +44,8 @@ DESCRIPTION:15. 5. 2029. ističe 2 ugovora o koncesiji. Novi postupak dodje
  obavljanje dimnjačarskih poslova (DUBRAVICA\, Općina Dubravica)\, 410 
  €/god.\n• MARKO POGAČIĆ - DIMNJAČAR – Koncesija za obavljanje dim
  njačarskih poslova (DUBRAVICA\, Općina Dubravica)\, 410 €/god.\n\nŠto
-  ističe: https://koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+  ističe: https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY

@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · OPĆINA DONJI KUKURUZARI
 X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje OPĆINA DONJI KUKURUZARI. 
  Iz Registra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obra
- de podataka. https://koncesijski-sat.vercel.app/#sat
+ de podataka. https://concessum.vercel.app/#sat
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
@@ -19,10 +19,9 @@ SUMMARY:Ističe koncesija: KOMUNALAC PETRINJA D.O.O.- ODVOZ OTPADA
 DESCRIPTION:1 ugovor o koncesiji ističe 24. 11. 2030. Godišnja fiksna nak
  nada: 1.500 €.\n\n• KOMUNALAC PETRINJA D.O.O.- ODVOZ OTPADA – Konces
  ija skupljanja i odvoza komunalnog otpada (DONJI KUKURUZARI\, Općina Donj
- i Kukuruzari)\, 1.500 €/god.\n\nŠto ističe: https://koncesijski-sat.ve
- rcel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 11. 
- 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ i Kukuruzari)\, 1.500 €/god.\n\nŠto ističe: https://concessum.vercel.a
+ pp/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -41,8 +40,8 @@ DESCRIPTION:24. 11. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• KOMUNALAC PETRINJA D.O.O.- ODVOZ OTPADA – Koncesija skupljanja
   i odvoza komunalnog otpada (DONJI KUKURUZARI\, Općina Donji Kukuruzari)\
- , 1.500 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ , 1.500 €/god.\n\nŠto ističe: https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY

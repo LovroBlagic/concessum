@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · OPĆINA ERDUT
 X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje OPĆINA ERDUT. Iz Registra
   koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podataka
- . https://koncesijski-sat.vercel.app/#sat
+ . https://concessum.vercel.app/#sat
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
@@ -19,9 +19,9 @@ SUMMARY:Ističe koncesija: NOVI AGRAR D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 7. 7. 2036. Godišnja fiksna nakna
  da: 19.382 €.\n\n• NOVI AGRAR D.O.O. – Koncesija za korištenje polj
  oprivrednog zemljišta u vlasništvu države (ERDUT\, Općina Erdut)\, 19.
- 382 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzv
- or: Registar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ 382 €/god.\n\nŠto ističe: https://concessum.vercel.app/#sat\nIzvor: Re
+ gistar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -40,8 +40,8 @@ DESCRIPTION:7. 7. 2036. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• NOVI AGRAR D.O.O. – Koncesija za korištenje poljoprivrednog zem
  ljišta u vlasništvu države (ERDUT\, Općina Erdut)\, 19.382 €/god.\n\
- nŠto ističe: https://koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ nŠto ističe: https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -59,9 +59,9 @@ SUMMARY:Ističe koncesija: NOVI AGRAR D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 10. 7. 2036. Godišnja fiksna nakn
  ada: 155.717 €.\n\n• NOVI AGRAR D.O.O. – Koncesija za korištenje po
  ljoprivrednog zemljišta u vlasništvu države (ERDUT\, Općina Erdut)\, 1
- 55.717 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\n
- Izvor: Registar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ 55.717 €/god.\n\nŠto ističe: https://concessum.vercel.app/#sat\nIzvor:
+  Registar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -80,8 +80,8 @@ DESCRIPTION:10. 7. 2036. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• NOVI AGRAR D.O.O. – Koncesija za korištenje poljoprivrednog ze
  mljišta u vlasništvu države (ERDUT\, Općina Erdut)\, 155.717 €/god.\
- n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ n\nŠto ističe: https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -99,9 +99,9 @@ SUMMARY:Ističe koncesija: NOVI AGRAR D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 28. 1. 2039. Godišnja fiksna nakn
  ada: 5.779 €.\n\n• NOVI AGRAR D.O.O. – Koncesija za korištenje polj
  oprivrednog zemljišta u vlasništvu države (ERDUT\, Općina Erdut)\, 5.7
- 79 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzvo
- r: Registar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ 79 €/god.\n\nŠto ističe: https://concessum.vercel.app/#sat\nIzvor: Reg
+ istar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -120,8 +120,8 @@ DESCRIPTION:28. 1. 2039. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• NOVI AGRAR D.O.O. – Koncesija za korištenje poljoprivrednog ze
  mljišta u vlasništvu države (ERDUT\, Općina Erdut)\, 5.779 €/god.\n\
- nŠto ističe: https://koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ nŠto ističe: https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -145,10 +145,9 @@ DESCRIPTION:4 ugovora o koncesiji ističe 24. 2. 2046. Godišnja fiksna nak
  rištenje poljoprivrednog zemljišta u vlasništvu države (ERDUT\, Općin
  a Erdut)\, 4.643 €/god.\n• ERDUTSKI VINOGRADI D.O.O. – Koncesija za 
  korištenje poljoprivrednog zemljišta u vlasništvu države (ERDUT\, Opć
- ina Erdut)\, 4.643 €/god.\n\nŠto ističe: https://koncesijski-sat.verce
- l.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 11. 202
- 6.
-URL:https://koncesijski-sat.vercel.app/#sat
+ ina Erdut)\, 4.643 €/god.\n\nŠto ističe: https://concessum.vercel.app/
+ #sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -172,8 +171,8 @@ DESCRIPTION:24. 2. 2046. ističe 4 ugovora o koncesiji. Novi postupak dodje
  joprivrednog zemljišta u vlasništvu države (ERDUT\, Općina Erdut)\, 4.
  643 €/god.\n• ERDUTSKI VINOGRADI D.O.O. – Koncesija za korištenje p
  oljoprivrednog zemljišta u vlasništvu države (ERDUT\, Općina Erdut)\, 
- 4.643 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ 4.643 €/god.\n\nŠto ističe: https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY

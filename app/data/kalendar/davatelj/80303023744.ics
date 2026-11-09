@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · LUČKA UPRAVA SISAK
 X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje LUČKA UPRAVA SISAK. Iz Re
  gistra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade po
- dataka. https://koncesijski-sat.vercel.app/#sat
+ dataka. https://concessum.vercel.app/#sat
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
@@ -18,10 +18,10 @@ DTEND;VALUE=DATE:20281002
 SUMMARY:Ističe koncesija: BRODOCENTAR SISAK D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 1. 10. 2028. Godišnja fiksna nakn
  ada: 7.963 €.\n\n• BRODOCENTAR SISAK D.O.O. – Koncesija za luku (SIS
- AK\, Grad Sisak)\, 7.963 €/god.\n\nŠto ističe: https://koncesijski-sat
- .vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 1
- 1. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ AK\, Grad Sisak)\, 7.963 €/god.\n\nŠto ističe: https://concessum.verce
+ l.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 11. 202
+ 6.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -39,9 +39,8 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BRODOCENTAR SISA
 DESCRIPTION:1. 10. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• BRODOCENTAR SISAK D.O.O. – Koncesija za luku (SISAK\, Grad Sisa
- k)\, 7.963 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#s
- at
-URL:https://koncesijski-sat.vercel.app/#sat
+ k)\, 7.963 €/god.\n\nŠto ističe: https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY

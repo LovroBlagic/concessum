@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · GRAD SENJ
 X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje GRAD SENJ. Iz Registra kon
  cesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podataka. ht
- tps://koncesijski-sat.vercel.app/#sat
+ tps://concessum.vercel.app/#sat
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
@@ -18,9 +18,9 @@ DTEND;VALUE=DATE:20281006
 SUMMARY:Ističe koncesija: NOVI DIM D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 5. 10. 2028.\n\n• NOVI DIM D.O.O
  . – Koncesija za obavljanje dimnjačarskih poslova (SENJ\, Grad Senj)\n\
- nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar ko
- ncesija (FINA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ nŠto ističe: https://concessum.vercel.app/#sat\nIzvor: Registar koncesij
+ a (FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -37,9 +37,8 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (NOVI DIM D.O.O.)
 DESCRIPTION:5. 10. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• NOVI DIM D.O.O. – Koncesija za obavljanje dimnjačarskih poslov
- a (SENJ\, Grad Senj)\n\nŠto ističe: https://koncesijski-sat.vercel.app/#
- sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ a (SENJ\, Grad Senj)\n\nŠto ističe: https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY

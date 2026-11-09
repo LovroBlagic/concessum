@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · GRAD OROSLAVJE
 X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje GRAD OROSLAVJE. Iz Registr
  a koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podatak
- a. https://koncesijski-sat.vercel.app/#sat
+ a. https://concessum.vercel.app/#sat
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
@@ -18,9 +18,9 @@ DTEND;VALUE=DATE:20290701
 SUMMARY:Ističe koncesija: MULL-TRANS D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 30. 6. 2029.\n\n• MULL-TRANS D.O
  .O. – Koncesija za obavljanje komunalnih djelatnosti (OROSLAVJE\, Grad O
- roslavje)\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor:
-  Registar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ roslavje)\n\nŠto ističe: https://concessum.vercel.app/#sat\nIzvor: Regis
+ tar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -38,9 +38,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MULL-TRANS D.O.O
 DESCRIPTION:30. 6. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• MULL-TRANS D.O.O. – Koncesija za obavljanje komunalnih djelatno
- sti (OROSLAVJE\, Grad Oroslavje)\n\nŠto ističe: https://koncesijski-sat.
- vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ sti (OROSLAVJE\, Grad Oroslavje)\n\nŠto ističe: https://concessum.vercel
+ .app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -58,9 +58,9 @@ SUMMARY:Ističe koncesija: LEUŠTEK J.D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 30. 6. 2030. Godišnja fiksna nakn
  ada: 10.001 €.\n\n• LEUŠTEK J.D.O.O. – Koncesija za obavljanje dimn
  jačarskih poslova (OROSLAVJE\, Grad Oroslavje)\, 10.001 €/god.\n\nŠto 
- ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesij
- a (FINA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ ističe: https://concessum.vercel.app/#sat\nIzvor: Registar koncesija (FIN
+ A)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -79,8 +79,8 @@ DESCRIPTION:30. 6. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• LEUŠTEK J.D.O.O. – Koncesija za obavljanje dimnjačarskih posl
  ova (OROSLAVJE\, Grad Oroslavje)\, 10.001 €/god.\n\nŠto ističe: https:
- //koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ //concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY

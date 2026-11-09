@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · OPĆINA TAR-VABRIGA-TORRE-ABREGA
 X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje OPĆINA TAR-VABRIGA-TORRE-
  ABREGA. Iz Registra koncesija (FINA\, data.gov.hr). Osvježava se nakon sv
- ake obrade podataka. https://koncesijski-sat.vercel.app/#sat
+ ake obrade podataka. https://concessum.vercel.app/#sat
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
@@ -19,9 +19,9 @@ SUMMARY:Ističe koncesija: CAMINUS J.D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 31. 8. 2027. Godišnja fiksna nakn
  ada: 465 €.\n\n• CAMINUS J.D.O.O. – Koncesija za obavljanje dimnjač
  arskih poslova (\, Općina Tar-Vabriga)\, 465 €/god.\n\nŠto ističe: ht
- tps://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, 
- obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ tps://concessum.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada
+  Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -39,9 +39,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (CAMINUS J.D.O.O.
 DESCRIPTION:31. 8. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• CAMINUS J.D.O.O. – Koncesija za obavljanje dimnjačarskih poslo
- va (\, Općina Tar-Vabriga)\, 465 €/god.\n\nŠto ističe: https://konces
- ijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ va (\, Općina Tar-Vabriga)\, 465 €/god.\n\nŠto ističe: https://conces
+ sum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY

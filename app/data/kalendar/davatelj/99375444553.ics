@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · OPĆINA SLAVONSKI ŠAMAC
 X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje OPĆINA SLAVONSKI ŠAMAC. 
  Iz Registra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obra
- de podataka. https://koncesijski-sat.vercel.app/#sat
+ de podataka. https://concessum.vercel.app/#sat
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
@@ -18,10 +18,9 @@ DTEND;VALUE=DATE:20300526
 SUMMARY:Ističe koncesija: ITELYUM INTEGRA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 25. 5. 2030.\n\n• ITELYUM INTEGR
  A D.O.O. – Koncesija za obavljanje komunalnih djelatnosti (SLAVONSKI ŠA
- MAC\, Općina Slavonski Šamac)\n\nŠto ističe: https://koncesijski-sat.v
- ercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 11.
-  2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ MAC\, Općina Slavonski Šamac)\n\nŠto ističe: https://concessum.vercel.
+ app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -40,8 +39,8 @@ DESCRIPTION:25. 5. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• ITELYUM INTEGRA D.O.O. – Koncesija za obavljanje komunalnih dje
  latnosti (SLAVONSKI ŠAMAC\, Općina Slavonski Šamac)\n\nŠto ističe: ht
- tps://koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ tps://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY

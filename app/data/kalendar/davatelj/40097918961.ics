@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · OPĆINA BLATO
 X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje OPĆINA BLATO. Iz Registra
   koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podataka
- . https://koncesijski-sat.vercel.app/#sat
+ . https://concessum.vercel.app/#sat
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
@@ -19,10 +19,10 @@ SUMMARY:Ističe koncesija: VODOVOD D.O.O.ZA OBAV.KOM.DJELATNOSTI OPSK.PITKO
  M VODOM
 DESCRIPTION:1 ugovor o koncesiji ističe 21. 10. 2028. Godišnja fiksna nak
  nada: 213 €.\n\n• VODOVOD D.O.O.ZA OBAV.KOM.DJELATNOSTI OPSK.PITKOM VO
- DOM –  (BLATO\, Općina Blato)\, 213 €/god.\n\nŠto ističe: https://k
- oncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada 
- Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ DOM –  (BLATO\, Općina Blato)\, 213 €/god.\n\nŠto ističe: https://c
+ oncessum.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Conces
+ sum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -41,9 +41,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VODOVOD D.O.O.ZA
 DESCRIPTION:21. 10. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• VODOVOD D.O.O.ZA OBAV.KOM.DJELATNOSTI OPSK.PITKOM VODOM –  (BL
- ATO\, Općina Blato)\, 213 €/god.\n\nŠto ističe: https://koncesijski-s
- at.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ ATO\, Općina Blato)\, 213 €/god.\n\nŠto ističe: https://concessum.ver
+ cel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -60,9 +60,9 @@ DTEND;VALUE=DATE:20380123
 SUMMARY:Ističe koncesija: VODOVOD D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 22. 1. 2038.\n\n• VODOVOD D.O.O.
   – Koncesija na pomorskom dobru (BLATO\, Općina Blato)\n\nŠto ističe:
-  https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)
- \, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+  https://concessum.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obr
+ ada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -79,8 +79,8 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VODOVOD D.O.O.)
 DESCRIPTION:22. 1. 2038. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• VODOVOD D.O.O. – Koncesija na pomorskom dobru (BLATO\, Općina 
- Blato)\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ Blato)\n\nŠto ističe: https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -98,9 +98,9 @@ SUMMARY:Ističe 2 koncesije · OPĆINA BLATO
 DESCRIPTION:2 ugovora o koncesiji ističe 25. 10. 2039.\n\n• VODOVOD D.O.
  O. – Posebna upotreba pomorskog dobra (BLATO\, Općina Blato)\n• VODOV
  OD D.O.O.ZA OBAV.KOM.DJELATNOSTI OPSK.PITKOM VODOM –  (\, Općina Blato)
- \n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar
-  koncesija (FINA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ \n\nŠto ističe: https://concessum.vercel.app/#sat\nIzvor: Registar konce
+ sija (FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -118,9 +118,8 @@ DESCRIPTION:25. 10. 2039. ističe 2 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• VODOVOD D.O.O. – Posebna upotreba pomorskog dobra (BLATO\, Op
  ćina Blato)\n• VODOVOD D.O.O.ZA OBAV.KOM.DJELATNOSTI OPSK.PITKOM VODOM 
- –  (\, Općina Blato)\n\nŠto ističe: https://koncesijski-sat.vercel.ap
- p/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ –  (\, Općina Blato)\n\nŠto ističe: https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY

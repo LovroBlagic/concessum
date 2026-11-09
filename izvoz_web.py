@@ -546,7 +546,7 @@ with open(os.path.join(OUT, "koncesije.csv"), "w", encoding="utf-8-sig", newline
 import calendar, shutil
 from collections import Counter
 from datetime import datetime, timezone
-WEB = "https://koncesijski-sat.vercel.app"
+WEB = "https://concessum.vercel.app"
 KAL = os.path.join(OUT, "kalendar")
 shutil.rmtree(KAL, ignore_errors=True); os.makedirs(KAL)
 DANAS = date.today()

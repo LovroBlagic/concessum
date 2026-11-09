@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · OPĆINA  BUKOVLJE
 X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje OPĆINA  BUKOVLJE. Iz Regi
  stra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade poda
- taka. https://koncesijski-sat.vercel.app/#sat
+ taka. https://concessum.vercel.app/#sat
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
@@ -19,10 +19,10 @@ SUMMARY:Ističe koncesija: ITELYUM INTEGRA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 25. 5. 2030.\n\n• ITELYUM INTEGR
  A D.O.O. – Koncesija skupljanja i odvoza komunalnog otpada (BUKOVLJE\, D
  ONJI ANDRIJEVCI\, GORNJA VRBA\, GUNDINCI\, KLAKAR\, PODCRKAVLJE\, SIKIREVC
- I\, SLAVONSKI ŠAMAC\, Općina Bukovlje)\n\nŠto ističe: https://koncesij
- ski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concess
- um 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ I\, SLAVONSKI ŠAMAC\, Općina Bukovlje)\n\nŠto ističe: https://concessu
+ m.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 
+ 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -42,8 +42,8 @@ DESCRIPTION:25. 5. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  .\n\n• ITELYUM INTEGRA D.O.O. – Koncesija skupljanja i odvoza komunaln
  og otpada (BUKOVLJE\, DONJI ANDRIJEVCI\, GORNJA VRBA\, GUNDINCI\, KLAKAR\,
   PODCRKAVLJE\, SIKIREVCI\, SLAVONSKI ŠAMAC\, Općina Bukovlje)\n\nŠto is
- tiče: https://koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ tiče: https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY

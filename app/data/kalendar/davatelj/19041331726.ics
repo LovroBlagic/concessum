@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · GRAD LABIN
 X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje GRAD LABIN. Iz Registra ko
  ncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podataka. h
- ttps://koncesijski-sat.vercel.app/#sat
+ ttps://concessum.vercel.app/#sat
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
@@ -20,10 +20,9 @@ SUMMARY:Ističe koncesija: KOVAČIĆ\, OBRT ZA DIMNJAČARSKE USLUGE\, VL.KR
 DESCRIPTION:1 ugovor o koncesiji ističe 3. 2. 2028. Godišnja fiksna nakna
  da: 6.810 €.\n\n• KOVAČIĆ\, OBRT ZA DIMNJAČARSKE USLUGE\, VL.KREŠI
  MIR KOVAČIĆ – Koncesija za obavljanje dimnjačarskih poslova (LABIN\, 
- Grad Labin)\, 6.810 €/god.\n\nŠto ističe: https://koncesijski-sat.verc
- el.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 11. 20
- 26.
-URL:https://koncesijski-sat.vercel.app/#sat
+ Grad Labin)\, 6.810 €/god.\n\nŠto ističe: https://concessum.vercel.app
+ /#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -43,8 +42,8 @@ DESCRIPTION:3. 2. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• KOVAČIĆ\, OBRT ZA DIMNJAČARSKE USLUGE\, VL.KREŠIMIR KOVAČIĆ 
  – Koncesija za obavljanje dimnjačarskih poslova (LABIN\, Grad Labin)\, 
- 6.810 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ 6.810 €/god.\n\nŠto ističe: https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY

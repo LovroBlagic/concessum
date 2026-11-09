@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · LUČKA UPRAVA RIJEKA
 X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje LUČKA UPRAVA RIJEKA. Iz R
  egistra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade p
- odataka. https://koncesijski-sat.vercel.app/#sat
+ odataka. https://concessum.vercel.app/#sat
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
@@ -19,9 +19,9 @@ SUMMARY:Ističe koncesija: PROMOCIJA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 31. 12. 2026. Godišnja fiksna nak
  nada: 1.400 €.\n\n• PROMOCIJA D.O.O. – Koncesija na pomorskom dobru 
  (BAKAR\, RAŠA\, RAŠA\, RIJEKA\, RIJEKA\, Grad Bakar)\, 1.400 €/god.\n\
- nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar ko
- ncesija (FINA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ nŠto ističe: https://concessum.vercel.app/#sat\nIzvor: Registar koncesij
+ a (FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -38,9 +38,9 @@ SUMMARY:Ističe koncesija: MATIĆ D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 24. 2. 2027. Godišnja fiksna nakn
  ada: 500 €.\n\n• MATIĆ D.O.O. – Koncesija na pomorskom dobru (BAKAR
  \, RAŠA\, RAŠA\, RIJEKA\, RIJEKA\, Grad Bakar)\, 500 €/god.\n\nŠto is
- tiče: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija 
- (FINA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ tiče: https://concessum.vercel.app/#sat\nIzvor: Registar koncesija (FINA)
+ \, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -82,9 +82,9 @@ DESCRIPTION:19 ugovora o koncesiji ističe 7. 4. 2027. Godišnja fiksna nak
  ka)\, 265 €/god.\n• ALIANCA D.O.O. – Koncesija na pomorskom dobru (R
  IJEKA\, Grad Rijeka)\, 264 €/god.\n• C. STEINWEG - TPG D. O. O. – Ko
  ncesija na pomorskom dobru (RIJEKA\, Grad Rijeka)\, 264 €/god.\n\nŠto i
- stiče: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija
-  (FINA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ stiče: https://concessum.vercel.app/#sat\nIzvor: Registar koncesija (FINA
+ )\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -116,9 +116,9 @@ DESCRIPTION:12 ugovora o koncesiji ističe 8. 4. 2027. Godišnja fiksna nak
   €/god.\n• EURO STAR  D.O.O. – Koncesija na pomorskom dobru (RIJEKA\
  , Grad Rijeka)\, 265 €/god.\n• CARGO-PARTNER D.O.O. – Koncesija na p
  omorskom dobru (RIJEKA\, Grad Rijeka)\, 265 €/god.\n\nŠto ističe: http
- s://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, ob
- rada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ s://concessum.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada C
+ oncessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -172,9 +172,9 @@ DESCRIPTION:25 ugovora o koncesiji ističe 9. 4. 2027. Godišnja fiksna nak
  S ZAGREB\, DRUŠTVO S OGRANIČENOM ODGOVORNOŠĆU – Koncesija na pomorsk
  om dobru (RIJEKA\, Grad Rijeka)\, 265 €/god.\n• SCHENKER D.O.O. – Ko
  ncesija na pomorskom dobru (RIJEKA\, Grad Rijeka)\, 265 €/god.\n\nŠto i
- stiče: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija
-  (FINA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ stiče: https://concessum.vercel.app/#sat\nIzvor: Registar koncesija (FINA
+ )\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -200,10 +200,10 @@ DESCRIPTION:7 ugovora o koncesiji ističe 10. 4. 2027. Godišnja fiksna nak
  d.\n• PRIMACOŠPED D.O.O. – Koncesija na pomorskom dobru (RIJEKA\, Gra
  d Rijeka)\, 265 €/god.\n• GEMINI ADRIATIC  DRUŠTVO S OGRANIČENOM ODG
  OVORNOŠĆU ZA ŠPEDITERSKE USLUGE I TRGOVINU – Koncesija na pomorskom d
- obru (RIJEKA\, Grad Rijeka)\, 265 €/god.\n\nŠto ističe: https://konces
- ijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Conce
- ssum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ obru (RIJEKA\, Grad Rijeka)\, 265 €/god.\n\nŠto ističe: https://conces
+ sum.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9
+ . 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -219,10 +219,10 @@ DTEND;VALUE=DATE:20270412
 SUMMARY:Ističe koncesija: TRANSFER  D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 11. 4. 2027. Godišnja fiksna nakn
  ada: 265 €.\n\n• TRANSFER  D.O.O. – Koncesija na pomorskom dobru (RI
- JEKA\, Grad Rijeka)\, 265 €/god.\n\nŠto ističe: https://koncesijski-sa
- t.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 
- 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ JEKA\, Grad Rijeka)\, 265 €/god.\n\nŠto ističe: https://concessum.verc
+ el.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 11. 20
+ 26.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -239,10 +239,10 @@ SUMMARY:Ističe 2 koncesije · LUČKA UPRAVA RIJEKA
 DESCRIPTION:2 ugovora o koncesiji ističe 14. 4. 2027. Godišnja fiksna nak
  nada: 530 €.\n\n• SOLO D. O. O. – Koncesija na pomorskom dobru (RIJE
  KA\, Grad Rijeka)\, 265 €/god.\n• GARMA D.O.O. – Koncesija na pomors
- kom dobru (RIJEKA\, Grad Rijeka)\, 265 €/god.\n\nŠto ističe: https://k
- oncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada 
- Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ kom dobru (RIJEKA\, Grad Rijeka)\, 265 €/god.\n\nŠto ističe: https://c
+ oncessum.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Conces
+ sum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -260,9 +260,9 @@ DESCRIPTION:2 ugovora o koncesiji ističe 15. 4. 2027. Godišnja fiksna nak
  nada: 565 €.\n\n• TRANSJUG D.O.O. – Koncesija na pomorskom dobru (RI
  JEKA\, Grad Rijeka)\, 300 €/god.\n• ITERAFIC D. O. O. – Koncesija na
   pomorskom dobru (RIJEKA\, Grad Rijeka)\, 265 €/god.\n\nŠto ističe: ht
- tps://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, 
- obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ tps://concessum.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada
+  Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -278,10 +278,10 @@ DTEND;VALUE=DATE:20270418
 SUMMARY:Ističe koncesija: ADRIATIC LOGISTIKA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 17. 4. 2027. Godišnja fiksna nakn
  ada: 265 €.\n\n• ADRIATIC LOGISTIKA D.O.O. – Koncesija na pomorskom 
- dobru (RIJEKA\, Grad Rijeka)\, 265 €/god.\n\nŠto ističe: https://konce
- sijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Conc
- essum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ dobru (RIJEKA\, Grad Rijeka)\, 265 €/god.\n\nŠto ističe: https://conce
+ ssum.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 
+ 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -298,9 +298,9 @@ SUMMARY:Ističe koncesija: CARGOINSPECT D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 2. 8. 2027. Godišnja fiksna nakna
  da: 500 €.\n\n• CARGOINSPECT D.O.O. – Koncesija na pomorskom dobru (
  BAKAR\, RAŠA\, RAŠA\, RIJEKA\, RIJEKA\, Grad Bakar)\, 500 €/god.\n\nŠ
- to ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar konce
- sija (FINA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ to ističe: https://concessum.vercel.app/#sat\nIzvor: Registar koncesija (
+ FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -319,8 +319,8 @@ DESCRIPTION:2. 8. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• CARGOINSPECT D.O.O. – Koncesija na pomorskom dobru (BAKAR\, RAŠ
  A\, RAŠA\, RIJEKA\, RIJEKA\, Grad Bakar)\, 500 €/god.\n\nŠto ističe: 
- https://koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -337,10 +337,9 @@ DTEND;VALUE=DATE:20270807
 SUMMARY:Ističe koncesija: TEMPO D. O. O.
 DESCRIPTION:1 ugovor o koncesiji ističe 6. 8. 2027. Godišnja fiksna nakna
  da: 266 €.\n\n• TEMPO D. O. O. – Koncesija na pomorskom dobru (RIJEK
- A\, Grad Rijeka)\, 266 €/god.\n\nŠto ističe: https://koncesijski-sat.v
- ercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 11.
-  2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ A\, Grad Rijeka)\, 266 €/god.\n\nŠto ističe: https://concessum.vercel.
+ app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -357,9 +356,8 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (TEMPO D. O. O.)
 DESCRIPTION:6. 8. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• TEMPO D. O. O. – Koncesija na pomorskom dobru (RIJEKA\, Grad Rij
- eka)\, 266 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#s
- at
-URL:https://koncesijski-sat.vercel.app/#sat
+ eka)\, 266 €/god.\n\nŠto ističe: https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -378,9 +376,9 @@ DESCRIPTION:2 ugovora o koncesiji ističe 7. 8. 2027. Godišnja fiksna nakn
  ada: 565 €.\n\n• INTERGLOBO CENTRAL EUROPE D.O.O. – Koncesija na pom
  orskom dobru (RIJEKA\, Grad Rijeka)\, 300 €/god.\n• HŽ CARGO D.O.O. 
  – Koncesija na pomorskom dobru (RIJEKA\, Grad Rijeka)\, 265 €/god.\n\n
- Što ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar kon
- cesija (FINA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ Što ističe: https://concessum.vercel.app/#sat\nIzvor: Registar koncesija
+  (FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -400,8 +398,8 @@ DESCRIPTION:7. 8. 2027. ističe 2 ugovora o koncesiji. Novi postupak dodjel
  .\n\n• INTERGLOBO CENTRAL EUROPE D.O.O. – Koncesija na pomorskom dobru
   (RIJEKA\, Grad Rijeka)\, 300 €/god.\n• HŽ CARGO D.O.O. – Koncesija
   na pomorskom dobru (RIJEKA\, Grad Rijeka)\, 265 €/god.\n\nŠto ističe:
-  https://koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+  https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -419,9 +417,9 @@ SUMMARY:Ističe koncesija: PERT D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 13. 8. 2027. Godišnja fiksna nakn
  ada: 500 €.\n\n• PERT D.O.O. – Koncesija na pomorskom dobru (BAKAR\,
   RAŠA\, RAŠA\, RIJEKA\, RIJEKA\, Grad Bakar)\, 500 €/god.\n\nŠto isti
- če: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (F
- INA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ če: https://concessum.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\,
+  obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -439,8 +437,8 @@ DESCRIPTION:13. 8. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• PERT D.O.O. – Koncesija na pomorskom dobru (BAKAR\, RAŠA\, RA
  ŠA\, RIJEKA\, RIJEKA\, Grad Bakar)\, 500 €/god.\n\nŠto ističe: https:
- //koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ //concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -456,10 +454,10 @@ DTEND;VALUE=DATE:20271010
 SUMMARY:Ističe koncesija: INTEREUROPA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 9. 10. 2027. Godišnja fiksna nakn
  ada: 265 €.\n\n• INTEREUROPA D.O.O. – Koncesija na pomorskom dobru (
- RIJEKA\, Grad Rijeka)\, 265 €/god.\n\nŠto ističe: https://koncesijski-
- sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9
- . 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ RIJEKA\, Grad Rijeka)\, 265 €/god.\n\nŠto ističe: https://concessum.ve
+ rcel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 11. 
+ 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -477,9 +475,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INTEREUROPA D.O.
 DESCRIPTION:9. 10. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• INTEREUROPA D.O.O. – Koncesija na pomorskom dobru (RIJEKA\, Gra
- d Rijeka)\, 265 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.a
- pp/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ d Rijeka)\, 265 €/god.\n\nŠto ističe: https://concessum.vercel.app/#sa
+ t
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -498,9 +496,9 @@ SUMMARY:Ističe koncesija: ZAJEDNICA PONUDITELJA LUKA RIJEKA D.D. I RIJEKA
 DESCRIPTION:1 ugovor o koncesiji ističe 24. 10. 2027. Godišnja fiksna nak
  nada: 52.679 €.\n\n• ZAJEDNICA PONUDITELJA LUKA RIJEKA D.D. I RIJEKA P
  LUS D.O.O. – Koncesija na pomorskom dobru (RIJEKA\, Grad Rijeka)\, 52.67
- 9 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor
- : Registar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ 9 €/god.\n\nŠto ističe: https://concessum.vercel.app/#sat\nIzvor: Regi
+ star koncesija (FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -520,8 +518,8 @@ DESCRIPTION:24. 10. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• ZAJEDNICA PONUDITELJA LUKA RIJEKA D.D. I RIJEKA PLUS D.O.O. – 
  Koncesija na pomorskom dobru (RIJEKA\, Grad Rijeka)\, 52.679 €/god.\n\n
- Što ističe: https://koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ Što ističe: https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -539,9 +537,9 @@ SUMMARY:Ističe koncesija: T.P.G. AGENT D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 7. 1. 2028. Godišnja fiksna nakna
  da: 265 €.\n\n• T.P.G. AGENT D.O.O. – Koncesija na pomorskom dobru (
  BAKAR\, RAŠA\, RIJEKA\, Grad Bakar)\, 265 €/god.\n\nŠto ističe: https
- ://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obr
- ada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ ://concessum.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Co
+ ncessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -559,9 +557,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (T.P.G. AGENT D.O
 DESCRIPTION:7. 1. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• T.P.G. AGENT D.O.O. – Koncesija na pomorskom dobru (BAKAR\, RAŠ
- A\, RIJEKA\, Grad Bakar)\, 265 €/god.\n\nŠto ističe: https://koncesijs
- ki-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ A\, RIJEKA\, Grad Bakar)\, 265 €/god.\n\nŠto ističe: https://concessum
+ .vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -579,9 +577,9 @@ SUMMARY:Ističe koncesija: ALFA SP LOGISTIKA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 8. 1. 2028. Godišnja fiksna nakna
  da: 265 €.\n\n• ALFA SP LOGISTIKA D.O.O. – Koncesija na pomorskom do
  bru (BAKAR\, RAŠA\, RIJEKA\, Grad Bakar)\, 265 €/god.\n\nŠto ističe: 
- https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\
- , obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ https://concessum.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obra
+ da Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -599,9 +597,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ALFA SP LOGISTIK
 DESCRIPTION:8. 1. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• ALFA SP LOGISTIKA D.O.O. – Koncesija na pomorskom dobru (BAKAR\,
-  RAŠA\, RIJEKA\, Grad Bakar)\, 265 €/god.\n\nŠto ističe: https://konc
- esijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+  RAŠA\, RIJEKA\, Grad Bakar)\, 265 €/god.\n\nŠto ističe: https://conc
+ essum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -621,9 +619,9 @@ DESCRIPTION:1 ugovor o koncesiji ističe 3. 2. 2028. Godišnja fiksna nakna
  da: 1.000 €.\n\n• ARMIŽADOR ZAJEDNIČKI OBRT ZA POMORSKO LUČKE DJELA
  TNOSTI VL. L. DIMINIĆ\, A. POROPAT\, I. MIHOVILOVIĆ – Koncesija na pom
  orskom dobru (BAKAR\, RAŠA\, RAŠA\, RIJEKA\, RIJEKA\, Grad Bakar)\, 1.00
- 0 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor
- : Registar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ 0 €/god.\n\nŠto ističe: https://concessum.vercel.app/#sat\nIzvor: Regi
+ star koncesija (FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -645,8 +643,8 @@ DESCRIPTION:3. 2. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodjele
  \n\n• ARMIŽADOR ZAJEDNIČKI OBRT ZA POMORSKO LUČKE DJELATNOSTI VL. L. 
  DIMINIĆ\, A. POROPAT\, I. MIHOVILOVIĆ – Koncesija na pomorskom dobru (
  BAKAR\, RAŠA\, RAŠA\, RIJEKA\, RIJEKA\, Grad Bakar)\, 1.000 €/god.\n\n
- Što ističe: https://koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ Što ističe: https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -668,9 +666,9 @@ DESCRIPTION:2 ugovora o koncesiji ističe 9. 2. 2028. Godišnja fiksna nakn
  A\, Grad Bakar)\, 500 €/god.\n• MARIS INSPECTIO D.O.O. ZA NEOVISNO TEH
  NIČKO ISPITIVANJE\, ANALIZU I SAV – Koncesija na pomorskom dobru (BAKAR
  \, RAŠA\, RAŠA\, RIJEKA\, RIJEKA\, Grad Bakar)\, 500 €/god.\n\nŠto is
- tiče: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija 
- (FINA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ tiče: https://concessum.vercel.app/#sat\nIzvor: Registar koncesija (FINA)
+ \, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -692,8 +690,8 @@ DESCRIPTION:9. 2. 2028. ističe 2 ugovora o koncesiji. Novi postupak dodjel
  )\, 500 €/god.\n• MARIS INSPECTIO D.O.O. ZA NEOVISNO TEHNIČKO ISPITIV
  ANJE\, ANALIZU I SAV – Koncesija na pomorskom dobru (BAKAR\, RAŠA\, RA
  ŠA\, RIJEKA\, RIJEKA\, Grad Bakar)\, 500 €/god.\n\nŠto ističe: https:
- //koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ //concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -710,10 +708,10 @@ DTEND;VALUE=DATE:20280224
 SUMMARY:Ističe koncesija: T.P.G. AGENT D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 23. 2. 2028. Godišnja fiksna nakn
  ada: 265 €.\n\n• T.P.G. AGENT D.O.O. – Koncesija na pomorskom dobru 
- (RIJEKA\, Grad Rijeka)\, 265 €/god.\n\nŠto ističe: https://koncesijski
- -sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 
- 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ (RIJEKA\, Grad Rijeka)\, 265 €/god.\n\nŠto ističe: https://concessum.v
+ ercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 11.
+  2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -731,9 +729,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (T.P.G. AGENT D.O
 DESCRIPTION:23. 2. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• T.P.G. AGENT D.O.O. – Koncesija na pomorskom dobru (RIJEKA\, Gr
- ad Rijeka)\, 265 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.
- app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ ad Rijeka)\, 265 €/god.\n\nŠto ističe: https://concessum.vercel.app/#s
+ at
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -750,10 +748,10 @@ DTEND;VALUE=DATE:20280226
 SUMMARY:Ističe koncesija: LOG ASIA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 25. 2. 2028. Godišnja fiksna nakn
  ada: 265 €.\n\n• LOG ASIA D.O.O. – Koncesija na pomorskom dobru (RIJ
- EKA\, Grad Rijeka)\, 265 €/god.\n\nŠto ističe: https://koncesijski-sat
- .vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 1
- 1. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ EKA\, Grad Rijeka)\, 265 €/god.\n\nŠto ističe: https://concessum.verce
+ l.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 11. 202
+ 6.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -770,9 +768,8 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (LOG ASIA D.O.O.)
 DESCRIPTION:25. 2. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• LOG ASIA D.O.O. – Koncesija na pomorskom dobru (RIJEKA\, Grad R
- ijeka)\, 265 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/
- #sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ ijeka)\, 265 €/god.\n\nŠto ističe: https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -792,10 +789,10 @@ DESCRIPTION:2 ugovora o koncesiji ističe 22. 3. 2028. Godišnja fiksna nak
  TRGOVINU I PRIJEVOZ NAFT – Koncesija na pomorskom dobru (BAKAR\, RAŠA\,
   RAŠA\, RIJEKA\, RIJEKA\, Grad Bakar)\, 1.000 €/god.\n• ADRIA OIL D.O
  .O. – Koncesija na pomorskom dobru (BAKAR\, RAŠA\, RAŠA\, RIJEKA\, RIJ
- EKA\, Grad Bakar)\, 1.000 €/god.\n\nŠto ističe: https://koncesijski-sa
- t.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 
- 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ EKA\, Grad Bakar)\, 1.000 €/god.\n\nŠto ističe: https://concessum.verc
+ el.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 11. 20
+ 26.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -816,9 +813,8 @@ DESCRIPTION:22. 3. 2028. ističe 2 ugovora o koncesiji. Novi postupak dodje
  JEVOZ NAFT – Koncesija na pomorskom dobru (BAKAR\, RAŠA\, RAŠA\, RIJEK
  A\, RIJEKA\, Grad Bakar)\, 1.000 €/god.\n• ADRIA OIL D.O.O. – Konces
  ija na pomorskom dobru (BAKAR\, RAŠA\, RAŠA\, RIJEKA\, RIJEKA\, Grad Bak
- ar)\, 1.000 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#
- sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ ar)\, 1.000 €/god.\n\nŠto ističe: https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -835,10 +831,10 @@ DTEND;VALUE=DATE:20280424
 SUMMARY:Ističe koncesija: TRANSPORTI D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 23. 4. 2028. Godišnja fiksna nakn
  ada: 265 €.\n\n• TRANSPORTI D.O.O. – Koncesija na pomorskom dobru (R
- IJEKA\, Grad Rijeka)\, 265 €/god.\n\nŠto ističe: https://koncesijski-s
- at.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9.
-  11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ IJEKA\, Grad Rijeka)\, 265 €/god.\n\nŠto ističe: https://concessum.ver
+ cel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 11. 2
+ 026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -856,9 +852,8 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (TRANSPORTI D.O.O
 DESCRIPTION:23. 4. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• TRANSPORTI D.O.O. – Koncesija na pomorskom dobru (RIJEKA\, Grad
-  Rijeka)\, 265 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.ap
- p/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+  Rijeka)\, 265 €/god.\n\nŠto ističe: https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -876,9 +871,9 @@ SUMMARY:Ističe koncesija: R&B GLOBALNI PROJEKTI D.O.O. ZA USLUGE
 DESCRIPTION:1 ugovor o koncesiji ističe 7. 5. 2028. Godišnja fiksna nakna
  da: 265 €.\n\n• R&B GLOBALNI PROJEKTI D.O.O. ZA USLUGE – Koncesija n
  a pomorskom dobru (RIJEKA\, Grad Rijeka)\, 265 €/god.\n\nŠto ističe: h
- ttps://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\,
-  obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ ttps://concessum.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrad
+ a Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -896,9 +891,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (R&B GLOBALNI PRO
 DESCRIPTION:7. 5. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• R&B GLOBALNI PROJEKTI D.O.O. ZA USLUGE – Koncesija na pomorskom 
- dobru (RIJEKA\, Grad Rijeka)\, 265 €/god.\n\nŠto ističe: https://konce
- sijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ dobru (RIJEKA\, Grad Rijeka)\, 265 €/god.\n\nŠto ističe: https://conce
+ ssum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -919,10 +914,10 @@ DESCRIPTION:3 ugovora o koncesiji ističe 2. 7. 2028. Godišnja fiksna nakn
   €/god.\n• INSPECTO D.O.O. – Koncesija na pomorskom dobru (BAKAR\, R
  AŠA\, RAŠA\, RIJEKA\, RIJEKA\, Grad Bakar)\, 500 €/god.\n• HB INSPEK
  T VL. HRVOJE BALEN – Koncesija na pomorskom dobru (BAKAR\, RAŠA\, RAŠA
- \, RIJEKA\, RIJEKA\, Grad Bakar)\, 500 €/god.\n\nŠto ističe: https://k
- oncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada 
- Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ \, RIJEKA\, RIJEKA\, Grad Bakar)\, 500 €/god.\n\nŠto ističe: https://c
+ oncessum.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Conces
+ sum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -944,9 +939,9 @@ DESCRIPTION:2. 7. 2028. ističe 3 ugovora o koncesiji. Novi postupak dodjel
   INSPECTO D.O.O. – Koncesija na pomorskom dobru (BAKAR\, RAŠA\, RAŠA\,
   RIJEKA\, RIJEKA\, Grad Bakar)\, 500 €/god.\n• HB INSPEKT VL. HRVOJE B
  ALEN – Koncesija na pomorskom dobru (BAKAR\, RAŠA\, RAŠA\, RIJEKA\, RI
- JEKA\, Grad Bakar)\, 500 €/god.\n\nŠto ističe: https://koncesijski-sat
- .vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ JEKA\, Grad Bakar)\, 500 €/god.\n\nŠto ističe: https://concessum.verce
+ l.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -963,10 +958,10 @@ DTEND;VALUE=DATE:20280724
 SUMMARY:Ističe koncesija: ATI LOGISTIKA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 23. 7. 2028. Godišnja fiksna nakn
  ada: 265 €.\n\n• ATI LOGISTIKA D.O.O. – Koncesija na pomorskom dobru
-  (RIJEKA\, Grad Rijeka)\, 265 €/god.\n\nŠto ističe: https://koncesijsk
- i-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum
-  9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+  (RIJEKA\, Grad Rijeka)\, 265 €/god.\n\nŠto ističe: https://concessum.
+ vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 11
+ . 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -984,9 +979,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ATI LOGISTIKA D.
 DESCRIPTION:23. 7. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• ATI LOGISTIKA D.O.O. – Koncesija na pomorskom dobru (RIJEKA\, G
- rad Rijeka)\, 265 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel
- .app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ rad Rijeka)\, 265 €/god.\n\nŠto ističe: https://concessum.vercel.app/#
+ sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1003,10 +998,10 @@ DTEND;VALUE=DATE:20280725
 SUMMARY:Ističe koncesija: CENTRALOG D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 24. 7. 2028. Godišnja fiksna nakn
  ada: 265 €.\n\n• CENTRALOG D.O.O. – Koncesija na pomorskom dobru (RI
- JEKA\, Grad Rijeka)\, 265 €/god.\n\nŠto ističe: https://koncesijski-sa
- t.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 
- 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ JEKA\, Grad Rijeka)\, 265 €/god.\n\nŠto ističe: https://concessum.verc
+ el.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 11. 20
+ 26.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1024,9 +1019,8 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (CENTRALOG D.O.O.
 DESCRIPTION:24. 7. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• CENTRALOG D.O.O. – Koncesija na pomorskom dobru (RIJEKA\, Grad 
- Rijeka)\, 265 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app
- /#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ Rijeka)\, 265 €/god.\n\nŠto ističe: https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1045,9 +1039,9 @@ SUMMARY:Ističe koncesija: OMNIS D.O.O. PODRUŽNICA RIJEKA - GLAVNA PODRUŽ
 DESCRIPTION:1 ugovor o koncesiji ističe 17. 12. 2028. Godišnja fiksna nak
  nada: 500 €.\n\n• OMNIS D.O.O. PODRUŽNICA RIJEKA - GLAVNA PODRUŽNICA
   – Koncesija na pomorskom dobru (OMIŠALJ\, Otok Krk (Grad Krk i općine
- ))\, 500 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
- \nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ ))\, 500 €/god.\n\nŠto ističe: https://concessum.vercel.app/#sat\nIzvo
+ r: Registar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1067,8 +1061,8 @@ DESCRIPTION:17. 12. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• OMNIS D.O.O. PODRUŽNICA RIJEKA - GLAVNA PODRUŽNICA – Koncesi
  ja na pomorskom dobru (OMIŠALJ\, Otok Krk (Grad Krk i općine))\, 500 €
- /god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ /god.\n\nŠto ističe: https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1087,10 +1081,9 @@ SUMMARY:Ističe koncesija: ZAJEDNICA PONUDITELJA RIJEKA PLUS D.O.O.\, RIJEK
 DESCRIPTION:1 ugovor o koncesiji ističe 9. 1. 2029. Godišnja fiksna nakna
  da: 139.214 €.\n\n• ZAJEDNICA PONUDITELJA RIJEKA PLUS D.O.O.\, RIJEKA 
  I LUKA RIJEKA D.D.\, RIJEKA – Koncesija na pomorskom dobru (RIJEKA\, Gra
- d Rijeka)\, 139.214 €/god.\n\nŠto ističe: https://koncesijski-sat.verc
- el.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 11. 20
- 26.
-URL:https://koncesijski-sat.vercel.app/#sat
+ d Rijeka)\, 139.214 €/god.\n\nŠto ističe: https://concessum.vercel.app
+ /#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1110,8 +1103,8 @@ DESCRIPTION:9. 1. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• ZAJEDNICA PONUDITELJA RIJEKA PLUS D.O.O.\, RIJEKA I LUKA RIJEKA D.
  D.\, RIJEKA – Koncesija na pomorskom dobru (RIJEKA\, Grad Rijeka)\, 139.
- 214 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ 214 €/god.\n\nŠto ističe: https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1129,9 +1122,9 @@ SUMMARY:Ističe koncesija: GATE EXPRESS D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 11. 1. 2029. Godišnja fiksna nakn
  ada: 265 €.\n\n• GATE EXPRESS D.O.O. – Koncesija na pomorskom dobru 
  (BAKAR\, RAŠA\, RIJEKA\, Grad Bakar)\, 265 €/god.\n\nŠto ističe: http
- s://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, ob
- rada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ s://concessum.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada C
+ oncessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1149,9 +1142,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (GATE EXPRESS D.O
 DESCRIPTION:11. 1. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• GATE EXPRESS D.O.O. – Koncesija na pomorskom dobru (BAKAR\, RA
- ŠA\, RIJEKA\, Grad Bakar)\, 265 €/god.\n\nŠto ističe: https://koncesi
- jski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ ŠA\, RIJEKA\, Grad Bakar)\, 265 €/god.\n\nŠto ističe: https://concess
+ um.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1171,9 +1164,9 @@ DESCRIPTION:2 ugovora o koncesiji ističe 25. 1. 2029. Godišnja fiksna nak
  , SA SJEDIŠTEM U RIJECI – Koncesija na pomorskom dobru (OMIŠALJ\, Otok
   Krk (Grad Krk i općine))\, 1.500 €/god.\n• YACHT OPERATOR D.O.O. –
   Koncesija na pomorskom dobru (BAKAR\, RAŠA\, RIJEKA\, Grad Bakar)\, 300 
- €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: 
- Registar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ €/god.\n\nŠto ističe: https://concessum.vercel.app/#sat\nIzvor: Regist
+ ar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1194,8 +1187,8 @@ DESCRIPTION:25. 1. 2029. ističe 2 ugovora o koncesiji. Novi postupak dodje
  M U RIJECI – Koncesija na pomorskom dobru (OMIŠALJ\, Otok Krk (Grad Krk
   i općine))\, 1.500 €/god.\n• YACHT OPERATOR D.O.O. – Koncesija na 
  pomorskom dobru (BAKAR\, RAŠA\, RIJEKA\, Grad Bakar)\, 300 €/god.\n\nŠ
- to ističe: https://koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ to ističe: https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1212,10 +1205,10 @@ DTEND;VALUE=DATE:20290404
 SUMMARY:Ističe koncesija: CARGO CONTROL D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 3. 4. 2029. Godišnja fiksna nakna
  da: 500 €.\n\n• CARGO CONTROL D.O.O. – Koncesija na pomorskom dobru 
- (RIJEKA\, Grad Rijeka)\, 500 €/god.\n\nŠto ističe: https://koncesijski
- -sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 
- 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ (RIJEKA\, Grad Rijeka)\, 500 €/god.\n\nŠto ističe: https://concessum.v
+ ercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 11.
+  2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1233,9 +1226,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (CARGO CONTROL D.
 DESCRIPTION:3. 4. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• CARGO CONTROL D.O.O. – Koncesija na pomorskom dobru (RIJEKA\, Gr
- ad Rijeka)\, 500 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.
- app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ ad Rijeka)\, 500 €/god.\n\nŠto ističe: https://concessum.vercel.app/#s
+ at
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1259,10 +1252,9 @@ DESCRIPTION:5 ugovora o koncesiji ističe 5. 4. 2029. Godišnja fiksna nakn
   1.500 €/god.\n• IND - EKO D. O. O. – Koncesija na pomorskom dobru (
  OMIŠALJ\, Otok Krk (Grad Krk i općine))\, 1.000 €/god.\n• BEN SHIP S
  UPPLY D.O.O. – Koncesija na pomorskom dobru (OMIŠALJ\, Otok Krk (Grad K
- rk i općine))\, 500 €/god.\n\nŠto ističe: https://koncesijski-sat.ver
- cel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 11. 2
- 026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ rk i općine))\, 500 €/god.\n\nŠto ističe: https://concessum.vercel.ap
+ p/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1287,8 +1279,8 @@ DESCRIPTION:5. 4. 2029. ističe 5 ugovora o koncesiji. Novi postupak dodjel
  .\n• IND - EKO D. O. O. – Koncesija na pomorskom dobru (OMIŠALJ\, Oto
  k Krk (Grad Krk i općine))\, 1.000 €/god.\n• BEN SHIP SUPPLY D.O.O. 
  – Koncesija na pomorskom dobru (OMIŠALJ\, Otok Krk (Grad Krk i općine)
- )\, 500 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ )\, 500 €/god.\n\nŠto ističe: https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1307,9 +1299,9 @@ SUMMARY:Ističe koncesija: STELLA -IMPEX DRUŠTVO S OGRANIČENOM ODGOVORNO
 DESCRIPTION:1 ugovor o koncesiji ističe 7. 4. 2029. Godišnja fiksna nakna
  da: 500 €.\n\n• STELLA -IMPEX DRUŠTVO S OGRANIČENOM ODGOVORNOŠĆU 
  – Koncesija na pomorskom dobru (OMIŠALJ\, Otok Krk (Grad Krk i općine)
- )\, 500 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\
- nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ )\, 500 €/god.\n\nŠto ističe: https://concessum.vercel.app/#sat\nIzvor
+ : Registar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1329,8 +1321,8 @@ DESCRIPTION:7. 4. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• STELLA -IMPEX DRUŠTVO S OGRANIČENOM ODGOVORNOŠĆU – Koncesija
   na pomorskom dobru (OMIŠALJ\, Otok Krk (Grad Krk i općine))\, 500 €/g
- od.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ od.\n\nŠto ističe: https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1349,9 +1341,9 @@ DESCRIPTION:2 ugovora o koncesiji ističe 23. 5. 2029. Godišnja fiksna nak
  nada: 3.000 €.\n\n• DEZINSEKCIJA\, D. O. O. – Koncesija na pomorskom
   dobru (OMIŠALJ\, Otok Krk (Grad Krk i općine))\, 2.000 €/god.\n• KE
  MIS-TERMOCLEAN D.O.O. – Koncesija na pomorskom dobru (RIJEKA\, Grad Rije
- ka)\, 1.000 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#
- sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ ka)\, 1.000 €/god.\n\nŠto ističe: https://concessum.vercel.app/#sat\nI
+ zvor: Registar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1371,8 +1363,8 @@ DESCRIPTION:23. 5. 2029. ističe 2 ugovora o koncesiji. Novi postupak dodje
  a.\n\n• DEZINSEKCIJA\, D. O. O. – Koncesija na pomorskom dobru (OMIŠA
  LJ\, Otok Krk (Grad Krk i općine))\, 2.000 €/god.\n• KEMIS-TERMOCLEAN
   D.O.O. – Koncesija na pomorskom dobru (RIJEKA\, Grad Rijeka)\, 1.000 
- €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ €/god.\n\nŠto ističe: https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1390,10 +1382,10 @@ SUMMARY:Ističe koncesija: TRADEWAYS AGENCIJA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 23. 6. 2029. Godišnja fiksna nakn
  ada: 300 €.\n\n• TRADEWAYS AGENCIJA D.O.O. – Dozvola za eksploatacij
  u geotermalne vode za energetske svrhe (prema Zakonu o ugljikovodicima) (B
- AKAR\, RIJEKA\, Grad Bakar)\, 300 €/god.\n\nŠto ističe: https://konces
- ijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Conce
- ssum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ AKAR\, RIJEKA\, Grad Bakar)\, 300 €/god.\n\nŠto ističe: https://conces
+ sum.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9
+ . 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1412,9 +1404,9 @@ DESCRIPTION:23. 6. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• TRADEWAYS AGENCIJA D.O.O. – Dozvola za eksploataciju geotermaln
  e vode za energetske svrhe (prema Zakonu o ugljikovodicima) (BAKAR\, RIJEK
- A\, Grad Bakar)\, 300 €/god.\n\nŠto ističe: https://koncesijski-sat.ve
- rcel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ A\, Grad Bakar)\, 300 €/god.\n\nŠto ističe: https://concessum.vercel.a
+ pp/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1431,10 +1423,9 @@ DTEND;VALUE=DATE:20290802
 SUMMARY:Ističe koncesija: KD VIK
 DESCRIPTION:1 ugovor o koncesiji ističe 1. 8. 2029. Godišnja fiksna nakna
  da: 1.573 €.\n\n• KD VIK – Koncesija na pomorskom dobru (RIJEKA\, Gr
- ad Rijeka)\, 1.573 €/god.\n\nŠto ističe: https://koncesijski-sat.verce
- l.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 11. 202
- 6.
-URL:https://koncesijski-sat.vercel.app/#sat
+ ad Rijeka)\, 1.573 €/god.\n\nŠto ističe: https://concessum.vercel.app/
+ #sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1451,8 +1442,8 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (KD VIK)
 DESCRIPTION:1. 8. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• KD VIK – Koncesija na pomorskom dobru (RIJEKA\, Grad Rijeka)\, 1
- .573 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ .573 €/god.\n\nŠto ističe: https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1470,9 +1461,9 @@ DESCRIPTION:2 ugovora o koncesiji ističe 7. 8. 2029. Godišnja fiksna nakn
  ada: 2.000 €.\n\n• DEZINSEKCIJA\, D. O. O. – Koncesija na pomorskom 
  dobru (OMIŠALJ\, Otok Krk (Grad Krk i općine))\, 1.000 €/god.\n• RIJ
  EKA TRANS  D.O.O. – Koncesija na pomorskom dobru (RIJEKA\, Grad Rijeka)\
- , 1.000 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\
- nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ , 1.000 €/god.\n\nŠto ističe: https://concessum.vercel.app/#sat\nIzvor
+ : Registar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1492,8 +1483,8 @@ DESCRIPTION:7. 8. 2029. ističe 2 ugovora o koncesiji. Novi postupak dodjel
  .\n\n• DEZINSEKCIJA\, D. O. O. – Koncesija na pomorskom dobru (OMIŠAL
  J\, Otok Krk (Grad Krk i općine))\, 1.000 €/god.\n• RIJEKA TRANS  D.O
  .O. – Koncesija na pomorskom dobru (RIJEKA\, Grad Rijeka)\, 1.000 €/go
- d.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ d.\n\nŠto ističe: https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1513,9 +1504,9 @@ DESCRIPTION:2 ugovora o koncesiji ističe 30. 9. 2029. Godišnja fiksna nak
  skom dobru (OMIŠALJ\, Otok Krk (Grad Krk i općine))\, 500 €/god.\n• 
  INSPECTORATE(CROATIA)LTD D.O.O. – Koncesija na pomorskom dobru (OMIŠALJ
  \, Otok Krk (Grad Krk i općine))\, 500 €/god.\n\nŠto ističe: https://
- koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada
-  Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ concessum.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Conce
+ ssum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1535,9 +1526,9 @@ DESCRIPTION:30. 9. 2029. ističe 2 ugovora o koncesiji. Novi postupak dodje
  a.\n\n• AMEC OPSKRBA BRODOVA D.O.O. – Koncesija na pomorskom dobru (OM
  IŠALJ\, Otok Krk (Grad Krk i općine))\, 500 €/god.\n• INSPECTORATE(C
  ROATIA)LTD D.O.O. – Koncesija na pomorskom dobru (OMIŠALJ\, Otok Krk (G
- rad Krk i općine))\, 500 €/god.\n\nŠto ističe: https://koncesijski-sa
- t.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ rad Krk i općine))\, 500 €/god.\n\nŠto ističe: https://concessum.verc
+ el.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1554,10 +1545,9 @@ DTEND;VALUE=DATE:20291028
 SUMMARY:Ističe koncesija: NZZJZ PGŽ
 DESCRIPTION:1 ugovor o koncesiji ističe 27. 10. 2029. Godišnja fiksna nak
  nada: 500 €.\n\n• NZZJZ PGŽ – Koncesija na pomorskom dobru (RIJEKA\
- , Grad Rijeka)\, 500 €/god.\n\nŠto ističe: https://koncesijski-sat.ver
- cel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 11. 2
- 026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ , Grad Rijeka)\, 500 €/god.\n\nŠto ističe: https://concessum.vercel.ap
+ p/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1574,8 +1564,8 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (NZZJZ PGŽ)
 DESCRIPTION:27. 10. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• NZZJZ PGŽ – Koncesija na pomorskom dobru (RIJEKA\, Grad Rijek
- a)\, 500 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ a)\, 500 €/god.\n\nŠto ističe: https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1593,10 +1583,9 @@ SUMMARY:Ističe koncesija: OILSPEC INTERNATIONAL D.O.O. ZA ISPITIVANJA I SA
 DESCRIPTION:1 ugovor o koncesiji ističe 20. 11. 2029. Godišnja fiksna nak
  nada: 1.500 €.\n\n• OILSPEC INTERNATIONAL D.O.O. ZA ISPITIVANJA I SAVJ
  ETOVANJA – Koncesija na pomorskom dobru (OMIŠALJ\, Otok Krk (Grad Krk i
-  općine))\, 1.500 €/god.\n\nŠto ističe: https://koncesijski-sat.verce
- l.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 11. 202
- 6.
-URL:https://koncesijski-sat.vercel.app/#sat
+  općine))\, 1.500 €/god.\n\nŠto ističe: https://concessum.vercel.app/
+ #sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1616,8 +1605,8 @@ DESCRIPTION:20. 11. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• OILSPEC INTERNATIONAL D.O.O. ZA ISPITIVANJA I SAVJETOVANJA – K
  oncesija na pomorskom dobru (OMIŠALJ\, Otok Krk (Grad Krk i općine))\, 1
- .500 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ .500 €/god.\n\nŠto ističe: https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1639,9 +1628,9 @@ DESCRIPTION:3 ugovora o koncesiji ističe 31. 1. 2030. Godišnja fiksna nak
   RAŠA\, RAŠA\, RIJEKA\, RIJEKA\, Grad Bakar)\, 500 €/god.\n• INSPECT
  ORATE(CROATIA)LTD D.O.O.ZA KONTROLU KVALITETA I KVANT – Koncesija na pom
  orskom dobru (BAKAR\, RAŠA\, RAŠA\, RIJEKA\, RIJEKA\, Grad Bakar)\, 500 
- €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: 
- Registar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ €/god.\n\nŠto ističe: https://concessum.vercel.app/#sat\nIzvor: Regist
+ ar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1664,8 +1653,8 @@ DESCRIPTION:31. 1. 2030. ističe 3 ugovora o koncesiji. Novi postupak dodje
  A\, RIJEKA\, RIJEKA\, Grad Bakar)\, 500 €/god.\n• INSPECTORATE(CROATIA
  )LTD D.O.O.ZA KONTROLU KVALITETA I KVANT – Koncesija na pomorskom dobru 
  (BAKAR\, RAŠA\, RAŠA\, RIJEKA\, RIJEKA\, Grad Bakar)\, 500 €/god.\n\n
- Što ističe: https://koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ Što ističe: https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1688,9 +1677,9 @@ DESCRIPTION:4 ugovora o koncesiji ističe 23. 2. 2030. Godišnja fiksna nak
  omorskom dobru (RIJEKA\, Grad Rijeka)\, 520 €/god.\n• STELLA -IMPEX DR
  UŠTVO S OGRANIČENOM ODGOVORNOŠĆU ZA POSKRBU BRODOVA I TRGOVINU – Kon
  cesija na pomorskom dobru (RIJEKA\, Grad Rijeka)\, 520 €/god.\n\nŠto is
- tiče: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija 
- (FINA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ tiče: https://concessum.vercel.app/#sat\nIzvor: Registar koncesija (FINA)
+ \, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1714,8 +1703,8 @@ DESCRIPTION:23. 2. 2030. ističe 4 ugovora o koncesiji. Novi postupak dodje
   (RIJEKA\, Grad Rijeka)\, 520 €/god.\n• STELLA -IMPEX DRUŠTVO S OGRAN
  IČENOM ODGOVORNOŠĆU ZA POSKRBU BRODOVA I TRGOVINU – Koncesija na pomo
  rskom dobru (RIJEKA\, Grad Rijeka)\, 520 €/god.\n\nŠto ističe: https:/
- /koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ /concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1733,9 +1722,9 @@ SUMMARY:Ističe koncesija: KD ČISTOĆA D.O.O. RIJEKA
 DESCRIPTION:1 ugovor o koncesiji ističe 4. 5. 2030. Godišnja fiksna nakna
  da: 1.040 €.\n\n• KD ČISTOĆA D.O.O. RIJEKA – Koncesija na pomorsko
  m dobru (BAKAR\, RAŠA\, RAŠA\, RIJEKA\, RIJEKA\, Grad Bakar)\, 1.040 €
- /god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Reg
- istar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ /god.\n\nŠto ističe: https://concessum.vercel.app/#sat\nIzvor: Registar 
+ koncesija (FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1754,8 +1743,8 @@ DESCRIPTION:4. 5. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• KD ČISTOĆA D.O.O. RIJEKA – Koncesija na pomorskom dobru (BAKAR
  \, RAŠA\, RAŠA\, RIJEKA\, RIJEKA\, Grad Bakar)\, 1.040 €/god.\n\nŠto 
- ističe: https://koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ ističe: https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1773,9 +1762,9 @@ SUMMARY:Ističe koncesija: JADRANSKI POMORSKI SERVIS D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 30. 6. 2030. Godišnja fiksna nakn
  ada: 5.000 €.\n\n• JADRANSKI POMORSKI SERVIS D.D. – Koncesija za luk
  u (BAKAR\, RAŠA\, RAŠA\, RIJEKA\, RIJEKA\, Grad Bakar)\, 5.000 €/god.\
- n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar 
- koncesija (FINA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ n\nŠto ističe: https://concessum.vercel.app/#sat\nIzvor: Registar konces
+ ija (FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1794,8 +1783,8 @@ DESCRIPTION:30. 6. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• JADRANSKI POMORSKI SERVIS D.D. – Koncesija za luku (BAKAR\, RA
  ŠA\, RAŠA\, RIJEKA\, RIJEKA\, Grad Bakar)\, 5.000 €/god.\n\nŠto isti
- če: https://koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ če: https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1816,10 +1805,10 @@ DESCRIPTION:4 ugovora o koncesiji ističe 6. 7. 2030. Godišnja fiksna nakn
  Koncesija na pomorskom dobru (RIJEKA\, Grad Rijeka)\, 500 €/god.\n• AD
  RIAINSPEKT  D. O. O. – Koncesija na pomorskom dobru (RIJEKA\, Grad Rijek
  a)\, 500 €/god.\n• BEN SHIP SUPPLY D. O. O. – Koncesija na pomorskom
-  dobru (RIJEKA\, Grad Rijeka)\, 500 €/god.\n\nŠto ističe: https://konc
- esijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Con
- cessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+  dobru (RIJEKA\, Grad Rijeka)\, 500 €/god.\n\nŠto ističe: https://conc
+ essum.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum
+  9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1841,9 +1830,9 @@ DESCRIPTION:6. 7. 2030. ističe 4 ugovora o koncesiji. Novi postupak dodjel
  omorskom dobru (RIJEKA\, Grad Rijeka)\, 500 €/god.\n• ADRIAINSPEKT  D.
   O. O. – Koncesija na pomorskom dobru (RIJEKA\, Grad Rijeka)\, 500 €/g
  od.\n• BEN SHIP SUPPLY D. O. O. – Koncesija na pomorskom dobru (RIJEKA
- \, Grad Rijeka)\, 500 €/god.\n\nŠto ističe: https://koncesijski-sat.ve
- rcel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ \, Grad Rijeka)\, 500 €/god.\n\nŠto ističe: https://concessum.vercel.a
+ pp/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1860,10 +1849,10 @@ DTEND;VALUE=DATE:20300724
 SUMMARY:Ističe koncesija: SAYBOLT PAN ADRIATIKA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 23. 7. 2030. Godišnja fiksna nakn
  ada: 500 €.\n\n• SAYBOLT PAN ADRIATIKA D.O.O. – Koncesija na pomorsk
- om dobru (RIJEKA\, Grad Rijeka)\, 500 €/god.\n\nŠto ističe: https://ko
- ncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada C
- oncessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ om dobru (RIJEKA\, Grad Rijeka)\, 500 €/god.\n\nŠto ističe: https://co
+ ncessum.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concess
+ um 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1881,9 +1870,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (SAYBOLT PAN ADRI
 DESCRIPTION:23. 7. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• SAYBOLT PAN ADRIATIKA D.O.O. – Koncesija na pomorskom dobru (RI
- JEKA\, Grad Rijeka)\, 500 €/god.\n\nŠto ističe: https://koncesijski-sa
- t.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ JEKA\, Grad Rijeka)\, 500 €/god.\n\nŠto ističe: https://concessum.verc
+ el.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1901,9 +1890,9 @@ SUMMARY:Ističe koncesija: DEZINSEKCIJA\, D. O. O.
 DESCRIPTION:1 ugovor o koncesiji ističe 5. 8. 2030. Godišnja fiksna nakna
  da: 1.000 €.\n\n• DEZINSEKCIJA\, D. O. O. – Koncesija na pomorskom d
  obru (OMIŠALJ\, Otok Krk (Grad Krk i općine))\, 1.000 €/god.\n\nŠto i
- stiče: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija
-  (FINA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ stiče: https://concessum.vercel.app/#sat\nIzvor: Registar koncesija (FINA
+ )\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1922,8 +1911,8 @@ DESCRIPTION:5. 8. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• DEZINSEKCIJA\, D. O. O. – Koncesija na pomorskom dobru (OMIŠALJ
  \, Otok Krk (Grad Krk i općine))\, 1.000 €/god.\n\nŠto ističe: https:
- //koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ //concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1942,9 +1931,9 @@ DESCRIPTION:2 ugovora o koncesiji ističe 29. 9. 2030. Godišnja fiksna nak
  nada: 70.328 €.\n\n• ŠERIF EXPORT IMPORT D.O.O. – Koncesija za luku
   (RAŠA\, Općina Raša)\, 35.164 €/god.\n• EXPORTDRVO  D.D. – Konce
  sija za luku (RAŠA\, Općina Raša)\, 35.164 €/god.\n\nŠto ističe: ht
- tps://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, 
- obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ tps://concessum.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada
+  Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1963,9 +1952,9 @@ DESCRIPTION:29. 9. 2030. ističe 2 ugovora o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• ŠERIF EXPORT IMPORT D.O.O. – Koncesija za luku (RAŠA\, Opći
  na Raša)\, 35.164 €/god.\n• EXPORTDRVO  D.D. – Koncesija za luku (R
- AŠA\, Općina Raša)\, 35.164 €/god.\n\nŠto ističe: https://koncesijs
- ki-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ AŠA\, Općina Raša)\, 35.164 €/god.\n\nŠto ističe: https://concessum
+ .vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1983,9 +1972,9 @@ SUMMARY:Ističe koncesija: DCS TRAMACO RIJEKA D.O.O. ZA ŠPEDICIJU
 DESCRIPTION:1 ugovor o koncesiji ističe 12. 1. 2031. Godišnja fiksna nakn
  ada: 300 €.\n\n• DCS TRAMACO RIJEKA D.O.O. ZA ŠPEDICIJU – Koncesija
   na pomorskom dobru (BAKAR\, RAŠA\, RIJEKA\, Grad Bakar)\, 300 €/god.\n
- \nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar k
- oncesija (FINA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ \nŠto ističe: https://concessum.vercel.app/#sat\nIzvor: Registar koncesi
+ ja (FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2004,8 +1993,8 @@ DESCRIPTION:12. 1. 2031. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• DCS TRAMACO RIJEKA D.O.O. ZA ŠPEDICIJU – Koncesija na pomorsko
  m dobru (BAKAR\, RAŠA\, RIJEKA\, Grad Bakar)\, 300 €/god.\n\nŠto isti
- če: https://koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ če: https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2023,9 +2012,9 @@ SUMMARY:Ističe koncesija: NAVIS SUPPLEMENTUM D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 25. 1. 2031. Godišnja fiksna nakn
  ada: 1.000 €.\n\n• NAVIS SUPPLEMENTUM D.O.O. – Koncesija na pomorsko
  m dobru (BAKAR\, RAŠA\, RAŠA\, RIJEKA\, RIJEKA\, Grad Bakar)\, 1.000 €
- /god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Reg
- istar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ /god.\n\nŠto ističe: https://concessum.vercel.app/#sat\nIzvor: Registar 
+ koncesija (FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2044,8 +2033,8 @@ DESCRIPTION:25. 1. 2031. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• NAVIS SUPPLEMENTUM D.O.O. – Koncesija na pomorskom dobru (BAKAR
  \, RAŠA\, RAŠA\, RIJEKA\, RIJEKA\, Grad Bakar)\, 1.000 €/god.\n\nŠto 
- ističe: https://koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ ističe: https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2063,9 +2052,9 @@ SUMMARY:Ističe koncesija: DEZINSEKCIJA\, D. O. O.
 DESCRIPTION:1 ugovor o koncesiji ističe 12. 4. 2031. Godišnja fiksna nakn
  ada: 1.000 €.\n\n• DEZINSEKCIJA\, D. O. O. – Koncesija na pomorskom 
  dobru (BAKAR\, RAŠA\, RAŠA\, RIJEKA\, RIJEKA\, Grad Bakar)\, 1.000 €/g
- od.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Regis
- tar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ od.\n\nŠto ističe: https://concessum.vercel.app/#sat\nIzvor: Registar ko
+ ncesija (FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2084,8 +2073,8 @@ DESCRIPTION:12. 4. 2031. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• DEZINSEKCIJA\, D. O. O. – Koncesija na pomorskom dobru (BAKAR\,
   RAŠA\, RAŠA\, RIJEKA\, RIJEKA\, Grad Bakar)\, 1.000 €/god.\n\nŠto is
- tiče: https://koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ tiče: https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2104,10 +2093,10 @@ DESCRIPTION:2 ugovora o koncesiji ističe 14. 6. 2031. Godišnja fiksna nak
  nada: 803 €.\n\n• VETERINARSKA STANICA RIJEKA D.O.O. – Koncesija na 
  pomorskom dobru (BAKAR\, RIJEKA\, RIJEKA\, Grad Bakar)\, 500 €/god.\n•
   INTERMARINE BUNKER AND AGENT D.O.O. – Koncesija na pomorskom dobru (BAK
- AR\, RIJEKA\, Grad Bakar)\, 303 €/god.\n\nŠto ističe: https://koncesij
- ski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concess
- um 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ AR\, RIJEKA\, Grad Bakar)\, 303 €/god.\n\nŠto ističe: https://concessu
+ m.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 
+ 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2127,9 +2116,9 @@ DESCRIPTION:14. 6. 2031. ističe 2 ugovora o koncesiji. Novi postupak dodje
  a.\n\n• VETERINARSKA STANICA RIJEKA D.O.O. – Koncesija na pomorskom do
  bru (BAKAR\, RIJEKA\, RIJEKA\, Grad Bakar)\, 500 €/god.\n• INTERMARINE
   BUNKER AND AGENT D.O.O. – Koncesija na pomorskom dobru (BAKAR\, RIJEKA\
- , Grad Bakar)\, 303 €/god.\n\nŠto ističe: https://koncesijski-sat.verc
- el.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ , Grad Bakar)\, 303 €/god.\n\nŠto ističe: https://concessum.vercel.app
+ /#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2147,9 +2136,9 @@ SUMMARY:Ističe koncesija: CAPT.V.VODARIĆ & SON D.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 16. 6. 2031. Godišnja fiksna nakn
  ada: 500 €.\n\n• CAPT.V.VODARIĆ & SON D.O. – Koncesija na pomorskom
   dobru (BAKAR\, RIJEKA\, RIJEKA\, Grad Bakar)\, 500 €/god.\n\nŠto isti
- če: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (F
- INA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ če: https://concessum.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\,
+  obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2168,8 +2157,8 @@ DESCRIPTION:16. 6. 2031. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• CAPT.V.VODARIĆ & SON D.O. – Koncesija na pomorskom dobru (BAKA
  R\, RIJEKA\, RIJEKA\, Grad Bakar)\, 500 €/god.\n\nŠto ističe: https://
- koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2186,10 +2175,9 @@ DTEND;VALUE=DATE:20310625
 SUMMARY:Ističe koncesija: ARHIPELAG D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 24. 6. 2031. Godišnja fiksna nakn
  ada: 3.000 €.\n\n• ARHIPELAG D.O.O. – Koncesija za luku (RIJEKA\, Gr
- ad Rijeka)\, 3.000 €/god.\n\nŠto ističe: https://koncesijski-sat.verce
- l.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 11. 202
- 6.
-URL:https://koncesijski-sat.vercel.app/#sat
+ ad Rijeka)\, 3.000 €/god.\n\nŠto ističe: https://concessum.vercel.app/
+ #sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2207,8 +2195,8 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ARHIPELAG D.O.O.
 DESCRIPTION:24. 6. 2031. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• ARHIPELAG D.O.O. – Koncesija za luku (RIJEKA\, Grad Rijeka)\, 3
- .000 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ .000 €/god.\n\nŠto ističe: https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2225,10 +2213,10 @@ DTEND;VALUE=DATE:20310709
 SUMMARY:Ističe koncesija: INA-INDUSTRIJA NAFTE  D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 8. 7. 2031. Godišnja fiksna nakna
  da: 1.000 €.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija na pomorsko
- m dobru (RIJEKA\, Grad Rijeka)\, 1.000 €/god.\n\nŠto ističe: https://k
- oncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada 
- Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ m dobru (RIJEKA\, Grad Rijeka)\, 1.000 €/god.\n\nŠto ističe: https://c
+ oncessum.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Conces
+ sum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2246,9 +2234,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA-INDUSTRIJA N
 DESCRIPTION:8. 7. 2031. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija na pomorskom dobru (RIJEK
- A\, Grad Rijeka)\, 1.000 €/god.\n\nŠto ističe: https://koncesijski-sat
- .vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ A\, Grad Rijeka)\, 1.000 €/god.\n\nŠto ističe: https://concessum.verce
+ l.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2266,9 +2254,9 @@ SUMMARY:Ističe koncesija: ROTO DINAMIC D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 13. 8. 2031. Godišnja fiksna nakn
  ada: 500 €.\n\n• ROTO DINAMIC D.O.O. – Koncesija na pomorskom dobru 
  (BAKAR\, RAŠA\, RAŠA\, RIJEKA\, RIJEKA\, Grad Bakar)\, 500 €/god.\n\n
- Što ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar kon
- cesija (FINA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ Što ističe: https://concessum.vercel.app/#sat\nIzvor: Registar koncesija
+  (FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2287,8 +2275,8 @@ DESCRIPTION:13. 8. 2031. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• ROTO DINAMIC D.O.O. – Koncesija na pomorskom dobru (BAKAR\, RA
  ŠA\, RAŠA\, RIJEKA\, RIJEKA\, Grad Bakar)\, 500 €/god.\n\nŠto ističe
- : https://koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ : https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2306,9 +2294,9 @@ SUMMARY:Ističe koncesija: METIS D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 20. 6. 2032. Godišnja fiksna nakn
  ada: 1.000 €.\n\n• METIS D.D. – Koncesija na pomorskom dobru (BAKAR\
  , RAŠA\, RAŠA\, RIJEKA\, RIJEKA\, Grad Bakar)\, 1.000 €/god.\n\nŠto i
- stiče: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija
-  (FINA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ stiče: https://concessum.vercel.app/#sat\nIzvor: Registar koncesija (FINA
+ )\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2326,8 +2314,8 @@ DESCRIPTION:20. 6. 2032. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• METIS D.D. – Koncesija na pomorskom dobru (BAKAR\, RAŠA\, RAŠ
  A\, RIJEKA\, RIJEKA\, Grad Bakar)\, 1.000 €/god.\n\nŠto ističe: https:
- //koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ //concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2344,9 +2332,9 @@ SUMMARY:Ističe koncesija: DEZINSEKCIJA  D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 22. 6. 2032. Godišnja fiksna nakn
  ada: 1.000 €.\n\n• DEZINSEKCIJA  D.O.O. – Koncesija na pomorskom dob
  ru (BAKAR\, RAŠA\, RAŠA\, RIJEKA\, RIJEKA\, Grad Bakar)\, 1.000 €/god.
- \n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar
-  koncesija (FINA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ \n\nŠto ističe: https://concessum.vercel.app/#sat\nIzvor: Registar konce
+ sija (FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2365,8 +2353,8 @@ DESCRIPTION:22. 6. 2032. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• DEZINSEKCIJA  D.O.O. – Koncesija na pomorskom dobru (BAKAR\, RA
  ŠA\, RAŠA\, RIJEKA\, RIJEKA\, Grad Bakar)\, 1.000 €/god.\n\nŠto isti
- če: https://koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ če: https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2383,10 +2371,10 @@ DTEND;VALUE=DATE:20330722
 SUMMARY:Ističe koncesija: FORUM UGOSTITELJSTVO D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 21. 7. 2033. Godišnja fiksna nakn
  ada: 135.000 €.\n\n• FORUM UGOSTITELJSTVO D.O.O. – Koncesija za luku
-  (RIJEKA\, Grad Rijeka)\, 135.000 €/god.\n\nŠto ističe: https://konces
- ijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Conce
- ssum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+  (RIJEKA\, Grad Rijeka)\, 135.000 €/god.\n\nŠto ističe: https://conces
+ sum.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9
+ . 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2404,9 +2392,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (FORUM UGOSTITELJ
 DESCRIPTION:21. 7. 2033. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• FORUM UGOSTITELJSTVO D.O.O. – Koncesija za luku (RIJEKA\, Grad 
- Rijeka)\, 135.000 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel
- .app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ Rijeka)\, 135.000 €/god.\n\nŠto ističe: https://concessum.vercel.app/#
+ sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2424,9 +2412,9 @@ SUMMARY:Ističe koncesija: JADRANSKI POMORSKI SERVIS D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 6. 4. 2034. Godišnja fiksna nakna
  da: 5.000 €.\n\n• JADRANSKI POMORSKI SERVIS D.O.O. – Koncesija na po
  morskom dobru (OMIŠALJ\, Otok Krk (Grad Krk i općine))\, 5.000 €/god.\
- n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar 
- koncesija (FINA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ n\nŠto ističe: https://concessum.vercel.app/#sat\nIzvor: Registar konces
+ ija (FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2445,8 +2433,8 @@ DESCRIPTION:6. 4. 2034. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• JADRANSKI POMORSKI SERVIS D.O.O. – Koncesija na pomorskom dobru 
  (OMIŠALJ\, Otok Krk (Grad Krk i općine))\, 5.000 €/god.\n\nŠto istič
- e: https://koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ e: https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2464,9 +2452,9 @@ SUMMARY:Ističe koncesija: RIJEKA PLOV D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 8. 4. 2034. Godišnja fiksna nakna
  da: 4.000 €.\n\n• RIJEKA PLOV D.O.O. – Koncesija na pomorskom dobru 
  (OMIŠALJ\, Otok Krk (Grad Krk i općine))\, 4.000 €/god.\n\nŠto istič
- e: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FIN
- A)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ e: https://concessum.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, o
+ brada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2484,9 +2472,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (RIJEKA PLOV D.O.
 DESCRIPTION:8. 4. 2034. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• RIJEKA PLOV D.O.O. – Koncesija na pomorskom dobru (OMIŠALJ\, Ot
- ok Krk (Grad Krk i općine))\, 4.000 €/god.\n\nŠto ističe: https://kon
- cesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ ok Krk (Grad Krk i općine))\, 4.000 €/god.\n\nŠto ističe: https://con
+ cessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2504,9 +2492,9 @@ SUMMARY:Ističe koncesija: LUKA RIJEKA D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 6. 8. 2034. Godišnja fiksna nakna
  da: 4.000 €.\n\n• LUKA RIJEKA D.D. – Koncesija na pomorskom dobru (O
  MIŠALJ\, Otok Krk (Grad Krk i općine))\, 4.000 €/god.\n\nŠto ističe:
-  https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)
- \, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+  https://concessum.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obr
+ ada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2524,9 +2512,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (LUKA RIJEKA D.D.
 DESCRIPTION:6. 8. 2034. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• LUKA RIJEKA D.D. – Koncesija na pomorskom dobru (OMIŠALJ\, Otok
-  Krk (Grad Krk i općine))\, 4.000 €/god.\n\nŠto ističe: https://konce
- sijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+  Krk (Grad Krk i općine))\, 4.000 €/god.\n\nŠto ističe: https://conce
+ ssum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2544,9 +2532,9 @@ SUMMARY:Ističe koncesija: JADRANSKI NAFTOVOD D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 3. 6. 2035. Godišnja fiksna nakna
  da: 1.511 €.\n\n• JADRANSKI NAFTOVOD D.D. – Koncesija za luku (OMIŠ
  ALJ\, Otok Krk (Grad Krk i općine))\, 1.511 €/god.\n\nŠto ističe: htt
- ps://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, o
- brada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ ps://concessum.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada 
+ Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2564,9 +2552,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (JADRANSKI NAFTOV
 DESCRIPTION:3. 6. 2035. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• JADRANSKI NAFTOVOD D.D. – Koncesija za luku (OMIŠALJ\, Otok Krk
-  (Grad Krk i općine))\, 1.511 €/god.\n\nŠto ističe: https://koncesijs
- ki-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+  (Grad Krk i općine))\, 1.511 €/god.\n\nŠto ističe: https://concessum
+ .vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2584,10 +2572,10 @@ SUMMARY:Ističe koncesija: CENTAR IZVRSNOSTI MARBLE D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 30. 3. 2036. Godišnja fiksna nakn
  ada: 12 €.\n\n• CENTAR IZVRSNOSTI MARBLE D.O.O. – Dozvola za eksploa
  taciju geotermalne vode za energetske svrhe (prema Zakonu o ugljikovodicim
- a) (RIJEKA\, Grad Rijeka)\, 12 €/god.\n\nŠto ističe: https://koncesijs
- ki-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessu
- m 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ a) (RIJEKA\, Grad Rijeka)\, 12 €/god.\n\nŠto ističe: https://concessum
+ .vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 1
+ 1. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2606,9 +2594,9 @@ DESCRIPTION:30. 3. 2036. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• CENTAR IZVRSNOSTI MARBLE D.O.O. – Dozvola za eksploataciju geot
  ermalne vode za energetske svrhe (prema Zakonu o ugljikovodicima) (RIJEKA\
- , Grad Rijeka)\, 12 €/god.\n\nŠto ističe: https://koncesijski-sat.verc
- el.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ , Grad Rijeka)\, 12 €/god.\n\nŠto ističe: https://concessum.vercel.app
+ /#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2626,9 +2614,9 @@ SUMMARY:Ističe koncesija: RIJEKA PLOV D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 2. 4. 2036. Godišnja fiksna nakna
  da: 7.000 €.\n\n• RIJEKA PLOV D.O.O. – Koncesija na pomorskom dobru 
  (BAKAR\, RAŠA\, RAŠA\, RIJEKA\, RIJEKA\, Grad Bakar)\, 7.000 €/god.\n\
- nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar ko
- ncesija (FINA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ nŠto ističe: https://concessum.vercel.app/#sat\nIzvor: Registar koncesij
+ a (FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2647,8 +2635,8 @@ DESCRIPTION:2. 4. 2036. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• RIJEKA PLOV D.O.O. – Koncesija na pomorskom dobru (BAKAR\, RAŠA
  \, RAŠA\, RIJEKA\, RIJEKA\, Grad Bakar)\, 7.000 €/god.\n\nŠto ističe:
-  https://koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+  https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2665,10 +2653,10 @@ DTEND;VALUE=DATE:20411116
 SUMMARY:Ističe koncesija: JADRANSKA VRATA D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 15. 11. 2041. Godišnja fiksna nak
  nada: 682.748 €.\n\n• JADRANSKA VRATA D.D. – Koncesija za luku (RIJE
- KA\, Grad Rijeka)\, 682.748 €/god.\n\nŠto ističe: https://koncesijski-
- sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9
- . 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ KA\, Grad Rijeka)\, 682.748 €/god.\n\nŠto ističe: https://concessum.ve
+ rcel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 11. 
+ 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2686,9 +2674,8 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (JADRANSKA VRATA
 DESCRIPTION:15. 11. 2041. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• JADRANSKA VRATA D.D. – Koncesija za luku (RIJEKA\, Grad Rijeka
- )\, 682.748 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#
- sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ )\, 682.748 €/god.\n\nŠto ističe: https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2707,10 +2694,10 @@ DESCRIPTION:2 ugovora o koncesiji ističe 18. 9. 2042. Godišnja fiksna nak
  nada: 115.138 €.\n\n• LUKA RIJEKA D.D. – Koncesija za luku (BAKAR\, 
  RAŠA\, RAŠA\, RIJEKA\, RIJEKA\, Grad Bakar)\, 111.057 €/god.\n• LUKA
   RIJEKA D.D. – Koncesija za luku (BAKAR\, RAŠA\, RAŠA\, RIJEKA\, RIJEK
- A\, Grad Bakar)\, 4.081 €/god.\n\nŠto ističe: https://koncesijski-sat.
- vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 11
- . 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ A\, Grad Bakar)\, 4.081 €/god.\n\nŠto ističe: https://concessum.vercel
+ .app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 11. 2026
+ .
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2730,8 +2717,8 @@ DESCRIPTION:18. 9. 2042. ističe 2 ugovora o koncesiji. Novi postupak dodje
  a.\n\n• LUKA RIJEKA D.D. – Koncesija za luku (BAKAR\, RAŠA\, RAŠA\, 
  RIJEKA\, RIJEKA\, Grad Bakar)\, 111.057 €/god.\n• LUKA RIJEKA D.D. –
   Koncesija za luku (BAKAR\, RAŠA\, RAŠA\, RIJEKA\, RIJEKA\, Grad Bakar)\
- , 4.081 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ , 4.081 €/god.\n\nŠto ističe: https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2749,9 +2736,9 @@ SUMMARY:Ističe koncesija: RIJEKA GATEWAY D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 1. 9. 2073. Godišnja fiksna nakna
  da: 2.000.000 €.\n\n• RIJEKA GATEWAY D.O.O. – Koncesija na pomorskom
   dobru (RIJEKA\, Grad Rijeka)\, 2.000.000 €/god.\n\nŠto ističe: https:
- //koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obra
- da Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ //concessum.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Con
+ cessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2769,9 +2756,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (RIJEKA GATEWAY D
 DESCRIPTION:1. 9. 2073. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• RIJEKA GATEWAY D.O.O. – Koncesija na pomorskom dobru (RIJEKA\, G
- rad Rijeka)\, 2.000.000 €/god.\n\nŠto ističe: https://koncesijski-sat.
- vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ rad Rijeka)\, 2.000.000 €/god.\n\nŠto ističe: https://concessum.vercel
+ .app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY

@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · GRAD PAZIN
 X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje GRAD PAZIN. Iz Registra ko
  ncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podataka. h
- ttps://koncesijski-sat.vercel.app/#sat
+ ttps://concessum.vercel.app/#sat
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
@@ -21,9 +21,9 @@ DESCRIPTION:1 ugovor o koncesiji ističe 1. 9. 2027. Godišnja fiksna nakna
  da: 2.657 €.\n\n• ALTUS DRUŠTVO S OGRANIČENOM ODGOVORNOŠĆU ZA RADO
  VE NA VISOKIM I TEŠKO PRISTUPAČN – Koncesija za obavljanje dimnjačars
  kih poslova (PAZIN\, Grad Pazin)\, 2.657 €/god.\n\nŠto ističe: https:/
- /koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrad
- a Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ /concessum.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Conc
+ essum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -43,9 +43,9 @@ DESCRIPTION:1. 9. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• ALTUS DRUŠTVO S OGRANIČENOM ODGOVORNOŠĆU ZA RADOVE NA VISOKIM 
  I TEŠKO PRISTUPAČN – Koncesija za obavljanje dimnjačarskih poslova (P
- AZIN\, Grad Pazin)\, 2.657 €/god.\n\nŠto ističe: https://koncesijski-s
- at.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ AZIN\, Grad Pazin)\, 2.657 €/god.\n\nŠto ističe: https://concessum.ver
+ cel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY

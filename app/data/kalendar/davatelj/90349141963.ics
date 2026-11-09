@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · ŽUPANIJSKA LUČKA UPRAVA CRIKVENICA
 X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje ŽUPANIJSKA LUČKA UPRAVA 
  CRIKVENICA. Iz Registra koncesija (FINA\, data.gov.hr). Osvježava se nako
- n svake obrade podataka. https://koncesijski-sat.vercel.app/#sat
+ n svake obrade podataka. https://concessum.vercel.app/#sat
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
@@ -30,9 +30,9 @@ DESCRIPTION:6 ugovora o koncesiji ističe 18. 5. 2027. Godišnja fiksna nak
  orištenja luke (CRIKVENICA\, Grad Crikvenica)\, 212 €/god.\n• TAXI PL
  IMA\, VL. GORDAN MANESTAR – Koncesija pomorskog dobra u svrhu gospodarsk
  og korištenja luke (CRIKVENICA\, Grad Crikvenica)\, 212 €/god.\n\nŠto 
- ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesij
- a (FINA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ ističe: https://concessum.vercel.app/#sat\nIzvor: Registar koncesija (FIN
+ A)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -62,8 +62,8 @@ DESCRIPTION:18. 5. 2027. ističe 6 ugovora o koncesiji. Novi postupak dodje
  e (CRIKVENICA\, Grad Crikvenica)\, 212 €/god.\n• TAXI PLIMA\, VL. GORD
  AN MANESTAR – Koncesija pomorskog dobra u svrhu gospodarskog korištenja
   luke (CRIKVENICA\, Grad Crikvenica)\, 212 €/god.\n\nŠto ističe: https
- ://koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ ://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -81,9 +81,9 @@ SUMMARY:Ističe koncesija: USLUŽNI OBRT LONČARIĆ VL.IGOR LONČARIĆ
 DESCRIPTION:1 ugovor o koncesiji ističe 28. 8. 2027. Godišnja fiksna nakn
  ada: 2.256 €.\n\n• USLUŽNI OBRT LONČARIĆ VL.IGOR LONČARIĆ – Kon
  cesija za luku (CRIKVENICA\, Grad Crikvenica)\, 2.256 €/god.\n\nŠto ist
- iče: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (
- FINA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ iče: https://concessum.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\
+ , obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -102,8 +102,8 @@ DESCRIPTION:28. 8. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• USLUŽNI OBRT LONČARIĆ VL.IGOR LONČARIĆ – Koncesija za luku
   (CRIKVENICA\, Grad Crikvenica)\, 2.256 €/god.\n\nŠto ističe: https://
- koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -121,9 +121,9 @@ SUMMARY:Ističe koncesija: DEZINSEKCIJA D. O. O.
 DESCRIPTION:1 ugovor o koncesiji ističe 2. 9. 2027. Godišnja fiksna nakna
  da: 265 €.\n\n• DEZINSEKCIJA D. O. O. – Koncesija pomorskog dobra u 
  svrhu gospodarskog korištenja luke (CRIKVENICA\, Grad Crikvenica)\, 265 
- €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: 
- Registar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ €/god.\n\nŠto ističe: https://concessum.vercel.app/#sat\nIzvor: Regist
+ ar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -142,8 +142,8 @@ DESCRIPTION:2. 9. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• DEZINSEKCIJA D. O. O. – Koncesija pomorskog dobra u svrhu gospod
  arskog korištenja luke (CRIKVENICA\, Grad Crikvenica)\, 265 €/god.\n\n
- Što ističe: https://koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ Što ističe: https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -161,10 +161,10 @@ SUMMARY:Ističe koncesija: MARIO BOŠNJAK - TAXI MARINO\, MARIO BOŠNJAK
 DESCRIPTION:1 ugovor o koncesiji ističe 20. 1. 2028. Godišnja fiksna nakn
  ada: 4.406 €.\n\n• MARIO BOŠNJAK - TAXI MARINO\, MARIO BOŠNJAK – K
  oncesija pomorskog dobra u svrhu gospodarskog korištenja luke (CRIKVENICA
- \, Grad Crikvenica)\, 4.406 €/god.\n\nŠto ističe: https://koncesijski-
- sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9
- . 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ \, Grad Crikvenica)\, 4.406 €/god.\n\nŠto ističe: https://concessum.ve
+ rcel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 11. 
+ 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -184,9 +184,8 @@ DESCRIPTION:20. 1. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• MARIO BOŠNJAK - TAXI MARINO\, MARIO BOŠNJAK – Koncesija pomor
  skog dobra u svrhu gospodarskog korištenja luke (CRIKVENICA\, Grad Crikve
- nica)\, 4.406 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app
- /#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ nica)\, 4.406 €/god.\n\nŠto ističe: https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -203,10 +202,10 @@ DTEND;VALUE=DATE:20290129
 SUMMARY:Ističe koncesija: NIKOLA 1965 D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 28. 1. 2029. Godišnja fiksna nakn
  ada: 7.300 €.\n\n• NIKOLA 1965 D.O.O. – Koncesija za luku (CRIKVENIC
- A\, Grad Crikvenica)\, 7.300 €/god.\n\nŠto ističe: https://koncesijski
- -sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 
- 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ A\, Grad Crikvenica)\, 7.300 €/god.\n\nŠto ističe: https://concessum.v
+ ercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 11.
+  2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -224,9 +223,8 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (NIKOLA 1965 D.O.
 DESCRIPTION:28. 1. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• NIKOLA 1965 D.O.O. – Koncesija za luku (CRIKVENICA\, Grad Crikv
- enica)\, 7.300 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.ap
- p/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ enica)\, 7.300 €/god.\n\nŠto ističe: https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -244,9 +242,9 @@ SUMMARY:Ističe koncesija: VELA PALADA D. O. O.
 DESCRIPTION:1 ugovor o koncesiji ističe 4. 7. 2029. Godišnja fiksna nakna
  da: 5.309 €.\n\n• VELA PALADA D. O. O. – Koncesija pomorskog dobra u
   svrhu gospodarskog korištenja luke (CRIKVENICA\, Grad Crikvenica)\, 5.30
- 9 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor
- : Registar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ 9 €/god.\n\nŠto ističe: https://concessum.vercel.app/#sat\nIzvor: Regi
+ star koncesija (FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -265,8 +263,8 @@ DESCRIPTION:4. 7. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• VELA PALADA D. O. O. – Koncesija pomorskog dobra u svrhu gospoda
  rskog korištenja luke (CRIKVENICA\, Grad Crikvenica)\, 5.309 €/god.\n\n
- Što ističe: https://koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ Što ističe: https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -286,9 +284,9 @@ DESCRIPTION:2 ugovora o koncesiji ističe 13. 8. 2030. Godišnja fiksna nak
  g dobra u svrhu gospodarskog korištenja luke (CRIKVENICA\, Grad Crikvenic
  a)\, 3.212 €/god.\n• TRAMONTO D. O. O. – Koncesija pomorskog dobra u
   svrhu gospodarskog korištenja luke (CRIKVENICA\, Grad Crikvenica)\, 462 
- €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: 
- Registar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ €/god.\n\nŠto ističe: https://concessum.vercel.app/#sat\nIzvor: Regist
+ ar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -309,8 +307,8 @@ DESCRIPTION:13. 8. 2030. ističe 2 ugovora o koncesiji. Novi postupak dodje
  u gospodarskog korištenja luke (CRIKVENICA\, Grad Crikvenica)\, 3.212 €
  /god.\n• TRAMONTO D. O. O. – Koncesija pomorskog dobra u svrhu gospoda
  rskog korištenja luke (CRIKVENICA\, Grad Crikvenica)\, 462 €/god.\n\nŠ
- to ističe: https://koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ to ističe: https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -331,9 +329,9 @@ DESCRIPTION:3 ugovora o koncesiji ističe 17. 6. 2031. Godišnja fiksna nak
  AR J.D.O.O. – Koncesija na pomorskom dobru (CRIKVENICA\, Grad Crikvenica
  )\, 3.007 €/god.\n• LA BON UGOSTITELJSTVO J.D.O.O. – Koncesija na po
  morskom dobru (CRIKVENICA\, Grad Crikvenica)\, 2.481 €/god.\n\nŠto isti
- če: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (F
- INA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ če: https://concessum.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\,
+  obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -355,8 +353,8 @@ DESCRIPTION:17. 6. 2031. ističe 3 ugovora o koncesiji. Novi postupak dodje
  – Koncesija na pomorskom dobru (CRIKVENICA\, Grad Crikvenica)\, 3.007 
  €/god.\n• LA BON UGOSTITELJSTVO J.D.O.O. – Koncesija na pomorskom do
  bru (CRIKVENICA\, Grad Crikvenica)\, 2.481 €/god.\n\nŠto ističe: https
- ://koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ ://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -378,10 +376,10 @@ DESCRIPTION:3 ugovora o koncesiji ističe 22. 8. 2031. Godišnja fiksna nak
  ATULIĆ – Koncesija na pomorskom dobru (CRIKVENICA\, Grad Crikvenica)\, 
  4.852 €/god.\n• ŠEHAP BEKTEŠI\, DONNA\, OBRT ZA UGOSTITELJSTVO\, SUV
  L. ŠEHAP BEKTEŠI I QEFLI JUSUFI – Koncesija na pomorskom dobru (CRIKVE
- NICA\, Grad Crikvenica)\, 4.404 €/god.\n\nŠto ističe: https://koncesij
- ski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concess
- um 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ NICA\, Grad Crikvenica)\, 4.404 €/god.\n\nŠto ističe: https://concessu
+ m.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 
+ 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -404,9 +402,9 @@ DESCRIPTION:22. 8. 2031. ističe 3 ugovora o koncesiji. Novi postupak dodje
  cesija na pomorskom dobru (CRIKVENICA\, Grad Crikvenica)\, 4.852 €/god.\
  n• ŠEHAP BEKTEŠI\, DONNA\, OBRT ZA UGOSTITELJSTVO\, SUVL. ŠEHAP BEKTE
  ŠI I QEFLI JUSUFI – Koncesija na pomorskom dobru (CRIKVENICA\, Grad Cri
- kvenica)\, 4.404 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.
- app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ kvenica)\, 4.404 €/god.\n\nŠto ističe: https://concessum.vercel.app/#s
+ at
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -424,9 +422,9 @@ SUMMARY:Ističe koncesija: BSK COMMERCE D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 18. 11. 2044. Godišnja fiksna nak
  nada: 7.755 €.\n\n• BSK COMMERCE D.O.O. – Koncesija na pomorskom dob
  ru (CRIKVENICA\, Grad Crikvenica)\, 7.755 €/god.\n\nŠto ističe: https:
- //koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obra
- da Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ //concessum.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Con
+ cessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -444,9 +442,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BSK COMMERCE D.O
 DESCRIPTION:18. 11. 2044. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• BSK COMMERCE D.O.O. – Koncesija na pomorskom dobru (CRIKVENICA
- \, Grad Crikvenica)\, 7.755 €/god.\n\nŠto ističe: https://koncesijski-
- sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ \, Grad Crikvenica)\, 7.755 €/god.\n\nŠto ističe: https://concessum.ve
+ rcel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY

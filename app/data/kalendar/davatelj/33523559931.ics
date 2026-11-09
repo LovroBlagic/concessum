@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · OPĆINA BEDEKOVČINA
 X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje OPĆINA BEDEKOVČINA. Iz R
  egistra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade p
- odataka. https://koncesijski-sat.vercel.app/#sat
+ odataka. https://concessum.vercel.app/#sat
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
@@ -19,9 +19,9 @@ SUMMARY:Ističe koncesija: JAKUŠ DIMOVODNI SUSTAVI J.D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 23. 3. 2028. Godišnja fiksna nakn
  ada: 800 €.\n\n• JAKUŠ DIMOVODNI SUSTAVI J.D.O.O. – Koncesija za ob
  avljanje dimnjačarskih poslova (BEDEKOVČINA\, Općina Bedekovčina)\, 80
- 0 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor
- : Registar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ 0 €/god.\n\nŠto ističe: https://concessum.vercel.app/#sat\nIzvor: Regi
+ star koncesija (FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -40,8 +40,8 @@ DESCRIPTION:23. 3. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• JAKUŠ DIMOVODNI SUSTAVI J.D.O.O. – Koncesija za obavljanje dim
  njačarskih poslova (BEDEKOVČINA\, Općina Bedekovčina)\, 800 €/god.\n
- \nŠto ističe: https://koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ \nŠto ističe: https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY

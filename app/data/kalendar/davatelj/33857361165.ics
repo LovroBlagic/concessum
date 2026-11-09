@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · OPĆINA CRNAC
 X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje OPĆINA CRNAC. Iz Registra
   koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podataka
- . https://koncesijski-sat.vercel.app/#sat
+ . https://concessum.vercel.app/#sat
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
@@ -18,9 +18,9 @@ DTEND;VALUE=DATE:20270325
 SUMMARY:Ističe koncesija: CRNAC-PROMET D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 24. 3. 2027.\n\n• CRNAC-PROMET D
  .O.O. – Koncesija za obavljanje komunalnih djelatnosti (CRNAC\, Općina 
- Crnac)\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Re
- gistar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ Crnac)\n\nŠto ističe: https://concessum.vercel.app/#sat\nIzvor: Registar
+  koncesija (FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -37,10 +37,10 @@ SUMMARY:Ističe koncesija: POLJOPRIVREDNO PODUZEĆE ORAHOVICA D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 3. 9. 2037. Godišnja fiksna nakna
  da: 10.160 €.\n\n• POLJOPRIVREDNO PODUZEĆE ORAHOVICA D.D. – Koncesi
  ja za korištenje poljoprivrednog zemljišta u vlasništvu države (CRNAC\
- , Općina Crnac)\, 10.160 €/god.\n\nŠto ističe: https://koncesijski-sa
- t.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 
- 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ , Općina Crnac)\, 10.160 €/god.\n\nŠto ističe: https://concessum.verc
+ el.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 11. 20
+ 26.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -59,9 +59,8 @@ DESCRIPTION:3. 9. 2037. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• POLJOPRIVREDNO PODUZEĆE ORAHOVICA D.D. – Koncesija za korišten
  je poljoprivrednog zemljišta u vlasništvu države (CRNAC\, Općina Crnac
- )\, 10.160 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#s
- at
-URL:https://koncesijski-sat.vercel.app/#sat
+ )\, 10.160 €/god.\n\nŠto ističe: https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -79,10 +78,10 @@ SUMMARY:Ističe koncesija: POLJOPRIVREDNO PODUZEĆE ORAHOVICA D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 15. 10. 2038. Godišnja fiksna nak
  nada: 47.400 €.\n\n• POLJOPRIVREDNO PODUZEĆE ORAHOVICA D.D. – Konce
  sija za korištenje poljoprivrednog zemljišta u vlasništvu države (CRNA
- C\, Općina Crnac)\, 47.400 €/god.\n\nŠto ističe: https://koncesijski-
- sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9
- . 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ C\, Općina Crnac)\, 47.400 €/god.\n\nŠto ističe: https://concessum.ve
+ rcel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 11. 
+ 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -101,9 +100,8 @@ DESCRIPTION:15. 10. 2038. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• POLJOPRIVREDNO PODUZEĆE ORAHOVICA D.D. – Koncesija za korišt
  enje poljoprivrednog zemljišta u vlasništvu države (CRNAC\, Općina Crn
- ac)\, 47.400 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/
- #sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ ac)\, 47.400 €/god.\n\nŠto ističe: https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY

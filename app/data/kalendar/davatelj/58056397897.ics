@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · OPĆINA BEDENICA
 X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje OPĆINA BEDENICA. Iz Regis
  tra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podat
- aka. https://koncesijski-sat.vercel.app/#sat
+ aka. https://concessum.vercel.app/#sat
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
@@ -19,9 +19,9 @@ SUMMARY:Ističe koncesija: LEUŠTEK J.D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 25. 5. 2027. Godišnja fiksna nakn
  ada: 159 €.\n\n• LEUŠTEK J.D.O.O. – Koncesija za obavljanje dimnja
  čarskih poslova (BEDENICA\, Općina Bedenica)\, 159 €/god.\n\nŠto isti
- če: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (F
- INA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ če: https://concessum.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\,
+  obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -40,8 +40,8 @@ DESCRIPTION:25. 5. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• LEUŠTEK J.D.O.O. – Koncesija za obavljanje dimnjačarskih posl
  ova (BEDENICA\, Općina Bedenica)\, 159 €/god.\n\nŠto ističe: https://
- koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -58,9 +58,9 @@ DTEND;VALUE=DATE:20281102
 SUMMARY:Ističe koncesija: EKO-FLOR PLUS D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 1. 11. 2028.\n\n• EKO-FLOR PLUS 
  D.O.O. – Koncesija skupljanja i odvoza komunalnog otpada (BEDENICA\, Op
- ćina Bedenica)\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\n
- Izvor: Registar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ ćina Bedenica)\n\nŠto ističe: https://concessum.vercel.app/#sat\nIzvor:
+  Registar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -78,9 +78,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (EKO-FLOR PLUS D.
 DESCRIPTION:1. 11. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• EKO-FLOR PLUS D.O.O. – Koncesija skupljanja i odvoza komunalnog
-  otpada (BEDENICA\, Općina Bedenica)\n\nŠto ističe: https://koncesijski
- -sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+  otpada (BEDENICA\, Općina Bedenica)\n\nŠto ističe: https://concessum.v
+ ercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY

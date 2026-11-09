@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · OPĆINA PISAROVINA
 X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje OPĆINA PISAROVINA. Iz Reg
  istra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade pod
- ataka. https://koncesijski-sat.vercel.app/#sat
+ ataka. https://concessum.vercel.app/#sat
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
@@ -19,9 +19,9 @@ SUMMARY:Ističe koncesija: MULL-TRANS D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 1. 2. 2031. Godišnja fiksna nakna
  da: 1.880 €.\n\n• MULL-TRANS D.O.O. – Koncesija za obavljanje komuna
  lnih djelatnosti (PISAROVINA\, Općina Pisarovina)\, 1.880 €/god.\n\nŠt
- o ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar konces
- ija (FINA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ o ističe: https://concessum.vercel.app/#sat\nIzvor: Registar koncesija (F
+ INA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -40,8 +40,8 @@ DESCRIPTION:1. 2. 2031. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• MULL-TRANS D.O.O. – Koncesija za obavljanje komunalnih djelatnos
  ti (PISAROVINA\, Općina Pisarovina)\, 1.880 €/god.\n\nŠto ističe: htt
- ps://koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ ps://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -59,9 +59,9 @@ SUMMARY:Ističe koncesija: DIMNJAČAR OBRT
 DESCRIPTION:1 ugovor o koncesiji ističe 1. 8. 2031. Godišnja fiksna nakna
  da: 620 €.\n\n• DIMNJAČAR OBRT – Koncesija za obavljanje komunalnih
   djelatnosti (PISAROVINA\, Općina Pisarovina)\, 620 €/god.\n\nŠto isti
- če: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (F
- INA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ če: https://concessum.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\,
+  obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -79,8 +79,8 @@ DESCRIPTION:1. 8. 2031. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• DIMNJAČAR OBRT – Koncesija za obavljanje komunalnih djelatnosti
   (PISAROVINA\, Općina Pisarovina)\, 620 €/god.\n\nŠto ističe: https:/
- /koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ /concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY

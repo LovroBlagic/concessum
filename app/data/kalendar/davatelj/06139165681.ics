@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · OPĆINA OKUČANI
 X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje OPĆINA OKUČANI. Iz Regis
  tra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podat
- aka. https://koncesijski-sat.vercel.app/#sat
+ aka. https://concessum.vercel.app/#sat
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
@@ -19,9 +19,9 @@ SUMMARY:Ističe koncesija: DIMNJAČARSKI SERVIS J.D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 24. 10. 2031. Godišnja fiksna nak
  nada: 730 €.\n\n• DIMNJAČARSKI SERVIS J.D.O.O. – Koncesija za obavl
  janje dimnjačarskih poslova (OKUČANI\, Općina Okućani)\, 730 €/god.\
- n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar 
- koncesija (FINA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ n\nŠto ističe: https://concessum.vercel.app/#sat\nIzvor: Registar konces
+ ija (FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -40,8 +40,8 @@ DESCRIPTION:24. 10. 2031. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• DIMNJAČARSKI SERVIS J.D.O.O. – Koncesija za obavljanje dimnja
  čarskih poslova (OKUČANI\, Općina Okućani)\, 730 €/god.\n\nŠto isti
- če: https://koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ če: https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY

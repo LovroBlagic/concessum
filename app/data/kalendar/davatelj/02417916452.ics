@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · OPĆINA BOROVO
 X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje OPĆINA BOROVO. Iz Registr
  a koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podatak
- a. https://koncesijski-sat.vercel.app/#sat
+ a. https://concessum.vercel.app/#sat
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
@@ -18,10 +18,10 @@ DTEND;VALUE=DATE:20310421
 SUMMARY:Ističe koncesija: HEP-PLIN D.O.O. ZA DISTRIBUCIJU I OPSKRBU PLINOM
 DESCRIPTION:1 ugovor o koncesiji ističe 20. 4. 2031.\n\n• HEP-PLIN D.O.O
  . ZA DISTRIBUCIJU I OPSKRBU PLINOM – Koncesija za opskrbu potrošača pr
- irodnim plinom (BOROVO\, Općina Borovo)\n\nŠto ističe: https://koncesij
- ski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concess
- um 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ irodnim plinom (BOROVO\, Općina Borovo)\n\nŠto ističe: https://concessu
+ m.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 
+ 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -41,8 +41,8 @@ DESCRIPTION:20. 4. 2031. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• HEP-PLIN D.O.O. ZA DISTRIBUCIJU I OPSKRBU PLINOM – Koncesija za
   opskrbu potrošača prirodnim plinom (BOROVO\, Općina Borovo)\n\nŠto is
- tiče: https://koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ tiče: https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY

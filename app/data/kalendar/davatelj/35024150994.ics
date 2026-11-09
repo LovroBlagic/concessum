@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · OPĆINA ŠANDROVAC
 X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje OPĆINA ŠANDROVAC. Iz Reg
  istra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade pod
- ataka. https://koncesijski-sat.vercel.app/#sat
+ ataka. https://concessum.vercel.app/#sat
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
@@ -22,9 +22,9 @@ DESCRIPTION:2 ugovora o koncesiji ističe 24. 11. 2028. Godišnja fiksna na
  Općina Šandrovac)\, 200 €/god.\n• IVAN GALOVIĆ\, DIMNJAČARSTVO GAL
  OVIĆ\, VL. IVAN GALOVIĆ – Koncesija za obavljanje dimnjačarskih poslo
  va (ŠANDROVAC\, Općina Šandrovac)\, 200 €/god.\n\nŠto ističe: https
- ://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obr
- ada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ ://concessum.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Co
+ ncessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -45,9 +45,9 @@ DESCRIPTION:24. 11. 2028. ističe 2 ugovora o koncesiji. Novi postupak dodj
   Koncesija za obavljanje dimnjačarskih poslova (ŠANDROVAC\, Općina Šan
  drovac)\, 200 €/god.\n• IVAN GALOVIĆ\, DIMNJAČARSTVO GALOVIĆ\, VL. 
  IVAN GALOVIĆ – Koncesija za obavljanje dimnjačarskih poslova (ŠANDROV
- AC\, Općina Šandrovac)\, 200 €/god.\n\nŠto ističe: https://koncesijs
- ki-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ AC\, Općina Šandrovac)\, 200 €/god.\n\nŠto ističe: https://concessum
+ .vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY

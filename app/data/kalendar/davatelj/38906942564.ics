@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · OPĆINA TOVARNIK
 X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje OPĆINA TOVARNIK. Iz Regis
  tra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podat
- aka. https://koncesijski-sat.vercel.app/#sat
+ aka. https://concessum.vercel.app/#sat
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
@@ -19,9 +19,9 @@ SUMMARY:Ističe koncesija: MULL-TRANS D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 28. 7. 2027.\n\n• MULL-TRANS D.O
  .O. – Koncesija za zbrinjavanje komunalnog otpada i održavanje zelenih 
  i javnih površina (TOVARNIK\, Općina Tovarnik)\n\nŠto ističe: https://
- koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada
-  Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ concessum.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Conce
+ ssum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -40,8 +40,8 @@ DESCRIPTION:28. 7. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• MULL-TRANS D.O.O. – Koncesija za zbrinjavanje komunalnog otpada
   i održavanje zelenih i javnih površina (TOVARNIK\, Općina Tovarnik)\n\
- nŠto ističe: https://koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ nŠto ističe: https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -60,10 +60,10 @@ SUMMARY:Ističe koncesija: DIMNJAČARSKO USLUŽNI OBRT EKO DIM VINKOVCI\, V
 DESCRIPTION:1 ugovor o koncesiji ističe 17. 4. 2030. Godišnja fiksna nakn
  ada: 500 €.\n\n• DIMNJAČARSKO USLUŽNI OBRT EKO DIM VINKOVCI\, VL. HR
  VOJE HORVAT – Koncesija za obavljanje dimnjačarskih poslova (TOVARNIK\,
-  Općina Tovarnik)\, 500 €/god.\n\nŠto ističe: https://koncesijski-sat
- .vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 1
- 1. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+  Općina Tovarnik)\, 500 €/god.\n\nŠto ističe: https://concessum.verce
+ l.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 11. 202
+ 6.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -83,9 +83,8 @@ DESCRIPTION:17. 4. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• DIMNJAČARSKO USLUŽNI OBRT EKO DIM VINKOVCI\, VL. HRVOJE HORVAT 
  – Koncesija za obavljanje dimnjačarskih poslova (TOVARNIK\, Općina Tov
- arnik)\, 500 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/
- #sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ arnik)\, 500 €/god.\n\nŠto ističe: https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -102,10 +101,10 @@ DTEND;VALUE=DATE:20350921
 SUMMARY:Ističe koncesija: HEP-PLIN  D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 20. 9. 2035.\n\n• HEP-PLIN  D.O.
  O. – Koncesija za obavljanje distribucije plina na postojećem distribuc
- ijskom sustavu (TOVARNIK\, Općina Tovarnik)\n\nŠto ističe: https://konc
- esijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Con
- cessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ ijskom sustavu (TOVARNIK\, Općina Tovarnik)\n\nŠto ističe: https://conc
+ essum.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum
+  9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -124,8 +123,8 @@ DESCRIPTION:20. 9. 2035. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• HEP-PLIN  D.O.O. – Koncesija za obavljanje distribucije plina n
  a postojećem distribucijskom sustavu (TOVARNIK\, Općina Tovarnik)\n\nŠt
- o ističe: https://koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ o ističe: https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -143,10 +142,9 @@ SUMMARY:Ističe koncesija: AGRO-TOVARNIK  D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 15. 10. 2038. Godišnja fiksna nak
  nada: 210.621 €.\n\n• AGRO-TOVARNIK  D.O.O. – Koncesija za korišten
  je poljoprivrednog zemljišta u vlasništvu države (TOVARNIK\, Općina To
- varnik)\, 210.621 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel
- .app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 11. 2026
- .
-URL:https://koncesijski-sat.vercel.app/#sat
+ varnik)\, 210.621 €/god.\n\nŠto ističe: https://concessum.vercel.app/#
+ sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -165,8 +163,8 @@ DESCRIPTION:15. 10. 2038. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• AGRO-TOVARNIK  D.O.O. – Koncesija za korištenje poljoprivredn
  og zemljišta u vlasništvu države (TOVARNIK\, Općina Tovarnik)\, 210.62
- 1 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ 1 €/god.\n\nŠto ističe: https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY

@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · BJELOVARSKO-BILOGORSKA ŽUPANIJA
 X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje BJELOVARSKO-BILOGORSKA ŽU
  PANIJA. Iz Registra koncesija (FINA\, data.gov.hr). Osvježava se nakon sv
- ake obrade podataka. https://koncesijski-sat.vercel.app/#sat
+ ake obrade podataka. https://concessum.vercel.app/#sat
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
@@ -20,9 +20,9 @@ SUMMARY:Ističe koncesija: PRIVATNA PRAKSA ZDRAVSTVENE NJEGE IVANA BERAK\,
 DESCRIPTION:1 ugovor o koncesiji ističe 1. 3. 2027. Godišnja fiksna nakna
  da: 478 €.\n\n• PRIVATNA PRAKSA ZDRAVSTVENE NJEGE IVANA BERAK\, MED. S
  ESTRA – Koncesija za obavljanje javne zdravstvene službe (IVANSKA)\, 47
- 8 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor
- : Registar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ 8 €/god.\n\nŠto ističe: https://concessum.vercel.app/#sat\nIzvor: Regi
+ star koncesija (FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -43,10 +43,10 @@ DESCRIPTION:1 ugovor o koncesiji ističe 20. 4. 2030. Godišnja fiksna nakn
  (BEREK\, BJELOVAR\, BJELOVAR\, IVANSKA\, IVANSKA\, KAPELA\, KAPELA\, NOVA 
  RAČA\, NOVA RAČA\, ROVIŠĆE\, ROVIŠĆE\, SEVERIN\, SEVERIN\, VELIKA PI
  SANICA\, VELIKA PISANICA\, VELIKI GRĐEVAC\, VELIKI GRĐEVAC\, ŠTEFANJE\,
-  ŠTEFANJE\, Općina Berek)\, 1.327 €/god.\n\nŠto ističe: https://konc
- esijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Con
- cessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+  ŠTEFANJE\, Općina Berek)\, 1.327 €/god.\n\nŠto ističe: https://conc
+ essum.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum
+  9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -68,9 +68,9 @@ DESCRIPTION:20. 4. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  VAR\, BJELOVAR\, IVANSKA\, IVANSKA\, KAPELA\, KAPELA\, NOVA RAČA\, NOVA R
  AČA\, ROVIŠĆE\, ROVIŠĆE\, SEVERIN\, SEVERIN\, VELIKA PISANICA\, VELIK
  A PISANICA\, VELIKI GRĐEVAC\, VELIKI GRĐEVAC\, ŠTEFANJE\, ŠTEFANJE\, O
- pćina Berek)\, 1.327 €/god.\n\nŠto ističe: https://koncesijski-sat.ve
- rcel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ pćina Berek)\, 1.327 €/god.\n\nŠto ističe: https://concessum.vercel.a
+ pp/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -87,10 +87,10 @@ DTEND;VALUE=DATE:20300525
 SUMMARY:Ističe koncesija: ČAPLIN D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 24. 5. 2030.\n\n• ČAPLIN D.O.O.
   – Koncesija za obavljanje distribucije plina na postojećem distribucij
- skom sustavu (ČAZMA\, Grad Čazma)\n\nŠto ističe: https://koncesijski-s
- at.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9.
-  11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ skom sustavu (ČAZMA\, Grad Čazma)\n\nŠto ističe: https://concessum.ver
+ cel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 11. 2
+ 026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -108,8 +108,8 @@ DESCRIPTION:24. 5. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• ČAPLIN D.O.O. – Koncesija za obavljanje distribucije plina na 
  postojećem distribucijskom sustavu (ČAZMA\, Grad Čazma)\n\nŠto ističe
- : https://koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ : https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -127,9 +127,9 @@ SUMMARY:Ističe koncesija: SIROVINA - TRGOPRERADA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 8. 5. 2042. Godišnja fiksna nakna
  da: 2.203 €.\n\n• SIROVINA - TRGOPRERADA D.O.O. – Koncesija za skupl
  janje ambalažnog otpada (BJELOVAR\, Grad Bjelovar)\, 2.203 €/god.\n\nŠ
- to ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar konce
- sija (FINA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ to ističe: https://concessum.vercel.app/#sat\nIzvor: Registar koncesija (
+ FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -148,8 +148,8 @@ DESCRIPTION:8. 5. 2042. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• SIROVINA - TRGOPRERADA D.O.O. – Koncesija za skupljanje ambalaž
  nog otpada (BJELOVAR\, Grad Bjelovar)\, 2.203 €/god.\n\nŠto ističe: ht
- tps://koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ tps://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY

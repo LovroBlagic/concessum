@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · OPĆINA BEDNJA
 X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje OPĆINA BEDNJA. Iz Registr
  a koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podatak
- a. https://koncesijski-sat.vercel.app/#sat
+ a. https://concessum.vercel.app/#sat
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
@@ -21,9 +21,9 @@ DESCRIPTION:2 ugovora o koncesiji ističe 21. 12. 2030. Godišnja fiksna na
  vljanje dimnjačarskih poslova (BEDNJA\, Općina Bednja)\, 700 €/god.\n
  • DIMNJAČARSTVO VALJAK D.O.O. – Koncesija za obavljanje dimnjačarski
  h poslova (BEDNJA\, Općina Bednja)\, 700 €/god.\n\nŠto ističe: https:
- //koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obra
- da Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ //concessum.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Con
+ cessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -42,9 +42,9 @@ DESCRIPTION:21. 12. 2030. ističe 2 ugovora o koncesiji. Novi postupak dodj
  ra.\n\n• DIMNJAČARSTVO VALJAK D.O.O. – Koncesija za obavljanje dimnja
  čarskih poslova (BEDNJA\, Općina Bednja)\, 700 €/god.\n• DIMNJAČARS
  TVO VALJAK D.O.O. – Koncesija za obavljanje dimnjačarskih poslova (BEDN
- JA\, Općina Bednja)\, 700 €/god.\n\nŠto ističe: https://koncesijski-s
- at.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ JA\, Općina Bednja)\, 700 €/god.\n\nŠto ističe: https://concessum.ver
+ cel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY

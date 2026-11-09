@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · OPĆINA BRCKOVLJANI
 X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje OPĆINA BRCKOVLJANI. Iz Re
  gistra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade po
- dataka. https://koncesijski-sat.vercel.app/#sat
+ dataka. https://concessum.vercel.app/#sat
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
@@ -19,10 +19,9 @@ SUMMARY:Ističe koncesija: BOŽJAKOVINA  D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 16. 11. 2037. Godišnja fiksna nak
  nada: 109.892 €.\n\n• BOŽJAKOVINA  D.D. – Koncesija za korištenje 
  poljoprivrednog zemljišta u vlasništvu države (BRCKOVLJANI\, Općina Br
- ckovljani)\, 109.892 €/god.\n\nŠto ističe: https://koncesijski-sat.ver
- cel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 11. 2
- 026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ ckovljani)\, 109.892 €/god.\n\nŠto ističe: https://concessum.vercel.ap
+ p/#sat\nIzvor: Registar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -41,8 +40,8 @@ DESCRIPTION:16. 11. 2037. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• BOŽJAKOVINA  D.D. – Koncesija za korištenje poljoprivrednog 
  zemljišta u vlasništvu države (BRCKOVLJANI\, Općina Brckovljani)\, 109
- .892 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ .892 €/god.\n\nŠto ističe: https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY

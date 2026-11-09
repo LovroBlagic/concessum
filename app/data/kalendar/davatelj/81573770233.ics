@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · GRAD VRGORAC
 X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje GRAD VRGORAC. Iz Registra 
  koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podataka.
-  https://koncesijski-sat.vercel.app/#sat
+  https://concessum.vercel.app/#sat
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
@@ -19,9 +19,9 @@ SUMMARY:Ističe koncesija: LM-COMMERCE D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 23. 12. 2038. Godišnja fiksna nak
  nada: 1.007 €.\n\n• LM-COMMERCE D.O.O. – Koncesija za korištenje po
  ljoprivrednog zemljišta u vlasništvu države (VRGORAC\, Grad Vrgorac)\, 
- 1.007 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nI
- zvor: Registar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+ 1.007 €/god.\n\nŠto ističe: https://concessum.vercel.app/#sat\nIzvor: 
+ Registar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -40,8 +40,8 @@ DESCRIPTION:23. 12. 2038. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• LM-COMMERCE D.O.O. – Koncesija za korištenje poljoprivrednog 
  zemljišta u vlasništvu države (VRGORAC\, Grad Vrgorac)\, 1.007 €/god.
- \n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
-URL:https://koncesijski-sat.vercel.app/#sat
+ \n\nŠto ističe: https://concessum.vercel.app/#sat
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY

@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · OPĆINA BREZNICA
 X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje OPĆINA BREZNICA. Iz Regis
  tra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podat
- aka. https://koncesijski-sat.vercel.app/#sat
+ aka. https://concessum.vercel.app/#sat
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
@@ -18,9 +18,9 @@ DTEND;VALUE=DATE:20270102
 SUMMARY:Ističe koncesija: MULL-TRANS D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 1. 1. 2027.\n\n• MULL-TRANS D.O.
  O. – Koncesija skupljanja i odvoza komunalnog otpada (BREZNICA\, Općina
-  Breznica)\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor
- : Registar koncesija (FINA)\, obrada Concessum 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#sat
+  Breznica)\n\nŠto ističe: https://concessum.vercel.app/#sat\nIzvor: Regi
+ star koncesija (FINA)\, obrada Concessum 9. 11. 2026.
+URL:https://concessum.vercel.app/#sat
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
