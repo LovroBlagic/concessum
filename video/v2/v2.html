@@ -1,0 +1,769 @@
+<!doctype html>
+<html lang="hr">
+<head>
+<meta charset="utf-8">
+<title>Concessum – video v2 (3:00)</title>
+<style>
+  :root {
+    --bg: #0c0e11; --tekst: #f1efe9; --tekst-2: #9aa0aa; --tekst-3: #6d737d; --rub: #2a2e35;
+    --teal: #4fc1c6; --narancasta: #f0844e; --crvena: #f06a55; --zuta: #f0b545; --zelena: #4fbf7a;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html, body { width: 1920px; height: 1080px; overflow: hidden; background: var(--bg); }
+  body { color: var(--tekst); font-family: "SF Pro Display", system-ui, -apple-system, "Segoe UI", sans-serif; font-variant-numeric: tabular-nums; -webkit-font-smoothing: antialiased; }
+  .mono { font-family: "SF Mono", Menlo, ui-monospace, monospace; }
+  #stage { position: absolute; left: 0; top: 0; width: 1920px; height: 1080px; overflow: hidden; transform-origin: 0 0; }
+  #bg { position: absolute; inset: 0; background: radial-gradient(1100px 800px at 50% 45%, #151a20, transparent 70%), var(--bg); }
+  canvas#c { position: absolute; left: 0; top: 0; }
+  .sloj { position: absolute; inset: 0; display: none; }
+  em { font-style: normal; color: var(--narancasta); }
+  .teal { color: var(--teal); }
+
+  /* tekstualne kartice */
+  .k { position: absolute; left: 50%; width: 1640px; margin-left: -820px; text-align: center; font-size: 62px; font-weight: 750; letter-spacing: -1px; line-height: 1.16; display: none; text-shadow: 0 4px 30px rgba(0,0,0,.6); }
+  .k small { display: block; font-size: 30px; font-weight: 500; color: var(--tekst-2); letter-spacing: 0; margin-top: 16px; }
+  .k.dolje { bottom: 92px; }
+  .k.gore { top: 64px; }
+  .k.centar { top: 50%; transform: translateY(-50%); }
+  .k.okvir { top: 50%; transform: translateY(-50%); width: 1300px; margin-left: -650px; padding: 64px 80px; border: 2px solid var(--rub); border-radius: 22px; background: rgba(12,14,17,.82); font-size: 56px; }
+  .plan { display: inline-block; font-size: .62em; font-weight: 800; letter-spacing: 3px; color: var(--zuta); border: 3px dashed var(--zuta); border-radius: 10px; padding: 4px 16px; vertical-align: middle; margin-right: 14px; }
+
+  #izvor { position: absolute; left: 48px; bottom: 30px; font-size: 21px; color: var(--tekst-3); display: none; }
+  #oznaka { position: absolute; right: 48px; bottom: 30px; font-size: 21px; color: var(--zuta); display: none; }
+
+  /* sredina sata */
+  #sredina { position: absolute; text-align: center; transform: translate(-50%, -50%); display: none; white-space: nowrap; }
+  #sredina .v { font-size: 116px; font-weight: 800; letter-spacing: -3px; line-height: 1; }
+  #sredina .o { font-size: 26px; color: var(--tekst-2); margin-top: 10px; letter-spacing: 1px; }
+  #ponoc-oz { position: absolute; transform: translate(-50%, -100%); font-size: 24px; letter-spacing: 3px; color: var(--tekst-2); white-space: nowrap; display: none; }
+  #legenda { position: absolute; left: 60px; top: 56px; font-size: 26px; color: var(--tekst-2); display: none; line-height: 1.5; }
+  #legenda b { color: var(--tekst); }
+  #udio { position: absolute; right: 150px; top: 330px; text-align: right; display: none; }
+  #udio .v { font-size: 150px; font-weight: 800; letter-spacing: -5px; line-height: 1; color: var(--narancasta); }
+  #udio .o { font-size: 28px; color: var(--tekst-2); }
+  #udio .leg { font-size: 24px; color: var(--tekst-2); margin-top: 26px; }
+  #udio .leg i { display: inline-block; width: 16px; height: 16px; border-radius: 50%; margin: 0 8px 0 22px; vertical-align: -1px; }
+  #godina { position: absolute; left: 150px; top: 330px; font-size: 150px; font-weight: 800; color: #2a3038; letter-spacing: -4px; display: none; }
+  #godina small { display: block; font-size: 28px; letter-spacing: 6px; color: var(--tekst-3); font-weight: 600; }
+
+  /* mini-sat */
+  #mini { position: absolute; right: 46px; top: 40px; display: none; align-items: center; gap: 14px; font-size: 30px; font-weight: 700; color: var(--tekst-2); }
+
+  /* korisnici */
+  #korisnici { display: none; }
+  .kor { position: absolute; top: 330px; width: 400px; height: 400px; border: 2px solid var(--rub); border-radius: 24px; background: #12161b; padding: 44px 36px; text-align: center; }
+  .kor svg { width: 120px; height: 120px; }
+  .kor h3 { font-size: 40px; margin: 22px 0 12px; letter-spacing: -.5px; }
+  .kor p { font-size: 30px; color: var(--tekst-2); line-height: 1.25; }
+  #logo { position: absolute; left: 50%; top: 50%; transform: translate(-50%, -50%); font-size: 150px; font-weight: 800; letter-spacing: -5px; display: none; white-space: nowrap; }
+  #logo small { display: block; text-align: center; font-size: 34px; font-weight: 500; letter-spacing: 0; color: var(--tekst-2); margin-top: 10px; }
+
+  /* snimke aplikacije */
+  #app { display: none; }
+  #preglednik { position: absolute; left: 160px; top: 200px; width: 1600px; height: 820px; border-radius: 16px; overflow: hidden; border: 1px solid #2f343c; background: #0f1216; box-shadow: 0 40px 120px rgba(0,0,0,.6); }
+  #url { height: 52px; background: #1a1e24; display: flex; align-items: center; gap: 10px; padding: 0 20px; font-size: 22px; color: var(--tekst-2); }
+  #url i { width: 14px; height: 14px; border-radius: 50%; background: #3a3f47; display: inline-block; }
+  #url span { margin-left: 24px; background: #0f1216; border-radius: 8px; padding: 6px 18px; flex: 1; }
+  #snimka { position: absolute; left: 0; top: 52px; right: 0; bottom: 0; display: flex; align-items: center; justify-content: center; font-size: 34px; color: var(--tekst-3); text-align: center; line-height: 1.5; }
+  #snimka img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; object-position: top left; }
+
+  /* budilica i kalendar */
+  #budilica { position: absolute; left: 980px; top: 330px; width: 220px; height: 220px; display: none; }
+  #kalendar { position: absolute; left: 960px; top: 330px; width: 820px; display: none; border: 2px solid var(--rub); border-radius: 20px; background: #12161b; overflow: hidden; }
+  #kalendar .zag { background: #1a1e24; padding: 18px 28px; font-size: 24px; color: var(--tekst-2); }
+  #kalendar .ev { margin: 26px 28px 10px; border-left: 8px solid var(--teal); background: rgba(79,193,198,.12); border-radius: 10px; padding: 18px 22px; }
+  #kalendar .ev b { display: block; font-size: 32px; }
+  #kalendar .ev span { font-size: 24px; color: var(--tekst-2); }
+  #kalendar .al { margin: 6px 28px; font-size: 26px; }
+  #kalendar pre { margin: 18px 28px 26px; font-size: 20px; color: var(--tekst-2); background: #0c0e11; border-radius: 10px; padding: 14px 18px; line-height: 1.45; }
+
+  /* MCP chat */
+  #chat { position: absolute; left: 360px; top: 150px; width: 1200px; height: 840px; border: 2px solid var(--rub); border-radius: 22px; background: #12161b; display: none; overflow: hidden; }
+  #chat .zag { background: #1a1e24; padding: 18px 28px; font-size: 24px; color: var(--tekst-2); }
+  #chat .zag b { color: var(--teal); margin-left: 10px; }
+  .msg { position: absolute; font-size: 32px; line-height: 1.35; }
+  #pitanje { right: 40px; top: 100px; max-width: 820px; background: #26303a; border-radius: 22px 22px 6px 22px; padding: 20px 28px; }
+  #alat { left: 40px; top: 230px; width: 1110px; border: 1px solid #2f3a44; border-radius: 14px; background: #0c0e11; padding: 16px 22px; font-size: 24px; overflow: hidden; }
+  #alat .naz { color: var(--teal); }
+  #alat pre { margin-top: 12px; font-size: 23px; color: var(--tekst-2); line-height: 1.45; }
+  #alat pre b { color: var(--zuta); font-weight: 700; }
+  #odgovor { left: 40px; top: 550px; max-width: 1000px; }
+  #odgovor b { color: var(--narancasta); }
+  #odgovor u { color: var(--teal); text-decoration: none; font-size: 26px; display: block; margin-top: 10px; }
+  #alati { position: absolute; left: 40px; bottom: 34px; display: flex; gap: 14px; }
+  #alati span { font-size: 22px; border: 1px solid #2f3a44; border-radius: 30px; padding: 8px 18px; color: var(--tekst-2); }
+  #kursor { display: inline-block; width: 3px; height: 34px; background: var(--tekst); vertical-align: -6px; margin-left: 2px; }
+
+  /* mehanizam */
+  #meh { display: none; }
+  #meh svg { position: absolute; left: 0; top: 0; }
+  #paket { position: absolute; padding: 12px 20px; border-radius: 12px; background: #1d242c; border: 2px solid var(--teal); font-size: 24px; white-space: nowrap; display: none; box-shadow: 0 16px 40px rgba(0,0,0,.5); }
+  #paket i { font-style: normal; color: var(--zuta); }
+  #standardi { position: absolute; left: 0; width: 1920px; top: 900px; text-align: center; font-size: 26px; color: var(--tekst-2); display: none; }
+  #standardi span { border: 1px solid var(--rub); border-radius: 30px; padding: 8px 20px; margin: 0 6px; }
+  #preduvjeti { position: absolute; left: 160px; top: 300px; width: 1600px; display: none; gap: 30px; }
+  #preduvjeti div { flex: 1; border: 2px solid var(--rub); border-radius: 20px; background: #12161b; padding: 36px 34px; }
+  #preduvjeti h4 { font-size: 34px; color: var(--teal); margin-bottom: 16px; }
+  #preduvjeti p { font-size: 32px; line-height: 1.3; }
+  #plan-nap { position: absolute; left: 0; width: 1920px; top: 980px; text-align: center; font-size: 24px; color: var(--tekst-3); display: none; }
+
+  /* outro */
+  #obavijest { position: absolute; right: 70px; top: 120px; width: 640px; border-radius: 20px; background: rgba(38,44,52,.96); padding: 22px 26px; display: none; box-shadow: 0 30px 80px rgba(0,0,0,.6); }
+  #obavijest .z { font-size: 22px; color: var(--tekst-2); }
+  #obavijest b { display: block; font-size: 30px; margin-top: 6px; line-height: 1.25; }
+  #kraj { position: absolute; left: 50%; top: 50%; transform: translate(-50%, -50%); text-align: center; display: none; white-space: nowrap; }
+  #kraj h1 { font-size: 150px; font-weight: 800; letter-spacing: -5px; }
+  #kraj .t { font-size: 50px; font-weight: 650; margin-top: 8px; }
+  #kraj .u { font-size: 28px; color: var(--tekst-2); margin-top: 34px; }
+
+  /* v2: aplikacija u 3D okviru */
+  #scena3d { position: absolute; inset: 0; perspective: 2200px; perspective-origin: 50% 45%; display: none; }
+  .okvir { position: absolute; left: 50%; top: 214px; width: 1600px; height: 944px; margin-left: -800px; transform-origin: 50% 0; transform-style: preserve-3d; }
+  .okvir .unutra { position: absolute; inset: 0; border-radius: 18px; overflow: hidden; border: 1px solid #333a44; background: #0f1216; box-shadow: 0 50px 140px rgba(0,0,0,.7), 0 0 0 1px rgba(255,255,255,.03); }
+  .okvir .traka { height: 44px; background: #1a1e24; display: flex; align-items: center; gap: 9px; padding: 0 18px; font-size: 20px; color: var(--tekst-2); }
+  .okvir .traka i { width: 13px; height: 13px; border-radius: 50%; background: #3a3f47; display: inline-block; }
+  .okvir .traka span { margin-left: 20px; background: #0f1216; border-radius: 8px; padding: 5px 16px; flex: 1; }
+  .okvir .kadar { position: absolute; left: 0; top: 44px; width: 1600px; height: 900px; overflow: hidden; }
+  .okvir video { position: absolute; left: 0; top: 0; width: 1600px; height: 900px; transform-origin: 0 0; }
+  #naslov2 { position: absolute; left: 0; width: 1920px; top: 46px; text-align: center; display: none; }
+  #naslov2 .h { font-size: 58px; font-weight: 780; letter-spacing: -1px; text-shadow: 0 4px 30px rgba(0,0,0,.6); }
+  #naslov2 .p { font-size: 29px; color: var(--tekst-2); margin-top: 8px; }
+  #naslov2 .cip { display: inline-block; font-size: 19px; font-weight: 750; letter-spacing: 3px; color: var(--teal); border: 2px solid rgba(79,193,198,.5); border-radius: 30px; padding: 4px 16px; margin-bottom: 10px; }
+  #logo2 { position: absolute; left: 50%; top: 50%; transform: translate(-50%, -50%); display: none; text-align: center; white-space: nowrap; }
+  #logo2 svg { width: 190px; height: 190px; display: block; margin: 0 auto 24px; overflow: visible; }
+  #logo2 .n { font-size: 150px; font-weight: 800; letter-spacing: -5px; line-height: 1; }
+  #logo2 .t { font-size: 36px; color: var(--tekst-2); margin-top: 14px; }
+  #crno { position: absolute; inset: 0; background: #000; opacity: 0; pointer-events: none; }
+  #vinjeta { position: absolute; inset: 0; pointer-events: none; background: radial-gradient(ellipse at center, transparent 55%, rgba(0,0,0,.55)); }
+
+  /* kontrole za pregled (ne renderiraju se) */
+  #kontrole { position: fixed; left: 0; right: 0; bottom: 0; height: 44px; background: #000c; display: flex; align-items: center; gap: 12px; padding: 0 14px; font: 14px system-ui; color: #ccc; z-index: 9; }
+  #kontrole input { flex: 1; }
+</style>
+</head>
+<body>
+<div id="stage">
+  <div id="bg"></div>
+  <canvas id="c" width="1920" height="1080"></canvas>
+
+  <div id="sredina"><div class="v"></div><div class="o"></div></div>
+  <div id="ponoc-oz">PONOĆ · 31. 12. 2026.</div>
+  <div id="legenda"><b>1 sat = 1 mjesec</b><br>ponoć = 31. 12. 2026.<br>točka = ugovor · veličina = naknada</div>
+  <div id="godina"></div>
+  <div id="udio"><div class="v">0 %</div><div class="o">isteklih bez nastavka</div><div class="leg"><i style="background:var(--zelena)"></i>novi ugovor<i style="background:#4a5059"></i>tišina</div></div>
+
+  <!-- korisnici -->
+  <div id="korisnici" class="sloj"></div>
+  <div id="logo">Concessum<small>sat za javna dobra</small></div>
+
+  <!-- snimke aplikacije: SNIMKE niže; dok slika ne postoji, prikazuje se opis kadra -->
+  <div id="app" class="sloj">
+    <div id="preglednik"><div id="url"><i></i><i></i><i></i><span class="mono">concessum.vercel.app/#karta</span></div><div id="snimka"></div></div>
+  </div>
+
+  <!-- budilica i kalendar -->
+  <svg id="budilica" viewBox="-110 -110 220 220"></svg>
+  <div id="kalendar">
+    <div class="zag">Kalendar · uvezeno iz <span class="mono">koncesije.ics</span></div>
+    <div class="ev"><span>petak, 18. 12. 2026.</span><b>Ističe koncesija: VALAMAR RIVIERA D.D.</b><span>Grad Poreč-Parenzo · parkiranje · 86.270 €/god.</span></div>
+    <div class="al">🔔 6 mjeseci prije &nbsp;·&nbsp; 🔔 1 mjesec prije</div>
+    <pre class="mono">BEGIN:VALARM
+TRIGGER:-P182D   → priprema natječaja
+TRIGGER:-P30D    → zadnji podsjetnik</pre>
+  </div>
+
+  <!-- MCP -->
+  <div id="chat">
+    <div class="zag">Razgovor s AI asistentom <b>⚡ concessum (MCP)</b></div>
+    <div id="pitanje" class="msg"><span></span><i id="kursor"></i></div>
+    <div id="alat" class="msg mono"><div class="naz">⚙ istjece_uskoro(opcina: "Dubrovnik", do: "2026-12-31")</div><pre>{
+  "opcina": "Grad Dubrovnik",
+  "do": "2026-12-31",
+  "broj_ugovora": <b>203</b>,
+  "godisnja_fiksna_naknada_eur": <b>163797</b>,
+  …
+}</pre></div>
+    <div id="odgovor" class="msg">Do kraja godine u Dubrovniku ističe <b>203 ugovora</b>, s oko <b>164 tis. €</b> godišnje fiksne naknade.<u>→ concessum.vercel.app/#opcina/…</u></div>
+    <div id="alati" class="mono"><span>istjece_uskoro</span><span>profil_opcine</span><span>bez_nastavka</span><span>trazi_koncesionara</span><span>revizija_rizika</span></div>
+  </div>
+
+  <!-- mehanizam -->
+  <div id="meh" class="sloj"><svg id="zupcanici" width="1920" height="1080"></svg></div>
+  <div id="paket"></div>
+  <div id="standardi"><span>CSV (UTF-8)</span><span>iCalendar</span><span>GeoJSON</span><span>MCP / JSON-RPC</span><span>smjernice WCAG 2.1</span></div>
+  <div id="preduvjeti">
+    <div><h4>Tehnički</h4><p>strojno čitljiv izvoz FINA-e (sada reCAPTCHA)</p></div>
+    <div><h4>Organizacijski</h4><p>davatelji upisuju ugovore i anekse na vrijeme; nadležni održava rješenje</p></div>
+    <div><h4>Pravni</h4><p>Otvorena dozvola · GDPR: obrtnici bez imena · pokazatelj je signal, ne odluka</p></div>
+  </div>
+  <div id="plan-nap">dnevno osvježavanje čeka strojno čitljiv izvoz FINA-e</div>
+
+  <!-- outro -->
+  <div id="obavijest"><div class="z">🔔 Kalendar · 1. 12. 2026.</div><b>[Hodogram koncesije] 4. Odluka o davanju koncesije i rok mirovanja (15 dana)</b></div>
+  <div id="kraj"><h1>Concessum</h1><div class="t">pokazuje sat – i navije budilicu.</div><div class="u mono">concessum.vercel.app · otvoreni kod · otvoreni podaci · stanje 8. 11. 2026.</div></div>
+
+  <div id="logo2"><svg viewBox="-110 -110 220 220"><circle id="l2krug" r="96" fill="none" stroke="#4fc1c6" stroke-width="14"/><line id="l2kaz" x1="0" y1="0" x2="0" y2="-62" stroke="#f1efe9" stroke-width="13" stroke-linecap="round"/><circle r="11" fill="#f1efe9"/></svg><div class="n">Concessum</div><div class="t">sat za javna dobra</div></div>
+  <div id="scena3d">
+    <div class="okvir" id="ok0"><div class="unutra"><div class="traka"><i></i><i></i><i></i><span class="mono">concessum.vercel.app</span></div><div class="kadar"><video muted preload="auto" playsinline></video></div></div></div>
+    <div class="okvir" id="ok1"><div class="unutra"><div class="traka"><i></i><i></i><i></i><span class="mono">concessum.vercel.app</span></div><div class="kadar"><video muted preload="auto" playsinline></video></div></div></div>
+  </div>
+  <div id="naslov2"><div class="cip"></div><div class="h"></div><div class="p"></div></div>
+  <div id="kartice"></div>
+  <div id="mini"><svg width="70" height="70" viewBox="-40 -40 80 80"><circle r="34" fill="none" stroke="#4fc1c6" stroke-width="5"/><line x1="0" y1="0" x2="0" y2="-24" stroke="#f1efe9" stroke-width="5" stroke-linecap="round" transform="rotate(-52)"/><circle r="4" fill="#f1efe9"/></svg><span>22:15</span></div>
+  <div id="izvor">Izvor: Registar koncesija (FINA), data.gov.hr · stanje 8. 11. 2026.</div>
+  <div id="oznaka"></div>
+  <div id="crno"></div>
+  <div id="vinjeta"></div>
+</div>
+
+<script src="../../app/data/granice.js"></script>
+<script src="../../app/data/podaci.js"></script>
+<script>
+"use strict";
+const TRAJANJE = 180, FPS = 30;
+window.TRAJANJE = TRAJANJE;
+const $ = (s) => document.querySelector(s);
+const fmt = new Intl.NumberFormat("hr-HR");
+
+// ---------- easing ----------
+const cl = (x, a = 0, b = 1) => Math.max(a, Math.min(b, x));
+const pr = (t, a, b) => cl((t - a) / (b - a));
+const lerp = (a, b, x) => a + (b - a) * x;
+const eOutExpo = (x) => x >= 1 ? 1 : 1 - Math.pow(2, -10 * x);
+const eInOut = (x) => x < .5 ? 4 * x * x * x : 1 - Math.pow(-2 * x + 2, 3) / 2;
+const eOutCubic = (x) => 1 - Math.pow(1 - x, 3);
+const eOutBack = (x) => { const c1 = 1.70158, c3 = c1 + 1; return 1 + c3 * Math.pow(x - 1, 3) + c1 * Math.pow(x - 1, 2); };
+function rnd(i) { let a = (i * 9973 + 12345) >>> 0; a = Math.imul(a ^ a >>> 15, a | 1); a ^= a + Math.imul(a ^ a >>> 7, a | 61); return ((a ^ a >>> 14) >>> 0) / 4294967296; }
+// vidljivost s ulazom i izlazom; vraća neprozirnost
+function vis(el, t, a, b, inD = .45, outD = .4, disp = "block") {
+  const on = t >= a && t < b;
+  el.style.display = on ? disp : "none";
+  if (!on) return 0;
+  const o = Math.min(eOutCubic(pr(t, a, a + inD)), 1 - pr(t, b - outD, b));
+  el.style.opacity = o;
+  return o;
+}
+
+// ---------- podaci ----------
+const P = window.PODACI, G = window.GRANICE;
+const DAN = 864e5, D0 = Date.UTC(2026, 10, 8), PONOC = Date.UTC(2026, 11, 31), KRAJ = Date.UTC(2027, 10, 8);
+const dat = (s) => { const [y, m, d] = s.split("-").map(Number); return Date.UTC(y, m - 1, d); };
+const BOJE = { luke: "#2a6fdb", pomorsko: "#16a3b0", zdravstvo: "#c94f7c", komunalno: "#e08a1e", rudarstvo: "#a07a52",
+  vode: "#5aa9e6", mediji: "#8e6bd1", poljoprivreda: "#4f9a3a", turizam: "#d4b106", promet: "#6b7280", ostalo: "#a3a3a3" };
+const LUD = P.davatelji.indexOf("LUČKA UPRAVA DUBROVNIK");
+const R = 330;
+const BUD = [], POVIJEST = [];
+for (const r of P.ugovori) {
+  if (!r[5] || !/^(19|20)\d\d-/.test(r[5])) continue;
+  const d = dat(r[5]);
+  if (d >= D0 && d < KRAJ) BUD.push({ dd: Math.round((d - PONOC) / DAN), nak: r[8] || 0, boja: BOJE[P.vrsteSektor[r[2]]] || "#aaa", lud: r[0] === LUD, porec: (r[7] || "").includes("POREČ") && r[8] === 86270 });
+  if (r[6] >= 1 && r[6] <= 3) {
+    const y = new Date(d).getUTCFullYear(), doy = (d - Date.UTC(y, 0, 1)) / DAN;
+    POVIJEST.push({ y, c: y + doy / 365.25, bez: r[6] === 3 });
+  }
+}
+// raspored točaka: suncokret oko točke na obodu za svaki dan
+BUD.sort((a, b) => a.dd - b.dd || b.nak - a.nak);
+const poDanu = {};
+BUD.forEach((u, i) => {
+  const k = poDanu[u.dd] = (poDanu[u.dd] || 0) + 1;
+  const kut = u.dd / 365.25 * 2 * Math.PI - Math.PI / 2;
+  const rr = 4.4 * Math.sqrt(k - 1), th = (k - 1) * 2.39996;
+  u.x = Math.cos(kut) * R + Math.cos(th) * rr; u.y = Math.sin(kut) * R + Math.sin(th) * rr;
+  u.r = 2.6 + Math.min(8, Math.sqrt(u.nak) / 45);
+  u.red = (u.dd + 53) / 365.25;                      // redoslijed ulaska: od "sada" u krug
+  const a = rnd(i) * 2 * Math.PI; u.sx = Math.cos(a) * 1300; u.sy = Math.sin(a) * 1300;
+  u.kasn = rnd(i + 5000) * .6;
+});
+const N_PONOC = BUD.filter((u) => u.dd === 0).length;
+const LUDP = BUD.filter((u) => u.dd === 0 && u.lud);
+LUDP.forEach((u, k) => { const rr = 3.1 * Math.sqrt(k), th = k * 2.39996; u.mx = Math.cos(th) * rr; u.my = Math.sin(th) * rr; });
+const NAK12 = BUD.reduce((s, u) => s + u.nak, 0);
+const PSORT = POVIJEST.filter((p) => p.y >= 2000).sort((a, b) => b.c - a.c);
+const YMIN = Math.max(2000, Math.min(...PSORT.map((p) => p.y)));
+const BEZ_UK = POVIJEST.filter((p) => p.bez).length;
+PSORT.forEach((p, i) => {
+  const kut = (p.c - p.y) * 2 * Math.PI - Math.PI / 2, dr = (R - 70) / (2025 - YMIN + 1);
+  const rr = R - 18 - (2025 - p.y) * dr + (rnd(i + 9e4) - .5) * dr * .8;
+  p.x = Math.cos(kut) * rr; p.y2 = Math.sin(kut) * rr;
+});
+console.log(`aktivnih 12 mj: ${BUD.length}, naknada ${NAK12}, ponoć ${N_PONOC}, LUD ${LUDP.length}, povijest ${POVIJEST.length} / bez ${BEZ_UK}, ymin ${YMIN}`);
+
+const HOD = [
+  { d: -183, n: "povjerenstvo", m: "−6 mj." }, { d: -122, n: "procjena", m: "−4 mj." }, { d: -92, n: "objava u EOJN", m: "−3 mj." },
+  { d: -30, n: "odluka", m: "−1 mj." }, { d: 0, n: "novi ugovor", m: "ponoć" },
+];
+
+// ---------- karta (izvan ekrana, jednom) ----------
+let LON0 = 99, LON1 = -99, LAT0 = 99, LAT1 = -99;
+const svePoligone = (f, cb) => (f.geometry.type === "Polygon" ? [f.geometry.coordinates] : f.geometry.coordinates).forEach((pol) => cb(pol[0]));
+G.features.forEach((f) => svePoligone(f, (pr) => pr.forEach(([x, y]) => { LON0 = Math.min(LON0, x); LON1 = Math.max(LON1, x); LAT0 = Math.min(LAT0, y); LAT1 = Math.max(LAT1, y); })));
+const KW = 700, KH = 700, KS = Math.min(KW / ((LON1 - LON0) * .707), KH / (LAT1 - LAT0));
+const proj = (x, y) => [(x - LON0) * .707 * KS, (LAT1 - y) * KS];
+const karta = document.createElement("canvas"); karta.width = KW; karta.height = KH;
+{ const g = karta.getContext("2d"); g.strokeStyle = "rgba(241,239,233,.35)"; g.lineWidth = 1; g.fillStyle = "rgba(79,193,198,.05)";
+  G.features.forEach((f) => svePoligone(f, (pol) => { g.beginPath(); pol.forEach(([x, y], i) => { const [px, py] = proj(x, y); i ? g.lineTo(px, py) : g.moveTo(px, py); }); g.closePath(); g.fill(); g.stroke(); })); }
+const DBK = (() => { const f = G.features.find((f) => f.properties.naziv === "Grad Dubrovnik"); let sx = 0, sy = 0, n = 0;
+  svePoligone(f, (pol) => pol.forEach(([x, y]) => { sx += x; sy += y; n++; })); return proj(sx / n, sy / n); })();
+const KX = 1080, KY = 130;      // položaj karte na ekranu
+
+// ---------- canvas: sat ----------
+const cv = $("#c"), g = cv.getContext("2d");
+function stanjeSata(t) {
+  // položaj, mjerilo, prozirnost sata kroz video
+  let cx = 960, cy = 520, s = 1, a = 1, blur = 0, sat = 1;
+  if (t < 57) {
+    if (t >= 33 && t < 37.5) { const m = eInOut(pr(t, 33, 34.6)); cx = lerp(960, 560, m); s = lerp(1, .8, m); }
+    if (t >= 37.5 && t < 49) { const m = eInOut(pr(t, 37.5, 38.6)); cx = lerp(560, 960, m); s = lerp(.8, 1, m); sat = lerp(1, .5, m); }
+    if (t >= 49) { const m = eOutCubic(pr(t, 49, 50)); blur = 16 * m; a = lerp(1, .35, m) * (1 - pr(t, 56.4, 57)); sat = .5; }
+  } else if (t >= 67 && t < 81.3) { cx = 960; cy = 545; s = .95; a = Math.min(pr(t, 67, 67.8), 1 - pr(t, 80.7, 81.3)); }
+  else if (t >= 173) { cx = 960; cy = 540; s = 1.05; a = pr(t, 173, 173.6) * lerp(1, .18, eInOut(pr(t, 177, 178))); }
+  else a = 0;
+  return { cx, cy, s, a, blur, sat };
+}
+// kut kazaljke u danima od ponoći
+function kazaljka(t) {
+  if (t >= 17 && t < 25) return -53;
+  if (t >= 25 && t < 37.5) return lerp(-53, 0, eInOut(pr(t, 25, 28)));
+  if (t >= 67 && t < 81.3) return -53;
+  if (t >= 173) return lerp(-53, -30, eInOut(pr(t, 173.6, 175)));
+  return null;
+}
+function crtaj(t) {
+  const S = stanjeSata(t);
+  g.setTransform(1, 0, 0, 1, 0, 0); g.clearRect(0, 0, 1920, 1080);
+  cv.style.filter = `blur(${S.blur}px) saturate(${S.sat})`;
+  if (S.a <= 0) return;
+  g.globalAlpha = S.a;
+  g.setTransform(S.s, 0, 0, S.s, S.cx, S.cy);
+
+  // obod
+  const iscrt = t < 7 ? eInOut(pr(t, .3, 2.6)) : 1;
+  g.lineWidth = 3; g.strokeStyle = "#2f353d";
+  g.beginPath(); g.arc(0, 0, R, -Math.PI / 2, -Math.PI / 2 + iscrt * 2 * Math.PI); g.stroke();
+  for (let k = 0; k < 12; k++) {
+    const p = cl((iscrt - k / 12) * 8), a = k / 12 * 2 * Math.PI - Math.PI / 2;
+    g.globalAlpha = S.a * p; g.lineWidth = k % 3 ? 3 : 6; g.strokeStyle = "#565d67";
+    g.beginPath(); g.moveTo(Math.cos(a) * (R - 44), Math.sin(a) * (R - 44)); g.lineTo(Math.cos(a) * (R - 26), Math.sin(a) * (R - 26)); g.stroke();
+  }
+  g.globalAlpha = S.a;
+
+  const povijest = t >= 37.5 && t < 57;
+  // budući ugovori
+  const sjaj = t >= 29 && t < 33.5 ? 1 - pr(t, 29, 31) : 0;
+  const fokus = t >= 29 && t < 37.5;
+  for (const u of BUD) {
+    let x = u.x, y = u.y, al = 1;
+    if (t < 7.2) { if (!u.porec) continue; al = .55 + .45 * Math.abs(Math.sin(t * Math.PI * 1.6)); }
+    else if (t < 17) { const st = 7.3 + u.red * 4.6 + u.kasn; const p = eOutCubic(pr(t, st, st + 1.2)); if (p <= 0 && !u.porec) continue; if (!u.porec) { x = lerp(u.sx, u.x, p); y = lerp(u.sy, u.y, p); al = p; } }
+    if (fokus && u.dd !== 0) al *= .25;
+    if (povijest) al *= lerp(1, .07, pr(t, 37.5, 38.5));
+    if (t >= 33 && t < 37.5 && u.lud) {
+      const st = 33.3 + (u.mx * .004 + .5) * .6, p = eInOut(pr(t, st, st + 1.6));
+      if (p > 0) {
+        // cilj: Dubrovnik na karti, preračunat u lokalne koordinate sata
+        const tx = (KX + DBK[0] + u.mx - S.cx) / S.s, ty = (KY + DBK[1] + u.my - S.cy) / S.s;
+        x = lerp(u.x, tx, p); y = lerp(u.y, ty, p) - Math.sin(p * Math.PI) * 120; al = 1;
+      }
+    }
+    g.globalAlpha = S.a * al; g.fillStyle = sjaj > 0 && u.dd === 0 ? "#fff" : u.boja;
+    g.beginPath(); g.arc(x, y, u.dd === 0 && fokus ? u.r * (1 + sjaj * .5) : u.r, 0, 2 * Math.PI); g.fill();
+  }
+  if (sjaj > 0) { g.globalAlpha = S.a * sjaj * .6; const gr = g.createRadialGradient(0, -R, 0, 0, -R, 220); gr.addColorStop(0, "rgba(255,255,255,.9)"); gr.addColorStop(1, "rgba(255,255,255,0)"); g.fillStyle = gr; g.fillRect(-260, -R - 260, 520, 520); }
+
+  // povijest: prošli ugovori na spirali godina, otkrivaju se dok se kazaljka vrti unatrag
+  let tau = null;
+  if (povijest) {
+    tau = lerp(2026, YMIN, eInOut(pr(t, 38.6, 46.6)));
+    const ap = pr(t, 38, 39);
+    let bez = 0, n = 0;
+    for (const p of PSORT) {
+      if (p.c < tau) break;
+      n++; if (p.bez) bez++;
+      g.globalAlpha = S.a * ap * (p.bez ? .9 : .85); g.fillStyle = p.bez ? "#4a5059" : "#4fbf7a";
+      g.fillRect(p.x - 1.4, p.y2 - 1.4, 2.8, 2.8);
+    }
+    window._udio = n ? bez / n : 0; window._god = Math.max(YMIN, Math.floor(tau));
+  }
+
+  // kazaljka
+  let dd = kazaljka(t);
+  if (tau !== null) dd = (tau - 2027) * 365.25;
+  if (dd !== null) {
+    const a = dd / 365.25 * 2 * Math.PI - Math.PI / 2, pk = t < 18 ? eOutBack(pr(t, 17, 17.8)) : 1;
+    g.globalAlpha = S.a * cl(pk); g.strokeStyle = "#f1efe9"; g.lineWidth = 9; g.lineCap = "round";
+    g.beginPath(); g.moveTo(-Math.cos(a) * 24, -Math.sin(a) * 24); g.lineTo(Math.cos(a) * (R - 70) * pk, Math.sin(a) * (R - 70) * pk); g.stroke();
+    g.fillStyle = "#f1efe9"; g.beginPath(); g.arc(0, 0, 10, 0, 2 * Math.PI); g.fill();
+  }
+
+  // zakonski hodogram za ugovore iz ponoći: koraci -6, -4, -3, -1 i 0 mjeseci
+  if (t >= 67 && t < 81.3) {
+    const RH = R - 78, kut = (d) => d / 365.25 * 2 * Math.PI - Math.PI / 2;
+    const p = eInOut(pr(t, 68, 70.5)), d0 = -183;
+    g.lineCap = "round"; g.lineWidth = 14;
+    const dKraj = lerp(d0, 0, p);
+    g.globalAlpha = S.a * .9; g.strokeStyle = "#c2563f"; g.beginPath(); g.arc(0, 0, RH, kut(d0), kut(Math.min(dKraj, -53))); g.stroke();
+    if (dKraj > -53) { g.strokeStyle = "#4fc1c6"; g.beginPath(); g.arc(0, 0, RH, kut(-53), kut(dKraj)); g.stroke(); }
+    HOD.forEach((k, i) => {
+      const q = eOutBack(pr(t, 69 + i * .45, 69.6 + i * .45)); if (q <= 0) return;
+      const a = kut(k.d), x = Math.cos(a) * RH, y = Math.sin(a) * RH, kasni = k.d < -53;
+      g.globalAlpha = S.a * cl(q); g.fillStyle = kasni ? "#f06a55" : "#4fc1c6";
+      g.beginPath(); g.arc(x, y, 15 * q, 0, 2 * Math.PI); g.fill();
+      g.fillStyle = "#0c0e11"; g.font = "800 17px system-ui"; g.textAlign = "center"; g.textBaseline = "middle"; g.fillText(String(i + 1), x, y + 1);
+      const lx = Math.cos(a) * (RH - 46), ly = Math.sin(a) * (RH - 46);
+      g.textAlign = Math.cos(a) > .25 ? "right" : Math.cos(a) < -.25 ? "left" : "center";
+      g.fillStyle = kasni ? "#f06a55" : "#f1efe9"; g.font = "650 21px system-ui"; g.fillText(k.n, lx, ly);
+      g.fillStyle = "#9aa0aa"; g.font = "500 17px system-ui"; g.fillText(kasni ? k.m + " · rok prošao" : k.m, lx, ly + 22);
+    });
+    g.textAlign = "start"; g.textBaseline = "alphabetic";
+  }
+
+  // karta s letom Dubrovnika
+  if (t >= 33 && t < 37.5) {
+    g.setTransform(1, 0, 0, 1, 0, 0);
+    g.globalAlpha = Math.min(eOutCubic(pr(t, 33, 34)), 1 - pr(t, 37, 37.5));
+    g.drawImage(karta, KX, KY);
+    const p = eOutBack(pr(t, 34.8, 35.4));
+    g.fillStyle = "#f0844e"; g.font = "600 28px system-ui"; g.globalAlpha *= cl(p);
+    g.fillText("Dubrovnik", KX + DBK[0] + 40, KY + DBK[1] + 10);
+  }
+  g.globalAlpha = 1;
+}
+
+// ---------- kartice teksta ----------
+const KARTICE = [
+  [0.4, 3.8, "dolje", "Svaki ugovor o koncesiji ima rok."],
+  [4.2, 7.4, "dolje", "1 sat = 1 mjesec · jedan krug = 12 mjeseci"],
+  [7.6, 10.8, "dolje", `<span data-broj="${BUD.length}">0</span> ugovora · ≈<span data-mil="${NAK12}">0</span> mil. € godišnje`],
+  [11.2, 14.8, "dolje", "Za javna dobra sada je <em>22:15</em>."],
+  [18.45, 21.4, "dolje", `<em>${N_PONOC} ugovora</em> ističe u istoj ponoći.`],
+  [21.6, 24.8, "dolje", `${LUDP.length} – Lučka uprava Dubrovnik`],
+  [26.2, 32.8, "dolje", `<em>47 %</em> isteklih ostane bez nastavka.<small>${fmt.format(BEZ_UK)} od ${fmt.format(POVIJEST.length)} · signal za provjeru, ne dokaz · bez zdravstva, taksija i pogrebnih</small>`],
+  [33.4, 38.4, "dolje", "Zakon: postupak počinje 6 mjeseci prije isteka."],
+  [38.6, 43.8, "dolje", `Za ${N_PONOC} ugovora iz ponoći: <em>3 od 5 koraka</em> kasne.`],
+  [129.6, 132.8, "gore", "Pitajte običnim jezikom."],
+  [139.8, 146, "gore", "5 skupova s data.gov.hr, povezanih po OIB-u."],
+  [146.2, 151.6, "gore", "Jedan redak kroz sustav"],
+  [151.8, 156.6, "gore", "Preduvjeti"],
+  [157, 165.8, "gore", "<span class=plan>PLANIRANO</span>Sljedeći zupčanici"],
+];
+const kart = $("#kartice");
+KARTICE.forEach(([a, b, poz, html], i) => kart.insertAdjacentHTML("beforeend", `<div class="k ${poz}" id="k${i}">${html}</div>`));
+const kEl = KARTICE.map((_, i) => $("#k" + i));
+function kartice(t) {
+  KARTICE.forEach(([a, b, poz], i) => {
+    const o = vis(kEl[i], t, a, b);
+    if (!o) return;
+    const p = eOutExpo(pr(t, a, a + .6));
+    const base = poz === "okvir" || poz === "centar" ? "translateY(-50%) " : "";
+    kEl[i].style.transform = base + `translateY(${(1 - p) * 26}px)`;
+    kEl[i].style.filter = `blur(${(1 - p) * 8}px)`;
+    kEl[i].querySelectorAll("[data-broj]").forEach((s) => s.textContent = fmt.format(Math.round(+s.dataset.broj * eOutExpo(pr(t, a, a + 1.8)))));
+    kEl[i].querySelectorAll("[data-mil]").forEach((s) => s.textContent = (+s.dataset.mil / 1e6 * eOutExpo(pr(t, a, a + 1.8))).toFixed(2).replace(".", ","));
+  });
+}
+
+// ---------- korisnici ----------
+const KOR = [["Općina i lučka uprava", "hodogram i dopis na vrijeme"], ["Ministarstvo i Državna revizija", "rizici i anomalije"], ["Koncesionar", "kad mi ističe ugovor"], ["Građani i novinari", "ZPPI: tko koristi javno dobro"]];
+KOR.forEach(([h, p], i) => $("#korisnici").insertAdjacentHTML("beforeend",
+  `<div class="kor" id="kor${i}" style="left:${120 + i * 430}px"><svg viewBox="-60 -60 120 120"><circle r="50" fill="none" stroke="#4fc1c6" stroke-width="7"/><line x1="0" y1="0" x2="0" y2="-34" stroke="#f1efe9" stroke-width="7" stroke-linecap="round" transform="rotate(${-52 + i * 20})"/><circle r="6" fill="#f1efe9"/></svg><h3>${h}</h3><p>${p}</p></div>`));
+function korisnici(t) {
+  if (!vis($("#korisnici"), t, 57.3, 66.4)) { vis($("#logo"), t, 65.9, 67.4); return; }
+  KOR.forEach((_, i) => {
+    const el = $("#kor" + i), st = 57.6 + (i < 2 ? i * .5 : 4.2 + (i - 2) * .5), p = eOutBack(pr(t, st, st + .7));
+    const m = eInOut(pr(t, 65.2, 66.2));
+    el.style.opacity = cl(p) * (1 - m);
+    el.style.transform = `translateY(${(1 - cl(p)) * 60}px) translateX(${(960 - (320 + i * 430)) * m}px) scale(${lerp(1, .3, m)})`;
+  });
+  vis($("#logo"), t, 65.9, 67.4);
+}
+
+// ---------- snimke aplikacije (zamijeniti PNG snimkama iz capture skripte) ----------
+const SNIMKE = [
+  [81.3, 84.8, "#karta", "karta", "shots/k1.png"],
+  [84.8, 88.1, "#karta", "karta", "shots/k2.png"],
+  [88.1, 91.6, "#opcina/41942358B7271748669279", "profil", "shots/o1.png"],
+  [91.6, 96.1, "#opcina/41942358B7271748669279", "pretplata", "shots/o2.png"],
+  [96.1, 97.6, "#sat", "sat", "shots/s1.png"],
+  [97.6, 98.4, "#sat", "t1", "shots/s2_1.png"], [98.4, 99.2, "#sat", "t2", "shots/s2_2.png"],
+  [99.2, 100, "#sat", "t3", "shots/s2_3.png"], [100, 101, "#sat", "t4", "shots/s2_4.png"],
+  [101, 110, "#sat", "ai", "shots/m1.png"],
+  [110, 120, "#sat", "hodogram", "shots/m2.png"],
+  [120, 124, "#sat", "dopis", "shots/m3.png"],
+  [124, 128.1, "#sat", "zppi", "shots/m4.png"],
+  [128.1, 134.7, "#revizija", "revizija", "shots/r1.png"],
+  [134.7, 141.2, "#revizija", "fiskalni", "shots/r2.png"],
+];
+function app(t) {
+  if (!vis($("#app"), t, 81.3, 141.2, .6, .5)) return;
+  const s = SNIMKE.find(([a, b]) => t >= a && t < b) || SNIMKE[SNIMKE.length - 1];
+  $("#url span").textContent = "concessum.vercel.app/" + s[2];
+  const sn = $("#snimka");
+  if (sn.dataset.k !== s[3]) { sn.dataset.k = s[3]; sn.innerHTML = s[4] ? `<img src="${s[4]}">` : `[ snimka aplikacije ]<br><span style="font-size:26px">${s[3]}</span>`; }
+  const p = eOutExpo(pr(t, 81.3, 82.3));
+  $("#preglednik").style.transform = `translateY(${(1 - p) * 80}px) scale(${lerp(.94, 1, p)})`;
+}
+
+// ---------- budilica ----------
+const zvono = "M0,-70 C38,-70 52,-38 52,-6 L52,30 L68,50 L-68,50 L-52,30 L-52,-6 C-52,-38 -38,-70 0,-70 Z M-16,58 A16,16 0 0 0 16,58 Z";
+$("#budilica").innerHTML = `<path id="zv" d="${zvono}" fill="none" stroke="#f1efe9" stroke-width="5"/>`;
+function budilica(t) {
+  const el = $("#budilica");
+  const k = vis($("#kalendar"), t, 128.2, 134.6);
+  if (k) $("#kalendar").style.transform = `translateY(${(1 - eOutExpo(pr(t, 128.2, 129))) * 50}px)`;
+  if (!vis(el, t, 122.8, 134.6)) return;
+  const pun = t >= 128;
+  const p = $("#zv");
+  p.setAttribute("stroke-dasharray", pun ? "none" : "10 10");
+  p.setAttribute("fill", pun ? "#f0b545" : "none");
+  p.setAttribute("stroke", pun ? "#f0b545" : "#6d737d");
+  el.style.transform = pun ? `translate(-120px, -40px) scale(.5) rotate(${Math.sin(t * 40) * 12 * (1 - pr(t, 128, 129.5))}deg)` : "none";
+  el.style.opacity = pun ? 1 : .8;
+  if (t < 128) el.style.opacity = .8 * eOutCubic(pr(t, 122.8, 123.6));
+}
+
+// ---------- MCP ----------
+const PITANJE = "Koje koncesije u Dubrovniku ističu do kraja godine?";
+function mcp(t) {
+  if (!vis($("#chat"), t, 141.2, 151, .5, .4)) return;
+  const n = Math.round(PITANJE.length * pr(t, 142, 144.6));
+  $("#pitanje span").textContent = PITANJE.slice(0, n);
+  $("#pitanje").style.opacity = cl(pr(t, 141.8, 142.1));
+  $("#kursor").style.opacity = t < 145 && Math.floor(t * 2) % 2 === 0 ? 1 : 0;
+  const al = $("#alat"), pa = eOutCubic(pr(t, 145, 146.2));
+  al.style.opacity = cl(pr(t, 145, 145.3));
+  al.style.height = `${lerp(62, 290, pa)}px`;
+  const o = $("#odgovor"), po = eOutCubic(pr(t, 146.6, 147.3));
+  o.style.opacity = po; o.style.transform = `translateY(${(1 - po) * 30}px)`;
+  [...$("#alati").children].forEach((c, i) => { const p = eOutBack(pr(t, 148.2 + i * .2, 148.7 + i * .2)); c.style.opacity = cl(p); c.style.transform = `scale(${lerp(.6, 1, cl(p))})`; });
+}
+
+// ---------- mehanizam ----------
+function zupcanik(r, z, dub) {
+  let d = "";
+  for (let i = 0; i < z * 2; i++) {
+    const a0 = i / (z * 2) * 2 * Math.PI, a1 = (i + 1) / (z * 2) * 2 * Math.PI, rr = i % 2 ? r - dub : r;
+    d += `${i ? "L" : "M"}${(Math.cos(a0) * rr).toFixed(1)},${(Math.sin(a0) * rr).toFixed(1)} A${rr},${rr} 0 0 1 ${(Math.cos(a1) * rr).toFixed(1)},${(Math.sin(a1) * rr).toFixed(1)} `;
+  }
+  return d + "Z";
+}
+const ZUP = [
+  { x: 230, y: 470, r: 125, z: 12, naziv: "Registar koncesija", pod: "FINA · data.gov.hr" },
+  { x: 520, y: 590, r: 110, z: 11, naziv: "Javnopravna tijela", pod: "živi API jpt.gov.hr · OIB" },
+  { x: 790, y: 450, r: 105, z: 10, naziv: "Popis 2021.", pod: "DZS · stanovnici" },
+  { x: 1050, y: 590, r: 105, z: 10, naziv: "Adresar tijela", pod: "web · kontakti" },
+  { x: 1310, y: 450, r: 105, z: 10, naziv: "Porez na dohodak", pod: "Porezna uprava · stope JLS" },
+  { x: 1560, y: 590, r: 95, z: 10, naziv: "Granice općina", pod: "geoBoundaries · GeoJSON" },
+  { x: 1780, y: 420, r: 80, z: 9, naziv: "Web + MCP", pod: "statično · AI asistenti" },
+];
+const PLANZ = [
+  { x: 330, y: 830, r: 85, z: 9, naziv: "dnevno osvježavanje" },
+  { x: 650, y: 830, r: 85, z: 9, naziv: "e-mail obavijesti" },
+  { x: 970, y: 830, r: 85, z: 9, naziv: "EOJN · objavljen natječaj?" },
+  { x: 1290, y: 830, r: 85, z: 9, naziv: "Sudski registar · OIB" },
+  { x: 1610, y: 830, r: 85, z: 9, naziv: "katastar · pomorsko dobro" },
+];
+$("#zupcanici").innerHTML =
+  ZUP.map((z, i) => `<g id="z${i}" transform="translate(${z.x},${z.y})"><path class="zp" d="${zupcanik(z.r, z.z, 16)}" fill="#141920" stroke="#4fc1c6" stroke-width="3"/><circle r="${z.r * .32}" fill="none" stroke="#2f3a44" stroke-width="3"/><text y="${z.r + 44}" text-anchor="middle" fill="#f1efe9" font-size="30" font-weight="700">${z.naziv}</text><text y="${z.r + 78}" text-anchor="middle" fill="#9aa0aa" font-size="22">${z.pod}</text></g>`).join("") +
+  PLANZ.map((z, i) => `<g id="p${i}" transform="translate(${z.x},${z.y})"><path class="zp" d="${zupcanik(z.r, z.z, 12)}" fill="none" stroke="#f0b545" stroke-width="3" stroke-dasharray="10 9"/><text y="8" text-anchor="middle" fill="#f0b545" font-size="17" font-weight="800" letter-spacing="2">PLANIRANO</text><text y="${z.r + 36}" text-anchor="middle" fill="#f1efe9" font-size="25" font-weight="650">${z.naziv}</text></g>`).join("");
+function mehanizam(t) {
+  if (!vis($("#meh"), t, 151.2, 173, .6, .5)) { ["#paket", "#standardi", "#preduvjeti", "#plan-nap"].forEach((s) => $(s).style.display = "none"); return; }
+  const prd = t >= 160.8 && t < 165.2;
+  const gore = eInOut(pr(t, 165, 166.2));          // za planirane: postojeći se pomaknu gore
+  ZUP.forEach((z, i) => {
+    const p = eOutBack(pr(t, 151.4 + i * .22, 152.1 + i * .22));
+    const rot = (i % 2 ? -1 : 1) * (t - 151) * 18 * (120 / z.r);
+    const el = $("#z" + i);
+    el.setAttribute("transform", `translate(${z.x},${z.y - gore * 170}) scale(${cl(p) * lerp(1, .78, gore)})`);
+    el.querySelector(".zp").setAttribute("transform", `rotate(${rot})`);
+    el.style.opacity = prd ? .12 : 1;
+  });
+  PLANZ.forEach((z, i) => {
+    const p = eOutBack(pr(t, 166 + i * .3, 166.7 + i * .3)), el = $("#p" + i);
+    el.style.opacity = cl(p) * .95;
+    el.setAttribute("transform", `translate(${z.x},${z.y}) scale(${cl(p)})`);
+    el.querySelector(".zp").setAttribute("transform", `rotate(${(t - 166) * 10 * (i % 2 ? -1 : 1)})`);
+  });
+  // paket: jedan redak putuje kroz mehanizam
+  const pk = $("#paket");
+  if (vis(pk, t, 156, 160.8)) {
+    const q = eInOut(pr(t, 156.3, 160.3)), x = lerp(420, 1300, q), y = 300 - Math.sin(q * Math.PI * 3) * 20;
+    pk.style.left = x + "px"; pk.style.top = y + "px";
+    pk.innerHTML = "LIBURNIA RIVIERA HOTELI D.D. · pomorsko dobro" + (q > .3 ? " <i>→ Grad Opatija</i>" : "") + (q > .6 ? " <i>→ 🏖️ hotelska plaža</i>" : "") + (q > .85 ? " <i>→ 23.461 €/god.</i>" : "");
+    pk.style.transform = "translateX(-50%)";
+  }
+  vis($("#standardi"), t, 152.5, 160.8);
+  const pd = vis($("#preduvjeti"), t, 161, 165.1, .45, .4, "flex");
+  if (pd) [...$("#preduvjeti").children].forEach((c, i) => { const p = eOutExpo(pr(t, 161 + i * .3, 161.8 + i * .3)); c.style.opacity = p; c.style.transform = `translateY(${(1 - p) * 40}px)`; });
+  vis($("#plan-nap"), t, 168, 172.8);
+}
+
+// ---------- sredina sata, legenda, udio ----------
+function sredina(t) {
+  const S = stanjeSata(t), el = $("#sredina");
+  let v = null, o = "";
+  if (t >= 18 && t < 25) { v = "22:15"; o = "do ponoći 53 dana"; }
+  else if (t >= 25 && t < 28) { v = String(Math.round(53 * (1 - eInOut(pr(t, 25, 28))))); o = "dana do ponoći"; }
+  else if (t >= 29 && t < 33) { v = "00:00"; o = "31. 12. 2026."; }
+  else if (t >= 122.6 && t < 134.6) { v = "22:15"; o = "8. 11. 2026."; }
+  else if (t >= 173.3 && t < 177.2) { const dd = lerp(-53, -30, eInOut(pr(t, 173.6, 175))), h = 12 + dd / (365.25 / 12), hh = Math.floor(h), mm = Math.floor((h - hh) * 60); v = `${hh + 12}:${String(mm).padStart(2, "0")}`; o = dd > -30.5 ? "1. 12. 2026." : "8. 11. 2026."; }
+  el.style.display = v ? "block" : "none";
+  if (v) {
+    el.style.left = S.cx + "px"; el.style.top = (S.cy + 150 * S.s) + "px"; el.style.opacity = S.a * (t >= 18 && t < 19 ? pr(t, 18, 18.6) : 1);
+    el.style.transform = `translate(-50%, -50%) scale(${S.s})`;
+    el.querySelector(".v").textContent = v; el.querySelector(".o").textContent = o;
+    el.querySelector(".v").style.color = t >= 29 && t < 33 ? "#fff" : "";
+  }
+  const pz = $("#ponoc-oz");
+  if (vis(pz, t, 19, 33.2)) { pz.style.left = S.cx + "px"; pz.style.top = (S.cy - R * S.s - 100) + "px"; }
+  vis($("#legenda"), t, 10.5, 37);
+  const ud = $("#udio");
+  if (vis(ud, t, 38.6, 49)) ud.querySelector(".v").textContent = Math.round((window._udio || 0) * 100) + " %";
+  const go = $("#godina");
+  if (vis(go, t, 38.6, 48.5)) go.innerHTML = `<small>PROŠLOST</small>${window._god || 2025}`;
+}
+
+// ---------- outro ----------
+function outro(t) {
+  const ob = $("#obavijest");
+  if (vis(ob, t, 175, 177.4)) { const p = eOutBack(pr(t, 175, 175.6)); ob.style.transform = `translateX(${(1 - cl(p)) * 120}px) rotate(${Math.sin(t * 50) * 1.5 * (1 - pr(t, 175, 176.5))}deg)`; }
+  const k = $("#kraj");
+  if (vis(k, t, 177.5, 182, .8, .01)) k.style.transform = `translate(-50%, -50%) scale(${lerp(1.06, 1, eOutExpo(pr(t, 177.5, 179)))})`;
+}
+
+// ---------- okvir ----------
+function okvir(t) {
+  const mini = $("#mini");
+  vis(mini, t, 57.3, 173, .5, .4, "flex");
+  const izv = (t >= 11.8 && t < 49) || (t >= 67.3 && t < 141.2) || (t >= 141.2 && t < 151) || (t >= 177.5);
+  $("#izvor").style.display = izv ? "block" : "none";
+  const oz = $("#oznaka");
+  let txt = "";
+  if (t >= 141.2 && t < 151) txt = "stvarni izlaz MCP poslužitelja · sučelje chata ilustrativno";
+  else if (t >= 165.4 && t < 173) txt = "PLANIRANO · u razvoju";
+  else if (t >= 175 && t < 177.4) txt = "stvarni tekst iz hodograma (.ics) · obavijest ilustrativna";
+  oz.style.display = txt ? "block" : "none"; oz.textContent = txt;
+  // tišina u ponoć: crni kadar
+  $("#crno").style.opacity = t >= 28 && t < 29.1 ? Math.min(pr(t, 28, 28.12), 1 - pr(t, 29, 29.1)) : t >= 181.4 ? pr(t, 181.4, 182) : 0;
+}
+
+// ---------- v2: preslikavanje novog vremena na stari vremenski tijek animacija ----------
+const MAPA = [[0, 4, .3, 7], [4, 11, 7, 17], [11, 15, 17, 25], [15, 25, 25, 37], [25, 33, 37.5, 49], [33, 44, 67, 81.3],
+  [44, 52, 81.4, 81.4], [52, 129.4, 100, 100], [129.4, 139.4, 141.2, 151], [139.4, 166, 151.2, 173], [166, 180, 173, 182]];
+const staro = (t) => { for (const [a, b, c, d] of MAPA) if (t >= a && t < b) return c + (d - c) * (t - a) / (b - a); return 182; };
+
+// ---------- v2: obilazak aplikacije (stvarne snimke novog sučelja) ----------
+// zum: [od, do, x, y, mjerilo] u koordinatama snimke 1600x900 (fokus na ono o čemu se govori)
+const ISJ = [
+  { id: "karta", a: 47.6, b: 60.3, od: 0, url: "#karta", zum: [[51.9, 55.4, 600, 110, 1.55]],
+    n: [[52, 60.3, "PREGLED", "Cijela Hrvatska na jednom ekranu", "fitilj: koliko ugovora ističe u 6 i 12 mjeseci"]] },
+  { id: "tri", a: 60.3, b: 78.9, od: 2.4, url: "#3d", nagib: 1,
+    n: [[60.3, 78.9, "3D SAT", "Iduće 3 godine u 15 sekundi", "svaki bljesak = ugovor koji je istekao"]] },
+  { id: "ugovor", a: 78.9, b: 105.3, od: 0, url: "#sat", zum: [[85.4, 90.4, 800, 400, 1.45], [92.1, 97.3, 800, 420, 1.35], [98.2, 104.8, 800, 660, 1.3]],
+    n: [[78.9, 84.9, "ZA OPĆINE", "Što ističe → klik na ugovor", "svaki ugovor otvara detalj"], [84.9, 91.6, "✨ AI", "AI otkriva stvarnu namjenu", "„pomorsko dobro” → hotelska plaža uz resort"],
+        [91.6, 97.6, "ZAKON O KONCESIJAMA", "Hodogram: 4 od 5 koraka kasni", "svaki korak s rokom, u kalendar jednim klikom"],
+        [97.6, 105.3, "ZA SLUŽBENIKE I GRAĐANE", "Gotov dopis · ZPPI zahtjev", "adresa tijela iz jpt.gov.hr"]] },
+  { id: "profil", a: 105.3, b: 118.8, od: 0, url: "#opcina/41942358B7271748669279", zum: [[105.9, 108.6, 790, 225, 1.5]],
+    n: [[105.3, 113.6, "PROFIL OPĆINE", "5 izvora na jednom mjestu", "stanovnici (DZS) · porez (Porezna) · kontakti (JPT)"], [113.6, 118.8, "PRETPLATA", "Rokovi sami stižu u kalendar", "Google · Outlook · Apple · bez prijave"]] },
+  { id: "revizija", a: 118.8, b: 129.4, od: 0, url: "#revizija", zum: [[122.1, 125.6, 640, 420, 1.3]],
+    n: [[118.8, 129.4, "ZA REVIZIJU", "Rizici i anomalije", "niska naknada · rok > 30 godina · bez naknade · fiskalni rizik"]] },
+];
+const OK = [$("#ok0"), $("#ok1")], VID = OK.map((o) => o.querySelector("video"));
+const PRIJ = .75;                                   // trajanje prijelaza između ekrana
+function zumNa(k, t) {
+  let s = 1, x = 800, y = 450;
+  for (const [a, b, zx, zy, zs] of k.zum || []) {
+    const p = Math.min(eInOut(pr(t, a, a + .9)), 1 - eInOut(pr(t, b - .8, b)));
+    if (p > 0) { s = lerp(1, zs, p); x = zx; y = zy; }
+  }
+  // fokus ostaje unutar kadra
+  const tx = cl(800 - x * s, 1600 - 1600 * s, 0), ty = cl(450 - y * s, 900 - 900 * s, 0);
+  return `translate(${tx}px, ${ty}px) scale(${s})`;
+}
+async function postavi(v, k, t) {
+  const src = `isjecci/${k.id}.mp4`;
+  if (v.dataset.id !== k.id) { v.dataset.id = k.id; v.src = src; await new Promise((r) => v.addEventListener("loadeddata", r, { once: true })); }
+  const ct = Math.min(Math.max(0, k.od + (t - k.a)), (v.duration || 99) - .05);
+  if (Math.abs(v.currentTime - ct) > .001) { v.currentTime = ct; await new Promise((r) => v.addEventListener("seeked", r, { once: true })); }
+}
+async function aplikacija(t) {
+  const sc = $("#scena3d");
+  const on = t >= 47.6 && t < 129.6;
+  sc.style.display = on ? "block" : "none";
+  if (!on) { $("#naslov2").style.display = "none"; return; }
+  const i = ISJ.findIndex((k) => t >= k.a && t < k.b);
+  const k = ISJ[Math.max(0, i)], sljedeci = ISJ[i + 1];
+  const uPrijelazu = sljedeci && t > k.b - PRIJ;
+  // trenutni okvir
+  const o0 = OK[0], o1 = OK[1];
+  await postavi(VID[0], k, t);
+  o0.querySelector(".traka span").textContent = "concessum.vercel.app/" + k.url;
+  o0.querySelector("video").style.transform = zumNa(k, t);
+  let tr0 = "scale(.86) ", op0 = 1;
+  if (t < 52) {                                      // ulaz: okvir izranja iz dubine dok sat postaje logo aplikacije
+    const p = eOutCubic(pr(t, 47.6, 51.6));
+    tr0 = `translateZ(${lerp(-1600, 0, p)}px) rotateX(${lerp(28, 0, p)}deg) translateY(${lerp(140, 0, p)}px)`; op0 = cl(p * 1.6);
+  }
+  if (k.nagib) {                                     // 3D sat: okvir se lagano nagne da naglasi prostorni prikaz
+    const p = Math.min(eInOut(pr(t, k.a + .6, k.a + 2.2)), 1 - eInOut(pr(t, k.b - 1.6, k.b - PRIJ)));
+    tr0 += ` rotateX(${8 * p}deg) translateY(${-12 * p}px) scale(${1 + .04 * p})`;
+  }
+  if (uPrijelazu) {                                  // prijelaz na sljedeći ekran: okvir se zakrene ulijevo, novi dolazi zdesna
+    const p = eInOut(pr(t, k.b - PRIJ, k.b));
+    tr0 += ` translateX(${-1100 * p}px) rotateY(${38 * p}deg) translateZ(${-500 * p}px)`; op0 = 1 - p;
+    o1.style.display = "block";
+    await postavi(VID[1], sljedeci, sljedeci.a);
+    o1.querySelector(".traka span").textContent = "concessum.vercel.app/" + sljedeci.url;
+    o1.querySelector("video").style.transform = zumNa(sljedeci, sljedeci.a);
+    o1.style.transform = `scale(.86) translateX(${1100 * (1 - p)}px) rotateY(${-38 * (1 - p)}deg) translateZ(${-500 * (1 - p)}px)`;
+    o1.style.opacity = p;
+  } else if (t >= 128.9) {                           // izlaz prema MCP-u: okvir se udalji
+    const p = eInOut(pr(t, 128.9, 129.6)); tr0 += ` translateZ(${-900 * p}px)`; op0 = 1 - p; o1.style.display = "none";
+  } else o1.style.display = "none";
+  o0.style.transform = tr0; o0.style.opacity = op0;
+
+  // naslov iznad okvira
+  const nn = $("#naslov2"), red = (k.n || []).find(([a, b]) => t >= a && t < b);
+  const op = red ? Math.min(eOutCubic(pr(t, red[0] + .15, red[0] + .6)), 1 - pr(t, red[1] - .35, red[1])) : 0;
+  nn.style.display = red && t >= 52 ? "block" : "none";
+  if (red) {
+    if (nn.dataset.k !== red[3]) { nn.dataset.k = red[3]; nn.querySelector(".cip").textContent = red[2]; nn.querySelector(".h").textContent = red[3]; nn.querySelector(".p").textContent = red[4]; }
+    nn.style.opacity = op; nn.style.transform = `translateY(${(1 - op) * 16}px)`;
+  }
+}
+function logo2(t) {
+  const el = $("#logo2");
+  if (!vis(el, t, 44.1, 51.2, .5, .9)) return;
+  // sat se smiri na 22:15 i postane logo; zatim se smanji prema mjestu logotipa u aplikaciji
+  const kaz = lerp(0, -52, eOutBack(pr(t, 44.3, 45.6)));
+  $("#l2kaz").setAttribute("transform", `rotate(${kaz})`);
+  const m = eInOut(pr(t, 49.2, 51.2));
+  el.style.transform = `translate(-50%, -50%) translate(${lerp(0, -760, m)}px, ${lerp(0, -330, m)}px) scale(${lerp(1, .18, m)})`;
+}
+
+async function renderFrame(f) {
+  const t = f / FPS, T = staro(t);
+  crtaj(T); kartice(t); mcp(T); mehanizam(T); sredina(T); outro(T); okvir(T);
+  if (t < 139.4) $("#mini").style.display = "none";
+  logo2(t);
+  await aplikacija(t);
+}
+window.renderFrame = renderFrame;
+
+// ---------- pregled u pregledniku (?render=1 isključuje) ----------
+if (!location.search.includes("render=1")) {
+  const fit = () => { const s = Math.min(innerWidth / 1920, (innerHeight - 44) / 1080); $("#stage").style.transform = `scale(${s})`; document.body.style.width = innerWidth + "px"; document.body.style.height = innerHeight + "px"; };
+  addEventListener("resize", fit); fit();
+  document.body.insertAdjacentHTML("beforeend", `<div id="kontrole"><button id="pl">▶</button><input id="sl" type="range" min="0" max="${TRAJANJE * FPS - 1}" value="0"><span id="vr">0.0 s</span></div>`);
+  const sl = $("#sl"), vr = $("#vr"); let igra = false, t0 = 0, f0 = 0;
+  const idi = (f) => { sl.value = f; vr.textContent = (f / FPS).toFixed(1) + " s"; renderFrame(f); };
+  sl.oninput = () => idi(+sl.value);
+  $("#pl").onclick = () => { igra = !igra; $("#pl").textContent = igra ? "❚❚" : "▶"; t0 = performance.now(); f0 = +sl.value; };
+  (function petlja(now) { if (igra) { const f = Math.min(TRAJANJE * FPS - 1, f0 + Math.round((now - t0) / 1000 * FPS)); idi(f); } requestAnimationFrame(petlja); })(0);
+  const h = +new URLSearchParams(location.search).get("t") || 0;
+  idi(Math.round(h * FPS));
+  window.idiNa = (s) => idi(Math.round(s * FPS));
+}
+</script>
+</body>
+</html>

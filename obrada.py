@@ -165,13 +165,17 @@ for z in zapisi:
 #    obnovljena   = isti davatelj, vrsta i koncesionar sklope novi ugovor u roku (-1 mj. do +12 mj.)
 #    zamjena      = isti davatelj, vrsta i lokacija imaju novi ugovor s drugim koncesionarom u roku
 #    bez_nastavka = ni jedno ni drugo
+# zdravstvo, auto taksi i pogrebni poslovi više se ne obavljaju na temelju koncesije (u registru
+# gotovo nema novih ugovora nakon 2016.), pa njihov istek nije propust i iskrivio bi pokazatelj
+UKINUTE = r"zdravstven|auto taksi|pogrebnih poslova"
+
 grupe = {}
 for idx_z, z in enumerate(zapisi):
     grupe.setdefault((z["oib_davatelja"], z["vrsta"], z["lokacija"]), []).append((idx_z, z))
 
 for idx_z, z in enumerate(zapisi):
     do_iso = z["do"]
-    if z["status"] != "istekla" or not do_iso or do_iso >= GRANICA_ZRELE or "zdravstven" in z["vrsta"].lower():
+    if z["status"] != "istekla" or not do_iso or do_iso >= GRANICA_ZRELE or re.search(UKINUTE, z["vrsta"].lower()):
         continue
     od_min = plus_mj(do_iso, -1)
     od_max = plus_mj(do_iso, 12)

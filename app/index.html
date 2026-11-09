@@ -146,7 +146,7 @@
         </div>
         <div class="kartica">
           <div class="kartica-glava"><h2>Što je bilo nakon isteka</h2>
-            <p class="opis">Ugovori istekli prije više od 12 mjeseci (bez zdravstva), po sektoru.</p></div>
+            <p class="opis">Ugovori istekli prije više od 12 mjeseci (bez zdravstva, taksija i pogrebnih poslova), po sektoru.</p></div>
           <div id="graf-opcina-nastavak" class="graf" role="img"></div>
         </div>
       </div>
@@ -261,7 +261,7 @@
         <li><strong>Smještanje na općinu (97,3 % ugovora):</strong> određuje se iz polja <code>LOKACIJA</code>, zatim preko <code>OIB_DAVAT</code> iz živog registra <code>jpt.gov.hr</code> (čime se lučke uprave i lokalne ustanove točno pripisuju gradu/općini sjedišta) te naposljetku iz naziva davatelja uz normalizaciju i usporedbu sličnosti (≥ 88 %). Na općinu je smješteno <span id="m-smjesteno"></span> ugovora (preostalih 2,7 % odnosi se na cijelu RH ili više županija).</li>
         <li><strong>AI sažetak i klasifikacija stvarne namjene (26 kategorija):</strong> u Registru koncesija ugovori su često zavedeni pod općenitim nazivom (npr. <em>„Koncesija na pomorskom dobru“</em> ili <em>„Koncesija za luku“</em>). Klasifikator analizira profil i djelatnost koncesionara po OIB-u (npr. hotelska kuća, naftna kompanija, putnička agencija, marikultura, komunalno poduzeće, sportski klub), zakonsku ulogu davatelja (lučka uprava vs. županija/ministarstvo) i lokaciju te određuje što je ugovor u naravi (npr. <em>hotelska plaža uz resort</em>, <em>obalna benzinska postaja za plovila</em>, <em>prihvat putnika s kruzera</em>, <em>uzgajalište školjkaša</em> ili <em>podmorski ispust</em>).</li>
         <li><strong>Povezivanje koncesionara po OIB-u i zaštita privatnosti (GDPR):</strong> pravne osobe grupiraju se po <code>OIB_KORIS</code> unatoč različitim zapisima naziva u registru (npr. <em>INA d.d.</em> / <em>INA-Industrija nafte d.d.</em>). Za fizičke osobe i obrte OIB se ne izlaže u sučelju niti u otvorenom izvozu.</li>
-        <li><strong>Nastavak nakon isteka:</strong> za ugovore istekle prije više od 12 mjeseci (bez ukinutih zdravstvenih koncesija) provjerava se postoji li u razdoblju od −1 do +12 mjeseci novi ugovor istog davatelja, vrste i lokacije (<em>obnovljena</em> s istim OIB-om koncesionara, <em>zamjena</em> s drugim koncesionarom ili <em>bez nastavka</em>).</li>
+        <li><strong>Nastavak nakon isteka:</strong> za ugovore istekle prije više od 12 mjeseci (bez ukinutih režima: zdravstvo, auto taksi i pogrebni poslovi, za koje se od 2016. gotovo ne sklapaju novi ugovori) provjerava se postoji li u razdoblju od −1 do +12 mjeseci novi ugovor istog davatelja, vrste i lokacije (<em>obnovljena</em> s istim OIB-om koncesionara, <em>zamjena</em> s drugim koncesionarom ili <em>bez nastavka</em>).</li>
         <li><strong>Cjenovni odmaci i rizici:</strong> za svaku od 26 stvarnih namjena računa se medijan godišnje fiksne naknade u RH. Ugovori čija je fiksna naknada manja od 15 % medijana istovrsnih ugovora (i &lt; 250 €) bez ugovorene varijabilne naknade označavaju se kao signal za reviziju.</li>
       </ol>
       <h2>Ograničenja</h2>

@@ -16,7 +16,7 @@ const arg = process.argv.slice(2), opt = (k, d) => { const i = arg.indexOf("--" 
   const izlaz = path.join(DIR, kadrovi ? `provjera_${ime}` : `frames_${ime}`);
   fs.rmSync(izlaz, { recursive: true, force: true }); fs.mkdirSync(izlaz, { recursive: true });
 
-  const b = await chromium.launch({ args: ["--allow-file-access-from-files"] });
+  const b = await chromium.launch({ args: ["--allow-file-access-from-files"], executablePath: process.env.CHROME || undefined });
   const p = await b.newPage({ viewport: { width: 1920, height: 1080 }, deviceScaleFactor: 1 });
   await p.goto("file://" + html + "?render=1");
   await p.waitForFunction(() => typeof window.renderFrame === "function");

@@ -11,3 +11,8 @@ node_modules/
 .DS_Store
 .env*
 .cache_datagovhr/
+# glazba (tuđa licenca), snimljeni isječci i gotovi videi ne idu u repo
+video/v2/glazba.*
+video/v2/glas_build/
+video/v2/isjecci/
+video/concessum_*.mp4

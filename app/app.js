@@ -281,7 +281,7 @@
     kpiRok($("#kpi"), a,
       [fmt.format(a.akt), "aktivnih ugovora", "", "Ugovori kojima rok još nije istekao."],
       [eur(a.n12), "godišnje naknade ističe u 12 mj.", "novac", "Ugovorena fiksna godišnja naknada ugovora koji ističu; bez novog ugovora taj prihod prestaje."],
-      [pct(a.udio), "isteklih bez nastavka", "isteklo", "Od ugovora isteklih prije više od godinu dana (bez zdravstva), udio koji nije obnovljen niti zamijenjen."]);
+      [pct(a.udio), "isteklih bez nastavka", "isteklo", "Od ugovora isteklih prije više od godinu dana (bez zdravstva, taksija i pogrebnih poslova), udio koji nije obnovljen niti zamijenjen."]);
   }
   // Logo: luk pokazuje udio aktivnih ugovora koji ističu u idućih 12 mjeseci (cijela RH)
   { const a = agregat(U); document.documentElement.style.setProperty("--udio-logo", (a.akt ? Math.round(a.i12 / a.akt * 100) : 0) + "%"); }
@@ -290,12 +290,12 @@
   const SK_ROK = () => [css("--t-staza"), css("--t-uskoro"), css("--t-hitno"), "#6e1a12"];
   const SK_MIRNO = () => [css("--t-staza"), css("--t-mirno-2"), css("--t-mirno"), "#1f3a4f"];
   const POK = {
-    udio: { naslov: "Udio isteklih koncesija bez nastavka", opis: `Od ugovora isteklih prije više od 12 mjeseci (bez zdravstva): koliko ih nije obnovljeno niti zamijenjeno novim ugovorom iste vrste. Sivo: manje od ${MIN_ZRELIH} takvih ugovora.`, v: (a) => a.zr >= MIN_ZRELIH ? a.udio : null, f: pct, boje: SK_ROK },
+    udio: { naslov: "Udio isteklih koncesija bez nastavka", opis: `Od ugovora isteklih prije više od 12 mjeseci (bez zdravstva, taksija i pogrebnih poslova): koliko ih nije obnovljeno niti zamijenjeno novim ugovorom iste vrste. Sivo: manje od ${MIN_ZRELIH} takvih ugovora.`, v: (a) => a.zr >= MIN_ZRELIH ? a.udio : null, f: pct, boje: SK_ROK },
     istjece12: { naslov: "Koncesije koje ističu u idućih 12 mjeseci", opis: "Broj ugovora kojima istječe rok u sljedećih godinu dana: tu bi davatelj već trebao pripremati novi postupak.", v: (a) => a.i12 || null, f: fmt.format, boje: SK_ROK },
     naknada12: { naslov: "Godišnja naknada koja ističe u 12 mjeseci", opis: "Zbroj ugovorene fiksne godišnje naknade (EUR) za ugovore koji ističu u sljedećih godinu dana.", v: (a) => a.n12 || null, f: eur, boje: SK_ROK },
     naknadaSt: { naslov: "Aktivna godišnja naknada po stanovniku (DZS Popis 2021.)", opis: "Ugovorena fiksna godišnja naknada aktivnih koncesija podijeljena s brojem stanovnika općine/grada prema Popisu 2021. (data.gov.hr / DZS).", v: (a) => a.nakSt ? Math.round(a.nakSt * 10) / 10 : null, f: (v) => v == null ? "–" : fmtDec.format(v) + " €/st.", boje: SK_MIRNO },
     aktivne: { naslov: "Aktivne koncesije", opis: "Broj ugovora koji danas vrijede.", v: (a) => a.akt || null, f: fmt.format, boje: SK_MIRNO },
-    bez: { naslov: "Istekle koncesije bez nastavka (broj)", opis: "Broj ugovora isteklih prije više od 12 mjeseci za koje nije pronađen novi ugovor iste vrste u općini (bez zdravstva).", v: (a) => a.bez || null, f: fmt.format, boje: SK_ROK },
+    bez: { naslov: "Istekle koncesije bez nastavka (broj)", opis: "Broj ugovora isteklih prije više od 12 mjeseci za koje nije pronađen novi ugovor iste vrste u općini (bez zdravstva, taksija i pogrebnih poslova).", v: (a) => a.bez || null, f: fmt.format, boje: SK_ROK },
     rizik: { naslov: "Aktivni ugovori s cjenovnim odmakom ili rizikom", opis: "Broj aktivnih ugovora u općini kod kojih je fiksna naknada < 15 % medijana iste stvarne namjene (bez varijabilne naknade), rok > 30 god. ili nedostaje upis naknade.", v: (a) => a.riz || null, f: fmt.format, boje: SK_ROK },
   };
   function karta() {
@@ -472,7 +472,7 @@
     kpiRok($("#opcina-kpi"), a,
       [fmt.format(a.akt), "aktivnih ugovora", "", `Ukupna aktivna fiksna naknada: ${eur(a.nakt)}/god.`],
       [eur(a.n12), "godišnje naknade ističe u 12 mj.", "novac", a.nak12St ? `To iznosi ${fmtDec.format(a.nak12St)} € po stanovniku u idućih 12 mj.` : "Ugovorena fiksna godišnja naknada ugovora koji ističu u idućih 12 mjeseci."],
-      [pct(a.udio), `isteklih bez nastavka (RH ${pct(rh.udio)})`, "isteklo", "Od ugovora isteklih prije više od godinu dana (bez zdravstva), udio koji nije obnovljen niti zamijenjen."]);
+      [pct(a.udio), `isteklih bez nastavka (RH ${pct(rh.udio)})`, "isteklo", "Od ugovora isteklih prije više od godinu dana (bez zdravstva, taksija i pogrebnih poslova), udio koji nije obnovljen niti zamijenjen."]);
 
     // Pametni AI sažetak općine
     const rec = [];

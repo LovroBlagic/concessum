@@ -185,7 +185,7 @@ def profil_opcine(opcina):
                 ugovori_po_sektoru=dict(sorted(sek.items(), key=lambda x: -x[1])),
                 dominantne_ai_namjene=dict(sorted(nam.items(), key=lambda x: -x[1])[:6]),
                 sljedeci_istekovi=[ugovor_out(u) for u in sljedeci],
-                napomena="Udio bez nastavka računa se samo za ugovore istekle prije više od 12 mjeseci, bez zdravstva; "
+                napomena="Udio bez nastavka računa se samo za ugovore istekle prije više od 12 mjeseci, bez zdravstva, taksija i pogrebnih poslova; "
                           "naknada je ugovorena fiksna godišnja naknada (donja granica prihoda).",
                 poveznica=f"https://concessum.vercel.app/#opcina/{oid}")
 

@@ -14,10 +14,10 @@ Kad koncesija istekne prije nego što je proveden novi postupak (koji po Zakonu 
 
 | Stanje na dan 8. 11. 2026. (24.667 jedinstvenih ugovora) | |
 |---|---|
-| Aktivni ugovori (s obradom općinskih + lučkih uprava preko OIB-a JPT-a) | **5.252** (97,3 % smješteno na JLS) |
-| Ističe u idućih 6 / 12 mjeseci | **532 / 839** |
-| Ugovorena fiksna godišnja naknada ugovora koji ističu u 12 mj. | **≈ 1,85 mil. €** (+ varijabilne naknade na % prihoda) |
-| Isteklih ugovora (bez zdravstva) za koje nije sklopljen novi ugovor iste vrste | **53,9 %** (7.571 od 14.035) |
+| Aktivni ugovori (s obradom općinskih + lučkih uprava preko OIB-a JPT-a) | **5.114** (97,3 % smješteno na JLS) |
+| Ističe u idućih 6 / 12 mjeseci | **521 / 816** |
+| Ugovorena fiksna godišnja naknada ugovora koji ističu u 12 mj. | **≈ 1,65 mil. €** (+ varijabilne naknade na % prihoda) |
+| Isteklih ugovora (bez zdravstva, taksija i pogrebnih poslova) za koje nije sklopljen novi ugovor iste vrste | **47 %** (5.206 od 11.082) |
 | Aktivni ugovori sa simboličnom naknadom (<15 % medijana kategorije, bez varijabilne naknade) | **380 ugovora** |
 | Primjer: Grad Dubrovnik do 31. 12. 2026. | **203 ugovora**, 164 tis. € fiksne naknade |
 
