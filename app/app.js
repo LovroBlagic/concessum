@@ -97,8 +97,20 @@
   // ---------- grafovi ----------
   echarts.registerMap("hr", G);
   const grafovi = {};
-  const graf = (id) => grafovi[id] || (grafovi[id] = echarts.init(document.getElementById(id), null, { renderer: "canvas" }));
-  window.addEventListener("resize", () => Object.values(grafovi).forEach((g) => g.resize()));
+  // Graf u skrivenom ekranu ima širinu 0: ako mu se tada promijeni veličina, ECharts ga smanji na 100 px
+  // i takav ostane kad se ekran ponovno prikaže (graf „nestane“). Zato se mijenja samo veličina vidljivih
+  // grafova, a ResizeObserver uskladi graf čim mu spremnik dobije stvarnu veličinu.
+  const vidljiv = (g) => { const el = g.getDom(); return el.clientWidth > 0 && el.clientHeight > 0; };
+  const uskladi = () => Object.values(grafovi).forEach((g) => {
+    if (vidljiv(g) && (g.getWidth() !== g.getDom().clientWidth || g.getHeight() !== g.getDom().clientHeight)) g.resize();
+  });
+  const graf = (id) => {
+    if (grafovi[id]) return grafovi[id];
+    const el = document.getElementById(id), g = echarts.init(el, null, { renderer: "canvas" });
+    if (window.ResizeObserver) new ResizeObserver(() => { if (vidljiv(g)) g.resize(); }).observe(el);
+    return (grafovi[id] = g);
+  };
+  window.addEventListener("resize", uskladi);
   const osnova = () => ({
     textStyle: { color: css("--tekst"), fontFamily: "system-ui, -apple-system, Segoe UI, Roboto, sans-serif" },
     tooltip: { backgroundColor: css("--povrsina"), borderColor: css("--rub"), textStyle: { color: css("--tekst") } },
@@ -443,7 +455,8 @@
     if (ruta === "karta") karta();
     else if (ruta === "sat") sat();
     else if (ruta === "opcina") opcina();
-    requestAnimationFrame(() => Object.values(grafovi).forEach((g) => g.resize()));
+    uskladi();                       // odmah, ekran je već prikazan pa je širina poznata
+    requestAnimationFrame(uskladi);   // i nakon iscrtavanja, za svaki slučaj
   }
   function usmjeri() {
     const [r, arg] = location.hash.replace(/^#/, "").split("/");
@@ -452,6 +465,7 @@
     if (ruta !== "opcina") document.title = "Koncesijski sat";
     document.body.dataset.ruta = ruta;
     document.querySelectorAll(".ekran").forEach((e) => { e.hidden = e.id !== "ekran-" + ruta; });
+    const dlg = document.getElementById("pretplata"); if (dlg && dlg.open) dlg.close();   // prozor ne ostaje otvoren preko drugog ekrana
     document.querySelectorAll("[data-ruta]").forEach((a) => a.dataset.ruta === ruta ? a.setAttribute("aria-current", "page") : a.removeAttribute("aria-current"));
     prikazi();
   }
