@@ -78,6 +78,18 @@
     p.ugovori.push(u);
   }
 
+  // ---------- odbrojavanje: boja = vrijeme do isteka ----------
+  const RAZRED = { hitno: "r-hitno", istjece: "r-uskoro", aktivna: "r-mirno", istekla: "r-isteklo" };
+  const potroseno = (u) => {
+    if (u.do < DANAS) return 100;
+    if (!u.od || u.do <= u.od) return 0;
+    return Math.max(2, Math.min(99, Math.floor((DANAS - u.od) / (u.do - u.od) * 100)));
+  };
+  const brojcanik = (u, velik) => `<span class="sat ${RAZRED[u.st]}${velik ? " sat-velik" : ""}" style="--p:${potroseno(u)}%" ` +
+    `title="Potrošeno ${potroseno(u)} % trajanja ugovora" aria-hidden="true"></span>`;
+  const rokHtml = (u) => `<span class="rok">${brojcanik(u)}<span><span class="rok-za ${RAZRED[u.st]}">${za(u.do)}</span>` +
+    `<span class="rok-dat">${hrDat(u.do)}</span></span></span>`;
+
   const NAST = ["", "obnovljena", "zamjena", "bez nastavka"];
   const NAST_KL = ["", "na-obnovljena", "na-zamjena", "na-bez"];
   const ST_TXT = { istekla: "istekla", hitno: "< 6 mj.", istjece: "< 24 mj.", aktivna: "aktivna" };
@@ -193,26 +205,40 @@
       `<div class="kpi ${kl || ""}"${obj ? ` title="${esc(obj)}"` : ""}><div class="kpi-vr">${v}</div><div class="kpi-op">${op}</div>${obj ? `<div class="kpi-obj">${esc(obj)}</div>` : ""}</div>`
     ).join("");
   }
+  // Fitilj: jedna traka od DANAS do +12 mj. s brojem ugovora koji ističu u 6 i u 12 mjeseci
+  const fitiljHtml = (a) =>
+    `<div class="kpi fitilj" title="Ugovori kojima rok istječe u idućih 6, odnosno 12 mjeseci. Za njih novi postupak prema Zakonu o koncesijama treba biti u pripremi ili već u tijeku.">` +
+    `<div class="fitilj-brojevi"><div><div class="kpi-vr">${fmt.format(a.i6)}</div><div class="kpi-op">ističe u 6 mjeseci</div></div>` +
+    `<div><div class="kpi-vr">${fmt.format(a.i12)}</div><div class="kpi-op">ističe u 12 mjeseci</div></div></div>` +
+    `<div class="fitilj-staza" aria-hidden="true"><i></i></div>` +
+    `<div class="fitilj-oznake" aria-hidden="true"><b>Danas · ${hrDat(DANAS)}</b><span>+6 mj.</span><span>+12 mj.</span></div></div>`;
+  function kpiRok(el, a, akt, novac, udio) {
+    kpi(el, [akt]);
+    el.insertAdjacentHTML("beforeend", fitiljHtml(a));
+    const ostalo = document.createElement("div"); kpi(ostalo, [novac, udio]);
+    el.insertAdjacentHTML("beforeend", ostalo.innerHTML);
+  }
   function kpiGlobal() {
     const a = agregat(U.filter(filt));
-    kpi($("#kpi"), [
+    kpiRok($("#kpi"), a,
       [fmt.format(a.akt), "aktivnih ugovora", "", "Ugovori kojima rok još nije istekao."],
-      [fmt.format(a.i6), "ističe u 6 mjeseci", "hitno", "Za ove ugovore novi postupak treba biti u tijeku već sada."],
-      [fmt.format(a.i12), "ističe u 12 mjeseci", "", "Vrijeme za pripremu novog natječaja prema Zakonu o koncesijama."],
       [eur(a.n12), "godišnje naknade ističe u 12 mj.", "novac", "Ugovorena fiksna godišnja naknada ugovora koji ističu; bez novog ugovora taj prihod prestaje."],
-      [pct(a.udio), "isteklih bez nastavka", "naglasak", "Od ugovora isteklih prije više od godinu dana (bez zdravstva), udio koji nije obnovljen niti zamijenjen."],
-    ]);
+      [pct(a.udio), "isteklih bez nastavka", "isteklo", "Od ugovora isteklih prije više od godinu dana (bez zdravstva), udio koji nije obnovljen niti zamijenjen."]);
   }
+  // Logo: luk pokazuje udio aktivnih ugovora koji ističu u idućih 12 mjeseci (cijela RH)
+  { const a = agregat(U); document.documentElement.style.setProperty("--udio-logo", (a.akt ? Math.round(a.i12 / a.akt * 100) : 0) + "%"); }
 
   // ---------- KARTA ----------
+  const SK_ROK = () => [css("--t-staza"), css("--t-uskoro"), css("--t-hitno"), "#6e1a12"];
+  const SK_MIRNO = () => [css("--t-staza"), css("--t-mirno-2"), css("--t-mirno"), "#1f3a4f"];
   const POK = {
-    udio: { naslov: "Udio isteklih koncesija bez nastavka", opis: `Od ugovora isteklih prije više od 12 mjeseci (bez zdravstva): koliko ih nije obnovljeno niti zamijenjeno novim ugovorom iste vrste. Sivo: manje od ${MIN_ZRELIH} takvih ugovora.`, v: (a) => a.zr >= MIN_ZRELIH ? a.udio : null, f: pct, boje: ["#f3e9c6", "#e9a96b", "#d2541b", "#7f1d1d"] },
-    istjece12: { naslov: "Koncesije koje ističu u idućih 12 mjeseci", opis: "Broj ugovora kojima istječe rok u sljedećih godinu dana: tu bi davatelj već trebao pripremati novi postupak.", v: (a) => a.i12 || null, f: fmt.format, boje: ["#fdf0c4", "#f0b545", "#c8412d", "#6e1a12"] },
-    naknada12: { naslov: "Godišnja naknada koja ističe u 12 mjeseci", opis: "Zbroj ugovorene fiksne godišnje naknade (EUR) za ugovore koji ističu u sljedećih godinu dana.", v: (a) => a.n12 || null, f: eur, boje: ["#fdf0c4", "#f0b545", "#c8412d", "#6e1a12"] },
-    naknadaSt: { naslov: "Aktivna godišnja naknada po stanovniku (DZS Popis 2021.)", opis: "Ugovorena fiksna godišnja naknada aktivnih koncesija podijeljena s brojem stanovnika općine/grada prema Popisu 2021. (data.gov.hr / DZS).", v: (a) => a.nakSt ? Math.round(a.nakSt * 10) / 10 : null, f: (v) => v == null ? "–" : fmtDec.format(v) + " €/st.", boje: ["#d8f0ee", "#6cc0c0", "#0b6e74", "#073b3f"] },
-    aktivne: { naslov: "Aktivne koncesije", opis: "Broj ugovora koji danas vrijede.", v: (a) => a.akt || null, f: fmt.format, boje: ["#d8f0ee", "#6cc0c0", "#0b6e74", "#073b3f"] },
-    bez: { naslov: "Istekle koncesije bez nastavka (broj)", opis: "Broj ugovora isteklih prije više od 12 mjeseci za koje nije pronađen novi ugovor iste vrste u općini (bez zdravstva).", v: (a) => a.bez || null, f: fmt.format, boje: ["#f3e9c6", "#e9a96b", "#d2541b", "#7f1d1d"] },
-    rizik: { naslov: "Aktivni ugovori s cjenovnim odmakom ili rizikom", opis: "Broj aktivnih ugovora u općini kod kojih je fiksna naknada < 15 % medijana iste stvarne namjene (bez varijabilne naknade), rok > 30 god. ili nedostaje upis naknade.", v: (a) => a.riz || null, f: fmt.format, boje: ["#fdf0c4", "#f0b545", "#c8412d", "#6e1a12"] },
+    udio: { naslov: "Udio isteklih koncesija bez nastavka", opis: `Od ugovora isteklih prije više od 12 mjeseci (bez zdravstva): koliko ih nije obnovljeno niti zamijenjeno novim ugovorom iste vrste. Sivo: manje od ${MIN_ZRELIH} takvih ugovora.`, v: (a) => a.zr >= MIN_ZRELIH ? a.udio : null, f: pct, boje: SK_ROK },
+    istjece12: { naslov: "Koncesije koje ističu u idućih 12 mjeseci", opis: "Broj ugovora kojima istječe rok u sljedećih godinu dana: tu bi davatelj već trebao pripremati novi postupak.", v: (a) => a.i12 || null, f: fmt.format, boje: SK_ROK },
+    naknada12: { naslov: "Godišnja naknada koja ističe u 12 mjeseci", opis: "Zbroj ugovorene fiksne godišnje naknade (EUR) za ugovore koji ističu u sljedećih godinu dana.", v: (a) => a.n12 || null, f: eur, boje: SK_ROK },
+    naknadaSt: { naslov: "Aktivna godišnja naknada po stanovniku (DZS Popis 2021.)", opis: "Ugovorena fiksna godišnja naknada aktivnih koncesija podijeljena s brojem stanovnika općine/grada prema Popisu 2021. (data.gov.hr / DZS).", v: (a) => a.nakSt ? Math.round(a.nakSt * 10) / 10 : null, f: (v) => v == null ? "–" : fmtDec.format(v) + " €/st.", boje: SK_MIRNO },
+    aktivne: { naslov: "Aktivne koncesije", opis: "Broj ugovora koji danas vrijede.", v: (a) => a.akt || null, f: fmt.format, boje: SK_MIRNO },
+    bez: { naslov: "Istekle koncesije bez nastavka (broj)", opis: "Broj ugovora isteklih prije više od 12 mjeseci za koje nije pronađen novi ugovor iste vrste u općini (bez zdravstva).", v: (a) => a.bez || null, f: fmt.format, boje: SK_ROK },
+    rizik: { naslov: "Aktivni ugovori s cjenovnim odmakom ili rizikom", opis: "Broj aktivnih ugovora u općini kod kojih je fiksna naknada < 15 % medijana iste stvarne namjene (bez varijabilne naknade), rok > 30 god. ili nedostaje upis naknade.", v: (a) => a.riz || null, f: fmt.format, boje: SK_ROK },
   };
   function karta() {
     const po = poOpcini(), p = POK[S.pokazatelj];
@@ -238,7 +264,7 @@
           `aktivne ${fmt.format(a.akt)} (${eur(a.nakt)}/god.) · ističe u 12 mj. ${fmt.format(a.i12)} (${eur(a.n12)}/god.)<br>` +
           `istekle bez nastavka ${fmt.format(a.bez)} / ${fmt.format(a.zr)}${stRed}<br><i>klik za profil općine</i>`;
       } },
-      visualMap: { min: 0, max, calculable: true, left: 8, bottom: 8, inRange: { color: p.boje },
+      visualMap: { min: 0, max, calculable: true, left: 8, bottom: 8, inRange: { color: p.boje() },
         textStyle: { color: css("--tekst-2") }, itemHeight: 120, formatter: (v) => p.f(v) },
       series: [{ type: "map", map: "hr", roam: true, scaleLimit: { min: 1, max: 12 }, nameProperty: "name", data,
         itemStyle: { areaColor: css("--rub"), borderColor: css("--povrsina"), borderWidth: 0.5 },
@@ -289,6 +315,21 @@
     });
   }
 
+  // Pozadinski pojasevi: prvih 6 mjeseci (hitno) i 6–12 mj., s crtom DANAS na početku
+  function pojaseviRoka(labele) {
+    const band = (od, do_, boja, tekst) => [{ xAxis: labele[od], itemStyle: { color: boja }, label: { show: true, position: "insideTop", formatter: tekst, color: css("--tekst-2"), fontFamily: "Barlow Condensed", fontWeight: 600, fontSize: 13 } }, { xAxis: labele[do_] }];
+    const mix = (v, a) => `color-mix(in srgb, ${css(v)} ${a}%, transparent)`;
+    const p = [];
+    if (labele.length) p.push(band(0, Math.min(5, labele.length - 1), mix("--t-hitno", 9), "< 6 mj."));
+    if (labele.length > 6) p.push(band(6, Math.min(11, labele.length - 1), mix("--t-uskoro", 10), "6–12 mj."));
+    return {
+      markArea: { silent: true, data: p },
+      markLine: { silent: true, symbol: "none", data: [{ xAxis: labele[0] }],
+        lineStyle: { color: css("--t-hitno"), width: 2, type: "solid" },
+        label: { formatter: "DANAS", position: "end", color: css("--t-hitno"), fontFamily: "Barlow Condensed", fontWeight: 700 } },
+    };
+  }
+
   // ---------- SAT ----------
   function sat() {
     const N = S.razdoblje, kraj = plusMj(DANAS, N);
@@ -311,10 +352,11 @@
       grid: { left: 40, right: 12, top: 36, bottom: 28 },
       xAxis: { type: "category", data: labele, ...os(), axisLabel: { color: css("--tekst-2"), hideOverlap: true } },
       yAxis: { type: "value", ...os(), minInterval: 1 },
-      series: sektori.filter((s) => mat[s].some((x) => x)).map((s) => ({
+      series: sektori.filter((s) => mat[s].some((x) => x)).map((s, idx) => ({
         id: s, name: sektorNaziv[s], type: "bar", stack: "a", data: mat[s], barMaxWidth: 36,
         itemStyle: { color: SEKTOR_BOJE[s], borderRadius: 0 },
         emphasis: { focus: "series" },
+        ...(idx === 0 ? pojaseviRoka(labele) : {}),
       })),
     }, true);
     g.off("click"); g.on("click", (e) => { S.mjesec = kljuc(mjeseci[e.dataIndex]); prikazi(); });
@@ -330,7 +372,7 @@
     const LIM = 350;
     const tabEl = $("#tablica-sat");
     tabEl.innerHTML = `<thead><tr><th>Ističe</th><th>Općina / lokacija</th><th>Koncesionar i profil</th><th>Vrsta i ✨ AI stvarna namjena</th><th class="br">Naknada / god.</th><th>Davatelj (JPT)</th><th>Uvid</th></tr></thead><tbody>` +
-      red.slice(0, LIM).map((u) => `<tr class="red-klik" data-ugovor="${u.i}"><td class="dat"><span class="oznaka ${u.st === "hitno" ? "st-hitno" : "st-istjece"}">${za(u.do)}</span><br>${hrDat(u.do)}</td>` +
+      red.slice(0, LIM).map((u) => `<tr class="red-klik" data-ugovor="${u.i}"><td class="dat">${rokHtml(u)}</td>` +
         `<td>${u.opc ? `<a href="#opcina/${u.opc}">${esc(nazivOpcine[u.opc])}</a>` : "–"}<br><span class="opis">${esc(u.lok)}</span></td>` +
         `<td>${celijaKoncesionara(u)}</td><td>${celijaVrsteAi(u)}</td><td class="br">${celijaNaknade(u)}</td>` +
         `<td>${esc(u.dav)}<span class="pod-tekst">${esc(u.davVrsta)}</span></td>` +
@@ -367,13 +409,10 @@
     if (m.email) metaStavke.push(`<span class="jls-stavka">✉️ <a href="mailto:${esc(m.email)}">${esc(m.email)}</a></span>`);
     $("#opcina-meta").innerHTML = metaStavke.join("");
 
-    kpi($("#opcina-kpi"), [
+    kpiRok($("#opcina-kpi"), a,
       [fmt.format(a.akt), "aktivnih ugovora", "", `Ukupna aktivna fiksna naknada: ${eur(a.nakt)}/god.`],
-      [fmt.format(a.i6), "ističe u 6 mjeseci", "hitno", "Za ove ugovore novi postupak treba biti u tijeku već sada."],
-      [fmt.format(a.i12), "ističe u 12 mjeseci", "", "Vrijeme za pripremu novog natječaja."],
       [eur(a.n12), "godišnje naknade ističe u 12 mj.", "novac", a.nak12St ? `To iznosi ${fmtDec.format(a.nak12St)} € po stanovniku u idućih 12 mj.` : "Ugovorena fiksna godišnja naknada ugovora koji ističu u idućih 12 mjeseci."],
-      [pct(a.udio), `isteklih bez nastavka (RH ${pct(rh.udio)})`, "naglasak", "Od ugovora isteklih prije više od godinu dana (bez zdravstva), udio koji nije obnovljen niti zamijenjen."],
-    ]);
+      [pct(a.udio), `isteklih bez nastavka (RH ${pct(rh.udio)})`, "isteklo", "Od ugovora isteklih prije više od godinu dana (bez zdravstva), udio koji nije obnovljen niti zamijenjen."]);
 
     // Pametni AI sažetak općine
     const rec = [];
@@ -421,9 +460,9 @@
       xAxis: { type: "category", data: god, ...os() },
       yAxis: { type: "value", minInterval: 1, ...os() },
       series: [
-        { name: "počinje", type: "bar", data: poc, itemStyle: { color: css("--naglasak") } },
-        { name: "ističe", type: "bar", data: ist, itemStyle: { color: css("--naglasak-2") },
-          markLine: { symbol: "none", silent: true, label: { formatter: "danas", color: css("--tekst-2") }, lineStyle: { color: css("--tekst-2"), type: "dashed" },
+        { name: "počinje", type: "bar", data: poc, itemStyle: { color: css("--t-mirno") } },
+        { name: "ističe", type: "bar", data: ist, itemStyle: { color: css("--t-uskoro") },
+          markLine: { symbol: "none", silent: true, label: { formatter: "DANAS", color: css("--t-hitno"), fontFamily: "Barlow Condensed", fontWeight: 700 }, lineStyle: { color: css("--t-hitno"), width: 2, type: "solid" },
             data: [{ xAxis: String(DANAS.getFullYear()) }] } },
       ],
     }, true);
@@ -453,7 +492,7 @@
     const LIM = 500;
     const tabEl = $("#tablica-opcina");
     tabEl.innerHTML = `<thead><tr>${th("do", "Ističe")}${th("od", "Od")}<th>Status</th>${th("kon", "Koncesionar i profil")}${th("vrsta", "Vrsta i ✨ AI stvarna namjena")}${th("nak", "Naknada / god.")}<th>Nakon isteka</th><th>Davatelj</th><th>Uvid</th></tr></thead><tbody>` +
-      red.slice(0, LIM).map((u) => `<tr class="red-klik" data-ugovor="${u.i}"><td class="dat">${hrDat(u.do)}</td><td class="dat">${hrDat(u.od)}</td>` +
+      red.slice(0, LIM).map((u) => `<tr class="red-klik" data-ugovor="${u.i}"><td class="dat">${rokHtml(u)}</td><td class="dat">${hrDat(u.od)}</td>` +
         `<td><span class="oznaka st-${u.st}">${ST_TXT[u.st]}</span></td>` +
         `<td>${celijaKoncesionara(u)}</td><td>${celijaVrsteAi(u)}</td><td class="br">${celijaNaknade(u)}</td>` +
         `<td>${u.nast ? `<span class="oznaka ${NAST_KL[u.nast]}">${NAST[u.nast]}</span>` : ""}</td>` +
@@ -489,7 +528,7 @@
         `<td>${celijaKoncesionara(u)}</td><td>${celijaVrsteAi(u)}</td>` +
         `<td class="br"><strong>${u.nak != null ? eurPun(u.nak) : "nije upisano"}</strong>${u.varNak ? `<span class="var-nak">${esc(u.varNak)}</span>` : ""}</td>` +
         `<td class="br">${eurPun(u.namMedijan)}/god.</td>` +
-        `<td class="dat">${hrDat(u.do)}<br><span class="opis">${za(u.do)}</span></td>` +
+        `<td class="dat">${rokHtml(u)}</td>` +
         `<td><button type="button" class="gumb gumb-mali">✨ AI &amp; ZPPI</button></td></tr>`).join("") + "</tbody>";
     veziKlikRedaka(tabEl);
     $("#tablica-revizija-napomena").textContent = `Pronađeno ${fmt.format(lista.length)} ugovora prema odabranom kriteriju revizije (prikazano prvih ${Math.min(LIM, lista.length)}).`;
@@ -667,6 +706,10 @@
       (u.nast ? `<span class="oznaka ${NAST_KL[u.nast]}">${NAST[u.nast]}</span>` : "") +
       oznakaRizikaHtml(u);
     $("#m-naslov").textContent = `${u.kon} — ${u.namNaziv}`;
+    const dana = Math.round((u.do - DANAS) / 864e5);
+    $("#m-odbrojavanje").innerHTML = `${brojcanik(u, true)}<div><div class="odbrojavanje-vr ${RAZRED[u.st]}">` +
+      (dana >= 0 ? (dana === 0 ? "Ističe danas" : `Ističe za ${fmt.format(dana)} ${dana % 10 === 1 && dana % 100 !== 11 ? "dan" : "dana"}`) : `Isteklo prije ${fmt.format(-dana)} dana`) +
+      `</div><div class="odbrojavanje-op">${hrDat(u.do)} · potrošeno ${potroseno(u)} % trajanja ugovora${u.od ? ` (od ${hrDat(u.od)})` : ""}</div></div>`;
     $("#m-podnaslov").textContent = `Službena vrsta u registru: ${u.vrsta} · Lokacija: ${u.lok} (${(u.opc && nazivOpcine[u.opc]) || "RH"}) · Trajanje: ${hrDat(u.od)} – ${hrDat(u.do)}`;
     $("#m-ai-bedz").textContent = `${u.namIkona} ${u.namNaziv}`;
     $("#m-ai-tekst").innerHTML = generirajAiSazetakHtml(u);
@@ -709,11 +752,18 @@
 
     // Zakonski hodogram
     const koraci = zakonskiKoraci(u);
+    // Vremenska crta od −7 mj. do isteka (+1 mj.), s crtom DANAS ako je unutar raspona
+    const t0 = plusMj(u.do, -7), t1 = plusMj(u.do, 1), pos = (d) => Math.max(0, Math.min(100, (d - t0) / (t1 - t0) * 100));
+    const danasPos = (DANAS - t0) / (t1 - t0) * 100;
+    $("#m-hod-crta").innerHTML = koraci.map((k, idx) =>
+      `<span class="tocka${k.kasni ? " kasni" : ""}" style="left:${pos(k.datum)}%" title="${esc(k.naslov)}"><span>${idx + 1} · ${MJ[k.datum.getMonth()]}</span></span>`).join("") +
+      (danasPos >= 0 && danasPos <= 100 ? `<span class="danas" style="left:${danasPos}%"><span>DANAS</span></span>` : "");
+    $("#m-hod-crta").hidden = u.do < DANAS;
     $("#m-hodogram").innerHTML = koraci.map((k) =>
       `<li class="${k.kasni ? "kasni" : ""}">` +
       `<strong>${hrDat(k.datum)}</strong>` +
       `<div><b>${esc(k.naslov)}</b><span class="pod-tekst">${esc(k.opis)}</span></div>` +
-      `<span class="oznaka ${k.kasni ? "st-hitno" : "st-aktivna"}">${k.kasni ? "Rok prošao" : za(k.datum)}</span></li>`
+      `<span class="oznaka ${k.kasni ? "st-hitno" : "st-aktivna"}">${k.kasni ? `trebalo započeti ${za(k.datum)}` : za(k.datum)}</span></li>`
     ).join("");
 
     osvjeziDopisModal();
