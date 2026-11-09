@@ -93,6 +93,34 @@
   #alati { position: absolute; left: 40px; bottom: 34px; display: flex; gap: 14px; }
   #alati span { font-size: 22px; border: 1px solid #2f3a44; border-radius: 30px; padding: 8px 18px; color: var(--tekst-2); }
   #kursor { display: inline-block; width: 3px; height: 34px; background: var(--tekst); vertical-align: -6px; margin-left: 2px; }
+  /* ChatGPT-style look (same layout as the eVijećnica demo video; no product logo; labelled as illustrative) */
+  #chat { left: 250px; top: 150px; width: 1420px; height: 850px; border: 1px solid #3a3a3a; border-radius: 18px; background: #212121;
+    color: #ececec; font-family: -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; box-shadow: 0 40px 90px rgba(0,0,0,.55); }
+  #chat .side { position: absolute; left: 0; top: 0; bottom: 0; width: 270px; background: #181818; padding: 22px 14px; font-size: 19px; color: #cfcfcf; }
+  #chat .side div { padding: 10px 12px; border-radius: 10px; } #chat .side .on { background: #2a2a2a; color: #fff; }
+  #chat .side .h { color: #8f8f8f; font-size: 16px; padding-top: 26px; }
+  #chat .zag { position: absolute; left: 270px; right: 0; top: 0; background: none; padding: 20px 30px; font-size: 25px; font-weight: 600; color: #ececec; }
+  #chat .zag b { color: #9b9b9b; font-weight: 400; margin-left: 6px; }
+  #chat .zag .sh { float: right; font-size: 18px; font-weight: 500; border: 1px solid #424242; border-radius: 999px; padding: 6px 16px; color: #ececec; }
+  #chat .msg { font-size: 27px; line-height: 1.5; }
+  #pitanje { right: 70px; top: 96px; max-width: 760px; background: #303030; border-radius: 26px; padding: 16px 26px; }
+  #alat { left: 330px; top: 230px; width: 1010px; border: 1px solid #333; border-radius: 14px; background: #2a2a2a; padding: 14px 20px; font-size: 21px; }
+  #alat .naz { color: #afafaf; font-family: -apple-system, Helvetica, Arial, sans-serif; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  #alat .naz i { display: inline-block; width: 10px; height: 10px; border-radius: 50%; background: #10a37f; margin-right: 10px; vertical-align: 2px; }
+  #alat .naz b { color: #ececec; }
+  #alat pre { margin-top: 10px; font-size: 19px; color: #9b9b9b; line-height: 1.45; }
+  #alat pre b { color: #ececec; }
+  #odgovor { left: 330px; top: 530px; max-width: 1060px; color: #ececec; font-size: 26px !important; }
+  #odgovor b { color: #fff; }
+  #odgovor ul { margin: 8px 0 0; padding-left: 30px; font-size: 25px; } #odgovor li { margin: 4px 0; }
+  #odgovor u { color: #8ab4f8; font-size: 22px; margin-top: 12px; }
+  #alati { left: 16px; bottom: 26px; width: 238px; flex-direction: column; gap: 6px; }
+  #alati:before { content: "concessum · 5 alata"; font: 15px -apple-system, Helvetica, sans-serif; color: #8f8f8f; padding: 0 4px 4px; }
+  #alati span { font-size: 15px; border: 1px solid #3a3a3a; border-radius: 8px; padding: 4px 10px; color: #b4b4b4; }
+  #chat .compose { position: absolute; left: 330px; right: 80px; bottom: 30px; background: #303030; border-radius: 30px; padding: 18px 26px;
+    font-size: 22px; color: #9b9b9b; display: flex; justify-content: space-between; align-items: center; }
+  #chat .compose span { font-size: 17px; border: 1px solid #4a4a4a; border-radius: 999px; padding: 4px 14px; color: #cfcfcf; }
+  #kursor { background: #ececec; }
 
   /* mehanizam */
   #meh { display: none; }
@@ -174,17 +202,23 @@ TRIGGER:-P30D    → zadnji podsjetnik</pre>
 
   <!-- MCP -->
   <div id="chat">
-    <div class="zag">Razgovor s AI asistentom <b>⚡ concessum (MCP)</b></div>
+    <div class="side"><div class="on">✎ Novi razgovor</div><div>⌕ Pretraži razgovore</div><div>⚙ Konektori · concessum</div>
+      <div class="h">Razgovori</div><div class="on">Koncesije u Dubrovniku</div><div>Seminar iz ekonomije</div><div>Plan puta</div></div>
+    <div class="zag">ChatGPT <b>⌄</b><span class="sh">⇪ Podijeli</span></div>
     <div id="pitanje" class="msg"><span></span><i id="kursor"></i></div>
-    <div id="alat" class="msg mono"><div class="naz">⚙ istjece_uskoro(opcina: "Dubrovnik", do: "2026-12-31")</div><pre>{
+    <div id="alat" class="msg mono"><div class="naz"><i></i>Pozvan alat <b>concessum</b> › istjece_uskoro <span style="color:#6f6f6f">(opcina: "Dubrovnik", do: "2026-12-31")</span></div><pre>{
   "opcina": "Grad Dubrovnik",
-  "do": "2026-12-31",
   "broj_ugovora": <b>203</b>,
   "godisnja_fiksna_naknada_eur": <b>163797</b>,
+  "po_sektorima": { "Luke": 151, "Pomorsko dobro i marikultura": 51, … },
   …
 }</pre></div>
-    <div id="odgovor" class="msg">Do kraja godine u Dubrovniku ističe <b>203 ugovora</b>, s oko <b>164 tis. €</b> godišnje fiksne naknade.<u>→ concessum.vercel.app/#opcina/…</u></div>
+    <div id="odgovor" class="msg">Do kraja 2026. u Dubrovniku ističe <b>203 koncesije</b>, s oko <b>164 tis. €</b> godišnje fiksne naknade.
+      <ul><li>najviše u <b>lukama</b> (151) i na pomorskom dobru (51)</li>
+      <li>AI procjena namjene: djelatnosti u luci 124, plaže 34, kruzeri i izletnici 23</li></ul>
+      <u>Izvor: Registar koncesija (FINA, data.gov.hr) · concessum.vercel.app ↗</u></div>
     <div id="alati" class="mono"><span>istjece_uskoro</span><span>profil_opcine</span><span>bez_nastavka</span><span>trazi_koncesionara</span><span>revizija_rizika</span></div>
+    <div class="compose">Pitaj bilo što<span>⚙ concessum</span></div>
   </div>
 
   <!-- mehanizam -->
