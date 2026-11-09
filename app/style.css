@@ -306,33 +306,145 @@ body:not([data-ruta="karta"]) .upute { display: none; }
 
 /* ===== 3D sat (three.js) ===== */
 body[data-ruta="3d"] .filteri, body[data-ruta="3d"] #kpi { display: none; }
-.tri-pozornica { position: relative; height: min(78vh, 820px); min-height: 460px; border-radius: 14px; overflow: hidden;
-  background: radial-gradient(ellipse at 50% 40%, #16202b 0%, #0a0d12 70%); color: #ecebe6; }
+.tri-pozornica { position: relative; height: min(80vh, 840px); min-height: 520px; border-radius: 14px; overflow: hidden;
+  background: #0a0d12; color: #ecebe6; }
 #tri-platno { display: block; width: 100%; height: 100%; }
 .tri-hud { position: absolute; pointer-events: none; }
 .tri-hud > * { pointer-events: auto; }
-.tri-gore { left: 20px; top: 16px; max-width: 420px; }
+.tri-gore { left: 20px; top: 16px; max-width: 380px; }
 .tri-gore h1 { margin: 0; font: 700 30px/1 var(--pismo-broj); letter-spacing: .02em; text-transform: uppercase; }
 .tri-gore p { margin: 6px 0 0; color: #a3a7b0; font-size: 13px; }
-.tri-sat { right: 22px; top: 16px; text-align: right; }
+.tri-sat { right: 22px; top: 16px; text-align: right; width: 300px; }
 .tri-datum { font: 700 54px/1 var(--pismo-broj); letter-spacing: .02em; color: #ff6a3d; text-shadow: 0 0 24px rgba(255,106,61,.45); }
 .tri-brojac { margin-top: 6px; font-size: 14px; color: #c9ccd2; }
 .tri-brojac b { font: 700 22px/1 var(--pismo-broj); color: #f2b65a; }
-.tri-traka { margin: 10px 0 0 auto; width: 260px; height: 4px; border-radius: 2px; background: #2a2e35; overflow: hidden; }
+.tri-traka { margin: 10px 0 0 auto; width: 100%; height: 4px; border-radius: 2px; background: #2a2e35; overflow: hidden; }
 .tri-traka i { display: block; height: 100%; width: 0; background: linear-gradient(90deg, #ff6a3d, #f2b65a); }
+/* popis isteka uživo */
+.tri-feed { margin-top: 14px; text-align: left; background: rgba(14,18,24,.72); border: 1px solid #2a2e35; border-radius: 10px; padding: 8px 10px; backdrop-filter: blur(4px); }
+.tri-feed[hidden] { display: none; }
+.tri-feed-naslov { font: 700 11px/1 var(--pismo-broj); letter-spacing: .1em; text-transform: uppercase; color: #ff6a3d; margin-bottom: 6px; }
+.tri-feed ol { list-style: none; margin: 0; padding: 0; display: grid; gap: 4px; }
+.tri-feed li { display: grid; grid-template-columns: 54px 1fr; gap: 6px; font-size: 12.5px; color: #c9ccd2; animation: tri-red .45s ease-out; }
+.tri-feed li:first-child { color: #fff; }
+.tri-feed b { color: #fff; font-weight: 600; }
+.tri-feed em { color: #ff6a3d; font-style: normal; }
+.tri-feed-mj { font: 600 13px/1.3 var(--pismo-broj); color: #f2b65a; letter-spacing: .04em; }
+@keyframes tri-red { from { opacity: 0; transform: translateX(10px); } to { opacity: 1; transform: none; } }
+/* natpis koji objašnjava trenutak */
+.tri-natpis { left: 340px; right: 340px; bottom: 72px; margin: 0 auto; max-width: 620px; text-align: center;
+  font-size: 16px; line-height: 1.4; color: #ecebe6; background: rgba(14,18,24,.8); border: 1px solid #2a2e35; border-radius: 12px; padding: 10px 16px; backdrop-filter: blur(4px); }
+.tri-natpis b { color: #f2b65a; font-weight: 700; }
+.tri-natpis.ulaz { animation: tri-natpis .6s ease-out; }
+@keyframes tri-natpis { from { opacity: 0; transform: translateY(12px); } to { opacity: 1; transform: none; } }
+/* legenda */
+.tri-legenda { right: 22px; bottom: 18px; width: 300px; display: grid; gap: 7px; font-size: 12.5px; color: #c9ccd2;
+  background: rgba(14,18,24,.72); border: 1px solid #2a2e35; border-radius: 10px; padding: 10px 12px; backdrop-filter: blur(4px); }
+.tri-legenda b { color: #fff; font-weight: 600; }
+.tri-leg-red { display: flex; align-items: center; gap: 10px; }
+.tri-leg-boja { display: grid; grid-template-columns: 1fr; gap: 4px; }
+.tri-leg-skala { height: 8px; border-radius: 4px; background: linear-gradient(90deg, #7fa8c6, #f2b65a, #ff6a3d); }
+.tri-leg-krajevi { display: flex; justify-content: space-between; font: 600 11px/1 var(--pismo-broj); letter-spacing: .06em; text-transform: uppercase; color: #8a8f99; }
+.tri-leg-stup { display: inline-flex; align-items: end; gap: 2px; height: 18px; flex: none; }
+.tri-leg-stup i { width: 5px; background: #7fa8c6; border-radius: 1px; }
+.tri-leg-stup i:nth-child(1) { height: 6px; } .tri-leg-stup i:nth-child(2) { height: 12px; } .tri-leg-stup i:nth-child(3) { height: 18px; }
+.tri-leg-iskra { width: 19px; height: 12px; flex: none; border-radius: 50%; background: radial-gradient(circle, #fff 0 15%, #ff8a4d 35%, transparent 70%); box-shadow: 0 0 10px #ff6a3d; }
+.tri-leg-sivo { width: 19px; height: 12px; flex: none; border-radius: 2px; background: #3a3f47; }
+/* oznake gradova nad stupovima */
+.tri-oznake { position: absolute; inset: 0; pointer-events: none; overflow: hidden; }
+.tri-oznaka { position: absolute; left: 0; top: 0; white-space: nowrap; font-size: 12px; font-weight: 600; color: #ecebe6;
+  background: rgba(14,18,24,.78); border: 1px solid #3a3f47; border-radius: 6px; padding: 2px 7px; transition: opacity .3s, border-color .3s; }
+.tri-oznaka b { font: 700 14px/1 var(--pismo-broj); color: #7fa8c6; margin-left: 3px; }
+.tri-oznaka.pala { border-color: #ff6a3d; }
+.tri-oznaka.pala b { color: #ff6a3d; }
 .tri-kontrole { left: 20px; bottom: 18px; display: flex; gap: 10px; flex-wrap: wrap; align-items: center; }
-.tri-kontrole .pilule { margin: 0; }
-.tri-kontrole .pilula { background: rgba(20,24,30,.7); color: #c9ccd2; border-color: #3a3f47; }
-.tri-kontrole .pilula[aria-pressed="true"] { background: #4fc1c6; color: #0a0d12; border-color: #4fc1c6; }
 .tri-kontrole .gumb { color: #4fc1c6; background: rgba(20,24,30,.7); }
 .tri-kontrole .gumb-puni { background: #ff6a3d; border-color: #ff6a3d; color: #0a0d12; font-weight: 700; }
-.tri-info { right: 22px; bottom: 18px; margin: 0; padding: 8px 12px; border-radius: 8px; background: rgba(20,24,30,.8); border: 1px solid #3a3f47; font-size: 13px; max-width: 320px; }
+.tri-savjet { font-size: 11.5px; color: #8a8f99; }
+.tri-info { left: 20px; bottom: 64px; margin: 0; padding: 8px 12px; border-radius: 8px; background: rgba(20,24,30,.85); border: 1px solid #3a3f47; font-size: 13px; max-width: 320px; }
+@media (max-width: 960px) {
+  .tri-legenda { display: none; }
+  .tri-natpis { left: 20px; right: 20px; bottom: 70px; }
+  .tri-sat { width: 230px; }
+  .tri-feed li:nth-child(n+4) { display: none; }
+}
 @media (max-width: 600px) {
   .tri-datum { font-size: 34px; }
-  .tri-traka { width: 160px; }
-  .tri-gore p { display: none; }
-  .tri-sat { top: 54px; }
+  .tri-gore p, .tri-savjet, .tri-feed { display: none; }
+  .tri-sat { top: 54px; width: auto; }
+  .tri-natpis { font-size: 14px; }
 }
+
+/* ===== Tranzicije i efekti (umjereni; isključeni uz „smanji kretanje“) ===== */
+@property --p { syntax: "<percentage>"; inherits: false; initial-value: 0%; }
+@property --udio-logo { syntax: "<percentage>"; inherits: true; initial-value: 16%; }
+@keyframes ulaz-gore { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: none; } }
+@keyframes ulaz-fade { from { opacity: 0; } to { opacity: 1; } }
+@keyframes fitilj-gori { from { clip-path: inset(0 100% 0 0 round 5px); } to { clip-path: inset(0 0 0 0 round 5px); } }
+@keyframes brojcanik-puni { from { --p: 0%; } }
+@keyframes logo-puni { from { --udio-logo: 0%; } }
+@keyframes modal-ulaz { from { opacity: 0; transform: translateY(14px) scale(.985); } to { opacity: 1; transform: none; } }
+@keyframes tocka-pop { 0% { opacity: 0; transform: scale(.2); } 70% { transform: scale(1.2); } 100% { opacity: 1; transform: none; } }
+@keyframes danas-raste { from { transform: scaleY(0); } to { transform: none; } }
+@keyframes zar { from { box-shadow: 0 0 0 0 color-mix(in srgb, var(--t-hitno) 0%, transparent); } to { box-shadow: 0 0 10px 2px color-mix(in srgb, var(--t-hitno) 55%, transparent); } }
+
+/* klizni indikator aktivne kartice u navigaciji */
+.glavna-nav { position: relative; }
+.nav-klizac { position: absolute; left: 0; top: 0; width: 0; height: 0; border-radius: 6px; opacity: 0; pointer-events: none;
+  background: color-mix(in srgb, var(--naglasak) 12%, transparent); }
+.nav li { position: relative; z-index: 1; }
+.glavna-nav.ima-klizac .nav a[aria-current="page"] { background: transparent; }
+/* zaglavlje dobije zamućenu pozadinu i sjenu kad se stranica pomakne */
+.zaglavlje { transition: box-shadow .25s, background-color .25s; }
+.zaglavlje.skrolano { background: color-mix(in srgb, var(--povrsina) 82%, transparent); backdrop-filter: saturate(1.4) blur(10px);
+  box-shadow: 0 1px 0 var(--rub), 0 6px 20px rgba(0,0,0,.06); }
+/* redak tablice: naglasak lijevo pri prelasku mišem */
+.tablica tbody tr.red-klik { box-shadow: inset 3px 0 0 transparent; transition: background .15s, box-shadow .15s; }
+.tablica tbody tr.red-klik:hover { box-shadow: inset 3px 0 0 var(--naglasak); }
+.pilula { transition: background .2s, color .2s, border-color .2s; }
+.poredak-lista a { transition: background .15s, padding-left .2s; }
+.poredak-lista a:hover { padding-left: 8px; }
+/* otkrivanje sadržaja pri skrolanju */
+.otkrij { opacity: 0; transform: translateY(12px); }
+.otkrij.vidljivo { opacity: 1; transform: none; transition: opacity .55s cubic-bezier(.2,.7,.2,1), transform .55s cubic-bezier(.2,.7,.2,1); transition-delay: var(--kasni, 0ms); }
+
+@media (prefers-reduced-motion: no-preference) {
+  .nav-klizac.spreman { transition: transform .38s cubic-bezier(.3,.8,.3,1), width .38s cubic-bezier(.3,.8,.3,1), height .38s, opacity .2s; }
+  .logo-sat { animation: logo-puni 1.4s .2s cubic-bezier(.3,.8,.3,1) both; }
+  .kpi-red.ulaz > .kpi { animation: ulaz-gore .5s cubic-bezier(.2,.7,.2,1) both; }
+  .kpi-red.ulaz > .kpi:nth-child(2) { animation-delay: .07s; }
+  .kpi-red.ulaz > .kpi:nth-child(3) { animation-delay: .14s; }
+  .kpi-red.ulaz > .kpi:nth-child(4) { animation-delay: .21s; }
+  .ulaz .fitilj-staza { animation: fitilj-gori 1.2s .15s cubic-bezier(.3,.8,.3,1) both; }
+  .fitilj-staza::before { animation: zar 1.6s ease-in-out infinite alternate; }
+  .ekran.ulaz .sat, .modal[open] .sat { animation: brojcanik-puni .9s cubic-bezier(.3,.8,.3,1) both; }
+  .ekran.ulaz .tablica tbody tr { animation: ulaz-fade .35s ease-out both; }
+  .ekran.ulaz .tablica tbody tr:nth-child(1) { animation-delay: 25ms; }
+  .ekran.ulaz .tablica tbody tr:nth-child(2) { animation-delay: 50ms; }
+  .ekran.ulaz .tablica tbody tr:nth-child(3) { animation-delay: 75ms; }
+  .ekran.ulaz .tablica tbody tr:nth-child(4) { animation-delay: 100ms; }
+  .ekran.ulaz .tablica tbody tr:nth-child(5) { animation-delay: 125ms; }
+  .ekran.ulaz .tablica tbody tr:nth-child(6) { animation-delay: 150ms; }
+  .ekran.ulaz .tablica tbody tr:nth-child(7) { animation-delay: 175ms; }
+  .ekran.ulaz .tablica tbody tr:nth-child(8) { animation-delay: 200ms; }
+  .ekran.ulaz .tablica tbody tr:nth-child(9) { animation-delay: 225ms; }
+  .ekran.ulaz .tablica tbody tr:nth-child(10) { animation-delay: 250ms; }
+  .ekran.ulaz .tablica tbody tr:nth-child(11) { animation-delay: 275ms; }
+  .ekran.ulaz .tablica tbody tr:nth-child(12) { animation-delay: 300ms; }
+  .ekran.ulaz .tablica tbody tr:nth-child(13) { animation-delay: 325ms; }
+  .ekran.ulaz .tablica tbody tr:nth-child(14) { animation-delay: 350ms; }
+  .ekran.ulaz .tablica tbody tr:nth-child(15) { animation-delay: 375ms; }
+  .modal[open] { animation: modal-ulaz .3s cubic-bezier(.2,.8,.2,1); }
+  .modal[open]::backdrop, .dijalog[open]::backdrop { animation: ulaz-fade .3s ease-out; }
+  .dijalog[open] { animation: modal-ulaz .26s cubic-bezier(.2,.8,.2,1); }
+  .hod-crta .tocka { animation: tocka-pop .45s cubic-bezier(.3,.8,.3,1) both; animation-delay: calc(var(--k, 0) * 110ms + .15s); }
+  .hod-crta .danas { transform-origin: bottom; animation: danas-raste .5s .7s ease-out both; }
+  .nav a { transition: color .2s; }
+  .kpi { transition: box-shadow .2s, transform .2s; }
+  .kpi:hover { transform: translateY(-2px); box-shadow: 0 2px 4px rgba(0,0,0,.06), 0 10px 24px rgba(0,0,0,.08); }
+}
+@media (prefers-reduced-motion: reduce) { .otkrij { opacity: 1; transform: none; } }
+@media print { .otkrij { opacity: 1 !important; transform: none !important; } }
 
 @media print {
   .zaglavlje, .filteri, .upute, .podnozje, .gumbi .gumb, #opcina-csv, #opcina-ics, .preskoci, .modal { display: none !important; }

@@ -217,7 +217,65 @@
     el.insertAdjacentHTML("beforeend", fitiljHtml(a));
     const ostalo = document.createElement("div"); kpi(ostalo, [novac, udio]);
     el.insertAdjacentHTML("beforeend", ostalo.innerHTML);
+    // pri ulasku na ekran brojke krenu od nule, a pri promjeni filtera pretope se sa stare vrijednosti
+    const prije = el._vrijednosti;
+    el._vrijednosti = Array.from(el.querySelectorAll(".kpi-vr")).map((x, i) => izbroji(x, prije ? 650 : 900, prije ? prije[i] ?? 0 : 0));
   }
+  // Brojke „odbroje“ od nule do vrijednosti (prvi broj u tekstu, zadržava hrvatski format)
+  const tihoKretanje = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+  function izbroji(el, ms = 900, od = 0) {
+    const txt = el.textContent, m = txt.match(/\d{1,3}(?:\.\d{3})*(?:,\d+)?/);
+    if (!m) return null;
+    const dec = (m[0].split(",")[1] || "").length;
+    const cilj = parseFloat(m[0].replace(/\./g, "").replace(",", "."));
+    if (tihoKretanje || od === cilj) return cilj;
+    const pre = txt.slice(0, m.index), post = txt.slice(m.index + m[0].length);
+    const f = new Intl.NumberFormat("hr-HR", { minimumFractionDigits: dec, maximumFractionDigits: dec });
+    const t0 = performance.now();
+    const korak = (sad) => {
+      const p = Math.min(1, (sad - t0) / ms), e = 1 - Math.pow(1 - p, 3);
+      el.textContent = pre + f.format(od + (cilj - od) * e) + post;
+      if (p < 1 && el.isConnected) requestAnimationFrame(korak); else el.textContent = txt;
+    };
+    requestAnimationFrame(korak);
+    return cilj;
+  }
+  // Ponovno pokretanje CSS animacije ulaza na elementu
+  const ulaz = (el) => {
+    if (!el) return;
+    clearTimeout(el._ulazT); el.classList.remove("ulaz"); void el.offsetWidth; el.classList.add("ulaz");
+    el._ulazT = setTimeout(() => el.classList.remove("ulaz"), 1300);   // kasnija osvježavanja (filteri) bez ponovnog ulaza
+  };
+  // Kartice se otkrivaju kad uđu u vidno polje (na ekranu odmah, ispod pri skrolanju)
+  const promatrac = "IntersectionObserver" in window ? new IntersectionObserver((stavke) => stavke.forEach((s) => {
+    if (s.isIntersecting) { s.target.classList.add("vidljivo"); promatrac.unobserve(s.target); }
+  }), { threshold: 0.06 }) : null;
+  function otkrij(ekran) {
+    if (!promatrac || tihoKretanje || !ekran) return;
+    const el = ekran.matches(".tekst") ? ekran.children : ekran.querySelectorAll(".kartica, .sazetak, .jls-traka, .kpi-red, .opcina-zaglavlje, .tri-pozornica");
+    const visina = window.innerHeight;
+    Array.from(el).forEach((x, i) => {
+      x.classList.remove("vidljivo"); x.classList.add("otkrij");
+      x.style.setProperty("--kasni", Math.min(i, 5) * 70 + "ms");
+      promatrac.unobserve(x);
+      // što je već na ekranu otkrije se odmah (s malim zaostatkom), ostalo kad se doskrola
+      if (x.getBoundingClientRect().top < visina) { void x.offsetWidth; x.classList.add("vidljivo"); }
+      else promatrac.observe(x);
+    });
+  }
+  // Klizni indikator aktivne kartice
+  function pomakniKlizac() {
+    const k = $(".nav-klizac"), a = $(".nav a[aria-current]");
+    if (!k) return;
+    if (!a) { k.style.opacity = "0"; return; }
+    const n = $(".glavna-nav").getBoundingClientRect(), r = a.getBoundingClientRect();
+    Object.assign(k.style, { opacity: "1", width: r.width + "px", height: r.height + "px", transform: `translate(${r.left - n.left}px, ${r.top - n.top}px)` });
+    $(".glavna-nav").classList.add("ima-klizac");
+    if (!k.classList.contains("spreman")) requestAnimationFrame(() => k.classList.add("spreman"));
+  }
+  window.addEventListener("resize", pomakniKlizac);
+  const zaglavlje = $(".zaglavlje");
+  window.addEventListener("scroll", () => zaglavlje.classList.toggle("skrolano", window.scrollY > 4), { passive: true });
   function kpiGlobal() {
     const a = agregat(U.filter(filt));
     kpiRok($("#kpi"), a,
@@ -276,6 +334,8 @@
 
     const red = data.filter((d) => !isNaN(d.value)).sort((x, y) => y.value - x.value || y.a.zr - x.a.zr || y.a.uk - x.a.uk);
     $("#poredak-opis").textContent = `${red.length} općina i gradova s podatkom, od najvećeg.`;
+    $("#poredak").onmouseover = (e) => { const a = e.target.closest("a"); if (a) g.dispatchAction({ type: "highlight", name: a.getAttribute("href").split("/")[1] }); };
+    $("#poredak").onmouseout = (e) => { const a = e.target.closest("a"); if (a) g.dispatchAction({ type: "downplay", name: a.getAttribute("href").split("/")[1] }); };
     $("#poredak").innerHTML = red.slice(0, 150).map((d, i) =>
       `<li><a href="#opcina/${d.name}"><span class="rb">${i + 1}.</span><span>${esc(nazivOpcine[d.name])}</span><span class="vr">${p.f(d.value)}</span>` +
       `<span class="pod">${S.pokazatelj === "udio" ? `${d.a.bez} od ${d.a.zr} isteklih` : S.pokazatelj === "naknada12" ? `${d.a.i12} ugovora ističe u 12 mj.` : S.pokazatelj === "naknadaSt" ? `${eur(d.a.nakt)} ukupno · ${fmt.format(d.a.stanovnika || 0)} st.` : `${d.a.akt} aktivnih · ${d.a.uk} ukupno`}</span></a></li>`).join("");
@@ -756,7 +816,7 @@
     const t0 = plusMj(u.do, -7), t1 = plusMj(u.do, 1), pos = (d) => Math.max(0, Math.min(100, (d - t0) / (t1 - t0) * 100));
     const danasPos = (DANAS - t0) / (t1 - t0) * 100;
     $("#m-hod-crta").innerHTML = koraci.map((k, idx) =>
-      `<span class="tocka${k.kasni ? " kasni" : ""}" style="left:${pos(k.datum)}%" title="${esc(k.naslov)}"><span>${idx + 1} · ${MJ[k.datum.getMonth()]}</span></span>`).join("") +
+      `<span class="tocka${k.kasni ? " kasni" : ""}" style="left:${pos(k.datum)}%;--k:${idx}" title="${esc(k.naslov)}"><span>${idx + 1} · ${MJ[k.datum.getMonth()]}</span></span>`).join("") +
       (danasPos >= 0 && danasPos <= 100 ? `<span class="danas" style="left:${danasPos}%"><span>DANAS</span></span>` : "");
     $("#m-hod-crta").hidden = u.do < DANAS;
     $("#m-hodogram").innerHTML = koraci.map((k) =>
@@ -767,6 +827,7 @@
     ).join("");
 
     osvjeziDopisModal();
+    izbroji($("#m-odbrojavanje .odbrojavanje-vr"), 800);
     if (typeof modal.showModal === "function") modal.showModal();
     else modal.removeAttribute("hidden");
   }
@@ -959,7 +1020,10 @@
     document.querySelectorAll(".ekran").forEach((e) => { e.hidden = e.id !== "ekran-" + ruta; });
     const dlg = document.getElementById("pretplata"); if (dlg && dlg.open) dlg.close();   // prozor ne ostaje otvoren preko drugog ekrana
     document.querySelectorAll("[data-ruta]").forEach((a) => a.dataset.ruta === ruta ? a.setAttribute("aria-current", "page") : a.removeAttribute("aria-current"));
+    $("#kpi")._vrijednosti = null; $("#opcina-kpi")._vrijednosti = null;
     prikazi();
+    const ekran = document.getElementById("ekran-" + ruta);
+    ulaz(ekran); ulaz($("#kpi")); otkrij(ekran); pomakniKlizac();
   }
   window.addEventListener("hashchange", () => { usmjeri(); window.scrollTo(0, 0); });
   window.matchMedia("(prefers-color-scheme: dark)").addEventListener("change", prikazi);
