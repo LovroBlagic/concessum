@@ -936,6 +936,9 @@
   $("#m-smjesteno").textContent = pct(U.filter((u) => u.opc).length / U.length);
   $("#m-generirano").textContent = `Podaci obrađeni ${P.generirano}; ${fmt.format(U.length)} ugovora, ${P.davatelji.length} davatelja (povezano s jpt.gov.hr), ${fmt.format(Object.keys(portfelj).length)} jedinstvenih koncesionara po OIB-u.`;
 
+  // ---------- podaci za 3D prikaz (3d.js, ES modul) ----------
+  window.CONCESSUM = { U, G, nazivOpcine, sektorNaziv, DANAS, plusMj, hrDat, fmt, eur };
+
   // ---------- usmjeravanje ----------
   let ruta = "karta";
   function prikazi() {
@@ -949,7 +952,7 @@
   }
   function usmjeri() {
     const [r, arg] = location.hash.replace(/^#/, "").split("/");
-    ruta = ["karta", "sat", "opcina", "revizija", "metodologija"].includes(r) ? r : "karta";
+    ruta = ["karta", "sat", "opcina", "revizija", "3d", "metodologija"].includes(r) ? r : "karta";
     if (ruta === "opcina") S.opcina = arg || S.opcina;
     if (ruta !== "opcina") document.title = "Koncesijski sat";
     document.body.dataset.ruta = ruta;

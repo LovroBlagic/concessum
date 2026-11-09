@@ -304,6 +304,36 @@ body:not([data-ruta="karta"]) .upute { display: none; }
 /* Poredak općina: brojka u istom pismu */
 .poredak-lista .vr { font: 600 16px/1.1 var(--pismo-broj); }
 
+/* ===== 3D sat (three.js) ===== */
+body[data-ruta="3d"] .filteri, body[data-ruta="3d"] #kpi { display: none; }
+.tri-pozornica { position: relative; height: min(78vh, 820px); min-height: 460px; border-radius: 14px; overflow: hidden;
+  background: radial-gradient(ellipse at 50% 40%, #16202b 0%, #0a0d12 70%); color: #ecebe6; }
+#tri-platno { display: block; width: 100%; height: 100%; }
+.tri-hud { position: absolute; pointer-events: none; }
+.tri-hud > * { pointer-events: auto; }
+.tri-gore { left: 20px; top: 16px; max-width: 420px; }
+.tri-gore h1 { margin: 0; font: 700 30px/1 var(--pismo-broj); letter-spacing: .02em; text-transform: uppercase; }
+.tri-gore p { margin: 6px 0 0; color: #a3a7b0; font-size: 13px; }
+.tri-sat { right: 22px; top: 16px; text-align: right; }
+.tri-datum { font: 700 54px/1 var(--pismo-broj); letter-spacing: .02em; color: #ff6a3d; text-shadow: 0 0 24px rgba(255,106,61,.45); }
+.tri-brojac { margin-top: 6px; font-size: 14px; color: #c9ccd2; }
+.tri-brojac b { font: 700 22px/1 var(--pismo-broj); color: #f2b65a; }
+.tri-traka { margin: 10px 0 0 auto; width: 260px; height: 4px; border-radius: 2px; background: #2a2e35; overflow: hidden; }
+.tri-traka i { display: block; height: 100%; width: 0; background: linear-gradient(90deg, #ff6a3d, #f2b65a); }
+.tri-kontrole { left: 20px; bottom: 18px; display: flex; gap: 10px; flex-wrap: wrap; align-items: center; }
+.tri-kontrole .pilule { margin: 0; }
+.tri-kontrole .pilula { background: rgba(20,24,30,.7); color: #c9ccd2; border-color: #3a3f47; }
+.tri-kontrole .pilula[aria-pressed="true"] { background: #4fc1c6; color: #0a0d12; border-color: #4fc1c6; }
+.tri-kontrole .gumb { color: #4fc1c6; background: rgba(20,24,30,.7); }
+.tri-kontrole .gumb-puni { background: #ff6a3d; border-color: #ff6a3d; color: #0a0d12; font-weight: 700; }
+.tri-info { right: 22px; bottom: 18px; margin: 0; padding: 8px 12px; border-radius: 8px; background: rgba(20,24,30,.8); border: 1px solid #3a3f47; font-size: 13px; max-width: 320px; }
+@media (max-width: 600px) {
+  .tri-datum { font-size: 34px; }
+  .tri-traka { width: 160px; }
+  .tri-gore p { display: none; }
+  .tri-sat { top: 54px; }
+}
+
 @media print {
   .zaglavlje, .filteri, .upute, .podnozje, .gumbi .gumb, #opcina-csv, #opcina-ics, .preskoci, .modal { display: none !important; }
   body { background: #fff; color: #000; font-size: 11pt; }
