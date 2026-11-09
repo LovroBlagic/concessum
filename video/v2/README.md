@@ -38,6 +38,18 @@ node video/v2/naracija.mjs                    # glas + glazba -> video/concessum
 
 Snimke glasa: `video/v2/glas/b01.m4a` … `b17.m4a` (ili `.wav`/`.mp3`). Svaka postojeća snimka zamijeni TTS za taj blok, a skripta javi ako je preduga za svoj prozor.
 
+## Snimanje naracije vlastitim glasom (video/naracija.html)
+
+Alat po uzoru na eSidro i eVijećnicu: pušta video s glazbom ispod svakog bloka, vodi tempo kroz tekst, snima blokove b01–b17 (spremaju se u pregledniku) i izvozi jedan `naracija.wav` poravnat s videom.
+
+```bash
+python3 video/naracija_app.py                        # tekst i vremena iz za_snimanje/TEKST-ZA-SNIMANJE.txt -> video/naracija.html
+cd video && npx -y http-server -p 8765 -s            # http://localhost:8765/naracija.html (mikrofon radi samo na localhostu)
+node video/v2/naracija.mjs --wav ~/Downloads/naracija.wav   # -> video/concessum_v2_naracija.mp4 (glas + glazba)
+```
+
+Treba `video/concessum_v2.mp4` (slika) i `video/concessum_v2_glazba.mp4` (slika + glazba, za snimanje). Nisu u gitu.
+
 ## Kako je v2.html složen (važno za izmjene)
 
 - **Vrijeme:** `staro(t)` preslikava novo vrijeme na vremenski tijek iz `sat.html` (tablica `MAPA`). Animacije sata, MCP-a, mehanizma i kraja crtaju se starim funkcijama s preslikanim vremenom, pa se tempo pojedinog dijela mijenja u `MAPA`, a ne u funkcijama.

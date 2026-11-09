@@ -4,6 +4,8 @@
 //
 //   node video/v2/naracija.mjs            -> video/concessum_v2_naracija.mp4
 //   node video/v2/naracija.mjs --samo-zvuk -> samo video/v2/glas_build/naracija.wav (za provjeru)
+//   node video/v2/naracija.mjs --wav ~/Downloads/naracija.wav   -> cijela naracija iz video/naracija.html (već poravnata s videom)
+//   --video <datoteka.mp4>                 -> drugi izvor slike (zadano video/concessum_v2.mp4)
 //
 // Tekst se može slobodno mijenjati. Brojke su napisane riječima jer ih TTS tako čita točno.
 import { execFileSync } from "node:child_process";
@@ -12,7 +14,9 @@ import path from "node:path";
 import { fileURLToPath } from "node:url";
 
 const DIR = path.dirname(fileURLToPath(import.meta.url));
-const VIDEO = path.join(DIR, "..", "concessum_v2.mp4");
+const opt = (k) => { const i = process.argv.indexOf("--" + k); return i >= 0 ? process.argv[i + 1] : null; };
+const VIDEO = opt("video") || path.join(DIR, "..", "concessum_v2.mp4");
+const CIJELA = opt("wav");
 const IZLAZ = path.join(DIR, "..", "concessum_v2_naracija.mp4");
 const GLAS = path.join(DIR, "glas"), B = path.join(DIR, "glas_build");
 const GLAS_TTS = "Lana", BRZINA = 185, MAX_BRZINA = 210;
@@ -44,7 +48,7 @@ const trajanje = (f) => +execFileSync("ffprobe", ["-v", "error", "-show_entries"
 const vlastiti = (id) => ["wav", "m4a", "mp3", "aiff"].map((e) => path.join(GLAS, `${id}.${e}`)).find(existsSync);
 
 const dijelovi = [];
-for (const n of NARACIJA) {
+for (const n of CIJELA ? [] : NARACIJA) {
   const prozor = n.do - n.od;
   let f = vlastiti(n.id), izvor = "snimka", d;
   if (f) d = trajanje(f);
@@ -66,6 +70,14 @@ const ul = [], fl = [];
 dijelovi.forEach((x, i) => { ul.push("-i", x.f); const ms = Math.round(x.od * 1000); fl.push(`[${i}:a]aresample=48000,aformat=channel_layouts=stereo,adelay=${ms}|${ms}[n${i}]`); });
 fl.push(`${dijelovi.map((_, i) => `[n${i}]`).join("")}amix=inputs=${dijelovi.length}:normalize=0:duration=longest,apad,atrim=0:180,loudnorm=I=-16:TP=-1.5:LRA=11[a]`);
 const wav = path.join(B, "naracija.wav");
+if (CIJELA) {
+  // vlastita snimka iz naracija.html: rez ispod 80 Hz, blaga kompresija, ista glasnoća kao TTS miks
+  if (!existsSync(CIJELA)) throw new Error("nema datoteke " + CIJELA);
+  execFileSync("ffmpeg", ["-y", "-loglevel", "error", "-i", CIJELA, "-af",
+    "aresample=48000,highpass=f=80,acompressor=threshold=-20dB:ratio=3:attack=5:release=150,aformat=channel_layouts=stereo,apad,atrim=0:180,loudnorm=I=-16:TP=-1.5:LRA=11",
+    "-ar", "48000", wav]);
+  console.log(`naracija: ${CIJELA} (${trajanje(CIJELA).toFixed(1)} s)`);
+} else
 execFileSync("ffmpeg", ["-y", "-loglevel", "error", ...ul, "-filter_complex", fl.join(";"), "-map", "[a]", "-ar", "48000", wav]);
 console.log("zvuk:", wav);
 if (process.argv.includes("--samo-zvuk")) process.exit(0);

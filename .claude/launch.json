@@ -1,6 +1,7 @@
 {
   "version": "0.0.1",
   "configurations": [
-    { "name": "koncesijski-sat", "runtimeExecutable": "python3", "runtimeArgs": ["-m", "http.server", "8766", "--directory", "app"], "port": 8766 }
+    { "name": "koncesijski-sat", "runtimeExecutable": "python3", "runtimeArgs": ["-m", "http.server", "8766", "--directory", "app"], "port": 8766 },
+    { "name": "naracija", "runtimeExecutable": "npx", "runtimeArgs": ["-y", "http-server", "video", "-p", "8765", "-s", "-c-1"], "port": 8765 }
   ]
 }
