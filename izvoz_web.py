@@ -1,4 +1,4 @@
-"""Koncesijski sat: izvoz za web aplikaciju s AI klasifikacijom namjene, OIB povezivanjem i detekcijom rizika.
+"""Concessum: izvoz za web aplikaciju s AI klasifikacijom namjene, OIB povezivanjem i detekcijom rizika.
 
 Ulaz:  koncesije.json, opcine.geojson (izlaz obrada.py), koncesije.txt (izvorni CSV), otvoreni_izvori.json (izlaz izvori.py)
 Izlaz: app/data/podaci.js (ugovori, AI namjene, OIB portfelji, metapodaci općina i davatelja),
@@ -592,7 +592,7 @@ UKUPNO = {"kalendara": 0, "dogadaja": 0}
 
 def zapisi_kalendar(put, naziv, opis_kal, po_dat, url, url_opis, kratko, stavka):
     """Jedan feed: ugovori istog datuma grupirani u događaj + „pripremiti postupak“ 6 mj. ranije."""
-    redovi = ["BEGIN:VCALENDAR", "VERSION:2.0", "PRODID:-//Koncesijski sat//HR", "CALSCALE:GREGORIAN", "METHOD:PUBLISH",
+    redovi = ["BEGIN:VCALENDAR", "VERSION:2.0", "PRODID:-//Concessum//HR", "CALSCALE:GREGORIAN", "METHOD:PUBLISH",
               f"X-WR-CALNAME:{ics_tekst('Rokovi koncesija · ' + naziv)}",
               f"X-WR-CALDESC:{ics_tekst(opis_kal + ' Iz Registra koncesija (FINA, data.gov.hr). Osvježava se nakon svake obrade podataka. ' + url)}",
               "X-WR-TIMEZONE:Europe/Zagreb", "REFRESH-INTERVAL;VALUE=DURATION:P1D", "X-PUBLISHED-TTL:P1D"]
@@ -607,7 +607,7 @@ def zapisi_kalendar(put, naziv, opis_kal, po_dat, url, url_opis, kratko, stavka)
         naslov = f"Ističe koncesija: {prvi}" if n == 1 else f"Ističe {n} {kon(n)} · {kratko}"
         opis = (f"{n} {ugo(n)} o koncesiji ističe {dan.day}. {dan.month}. {dan.year}." +
                 (f" Godišnja fiksna naknada: {eur(nak)}." if nak else "") + "\n\n" + "\n".join(stavke) +
-                f"\n\n{url_opis}: {url}\nIzvor: Registar koncesija (FINA), obrada Koncesijski sat {DANAS.day}. {DANAS.month}. {DANAS.year}.")
+                f"\n\n{url_opis}: {url}\nIzvor: Registar koncesija (FINA), obrada Concessum {DANAS.day}. {DANAS.month}. {DANAS.year}.")
         redovi += dogadaj("istek-" + kljuc, dan, naslov, opis, url); UKUPNO["dogadaja"] += 1
         prip = minus_mj(dan, 6)
         if prip >= DANAS:

@@ -1,4 +1,4 @@
-/* Koncesijski sat — statična aplikacija s AI sažetkom ugovora, OIB portfeljima i 5 izvora s data.gov.hr. */
+/* Concessum — statična aplikacija s AI sažetkom ugovora, OIB portfeljima i 5 izvora s data.gov.hr. */
 (function () {
   "use strict";
   const P = window.PODACI, G = window.GRANICE;
@@ -349,7 +349,7 @@
     const id = S.opcina, naziv = nazivOpcine[id], m = opcMeta[id] || {};
     opcSel.value = id; spremi("opcina", id);
     $("#h-opcina").textContent = naziv;
-    document.title = `${naziv} · Koncesijski sat`;
+    document.title = `${naziv} · Concessum`;
     const sve = U.filter((u) => u.opc === id && filt(u));
     const a = agregat(sve, id), rh = agregat(U.filter(filt));
 
@@ -614,7 +614,7 @@
         ``,
         `Pravodobnim provođenjem postupka sprječava se neovlašteno korištenje javnog dobra bez ugovora i osigurava kontinuitet proračunskog prihoda.`,
         ``,
-        `Izvor podataka: Koncesijski sat (data.gov.hr – Registar koncesija & Popis javnopravnih tijela).`,
+        `Izvor podataka: Concessum (data.gov.hr – Registar koncesija & Popis javnopravnih tijela).`,
       ].join("\n");
     }
     return [
@@ -777,12 +777,12 @@
       "BEGIN:VEVENT", `UID:ks-${u.i}@koncesijski-sat`, `DTSTAMP:${sad}`,
       `DTSTART;VALUE=DATE:${st(u.do)}`, `DTEND;VALUE=DATE:${st(new Date(u.do.getTime() + 864e5))}`,
       `SUMMARY:${t("Ističe koncesija: " + u.kon + " (" + u.namNaziv + ")")}`,
-      `DESCRIPTION:${t(`AI namjena: ${u.namNaziv}. Službena vrsta: ${u.vrsta}. Lokacija: ${u.lok}. Davatelj: ${u.dav}.` + (u.nak ? ` Godišnja fiksna naknada: ${eurPun(u.nak)}.` : "") + (u.varNak ? ` Varijabilna: ${u.varNak}.` : "") + " Izvor: Registar koncesija (FINA), Koncesijski sat.")}`,
+      `DESCRIPTION:${t(`AI namjena: ${u.namNaziv}. Službena vrsta: ${u.vrsta}. Lokacija: ${u.lok}. Davatelj: ${u.dav}.` + (u.nak ? ` Godišnja fiksna naknada: ${eurPun(u.nak)}.` : "") + (u.varNak ? ` Varijabilna: ${u.varNak}.` : "") + " Izvor: Registar koncesija (FINA), Concessum.")}`,
       "BEGIN:VALARM", "ACTION:DISPLAY", `DESCRIPTION:${t("Za 6 mjeseci ističe koncesija (vrijeme za imenovanje povjerenstva): " + u.kon)}`, "TRIGGER:-P182D", "END:VALARM",
       "BEGIN:VALARM", "ACTION:DISPLAY", `DESCRIPTION:${t("Za mjesec dana ističe koncesija: " + u.kon)}`, "TRIGGER:-P30D", "END:VALARM",
       "END:VEVENT"].join("\r\n"));
     if (!ev.length) { alert("Nema ugovora koji tek ističu."); return; }
-    const tekst = ["BEGIN:VCALENDAR", "VERSION:2.0", "PRODID:-//Koncesijski sat//HR", "CALSCALE:GREGORIAN", "X-WR-CALNAME:Rokovi koncesija", ...ev, "END:VCALENDAR"].join("\r\n");
+    const tekst = ["BEGIN:VCALENDAR", "VERSION:2.0", "PRODID:-//Concessum//HR", "CALSCALE:GREGORIAN", "X-WR-CALNAME:Rokovi koncesija", ...ev, "END:VCALENDAR"].join("\r\n");
     preuzmi(ime + ".ics", tekst.split("\r\n").map(presavij).join("\r\n"), "text/calendar;charset=utf-8");
   }
   function icsHodogram(u) {
@@ -797,7 +797,7 @@
       `DESCRIPTION:${t(`${k.opis} | Koncesionar: ${u.kon} | AI namjena: ${u.namNaziv} | Davatelj: ${u.dav}`)}`,
       "END:VEVENT",
     ].join("\r\n"));
-    const tekst = ["BEGIN:VCALENDAR", "VERSION:2.0", "PRODID:-//Koncesijski sat//HR", "CALSCALE:GREGORIAN", "X-WR-CALNAME:Hodogram koncesije", ...ev, "END:VCALENDAR"].join("\r\n");
+    const tekst = ["BEGIN:VCALENDAR", "VERSION:2.0", "PRODID:-//Concessum//HR", "CALSCALE:GREGORIAN", "X-WR-CALNAME:Hodogram koncesije", ...ev, "END:VCALENDAR"].join("\r\n");
     preuzmi(`hodogram_${slug(u.kon)}_${lokalniIso(u.do)}.ics`, tekst.split("\r\n").map(presavij).join("\r\n"), "text/calendar;charset=utf-8");
   }
 
@@ -901,7 +901,7 @@
     const [r, arg] = location.hash.replace(/^#/, "").split("/");
     ruta = ["karta", "sat", "opcina", "revizija", "metodologija"].includes(r) ? r : "karta";
     if (ruta === "opcina") S.opcina = arg || S.opcina;
-    if (ruta !== "opcina") document.title = "Koncesijski sat";
+    if (ruta !== "opcina") document.title = "Concessum";
     document.body.dataset.ruta = ruta;
     document.querySelectorAll(".ekran").forEach((e) => { e.hidden = e.id !== "ekran-" + ruta; });
     const dlg = document.getElementById("pretplata"); if (dlg && dlg.open) dlg.close();   // prozor ne ostaje otvoren preko drugog ekrana

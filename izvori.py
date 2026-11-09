@@ -65,7 +65,7 @@ def dohvati_url(url, ext="", lokalno_ime=None):
     for p in kandidati:
         if p.exists() and p.stat().st_size > 0:
             return p
-    req = urllib.request.Request(url, headers={"User-Agent": "koncesijski-sat/1.0 (open data datathon)"})
+    req = urllib.request.Request(url, headers={"User-Agent": "concessum/1.0 (open data datathon)"})
     with urllib.request.urlopen(req, timeout=30, context=_ssl()) as r:
         data = r.read()
     izlaz = kandidati[0]
@@ -83,7 +83,7 @@ def ckan_package_show(ime):
             if d.get("success"):
                 return d["result"]
     try:
-        req = urllib.request.Request(url, headers={"User-Agent": "koncesijski-sat/1.0"})
+        req = urllib.request.Request(url, headers={"User-Agent": "concessum/1.0"})
         with urllib.request.urlopen(req, timeout=20, context=_ssl()) as r:
             d = json.load(r)
             CACHE.mkdir(parents=True, exist_ok=True)

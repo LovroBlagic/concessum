@@ -1,4 +1,4 @@
-# Scenarij za 3-minutni video: Koncesijski sat (Izazov C)
+# Scenarij za 3-minutni video: Concessum (Izazov C)
 
 **Trajanje:** maksimalno 3 minute (strogi uvjet ocjenjivanja – nosi 10 bodova!)  
 **Format:** Snimka zaslona preglednika (http://localhost:8766 ili https://koncesijski-sat.vercel.app) s glasovnim vođenjem.
@@ -7,9 +7,9 @@
 
 ### 0:00 – 0:35 | Uvod i problem (Prikaz: Naslovna stranica / Karta)
 - **Glas:**
-  > "Dobrodošli. Ovo je **Koncesijski sat**, rješenje za Izazov C: Gospodarstvo i učinkovito upravljanje.
+  > "Dobrodošli. Ovo je **Concessum**, rješenje za Izazov C: Gospodarstvo i učinkovito upravljanje.
   > U Hrvatskoj postoji više od 24.000 ugovora o koncesijama. Kad koncesija istekne prije provedbe novog natječaja – a zakonski postupak traje 6 do 9 mjeseci – javno se dobro poput plaža, luka i komunalnih usluga koristi bez ugovora, a proračuni gube milijune eura naknada.
-  > Uz to, u službenom registru tisuće ugovora nose generičke nazive poput 'Koncesija na pomorskom dobru', pa građani i uprava ne znaju što se točno na terenu nalazi. Koncesijski sat to rješava povezivanjem 5 skupova otvorenih podataka i AI analizom."
+  > Uz to, u službenom registru tisuće ugovora nose generičke nazive poput 'Koncesija na pomorskom dobru', pa građani i uprava ne znaju što se točno na terenu nalazi. Concessum to rješava povezivanjem 5 skupova otvorenih podataka i AI analizom."
 
 ### 0:35 – 1:15 | Što ističe i ✨ AI sažetak stvarne namjene (Prikaz: Ekran "Što ističe", klik na ugovor)
 - **Akcija na ekranu:** Otvoriti tab **Što ističe**, kliknuti na stupac s istekom u idućih 6 mjeseci, a zatim kliknuti na redak ugovora (npr. Valamar Riviera ili INA).
@@ -36,4 +36,4 @@
 - **Glas:**
   > "Na profilu općine integrirani su službeni kontakti, stanovništvo i živi kalendarski feed.
   > Cijelo rješenje pokreće i **MCP server** s 5 alata za AI asistente, omogućujući službenicima postavljanje upita običnim jezikom.
-  > Koncesijski sat pretvara sirove podatke u transparentnost, zakonsku sigurnost i zaštitu javnog proračuna. Hvala vam!"
+  > Concessum pretvara sirove podatke u transparentnost, zakonsku sigurnost i zaštitu javnog proračuna. Hvala vam!"

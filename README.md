@@ -1,4 +1,4 @@
-# Koncesijski sat
+# Concessum
 
 **Koje koncesije u Hrvatskoj uskoro ističu, što je stvarna namjena svake koncesije na terenu, koliki je fiskalni rizik za proračune općina i gdje istekle koncesije ostaju bez nastavka.**
 Registar koncesija (FINA) povezan je s **5 otvorenih skupova podataka s Portala otvorenih podataka (`data.gov.hr`)** preko OIB-a i JLS šifri u alat za upravljanje rokovima, AI procjenu stvarne namjene koncesije, reviziju cjenovnih anomalija i automatsku pripremu službenih dopisa.
@@ -116,13 +116,13 @@ python3 izvoz_web.py              # -> app/data/podaci.js, granice.js, koncesije
 
 ```bash
 python3 mcp/test_server.py                                         # test svih 5 MCP alata
-claude mcp add koncesijski-sat -- python3 "$(pwd)/mcp/server.py"   # Claude Code
+claude mcp add concessum -- python3 "$(pwd)/mcp/server.py"   # Claude Code
 ```
 
 Za Claude Desktop dodajte u `claude_desktop_config.json`:
 
 ```json
-{ "mcpServers": { "koncesijski-sat": { "command": "python3", "args": ["/puna/putanja/mcp/server.py"] } } }
+{ "mcpServers": { "concessum": { "command": "python3", "args": ["/puna/putanja/mcp/server.py"] } } }
 ```
 
 ## Videi

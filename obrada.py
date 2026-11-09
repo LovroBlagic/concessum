@@ -1,4 +1,4 @@
-"""Koncesijski sat: obrada Registra koncesija (FINA) i spajanje s 5 izvora s data.gov.hr.
+"""Concessum: obrada Registra koncesija (FINA) i spajanje s 5 izvora s data.gov.hr.
 
 Ulaz:
   - koncesije.txt (CSV iz servisi.fina.hr/regkonc, ';', windows-1250 ili UTF-8)

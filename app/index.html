@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Koncesijski sat</title>
+  <title>Concessum</title>
   <meta name="description" content="Koje koncesije u Hrvatskoj uskoro ističu, što je stvarni predmet ugovora (AI sažetak), kakav je portfelj koncesionara po OIB-u i gdje istekle koncesije ostaju bez nastavka.">
   <link rel="stylesheet" href="style.css">
 </head>
@@ -12,7 +12,7 @@
 
   <header class="zaglavlje">
     <div class="omotac zaglavlje-red">
-      <a class="logo" href="#karta"><span class="logo-sat" aria-hidden="true"></span>Koncesijski <span>sat</span></a>
+      <a class="logo" href="#karta"><span class="logo-sat" aria-hidden="true"></span>Concessum</a>
       <form id="brza-forma" class="brza" role="search">
         <label class="vizualno-skriveno" for="brza-opcina">Pronađi općinu ili grad</label>
         <input id="brza-opcina" type="search" list="popis-opcina" placeholder="Pronađi općinu ili grad…" autocomplete="off">
@@ -208,7 +208,7 @@
     <section class="ekran tekst" id="ekran-metodologija" aria-labelledby="h-met" hidden>
       <h1 id="h-met">Metodologija i povezani izvori podataka</h1>
       <h2>Povezanih 5 otvorenih skupova s Portala otvorenih podataka (data.gov.hr)</h2>
-      <p>Koncesijski sat putem CKAN Action API-ja (<code>izvori.py</code>) dohvaća, provjerava i povezuje pet nacionalnih otvorenih skupova podataka te geografske granice:</p>
+      <p>Concessum putem CKAN Action API-ja (<code>izvori.py</code>) dohvaća, provjerava i povezuje pet nacionalnih otvorenih skupova podataka te geografske granice:</p>
       <ol>
         <li><strong>Informacije o ugovorenim koncesijama (Registar koncesija, FINA / Ministarstvo financija)</strong> – <a href="https://data.gov.hr/ckan/dataset/informacije-o-ugovorenim-koncesijama" rel="noopener">data.gov.hr</a> (Otvorena dozvola): ugovori, OIB davatelja i koncesionara, rokovi te fiksne i varijabilne naknade.</li>
         <li><strong>Popis brojčanih oznaka javnopravnih tijela (MPUDT, živi JSON API <code>jpt.gov.hr</code>)</strong> – <a href="https://data.gov.hr/ckan/dataset/popis-javnopravnih-tijela" rel="noopener">data.gov.hr</a> (Otvorena dozvola): spajanje preko <code>OIB_DAVAT</code> za svih 4.679 javnopravnih tijela (vrsta tijela, nadležna županija, sjedište za precizno smještanje lučkih uprava na općinu te službene e-adrese za generiranje dopisa).</li>

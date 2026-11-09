@@ -2,7 +2,7 @@
 <html lang="hr">
 <head>
 <meta charset="utf-8">
-<title>Koncesijski sat – motion</title>
+<title>Concessum – motion</title>
 <style>
   :root {
     --bg: #0c0e11; --tekst: #f1efe9; --tekst-2: #9aa0aa; --rub: #2a2e35;
@@ -165,7 +165,7 @@
   <div class="scena" id="s6">
     <div id="mcp-glava">
       <div id="uskoro">USKORO</div>
-      <div id="mcp-naslov">Koncesijski sat<br><span>MCP server</span></div>
+      <div id="mcp-naslov">Concessum<br><span>MCP server</span></div>
       <div id="mcp-opis">Registar koncesija kao alat koji AI asistent može pitati – na hrvatskom, u razgovoru.</div>
     </div>
     <div id="alati">
@@ -175,7 +175,7 @@
       <div class="alat mono" id="a4"><span class="ikona"></span><span class="ime">trazi_koncesionara</span><span class="arg">(naziv)</span></div>
     </div>
     <div id="razg">
-      <div id="razg-glava"><i></i><i></i><i></i>&nbsp; Razgovor<b class="mono">⚡ koncesijski-sat</b></div>
+      <div id="razg-glava"><i></i><i></i><i></i>&nbsp; Razgovor<b class="mono">⚡ concessum</b></div>
       <div id="razg-tijelo">
         <div class="poruka-k" id="pitanje"></div>
         <div class="asistent" id="asis">
@@ -199,7 +199,7 @@
       <line id="o-mala" x1="0" y1="0" x2="0" y2="-95" stroke="#f1efe9" stroke-width="22" stroke-linecap="round"/>
       <line id="o-velika" x1="0" y1="0" x2="0" y2="-140" stroke="#4fc1c6" stroke-width="16" stroke-linecap="round"/>
     </svg>
-    <div id="outro-naslov">Koncesijski <span>sat</span></div>
+    <div id="outro-naslov">Concess<span>um</span></div>
     <div id="outro-pod">karta · rokovi · profil općine · <span style="color:#f0b545">MCP uskoro</span></div>
     <div id="outro-izvor">Podaci: Registar koncesija (FINA / Ministarstvo financija) · geoBoundaries</div>
   </div>
@@ -248,7 +248,7 @@ for (let k = 0; k < 12; k++) {
   crtice.insertAdjacentHTML("beforeend", `<line x1="${Math.sin(a) * 150}" y1="${-Math.cos(a) * 150}" x2="${Math.sin(a) * 168}" y2="${-Math.cos(a) * 168}" stroke="#f1efe9" stroke-width="${k % 3 ? 4 : 8}" stroke-linecap="round" data-k="${k}"/>`);
 }
 const naslov = $("#naslov");
-"Koncesijski sat".split("").forEach((c, i) => naslov.insertAdjacentHTML("beforeend",
+"Concessum".split("").forEach((c, i) => naslov.insertAdjacentHTML("beforeend",
   `<span class="slovo${i >= 12 ? " sat" : ""}">${c === " " ? "&nbsp;" : c}</span>`));
 const slova = [...naslov.children];
 const fmt = new Intl.NumberFormat("hr-HR");

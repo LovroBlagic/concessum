@@ -1,8 +1,8 @@
-# Tehnička arhitektura – Koncesijski sat
+# Tehnička arhitektura – Concessum
 
 ## Pregled
 
-Koncesijski sat je **statična web aplikacija s višekoračnim cjevovodom povezivanja otvorenih podataka (`data.gov.hr`)**. Nema aplikacijskog poslužitelja, baze ni korisničkih računa, pa nema troškova poslužitelja ni osobnih podataka korisnika. Cijeli cjevovod obrade podataka (`izvori.py`, `obrada.py`, `izvoz_web.py`) i MCP poslužitelj (`mcp/server.py`) napisani su u čistoj standardnoj biblioteci Pythona 3 bez vanjskih ovisnosti.
+Concessum je **statična web aplikacija s višekoračnim cjevovodom povezivanja otvorenih podataka (`data.gov.hr`)**. Nema aplikacijskog poslužitelja, baze ni korisničkih računa, pa nema troškova poslužitelja ni osobnih podataka korisnika. Cijeli cjevovod obrade podataka (`izvori.py`, `obrada.py`, `izvoz_web.py`) i MCP poslužitelj (`mcp/server.py`) napisani su u čistoj standardnoj biblioteci Pythona 3 bez vanjskih ovisnosti.
 
 ```mermaid
 flowchart LR

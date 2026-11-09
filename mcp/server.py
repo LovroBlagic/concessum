@@ -1,12 +1,12 @@
 #!/usr/bin/env python3
-"""Koncesijski sat – MCP server (Model Context Protocol, stdio, bez vanjskih ovisnosti).
+"""Concessum – MCP server (Model Context Protocol, stdio, bez vanjskih ovisnosti).
 
 AI asistent (Claude Desktop, Claude Code ili bilo koji MCP klijent) preko ovog servera može
 odgovarati na pitanja o koncesijama običnim jezikom, uključujući AI procjenu stvarne namjene ugovora,
 OIB portfelje koncesionara, podatke o općinama s data.gov.hr (DZS Popis 2021., Porezna uprava, JPT)
 i reviziju cjenovnih anomalija.
 
-Pokretanje (Claude Code):   claude mcp add koncesijski-sat -- python3 /put/do/mcp/server.py
+Pokretanje (Claude Code):   claude mcp add concessum -- python3 /put/do/mcp/server.py
 Ručni test:                 python3 mcp/test_server.py
 """
 import json, os, re, sys, unicodedata
@@ -289,7 +289,7 @@ def obradi(m):
     if metoda == "initialize":
         return odgovor(id_, {"protocolVersion": par.get("protocolVersion", PROTOKOL),
                              "capabilities": {"tools": {}},
-                             "serverInfo": {"name": "koncesijski-sat", "version": "1.1.0"},
+                             "serverInfo": {"name": "concessum", "version": "1.1.0"},
                              "instructions": "Podaci iz 5 izvora s data.gov.hr (Registar koncesija FINA, jpt.gov.hr, DZS Popis 2021., "
                                              "Adresar, Porezna uprava). Svaki ugovor ima AI procjenu stvarne namjene. Navedi izvor u odgovoru."})
     if metoda == "ping":

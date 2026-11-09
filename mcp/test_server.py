@@ -14,7 +14,7 @@ def zovi(metoda, params=None, obavijest=False):
     return None if obavijest else json.loads(srv.stdout.readline())
 
 r = zovi("initialize", {"protocolVersion": "2025-06-18", "capabilities": {}, "clientInfo": {"name": "test", "version": "0"}})
-assert r["result"]["serverInfo"]["name"] == "koncesijski-sat"
+assert r["result"]["serverInfo"]["name"] == "concessum"
 zovi("notifications/initialized", obavijest=True)
 alati = [t["name"] for t in zovi("tools/list")["result"]["tools"]]
 print("alati:", alati)
