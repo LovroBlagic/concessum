@@ -24,6 +24,7 @@
           <li><a href="#sat" data-ruta="sat">Što ističe</a></li>
           <li><a href="#opcina" data-ruta="opcina">Profil općine</a></li>
           <li><a href="#revizija" data-ruta="revizija">Rizici i revizija</a></li>
+          <li><a href="#3d" data-ruta="3d">3D sat</a></li>
           <li><a href="#metodologija" data-ruta="metodologija">Metodologija</a></li>
         </ul>
       </nav>
@@ -204,6 +205,31 @@
       </div>
     </section>
 
+    <!-- 3D SAT -->
+    <section class="ekran" id="ekran-3d" aria-labelledby="h-3d" hidden>
+      <div class="tri-pozornica" id="tri-pozornica">
+        <canvas id="tri-platno" aria-label="3D prikaz isteka koncesija kroz vrijeme"></canvas>
+        <div class="tri-hud tri-gore">
+          <h1 id="h-3d">3D sat koncesija</h1>
+          <p id="tri-opis">Visina stupa je broj aktivnih ugovora u općini. Pokrenite vrijeme i gledajte kako ugovori ističu.</p>
+        </div>
+        <div class="tri-hud tri-sat">
+          <div class="tri-datum" id="tri-datum">DANAS</div>
+          <div class="tri-brojac"><b id="tri-isteklo">0</b> ugovora isteklo · <b id="tri-novac">0 €</b> godišnje naknade</div>
+          <div class="tri-traka"><i id="tri-napredak"></i></div>
+        </div>
+        <div class="tri-hud tri-kontrole">
+          <div class="pilule" role="group" aria-label="Način prikaza">
+            <button type="button" class="pilula" data-tri="karta" aria-pressed="true">Karta stupova</button>
+            <button type="button" class="pilula" data-tri="vrtlog" aria-pressed="false">Vrtlog isteka</button>
+          </div>
+          <button type="button" class="gumb gumb-puni" id="tri-play">▶ Premotaj 3 godine</button>
+          <button type="button" class="gumb" id="tri-reset">Vrati na danas</button>
+        </div>
+        <p class="tri-hud tri-info" id="tri-info" hidden></p>
+      </div>
+    </section>
+
     <!-- METODOLOGIJA -->
     <section class="ekran tekst" id="ekran-metodologija" aria-labelledby="h-met" hidden>
       <h1 id="h-met">Metodologija i povezani izvori podataka</h1>
@@ -332,5 +358,7 @@
   <script src="data/granice.js"></script>
   <script src="data/podaci.js"></script>
   <script src="app.js"></script>
+  <script type="importmap">{ "imports": { "three": "./vendor/three/three.module.min.js", "three/addons/": "./vendor/three/jsm/" } }</script>
+  <script type="module" src="3d.js"></script>
 </body>
 </html>
