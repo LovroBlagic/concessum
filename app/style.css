@@ -1,35 +1,51 @@
 :root {
-  --bg: #f6f5f1;
+  --bg: #f3f1ec;
   --povrsina: #ffffff;
-  --tekst: #1d1f24;
-  --tekst-2: #5a5f6b;
-  --rub: #e2e0d8;
+  --tekst: #15171c;
+  --tekst-2: #5b606b;
+  --rub: #e1ded6;
   --naglasak: #0b6e74;
-  --naglasak-2: #d2541b;
+  --naglasak-2: #d9481c;
   --fokus: #1a5fd0;
   --sjena: 0 1px 2px rgba(0,0,0,.05), 0 4px 16px rgba(0,0,0,.04);
-  --s-aktivna: #2f8f5b;
-  --s-istjece: #e09b1a;
-  --s-hitno: #c8412d;
-  --s-istekla: #8a8f99;
+  /* Vremenska skala: boja uvijek znači koliko je ostalo do isteka */
+  --t-mirno: #3e6d8e;      /* > 24 mj. */
+  --t-mirno-2: #8fb0c2;
+  --t-uskoro: #e8a33d;     /* 6–24 mj. (ispuna) */
+  --t-uskoro-tekst: #a9690f;
+  --t-hitno: #d9481c;      /* < 6 mj. i crta DANAS */
+  --t-isteklo: #9a9a93;
+  --t-staza: #e7e4dc;
+  --s-aktivna: #2f8f5b;    /* zelena samo za ishod u prošlosti (obnovljeno) */
+  --s-istjece: var(--t-uskoro-tekst);
+  --s-hitno: var(--t-hitno);
+  --s-istekla: var(--t-isteklo);
   color-scheme: light;
 }
 @media (prefers-color-scheme: dark) {
   :root:not([data-theme="light"]) {
-    --bg: #14161a; --povrsina: #1d2025; --tekst: #ecebe6; --tekst-2: #a3a7b0; --rub: #2f333a;
-    --naglasak: #4fc1c6; --naglasak-2: #f0844e; --fokus: #7aa7ff;
+    --bg: #121419; --povrsina: #1b1e24; --tekst: #ecebe6; --tekst-2: #a3a7b0; --rub: #2f333a;
+    --naglasak: #4fc1c6; --naglasak-2: #ff6a3d; --fokus: #7aa7ff;
     --sjena: 0 1px 2px rgba(0,0,0,.3);
-    --s-aktivna: #5cc28a; --s-istjece: #f0b545; --s-hitno: #f06a55; --s-istekla: #8a8f99;
+    --t-mirno: #7fa8c6; --t-mirno-2: #b9ccd8; --t-uskoro: #f2b65a; --t-uskoro-tekst: #f2b65a; --t-hitno: #ff6a3d; --t-isteklo: #8a8f99; --t-staza: #2a2e35;
+    --s-aktivna: #5cc28a; --s-istjece: var(--t-uskoro-tekst); --s-hitno: var(--t-hitno); --s-istekla: var(--t-isteklo);
     color-scheme: dark;
   }
 }
 :root[data-theme="dark"] {
-  --bg: #14161a; --povrsina: #1d2025; --tekst: #ecebe6; --tekst-2: #a3a7b0; --rub: #2f333a;
-  --naglasak: #4fc1c6; --naglasak-2: #f0844e; --fokus: #7aa7ff;
+  --bg: #121419; --povrsina: #1b1e24; --tekst: #ecebe6; --tekst-2: #a3a7b0; --rub: #2f333a;
+  --naglasak: #4fc1c6; --naglasak-2: #ff6a3d; --fokus: #7aa7ff;
   --sjena: 0 1px 2px rgba(0,0,0,.3);
-  --s-aktivna: #5cc28a; --s-istjece: #f0b545; --s-hitno: #f06a55; --s-istekla: #8a8f99;
+  --t-mirno: #7fa8c6; --t-mirno-2: #b9ccd8; --t-uskoro: #f2b65a; --t-uskoro-tekst: #f2b65a; --t-hitno: #ff6a3d; --t-isteklo: #8a8f99; --t-staza: #2a2e35;
+  --s-aktivna: #5cc28a; --s-istjece: var(--t-uskoro-tekst); --s-hitno: var(--t-hitno); --s-istekla: var(--t-isteklo);
   color-scheme: dark;
 }
+
+@font-face { font-family: "Barlow Condensed"; font-style: normal; font-weight: 600; font-display: swap; src: url(fonts/BarlowCondensed-600-latin.woff2) format("woff2"); unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+@font-face { font-family: "Barlow Condensed"; font-style: normal; font-weight: 600; font-display: swap; src: url(fonts/BarlowCondensed-600-latin-ext.woff2) format("woff2"); unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+@font-face { font-family: "Barlow Condensed"; font-style: normal; font-weight: 700; font-display: swap; src: url(fonts/BarlowCondensed-700-latin.woff2) format("woff2"); unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+@font-face { font-family: "Barlow Condensed"; font-style: normal; font-weight: 700; font-display: swap; src: url(fonts/BarlowCondensed-700-latin-ext.woff2) format("woff2"); unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+:root { --pismo-broj: "Barlow Condensed", "Arial Narrow", system-ui, sans-serif; }
 
 * { box-sizing: border-box; }
 html { -webkit-text-size-adjust: 100%; }
@@ -49,10 +65,10 @@ a { color: var(--naglasak); }
 .zaglavlje-red { display: flex; align-items: center; justify-content: space-between; gap: 16px; flex-wrap: wrap; min-height: 56px; }
 .logo { font-weight: 700; font-size: 18px; color: var(--tekst); text-decoration: none; display: flex; align-items: center; gap: 8px; }
 .logo span:last-child { color: var(--naglasak); }
-.logo-sat { width: 20px; height: 20px; border: 2.5px solid var(--naglasak); border-radius: 50%; position: relative; }
-.logo-sat::before, .logo-sat::after { content: ""; position: absolute; left: 50%; top: 50%; background: var(--naglasak); width: 2px; transform-origin: 50% 100%; }
-.logo-sat::before { height: 6px; margin: -6px 0 0 -1px; }
-.logo-sat::after { height: 5px; margin: -5px 0 0 -1px; transform: rotate(110deg); }
+.logo-sat { width: 22px; height: 22px; border-radius: 50%; position: relative; flex: none;
+  background: conic-gradient(var(--t-hitno) 0 var(--udio-logo, 16%), var(--t-mirno) var(--udio-logo, 16%) 100%); }
+.logo-sat::before { content: ""; position: absolute; inset: 4px; border-radius: 50%; background: var(--povrsina); }
+.logo-sat::after { content: ""; position: absolute; left: 50%; top: 5px; width: 2px; height: 6px; margin-left: -1px; background: var(--tekst); border-radius: 1px; }
 .nav { list-style: none; display: flex; gap: 4px; margin: 0; padding: 0; flex-wrap: wrap; }
 .nav a { display: block; padding: 8px 12px; border-radius: 6px; text-decoration: none; color: var(--tekst-2); font-weight: 500; }
 .nav a:hover { color: var(--tekst); background: var(--bg); }
@@ -63,7 +79,7 @@ main:focus { outline: none; }
 
 .kpi-red { display: grid; grid-template-columns: repeat(auto-fit, minmax(170px, 1fr)); gap: 12px; margin-bottom: 16px; }
 .kpi { background: var(--povrsina); border: 1px solid var(--rub); border-radius: 10px; padding: 12px 14px; box-shadow: var(--sjena); }
-.kpi-vr { font-size: 26px; font-weight: 700; line-height: 1.15; }
+.kpi-vr { font: 700 36px/1.05 var(--pismo-broj); letter-spacing: .01em; }
 .kpi-op { color: var(--tekst-2); font-size: 13px; }
 .kpi.hitno .kpi-vr { color: var(--s-hitno); }
 .kpi.naglasak .kpi-vr { color: var(--naglasak); }
@@ -133,7 +149,7 @@ body[data-ruta="opcina"] #kpi { display: none; }
 .tablica td.dat { white-space: nowrap; }
 .tablica a { color: var(--tekst); }
 .oznaka { display: inline-block; padding: 1px 8px; border-radius: 999px; font-size: 11.5px; font-weight: 600; white-space: nowrap; border: 1px solid currentColor; }
-.st-aktivna { color: var(--s-aktivna); }
+.st-aktivna { color: var(--t-mirno); }
 .st-istjece { color: var(--s-istjece); }
 .st-hitno { color: var(--s-hitno); }
 .st-istekla { color: var(--s-istekla); }
@@ -229,6 +245,65 @@ body[data-ruta="opcina"] #kpi { display: none; }
 .upute ol { margin: 0; padding-left: 20px; display: grid; grid-template-columns: repeat(3, 1fr); gap: 4px 28px; font-size: 14px; }
 body:not([data-ruta="karta"]) .upute { display: none; }
 
+/* ===== Odbrojavanje: vremenski jezik sučelja ===== */
+.broj { font-family: var(--pismo-broj); font-weight: 600; letter-spacing: .01em; }
+
+/* Brojčanik ugovora: potrošeni dio trajanja ugovora, u boji vremena do isteka */
+.sat { --c: var(--t-mirno); --p: 0%; display: inline-block; width: 18px; height: 18px; border-radius: 50%; flex: none; vertical-align: -4px;
+  background: conic-gradient(var(--c) 0 var(--p), var(--t-staza) var(--p) 100%); position: relative; }
+.sat::after { content: ""; position: absolute; inset: 4px; border-radius: 50%; background: var(--povrsina); }
+.sat.r-hitno { --c: var(--t-hitno); }
+.sat.r-uskoro { --c: var(--t-uskoro); }
+.sat.r-isteklo { --c: var(--t-isteklo); --p: 100%; }
+.sat-velik { width: 46px; height: 46px; }
+.sat-velik::after { inset: 8px; }
+.rok { display: inline-flex; align-items: center; gap: 7px; white-space: nowrap; }
+.rok-za { font: 600 17px/1 var(--pismo-broj); letter-spacing: .01em; color: var(--t-mirno); }
+.rok-za.r-hitno { color: var(--t-hitno); }
+.rok-za.r-uskoro { color: var(--t-uskoro-tekst); }
+.rok-za.r-isteklo { color: var(--t-isteklo); }
+.rok-dat { display: block; color: var(--tekst-2); font-size: 12px; margin-top: 3px; }
+
+/* KPI „fitilj“: od DANAS do +12 mj. */
+.kpi.fitilj { grid-column: span 2; display: flex; flex-direction: column; gap: 8px; }
+.fitilj-brojevi { display: grid; grid-template-columns: 1fr 1fr; }
+.fitilj-brojevi > div { padding-right: 8px; text-align: right; }
+.fitilj-brojevi > div:first-child .kpi-vr { color: var(--t-hitno); }
+.fitilj-brojevi > div:last-child .kpi-vr { color: var(--t-uskoro-tekst); }
+.fitilj-staza { position: relative; height: 10px; border-radius: 5px;
+  background: linear-gradient(90deg, var(--t-hitno) 0 50%, var(--t-uskoro) 50% 100%); }
+.fitilj-staza::before { content: ""; position: absolute; left: -3px; top: -5px; bottom: -5px; width: 3px; border-radius: 2px; background: var(--t-hitno); }
+.fitilj-staza i { position: absolute; top: -3px; bottom: -3px; width: 2px; background: var(--povrsina); left: 50%; }
+.fitilj-oznake { display: flex; justify-content: space-between; font: 600 12px/1 var(--pismo-broj); letter-spacing: .06em; text-transform: uppercase; color: var(--tekst-2); }
+.fitilj-oznake b { color: var(--t-hitno); font-weight: 700; }
+.kpi.isteklo .kpi-vr { color: var(--t-isteklo); }
+.kpi.isteklo { background-image: repeating-linear-gradient(135deg, transparent 0 7px, color-mix(in srgb, var(--t-isteklo) 9%, transparent) 7px 8px); }
+.kpi.novac .kpi-vr { color: var(--t-uskoro-tekst); }
+.kpi.hitno .kpi-vr { color: var(--t-hitno); }
+
+/* Modal: veliko odbrojavanje */
+.odbrojavanje { display: flex; align-items: center; gap: 12px; margin: 6px 0 4px; }
+.odbrojavanje-vr { font: 700 40px/1 var(--pismo-broj); letter-spacing: .01em; color: var(--t-mirno); }
+.odbrojavanje-vr.r-hitno { color: var(--t-hitno); }
+.odbrojavanje-vr.r-uskoro { color: var(--t-uskoro-tekst); }
+.odbrojavanje-vr.r-isteklo { color: var(--t-isteklo); }
+.odbrojavanje-op { color: var(--tekst-2); font-size: 13px; line-height: 1.35; }
+
+/* Hodogram kao vremenska crta od −6 mj. do isteka */
+.hod-crta { position: relative; height: 54px; margin: 14px 8px 6px; }
+.hod-crta::before { content: ""; position: absolute; left: 0; right: 0; top: 20px; height: 4px; border-radius: 2px; background: var(--t-staza); }
+.hod-crta .tocka { position: absolute; top: 14px; width: 16px; height: 16px; margin-left: -8px; border-radius: 50%; background: var(--povrsina); border: 3px solid var(--t-mirno); }
+.hod-crta .tocka.kasni { border-color: var(--t-hitno); background: var(--t-hitno); }
+.hod-crta .tocka span { position: absolute; top: 20px; left: 50%; transform: translateX(-50%); font: 600 12px/1 var(--pismo-broj); color: var(--tekst-2); white-space: nowrap; }
+.hod-crta .danas { position: absolute; top: 0; bottom: 6px; width: 2px; margin-left: -1px; background: var(--t-hitno); }
+.hod-crta .danas span { position: absolute; top: -4px; left: 6px; font: 700 11px/1 var(--pismo-broj); letter-spacing: .08em; color: var(--t-hitno); white-space: nowrap; }
+.hodogram li { border-left-color: var(--t-mirno); }
+.hodogram li.kasni { border-left-color: var(--t-hitno); background: color-mix(in srgb, var(--t-hitno) 7%, var(--bg)); }
+.hodogram li > strong { font: 600 16px/1.1 var(--pismo-broj); }
+
+/* Poredak općina: brojka u istom pismu */
+.poredak-lista .vr { font: 600 16px/1.1 var(--pismo-broj); }
+
 @media print {
   .zaglavlje, .filteri, .upute, .podnozje, .gumbi .gumb, #opcina-csv, #opcina-ics, .preskoci, .modal { display: none !important; }
   body { background: #fff; color: #000; font-size: 11pt; }
@@ -273,7 +348,9 @@ body:not([data-ruta="karta"]) .upute { display: none; }
   .graf-karta { height: 380px; }
   select, input[type="search"] { min-width: 0; width: 100%; }
   .filteri label { flex: 1 1 100%; }
-  .kpi-vr { font-size: 22px; }
+  .kpi-vr { font-size: 28px; }
+  .fitilj-brojevi .kpi-vr { font-size: 28px; }
+  .kpi-red > .kpi:first-child:has(+ .fitilj) { grid-column: span 2; }
   .kpi-obj { display: none; }
   .kpi-red { grid-template-columns: 1fr 1fr; gap: 8px; }
   .zaglavlje { position: static; }
