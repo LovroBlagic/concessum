@@ -4,26 +4,29 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Općina Dicmo
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Dicmo. Iz Regist
- ra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podata
- ka. https://koncesijski-sat.vercel.app/#opcina/41942358B7564696870619
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Općina Dicmo (pregled\,
+  svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježava se
+  nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#opcina/4
+ 1942358B7564696870619
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-e346607596cd48e7@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-036c2b98247edb3e@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20331231
 DTEND;VALUE=DATE:20340101
 SUMMARY:Ističe 3 koncesije · Dicmo
 DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2033. Godišnja fiksna na
  knada: 3.146 €.\n\n• STRABAG D.O.O. – Koncesija za površinu utvrđe
- nog eksploatacijskog polja neenergetskih mineralnih sirovina (DICMO)\, 3.1
- 46 €/god.\n• STRABAG  D.O.O. – Koncesija za eksploataciju tehničko-
- građevnog kamena (DICMO)\n• STRABAG D.O.O. – Koncesija za eksploataci
- ju tehničko-građevnog kamena (DICMO)\n\nProfil općine: https://koncesij
- ski-sat.vercel.app/#opcina/41942358B7564696870619\nIzvor: Registar koncesi
- ja (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ nog eksploatacijskog polja neenergetskih mineralnih sirovina (DICMO) · da
+ vatelj: MINISTARSTVO GOSPODARSTVA\, 3.146 €/god.\n• STRABAG  D.O.O. 
+ – Koncesija za eksploataciju tehničko-građevnog kamena (DICMO) · dava
+ telj: MINISTARSTVO GOSPODARSTVA\n• STRABAG D.O.O. – Koncesija za ekspl
+ oataciju tehničko-građevnog kamena (DICMO) · davatelj: MINISTARSTVO GOS
+ PODARSTVA\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41
+ 942358B7564696870619\nIzvor: Registar koncesija (FINA)\, obrada Koncesijsk
+ i sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B7564696870619
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -33,40 +36,43 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-e346607596cd48e7@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-036c2b98247edb3e@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20330630
 DTEND;VALUE=DATE:20330701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Dicmo
 DESCRIPTION:31. 12. 2033. ističe 3 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• STRABAG D.O.O. – Koncesija za površinu utvrđenog eksploatac
- ijskog polja neenergetskih mineralnih sirovina (DICMO)\, 3.146 €/god.\n
- • STRABAG  D.O.O. – Koncesija za eksploataciju tehničko-građevnog ka
- mena (DICMO)\n• STRABAG D.O.O. – Koncesija za eksploataciju tehničko-
- građevnog kamena (DICMO)\n\nProfil općine: https://koncesijski-sat.verce
- l.app/#opcina/41942358B7564696870619
+ ijskog polja neenergetskih mineralnih sirovina (DICMO) · davatelj: MINIST
+ ARSTVO GOSPODARSTVA\, 3.146 €/god.\n• STRABAG  D.O.O. – Koncesija za
+  eksploataciju tehničko-građevnog kamena (DICMO) · davatelj: MINISTARST
+ VO GOSPODARSTVA\n• STRABAG D.O.O. – Koncesija za eksploataciju tehnič
+ ko-građevnog kamena (DICMO) · davatelj: MINISTARSTVO GOSPODARSTVA\n\nPro
+ fil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B756469687
+ 0619
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B7564696870619
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Dicmo
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-3d2958d084e277d7@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-28bc4ef0bf3aab58@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20470401
 DTEND;VALUE=DATE:20470402
 SUMMARY:Ističe 2 koncesije · Dicmo
 DESCRIPTION:2 ugovora o koncesiji ističe 1. 4. 2047. Godišnja fiksna nakn
  ada: 8.532 €.\n\n• LAVČEVIĆ  D.D. – Koncesija za površinu utvrđe
- nog eksploatacijskog polja neenergetskih mineralnih sirovina (DICMO)\, 8.5
- 32 €/god.\n• LAVČEVIĆ D.D. – Koncesija za eksploataciju tehničko-
- građevnog kamena (DICMO)\n\nProfil općine: https://koncesijski-sat.verce
- l.app/#opcina/41942358B7564696870619\nIzvor: Registar koncesija (FINA)\, o
- brada Koncesijski sat 9. 11. 2026.
+ nog eksploatacijskog polja neenergetskih mineralnih sirovina (DICMO) · da
+ vatelj: MINISTARSTVO GOSPODARSTVA\, 8.532 €/god.\n• LAVČEVIĆ D.D. 
+ – Koncesija za eksploataciju tehničko-građevnog kamena (DICMO) · dava
+ telj: MINISTARSTVO GOSPODARSTVA\n\nProfil općine: https://koncesijski-sat
+ .vercel.app/#opcina/41942358B7564696870619\nIzvor: Registar koncesija (FIN
+ A)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B7564696870619
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -76,23 +82,24 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-3d2958d084e277d7@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-28bc4ef0bf3aab58@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20461001
 DTEND;VALUE=DATE:20461002
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Dicmo
 DESCRIPTION:1. 4. 2047. ističe 2 ugovora o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• LAVČEVIĆ  D.D. – Koncesija za površinu utvrđenog eksploatac
- ijskog polja neenergetskih mineralnih sirovina (DICMO)\, 8.532 €/god.\n
- • LAVČEVIĆ D.D. – Koncesija za eksploataciju tehničko-građevnog ka
- mena (DICMO)\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina
- /41942358B7564696870619
+ ijskog polja neenergetskih mineralnih sirovina (DICMO) · davatelj: MINIST
+ ARSTVO GOSPODARSTVA\, 8.532 €/god.\n• LAVČEVIĆ D.D. – Koncesija za
+  eksploataciju tehničko-građevnog kamena (DICMO) · davatelj: MINISTARST
+ VO GOSPODARSTVA\n\nProfil općine: https://koncesijski-sat.vercel.app/#opc
+ ina/41942358B7564696870619
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B7564696870619
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Dicmo
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT

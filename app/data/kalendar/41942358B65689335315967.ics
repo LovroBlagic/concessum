@@ -4,24 +4,25 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Općina Blato
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Blato. Iz Regist
- ra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podata
- ka. https://koncesijski-sat.vercel.app/#opcina/41942358B65689335315967
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Općina Blato (pregled\,
+  svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježava se
+  nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#opcina/4
+ 1942358B65689335315967
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-3c6cd3a0606cdfba@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-590dd738d8800f50@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20281021
 DTEND;VALUE=DATE:20281022
 SUMMARY:Ističe koncesija: VODOVOD D.O.O.ZA OBAV.KOM.DJELATNOSTI OPSK.PITKO
  M VODOM
 DESCRIPTION:1 ugovor o koncesiji ističe 21. 10. 2028. Godišnja fiksna nak
  nada: 213 €.\n\n• VODOVOD D.O.O.ZA OBAV.KOM.DJELATNOSTI OPSK.PITKOM VO
- DOM –  (BLATO)\, 213 €/god.\n\nProfil općine: https://koncesijski-sat
- .vercel.app/#opcina/41942358B65689335315967\nIzvor: Registar koncesija (FI
- NA)\, obrada Koncesijski sat 9. 11. 2026.
+ DOM –  (BLATO) · davatelj: OPĆINA BLATO\, 213 €/god.\n\nProfil opći
+ ne: https://koncesijski-sat.vercel.app/#opcina/41942358B65689335315967\nIz
+ vor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B65689335315967
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -32,8 +33,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-3c6cd3a0606cdfba@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-590dd738d8800f50@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20280421
 DTEND;VALUE=DATE:20280422
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VODOVOD D.O.O.ZA
@@ -41,8 +42,8 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VODOVOD D.O.O.ZA
 DESCRIPTION:21. 10. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• VODOVOD D.O.O.ZA OBAV.KOM.DJELATNOSTI OPSK.PITKOM VODOM –  (BL
- ATO)\, 213 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/
- #opcina/41942358B65689335315967
+ ATO) · davatelj: OPĆINA BLATO\, 213 €/god.\n\nProfil općine: https://
+ koncesijski-sat.vercel.app/#opcina/41942358B65689335315967
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B65689335315967
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -53,16 +54,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-b70dd203f6e8cb20@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-aba6d6913acc9b5a@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20291027
 DTEND;VALUE=DATE:20291028
 SUMMARY:Ističe koncesija: RADIO BLATO J.T.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 27. 10. 2029. Godišnja fiksna nak
  nada: 66 €.\n\n• RADIO BLATO J.T.D. – Koncesija za obavljanje djelat
- nosti radija (BLATO)\, 66 €/god.\n\nProfil općine: https://koncesijski-
- sat.vercel.app/#opcina/41942358B65689335315967\nIzvor: Registar koncesija 
- (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ nosti radija (BLATO) · davatelj: AGENCIJA ZA ELEKTRONIČKE MEDIJE\, 66 
+ €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
+ 42358B65689335315967\nIzvor: Registar koncesija (FINA)\, obrada Koncesijsk
+ i sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B65689335315967
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -72,8 +74,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-b70dd203f6e8cb20@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-aba6d6913acc9b5a@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20290427
 DTEND;VALUE=DATE:20290428
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (RADIO BLATO J.T.
@@ -81,8 +83,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (RADIO BLATO J.T.
 DESCRIPTION:27. 10. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• RADIO BLATO J.T.D. – Koncesija za obavljanje djelatnosti radij
- a (BLATO)\, 66 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.
- app/#opcina/41942358B65689335315967
+ a (BLATO) · davatelj: AGENCIJA ZA ELEKTRONIČKE MEDIJE\, 66 €/god.\n\nP
+ rofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B6568933
+ 5315967
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B65689335315967
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -93,15 +96,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-81eca8f8fa0edc4a@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-4e5ef269bac7cae3@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20380122
 DTEND;VALUE=DATE:20380123
 SUMMARY:Ističe koncesija: VODOVOD D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 22. 1. 2038.\n\n• VODOVOD D.O.O.
-  – Koncesija na pomorskom dobru (BLATO)\n\nProfil općine: https://konce
- sijski-sat.vercel.app/#opcina/41942358B65689335315967\nIzvor: Registar kon
- cesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+  – Koncesija na pomorskom dobru (BLATO) · davatelj: OPĆINA BLATO\n\nPr
+ ofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B65689335
+ 315967\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2
+ 026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B65689335315967
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -111,16 +115,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-81eca8f8fa0edc4a@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-4e5ef269bac7cae3@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20370722
 DTEND;VALUE=DATE:20370723
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VODOVOD D.O.O.)
 DESCRIPTION:22. 1. 2038. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
- .\n\n• VODOVOD D.O.O. – Koncesija na pomorskom dobru (BLATO)\n\nProfil
-  općine: https://koncesijski-sat.vercel.app/#opcina/41942358B656893353159
- 67
+ .\n\n• VODOVOD D.O.O. – Koncesija na pomorskom dobru (BLATO) · davate
+ lj: OPĆINA BLATO\n\nProfil općine: https://koncesijski-sat.vercel.app/#o
+ pcina/41942358B65689335315967
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B65689335315967
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -131,16 +135,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-651854833e4987f9@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-44f7e49e3c4656ec@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20390531
 DTEND;VALUE=DATE:20390601
 SUMMARY:Ističe koncesija: RADEŽ D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 31. 5. 2039. Godišnja fiksna nakn
  ada: 6.371 €.\n\n• RADEŽ D.D. – Koncesija na pomorskom dobru (BLATO
- )\, 6.371 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#
- opcina/41942358B65689335315967\nIzvor: Registar koncesija (FINA)\, obrada 
- Koncesijski sat 9. 11. 2026.
+ ) · davatelj: DUBROVAČKO-NERETVANSKA ŽUPANIJA\, 6.371 €/god.\n\nProfi
+ l općine: https://koncesijski-sat.vercel.app/#opcina/41942358B65689335315
+ 967\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026
+ .
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B65689335315967
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -150,16 +155,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-651854833e4987f9@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-44f7e49e3c4656ec@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20381130
 DTEND;VALUE=DATE:20381201
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (RADEŽ D.D.)
 DESCRIPTION:31. 5. 2039. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
- .\n\n• RADEŽ D.D. – Koncesija na pomorskom dobru (BLATO)\, 6.371 €/
- god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4194235
- 8B65689335315967
+ .\n\n• RADEŽ D.D. – Koncesija na pomorskom dobru (BLATO) · davatelj:
+  DUBROVAČKO-NERETVANSKA ŽUPANIJA\, 6.371 €/god.\n\nProfil općine: htt
+ ps://koncesijski-sat.vercel.app/#opcina/41942358B65689335315967
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B65689335315967
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -169,16 +174,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-7d0d02db3d2a29bc@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-e91218d97bb5b51c@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20391025
 DTEND;VALUE=DATE:20391026
 SUMMARY:Ističe 2 koncesije · Blato
 DESCRIPTION:2 ugovora o koncesiji ističe 25. 10. 2039.\n\n• VODOVOD D.O.
- O. – Posebna upotreba pomorskog dobra (BLATO)\n• VODOVOD D.O.O.ZA OBAV
- .KOM.DJELATNOSTI OPSK.PITKOM VODOM –  ()\n\nProfil općine: https://konc
- esijski-sat.vercel.app/#opcina/41942358B65689335315967\nIzvor: Registar ko
- ncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ O. – Posebna upotreba pomorskog dobra (BLATO) · davatelj: OPĆINA BLATO
+ \n• VODOVOD D.O.O.ZA OBAV.KOM.DJELATNOSTI OPSK.PITKOM VODOM –  () · d
+ avatelj: OPĆINA BLATO\n\nProfil općine: https://koncesijski-sat.vercel.a
+ pp/#opcina/41942358B65689335315967\nIzvor: Registar koncesija (FINA)\, obr
+ ada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B65689335315967
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -188,22 +194,22 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-7d0d02db3d2a29bc@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-e91218d97bb5b51c@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20390425
 DTEND;VALUE=DATE:20390426
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Blato
 DESCRIPTION:25. 10. 2039. ističe 2 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
- ra.\n\n• VODOVOD D.O.O. – Posebna upotreba pomorskog dobra (BLATO)\n
- • VODOVOD D.O.O.ZA OBAV.KOM.DJELATNOSTI OPSK.PITKOM VODOM –  ()\n\nPro
- fil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B656893353
- 15967
+ ra.\n\n• VODOVOD D.O.O. – Posebna upotreba pomorskog dobra (BLATO) · 
+ davatelj: OPĆINA BLATO\n• VODOVOD D.O.O.ZA OBAV.KOM.DJELATNOSTI OPSK.PI
+ TKOM VODOM –  () · davatelj: OPĆINA BLATO\n\nProfil općine: https://k
+ oncesijski-sat.vercel.app/#opcina/41942358B65689335315967
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B65689335315967
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Blato
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT

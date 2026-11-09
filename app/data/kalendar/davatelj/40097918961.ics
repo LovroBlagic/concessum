@@ -1,0 +1,132 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · OPĆINA BLATO
+X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje OPĆINA BLATO. Iz Registra
+  koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podataka
+ . https://koncesijski-sat.vercel.app/#sat
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-3c68f102a9243f7f@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20281021
+DTEND;VALUE=DATE:20281022
+SUMMARY:Ističe koncesija: VODOVOD D.O.O.ZA OBAV.KOM.DJELATNOSTI OPSK.PITKO
+ M VODOM
+DESCRIPTION:1 ugovor o koncesiji ističe 21. 10. 2028. Godišnja fiksna nak
+ nada: 213 €.\n\n• VODOVOD D.O.O.ZA OBAV.KOM.DJELATNOSTI OPSK.PITKOM VO
+ DOM –  (BLATO\, Općina Blato)\, 213 €/god.\n\nŠto ističe: https://k
+ oncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada 
+ Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: VODOVOD D.O.O.ZA OBAV.KOM.DJELATNOSTI OPSK.P
+ ITKOM VODOM
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-3c68f102a9243f7f@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20280421
+DTEND;VALUE=DATE:20280422
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VODOVOD D.O.O.ZA
+  OBAV.KOM.DJELATNOSTI OPSK.PITKOM VODOM)
+DESCRIPTION:21. 10. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• VODOVOD D.O.O.ZA OBAV.KOM.DJELATNOSTI OPSK.PITKOM VODOM –  (BL
+ ATO\, Općina Blato)\, 213 €/god.\n\nŠto ističe: https://koncesijski-s
+ at.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VODOVOD D.O.
+ O.ZA OBAV.KOM.DJELATNOSTI OPSK.PITKOM VODOM)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-401edc08d9f79b00@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20380122
+DTEND;VALUE=DATE:20380123
+SUMMARY:Ističe koncesija: VODOVOD D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 22. 1. 2038.\n\n• VODOVOD D.O.O.
+  – Koncesija na pomorskom dobru (BLATO\, Općina Blato)\n\nŠto ističe:
+  https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)
+ \, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: VODOVOD D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-401edc08d9f79b00@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20370722
+DTEND;VALUE=DATE:20370723
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VODOVOD D.O.O.)
+DESCRIPTION:22. 1. 2038. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• VODOVOD D.O.O. – Koncesija na pomorskom dobru (BLATO\, Općina 
+ Blato)\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VODOVOD D.O.
+ O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-6d0b2c2bb80fdc17@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20391025
+DTEND;VALUE=DATE:20391026
+SUMMARY:Ističe 2 koncesije · OPĆINA BLATO
+DESCRIPTION:2 ugovora o koncesiji ističe 25. 10. 2039.\n\n• VODOVOD D.O.
+ O. – Posebna upotreba pomorskog dobra (BLATO\, Općina Blato)\n• VODOV
+ OD D.O.O.ZA OBAV.KOM.DJELATNOSTI OPSK.PITKOM VODOM –  (\, Općina Blato)
+ \n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar
+  koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 2 koncesije · OPĆINA BLATO
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-6d0b2c2bb80fdc17@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20390425
+DTEND;VALUE=DATE:20390426
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · OPĆINA BLATO
+DESCRIPTION:25. 10. 2039. ističe 2 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• VODOVOD D.O.O. – Posebna upotreba pomorskog dobra (BLATO\, Op
+ ćina Blato)\n• VODOVOD D.O.O.ZA OBAV.KOM.DJELATNOSTI OPSK.PITKOM VODOM 
+ –  (\, Općina Blato)\n\nŠto ističe: https://koncesijski-sat.vercel.ap
+ p/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije · OPĆINA BL
+ ATO
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

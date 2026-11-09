@@ -4,24 +4,25 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Općina Gornja Stubica
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Gornja Stubica. 
- Iz Registra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obra
- de podataka. https://koncesijski-sat.vercel.app/#opcina/41942358B882700275
- 49865
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Općina Gornja Stubica (
+ pregled\, svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvj
+ ežava se nakon svake obrade podataka. https://koncesijski-sat.vercel.app/
+ #opcina/41942358B88270027549865
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-29f6342a22985237@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-38f88460678d5a3a@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20290906
 DTEND;VALUE=DATE:20290907
 SUMMARY:Ističe koncesija: LEUŠTEK J.D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 6. 9. 2029. Godišnja fiksna nakna
  da: 1.250 €.\n\n• LEUŠTEK J.D.O.O. – Koncesija za obavljanje dimnja
- čarskih poslova (GORNJA STUBICA)\, 1.250 €/god.\n\nProfil općine: http
- s://koncesijski-sat.vercel.app/#opcina/41942358B88270027549865\nIzvor: Reg
- istar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ čarskih poslova (GORNJA STUBICA) · davatelj: OPĆINA GORNJA STUBICA\, 1.
+ 250 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina
+ /41942358B88270027549865\nIzvor: Registar koncesija (FINA)\, obrada Konces
+ ijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B88270027549865
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -31,8 +32,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-29f6342a22985237@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-38f88460678d5a3a@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20290306
 DTEND;VALUE=DATE:20290307
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (LEUŠTEK J.D.O.O
@@ -40,8 +41,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (LEUŠTEK J.D.O.O
 DESCRIPTION:6. 9. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• LEUŠTEK J.D.O.O. – Koncesija za obavljanje dimnjačarskih poslo
- va (GORNJA STUBICA)\, 1.250 €/god.\n\nProfil općine: https://koncesijsk
- i-sat.vercel.app/#opcina/41942358B88270027549865
+ va (GORNJA STUBICA) · davatelj: OPĆINA GORNJA STUBICA\, 1.250 €/god.\n
+ \nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B8827
+ 0027549865
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B88270027549865
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -52,16 +54,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-ce89083709be857b@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-5ac301d7f4efb06d@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20490410
 DTEND;VALUE=DATE:20490411
 SUMMARY:Ističe koncesija: PERFA-BIO D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 10. 4. 2049. Godišnja fiksna nakn
  ada: 2.124 €.\n\n• PERFA-BIO D.O.O. – Koncesija za zahvaćanje voda 
- za tehnološke potrebe (GORNJA STUBICA)\, 2.124 €/god.\n\nProfil općine
- : https://koncesijski-sat.vercel.app/#opcina/41942358B88270027549865\nIzvo
- r: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ za tehnološke potrebe (GORNJA STUBICA) · davatelj: MINISTARSTVO ZAŠTITE
+  OKOLIŠA I ZELENE TRANZICIJE\, 2.124 €/god.\n\nProfil općine: https://
+ koncesijski-sat.vercel.app/#opcina/41942358B88270027549865\nIzvor: Regista
+ r koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B88270027549865
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -71,8 +74,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-ce89083709be857b@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-5ac301d7f4efb06d@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20481010
 DTEND;VALUE=DATE:20481011
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PERFA-BIO D.O.O.
@@ -80,8 +83,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PERFA-BIO D.O.O.
 DESCRIPTION:10. 4. 2049. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• PERFA-BIO D.O.O. – Koncesija za zahvaćanje voda za tehnološke
-  potrebe (GORNJA STUBICA)\, 2.124 €/god.\n\nProfil općine: https://konc
- esijski-sat.vercel.app/#opcina/41942358B88270027549865
+  potrebe (GORNJA STUBICA) · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠA I ZE
+ LENE TRANZICIJE\, 2.124 €/god.\n\nProfil općine: https://koncesijski-sa
+ t.vercel.app/#opcina/41942358B88270027549865
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B88270027549865
 TRANSP:TRANSPARENT
 BEGIN:VALARM

@@ -4,23 +4,25 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Općina Fužine
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Fužine. Iz Regi
- stra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade poda
- taka. https://koncesijski-sat.vercel.app/#opcina/41942358B85318372077998
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Općina Fužine (pregled
+ \, svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježava 
+ se nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#opcina
+ /41942358B85318372077998
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-3bbc5221f4221a12@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-580b02d703bb7d11@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20261222
 DTEND;VALUE=DATE:20261223
 SUMMARY:Ističe koncesija: INA-INDUSTRIJA NAFTE  D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 22. 12. 2026. Godišnja fiksna nak
  nada: 78 €.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zahvaćan
- je voda za tehnološke potrebe (FUŽINE)\, 78 €/god.\n\nProfil općine: 
- https://koncesijski-sat.vercel.app/#opcina/41942358B85318372077998\nIzvor:
-  Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ je voda za tehnološke potrebe (FUŽINE) · davatelj: MINISTARSTVO ZAŠTIT
+ E OKOLIŠA I ZELENE TRANZICIJE\, 78 €/god.\n\nProfil općine: https://ko
+ ncesijski-sat.vercel.app/#opcina/41942358B85318372077998\nIzvor: Registar 
+ koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B85318372077998
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -30,8 +32,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-7ddc0d94f8137222@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-ef6d4707d469f82c@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20290401
 DTEND;VALUE=DATE:20290402
 SUMMARY:Ističe koncesija: DIMNJAČARSTVO VALJAK DRUŠTVO S OGRANIČENOM OD
@@ -39,9 +41,9 @@ SUMMARY:Ističe koncesija: DIMNJAČARSTVO VALJAK DRUŠTVO S OGRANIČENOM OD
 DESCRIPTION:1 ugovor o koncesiji ističe 1. 4. 2029. Godišnja fiksna nakna
  da: 800 €.\n\n• DIMNJAČARSTVO VALJAK DRUŠTVO S OGRANIČENOM ODGOVORN
  OŠĆU ZA DIMNJAČARSKE USLUGE – Koncesija za obavljanje dimnjačarskih 
- poslova (FUŽINE)\, 800 €/god.\n\nProfil općine: https://koncesijski-sa
- t.vercel.app/#opcina/41942358B85318372077998\nIzvor: Registar koncesija (F
- INA)\, obrada Koncesijski sat 9. 11. 2026.
+ poslova (FUŽINE) · davatelj: OPĆINA FUŽINE\, 800 €/god.\n\nProfil op
+ ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B85318372077998\
+ nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B85318372077998
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -52,8 +54,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-7ddc0d94f8137222@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-ef6d4707d469f82c@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20281001
 DTEND;VALUE=DATE:20281002
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DIMNJAČARSTVO V
@@ -62,8 +64,8 @@ DESCRIPTION:1. 4. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• DIMNJAČARSTVO VALJAK DRUŠTVO S OGRANIČENOM ODGOVORNOŠĆU ZA DI
  MNJAČARSKE USLUGE – Koncesija za obavljanje dimnjačarskih poslova (FU
- ŽINE)\, 800 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.ap
- p/#opcina/41942358B85318372077998
+ ŽINE) · davatelj: OPĆINA FUŽINE\, 800 €/god.\n\nProfil općine: http
+ s://koncesijski-sat.vercel.app/#opcina/41942358B85318372077998
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B85318372077998
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -74,20 +76,22 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-73ac7f9b22912c70@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-35de4234f79264ec@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20441231
 DTEND;VALUE=DATE:20450101
 SUMMARY:Ističe 3 koncesije · Fužine
 DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2044. Godišnja fiksna na
  knada: 5.192 €.\n\n• KAMENOLOM FUŽINSKI BENKOVAC D.D. – Koncesija z
  a površinu utvrđenog eksploatacijskog polja neenergetskih mineralnih sir
- ovina (FUŽINE)\, 5.192 €/god.\n• KAMENOLOM FUŽINSKI BENKOVAC D.D. 
- – Koncesija za eksploataciju tehničko-građevnog kamena (FUŽINE)\n• 
- KAMENOLOM FUŽINSKI BENKOVAC D. D. – Koncesija za eksploataciju tehničk
- o-građevnog kamena (FUŽINE)\n\nProfil općine: https://koncesijski-sat.v
- ercel.app/#opcina/41942358B85318372077998\nIzvor: Registar koncesija (FINA
- )\, obrada Koncesijski sat 9. 11. 2026.
+ ovina (FUŽINE) · davatelj: MINISTARSTVO GOSPODARSTVA\, 5.192 €/god.\n
+ • KAMENOLOM FUŽINSKI BENKOVAC D.D. – Koncesija za eksploataciju tehni
+ čko-građevnog kamena (FUŽINE) · davatelj: MINISTARSTVO GOSPODARSTVA\n
+ • KAMENOLOM FUŽINSKI BENKOVAC D. D. – Koncesija za eksploataciju tehn
+ ičko-građevnog kamena (FUŽINE) · davatelj: MINISTARSTVO GOSPODARSTVA\n
+ \nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B8531
+ 8372077998\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 1
+ 1. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B85318372077998
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -97,41 +101,44 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-73ac7f9b22912c70@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-35de4234f79264ec@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20440630
 DTEND;VALUE=DATE:20440701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Fužine
 DESCRIPTION:31. 12. 2044. ističe 3 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• KAMENOLOM FUŽINSKI BENKOVAC D.D. – Koncesija za površinu ut
  vrđenog eksploatacijskog polja neenergetskih mineralnih sirovina (FUŽINE
- )\, 5.192 €/god.\n• KAMENOLOM FUŽINSKI BENKOVAC D.D. – Koncesija za
-  eksploataciju tehničko-građevnog kamena (FUŽINE)\n• KAMENOLOM FUŽIN
- SKI BENKOVAC D. D. – Koncesija za eksploataciju tehničko-građevnog kam
- ena (FUŽINE)\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcin
- a/41942358B85318372077998
+ ) · davatelj: MINISTARSTVO GOSPODARSTVA\, 5.192 €/god.\n• KAMENOLOM F
+ UŽINSKI BENKOVAC D.D. – Koncesija za eksploataciju tehničko-građevnog
+  kamena (FUŽINE) · davatelj: MINISTARSTVO GOSPODARSTVA\n• KAMENOLOM FU
+ ŽINSKI BENKOVAC D. D. – Koncesija za eksploataciju tehničko-građevnog
+  kamena (FUŽINE) · davatelj: MINISTARSTVO GOSPODARSTVA\n\nProfil općine
+ : https://koncesijski-sat.vercel.app/#opcina/41942358B85318372077998
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B85318372077998
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Fužine
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-f52975940126cd0a@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-9367d27063d4a656@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20460626
 DTEND;VALUE=DATE:20460627
 SUMMARY:Ističe 2 koncesije · Fužine
 DESCRIPTION:2 ugovora o koncesiji ističe 26. 6. 2046. Godišnja fiksna nak
  nada: 6.000 €.\n\n• DRVENJAČA D. D.-EU PROJEKT – Koncesija za zahva
- ćanje voda za tehnološke potrebe (FUŽINE)\, 3.000 €/god.\n• DRVENJA
- ČA D. D.-EU PROJEKT – Koncesija za zahvaćanje voda za tehnološke potr
- ebe (FUŽINE)\, 3.000 €/god.\n\nProfil općine: https://koncesijski-sat.
- vercel.app/#opcina/41942358B85318372077998\nIzvor: Registar koncesija (FIN
- A)\, obrada Koncesijski sat 9. 11. 2026.
+ ćanje voda za tehnološke potrebe (FUŽINE) · davatelj: MINISTARSTVO ZA
+ ŠTITE OKOLIŠA I ZELENE TRANZICIJE\, 3.000 €/god.\n• DRVENJAČA D. D.
+ -EU PROJEKT – Koncesija za zahvaćanje voda za tehnološke potrebe (FUŽ
+ INE) · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠA I ZELENE TRANZICIJE\, 3.0
+ 00 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/
+ 41942358B85318372077998\nIzvor: Registar koncesija (FINA)\, obrada Koncesi
+ jski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B85318372077998
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -141,23 +148,25 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-f52975940126cd0a@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-9367d27063d4a656@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20451226
 DTEND;VALUE=DATE:20451227
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Fužine
 DESCRIPTION:26. 6. 2046. ističe 2 ugovora o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• DRVENJAČA D. D.-EU PROJEKT – Koncesija za zahvaćanje voda za
-  tehnološke potrebe (FUŽINE)\, 3.000 €/god.\n• DRVENJAČA D. D.-EU P
- ROJEKT – Koncesija za zahvaćanje voda za tehnološke potrebe (FUŽINE)\
- , 3.000 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#op
- cina/41942358B85318372077998
+  tehnološke potrebe (FUŽINE) · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠA
+  I ZELENE TRANZICIJE\, 3.000 €/god.\n• DRVENJAČA D. D.-EU PROJEKT –
+  Koncesija za zahvaćanje voda za tehnološke potrebe (FUŽINE) · davatel
+ j: MINISTARSTVO ZAŠTITE OKOLIŠA I ZELENE TRANZICIJE\, 3.000 €/god.\n\n
+ Profil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B853183
+ 72077998
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B85318372077998
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Fužine
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT

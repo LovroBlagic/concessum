@@ -1,0 +1,169 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · GRAD KUTJEVO
+X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje GRAD KUTJEVO. Iz Registra 
+ koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podataka.
+  https://koncesijski-sat.vercel.app/#sat
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-b61e6d8787ad7611@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20290601
+DTEND;VALUE=DATE:20290602
+SUMMARY:Ističe koncesija: HRVATSKA ELEKTROPRIVREDA D.D.
+DESCRIPTION:1 ugovor o koncesiji ističe 1. 6. 2029.\n\n• HRVATSKA ELEKTR
+ OPRIVREDA D.D. – Koncesija za opskrbu potrošača prirodnim plinom (KUTJ
+ EVO\, Grad Kutjevo)\n\nŠto ističe: https://koncesijski-sat.vercel.app/#s
+ at\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: HRVATSKA ELEKTROPRIVREDA D.D.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-b61e6d8787ad7611@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20281201
+DTEND;VALUE=DATE:20281202
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKA ELEKTRO
+ PRIVREDA D.D.)
+DESCRIPTION:1. 6. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjele
+  treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
+ \n\n• HRVATSKA ELEKTROPRIVREDA D.D. – Koncesija za opskrbu potrošača
+  prirodnim plinom (KUTJEVO\, Grad Kutjevo)\n\nŠto ističe: https://konces
+ ijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKA ELE
+ KTROPRIVREDA D.D.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-3377ec76681d223e@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20370123
+DTEND;VALUE=DATE:20370124
+SUMMARY:Ističe koncesija: KUTJEVO  D.D.
+DESCRIPTION:1 ugovor o koncesiji ističe 23. 1. 2037. Godišnja fiksna nakn
+ ada: 86.270 €.\n\n• KUTJEVO  D.D. – Koncesija za korištenje poljopr
+ ivrednog zemljišta u vlasništvu države (KUTJEVO\, Grad Kutjevo)\, 86.27
+ 0 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor
+ : Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: KUTJEVO  D.D.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-3377ec76681d223e@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20360723
+DTEND;VALUE=DATE:20360724
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (KUTJEVO  D.D.)
+DESCRIPTION:23. 1. 2037. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• KUTJEVO  D.D. – Koncesija za korištenje poljoprivrednog zemlji
+ šta u vlasništvu države (KUTJEVO\, Grad Kutjevo)\, 86.270 €/god.\n\n
+ Što ističe: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (KUTJEVO  D.D
+ .)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-c815ba7218cc12e6@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20381223
+DTEND;VALUE=DATE:20381224
+SUMMARY:Ističe koncesija: KUTJEVO  D.D.
+DESCRIPTION:1 ugovor o koncesiji ističe 23. 12. 2038. Godišnja fiksna nak
+ nada: 14.732 €.\n\n• KUTJEVO  D.D. – Koncesija za korištenje poljop
+ rivrednog zemljišta u vlasništvu države (KUTJEVO\, Grad Kutjevo)\, 14.7
+ 32 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzvo
+ r: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: KUTJEVO  D.D.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-c815ba7218cc12e6@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20380623
+DTEND;VALUE=DATE:20380624
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (KUTJEVO  D.D.)
+DESCRIPTION:23. 12. 2038. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• KUTJEVO  D.D. – Koncesija za korištenje poljoprivrednog zemlj
+ išta u vlasništvu države (KUTJEVO\, Grad Kutjevo)\, 14.732 €/god.\n\n
+ Što ističe: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (KUTJEVO  D.D
+ .)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-19f8229774b7d4fb@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20470123
+DTEND;VALUE=DATE:20470124
+SUMMARY:Ističe koncesija: KUTJEVO  D.D.
+DESCRIPTION:1 ugovor o koncesiji ističe 23. 1. 2047. Godišnja fiksna nakn
+ ada: 3.318 €.\n\n• KUTJEVO  D.D. – Koncesija za korištenje poljopri
+ vrednog zemljišta u vlasništvu države (KUTJEVO\, Grad Kutjevo)\, 3.318 
+ €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: 
+ Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: KUTJEVO  D.D.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-19f8229774b7d4fb@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20460723
+DTEND;VALUE=DATE:20460724
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (KUTJEVO  D.D.)
+DESCRIPTION:23. 1. 2047. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• KUTJEVO  D.D. – Koncesija za korištenje poljoprivrednog zemlji
+ šta u vlasništvu države (KUTJEVO\, Grad Kutjevo)\, 3.318 €/god.\n\nŠ
+ to ističe: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (KUTJEVO  D.D
+ .)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

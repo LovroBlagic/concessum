@@ -4,15 +4,16 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Grad Kastav
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Grad Kastav. Iz Registra
-  koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podataka
- . https://koncesijski-sat.vercel.app/#opcina/41942358B6089837574629
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Grad Kastav (pregled\, s
+ vi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježava se n
+ akon svake obrade podataka. https://koncesijski-sat.vercel.app/#opcina/419
+ 42358B6089837574629
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-565f539518eadc05@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-2b0f77e31d73ac0c@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270521
 DTEND;VALUE=DATE:20270522
 SUMMARY:Ističe koncesija: UDRUGA ZA PROMICANJE MEDIJSKE KULTURE I AUDIOVIZ
@@ -20,9 +21,9 @@ SUMMARY:Ističe koncesija: UDRUGA ZA PROMICANJE MEDIJSKE KULTURE I AUDIOVIZ
 DESCRIPTION:1 ugovor o koncesiji ističe 21. 5. 2027. Godišnja fiksna nakn
  ada: 66 €.\n\n• UDRUGA ZA PROMICANJE MEDIJSKE KULTURE I AUDIOVIZUALNIH
   DJELATNOSTI "CASTUA" – Koncesija za obavljanje djelatnosti radija (KAST
- AV)\, 66 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#o
- pcina/41942358B6089837574629\nIzvor: Registar koncesija (FINA)\, obrada Ko
- ncesijski sat 9. 11. 2026.
+ AV) · davatelj: AGENCIJA ZA ELEKTRONIČKE MEDIJE\, 66 €/god.\n\nProfil 
+ općine: https://koncesijski-sat.vercel.app/#opcina/41942358B6089837574629
+ \nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B6089837574629
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -33,8 +34,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-565f539518eadc05@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-2b0f77e31d73ac0c@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (UDRUGA ZA PROMIC
@@ -42,9 +43,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (UDRUGA ZA PROMIC
 DESCRIPTION:21. 5. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• UDRUGA ZA PROMICANJE MEDIJSKE KULTURE I AUDIOVIZUALNIH DJELATNOST
- I "CASTUA" – Koncesija za obavljanje djelatnosti radija (KASTAV)\, 66 
- €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
- 42358B6089837574629
+ I "CASTUA" – Koncesija za obavljanje djelatnosti radija (KASTAV) · dava
+ telj: AGENCIJA ZA ELEKTRONIČKE MEDIJE\, 66 €/god.\n\nProfil općine: ht
+ tps://koncesijski-sat.vercel.app/#opcina/41942358B6089837574629
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B6089837574629
 TRANSP:TRANSPARENT
 BEGIN:VALARM

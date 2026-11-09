@@ -1,0 +1,53 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · OPĆINA STRIZIVOJNA
+X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje OPĆINA STRIZIVOJNA. Iz Re
+ gistra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade po
+ dataka. https://koncesijski-sat.vercel.app/#sat
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-39393fe0543196dc@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20320304
+DTEND;VALUE=DATE:20320305
+SUMMARY:Ističe koncesija: HEP - PLIN  D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 4. 3. 2032. Godišnja fiksna nakna
+ da: 75.120 €.\n\n• HEP - PLIN  D.O.O. – Koncesija za opskrbu potroš
+ ača prirodnim plinom (STRIZIVOJNA\, Općina Strizivojna)\, 75.120 €/god
+ .\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Regista
+ r koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: HEP - PLIN  D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-39393fe0543196dc@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20310904
+DTEND;VALUE=DATE:20310905
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP - PLIN  D.O.
+ O.)
+DESCRIPTION:4. 3. 2032. ističe 1 ugovor o koncesiji. Novi postupak dodjele
+  treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
+ \n\n• HEP - PLIN  D.O.O. – Koncesija za opskrbu potrošača prirodnim 
+ plinom (STRIZIVOJNA\, Općina Strizivojna)\, 75.120 €/god.\n\nŠto isti
+ če: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP - PLIN  
+ D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

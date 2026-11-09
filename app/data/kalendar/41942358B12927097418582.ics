@@ -4,24 +4,26 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Općina Marijanci
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Marijanci. Iz Re
- gistra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade po
- dataka. https://koncesijski-sat.vercel.app/#opcina/41942358B12927097418582
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Općina Marijanci (pregl
+ ed\, svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježav
+ a se nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#opci
+ na/41942358B12927097418582
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-785ea426d6e7012e@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-b7d03c43dbd0e9bb@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270615
 DTEND;VALUE=DATE:20270616
 SUMMARY:Ističe 2 koncesije · Marijanci
 DESCRIPTION:2 ugovora o koncesiji ističe 15. 6. 2027.\n\n• INA-INDUSTRIJ
  A NAFTE  D.D. – Dozvola za eksploataciju ugljikovodika (prema Zakonu o u
- gljikovodicima) (MARIJANCI)\n• INA D.D. – Dozvola za eksploataciju ugl
- jikovodika (prema Zakonu o ugljikovodicima) (MARIJANCI)\n\nProfil općine:
-  https://koncesijski-sat.vercel.app/#opcina/41942358B12927097418582\nIzvor
- : Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ gljikovodicima) (MARIJANCI) · davatelj: MINISTARSTVO GOSPODARSTVA\n• IN
+ A D.D. – Dozvola za eksploataciju ugljikovodika (prema Zakonu o ugljikov
+ odicima) (MARIJANCI) · davatelj: MINISTARSTVO GOSPODARSTVA\n\nProfil opć
+ ine: https://koncesijski-sat.vercel.app/#opcina/41942358B12927097418582\nI
+ zvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B12927097418582
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -31,37 +33,39 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-785ea426d6e7012e@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-b7d03c43dbd0e9bb@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20261215
 DTEND;VALUE=DATE:20261216
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Marijanci
 DESCRIPTION:15. 6. 2027. ističe 2 ugovora o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Dozvola za eksploataciju ugljikov
- odika (prema Zakonu o ugljikovodicima) (MARIJANCI)\n• INA D.D. – Dozvo
- la za eksploataciju ugljikovodika (prema Zakonu o ugljikovodicima) (MARIJA
- NCI)\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4194235
- 8B12927097418582
+ odika (prema Zakonu o ugljikovodicima) (MARIJANCI) · davatelj: MINISTARST
+ VO GOSPODARSTVA\n• INA D.D. – Dozvola za eksploataciju ugljikovodika (
+ prema Zakonu o ugljikovodicima) (MARIJANCI) · davatelj: MINISTARSTVO GOSP
+ ODARSTVA\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
+ 42358B12927097418582
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B12927097418582
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Marijanci
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-d61a0175118c29e8@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-18d97af9ee3a3a31@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270628
 DTEND;VALUE=DATE:20270629
 SUMMARY:Ističe koncesija: INA\, D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 28. 6. 2027. Godišnja fiksna nakn
  ada: 2.508 €.\n\n• INA\, D.D. – Dozvola za istraživanje ugljikovodi
- ka (prema Zakonu o ugljikovodicima) (MARIJANCI)\, 2.508 €/god.\n\nProfil
-  općine: https://koncesijski-sat.vercel.app/#opcina/41942358B129270974185
- 82\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ ka (prema Zakonu o ugljikovodicima) (MARIJANCI) · davatelj: MINISTARSTVO 
+ GOSPODARSTVA\, 2.508 €/god.\n\nProfil općine: https://koncesijski-sat.v
+ ercel.app/#opcina/41942358B12927097418582\nIzvor: Registar koncesija (FINA
+ )\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B12927097418582
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -71,16 +75,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-d61a0175118c29e8@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-18d97af9ee3a3a31@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20261228
 DTEND;VALUE=DATE:20261229
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA\, D.D.)
 DESCRIPTION:28. 6. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• INA\, D.D. – Dozvola za istraživanje ugljikovodika (prema Zako
- nu o ugljikovodicima) (MARIJANCI)\, 2.508 €/god.\n\nProfil općine: http
- s://koncesijski-sat.vercel.app/#opcina/41942358B12927097418582
+ nu o ugljikovodicima) (MARIJANCI) · davatelj: MINISTARSTVO GOSPODARSTVA\,
+  2.508 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opc
+ ina/41942358B12927097418582
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B12927097418582
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -90,17 +95,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-1847b8cc4e415d15@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-f2d65694bf7091e9@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20280724
 DTEND;VALUE=DATE:20280725
 SUMMARY:Ističe koncesija: SAMOSTAL.DIMNJAČARSKA RADNJA TIBORJANCI
 DESCRIPTION:1 ugovor o koncesiji ističe 24. 7. 2028. Godišnja fiksna nakn
  ada: 309 €.\n\n• SAMOSTAL.DIMNJAČARSKA RADNJA TIBORJANCI – Koncesij
- a za obavljanje dimnjačarskih poslova (MARIJANCI)\, 309 €/god.\n\nProfi
- l općine: https://koncesijski-sat.vercel.app/#opcina/41942358B12927097418
- 582\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026
- .
+ a za obavljanje dimnjačarskih poslova (MARIJANCI) · davatelj: OPĆINA MA
+ RIJANCI\, 309 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.a
+ pp/#opcina/41942358B12927097418582\nIzvor: Registar koncesija (FINA)\, obr
+ ada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B12927097418582
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -110,8 +115,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-1847b8cc4e415d15@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-f2d65694bf7091e9@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20280124
 DTEND;VALUE=DATE:20280125
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (SAMOSTAL.DIMNJA
@@ -119,8 +124,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (SAMOSTAL.DIMNJA
 DESCRIPTION:24. 7. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• SAMOSTAL.DIMNJAČARSKA RADNJA TIBORJANCI – Koncesija za obavlja
- nje dimnjačarskih poslova (MARIJANCI)\, 309 €/god.\n\nProfil općine: h
- ttps://koncesijski-sat.vercel.app/#opcina/41942358B12927097418582
+ nje dimnjačarskih poslova (MARIJANCI) · davatelj: OPĆINA MARIJANCI\, 30
+ 9 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4
+ 1942358B12927097418582
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B12927097418582
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -131,16 +137,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-02a94c7d5ab83db1@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-72be595f17d36300@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20281228
 DTEND;VALUE=DATE:20281229
 SUMMARY:Ističe koncesija: HEP - PLIN  D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 28. 12. 2028.\n\n• HEP - PLIN  D
- .O.O. – Koncesija za opskrbu potrošača prirodnim plinom (MARIJANCI)\n\
- nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B12927
- 097418582\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11
- . 2026.
+ .O.O. – Koncesija za opskrbu potrošača prirodnim plinom (MARIJANCI) ·
+  davatelj: OPĆINA MARIJANCI\n\nProfil općine: https://koncesijski-sat.ve
+ rcel.app/#opcina/41942358B12927097418582\nIzvor: Registar koncesija (FINA)
+ \, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B12927097418582
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -150,8 +156,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-02a94c7d5ab83db1@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-72be595f17d36300@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20280628
 DTEND;VALUE=DATE:20280629
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP - PLIN  D.O.
@@ -159,8 +165,8 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP - PLIN  D.O.
 DESCRIPTION:28. 12. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• HEP - PLIN  D.O.O. – Koncesija za opskrbu potrošača prirodni
- m plinom (MARIJANCI)\n\nProfil općine: https://koncesijski-sat.vercel.app
- /#opcina/41942358B12927097418582
+ m plinom (MARIJANCI) · davatelj: OPĆINA MARIJANCI\n\nProfil općine: htt
+ ps://koncesijski-sat.vercel.app/#opcina/41942358B12927097418582
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B12927097418582
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -171,16 +177,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-58b23f05f354bfa1@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-4c12db1bf66fdd2e@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20300304
 DTEND;VALUE=DATE:20300305
 SUMMARY:Ističe koncesija: MATAKOVO D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 4. 3. 2030. Godišnja fiksna nakna
  da: 531 €.\n\n• MATAKOVO D.O.O. – Koncesija za zahvaćanje voda radi
-  korištenja u proizvodnom postupku (MARIJANCI)\, 531 €/god.\n\nProfil o
- pćine: https://koncesijski-sat.vercel.app/#opcina/41942358B12927097418582
- \nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+  korištenja u proizvodnom postupku (MARIJANCI) · davatelj: MINISTARSTVO 
+ ZAŠTITE OKOLIŠA I ZELENE TRANZICIJE\, 531 €/god.\n\nProfil općine: ht
+ tps://koncesijski-sat.vercel.app/#opcina/41942358B12927097418582\nIzvor: R
+ egistar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B12927097418582
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -190,16 +197,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-58b23f05f354bfa1@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-4c12db1bf66fdd2e@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20290904
 DTEND;VALUE=DATE:20290905
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MATAKOVO D.O.O.)
 DESCRIPTION:4. 3. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• MATAKOVO D.O.O. – Koncesija za zahvaćanje voda radi korištenja
-  u proizvodnom postupku (MARIJANCI)\, 531 €/god.\n\nProfil općine: http
- s://koncesijski-sat.vercel.app/#opcina/41942358B12927097418582
+  u proizvodnom postupku (MARIJANCI) · davatelj: MINISTARSTVO ZAŠTITE OKO
+ LIŠA I ZELENE TRANZICIJE\, 531 €/god.\n\nProfil općine: https://konces
+ ijski-sat.vercel.app/#opcina/41942358B12927097418582
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B12927097418582
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -210,16 +218,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-effd1ff6931990f8@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-c92a16ab74e629cf@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20430701
 DTEND;VALUE=DATE:20430702
 SUMMARY:Ističe koncesija: FARMA SALAŠ D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 1. 7. 2043. Godišnja fiksna nakna
  da: 1.593 €.\n\n• FARMA SALAŠ D.O.O. – Koncesija za zahvaćanje vod
- a za tehnološke potrebe (MARIJANCI)\, 1.593 €/god.\n\nProfil općine: h
- ttps://koncesijski-sat.vercel.app/#opcina/41942358B12927097418582\nIzvor: 
- Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ a za tehnološke potrebe (MARIJANCI) · davatelj: MINISTARSTVO ZAŠTITE OK
+ OLIŠA I ZELENE TRANZICIJE\, 1.593 €/god.\n\nProfil općine: https://kon
+ cesijski-sat.vercel.app/#opcina/41942358B12927097418582\nIzvor: Registar k
+ oncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B12927097418582
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -229,8 +238,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-effd1ff6931990f8@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-c92a16ab74e629cf@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20430101
 DTEND;VALUE=DATE:20430102
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (FARMA SALAŠ D.O
@@ -238,8 +247,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (FARMA SALAŠ D.O
 DESCRIPTION:1. 7. 2043. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• FARMA SALAŠ D.O.O. – Koncesija za zahvaćanje voda za tehnološ
- ke potrebe (MARIJANCI)\, 1.593 €/god.\n\nProfil općine: https://koncesi
- jski-sat.vercel.app/#opcina/41942358B12927097418582
+ ke potrebe (MARIJANCI) · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠA I ZELEN
+ E TRANZICIJE\, 1.593 €/god.\n\nProfil općine: https://koncesijski-sat.v
+ ercel.app/#opcina/41942358B12927097418582
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B12927097418582
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -250,18 +260,19 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-e5995bfb162593c2@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-de7a5810355b1a49@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20481231
 DTEND;VALUE=DATE:20490101
 SUMMARY:Ističe 2 koncesije · Marijanci
 DESCRIPTION:2 ugovora o koncesiji ističe 31. 12. 2048. Godišnja fiksna na
  knada: 702 €.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauzetu
-  površinu odobrenog eksploatacijskog polja (MARIJANCI)\, 702 €/god.\n
- • INA-INDUSTRIJA NAFTE  D.D. – Dozvola za eksploataciju ugljikovodika 
- (prema Zakonu o ugljikovodicima) (MARIJANCI)\n\nProfil općine: https://ko
- ncesijski-sat.vercel.app/#opcina/41942358B12927097418582\nIzvor: Registar 
- koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+  površinu odobrenog eksploatacijskog polja (MARIJANCI) · davatelj: MINIS
+ TARSTVO GOSPODARSTVA\, 702 €/god.\n• INA-INDUSTRIJA NAFTE  D.D. – Do
+ zvola za eksploataciju ugljikovodika (prema Zakonu o ugljikovodicima) (MAR
+ IJANCI) · davatelj: MINISTARSTVO GOSPODARSTVA\n\nProfil općine: https://
+ koncesijski-sat.vercel.app/#opcina/41942358B12927097418582\nIzvor: Regista
+ r koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B12927097418582
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -271,23 +282,24 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-e5995bfb162593c2@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-de7a5810355b1a49@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20480630
 DTEND;VALUE=DATE:20480701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Marijanci
 DESCRIPTION:31. 12. 2048. ističe 2 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauzetu površinu o
- dobrenog eksploatacijskog polja (MARIJANCI)\, 702 €/god.\n• INA-INDUST
- RIJA NAFTE  D.D. – Dozvola za eksploataciju ugljikovodika (prema Zakonu 
- o ugljikovodicima) (MARIJANCI)\n\nProfil općine: https://koncesijski-sat.
- vercel.app/#opcina/41942358B12927097418582
+ dobrenog eksploatacijskog polja (MARIJANCI) · davatelj: MINISTARSTVO GOSP
+ ODARSTVA\, 702 €/god.\n• INA-INDUSTRIJA NAFTE  D.D. – Dozvola za eks
+ ploataciju ugljikovodika (prema Zakonu o ugljikovodicima) (MARIJANCI) · d
+ avatelj: MINISTARSTVO GOSPODARSTVA\n\nProfil općine: https://koncesijski-
+ sat.vercel.app/#opcina/41942358B12927097418582
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B12927097418582
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Marijanci
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT

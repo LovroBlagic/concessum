@@ -4,25 +4,25 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Općina Kneževi Vinogradi
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Kneževi Vinogra
- di. Iz Registra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake 
- obrade podataka. https://koncesijski-sat.vercel.app/#opcina/41942358B48067
- 545354715
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Općina Kneževi Vinogra
+ di (pregled\, svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). 
+ Osvježava se nakon svake obrade podataka. https://koncesijski-sat.vercel.
+ app/#opcina/41942358B48067545354715
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-0e2f928becdfaadb@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-02c7036eee962c8f@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20340826
 DTEND;VALUE=DATE:20340827
 SUMMARY:Ističe koncesija: BELJE PLUS D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 26. 8. 2034. Godišnja fiksna nakn
  ada: 714.316 €.\n\n• BELJE PLUS D.O.O. – Koncesija za korištenje po
- ljoprivrednog zemljišta u vlasništvu države (KNEŽEVI VINOGRADI)\, 714.
- 316 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina
- /41942358B48067545354715\nIzvor: Registar koncesija (FINA)\, obrada Konces
- ijski sat 9. 11. 2026.
+ ljoprivrednog zemljišta u vlasništvu države (KNEŽEVI VINOGRADI) · dav
+ atelj: OPĆINA KNEŽEVI VINOGRADI\, 714.316 €/god.\n\nProfil općine: ht
+ tps://koncesijski-sat.vercel.app/#opcina/41942358B48067545354715\nIzvor: R
+ egistar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B48067545354715
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -32,8 +32,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-0e2f928becdfaadb@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-02c7036eee962c8f@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20340226
 DTEND;VALUE=DATE:20340227
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BELJE PLUS D.O.O
@@ -41,9 +41,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BELJE PLUS D.O.O
 DESCRIPTION:26. 8. 2034. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• BELJE PLUS D.O.O. – Koncesija za korištenje poljoprivrednog ze
- mljišta u vlasništvu države (KNEŽEVI VINOGRADI)\, 714.316 €/god.\n\n
- Profil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B480675
- 45354715
+ mljišta u vlasništvu države (KNEŽEVI VINOGRADI) · davatelj: OPĆINA K
+ NEŽEVI VINOGRADI\, 714.316 €/god.\n\nProfil općine: https://koncesijsk
+ i-sat.vercel.app/#opcina/41942358B48067545354715
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B48067545354715
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -54,17 +54,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-80713780af69eb65@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-8c05cce827e12834@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20380529
 DTEND;VALUE=DATE:20380530
 SUMMARY:Ističe koncesija: BELJE PLUS D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 29. 5. 2038. Godišnja fiksna nakn
  ada: 52.412 €.\n\n• BELJE PLUS D.O.O. – Koncesija za korištenje pol
- joprivrednog zemljišta u vlasništvu države (KNEŽEVI VINOGRADI)\, 52.41
- 2 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4
- 1942358B48067545354715\nIzvor: Registar koncesija (FINA)\, obrada Koncesij
- ski sat 9. 11. 2026.
+ joprivrednog zemljišta u vlasništvu države (KNEŽEVI VINOGRADI) · dava
+ telj: OPĆINA KNEŽEVI VINOGRADI\, 52.412 €/god.\n\nProfil općine: http
+ s://koncesijski-sat.vercel.app/#opcina/41942358B48067545354715\nIzvor: Reg
+ istar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B48067545354715
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -74,8 +74,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-80713780af69eb65@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-8c05cce827e12834@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20371129
 DTEND;VALUE=DATE:20371130
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BELJE PLUS D.O.O
@@ -83,9 +83,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BELJE PLUS D.O.O
 DESCRIPTION:29. 5. 2038. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• BELJE PLUS D.O.O. – Koncesija za korištenje poljoprivrednog ze
- mljišta u vlasništvu države (KNEŽEVI VINOGRADI)\, 52.412 €/god.\n\nP
- rofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B4806754
- 5354715
+ mljišta u vlasništvu države (KNEŽEVI VINOGRADI) · davatelj: OPĆINA K
+ NEŽEVI VINOGRADI\, 52.412 €/god.\n\nProfil općine: https://koncesijski
+ -sat.vercel.app/#opcina/41942358B48067545354715
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B48067545354715
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -96,16 +96,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-c3565a2f5e936a95@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-9f339fe876fcd7cb@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20440901
 DTEND;VALUE=DATE:20440902
 SUMMARY:Ističe koncesija: BELJE PLUS D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 1. 9. 2044. Godišnja fiksna nakna
  da: 2.389 €.\n\n• BELJE PLUS D.O.O. – Koncesija za zahvaćanje voda 
- za tehnološke potrebe (KNEŽEVI VINOGRADI)\, 2.389 €/god.\n\nProfil op
- ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B48067545354715\
- nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ za tehnološke potrebe (KNEŽEVI VINOGRADI) · davatelj: MINISTARSTVO ZAŠ
+ TITE OKOLIŠA I ZELENE TRANZICIJE\, 2.389 €/god.\n\nProfil općine: http
+ s://koncesijski-sat.vercel.app/#opcina/41942358B48067545354715\nIzvor: Reg
+ istar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B48067545354715
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -115,8 +116,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-c3565a2f5e936a95@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-9f339fe876fcd7cb@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20440301
 DTEND;VALUE=DATE:20440302
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BELJE PLUS D.O.O
@@ -124,8 +125,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BELJE PLUS D.O.O
 DESCRIPTION:1. 9. 2044. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• BELJE PLUS D.O.O. – Koncesija za zahvaćanje voda za tehnološke
-  potrebe (KNEŽEVI VINOGRADI)\, 2.389 €/god.\n\nProfil općine: https://
- koncesijski-sat.vercel.app/#opcina/41942358B48067545354715
+  potrebe (KNEŽEVI VINOGRADI) · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠA 
+ I ZELENE TRANZICIJE\, 2.389 €/god.\n\nProfil općine: https://koncesijsk
+ i-sat.vercel.app/#opcina/41942358B48067545354715
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B48067545354715
 TRANSP:TRANSPARENT
 BEGIN:VALARM

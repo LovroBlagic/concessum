@@ -4,24 +4,25 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Općina Gornji Mihaljevec
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Gornji Mihaljeve
- c. Iz Registra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake o
- brade podataka. https://koncesijski-sat.vercel.app/#opcina/41942358B937058
- 88850267
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Općina Gornji Mihaljeve
+ c (pregled\, svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). O
+ svježava se nakon svake obrade podataka. https://koncesijski-sat.vercel.a
+ pp/#opcina/41942358B93705888850267
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-c68cd4947182681b@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-184f364d15714873@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270630
 DTEND;VALUE=DATE:20270701
 SUMMARY:Ističe koncesija: INA-INDUSTRIJA NAFTE  D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 30. 6. 2027.\n\n• INA-INDUSTRIJA
   NAFTE  D.D. – Dozvola za eksploataciju ugljikovodika (prema Zakonu o ug
- ljikovodicima) (GORNJI MIHALJEVEC)\n\nProfil općine: https://koncesijski-
- sat.vercel.app/#opcina/41942358B93705888850267\nIzvor: Registar koncesija 
- (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ ljikovodicima) (GORNJI MIHALJEVEC) · davatelj: MINISTARSTVO GOSPODARSTVA\
+ n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B937
+ 05888850267\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 
+ 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B93705888850267
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -31,8 +32,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-c68cd4947182681b@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-184f364d15714873@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20261230
 DTEND;VALUE=DATE:20261231
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA-INDUSTRIJA N
@@ -40,8 +41,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA-INDUSTRIJA N
 DESCRIPTION:30. 6. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• INA-INDUSTRIJA NAFTE  D.D. – Dozvola za eksploataciju ugljikovo
- dika (prema Zakonu o ugljikovodicima) (GORNJI MIHALJEVEC)\n\nProfil općin
- e: https://koncesijski-sat.vercel.app/#opcina/41942358B93705888850267
+ dika (prema Zakonu o ugljikovodicima) (GORNJI MIHALJEVEC) · davatelj: MIN
+ ISTARSTVO GOSPODARSTVA\n\nProfil općine: https://koncesijski-sat.vercel.a
+ pp/#opcina/41942358B93705888850267
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B93705888850267
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -52,20 +54,22 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-49d25f51ec6991c1@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-418491d670c7fc43@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20271231
 DTEND;VALUE=DATE:20280101
 SUMMARY:Ističe 3 koncesije · Gornji Mihaljevec
 DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2027. Godišnja fiksna na
  knada: 7.818 €.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauze
- tu površinu odobrenog eksploatacijskog polja (GORNJI MIHALJEVEC)\, 7.818 
- €/god.\n• INA-INDUSTRIJA NAFTE  D.D. – Dozvola za eksploataciju uglj
- ikovodika (prema Zakonu o ugljikovodicima) (GORNJI MIHALJEVEC)\n• INA-IN
- DUSTRIJA NAFTE  D.D. – Dozvola za eksploataciju ugljikovodika (prema Zak
- onu o ugljikovodicima) (GORNJI MIHALJEVEC)\n\nProfil općine: https://konc
- esijski-sat.vercel.app/#opcina/41942358B93705888850267\nIzvor: Registar ko
- ncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ tu površinu odobrenog eksploatacijskog polja (GORNJI MIHALJEVEC) · davat
+ elj: MINISTARSTVO GOSPODARSTVA\, 7.818 €/god.\n• INA-INDUSTRIJA NAFTE 
+  D.D. – Dozvola za eksploataciju ugljikovodika (prema Zakonu o ugljikovo
+ dicima) (GORNJI MIHALJEVEC) · davatelj: MINISTARSTVO GOSPODARSTVA\n• IN
+ A-INDUSTRIJA NAFTE  D.D. – Dozvola za eksploataciju ugljikovodika (prema
+  Zakonu o ugljikovodicima) (GORNJI MIHALJEVEC) · davatelj: MINISTARSTVO G
+ OSPODARSTVA\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/
+ 41942358B93705888850267\nIzvor: Registar koncesija (FINA)\, obrada Koncesi
+ jski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B93705888850267
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -75,40 +79,44 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-49d25f51ec6991c1@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-418491d670c7fc43@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270630
 DTEND;VALUE=DATE:20270701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Gornji Mihalje
+ vec
 DESCRIPTION:31. 12. 2027. ističe 3 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauzetu površinu o
- dobrenog eksploatacijskog polja (GORNJI MIHALJEVEC)\, 7.818 €/god.\n• 
- INA-INDUSTRIJA NAFTE  D.D. – Dozvola za eksploataciju ugljikovodika (pre
- ma Zakonu o ugljikovodicima) (GORNJI MIHALJEVEC)\n• INA-INDUSTRIJA NAFTE
-   D.D. – Dozvola za eksploataciju ugljikovodika (prema Zakonu o ugljikov
- odicima) (GORNJI MIHALJEVEC)\n\nProfil općine: https://koncesijski-sat.ve
- rcel.app/#opcina/41942358B93705888850267
+ dobrenog eksploatacijskog polja (GORNJI MIHALJEVEC) · davatelj: MINISTARS
+ TVO GOSPODARSTVA\, 7.818 €/god.\n• INA-INDUSTRIJA NAFTE  D.D. – Dozv
+ ola za eksploataciju ugljikovodika (prema Zakonu o ugljikovodicima) (GORNJ
+ I MIHALJEVEC) · davatelj: MINISTARSTVO GOSPODARSTVA\n• INA-INDUSTRIJA N
+ AFTE  D.D. – Dozvola za eksploataciju ugljikovodika (prema Zakonu o uglj
+ ikovodicima) (GORNJI MIHALJEVEC) · davatelj: MINISTARSTVO GOSPODARSTVA\n\
+ nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B93705
+ 888850267
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B93705888850267
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Gornji Mih
+ aljevec
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-4e4ec3f026df3b6d@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-7f323cdea398b106@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20331004
 DTEND;VALUE=DATE:20331005
 SUMMARY:Ističe koncesija: BRU-FRA D.O.O. ZA DIMNJAČARSKE USLUGE
 DESCRIPTION:1 ugovor o koncesiji ističe 4. 10. 2033. Godišnja fiksna nakn
  ada: 665 €.\n\n• BRU-FRA D.O.O. ZA DIMNJAČARSKE USLUGE – Koncesija 
- za obavljanje dimnjačarskih poslova (GORNJI MIHALJEVEC)\, 665 €/god.\n\
- nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B93705
- 888850267\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11
- . 2026.
+ za obavljanje dimnjačarskih poslova (GORNJI MIHALJEVEC) · davatelj: OPĆ
+ INA GORNJI MIHALJEVEC\, 665 €/god.\n\nProfil općine: https://koncesijsk
+ i-sat.vercel.app/#opcina/41942358B93705888850267\nIzvor: Registar koncesij
+ a (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B93705888850267
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -118,8 +126,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-4e4ec3f026df3b6d@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-7f323cdea398b106@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20330404
 DTEND;VALUE=DATE:20330405
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BRU-FRA D.O.O. Z
@@ -127,8 +135,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BRU-FRA D.O.O. Z
 DESCRIPTION:4. 10. 2033. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• BRU-FRA D.O.O. ZA DIMNJAČARSKE USLUGE – Koncesija za obavljanj
- e dimnjačarskih poslova (GORNJI MIHALJEVEC)\, 665 €/god.\n\nProfil opć
- ine: https://koncesijski-sat.vercel.app/#opcina/41942358B93705888850267
+ e dimnjačarskih poslova (GORNJI MIHALJEVEC) · davatelj: OPĆINA GORNJI M
+ IHALJEVEC\, 665 €/god.\n\nProfil općine: https://koncesijski-sat.vercel
+ .app/#opcina/41942358B93705888850267
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B93705888850267
 TRANSP:TRANSPARENT
 BEGIN:VALARM

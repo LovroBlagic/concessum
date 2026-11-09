@@ -1,0 +1,53 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · OPĆINA ŠTEFANJE
+X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje OPĆINA ŠTEFANJE. Iz Regi
+ stra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade poda
+ taka. https://koncesijski-sat.vercel.app/#sat
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-62964e36040d4a83@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20320630
+DTEND;VALUE=DATE:20320701
+SUMMARY:Ističe koncesija: EKO-FLOR PLUS D.O.O.-PODRAČUN-INVESTICIJE
+DESCRIPTION:1 ugovor o koncesiji ističe 30. 6. 2032. Godišnja fiksna nakn
+ ada: 2.920 €.\n\n• EKO-FLOR PLUS D.O.O.-PODRAČUN-INVESTICIJE – Konc
+ esija skupljanja i odvoza komunalnog otpada (ŠTEFANJE\, Općina Štefanje
+ )\, 2.920 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sa
+ t\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: EKO-FLOR PLUS D.O.O.-PODRAČUN-INVESTICIJE
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-62964e36040d4a83@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20311230
+DTEND;VALUE=DATE:20311231
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (EKO-FLOR PLUS D.
+ O.O.-PODRAČUN-INVESTICIJE)
+DESCRIPTION:30. 6. 2032. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• EKO-FLOR PLUS D.O.O.-PODRAČUN-INVESTICIJE – Koncesija skupljan
+ ja i odvoza komunalnog otpada (ŠTEFANJE\, Općina Štefanje)\, 2.920 €/
+ god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (EKO-FLOR PLU
+ S D.O.O.-PODRAČUN-INVESTICIJE)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

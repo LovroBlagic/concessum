@@ -4,26 +4,29 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Općina Klana
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Klana. Iz Regist
- ra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podata
- ka. https://koncesijski-sat.vercel.app/#opcina/41942358B52907632095617
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Općina Klana (pregled\,
+  svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježava se
+  nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#opcina/4
+ 1942358B52907632095617
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-d5a5c2d2b692bee7@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-24e672f4e43b1bd0@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20530630
 DTEND;VALUE=DATE:20530701
 SUMMARY:Ističe 3 koncesije · Klana
 DESCRIPTION:3 ugovora o koncesiji ističe 30. 6. 2053. Godišnja fiksna nak
  nada: 7.400 €.\n\n• GP KRK D.D. – Koncesija za eksploataciju tehnič
- ko-građevnog kamena (KLANA)\, 3.700 €/god.\n• GP KRK D.D. – Koncesi
- ja za površinu utvrđenog eksploatacijskog polja neenergetskih mineralnih
-  sirovina (KLANA)\, 3.700 €/god.\n• GP KRK D.D. – Koncesija za ekspl
- oataciju tehničko-građevnog kamena (KLANA)\n\nProfil općine: https://ko
- ncesijski-sat.vercel.app/#opcina/41942358B52907632095617\nIzvor: Registar 
- koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ ko-građevnog kamena (KLANA) · davatelj: MINISTARSTVO GOSPODARSTVA\, 3.70
+ 0 €/god.\n• GP KRK D.D. – Koncesija za površinu utvrđenog eksploat
+ acijskog polja neenergetskih mineralnih sirovina (KLANA) · davatelj: MINI
+ STARSTVO GOSPODARSTVA\, 3.700 €/god.\n• GP KRK D.D. – Koncesija za e
+ ksploataciju tehničko-građevnog kamena (KLANA) · davatelj: MINISTARSTVO
+  GOSPODARSTVA\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcin
+ a/41942358B52907632095617\nIzvor: Registar koncesija (FINA)\, obrada Konce
+ sijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B52907632095617
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -33,24 +36,26 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-d5a5c2d2b692bee7@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-24e672f4e43b1bd0@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20521230
 DTEND;VALUE=DATE:20521231
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Klana
 DESCRIPTION:30. 6. 2053. ističe 3 ugovora o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• GP KRK D.D. – Koncesija za eksploataciju tehničko-građevnog 
- kamena (KLANA)\, 3.700 €/god.\n• GP KRK D.D. – Koncesija za površin
- u utvrđenog eksploatacijskog polja neenergetskih mineralnih sirovina (KLA
- NA)\, 3.700 €/god.\n• GP KRK D.D. – Koncesija za eksploataciju tehni
- čko-građevnog kamena (KLANA)\n\nProfil općine: https://koncesijski-sat.
- vercel.app/#opcina/41942358B52907632095617
+ kamena (KLANA) · davatelj: MINISTARSTVO GOSPODARSTVA\, 3.700 €/god.\n
+ • GP KRK D.D. – Koncesija za površinu utvrđenog eksploatacijskog pol
+ ja neenergetskih mineralnih sirovina (KLANA) · davatelj: MINISTARSTVO GOS
+ PODARSTVA\, 3.700 €/god.\n• GP KRK D.D. – Koncesija za eksploataciju
+  tehničko-građevnog kamena (KLANA) · davatelj: MINISTARSTVO GOSPODARSTV
+ A\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B5
+ 2907632095617
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B52907632095617
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Klana
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT

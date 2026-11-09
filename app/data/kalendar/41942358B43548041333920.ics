@@ -4,25 +4,25 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Općina Čađavica
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Čađavica. Iz R
- egistra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade p
- odataka. https://koncesijski-sat.vercel.app/#opcina/41942358B4354804133392
- 0
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Općina Čađavica (preg
+ led\, svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježa
+ va se nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#opc
+ ina/41942358B43548041333920
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-701dd5c0eeef5b67@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-77f3d8ba628acafc@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270628
 DTEND;VALUE=DATE:20270629
 SUMMARY:Ističe koncesija: INA\, D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 28. 6. 2027. Godišnja fiksna nakn
  ada: 4.511 €.\n\n• INA\, D.D. – Dozvola za istraživanje ugljikovodi
- ka (prema Zakonu o ugljikovodicima) (ČAĐAVICA)\, 4.511 €/god.\n\nProfi
- l općine: https://koncesijski-sat.vercel.app/#opcina/41942358B43548041333
- 920\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026
- .
+ ka (prema Zakonu o ugljikovodicima) (ČAĐAVICA) · davatelj: MINISTARSTVO
+  GOSPODARSTVA\, 4.511 €/god.\n\nProfil općine: https://koncesijski-sat.
+ vercel.app/#opcina/41942358B43548041333920\nIzvor: Registar koncesija (FIN
+ A)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B43548041333920
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -32,16 +32,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-701dd5c0eeef5b67@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-77f3d8ba628acafc@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20261228
 DTEND;VALUE=DATE:20261229
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA\, D.D.)
 DESCRIPTION:28. 6. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• INA\, D.D. – Dozvola za istraživanje ugljikovodika (prema Zako
- nu o ugljikovodicima) (ČAĐAVICA)\, 4.511 €/god.\n\nProfil općine: htt
- ps://koncesijski-sat.vercel.app/#opcina/41942358B43548041333920
+ nu o ugljikovodicima) (ČAĐAVICA) · davatelj: MINISTARSTVO GOSPODARSTVA\
+ , 4.511 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#op
+ cina/41942358B43548041333920
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B43548041333920
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -51,17 +52,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-09b9105cf8132646@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-42c9d8218ac8fbfd@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20271101
 DTEND;VALUE=DATE:20271102
 SUMMARY:Ističe koncesija: MULL-TRANS D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 1. 11. 2027. Godišnja fiksna nakn
  ada: 1.593 €.\n\n• MULL-TRANS D.O.O. – Koncesija za zbrinjavanje kom
- unalnog otpada i održavanje zelenih i javnih površina (ČAĐAVICA)\, 1.5
- 93 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/
- 41942358B43548041333920\nIzvor: Registar koncesija (FINA)\, obrada Koncesi
- jski sat 9. 11. 2026.
+ unalnog otpada i održavanje zelenih i javnih površina (ČAĐAVICA) · da
+ vatelj: OPĆINA ČAĐAVICA\, 1.593 €/god.\n\nProfil općine: https://kon
+ cesijski-sat.vercel.app/#opcina/41942358B43548041333920\nIzvor: Registar k
+ oncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B43548041333920
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -71,8 +72,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-09b9105cf8132646@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-42c9d8218ac8fbfd@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270501
 DTEND;VALUE=DATE:20270502
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MULL-TRANS D.O.O
@@ -80,9 +81,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MULL-TRANS D.O.O
 DESCRIPTION:1. 11. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• MULL-TRANS D.O.O. – Koncesija za zbrinjavanje komunalnog otpada
-  i održavanje zelenih i javnih površina (ČAĐAVICA)\, 1.593 €/god.\n\
- nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B43548
- 041333920
+  i održavanje zelenih i javnih površina (ČAĐAVICA) · davatelj: OPĆIN
+ A ČAĐAVICA\, 1.593 €/god.\n\nProfil općine: https://koncesijski-sat.v
+ ercel.app/#opcina/41942358B43548041333920
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B43548041333920
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -93,16 +94,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-261e924ebe2a32b5@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-d56d2821148dfdfd@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20281215
 DTEND;VALUE=DATE:20281216
 SUMMARY:Ističe koncesija: SLATINA KOM D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 15. 12. 2028. Godišnja fiksna nak
  nada: 420 €.\n\n• SLATINA KOM D.O.O. – Koncesija za obavljanje dimnj
- ačarskih poslova (ČAĐAVICA)\, 420 €/god.\n\nProfil općine: https://k
- oncesijski-sat.vercel.app/#opcina/41942358B43548041333920\nIzvor: Registar
-  koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ ačarskih poslova (ČAĐAVICA) · davatelj: OPĆINA ČAĐAVICA\, 420 €/g
+ od.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358
+ B43548041333920\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat
+  9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B43548041333920
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -112,8 +114,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-261e924ebe2a32b5@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-d56d2821148dfdfd@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20280615
 DTEND;VALUE=DATE:20280616
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (SLATINA KOM D.O.
@@ -121,8 +123,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (SLATINA KOM D.O.
 DESCRIPTION:15. 12. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• SLATINA KOM D.O.O. – Koncesija za obavljanje dimnjačarskih po
- slova (ČAĐAVICA)\, 420 €/god.\n\nProfil općine: https://koncesijski-s
- at.vercel.app/#opcina/41942358B43548041333920
+ slova (ČAĐAVICA) · davatelj: OPĆINA ČAĐAVICA\, 420 €/god.\n\nProfi
+ l općine: https://koncesijski-sat.vercel.app/#opcina/41942358B43548041333
+ 920
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B43548041333920
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -133,16 +136,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-66287e25738a5c49@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-4149e2a04ad5e189@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20290520
 DTEND;VALUE=DATE:20290521
 SUMMARY:Ističe koncesija: HEP-PLIN D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 20. 5. 2029.\n\n• HEP-PLIN D.O.O
- . – Koncesija za opskrbu potrošača prirodnim plinom (ČAĐAVICA)\n\nPr
- ofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B43548041
- 333920\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2
- 026.
+ . – Koncesija za opskrbu potrošača prirodnim plinom (ČAĐAVICA) · da
+ vatelj: OPĆINA ČAĐAVICA\n\nProfil općine: https://koncesijski-sat.verc
+ el.app/#opcina/41942358B43548041333920\nIzvor: Registar koncesija (FINA)\,
+  obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B43548041333920
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -152,16 +155,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-66287e25738a5c49@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-4149e2a04ad5e189@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20281120
 DTEND;VALUE=DATE:20281121
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP-PLIN D.O.O.)
 DESCRIPTION:20. 5. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• HEP-PLIN D.O.O. – Koncesija za opskrbu potrošača prirodnim pl
- inom (ČAĐAVICA)\n\nProfil općine: https://koncesijski-sat.vercel.app/#o
- pcina/41942358B43548041333920
+ inom (ČAĐAVICA) · davatelj: OPĆINA ČAĐAVICA\n\nProfil općine: https
+ ://koncesijski-sat.vercel.app/#opcina/41942358B43548041333920
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B43548041333920
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -172,17 +175,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-11e5e7ecafc7eb02@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-7d2be2c2e41b6c02@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20461231
 DTEND;VALUE=DATE:20470101
 SUMMARY:Ističe koncesija: INA-INDUSTRIJA NAFTE  D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 31. 12. 2046. Godišnja fiksna nak
  nada: 3.276 €.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauzet
- u površinu odobrenog eksploatacijskog polja (ČAĐAVICA)\, 3.276 €/god.
- \n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B43
- 548041333920\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9.
-  11. 2026.
+ u površinu odobrenog eksploatacijskog polja (ČAĐAVICA) · davatelj: MIN
+ ISTARSTVO GOSPODARSTVA\, 3.276 €/god.\n\nProfil općine: https://koncesi
+ jski-sat.vercel.app/#opcina/41942358B43548041333920\nIzvor: Registar konce
+ sija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B43548041333920
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -192,8 +195,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-11e5e7ecafc7eb02@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-7d2be2c2e41b6c02@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20460630
 DTEND;VALUE=DATE:20460701
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA-INDUSTRIJA N
@@ -201,8 +204,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA-INDUSTRIJA N
 DESCRIPTION:31. 12. 2046. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauzetu površinu od
- obrenog eksploatacijskog polja (ČAĐAVICA)\, 3.276 €/god.\n\nProfil op
- ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B43548041333920
+ obrenog eksploatacijskog polja (ČAĐAVICA) · davatelj: MINISTARSTVO GOSP
+ ODARSTVA\, 3.276 €/god.\n\nProfil općine: https://koncesijski-sat.verce
+ l.app/#opcina/41942358B43548041333920
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B43548041333920
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -213,17 +217,18 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-96c9ef6145c9a3da@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-d3678048803214f7@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20490820
 DTEND;VALUE=DATE:20490821
 SUMMARY:Ističe koncesija: GEO POWER ZAGOCHA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 20. 8. 2049. Godišnja fiksna nakn
  ada: 139.279 €.\n\n• GEO POWER ZAGOCHA D.O.O. – Dozvola za eksploata
  ciju geotermalne vode za energetske svrhe (prema Zakonu o ugljikovodicima)
-  (ČAĐAVICA)\, 139.279 €/god.\n\nProfil općine: https://koncesijski-sa
- t.vercel.app/#opcina/41942358B43548041333920\nIzvor: Registar koncesija (F
- INA)\, obrada Koncesijski sat 9. 11. 2026.
+  (ČAĐAVICA) · davatelj: MINISTARSTVO GOSPODARSTVA\, 139.279 €/god.\n\
+ nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B43548
+ 041333920\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11
+ . 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B43548041333920
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -233,8 +238,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-96c9ef6145c9a3da@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-d3678048803214f7@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20490220
 DTEND;VALUE=DATE:20490221
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (GEO POWER ZAGOCH
@@ -242,9 +247,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (GEO POWER ZAGOCH
 DESCRIPTION:20. 8. 2049. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• GEO POWER ZAGOCHA D.O.O. – Dozvola za eksploataciju geotermalne
-  vode za energetske svrhe (prema Zakonu o ugljikovodicima) (ČAĐAVICA)\, 
- 139.279 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#op
- cina/41942358B43548041333920
+  vode za energetske svrhe (prema Zakonu o ugljikovodicima) (ČAĐAVICA) ·
+  davatelj: MINISTARSTVO GOSPODARSTVA\, 139.279 €/god.\n\nProfil općine:
+  https://koncesijski-sat.vercel.app/#opcina/41942358B43548041333920
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B43548041333920
 TRANSP:TRANSPARENT
 BEGIN:VALARM

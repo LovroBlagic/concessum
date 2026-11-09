@@ -4,26 +4,27 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Općina Pakoštane
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Pakoštane. Iz R
- egistra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade p
- odataka. https://koncesijski-sat.vercel.app/#opcina/41942358B5020184860600
- 1
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Općina Pakoštane (preg
+ led\, svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježa
+ va se nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#opc
+ ina/41942358B50201848606001
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-72b719d2b430db2c@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-6250fa4287e8f69a@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270502
 DTEND;VALUE=DATE:20270503
 SUMMARY:Ističe 2 koncesije · Pakoštane
 DESCRIPTION:2 ugovora o koncesiji ističe 2. 5. 2027. Godišnja fiksna nakn
  ada: 13.878 €.\n\n• JADRAN TUNA  D.O.O. – Koncesija na pomorskom dob
- ru (PAKOŠTANE)\, 9.291 €/god.\n• ZABAVICA J.D.O.O. – Koncesija pomo
- rskog dobra u svrhu izgradnje i gospodarskog korištenja luke posebne namj
- ene (PAKOŠTANE)\, 4.587 €/god.\n\nProfil općine: https://koncesijski-s
- at.vercel.app/#opcina/41942358B50201848606001\nIzvor: Registar koncesija (
- FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ ru (PAKOŠTANE) · davatelj: ZADARSKA ŽUPANIJA\, 9.291 €/god.\n• ZABA
+ VICA J.D.O.O. – Koncesija pomorskog dobra u svrhu izgradnje i gospodarsk
+ og korištenja luke posebne namjene (PAKOŠTANE) · davatelj: ZADARSKA ŽU
+ PANIJA\, 4.587 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.
+ app/#opcina/41942358B50201848606001\nIzvor: Registar koncesija (FINA)\, ob
+ rada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B50201848606001
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -33,16 +34,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-fbd52180f53d0734@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-9a47ae0b40b7eac8@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270917
 DTEND;VALUE=DATE:20270918
 SUMMARY:Ističe koncesija: PINE BEACH D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 17. 9. 2027. Godišnja fiksna nakn
  ada: 16.972 €.\n\n• PINE BEACH D.D. – Koncesija na pomorskom dobru (
- PAKOŠTANE)\, 16.972 €/god.\n\nProfil općine: https://koncesijski-sat.v
- ercel.app/#opcina/41942358B50201848606001\nIzvor: Registar koncesija (FINA
- )\, obrada Koncesijski sat 9. 11. 2026.
+ PAKOŠTANE) · davatelj: ZADARSKA ŽUPANIJA\, 16.972 €/god.\n\nProfil op
+ ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B50201848606001\
+ nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B50201848606001
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -52,16 +53,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-fbd52180f53d0734@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-9a47ae0b40b7eac8@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270317
 DTEND;VALUE=DATE:20270318
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PINE BEACH D.D.)
 DESCRIPTION:17. 9. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
- .\n\n• PINE BEACH D.D. – Koncesija na pomorskom dobru (PAKOŠTANE)\, 1
- 6.972 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opci
- na/41942358B50201848606001
+ .\n\n• PINE BEACH D.D. – Koncesija na pomorskom dobru (PAKOŠTANE) · 
+ davatelj: ZADARSKA ŽUPANIJA\, 16.972 €/god.\n\nProfil općine: https://
+ koncesijski-sat.vercel.app/#opcina/41942358B50201848606001
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B50201848606001
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -72,17 +73,18 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-fa401f0721dc4c95@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-5e299d09a55465dd@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20280615
 DTEND;VALUE=DATE:20280616
 SUMMARY:Ističe koncesija: IVAN MATULIĆ\, UGOSTITELJSKI OBRT ADRIJANA
 DESCRIPTION:1 ugovor o koncesiji ističe 15. 6. 2028. Godišnja fiksna nakn
  ada: 2.996 €.\n\n• IVAN MATULIĆ\, UGOSTITELJSKI OBRT ADRIJANA – Kon
  cesija pomorskog dobra u svrhu izgradnje i gospodarskog korištenja luke p
- osebne namjene (PAKOŠTANE)\, 2.996 €/god.\n\nProfil općine: https://ko
- ncesijski-sat.vercel.app/#opcina/41942358B50201848606001\nIzvor: Registar 
- koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ osebne namjene (PAKOŠTANE) · davatelj: ZADARSKA ŽUPANIJA\, 2.996 €/go
+ d.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B
+ 50201848606001\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 
+ 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B50201848606001
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -92,8 +94,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-fa401f0721dc4c95@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-5e299d09a55465dd@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20271215
 DTEND;VALUE=DATE:20271216
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (IVAN MATULIĆ\, 
@@ -102,8 +104,8 @@ DESCRIPTION:15. 6. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• IVAN MATULIĆ\, UGOSTITELJSKI OBRT ADRIJANA – Koncesija pomorsk
  og dobra u svrhu izgradnje i gospodarskog korištenja luke posebne namjene
-  (PAKOŠTANE)\, 2.996 €/god.\n\nProfil općine: https://koncesijski-sat.
- vercel.app/#opcina/41942358B50201848606001
+  (PAKOŠTANE) · davatelj: ZADARSKA ŽUPANIJA\, 2.996 €/god.\n\nProfil o
+ pćine: https://koncesijski-sat.vercel.app/#opcina/41942358B50201848606001
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B50201848606001
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -114,16 +116,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-f96ebf0074af5986@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-5d8eafc394f35699@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20330325
 DTEND;VALUE=DATE:20330326
 SUMMARY:Ističe koncesija: JADRAN TUNA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 25. 3. 2033. Godišnja fiksna nakn
  ada: 7.963 €.\n\n• JADRAN TUNA D.O.O. – Koncesija na pomorskom dobru
-  (PAKOŠTANE)\, 7.963 €/god.\n\nProfil općine: https://koncesijski-sat.
- vercel.app/#opcina/41942358B50201848606001\nIzvor: Registar koncesija (FIN
- A)\, obrada Koncesijski sat 9. 11. 2026.
+  (PAKOŠTANE) · davatelj: ZADARSKA ŽUPANIJA\, 7.963 €/god.\n\nProfil o
+ pćine: https://koncesijski-sat.vercel.app/#opcina/41942358B50201848606001
+ \nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B50201848606001
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -133,17 +135,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-f96ebf0074af5986@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-5d8eafc394f35699@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20320925
 DTEND;VALUE=DATE:20320926
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (JADRAN TUNA D.O.
  O.)
 DESCRIPTION:25. 3. 2033. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
- .\n\n• JADRAN TUNA D.O.O. – Koncesija na pomorskom dobru (PAKOŠTANE)\
- , 7.963 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#op
- cina/41942358B50201848606001
+ .\n\n• JADRAN TUNA D.O.O. – Koncesija na pomorskom dobru (PAKOŠTANE) 
+ · davatelj: ZADARSKA ŽUPANIJA\, 7.963 €/god.\n\nProfil općine: https:
+ //koncesijski-sat.vercel.app/#opcina/41942358B50201848606001
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B50201848606001
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -154,16 +156,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-529136d2aab7ced6@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-8d7bd3b4eb5ada44@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20350428
 DTEND;VALUE=DATE:20350429
 SUMMARY:Ističe koncesija: KORNAT ITTICA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 28. 4. 2035. Godišnja fiksna nakn
  ada: 14.155 €.\n\n• KORNAT ITTICA D.O.O. – Koncesija na pomorskom do
- bru (PAKOŠTANE)\, 14.155 €/god.\n\nProfil općine: https://koncesijski-
- sat.vercel.app/#opcina/41942358B50201848606001\nIzvor: Registar koncesija 
- (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ bru (PAKOŠTANE) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE
+ \, 14.155 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#
+ opcina/41942358B50201848606001\nIzvor: Registar koncesija (FINA)\, obrada 
+ Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B50201848606001
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -173,8 +176,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-529136d2aab7ced6@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-8d7bd3b4eb5ada44@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20341028
 DTEND;VALUE=DATE:20341029
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (KORNAT ITTICA D.
@@ -182,8 +185,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (KORNAT ITTICA D.
 DESCRIPTION:28. 4. 2035. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• KORNAT ITTICA D.O.O. – Koncesija na pomorskom dobru (PAKOŠTANE
- )\, 14.155 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/
- #opcina/41942358B50201848606001
+ ) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\, 14.155 €/g
+ od.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358
+ B50201848606001
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B50201848606001
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -194,16 +198,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-831c43da20c7375d@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-a4d6bab2608f6145@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20380406
 DTEND;VALUE=DATE:20380407
 SUMMARY:Ističe koncesija: KORNAT ITTICA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 6. 4. 2038. Godišnja fiksna nakna
  da: 14.918 €.\n\n• KORNAT ITTICA D.O.O. – Koncesija na pomorskom dob
- ru (PAKOŠTANE)\, 14.918 €/god.\n\nProfil općine: https://koncesijski-s
- at.vercel.app/#opcina/41942358B50201848606001\nIzvor: Registar koncesija (
- FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ ru (PAKOŠTANE) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\
+ , 14.918 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#o
+ pcina/41942358B50201848606001\nIzvor: Registar koncesija (FINA)\, obrada K
+ oncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B50201848606001
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -213,8 +218,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-831c43da20c7375d@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-a4d6bab2608f6145@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20371006
 DTEND;VALUE=DATE:20371007
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (KORNAT ITTICA D.
@@ -222,8 +227,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (KORNAT ITTICA D.
 DESCRIPTION:6. 4. 2038. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• KORNAT ITTICA D.O.O. – Koncesija na pomorskom dobru (PAKOŠTANE)
- \, 14.918 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#
- opcina/41942358B50201848606001
+  · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\, 14.918 €/go
+ d.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B
+ 50201848606001
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B50201848606001
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -234,16 +240,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-741bd5c5eeb0da3d@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-e4ebb9e2c7eb8641@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20410512
 DTEND;VALUE=DATE:20410513
 SUMMARY:Ističe koncesija: VV RAZVOJ PROJEKATA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 12. 5. 2041. Godišnja fiksna nakn
  ada: 98.327 €.\n\n• VV RAZVOJ PROJEKATA D.O.O. – Koncesija za luku n
- autičkog turizma (PAKOŠTANE)\, 98.327 €/god.\n\nProfil općine: https:
- //koncesijski-sat.vercel.app/#opcina/41942358B50201848606001\nIzvor: Regis
- tar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ autičkog turizma (PAKOŠTANE) · davatelj: ZADARSKA ŽUPANIJA\, 98.327 
+ €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
+ 42358B50201848606001\nIzvor: Registar koncesija (FINA)\, obrada Koncesijsk
+ i sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B50201848606001
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -253,8 +260,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-741bd5c5eeb0da3d@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-e4ebb9e2c7eb8641@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20401112
 DTEND;VALUE=DATE:20401113
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VV RAZVOJ PROJEK
@@ -262,8 +269,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VV RAZVOJ PROJEK
 DESCRIPTION:12. 5. 2041. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• VV RAZVOJ PROJEKATA D.O.O. – Koncesija za luku nautičkog turiz
- ma (PAKOŠTANE)\, 98.327 €/god.\n\nProfil općine: https://koncesijski-s
- at.vercel.app/#opcina/41942358B50201848606001
+ ma (PAKOŠTANE) · davatelj: ZADARSKA ŽUPANIJA\, 98.327 €/god.\n\nProfi
+ l općine: https://koncesijski-sat.vercel.app/#opcina/41942358B50201848606
+ 001
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B50201848606001
 TRANSP:TRANSPARENT
 BEGIN:VALARM

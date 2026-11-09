@@ -4,23 +4,25 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Općina Borovo
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Borovo. Iz Regis
- tra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podat
- aka. https://koncesijski-sat.vercel.app/#opcina/41942358B93268034393591
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Općina Borovo (pregled\
+ , svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježava s
+ e nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#opcina/
+ 41942358B93268034393591
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-645dea859e2095c1@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-c8d0280f7caebedc@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270427
 DTEND;VALUE=DATE:20270428
 SUMMARY:Ističe koncesija: RAPSODIJA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 27. 4. 2027. Godišnja fiksna nakn
  ada: 66 €.\n\n• RAPSODIJA D.O.O. – Koncesija za obavljanje djelatnos
- ti radija (BOROVO)\, 66 €/god.\n\nProfil općine: https://koncesijski-sa
- t.vercel.app/#opcina/41942358B93268034393591\nIzvor: Registar koncesija (F
- INA)\, obrada Koncesijski sat 9. 11. 2026.
+ ti radija (BOROVO) · davatelj: AGENCIJA ZA ELEKTRONIČKE MEDIJE\, 66 €/
+ god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4194235
+ 8B93268034393591\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sa
+ t 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B93268034393591
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -30,16 +32,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-896d91befe5da60c@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-f485b19864336243@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20310420
 DTEND;VALUE=DATE:20310421
 SUMMARY:Ističe koncesija: HEP-PLIN D.O.O. ZA DISTRIBUCIJU I OPSKRBU PLINOM
 DESCRIPTION:1 ugovor o koncesiji ističe 20. 4. 2031.\n\n• HEP-PLIN D.O.O
  . ZA DISTRIBUCIJU I OPSKRBU PLINOM – Koncesija za opskrbu potrošača pr
- irodnim plinom (BOROVO)\n\nProfil općine: https://koncesijski-sat.vercel.
- app/#opcina/41942358B93268034393591\nIzvor: Registar koncesija (FINA)\, ob
- rada Koncesijski sat 9. 11. 2026.
+ irodnim plinom (BOROVO) · davatelj: OPĆINA BOROVO\n\nProfil općine: htt
+ ps://koncesijski-sat.vercel.app/#opcina/41942358B93268034393591\nIzvor: Re
+ gistar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B93268034393591
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -50,8 +52,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-896d91befe5da60c@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-f485b19864336243@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20301020
 DTEND;VALUE=DATE:20301021
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP-PLIN D.O.O. 
@@ -59,8 +61,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP-PLIN D.O.O.
 DESCRIPTION:20. 4. 2031. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• HEP-PLIN D.O.O. ZA DISTRIBUCIJU I OPSKRBU PLINOM – Koncesija za
-  opskrbu potrošača prirodnim plinom (BOROVO)\n\nProfil općine: https://
- koncesijski-sat.vercel.app/#opcina/41942358B93268034393591
+  opskrbu potrošača prirodnim plinom (BOROVO) · davatelj: OPĆINA BOROVO
+ \n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B93
+ 268034393591
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B93268034393591
 TRANSP:TRANSPARENT
 BEGIN:VALARM

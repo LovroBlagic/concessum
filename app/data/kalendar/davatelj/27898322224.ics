@@ -1,0 +1,98 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · OPĆINA STARI MIKANOVCI
+X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje OPĆINA STARI MIKANOVCI. I
+ z Registra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrad
+ e podataka. https://koncesijski-sat.vercel.app/#sat
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-d1f8bb66eb68e6c2@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20280331
+DTEND;VALUE=DATE:20280401
+SUMMARY:Ističe 2 koncesije · OPĆINA STARI MIKANOVCI
+DESCRIPTION:2 ugovora o koncesiji ističe 31. 3. 2028. Godišnja fiksna nak
+ nada: 7.964 €.\n\n• UTVAJ – Koncesija skupljanja i odvoza komunalnog
+  otpada (STARI MIKANOVCI\, Općina Stari Mikanovci)\, 3.982 €/god.\n• 
+ UTVAJ – Koncesija skupljanja i odvoza komunalnog otpada (STARI MIKANOVCI
+ \, Općina Stari Mikanovci)\, 3.982 €/god.\n\nŠto ističe: https://konc
+ esijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Kon
+ cesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 2 koncesije · OPĆINA STARI MIKANOVCI
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-d1f8bb66eb68e6c2@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20270930
+DTEND;VALUE=DATE:20271001
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · OPĆINA STARI 
+ MIKANOVCI
+DESCRIPTION:31. 3. 2028. ističe 2 ugovora o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• UTVAJ – Koncesija skupljanja i odvoza komunalnog otpada (STARI
+  MIKANOVCI\, Općina Stari Mikanovci)\, 3.982 €/god.\n• UTVAJ – Konc
+ esija skupljanja i odvoza komunalnog otpada (STARI MIKANOVCI\, Općina Sta
+ ri Mikanovci)\, 3.982 €/god.\n\nŠto ističe: https://koncesijski-sat.ve
+ rcel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije · OPĆINA ST
+ ARI MIKANOVCI
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-40580973d86ccdc8@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20300407
+DTEND;VALUE=DATE:20300408
+SUMMARY:Ističe koncesija: HRVOJE HORVAT\,DUO EKO-DIM\,USLUGE SA SELA
+DESCRIPTION:1 ugovor o koncesiji ističe 7. 4. 2030. Godišnja fiksna nakna
+ da: 650 €.\n\n• HRVOJE HORVAT\,DUO EKO-DIM\,USLUGE SA SELA – Koncesi
+ ja za obavljanje dimnjačarskih poslova (STARI MIKANOVCI\, Općina Stari M
+ ikanovci)\, 650 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.a
+ pp/#sat\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 
+ 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: HRVOJE HORVAT\,DUO EKO-DIM\,USLUGE SA SELA
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-40580973d86ccdc8@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20291007
+DTEND;VALUE=DATE:20291008
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVOJE HORVAT\,D
+ UO EKO-DIM\,USLUGE SA SELA)
+DESCRIPTION:7. 4. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodjele
+  treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
+ \n\n• HRVOJE HORVAT\,DUO EKO-DIM\,USLUGE SA SELA – Koncesija za obavlj
+ anje dimnjačarskih poslova (STARI MIKANOVCI\, Općina Stari Mikanovci)\, 
+ 650 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVOJE HORVA
+ T\,DUO EKO-DIM\,USLUGE SA SELA)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

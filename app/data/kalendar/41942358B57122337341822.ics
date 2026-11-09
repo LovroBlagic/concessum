@@ -4,23 +4,24 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Grad Lipik
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Grad Lipik. Iz Registra 
- koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podataka.
-  https://koncesijski-sat.vercel.app/#opcina/41942358B57122337341822
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Grad Lipik (pregled\, sv
+ i davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježava se na
+ kon svake obrade podataka. https://koncesijski-sat.vercel.app/#opcina/4194
+ 2358B57122337341822
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-6c69b43ce5ededde@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-150bc576dfc30897@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270630
 DTEND;VALUE=DATE:20270701
 SUMMARY:Ističe koncesija: INA-INDUSTRIJA NAFTE  D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 30. 6. 2027.\n\n• INA-INDUSTRIJA
   NAFTE  D.D. – Dozvola za eksploataciju ugljikovodika (prema Zakonu o ug
- ljikovodicima) (LIPIK)\n\nProfil općine: https://koncesijski-sat.vercel.a
- pp/#opcina/41942358B57122337341822\nIzvor: Registar koncesija (FINA)\, obr
- ada Koncesijski sat 9. 11. 2026.
+ ljikovodicima) (LIPIK) · davatelj: MINISTARSTVO GOSPODARSTVA\n\nProfil op
+ ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B57122337341822\
+ nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B57122337341822
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -30,8 +31,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-6c69b43ce5ededde@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-150bc576dfc30897@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20261230
 DTEND;VALUE=DATE:20261231
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA-INDUSTRIJA N
@@ -39,8 +40,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA-INDUSTRIJA N
 DESCRIPTION:30. 6. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• INA-INDUSTRIJA NAFTE  D.D. – Dozvola za eksploataciju ugljikovo
- dika (prema Zakonu o ugljikovodicima) (LIPIK)\n\nProfil općine: https://k
- oncesijski-sat.vercel.app/#opcina/41942358B57122337341822
+ dika (prema Zakonu o ugljikovodicima) (LIPIK) · davatelj: MINISTARSTVO GO
+ SPODARSTVA\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4
+ 1942358B57122337341822
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B57122337341822
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -51,16 +53,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-60e0f23acc7bb7e5@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-60c373f3c8041e80@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20300916
 DTEND;VALUE=DATE:20300917
 SUMMARY:Ističe koncesija: STUDENAC D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 16. 9. 2030. Godišnja fiksna nakn
  ada: 119.451 €.\n\n• STUDENAC D.O.O. – Koncesija za zahvaćanje voda
-  radi prodaje na tržištu (LIPIK)\, 119.451 €/god.\n\nProfil općine: h
- ttps://koncesijski-sat.vercel.app/#opcina/41942358B57122337341822\nIzvor: 
- Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+  radi prodaje na tržištu (LIPIK) · davatelj: MINISTARSTVO ZAŠTITE OKOL
+ IŠA I ZELENE TRANZICIJE\, 119.451 €/god.\n\nProfil općine: https://kon
+ cesijski-sat.vercel.app/#opcina/41942358B57122337341822\nIzvor: Registar k
+ oncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B57122337341822
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -70,16 +73,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-60e0f23acc7bb7e5@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-60c373f3c8041e80@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20300316
 DTEND;VALUE=DATE:20300317
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (STUDENAC D.O.O.)
 DESCRIPTION:16. 9. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• STUDENAC D.O.O. – Koncesija za zahvaćanje voda radi prodaje na
-  tržištu (LIPIK)\, 119.451 €/god.\n\nProfil općine: https://koncesijs
- ki-sat.vercel.app/#opcina/41942358B57122337341822
+  tržištu (LIPIK) · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠA I ZELENE TR
+ ANZICIJE\, 119.451 €/god.\n\nProfil općine: https://koncesijski-sat.ver
+ cel.app/#opcina/41942358B57122337341822
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B57122337341822
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -90,16 +94,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-6c2e5ea8bc0e8972@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-21b546340dae8777@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20320612
 DTEND;VALUE=DATE:20320613
 SUMMARY:Ističe koncesija: STUDENAC D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 12. 6. 2032.\n\n• STUDENAC D.O.O
- . – Koncesija za zahvaćanje voda radi prodaje na tržištu (LIPIK)\n\nP
- rofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B5712233
- 7341822\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 
- 2026.
+ . – Koncesija za zahvaćanje voda radi prodaje na tržištu (LIPIK) · d
+ avatelj: MINISTARSTVO ZAŠTITE OKOLIŠA I ZELENE TRANZICIJE\n\nProfil opć
+ ine: https://koncesijski-sat.vercel.app/#opcina/41942358B57122337341822\nI
+ zvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B57122337341822
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -109,16 +113,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-6c2e5ea8bc0e8972@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-21b546340dae8777@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20311212
 DTEND;VALUE=DATE:20311213
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (STUDENAC D.O.O.)
 DESCRIPTION:12. 6. 2032. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• STUDENAC D.O.O. – Koncesija za zahvaćanje voda radi prodaje na
-  tržištu (LIPIK)\n\nProfil općine: https://koncesijski-sat.vercel.app/#
- opcina/41942358B57122337341822
+  tržištu (LIPIK) · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠA I ZELENE TR
+ ANZICIJE\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
+ 42358B57122337341822
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B57122337341822
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -129,16 +134,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-103a0595f3bc18ae@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-9ba9239694f69db9@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20330715
 DTEND;VALUE=DATE:20330716
 SUMMARY:Ističe koncesija: STUDENAC D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 15. 7. 2033.\n\n• STUDENAC D.O.O
- . – Koncesija za zahvaćanje voda radi prodaje na tržištu (LIPIK)\n\nP
- rofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B5712233
- 7341822\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 
- 2026.
+ . – Koncesija za zahvaćanje voda radi prodaje na tržištu (LIPIK) · d
+ avatelj: MINISTARSTVO ZAŠTITE OKOLIŠA I ZELENE TRANZICIJE\n\nProfil opć
+ ine: https://koncesijski-sat.vercel.app/#opcina/41942358B57122337341822\nI
+ zvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B57122337341822
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -148,16 +153,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-103a0595f3bc18ae@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-9ba9239694f69db9@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20330115
 DTEND;VALUE=DATE:20330116
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (STUDENAC D.O.O.)
 DESCRIPTION:15. 7. 2033. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• STUDENAC D.O.O. – Koncesija za zahvaćanje voda radi prodaje na
-  tržištu (LIPIK)\n\nProfil općine: https://koncesijski-sat.vercel.app/#
- opcina/41942358B57122337341822
+  tržištu (LIPIK) · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠA I ZELENE TR
+ ANZICIJE\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
+ 42358B57122337341822
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B57122337341822
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -168,16 +174,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-d144941a0ded977f@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-9fd90f8401ea925a@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20340826
 DTEND;VALUE=DATE:20340827
 SUMMARY:Ističe koncesija: STUDENAC D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 26. 8. 2034.\n\n• STUDENAC D.O.O
- . – Koncesija za zahvaćanje voda radi prodaje na tržištu (LIPIK)\n\nP
- rofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B5712233
- 7341822\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 
- 2026.
+ . – Koncesija za zahvaćanje voda radi prodaje na tržištu (LIPIK) · d
+ avatelj: MINISTARSTVO ZAŠTITE OKOLIŠA I ZELENE TRANZICIJE\n\nProfil opć
+ ine: https://koncesijski-sat.vercel.app/#opcina/41942358B57122337341822\nI
+ zvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B57122337341822
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -187,16 +193,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-d144941a0ded977f@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-9fd90f8401ea925a@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20340226
 DTEND;VALUE=DATE:20340227
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (STUDENAC D.O.O.)
 DESCRIPTION:26. 8. 2034. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• STUDENAC D.O.O. – Koncesija za zahvaćanje voda radi prodaje na
-  tržištu (LIPIK)\n\nProfil općine: https://koncesijski-sat.vercel.app/#
- opcina/41942358B57122337341822
+  tržištu (LIPIK) · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠA I ZELENE TR
+ ANZICIJE\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
+ 42358B57122337341822
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B57122337341822
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -207,17 +214,18 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-ec2bb1be7c3c1989@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-5df4323bfb7ec275@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20350727
 DTEND;VALUE=DATE:20350728
 SUMMARY:Ističe 2 koncesije · Lipik
 DESCRIPTION:2 ugovora o koncesiji ističe 27. 7. 2035.\n\n• STUDENAC D.O.
- O. – Koncesija za zahvaćanje voda za tehnološke potrebe (LIPIK)\n• S
- TUDENAC D.O.O. – Koncesija za zahvaćanje voda radi prodaje na tržištu
-  (LIPIK)\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
- 42358B57122337341822\nIzvor: Registar koncesija (FINA)\, obrada Koncesijsk
- i sat 9. 11. 2026.
+ O. – Koncesija za zahvaćanje voda za tehnološke potrebe (LIPIK) · dav
+ atelj: MINISTARSTVO ZAŠTITE OKOLIŠA I ZELENE TRANZICIJE\n• STUDENAC D.
+ O.O. – Koncesija za zahvaćanje voda radi prodaje na tržištu (LIPIK) 
+ · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠA I ZELENE TRANZICIJE\n\nProfil 
+ općine: https://koncesijski-sat.vercel.app/#opcina/41942358B5712233734182
+ 2\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B57122337341822
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -227,40 +235,44 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-ec2bb1be7c3c1989@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-5df4323bfb7ec275@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20350127
 DTEND;VALUE=DATE:20350128
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Lipik
 DESCRIPTION:27. 7. 2035. ističe 2 ugovora o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• STUDENAC D.O.O. – Koncesija za zahvaćanje voda za tehnološke
-  potrebe (LIPIK)\n• STUDENAC D.O.O. – Koncesija za zahvaćanje voda ra
- di prodaje na tržištu (LIPIK)\n\nProfil općine: https://koncesijski-sat
- .vercel.app/#opcina/41942358B57122337341822
+  potrebe (LIPIK) · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠA I ZELENE TRAN
+ ZICIJE\n• STUDENAC D.O.O. – Koncesija za zahvaćanje voda radi prodaje
+  na tržištu (LIPIK) · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠA I ZELENE
+  TRANZICIJE\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/
+ 41942358B57122337341822
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B57122337341822
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Lipik
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-05ac33fac3d4e4df@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-3c223b16d9359100@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20391231
 DTEND;VALUE=DATE:20400101
 SUMMARY:Ističe 3 koncesije · Lipik
 DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2039. Godišnja fiksna na
  knada: 56.997 €.\n\n• STUDENAC D.O.O. – Koncesija za zahvaćanje vod
- a radi prodaje na tržištu (LIPIK)\, 54.748 €/god.\n• INA-INDUSTRIJA 
- NAFTE  D.D. – Koncesija za zauzetu površinu odobrenog eksploatacijskog 
- polja (LIPIK)\, 2.249 €/god.\n• INA-INDUSTRIJA NAFTE  D.D. – Dozvola
-  za eksploataciju ugljikovodika (prema Zakonu o ugljikovodicima) (LIPIK)\n
- \nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B5712
- 2337341822\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 1
- 1. 2026.
+ a radi prodaje na tržištu (LIPIK) · davatelj: MINISTARSTVO ZAŠTITE OKO
+ LIŠA I ZELENE TRANZICIJE\, 54.748 €/god.\n• INA-INDUSTRIJA NAFTE  D.D
+ . – Koncesija za zauzetu površinu odobrenog eksploatacijskog polja (LIP
+ IK) · davatelj: MINISTARSTVO GOSPODARSTVA\, 2.249 €/god.\n• INA-INDUS
+ TRIJA NAFTE  D.D. – Dozvola za eksploataciju ugljikovodika (prema Zakonu
+  o ugljikovodicima) (LIPIK) · davatelj: MINISTARSTVO GOSPODARSTVA\n\nProf
+ il općine: https://koncesijski-sat.vercel.app/#opcina/41942358B5712233734
+ 1822\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 202
+ 6.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B57122337341822
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -270,39 +282,41 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-05ac33fac3d4e4df@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-3c223b16d9359100@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20390630
 DTEND;VALUE=DATE:20390701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Lipik
 DESCRIPTION:31. 12. 2039. ističe 3 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• STUDENAC D.O.O. – Koncesija za zahvaćanje voda radi prodaje 
- na tržištu (LIPIK)\, 54.748 €/god.\n• INA-INDUSTRIJA NAFTE  D.D. –
-  Koncesija za zauzetu površinu odobrenog eksploatacijskog polja (LIPIK)\,
-  2.249 €/god.\n• INA-INDUSTRIJA NAFTE  D.D. – Dozvola za eksploataci
- ju ugljikovodika (prema Zakonu o ugljikovodicima) (LIPIK)\n\nProfil općin
- e: https://koncesijski-sat.vercel.app/#opcina/41942358B57122337341822
+ na tržištu (LIPIK) · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠA I ZELENE 
+ TRANZICIJE\, 54.748 €/god.\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija
+  za zauzetu površinu odobrenog eksploatacijskog polja (LIPIK) · davatelj
+ : MINISTARSTVO GOSPODARSTVA\, 2.249 €/god.\n• INA-INDUSTRIJA NAFTE  D.
+ D. – Dozvola za eksploataciju ugljikovodika (prema Zakonu o ugljikovodic
+ ima) (LIPIK) · davatelj: MINISTARSTVO GOSPODARSTVA\n\nProfil općine: htt
+ ps://koncesijski-sat.vercel.app/#opcina/41942358B57122337341822
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B57122337341822
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Lipik
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-108944bc660ff824@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-7fa610b8e2cd7c14@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20401231
 DTEND;VALUE=DATE:20410101
 SUMMARY:Ističe koncesija: INA-INDUSTRIJA NAFTE  D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 31. 12. 2040. Godišnja fiksna nak
  nada: 125 €.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauzetu 
- površinu odobrenog eksploatacijskog polja (LIPIK)\, 125 €/god.\n\nProfi
- l općine: https://koncesijski-sat.vercel.app/#opcina/41942358B57122337341
- 822\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026
- .
+ površinu odobrenog eksploatacijskog polja (LIPIK) · davatelj: MINISTARST
+ VO GOSPODARSTVA\, 125 €/god.\n\nProfil općine: https://koncesijski-sat.
+ vercel.app/#opcina/41942358B57122337341822\nIzvor: Registar koncesija (FIN
+ A)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B57122337341822
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -312,8 +326,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-108944bc660ff824@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-7fa610b8e2cd7c14@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20400630
 DTEND;VALUE=DATE:20400701
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA-INDUSTRIJA N
@@ -321,8 +335,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA-INDUSTRIJA N
 DESCRIPTION:31. 12. 2040. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauzetu površinu od
- obrenog eksploatacijskog polja (LIPIK)\, 125 €/god.\n\nProfil općine: h
- ttps://koncesijski-sat.vercel.app/#opcina/41942358B57122337341822
+ obrenog eksploatacijskog polja (LIPIK) · davatelj: MINISTARSTVO GOSPODARS
+ TVA\, 125 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#
+ opcina/41942358B57122337341822
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B57122337341822
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -333,16 +348,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-f4c6d7fa13446adf@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-ace60274b83a6917@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20451110
 DTEND;VALUE=DATE:20451111
 SUMMARY:Ističe koncesija: LIPIK GLAS D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 10. 11. 2045. Godišnja fiksna nak
  nada: 2.150 €.\n\n• LIPIK GLAS D.O.O. – Koncesija za zahvaćanje vod
- a za tehnološke potrebe (LIPIK)\, 2.150 €/god.\n\nProfil općine: https
- ://koncesijski-sat.vercel.app/#opcina/41942358B57122337341822\nIzvor: Regi
- star koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ a za tehnološke potrebe (LIPIK) · davatelj: MINISTARSTVO ZAŠTITE OKOLI
+ ŠA I ZELENE TRANZICIJE\, 2.150 €/god.\n\nProfil općine: https://konces
+ ijski-sat.vercel.app/#opcina/41942358B57122337341822\nIzvor: Registar konc
+ esija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B57122337341822
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -352,8 +368,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-f4c6d7fa13446adf@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-ace60274b83a6917@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20450510
 DTEND;VALUE=DATE:20450511
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (LIPIK GLAS D.O.O
@@ -361,8 +377,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (LIPIK GLAS D.O.O
 DESCRIPTION:10. 11. 2045. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• LIPIK GLAS D.O.O. – Koncesija za zahvaćanje voda za tehnološ
- ke potrebe (LIPIK)\, 2.150 €/god.\n\nProfil općine: https://koncesijski
- -sat.vercel.app/#opcina/41942358B57122337341822
+ ke potrebe (LIPIK) · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠA I ZELENE TR
+ ANZICIJE\, 2.150 €/god.\n\nProfil općine: https://koncesijski-sat.verce
+ l.app/#opcina/41942358B57122337341822
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B57122337341822
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -373,18 +390,19 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-189ae814472e55a5@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-7762c3c733e2a13a@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20451231
 DTEND;VALUE=DATE:20460101
 SUMMARY:Ističe 2 koncesije · Lipik
 DESCRIPTION:2 ugovora o koncesiji ističe 31. 12. 2045. Godišnja fiksna na
  knada: 1.752 €.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauze
- tu površinu odobrenog eksploatacijskog polja (LIPIK)\, 876 €/god.\n• 
- INA-INDUSTRIJA NAFTE  D.D. – Dozvola za eksploataciju ugljikovodika (pre
- ma Zakonu o ugljikovodicima) (LIPIK)\, 876 €/god.\n\nProfil općine: htt
- ps://koncesijski-sat.vercel.app/#opcina/41942358B57122337341822\nIzvor: Re
- gistar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ tu površinu odobrenog eksploatacijskog polja (LIPIK) · davatelj: MINISTA
+ RSTVO GOSPODARSTVA\, 876 €/god.\n• INA-INDUSTRIJA NAFTE  D.D. – Dozv
+ ola za eksploataciju ugljikovodika (prema Zakonu o ugljikovodicima) (LIPIK
+ ) · davatelj: MINISTARSTVO GOSPODARSTVA\, 876 €/god.\n\nProfil općine:
+  https://koncesijski-sat.vercel.app/#opcina/41942358B57122337341822\nIzvor
+ : Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B57122337341822
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -394,38 +412,39 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-189ae814472e55a5@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-7762c3c733e2a13a@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20450630
 DTEND;VALUE=DATE:20450701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Lipik
 DESCRIPTION:31. 12. 2045. ističe 2 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauzetu površinu o
- dobrenog eksploatacijskog polja (LIPIK)\, 876 €/god.\n• INA-INDUSTRIJA
-  NAFTE  D.D. – Dozvola za eksploataciju ugljikovodika (prema Zakonu o ug
- ljikovodicima) (LIPIK)\, 876 €/god.\n\nProfil općine: https://koncesijs
- ki-sat.vercel.app/#opcina/41942358B57122337341822
+ dobrenog eksploatacijskog polja (LIPIK) · davatelj: MINISTARSTVO GOSPODAR
+ STVA\, 876 €/god.\n• INA-INDUSTRIJA NAFTE  D.D. – Dozvola za eksploa
+ taciju ugljikovodika (prema Zakonu o ugljikovodicima) (LIPIK) · davatelj:
+  MINISTARSTVO GOSPODARSTVA\, 876 €/god.\n\nProfil općine: https://konce
+ sijski-sat.vercel.app/#opcina/41942358B57122337341822
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B57122337341822
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Lipik
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-bde4d324fdf073d8@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-7129b9362a62ba57@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20550626
 DTEND;VALUE=DATE:20550627
 SUMMARY:Ističe koncesija: ASPECT CROATIA KFT. - PODRUŽNICA ZAGREB
 DESCRIPTION:1 ugovor o koncesiji ističe 26. 6. 2055. Godišnja fiksna nakn
  ada: 2.845 €.\n\n• ASPECT CROATIA KFT. - PODRUŽNICA ZAGREB – Dozvol
- a za istraživanje ugljikovodika (prema Zakonu o ugljikovodicima) (LIPIK)\
- , 2.845 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#op
- cina/41942358B57122337341822\nIzvor: Registar koncesija (FINA)\, obrada Ko
- ncesijski sat 9. 11. 2026.
+ a za istraživanje ugljikovodika (prema Zakonu o ugljikovodicima) (LIPIK) 
+ · davatelj: MINISTARSTVO GOSPODARSTVA\, 2.845 €/god.\n\nProfil općine:
+  https://koncesijski-sat.vercel.app/#opcina/41942358B57122337341822\nIzvor
+ : Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B57122337341822
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -435,8 +454,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-bde4d324fdf073d8@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-7129b9362a62ba57@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20541226
 DTEND;VALUE=DATE:20541227
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ASPECT CROATIA K
@@ -444,9 +463,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ASPECT CROATIA K
 DESCRIPTION:26. 6. 2055. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• ASPECT CROATIA KFT. - PODRUŽNICA ZAGREB – Dozvola za istraživ
- anje ugljikovodika (prema Zakonu o ugljikovodicima) (LIPIK)\, 2.845 €/go
- d.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B
- 57122337341822
+ anje ugljikovodika (prema Zakonu o ugljikovodicima) (LIPIK) · davatelj: M
+ INISTARSTVO GOSPODARSTVA\, 2.845 €/god.\n\nProfil općine: https://konce
+ sijski-sat.vercel.app/#opcina/41942358B57122337341822
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B57122337341822
 TRANSP:TRANSPARENT
 BEGIN:VALARM

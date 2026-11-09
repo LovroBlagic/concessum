@@ -4,26 +4,29 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Otok Cres
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Otok Cres. Iz Registra k
- oncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podataka. 
- https://koncesijski-sat.vercel.app/#opcina/41942358B79231692090815
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Otok Cres (pregled\, svi
+  davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježava se nak
+ on svake obrade podataka. https://koncesijski-sat.vercel.app/#opcina/41942
+ 358B79231692090815
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-6eb6f1c0e4317e0f@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-a93f3c072d58c24d@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270101
 DTEND;VALUE=DATE:20270102
 SUMMARY:Ističe 3 koncesije · Otok Cres
 DESCRIPTION:3 ugovora o koncesiji ističe 1. 1. 2027. Godišnja fiksna nakn
  ada: 9.928 €.\n\n• ROBERT ZEC\, PERLA VL. ROBERT ZEC – Koncesija pom
- orskog dobra u svrhu gospodarskog korištenja luke (CRES)\, 3.451 €/god.
- \n• REGATA-BUFFET – Koncesija pomorskog dobra u svrhu gospodarskog kor
- ištenja luke (CRES)\, 3.292 €/god.\n• FARESINA D.O.O. – Koncesija z
- a luku (CRES)\, 3.185 €/god.\n\nProfil općine: https://koncesijski-sat.
- vercel.app/#opcina/41942358B79231692090815\nIzvor: Registar koncesija (FIN
- A)\, obrada Koncesijski sat 9. 11. 2026.
+ orskog dobra u svrhu gospodarskog korištenja luke (CRES) · davatelj: ŽU
+ PANIJSKA LUČKA UPRAVA CRES\, 3.451 €/god.\n• REGATA-BUFFET – Konces
+ ija pomorskog dobra u svrhu gospodarskog korištenja luke (CRES) · davate
+ lj: ŽUPANIJSKA LUČKA UPRAVA CRES\, 3.292 €/god.\n• FARESINA D.O.O. 
+ – Koncesija za luku (CRES) · davatelj: ŽUPANIJSKA LUČKA UPRAVA CRES\,
+  3.185 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opc
+ ina/41942358B79231692090815\nIzvor: Registar koncesija (FINA)\, obrada Kon
+ cesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B79231692090815
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -33,8 +36,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-4c795ab62ad12f65@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-632cfaf332dd23a8@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20271231
 DTEND;VALUE=DATE:20280101
 SUMMARY:Ističe koncesija: JADROLINIJA\, DRUŠTVO ZA LINIJSKI POMORSKI PRIJ
@@ -42,9 +45,10 @@ SUMMARY:Ističe koncesija: JADROLINIJA\, DRUŠTVO ZA LINIJSKI POMORSKI PRIJ
 DESCRIPTION:1 ugovor o koncesiji ističe 31. 12. 2027. Godišnja fiksna nak
  nada: 2.654 €.\n\n• JADROLINIJA\, DRUŠTVO ZA LINIJSKI POMORSKI PRIJEV
  OZ PUTNIKA I TERETA – Koncesija za organiziranje unutarnjeg linijskog pr
- ijevoza (CRES)\, 2.654 €/god.\n\nProfil općine: https://koncesijski-sat
- .vercel.app/#opcina/41942358B79231692090815\nIzvor: Registar koncesija (FI
- NA)\, obrada Koncesijski sat 9. 11. 2026.
+ ijevoza (CRES) · davatelj: AGENCIJA ZA OBALNI LINIJSKI POMORSKI PROMET\, 
+ 2.654 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opci
+ na/41942358B79231692090815\nIzvor: Registar koncesija (FINA)\, obrada Konc
+ esijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B79231692090815
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -55,8 +59,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-4c795ab62ad12f65@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-632cfaf332dd23a8@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270630
 DTEND;VALUE=DATE:20270701
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (JADROLINIJA\, DR
@@ -65,8 +69,9 @@ DESCRIPTION:31. 12. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• JADROLINIJA\, DRUŠTVO ZA LINIJSKI POMORSKI PRIJEVOZ PUTNIKA I T
  ERETA – Koncesija za organiziranje unutarnjeg linijskog prijevoza (CRES)
- \, 2.654 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#o
- pcina/41942358B79231692090815
+  · davatelj: AGENCIJA ZA OBALNI LINIJSKI POMORSKI PROMET\, 2.654 €/god.
+ \n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B79
+ 231692090815
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B79231692090815
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -77,18 +82,19 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-5a0ccb6f21fba89e@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-9bc6aaeadbb97f72@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20280101
 DTEND;VALUE=DATE:20280102
 SUMMARY:Ističe 2 koncesije · Otok Cres
 DESCRIPTION:2 ugovora o koncesiji ističe 1. 1. 2028. Godišnja fiksna nakn
  ada: 6.264 €.\n\n• BELI UGOSTITELJSKI OBRT\,VL. ARON HRŽIĆ\, BELI\, 
- BELI 6 – Koncesija na pomorskom dobru (CRES)\, 5.999 €/god.\n• DEZIN
- SEKCIJA\, D. O. O. – Koncesija na pomorskom dobru (CRES)\, 265 €/god.\
- n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B792
- 31692090815\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 
- 11. 2026.
+ BELI 6 – Koncesija na pomorskom dobru (CRES) · davatelj: ŽUPANIJSKA LU
+ ČKA UPRAVA CRES\, 5.999 €/god.\n• DEZINSEKCIJA\, D. O. O. – Koncesi
+ ja na pomorskom dobru (CRES) · davatelj: ŽUPANIJSKA LUČKA UPRAVA CRES\,
+  265 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcin
+ a/41942358B79231692090815\nIzvor: Registar koncesija (FINA)\, obrada Konce
+ sijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B79231692090815
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -98,36 +104,39 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-5a0ccb6f21fba89e@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-9bc6aaeadbb97f72@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270701
 DTEND;VALUE=DATE:20270702
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Otok Cres
 DESCRIPTION:1. 1. 2028. ističe 2 ugovora o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• BELI UGOSTITELJSKI OBRT\,VL. ARON HRŽIĆ\, BELI\, BELI 6 – Kon
- cesija na pomorskom dobru (CRES)\, 5.999 €/god.\n• DEZINSEKCIJA\, D. O
- . O. – Koncesija na pomorskom dobru (CRES)\, 265 €/god.\n\nProfil opć
- ine: https://koncesijski-sat.vercel.app/#opcina/41942358B79231692090815
+ cesija na pomorskom dobru (CRES) · davatelj: ŽUPANIJSKA LUČKA UPRAVA CR
+ ES\, 5.999 €/god.\n• DEZINSEKCIJA\, D. O. O. – Koncesija na pomorsko
+ m dobru (CRES) · davatelj: ŽUPANIJSKA LUČKA UPRAVA CRES\, 265 €/god.\
+ n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B792
+ 31692090815
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B79231692090815
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Otok Cres
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-c87e9a9123ab7951@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-d9ccad59d3821ea8@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20280601
 DTEND;VALUE=DATE:20280602
 SUMMARY:Ističe koncesija: SPORT I REKREACIJA KOVAČINE J.D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 1. 6. 2028. Godišnja fiksna nakna
  da: 3.292 €.\n\n• SPORT I REKREACIJA KOVAČINE J.D.O.O. – Koncesija 
- na pomorskom dobru (CRES)\, 3.292 €/god.\n\nProfil općine: https://konc
- esijski-sat.vercel.app/#opcina/41942358B79231692090815\nIzvor: Registar ko
- ncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ na pomorskom dobru (CRES) · davatelj: ŽUPANIJSKA LUČKA UPRAVA CRES\, 3.
+ 292 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina
+ /41942358B79231692090815\nIzvor: Registar koncesija (FINA)\, obrada Konces
+ ijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B79231692090815
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -137,8 +146,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-c87e9a9123ab7951@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-d9ccad59d3821ea8@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20271201
 DTEND;VALUE=DATE:20271202
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (SPORT I REKREACI
@@ -146,8 +155,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (SPORT I REKREACI
 DESCRIPTION:1. 6. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• SPORT I REKREACIJA KOVAČINE J.D.O.O. – Koncesija na pomorskom d
- obru (CRES)\, 3.292 €/god.\n\nProfil općine: https://koncesijski-sat.ve
- rcel.app/#opcina/41942358B79231692090815
+ obru (CRES) · davatelj: ŽUPANIJSKA LUČKA UPRAVA CRES\, 3.292 €/god.\n
+ \nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B7923
+ 1692090815
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B79231692090815
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -158,16 +168,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-6bc1f43be81092d4@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-8c9f671fb7d7688e@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20301110
 DTEND;VALUE=DATE:20301111
 SUMMARY:Ističe koncesija: ACI D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 10. 11. 2030. Godišnja fiksna nak
  nada: 12.629 €.\n\n• ACI D.D. – Koncesija pomorskog dobra u svrhu go
- spodarskog korištenja luke (CRES)\, 12.629 €/god.\n\nProfil općine: ht
- tps://koncesijski-sat.vercel.app/#opcina/41942358B79231692090815\nIzvor: R
- egistar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ spodarskog korištenja luke (CRES) · davatelj: MINISTARSTVO MORA\, PROMET
+ A I INFRASTRUKTURE\, 12.629 €/god.\n\nProfil općine: https://koncesijsk
+ i-sat.vercel.app/#opcina/41942358B79231692090815\nIzvor: Registar koncesij
+ a (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B79231692090815
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -177,16 +188,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-6bc1f43be81092d4@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-8c9f671fb7d7688e@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20300510
 DTEND;VALUE=DATE:20300511
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ACI D.D.)
 DESCRIPTION:10. 11. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• ACI D.D. – Koncesija pomorskog dobra u svrhu gospodarskog kori
- štenja luke (CRES)\, 12.629 €/god.\n\nProfil općine: https://koncesijs
- ki-sat.vercel.app/#opcina/41942358B79231692090815
+ štenja luke (CRES) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKT
+ URE\, 12.629 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.ap
+ p/#opcina/41942358B79231692090815
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B79231692090815
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -196,16 +208,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-cde032c6e5ef9749@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-b3ea797c7e07bdc8@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20310101
 DTEND;VALUE=DATE:20310102
 SUMMARY:Ističe koncesija: CRESANKA D. D.
 DESCRIPTION:1 ugovor o koncesiji ističe 1. 1. 2031. Godišnja fiksna nakna
  da: 715 €.\n\n• CRESANKA D. D. – Koncesija na pomorskom dobru (CRES)
- \, 715 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opc
- ina/41942358B79231692090815\nIzvor: Registar koncesija (FINA)\, obrada Kon
- cesijski sat 9. 11. 2026.
+  · davatelj: ŽUPANIJSKA LUČKA UPRAVA CRES\, 715 €/god.\n\nProfil opć
+ ine: https://koncesijski-sat.vercel.app/#opcina/41942358B79231692090815\nI
+ zvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B79231692090815
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -215,16 +227,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-cde032c6e5ef9749@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-b3ea797c7e07bdc8@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20300701
 DTEND;VALUE=DATE:20300702
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (CRESANKA D. D.)
 DESCRIPTION:1. 1. 2031. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
- \n\n• CRESANKA D. D. – Koncesija na pomorskom dobru (CRES)\, 715 €/g
- od.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358
- B79231692090815
+ \n\n• CRESANKA D. D. – Koncesija na pomorskom dobru (CRES) · davatelj
+ : ŽUPANIJSKA LUČKA UPRAVA CRES\, 715 €/god.\n\nProfil općine: https:/
+ /koncesijski-sat.vercel.app/#opcina/41942358B79231692090815
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B79231692090815
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -235,17 +247,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-8090958ee7f16a01@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-2e0a9629b5576d23@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20310323
 DTEND;VALUE=DATE:20310324
 SUMMARY:Ističe koncesija: KOLORAT USLUŽNI OBRT\, VL.MARIJANA MATUŠAN
 DESCRIPTION:1 ugovor o koncesiji ističe 23. 3. 2031. Godišnja fiksna nakn
  ada: 7.853 €.\n\n• KOLORAT USLUŽNI OBRT\, VL.MARIJANA MATUŠAN – Ko
- ncesija na pomorskom dobru (CRES\, MALI LOŠINJ\, MALI LOŠINJ)\, 7.853 
- €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
- 42358B79231692090815\nIzvor: Registar koncesija (FINA)\, obrada Koncesijsk
- i sat 9. 11. 2026.
+ ncesija na pomorskom dobru (CRES\, MALI LOŠINJ\, MALI LOŠINJ) · davatel
+ j: PRIMORSKO GORANSKA ŽUPANIJA\, 7.853 €/god.\n\nProfil općine: https:
+ //koncesijski-sat.vercel.app/#opcina/41942358B79231692090815\nIzvor: Regis
+ tar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B79231692090815
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -255,8 +267,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-8090958ee7f16a01@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-2e0a9629b5576d23@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20300923
 DTEND;VALUE=DATE:20300924
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (KOLORAT USLUŽNI
@@ -264,9 +276,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (KOLORAT USLUŽNI
 DESCRIPTION:23. 3. 2031. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• KOLORAT USLUŽNI OBRT\, VL.MARIJANA MATUŠAN – Koncesija na pom
- orskom dobru (CRES\, MALI LOŠINJ\, MALI LOŠINJ)\, 7.853 €/god.\n\nProf
- il općine: https://koncesijski-sat.vercel.app/#opcina/41942358B7923169209
- 0815
+ orskom dobru (CRES\, MALI LOŠINJ\, MALI LOŠINJ) · davatelj: PRIMORSKO G
+ ORANSKA ŽUPANIJA\, 7.853 €/god.\n\nProfil općine: https://koncesijski-
+ sat.vercel.app/#opcina/41942358B79231692090815
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B79231692090815
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -277,16 +289,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-ce087a3e6d3b31a4@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-b7cfdfeca8434335@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20330502
 DTEND;VALUE=DATE:20330503
 SUMMARY:Ističe koncesija: HEP-OPERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 2. 5. 2033. Godišnja fiksna nakna
  da: 846 €.\n\n• HEP-OPERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O. – Posebn
- a upotreba pomorskog dobra (CRES)\, 846 €/god.\n\nProfil općine: https:
- //koncesijski-sat.vercel.app/#opcina/41942358B79231692090815\nIzvor: Regis
- tar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ a upotreba pomorskog dobra (CRES) · davatelj: PRIMORSKO GORANSKA ŽUPANIJ
+ A\, 846 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#op
+ cina/41942358B79231692090815\nIzvor: Registar koncesija (FINA)\, obrada Ko
+ ncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B79231692090815
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -296,8 +309,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-ce087a3e6d3b31a4@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-b7cfdfeca8434335@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20321102
 DTEND;VALUE=DATE:20321103
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP-OPERATOR DIS
@@ -305,8 +318,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP-OPERATOR DIS
 DESCRIPTION:2. 5. 2033. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• HEP-OPERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O. – Posebna upotreba p
- omorskog dobra (CRES)\, 846 €/god.\n\nProfil općine: https://koncesijsk
- i-sat.vercel.app/#opcina/41942358B79231692090815
+ omorskog dobra (CRES) · davatelj: PRIMORSKO GORANSKA ŽUPANIJA\, 846 €/
+ god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4194235
+ 8B79231692090815
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B79231692090815
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -317,16 +331,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-84cfae740b565fc2@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-c9de73d49054df24@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20350708
 DTEND;VALUE=DATE:20350709
 SUMMARY:Ističe koncesija: CRESANKA D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 8. 7. 2035. Godišnja fiksna nakna
  da: 29.430 €.\n\n• CRESANKA D.D. – Koncesija na pomorskom dobru (CRE
- S)\, 29.430 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app
- /#opcina/41942358B79231692090815\nIzvor: Registar koncesija (FINA)\, obrad
- a Koncesijski sat 9. 11. 2026.
+ S) · davatelj: PRIMORSKO GORANSKA ŽUPANIJA\, 29.430 €/god.\n\nProfil o
+ pćine: https://koncesijski-sat.vercel.app/#opcina/41942358B79231692090815
+ \nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B79231692090815
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -336,16 +350,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-84cfae740b565fc2@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-c9de73d49054df24@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20350108
 DTEND;VALUE=DATE:20350109
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (CRESANKA D.D.)
 DESCRIPTION:8. 7. 2035. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
- \n\n• CRESANKA D.D. – Koncesija na pomorskom dobru (CRES)\, 29.430 €
- /god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419423
- 58B79231692090815
+ \n\n• CRESANKA D.D. – Koncesija na pomorskom dobru (CRES) · davatelj:
+  PRIMORSKO GORANSKA ŽUPANIJA\, 29.430 €/god.\n\nProfil općine: https:/
+ /koncesijski-sat.vercel.app/#opcina/41942358B79231692090815
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B79231692090815
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -356,17 +370,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-8fe35aa792e00a59@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-5e8315cfa0119df7@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20360101
 DTEND;VALUE=DATE:20360102
 SUMMARY:Ističe koncesija: UGOSTITELJSKI OBRT MERAG\, VL. TONČI ZUBOVIĆ
 DESCRIPTION:1 ugovor o koncesiji ističe 1. 1. 2036. Godišnja fiksna nakna
  da: 9.888 €.\n\n• UGOSTITELJSKI OBRT MERAG\, VL. TONČI ZUBOVIĆ – K
  oncesija za obavljanje ugostiteljske djelatnosti na lučkom području (CRE
- S)\, 9.888 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/
- #opcina/41942358B79231692090815\nIzvor: Registar koncesija (FINA)\, obrada
-  Koncesijski sat 9. 11. 2026.
+ S) · davatelj: ŽUPANIJSKA LUČKA UPRAVA CRES\, 9.888 €/god.\n\nProfil 
+ općine: https://koncesijski-sat.vercel.app/#opcina/41942358B7923169209081
+ 5\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B79231692090815
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -377,8 +391,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-8fe35aa792e00a59@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-5e8315cfa0119df7@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20350701
 DTEND;VALUE=DATE:20350702
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (UGOSTITELJSKI OB
@@ -386,9 +400,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (UGOSTITELJSKI OB
 DESCRIPTION:1. 1. 2036. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• UGOSTITELJSKI OBRT MERAG\, VL. TONČI ZUBOVIĆ – Koncesija za ob
- avljanje ugostiteljske djelatnosti na lučkom području (CRES)\, 9.888 €
- /god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419423
- 58B79231692090815
+ avljanje ugostiteljske djelatnosti na lučkom području (CRES) · davatelj
+ : ŽUPANIJSKA LUČKA UPRAVA CRES\, 9.888 €/god.\n\nProfil općine: https
+ ://koncesijski-sat.vercel.app/#opcina/41942358B79231692090815
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B79231692090815
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -399,16 +413,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-e4596eae208c0f5f@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-4e4db56fc9de6b71@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20370508
 DTEND;VALUE=DATE:20370509
 SUMMARY:Ističe koncesija: MORE - LOŠINJ D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 8. 5. 2037. Godišnja fiksna nakna
  da: 3.661 €.\n\n• MORE - LOŠINJ D.O.O. – Koncesija na pomorskom dob
- ru (CRES)\, 3.661 €/god.\n\nProfil općine: https://koncesijski-sat.verc
- el.app/#opcina/41942358B79231692090815\nIzvor: Registar koncesija (FINA)\,
-  obrada Koncesijski sat 9. 11. 2026.
+ ru (CRES) · davatelj: PRIMORSKO GORANSKA ŽUPANIJA\, 3.661 €/god.\n\nPr
+ ofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B79231692
+ 090815\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2
+ 026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B79231692090815
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -418,17 +433,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-e4596eae208c0f5f@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-4e4db56fc9de6b71@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20361108
 DTEND;VALUE=DATE:20361109
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MORE - LOŠINJ D
  .O.O.)
 DESCRIPTION:8. 5. 2037. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
- \n\n• MORE - LOŠINJ D.O.O. – Koncesija na pomorskom dobru (CRES)\, 3.
- 661 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina
- /41942358B79231692090815
+ \n\n• MORE - LOŠINJ D.O.O. – Koncesija na pomorskom dobru (CRES) · d
+ avatelj: PRIMORSKO GORANSKA ŽUPANIJA\, 3.661 €/god.\n\nProfil općine: 
+ https://koncesijski-sat.vercel.app/#opcina/41942358B79231692090815
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B79231692090815
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -439,18 +454,19 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-666bfa10a6a57453@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-7a0bc76908b8166c@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20380727
 DTEND;VALUE=DATE:20380728
 SUMMARY:Ističe 2 koncesije · Otok Cres
 DESCRIPTION:2 ugovora o koncesiji ističe 27. 7. 2038. Godišnja fiksna nak
  nada: 1.948 €.\n\n• PONIKVE VODA D.O.O. – Koncesija pomorskog dobra 
- za posebnu upotrebu u svrhu gradnje kabelske veze (CRES)\, 974 €/god.\n
- • PONIKVE VODA D.O.O. – Koncesija pomorskog dobra u svrhu izgradnje i 
- gospodarskog korištenja (CRES)\, 974 €/god.\n\nProfil općine: https://
- koncesijski-sat.vercel.app/#opcina/41942358B79231692090815\nIzvor: Regista
- r koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ za posebnu upotrebu u svrhu gradnje kabelske veze (CRES) · davatelj: PRIM
+ ORSKO GORANSKA ŽUPANIJA\, 974 €/god.\n• PONIKVE VODA D.O.O. – Konce
+ sija pomorskog dobra u svrhu izgradnje i gospodarskog korištenja (CRES) 
+ · davatelj: PRIMORSKO GORANSKA ŽUPANIJA\, 974 €/god.\n\nProfil općine
+ : https://koncesijski-sat.vercel.app/#opcina/41942358B79231692090815\nIzvo
+ r: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B79231692090815
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -460,36 +476,79 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-666bfa10a6a57453@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-7a0bc76908b8166c@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20380127
 DTEND;VALUE=DATE:20380128
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Otok Cres
 DESCRIPTION:27. 7. 2038. ističe 2 ugovora o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• PONIKVE VODA D.O.O. – Koncesija pomorskog dobra za posebnu upo
- trebu u svrhu gradnje kabelske veze (CRES)\, 974 €/god.\n• PONIKVE VOD
- A D.O.O. – Koncesija pomorskog dobra u svrhu izgradnje i gospodarskog ko
- rištenja (CRES)\, 974 €/god.\n\nProfil općine: https://koncesijski-sat
- .vercel.app/#opcina/41942358B79231692090815
+ trebu u svrhu gradnje kabelske veze (CRES) · davatelj: PRIMORSKO GORANSKA
+  ŽUPANIJA\, 974 €/god.\n• PONIKVE VODA D.O.O. – Koncesija pomorskog
+  dobra u svrhu izgradnje i gospodarskog korištenja (CRES) · davatelj: PR
+ IMORSKO GORANSKA ŽUPANIJA\, 974 €/god.\n\nProfil općine: https://konce
+ sijski-sat.vercel.app/#opcina/41942358B79231692090815
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B79231692090815
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Otok Cres
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-34cd666f2121f8b5@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-9b7d433dded78b51@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20400101
 DTEND;VALUE=DATE:20400102
 SUMMARY:Ističe koncesija: HRVATSKI OPERATOR PRIJENOSNOG SUSTAVA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 1. 1. 2040. Godišnja fiksna nakna
  da: 483 €.\n\n• HRVATSKI OPERATOR PRIJENOSNOG SUSTAVA D.O.O. – Konce
  sija pomorskog dobra za posebnu upotrebu u svrhu gradnje kabelske veze (CR
- ES)\, 483 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#
+ ES) · davatelj: ŽUPANIJSKA LUČKA UPRAVA CRES\, 483 €/god.\n\nProfil o
+ pćine: https://koncesijski-sat.vercel.app/#opcina/41942358B79231692090815
+ \nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B79231692090815
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: HRVATSKI OPERATOR PRIJENOSNOG SUSTAVA D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-9b7d433dded78b51@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20390701
+DTEND;VALUE=DATE:20390702
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKI OPERATO
+ R PRIJENOSNOG SUSTAVA D.O.O.)
+DESCRIPTION:1. 1. 2040. ističe 1 ugovor o koncesiji. Novi postupak dodjele
+  treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
+ \n\n• HRVATSKI OPERATOR PRIJENOSNOG SUSTAVA D.O.O. – Koncesija pomorsk
+ og dobra za posebnu upotrebu u svrhu gradnje kabelske veze (CRES) · davat
+ elj: ŽUPANIJSKA LUČKA UPRAVA CRES\, 483 €/god.\n\nProfil općine: http
+ s://koncesijski-sat.vercel.app/#opcina/41942358B79231692090815
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B79231692090815
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKI OPE
+ RATOR PRIJENOSNOG SUSTAVA D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-f2b4ae68e018cb6f@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20400720
+DTEND;VALUE=DATE:20400721
+SUMMARY:Ističe koncesija: HRVATSKI OPERATOR PRIJENOSNOG SUSTAVA D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 20. 7. 2040. Godišnja fiksna nakn
+ ada: 1.395 €.\n\n• HRVATSKI OPERATOR PRIJENOSNOG SUSTAVA D.O.O. – Ko
+ ncesija na pomorskom dobru (CRES) · davatelj: PRIMORSKO GORANSKA ŽUPANIJ
+ A\, 1.395 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#
  opcina/41942358B79231692090815\nIzvor: Registar koncesija (FINA)\, obrada 
  Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B79231692090815
@@ -501,49 +560,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-34cd666f2121f8b5@koncesijski-sat
-DTSTAMP:20261109T134442Z
-DTSTART;VALUE=DATE:20390701
-DTEND;VALUE=DATE:20390702
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKI OPERATO
- R PRIJENOSNOG SUSTAVA D.O.O.)
-DESCRIPTION:1. 1. 2040. ističe 1 ugovor o koncesiji. Novi postupak dodjele
-  treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
- \n\n• HRVATSKI OPERATOR PRIJENOSNOG SUSTAVA D.O.O. – Koncesija pomorsk
- og dobra za posebnu upotrebu u svrhu gradnje kabelske veze (CRES)\, 483 
- €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
- 42358B79231692090815
-URL:https://koncesijski-sat.vercel.app/#opcina/41942358B79231692090815
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKI OPE
- RATOR PRIJENOSNOG SUSTAVA D.O.O.)
-TRIGGER:-P7D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:istek-07a94c0f23548009@koncesijski-sat
-DTSTAMP:20261109T134442Z
-DTSTART;VALUE=DATE:20400720
-DTEND;VALUE=DATE:20400721
-SUMMARY:Ističe koncesija: HRVATSKI OPERATOR PRIJENOSNOG SUSTAVA D.O.O.
-DESCRIPTION:1 ugovor o koncesiji ističe 20. 7. 2040. Godišnja fiksna nakn
- ada: 1.395 €.\n\n• HRVATSKI OPERATOR PRIJENOSNOG SUSTAVA D.O.O. – Ko
- ncesija na pomorskom dobru (CRES)\, 1.395 €/god.\n\nProfil općine: http
- s://koncesijski-sat.vercel.app/#opcina/41942358B79231692090815\nIzvor: Reg
- istar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#opcina/41942358B79231692090815
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Ističe koncesija: HRVATSKI OPERATOR PRIJENOSNOG SUSTAVA D.O.O.
-TRIGGER:-P7D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:priprema-07a94c0f23548009@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-f2b4ae68e018cb6f@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20400120
 DTEND;VALUE=DATE:20400121
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKI OPERATO
@@ -551,8 +569,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKI OPERATO
 DESCRIPTION:20. 7. 2040. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• HRVATSKI OPERATOR PRIJENOSNOG SUSTAVA D.O.O. – Koncesija na pom
- orskom dobru (CRES)\, 1.395 €/god.\n\nProfil općine: https://koncesijsk
- i-sat.vercel.app/#opcina/41942358B79231692090815
+ orskom dobru (CRES) · davatelj: PRIMORSKO GORANSKA ŽUPANIJA\, 1.395 €/
+ god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4194235
+ 8B79231692090815
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B79231692090815
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -563,16 +582,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-7ba460df2121b03d@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-4e4fc6f36673d350@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20450509
 DTEND;VALUE=DATE:20450510
 SUMMARY:Ističe koncesija: PONIKVE VODA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 9. 5. 2045. Godišnja fiksna nakna
  da: 152 €.\n\n• PONIKVE VODA D.O.O. – Koncesija na pomorskom dobru (
- CRES)\, 152 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app
- /#opcina/41942358B79231692090815\nIzvor: Registar koncesija (FINA)\, obrad
- a Koncesijski sat 9. 11. 2026.
+ CRES) · davatelj: PRIMORSKO GORANSKA ŽUPANIJA\, 152 €/god.\n\nProfil o
+ pćine: https://koncesijski-sat.vercel.app/#opcina/41942358B79231692090815
+ \nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B79231692090815
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -582,17 +601,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-7ba460df2121b03d@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-4e4fc6f36673d350@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20441109
 DTEND;VALUE=DATE:20441110
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PONIKVE VODA D.O
  .O.)
 DESCRIPTION:9. 5. 2045. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
- \n\n• PONIKVE VODA D.O.O. – Koncesija na pomorskom dobru (CRES)\, 152 
- €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
- 42358B79231692090815
+ \n\n• PONIKVE VODA D.O.O. – Koncesija na pomorskom dobru (CRES) · dav
+ atelj: PRIMORSKO GORANSKA ŽUPANIJA\, 152 €/god.\n\nProfil općine: http
+ s://koncesijski-sat.vercel.app/#opcina/41942358B79231692090815
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B79231692090815
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -603,16 +622,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-94d7751329df0aa4@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-c49a0b6851fb6557@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20450520
 DTEND;VALUE=DATE:20450521
 SUMMARY:Ističe koncesija: PONIKVE VODA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 20. 5. 2045. Godišnja fiksna nakn
  ada: 346 €.\n\n• PONIKVE VODA D.O.O. – Koncesija na pomorskom dobru 
- (CRES)\, 346 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.ap
- p/#opcina/41942358B79231692090815\nIzvor: Registar koncesija (FINA)\, obra
- da Koncesijski sat 9. 11. 2026.
+ (CRES) · davatelj: PRIMORSKO GORANSKA ŽUPANIJA\, 346 €/god.\n\nProfil 
+ općine: https://koncesijski-sat.vercel.app/#opcina/41942358B7923169209081
+ 5\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B79231692090815
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -622,17 +641,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-94d7751329df0aa4@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-c49a0b6851fb6557@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20441120
 DTEND;VALUE=DATE:20441121
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PONIKVE VODA D.O
  .O.)
 DESCRIPTION:20. 5. 2045. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
- .\n\n• PONIKVE VODA D.O.O. – Koncesija na pomorskom dobru (CRES)\, 346
-  €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41
- 942358B79231692090815
+ .\n\n• PONIKVE VODA D.O.O. – Koncesija na pomorskom dobru (CRES) · da
+ vatelj: PRIMORSKO GORANSKA ŽUPANIJA\, 346 €/god.\n\nProfil općine: htt
+ ps://koncesijski-sat.vercel.app/#opcina/41942358B79231692090815
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B79231692090815
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -643,20 +662,22 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-30a1da447f37083f@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-f9f3014d5da4f964@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20481231
 DTEND;VALUE=DATE:20490101
 SUMMARY:Ističe 3 koncesije · Otok Cres
 DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2048. Godišnja fiksna na
  knada: 4.894 €.\n\n• OBRT KAMENOLOM BOJNAK VL. DIEGO TOIĆ – Koncesi
  ja za površinu utvrđenog eksploatacijskog polja neenergetskih mineralnih
-  sirovina (CRES)\, 4.894 €/god.\n• OBRT KAMENOLOM BOJNAK VL. DIEGO TOI
- Ć – Koncesija za eksploataciju tehničko-građevnog kamena (CRES)\n• 
- OBRT KAMENOLOM BOJNAK VL. DIEGO TOIĆ – Koncesija za eksploataciju tehni
- čko-građevnog kamena (CRES)\n\nProfil općine: https://koncesijski-sat.v
- ercel.app/#opcina/41942358B79231692090815\nIzvor: Registar koncesija (FINA
- )\, obrada Koncesijski sat 9. 11. 2026.
+  sirovina (CRES) · davatelj: MINISTARSTVO GOSPODARSTVA\, 4.894 €/god.\n
+ • OBRT KAMENOLOM BOJNAK VL. DIEGO TOIĆ – Koncesija za eksploataciju t
+ ehničko-građevnog kamena (CRES) · davatelj: MINISTARSTVO GOSPODARSTVA\n
+ • OBRT KAMENOLOM BOJNAK VL. DIEGO TOIĆ – Koncesija za eksploataciju t
+ ehničko-građevnog kamena (CRES) · davatelj: MINISTARSTVO GOSPODARSTVA\n
+ \nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B7923
+ 1692090815\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 1
+ 1. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B79231692090815
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -666,39 +687,41 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-30a1da447f37083f@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-f9f3014d5da4f964@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20480630
 DTEND;VALUE=DATE:20480701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Otok Cres
 DESCRIPTION:31. 12. 2048. ističe 3 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• OBRT KAMENOLOM BOJNAK VL. DIEGO TOIĆ – Koncesija za površin
  u utvrđenog eksploatacijskog polja neenergetskih mineralnih sirovina (CRE
- S)\, 4.894 €/god.\n• OBRT KAMENOLOM BOJNAK VL. DIEGO TOIĆ – Koncesi
- ja za eksploataciju tehničko-građevnog kamena (CRES)\n• OBRT KAMENOLOM
-  BOJNAK VL. DIEGO TOIĆ – Koncesija za eksploataciju tehničko-građevno
- g kamena (CRES)\n\nProfil općine: https://koncesijski-sat.vercel.app/#opc
- ina/41942358B79231692090815
+ S) · davatelj: MINISTARSTVO GOSPODARSTVA\, 4.894 €/god.\n• OBRT KAMEN
+ OLOM BOJNAK VL. DIEGO TOIĆ – Koncesija za eksploataciju tehničko-građ
+ evnog kamena (CRES) · davatelj: MINISTARSTVO GOSPODARSTVA\n• OBRT KAMEN
+ OLOM BOJNAK VL. DIEGO TOIĆ – Koncesija za eksploataciju tehničko-građ
+ evnog kamena (CRES) · davatelj: MINISTARSTVO GOSPODARSTVA\n\nProfil opći
+ ne: https://koncesijski-sat.vercel.app/#opcina/41942358B79231692090815
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B79231692090815
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Otok Cres
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-1b36e25378cc971a@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-e3924612623bc159@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20601015
 DTEND;VALUE=DATE:20601016
 SUMMARY:Ističe koncesija: DRŽAVNI HIDROMETEOROLOŠKI ZAVOD
 DESCRIPTION:1 ugovor o koncesiji ističe 15. 10. 2060. Godišnja fiksna nak
  nada: 12 €.\n\n• DRŽAVNI HIDROMETEOROLOŠKI ZAVOD – Koncesija na po
- morskom dobru (CRES)\, 12 €/god.\n\nProfil općine: https://koncesijski-
- sat.vercel.app/#opcina/41942358B79231692090815\nIzvor: Registar koncesija 
- (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ morskom dobru (CRES) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUK
+ TURE\, 12 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#
+ opcina/41942358B79231692090815\nIzvor: Registar koncesija (FINA)\, obrada 
+ Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B79231692090815
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -708,8 +731,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-1b36e25378cc971a@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-e3924612623bc159@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20600415
 DTEND;VALUE=DATE:20600416
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DRŽAVNI HIDROME
@@ -717,8 +740,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DRŽAVNI HIDROME
 DESCRIPTION:15. 10. 2060. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• DRŽAVNI HIDROMETEOROLOŠKI ZAVOD – Koncesija na pomorskom dob
- ru (CRES)\, 12 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.
- app/#opcina/41942358B79231692090815
+ ru (CRES) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\, 12 
+ €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
+ 42358B79231692090815
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B79231692090815
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -729,16 +753,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-f86c2b43e13d38ef@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-e6b7fecbe22a7970@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20760717
 DTEND;VALUE=DATE:20760718
 SUMMARY:Ističe koncesija: HRVATSKI TELEKOM D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 17. 7. 2076. Godišnja fiksna nakn
  ada: 1.802 €.\n\n• HRVATSKI TELEKOM D.D. – Posebna upotreba pomorsko
- g dobra (CRES)\, 1.802 €/god.\n\nProfil općine: https://koncesijski-sat
- .vercel.app/#opcina/41942358B79231692090815\nIzvor: Registar koncesija (FI
- NA)\, obrada Koncesijski sat 9. 11. 2026.
+ g dobra (CRES) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\,
+  1.802 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opc
+ ina/41942358B79231692090815\nIzvor: Registar koncesija (FINA)\, obrada Kon
+ cesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B79231692090815
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -748,8 +773,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-f86c2b43e13d38ef@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-e6b7fecbe22a7970@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20760117
 DTEND;VALUE=DATE:20760118
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKI TELEKOM
@@ -757,8 +782,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKI TELEKOM
 DESCRIPTION:17. 7. 2076. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• HRVATSKI TELEKOM D.D. – Posebna upotreba pomorskog dobra (CRES)
- \, 1.802 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#o
- pcina/41942358B79231692090815
+  · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\, 1.802 €/god
+ .\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B7
+ 9231692090815
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B79231692090815
 TRANSP:TRANSPARENT
 BEGIN:VALARM

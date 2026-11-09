@@ -1,0 +1,53 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · GRAD VRBOVSKO
+X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje GRAD VRBOVSKO. Iz Registra
+  koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podataka
+ . https://koncesijski-sat.vercel.app/#sat
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-556c8d739cb96613@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20300325
+DTEND;VALUE=DATE:20300326
+SUMMARY:Ističe koncesija: NEGRO DIMNJAČARSKI OBRT
+DESCRIPTION:1 ugovor o koncesiji ističe 25. 3. 2030. Godišnja fiksna nakn
+ ada: 800 €.\n\n• NEGRO DIMNJAČARSKI OBRT – Koncesija za obavljanje 
+ dimnjačarskih poslova (VRBOVSKO\, Grad Vrbovsko)\, 800 €/god.\n\nŠto i
+ stiče: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija
+  (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: NEGRO DIMNJAČARSKI OBRT
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-556c8d739cb96613@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20290925
+DTEND;VALUE=DATE:20290926
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (NEGRO DIMNJAČAR
+ SKI OBRT)
+DESCRIPTION:25. 3. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• NEGRO DIMNJAČARSKI OBRT – Koncesija za obavljanje dimnjačarsk
+ ih poslova (VRBOVSKO\, Grad Vrbovsko)\, 800 €/god.\n\nŠto ističe: http
+ s://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (NEGRO DIMNJA
+ ČARSKI OBRT)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

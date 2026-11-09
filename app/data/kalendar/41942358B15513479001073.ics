@@ -4,24 +4,25 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Grad Donji Miholjac
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Grad Donji Miholjac. Iz 
- Registra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade 
- podataka. https://koncesijski-sat.vercel.app/#opcina/41942358B155134790010
- 73
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Grad Donji Miholjac (pre
+ gled\, svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvjež
+ ava se nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#op
+ cina/41942358B15513479001073
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-7cbeffa8c4b4bff6@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-675a2fb8675d28ec@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270628
 DTEND;VALUE=DATE:20270629
 SUMMARY:Ističe koncesija: INA\, D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 28. 6. 2027. Godišnja fiksna nakn
  ada: 6.791 €.\n\n• INA\, D.D. – Koncesija za istraživanje nafte i p
- lina (DONJI MIHOLJAC)\, 6.791 €/god.\n\nProfil općine: https://koncesij
- ski-sat.vercel.app/#opcina/41942358B15513479001073\nIzvor: Registar konces
- ija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ lina (DONJI MIHOLJAC) · davatelj: MINISTARSTVO GOSPODARSTVA\, 6.791 €/g
+ od.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358
+ B15513479001073\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat
+  9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B15513479001073
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -31,16 +32,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-7cbeffa8c4b4bff6@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-675a2fb8675d28ec@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20261228
 DTEND;VALUE=DATE:20261229
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA\, D.D.)
 DESCRIPTION:28. 6. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• INA\, D.D. – Koncesija za istraživanje nafte i plina (DONJI MI
- HOLJAC)\, 6.791 €/god.\n\nProfil općine: https://koncesijski-sat.vercel
- .app/#opcina/41942358B15513479001073
+ HOLJAC) · davatelj: MINISTARSTVO GOSPODARSTVA\, 6.791 €/god.\n\nProfil 
+ općine: https://koncesijski-sat.vercel.app/#opcina/41942358B1551347900107
+ 3
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B15513479001073
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -50,16 +52,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-3228be36fa0f6314@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-b352c5f427ddeace@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20280623
 DTEND;VALUE=DATE:20280624
 SUMMARY:Ističe koncesija: HEP - PLIN  D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 23. 6. 2028.\n\n• HEP - PLIN  D.
  O.O. – Koncesija za opskrbu potrošača prirodnim plinom (DONJI MIHOLJAC
- )\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B1
- 5513479001073\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9
- . 11. 2026.
+ ) · davatelj: GRAD DONJI MIHOLJAC\n\nProfil općine: https://koncesijski-
+ sat.vercel.app/#opcina/41942358B15513479001073\nIzvor: Registar koncesija 
+ (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B15513479001073
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -69,8 +71,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-3228be36fa0f6314@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-b352c5f427ddeace@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20271223
 DTEND;VALUE=DATE:20271224
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP - PLIN  D.O.
@@ -78,8 +80,8 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP - PLIN  D.O.
 DESCRIPTION:23. 6. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• HEP - PLIN  D.O.O. – Koncesija za opskrbu potrošača prirodnim
-  plinom (DONJI MIHOLJAC)\n\nProfil općine: https://koncesijski-sat.vercel
- .app/#opcina/41942358B15513479001073
+  plinom (DONJI MIHOLJAC) · davatelj: GRAD DONJI MIHOLJAC\n\nProfil općin
+ e: https://koncesijski-sat.vercel.app/#opcina/41942358B15513479001073
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B15513479001073
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -90,18 +92,19 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-24a5899aa307b098@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-c06e5e1fca50c0d3@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20360927
 DTEND;VALUE=DATE:20360928
 SUMMARY:Ističe 2 koncesije · Donji Miholjac
 DESCRIPTION:2 ugovora o koncesiji ističe 27. 9. 2036. Godišnja fiksna nak
  nada: 46.208 €.\n\n• ŽITO D.D. – Koncesija za korištenje poljopriv
- rednog zemljišta u vlasništvu države (DONJI MIHOLJAC)\, 23.104 €/god.
- \n• ŽITO D.D. – Koncesija za korištenje poljoprivrednog zemljišta u
-  vlasništvu države (DONJI MIHOLJAC)\, 23.104 €/god.\n\nProfil općine:
-  https://koncesijski-sat.vercel.app/#opcina/41942358B15513479001073\nIzvor
- : Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ rednog zemljišta u vlasništvu države (DONJI MIHOLJAC) · davatelj: GRAD
+  DONJI MIHOLJAC\, 23.104 €/god.\n• ŽITO D.D. – Koncesija za korišt
+ enje poljoprivrednog zemljišta u vlasništvu države (DONJI MIHOLJAC) · 
+ davatelj: GRAD DONJI MIHOLJAC\, 23.104 €/god.\n\nProfil općine: https:/
+ /koncesijski-sat.vercel.app/#opcina/41942358B15513479001073\nIzvor: Regist
+ ar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B15513479001073
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -111,38 +114,40 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-24a5899aa307b098@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-c06e5e1fca50c0d3@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20360327
 DTEND;VALUE=DATE:20360328
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Donji Miholjac
 DESCRIPTION:27. 9. 2036. ističe 2 ugovora o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• ŽITO D.D. – Koncesija za korištenje poljoprivrednog zemljiš
- ta u vlasništvu države (DONJI MIHOLJAC)\, 23.104 €/god.\n• ŽITO D.D
- . – Koncesija za korištenje poljoprivrednog zemljišta u vlasništvu dr
- žave (DONJI MIHOLJAC)\, 23.104 €/god.\n\nProfil općine: https://konces
- ijski-sat.vercel.app/#opcina/41942358B15513479001073
+ ta u vlasništvu države (DONJI MIHOLJAC) · davatelj: GRAD DONJI MIHOLJAC
+ \, 23.104 €/god.\n• ŽITO D.D. – Koncesija za korištenje poljoprivr
+ ednog zemljišta u vlasništvu države (DONJI MIHOLJAC) · davatelj: GRAD 
+ DONJI MIHOLJAC\, 23.104 €/god.\n\nProfil općine: https://koncesijski-sa
+ t.vercel.app/#opcina/41942358B15513479001073
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B15513479001073
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Donji Miho
+ ljac
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-f2c9de4c833edfe9@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-184fe409a9699bc1@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20380422
 DTEND;VALUE=DATE:20380423
 SUMMARY:Ističe koncesija: KRNJAK  D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 22. 4. 2038. Godišnja fiksna nakn
  ada: 17.589 €.\n\n• KRNJAK  D.O.O. – Koncesija za korištenje poljop
- rivrednog zemljišta u vlasništvu države (DONJI MIHOLJAC)\, 17.589 €/g
- od.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358
- B15513479001073\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat
-  9. 11. 2026.
+ rivrednog zemljišta u vlasništvu države (DONJI MIHOLJAC) · davatelj: G
+ RAD DONJI MIHOLJAC\, 17.589 €/god.\n\nProfil općine: https://koncesijsk
+ i-sat.vercel.app/#opcina/41942358B15513479001073\nIzvor: Registar koncesij
+ a (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B15513479001073
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -152,16 +157,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-f2c9de4c833edfe9@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-184fe409a9699bc1@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20371022
 DTEND;VALUE=DATE:20371023
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (KRNJAK  D.O.O.)
 DESCRIPTION:22. 4. 2038. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• KRNJAK  D.O.O. – Koncesija za korištenje poljoprivrednog zemlj
- išta u vlasništvu države (DONJI MIHOLJAC)\, 17.589 €/god.\n\nProfil o
- pćine: https://koncesijski-sat.vercel.app/#opcina/41942358B15513479001073
+ išta u vlasništvu države (DONJI MIHOLJAC) · davatelj: GRAD DONJI MIHOL
+ JAC\, 17.589 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.ap
+ p/#opcina/41942358B15513479001073
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B15513479001073
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -172,19 +178,20 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-e523b4a8b9315a1d@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-48f21beb980eed9a@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20401231
 DTEND;VALUE=DATE:20410101
 SUMMARY:Ističe 2 koncesije · Donji Miholjac
 DESCRIPTION:2 ugovora o koncesiji ističe 31. 12. 2040. Godišnja fiksna na
  knada: 7.074 €.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauze
- tu površinu odobrenog eksploatacijskog polja (DONJI MIHOLJAC)\, 3.537 €
- /god.\n• INA-INDUSTRIJA NAFTE  D.D. – Dozvola za eksploataciju ugljiko
- vodika (prema Zakonu o ugljikovodicima) (DONJI MIHOLJAC)\, 3.537 €/god.\
- n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B155
- 13479001073\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 
- 11. 2026.
+ tu površinu odobrenog eksploatacijskog polja (DONJI MIHOLJAC) · davatelj
+ : MINISTARSTVO GOSPODARSTVA\, 3.537 €/god.\n• INA-INDUSTRIJA NAFTE  D.
+ D. – Dozvola za eksploataciju ugljikovodika (prema Zakonu o ugljikovodic
+ ima) (DONJI MIHOLJAC) · davatelj: MINISTARSTVO GOSPODARSTVA\, 3.537 €/g
+ od.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358
+ B15513479001073\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat
+  9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B15513479001073
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -194,37 +201,41 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-e523b4a8b9315a1d@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-48f21beb980eed9a@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20400630
 DTEND;VALUE=DATE:20400701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Donji Miholjac
 DESCRIPTION:31. 12. 2040. ističe 2 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauzetu površinu o
- dobrenog eksploatacijskog polja (DONJI MIHOLJAC)\, 3.537 €/god.\n• INA
- -INDUSTRIJA NAFTE  D.D. – Dozvola za eksploataciju ugljikovodika (prema 
- Zakonu o ugljikovodicima) (DONJI MIHOLJAC)\, 3.537 €/god.\n\nProfil opć
- ine: https://koncesijski-sat.vercel.app/#opcina/41942358B15513479001073
+ dobrenog eksploatacijskog polja (DONJI MIHOLJAC) · davatelj: MINISTARSTVO
+  GOSPODARSTVA\, 3.537 €/god.\n• INA-INDUSTRIJA NAFTE  D.D. – Dozvola
+  za eksploataciju ugljikovodika (prema Zakonu o ugljikovodicima) (DONJI MI
+ HOLJAC) · davatelj: MINISTARSTVO GOSPODARSTVA\, 3.537 €/god.\n\nProfil 
+ općine: https://koncesijski-sat.vercel.app/#opcina/41942358B1551347900107
+ 3
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B15513479001073
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Donji Miho
+ ljac
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-ba35f6676da0e65e@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-f265f0eeef5e3a6d@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20440321
 DTEND;VALUE=DATE:20440322
 SUMMARY:Ističe koncesija: KANAAN D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 21. 3. 2044. Godišnja fiksna nakn
  ada: 2.654 €.\n\n• KANAAN D.O.O. – Koncesija za zahvaćanje voda za 
- tehnološke potrebe (DONJI MIHOLJAC)\, 2.654 €/god.\n\nProfil općine: h
- ttps://koncesijski-sat.vercel.app/#opcina/41942358B15513479001073\nIzvor: 
- Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ tehnološke potrebe (DONJI MIHOLJAC) · davatelj: MINISTARSTVO ZAŠTITE OK
+ OLIŠA I ZELENE TRANZICIJE\, 2.654 €/god.\n\nProfil općine: https://kon
+ cesijski-sat.vercel.app/#opcina/41942358B15513479001073\nIzvor: Registar k
+ oncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B15513479001073
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -234,16 +245,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-ba35f6676da0e65e@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-f265f0eeef5e3a6d@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20430921
 DTEND;VALUE=DATE:20430922
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (KANAAN D.O.O.)
 DESCRIPTION:21. 3. 2044. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• KANAAN D.O.O. – Koncesija za zahvaćanje voda za tehnološke po
- trebe (DONJI MIHOLJAC)\, 2.654 €/god.\n\nProfil općine: https://koncesi
- jski-sat.vercel.app/#opcina/41942358B15513479001073
+ trebe (DONJI MIHOLJAC) · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠA I ZELEN
+ E TRANZICIJE\, 2.654 €/god.\n\nProfil općine: https://koncesijski-sat.v
+ ercel.app/#opcina/41942358B15513479001073
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B15513479001073
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -254,16 +266,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-e06c5893cf39b91d@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-7a7b2cbc8db1705c@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20451231
 DTEND;VALUE=DATE:20460101
 SUMMARY:Ističe koncesija: RADIO DONJI MIHOLJAC D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 31. 12. 2045. Godišnja fiksna nak
  nada: 66 €.\n\n• RADIO DONJI MIHOLJAC D.O.O. – Koncesija za obavljan
- je djelatnosti radija (DONJI MIHOLJAC)\, 66 €/god.\n\nProfil općine: ht
- tps://koncesijski-sat.vercel.app/#opcina/41942358B15513479001073\nIzvor: R
- egistar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ je djelatnosti radija (DONJI MIHOLJAC) · davatelj: AGENCIJA ZA ELEKTRONI
+ ČKE MEDIJE\, 66 €/god.\n\nProfil općine: https://koncesijski-sat.verce
+ l.app/#opcina/41942358B15513479001073\nIzvor: Registar koncesija (FINA)\, 
+ obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B15513479001073
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -273,8 +286,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-e06c5893cf39b91d@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-7a7b2cbc8db1705c@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20450630
 DTEND;VALUE=DATE:20450701
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (RADIO DONJI MIHO
@@ -282,8 +295,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (RADIO DONJI MIHO
 DESCRIPTION:31. 12. 2045. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• RADIO DONJI MIHOLJAC D.O.O. – Koncesija za obavljanje djelatno
- sti radija (DONJI MIHOLJAC)\, 66 €/god.\n\nProfil općine: https://konce
- sijski-sat.vercel.app/#opcina/41942358B15513479001073
+ sti radija (DONJI MIHOLJAC) · davatelj: AGENCIJA ZA ELEKTRONIČKE MEDIJE\
+ , 66 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcin
+ a/41942358B15513479001073
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B15513479001073
 TRANSP:TRANSPARENT
 BEGIN:VALARM

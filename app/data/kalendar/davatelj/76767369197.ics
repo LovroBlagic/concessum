@@ -1,0 +1,615 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · MINISTARSTVO POLJOPRIVREDE\, ŠUMARSTVA I 
+ RIBARSTVA
+X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje MINISTARSTVO POLJOPRIVREDE
+ \, ŠUMARSTVA I RIBARSTVA. Iz Registra koncesija (FINA\, data.gov.hr). Osv
+ ježava se nakon svake obrade podataka. https://koncesijski-sat.vercel.app
+ /#sat
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-4d6d2b91a521de00@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20271222
+DTEND;VALUE=DATE:20271223
+SUMMARY:Ističe koncesija: AGROPROTEINKA D.D.
+DESCRIPTION:1 ugovor o koncesiji ističe 22. 12. 2027.\n\n• AGROPROTEINKA
+  D.D. – Koncesija za obavljanje sakupljanja i toplinske prerade nusproiz
+ voda životinjskog porijekla (REPUBLIKA HRVATSKA)\n\nŠto ističe: https:/
+ /koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrad
+ a Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: AGROPROTEINKA D.D.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-4d6d2b91a521de00@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20270622
+DTEND;VALUE=DATE:20270623
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (AGROPROTEINKA D.
+ D.)
+DESCRIPTION:22. 12. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• AGROPROTEINKA D.D. – Koncesija za obavljanje sakupljanja i top
+ linske prerade nusproizvoda životinjskog porijekla (REPUBLIKA HRVATSKA)\n
+ \nŠto ističe: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (AGROPROTEINK
+ A D.D.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-09b1ca6d67c8490f@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20290331
+DTEND;VALUE=DATE:20290401
+SUMMARY:Ističe 23 koncesije · MINISTARSTVO POLJOPRIVREDE\, ŠUMARSTVA I R
+ IBARSTVA
+DESCRIPTION:23 ugovora o koncesiji ističe 31. 3. 2029. Godišnja fiksna na
+ knada: 122.167 €.\n\n• LOVIŠTE M-90 J.D.O.O. – Koncesija za prava l
+ ova na lovištu u vlasništvu RH (ZADARSKA ŽUPANIJA)\, 13.405 €/god.\n
+ • LOVAČKO RIBOLOVNA UDRUGA VETERANA DOMOVINSKOG RATA -VIDRA – Koncesi
+ ja za prava lova na lovištu u vlasništvu RH (VIROVITIČKO-PODRAVSKA ŽUP
+ ANIJA)\, 12.111 €/god.\n• LOVAČKO DRUŠTVO JELEN-JANKOVAC – Koncesi
+ ja za prava lova na lovištu u vlasništvu RH (VIROVITIČKO-PODRAVSKA ŽUP
+ ANIJA)\, 9.291 €/god.\n• LOVAČKA UDRUGA ZEC ČETEKOVAC – Koncesija 
+ za prava lova na lovištu u vlasništvu RH (VIROVITIČKO-PODRAVSKA ŽUPANI
+ JA)\, 8.295 €/god.\n• LOVAČKO DRUŠTVO RAVNA GORA SINAC – Koncesija
+  za prava lova na lovištu u vlasništvu RH (LIČKO-SENJSKA ŽUPANIJA)\, 8
+ .189 €/god.\n• LOVAČKO DRUŠTVO CVITUŠA LOVINAC – Koncesija za pra
+ va lova na lovištu u vlasništvu RH (LIČKO-SENJSKA ŽUPANIJA)\, 6.649 
+ €/god.\n• AUROMAR ZADRUGA – Koncesija za prava lova na lovištu u vl
+ asništvu RH (ZADARSKA ŽUPANIJA)\, 6.046 €/god.\n• LOVAČKA UDRUGA-PR
+ EDATOR – Koncesija za prava lova na lovištu u vlasništvu RH (ZADARSKA 
+ ŽUPANIJA)\, 5.322 €/god.\n• CUSTODIA D.O.O.ZA LOV\,POLJOPRIVREDU I TR
+ GOVINU – Koncesija za prava lova na lovištu u vlasništvu RH (ZADARSKA 
+ ŽUPANIJA)\, 5.309 €/god.\n• SAMOSTALNA HRVATSKA LOVACKA UDRUGA JELEN 
+ VOĆIN – Koncesija za prava lova na lovištu u vlasništvu RH (VIROVITI
+ ČKO-PODRAVSKA ŽUPANIJA)\, 4.659 €/god.\n• LOVAČKA UDRUGA RILIĆ –
+  Koncesija za prava lova na lovištu u vlasništvu RH (SPLITSKO-DALMATINSK
+ A ŽUPANIJA)\, 4.380 €/god.\n• DALMACIJALOV  D.O.O. – Koncesija za p
+ rava lova na lovištu u vlasništvu RH (SPLITSKO-DALMATINSKA ŽUPANIJA)\, 
+ 4.247 €/god.\n• PLOMINSKA GORA D.O.O. – Koncesija za prava lova na l
+ ovištu u vlasništvu RH (ISTARSKA ŽUPANIJA)\, 3.982 €/god.\n• LOVAČ
+ KA UDRUGA HRVI HRVATSKI SOKOL – Koncesija za prava lova na lovištu u vl
+ asništvu RH (KARLOVAČKA ŽUPANIJA)\, 3.982 €/god.\n• KAMENJARKA LOVA
+ ČKA UDRUGA – Koncesija za prava lova na lovištu u vlasništvu RH (ZADA
+ RSKA ŽUPANIJA)\, 3.809 €/god.\n• LOVAČKA UDRUGA JELEN MALA KAPELA 
+ – Koncesija za prava lova na lovištu u vlasništvu RH (KARLOVAČKA ŽUP
+ ANIJA)\, 3.550 €/god.\n• LOVAČKO DRUŠTVO OLUJA\, GOSPIĆ – Koncesi
+ ja za prava lova na lovištu u vlasništvu RH (LIČKO-SENJSKA ŽUPANIJA)\,
+  3.451 €/god.\n• LOVAČKO DRUŠTVO POSAVINA – Koncesija za prava lov
+ a na lovištu u vlasništvu RH (BRODSKO-POSAVSKA ŽUPANIJA)\, 3.384 €/go
+ d.\n• LOVACKA UDRUGA KUNA TOMPOJEVCI – Koncesija za prava lova na lovi
+ štu u vlasništvu RH (VUKOVARSKO-SRIJEMSKA ŽUPANIJA)\, 2.802 €/god.\n
+ • LOVAČKO DRUŠTVO GRAD ILOK – Koncesija za prava lova na lovištu u 
+ vlasništvu RH (VUKOVARSKO-SRIJEMSKA ŽUPANIJA)\, 2.668 €/god.\n• LOVA
+ ČKA UDRUGA DONJA KAŠTELA – Koncesija za prava lova na lovištu u vlasn
+ ištvu RH (SPLITSKO-DALMATINSKA ŽUPANIJA)\, 2.654 €/god.\n• TROGA LOV
+ AČKI OBRT VL.STIPAN ŠAŠLIN – Koncesija za prava lova na lovištu u vl
+ asništvu RH (OSJEČKO-BARANJSKA ŽUPANIJA)\, 2.124 €/god.\n• LOVAČKO
+  DRUŠTVO LISKA – Koncesija za prava lova na lovištu u vlasništvu RH (
+ DUBROVAČKO-NERETVANSKA ŽUPANIJA)\, 1.858 €/god.\n\nŠto ističe: https
+ ://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obr
+ ada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 23 koncesije · MINISTARSTVO POLJOPRIVREDE\, ŠUMARSTVA
+  I RIBARSTVA
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-09b1ca6d67c8490f@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20280930
+DTEND;VALUE=DATE:20281001
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 23 koncesije · MINISTARSTVO 
+ POLJOPRIVREDE\, ŠUMARSTVA I RIBARSTVA
+DESCRIPTION:31. 3. 2029. ističe 23 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• LOVIŠTE M-90 J.D.O.O. – Koncesija za prava lova na lovištu 
+ u vlasništvu RH (ZADARSKA ŽUPANIJA)\, 13.405 €/god.\n• LOVAČKO RIBO
+ LOVNA UDRUGA VETERANA DOMOVINSKOG RATA -VIDRA – Koncesija za prava lova 
+ na lovištu u vlasništvu RH (VIROVITIČKO-PODRAVSKA ŽUPANIJA)\, 12.111 
+ €/god.\n• LOVAČKO DRUŠTVO JELEN-JANKOVAC – Koncesija za prava lova
+  na lovištu u vlasništvu RH (VIROVITIČKO-PODRAVSKA ŽUPANIJA)\, 9.291 
+ €/god.\n• LOVAČKA UDRUGA ZEC ČETEKOVAC – Koncesija za prava lova n
+ a lovištu u vlasništvu RH (VIROVITIČKO-PODRAVSKA ŽUPANIJA)\, 8.295 €
+ /god.\n• LOVAČKO DRUŠTVO RAVNA GORA SINAC – Koncesija za prava lova 
+ na lovištu u vlasništvu RH (LIČKO-SENJSKA ŽUPANIJA)\, 8.189 €/god.\n
+ • LOVAČKO DRUŠTVO CVITUŠA LOVINAC – Koncesija za prava lova na lovi
+ štu u vlasništvu RH (LIČKO-SENJSKA ŽUPANIJA)\, 6.649 €/god.\n• AUR
+ OMAR ZADRUGA – Koncesija za prava lova na lovištu u vlasništvu RH (ZAD
+ ARSKA ŽUPANIJA)\, 6.046 €/god.\n• LOVAČKA UDRUGA-PREDATOR – Konces
+ ija za prava lova na lovištu u vlasništvu RH (ZADARSKA ŽUPANIJA)\, 5.32
+ 2 €/god.\n• CUSTODIA D.O.O.ZA LOV\,POLJOPRIVREDU I TRGOVINU – Konces
+ ija za prava lova na lovištu u vlasništvu RH (ZADARSKA ŽUPANIJA)\, 5.30
+ 9 €/god.\n• SAMOSTALNA HRVATSKA LOVACKA UDRUGA JELEN VOĆIN – Konces
+ ija za prava lova na lovištu u vlasništvu RH (VIROVITIČKO-PODRAVSKA ŽU
+ PANIJA)\, 4.659 €/god.\n• LOVAČKA UDRUGA RILIĆ – Koncesija za prav
+ a lova na lovištu u vlasništvu RH (SPLITSKO-DALMATINSKA ŽUPANIJA)\, 4.3
+ 80 €/god.\n• DALMACIJALOV  D.O.O. – Koncesija za prava lova na lovi
+ štu u vlasništvu RH (SPLITSKO-DALMATINSKA ŽUPANIJA)\, 4.247 €/god.\n
+ • PLOMINSKA GORA D.O.O. – Koncesija za prava lova na lovištu u vlasni
+ štvu RH (ISTARSKA ŽUPANIJA)\, 3.982 €/god.\n• LOVAČKA UDRUGA HRVI H
+ RVATSKI SOKOL – Koncesija za prava lova na lovištu u vlasništvu RH (KA
+ RLOVAČKA ŽUPANIJA)\, 3.982 €/god.\n• KAMENJARKA LOVAČKA UDRUGA – 
+ Koncesija za prava lova na lovištu u vlasništvu RH (ZADARSKA ŽUPANIJA)\
+ , 3.809 €/god.\n• LOVAČKA UDRUGA JELEN MALA KAPELA – Koncesija za p
+ rava lova na lovištu u vlasništvu RH (KARLOVAČKA ŽUPANIJA)\, 3.550 €
+ /god.\n• LOVAČKO DRUŠTVO OLUJA\, GOSPIĆ – Koncesija za prava lova n
+ a lovištu u vlasništvu RH (LIČKO-SENJSKA ŽUPANIJA)\, 3.451 €/god.\n
+ • LOVAČKO DRUŠTVO POSAVINA – Koncesija za prava lova na lovištu u v
+ lasništvu RH (BRODSKO-POSAVSKA ŽUPANIJA)\, 3.384 €/god.\n• LOVACKA U
+ DRUGA KUNA TOMPOJEVCI – Koncesija za prava lova na lovištu u vlasništv
+ u RH (VUKOVARSKO-SRIJEMSKA ŽUPANIJA)\, 2.802 €/god.\n• LOVAČKO DRUŠ
+ TVO GRAD ILOK – Koncesija za prava lova na lovištu u vlasništvu RH (VU
+ KOVARSKO-SRIJEMSKA ŽUPANIJA)\, 2.668 €/god.\n• LOVAČKA UDRUGA DONJA 
+ KAŠTELA – Koncesija za prava lova na lovištu u vlasništvu RH (SPLITSK
+ O-DALMATINSKA ŽUPANIJA)\, 2.654 €/god.\n• TROGA LOVAČKI OBRT VL.STIP
+ AN ŠAŠLIN – Koncesija za prava lova na lovištu u vlasništvu RH (OSJE
+ ČKO-BARANJSKA ŽUPANIJA)\, 2.124 €/god.\n• LOVAČKO DRUŠTVO LISKA 
+ – Koncesija za prava lova na lovištu u vlasništvu RH (DUBROVAČKO-NERE
+ TVANSKA ŽUPANIJA)\, 1.858 €/god.\n\nŠto ističe: https://koncesijski-s
+ at.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 23 koncesije · MINISTARS
+ TVO POLJOPRIVREDE\, ŠUMARSTVA I RIBARSTVA
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-2f5ebda26a6b9555@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20300331
+DTEND;VALUE=DATE:20300401
+SUMMARY:Ističe 11 koncesija · MINISTARSTVO POLJOPRIVREDE\, ŠUMARSTVA I R
+ IBARSTVA
+DESCRIPTION:11 ugovora o koncesiji ističe 31. 3. 2030. Godišnja fiksna na
+ knada: 69.025 €.\n\n• GAMA LOV D.O.O. – Koncesija za prava lova na l
+ ovištu u vlasništvu RH (KARLOVAČKA ŽUPANIJA)\, 12.609 €/god.\n• GA
+ MA LOV D.O.O. – Koncesija za prava lova na lovištu u vlasništvu RH (KA
+ RLOVAČKA ŽUPANIJA)\, 12.609 €/god.\n• LIKA LOVSTVO D.O.O. – Konces
+ ija za prava lova na lovištu u vlasništvu RH (SENJ\, Grad Senj)\, 9.305 
+ €/god.\n• LOVAČKO DRUŠTVO LANE PERUŠIĆ – Koncesija za prava lova
+  na lovištu u vlasništvu RH (LIČKO-SENJSKA ŽUPANIJA)\, 6.636 €/god.\
+ n• DANGUBE D.O.O. – Koncesija za prava lova na lovištu u vlasništvu 
+ RH (SISAČKO-MOSLAVAČKA ŽUPANIJA)\, 6.238 €/god.\n• LOVAČKO DRUŠTV
+ O MEDVJED – Koncesija za prava lova na lovištu u vlasništvu RH (KARLOV
+ AČKA ŽUPANIJA)\, 5.309 €/god.\n• LOVAČKA UDRUGA ŠLJUKA LEKENIK –
+  Koncesija za prava lova na lovištu u vlasništvu RH (SISAČKO-MOSLAVAČK
+ A ŽUPANIJA)\, 5.043 €/god.\n• LOVAČKO DRUŠTVO VELEBIT – Koncesija
+  za prava lova na lovištu u vlasništvu RH (ZADARSKA ŽUPANIJA)\, 3.539 
+ €/god.\n• LOVAČKA UDRUGA VEPAR POLOJ – Koncesija za prava lova na l
+ ovištu u vlasništvu RH (KARLOVAČKA ŽUPANIJA)\, 3.318 €/god.\n• MOD
+ RO MORE D.O.O. ZA UGOSTITELJSTVO I TURIZAM – Koncesija za prava lova na 
+ lovištu u vlasništvu RH (SPLITSKO-DALMATINSKA ŽUPANIJA)\, 2.946 €/god
+ .\n• LOVAČKO DRUŠTVO SLOGA – Koncesija za prava lova na lovištu u v
+ lasništvu RH (VUKOVARSKO-SRIJEMSKA ŽUPANIJA)\, 1.473 €/god.\n\nŠto is
+ tiče: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija 
+ (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 11 koncesija · MINISTARSTVO POLJOPRIVREDE\, ŠUMARSTVA
+  I RIBARSTVA
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-2f5ebda26a6b9555@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20290930
+DTEND;VALUE=DATE:20291001
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 11 koncesija · MINISTARSTVO 
+ POLJOPRIVREDE\, ŠUMARSTVA I RIBARSTVA
+DESCRIPTION:31. 3. 2030. ističe 11 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• GAMA LOV D.O.O. – Koncesija za prava lova na lovištu u vlasn
+ ištvu RH (KARLOVAČKA ŽUPANIJA)\, 12.609 €/god.\n• GAMA LOV D.O.O. 
+ – Koncesija za prava lova na lovištu u vlasništvu RH (KARLOVAČKA ŽUP
+ ANIJA)\, 12.609 €/god.\n• LIKA LOVSTVO D.O.O. – Koncesija za prava l
+ ova na lovištu u vlasništvu RH (SENJ\, Grad Senj)\, 9.305 €/god.\n• 
+ LOVAČKO DRUŠTVO LANE PERUŠIĆ – Koncesija za prava lova na lovištu u
+  vlasništvu RH (LIČKO-SENJSKA ŽUPANIJA)\, 6.636 €/god.\n• DANGUBE D
+ .O.O. – Koncesija za prava lova na lovištu u vlasništvu RH (SISAČKO-M
+ OSLAVAČKA ŽUPANIJA)\, 6.238 €/god.\n• LOVAČKO DRUŠTVO MEDVJED – 
+ Koncesija za prava lova na lovištu u vlasništvu RH (KARLOVAČKA ŽUPANIJ
+ A)\, 5.309 €/god.\n• LOVAČKA UDRUGA ŠLJUKA LEKENIK – Koncesija za 
+ prava lova na lovištu u vlasništvu RH (SISAČKO-MOSLAVAČKA ŽUPANIJA)\,
+  5.043 €/god.\n• LOVAČKO DRUŠTVO VELEBIT – Koncesija za prava lova
+  na lovištu u vlasništvu RH (ZADARSKA ŽUPANIJA)\, 3.539 €/god.\n• L
+ OVAČKA UDRUGA VEPAR POLOJ – Koncesija za prava lova na lovištu u vlasn
+ ištvu RH (KARLOVAČKA ŽUPANIJA)\, 3.318 €/god.\n• MODRO MORE D.O.O. 
+ ZA UGOSTITELJSTVO I TURIZAM – Koncesija za prava lova na lovištu u vlas
+ ništvu RH (SPLITSKO-DALMATINSKA ŽUPANIJA)\, 2.946 €/god.\n• LOVAČKO
+  DRUŠTVO SLOGA – Koncesija za prava lova na lovištu u vlasništvu RH (
+ VUKOVARSKO-SRIJEMSKA ŽUPANIJA)\, 1.473 €/god.\n\nŠto ističe: https://
+ koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 11 koncesija · MINISTARS
+ TVO POLJOPRIVREDE\, ŠUMARSTVA I RIBARSTVA
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-625a87eac865f022@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20310331
+DTEND;VALUE=DATE:20310401
+SUMMARY:Ističe koncesija: FERMOPROMET  D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 31. 3. 2031. Godišnja fiksna nakn
+ ada: 14.732 €.\n\n• FERMOPROMET  D.O.O. – Koncesija za prava lova na
+  lovištu u vlasništvu RH (OSJEČKO-BARANJSKA ŽUPANIJA)\, 14.732 €/god
+ .\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Regista
+ r koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: FERMOPROMET  D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-625a87eac865f022@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20300930
+DTEND;VALUE=DATE:20301001
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (FERMOPROMET  D.O
+ .O.)
+DESCRIPTION:31. 3. 2031. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• FERMOPROMET  D.O.O. – Koncesija za prava lova na lovištu u vla
+ sništvu RH (OSJEČKO-BARANJSKA ŽUPANIJA)\, 14.732 €/god.\n\nŠto isti
+ če: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (FERMOPROMET 
+  D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-621e82a3b7cc831e@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20330331
+DTEND;VALUE=DATE:20330401
+SUMMARY:Ističe 2 koncesije · MINISTARSTVO POLJOPRIVREDE\, ŠUMARSTVA I RI
+ BARSTVA
+DESCRIPTION:2 ugovora o koncesiji ističe 31. 3. 2033. Godišnja fiksna nak
+ nada: 41.586 €.\n\n• LU HRVATSKA BANOVINA SISAK – Koncesija za prava
+  lova na lovištu u vlasništvu RH (SISAČKO-MOSLAVAČKA ŽUPANIJA)\, 28.0
+ 19 €/god.\n• S.M.F. LOVAC D.O.O. – Koncesija za prava lova na loviš
+ tu u vlasništvu RH (ZAGREBAČKA ŽUPANIJA)\, 13.567 €/god.\n\nŠto isti
+ če: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (F
+ INA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 2 koncesije · MINISTARSTVO POLJOPRIVREDE\, ŠUMARSTVA 
+ I RIBARSTVA
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-621e82a3b7cc831e@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20320930
+DTEND;VALUE=DATE:20321001
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · MINISTARSTVO P
+ OLJOPRIVREDE\, ŠUMARSTVA I RIBARSTVA
+DESCRIPTION:31. 3. 2033. ističe 2 ugovora o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• LU HRVATSKA BANOVINA SISAK – Koncesija za prava lova na loviš
+ tu u vlasništvu RH (SISAČKO-MOSLAVAČKA ŽUPANIJA)\, 28.019 €/god.\n
+ • S.M.F. LOVAC D.O.O. – Koncesija za prava lova na lovištu u vlasniš
+ tvu RH (ZAGREBAČKA ŽUPANIJA)\, 13.567 €/god.\n\nŠto ističe: https://
+ koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije · MINISTARST
+ VO POLJOPRIVREDE\, ŠUMARSTVA I RIBARSTVA
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-f05f9702e3c98fc6@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20340331
+DTEND;VALUE=DATE:20340401
+SUMMARY:Ističe koncesija: PUGOS-GRADNJA D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 31. 3. 2034. Godišnja fiksna nakn
+ ada: 10.220 €.\n\n• PUGOS-GRADNJA D.O.O. – Koncesija za prava lova n
+ a lovištu u vlasništvu RH (OSJEČKO-BARANJSKA ŽUPANIJA)\, 10.220 €/go
+ d.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Regist
+ ar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: PUGOS-GRADNJA D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-f05f9702e3c98fc6@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20330930
+DTEND;VALUE=DATE:20331001
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PUGOS-GRADNJA D.
+ O.O.)
+DESCRIPTION:31. 3. 2034. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• PUGOS-GRADNJA D.O.O. – Koncesija za prava lova na lovištu u vl
+ asništvu RH (OSJEČKO-BARANJSKA ŽUPANIJA)\, 10.220 €/god.\n\nŠto isti
+ če: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PUGOS-GRADNJ
+ A D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-10f21c117769a398@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20350331
+DTEND;VALUE=DATE:20350401
+SUMMARY:Ističe 11 koncesija · MINISTARSTVO POLJOPRIVREDE\, ŠUMARSTVA I R
+ IBARSTVA
+DESCRIPTION:11 ugovora o koncesiji ističe 31. 3. 2035. Godišnja fiksna na
+ knada: 245.296 €.\n\n• L.G. ?MOSLAVINA PLUS? D.O.O – Koncesija za pr
+ ava lova na lovištu u vlasništvu RH (BJELOVARSKO-BILOGORSKA ŽUPANIJA)\,
+  148.579 €/god.\n• LU PODLOŽJE-KLJUČEVI – Koncesija za prava lova 
+ na lovištu u vlasništvu RH (BRODSKO-POSAVSKA ŽUPANIJA)\, 13.936 €/god
+ .\n• LOVIŠTE PRKOS D.O.O. – Koncesija za prava lova na lovištu u vla
+ sništvu RH (OSJEČKO-BARANJSKA ŽUPANIJA)\, 13.538 €/god.\n• TROMEĐA
+  D.O.O. – Koncesija za prava lova na lovištu u vlasništvu RH (VUKOVARS
+ KO-SRIJEMSKA ŽUPANIJA)\, 13.432 €/god.\n• LD VEPAR – Koncesija za p
+ rava lova na lovištu u vlasništvu RH (BJELOVARSKO-BILOGORSKA ŽUPANIJA)\
+ , 10.954 €/god.\n• LOVAČKA UDRUGA 'VETERAN' – Koncesija za prava lo
+ va na lovištu u vlasništvu RH (OSJEČKO-BARANJSKA ŽUPANIJA)\, 10.751 
+ €/god.\n• GAVRAN D.O.O. – Koncesija za prava lova na lovištu u vlas
+ ništvu RH (OSJEČKO-BARANJSKA ŽUPANIJA)\, 9.954 €/god.\n• BALKAN BAR
+ ANJA LOV D.O.O. – Koncesija za prava lova na lovištu u vlasništvu RH (
+ OSJEČKO-BARANJSKA ŽUPANIJA)\, 7.764 €/god.\n• BALKAN BOROVIK LOV D.O
+ .O. – Koncesija za prava lova na lovištu u vlasništvu RH (OSJEČKO-BAR
+ ANJSKA ŽUPANIJA)\, 7.695 €/god.\n• LOVAČKO DRUŠTVO   SRNDAĆ – Ko
+ ncesija za prava lova na lovištu u vlasništvu RH (PRIMORSKO-GORANSKA ŽU
+ PANIJA)\, 6.702 €/god.\n• UNOCOMMERCE D.O.O. – Koncesija za prava lo
+ va na lovištu u vlasništvu RH (VUKOVARSKO-SRIJEMSKA ŽUPANIJA)\, 1.991 
+ €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: 
+ Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 11 koncesija · MINISTARSTVO POLJOPRIVREDE\, ŠUMARSTVA
+  I RIBARSTVA
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-10f21c117769a398@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20340930
+DTEND;VALUE=DATE:20341001
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 11 koncesija · MINISTARSTVO 
+ POLJOPRIVREDE\, ŠUMARSTVA I RIBARSTVA
+DESCRIPTION:31. 3. 2035. ističe 11 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• L.G. ?MOSLAVINA PLUS? D.O.O – Koncesija za prava lova na lovi
+ štu u vlasništvu RH (BJELOVARSKO-BILOGORSKA ŽUPANIJA)\, 148.579 €/god
+ .\n• LU PODLOŽJE-KLJUČEVI – Koncesija za prava lova na lovištu u vl
+ asništvu RH (BRODSKO-POSAVSKA ŽUPANIJA)\, 13.936 €/god.\n• LOVIŠTE 
+ PRKOS D.O.O. – Koncesija za prava lova na lovištu u vlasništvu RH (OSJ
+ EČKO-BARANJSKA ŽUPANIJA)\, 13.538 €/god.\n• TROMEĐA D.O.O. – Konc
+ esija za prava lova na lovištu u vlasništvu RH (VUKOVARSKO-SRIJEMSKA ŽU
+ PANIJA)\, 13.432 €/god.\n• LD VEPAR – Koncesija za prava lova na lov
+ ištu u vlasništvu RH (BJELOVARSKO-BILOGORSKA ŽUPANIJA)\, 10.954 €/god
+ .\n• LOVAČKA UDRUGA 'VETERAN' – Koncesija za prava lova na lovištu u
+  vlasništvu RH (OSJEČKO-BARANJSKA ŽUPANIJA)\, 10.751 €/god.\n• GAVR
+ AN D.O.O. – Koncesija za prava lova na lovištu u vlasništvu RH (OSJEČ
+ KO-BARANJSKA ŽUPANIJA)\, 9.954 €/god.\n• BALKAN BARANJA LOV D.O.O. 
+ – Koncesija za prava lova na lovištu u vlasništvu RH (OSJEČKO-BARANJS
+ KA ŽUPANIJA)\, 7.764 €/god.\n• BALKAN BOROVIK LOV D.O.O. – Koncesij
+ a za prava lova na lovištu u vlasništvu RH (OSJEČKO-BARANJSKA ŽUPANIJA
+ )\, 7.695 €/god.\n• LOVAČKO DRUŠTVO   SRNDAĆ – Koncesija za prava
+  lova na lovištu u vlasništvu RH (PRIMORSKO-GORANSKA ŽUPANIJA)\, 6.702 
+ €/god.\n• UNOCOMMERCE D.O.O. – Koncesija za prava lova na lovištu u
+  vlasništvu RH (VUKOVARSKO-SRIJEMSKA ŽUPANIJA)\, 1.991 €/god.\n\nŠto 
+ ističe: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 11 koncesija · MINISTARS
+ TVO POLJOPRIVREDE\, ŠUMARSTVA I RIBARSTVA
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-2d1b40a6850cadd9@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20360331
+DTEND;VALUE=DATE:20360401
+SUMMARY:Ističe 3 koncesije · MINISTARSTVO POLJOPRIVREDE\, ŠUMARSTVA I RI
+ BARSTVA
+DESCRIPTION:3 ugovora o koncesiji ističe 31. 3. 2036. Godišnja fiksna nak
+ nada: 48.974 €.\n\n• INTER-PROMET D.O.O. – Koncesija za prava lova n
+ a lovištu u vlasništvu RH (BJELOVARSKO-BILOGORSKA ŽUPANIJA)\, 40.082 
+ €/god.\n• LOVAČKO DRUŠTVO JAREBICA – Koncesija za prava lova na lo
+ vištu u vlasništvu RH (SPLITSKO-DALMATINSKA ŽUPANIJA)\, 4.778 €/god.\
+ n• 'SOKOL'LOVAČKO DRUŠTVO – Koncesija za prava lova na lovištu u vl
+ asništvu RH (ZAGREBAČKA ŽUPANIJA)\, 4.114 €/god.\n\nŠto ističe: htt
+ ps://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, o
+ brada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 3 koncesije · MINISTARSTVO POLJOPRIVREDE\, ŠUMARSTVA 
+ I RIBARSTVA
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-2d1b40a6850cadd9@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20350930
+DTEND;VALUE=DATE:20351001
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · MINISTARSTVO P
+ OLJOPRIVREDE\, ŠUMARSTVA I RIBARSTVA
+DESCRIPTION:31. 3. 2036. ističe 3 ugovora o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• INTER-PROMET D.O.O. – Koncesija za prava lova na lovištu u vl
+ asništvu RH (BJELOVARSKO-BILOGORSKA ŽUPANIJA)\, 40.082 €/god.\n• LOV
+ AČKO DRUŠTVO JAREBICA – Koncesija za prava lova na lovištu u vlasniš
+ tvu RH (SPLITSKO-DALMATINSKA ŽUPANIJA)\, 4.778 €/god.\n• 'SOKOL'LOVA
+ ČKO DRUŠTVO – Koncesija za prava lova na lovištu u vlasništvu RH (ZA
+ GREBAČKA ŽUPANIJA)\, 4.114 €/god.\n\nŠto ističe: https://koncesijski
+ -sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · MINISTARST
+ VO POLJOPRIVREDE\, ŠUMARSTVA I RIBARSTVA
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-d36a0496afd1df38@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20390331
+DTEND;VALUE=DATE:20390401
+SUMMARY:Ističe 6 koncesija · MINISTARSTVO POLJOPRIVREDE\, ŠUMARSTVA I RI
+ BARSTVA
+DESCRIPTION:6 ugovora o koncesiji ističe 31. 3. 2039. Godišnja fiksna nak
+ nada: 51.831 €.\n\n• LOVAČKA UDRUGA TRSTIKA – Koncesija za prava lo
+ va na lovištu u vlasništvu RH (SISAČKO-MOSLAVAČKA ŽUPANIJA)\, 10.883 
+ €/god.\n• LOVAČKA UDRUGA MARČA – Koncesija za prava lova na loviš
+ tu u vlasništvu RH (ZAGREBAČKA ŽUPANIJA)\, 10.460 €/god.\n• LOVAČK
+ A UDRUGA OTOČAC – Koncesija za prava lova na lovištu u vlasništvu RH 
+ (LIČKO-SENJSKA ŽUPANIJA)\, 9.954 €/god.\n• STIL LOV D.O.O. – Konce
+ sija za prava lova na lovištu u vlasništvu RH (LIČKO-SENJSKA ŽUPANIJA)
+ \, 9.423 €/god.\n• KARLOVIĆ\, OBRT ZA UGOSTITELJSTVO\, LOV I TURISTI
+ ČKE USLUGE\, VL. MARIJAN KARLOVIĆ – Koncesija za prava lova na lovišt
+ u u vlasništvu RH (SISAČKO-MOSLAVAČKA ŽUPANIJA)\, 6.930 €/god.\n• 
+ BALKAN BOROVIK LOV D.O.O. – Koncesija za prava lova na lovištu u vlasni
+ štvu RH (OSJEČKO-BARANJSKA ŽUPANIJA)\, 4.181 €/god.\n\nŠto ističe: 
+ https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\
+ , obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 6 koncesija · MINISTARSTVO POLJOPRIVREDE\, ŠUMARSTVA 
+ I RIBARSTVA
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-d36a0496afd1df38@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20380930
+DTEND;VALUE=DATE:20381001
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 6 koncesija · MINISTARSTVO P
+ OLJOPRIVREDE\, ŠUMARSTVA I RIBARSTVA
+DESCRIPTION:31. 3. 2039. ističe 6 ugovora o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• LOVAČKA UDRUGA TRSTIKA – Koncesija za prava lova na lovištu 
+ u vlasništvu RH (SISAČKO-MOSLAVAČKA ŽUPANIJA)\, 10.883 €/god.\n• L
+ OVAČKA UDRUGA MARČA – Koncesija za prava lova na lovištu u vlasništv
+ u RH (ZAGREBAČKA ŽUPANIJA)\, 10.460 €/god.\n• LOVAČKA UDRUGA OTOČA
+ C – Koncesija za prava lova na lovištu u vlasništvu RH (LIČKO-SENJSKA
+  ŽUPANIJA)\, 9.954 €/god.\n• STIL LOV D.O.O. – Koncesija za prava l
+ ova na lovištu u vlasništvu RH (LIČKO-SENJSKA ŽUPANIJA)\, 9.423 €/go
+ d.\n• KARLOVIĆ\, OBRT ZA UGOSTITELJSTVO\, LOV I TURISTIČKE USLUGE\, VL
+ . MARIJAN KARLOVIĆ – Koncesija za prava lova na lovištu u vlasništvu 
+ RH (SISAČKO-MOSLAVAČKA ŽUPANIJA)\, 6.930 €/god.\n• BALKAN BOROVIK L
+ OV D.O.O. – Koncesija za prava lova na lovištu u vlasništvu RH (OSJEČ
+ KO-BARANJSKA ŽUPANIJA)\, 4.181 €/god.\n\nŠto ističe: https://koncesij
+ ski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 6 koncesija · MINISTARST
+ VO POLJOPRIVREDE\, ŠUMARSTVA I RIBARSTVA
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-a17c36ee498443e7@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20430331
+DTEND;VALUE=DATE:20430401
+SUMMARY:Ističe koncesija: ZRINSKA GORA II D.O.O. ZAGREB
+DESCRIPTION:1 ugovor o koncesiji ističe 31. 3. 2043. Godišnja fiksna nakn
+ ada: 6.148 €.\n\n• ZRINSKA GORA II D.O.O. ZAGREB – Koncesija za prav
+ a lova na lovištu u vlasništvu RH (SISAČKO-MOSLAVAČKA ŽUPANIJA)\, 6.1
+ 48 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzvo
+ r: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: ZRINSKA GORA II D.O.O. ZAGREB
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-a17c36ee498443e7@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20420930
+DTEND;VALUE=DATE:20421001
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ZRINSKA GORA II 
+ D.O.O. ZAGREB)
+DESCRIPTION:31. 3. 2043. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• ZRINSKA GORA II D.O.O. ZAGREB – Koncesija za prava lova na lovi
+ štu u vlasništvu RH (SISAČKO-MOSLAVAČKA ŽUPANIJA)\, 6.148 €/god.\n\
+ nŠto ističe: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ZRINSKA GORA
+  II D.O.O. ZAGREB)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

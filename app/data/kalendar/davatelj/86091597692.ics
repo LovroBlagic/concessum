@@ -1,0 +1,55 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · URED DRŽAVNE UPRAVE DUBROVAČKO-NERETVANS
+ KE ŽUPANIJE
+X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje URED DRŽAVNE UPRAVE DUBRO
+ VAČKO-NERETVANSKE ŽUPANIJE. Iz Registra koncesija (FINA\, data.gov.hr). 
+ Osvježava se nakon svake obrade podataka. https://koncesijski-sat.vercel.
+ app/#sat
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-998bbe16dbf2290c@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20350425
+DTEND;VALUE=DATE:20350426
+SUMMARY:Ističe koncesija: PGM  RAGUSA D.D.
+DESCRIPTION:1 ugovor o koncesiji ističe 25. 4. 2035.\n\n• PGM  RAGUSA D.
+ D. – Koncesija za zauzetu površinu odobrenog eksploatacijskog polja (Ž
+ UPA DUBROVAČKA\, Općina Župa dubrovačka)\n\nŠto ističe: https://konc
+ esijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Kon
+ cesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: PGM  RAGUSA D.D.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-998bbe16dbf2290c@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20341025
+DTEND;VALUE=DATE:20341026
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PGM  RAGUSA D.D.
+ )
+DESCRIPTION:25. 4. 2035. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• PGM  RAGUSA D.D. – Koncesija za zauzetu površinu odobrenog eks
+ ploatacijskog polja (ŽUPA DUBROVAČKA\, Općina Župa dubrovačka)\n\nŠt
+ o ističe: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PGM  RAGUSA 
+ D.D.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

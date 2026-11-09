@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · OPĆINA FERDINANDOVAC
+X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje OPĆINA FERDINANDOVAC. Iz 
+ Registra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade 
+ podataka. https://koncesijski-sat.vercel.app/#sat
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-3ce1cd2b5db629cd@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20270630
+DTEND;VALUE=DATE:20270701
+SUMMARY:Ističe koncesija: DIMKO D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 30. 6. 2027. Godišnja fiksna nakn
+ ada: 267 €.\n\n• DIMKO D.O.O. – Koncesija za obavljanje dimnjačarsk
+ ih poslova (FERDINANDOVAC\, Općina Ferdinandovac)\, 267 €/god.\n\nŠto 
+ ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesij
+ a (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: DIMKO D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-3ce1cd2b5db629cd@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261231
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DIMKO D.O.O.)
+DESCRIPTION:30. 6. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• DIMKO D.O.O. – Koncesija za obavljanje dimnjačarskih poslova (
+ FERDINANDOVAC\, Općina Ferdinandovac)\, 267 €/god.\n\nŠto ističe: htt
+ ps://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DIMKO D.O.O.
+ )
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

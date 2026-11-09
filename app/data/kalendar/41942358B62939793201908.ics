@@ -4,24 +4,25 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Općina Lekenik
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Lekenik. Iz Regi
- stra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade poda
- taka. https://koncesijski-sat.vercel.app/#opcina/41942358B62939793201908
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Općina Lekenik (pregled
+ \, svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježava 
+ se nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#opcina
+ /41942358B62939793201908
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-63f70de140eb78b3@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-e7e713b1a78fe977@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20271113
 DTEND;VALUE=DATE:20271114
 SUMMARY:Ističe koncesija: ASPECT CROATIA KFT.
 DESCRIPTION:1 ugovor o koncesiji ističe 13. 11. 2027. Godišnja fiksna nak
  nada: 4.934 €.\n\n• ASPECT CROATIA KFT. – Dozvola za istraživanje u
- gljikovodika (prema Zakonu o ugljikovodicima) (LEKENIK)\, 4.934 €/god.\n
- \nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B6293
- 9793201908\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 1
- 1. 2026.
+ gljikovodika (prema Zakonu o ugljikovodicima) (LEKENIK) · davatelj: MINIS
+ TARSTVO GOSPODARSTVA\, 4.934 €/god.\n\nProfil općine: https://koncesijs
+ ki-sat.vercel.app/#opcina/41942358B62939793201908\nIzvor: Registar koncesi
+ ja (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B62939793201908
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -31,8 +32,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-63f70de140eb78b3@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-e7e713b1a78fe977@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270513
 DTEND;VALUE=DATE:20270514
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ASPECT CROATIA K
@@ -40,8 +41,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ASPECT CROATIA K
 DESCRIPTION:13. 11. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• ASPECT CROATIA KFT. – Dozvola za istraživanje ugljikovodika (
- prema Zakonu o ugljikovodicima) (LEKENIK)\, 4.934 €/god.\n\nProfil opći
- ne: https://koncesijski-sat.vercel.app/#opcina/41942358B62939793201908
+ prema Zakonu o ugljikovodicima) (LEKENIK) · davatelj: MINISTARSTVO GOSPOD
+ ARSTVA\, 4.934 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.
+ app/#opcina/41942358B62939793201908
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B62939793201908
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -52,16 +54,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-d9d1049f2a3c3d54@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-3d92b461a7e2f280@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20280310
 DTEND;VALUE=DATE:20280311
 SUMMARY:Ističe koncesija: ELDIM\, MARIO GJURETIĆ
 DESCRIPTION:1 ugovor o koncesiji ističe 10. 3. 2028. Godišnja fiksna nakn
  ada: 664 €.\n\n• ELDIM\, MARIO GJURETIĆ – Koncesija za obavljanje d
- imnjačarskih poslova (LEKENIK)\, 664 €/god.\n\nProfil općine: https://
- koncesijski-sat.vercel.app/#opcina/41942358B62939793201908\nIzvor: Regista
- r koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ imnjačarskih poslova (LEKENIK) · davatelj: OPĆINA LEKENIK\, 664 €/god
+ .\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B6
+ 2939793201908\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9
+ . 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B62939793201908
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -71,8 +74,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-d9d1049f2a3c3d54@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-3d92b461a7e2f280@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270910
 DTEND;VALUE=DATE:20270911
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ELDIM\, MARIO GJ
@@ -80,8 +83,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ELDIM\, MARIO GJ
 DESCRIPTION:10. 3. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• ELDIM\, MARIO GJURETIĆ – Koncesija za obavljanje dimnjačarski
- h poslova (LEKENIK)\, 664 €/god.\n\nProfil općine: https://koncesijski-
- sat.vercel.app/#opcina/41942358B62939793201908
+ h poslova (LEKENIK) · davatelj: OPĆINA LEKENIK\, 664 €/god.\n\nProfil 
+ općine: https://koncesijski-sat.vercel.app/#opcina/41942358B6293979320190
+ 8
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B62939793201908
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -92,18 +96,19 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-55f930bc7ccf9996@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-cf5c68fbfb4d6b8c@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20310101
 DTEND;VALUE=DATE:20310102
 SUMMARY:Ističe 2 koncesije · Lekenik
 DESCRIPTION:2 ugovora o koncesiji ističe 1. 1. 2031.\n\n• MONTCOGIM-PLIN
  ARA D.O.O. – Koncesija za opskrbu potrošača prirodnim plinom (LEKENIK\
- , MARTINSKA VES\, SISAK\, SUNJA)\n• MONTCOGIM-PLINARA D.O.O. – Koncesi
- ja za opskrbu potrošača prirodnim plinom (LEKENIK\, MARTINSKA VES\, SISA
- K\, SUNJA)\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4
- 1942358B62939793201908\nIzvor: Registar koncesija (FINA)\, obrada Koncesij
- ski sat 9. 11. 2026.
+ , MARTINSKA VES\, SISAK\, SUNJA) · davatelj: GRAD SISAK\n• MONTCOGIM-PL
+ INARA D.O.O. – Koncesija za opskrbu potrošača prirodnim plinom (LEKENI
+ K\, MARTINSKA VES\, SISAK\, SUNJA) · davatelj: OPĆINA MARTINSKA VES\n\nP
+ rofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B6293979
+ 3201908\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 
+ 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B62939793201908
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -113,38 +118,39 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-55f930bc7ccf9996@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-cf5c68fbfb4d6b8c@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20300701
 DTEND;VALUE=DATE:20300702
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Lekenik
 DESCRIPTION:1. 1. 2031. ističe 2 ugovora o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• MONTCOGIM-PLINARA D.O.O. – Koncesija za opskrbu potrošača pri
- rodnim plinom (LEKENIK\, MARTINSKA VES\, SISAK\, SUNJA)\n• MONTCOGIM-PLI
- NARA D.O.O. – Koncesija za opskrbu potrošača prirodnim plinom (LEKENIK
- \, MARTINSKA VES\, SISAK\, SUNJA)\n\nProfil općine: https://koncesijski-s
- at.vercel.app/#opcina/41942358B62939793201908
+ rodnim plinom (LEKENIK\, MARTINSKA VES\, SISAK\, SUNJA) · davatelj: GRAD 
+ SISAK\n• MONTCOGIM-PLINARA D.O.O. – Koncesija za opskrbu potrošača p
+ rirodnim plinom (LEKENIK\, MARTINSKA VES\, SISAK\, SUNJA) · davatelj: OP
+ ĆINA MARTINSKA VES\n\nProfil općine: https://koncesijski-sat.vercel.app/
+ #opcina/41942358B62939793201908
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B62939793201908
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Lekenik
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-4b1fbe9d65792270@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-2f3f954fab58f4b4@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20550626
 DTEND;VALUE=DATE:20550627
 SUMMARY:Ističe koncesija: ASPECT CROATIA KFT. - PODRUŽNICA ZAGREB
 DESCRIPTION:1 ugovor o koncesiji ističe 26. 6. 2055. Godišnja fiksna nakn
  ada: 7.182 €.\n\n• ASPECT CROATIA KFT. - PODRUŽNICA ZAGREB – Dozvol
  a za istraživanje ugljikovodika (prema Zakonu o ugljikovodicima) (LEKENIK
- )\, 7.182 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#
- opcina/41942358B62939793201908\nIzvor: Registar koncesija (FINA)\, obrada 
- Koncesijski sat 9. 11. 2026.
+ ) · davatelj: MINISTARSTVO GOSPODARSTVA\, 7.182 €/god.\n\nProfil općin
+ e: https://koncesijski-sat.vercel.app/#opcina/41942358B62939793201908\nIzv
+ or: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B62939793201908
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -154,8 +160,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-4b1fbe9d65792270@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-2f3f954fab58f4b4@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20541226
 DTEND;VALUE=DATE:20541227
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ASPECT CROATIA K
@@ -163,9 +169,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ASPECT CROATIA K
 DESCRIPTION:26. 6. 2055. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• ASPECT CROATIA KFT. - PODRUŽNICA ZAGREB – Dozvola za istraživ
- anje ugljikovodika (prema Zakonu o ugljikovodicima) (LEKENIK)\, 7.182 €/
- god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4194235
- 8B62939793201908
+ anje ugljikovodika (prema Zakonu o ugljikovodicima) (LEKENIK) · davatelj:
+  MINISTARSTVO GOSPODARSTVA\, 7.182 €/god.\n\nProfil općine: https://kon
+ cesijski-sat.vercel.app/#opcina/41942358B62939793201908
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B62939793201908
 TRANSP:TRANSPARENT
 BEGIN:VALARM

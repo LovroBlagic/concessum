@@ -4,24 +4,25 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Općina Dubrava
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Dubrava. Iz Regi
- stra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade poda
- taka. https://koncesijski-sat.vercel.app/#opcina/41942358B29602339177060
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Općina Dubrava (pregled
+ \, svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježava 
+ se nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#opcina
+ /41942358B29602339177060
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-f83a626efcbe2464@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-372f43fa29e8fbbb@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20271113
 DTEND;VALUE=DATE:20271114
 SUMMARY:Ističe koncesija: ASPECT CROATIA KFT.
 DESCRIPTION:1 ugovor o koncesiji ističe 13. 11. 2027. Godišnja fiksna nak
  nada: 3.829 €.\n\n• ASPECT CROATIA KFT. – Dozvola za istraživanje u
- gljikovodika (prema Zakonu o ugljikovodicima) (DUBRAVA)\, 3.829 €/god.\n
- \nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B2960
- 2339177060\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 1
- 1. 2026.
+ gljikovodika (prema Zakonu o ugljikovodicima) (DUBRAVA) · davatelj: MINIS
+ TARSTVO GOSPODARSTVA\, 3.829 €/god.\n\nProfil općine: https://koncesijs
+ ki-sat.vercel.app/#opcina/41942358B29602339177060\nIzvor: Registar koncesi
+ ja (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B29602339177060
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -31,8 +32,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-f83a626efcbe2464@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-372f43fa29e8fbbb@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270513
 DTEND;VALUE=DATE:20270514
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ASPECT CROATIA K
@@ -40,8 +41,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ASPECT CROATIA K
 DESCRIPTION:13. 11. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• ASPECT CROATIA KFT. – Dozvola za istraživanje ugljikovodika (
- prema Zakonu o ugljikovodicima) (DUBRAVA)\, 3.829 €/god.\n\nProfil opći
- ne: https://koncesijski-sat.vercel.app/#opcina/41942358B29602339177060
+ prema Zakonu o ugljikovodicima) (DUBRAVA) · davatelj: MINISTARSTVO GOSPOD
+ ARSTVA\, 3.829 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.
+ app/#opcina/41942358B29602339177060
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B29602339177060
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -52,16 +54,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-a6d1ea53ceb36590@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-7ae755940b8750c4@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20320318
 DTEND;VALUE=DATE:20320319
 SUMMARY:Ističe koncesija: HRVATSKA ELEKTROPRIVREDA  D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 18. 3. 2032.\n\n• HRVATSKA ELEKT
  ROPRIVREDA  D.D. – Koncesija za korištenje vodne snage radi proizvodnje
-  električne energije (DUBRAVA)\n\nProfil općine: https://koncesijski-sat
- .vercel.app/#opcina/41942358B29602339177060\nIzvor: Registar koncesija (FI
- NA)\, obrada Koncesijski sat 9. 11. 2026.
+  električne energije (DUBRAVA) · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠ
+ A I ZELENE TRANZICIJE\n\nProfil općine: https://koncesijski-sat.vercel.ap
+ p/#opcina/41942358B29602339177060\nIzvor: Registar koncesija (FINA)\, obra
+ da Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B29602339177060
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -71,8 +74,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-a6d1ea53ceb36590@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-7ae755940b8750c4@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20310918
 DTEND;VALUE=DATE:20310919
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKA ELEKTRO
@@ -80,8 +83,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKA ELEKTRO
 DESCRIPTION:18. 3. 2032. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• HRVATSKA ELEKTROPRIVREDA  D.D. – Koncesija za korištenje vodne
-  snage radi proizvodnje električne energije (DUBRAVA)\n\nProfil općine: 
- https://koncesijski-sat.vercel.app/#opcina/41942358B29602339177060
+  snage radi proizvodnje električne energije (DUBRAVA) · davatelj: MINIST
+ ARSTVO ZAŠTITE OKOLIŠA I ZELENE TRANZICIJE\n\nProfil općine: https://ko
+ ncesijski-sat.vercel.app/#opcina/41942358B29602339177060
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B29602339177060
 TRANSP:TRANSPARENT
 BEGIN:VALARM

@@ -4,25 +4,25 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Grad Grubišno Polje
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Grad Grubišno Polje. Iz
-  Registra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade
-  podataka. https://koncesijski-sat.vercel.app/#opcina/41942358B13432222184
- 873
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Grad Grubišno Polje (pr
+ egled\, svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvje
+ žava se nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#
+ opcina/41942358B13432222184873
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-2519de049d710392@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-c06df955dcaa64cb@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
 SUMMARY:Ističe koncesija: PODZEMNO SKLADIŠTE PLINA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 31. 12. 2026. Godišnja fiksna nak
  nada: 3.464 €.\n\n• PODZEMNO SKLADIŠTE PLINA D.O.O. – Dozvola za ek
  sploataciju ugljikovodika (prema Zakonu o ugljikovodicima) (GRUBIŠNO POLJ
- E)\, 3.464 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/
- #opcina/41942358B13432222184873\nIzvor: Registar koncesija (FINA)\, obrada
-  Koncesijski sat 9. 11. 2026.
+ E) · davatelj: MINISTARSTVO GOSPODARSTVA\, 3.464 €/god.\n\nProfil opći
+ ne: https://koncesijski-sat.vercel.app/#opcina/41942358B13432222184873\nIz
+ vor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B13432222184873
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -32,17 +32,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-4f1ce427c08528c3@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-8e88ce40372bf16e@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270628
 DTEND;VALUE=DATE:20270629
 SUMMARY:Ističe koncesija: INA\, D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 28. 6. 2027. Godišnja fiksna nakn
  ada: 6.290 €.\n\n• INA\, D.D. – Dozvola za istraživanje ugljikovodi
- ka (prema Zakonu o ugljikovodicima) (GRUBIŠNO POLJE)\, 6.290 €/god.\n\n
- Profil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B134322
- 22184873\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11.
-  2026.
+ ka (prema Zakonu o ugljikovodicima) (GRUBIŠNO POLJE) · davatelj: MINISTA
+ RSTVO GOSPODARSTVA\, 6.290 €/god.\n\nProfil općine: https://koncesijski
+ -sat.vercel.app/#opcina/41942358B13432222184873\nIzvor: Registar koncesija
+  (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B13432222184873
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -52,16 +52,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-4f1ce427c08528c3@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-8e88ce40372bf16e@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20261228
 DTEND;VALUE=DATE:20261229
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA\, D.D.)
 DESCRIPTION:28. 6. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• INA\, D.D. – Dozvola za istraživanje ugljikovodika (prema Zako
- nu o ugljikovodicima) (GRUBIŠNO POLJE)\, 6.290 €/god.\n\nProfil općine
- : https://koncesijski-sat.vercel.app/#opcina/41942358B13432222184873
+ nu o ugljikovodicima) (GRUBIŠNO POLJE) · davatelj: MINISTARSTVO GOSPODAR
+ STVA\, 6.290 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.ap
+ p/#opcina/41942358B13432222184873
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B13432222184873
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -71,20 +72,21 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-ab520f858ea7a4ec@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-1026b9549ef40bb3@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20351231
 DTEND;VALUE=DATE:20360101
 SUMMARY:Ističe 3 koncesije · Grubišno Polje
 DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2035. Godišnja fiksna na
  knada: 1.713 €.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauze
- tu površinu odobrenog eksploatacijskog polja (GRUBIŠNO POLJE)\, 1.713 
- €/god.\n• INA-INDUSTRIJA NAFTE  D.D. – Dozvola za eksploataciju uglj
- ikovodika (prema Zakonu o ugljikovodicima) (GRUBIŠNO POLJE)\n• INA D.D.
-  – Dozvola za eksploataciju ugljikovodika (prema Zakonu o ugljikovodicim
- a) (GRUBIŠNO POLJE)\n\nProfil općine: https://koncesijski-sat.vercel.app
- /#opcina/41942358B13432222184873\nIzvor: Registar koncesija (FINA)\, obrad
- a Koncesijski sat 9. 11. 2026.
+ tu površinu odobrenog eksploatacijskog polja (GRUBIŠNO POLJE) · davatel
+ j: MINISTARSTVO GOSPODARSTVA\, 1.713 €/god.\n• INA-INDUSTRIJA NAFTE  D
+ .D. – Dozvola za eksploataciju ugljikovodika (prema Zakonu o ugljikovodi
+ cima) (GRUBIŠNO POLJE) · davatelj: MINISTARSTVO GOSPODARSTVA\n• INA D.
+ D. – Dozvola za eksploataciju ugljikovodika (prema Zakonu o ugljikovodic
+ ima) (GRUBIŠNO POLJE) · davatelj: MINISTARSTVO GOSPODARSTVA\n\nProfil op
+ ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B13432222184873\
+ nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B13432222184873
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -94,41 +96,45 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-ab520f858ea7a4ec@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-1026b9549ef40bb3@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20350630
 DTEND;VALUE=DATE:20350701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Grubišno Polj
+ e
 DESCRIPTION:31. 12. 2035. ističe 3 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauzetu površinu o
- dobrenog eksploatacijskog polja (GRUBIŠNO POLJE)\, 1.713 €/god.\n• IN
- A-INDUSTRIJA NAFTE  D.D. – Dozvola za eksploataciju ugljikovodika (prema
-  Zakonu o ugljikovodicima) (GRUBIŠNO POLJE)\n• INA D.D. – Dozvola za 
- eksploataciju ugljikovodika (prema Zakonu o ugljikovodicima) (GRUBIŠNO PO
- LJE)\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4194235
- 8B13432222184873
+ dobrenog eksploatacijskog polja (GRUBIŠNO POLJE) · davatelj: MINISTARSTV
+ O GOSPODARSTVA\, 1.713 €/god.\n• INA-INDUSTRIJA NAFTE  D.D. – Dozvol
+ a za eksploataciju ugljikovodika (prema Zakonu o ugljikovodicima) (GRUBIŠ
+ NO POLJE) · davatelj: MINISTARSTVO GOSPODARSTVA\n• INA D.D. – Dozvola
+  za eksploataciju ugljikovodika (prema Zakonu o ugljikovodicima) (GRUBIŠN
+ O POLJE) · davatelj: MINISTARSTVO GOSPODARSTVA\n\nProfil općine: https:/
+ /koncesijski-sat.vercel.app/#opcina/41942358B13432222184873
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B13432222184873
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Grubišno 
+ Polje
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-bb8c14aafb6a2af0@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-0d2738ca9f24b550@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20451231
 DTEND;VALUE=DATE:20460101
 SUMMARY:Ističe 2 koncesije · Grubišno Polje
 DESCRIPTION:2 ugovora o koncesiji ističe 31. 12. 2045. Godišnja fiksna na
  knada: 66 €.\n\n• RADIO GRUBIŠNO POLJE D.O.O. – Koncesija za obavlj
- anje djelatnosti radija (GRUBIŠNO POLJE)\, 66 €/god.\n• PODZEMNO SKLA
- DIŠTE PLINA D.O.O. – Koncesija za eksploataciju ugljikovodika (GRUBIŠN
- O POLJE)\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
- 42358B13432222184873\nIzvor: Registar koncesija (FINA)\, obrada Koncesijsk
- i sat 9. 11. 2026.
+ anje djelatnosti radija (GRUBIŠNO POLJE) · davatelj: AGENCIJA ZA ELEKTRO
+ NIČKE MEDIJE\, 66 €/god.\n• PODZEMNO SKLADIŠTE PLINA D.O.O. – Konc
+ esija za eksploataciju ugljikovodika (GRUBIŠNO POLJE) · davatelj: MINIST
+ ARSTVO GOSPODARSTVA\n\nProfil općine: https://koncesijski-sat.vercel.app/
+ #opcina/41942358B13432222184873\nIzvor: Registar koncesija (FINA)\, obrada
+  Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B13432222184873
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -138,38 +144,41 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-bb8c14aafb6a2af0@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-0d2738ca9f24b550@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20450630
 DTEND;VALUE=DATE:20450701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Grubišno Polj
+ e
 DESCRIPTION:31. 12. 2045. ističe 2 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• RADIO GRUBIŠNO POLJE D.O.O. – Koncesija za obavljanje djelat
- nosti radija (GRUBIŠNO POLJE)\, 66 €/god.\n• PODZEMNO SKLADIŠTE PLIN
- A D.O.O. – Koncesija za eksploataciju ugljikovodika (GRUBIŠNO POLJE)\n\
- nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B13432
- 222184873
+ nosti radija (GRUBIŠNO POLJE) · davatelj: AGENCIJA ZA ELEKTRONIČKE MEDI
+ JE\, 66 €/god.\n• PODZEMNO SKLADIŠTE PLINA D.O.O. – Koncesija za ek
+ sploataciju ugljikovodika (GRUBIŠNO POLJE) · davatelj: MINISTARSTVO GOSP
+ ODARSTVA\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
+ 42358B13432222184873
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B13432222184873
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Grubišno 
+ Polje
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-c9d1b48513f881ab@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-5623a89b3d1cfa37@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20480703
 DTEND;VALUE=DATE:20480704
 SUMMARY:Ističe koncesija: ZDENKA-MLIJEČNI PROIZVODI D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 3. 7. 2048. Godišnja fiksna nakna
  da: 5.442 €.\n\n• ZDENKA-MLIJEČNI PROIZVODI D.O.O. – Koncesija za z
- ahvaćanje voda za tehnološke potrebe (GRUBIŠNO POLJE)\, 5.442 €/god.\
- n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B134
- 32222184873\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 
- 11. 2026.
+ ahvaćanje voda za tehnološke potrebe (GRUBIŠNO POLJE) · davatelj: MINI
+ STARSTVO ZAŠTITE OKOLIŠA I ZELENE TRANZICIJE\, 5.442 €/god.\n\nProfil 
+ općine: https://koncesijski-sat.vercel.app/#opcina/41942358B1343222218487
+ 3\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B13432222184873
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -179,8 +188,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-c9d1b48513f881ab@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-5623a89b3d1cfa37@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20480103
 DTEND;VALUE=DATE:20480104
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ZDENKA-MLIJEČNI
@@ -188,8 +197,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ZDENKA-MLIJEČNI
 DESCRIPTION:3. 7. 2048. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• ZDENKA-MLIJEČNI PROIZVODI D.O.O. – Koncesija za zahvaćanje vod
- a za tehnološke potrebe (GRUBIŠNO POLJE)\, 5.442 €/god.\n\nProfil opć
- ine: https://koncesijski-sat.vercel.app/#opcina/41942358B13432222184873
+ a za tehnološke potrebe (GRUBIŠNO POLJE) · davatelj: MINISTARSTVO ZAŠT
+ ITE OKOLIŠA I ZELENE TRANZICIJE\, 5.442 €/god.\n\nProfil općine: https
+ ://koncesijski-sat.vercel.app/#opcina/41942358B13432222184873
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B13432222184873
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -200,17 +210,18 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-694e7f5f76472db0@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-82d36b63231a7b06@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20550626
 DTEND;VALUE=DATE:20550627
 SUMMARY:Ističe koncesija: ASPECT CROATIA KFT. - PODRUŽNICA ZAGREB
 DESCRIPTION:1 ugovor o koncesiji ističe 26. 6. 2055. Godišnja fiksna nakn
  ada: 5.036 €.\n\n• ASPECT CROATIA KFT. - PODRUŽNICA ZAGREB – Dozvol
  a za istraživanje ugljikovodika (prema Zakonu o ugljikovodicima) (GRUBIŠ
- NO POLJE)\, 5.036 €/god.\n\nProfil općine: https://koncesijski-sat.verc
- el.app/#opcina/41942358B13432222184873\nIzvor: Registar koncesija (FINA)\,
-  obrada Koncesijski sat 9. 11. 2026.
+ NO POLJE) · davatelj: MINISTARSTVO GOSPODARSTVA\, 5.036 €/god.\n\nProfi
+ l općine: https://koncesijski-sat.vercel.app/#opcina/41942358B13432222184
+ 873\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026
+ .
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B13432222184873
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -220,8 +231,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-694e7f5f76472db0@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-82d36b63231a7b06@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20541226
 DTEND;VALUE=DATE:20541227
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ASPECT CROATIA K
@@ -229,9 +240,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ASPECT CROATIA K
 DESCRIPTION:26. 6. 2055. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• ASPECT CROATIA KFT. - PODRUŽNICA ZAGREB – Dozvola za istraživ
- anje ugljikovodika (prema Zakonu o ugljikovodicima) (GRUBIŠNO POLJE)\, 5.
- 036 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina
- /41942358B13432222184873
+ anje ugljikovodika (prema Zakonu o ugljikovodicima) (GRUBIŠNO POLJE) · d
+ avatelj: MINISTARSTVO GOSPODARSTVA\, 5.036 €/god.\n\nProfil općine: htt
+ ps://koncesijski-sat.vercel.app/#opcina/41942358B13432222184873
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B13432222184873
 TRANSP:TRANSPARENT
 BEGIN:VALARM

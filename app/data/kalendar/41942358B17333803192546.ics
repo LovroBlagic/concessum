@@ -4,24 +4,25 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Grad Pag
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Grad Pag. Iz Registra ko
- ncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podataka. h
- ttps://koncesijski-sat.vercel.app/#opcina/41942358B17333803192546
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Grad Pag (pregled\, svi 
+ davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježava se nako
+ n svake obrade podataka. https://koncesijski-sat.vercel.app/#opcina/419423
+ 58B17333803192546
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-343805112a31a35a@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-572fef1879e8f5d4@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
 SUMMARY:Ističe koncesija: MARIKULTURA PAG D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 24. 11. 2026. Godišnja fiksna nak
  nada: 1.062 €.\n\n• MARIKULTURA PAG D.O.O. – Koncesija na pomorskom 
- dobru u svrhu uzgoja morske ribe i školjkaša (PAG)\, 1.062 €/god.\n\nP
- rofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B1733380
- 3192546\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 
- 2026.
+ dobru u svrhu uzgoja morske ribe i školjkaša (PAG) · davatelj: ZADARSKA
+  ŽUPANIJA\, 1.062 €/god.\n\nProfil općine: https://koncesijski-sat.ver
+ cel.app/#opcina/41942358B17333803192546\nIzvor: Registar koncesija (FINA)\
+ , obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B17333803192546
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -31,16 +32,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-22219c762de5f590@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-02a19851127fc6cc@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20280415
 DTEND;VALUE=DATE:20280416
 SUMMARY:Ističe koncesija: KAMP ŠIMUNI D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 15. 4. 2028. Godišnja fiksna nakn
  ada: 42.278 €.\n\n• KAMP ŠIMUNI D.O.O. – Koncesija na pomorskom dob
- ru (PAG)\, 42.278 €/god.\n\nProfil općine: https://koncesijski-sat.verc
- el.app/#opcina/41942358B17333803192546\nIzvor: Registar koncesija (FINA)\,
-  obrada Koncesijski sat 9. 11. 2026.
+ ru (PAG) · davatelj: ZADARSKA ŽUPANIJA\, 42.278 €/god.\n\nProfil opći
+ ne: https://koncesijski-sat.vercel.app/#opcina/41942358B17333803192546\nIz
+ vor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B17333803192546
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -50,17 +51,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-22219c762de5f590@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-02a19851127fc6cc@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20271015
 DTEND;VALUE=DATE:20271016
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (KAMP ŠIMUNI D.O
  .O.)
 DESCRIPTION:15. 4. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
- .\n\n• KAMP ŠIMUNI D.O.O. – Koncesija na pomorskom dobru (PAG)\, 42.2
- 78 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/
- 41942358B17333803192546
+ .\n\n• KAMP ŠIMUNI D.O.O. – Koncesija na pomorskom dobru (PAG) · dav
+ atelj: ZADARSKA ŽUPANIJA\, 42.278 €/god.\n\nProfil općine: https://kon
+ cesijski-sat.vercel.app/#opcina/41942358B17333803192546
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B17333803192546
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -71,17 +72,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-ac76047c093858e5@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-c8c3ca349a3bcb1d@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20280511
 DTEND;VALUE=DATE:20280512
 SUMMARY:Ističe koncesija: MARIKULTURA PAG D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 11. 5. 2028. Godišnja fiksna nakn
  ada: 13.276 €.\n\n• MARIKULTURA PAG D.O.O. – Koncesija na pomorskom 
- dobru u svrhu uzgoja morske ribe i školjkaša (PAG)\, 13.276 €/god.\n\n
- Profil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B173338
- 03192546\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11.
-  2026.
+ dobru u svrhu uzgoja morske ribe i školjkaša (PAG) · davatelj: ZADARSKA
+  ŽUPANIJA\, 13.276 €/god.\n\nProfil općine: https://koncesijski-sat.ve
+ rcel.app/#opcina/41942358B17333803192546\nIzvor: Registar koncesija (FINA)
+ \, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B17333803192546
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -91,8 +92,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-ac76047c093858e5@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-c8c3ca349a3bcb1d@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20271111
 DTEND;VALUE=DATE:20271112
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MARIKULTURA PAG 
@@ -100,8 +101,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MARIKULTURA PAG
 DESCRIPTION:11. 5. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• MARIKULTURA PAG D.O.O. – Koncesija na pomorskom dobru u svrhu u
- zgoja morske ribe i školjkaša (PAG)\, 13.276 €/god.\n\nProfil općine:
-  https://koncesijski-sat.vercel.app/#opcina/41942358B17333803192546
+ zgoja morske ribe i školjkaša (PAG) · davatelj: ZADARSKA ŽUPANIJA\, 13
+ .276 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcin
+ a/41942358B17333803192546
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B17333803192546
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -112,16 +114,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-716361c737c6794b@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-cba1f5fb5f373a7b@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20301231
 DTEND;VALUE=DATE:20310101
 SUMMARY:Ističe koncesija: ACI D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 31. 12. 2030. Godišnja fiksna nak
  nada: 3.269 €.\n\n• ACI D.D. – Koncesija za luku nautičkog turizma 
- (PAG)\, 3.269 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.a
- pp/#opcina/41942358B17333803192546\nIzvor: Registar koncesija (FINA)\, obr
- ada Koncesijski sat 9. 11. 2026.
+ (PAG) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\, 3.269 
+ €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
+ 42358B17333803192546\nIzvor: Registar koncesija (FINA)\, obrada Koncesijsk
+ i sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B17333803192546
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -131,16 +134,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-716361c737c6794b@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-cba1f5fb5f373a7b@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20300630
 DTEND;VALUE=DATE:20300701
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ACI D.D.)
 DESCRIPTION:31. 12. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
- a.\n\n• ACI D.D. – Koncesija za luku nautičkog turizma (PAG)\, 3.269 
- €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
- 42358B17333803192546
+ a.\n\n• ACI D.D. – Koncesija za luku nautičkog turizma (PAG) · davat
+ elj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\, 3.269 €/god.\n\nProf
+ il općine: https://koncesijski-sat.vercel.app/#opcina/41942358B1733380319
+ 2546
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B17333803192546
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -150,17 +154,18 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-969ea860efbbc083@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-d3d560a2b092d02a@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20360728
 DTEND;VALUE=DATE:20360729
 SUMMARY:Ističe koncesija: ZIP-LINE FORTICA\, OBRT ZA TURIZAM\, VL. ZORAN B
  OŽIĆ
 DESCRIPTION:1 ugovor o koncesiji ističe 28. 7. 2036. Godišnja fiksna nakn
  ada: 3.285 €.\n\n• ZIP-LINE FORTICA\, OBRT ZA TURIZAM\, VL. ZORAN BOŽ
- IĆ – Koncesija na pomorskom dobru (PAG)\, 3.285 €/god.\n\nProfil opć
- ine: https://koncesijski-sat.vercel.app/#opcina/41942358B17333803192546\nI
- zvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ IĆ – Koncesija na pomorskom dobru (PAG) · davatelj: ZADARSKA ŽUPANIJA
+ \, 3.285 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#o
+ pcina/41942358B17333803192546\nIzvor: Registar koncesija (FINA)\, obrada K
+ oncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B17333803192546
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -171,8 +176,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-969ea860efbbc083@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-d3d560a2b092d02a@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20360128
 DTEND;VALUE=DATE:20360129
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ZIP-LINE FORTICA
@@ -180,8 +185,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ZIP-LINE FORTICA
 DESCRIPTION:28. 7. 2036. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• ZIP-LINE FORTICA\, OBRT ZA TURIZAM\, VL. ZORAN BOŽIĆ – Konces
- ija na pomorskom dobru (PAG)\, 3.285 €/god.\n\nProfil općine: https://k
- oncesijski-sat.vercel.app/#opcina/41942358B17333803192546
+ ija na pomorskom dobru (PAG) · davatelj: ZADARSKA ŽUPANIJA\, 3.285 €/g
+ od.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358
+ B17333803192546
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B17333803192546
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -192,19 +198,21 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-e751843483f43bab@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-db2b046aefb13935@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20381231
 DTEND;VALUE=DATE:20390101
 SUMMARY:Ističe 3 koncesije · Pag
 DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2038. Godišnja fiksna na
  knada: 2.336 €.\n\n• GORICA PAG D.O.O. – Koncesija za eksploataciju 
- tehničko-građevnog kamena (PAG)\, 1.168 €/god.\n• GORICA PAG D.O.O. 
- – Koncesija za površinu utvrđenog eksploatacijskog polja neenergetskih
-  mineralnih sirovina (PAG)\, 1.168 €/god.\n• GORICA PAG D.O.O. – Kon
- cesija za eksploataciju tehničko-građevnog kamena (PAG)\n\nProfil općin
- e: https://koncesijski-sat.vercel.app/#opcina/41942358B17333803192546\nIzv
- or: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ tehničko-građevnog kamena (PAG) · davatelj: MINISTARSTVO GOSPODARSTVA\,
+  1.168 €/god.\n• GORICA PAG D.O.O. – Koncesija za površinu utvrđen
+ og eksploatacijskog polja neenergetskih mineralnih sirovina (PAG) · davat
+ elj: MINISTARSTVO GOSPODARSTVA\, 1.168 €/god.\n• GORICA PAG D.O.O. –
+  Koncesija za eksploataciju tehničko-građevnog kamena (PAG) · davatelj:
+  MINISTARSTVO GOSPODARSTVA\n\nProfil općine: https://koncesijski-sat.verc
+ el.app/#opcina/41942358B17333803192546\nIzvor: Registar koncesija (FINA)\,
+  obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B17333803192546
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -214,37 +222,40 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-e751843483f43bab@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-db2b046aefb13935@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20380630
 DTEND;VALUE=DATE:20380701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Pag
 DESCRIPTION:31. 12. 2038. ističe 3 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• GORICA PAG D.O.O. – Koncesija za eksploataciju tehničko-gra
- đevnog kamena (PAG)\, 1.168 €/god.\n• GORICA PAG D.O.O. – Koncesija
-  za površinu utvrđenog eksploatacijskog polja neenergetskih mineralnih s
- irovina (PAG)\, 1.168 €/god.\n• GORICA PAG D.O.O. – Koncesija za eks
- ploataciju tehničko-građevnog kamena (PAG)\n\nProfil općine: https://ko
- ncesijski-sat.vercel.app/#opcina/41942358B17333803192546
+ đevnog kamena (PAG) · davatelj: MINISTARSTVO GOSPODARSTVA\, 1.168 €/go
+ d.\n• GORICA PAG D.O.O. – Koncesija za površinu utvrđenog eksploatac
+ ijskog polja neenergetskih mineralnih sirovina (PAG) · davatelj: MINISTAR
+ STVO GOSPODARSTVA\, 1.168 €/god.\n• GORICA PAG D.O.O. – Koncesija za
+  eksploataciju tehničko-građevnog kamena (PAG) · davatelj: MINISTARSTVO
+  GOSPODARSTVA\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcin
+ a/41942358B17333803192546
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B17333803192546
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Pag
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-f277d16edaf1b38f@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-c7652864b3f322c5@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20581231
 DTEND;VALUE=DATE:20590101
 SUMMARY:Ističe koncesija: SOLANA PAG D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 31. 12. 2058.\n\n• SOLANA PAG D.
- O.O. – Koncesija za eksploataciju morske soli (PAG)\n\nProfil općine: h
- ttps://koncesijski-sat.vercel.app/#opcina/41942358B17333803192546\nIzvor: 
- Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ O.O. – Koncesija za eksploataciju morske soli (PAG) · davatelj: MINISTA
+ RSTVO GOSPODARSTVA\n\nProfil općine: https://koncesijski-sat.vercel.app/#
+ opcina/41942358B17333803192546\nIzvor: Registar koncesija (FINA)\, obrada 
+ Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B17333803192546
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -254,8 +265,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-f277d16edaf1b38f@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-c7652864b3f322c5@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20580630
 DTEND;VALUE=DATE:20580701
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (SOLANA PAG D.O.O
@@ -263,8 +274,8 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (SOLANA PAG D.O.O
 DESCRIPTION:31. 12. 2058. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• SOLANA PAG D.O.O. – Koncesija za eksploataciju morske soli (PA
- G)\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B
- 17333803192546
+ G) · davatelj: MINISTARSTVO GOSPODARSTVA\n\nProfil općine: https://konce
+ sijski-sat.vercel.app/#opcina/41942358B17333803192546
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B17333803192546
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -275,16 +286,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-43bb8ba12dd7c4e6@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-055807fd1d154294@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20760717
 DTEND;VALUE=DATE:20760718
 SUMMARY:Ističe koncesija: HRVATSKI TELEKOM D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 17. 7. 2076. Godišnja fiksna nakn
  ada: 2.705 €.\n\n• HRVATSKI TELEKOM D.D. – Posebna upotreba pomorsko
- g dobra (PAG)\, 2.705 €/god.\n\nProfil općine: https://koncesijski-sat.
- vercel.app/#opcina/41942358B17333803192546\nIzvor: Registar koncesija (FIN
- A)\, obrada Koncesijski sat 9. 11. 2026.
+ g dobra (PAG) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\, 
+ 2.705 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opci
+ na/41942358B17333803192546\nIzvor: Registar koncesija (FINA)\, obrada Konc
+ esijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B17333803192546
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -294,17 +306,18 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-43bb8ba12dd7c4e6@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-055807fd1d154294@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20760117
 DTEND;VALUE=DATE:20760118
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKI TELEKOM
   D.D.)
 DESCRIPTION:17. 7. 2076. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
- .\n\n• HRVATSKI TELEKOM D.D. – Posebna upotreba pomorskog dobra (PAG)\
- , 2.705 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#op
- cina/41942358B17333803192546
+ .\n\n• HRVATSKI TELEKOM D.D. – Posebna upotreba pomorskog dobra (PAG) 
+ · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\, 2.705 €/god.
+ \n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B17
+ 333803192546
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B17333803192546
 TRANSP:TRANSPARENT
 BEGIN:VALARM

@@ -1,0 +1,179 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · GRAD OSIJEK
+X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje GRAD OSIJEK. Iz Registra k
+ oncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podataka. 
+ https://koncesijski-sat.vercel.app/#sat
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-93717ffd591716e1@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20270731
+DTEND;VALUE=DATE:20270801
+SUMMARY:Ističe koncesija: DIMNJAK D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 31. 7. 2027. Godišnja fiksna nakn
+ ada: 9.251 €.\n\n• DIMNJAK D.O.O. – Koncesija za obavljanje komunaln
+ ih djelatnosti (OSIJEK\, Grad Osijek)\, 9.251 €/god.\n\nŠto ističe: ht
+ tps://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, 
+ obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: DIMNJAK D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-93717ffd591716e1@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DIMNJAK D.O.O.)
+DESCRIPTION:31. 7. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• DIMNJAK D.O.O. – Koncesija za obavljanje komunalnih djelatnosti
+  (OSIJEK\, Grad Osijek)\, 9.251 €/god.\n\nŠto ističe: https://koncesij
+ ski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DIMNJAK D.O.
+ O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-01bd89cba44cf0d9@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20360707
+DTEND;VALUE=DATE:20360708
+SUMMARY:Ističe koncesija: NOVI AGRAR D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 7. 7. 2036. Godišnja fiksna nakna
+ da: 15.170 €.\n\n• NOVI AGRAR D.O.O. – Koncesija za korištenje polj
+ oprivrednog zemljišta u vlasništvu države (OSIJEK\, Grad Osijek)\, 15.1
+ 70 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzvo
+ r: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: NOVI AGRAR D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-01bd89cba44cf0d9@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20360107
+DTEND;VALUE=DATE:20360108
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (NOVI AGRAR D.O.O
+ .)
+DESCRIPTION:7. 7. 2036. ističe 1 ugovor o koncesiji. Novi postupak dodjele
+  treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
+ \n\n• NOVI AGRAR D.O.O. – Koncesija za korištenje poljoprivrednog zem
+ ljišta u vlasništvu države (OSIJEK\, Grad Osijek)\, 15.170 €/god.\n\n
+ Što ističe: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (NOVI AGRAR D
+ .O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-936bfea4b8d676df@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20360710
+DTEND;VALUE=DATE:20360711
+SUMMARY:Ističe 3 koncesije · GRAD OSIJEK
+DESCRIPTION:3 ugovora o koncesiji ističe 10. 7. 2036. Godišnja fiksna nak
+ nada: 45.762 €.\n\n• NOVI AGRAR D.O.O. – Koncesija za korištenje po
+ ljoprivrednog zemljišta u vlasništvu države (OSIJEK\, Grad Osijek)\, 15
+ .254 €/god.\n• NOVI AGRAR D.O.O. – Koncesija za korištenje poljopri
+ vrednog zemljišta u vlasništvu države (OSIJEK\, Grad Osijek)\, 15.254 
+ €/god.\n• NOVI AGRAR D.O.O. – Koncesija za korištenje poljoprivredn
+ og zemljišta u vlasništvu države (OSIJEK\, Grad Osijek)\, 15.254 €/go
+ d.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Regist
+ ar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 3 koncesije · GRAD OSIJEK
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-936bfea4b8d676df@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20360110
+DTEND;VALUE=DATE:20360111
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · GRAD OSIJEK
+DESCRIPTION:10. 7. 2036. ističe 3 ugovora o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• NOVI AGRAR D.O.O. – Koncesija za korištenje poljoprivrednog z
+ emljišta u vlasništvu države (OSIJEK\, Grad Osijek)\, 15.254 €/god.\n
+ • NOVI AGRAR D.O.O. – Koncesija za korištenje poljoprivrednog zemlji
+ šta u vlasništvu države (OSIJEK\, Grad Osijek)\, 15.254 €/god.\n• N
+ OVI AGRAR D.O.O. – Koncesija za korištenje poljoprivrednog zemljišta u
+  vlasništvu države (OSIJEK\, Grad Osijek)\, 15.254 €/god.\n\nŠto isti
+ če: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · GRAD OSIJE
+ K
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-d255e812c463d374@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20390131
+DTEND;VALUE=DATE:20390201
+SUMMARY:Ističe koncesija: HEP-TOPLINARSTVO D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 31. 1. 2039.\n\n• HEP-TOPLINARST
+ VO D.O.O. – Koncesija za obavljanje komunalne djelatnosti opskrbe toplin
+ skom energijom (OSIJEK\, Grad Osijek)\n\nŠto ističe: https://koncesijski
+ -sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Koncesijsk
+ i sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: HEP-TOPLINARSTVO D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-d255e812c463d374@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20380731
+DTEND;VALUE=DATE:20380801
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP-TOPLINARSTVO
+  D.O.O.)
+DESCRIPTION:31. 1. 2039. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• HEP-TOPLINARSTVO D.O.O. – Koncesija za obavljanje komunalne dje
+ latnosti opskrbe toplinskom energijom (OSIJEK\, Grad Osijek)\n\nŠto isti
+ če: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP-TOPLINAR
+ STVO D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

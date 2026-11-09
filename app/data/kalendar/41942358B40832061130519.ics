@@ -4,24 +4,25 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Općina Veliki Grđevac
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Veliki Grđevac.
-  Iz Registra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obr
- ade podataka. https://koncesijski-sat.vercel.app/#opcina/41942358B40832061
- 130519
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Općina Veliki Grđevac 
+ (pregled\, svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osv
+ ježava se nakon svake obrade podataka. https://koncesijski-sat.vercel.app
+ /#opcina/41942358B40832061130519
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-9c51dc9afcca1717@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-5e9820f6c0e5f90e@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
 SUMMARY:Ističe koncesija: INA-INDUSTRIJA NAFTE  D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 31. 12. 2026.\n\n• INA-INDUSTRIJ
  A NAFTE  D.D. – Dozvola za eksploataciju ugljikovodika (prema Zakonu o u
- gljikovodicima) (VELIKI GRĐEVAC)\n\nProfil općine: https://koncesijski-s
- at.vercel.app/#opcina/41942358B40832061130519\nIzvor: Registar koncesija (
- FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ gljikovodicima) (VELIKI GRĐEVAC) · davatelj: MINISTARSTVO GOSPODARSTVA\n
+ \nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B4083
+ 2061130519\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 1
+ 1. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B40832061130519
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -31,8 +32,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-30b3c0ae4e1c4049@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-737730cd2a976852@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20310923
 DTEND;VALUE=DATE:20310924
 SUMMARY:Ističe koncesija: OBITELJSKO POLJOPRIVREDNO GOSPODARSTVO - TIHOMIR
@@ -40,9 +41,10 @@ SUMMARY:Ističe koncesija: OBITELJSKO POLJOPRIVREDNO GOSPODARSTVO - TIHOMIR
 DESCRIPTION:1 ugovor o koncesiji ističe 23. 9. 2031. Godišnja fiksna nakn
  ada: 11 €.\n\n• OBITELJSKO POLJOPRIVREDNO GOSPODARSTVO - TIHOMIR GORZA
   – Koncesija za zahvaćanje voda za melioracijsko navodnjavanje (VELIKI 
- GRĐEVAC)\, 11 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.
- app/#opcina/41942358B40832061130519\nIzvor: Registar koncesija (FINA)\, ob
- rada Koncesijski sat 9. 11. 2026.
+ GRĐEVAC) · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠA I ZELENE TRANZICIJE\
+ , 11 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcin
+ a/41942358B40832061130519\nIzvor: Registar koncesija (FINA)\, obrada Konce
+ sijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B40832061130519
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -53,8 +55,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-30b3c0ae4e1c4049@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-737730cd2a976852@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20310323
 DTEND;VALUE=DATE:20310324
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (OBITELJSKO POLJO
@@ -62,9 +64,10 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (OBITELJSKO POLJO
 DESCRIPTION:23. 9. 2031. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• OBITELJSKO POLJOPRIVREDNO GOSPODARSTVO - TIHOMIR GORZA – Konces
- ija za zahvaćanje voda za melioracijsko navodnjavanje (VELIKI GRĐEVAC)\,
-  11 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina
- /41942358B40832061130519
+ ija za zahvaćanje voda za melioracijsko navodnjavanje (VELIKI GRĐEVAC) 
+ · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠA I ZELENE TRANZICIJE\, 11 €/g
+ od.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358
+ B40832061130519
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B40832061130519
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -75,20 +78,21 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-d420e711aae7b835@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-812546e69152b814@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20351231
 DTEND;VALUE=DATE:20360101
 SUMMARY:Ističe 3 koncesije · Veliki Grđevac
 DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2035. Godišnja fiksna na
  knada: 2.773 €.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauze
- tu površinu odobrenog eksploatacijskog polja (VELIKI GRĐEVAC)\, 2.773 
- €/god.\n• INA-INDUSTRIJA NAFTE  D.D. – Dozvola za eksploataciju uglj
- ikovodika (prema Zakonu o ugljikovodicima) (VELIKI GRĐEVAC)\n• INA D.D.
-  – Dozvola za eksploataciju ugljikovodika (prema Zakonu o ugljikovodicim
- a) (VELIKI GRĐEVAC)\n\nProfil općine: https://koncesijski-sat.vercel.app
- /#opcina/41942358B40832061130519\nIzvor: Registar koncesija (FINA)\, obrad
- a Koncesijski sat 9. 11. 2026.
+ tu površinu odobrenog eksploatacijskog polja (VELIKI GRĐEVAC) · davatel
+ j: MINISTARSTVO GOSPODARSTVA\, 2.773 €/god.\n• INA-INDUSTRIJA NAFTE  D
+ .D. – Dozvola za eksploataciju ugljikovodika (prema Zakonu o ugljikovodi
+ cima) (VELIKI GRĐEVAC) · davatelj: MINISTARSTVO GOSPODARSTVA\n• INA D.
+ D. – Dozvola za eksploataciju ugljikovodika (prema Zakonu o ugljikovodic
+ ima) (VELIKI GRĐEVAC) · davatelj: MINISTARSTVO GOSPODARSTVA\n\nProfil op
+ ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B40832061130519\
+ nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B40832061130519
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -98,40 +102,44 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-d420e711aae7b835@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-812546e69152b814@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20350630
 DTEND;VALUE=DATE:20350701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Veliki Grđeva
+ c
 DESCRIPTION:31. 12. 2035. ističe 3 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauzetu površinu o
- dobrenog eksploatacijskog polja (VELIKI GRĐEVAC)\, 2.773 €/god.\n• IN
- A-INDUSTRIJA NAFTE  D.D. – Dozvola za eksploataciju ugljikovodika (prema
-  Zakonu o ugljikovodicima) (VELIKI GRĐEVAC)\n• INA D.D. – Dozvola za 
- eksploataciju ugljikovodika (prema Zakonu o ugljikovodicima) (VELIKI GRĐE
- VAC)\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4194235
- 8B40832061130519
+ dobrenog eksploatacijskog polja (VELIKI GRĐEVAC) · davatelj: MINISTARSTV
+ O GOSPODARSTVA\, 2.773 €/god.\n• INA-INDUSTRIJA NAFTE  D.D. – Dozvol
+ a za eksploataciju ugljikovodika (prema Zakonu o ugljikovodicima) (VELIKI 
+ GRĐEVAC) · davatelj: MINISTARSTVO GOSPODARSTVA\n• INA D.D. – Dozvola
+  za eksploataciju ugljikovodika (prema Zakonu o ugljikovodicima) (VELIKI G
+ RĐEVAC) · davatelj: MINISTARSTVO GOSPODARSTVA\n\nProfil općine: https:/
+ /koncesijski-sat.vercel.app/#opcina/41942358B40832061130519
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B40832061130519
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Veliki Gr
+ đevac
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-059d9d5dab5e2208@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-c5623be79517e620@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20550626
 DTEND;VALUE=DATE:20550627
 SUMMARY:Ističe koncesija: ASPECT CROATIA KFT. - PODRUŽNICA ZAGREB
 DESCRIPTION:1 ugovor o koncesiji ističe 26. 6. 2055. Godišnja fiksna nakn
  ada: 4.355 €.\n\n• ASPECT CROATIA KFT. - PODRUŽNICA ZAGREB – Dozvol
  a za istraživanje ugljikovodika (prema Zakonu o ugljikovodicima) (VELIKI 
- GRĐEVAC)\, 4.355 €/god.\n\nProfil općine: https://koncesijski-sat.verc
- el.app/#opcina/41942358B40832061130519\nIzvor: Registar koncesija (FINA)\,
-  obrada Koncesijski sat 9. 11. 2026.
+ GRĐEVAC) · davatelj: MINISTARSTVO GOSPODARSTVA\, 4.355 €/god.\n\nProfi
+ l općine: https://koncesijski-sat.vercel.app/#opcina/41942358B40832061130
+ 519\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026
+ .
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B40832061130519
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -141,8 +149,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-059d9d5dab5e2208@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-c5623be79517e620@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20541226
 DTEND;VALUE=DATE:20541227
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ASPECT CROATIA K
@@ -150,9 +158,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ASPECT CROATIA K
 DESCRIPTION:26. 6. 2055. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• ASPECT CROATIA KFT. - PODRUŽNICA ZAGREB – Dozvola za istraživ
- anje ugljikovodika (prema Zakonu o ugljikovodicima) (VELIKI GRĐEVAC)\, 4.
- 355 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina
- /41942358B40832061130519
+ anje ugljikovodika (prema Zakonu o ugljikovodicima) (VELIKI GRĐEVAC) · d
+ avatelj: MINISTARSTVO GOSPODARSTVA\, 4.355 €/god.\n\nProfil općine: htt
+ ps://koncesijski-sat.vercel.app/#opcina/41942358B40832061130519
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B40832061130519
 TRANSP:TRANSPARENT
 BEGIN:VALARM

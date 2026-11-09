@@ -4,24 +4,25 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Općina Kalnik
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Kalnik. Iz Regis
- tra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podat
- aka. https://koncesijski-sat.vercel.app/#opcina/41942358B68132263738750
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Općina Kalnik (pregled\
+ , svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježava s
+ e nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#opcina/
+ 41942358B68132263738750
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-fff54bd5d825d4d5@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-2aca361b55c673b4@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20331121
 DTEND;VALUE=DATE:20331122
 SUMMARY:Ističe koncesija: RADNIK D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 21. 11. 2033. Godišnja fiksna nak
  nada: 8.672 €.\n\n• RADNIK D.D. – Koncesija za površinu utvrđenog 
- eksploatacijskog polja neenergetskih mineralnih sirovina (KALNIK)\, 8.672 
- €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
- 42358B68132263738750\nIzvor: Registar koncesija (FINA)\, obrada Koncesijsk
- i sat 9. 11. 2026.
+ eksploatacijskog polja neenergetskih mineralnih sirovina (KALNIK) · davat
+ elj: MINISTARSTVO GOSPODARSTVA\, 8.672 €/god.\n\nProfil općine: https:/
+ /koncesijski-sat.vercel.app/#opcina/41942358B68132263738750\nIzvor: Regist
+ ar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B68132263738750
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -31,17 +32,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-fff54bd5d825d4d5@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-2aca361b55c673b4@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20330521
 DTEND;VALUE=DATE:20330522
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (RADNIK D.D.)
 DESCRIPTION:21. 11. 2033. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• RADNIK D.D. – Koncesija za površinu utvrđenog eksploatacijsk
- og polja neenergetskih mineralnih sirovina (KALNIK)\, 8.672 €/god.\n\nPr
- ofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B68132263
- 738750
+ og polja neenergetskih mineralnih sirovina (KALNIK) · davatelj: MINISTARS
+ TVO GOSPODARSTVA\, 8.672 €/god.\n\nProfil općine: https://koncesijski-s
+ at.vercel.app/#opcina/41942358B68132263738750
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B68132263738750
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -51,17 +52,18 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-6c8161bd1cfe0ff6@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-df6f8898344825f6@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20331127
 DTEND;VALUE=DATE:20331128
 SUMMARY:Ističe 2 koncesije · Kalnik
 DESCRIPTION:2 ugovora o koncesiji ističe 27. 11. 2033.\n\n• RADNIK D.D. 
- – Koncesija za eksploataciju tehničko-građevnog kamena (KALNIK)\n• R
- ADNIK D.D. – Koncesija za eksploataciju tehničko-građevnog kamena (KAL
- NIK)\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4194235
- 8B68132263738750\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sa
- t 9. 11. 2026.
+ – Koncesija za eksploataciju tehničko-građevnog kamena (KALNIK) · dav
+ atelj: MINISTARSTVO GOSPODARSTVA\n• RADNIK D.D. – Koncesija za eksploa
+ taciju tehničko-građevnog kamena (KALNIK) · davatelj: MINISTARSTVO GOSP
+ ODARSTVA\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
+ 42358B68132263738750\nIzvor: Registar koncesija (FINA)\, obrada Koncesijsk
+ i sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B68132263738750
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -71,22 +73,23 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-6c8161bd1cfe0ff6@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-df6f8898344825f6@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20330527
 DTEND;VALUE=DATE:20330528
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Kalnik
 DESCRIPTION:27. 11. 2033. ističe 2 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• RADNIK D.D. – Koncesija za eksploataciju tehničko-građevnog
-  kamena (KALNIK)\n• RADNIK D.D. – Koncesija za eksploataciju tehničko
- -građevnog kamena (KALNIK)\n\nProfil općine: https://koncesijski-sat.ver
- cel.app/#opcina/41942358B68132263738750
+  kamena (KALNIK) · davatelj: MINISTARSTVO GOSPODARSTVA\n• RADNIK D.D. 
+ – Koncesija za eksploataciju tehničko-građevnog kamena (KALNIK) · dav
+ atelj: MINISTARSTVO GOSPODARSTVA\n\nProfil općine: https://koncesijski-sa
+ t.vercel.app/#opcina/41942358B68132263738750
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B68132263738750
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Kalnik
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT

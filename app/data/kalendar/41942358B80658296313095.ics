@@ -4,24 +4,25 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Općina Krapinske Toplice
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Krapinske Toplic
- e. Iz Registra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake o
- brade podataka. https://koncesijski-sat.vercel.app/#opcina/41942358B806582
- 96313095
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Općina Krapinske Toplic
+ e (pregled\, svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). O
+ svježava se nakon svake obrade podataka. https://koncesijski-sat.vercel.a
+ pp/#opcina/41942358B80658296313095
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-fc6f78905718c3ab@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-499ce826a30f2943@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20491028
 DTEND;VALUE=DATE:20491029
 SUMMARY:Ističe koncesija: AQUAE VIVAE D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 28. 10. 2049. Godišnja fiksna nak
  nada: 15.529 €.\n\n• AQUAE VIVAE D.D. – Koncesija za crpljenje miner
- alnih i termalnih voda (KRAPINSKE TOPLICE)\, 15.529 €/god.\n\nProfil op
- ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B80658296313095\
- nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ alnih i termalnih voda (KRAPINSKE TOPLICE) · davatelj: MINISTARSTVO ZAŠT
+ ITE OKOLIŠA I ZELENE TRANZICIJE\, 15.529 €/god.\n\nProfil općine: http
+ s://koncesijski-sat.vercel.app/#opcina/41942358B80658296313095\nIzvor: Reg
+ istar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B80658296313095
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -31,8 +32,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-fc6f78905718c3ab@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-499ce826a30f2943@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20490428
 DTEND;VALUE=DATE:20490429
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (AQUAE VIVAE D.D.
@@ -40,8 +41,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (AQUAE VIVAE D.D.
 DESCRIPTION:28. 10. 2049. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• AQUAE VIVAE D.D. – Koncesija za crpljenje mineralnih i termaln
- ih voda (KRAPINSKE TOPLICE)\, 15.529 €/god.\n\nProfil općine: https://k
- oncesijski-sat.vercel.app/#opcina/41942358B80658296313095
+ ih voda (KRAPINSKE TOPLICE) · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠA I 
+ ZELENE TRANZICIJE\, 15.529 €/god.\n\nProfil općine: https://koncesijski
+ -sat.vercel.app/#opcina/41942358B80658296313095
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B80658296313095
 TRANSP:TRANSPARENT
 BEGIN:VALARM

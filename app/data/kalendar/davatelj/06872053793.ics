@@ -1,0 +1,77 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · KOPRIVNIČKO-KRIŽEVAČKA ŽUPANIJA
+X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje KOPRIVNIČKO-KRIŽEVAČKA 
+ ŽUPANIJA. Iz Registra koncesija (FINA\, data.gov.hr). Osvježava se nakon
+  svake obrade podataka. https://koncesijski-sat.vercel.app/#sat
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-40f7526f087f0726@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20381219
+DTEND;VALUE=DATE:20381220
+SUMMARY:Ističe 3 koncesije · KOPRIVNIČKO-KRIŽEVAČKA ŽUPANIJA
+DESCRIPTION:3 ugovora o koncesiji ističe 19. 12. 2038. Godišnja fiksna na
+ knada: 3.981 €.\n\n• KOMUNALIJE - PLIN D.O.O. – Koncesija za obavlja
+ nje distribucije plina na postojećem distribucijskom sustavu (FERDINANDOV
+ AC\, KALINOVAC\, KALINOVAC\, KLOŠTAR PODRAVSKI\, KLOŠTAR PODRAVSKI\, MOL
+ VE\, MOLVE\, NOVO VIRJE\, NOVO VIRJE\, PODRAVSKE SESVETE\, PODRAVSKE SESVE
+ TE\, VIRJE\, VIRJE\, ĐURĐEVAC\, ĐURĐEVAC\, Općina Ferdinandovac)\, 1.
+ 327 €/god.\n• E.ON DISTRIBUCIJA PLINA D.O.O. – Koncesija za obavljan
+ je distribucije plina na postojećem distribucijskom sustavu (DRNJE\, GOLA
+ \, GOLA\, HLEBINE\, HLEBINE\, KOPRIVNICA\, KOPRIVNICA\, KOPRIVNIČKI BREGI
+ \, KOPRIVNIČKI BREGI\, KOPRIVNIČKI IVANEC\, KOPRIVNIČKI IVANEC\, LEGRAD
+ \, LEGRAD\, NOVIGRAD PODRAVSKI\, NOVIGRAD PODRAVSKI\, PETERANEC\, PETERANE
+ C\, SOKOLOVAC\, SOKOLOVAC\, ĐELEKOVEC\, ĐELEKOVEC\, Općina Drnje)\, 1.3
+ 27 €/god.\n• RADNIK-PLIN D.O.O. – Koncesija za obavljanje distribuci
+ je plina na postojećem distribucijskom sustavu (KRIŽEVCI\, SVETI IVAN Ž
+ ABNO\, SVETI IVAN ŽABNO\, Grad Križevci)\, 1.327 €/god.\n\nŠto istič
+ e: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FIN
+ A)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 3 koncesije · KOPRIVNIČKO-KRIŽEVAČKA ŽUPANIJA
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-40f7526f087f0726@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20380619
+DTEND;VALUE=DATE:20380620
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · KOPRIVNIČKO-K
+ RIŽEVAČKA ŽUPANIJA
+DESCRIPTION:19. 12. 2038. ističe 3 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• KOMUNALIJE - PLIN D.O.O. – Koncesija za obavljanje distribuci
+ je plina na postojećem distribucijskom sustavu (FERDINANDOVAC\, KALINOVAC
+ \, KALINOVAC\, KLOŠTAR PODRAVSKI\, KLOŠTAR PODRAVSKI\, MOLVE\, MOLVE\, N
+ OVO VIRJE\, NOVO VIRJE\, PODRAVSKE SESVETE\, PODRAVSKE SESVETE\, VIRJE\, V
+ IRJE\, ĐURĐEVAC\, ĐURĐEVAC\, Općina Ferdinandovac)\, 1.327 €/god.\n
+ • E.ON DISTRIBUCIJA PLINA D.O.O. – Koncesija za obavljanje distribucij
+ e plina na postojećem distribucijskom sustavu (DRNJE\, GOLA\, GOLA\, HLEB
+ INE\, HLEBINE\, KOPRIVNICA\, KOPRIVNICA\, KOPRIVNIČKI BREGI\, KOPRIVNIČK
+ I BREGI\, KOPRIVNIČKI IVANEC\, KOPRIVNIČKI IVANEC\, LEGRAD\, LEGRAD\, NO
+ VIGRAD PODRAVSKI\, NOVIGRAD PODRAVSKI\, PETERANEC\, PETERANEC\, SOKOLOVAC\
+ , SOKOLOVAC\, ĐELEKOVEC\, ĐELEKOVEC\, Općina Drnje)\, 1.327 €/god.\n
+ • RADNIK-PLIN D.O.O. – Koncesija za obavljanje distribucije plina na p
+ ostojećem distribucijskom sustavu (KRIŽEVCI\, SVETI IVAN ŽABNO\, SVETI 
+ IVAN ŽABNO\, Grad Križevci)\, 1.327 €/god.\n\nŠto ističe: https://ko
+ ncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · KOPRIVNIČ
+ KO-KRIŽEVAČKA ŽUPANIJA
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

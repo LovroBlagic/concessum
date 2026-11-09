@@ -1,0 +1,185 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · OSJEČKO-BARANJSKA ŽUPANIJA
+X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje OSJEČKO-BARANJSKA ŽUPANI
+ JA. Iz Registra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake 
+ obrade podataka. https://koncesijski-sat.vercel.app/#sat
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-af8cdacd4d668bd2@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20351003
+DTEND;VALUE=DATE:20351004
+SUMMARY:Ističe koncesija: HEP - PLIN  D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 3. 10. 2035. Godišnja fiksna nakn
+ ada: 26.545 €.\n\n• HEP - PLIN  D.O.O. – Koncesija za izgradnju dist
+ ribucijskog sustava plinovoda i pružanje usluga distribucijskim sustavom 
+ (OSJEČKO-BARANJSKA ŽUPANIJA)\, 26.545 €/god.\n\nŠto ističe: https://
+ koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada
+  Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: HEP - PLIN  D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-af8cdacd4d668bd2@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20350403
+DTEND;VALUE=DATE:20350404
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP - PLIN  D.O.
+ O.)
+DESCRIPTION:3. 10. 2035. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• HEP - PLIN  D.O.O. – Koncesija za izgradnju distribucijskog sus
+ tava plinovoda i pružanje usluga distribucijskim sustavom (OSJEČKO-BARAN
+ JSKA ŽUPANIJA)\, 26.545 €/god.\n\nŠto ističe: https://koncesijski-sat
+ .vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP - PLIN  
+ D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-068e409e46274997@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20351128
+DTEND;VALUE=DATE:20351129
+SUMMARY:Ističe 2 koncesije · OSJEČKO-BARANJSKA ŽUPANIJA
+DESCRIPTION:2 ugovora o koncesiji ističe 28. 11. 2035. Godišnja fiksna na
+ knada: 331 €.\n\n• HEP - PLIN  D.O.O. – Koncesija za izgradnju distr
+ ibucijskog sustava plinovoda i pružanje usluga distribucijskim sustavom (
+ ERNESTINOVO\, Općina Ernestinovo)\, 265 €/god.\n• HEP - PLIN  D.O.O. 
+ – Koncesija za izgradnju distribucijskog sustava plinovoda i pružanje u
+ sluga distribucijskim sustavom (PODGORAČ\, Općina Podgorač)\, 66 €/go
+ d.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Regist
+ ar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 2 koncesije · OSJEČKO-BARANJSKA ŽUPANIJA
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-068e409e46274997@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20350528
+DTEND;VALUE=DATE:20350529
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · OSJEČKO-BARAN
+ JSKA ŽUPANIJA
+DESCRIPTION:28. 11. 2035. ističe 2 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• HEP - PLIN  D.O.O. – Koncesija za izgradnju distribucijskog s
+ ustava plinovoda i pružanje usluga distribucijskim sustavom (ERNESTINOVO\
+ , Općina Ernestinovo)\, 265 €/god.\n• HEP - PLIN  D.O.O. – Koncesij
+ a za izgradnju distribucijskog sustava plinovoda i pružanje usluga distri
+ bucijskim sustavom (PODGORAČ\, Općina Podgorač)\, 66 €/god.\n\nŠto i
+ stiče: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije · OSJEČKO-B
+ ARANJSKA ŽUPANIJA
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-1f43a012cc54c28c@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20380206
+DTEND;VALUE=DATE:20380207
+SUMMARY:Ističe koncesija: HEP - PLIN  D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 6. 2. 2038. Godišnja fiksna nakna
+ da: 1.327 €.\n\n• HEP - PLIN  D.O.O. – Koncesija za izgradnju distri
+ bucijskog sustava plinovoda i pružanje usluga distribucijskim sustavom (O
+ SJEČKO-BARANJSKA ŽUPANIJA)\, 1.327 €/god.\n\nŠto ističe: https://kon
+ cesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Ko
+ ncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: HEP - PLIN  D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-1f43a012cc54c28c@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20370806
+DTEND;VALUE=DATE:20370807
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP - PLIN  D.O.
+ O.)
+DESCRIPTION:6. 2. 2038. ističe 1 ugovor o koncesiji. Novi postupak dodjele
+  treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
+ \n\n• HEP - PLIN  D.O.O. – Koncesija za izgradnju distribucijskog sust
+ ava plinovoda i pružanje usluga distribucijskim sustavom (OSJEČKO-BARANJ
+ SKA ŽUPANIJA)\, 1.327 €/god.\n\nŠto ističe: https://koncesijski-sat.v
+ ercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP - PLIN  
+ D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-565d52d7222a91c1@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20690628
+DTEND;VALUE=DATE:20690629
+SUMMARY:Ističe koncesija: HEP-PLIN D.O.O. ZA DISTRIBUCIJU I OPSKRBU PLINOM
+DESCRIPTION:1 ugovor o koncesiji ističe 28. 6. 2069.\n\n• HEP-PLIN D.O.O
+ . ZA DISTRIBUCIJU I OPSKRBU PLINOM – Koncesija za obavljanje distribucij
+ e plina na postojećem distribucijskom sustavu (ERDUT\, Općina Erdut)\n\n
+ Što ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar kon
+ cesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: HEP-PLIN D.O.O. ZA DISTRIBUCIJU I OPSKRBU PL
+ INOM
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-565d52d7222a91c1@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20681228
+DTEND;VALUE=DATE:20681229
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP-PLIN D.O.O. 
+ ZA DISTRIBUCIJU I OPSKRBU PLINOM)
+DESCRIPTION:28. 6. 2069. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• HEP-PLIN D.O.O. ZA DISTRIBUCIJU I OPSKRBU PLINOM – Koncesija za
+  obavljanje distribucije plina na postojećem distribucijskom sustavu (ERD
+ UT\, Općina Erdut)\n\nŠto ističe: https://koncesijski-sat.vercel.app/#s
+ at
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP-PLIN D.O
+ .O. ZA DISTRIBUCIJU I OPSKRBU PLINOM)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

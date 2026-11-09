@@ -4,24 +4,25 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Općina Viškovci
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Viškovci. Iz Re
- gistra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade po
- dataka. https://koncesijski-sat.vercel.app/#opcina/41942358B62489498403929
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Općina Viškovci (pregl
+ ed\, svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježav
+ a se nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#opci
+ na/41942358B62489498403929
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-54a3cfe93de579eb@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-859ae8172050b4df@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20310430
 DTEND;VALUE=DATE:20310501
 SUMMARY:Ističe koncesija: HEP - PLIN D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 30. 4. 2031. Godišnja fiksna nakn
  ada: 53 €.\n\n• HEP - PLIN D.O.O. – Koncesija za obavljanje distribu
- cije plina na postojećem distribucijskom sustavu (VIŠKOVCI)\, 53 €/god
- .\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B6
- 2489498403929\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9
- . 11. 2026.
+ cije plina na postojećem distribucijskom sustavu (VIŠKOVCI) · davatelj:
+  OPĆINA VIŠKOVCI\, 53 €/god.\n\nProfil općine: https://koncesijski-sa
+ t.vercel.app/#opcina/41942358B62489498403929\nIzvor: Registar koncesija (F
+ INA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B62489498403929
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -31,8 +32,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-54a3cfe93de579eb@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-859ae8172050b4df@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20301030
 DTEND;VALUE=DATE:20301031
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP - PLIN D.O.O
@@ -40,9 +41,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP - PLIN D.O.O
 DESCRIPTION:30. 4. 2031. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• HEP - PLIN D.O.O. – Koncesija za obavljanje distribucije plina 
- na postojećem distribucijskom sustavu (VIŠKOVCI)\, 53 €/god.\n\nProfil
-  općine: https://koncesijski-sat.vercel.app/#opcina/41942358B624894984039
- 29
+ na postojećem distribucijskom sustavu (VIŠKOVCI) · davatelj: OPĆINA VI
+ ŠKOVCI\, 53 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.ap
+ p/#opcina/41942358B62489498403929
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B62489498403929
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -53,18 +54,19 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-cbcee6acf062a6a8@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-86cf967cda9089df@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20460720
 DTEND;VALUE=DATE:20460721
 SUMMARY:Ističe 2 koncesije · Viškovci
 DESCRIPTION:2 ugovora o koncesiji ističe 20. 7. 2046. Godišnja fiksna nak
  nada: 4.274 €.\n\n• ŽITO D.O.O. – Koncesija za zahvaćanje voda za 
- tehnološke potrebe (VIŠKOVCI)\, 2.137 €/god.\n• NOVI AGRAR D.O.O. 
- – Koncesija za zahvaćanje voda za tehnološke potrebe (VIŠKOVCI)\, 2.1
- 37 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/
- 41942358B62489498403929\nIzvor: Registar koncesija (FINA)\, obrada Koncesi
- jski sat 9. 11. 2026.
+ tehnološke potrebe (VIŠKOVCI) · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠ
+ A I ZELENE TRANZICIJE\, 2.137 €/god.\n• NOVI AGRAR D.O.O. – Koncesij
+ a za zahvaćanje voda za tehnološke potrebe (VIŠKOVCI) · davatelj: MINI
+ STARSTVO ZAŠTITE OKOLIŠA I ZELENE TRANZICIJE\, 2.137 €/god.\n\nProfil 
+ općine: https://koncesijski-sat.vercel.app/#opcina/41942358B6248949840392
+ 9\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B62489498403929
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -74,23 +76,24 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-cbcee6acf062a6a8@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-86cf967cda9089df@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20460120
 DTEND;VALUE=DATE:20460121
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Viškovci
 DESCRIPTION:20. 7. 2046. ističe 2 ugovora o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• ŽITO D.O.O. – Koncesija za zahvaćanje voda za tehnološke po
- trebe (VIŠKOVCI)\, 2.137 €/god.\n• NOVI AGRAR D.O.O. – Koncesija za
-  zahvaćanje voda za tehnološke potrebe (VIŠKOVCI)\, 2.137 €/god.\n\nP
- rofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B6248949
- 8403929
+ trebe (VIŠKOVCI) · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠA I ZELENE TRA
+ NZICIJE\, 2.137 €/god.\n• NOVI AGRAR D.O.O. – Koncesija za zahvaćan
+ je voda za tehnološke potrebe (VIŠKOVCI) · davatelj: MINISTARSTVO ZAŠT
+ ITE OKOLIŠA I ZELENE TRANZICIJE\, 2.137 €/god.\n\nProfil općine: https
+ ://koncesijski-sat.vercel.app/#opcina/41942358B62489498403929
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B62489498403929
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Viškovci
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT

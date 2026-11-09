@@ -4,23 +4,25 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Grad Belišće
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Grad Belišće. Iz Regis
- tra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podat
- aka. https://koncesijski-sat.vercel.app/#opcina/41942358B83936306331720
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Grad Belišće (pregled\
+ , svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježava s
+ e nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#opcina/
+ 41942358B83936306331720
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-25fff96cdb1365f8@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-83094a98a0155642@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270615
 DTEND;VALUE=DATE:20270616
 SUMMARY:Ističe koncesija: INA-INDUSTRIJA NAFTE  D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 15. 6. 2027.\n\n• INA-INDUSTRIJA
   NAFTE  D.D. – Dozvola za eksploataciju ugljikovodika (prema Zakonu o ug
- ljikovodicima) (BELIŠĆE)\n\nProfil općine: https://koncesijski-sat.verc
- el.app/#opcina/41942358B83936306331720\nIzvor: Registar koncesija (FINA)\,
-  obrada Koncesijski sat 9. 11. 2026.
+ ljikovodicima) (BELIŠĆE) · davatelj: MINISTARSTVO GOSPODARSTVA\n\nProfi
+ l općine: https://koncesijski-sat.vercel.app/#opcina/41942358B83936306331
+ 720\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026
+ .
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B83936306331720
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -30,8 +32,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-25fff96cdb1365f8@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-83094a98a0155642@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20261215
 DTEND;VALUE=DATE:20261216
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA-INDUSTRIJA N
@@ -39,8 +41,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA-INDUSTRIJA N
 DESCRIPTION:15. 6. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• INA-INDUSTRIJA NAFTE  D.D. – Dozvola za eksploataciju ugljikovo
- dika (prema Zakonu o ugljikovodicima) (BELIŠĆE)\n\nProfil općine: https
- ://koncesijski-sat.vercel.app/#opcina/41942358B83936306331720
+ dika (prema Zakonu o ugljikovodicima) (BELIŠĆE) · davatelj: MINISTARSTV
+ O GOSPODARSTVA\n\nProfil općine: https://koncesijski-sat.vercel.app/#opci
+ na/41942358B83936306331720
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B83936306331720
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -51,16 +54,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-0bd141df312e6f41@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-142d533068e3a131@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270628
 DTEND;VALUE=DATE:20270629
 SUMMARY:Ističe koncesija: INA\, D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 28. 6. 2027. Godišnja fiksna nakn
  ada: 2.077 €.\n\n• INA\, D.D. – Dozvola za istraživanje ugljikovodi
- ka (prema Zakonu o ugljikovodicima) (BELIŠĆE)\, 2.077 €/god.\n\nProfil
-  općine: https://koncesijski-sat.vercel.app/#opcina/41942358B839363063317
- 20\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ ka (prema Zakonu o ugljikovodicima) (BELIŠĆE) · davatelj: MINISTARSTVO 
+ GOSPODARSTVA\, 2.077 €/god.\n\nProfil općine: https://koncesijski-sat.v
+ ercel.app/#opcina/41942358B83936306331720\nIzvor: Registar koncesija (FINA
+ )\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B83936306331720
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -70,16 +74,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-0bd141df312e6f41@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-142d533068e3a131@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20261228
 DTEND;VALUE=DATE:20261229
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA\, D.D.)
 DESCRIPTION:28. 6. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• INA\, D.D. – Dozvola za istraživanje ugljikovodika (prema Zako
- nu o ugljikovodicima) (BELIŠĆE)\, 2.077 €/god.\n\nProfil općine: http
- s://koncesijski-sat.vercel.app/#opcina/41942358B83936306331720
+ nu o ugljikovodicima) (BELIŠĆE) · davatelj: MINISTARSTVO GOSPODARSTVA\,
+  2.077 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opc
+ ina/41942358B83936306331720
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B83936306331720
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -89,17 +94,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-ccc1a751d70698c3@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-abc64e3f43e58c51@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20290115
 DTEND;VALUE=DATE:20290116
 SUMMARY:Ističe koncesija: HRVATSKI RADIO VALPOVŠTINA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 15. 1. 2029. Godišnja fiksna nakn
  ada: 66 €.\n\n• HRVATSKI RADIO VALPOVŠTINA D.O.O. – Koncesija za ob
- avljanje djelatnosti radija (BELIŠĆE\, BIZOVAC\, MARIJANCI\, VALPOVO)\, 
- 66 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/
- 41942358B83936306331720\nIzvor: Registar koncesija (FINA)\, obrada Koncesi
- jski sat 9. 11. 2026.
+ avljanje djelatnosti radija (BELIŠĆE\, BIZOVAC\, MARIJANCI\, VALPOVO) ·
+  davatelj: AGENCIJA ZA ELEKTRONIČKE MEDIJE\, 66 €/god.\n\nProfil općin
+ e: https://koncesijski-sat.vercel.app/#opcina/41942358B83936306331720\nIzv
+ or: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B83936306331720
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -109,8 +114,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-ccc1a751d70698c3@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-abc64e3f43e58c51@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20280715
 DTEND;VALUE=DATE:20280716
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKI RADIO V
@@ -118,9 +123,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKI RADIO V
 DESCRIPTION:15. 1. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• HRVATSKI RADIO VALPOVŠTINA D.O.O. – Koncesija za obavljanje dj
- elatnosti radija (BELIŠĆE\, BIZOVAC\, MARIJANCI\, VALPOVO)\, 66 €/god.
- \n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B83
- 936306331720
+ elatnosti radija (BELIŠĆE\, BIZOVAC\, MARIJANCI\, VALPOVO) · davatelj: 
+ AGENCIJA ZA ELEKTRONIČKE MEDIJE\, 66 €/god.\n\nProfil općine: https://
+ koncesijski-sat.vercel.app/#opcina/41942358B83936306331720
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B83936306331720
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -131,17 +136,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-59152db0ffe790dc@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-081de986f0d31cd8@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20330515
 DTEND;VALUE=DATE:20330516
 SUMMARY:Ističe koncesija: SAMOSTAL.DIMNJAČARSKA RADNJA TIBORJANCI
 DESCRIPTION:1 ugovor o koncesiji ističe 15. 5. 2033. Godišnja fiksna nakn
  ada: 1.400 €.\n\n• SAMOSTAL.DIMNJAČARSKA RADNJA TIBORJANCI – Konces
- ija za obavljanje dimnjačarskih poslova (BELIŠĆE)\, 1.400 €/god.\n\nP
- rofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B8393630
- 6331720\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 
- 2026.
+ ija za obavljanje dimnjačarskih poslova (BELIŠĆE) · davatelj: GRAD BEL
+ IŠĆE\, 1.400 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.
+ app/#opcina/41942358B83936306331720\nIzvor: Registar koncesija (FINA)\, ob
+ rada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B83936306331720
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -151,8 +156,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-59152db0ffe790dc@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-081de986f0d31cd8@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20321115
 DTEND;VALUE=DATE:20321116
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (SAMOSTAL.DIMNJA
@@ -160,8 +165,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (SAMOSTAL.DIMNJA
 DESCRIPTION:15. 5. 2033. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• SAMOSTAL.DIMNJAČARSKA RADNJA TIBORJANCI – Koncesija za obavlja
- nje dimnjačarskih poslova (BELIŠĆE)\, 1.400 €/god.\n\nProfil općine:
-  https://koncesijski-sat.vercel.app/#opcina/41942358B83936306331720
+ nje dimnjačarskih poslova (BELIŠĆE) · davatelj: GRAD BELIŠĆE\, 1.400
+  €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41
+ 942358B83936306331720
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B83936306331720
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -172,19 +178,19 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-8af0538310cbd42b@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-e4e58cefa447bb6f@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20370112
 DTEND;VALUE=DATE:20370113
 SUMMARY:Ističe 2 koncesije · Belišće
 DESCRIPTION:2 ugovora o koncesiji ističe 12. 1. 2037. Godišnja fiksna nak
  nada: 95.319 €.\n\n• PPK VALPOVO  D.O.O. – Koncesija za korištenje 
- poljoprivrednog zemljišta u vlasništvu države (BELIŠĆE)\, 69.220 €/
- god.\n• PPK VALPOVO EKO D.O.O. – Koncesija za korištenje poljoprivred
- nog zemljišta u vlasništvu države (BELIŠĆE)\, 26.099 €/god.\n\nProf
- il općine: https://koncesijski-sat.vercel.app/#opcina/41942358B8393630633
- 1720\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 202
- 6.
+ poljoprivrednog zemljišta u vlasništvu države (BELIŠĆE) · davatelj: 
+ GRAD BELIŠĆE\, 69.220 €/god.\n• PPK VALPOVO EKO D.O.O. – Koncesija
+  za korištenje poljoprivrednog zemljišta u vlasništvu države (BELIŠĆ
+ E) · davatelj: GRAD BELIŠĆE\, 26.099 €/god.\n\nProfil općine: https:
+ //koncesijski-sat.vercel.app/#opcina/41942358B83936306331720\nIzvor: Regis
+ tar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B83936306331720
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -194,37 +200,39 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-8af0538310cbd42b@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-e4e58cefa447bb6f@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20360712
 DTEND;VALUE=DATE:20360713
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Belišće
 DESCRIPTION:12. 1. 2037. ističe 2 ugovora o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• PPK VALPOVO  D.O.O. – Koncesija za korištenje poljoprivrednog
-  zemljišta u vlasništvu države (BELIŠĆE)\, 69.220 €/god.\n• PPK V
- ALPOVO EKO D.O.O. – Koncesija za korištenje poljoprivrednog zemljišta 
- u vlasništvu države (BELIŠĆE)\, 26.099 €/god.\n\nProfil općine: htt
- ps://koncesijski-sat.vercel.app/#opcina/41942358B83936306331720
+  zemljišta u vlasništvu države (BELIŠĆE) · davatelj: GRAD BELIŠĆE\
+ , 69.220 €/god.\n• PPK VALPOVO EKO D.O.O. – Koncesija za korištenje
+  poljoprivrednog zemljišta u vlasništvu države (BELIŠĆE) · davatelj:
+  GRAD BELIŠĆE\, 26.099 €/god.\n\nProfil općine: https://koncesijski-s
+ at.vercel.app/#opcina/41942358B83936306331720
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B83936306331720
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Belišće
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-6699f425ac845b1a@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-5baba8ea5fca6f20@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20440430
 DTEND;VALUE=DATE:20440501
 SUMMARY:Ističe koncesija: KOMBEL D.O.O. ZA KOMUNALNE DJELATNOSTI
 DESCRIPTION:1 ugovor o koncesiji ističe 30. 4. 2044. Godišnja fiksna nakn
  ada: 66 €.\n\n• KOMBEL D.O.O. ZA KOMUNALNE DJELATNOSTI – Koncesija z
- a obavljanje djelatnosti radija (BELIŠĆE)\, 66 €/god.\n\nProfil općin
- e: https://koncesijski-sat.vercel.app/#opcina/41942358B83936306331720\nIzv
- or: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ a obavljanje djelatnosti radija (BELIŠĆE) · davatelj: AGENCIJA ZA ELEKT
+ RONIČKE MEDIJE\, 66 €/god.\n\nProfil općine: https://koncesijski-sat.v
+ ercel.app/#opcina/41942358B83936306331720\nIzvor: Registar koncesija (FINA
+ )\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B83936306331720
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -234,8 +242,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-6699f425ac845b1a@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-5baba8ea5fca6f20@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20431030
 DTEND;VALUE=DATE:20431031
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (KOMBEL D.O.O. ZA
@@ -243,8 +251,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (KOMBEL D.O.O. ZA
 DESCRIPTION:30. 4. 2044. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• KOMBEL D.O.O. ZA KOMUNALNE DJELATNOSTI – Koncesija za obavljanj
- e djelatnosti radija (BELIŠĆE)\, 66 €/god.\n\nProfil općine: https://
- koncesijski-sat.vercel.app/#opcina/41942358B83936306331720
+ e djelatnosti radija (BELIŠĆE) · davatelj: AGENCIJA ZA ELEKTRONIČKE ME
+ DIJE\, 66 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#
+ opcina/41942358B83936306331720
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B83936306331720
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -255,17 +264,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-45137e1f641085c0@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-0de034a6a23c81b0@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20520228
 DTEND;VALUE=DATE:20520229
 SUMMARY:Ističe koncesija: DS SMITH BELIŠĆE CROATIA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 28. 2. 2052. Godišnja fiksna nakn
  ada: 90.252 €.\n\n• DS SMITH BELIŠĆE CROATIA D.O.O. – Koncesija za
-  zahvaćanje voda za tehnološke potrebe (BELIŠĆE)\, 90.252 €/god.\n\n
- Profil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B839363
- 06331720\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11.
-  2026.
+  zahvaćanje voda za tehnološke potrebe (BELIŠĆE) · davatelj: MINISTAR
+ STVO ZAŠTITE OKOLIŠA I ZELENE TRANZICIJE\, 90.252 €/god.\n\nProfil op
+ ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B83936306331720\
+ nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B83936306331720
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -275,8 +284,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-45137e1f641085c0@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-0de034a6a23c81b0@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20510828
 DTEND;VALUE=DATE:20510829
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DS SMITH BELIŠ
@@ -284,8 +293,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DS SMITH BELIŠ
 DESCRIPTION:28. 2. 2052. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• DS SMITH BELIŠĆE CROATIA D.O.O. – Koncesija za zahvaćanje vo
- da za tehnološke potrebe (BELIŠĆE)\, 90.252 €/god.\n\nProfil općine:
-  https://koncesijski-sat.vercel.app/#opcina/41942358B83936306331720
+ da za tehnološke potrebe (BELIŠĆE) · davatelj: MINISTARSTVO ZAŠTITE O
+ KOLIŠA I ZELENE TRANZICIJE\, 90.252 €/god.\n\nProfil općine: https://k
+ oncesijski-sat.vercel.app/#opcina/41942358B83936306331720
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B83936306331720
 TRANSP:TRANSPARENT
 BEGIN:VALARM

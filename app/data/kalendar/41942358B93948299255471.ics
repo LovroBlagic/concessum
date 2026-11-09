@@ -4,24 +4,25 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Općina Koprivnički Bregi
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Koprivnički Bre
- gi. Iz Registra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake 
- obrade podataka. https://koncesijski-sat.vercel.app/#opcina/41942358B93948
- 299255471
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Općina Koprivnički Bre
+ gi (pregled\, svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). 
+ Osvježava se nakon svake obrade podataka. https://koncesijski-sat.vercel.
+ app/#opcina/41942358B93948299255471
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-83085c198840673f@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-610f423d00e05aa9@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270503
 DTEND;VALUE=DATE:20270504
 SUMMARY:Ističe koncesija: MLD-USLUGE D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 3. 5. 2027. Godišnja fiksna nakna
  da: 439 €.\n\n• MLD-USLUGE D.O.O. – Koncesija za obavljanje dimnjač
- arskih poslova (KOPRIVNIČKI BREGI)\, 439 €/god.\n\nProfil općine: http
- s://koncesijski-sat.vercel.app/#opcina/41942358B93948299255471\nIzvor: Reg
- istar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ arskih poslova (KOPRIVNIČKI BREGI) · davatelj: OPĆINA KOPRIVNIČKI BREG
+ I\, 439 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#op
+ cina/41942358B93948299255471\nIzvor: Registar koncesija (FINA)\, obrada Ko
+ ncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B93948299255471
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -31,20 +32,22 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-87a354bd7b387ca4@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-67356adf88152f66@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20391231
 DTEND;VALUE=DATE:20400101
 SUMMARY:Ističe 3 koncesije · Koprivnički Bregi
 DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2039. Godišnja fiksna na
  knada: 1.324 €.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauze
- tu površinu odobrenog eksploatacijskog polja (KOPRIVNIČKI BREGI)\, 1.324
-  €/god.\n• INA-INDUSTRIJA NAFTE  D.D. – Dozvola za eksploataciju ugl
- jikovodika (prema Zakonu o ugljikovodicima) (KOPRIVNIČKI BREGI)\n• INA 
- D.D. – Dozvola za eksploataciju ugljikovodika (prema Zakonu o ugljikovod
- icima) (KOPRIVNIČKI BREGI)\n\nProfil općine: https://koncesijski-sat.ver
- cel.app/#opcina/41942358B93948299255471\nIzvor: Registar koncesija (FINA)\
- , obrada Koncesijski sat 9. 11. 2026.
+ tu površinu odobrenog eksploatacijskog polja (KOPRIVNIČKI BREGI) · dava
+ telj: MINISTARSTVO GOSPODARSTVA\, 1.324 €/god.\n• INA-INDUSTRIJA NAFTE
+   D.D. – Dozvola za eksploataciju ugljikovodika (prema Zakonu o ugljikov
+ odicima) (KOPRIVNIČKI BREGI) · davatelj: MINISTARSTVO GOSPODARSTVA\n• 
+ INA D.D. – Dozvola za eksploataciju ugljikovodika (prema Zakonu o ugljik
+ ovodicima) (KOPRIVNIČKI BREGI) · davatelj: MINISTARSTVO GOSPODARSTVA\n\n
+ Profil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B939482
+ 99255471\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11.
+  2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B93948299255471
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -54,25 +57,28 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-87a354bd7b387ca4@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-67356adf88152f66@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20390630
 DTEND;VALUE=DATE:20390701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Koprivnički B
+ regi
 DESCRIPTION:31. 12. 2039. ističe 3 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauzetu površinu o
- dobrenog eksploatacijskog polja (KOPRIVNIČKI BREGI)\, 1.324 €/god.\n•
-  INA-INDUSTRIJA NAFTE  D.D. – Dozvola za eksploataciju ugljikovodika (pr
- ema Zakonu o ugljikovodicima) (KOPRIVNIČKI BREGI)\n• INA D.D. – Dozvo
- la za eksploataciju ugljikovodika (prema Zakonu o ugljikovodicima) (KOPRIV
- NIČKI BREGI)\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcin
- a/41942358B93948299255471
+ dobrenog eksploatacijskog polja (KOPRIVNIČKI BREGI) · davatelj: MINISTAR
+ STVO GOSPODARSTVA\, 1.324 €/god.\n• INA-INDUSTRIJA NAFTE  D.D. – Doz
+ vola za eksploataciju ugljikovodika (prema Zakonu o ugljikovodicima) (KOPR
+ IVNIČKI BREGI) · davatelj: MINISTARSTVO GOSPODARSTVA\n• INA D.D. – D
+ ozvola za eksploataciju ugljikovodika (prema Zakonu o ugljikovodicima) (KO
+ PRIVNIČKI BREGI) · davatelj: MINISTARSTVO GOSPODARSTVA\n\nProfil općine
+ : https://koncesijski-sat.vercel.app/#opcina/41942358B93948299255471
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B93948299255471
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Koprivnič
+ ki Bregi
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT

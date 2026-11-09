@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · OPĆINA BERETINEC
+X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje OPĆINA BERETINEC. Iz Regi
+ stra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade poda
+ taka. https://koncesijski-sat.vercel.app/#sat
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-c980cc7911326ed2@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20270517
+DTEND;VALUE=DATE:20270518
+SUMMARY:Ističe koncesija: DIMAX D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 17. 5. 2027. Godišnja fiksna nakn
+ ada: 398 €.\n\n• DIMAX D.O.O. – Koncesija za obavljanje dimnjačarsk
+ ih poslova (BERETINEC\, Općina Beretinec)\, 398 €/god.\n\nŠto ističe:
+  https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)
+ \, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: DIMAX D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-c980cc7911326ed2@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DIMAX D.O.O.)
+DESCRIPTION:17. 5. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• DIMAX D.O.O. – Koncesija za obavljanje dimnjačarskih poslova (
+ BERETINEC\, Općina Beretinec)\, 398 €/god.\n\nŠto ističe: https://kon
+ cesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DIMAX D.O.O.
+ )
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

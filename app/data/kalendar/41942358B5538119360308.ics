@@ -4,23 +4,25 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Općina Jalžabet
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Jalžabet. Iz Re
- gistra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade po
- dataka. https://koncesijski-sat.vercel.app/#opcina/41942358B5538119360308
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Općina Jalžabet (pregl
+ ed\, svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježav
+ a se nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#opci
+ na/41942358B5538119360308
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-b1b2b47343e3b1e2@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-a5f98e2cc1f159e2@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20290516
 DTEND;VALUE=DATE:20290517
 SUMMARY:Ističe koncesija: DIMNJAČARSTVO VALJAK D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 16. 5. 2029. Godišnja fiksna nakn
  ada: 800 €.\n\n• DIMNJAČARSTVO VALJAK D.O.O. – Koncesija za obavlja
- nje dimnjačarskih poslova (JALŽABET)\, 800 €/god.\n\nProfil općine: h
- ttps://koncesijski-sat.vercel.app/#opcina/41942358B5538119360308\nIzvor: R
- egistar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ nje dimnjačarskih poslova (JALŽABET) · davatelj: OPĆINA JALŽABET\, 80
+ 0 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4
+ 1942358B5538119360308\nIzvor: Registar koncesija (FINA)\, obrada Koncesijs
+ ki sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B5538119360308
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -30,8 +32,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-b1b2b47343e3b1e2@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-a5f98e2cc1f159e2@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20281116
 DTEND;VALUE=DATE:20281117
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DIMNJAČARSTVO V
@@ -39,8 +41,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DIMNJAČARSTVO V
 DESCRIPTION:16. 5. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• DIMNJAČARSTVO VALJAK D.O.O. – Koncesija za obavljanje dimnjač
- arskih poslova (JALŽABET)\, 800 €/god.\n\nProfil općine: https://konce
- sijski-sat.vercel.app/#opcina/41942358B5538119360308
+ arskih poslova (JALŽABET) · davatelj: OPĆINA JALŽABET\, 800 €/god.\n
+ \nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B5538
+ 119360308
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B5538119360308
 TRANSP:TRANSPARENT
 BEGIN:VALARM

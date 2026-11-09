@@ -1,0 +1,263 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · GRAD CRIKVENICA
+X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje GRAD CRIKVENICA. Iz Regist
+ ra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podata
+ ka. https://koncesijski-sat.vercel.app/#sat
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-d6fec7b1166189ff@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:Ističe koncesija: AUTOTRANS D.D.
+DESCRIPTION:1 ugovor o koncesiji ističe 16. 11. 2026. Godišnja fiksna nak
+ nada: 8.587 €.\n\n• AUTOTRANS D.D. – Koncesija za obavljanje prijevo
+ za putnika u javnom prometu (CRIKVENICA\, Grad Crikvenica)\, 8.587 €/god
+ .\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Regista
+ r koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: AUTOTRANS D.D.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-bc9866b9096265ae@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:Ističe koncesija: DIMO-PROMET D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 16. 12. 2026. Godišnja fiksna nak
+ nada: 6.371 €.\n\n• DIMO-PROMET D.O.O. – Koncesija za obavljanje dim
+ njačarskih poslova (CRIKVENICA\, Grad Crikvenica)\, 6.371 €/god.\n\nŠt
+ o ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar konces
+ ija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: DIMO-PROMET D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-fcf20a52eb298434@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20281112
+DTEND;VALUE=DATE:20281113
+SUMMARY:Ističe koncesija: THALASSOTHERAPIA - CRIKVENICA
+DESCRIPTION:1 ugovor o koncesiji ističe 12. 11. 2028.\n\n• THALASSOTHERA
+ PIA - CRIKVENICA – Koncesija na pomorskom dobru (CRIKVENICA\, Grad Crikv
+ enica)\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Re
+ gistar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: THALASSOTHERAPIA - CRIKVENICA
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-fcf20a52eb298434@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20280512
+DTEND;VALUE=DATE:20280513
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (THALASSOTHERAPIA
+  - CRIKVENICA)
+DESCRIPTION:12. 11. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• THALASSOTHERAPIA - CRIKVENICA – Koncesija na pomorskom dobru (
+ CRIKVENICA\, Grad Crikvenica)\n\nŠto ističe: https://koncesijski-sat.ver
+ cel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (THALASSOTHER
+ APIA - CRIKVENICA)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-3cefa450a71f6c1d@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20370306
+DTEND;VALUE=DATE:20370307
+SUMMARY:Ističe koncesija: VIO ŽRNOVNICA CRIKVENICA VINODOL D.O.O.- NAPLAT
+ A VODE ZA PRIVREDU
+DESCRIPTION:1 ugovor o koncesiji ističe 6. 3. 2037. Godišnja fiksna nakna
+ da: 14 €.\n\n• VIO ŽRNOVNICA CRIKVENICA VINODOL D.O.O.- NAPLATA VODE 
+ ZA PRIVREDU – Koncesija na pomorskom dobru (CRIKVENICA\, Grad Crikvenica
+ )\, 14 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\n
+ Izvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: VIO ŽRNOVNICA CRIKVENICA VINODOL D.O.O.- NA
+ PLATA VODE ZA PRIVREDU
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-3cefa450a71f6c1d@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20360906
+DTEND;VALUE=DATE:20360907
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VIO ŽRNOVNICA C
+ RIKVENICA VINODOL D.O.O.- NAPLATA VODE ZA PRIVREDU)
+DESCRIPTION:6. 3. 2037. ističe 1 ugovor o koncesiji. Novi postupak dodjele
+  treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
+ \n\n• VIO ŽRNOVNICA CRIKVENICA VINODOL D.O.O.- NAPLATA VODE ZA PRIVREDU
+  – Koncesija na pomorskom dobru (CRIKVENICA\, Grad Crikvenica)\, 14 €/
+ god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VIO ŽRNOVNI
+ CA CRIKVENICA VINODOL D.O.O.- NAPLATA VODE ZA PRIVREDU)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-8141f4ee269370d7@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20370510
+DTEND;VALUE=DATE:20370511
+SUMMARY:Ističe koncesija: VIO ŽRNOVNICA CRIKVENICA VINODOL D.O.O.- NAPLAT
+ A VODE ZA PRIVREDU
+DESCRIPTION:1 ugovor o koncesiji ističe 10. 5. 2037. Godišnja fiksna nakn
+ ada: 863 €.\n\n• VIO ŽRNOVNICA CRIKVENICA VINODOL D.O.O.- NAPLATA VOD
+ E ZA PRIVREDU – Koncesija na pomorskom dobru (CRIKVENICA\, Grad Crikveni
+ ca)\, 863 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sa
+ t\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: VIO ŽRNOVNICA CRIKVENICA VINODOL D.O.O.- NA
+ PLATA VODE ZA PRIVREDU
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-8141f4ee269370d7@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20361110
+DTEND;VALUE=DATE:20361111
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VIO ŽRNOVNICA C
+ RIKVENICA VINODOL D.O.O.- NAPLATA VODE ZA PRIVREDU)
+DESCRIPTION:10. 5. 2037. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• VIO ŽRNOVNICA CRIKVENICA VINODOL D.O.O.- NAPLATA VODE ZA PRIVRED
+ U – Koncesija na pomorskom dobru (CRIKVENICA\, Grad Crikvenica)\, 863 
+ €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VIO ŽRNOVNI
+ CA CRIKVENICA VINODOL D.O.O.- NAPLATA VODE ZA PRIVREDU)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-cd37624bd34fe4ee@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20380416
+DTEND;VALUE=DATE:20380417
+SUMMARY:Ističe 4 koncesije · GRAD CRIKVENICA
+DESCRIPTION:4 ugovora o koncesiji ističe 16. 4. 2038. Godišnja fiksna nak
+ nada: 140 €.\n\n• VIO ŽRNOVNICA CRIKVENICA VINODOL D.O.O. – Koncesi
+ ja na pomorskom dobru (CRIKVENICA\, Grad Crikvenica)\, 35 €/god.\n• VI
+ O ŽRNOVNICA CRIKVENICA VINODOL D.O.O. – Koncesija na pomorskom dobru (C
+ RIKVENICA\, Grad Crikvenica)\, 35 €/god.\n• VIO ŽRNOVNICA CRIKVENICA 
+ VINODOL D.O.O. – Koncesija na pomorskom dobru (CRIKVENICA\, Grad Crikven
+ ica)\, 35 €/god.\n• VIO ŽRNOVNICA CRIKVENICA VINODOL D.O.O. – Konce
+ sija na pomorskom dobru (CRIKVENICA\, Grad Crikvenica)\, 35 €/god.\n\nŠ
+ to ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar konce
+ sija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 4 koncesije · GRAD CRIKVENICA
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-cd37624bd34fe4ee@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20371016
+DTEND;VALUE=DATE:20371017
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 4 koncesije · GRAD CRIKVENIC
+ A
+DESCRIPTION:16. 4. 2038. ističe 4 ugovora o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• VIO ŽRNOVNICA CRIKVENICA VINODOL D.O.O. – Koncesija na pomors
+ kom dobru (CRIKVENICA\, Grad Crikvenica)\, 35 €/god.\n• VIO ŽRNOVNICA
+  CRIKVENICA VINODOL D.O.O. – Koncesija na pomorskom dobru (CRIKVENICA\, 
+ Grad Crikvenica)\, 35 €/god.\n• VIO ŽRNOVNICA CRIKVENICA VINODOL D.O.
+ O. – Koncesija na pomorskom dobru (CRIKVENICA\, Grad Crikvenica)\, 35 
+ €/god.\n• VIO ŽRNOVNICA CRIKVENICA VINODOL D.O.O. – Koncesija na po
+ morskom dobru (CRIKVENICA\, Grad Crikvenica)\, 35 €/god.\n\nŠto ističe
+ : https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 4 koncesije · GRAD CRIKV
+ ENICA
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-b4730eb225f191b9@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20381112
+DTEND;VALUE=DATE:20381113
+SUMMARY:Ističe koncesija: MUZEJ GRADA CRIKVENICE
+DESCRIPTION:1 ugovor o koncesiji ističe 12. 11. 2038.\n\n• MUZEJ GRADA C
+ RIKVENICE – Koncesija na pomorskom dobru (CRIKVENICA\, Grad Crikvenica)\
+ n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar 
+ koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: MUZEJ GRADA CRIKVENICE
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-b4730eb225f191b9@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20380512
+DTEND;VALUE=DATE:20380513
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MUZEJ GRADA CRIK
+ VENICE)
+DESCRIPTION:12. 11. 2038. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• MUZEJ GRADA CRIKVENICE – Koncesija na pomorskom dobru (CRIKVEN
+ ICA\, Grad Crikvenica)\n\nŠto ističe: https://koncesijski-sat.vercel.app
+ /#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MUZEJ GRADA 
+ CRIKVENICE)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

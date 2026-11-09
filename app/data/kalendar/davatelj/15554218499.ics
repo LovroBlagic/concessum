@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · GRAD VODNJAN
+X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje GRAD VODNJAN. Iz Registra 
+ koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podataka.
+  https://koncesijski-sat.vercel.app/#sat
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-fd25be094a0727a9@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20280315
+DTEND;VALUE=DATE:20280316
+SUMMARY:Ističe koncesija: DIMNJAK D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 15. 3. 2028. Godišnja fiksna nakn
+ ada: 664 €.\n\n• DIMNJAK D.O.O. – Koncesija za obavljanje dimnjačar
+ skih poslova (VODNJAN - DIGNANO\, Grad Vodnjan)\, 664 €/god.\n\nŠto ist
+ iče: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (
+ FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: DIMNJAK D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-fd25be094a0727a9@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20270915
+DTEND;VALUE=DATE:20270916
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DIMNJAK D.O.O.)
+DESCRIPTION:15. 3. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• DIMNJAK D.O.O. – Koncesija za obavljanje dimnjačarskih poslova
+  (VODNJAN - DIGNANO\, Grad Vodnjan)\, 664 €/god.\n\nŠto ističe: https:
+ //koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DIMNJAK D.O.
+ O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,53 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · GRAD ŽUPANJA
+X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje GRAD ŽUPANJA. Iz Registra
+  koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podataka
+ . https://koncesijski-sat.vercel.app/#sat
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-103ed8169aa0ed5e@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20300811
+DTEND;VALUE=DATE:20300812
+SUMMARY:Ističe koncesija: ČAĐO PRODUKT D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 11. 8. 2030. Godišnja fiksna nakn
+ ada: 1.000 €.\n\n• ČAĐO PRODUKT D.O.O. – Koncesija za obavljanje d
+ imnjačarskih poslova (ŽUPANJA\, Grad Županja)\, 1.000 €/god.\n\nŠto 
+ ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesij
+ a (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: ČAĐO PRODUKT D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-103ed8169aa0ed5e@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20300211
+DTEND;VALUE=DATE:20300212
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ČAĐO PRODUKT D
+ .O.O.)
+DESCRIPTION:11. 8. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• ČAĐO PRODUKT D.O.O. – Koncesija za obavljanje dimnjačarskih 
+ poslova (ŽUPANJA\, Grad Županja)\, 1.000 €/god.\n\nŠto ističe: https
+ ://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ČAĐO PRODU
+ KT D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

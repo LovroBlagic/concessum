@@ -4,23 +4,25 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Grad Vrlika
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Grad Vrlika. Iz Registra
-  koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podataka
- . https://koncesijski-sat.vercel.app/#opcina/41942358B99862173550734
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Grad Vrlika (pregled\, s
+ vi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježava se n
+ akon svake obrade podataka. https://koncesijski-sat.vercel.app/#opcina/419
+ 42358B99862173550734
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-890476a26d71064c@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-6dd67c23ee384831@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20440611
 DTEND;VALUE=DATE:20440612
 SUMMARY:Ističe koncesija: 007 MILETIĆ D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 11. 6. 2044. Godišnja fiksna nakn
  ada: 3.584 €.\n\n• 007 MILETIĆ D.O.O. – Koncesija za zahvaćanje vo
- da radi prodaje na tržištu (VRLIKA)\, 3.584 €/god.\n\nProfil općine: 
- https://koncesijski-sat.vercel.app/#opcina/41942358B99862173550734\nIzvor:
-  Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ da radi prodaje na tržištu (VRLIKA) · davatelj: MINISTARSTVO ZAŠTITE O
+ KOLIŠA I ZELENE TRANZICIJE\, 3.584 €/god.\n\nProfil općine: https://ko
+ ncesijski-sat.vercel.app/#opcina/41942358B99862173550734\nIzvor: Registar 
+ koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B99862173550734
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -30,8 +32,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-890476a26d71064c@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-6dd67c23ee384831@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20431211
 DTEND;VALUE=DATE:20431212
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (007 MILETIĆ D.O
@@ -39,8 +41,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (007 MILETIĆ D.O
 DESCRIPTION:11. 6. 2044. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• 007 MILETIĆ D.O.O. – Koncesija za zahvaćanje voda radi prodaj
- e na tržištu (VRLIKA)\, 3.584 €/god.\n\nProfil općine: https://konces
- ijski-sat.vercel.app/#opcina/41942358B99862173550734
+ e na tržištu (VRLIKA) · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠA I ZELE
+ NE TRANZICIJE\, 3.584 €/god.\n\nProfil općine: https://koncesijski-sat.
+ vercel.app/#opcina/41942358B99862173550734
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B99862173550734
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -51,16 +54,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-56592a6322c2512a@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-268241ad6f4f948a@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20440929
 DTEND;VALUE=DATE:20440930
 SUMMARY:Ističe koncesija: BUMES D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 29. 9. 2044. Godišnja fiksna nakn
  ada: 5.309 €.\n\n• BUMES D.O.O. – Koncesija za zahvaćanje voda radi
-  prodaje na tržištu (VRLIKA)\, 5.309 €/god.\n\nProfil općine: https:/
- /koncesijski-sat.vercel.app/#opcina/41942358B99862173550734\nIzvor: Regist
- ar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+  prodaje na tržištu (VRLIKA) · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠA
+  I ZELENE TRANZICIJE\, 5.309 €/god.\n\nProfil općine: https://koncesijs
+ ki-sat.vercel.app/#opcina/41942358B99862173550734\nIzvor: Registar koncesi
+ ja (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B99862173550734
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -70,16 +74,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-56592a6322c2512a@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-268241ad6f4f948a@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20440329
 DTEND;VALUE=DATE:20440330
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BUMES D.O.O.)
 DESCRIPTION:29. 9. 2044. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• BUMES D.O.O. – Koncesija za zahvaćanje voda radi prodaje na tr
- žištu (VRLIKA)\, 5.309 €/god.\n\nProfil općine: https://koncesijski-s
- at.vercel.app/#opcina/41942358B99862173550734
+ žištu (VRLIKA) · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠA I ZELENE TRAN
+ ZICIJE\, 5.309 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.
+ app/#opcina/41942358B99862173550734
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B99862173550734
 TRANSP:TRANSPARENT
 BEGIN:VALARM

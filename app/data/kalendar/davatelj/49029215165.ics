@@ -1,0 +1,93 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · OPĆINA TRIBUNJ
+X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje OPĆINA TRIBUNJ. Iz Regist
+ ra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podata
+ ka. https://koncesijski-sat.vercel.app/#sat
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-37d2a2a93c241e2c@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20280513
+DTEND;VALUE=DATE:20280514
+SUMMARY:Ističe koncesija: LUMEN OBRT ZA POST.ELEKTROINSTALACIJA I TRG. VL 
+ ZORAN MILIĆ
+DESCRIPTION:1 ugovor o koncesiji ističe 13. 5. 2028. Godišnja fiksna nakn
+ ada: 150 €.\n\n• LUMEN OBRT ZA POST.ELEKTROINSTALACIJA I TRG. VL ZORAN
+  MILIĆ – Koncesija za obavljanje komunalnih djelatnosti (TRIBUNJ)\, 150
+  €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor:
+  Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: LUMEN OBRT ZA POST.ELEKTROINSTALACIJA I TRG.
+  VL ZORAN MILIĆ
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-37d2a2a93c241e2c@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20271113
+DTEND;VALUE=DATE:20271114
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (LUMEN OBRT ZA PO
+ ST.ELEKTROINSTALACIJA I TRG. VL ZORAN MILIĆ)
+DESCRIPTION:13. 5. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• LUMEN OBRT ZA POST.ELEKTROINSTALACIJA I TRG. VL ZORAN MILIĆ – 
+ Koncesija za obavljanje komunalnih djelatnosti (TRIBUNJ)\, 150 €/god.\n\
+ nŠto ističe: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (LUMEN OBRT Z
+ A POST.ELEKTROINSTALACIJA I TRG. VL ZORAN MILIĆ)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-387a95b67241ba13@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20400630
+DTEND;VALUE=DATE:20400701
+SUMMARY:Ističe koncesija: MJESNO PODUZEĆE D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 30. 6. 2040.\n\n• MJESNO PODUZE
+ ĆE D.O.O. – Koncesija na pomorskom dobru (TRIBUNJ)\n\nŠto ističe: htt
+ ps://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, o
+ brada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: MJESNO PODUZEĆE D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-387a95b67241ba13@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20391230
+DTEND;VALUE=DATE:20391231
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MJESNO PODUZEĆE
+  D.O.O.)
+DESCRIPTION:30. 6. 2040. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• MJESNO PODUZEĆE D.O.O. – Koncesija na pomorskom dobru (TRIBUNJ
+ )\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MJESNO PODUZ
+ EĆE D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

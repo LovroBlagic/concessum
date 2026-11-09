@@ -4,23 +4,25 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Grad Osijek
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Grad Osijek. Iz Registra
-  koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podataka
- . https://koncesijski-sat.vercel.app/#opcina/41942358B76899821887034
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Grad Osijek (pregled\, s
+ vi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježava se n
+ akon svake obrade podataka. https://koncesijski-sat.vercel.app/#opcina/419
+ 42358B76899821887034
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-c5d0b56d31fadcad@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-dbb8b46876397fd1@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270731
 DTEND;VALUE=DATE:20270801
 SUMMARY:Ističe koncesija: DIMNJAK D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 31. 7. 2027. Godišnja fiksna nakn
  ada: 9.251 €.\n\n• DIMNJAK D.O.O. – Koncesija za obavljanje komunaln
- ih djelatnosti (OSIJEK)\, 9.251 €/god.\n\nProfil općine: https://konces
- ijski-sat.vercel.app/#opcina/41942358B76899821887034\nIzvor: Registar konc
- esija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ ih djelatnosti (OSIJEK) · davatelj: GRAD OSIJEK\, 9.251 €/god.\n\nProfi
+ l općine: https://koncesijski-sat.vercel.app/#opcina/41942358B76899821887
+ 034\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026
+ .
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B76899821887034
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -30,16 +32,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-c5d0b56d31fadcad@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-dbb8b46876397fd1@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270131
 DTEND;VALUE=DATE:20270201
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DIMNJAK D.O.O.)
 DESCRIPTION:31. 7. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• DIMNJAK D.O.O. – Koncesija za obavljanje komunalnih djelatnosti
-  (OSIJEK)\, 9.251 €/god.\n\nProfil općine: https://koncesijski-sat.verc
- el.app/#opcina/41942358B76899821887034
+  (OSIJEK) · davatelj: GRAD OSIJEK\, 9.251 €/god.\n\nProfil općine: htt
+ ps://koncesijski-sat.vercel.app/#opcina/41942358B76899821887034
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B76899821887034
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -50,16 +52,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-27ea77864ad8896d@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-5baf5eb187909b3f@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20290430
 DTEND;VALUE=DATE:20290501
 SUMMARY:Ističe koncesija: BIJELO PLAVI RADIO D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 30. 4. 2029. Godišnja fiksna nakn
  ada: 199 €.\n\n• BIJELO PLAVI RADIO D.O.O. – Koncesija za obavljanje
-  djelatnosti radija (OSIJEK)\, 199 €/god.\n\nProfil općine: https://kon
- cesijski-sat.vercel.app/#opcina/41942358B76899821887034\nIzvor: Registar k
- oncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+  djelatnosti radija (OSIJEK) · davatelj: AGENCIJA ZA ELEKTRONIČKE MEDIJE
+ \, 199 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opc
+ ina/41942358B76899821887034\nIzvor: Registar koncesija (FINA)\, obrada Kon
+ cesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B76899821887034
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -69,8 +72,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-27ea77864ad8896d@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-5baf5eb187909b3f@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20281030
 DTEND;VALUE=DATE:20281031
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BIJELO PLAVI RAD
@@ -78,8 +81,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BIJELO PLAVI RAD
 DESCRIPTION:30. 4. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• BIJELO PLAVI RADIO D.O.O. – Koncesija za obavljanje djelatnosti
-  radija (OSIJEK)\, 199 €/god.\n\nProfil općine: https://koncesijski-sat
- .vercel.app/#opcina/41942358B76899821887034
+  radija (OSIJEK) · davatelj: AGENCIJA ZA ELEKTRONIČKE MEDIJE\, 199 €/g
+ od.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358
+ B76899821887034
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B76899821887034
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -90,16 +94,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-126d7ad4b096f126@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-d9ff24c9c2f1f08c@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20300426
 DTEND;VALUE=DATE:20300427
 SUMMARY:Ističe koncesija: GRADSKI RADIO D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 26. 4. 2030. Godišnja fiksna nakn
  ada: 199 €.\n\n• GRADSKI RADIO D.O.O. – Koncesija za obavljanje djel
- atnosti radija (OSIJEK)\, 199 €/god.\n\nProfil općine: https://koncesij
- ski-sat.vercel.app/#opcina/41942358B76899821887034\nIzvor: Registar konces
- ija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ atnosti radija (OSIJEK) · davatelj: AGENCIJA ZA ELEKTRONIČKE MEDIJE\, 19
+ 9 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4
+ 1942358B76899821887034\nIzvor: Registar koncesija (FINA)\, obrada Koncesij
+ ski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B76899821887034
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -109,8 +114,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-126d7ad4b096f126@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-d9ff24c9c2f1f08c@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20291026
 DTEND;VALUE=DATE:20291027
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (GRADSKI RADIO D.
@@ -118,8 +123,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (GRADSKI RADIO D.
 DESCRIPTION:26. 4. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• GRADSKI RADIO D.O.O. – Koncesija za obavljanje djelatnosti radi
- ja (OSIJEK)\, 199 €/god.\n\nProfil općine: https://koncesijski-sat.verc
- el.app/#opcina/41942358B76899821887034
+ ja (OSIJEK) · davatelj: AGENCIJA ZA ELEKTRONIČKE MEDIJE\, 199 €/god.\n
+ \nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B7689
+ 9821887034
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B76899821887034
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -130,16 +136,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-7a8ab6e5e2228640@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-44c6fb110ed30c44@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20340301
 DTEND;VALUE=DATE:20340302
 SUMMARY:Ističe koncesija: LOLA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 1. 3. 2034. Godišnja fiksna nakna
  da: 11.000 €.\n\n• LOLA D.O.O. – Koncesija za zahvaćanje voda za te
- hnološke potrebe (OSIJEK)\, 11.000 €/god.\n\nProfil općine: https://ko
- ncesijski-sat.vercel.app/#opcina/41942358B76899821887034\nIzvor: Registar 
- koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ hnološke potrebe (OSIJEK) · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠA I Z
+ ELENE TRANZICIJE\, 11.000 €/god.\n\nProfil općine: https://koncesijski-
+ sat.vercel.app/#opcina/41942358B76899821887034\nIzvor: Registar koncesija 
+ (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B76899821887034
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -149,16 +156,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-7a8ab6e5e2228640@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-44c6fb110ed30c44@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20330901
 DTEND;VALUE=DATE:20330902
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (LOLA D.O.O.)
 DESCRIPTION:1. 3. 2034. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• LOLA D.O.O. – Koncesija za zahvaćanje voda za tehnološke potre
- be (OSIJEK)\, 11.000 €/god.\n\nProfil općine: https://koncesijski-sat.v
- ercel.app/#opcina/41942358B76899821887034
+ be (OSIJEK) · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠA I ZELENE TRANZICIJ
+ E\, 11.000 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/
+ #opcina/41942358B76899821887034
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B76899821887034
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -168,17 +176,18 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-1d03c0de391322f3@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-1235e36b070e16cf@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20360531
 DTEND;VALUE=DATE:20360601
 SUMMARY:Ističe 2 koncesije · Osijek
 DESCRIPTION:2 ugovora o koncesiji ističe 31. 5. 2036. Godišnja fiksna nak
  nada: 15.093 €.\n\n• LUKA TRANZIT OSIJEK D.O.O. – Koncesija za luku 
- (OSIJEK)\, 15.000 €/god.\n• LUKA TRANZIT OSIJEK D.O.O. – Koncesija z
- a luku (OSIJEK)\, 93 €/god.\n\nProfil općine: https://koncesijski-sat.v
- ercel.app/#opcina/41942358B76899821887034\nIzvor: Registar koncesija (FINA
- )\, obrada Koncesijski sat 9. 11. 2026.
+ (OSIJEK) · davatelj: LUČKA UPRAVA OSIJEK\, 15.000 €/god.\n• LUKA TRA
+ NZIT OSIJEK D.O.O. – Koncesija za luku (OSIJEK) · davatelj: LUČKA UPRA
+ VA OSIJEK\, 93 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.
+ app/#opcina/41942358B76899821887034\nIzvor: Registar koncesija (FINA)\, ob
+ rada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B76899821887034
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -188,37 +197,38 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-1d03c0de391322f3@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-1235e36b070e16cf@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20351130
 DTEND;VALUE=DATE:20351201
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Osijek
 DESCRIPTION:31. 5. 2036. ističe 2 ugovora o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
- a.\n\n• LUKA TRANZIT OSIJEK D.O.O. – Koncesija za luku (OSIJEK)\, 15.0
- 00 €/god.\n• LUKA TRANZIT OSIJEK D.O.O. – Koncesija za luku (OSIJEK)
- \, 93 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opci
- na/41942358B76899821887034
+ a.\n\n• LUKA TRANZIT OSIJEK D.O.O. – Koncesija za luku (OSIJEK) · dav
+ atelj: LUČKA UPRAVA OSIJEK\, 15.000 €/god.\n• LUKA TRANZIT OSIJEK D.O
+ .O. – Koncesija za luku (OSIJEK) · davatelj: LUČKA UPRAVA OSIJEK\, 93 
+ €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
+ 42358B76899821887034
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B76899821887034
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Osijek
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-711bfe44896e572e@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-c17b7c2b0a6f0cda@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20360707
 DTEND;VALUE=DATE:20360708
 SUMMARY:Ističe koncesija: NOVI AGRAR D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 7. 7. 2036. Godišnja fiksna nakna
  da: 15.170 €.\n\n• NOVI AGRAR D.O.O. – Koncesija za korištenje polj
- oprivrednog zemljišta u vlasništvu države (OSIJEK)\, 15.170 €/god.\n\
- nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B76899
- 821887034\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11
- . 2026.
+ oprivrednog zemljišta u vlasništvu države (OSIJEK) · davatelj: GRAD OS
+ IJEK\, 15.170 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.a
+ pp/#opcina/41942358B76899821887034\nIzvor: Registar koncesija (FINA)\, obr
+ ada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B76899821887034
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -228,8 +238,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-711bfe44896e572e@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-c17b7c2b0a6f0cda@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20360107
 DTEND;VALUE=DATE:20360108
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (NOVI AGRAR D.O.O
@@ -237,8 +247,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (NOVI AGRAR D.O.O
 DESCRIPTION:7. 7. 2036. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• NOVI AGRAR D.O.O. – Koncesija za korištenje poljoprivrednog zem
- ljišta u vlasništvu države (OSIJEK)\, 15.170 €/god.\n\nProfil općine
- : https://koncesijski-sat.vercel.app/#opcina/41942358B76899821887034
+ ljišta u vlasništvu države (OSIJEK) · davatelj: GRAD OSIJEK\, 15.170 
+ €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
+ 42358B76899821887034
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B76899821887034
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -249,20 +260,21 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-9f5c926a4a7578e1@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-d024ee3a2df6e320@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20360710
 DTEND;VALUE=DATE:20360711
 SUMMARY:Ističe 3 koncesije · Osijek
 DESCRIPTION:3 ugovora o koncesiji ističe 10. 7. 2036. Godišnja fiksna nak
  nada: 45.762 €.\n\n• NOVI AGRAR D.O.O. – Koncesija za korištenje po
- ljoprivrednog zemljišta u vlasništvu države (OSIJEK)\, 15.254 €/god.\
- n• NOVI AGRAR D.O.O. – Koncesija za korištenje poljoprivrednog zemlji
- šta u vlasništvu države (OSIJEK)\, 15.254 €/god.\n• NOVI AGRAR D.O.
- O. – Koncesija za korištenje poljoprivrednog zemljišta u vlasništvu d
- ržave (OSIJEK)\, 15.254 €/god.\n\nProfil općine: https://koncesijski-s
- at.vercel.app/#opcina/41942358B76899821887034\nIzvor: Registar koncesija (
- FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ ljoprivrednog zemljišta u vlasništvu države (OSIJEK) · davatelj: GRAD 
+ OSIJEK\, 15.254 €/god.\n• NOVI AGRAR D.O.O. – Koncesija za korišten
+ je poljoprivrednog zemljišta u vlasništvu države (OSIJEK) · davatelj: 
+ GRAD OSIJEK\, 15.254 €/god.\n• NOVI AGRAR D.O.O. – Koncesija za kori
+ štenje poljoprivrednog zemljišta u vlasništvu države (OSIJEK) · davat
+ elj: GRAD OSIJEK\, 15.254 €/god.\n\nProfil općine: https://koncesijski-
+ sat.vercel.app/#opcina/41942358B76899821887034\nIzvor: Registar koncesija 
+ (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B76899821887034
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -272,39 +284,40 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-9f5c926a4a7578e1@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-d024ee3a2df6e320@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20360110
 DTEND;VALUE=DATE:20360111
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Osijek
 DESCRIPTION:10. 7. 2036. ističe 3 ugovora o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• NOVI AGRAR D.O.O. – Koncesija za korištenje poljoprivrednog z
- emljišta u vlasništvu države (OSIJEK)\, 15.254 €/god.\n• NOVI AGRAR
-  D.O.O. – Koncesija za korištenje poljoprivrednog zemljišta u vlasniš
- tvu države (OSIJEK)\, 15.254 €/god.\n• NOVI AGRAR D.O.O. – Koncesij
- a za korištenje poljoprivrednog zemljišta u vlasništvu države (OSIJEK)
- \, 15.254 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#
- opcina/41942358B76899821887034
+ emljišta u vlasništvu države (OSIJEK) · davatelj: GRAD OSIJEK\, 15.254
+  €/god.\n• NOVI AGRAR D.O.O. – Koncesija za korištenje poljoprivred
+ nog zemljišta u vlasništvu države (OSIJEK) · davatelj: GRAD OSIJEK\, 1
+ 5.254 €/god.\n• NOVI AGRAR D.O.O. – Koncesija za korištenje poljopr
+ ivrednog zemljišta u vlasništvu države (OSIJEK) · davatelj: GRAD OSIJE
+ K\, 15.254 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/
+ #opcina/41942358B76899821887034
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B76899821887034
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Osijek
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-69e6bffe9847d2c0@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-c3e9ab563c453bc1@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20390131
 DTEND;VALUE=DATE:20390201
 SUMMARY:Ističe koncesija: HEP-TOPLINARSTVO D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 31. 1. 2039.\n\n• HEP-TOPLINARST
  VO D.O.O. – Koncesija za obavljanje komunalne djelatnosti opskrbe toplin
- skom energijom (OSIJEK)\n\nProfil općine: https://koncesijski-sat.vercel.
- app/#opcina/41942358B76899821887034\nIzvor: Registar koncesija (FINA)\, ob
- rada Koncesijski sat 9. 11. 2026.
+ skom energijom (OSIJEK) · davatelj: GRAD OSIJEK\n\nProfil općine: https:
+ //koncesijski-sat.vercel.app/#opcina/41942358B76899821887034\nIzvor: Regis
+ tar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B76899821887034
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -314,8 +327,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-69e6bffe9847d2c0@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-c3e9ab563c453bc1@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20380731
 DTEND;VALUE=DATE:20380801
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP-TOPLINARSTVO
@@ -323,8 +336,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP-TOPLINARSTVO
 DESCRIPTION:31. 1. 2039. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• HEP-TOPLINARSTVO D.O.O. – Koncesija za obavljanje komunalne dje
- latnosti opskrbe toplinskom energijom (OSIJEK)\n\nProfil općine: https://
- koncesijski-sat.vercel.app/#opcina/41942358B76899821887034
+ latnosti opskrbe toplinskom energijom (OSIJEK) · davatelj: GRAD OSIJEK\n\
+ nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B76899
+ 821887034
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B76899821887034
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -335,8 +349,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-5cc009f4f5fec242@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-ca71dd53f091144d@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20450330
 DTEND;VALUE=DATE:20450331
 SUMMARY:Ističe koncesija: NOVI AGRAR DRUŠTVO S OGRANIČENOM ODGOVORNOŠĆ
@@ -344,9 +358,10 @@ SUMMARY:Ističe koncesija: NOVI AGRAR DRUŠTVO S OGRANIČENOM ODGOVORNOŠĆ
 DESCRIPTION:1 ugovor o koncesiji ističe 30. 3. 2045. Godišnja fiksna nakn
  ada: 1.606 €.\n\n• NOVI AGRAR DRUŠTVO S OGRANIČENOM ODGOVORNOŠĆU Z
  A POLJOPRIVREDNU PROIZVODNJU – Koncesija za zahvaćanje voda za tehnolo
- ške potrebe (OSIJEK)\, 1.606 €/god.\n\nProfil općine: https://koncesij
- ski-sat.vercel.app/#opcina/41942358B76899821887034\nIzvor: Registar konces
- ija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ ške potrebe (OSIJEK) · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠA I ZELENE
+  TRANZICIJE\, 1.606 €/god.\n\nProfil općine: https://koncesijski-sat.ve
+ rcel.app/#opcina/41942358B76899821887034\nIzvor: Registar koncesija (FINA)
+ \, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B76899821887034
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -357,8 +372,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-5cc009f4f5fec242@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-ca71dd53f091144d@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20440930
 DTEND;VALUE=DATE:20441001
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (NOVI AGRAR DRUŠ
@@ -367,8 +382,9 @@ DESCRIPTION:30. 3. 2045. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• NOVI AGRAR DRUŠTVO S OGRANIČENOM ODGOVORNOŠĆU ZA POLJOPRIVRED
  NU PROIZVODNJU – Koncesija za zahvaćanje voda za tehnološke potrebe (O
- SIJEK)\, 1.606 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.
- app/#opcina/41942358B76899821887034
+ SIJEK) · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠA I ZELENE TRANZICIJE\, 1
+ .606 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcin
+ a/41942358B76899821887034
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B76899821887034
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -379,8 +395,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-b3d35b9bf38924b7@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-598a39df3026b469@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20450514
 DTEND;VALUE=DATE:20450515
 SUMMARY:Ističe koncesija: SVEUČILIŠTE U OSIJEKU\, FAKULTET ELEKTROTEHNIK
@@ -388,9 +404,10 @@ SUMMARY:Ističe koncesija: SVEUČILIŠTE U OSIJEKU\, FAKULTET ELEKTROTEHNIK
 DESCRIPTION:1 ugovor o koncesiji ističe 14. 5. 2045. Godišnja fiksna nakn
  ada: 66 €.\n\n• SVEUČILIŠTE U OSIJEKU\, FAKULTET ELEKTROTEHNIKE\, RA
  ČUNARSTVA I INFORMACIJSKIH TEHNOLOGIJA – Koncesija za obavljanje djelat
- nosti radija (OSIJEK)\, 66 €/god.\n\nProfil općine: https://koncesijski
- -sat.vercel.app/#opcina/41942358B76899821887034\nIzvor: Registar koncesija
-  (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ nosti radija (OSIJEK) · davatelj: AGENCIJA ZA ELEKTRONIČKE MEDIJE\, 66 
+ €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
+ 42358B76899821887034\nIzvor: Registar koncesija (FINA)\, obrada Koncesijsk
+ i sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B76899821887034
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -401,8 +418,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-b3d35b9bf38924b7@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-598a39df3026b469@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20441114
 DTEND;VALUE=DATE:20441115
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (SVEUČILIŠTE U 
@@ -412,8 +429,9 @@ DESCRIPTION:14. 5. 2045. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• SVEUČILIŠTE U OSIJEKU\, FAKULTET ELEKTROTEHNIKE\, RAČUNARSTVA 
  I INFORMACIJSKIH TEHNOLOGIJA – Koncesija za obavljanje djelatnosti radij
- a (OSIJEK)\, 66 €/god.\n\nProfil općine: https://koncesijski-sat.vercel
- .app/#opcina/41942358B76899821887034
+ a (OSIJEK) · davatelj: AGENCIJA ZA ELEKTRONIČKE MEDIJE\, 66 €/god.\n\n
+ Profil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B768998
+ 21887034
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B76899821887034
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -425,16 +443,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-2d76e295e14465f6@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-a616a2fe73a009e3@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20451111
 DTEND;VALUE=DATE:20451112
 SUMMARY:Ističe koncesija: TUČ D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 11. 11. 2045. Godišnja fiksna nak
  nada: 5.850 €.\n\n• TUČ D.D. – Koncesija za zahvaćanje voda za teh
- nološke potrebe (OSIJEK)\, 5.850 €/god.\n\nProfil općine: https://konc
- esijski-sat.vercel.app/#opcina/41942358B76899821887034\nIzvor: Registar ko
- ncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ nološke potrebe (OSIJEK) · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠA I ZE
+ LENE TRANZICIJE\, 5.850 €/god.\n\nProfil općine: https://koncesijski-sa
+ t.vercel.app/#opcina/41942358B76899821887034\nIzvor: Registar koncesija (F
+ INA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B76899821887034
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -444,16 +463,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-2d76e295e14465f6@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-a616a2fe73a009e3@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20450511
 DTEND;VALUE=DATE:20450512
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (TUČ D.D.)
 DESCRIPTION:11. 11. 2045. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• TUČ D.D. – Koncesija za zahvaćanje voda za tehnološke potre
- be (OSIJEK)\, 5.850 €/god.\n\nProfil općine: https://koncesijski-sat.ve
- rcel.app/#opcina/41942358B76899821887034
+ be (OSIJEK) · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠA I ZELENE TRANZICIJ
+ E\, 5.850 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#
+ opcina/41942358B76899821887034
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B76899821887034
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -463,16 +483,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-ab226b159a399ba6@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-e1b25fc0235f8539@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20460908
 DTEND;VALUE=DATE:20460909
 SUMMARY:Ističe koncesija: SAPONIA D.D. - NPOO TRANZICIJA
 DESCRIPTION:1 ugovor o koncesiji ističe 8. 9. 2046. Godišnja fiksna nakna
  da: 11.880 €.\n\n• SAPONIA D.D. - NPOO TRANZICIJA – Koncesija za zah
- vaćanje voda za tehnološke potrebe (OSIJEK)\, 11.880 €/god.\n\nProfil 
- općine: https://koncesijski-sat.vercel.app/#opcina/41942358B7689982188703
- 4\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ vaćanje voda za tehnološke potrebe (OSIJEK) · davatelj: MINISTARSTVO ZA
+ ŠTITE OKOLIŠA I ZELENE TRANZICIJE\, 11.880 €/god.\n\nProfil općine: h
+ ttps://koncesijski-sat.vercel.app/#opcina/41942358B76899821887034\nIzvor: 
+ Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B76899821887034
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -482,8 +503,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-ab226b159a399ba6@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-e1b25fc0235f8539@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20460308
 DTEND;VALUE=DATE:20460309
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (SAPONIA D.D. - N
@@ -491,8 +512,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (SAPONIA D.D. - N
 DESCRIPTION:8. 9. 2046. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• SAPONIA D.D. - NPOO TRANZICIJA – Koncesija za zahvaćanje voda z
- a tehnološke potrebe (OSIJEK)\, 11.880 €/god.\n\nProfil općine: https:
- //koncesijski-sat.vercel.app/#opcina/41942358B76899821887034
+ a tehnološke potrebe (OSIJEK) · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠA
+  I ZELENE TRANZICIJE\, 11.880 €/god.\n\nProfil općine: https://koncesij
+ ski-sat.vercel.app/#opcina/41942358B76899821887034
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B76899821887034
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -503,8 +525,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-3b2f0e31ceb25616@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-93583494c92a124c@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20490822
 DTEND;VALUE=DATE:20490823
 SUMMARY:Ističe koncesija: SAPONIA KEMIJSKA\, PREHRAMBENA I FARMACEU SKA IN
@@ -512,9 +534,10 @@ SUMMARY:Ističe koncesija: SAPONIA KEMIJSKA\, PREHRAMBENA I FARMACEU SKA IN
 DESCRIPTION:1 ugovor o koncesiji ističe 22. 8. 2049. Godišnja fiksna nakn
  ada: 4.247 €.\n\n• SAPONIA KEMIJSKA\, PREHRAMBENA I FARMACEU SKA INDUS
  TRIJA D.D. – Koncesija za zahvaćanje voda za tehnološke potrebe (OSIJE
- K)\, 4.247 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/
- #opcina/41942358B76899821887034\nIzvor: Registar koncesija (FINA)\, obrada
-  Koncesijski sat 9. 11. 2026.
+ K) · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠA I ZELENE TRANZICIJE\, 4.247
+  €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41
+ 942358B76899821887034\nIzvor: Registar koncesija (FINA)\, obrada Koncesijs
+ ki sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B76899821887034
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -525,8 +548,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-3b2f0e31ceb25616@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-93583494c92a124c@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20490222
 DTEND;VALUE=DATE:20490223
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (SAPONIA KEMIJSKA
@@ -534,9 +557,10 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (SAPONIA KEMIJSKA
 DESCRIPTION:22. 8. 2049. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• SAPONIA KEMIJSKA\, PREHRAMBENA I FARMACEU SKA INDUSTRIJA D.D. –
-  Koncesija za zahvaćanje voda za tehnološke potrebe (OSIJEK)\, 4.247 €
- /god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419423
- 58B76899821887034
+  Koncesija za zahvaćanje voda za tehnološke potrebe (OSIJEK) · davatelj
+ : MINISTARSTVO ZAŠTITE OKOLIŠA I ZELENE TRANZICIJE\, 4.247 €/god.\n\nP
+ rofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B7689982
+ 1887034
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B76899821887034
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -547,16 +571,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-2264d6523f28658e@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-01528be6b7abceb6@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20500317
 DTEND;VALUE=DATE:20500318
 SUMMARY:Ističe koncesija: MEGGLE HRVATSKA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 17. 3. 2050. Godišnja fiksna nakn
  ada: 6.384 €.\n\n• MEGGLE HRVATSKA D.O.O. – Koncesija za zahvaćanje
-  voda za tehnološke potrebe (OSIJEK)\, 6.384 €/god.\n\nProfil općine: 
- https://koncesijski-sat.vercel.app/#opcina/41942358B76899821887034\nIzvor:
-  Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+  voda za tehnološke potrebe (OSIJEK) · davatelj: MINISTARSTVO ZAŠTITE O
+ KOLIŠA I ZELENE TRANZICIJE\, 6.384 €/god.\n\nProfil općine: https://ko
+ ncesijski-sat.vercel.app/#opcina/41942358B76899821887034\nIzvor: Registar 
+ koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B76899821887034
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -566,8 +591,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-2264d6523f28658e@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-01528be6b7abceb6@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20490917
 DTEND;VALUE=DATE:20490918
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MEGGLE HRVATSKA 
@@ -575,8 +600,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MEGGLE HRVATSKA
 DESCRIPTION:17. 3. 2050. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• MEGGLE HRVATSKA D.O.O. – Koncesija za zahvaćanje voda za tehno
- loške potrebe (OSIJEK)\, 6.384 €/god.\n\nProfil općine: https://konces
- ijski-sat.vercel.app/#opcina/41942358B76899821887034
+ loške potrebe (OSIJEK) · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠA I ZELE
+ NE TRANZICIJE\, 6.384 €/god.\n\nProfil općine: https://koncesijski-sat.
+ vercel.app/#opcina/41942358B76899821887034
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B76899821887034
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -587,16 +613,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-93ecd1f6f69cf6f9@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-f6666189ede3f1b2@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20520905
 DTEND;VALUE=DATE:20520906
 SUMMARY:Ističe koncesija: OLIMPIAS TEKSTIL D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 5. 9. 2052. Godišnja fiksna nakna
  da: 7.963 €.\n\n• OLIMPIAS TEKSTIL D.O.O. – Koncesija za zahvaćanje
-  voda za tehnološke potrebe (OSIJEK)\, 7.963 €/god.\n\nProfil općine: 
- https://koncesijski-sat.vercel.app/#opcina/41942358B76899821887034\nIzvor:
-  Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+  voda za tehnološke potrebe (OSIJEK) · davatelj: MINISTARSTVO ZAŠTITE O
+ KOLIŠA I ZELENE TRANZICIJE\, 7.963 €/god.\n\nProfil općine: https://ko
+ ncesijski-sat.vercel.app/#opcina/41942358B76899821887034\nIzvor: Registar 
+ koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B76899821887034
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -606,8 +633,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-93ecd1f6f69cf6f9@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-f6666189ede3f1b2@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20520305
 DTEND;VALUE=DATE:20520306
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (OLIMPIAS TEKSTIL
@@ -615,8 +642,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (OLIMPIAS TEKSTIL
 DESCRIPTION:5. 9. 2052. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• OLIMPIAS TEKSTIL D.O.O. – Koncesija za zahvaćanje voda za tehno
- loške potrebe (OSIJEK)\, 7.963 €/god.\n\nProfil općine: https://konces
- ijski-sat.vercel.app/#opcina/41942358B76899821887034
+ loške potrebe (OSIJEK) · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠA I ZELE
+ NE TRANZICIJE\, 7.963 €/god.\n\nProfil općine: https://koncesijski-sat.
+ vercel.app/#opcina/41942358B76899821887034
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B76899821887034
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -627,16 +655,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-7a6e68c8269e0a0a@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-b6f75455cc3fd5fa@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20550617
 DTEND;VALUE=DATE:20550618
 SUMMARY:Ističe koncesija: VUPIK PLUS D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 17. 6. 2055. Godišnja fiksna nakn
  ada: 1.606 €.\n\n• VUPIK PLUS D.O.O. – Koncesija za zahvaćanje voda
-  za tehnološke potrebe (OSIJEK)\, 1.606 €/god.\n\nProfil općine: https
- ://koncesijski-sat.vercel.app/#opcina/41942358B76899821887034\nIzvor: Regi
- star koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+  za tehnološke potrebe (OSIJEK) · davatelj: MINISTARSTVO ZAŠTITE OKOLI
+ ŠA I ZELENE TRANZICIJE\, 1.606 €/god.\n\nProfil općine: https://konces
+ ijski-sat.vercel.app/#opcina/41942358B76899821887034\nIzvor: Registar konc
+ esija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B76899821887034
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -646,8 +675,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-7a6e68c8269e0a0a@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-b6f75455cc3fd5fa@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20541217
 DTEND;VALUE=DATE:20541218
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VUPIK PLUS D.O.O
@@ -655,8 +684,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VUPIK PLUS D.O.O
 DESCRIPTION:17. 6. 2055. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• VUPIK PLUS D.O.O. – Koncesija za zahvaćanje voda za tehnološk
- e potrebe (OSIJEK)\, 1.606 €/god.\n\nProfil općine: https://koncesijski
- -sat.vercel.app/#opcina/41942358B76899821887034
+ e potrebe (OSIJEK) · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠA I ZELENE TR
+ ANZICIJE\, 1.606 €/god.\n\nProfil općine: https://koncesijski-sat.verce
+ l.app/#opcina/41942358B76899821887034
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B76899821887034
 TRANSP:TRANSPARENT
 BEGIN:VALARM

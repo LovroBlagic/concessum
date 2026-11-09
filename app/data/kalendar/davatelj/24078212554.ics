@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · OPĆINA BAŠKA
+X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje OPĆINA BAŠKA. Iz Registr
+ a koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podatak
+ a. https://koncesijski-sat.vercel.app/#sat
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-797f49a5d6f154ab@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20270224
+DTEND;VALUE=DATE:20270225
+SUMMARY:Ističe koncesija: MLD-USLUGE D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 24. 2. 2027. Godišnja fiksna nakn
+ ada: 664 €.\n\n• MLD-USLUGE D.O.O. – Koncesija za obavljanje dimnja
+ čarskih poslova (BAŠKA\, Otok Krk)\, 664 €/god.\n\nŠto ističe: https
+ ://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obr
+ ada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: MLD-USLUGE D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

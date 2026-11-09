@@ -4,15 +4,16 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Općina Cerna
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Cerna. Iz Regist
- ra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podata
- ka. https://koncesijski-sat.vercel.app/#opcina/41942358B34927547742350
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Općina Cerna (pregled\,
+  svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježava se
+  nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#opcina/4
+ 1942358B34927547742350
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-61f46999175d40a1@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-6b6893a32fde5b21@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20290630
 DTEND;VALUE=DATE:20290701
 SUMMARY:Ističe koncesija: ČISTOĆA ŽUPANJA DRUŠTVO S OGRANIČENOM ODGOV
@@ -20,9 +21,9 @@ SUMMARY:Ističe koncesija: ČISTOĆA ŽUPANJA DRUŠTVO S OGRANIČENOM ODGOV
 DESCRIPTION:1 ugovor o koncesiji ističe 30. 6. 2029. Godišnja fiksna nakn
  ada: 5.973 €.\n\n• ČISTOĆA ŽUPANJA DRUŠTVO S OGRANIČENOM ODGOVORN
  OŠĆU ZA KOMUNALNE USLUGE – Koncesija skupljanja i odvoza komunalnog ot
- pada (CERNA)\, 5.973 €/god.\n\nProfil općine: https://koncesijski-sat.v
- ercel.app/#opcina/41942358B34927547742350\nIzvor: Registar koncesija (FINA
- )\, obrada Koncesijski sat 9. 11. 2026.
+ pada (CERNA) · davatelj: OPĆINA CERNA\, 5.973 €/god.\n\nProfil općine
+ : https://koncesijski-sat.vercel.app/#opcina/41942358B34927547742350\nIzvo
+ r: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B34927547742350
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -33,8 +34,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-61f46999175d40a1@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-6b6893a32fde5b21@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20281230
 DTEND;VALUE=DATE:20281231
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ČISTOĆA ŽUPAN
@@ -42,9 +43,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ČISTOĆA ŽUPAN
 DESCRIPTION:30. 6. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• ČISTOĆA ŽUPANJA DRUŠTVO S OGRANIČENOM ODGOVORNOŠĆU ZA KOMU
- NALNE USLUGE – Koncesija skupljanja i odvoza komunalnog otpada (CERNA)\,
-  5.973 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opc
- ina/41942358B34927547742350
+ NALNE USLUGE – Koncesija skupljanja i odvoza komunalnog otpada (CERNA) 
+ · davatelj: OPĆINA CERNA\, 5.973 €/god.\n\nProfil općine: https://kon
+ cesijski-sat.vercel.app/#opcina/41942358B34927547742350
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B34927547742350
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -55,16 +56,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-8e7743100308facf@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-e96fe6252b717e51@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20310504
 DTEND;VALUE=DATE:20310505
 SUMMARY:Ističe koncesija: ČAĐO PRODUKT D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 4. 5. 2031. Godišnja fiksna nakna
  da: 750 €.\n\n• ČAĐO PRODUKT D.O.O. – Koncesija za obavljanje dimn
- jačarskih poslova (CERNA)\, 750 €/god.\n\nProfil općine: https://konce
- sijski-sat.vercel.app/#opcina/41942358B34927547742350\nIzvor: Registar kon
- cesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ jačarskih poslova (CERNA) · davatelj: OPĆINA CERNA\, 750 €/god.\n\nPr
+ ofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B34927547
+ 742350\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2
+ 026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B34927547742350
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -74,8 +76,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-8e7743100308facf@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-e96fe6252b717e51@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20301104
 DTEND;VALUE=DATE:20301105
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ČAĐO PRODUKT D
@@ -83,8 +85,8 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ČAĐO PRODUKT D
 DESCRIPTION:4. 5. 2031. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• ČAĐO PRODUKT D.O.O. – Koncesija za obavljanje dimnjačarskih p
- oslova (CERNA)\, 750 €/god.\n\nProfil općine: https://koncesijski-sat.v
- ercel.app/#opcina/41942358B34927547742350
+ oslova (CERNA) · davatelj: OPĆINA CERNA\, 750 €/god.\n\nProfil općine
+ : https://koncesijski-sat.vercel.app/#opcina/41942358B34927547742350
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B34927547742350
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -95,17 +97,18 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-cfecbd54edfc85f5@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-7b54ed3bbc7e1727@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20440603
 DTEND;VALUE=DATE:20440604
 SUMMARY:Ističe koncesija: ŽELJKO KALUĐER\, POLJOPRIVREDNO GOSPODARSTVO
 DESCRIPTION:1 ugovor o koncesiji ističe 3. 6. 2044. Godišnja fiksna nakna
  da: 11 €.\n\n• ŽELJKO KALUĐER\, POLJOPRIVREDNO GOSPODARSTVO – Konc
- esija za zahvaćanje voda za melioracijsko navodnjavanje (CERNA)\, 11 €/
- god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4194235
- 8B34927547742350\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sa
- t 9. 11. 2026.
+ esija za zahvaćanje voda za melioracijsko navodnjavanje (CERNA) · davate
+ lj: MINISTARSTVO ZAŠTITE OKOLIŠA I ZELENE TRANZICIJE\, 11 €/god.\n\nPr
+ ofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B34927547
+ 742350\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2
+ 026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B34927547742350
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -116,8 +119,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-cfecbd54edfc85f5@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-7b54ed3bbc7e1727@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20431203
 DTEND;VALUE=DATE:20431204
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ŽELJKO KALUĐER
@@ -125,9 +128,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ŽELJKO KALUĐER
 DESCRIPTION:3. 6. 2044. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• ŽELJKO KALUĐER\, POLJOPRIVREDNO GOSPODARSTVO – Koncesija za za
- hvaćanje voda za melioracijsko navodnjavanje (CERNA)\, 11 €/god.\n\nPro
- fil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B349275477
- 42350
+ hvaćanje voda za melioracijsko navodnjavanje (CERNA) · davatelj: MINISTA
+ RSTVO ZAŠTITE OKOLIŠA I ZELENE TRANZICIJE\, 11 €/god.\n\nProfil općin
+ e: https://koncesijski-sat.vercel.app/#opcina/41942358B34927547742350
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B34927547742350
 TRANSP:TRANSPARENT
 BEGIN:VALARM

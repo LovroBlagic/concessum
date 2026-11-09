@@ -4,23 +4,25 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Općina Jasenovac
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Jasenovac. Iz Re
- gistra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade po
- dataka. https://koncesijski-sat.vercel.app/#opcina/41942358B29011539679612
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Općina Jasenovac (pregl
+ ed\, svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježav
+ a se nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#opci
+ na/41942358B29011539679612
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-010c4940c9d7b4c3@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-b9005dd986aaccc1@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20310727
 DTEND;VALUE=DATE:20310728
 SUMMARY:Ističe koncesija: DIMNJAČARSKI SERVIS J.D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 27. 7. 2031. Godišnja fiksna nakn
  ada: 1.350 €.\n\n• DIMNJAČARSKI SERVIS J.D.O.O. – Koncesija za obav
- ljanje dimnjačarskih poslova (JASENOVAC)\, 1.350 €/god.\n\nProfil opći
- ne: https://koncesijski-sat.vercel.app/#opcina/41942358B29011539679612\nIz
- vor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ ljanje dimnjačarskih poslova (JASENOVAC) · davatelj: OPĆINA JASENOVAC\,
+  1.350 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opc
+ ina/41942358B29011539679612\nIzvor: Registar koncesija (FINA)\, obrada Kon
+ cesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B29011539679612
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -30,8 +32,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-010c4940c9d7b4c3@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-b9005dd986aaccc1@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20310127
 DTEND;VALUE=DATE:20310128
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DIMNJAČARSKI SE
@@ -39,8 +41,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DIMNJAČARSKI SE
 DESCRIPTION:27. 7. 2031. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• DIMNJAČARSKI SERVIS J.D.O.O. – Koncesija za obavljanje dimnja
- čarskih poslova (JASENOVAC)\, 1.350 €/god.\n\nProfil općine: https://k
- oncesijski-sat.vercel.app/#opcina/41942358B29011539679612
+ čarskih poslova (JASENOVAC) · davatelj: OPĆINA JASENOVAC\, 1.350 €/go
+ d.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B
+ 29011539679612
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B29011539679612
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -51,17 +54,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-2d60167bc7b27a6c@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-0d6e7bb27dfff744@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20380102
 DTEND;VALUE=DATE:20380103
 SUMMARY:Ističe koncesija: PLIN-PROJEKT D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 2. 1. 2038. Godišnja fiksna nakna
  da: 1.327 €.\n\n• PLIN-PROJEKT D.O.O. – Koncesija za obavljanje dist
- ribucije plina na postojećem distribucijskom sustavu (JASENOVAC)\, 1.327 
- €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
- 42358B29011539679612\nIzvor: Registar koncesija (FINA)\, obrada Koncesijsk
- i sat 9. 11. 2026.
+ ribucije plina na postojećem distribucijskom sustavu (JASENOVAC) · davat
+ elj: SISAČKO-MOSLAVAČKA ŽUPANIJA\, 1.327 €/god.\n\nProfil općine: ht
+ tps://koncesijski-sat.vercel.app/#opcina/41942358B29011539679612\nIzvor: R
+ egistar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B29011539679612
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -71,8 +74,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-2d60167bc7b27a6c@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-0d6e7bb27dfff744@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20370702
 DTEND;VALUE=DATE:20370703
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PLIN-PROJEKT D.O
@@ -80,9 +83,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PLIN-PROJEKT D.O
 DESCRIPTION:2. 1. 2038. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• PLIN-PROJEKT D.O.O. – Koncesija za obavljanje distribucije plina
-  na postojećem distribucijskom sustavu (JASENOVAC)\, 1.327 €/god.\n\nPr
- ofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B29011539
- 679612
+  na postojećem distribucijskom sustavu (JASENOVAC) · davatelj: SISAČKO-
+ MOSLAVAČKA ŽUPANIJA\, 1.327 €/god.\n\nProfil općine: https://koncesij
+ ski-sat.vercel.app/#opcina/41942358B29011539679612
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B29011539679612
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -93,17 +96,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-a7f4782e3d259df1@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-f92660b38fd85c41@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20380111
 DTEND;VALUE=DATE:20380112
 SUMMARY:Ističe koncesija: KORINA PROIZVODNJA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 11. 1. 2038. Godišnja fiksna nakn
  ada: 2.597 €.\n\n• KORINA PROIZVODNJA D.O.O. – Koncesija za korište
- nje poljoprivrednog zemljišta u vlasništvu države (JASENOVAC)\, 2.597 
- €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
- 42358B29011539679612\nIzvor: Registar koncesija (FINA)\, obrada Koncesijsk
- i sat 9. 11. 2026.
+ nje poljoprivrednog zemljišta u vlasništvu države (JASENOVAC) · davate
+ lj: OPĆINA JASENOVAC\, 2.597 €/god.\n\nProfil općine: https://koncesij
+ ski-sat.vercel.app/#opcina/41942358B29011539679612\nIzvor: Registar konces
+ ija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B29011539679612
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -113,8 +116,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-a7f4782e3d259df1@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-f92660b38fd85c41@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20370711
 DTEND;VALUE=DATE:20370712
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (KORINA PROIZVODN
@@ -122,9 +125,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (KORINA PROIZVODN
 DESCRIPTION:11. 1. 2038. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• KORINA PROIZVODNJA D.O.O. – Koncesija za korištenje poljoprivr
- ednog zemljišta u vlasništvu države (JASENOVAC)\, 2.597 €/god.\n\nPro
- fil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B290115396
- 79612
+ ednog zemljišta u vlasništvu države (JASENOVAC) · davatelj: OPĆINA JA
+ SENOVAC\, 2.597 €/god.\n\nProfil općine: https://koncesijski-sat.vercel
+ .app/#opcina/41942358B29011539679612
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B29011539679612
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -135,17 +138,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-a1a60955ebe50454@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-ecd4e6b2911028f4@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20511001
 DTEND;VALUE=DATE:20511002
 SUMMARY:Ističe koncesija: TANAC D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 1. 10. 2051. Godišnja fiksna nakn
  ada: 876 €.\n\n• TANAC D.O.O. – Koncesija za korištenje vodne snage
-  radi proizvodnje električne energije (JASENOVAC)\, 876 €/god.\n\nProfi
- l općine: https://koncesijski-sat.vercel.app/#opcina/41942358B29011539679
- 612\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026
- .
+  radi proizvodnje električne energije (JASENOVAC) · davatelj: MINISTARST
+ VO ZAŠTITE OKOLIŠA I ZELENE TRANZICIJE\, 876 €/god.\n\nProfil općine:
+  https://koncesijski-sat.vercel.app/#opcina/41942358B29011539679612\nIzvor
+ : Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B29011539679612
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -155,16 +158,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-a1a60955ebe50454@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-ecd4e6b2911028f4@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20510401
 DTEND;VALUE=DATE:20510402
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (TANAC D.O.O.)
 DESCRIPTION:1. 10. 2051. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• TANAC D.O.O. – Koncesija za korištenje vodne snage radi proizv
- odnje električne energije (JASENOVAC)\, 876 €/god.\n\nProfil općine: h
- ttps://koncesijski-sat.vercel.app/#opcina/41942358B29011539679612
+ odnje električne energije (JASENOVAC) · davatelj: MINISTARSTVO ZAŠTITE 
+ OKOLIŠA I ZELENE TRANZICIJE\, 876 €/god.\n\nProfil općine: https://kon
+ cesijski-sat.vercel.app/#opcina/41942358B29011539679612
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B29011539679612
 TRANSP:TRANSPARENT
 BEGIN:VALARM

@@ -4,23 +4,25 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Općina Orehovica
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Orehovica. Iz Re
- gistra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade po
- dataka. https://koncesijski-sat.vercel.app/#opcina/41942358B62485319232197
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Općina Orehovica (pregl
+ ed\, svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježav
+ a se nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#opci
+ na/41942358B62485319232197
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-71de2b8e56bfb723@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-21ba2b619ec58293@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20280114
 DTEND;VALUE=DATE:20280115
 SUMMARY:Ističe koncesija: DIMOS\, ROBERT ZVER
 DESCRIPTION:1 ugovor o koncesiji ističe 14. 1. 2028. Godišnja fiksna nakn
  ada: 1.599 €.\n\n• DIMOS\, ROBERT ZVER – Koncesija za obavljanje dim
- njačarskih poslova (OREHOVICA)\, 1.599 €/god.\n\nProfil općine: https:
- //koncesijski-sat.vercel.app/#opcina/41942358B62485319232197\nIzvor: Regis
- tar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ njačarskih poslova (OREHOVICA) · davatelj: OPĆINA OREHOVICA\, 1.599 €
+ /god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419423
+ 58B62485319232197\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski s
+ at 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B62485319232197
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -30,8 +32,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-71de2b8e56bfb723@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-21ba2b619ec58293@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270714
 DTEND;VALUE=DATE:20270715
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DIMOS\, ROBERT Z
@@ -39,8 +41,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DIMOS\, ROBERT Z
 DESCRIPTION:14. 1. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• DIMOS\, ROBERT ZVER – Koncesija za obavljanje dimnjačarskih po
- slova (OREHOVICA)\, 1.599 €/god.\n\nProfil općine: https://koncesijski-
- sat.vercel.app/#opcina/41942358B62485319232197
+ slova (OREHOVICA) · davatelj: OPĆINA OREHOVICA\, 1.599 €/god.\n\nProfi
+ l općine: https://koncesijski-sat.vercel.app/#opcina/41942358B62485319232
+ 197
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B62485319232197
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -51,20 +54,21 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-d16d9411bb462dda@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-94ccb4909cd217e1@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20551231
 DTEND;VALUE=DATE:20560101
 SUMMARY:Ističe 3 koncesije · Orehovica
 DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2055. Godišnja fiksna na
  knada: 7.280 €.\n\n• TEGRA D.O.O. – Koncesija za eksploataciju građ
- evnog pijeska i šljunka (OREHOVICA)\, 3.640 €/god.\n• TEGRA D.O.O. 
- – Koncesija za površinu utvrđenog eksploatacijskog polja neenergetskih
-  mineralnih sirovina (OREHOVICA)\, 3.640 €/god.\n• TEGRA D.O.O. – Ko
- ncesija za eksploataciju građevnog pijeska i šljunka (OREHOVICA)\n\nProf
- il općine: https://koncesijski-sat.vercel.app/#opcina/41942358B6248531923
- 2197\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 202
- 6.
+ evnog pijeska i šljunka (OREHOVICA) · davatelj: MINISTARSTVO GOSPODARSTV
+ A\, 3.640 €/god.\n• TEGRA D.O.O. – Koncesija za površinu utvrđenog
+  eksploatacijskog polja neenergetskih mineralnih sirovina (OREHOVICA) · d
+ avatelj: MINISTARSTVO GOSPODARSTVA\, 3.640 €/god.\n• TEGRA D.O.O. – 
+ Koncesija za eksploataciju građevnog pijeska i šljunka (OREHOVICA) · da
+ vatelj: MINISTARSTVO GOSPODARSTVA\n\nProfil općine: https://koncesijski-s
+ at.vercel.app/#opcina/41942358B62485319232197\nIzvor: Registar koncesija (
+ FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B62485319232197
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -74,24 +78,26 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-d16d9411bb462dda@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-94ccb4909cd217e1@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20550630
 DTEND;VALUE=DATE:20550701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Orehovica
 DESCRIPTION:31. 12. 2055. ističe 3 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• TEGRA D.O.O. – Koncesija za eksploataciju građevnog pijeska 
- i šljunka (OREHOVICA)\, 3.640 €/god.\n• TEGRA D.O.O. – Koncesija za
-  površinu utvrđenog eksploatacijskog polja neenergetskih mineralnih siro
- vina (OREHOVICA)\, 3.640 €/god.\n• TEGRA D.O.O. – Koncesija za ekspl
- oataciju građevnog pijeska i šljunka (OREHOVICA)\n\nProfil općine: http
- s://koncesijski-sat.vercel.app/#opcina/41942358B62485319232197
+ i šljunka (OREHOVICA) · davatelj: MINISTARSTVO GOSPODARSTVA\, 3.640 €/
+ god.\n• TEGRA D.O.O. – Koncesija za površinu utvrđenog eksploatacijs
+ kog polja neenergetskih mineralnih sirovina (OREHOVICA) · davatelj: MINIS
+ TARSTVO GOSPODARSTVA\, 3.640 €/god.\n• TEGRA D.O.O. – Koncesija za e
+ ksploataciju građevnog pijeska i šljunka (OREHOVICA) · davatelj: MINIST
+ ARSTVO GOSPODARSTVA\n\nProfil općine: https://koncesijski-sat.vercel.app/
+ #opcina/41942358B62485319232197
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B62485319232197
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Orehovica
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT

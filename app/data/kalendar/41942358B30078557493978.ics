@@ -4,23 +4,25 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Općina Lumbarda
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Lumbarda. Iz Reg
- istra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade pod
- ataka. https://koncesijski-sat.vercel.app/#opcina/41942358B30078557493978
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Općina Lumbarda (pregle
+ d\, svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježava
+  se nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#opcin
+ a/41942358B30078557493978
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-bda41ec65b337dfa@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-8e5b31f45a41628c@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20320508
 DTEND;VALUE=DATE:20320509
 SUMMARY:Ističe koncesija: LUČICA LUMBARDA PUTNIČKA AGENCIJA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 8. 5. 2032. Godišnja fiksna nakna
  da: 29.199 €.\n\n• LUČICA LUMBARDA PUTNIČKA AGENCIJA D.O.O. – Konc
- esija na pomorskom dobru (LUMBARDA)\, 29.199 €/god.\n\nProfil općine: h
- ttps://koncesijski-sat.vercel.app/#opcina/41942358B30078557493978\nIzvor: 
- Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ esija na pomorskom dobru (LUMBARDA) · davatelj: DUBROVAČKO-NERETVANSKA 
+ ŽUPANIJA\, 29.199 €/god.\n\nProfil općine: https://koncesijski-sat.ver
+ cel.app/#opcina/41942358B30078557493978\nIzvor: Registar koncesija (FINA)\
+ , obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B30078557493978
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -30,8 +32,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-bda41ec65b337dfa@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-8e5b31f45a41628c@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20311108
 DTEND;VALUE=DATE:20311109
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (LUČICA LUMBARDA
@@ -39,8 +41,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (LUČICA LUMBARDA
 DESCRIPTION:8. 5. 2032. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• LUČICA LUMBARDA PUTNIČKA AGENCIJA D.O.O. – Koncesija na pomors
- kom dobru (LUMBARDA)\, 29.199 €/god.\n\nProfil općine: https://koncesij
- ski-sat.vercel.app/#opcina/41942358B30078557493978
+ kom dobru (LUMBARDA) · davatelj: DUBROVAČKO-NERETVANSKA ŽUPANIJA\, 29.1
+ 99 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/
+ 41942358B30078557493978
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B30078557493978
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -51,20 +54,21 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-18c417779be56572@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-5a719653e9572aad@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20381111
 DTEND;VALUE=DATE:20381112
 SUMMARY:Ističe 3 koncesije · Lumbarda
 DESCRIPTION:3 ugovora o koncesiji ističe 11. 11. 2038. Godišnja fiksna na
  knada: 720 €.\n\n• KAMEN KORČULA D.O.O. – Koncesija za površinu ut
  vrđenog eksploatacijskog polja neenergetskih mineralnih sirovina (LUMBARD
- A)\, 720 €/god.\n• KAMEN KORČULA D.O.O. – Koncesija za eksploatacij
- u arhitektonsko-građevnog kamena (LUMBARDA)\n• KAMEN KORČULA D.O.O. 
- – Koncesija za eksploataciju arhitektonsko-građevnog kamena (LUMBARDA)\
- n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B300
- 78557493978\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 
- 11. 2026.
+ A) · davatelj: MINISTARSTVO GOSPODARSTVA\, 720 €/god.\n• KAMEN KORČU
+ LA D.O.O. – Koncesija za eksploataciju arhitektonsko-građevnog kamena (
+ LUMBARDA) · davatelj: MINISTARSTVO GOSPODARSTVA\n• KAMEN KORČULA D.O.O
+ . – Koncesija za eksploataciju arhitektonsko-građevnog kamena (LUMBARDA
+ ) · davatelj: MINISTARSTVO GOSPODARSTVA\n\nProfil općine: https://konces
+ ijski-sat.vercel.app/#opcina/41942358B30078557493978\nIzvor: Registar konc
+ esija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B30078557493978
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -74,30 +78,32 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-18c417779be56572@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-5a719653e9572aad@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20380511
 DTEND;VALUE=DATE:20380512
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Lumbarda
 DESCRIPTION:11. 11. 2038. ističe 3 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• KAMEN KORČULA D.O.O. – Koncesija za površinu utvrđenog eks
- ploatacijskog polja neenergetskih mineralnih sirovina (LUMBARDA)\, 720 €
- /god.\n• KAMEN KORČULA D.O.O. – Koncesija za eksploataciju arhitekton
- sko-građevnog kamena (LUMBARDA)\n• KAMEN KORČULA D.O.O. – Koncesija 
- za eksploataciju arhitektonsko-građevnog kamena (LUMBARDA)\n\nProfil opć
- ine: https://koncesijski-sat.vercel.app/#opcina/41942358B30078557493978
+ ploatacijskog polja neenergetskih mineralnih sirovina (LUMBARDA) · davate
+ lj: MINISTARSTVO GOSPODARSTVA\, 720 €/god.\n• KAMEN KORČULA D.O.O. 
+ – Koncesija za eksploataciju arhitektonsko-građevnog kamena (LUMBARDA) 
+ · davatelj: MINISTARSTVO GOSPODARSTVA\n• KAMEN KORČULA D.O.O. – Konc
+ esija za eksploataciju arhitektonsko-građevnog kamena (LUMBARDA) · davat
+ elj: MINISTARSTVO GOSPODARSTVA\n\nProfil općine: https://koncesijski-sat.
+ vercel.app/#opcina/41942358B30078557493978
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B30078557493978
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Lumbarda
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-682c8bdb4e8a3081@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-e207cc8d875d59cb@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20450316
 DTEND;VALUE=DATE:20450317
 SUMMARY:Ističe koncesija: NIKO OBRT ZA UGOSTITELJSTVO VL. NIKO MILINA\, LU
@@ -105,9 +111,10 @@ SUMMARY:Ističe koncesija: NIKO OBRT ZA UGOSTITELJSTVO VL. NIKO MILINA\, LU
 DESCRIPTION:1 ugovor o koncesiji ističe 16. 3. 2045. Godišnja fiksna nakn
  ada: 4.812 €.\n\n• NIKO OBRT ZA UGOSTITELJSTVO VL. NIKO MILINA\, LUMBA
  RDA \, LUMBARDA 191 – Koncesija pomorskog dobra u svrhu gospodarskog kor
- ištenja luke (LUMBARDA)\, 4.812 €/god.\n\nProfil općine: https://konce
- sijski-sat.vercel.app/#opcina/41942358B30078557493978\nIzvor: Registar kon
- cesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ ištenja luke (LUMBARDA) · davatelj: LUČKA UPRAVA DUBROVAČKO-NERETVANSK
+ E ŽUPANIJE\, 4.812 €/god.\n\nProfil općine: https://koncesijski-sat.ve
+ rcel.app/#opcina/41942358B30078557493978\nIzvor: Registar koncesija (FINA)
+ \, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B30078557493978
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -118,8 +125,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-682c8bdb4e8a3081@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-e207cc8d875d59cb@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20440916
 DTEND;VALUE=DATE:20440917
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (NIKO OBRT ZA UGO
@@ -128,8 +135,9 @@ DESCRIPTION:16. 3. 2045. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• NIKO OBRT ZA UGOSTITELJSTVO VL. NIKO MILINA\, LUMBARDA \, LUMBARD
  A 191 – Koncesija pomorskog dobra u svrhu gospodarskog korištenja luke 
- (LUMBARDA)\, 4.812 €/god.\n\nProfil općine: https://koncesijski-sat.ver
- cel.app/#opcina/41942358B30078557493978
+ (LUMBARDA) · davatelj: LUČKA UPRAVA DUBROVAČKO-NERETVANSKE ŽUPANIJE\, 
+ 4.812 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opci
+ na/41942358B30078557493978
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B30078557493978
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -140,16 +148,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-189a481cf2d592f2@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-327acc7c5c335dd1@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20760717
 DTEND;VALUE=DATE:20760718
 SUMMARY:Ističe koncesija: HRVATSKI TELEKOM D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 17. 7. 2076. Godišnja fiksna nakn
  ada: 6.299 €.\n\n• HRVATSKI TELEKOM D.D. – Posebna upotreba pomorsko
- g dobra (LUMBARDA)\, 6.299 €/god.\n\nProfil općine: https://koncesijski
- -sat.vercel.app/#opcina/41942358B30078557493978\nIzvor: Registar koncesija
-  (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ g dobra (LUMBARDA) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTU
+ RE\, 6.299 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/
+ #opcina/41942358B30078557493978\nIzvor: Registar koncesija (FINA)\, obrada
+  Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B30078557493978
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -159,8 +168,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-189a481cf2d592f2@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-327acc7c5c335dd1@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20760117
 DTEND;VALUE=DATE:20760118
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKI TELEKOM
@@ -168,8 +177,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKI TELEKOM
 DESCRIPTION:17. 7. 2076. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• HRVATSKI TELEKOM D.D. – Posebna upotreba pomorskog dobra (LUMBA
- RDA)\, 6.299 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.ap
- p/#opcina/41942358B30078557493978
+ RDA) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\, 6.299 €
+ /god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419423
+ 58B30078557493978
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B30078557493978
 TRANSP:TRANSPARENT
 BEGIN:VALARM

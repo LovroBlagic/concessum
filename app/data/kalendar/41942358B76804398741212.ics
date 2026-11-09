@@ -4,23 +4,25 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Općina Lastovo
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Lastovo. Iz Regi
- stra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade poda
- taka. https://koncesijski-sat.vercel.app/#opcina/41942358B76804398741212
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Općina Lastovo (pregled
+ \, svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježava 
+ se nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#opcina
+ /41942358B76804398741212
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-87e35d5ae0ac0326@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-ed5e2f655a78bd2c@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270101
 DTEND;VALUE=DATE:20270102
 SUMMARY:Ističe koncesija: SANTOR TRAVLEL\, VL. FRANE ŠKRATULJA
 DESCRIPTION:1 ugovor o koncesiji ističe 1. 1. 2027. Godišnja fiksna nakna
  da: 398 €.\n\n• SANTOR TRAVLEL\, VL. FRANE ŠKRATULJA – Koncesija za
-  obavljanje komunalnih djelatnosti (LASTOVO)\, 398 €/god.\n\nProfil opć
- ine: https://koncesijski-sat.vercel.app/#opcina/41942358B76804398741212\nI
- zvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+  obavljanje komunalnih djelatnosti (LASTOVO) · davatelj: LUČKA UPRAVA DU
+ BROVAČKO-NERETVANSKE ŽUPANIJE\, 398 €/god.\n\nProfil općine: https://
+ koncesijski-sat.vercel.app/#opcina/41942358B76804398741212\nIzvor: Regista
+ r koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B76804398741212
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -30,21 +32,23 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-b16b510bb8609d31@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-cc5397f6809bed1b@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20280630
 DTEND;VALUE=DATE:20280701
 SUMMARY:Ističe 4 koncesije · Lastovo
 DESCRIPTION:4 ugovora o koncesiji ističe 30. 6. 2028. Godišnja fiksna nak
  nada: 32.900 €.\n\n• JAVNA USTANOVA PARK PRIRODE LASTOVSKO OTOČJE –
-  Koncesija na pomorskom dobru (LASTOVO)\, 8.225 €/god.\n• JAVNA USTANO
- VA PARK PRIRODE LASTOVSKO OTOČJE – Koncesija na pomorskom dobru (LASTOV
- O)\, 8.225 €/god.\n• JAVNA USTANOVA PARK PRIRODE LASTOVSKO OTOČJE –
-  Koncesija na pomorskom dobru (LASTOVO)\, 8.225 €/god.\n• JAVNA USTANO
- VA PARK PRIRODE LASTOVSKO OTOČJE – Koncesija na pomorskom dobru (LASTOV
- O)\, 8.225 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/
- #opcina/41942358B76804398741212\nIzvor: Registar koncesija (FINA)\, obrada
-  Koncesijski sat 9. 11. 2026.
+  Koncesija na pomorskom dobru (LASTOVO) · davatelj: DUBROVAČKO-NERETVANS
+ KA ŽUPANIJA\, 8.225 €/god.\n• JAVNA USTANOVA PARK PRIRODE LASTOVSKO O
+ TOČJE – Koncesija na pomorskom dobru (LASTOVO) · davatelj: DUBROVAČKO
+ -NERETVANSKA ŽUPANIJA\, 8.225 €/god.\n• JAVNA USTANOVA PARK PRIRODE L
+ ASTOVSKO OTOČJE – Koncesija na pomorskom dobru (LASTOVO) · davatelj: D
+ UBROVAČKO-NERETVANSKA ŽUPANIJA\, 8.225 €/god.\n• JAVNA USTANOVA PARK
+  PRIRODE LASTOVSKO OTOČJE – Koncesija na pomorskom dobru (LASTOVO) · d
+ avatelj: DUBROVAČKO-NERETVANSKA ŽUPANIJA\, 8.225 €/god.\n\nProfil opć
+ ine: https://koncesijski-sat.vercel.app/#opcina/41942358B76804398741212\nI
+ zvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B76804398741212
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -54,40 +58,43 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-b16b510bb8609d31@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-cc5397f6809bed1b@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20271230
 DTEND;VALUE=DATE:20271231
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 4 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 4 koncesije · Lastovo
 DESCRIPTION:30. 6. 2028. ističe 4 ugovora o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• JAVNA USTANOVA PARK PRIRODE LASTOVSKO OTOČJE – Koncesija na p
- omorskom dobru (LASTOVO)\, 8.225 €/god.\n• JAVNA USTANOVA PARK PRIRODE
-  LASTOVSKO OTOČJE – Koncesija na pomorskom dobru (LASTOVO)\, 8.225 €/
- god.\n• JAVNA USTANOVA PARK PRIRODE LASTOVSKO OTOČJE – Koncesija na p
- omorskom dobru (LASTOVO)\, 8.225 €/god.\n• JAVNA USTANOVA PARK PRIRODE
-  LASTOVSKO OTOČJE – Koncesija na pomorskom dobru (LASTOVO)\, 8.225 €/
- god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4194235
- 8B76804398741212
+ omorskom dobru (LASTOVO) · davatelj: DUBROVAČKO-NERETVANSKA ŽUPANIJA\, 
+ 8.225 €/god.\n• JAVNA USTANOVA PARK PRIRODE LASTOVSKO OTOČJE – Konc
+ esija na pomorskom dobru (LASTOVO) · davatelj: DUBROVAČKO-NERETVANSKA Ž
+ UPANIJA\, 8.225 €/god.\n• JAVNA USTANOVA PARK PRIRODE LASTOVSKO OTOČJ
+ E – Koncesija na pomorskom dobru (LASTOVO) · davatelj: DUBROVAČKO-NERE
+ TVANSKA ŽUPANIJA\, 8.225 €/god.\n• JAVNA USTANOVA PARK PRIRODE LASTOV
+ SKO OTOČJE – Koncesija na pomorskom dobru (LASTOVO) · davatelj: DUBROV
+ AČKO-NERETVANSKA ŽUPANIJA\, 8.225 €/god.\n\nProfil općine: https://ko
+ ncesijski-sat.vercel.app/#opcina/41942358B76804398741212
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B76804398741212
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 4 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 4 koncesije · Lastovo
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-bb44988254490b59@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-559bebf2ac4f49a3@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20290831
 DTEND;VALUE=DATE:20290901
 SUMMARY:Ističe koncesija: EMANUELA - LASTOVO\, VL.ANTHONY DRAŽINIĆ
 DESCRIPTION:1 ugovor o koncesiji ističe 31. 8. 2029. Godišnja fiksna nakn
  ada: 1.600 €.\n\n• EMANUELA - LASTOVO\, VL.ANTHONY DRAŽINIĆ – Konc
- esija na pomorskom dobru (LASTOVO)\, 1.600 €/god.\n\nProfil općine: htt
- ps://koncesijski-sat.vercel.app/#opcina/41942358B76804398741212\nIzvor: Re
- gistar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ esija na pomorskom dobru (LASTOVO) · davatelj: DUBROVAČKO-NERETVANSKA Ž
+ UPANIJA\, 1.600 €/god.\n\nProfil općine: https://koncesijski-sat.vercel
+ .app/#opcina/41942358B76804398741212\nIzvor: Registar koncesija (FINA)\, o
+ brada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B76804398741212
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -97,8 +104,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-bb44988254490b59@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-559bebf2ac4f49a3@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20290228
 DTEND;VALUE=DATE:20290301
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (EMANUELA - LASTO
@@ -106,8 +113,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (EMANUELA - LASTO
 DESCRIPTION:31. 8. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• EMANUELA - LASTOVO\, VL.ANTHONY DRAŽINIĆ – Koncesija na pomor
- skom dobru (LASTOVO)\, 1.600 €/god.\n\nProfil općine: https://koncesijs
- ki-sat.vercel.app/#opcina/41942358B76804398741212
+ skom dobru (LASTOVO) · davatelj: DUBROVAČKO-NERETVANSKA ŽUPANIJA\, 1.60
+ 0 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4
+ 1942358B76804398741212
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B76804398741212
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -118,16 +126,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-6b0b30b2bd0f089e@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-413957820de346a0@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20290905
 DTEND;VALUE=DATE:20290906
 SUMMARY:Ističe koncesija: INA\, D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 5. 9. 2029. Godišnja fiksna nakna
  da: 5.215 €.\n\n• INA\, D.D. – Koncesija na pomorskom dobru (LASTOVO
- )\, 5.215 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#
- opcina/41942358B76804398741212\nIzvor: Registar koncesija (FINA)\, obrada 
- Koncesijski sat 9. 11. 2026.
+ ) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\, 5.215 €/go
+ d.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B
+ 76804398741212\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 
+ 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B76804398741212
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -137,16 +146,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-6b0b30b2bd0f089e@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-413957820de346a0@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20290305
 DTEND;VALUE=DATE:20290306
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA\, D.D.)
 DESCRIPTION:5. 9. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
- \n\n• INA\, D.D. – Koncesija na pomorskom dobru (LASTOVO)\, 5.215 €/
- god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4194235
- 8B76804398741212
+ \n\n• INA\, D.D. – Koncesija na pomorskom dobru (LASTOVO) · davatelj:
+  MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\, 5.215 €/god.\n\nProfil o
+ pćine: https://koncesijski-sat.vercel.app/#opcina/41942358B76804398741212
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B76804398741212
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -156,16 +165,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-4e691f82fee96979@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-5d412cd40575607c@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20300101
 DTEND;VALUE=DATE:20300102
 SUMMARY:Ističe koncesija: RONILAČKI RAJ - HOTEL LASTOVO D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 1. 1. 2030. Godišnja fiksna nakna
  da: 9.566 €.\n\n• RONILAČKI RAJ - HOTEL LASTOVO D.O.O. – Koncesija 
- na pomorskom dobru (LASTOVO)\, 9.566 €/god.\n\nProfil općine: https://k
- oncesijski-sat.vercel.app/#opcina/41942358B76804398741212\nIzvor: Registar
-  koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ na pomorskom dobru (LASTOVO) · davatelj: DUBROVAČKO-NERETVANSKA ŽUPANIJ
+ A\, 9.566 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#
+ opcina/41942358B76804398741212\nIzvor: Registar koncesija (FINA)\, obrada 
+ Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B76804398741212
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -175,8 +185,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-4e691f82fee96979@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-5d412cd40575607c@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20290701
 DTEND;VALUE=DATE:20290702
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (RONILAČKI RAJ -
@@ -184,8 +194,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (RONILAČKI RAJ -
 DESCRIPTION:1. 1. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• RONILAČKI RAJ - HOTEL LASTOVO D.O.O. – Koncesija na pomorskom d
- obru (LASTOVO)\, 9.566 €/god.\n\nProfil općine: https://koncesijski-sat
- .vercel.app/#opcina/41942358B76804398741212
+ obru (LASTOVO) · davatelj: DUBROVAČKO-NERETVANSKA ŽUPANIJA\, 9.566 €/
+ god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4194235
+ 8B76804398741212
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B76804398741212
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -196,16 +207,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-e44e1241fedffa12@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-f10e0650e12d81b7@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20320531
 DTEND;VALUE=DATE:20320601
 SUMMARY:Ističe koncesija: UGOSTITELJSKI OBRT PORTORUS - SKRIVENA LUKA
 DESCRIPTION:1 ugovor o koncesiji ističe 31. 5. 2032. Godišnja fiksna nakn
  ada: 3.053 €.\n\n• UGOSTITELJSKI OBRT PORTORUS - SKRIVENA LUKA – Kon
- cesija na pomorskom dobru (LASTOVO)\, 3.053 €/god.\n\nProfil općine: ht
- tps://koncesijski-sat.vercel.app/#opcina/41942358B76804398741212\nIzvor: R
- egistar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ cesija na pomorskom dobru (LASTOVO) · davatelj: DUBROVAČKO-NERETVANSKA 
+ ŽUPANIJA\, 3.053 €/god.\n\nProfil općine: https://koncesijski-sat.verc
+ el.app/#opcina/41942358B76804398741212\nIzvor: Registar koncesija (FINA)\,
+  obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B76804398741212
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -215,8 +227,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-e44e1241fedffa12@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-f10e0650e12d81b7@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20311130
 DTEND;VALUE=DATE:20311201
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (UGOSTITELJSKI OB
@@ -224,8 +236,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (UGOSTITELJSKI OB
 DESCRIPTION:31. 5. 2032. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• UGOSTITELJSKI OBRT PORTORUS - SKRIVENA LUKA – Koncesija na pomo
- rskom dobru (LASTOVO)\, 3.053 €/god.\n\nProfil općine: https://koncesij
- ski-sat.vercel.app/#opcina/41942358B76804398741212
+ rskom dobru (LASTOVO) · davatelj: DUBROVAČKO-NERETVANSKA ŽUPANIJA\, 3.0
+ 53 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/
+ 41942358B76804398741212
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B76804398741212
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -236,18 +249,19 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-76e3f492dcf45a3f@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-63178db902196148@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20321231
 DTEND;VALUE=DATE:20330101
 SUMMARY:Ističe 2 koncesije · Lastovo
 DESCRIPTION:2 ugovora o koncesiji ističe 31. 12. 2032. Godišnja fiksna na
  knada: 1.340 €.\n\n• KOMUNALAC D.O.O. – Koncesija skupljanja i odvoz
- a komunalnog otpada (LASTOVO)\, 670 €/god.\n• KOMUNALAC D.O.O. – Kon
- cesija pomorskog dobra u svrhu gospodarskog korištenja luke (LASTOVO)\, 6
- 70 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/
- 41942358B76804398741212\nIzvor: Registar koncesija (FINA)\, obrada Koncesi
- jski sat 9. 11. 2026.
+ a komunalnog otpada (LASTOVO) · davatelj: LUČKA UPRAVA DUBROVAČKO-NERET
+ VANSKE ŽUPANIJE\, 670 €/god.\n• KOMUNALAC D.O.O. – Koncesija pomors
+ kog dobra u svrhu gospodarskog korištenja luke (LASTOVO) · davatelj: LU
+ ČKA UPRAVA DUBROVAČKO-NERETVANSKE ŽUPANIJE\, 670 €/god.\n\nProfil op
+ ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B76804398741212\
+ nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B76804398741212
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -257,37 +271,39 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-76e3f492dcf45a3f@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-63178db902196148@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20320630
 DTEND;VALUE=DATE:20320701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Lastovo
 DESCRIPTION:31. 12. 2032. ističe 2 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• KOMUNALAC D.O.O. – Koncesija skupljanja i odvoza komunalnog o
- tpada (LASTOVO)\, 670 €/god.\n• KOMUNALAC D.O.O. – Koncesija pomorsk
- og dobra u svrhu gospodarskog korištenja luke (LASTOVO)\, 670 €/god.\n\
- nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B76804
- 398741212
+ tpada (LASTOVO) · davatelj: LUČKA UPRAVA DUBROVAČKO-NERETVANSKE ŽUPANI
+ JE\, 670 €/god.\n• KOMUNALAC D.O.O. – Koncesija pomorskog dobra u sv
+ rhu gospodarskog korištenja luke (LASTOVO) · davatelj: LUČKA UPRAVA DUB
+ ROVAČKO-NERETVANSKE ŽUPANIJE\, 670 €/god.\n\nProfil općine: https://k
+ oncesijski-sat.vercel.app/#opcina/41942358B76804398741212
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B76804398741212
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Lastovo
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-b0ea94c7e0dd7276@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-803368369c875013@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20360612
 DTEND;VALUE=DATE:20360613
 SUMMARY:Ističe koncesija: HRVATSKI OPERATOR PRIJENOSNOG SUSTAVA D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 12. 6. 2036. Godišnja fiksna nakn
  ada: 5.250 €.\n\n• HRVATSKI OPERATOR PRIJENOSNOG SUSTAVA D.D. – Konc
- esija na pomorskom dobru (LASTOVO)\, 5.250 €/god.\n\nProfil općine: htt
- ps://koncesijski-sat.vercel.app/#opcina/41942358B76804398741212\nIzvor: Re
- gistar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ esija na pomorskom dobru (LASTOVO) · davatelj: MINISTARSTVO MORA\, PROMET
+ A I INFRASTRUKTURE\, 5.250 €/god.\n\nProfil općine: https://koncesijski
+ -sat.vercel.app/#opcina/41942358B76804398741212\nIzvor: Registar koncesija
+  (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B76804398741212
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -297,8 +313,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-b0ea94c7e0dd7276@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-803368369c875013@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20351212
 DTEND;VALUE=DATE:20351213
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKI OPERATO
@@ -306,8 +322,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKI OPERATO
 DESCRIPTION:12. 6. 2036. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• HRVATSKI OPERATOR PRIJENOSNOG SUSTAVA D.D. – Koncesija na pomor
- skom dobru (LASTOVO)\, 5.250 €/god.\n\nProfil općine: https://koncesijs
- ki-sat.vercel.app/#opcina/41942358B76804398741212
+ skom dobru (LASTOVO) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUK
+ TURE\, 5.250 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.ap
+ p/#opcina/41942358B76804398741212
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B76804398741212
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -318,8 +335,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-5cf17bf8fa8065f5@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-301cb37eba5073bd@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20440314
 DTEND;VALUE=DATE:20440315
 SUMMARY:Ističe koncesija: HEP-OPERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O.\, EL
@@ -327,9 +344,10 @@ SUMMARY:Ističe koncesija: HEP-OPERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O.\, EL
 DESCRIPTION:1 ugovor o koncesiji ističe 14. 3. 2044. Godišnja fiksna nakn
  ada: 4.652 €.\n\n• HEP-OPERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O.\, ELEKT
  ROJUG DUBROVNIK – Koncesija pomorskog dobra za posebnu upotrebu u svrhu 
- gradnje kabelske veze (LASTOVO)\, 4.652 €/god.\n\nProfil općine: https:
- //koncesijski-sat.vercel.app/#opcina/41942358B76804398741212\nIzvor: Regis
- tar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ gradnje kabelske veze (LASTOVO) · davatelj: DUBROVAČKO-NERETVANSKA ŽUPA
+ NIJA\, 4.652 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.ap
+ p/#opcina/41942358B76804398741212\nIzvor: Registar koncesija (FINA)\, obra
+ da Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B76804398741212
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -340,8 +358,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-5cf17bf8fa8065f5@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-301cb37eba5073bd@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20430914
 DTEND;VALUE=DATE:20430915
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP-OPERATOR DIS
@@ -350,8 +368,9 @@ DESCRIPTION:14. 3. 2044. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• HEP-OPERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O.\, ELEKTROJUG DUBROVNI
  K – Koncesija pomorskog dobra za posebnu upotrebu u svrhu gradnje kabels
- ke veze (LASTOVO)\, 4.652 €/god.\n\nProfil općine: https://koncesijski-
- sat.vercel.app/#opcina/41942358B76804398741212
+ ke veze (LASTOVO) · davatelj: DUBROVAČKO-NERETVANSKA ŽUPANIJA\, 4.652 
+ €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
+ 42358B76804398741212
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B76804398741212
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -362,16 +381,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-3e14817f593fcc91@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-7627fa87286264fe@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20601015
 DTEND;VALUE=DATE:20601016
 SUMMARY:Ističe koncesija: DRŽAVNI HIDROMETEOROLOŠKI ZAVOD
 DESCRIPTION:1 ugovor o koncesiji ističe 15. 10. 2060. Godišnja fiksna nak
  nada: 14 €.\n\n• DRŽAVNI HIDROMETEOROLOŠKI ZAVOD – Koncesija na po
- morskom dobru (LASTOVO)\, 14 €/god.\n\nProfil općine: https://koncesijs
- ki-sat.vercel.app/#opcina/41942358B76804398741212\nIzvor: Registar koncesi
- ja (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ morskom dobru (LASTOVO) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRAST
+ RUKTURE\, 14 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.ap
+ p/#opcina/41942358B76804398741212\nIzvor: Registar koncesija (FINA)\, obra
+ da Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B76804398741212
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -381,8 +401,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-3e14817f593fcc91@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-7627fa87286264fe@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20600415
 DTEND;VALUE=DATE:20600416
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DRŽAVNI HIDROME
@@ -390,8 +410,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DRŽAVNI HIDROME
 DESCRIPTION:15. 10. 2060. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• DRŽAVNI HIDROMETEOROLOŠKI ZAVOD – Koncesija na pomorskom dob
- ru (LASTOVO)\, 14 €/god.\n\nProfil općine: https://koncesijski-sat.verc
- el.app/#opcina/41942358B76804398741212
+ ru (LASTOVO) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\, 1
+ 4 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4
+ 1942358B76804398741212
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B76804398741212
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -402,16 +423,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-e8c69eda8bcc5d35@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-4705fd8615ee0f3c@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20760717
 DTEND;VALUE=DATE:20760718
 SUMMARY:Ističe koncesija: HRVATSKI TELEKOM D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 17. 7. 2076. Godišnja fiksna nakn
  ada: 4.555 €.\n\n• HRVATSKI TELEKOM D.D. – Posebna upotreba pomorsko
- g dobra (LASTOVO)\, 4.555 €/god.\n\nProfil općine: https://koncesijski-
- sat.vercel.app/#opcina/41942358B76804398741212\nIzvor: Registar koncesija 
- (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ g dobra (LASTOVO) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTUR
+ E\, 4.555 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#
+ opcina/41942358B76804398741212\nIzvor: Registar koncesija (FINA)\, obrada 
+ Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B76804398741212
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -421,8 +443,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-e8c69eda8bcc5d35@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-4705fd8615ee0f3c@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20760117
 DTEND;VALUE=DATE:20760118
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKI TELEKOM
@@ -430,8 +452,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKI TELEKOM
 DESCRIPTION:17. 7. 2076. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• HRVATSKI TELEKOM D.D. – Posebna upotreba pomorskog dobra (LASTO
- VO)\, 4.555 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app
- /#opcina/41942358B76804398741212
+ VO) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\, 4.555 €/
+ god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4194235
+ 8B76804398741212
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B76804398741212
 TRANSP:TRANSPARENT
 BEGIN:VALARM

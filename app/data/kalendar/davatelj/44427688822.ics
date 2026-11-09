@@ -1,0 +1,56 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · GRAD ČAKOVEC
+X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje GRAD ČAKOVEC. Iz Registra
+  koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podataka
+ . https://koncesijski-sat.vercel.app/#sat
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-bb7bcb3d14e856cd@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20410831
+DTEND;VALUE=DATE:20410901
+SUMMARY:Ističe 2 koncesije · GRAD ČAKOVEC
+DESCRIPTION:2 ugovora o koncesiji ističe 31. 8. 2041. Godišnja fiksna nak
+ nada: 13.870 €.\n\n• ROBERT ZVER\, DIMOS\,OBRT – Koncesija za obavlj
+ anje dimnjačarskih poslova (ČAKOVEC\, Grad Čakovec)\, 10.273 €/god.\n
+ • DIMNJAČARSKI OBRT IVAN ZVER – Koncesija za obavljanje dimnjačarski
+ h poslova (ČAKOVEC\, Grad Čakovec)\, 3.597 €/god.\n\nŠto ističe: htt
+ ps://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, o
+ brada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 2 koncesije · GRAD ČAKOVEC
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-bb7bcb3d14e856cd@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20410228
+DTEND;VALUE=DATE:20410301
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · GRAD ČAKOVEC
+DESCRIPTION:31. 8. 2041. ističe 2 ugovora o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• ROBERT ZVER\, DIMOS\,OBRT – Koncesija za obavljanje dimnjačar
+ skih poslova (ČAKOVEC\, Grad Čakovec)\, 10.273 €/god.\n• DIMNJAČARS
+ KI OBRT IVAN ZVER – Koncesija za obavljanje dimnjačarskih poslova (ČAK
+ OVEC\, Grad Čakovec)\, 3.597 €/god.\n\nŠto ističe: https://koncesijsk
+ i-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije · GRAD ČAKO
+ VEC
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

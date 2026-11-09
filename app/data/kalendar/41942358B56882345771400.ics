@@ -4,24 +4,25 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Općina Hercegovac
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Hercegovac. Iz R
- egistra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade p
- odataka. https://koncesijski-sat.vercel.app/#opcina/41942358B5688234577140
- 0
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Općina Hercegovac (preg
+ led\, svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježa
+ va se nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#opc
+ ina/41942358B56882345771400
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-848403301db0b108@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-dfb55c6c11933b5d@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20440605
 DTEND;VALUE=DATE:20440606
 SUMMARY:Ističe koncesija: INTERSNACK ADRIA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 5. 6. 2044. Godišnja fiksna nakna
  da: 3.185 €.\n\n• INTERSNACK ADRIA D.O.O. – Koncesija za zahvaćanje
-  voda za tehnološke potrebe (HERCEGOVAC)\, 3.185 €/god.\n\nProfil opći
- ne: https://koncesijski-sat.vercel.app/#opcina/41942358B56882345771400\nIz
- vor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+  voda za tehnološke potrebe (HERCEGOVAC) · davatelj: MINISTARSTVO ZAŠTI
+ TE OKOLIŠA I ZELENE TRANZICIJE\, 3.185 €/god.\n\nProfil općine: https:
+ //koncesijski-sat.vercel.app/#opcina/41942358B56882345771400\nIzvor: Regis
+ tar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B56882345771400
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -31,8 +32,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-848403301db0b108@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-dfb55c6c11933b5d@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20431205
 DTEND;VALUE=DATE:20431206
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INTERSNACK ADRIA
@@ -40,8 +41,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INTERSNACK ADRIA
 DESCRIPTION:5. 6. 2044. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• INTERSNACK ADRIA D.O.O. – Koncesija za zahvaćanje voda za tehno
- loške potrebe (HERCEGOVAC)\, 3.185 €/god.\n\nProfil općine: https://ko
- ncesijski-sat.vercel.app/#opcina/41942358B56882345771400
+ loške potrebe (HERCEGOVAC) · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠA I 
+ ZELENE TRANZICIJE\, 3.185 €/god.\n\nProfil općine: https://koncesijski-
+ sat.vercel.app/#opcina/41942358B56882345771400
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B56882345771400
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -52,17 +54,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-576196515003108b@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-93b5dde70b226ffa@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20550626
 DTEND;VALUE=DATE:20550627
 SUMMARY:Ističe koncesija: ASPECT CROATIA KFT. - PODRUŽNICA ZAGREB
 DESCRIPTION:1 ugovor o koncesiji ističe 26. 6. 2055. Godišnja fiksna nakn
  ada: 1.096 €.\n\n• ASPECT CROATIA KFT. - PODRUŽNICA ZAGREB – Dozvol
  a za istraživanje ugljikovodika (prema Zakonu o ugljikovodicima) (HERCEGO
- VAC)\, 1.096 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.ap
- p/#opcina/41942358B56882345771400\nIzvor: Registar koncesija (FINA)\, obra
- da Koncesijski sat 9. 11. 2026.
+ VAC) · davatelj: MINISTARSTVO GOSPODARSTVA\, 1.096 €/god.\n\nProfil op
+ ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B56882345771400\
+ nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B56882345771400
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -72,8 +74,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-576196515003108b@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-93b5dde70b226ffa@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20541226
 DTEND;VALUE=DATE:20541227
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ASPECT CROATIA K
@@ -81,9 +83,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ASPECT CROATIA K
 DESCRIPTION:26. 6. 2055. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• ASPECT CROATIA KFT. - PODRUŽNICA ZAGREB – Dozvola za istraživ
- anje ugljikovodika (prema Zakonu o ugljikovodicima) (HERCEGOVAC)\, 1.096 
- €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
- 42358B56882345771400
+ anje ugljikovodika (prema Zakonu o ugljikovodicima) (HERCEGOVAC) · davate
+ lj: MINISTARSTVO GOSPODARSTVA\, 1.096 €/god.\n\nProfil općine: https://
+ koncesijski-sat.vercel.app/#opcina/41942358B56882345771400
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B56882345771400
 TRANSP:TRANSPARENT
 BEGIN:VALARM

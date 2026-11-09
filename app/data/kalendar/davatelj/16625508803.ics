@@ -1,0 +1,91 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · OPĆINA JAKŠIĆ
+X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje OPĆINA JAKŠIĆ. Iz Regis
+ tra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podat
+ aka. https://koncesijski-sat.vercel.app/#sat
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-ccf4ae06616859d0@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20320614
+DTEND;VALUE=DATE:20320615
+SUMMARY:Ističe koncesija: HEP - PLIN  D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 14. 6. 2032.\n\n• HEP - PLIN  D.
+ O.O. – Koncesija za opskrbu potrošača prirodnim plinom (JAKŠIĆ\, Op
+ ćina Jakšić)\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\n
+ Izvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: HEP - PLIN  D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-ccf4ae06616859d0@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20311214
+DTEND;VALUE=DATE:20311215
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP - PLIN  D.O.
+ O.)
+DESCRIPTION:14. 6. 2032. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• HEP - PLIN  D.O.O. – Koncesija za opskrbu potrošača prirodnim
+  plinom (JAKŠIĆ\, Općina Jakšić)\n\nŠto ističe: https://koncesijski
+ -sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP - PLIN  
+ D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-3ed510300955a7f7@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20360822
+DTEND;VALUE=DATE:20360823
+SUMMARY:Ističe koncesija: KUTJEVO  D.D.
+DESCRIPTION:1 ugovor o koncesiji ističe 22. 8. 2036. Godišnja fiksna nakn
+ ada: 4.911 €.\n\n• KUTJEVO  D.D. – Koncesija za korištenje poljopri
+ vrednog zemljišta u vlasništvu države (JAKŠIĆ\, Općina Jakšić)\, 4
+ .911 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIz
+ vor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: KUTJEVO  D.D.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-3ed510300955a7f7@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20360222
+DTEND;VALUE=DATE:20360223
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (KUTJEVO  D.D.)
+DESCRIPTION:22. 8. 2036. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• KUTJEVO  D.D. – Koncesija za korištenje poljoprivrednog zemlji
+ šta u vlasništvu države (JAKŠIĆ\, Općina Jakšić)\, 4.911 €/god.\
+ n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (KUTJEVO  D.D
+ .)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

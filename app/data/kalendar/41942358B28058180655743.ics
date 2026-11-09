@@ -4,27 +4,29 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Općina Lasinja
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Lasinja. Iz Regi
- stra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade poda
- taka. https://koncesijski-sat.vercel.app/#opcina/41942358B28058180655743
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Općina Lasinja (pregled
+ \, svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježava 
+ se nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#opcina
+ /41942358B28058180655743
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-da1bc432193425ac@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-a64d65ebc00904d0@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20271231
 DTEND;VALUE=DATE:20280101
 SUMMARY:Ističe 3 koncesije · Lasinja
 DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2027. Godišnja fiksna na
  knada: 1.188 €.\n\n• MEŽNAR D.O.O. – Koncesija za eksploataciju teh
- ničko-građevnog kamena (LASINJA)\, 396 €/god.\n• MEŽNAR D.O.O. – 
- Koncesija za eksploataciju tehničko-građevnog kamena (LASINJA)\, 396 €
- /god.\n• MEŽNAR D.O.O. – Koncesija za površinu utvrđenog eksploatac
- ijskog polja neenergetskih mineralnih sirovina (LASINJA)\, 396 €/god.\n\
- nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B28058
- 180655743\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11
- . 2026.
+ ničko-građevnog kamena (LASINJA) · davatelj: MINISTARSTVO GOSPODARSTVA\
+ , 396 €/god.\n• MEŽNAR D.O.O. – Koncesija za eksploataciju tehničk
+ o-građevnog kamena (LASINJA) · davatelj: MINISTARSTVO GOSPODARSTVA\, 396
+  €/god.\n• MEŽNAR D.O.O. – Koncesija za površinu utvrđenog eksplo
+ atacijskog polja neenergetskih mineralnih sirovina (LASINJA) · davatelj: 
+ MINISTARSTVO GOSPODARSTVA\, 396 €/god.\n\nProfil općine: https://konces
+ ijski-sat.vercel.app/#opcina/41942358B28058180655743\nIzvor: Registar konc
+ esija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B28058180655743
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -34,38 +36,41 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-da1bc432193425ac@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-a64d65ebc00904d0@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270630
 DTEND;VALUE=DATE:20270701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Lasinja
 DESCRIPTION:31. 12. 2027. ističe 3 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• MEŽNAR D.O.O. – Koncesija za eksploataciju tehničko-građev
- nog kamena (LASINJA)\, 396 €/god.\n• MEŽNAR D.O.O. – Koncesija za e
- ksploataciju tehničko-građevnog kamena (LASINJA)\, 396 €/god.\n• ME
- ŽNAR D.O.O. – Koncesija za površinu utvrđenog eksploatacijskog polja 
- neenergetskih mineralnih sirovina (LASINJA)\, 396 €/god.\n\nProfil opći
- ne: https://koncesijski-sat.vercel.app/#opcina/41942358B28058180655743
+ nog kamena (LASINJA) · davatelj: MINISTARSTVO GOSPODARSTVA\, 396 €/god.
+ \n• MEŽNAR D.O.O. – Koncesija za eksploataciju tehničko-građevnog k
+ amena (LASINJA) · davatelj: MINISTARSTVO GOSPODARSTVA\, 396 €/god.\n•
+  MEŽNAR D.O.O. – Koncesija za površinu utvrđenog eksploatacijskog pol
+ ja neenergetskih mineralnih sirovina (LASINJA) · davatelj: MINISTARSTVO G
+ OSPODARSTVA\, 396 €/god.\n\nProfil općine: https://koncesijski-sat.verc
+ el.app/#opcina/41942358B28058180655743
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B28058180655743
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Lasinja
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-67dc82f1dd427e1a@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-93484feff88fef80@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20291112
 DTEND;VALUE=DATE:20291113
 SUMMARY:Ističe koncesija: JAMNICA PLUS D.O.O
 DESCRIPTION:1 ugovor o koncesiji ističe 12. 11. 2029.\n\n• JAMNICA PLUS 
  D.O.O – Koncesija za zahvaćanje voda radi prodaje na tržištu (LASINJA
- )\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B2
- 8058180655743\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9
- . 11. 2026.
+ ) · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠA I ZELENE TRANZICIJE\n\nProfi
+ l općine: https://koncesijski-sat.vercel.app/#opcina/41942358B28058180655
+ 743\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026
+ .
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B28058180655743
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -75,8 +80,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-67dc82f1dd427e1a@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-93484feff88fef80@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20290512
 DTEND;VALUE=DATE:20290513
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (JAMNICA PLUS D.O
@@ -84,8 +89,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (JAMNICA PLUS D.O
 DESCRIPTION:12. 11. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• JAMNICA PLUS D.O.O – Koncesija za zahvaćanje voda radi prodaj
- e na tržištu (LASINJA)\n\nProfil općine: https://koncesijski-sat.vercel
- .app/#opcina/41942358B28058180655743
+ e na tržištu (LASINJA) · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠA I ZEL
+ ENE TRANZICIJE\n\nProfil općine: https://koncesijski-sat.vercel.app/#opci
+ na/41942358B28058180655743
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B28058180655743
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -96,17 +102,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-840ee52bbd4e7de2@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-814be9c78db7471a@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20550626
 DTEND;VALUE=DATE:20550627
 SUMMARY:Ističe koncesija: ASPECT CROATIA KFT. - PODRUŽNICA ZAGREB
 DESCRIPTION:1 ugovor o koncesiji ističe 26. 6. 2055. Godišnja fiksna nakn
  ada: 4.360 €.\n\n• ASPECT CROATIA KFT. - PODRUŽNICA ZAGREB – Dozvol
  a za istraživanje ugljikovodika (prema Zakonu o ugljikovodicima) (LASINJA
- )\, 4.360 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#
- opcina/41942358B28058180655743\nIzvor: Registar koncesija (FINA)\, obrada 
- Koncesijski sat 9. 11. 2026.
+ ) · davatelj: MINISTARSTVO GOSPODARSTVA\, 4.360 €/god.\n\nProfil općin
+ e: https://koncesijski-sat.vercel.app/#opcina/41942358B28058180655743\nIzv
+ or: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B28058180655743
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -116,8 +122,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-840ee52bbd4e7de2@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-814be9c78db7471a@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20541226
 DTEND;VALUE=DATE:20541227
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ASPECT CROATIA K
@@ -125,9 +131,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ASPECT CROATIA K
 DESCRIPTION:26. 6. 2055. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• ASPECT CROATIA KFT. - PODRUŽNICA ZAGREB – Dozvola za istraživ
- anje ugljikovodika (prema Zakonu o ugljikovodicima) (LASINJA)\, 4.360 €/
- god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4194235
- 8B28058180655743
+ anje ugljikovodika (prema Zakonu o ugljikovodicima) (LASINJA) · davatelj:
+  MINISTARSTVO GOSPODARSTVA\, 4.360 €/god.\n\nProfil općine: https://kon
+ cesijski-sat.vercel.app/#opcina/41942358B28058180655743
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B28058180655743
 TRANSP:TRANSPARENT
 BEGIN:VALARM

@@ -4,24 +4,25 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Općina Primošten
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Primošten. Iz R
- egistra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade p
- odataka. https://koncesijski-sat.vercel.app/#opcina/41942358B7831790904240
- 4
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Općina Primošten (preg
+ led\, svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježa
+ va se nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#opc
+ ina/41942358B78317909042404
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-d4aa53cd1a2b53e3@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-9a52fabf7078946b@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270821
 DTEND;VALUE=DATE:20270822
 SUMMARY:Ističe koncesija: JK PRIMOŠTEN
 DESCRIPTION:1 ugovor o koncesiji ističe 21. 8. 2027. Godišnja fiksna nakn
  ada: 133 €.\n\n• JK PRIMOŠTEN – Koncesija na pomorskom dobru (PRIMO
- ŠTEN)\, 133 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.ap
- p/#opcina/41942358B78317909042404\nIzvor: Registar koncesija (FINA)\, obra
- da Koncesijski sat 9. 11. 2026.
+ ŠTEN) · davatelj: LUČKA UPRAVA ŠIBENSKO-KNINSKE ŽUPANIJE\, 133 €/go
+ d.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B
+ 78317909042404\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 
+ 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B78317909042404
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -31,16 +32,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-d4aa53cd1a2b53e3@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-9a52fabf7078946b@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270221
 DTEND;VALUE=DATE:20270222
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (JK PRIMOŠTEN)
 DESCRIPTION:21. 8. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
- .\n\n• JK PRIMOŠTEN – Koncesija na pomorskom dobru (PRIMOŠTEN)\, 133
-  €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41
- 942358B78317909042404
+ .\n\n• JK PRIMOŠTEN – Koncesija na pomorskom dobru (PRIMOŠTEN) · da
+ vatelj: LUČKA UPRAVA ŠIBENSKO-KNINSKE ŽUPANIJE\, 133 €/god.\n\nProfil
+  općine: https://koncesijski-sat.vercel.app/#opcina/41942358B783179090424
+ 04
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B78317909042404
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -51,16 +53,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-11521b938deca8bf@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-a5651d8ffa1d563a@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20310430
 DTEND;VALUE=DATE:20310501
 SUMMARY:Ističe koncesija: CIRUS D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 30. 4. 2031. Godišnja fiksna nakn
  ada: 9.803 €.\n\n• CIRUS D.O.O. – Koncesija na pomorskom dobru (PRIM
- OŠTEN)\, 9.803 €/god.\n\nProfil općine: https://koncesijski-sat.vercel
- .app/#opcina/41942358B78317909042404\nIzvor: Registar koncesija (FINA)\, o
- brada Koncesijski sat 9. 11. 2026.
+ OŠTEN) · davatelj: ŠIBENSKO-KNINSKA ŽUPANIJA\, 9.803 €/god.\n\nProfi
+ l općine: https://koncesijski-sat.vercel.app/#opcina/41942358B78317909042
+ 404\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026
+ .
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B78317909042404
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -70,16 +73,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-11521b938deca8bf@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-a5651d8ffa1d563a@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20301030
 DTEND;VALUE=DATE:20301031
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (CIRUS D.O.O.)
 DESCRIPTION:30. 4. 2031. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
- .\n\n• CIRUS D.O.O. – Koncesija na pomorskom dobru (PRIMOŠTEN)\, 9.80
- 3 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4
- 1942358B78317909042404
+ .\n\n• CIRUS D.O.O. – Koncesija na pomorskom dobru (PRIMOŠTEN) · dav
+ atelj: ŠIBENSKO-KNINSKA ŽUPANIJA\, 9.803 €/god.\n\nProfil općine: htt
+ ps://koncesijski-sat.vercel.app/#opcina/41942358B78317909042404
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B78317909042404
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -90,18 +93,20 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-f4f363e1ebce0f55@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-d932c0b03bed9405@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20340926
 DTEND;VALUE=DATE:20340927
 SUMMARY:Ističe 2 koncesije · Primošten
 DESCRIPTION:2 ugovora o koncesiji ističe 26. 9. 2034. Godišnja fiksna nak
  nada: 31.679 €.\n\n• MARINA KREMIK D.O.O. – Koncesija pomorskog dobr
- a u svrhu izgradnje i gospodarskog korištenja (PRIMOŠTEN)\, 19.102 €/g
- od.\n• MARINA KREMIK D.O.O. – Koncesija pomorskog dobra u svrhu izgrad
- nje i gospodarskog korištenja (PRIMOŠTEN)\, 12.577 €/god.\n\nProfil op
- ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B78317909042404\
- nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ a u svrhu izgradnje i gospodarskog korištenja (PRIMOŠTEN) · davatelj: M
+ INISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\, 19.102 €/god.\n• MARINA 
+ KREMIK D.O.O. – Koncesija pomorskog dobra u svrhu izgradnje i gospodarsk
+ og korištenja (PRIMOŠTEN) · davatelj: MINISTARSTVO MORA\, PROMETA I INF
+ RASTRUKTURE\, 12.577 €/god.\n\nProfil općine: https://koncesijski-sat.v
+ ercel.app/#opcina/41942358B78317909042404\nIzvor: Registar koncesija (FINA
+ )\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B78317909042404
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -111,41 +116,44 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-f4f363e1ebce0f55@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-d932c0b03bed9405@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20340326
 DTEND;VALUE=DATE:20340327
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Primošten
 DESCRIPTION:26. 9. 2034. ističe 2 ugovora o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• MARINA KREMIK D.O.O. – Koncesija pomorskog dobra u svrhu izgra
- dnje i gospodarskog korištenja (PRIMOŠTEN)\, 19.102 €/god.\n• MARINA
-  KREMIK D.O.O. – Koncesija pomorskog dobra u svrhu izgradnje i gospodars
- kog korištenja (PRIMOŠTEN)\, 12.577 €/god.\n\nProfil općine: https://
- koncesijski-sat.vercel.app/#opcina/41942358B78317909042404
+ dnje i gospodarskog korištenja (PRIMOŠTEN) · davatelj: MINISTARSTVO MOR
+ A\, PROMETA I INFRASTRUKTURE\, 19.102 €/god.\n• MARINA KREMIK D.O.O. 
+ – Koncesija pomorskog dobra u svrhu izgradnje i gospodarskog korištenja
+  (PRIMOŠTEN) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\, 
+ 12.577 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opc
+ ina/41942358B78317909042404
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B78317909042404
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Primošten
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-3d07f8e745f61b9c@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-ca69057fa8050b03@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20351231
 DTEND;VALUE=DATE:20360101
 SUMMARY:Ističe 3 koncesije · Primošten
 DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2035. Godišnja fiksna na
  knada: 13.296 €.\n\n• KONJUŠKA D.O.O. – Koncesija za površinu utvr
  đenog eksploatacijskog polja neenergetskih mineralnih sirovina (PRIMOŠTE
- N)\, 4.432 €/god.\n• KONJUŠKA D.O.O. – Koncesija za eksploataciju t
- ehničko-građevnog kamena (PRIMOŠTEN)\, 4.432 €/god.\n• KONJUŠKA D.
- O.O. – Koncesija za eksploataciju tehničko-građevnog kamena (PRIMOŠTE
- N)\, 4.432 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/
- #opcina/41942358B78317909042404\nIzvor: Registar koncesija (FINA)\, obrada
-  Koncesijski sat 9. 11. 2026.
+ N) · davatelj: MINISTARSTVO GOSPODARSTVA\, 4.432 €/god.\n• KONJUŠKA 
+ D.O.O. – Koncesija za eksploataciju tehničko-građevnog kamena (PRIMOŠ
+ TEN) · davatelj: MINISTARSTVO GOSPODARSTVA\, 4.432 €/god.\n• KONJUŠK
+ A D.O.O. – Koncesija za eksploataciju tehničko-građevnog kamena (PRIMO
+ ŠTEN) · davatelj: MINISTARSTVO GOSPODARSTVA\, 4.432 €/god.\n\nProfil o
+ pćine: https://koncesijski-sat.vercel.app/#opcina/41942358B78317909042404
+ \nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B78317909042404
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -155,39 +163,41 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-3d07f8e745f61b9c@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-ca69057fa8050b03@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20350630
 DTEND;VALUE=DATE:20350701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Primošten
 DESCRIPTION:31. 12. 2035. ističe 3 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• KONJUŠKA D.O.O. – Koncesija za površinu utvrđenog eksploat
- acijskog polja neenergetskih mineralnih sirovina (PRIMOŠTEN)\, 4.432 €/
- god.\n• KONJUŠKA D.O.O. – Koncesija za eksploataciju tehničko-građe
- vnog kamena (PRIMOŠTEN)\, 4.432 €/god.\n• KONJUŠKA D.O.O. – Konces
- ija za eksploataciju tehničko-građevnog kamena (PRIMOŠTEN)\, 4.432 €/
- god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4194235
- 8B78317909042404
+ acijskog polja neenergetskih mineralnih sirovina (PRIMOŠTEN) · davatelj:
+  MINISTARSTVO GOSPODARSTVA\, 4.432 €/god.\n• KONJUŠKA D.O.O. – Konc
+ esija za eksploataciju tehničko-građevnog kamena (PRIMOŠTEN) · davatel
+ j: MINISTARSTVO GOSPODARSTVA\, 4.432 €/god.\n• KONJUŠKA D.O.O. – Ko
+ ncesija za eksploataciju tehničko-građevnog kamena (PRIMOŠTEN) · davat
+ elj: MINISTARSTVO GOSPODARSTVA\, 4.432 €/god.\n\nProfil općine: https:/
+ /koncesijski-sat.vercel.app/#opcina/41942358B78317909042404
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B78317909042404
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Primošten
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-d3f46f8cb7454a67@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-af6a3ad17e6a6354@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20400110
 DTEND;VALUE=DATE:20400111
 SUMMARY:Ističe koncesija: PRIMOŠTEN ODVODNJA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 10. 1. 2040. Godišnja fiksna nakn
  ada: 70 €.\n\n• PRIMOŠTEN ODVODNJA D.O.O. – Posebna upotreba pomors
- kog dobra (PRIMOŠTEN)\, 70 €/god.\n\nProfil općine: https://koncesijsk
- i-sat.vercel.app/#opcina/41942358B78317909042404\nIzvor: Registar koncesij
- a (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ kog dobra (PRIMOŠTEN) · davatelj: ŠIBENSKO-KNINSKA ŽUPANIJA\, 70 €/g
+ od.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358
+ B78317909042404\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat
+  9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B78317909042404
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -197,8 +207,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-d3f46f8cb7454a67@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-af6a3ad17e6a6354@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20390710
 DTEND;VALUE=DATE:20390711
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PRIMOŠTEN ODVOD
@@ -206,8 +216,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PRIMOŠTEN ODVOD
 DESCRIPTION:10. 1. 2040. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• PRIMOŠTEN ODVODNJA D.O.O. – Posebna upotreba pomorskog dobra (
- PRIMOŠTEN)\, 70 €/god.\n\nProfil općine: https://koncesijski-sat.verce
- l.app/#opcina/41942358B78317909042404
+ PRIMOŠTEN) · davatelj: ŠIBENSKO-KNINSKA ŽUPANIJA\, 70 €/god.\n\nProf
+ il općine: https://koncesijski-sat.vercel.app/#opcina/41942358B7831790904
+ 2404
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B78317909042404
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -218,16 +229,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-39db0369852326ad@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-616ec4a70a21dfb1@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20400414
 DTEND;VALUE=DATE:20400415
 SUMMARY:Ističe koncesija: PRIMOŠTEN ODVODNJA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 14. 4. 2040. Godišnja fiksna nakn
  ada: 233 €.\n\n• PRIMOŠTEN ODVODNJA D.O.O. – Posebna upotreba pomor
- skog dobra (PRIMOŠTEN)\, 233 €/god.\n\nProfil općine: https://koncesij
- ski-sat.vercel.app/#opcina/41942358B78317909042404\nIzvor: Registar konces
- ija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ skog dobra (PRIMOŠTEN) · davatelj: ŠIBENSKO-KNINSKA ŽUPANIJA\, 233 €
+ /god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419423
+ 58B78317909042404\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski s
+ at 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B78317909042404
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -237,8 +249,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-39db0369852326ad@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-616ec4a70a21dfb1@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20391014
 DTEND;VALUE=DATE:20391015
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PRIMOŠTEN ODVOD
@@ -246,8 +258,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PRIMOŠTEN ODVOD
 DESCRIPTION:14. 4. 2040. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• PRIMOŠTEN ODVODNJA D.O.O. – Posebna upotreba pomorskog dobra (
- PRIMOŠTEN)\, 233 €/god.\n\nProfil općine: https://koncesijski-sat.verc
- el.app/#opcina/41942358B78317909042404
+ PRIMOŠTEN) · davatelj: ŠIBENSKO-KNINSKA ŽUPANIJA\, 233 €/god.\n\nPro
+ fil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B783179090
+ 42404
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B78317909042404
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -258,16 +271,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-f1001ab5c39b4122@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-7c4e6a2c4b22fc20@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20420127
 DTEND;VALUE=DATE:20420128
 SUMMARY:Ističe koncesija: VODOVOD I ODVODNJA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 27. 1. 2042. Godišnja fiksna nakn
  ada: 40 €.\n\n• VODOVOD I ODVODNJA D.O.O. – Posebna upotreba pomorsk
- og dobra (PRIMOŠTEN)\, 40 €/god.\n\nProfil općine: https://koncesijski
- -sat.vercel.app/#opcina/41942358B78317909042404\nIzvor: Registar koncesija
-  (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ og dobra (PRIMOŠTEN) · davatelj: ŠIBENSKO-KNINSKA ŽUPANIJA\, 40 €/go
+ d.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B
+ 78317909042404\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 
+ 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B78317909042404
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -277,8 +291,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-f1001ab5c39b4122@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-7c4e6a2c4b22fc20@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20410727
 DTEND;VALUE=DATE:20410728
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VODOVOD I ODVODN
@@ -286,8 +300,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VODOVOD I ODVODN
 DESCRIPTION:27. 1. 2042. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• VODOVOD I ODVODNJA D.O.O. – Posebna upotreba pomorskog dobra (P
- RIMOŠTEN)\, 40 €/god.\n\nProfil općine: https://koncesijski-sat.vercel
- .app/#opcina/41942358B78317909042404
+ RIMOŠTEN) · davatelj: ŠIBENSKO-KNINSKA ŽUPANIJA\, 40 €/god.\n\nProfi
+ l općine: https://koncesijski-sat.vercel.app/#opcina/41942358B78317909042
+ 404
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B78317909042404
 TRANSP:TRANSPARENT
 BEGIN:VALARM

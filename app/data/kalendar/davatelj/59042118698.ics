@@ -1,0 +1,53 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · OPĆINA PETRIJANEC
+X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje OPĆINA PETRIJANEC. Iz Reg
+ istra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade pod
+ ataka. https://koncesijski-sat.vercel.app/#sat
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-c270136dfd0be6b1@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20291101
+DTEND;VALUE=DATE:20291102
+SUMMARY:Ističe koncesija: DIMNJAČARSTVO VALJAK D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 1. 11. 2029. Godišnja fiksna nakn
+ ada: 800 €.\n\n• DIMNJAČARSTVO VALJAK D.O.O. – Koncesija za obavlja
+ nje dimnjačarskih poslova (PETRIJANEC\, Općina Petrijanec)\, 800 €/god
+ .\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Regista
+ r koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: DIMNJAČARSTVO VALJAK D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-c270136dfd0be6b1@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20290501
+DTEND;VALUE=DATE:20290502
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DIMNJAČARSTVO V
+ ALJAK D.O.O.)
+DESCRIPTION:1. 11. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• DIMNJAČARSTVO VALJAK D.O.O. – Koncesija za obavljanje dimnjač
+ arskih poslova (PETRIJANEC\, Općina Petrijanec)\, 800 €/god.\n\nŠto is
+ tiče: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DIMNJAČARST
+ VO VALJAK D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,327 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · GRAD UMAG
+X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje GRAD UMAG. Iz Registra kon
+ cesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podataka. ht
+ tps://koncesijski-sat.vercel.app/#sat
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-378bfb906a2ca7c6@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20280126
+DTEND;VALUE=DATE:20280127
+SUMMARY:Ističe koncesija: D.M.M. - TIM D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 26. 1. 2028. Godišnja fiksna nakn
+ ada: 2.787 €.\n\n• D.M.M. - TIM D.O.O. – Koncesija za obavljanje dim
+ njačarskih poslova (UMAG - UMAGO\, Grad Umag)\, 2.787 €/god.\n\nŠto is
+ tiče: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija 
+ (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: D.M.M. - TIM D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-378bfb906a2ca7c6@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20270726
+DTEND;VALUE=DATE:20270727
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (D.M.M. - TIM D.O
+ .O.)
+DESCRIPTION:26. 1. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• D.M.M. - TIM D.O.O. – Koncesija za obavljanje dimnjačarskih po
+ slova (UMAG - UMAGO\, Grad Umag)\, 2.787 €/god.\n\nŠto ističe: https:/
+ /koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (D.M.M. - TIM
+  D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-f24cdacda9802417@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20340109
+DTEND;VALUE=DATE:20340110
+SUMMARY:Ističe koncesija: SKIPER HOTELI D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 9. 1. 2034. Godišnja fiksna nakna
+ da: 4.421 €.\n\n• SKIPER HOTELI D.O.O. – Koncesija na pomorskom dobr
+ u (UMAG - UMAGO\, Grad Umag)\, 4.421 €/god.\n\nŠto ističe: https://kon
+ cesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Ko
+ ncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: SKIPER HOTELI D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-f24cdacda9802417@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20330709
+DTEND;VALUE=DATE:20330710
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (SKIPER HOTELI D.
+ O.O.)
+DESCRIPTION:9. 1. 2034. ističe 1 ugovor o koncesiji. Novi postupak dodjele
+  treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
+ \n\n• SKIPER HOTELI D.O.O. – Koncesija na pomorskom dobru (UMAG - UMAG
+ O\, Grad Umag)\, 4.421 €/god.\n\nŠto ističe: https://koncesijski-sat.v
+ ercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (SKIPER HOTEL
+ I D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-804005bf1f494c69@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20350323
+DTEND;VALUE=DATE:20350324
+SUMMARY:Ističe koncesija: 6. MAJ ODVODNJA D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 23. 3. 2035.\n\n• 6. MAJ ODVODNJ
+ A D.O.O. – Koncesija na pomorskom dobru (UMAG - UMAGO\, Grad Umag)\n\nŠ
+ to ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar konce
+ sija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: 6. MAJ ODVODNJA D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-804005bf1f494c69@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20340923
+DTEND;VALUE=DATE:20340924
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (6. MAJ ODVODNJA 
+ D.O.O.)
+DESCRIPTION:23. 3. 2035. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• 6. MAJ ODVODNJA D.O.O. – Koncesija na pomorskom dobru (UMAG - U
+ MAGO\, Grad Umag)\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (6. MAJ ODVOD
+ NJA D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-7d1814c5616fb817@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20361212
+DTEND;VALUE=DATE:20361213
+SUMMARY:Ističe koncesija: 6. MAJ ODVODNJA D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 12. 12. 2036.\n\n• 6. MAJ ODVODN
+ JA D.O.O. – Koncesija na pomorskom dobru (UMAG - UMAGO\, Grad Umag)\n\n
+ Što ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar kon
+ cesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: 6. MAJ ODVODNJA D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-7d1814c5616fb817@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20360612
+DTEND;VALUE=DATE:20360613
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (6. MAJ ODVODNJA 
+ D.O.O.)
+DESCRIPTION:12. 12. 2036. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• 6. MAJ ODVODNJA D.O.O. – Koncesija na pomorskom dobru (UMAG - 
+ UMAGO\, Grad Umag)\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sa
+ t
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (6. MAJ ODVOD
+ NJA D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-07ac1619a6d30290@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20370329
+DTEND;VALUE=DATE:20370330
+SUMMARY:Ističe 2 koncesije · GRAD UMAG
+DESCRIPTION:2 ugovora o koncesiji ističe 29. 3. 2037.\n\n• 6.MAJ ODVODNJ
+ A D.O.O. – Koncesija na pomorskom dobru (UMAG - UMAGO\, Grad Umag)\n• 
+ 6. MAJ ODVODNJA D.O.O. – Koncesija na pomorskom dobru (UMAG - UMAGO\, Gr
+ ad Umag)\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: 
+ Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 2 koncesije · GRAD UMAG
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-07ac1619a6d30290@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20360929
+DTEND;VALUE=DATE:20360930
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · GRAD UMAG
+DESCRIPTION:29. 3. 2037. ističe 2 ugovora o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• 6.MAJ ODVODNJA D.O.O. – Koncesija na pomorskom dobru (UMAG - U
+ MAGO\, Grad Umag)\n• 6. MAJ ODVODNJA D.O.O. – Koncesija na pomorskom d
+ obru (UMAG - UMAGO\, Grad Umag)\n\nŠto ističe: https://koncesijski-sat.v
+ ercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije · GRAD UMAG
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-a1fce60bfca539ef@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20400730
+DTEND;VALUE=DATE:20400731
+SUMMARY:Ističe koncesija: 6.MAJ ODVODNJA D.O.O.-NAKNADA ZA RAZVOJ
+DESCRIPTION:1 ugovor o koncesiji ističe 30. 7. 2040.\n\n• 6.MAJ ODVODNJA
+  D.O.O.-NAKNADA ZA RAZVOJ – Posebna upotreba pomorskog dobra (UMAG - UMA
+ GO\, Grad Umag)\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\n
+ Izvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: 6.MAJ ODVODNJA D.O.O.-NAKNADA ZA RAZVOJ
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-a1fce60bfca539ef@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20400130
+DTEND;VALUE=DATE:20400131
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (6.MAJ ODVODNJA D
+ .O.O.-NAKNADA ZA RAZVOJ)
+DESCRIPTION:30. 7. 2040. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• 6.MAJ ODVODNJA D.O.O.-NAKNADA ZA RAZVOJ – Posebna upotreba pomo
+ rskog dobra (UMAG - UMAGO\, Grad Umag)\n\nŠto ističe: https://koncesijsk
+ i-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (6.MAJ ODVODN
+ JA D.O.O.-NAKNADA ZA RAZVOJ)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-e371f29736733357@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20411103
+DTEND;VALUE=DATE:20411104
+SUMMARY:Ističe koncesija: KOMUNELA D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 3. 11. 2041. Godišnja fiksna nakn
+ ada: 2.781 €.\n\n• KOMUNELA D.O.O. – Koncesija na pomorskom dobru (U
+ MAG - UMAGO\, Grad Umag)\, 2.781 €/god.\n\nŠto ističe: https://koncesi
+ jski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Konces
+ ijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: KOMUNELA D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-e371f29736733357@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20410503
+DTEND;VALUE=DATE:20410504
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (KOMUNELA D.O.O.)
+DESCRIPTION:3. 11. 2041. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• KOMUNELA D.O.O. – Koncesija na pomorskom dobru (UMAG - UMAGO\, 
+ Grad Umag)\, 2.781 €/god.\n\nŠto ističe: https://koncesijski-sat.verce
+ l.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (KOMUNELA D.O
+ .O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-aa3a929701e48d50@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20420706
+DTEND;VALUE=DATE:20420707
+SUMMARY:Ističe koncesija: ČISTA VODA PROJEKT D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 6. 7. 2042. Godišnja fiksna nakna
+ da: 800 €.\n\n• ČISTA VODA PROJEKT D.O.O. – Koncesija na pomorskom 
+ dobru (UMAG - UMAGO\, Grad Umag)\, 800 €/god.\n\nŠto ističe: https://k
+ oncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada 
+ Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: ČISTA VODA PROJEKT D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-aa3a929701e48d50@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20420106
+DTEND;VALUE=DATE:20420107
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ČISTA VODA PROJ
+ EKT D.O.O.)
+DESCRIPTION:6. 7. 2042. ističe 1 ugovor o koncesiji. Novi postupak dodjele
+  treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
+ \n\n• ČISTA VODA PROJEKT D.O.O. – Koncesija na pomorskom dobru (UMAG 
+ - UMAGO\, Grad Umag)\, 800 €/god.\n\nŠto ističe: https://koncesijski-s
+ at.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ČISTA VODA 
+ PROJEKT D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

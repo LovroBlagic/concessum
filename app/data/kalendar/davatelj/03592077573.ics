@@ -1,0 +1,53 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · OPĆINA VRSAR
+X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje OPĆINA VRSAR. Iz Registra
+  koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podataka
+ . https://koncesijski-sat.vercel.app/#sat
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-89b6ac6b769341c3@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20291204
+DTEND;VALUE=DATE:20291205
+SUMMARY:Ističe koncesija: MLD-USLUGE D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 4. 12. 2029. Godišnja fiksna nakn
+ ada: 1.820 €.\n\n• MLD-USLUGE D.O.O. – Koncesija za obavljanje dimnj
+ ačarskih poslova (VRSAR - ORSERA\, Općina Vrsar)\, 1.820 €/god.\n\nŠt
+ o ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar konces
+ ija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: MLD-USLUGE D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-89b6ac6b769341c3@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20290604
+DTEND;VALUE=DATE:20290605
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MLD-USLUGE D.O.O
+ .)
+DESCRIPTION:4. 12. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• MLD-USLUGE D.O.O. – Koncesija za obavljanje dimnjačarskih posl
+ ova (VRSAR - ORSERA\, Općina Vrsar)\, 1.820 €/god.\n\nŠto ističe: htt
+ ps://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MLD-USLUGE D
+ .O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

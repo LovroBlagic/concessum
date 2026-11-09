@@ -4,24 +4,25 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Općina Zlatar Bistrica
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Zlatar Bistrica.
-  Iz Registra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obr
- ade podataka. https://koncesijski-sat.vercel.app/#opcina/41942358B40908600
- 410241
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Općina Zlatar Bistrica 
+ (pregled\, svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osv
+ ježava se nakon svake obrade podataka. https://koncesijski-sat.vercel.app
+ /#opcina/41942358B40908600410241
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-81b38400dd931d39@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-3a87f10906aa6a43@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20300504
 DTEND;VALUE=DATE:20300505
 SUMMARY:Ističe koncesija: LEUŠTEK J.D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 4. 5. 2030. Godišnja fiksna nakna
  da: 2.701 €.\n\n• LEUŠTEK J.D.O.O. – Koncesija za obavljanje komuna
- lnih djelatnosti (ZLATAR BISTRICA)\, 2.701 €/god.\n\nProfil općine: htt
- ps://koncesijski-sat.vercel.app/#opcina/41942358B40908600410241\nIzvor: Re
- gistar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ lnih djelatnosti (ZLATAR BISTRICA) · davatelj: OPĆINA ZLATAR BISTRICA\, 
+ 2.701 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opci
+ na/41942358B40908600410241\nIzvor: Registar koncesija (FINA)\, obrada Konc
+ esijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B40908600410241
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -31,8 +32,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-81b38400dd931d39@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-3a87f10906aa6a43@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20291104
 DTEND;VALUE=DATE:20291105
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (LEUŠTEK J.D.O.O
@@ -40,8 +41,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (LEUŠTEK J.D.O.O
 DESCRIPTION:4. 5. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• LEUŠTEK J.D.O.O. – Koncesija za obavljanje komunalnih djelatnos
- ti (ZLATAR BISTRICA)\, 2.701 €/god.\n\nProfil općine: https://koncesijs
- ki-sat.vercel.app/#opcina/41942358B40908600410241
+ ti (ZLATAR BISTRICA) · davatelj: OPĆINA ZLATAR BISTRICA\, 2.701 €/god.
+ \n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B40
+ 908600410241
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B40908600410241
 TRANSP:TRANSPARENT
 BEGIN:VALARM

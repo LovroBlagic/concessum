@@ -4,26 +4,28 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Općina Marčana
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Marčana. Iz Reg
- istra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade pod
- ataka. https://koncesijski-sat.vercel.app/#opcina/41942358B37924728027747
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Općina Marčana (pregle
+ d\, svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježava
+  se nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#opcin
+ a/41942358B37924728027747
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-7cec26335fb33697@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-c8d4567a6ebc25fe@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20290615
 DTEND;VALUE=DATE:20290616
 SUMMARY:Ističe 2 koncesije · Marčana
 DESCRIPTION:2 ugovora o koncesiji ističe 15. 6. 2029. Godišnja fiksna nak
  nada: 677 €.\n\n• AQUA FARMA D.O.O. – Koncesija na pomorskom dobru u
-  svrhu uzgoja morske ribe i školjkaša (MARČANA)\, 544 €/god.\n• CIN
- CIN TRGET DRUŠTVO S OGRANIČENOM ODGOVORNOŠĆU ZA RIBARSTVO I USLUGE –
-  Koncesija na pomorskom dobru u svrhu uzgoja morske ribe i školjkaša (MA
- RČANA)\, 133 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.a
- pp/#opcina/41942358B37924728027747\nIzvor: Registar koncesija (FINA)\, obr
- ada Koncesijski sat 9. 11. 2026.
+  svrhu uzgoja morske ribe i školjkaša (MARČANA) · davatelj: ISTARSKA 
+ ŽUPANIJA\, 544 €/god.\n• CINCIN TRGET DRUŠTVO S OGRANIČENOM ODGOVOR
+ NOŠĆU ZA RIBARSTVO I USLUGE – Koncesija na pomorskom dobru u svrhu uzg
+ oja morske ribe i školjkaša (MARČANA) · davatelj: ISTARSKA ŽUPANIJA\,
+  133 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcin
+ a/41942358B37924728027747\nIzvor: Registar koncesija (FINA)\, obrada Konce
+ sijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B37924728027747
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -33,41 +35,44 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-7cec26335fb33697@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-c8d4567a6ebc25fe@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20281215
 DTEND;VALUE=DATE:20281216
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Marčana
 DESCRIPTION:15. 6. 2029. ističe 2 ugovora o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• AQUA FARMA D.O.O. – Koncesija na pomorskom dobru u svrhu uzgoj
- a morske ribe i školjkaša (MARČANA)\, 544 €/god.\n• CINCIN TRGET DR
- UŠTVO S OGRANIČENOM ODGOVORNOŠĆU ZA RIBARSTVO I USLUGE – Koncesija n
- a pomorskom dobru u svrhu uzgoja morske ribe i školjkaša (MARČANA)\, 13
- 3 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4
- 1942358B37924728027747
+ a morske ribe i školjkaša (MARČANA) · davatelj: ISTARSKA ŽUPANIJA\, 5
+ 44 €/god.\n• CINCIN TRGET DRUŠTVO S OGRANIČENOM ODGOVORNOŠĆU ZA RI
+ BARSTVO I USLUGE – Koncesija na pomorskom dobru u svrhu uzgoja morske ri
+ be i školjkaša (MARČANA) · davatelj: ISTARSKA ŽUPANIJA\, 133 €/god.
+ \n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B37
+ 924728027747
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B37924728027747
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Marčana
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-60dc4406e87fcfcc@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-70bcbc8051a6f2e3@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20301231
 DTEND;VALUE=DATE:20310101
 SUMMARY:Ističe 3 koncesije · Marčana
 DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2030. Godišnja fiksna na
  knada: 8.476 €.\n\n• KAMEN D.D. – Koncesija za površinu utvrđenog 
- eksploatacijskog polja neenergetskih mineralnih sirovina (MARČANA)\, 8.47
- 6 €/god.\n• KAMEN D.D. – Koncesija za eksploataciju arhitektonsko-gr
- ađevnog kamena (MARČANA)\n• KAMEN D.D. – Koncesija za eksploataciju 
- arhitektonsko-građevnog kamena (MARČANA)\n\nProfil općine: https://konc
- esijski-sat.vercel.app/#opcina/41942358B37924728027747\nIzvor: Registar ko
- ncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ eksploatacijskog polja neenergetskih mineralnih sirovina (MARČANA) · dav
+ atelj: MINISTARSTVO GOSPODARSTVA\, 8.476 €/god.\n• KAMEN D.D. – Konc
+ esija za eksploataciju arhitektonsko-građevnog kamena (MARČANA) · davat
+ elj: MINISTARSTVO GOSPODARSTVA\n• KAMEN D.D. – Koncesija za eksploatac
+ iju arhitektonsko-građevnog kamena (MARČANA) · davatelj: MINISTARSTVO G
+ OSPODARSTVA\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/
+ 41942358B37924728027747\nIzvor: Registar koncesija (FINA)\, obrada Koncesi
+ jski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B37924728027747
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -77,38 +82,40 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-60dc4406e87fcfcc@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-70bcbc8051a6f2e3@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20300630
 DTEND;VALUE=DATE:20300701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Marčana
 DESCRIPTION:31. 12. 2030. ističe 3 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• KAMEN D.D. – Koncesija za površinu utvrđenog eksploatacijsk
- og polja neenergetskih mineralnih sirovina (MARČANA)\, 8.476 €/god.\n
- • KAMEN D.D. – Koncesija za eksploataciju arhitektonsko-građevnog kam
- ena (MARČANA)\n• KAMEN D.D. – Koncesija za eksploataciju arhitektonsk
- o-građevnog kamena (MARČANA)\n\nProfil općine: https://koncesijski-sat.
- vercel.app/#opcina/41942358B37924728027747
+ og polja neenergetskih mineralnih sirovina (MARČANA) · davatelj: MINISTA
+ RSTVO GOSPODARSTVA\, 8.476 €/god.\n• KAMEN D.D. – Koncesija za ekspl
+ oataciju arhitektonsko-građevnog kamena (MARČANA) · davatelj: MINISTARS
+ TVO GOSPODARSTVA\n• KAMEN D.D. – Koncesija za eksploataciju arhitekton
+ sko-građevnog kamena (MARČANA) · davatelj: MINISTARSTVO GOSPODARSTVA\n\
+ nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B37924
+ 728027747
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B37924728027747
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Marčana
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-c5daa44f709b6fec@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-76f6fba1a1c65fe4@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20320719
 DTEND;VALUE=DATE:20320720
 SUMMARY:Ističe koncesija: CROMARIS D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 19. 7. 2032. Godišnja fiksna nakn
  ada: 3.014 €.\n\n• CROMARIS D.D. – Koncesija na pomorskom dobru (MAR
- ČANA)\, 3.014 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.
- app/#opcina/41942358B37924728027747\nIzvor: Registar koncesija (FINA)\, ob
- rada Koncesijski sat 9. 11. 2026.
+ ČANA) · davatelj: ISTARSKA ŽUPANIJA\, 3.014 €/god.\n\nProfil općine:
+  https://koncesijski-sat.vercel.app/#opcina/41942358B37924728027747\nIzvor
+ : Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B37924728027747
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -118,16 +125,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-c5daa44f709b6fec@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-76f6fba1a1c65fe4@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20320119
 DTEND;VALUE=DATE:20320120
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (CROMARIS D.D.)
 DESCRIPTION:19. 7. 2032. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
- .\n\n• CROMARIS D.D. – Koncesija na pomorskom dobru (MARČANA)\, 3.014
-  €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41
- 942358B37924728027747
+ .\n\n• CROMARIS D.D. – Koncesija na pomorskom dobru (MARČANA) · dava
+ telj: ISTARSKA ŽUPANIJA\, 3.014 €/god.\n\nProfil općine: https://konce
+ sijski-sat.vercel.app/#opcina/41942358B37924728027747
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B37924728027747
 TRANSP:TRANSPARENT
 BEGIN:VALARM

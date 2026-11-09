@@ -4,23 +4,25 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Grad Čabar
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Grad Čabar. Iz Registra
-  koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podataka
- . https://koncesijski-sat.vercel.app/#opcina/41942358B74696294231319
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Grad Čabar (pregled\, s
+ vi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježava se n
+ akon svake obrade podataka. https://koncesijski-sat.vercel.app/#opcina/419
+ 42358B74696294231319
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-dcfe4af823d190d9@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-f78060b075b8785e@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20290223
 DTEND;VALUE=DATE:20290224
 SUMMARY:Ističe koncesija: MINI HIDROELEKTRANA ČABAR\, VL. URH DAMIR
 DESCRIPTION:1 ugovor o koncesiji ističe 23. 2. 2029.\n\n• MINI HIDROELEK
  TRANA ČABAR\, VL. URH DAMIR – Koncesija za korištenje voda za uzgoj ri
- ba u zatvorenim vodama (ČABAR)\n\nProfil općine: https://koncesijski-sat
- .vercel.app/#opcina/41942358B74696294231319\nIzvor: Registar koncesija (FI
- NA)\, obrada Koncesijski sat 9. 11. 2026.
+ ba u zatvorenim vodama (ČABAR) · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠ
+ A I ZELENE TRANZICIJE\n\nProfil općine: https://koncesijski-sat.vercel.ap
+ p/#opcina/41942358B74696294231319\nIzvor: Registar koncesija (FINA)\, obra
+ da Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B74696294231319
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -30,8 +32,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-dcfe4af823d190d9@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-f78060b075b8785e@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20280823
 DTEND;VALUE=DATE:20280824
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MINI HIDROELEKTR
@@ -39,8 +41,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MINI HIDROELEKTR
 DESCRIPTION:23. 2. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• MINI HIDROELEKTRANA ČABAR\, VL. URH DAMIR – Koncesija za kori
- štenje voda za uzgoj riba u zatvorenim vodama (ČABAR)\n\nProfil općine:
-  https://koncesijski-sat.vercel.app/#opcina/41942358B74696294231319
+ štenje voda za uzgoj riba u zatvorenim vodama (ČABAR) · davatelj: MINIS
+ TARSTVO ZAŠTITE OKOLIŠA I ZELENE TRANZICIJE\n\nProfil općine: https://k
+ oncesijski-sat.vercel.app/#opcina/41942358B74696294231319
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B74696294231319
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -51,8 +54,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-0ef08e8bc5c7d136@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-f353b5d0e25d9dc2@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20420504
 DTEND;VALUE=DATE:20420505
 SUMMARY:Ističe koncesija: MINI HIDROELEKTRANA ČABAR PROIZVODNJA I DISTRIB
@@ -60,9 +63,10 @@ SUMMARY:Ističe koncesija: MINI HIDROELEKTRANA ČABAR PROIZVODNJA I DISTRIB
 DESCRIPTION:1 ugovor o koncesiji ističe 4. 5. 2042. Godišnja fiksna nakna
  da: 82 €.\n\n• MINI HIDROELEKTRANA ČABAR PROIZVODNJA I DISTRIBUCIJA E
  LEKTRIČNE ENERGIJE\, VL. URH DAMIR – Koncesija za korištenje vodne sna
- ge radi proizvodnje električne energije (ČABAR)\, 82 €/god.\n\nProfil 
- općine: https://koncesijski-sat.vercel.app/#opcina/41942358B7469629423131
- 9\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ ge radi proizvodnje električne energije (ČABAR) · davatelj: MINISTARSTV
+ O ZAŠTITE OKOLIŠA I ZELENE TRANZICIJE\, 82 €/god.\n\nProfil općine: h
+ ttps://koncesijski-sat.vercel.app/#opcina/41942358B74696294231319\nIzvor: 
+ Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B74696294231319
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -73,8 +77,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-0ef08e8bc5c7d136@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-f353b5d0e25d9dc2@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20411104
 DTEND;VALUE=DATE:20411105
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MINI HIDROELEKTR
@@ -84,8 +88,9 @@ DESCRIPTION:4. 5. 2042. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• MINI HIDROELEKTRANA ČABAR PROIZVODNJA I DISTRIBUCIJA ELEKTRIČNE 
  ENERGIJE\, VL. URH DAMIR – Koncesija za korištenje vodne snage radi pro
- izvodnje električne energije (ČABAR)\, 82 €/god.\n\nProfil općine: ht
- tps://koncesijski-sat.vercel.app/#opcina/41942358B74696294231319
+ izvodnje električne energije (ČABAR) · davatelj: MINISTARSTVO ZAŠTITE 
+ OKOLIŠA I ZELENE TRANZICIJE\, 82 €/god.\n\nProfil općine: https://konc
+ esijski-sat.vercel.app/#opcina/41942358B74696294231319
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B74696294231319
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -97,17 +102,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-ab7f99736ff3faf5@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-a30de4cd0189746e@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20490102
 DTEND;VALUE=DATE:20490103
 SUMMARY:Ističe koncesija: EUCON D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 2. 1. 2049. Godišnja fiksna nakna
  da: 1.062 €.\n\n• EUCON D.O.O. – Koncesija za korištenje vodne snag
- e radi proizvodnje električne energije (ČABAR)\, 1.062 €/god.\n\nProfi
- l općine: https://koncesijski-sat.vercel.app/#opcina/41942358B74696294231
- 319\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026
- .
+ e radi proizvodnje električne energije (ČABAR) · davatelj: MINISTARSTVO
+  ZAŠTITE OKOLIŠA I ZELENE TRANZICIJE\, 1.062 €/god.\n\nProfil općine:
+  https://koncesijski-sat.vercel.app/#opcina/41942358B74696294231319\nIzvor
+ : Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B74696294231319
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -117,16 +122,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-ab7f99736ff3faf5@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-a30de4cd0189746e@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20480702
 DTEND;VALUE=DATE:20480703
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (EUCON D.O.O.)
 DESCRIPTION:2. 1. 2049. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• EUCON D.O.O. – Koncesija za korištenje vodne snage radi proizvo
- dnje električne energije (ČABAR)\, 1.062 €/god.\n\nProfil općine: htt
- ps://koncesijski-sat.vercel.app/#opcina/41942358B74696294231319
+ dnje električne energije (ČABAR) · davatelj: MINISTARSTVO ZAŠTITE OKOL
+ IŠA I ZELENE TRANZICIJE\, 1.062 €/god.\n\nProfil općine: https://konce
+ sijski-sat.vercel.app/#opcina/41942358B74696294231319
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B74696294231319
 TRANSP:TRANSPARENT
 BEGIN:VALARM

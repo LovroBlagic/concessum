@@ -4,25 +4,26 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Općina Topusko
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Topusko. Iz Regi
- stra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade poda
- taka. https://koncesijski-sat.vercel.app/#opcina/41942358B17224032463848
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Općina Topusko (pregled
+ \, svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježava 
+ se nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#opcina
+ /41942358B17224032463848
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-88572fd4de68988c@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-ed006ae77ca2533c@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20261220
 DTEND;VALUE=DATE:20261221
 SUMMARY:Ističe koncesija: TIHOMIR KUŠAN\, DIMNJAČARSKA RADNJA KUŠAN TIH
  OMIR
 DESCRIPTION:1 ugovor o koncesiji ističe 20. 12. 2026. Godišnja fiksna nak
  nada: 239 €.\n\n• TIHOMIR KUŠAN\, DIMNJAČARSKA RADNJA KUŠAN TIHOMIR
-  – Koncesija za obavljanje dimnjačarskih poslova (TOPUSKO)\, 239 €/go
- d.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B
- 17224032463848\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 
- 9. 11. 2026.
+  – Koncesija za obavljanje dimnjačarskih poslova (TOPUSKO) · davatelj:
+  OPĆINA TOPUSKO\, 239 €/god.\n\nProfil općine: https://koncesijski-sat
+ .vercel.app/#opcina/41942358B17224032463848\nIzvor: Registar koncesija (FI
+ NA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B17224032463848
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -33,19 +34,21 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-00c260e7f98723df@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-d2ae057ccf618418@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20281231
 DTEND;VALUE=DATE:20290101
 SUMMARY:Ističe 3 koncesije · Topusko
 DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2028. Godišnja fiksna na
  knada: 22.300 €.\n\n• TERMOTERRA D.O.O. – Koncesija za površinu utv
  rđenog eksploatacijskog polja neenergetskih mineralnih sirovina (TOPUSKO)
- \, 11.150 €/god.\n• TERMOTERRA D.O.O. – Koncesija za eksploataciju c
- iglarske gline (TOPUSKO)\, 11.150 €/god.\n• TERMOTERRA D.O.O. – Konc
- esija za eksploataciju ciglarske gline (TOPUSKO)\n\nProfil općine: https:
- //koncesijski-sat.vercel.app/#opcina/41942358B17224032463848\nIzvor: Regis
- tar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+  · davatelj: MINISTARSTVO GOSPODARSTVA\, 11.150 €/god.\n• TERMOTERRA 
+ D.O.O. – Koncesija za eksploataciju ciglarske gline (TOPUSKO) · davatel
+ j: MINISTARSTVO GOSPODARSTVA\, 11.150 €/god.\n• TERMOTERRA D.O.O. – 
+ Koncesija za eksploataciju ciglarske gline (TOPUSKO) · davatelj: MINISTAR
+ STVO GOSPODARSTVA\n\nProfil općine: https://koncesijski-sat.vercel.app/#o
+ pcina/41942358B17224032463848\nIzvor: Registar koncesija (FINA)\, obrada K
+ oncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B17224032463848
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -55,39 +58,41 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-00c260e7f98723df@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-d2ae057ccf618418@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20280630
 DTEND;VALUE=DATE:20280701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Topusko
 DESCRIPTION:31. 12. 2028. ističe 3 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• TERMOTERRA D.O.O. – Koncesija za površinu utvrđenog eksploa
- tacijskog polja neenergetskih mineralnih sirovina (TOPUSKO)\, 11.150 €/g
- od.\n• TERMOTERRA D.O.O. – Koncesija za eksploataciju ciglarske gline 
- (TOPUSKO)\, 11.150 €/god.\n• TERMOTERRA D.O.O. – Koncesija za eksplo
- ataciju ciglarske gline (TOPUSKO)\n\nProfil općine: https://koncesijski-s
- at.vercel.app/#opcina/41942358B17224032463848
+ tacijskog polja neenergetskih mineralnih sirovina (TOPUSKO) · davatelj: M
+ INISTARSTVO GOSPODARSTVA\, 11.150 €/god.\n• TERMOTERRA D.O.O. – Konc
+ esija za eksploataciju ciglarske gline (TOPUSKO) · davatelj: MINISTARSTVO
+  GOSPODARSTVA\, 11.150 €/god.\n• TERMOTERRA D.O.O. – Koncesija za ek
+ sploataciju ciglarske gline (TOPUSKO) · davatelj: MINISTARSTVO GOSPODARST
+ VA\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B
+ 17224032463848
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B17224032463848
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Topusko
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-6a251c1fb7e3d0be@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-c0df21181d7fb3a5@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20440130
 DTEND;VALUE=DATE:20440131
 SUMMARY:Ističe koncesija: NAJAM ZA VAS D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 30. 1. 2044. Godišnja fiksna nakn
  ada: 591 €.\n\n• NAJAM ZA VAS D.O.O. – Koncesija za korištenje vodn
- e snage radi proizvodnje električne energije (TOPUSKO)\, 591 €/god.\n\n
- Profil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B172240
- 32463848\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11.
-  2026.
+ e snage radi proizvodnje električne energije (TOPUSKO) · davatelj: MINIS
+ TARSTVO ZAŠTITE OKOLIŠA I ZELENE TRANZICIJE\, 591 €/god.\n\nProfil op
+ ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B17224032463848\
+ nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B17224032463848
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -97,8 +102,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-6a251c1fb7e3d0be@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-c0df21181d7fb3a5@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20430730
 DTEND;VALUE=DATE:20430731
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (NAJAM ZA VAS D.O
@@ -106,8 +111,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (NAJAM ZA VAS D.O
 DESCRIPTION:30. 1. 2044. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• NAJAM ZA VAS D.O.O. – Koncesija za korištenje vodne snage radi
-  proizvodnje električne energije (TOPUSKO)\, 591 €/god.\n\nProfil opći
- ne: https://koncesijski-sat.vercel.app/#opcina/41942358B17224032463848
+  proizvodnje električne energije (TOPUSKO) · davatelj: MINISTARSTVO ZAŠ
+ TITE OKOLIŠA I ZELENE TRANZICIJE\, 591 €/god.\n\nProfil općine: https:
+ //koncesijski-sat.vercel.app/#opcina/41942358B17224032463848
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B17224032463848
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -118,17 +124,18 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-1e218ac7998067a3@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-60cdae8eab66eef8@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20451224
 DTEND;VALUE=DATE:20451225
 SUMMARY:Ističe koncesija: DRAGOMIR GABRIĆ D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 24. 12. 2045. Godišnja fiksna nak
  nada: 888 €.\n\n• DRAGOMIR GABRIĆ D.O.O. – Koncesija za korištenje
-  vodne snage radi proizvodnje električne energije (TOPUSKO)\, 888 €/god
- .\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B1
- 7224032463848\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9
- . 11. 2026.
+  vodne snage radi proizvodnje električne energije (TOPUSKO) · davatelj: 
+ MINISTARSTVO ZAŠTITE OKOLIŠA I ZELENE TRANZICIJE\, 888 €/god.\n\nProfi
+ l općine: https://koncesijski-sat.vercel.app/#opcina/41942358B17224032463
+ 848\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026
+ .
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B17224032463848
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -138,8 +145,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-1e218ac7998067a3@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-60cdae8eab66eef8@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20450624
 DTEND;VALUE=DATE:20450625
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DRAGOMIR GABRIĆ
@@ -147,9 +154,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DRAGOMIR GABRIĆ
 DESCRIPTION:24. 12. 2045. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• DRAGOMIR GABRIĆ D.O.O. – Koncesija za korištenje vodne snage
-  radi proizvodnje električne energije (TOPUSKO)\, 888 €/god.\n\nProfil 
- općine: https://koncesijski-sat.vercel.app/#opcina/41942358B1722403246384
- 8
+  radi proizvodnje električne energije (TOPUSKO) · davatelj: MINISTARSTVO
+  ZAŠTITE OKOLIŠA I ZELENE TRANZICIJE\, 888 €/god.\n\nProfil općine: h
+ ttps://koncesijski-sat.vercel.app/#opcina/41942358B17224032463848
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B17224032463848
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -160,16 +167,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-3685e97827a176d4@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-c1df994596f3599d@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20451231
 DTEND;VALUE=DATE:20460101
 SUMMARY:Ističe koncesija: TOP-TERME D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 31. 12. 2045.\n\n• TOP-TERME D.O
  .O. – Dozvola za istraživanje geotermalne vode za energetske svrhe (pre
- ma Zakonu o ugljikovodicima) (TOPUSKO)\n\nProfil općine: https://koncesij
- ski-sat.vercel.app/#opcina/41942358B17224032463848\nIzvor: Registar konces
- ija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ ma Zakonu o ugljikovodicima) (TOPUSKO) · davatelj: MINISTARSTVO GOSPODARS
+ TVA\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358
+ B17224032463848\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat
+  9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B17224032463848
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -179,8 +187,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-3685e97827a176d4@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-c1df994596f3599d@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20450630
 DTEND;VALUE=DATE:20450701
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (TOP-TERME D.O.O.
@@ -188,8 +196,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (TOP-TERME D.O.O.
 DESCRIPTION:31. 12. 2045. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• TOP-TERME D.O.O. – Dozvola za istraživanje geotermalne vode z
- a energetske svrhe (prema Zakonu o ugljikovodicima) (TOPUSKO)\n\nProfil op
- ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B17224032463848
+ a energetske svrhe (prema Zakonu o ugljikovodicima) (TOPUSKO) · davatelj:
+  MINISTARSTVO GOSPODARSTVA\n\nProfil općine: https://koncesijski-sat.verc
+ el.app/#opcina/41942358B17224032463848
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B17224032463848
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -200,17 +209,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-32dfacfe409bc6f0@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-55b9e94bff9c62a5@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20491231
 DTEND;VALUE=DATE:20500101
 SUMMARY:Ističe koncesija: TOP-TERME D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 31. 12. 2049. Godišnja fiksna nak
  nada: 188 €.\n\n• TOP-TERME D.O.O. – Dozvola za eksploataciju geoter
- malne vode za energetske svrhe (prema Zakonu o ugljikovodicima) (TOPUSKO)\
- , 188 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opci
- na/41942358B17224032463848\nIzvor: Registar koncesija (FINA)\, obrada Konc
- esijski sat 9. 11. 2026.
+ malne vode za energetske svrhe (prema Zakonu o ugljikovodicima) (TOPUSKO) 
+ · davatelj: MINISTARSTVO GOSPODARSTVA\, 188 €/god.\n\nProfil općine: h
+ ttps://koncesijski-sat.vercel.app/#opcina/41942358B17224032463848\nIzvor: 
+ Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B17224032463848
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -220,8 +229,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-32dfacfe409bc6f0@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-55b9e94bff9c62a5@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20490630
 DTEND;VALUE=DATE:20490701
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (TOP-TERME D.O.O.
@@ -229,9 +238,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (TOP-TERME D.O.O.
 DESCRIPTION:31. 12. 2049. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• TOP-TERME D.O.O. – Dozvola za eksploataciju geotermalne vode z
- a energetske svrhe (prema Zakonu o ugljikovodicima) (TOPUSKO)\, 188 €/go
- d.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B
- 17224032463848
+ a energetske svrhe (prema Zakonu o ugljikovodicima) (TOPUSKO) · davatelj:
+  MINISTARSTVO GOSPODARSTVA\, 188 €/god.\n\nProfil općine: https://konce
+ sijski-sat.vercel.app/#opcina/41942358B17224032463848
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B17224032463848
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -242,17 +251,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-08d565cd0c2bc9ce@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-9932e75b6128fa0c@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20550626
 DTEND;VALUE=DATE:20550627
 SUMMARY:Ističe koncesija: ASPECT CROATIA KFT. - PODRUŽNICA ZAGREB
 DESCRIPTION:1 ugovor o koncesiji ističe 26. 6. 2055. Godišnja fiksna nakn
  ada: 5.968 €.\n\n• ASPECT CROATIA KFT. - PODRUŽNICA ZAGREB – Dozvol
  a za istraživanje ugljikovodika (prema Zakonu o ugljikovodicima) (TOPUSKO
- )\, 5.968 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#
- opcina/41942358B17224032463848\nIzvor: Registar koncesija (FINA)\, obrada 
- Koncesijski sat 9. 11. 2026.
+ ) · davatelj: MINISTARSTVO GOSPODARSTVA\, 5.968 €/god.\n\nProfil općin
+ e: https://koncesijski-sat.vercel.app/#opcina/41942358B17224032463848\nIzv
+ or: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B17224032463848
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -262,8 +271,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-08d565cd0c2bc9ce@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-9932e75b6128fa0c@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20541226
 DTEND;VALUE=DATE:20541227
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ASPECT CROATIA K
@@ -271,9 +280,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ASPECT CROATIA K
 DESCRIPTION:26. 6. 2055. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• ASPECT CROATIA KFT. - PODRUŽNICA ZAGREB – Dozvola za istraživ
- anje ugljikovodika (prema Zakonu o ugljikovodicima) (TOPUSKO)\, 5.968 €/
- god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4194235
- 8B17224032463848
+ anje ugljikovodika (prema Zakonu o ugljikovodicima) (TOPUSKO) · davatelj:
+  MINISTARSTVO GOSPODARSTVA\, 5.968 €/god.\n\nProfil općine: https://kon
+ cesijski-sat.vercel.app/#opcina/41942358B17224032463848
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B17224032463848
 TRANSP:TRANSPARENT
 BEGIN:VALARM

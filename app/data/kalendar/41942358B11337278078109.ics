@@ -4,25 +4,25 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Općina Ferdinandovac
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Ferdinandovac. I
- z Registra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrad
- e podataka. https://koncesijski-sat.vercel.app/#opcina/41942358B1133727807
- 8109
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Općina Ferdinandovac (p
+ regled\, svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvje
+ žava se nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#
+ opcina/41942358B11337278078109
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-28092535cce9b0ae@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-7f7fb6a45b84644b@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:Ističe koncesija: INA\, D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 30. 11. 2026. Godišnja fiksna nak
  nada: 583 €.\n\n• INA\, D.D. – Dozvola za istraživanje ugljikovodik
- a (prema Zakonu o ugljikovodicima) (FERDINANDOVAC)\, 583 €/god.\n\nProfi
- l općine: https://koncesijski-sat.vercel.app/#opcina/41942358B11337278078
- 109\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026
- .
+ a (prema Zakonu o ugljikovodicima) (FERDINANDOVAC) · davatelj: MINISTARST
+ VO GOSPODARSTVA\, 583 €/god.\n\nProfil općine: https://koncesijski-sat.
+ vercel.app/#opcina/41942358B11337278078109\nIzvor: Registar koncesija (FIN
+ A)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B11337278078109
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -32,16 +32,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-68636e60e05057e9@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-47a15ff66c62e5e2@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270630
 DTEND;VALUE=DATE:20270701
 SUMMARY:Ističe koncesija: DIMKO D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 30. 6. 2027. Godišnja fiksna nakn
  ada: 267 €.\n\n• DIMKO D.O.O. – Koncesija za obavljanje dimnjačarsk
- ih poslova (FERDINANDOVAC)\, 267 €/god.\n\nProfil općine: https://konce
- sijski-sat.vercel.app/#opcina/41942358B11337278078109\nIzvor: Registar kon
- cesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ ih poslova (FERDINANDOVAC) · davatelj: OPĆINA FERDINANDOVAC\, 267 €/go
+ d.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B
+ 11337278078109\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 
+ 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B11337278078109
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -51,16 +52,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-68636e60e05057e9@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-47a15ff66c62e5e2@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20261230
 DTEND;VALUE=DATE:20261231
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DIMKO D.O.O.)
 DESCRIPTION:30. 6. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• DIMKO D.O.O. – Koncesija za obavljanje dimnjačarskih poslova (
- FERDINANDOVAC)\, 267 €/god.\n\nProfil općine: https://koncesijski-sat.v
- ercel.app/#opcina/41942358B11337278078109
+ FERDINANDOVAC) · davatelj: OPĆINA FERDINANDOVAC\, 267 €/god.\n\nProfil
+  općine: https://koncesijski-sat.vercel.app/#opcina/41942358B113372780781
+ 09
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B11337278078109
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -71,20 +73,21 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-10469f3bd2ee7e34@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-bfc9d5d3870495ee@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20371231
 DTEND;VALUE=DATE:20380101
 SUMMARY:Ističe 3 koncesije · Ferdinandovac
 DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2037. Godišnja fiksna na
  knada: 3.871 €.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauze
- tu površinu odobrenog eksploatacijskog polja (FERDINANDOVAC)\, 3.871 €/
- god.\n• INA D.D. – Dozvola za eksploataciju ugljikovodika (prema Zakon
- u o ugljikovodicima) (FERDINANDOVAC)\n• INA-INDUSTRIJA NAFTE  D.D. – D
- ozvola za eksploataciju ugljikovodika (prema Zakonu o ugljikovodicima) (FE
- RDINANDOVAC)\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina
- /41942358B11337278078109\nIzvor: Registar koncesija (FINA)\, obrada Konces
- ijski sat 9. 11. 2026.
+ tu površinu odobrenog eksploatacijskog polja (FERDINANDOVAC) · davatelj:
+  MINISTARSTVO GOSPODARSTVA\, 3.871 €/god.\n• INA D.D. – Dozvola za e
+ ksploataciju ugljikovodika (prema Zakonu o ugljikovodicima) (FERDINANDOVAC
+ ) · davatelj: MINISTARSTVO GOSPODARSTVA\n• INA-INDUSTRIJA NAFTE  D.D. 
+ – Dozvola za eksploataciju ugljikovodika (prema Zakonu o ugljikovodicima
+ ) (FERDINANDOVAC) · davatelj: MINISTARSTVO GOSPODARSTVA\n\nProfil općine
+ : https://koncesijski-sat.vercel.app/#opcina/41942358B11337278078109\nIzvo
+ r: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B11337278078109
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -94,31 +97,33 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-10469f3bd2ee7e34@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-bfc9d5d3870495ee@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20370630
 DTEND;VALUE=DATE:20370701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Ferdinandovac
 DESCRIPTION:31. 12. 2037. ističe 3 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauzetu površinu o
- dobrenog eksploatacijskog polja (FERDINANDOVAC)\, 3.871 €/god.\n• INA 
- D.D. – Dozvola za eksploataciju ugljikovodika (prema Zakonu o ugljikovod
- icima) (FERDINANDOVAC)\n• INA-INDUSTRIJA NAFTE  D.D. – Dozvola za eksp
- loataciju ugljikovodika (prema Zakonu o ugljikovodicima) (FERDINANDOVAC)\n
- \nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B1133
- 7278078109
+ dobrenog eksploatacijskog polja (FERDINANDOVAC) · davatelj: MINISTARSTVO 
+ GOSPODARSTVA\, 3.871 €/god.\n• INA D.D. – Dozvola za eksploataciju u
+ gljikovodika (prema Zakonu o ugljikovodicima) (FERDINANDOVAC) · davatelj:
+  MINISTARSTVO GOSPODARSTVA\n• INA-INDUSTRIJA NAFTE  D.D. – Dozvola za 
+ eksploataciju ugljikovodika (prema Zakonu o ugljikovodicima) (FERDINANDOVA
+ C) · davatelj: MINISTARSTVO GOSPODARSTVA\n\nProfil općine: https://konce
+ sijski-sat.vercel.app/#opcina/41942358B11337278078109
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B11337278078109
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Ferdinando
+ vac
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-a2f778fae65d54f8@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-d2bc31e6427b97d7@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20381219
 DTEND;VALUE=DATE:20381220
 SUMMARY:Ističe koncesija: KOMUNALIJE - PLIN D.O.O.
@@ -127,9 +132,10 @@ DESCRIPTION:1 ugovor o koncesiji ističe 19. 12. 2038. Godišnja fiksna nak
  je distribucije plina na postojećem distribucijskom sustavu (FERDINANDOVA
  C\, KALINOVAC\, KALINOVAC\, KLOŠTAR PODRAVSKI\, KLOŠTAR PODRAVSKI\, MOLV
  E\, MOLVE\, NOVO VIRJE\, NOVO VIRJE\, PODRAVSKE SESVETE\, PODRAVSKE SESVET
- E\, VIRJE\, VIRJE\, ĐURĐEVAC\, ĐURĐEVAC)\, 1.327 €/god.\n\nProfil op
- ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B11337278078109\
- nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ E\, VIRJE\, VIRJE\, ĐURĐEVAC\, ĐURĐEVAC) · davatelj: KOPRIVNIČKO-KRI
+ ŽEVAČKA ŽUPANIJA\, 1.327 €/god.\n\nProfil općine: https://koncesijsk
+ i-sat.vercel.app/#opcina/41942358B11337278078109\nIzvor: Registar koncesij
+ a (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B11337278078109
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -139,8 +145,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-a2f778fae65d54f8@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-d2bc31e6427b97d7@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20380619
 DTEND;VALUE=DATE:20380620
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (KOMUNALIJE - PLI
@@ -151,8 +157,9 @@ DESCRIPTION:19. 12. 2038. ističe 1 ugovor o koncesiji. Novi postupak dodje
  e plina na postojećem distribucijskom sustavu (FERDINANDOVAC\, KALINOVAC\
  , KALINOVAC\, KLOŠTAR PODRAVSKI\, KLOŠTAR PODRAVSKI\, MOLVE\, MOLVE\, NO
  VO VIRJE\, NOVO VIRJE\, PODRAVSKE SESVETE\, PODRAVSKE SESVETE\, VIRJE\, VI
- RJE\, ĐURĐEVAC\, ĐURĐEVAC)\, 1.327 €/god.\n\nProfil općine: https:/
- /koncesijski-sat.vercel.app/#opcina/41942358B11337278078109
+ RJE\, ĐURĐEVAC\, ĐURĐEVAC) · davatelj: KOPRIVNIČKO-KRIŽEVAČKA ŽUP
+ ANIJA\, 1.327 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.a
+ pp/#opcina/41942358B11337278078109
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B11337278078109
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -163,20 +170,21 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-b06fccaa3cf08296@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-c50fd1294bebcaa1@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20451231
 DTEND;VALUE=DATE:20460101
 SUMMARY:Ističe 3 koncesije · Ferdinandovac
 DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2045. Godišnja fiksna na
  knada: 3.556 €.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauze
- tu površinu odobrenog eksploatacijskog polja (FERDINANDOVAC)\, 3.556 €/
- god.\n• INA-INDUSTRIJA NAFTE  D.D. – Dozvola za eksploataciju ugljikov
- odika (prema Zakonu o ugljikovodicima) (FERDINANDOVAC)\n• INA D.D. – D
- ozvola za eksploataciju ugljikovodika (prema Zakonu o ugljikovodicima) (FE
- RDINANDOVAC)\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina
- /41942358B11337278078109\nIzvor: Registar koncesija (FINA)\, obrada Konces
- ijski sat 9. 11. 2026.
+ tu površinu odobrenog eksploatacijskog polja (FERDINANDOVAC) · davatelj:
+  MINISTARSTVO GOSPODARSTVA\, 3.556 €/god.\n• INA-INDUSTRIJA NAFTE  D.D
+ . – Dozvola za eksploataciju ugljikovodika (prema Zakonu o ugljikovodici
+ ma) (FERDINANDOVAC) · davatelj: MINISTARSTVO GOSPODARSTVA\n• INA D.D. 
+ – Dozvola za eksploataciju ugljikovodika (prema Zakonu o ugljikovodicima
+ ) (FERDINANDOVAC) · davatelj: MINISTARSTVO GOSPODARSTVA\n\nProfil općine
+ : https://koncesijski-sat.vercel.app/#opcina/41942358B11337278078109\nIzvo
+ r: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B11337278078109
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -186,25 +194,27 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-b06fccaa3cf08296@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-c50fd1294bebcaa1@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20450630
 DTEND;VALUE=DATE:20450701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Ferdinandovac
 DESCRIPTION:31. 12. 2045. ističe 3 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauzetu površinu o
- dobrenog eksploatacijskog polja (FERDINANDOVAC)\, 3.556 €/god.\n• INA-
- INDUSTRIJA NAFTE  D.D. – Dozvola za eksploataciju ugljikovodika (prema Z
- akonu o ugljikovodicima) (FERDINANDOVAC)\n• INA D.D. – Dozvola za eksp
- loataciju ugljikovodika (prema Zakonu o ugljikovodicima) (FERDINANDOVAC)\n
- \nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B1133
- 7278078109
+ dobrenog eksploatacijskog polja (FERDINANDOVAC) · davatelj: MINISTARSTVO 
+ GOSPODARSTVA\, 3.556 €/god.\n• INA-INDUSTRIJA NAFTE  D.D. – Dozvola 
+ za eksploataciju ugljikovodika (prema Zakonu o ugljikovodicima) (FERDINAND
+ OVAC) · davatelj: MINISTARSTVO GOSPODARSTVA\n• INA D.D. – Dozvola za 
+ eksploataciju ugljikovodika (prema Zakonu o ugljikovodicima) (FERDINANDOVA
+ C) · davatelj: MINISTARSTVO GOSPODARSTVA\n\nProfil općine: https://konce
+ sijski-sat.vercel.app/#opcina/41942358B11337278078109
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B11337278078109
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Ferdinando
+ vac
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT

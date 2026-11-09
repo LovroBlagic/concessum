@@ -4,23 +4,25 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Grad Opatija
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Grad Opatija. Iz Registr
- a koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podatak
- a. https://koncesijski-sat.vercel.app/#opcina/41942358B35810574170279
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Grad Opatija (pregled\, 
+ svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježava se 
+ nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#opcina/41
+ 942358B35810574170279
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-0ae626eb5773e547@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-449be9cb42568e4c@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:Ističe koncesija: LIBURNIA RIVIERA HOTELI D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 1. 12. 2026. Godišnja fiksna nakn
  ada: 23.461 €.\n\n• LIBURNIA RIVIERA HOTELI D.D. – Koncesija na pomo
- rskom dobru (OPATIJA)\, 23.461 €/god.\n\nProfil općine: https://koncesi
- jski-sat.vercel.app/#opcina/41942358B35810574170279\nIzvor: Registar konce
- sija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ rskom dobru (OPATIJA) · davatelj: PRIMORSKO GORANSKA ŽUPANIJA\, 23.461 
+ €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
+ 42358B35810574170279\nIzvor: Registar koncesija (FINA)\, obrada Koncesijsk
+ i sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B35810574170279
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -30,14 +32,15 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-5d725f16d3ca2cb1@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-1f1fc297b6ca1998@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270828
 DTEND;VALUE=DATE:20270829
 SUMMARY:Ističe koncesija: OPATIJA 21 D. O. O.
 DESCRIPTION:1 ugovor o koncesiji ističe 28. 8. 2027. Godišnja fiksna nakn
  ada: 43.878 €.\n\n• OPATIJA 21 D. O. O. – Koncesija za obavljanje po
- slova organizacije i naplate parkiranja (OPATIJA)\, 43.878 €/god.\n\nPro
+ slova organizacije i naplate parkiranja (OPATIJA) · davatelj: ŽUPANIJSKA
+  LUČKA UPRAVA OPATIJA-LOVRAN-MOŠČENIČKA DRAGA\, 43.878 €/god.\n\nPro
  fil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B358105741
  70279\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 20
  26.
@@ -50,8 +53,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-5d725f16d3ca2cb1@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-1f1fc297b6ca1998@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270228
 DTEND;VALUE=DATE:20270301
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (OPATIJA 21 D. O.
@@ -59,7 +62,8 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (OPATIJA 21 D. O.
 DESCRIPTION:28. 8. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• OPATIJA 21 D. O. O. – Koncesija za obavljanje poslova organizac
- ije i naplate parkiranja (OPATIJA)\, 43.878 €/god.\n\nProfil općine: ht
+ ije i naplate parkiranja (OPATIJA) · davatelj: ŽUPANIJSKA LUČKA UPRAVA 
+ OPATIJA-LOVRAN-MOŠČENIČKA DRAGA\, 43.878 €/god.\n\nProfil općine: ht
  tps://koncesijski-sat.vercel.app/#opcina/41942358B35810574170279
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B35810574170279
 TRANSP:TRANSPARENT
@@ -71,16 +75,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-c9e37cb4efbd38e6@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-25cfb10e80f08936@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270901
 DTEND;VALUE=DATE:20270902
 SUMMARY:Ističe koncesija: BEVANDA HOTELI D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 1. 9. 2027. Godišnja fiksna nakna
  da: 13.936 €.\n\n• BEVANDA HOTELI D.O.O. – Koncesija na pomorskom do
- bru (OPATIJA)\, 13.936 €/god.\n\nProfil općine: https://koncesijski-sat
- .vercel.app/#opcina/41942358B35810574170279\nIzvor: Registar koncesija (FI
- NA)\, obrada Koncesijski sat 9. 11. 2026.
+ bru (OPATIJA) · davatelj: PRIMORSKO GORANSKA ŽUPANIJA\, 13.936 €/god.\
+ n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B358
+ 10574170279\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 
+ 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B35810574170279
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -90,17 +95,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-c9e37cb4efbd38e6@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-25cfb10e80f08936@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270301
 DTEND;VALUE=DATE:20270302
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BEVANDA HOTELI D
  .O.O.)
 DESCRIPTION:1. 9. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
- \n\n• BEVANDA HOTELI D.O.O. – Koncesija na pomorskom dobru (OPATIJA)\,
-  13.936 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#op
- cina/41942358B35810574170279
+ \n\n• BEVANDA HOTELI D.O.O. – Koncesija na pomorskom dobru (OPATIJA) 
+ · davatelj: PRIMORSKO GORANSKA ŽUPANIJA\, 13.936 €/god.\n\nProfil opć
+ ine: https://koncesijski-sat.vercel.app/#opcina/41942358B35810574170279
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B35810574170279
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -111,13 +116,14 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-9f2c850163cf2750@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-5cf608330b6b03f7@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20280606
 DTEND;VALUE=DATE:20280607
 SUMMARY:Ističe koncesija: PRELUK D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 6. 6. 2028. Godišnja fiksna nakna
- da: 3.978 €.\n\n• PRELUK D.O.O. – Koncesija za luku (OPATIJA)\, 3.97
+ da: 3.978 €.\n\n• PRELUK D.O.O. – Koncesija za luku (OPATIJA) · dav
+ atelj: ŽUPANIJSKA LUČKA UPRAVA OPATIJA-LOVRAN-MOŠČENIČKA DRAGA\, 3.97
  8 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4
  1942358B35810574170279\nIzvor: Registar koncesija (FINA)\, obrada Koncesij
  ski sat 9. 11. 2026.
@@ -130,14 +136,15 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-9f2c850163cf2750@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-5cf608330b6b03f7@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20271206
 DTEND;VALUE=DATE:20271207
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PRELUK D.O.O.)
 DESCRIPTION:6. 6. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
- \n\n• PRELUK D.O.O. – Koncesija za luku (OPATIJA)\, 3.978 €/god.\n\n
+ \n\n• PRELUK D.O.O. – Koncesija za luku (OPATIJA) · davatelj: ŽUPANI
+ JSKA LUČKA UPRAVA OPATIJA-LOVRAN-MOŠČENIČKA DRAGA\, 3.978 €/god.\n\n
  Profil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B358105
  74170279
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B35810574170279
@@ -150,16 +157,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-0c1c654c2b0ad5e3@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-1df25e2fd707cc7d@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20290119
 DTEND;VALUE=DATE:20290120
 SUMMARY:Ističe koncesija: MLD-USLUGE D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 19. 1. 2029. Godišnja fiksna nakn
  ada: 14.340 €.\n\n• MLD-USLUGE D.O.O. – Koncesija za obavljanje dimn
- jačarskih poslova (OPATIJA)\, 14.340 €/god.\n\nProfil općine: https://
- koncesijski-sat.vercel.app/#opcina/41942358B35810574170279\nIzvor: Regista
- r koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ jačarskih poslova (OPATIJA) · davatelj: GRAD OPATIJA\, 14.340 €/god.\n
+ \nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B3581
+ 0574170279\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 1
+ 1. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B35810574170279
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -169,8 +177,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-0c1c654c2b0ad5e3@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-1df25e2fd707cc7d@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20280719
 DTEND;VALUE=DATE:20280720
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MLD-USLUGE D.O.O
@@ -178,8 +186,8 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MLD-USLUGE D.O.O
 DESCRIPTION:19. 1. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• MLD-USLUGE D.O.O. – Koncesija za obavljanje dimnjačarskih posl
- ova (OPATIJA)\, 14.340 €/god.\n\nProfil općine: https://koncesijski-sat
- .vercel.app/#opcina/41942358B35810574170279
+ ova (OPATIJA) · davatelj: GRAD OPATIJA\, 14.340 €/god.\n\nProfil općin
+ e: https://koncesijski-sat.vercel.app/#opcina/41942358B35810574170279
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B35810574170279
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -190,16 +198,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-8328b47e0048d987@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-b212372024f5b5bd@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20290130
 DTEND;VALUE=DATE:20290131
 SUMMARY:Ističe koncesija: LIBURNIA RIVIERA HOTELI D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 30. 1. 2029. Godišnja fiksna nakn
  ada: 13.017 €.\n\n• LIBURNIA RIVIERA HOTELI D.D. – Koncesija na pomo
- rskom dobru (OPATIJA)\, 13.017 €/god.\n\nProfil općine: https://koncesi
- jski-sat.vercel.app/#opcina/41942358B35810574170279\nIzvor: Registar konce
- sija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ rskom dobru (OPATIJA) · davatelj: PRIMORSKO GORANSKA ŽUPANIJA\, 13.017 
+ €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
+ 42358B35810574170279\nIzvor: Registar koncesija (FINA)\, obrada Koncesijsk
+ i sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B35810574170279
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -209,8 +218,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-8328b47e0048d987@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-b212372024f5b5bd@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20280730
 DTEND;VALUE=DATE:20280731
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (LIBURNIA RIVIERA
@@ -218,8 +227,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (LIBURNIA RIVIERA
 DESCRIPTION:30. 1. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• LIBURNIA RIVIERA HOTELI D.D. – Koncesija na pomorskom dobru (OP
- ATIJA)\, 13.017 €/god.\n\nProfil općine: https://koncesijski-sat.vercel
- .app/#opcina/41942358B35810574170279
+ ATIJA) · davatelj: PRIMORSKO GORANSKA ŽUPANIJA\, 13.017 €/god.\n\nProf
+ il općine: https://koncesijski-sat.vercel.app/#opcina/41942358B3581057417
+ 0279
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B35810574170279
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -230,15 +240,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-07e081c77357f2c6@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-56a336218791acff@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20300801
 DTEND;VALUE=DATE:20300802
 SUMMARY:Ističe koncesija: LIBURNIA RIVIERA HOTELI D.D.(ZAJEDNICA PONUDITEL
  JA SA
 DESCRIPTION:1 ugovor o koncesiji ističe 1. 8. 2030. Godišnja fiksna nakna
  da: 4.148 €.\n\n• LIBURNIA RIVIERA HOTELI D.D.(ZAJEDNICA PONUDITELJA S
- A – Koncesija za luku (OPATIJA)\, 4.148 €/god.\n\nProfil općine: http
+ A – Koncesija za luku (OPATIJA) · davatelj: ŽUPANIJSKA LUČKA UPRAVA O
+ PATIJA-LOVRAN-MOŠČENIČKA DRAGA\, 4.148 €/god.\n\nProfil općine: http
  s://koncesijski-sat.vercel.app/#opcina/41942358B35810574170279\nIzvor: Reg
  istar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B35810574170279
@@ -251,8 +262,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-07e081c77357f2c6@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-56a336218791acff@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20300201
 DTEND;VALUE=DATE:20300202
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (LIBURNIA RIVIERA
@@ -260,7 +271,8 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (LIBURNIA RIVIERA
 DESCRIPTION:1. 8. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• LIBURNIA RIVIERA HOTELI D.D.(ZAJEDNICA PONUDITELJA SA – Koncesij
- a za luku (OPATIJA)\, 4.148 €/god.\n\nProfil općine: https://koncesijsk
+ a za luku (OPATIJA) · davatelj: ŽUPANIJSKA LUČKA UPRAVA OPATIJA-LOVRAN-
+ MOŠČENIČKA DRAGA\, 4.148 €/god.\n\nProfil općine: https://koncesijsk
  i-sat.vercel.app/#opcina/41942358B35810574170279
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B35810574170279
 TRANSP:TRANSPARENT
@@ -272,14 +284,15 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-9f4807e8d6169f4b@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-2abaaf67f31af1a9@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20300804
 DTEND;VALUE=DATE:20300805
 SUMMARY:Ističe koncesija: MAC-SPORT\, VL. MAURICIO POČEKAJ
 DESCRIPTION:1 ugovor o koncesiji ističe 4. 8. 2030. Godišnja fiksna nakna
  da: 3.900 €.\n\n• MAC-SPORT\, VL. MAURICIO POČEKAJ – Koncesija za l
- uku (OPATIJA)\, 3.900 €/god.\n\nProfil općine: https://koncesijski-sat.
+ uku (OPATIJA) · davatelj: ŽUPANIJSKA LUČKA UPRAVA OPATIJA-LOVRAN-MOŠČ
+ ENIČKA DRAGA\, 3.900 €/god.\n\nProfil općine: https://koncesijski-sat.
  vercel.app/#opcina/41942358B35810574170279\nIzvor: Registar koncesija (FIN
  A)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B35810574170279
@@ -291,15 +304,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-9f4807e8d6169f4b@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-2abaaf67f31af1a9@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20300204
 DTEND;VALUE=DATE:20300205
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MAC-SPORT\, VL. 
  MAURICIO POČEKAJ)
 DESCRIPTION:4. 8. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
- \n\n• MAC-SPORT\, VL. MAURICIO POČEKAJ – Koncesija za luku (OPATIJA)\
+ \n\n• MAC-SPORT\, VL. MAURICIO POČEKAJ – Koncesija za luku (OPATIJA) 
+ · davatelj: ŽUPANIJSKA LUČKA UPRAVA OPATIJA-LOVRAN-MOŠČENIČKA DRAGA\
  , 3.900 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#op
  cina/41942358B35810574170279
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B35810574170279
@@ -312,16 +326,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-13313aa3b718c352@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-6199be5a98a74beb@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20300807
 DTEND;VALUE=DATE:20300808
 SUMMARY:Ističe koncesija: UGOSTITELJSKI OBRT
 DESCRIPTION:1 ugovor o koncesiji ističe 7. 8. 2030. Godišnja fiksna nakna
- da: 7.000 €.\n\n• UGOSTITELJSKI OBRT – Koncesija za luku (OPATIJA)\,
-  7.000 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opc
- ina/41942358B35810574170279\nIzvor: Registar koncesija (FINA)\, obrada Kon
- cesijski sat 9. 11. 2026.
+ da: 7.000 €.\n\n• UGOSTITELJSKI OBRT – Koncesija za luku (OPATIJA) 
+ · davatelj: ŽUPANIJSKA LUČKA UPRAVA OPATIJA-LOVRAN-MOŠČENIČKA DRAGA\
+ , 7.000 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#op
+ cina/41942358B35810574170279\nIzvor: Registar koncesija (FINA)\, obrada Ko
+ ncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B35810574170279
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -331,15 +346,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-13313aa3b718c352@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-6199be5a98a74beb@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20300207
 DTEND;VALUE=DATE:20300208
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (UGOSTITELJSKI OB
  RT)
 DESCRIPTION:7. 8. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
- \n\n• UGOSTITELJSKI OBRT – Koncesija za luku (OPATIJA)\, 7.000 €/god
+ \n\n• UGOSTITELJSKI OBRT – Koncesija za luku (OPATIJA) · davatelj: Ž
+ UPANIJSKA LUČKA UPRAVA OPATIJA-LOVRAN-MOŠČENIČKA DRAGA\, 7.000 €/god
  .\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B3
  5810574170279
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B35810574170279
@@ -352,14 +368,15 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-9d95db314da2a32f@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-fffb4e74c21b7436@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20301017
 DTEND;VALUE=DATE:20301018
 SUMMARY:Ističe koncesija: IRA SOMBORAC\, SURF\, VL. IRA SOMBORAC
 DESCRIPTION:1 ugovor o koncesiji ističe 17. 10. 2030. Godišnja fiksna nak
  nada: 1.600 €.\n\n• IRA SOMBORAC\, SURF\, VL. IRA SOMBORAC – Koncesi
- ja za luku (OPATIJA)\, 1.600 €/god.\n\nProfil općine: https://koncesijs
+ ja za luku (OPATIJA) · davatelj: ŽUPANIJSKA LUČKA UPRAVA OPATIJA-LOVRAN
+ -MOŠČENIČKA DRAGA\, 1.600 €/god.\n\nProfil općine: https://koncesijs
  ki-sat.vercel.app/#opcina/41942358B35810574170279\nIzvor: Registar koncesi
  ja (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B35810574170279
@@ -371,8 +388,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-9d95db314da2a32f@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-fffb4e74c21b7436@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20300417
 DTEND;VALUE=DATE:20300418
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (IRA SOMBORAC\, S
@@ -380,7 +397,8 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (IRA SOMBORAC\, S
 DESCRIPTION:17. 10. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• IRA SOMBORAC\, SURF\, VL. IRA SOMBORAC – Koncesija za luku (OP
- ATIJA)\, 1.600 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.
+ ATIJA) · davatelj: ŽUPANIJSKA LUČKA UPRAVA OPATIJA-LOVRAN-MOŠČENIČKA
+  DRAGA\, 1.600 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.
  app/#opcina/41942358B35810574170279
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B35810574170279
 TRANSP:TRANSPARENT
@@ -392,13 +410,14 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-d5923147b62d7de3@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-57c7bdb76180c356@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20301020
 DTEND;VALUE=DATE:20301021
 SUMMARY:Ističe koncesija: DILIGENS D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 20. 10. 2030. Godišnja fiksna nak
- nada: 2.500 €.\n\n• DILIGENS D.O.O. – Koncesija za luku (OPATIJA)\, 
+ nada: 2.500 €.\n\n• DILIGENS D.O.O. – Koncesija za luku (OPATIJA) ·
+  davatelj: ŽUPANIJSKA LUČKA UPRAVA OPATIJA-LOVRAN-MOŠČENIČKA DRAGA\, 
  2.500 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opci
  na/41942358B35810574170279\nIzvor: Registar koncesija (FINA)\, obrada Konc
  esijski sat 9. 11. 2026.
@@ -411,14 +430,15 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-d5923147b62d7de3@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-57c7bdb76180c356@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20300420
 DTEND;VALUE=DATE:20300421
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DILIGENS D.O.O.)
 DESCRIPTION:20. 10. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
- a.\n\n• DILIGENS D.O.O. – Koncesija za luku (OPATIJA)\, 2.500 €/god.
+ a.\n\n• DILIGENS D.O.O. – Koncesija za luku (OPATIJA) · davatelj: ŽU
+ PANIJSKA LUČKA UPRAVA OPATIJA-LOVRAN-MOŠČENIČKA DRAGA\, 2.500 €/god.
  \n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B35
  810574170279
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B35810574170279
@@ -431,16 +451,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-2a4c2a894870ca41@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-5b871f096ca8642d@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20301110
 DTEND;VALUE=DATE:20301111
 SUMMARY:Ističe koncesija: ACI D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 10. 11. 2030. Godišnja fiksna nak
  nada: 10.528 €.\n\n• ACI D.D. – Koncesija pomorskog dobra u svrhu go
- spodarskog korištenja luke (OPATIJA)\, 10.528 €/god.\n\nProfil općine:
-  https://koncesijski-sat.vercel.app/#opcina/41942358B35810574170279\nIzvor
- : Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ spodarskog korištenja luke (OPATIJA) · davatelj: MINISTARSTVO MORA\, PRO
+ META I INFRASTRUKTURE\, 10.528 €/god.\n\nProfil općine: https://koncesi
+ jski-sat.vercel.app/#opcina/41942358B35810574170279\nIzvor: Registar konce
+ sija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B35810574170279
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -450,16 +471,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-2a4c2a894870ca41@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-5b871f096ca8642d@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20300510
 DTEND;VALUE=DATE:20300511
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ACI D.D.)
 DESCRIPTION:10. 11. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• ACI D.D. – Koncesija pomorskog dobra u svrhu gospodarskog kori
- štenja luke (OPATIJA)\, 10.528 €/god.\n\nProfil općine: https://konces
- ijski-sat.vercel.app/#opcina/41942358B35810574170279
+ štenja luke (OPATIJA) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTR
+ UKTURE\, 10.528 €/god.\n\nProfil općine: https://koncesijski-sat.vercel
+ .app/#opcina/41942358B35810574170279
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B35810574170279
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -469,16 +491,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-6d9b0e621581cc43@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-4b7bbf45f3b9d9c3@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20310325
 DTEND;VALUE=DATE:20310326
 SUMMARY:Ističe koncesija: SCO 1887 J.D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 25. 3. 2031. Godišnja fiksna nakn
- ada: 3.710 €.\n\n• SCO 1887 J.D.O.O. – Koncesija za luku (OPATIJA)\,
-  3.710 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opc
- ina/41942358B35810574170279\nIzvor: Registar koncesija (FINA)\, obrada Kon
- cesijski sat 9. 11. 2026.
+ ada: 3.710 €.\n\n• SCO 1887 J.D.O.O. – Koncesija za luku (OPATIJA) 
+ · davatelj: ŽUPANIJSKA LUČKA UPRAVA OPATIJA-LOVRAN-MOŠČENIČKA DRAGA\
+ , 3.710 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#op
+ cina/41942358B35810574170279\nIzvor: Registar koncesija (FINA)\, obrada Ko
+ ncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B35810574170279
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -488,15 +511,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-6d9b0e621581cc43@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-4b7bbf45f3b9d9c3@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20300925
 DTEND;VALUE=DATE:20300926
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (SCO 1887 J.D.O.O
  .)
 DESCRIPTION:25. 3. 2031. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
- .\n\n• SCO 1887 J.D.O.O. – Koncesija za luku (OPATIJA)\, 3.710 €/god
+ .\n\n• SCO 1887 J.D.O.O. – Koncesija za luku (OPATIJA) · davatelj: Ž
+ UPANIJSKA LUČKA UPRAVA OPATIJA-LOVRAN-MOŠČENIČKA DRAGA\, 3.710 €/god
  .\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B3
  5810574170279
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B35810574170279
@@ -509,16 +533,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-93d62bee9031d3c0@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-825c4e3648d56fcc@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20320425
 DTEND;VALUE=DATE:20320426
 SUMMARY:Ističe koncesija: MAROTTI WINDSURFING D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 25. 4. 2032. Godišnja fiksna nakn
  ada: 2.055 €.\n\n• MAROTTI WINDSURFING D.O.O. – Koncesija na pomorsk
- om dobru (OPATIJA)\, 2.055 €/god.\n\nProfil općine: https://koncesijski
- -sat.vercel.app/#opcina/41942358B35810574170279\nIzvor: Registar koncesija
-  (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ om dobru (OPATIJA) · davatelj: PRIMORSKO GORANSKA ŽUPANIJA\, 2.055 €/g
+ od.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358
+ B35810574170279\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat
+  9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B35810574170279
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -528,8 +553,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-93d62bee9031d3c0@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-825c4e3648d56fcc@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20311025
 DTEND;VALUE=DATE:20311026
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MAROTTI WINDSURF
@@ -537,8 +562,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MAROTTI WINDSURF
 DESCRIPTION:25. 4. 2032. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• MAROTTI WINDSURFING D.O.O. – Koncesija na pomorskom dobru (OPAT
- IJA)\, 2.055 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.ap
- p/#opcina/41942358B35810574170279
+ IJA) · davatelj: PRIMORSKO GORANSKA ŽUPANIJA\, 2.055 €/god.\n\nProfil 
+ općine: https://koncesijski-sat.vercel.app/#opcina/41942358B3581057417027
+ 9
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B35810574170279
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -549,16 +575,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-81f739fba14d2d72@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-069e409d2d6c9f75@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20331001
 DTEND;VALUE=DATE:20331002
 SUMMARY:Ističe koncesija: MAREVISTA 9 D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 1. 10. 2033. Godišnja fiksna nakn
  ada: 3.351 €.\n\n• MAREVISTA 9 D.O.O. – Koncesija na pomorskom dobru
-  (OPATIJA)\, 3.351 €/god.\n\nProfil općine: https://koncesijski-sat.ver
- cel.app/#opcina/41942358B35810574170279\nIzvor: Registar koncesija (FINA)\
- , obrada Koncesijski sat 9. 11. 2026.
+  (OPATIJA) · davatelj: PRIMORSKO GORANSKA ŽUPANIJA\, 3.351 €/god.\n\nP
+ rofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B3581057
+ 4170279\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 
+ 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B35810574170279
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -568,17 +595,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-81f739fba14d2d72@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-069e409d2d6c9f75@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20330401
 DTEND;VALUE=DATE:20330402
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MAREVISTA 9 D.O.
  O.)
 DESCRIPTION:1. 10. 2033. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
- .\n\n• MAREVISTA 9 D.O.O. – Koncesija na pomorskom dobru (OPATIJA)\, 3
- .351 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcin
- a/41942358B35810574170279
+ .\n\n• MAREVISTA 9 D.O.O. – Koncesija na pomorskom dobru (OPATIJA) · 
+ davatelj: PRIMORSKO GORANSKA ŽUPANIJA\, 3.351 €/god.\n\nProfil općine:
+  https://koncesijski-sat.vercel.app/#opcina/41942358B35810574170279
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B35810574170279
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -589,18 +616,19 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-ffb731f1f3fee194@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-f77816abf6f4f360@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20331211
 DTEND;VALUE=DATE:20331212
 SUMMARY:Ističe 2 koncesije · Opatija
 DESCRIPTION:2 ugovora o koncesiji ističe 11. 12. 2033. Godišnja fiksna na
  knada: 46.452 €.\n\n• DOMINO OPATIJA D.O.O. – Koncesija pomorskog do
- bra u svrhu izgradnje i gospodarskog korištenja (OPATIJA)\, 23.226 €/go
- d.\n• DOMINO OPATIJA D.O.O. – Koncesija na pomorskom dobru (OPATIJA)\,
-  23.226 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#op
- cina/41942358B35810574170279\nIzvor: Registar koncesija (FINA)\, obrada Ko
- ncesijski sat 9. 11. 2026.
+ bra u svrhu izgradnje i gospodarskog korištenja (OPATIJA) · davatelj: PR
+ IMORSKO GORANSKA ŽUPANIJA\, 23.226 €/god.\n• DOMINO OPATIJA D.O.O. 
+ – Koncesija na pomorskom dobru (OPATIJA) · davatelj: PRIMORSKO GORANSKA
+  ŽUPANIJA\, 23.226 €/god.\n\nProfil općine: https://koncesijski-sat.ve
+ rcel.app/#opcina/41942358B35810574170279\nIzvor: Registar koncesija (FINA)
+ \, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B35810574170279
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -610,37 +638,39 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-ffb731f1f3fee194@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-f77816abf6f4f360@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20330611
 DTEND;VALUE=DATE:20330612
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Opatija
 DESCRIPTION:11. 12. 2033. ističe 2 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• DOMINO OPATIJA D.O.O. – Koncesija pomorskog dobra u svrhu izg
- radnje i gospodarskog korištenja (OPATIJA)\, 23.226 €/god.\n• DOMINO 
- OPATIJA D.O.O. – Koncesija na pomorskom dobru (OPATIJA)\, 23.226 €/god
- .\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B3
- 5810574170279
+ radnje i gospodarskog korištenja (OPATIJA) · davatelj: PRIMORSKO GORANSK
+ A ŽUPANIJA\, 23.226 €/god.\n• DOMINO OPATIJA D.O.O. – Koncesija na 
+ pomorskom dobru (OPATIJA) · davatelj: PRIMORSKO GORANSKA ŽUPANIJA\, 23.2
+ 26 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/
+ 41942358B35810574170279
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B35810574170279
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Opatija
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-f3788678be6f7a68@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-8cff8ee7c8957262@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20340707
 DTEND;VALUE=DATE:20340708
 SUMMARY:Ističe koncesija: BEVANDA LIDO D.O.O. (KVARNER LIDO D.O.O.)
 DESCRIPTION:1 ugovor o koncesiji ističe 7. 7. 2034. Godišnja fiksna nakna
  da: 20.415 €.\n\n• BEVANDA LIDO D.O.O. (KVARNER LIDO D.O.O.) – Konce
- sija na pomorskom dobru (OPATIJA)\, 20.415 €/god.\n\nProfil općine: htt
- ps://koncesijski-sat.vercel.app/#opcina/41942358B35810574170279\nIzvor: Re
- gistar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ sija na pomorskom dobru (OPATIJA) · davatelj: PRIMORSKO GORANSKA ŽUPANIJ
+ A\, 20.415 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/
+ #opcina/41942358B35810574170279\nIzvor: Registar koncesija (FINA)\, obrada
+  Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B35810574170279
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -650,8 +680,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-f3788678be6f7a68@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-8cff8ee7c8957262@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20340107
 DTEND;VALUE=DATE:20340108
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BEVANDA LIDO D.O
@@ -659,8 +689,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BEVANDA LIDO D.O
 DESCRIPTION:7. 7. 2034. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• BEVANDA LIDO D.O.O. (KVARNER LIDO D.O.O.) – Koncesija na pomorsk
- om dobru (OPATIJA)\, 20.415 €/god.\n\nProfil općine: https://koncesijsk
- i-sat.vercel.app/#opcina/41942358B35810574170279
+ om dobru (OPATIJA) · davatelj: PRIMORSKO GORANSKA ŽUPANIJA\, 20.415 €/
+ god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4194235
+ 8B35810574170279
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B35810574170279
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -671,14 +702,15 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-90b2067c60e76ca4@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-29283da7cd98d01d@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20341027
 DTEND;VALUE=DATE:20341028
 SUMMARY:Ističe koncesija: INA\, D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 27. 10. 2034. Godišnja fiksna nak
  nada: 2.015 €.\n\n• INA\, D.D. – Koncesija pomorskog dobra u svrhu g
- ospodarskog korištenja luke (OPATIJA)\, 2.015 €/god.\n\nProfil općine:
+ ospodarskog korištenja luke (OPATIJA) · davatelj: ŽUPANIJSKA LUČKA UPR
+ AVA OPATIJA-LOVRAN-MOŠČENIČKA DRAGA\, 2.015 €/god.\n\nProfil općine:
   https://koncesijski-sat.vercel.app/#opcina/41942358B35810574170279\nIzvor
  : Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B35810574170279
@@ -690,15 +722,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-90b2067c60e76ca4@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-29283da7cd98d01d@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20340427
 DTEND;VALUE=DATE:20340428
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA\, D.D.)
 DESCRIPTION:27. 10. 2034. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• INA\, D.D. – Koncesija pomorskog dobra u svrhu gospodarskog ko
- rištenja luke (OPATIJA)\, 2.015 €/god.\n\nProfil općine: https://konce
+ rištenja luke (OPATIJA) · davatelj: ŽUPANIJSKA LUČKA UPRAVA OPATIJA-LO
+ VRAN-MOŠČENIČKA DRAGA\, 2.015 €/god.\n\nProfil općine: https://konce
  sijski-sat.vercel.app/#opcina/41942358B35810574170279
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B35810574170279
 TRANSP:TRANSPARENT
@@ -709,17 +742,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-8caf2c4705900230@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-f3aa1f55758ebb31@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20350901
 DTEND;VALUE=DATE:20350902
 SUMMARY:Ističe koncesija: MILENIJ HOTELI D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 1. 9. 2035. Godišnja fiksna nakna
  da: 14.396 €.\n\n• MILENIJ HOTELI D.O.O. – Koncesija djelatnosti pre
  mještanja i uklanjanja nepropisno parkiranih i napuštenih vozila (OPATIJ
- A)\, 14.396 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app
- /#opcina/41942358B35810574170279\nIzvor: Registar koncesija (FINA)\, obrad
- a Koncesijski sat 9. 11. 2026.
+ A) · davatelj: PRIMORSKO GORANSKA ŽUPANIJA\, 14.396 €/god.\n\nProfil o
+ pćine: https://koncesijski-sat.vercel.app/#opcina/41942358B35810574170279
+ \nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B35810574170279
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -729,8 +762,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-8caf2c4705900230@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-f3aa1f55758ebb31@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20350301
 DTEND;VALUE=DATE:20350302
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MILENIJ HOTELI D
@@ -738,9 +771,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MILENIJ HOTELI D
 DESCRIPTION:1. 9. 2035. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• MILENIJ HOTELI D.O.O. – Koncesija djelatnosti premještanja i uk
- lanjanja nepropisno parkiranih i napuštenih vozila (OPATIJA)\, 14.396 €
- /god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419423
- 58B35810574170279
+ lanjanja nepropisno parkiranih i napuštenih vozila (OPATIJA) · davatelj:
+  PRIMORSKO GORANSKA ŽUPANIJA\, 14.396 €/god.\n\nProfil općine: https:/
+ /koncesijski-sat.vercel.app/#opcina/41942358B35810574170279
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B35810574170279
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -751,16 +784,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-4d450f07bd459800@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-606bcd3544f20c38@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20360402
 DTEND;VALUE=DATE:20360403
 SUMMARY:Ističe koncesija: B. N. L. D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 2. 4. 2036. Godišnja fiksna nakna
  da: 9.472 €.\n\n• B. N. L. D.O.O. – Koncesija na pomorskom dobru (OP
- ATIJA)\, 9.472 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.
- app/#opcina/41942358B35810574170279\nIzvor: Registar koncesija (FINA)\, ob
- rada Koncesijski sat 9. 11. 2026.
+ ATIJA) · davatelj: PRIMORSKO GORANSKA ŽUPANIJA\, 9.472 €/god.\n\nProfi
+ l općine: https://koncesijski-sat.vercel.app/#opcina/41942358B35810574170
+ 279\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026
+ .
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B35810574170279
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -770,16 +804,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-4d450f07bd459800@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-606bcd3544f20c38@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20351002
 DTEND;VALUE=DATE:20351003
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (B. N. L. D.O.O.)
 DESCRIPTION:2. 4. 2036. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
- \n\n• B. N. L. D.O.O. – Koncesija na pomorskom dobru (OPATIJA)\, 9.472
-  €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41
- 942358B35810574170279
+ \n\n• B. N. L. D.O.O. – Koncesija na pomorskom dobru (OPATIJA) · dava
+ telj: PRIMORSKO GORANSKA ŽUPANIJA\, 9.472 €/god.\n\nProfil općine: htt
+ ps://koncesijski-sat.vercel.app/#opcina/41942358B35810574170279
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B35810574170279
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -790,16 +824,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-1392ec0d08f81077@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-59e8c78130580aa4@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20361102
 DTEND;VALUE=DATE:20361103
 SUMMARY:Ističe koncesija: HOTEL RESTORAN
 DESCRIPTION:1 ugovor o koncesiji ističe 2. 11. 2036. Godišnja fiksna nakn
  ada: 9.539 €.\n\n• HOTEL RESTORAN – Koncesija na pomorskom dobru (OP
- ATIJA)\, 9.539 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.
- app/#opcina/41942358B35810574170279\nIzvor: Registar koncesija (FINA)\, ob
- rada Koncesijski sat 9. 11. 2026.
+ ATIJA) · davatelj: PRIMORSKO GORANSKA ŽUPANIJA\, 9.539 €/god.\n\nProfi
+ l općine: https://koncesijski-sat.vercel.app/#opcina/41942358B35810574170
+ 279\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026
+ .
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B35810574170279
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -809,16 +844,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-1392ec0d08f81077@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-59e8c78130580aa4@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20360502
 DTEND;VALUE=DATE:20360503
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HOTEL RESTORAN)
 DESCRIPTION:2. 11. 2036. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
- .\n\n• HOTEL RESTORAN – Koncesija na pomorskom dobru (OPATIJA)\, 9.539
-  €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41
- 942358B35810574170279
+ .\n\n• HOTEL RESTORAN – Koncesija na pomorskom dobru (OPATIJA) · dava
+ telj: PRIMORSKO GORANSKA ŽUPANIJA\, 9.539 €/god.\n\nProfil općine: htt
+ ps://koncesijski-sat.vercel.app/#opcina/41942358B35810574170279
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B35810574170279
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -829,15 +864,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-c63f18633fce84d5@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-c49ccc215b35e487@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20361231
 DTEND;VALUE=DATE:20370101
 SUMMARY:Ističe koncesija: ALBA MARIS ADRIATIC D. O. O. (ZAJEDNICA PONUDITE
  LJA SA VENDO D.O.O. OIB 79660866620)
 DESCRIPTION:1 ugovor o koncesiji ističe 31. 12. 2036. Godišnja fiksna nak
  nada: 25.485 €.\n\n• ALBA MARIS ADRIATIC D. O. O. (ZAJEDNICA PONUDITEL
- JA SA VENDO D.O.O. OIB 79660866620) – Koncesija za luku (OPATIJA)\, 25.4
+ JA SA VENDO D.O.O. OIB 79660866620) – Koncesija za luku (OPATIJA) · dav
+ atelj: ŽUPANIJSKA LUČKA UPRAVA OPATIJA-LOVRAN-MOŠČENIČKA DRAGA\, 25.4
  85 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/
  41942358B35810574170279\nIzvor: Registar koncesija (FINA)\, obrada Koncesi
  jski sat 9. 11. 2026.
@@ -851,8 +887,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-c63f18633fce84d5@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-c49ccc215b35e487@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20360630
 DTEND;VALUE=DATE:20360701
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ALBA MARIS ADRIA
@@ -860,7 +896,8 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ALBA MARIS ADRIA
 DESCRIPTION:31. 12. 2036. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• ALBA MARIS ADRIATIC D. O. O. (ZAJEDNICA PONUDITELJA SA VENDO D.O
- .O. OIB 79660866620) – Koncesija za luku (OPATIJA)\, 25.485 €/god.\n\n
+ .O. OIB 79660866620) – Koncesija za luku (OPATIJA) · davatelj: ŽUPANIJ
+ SKA LUČKA UPRAVA OPATIJA-LOVRAN-MOŠČENIČKA DRAGA\, 25.485 €/god.\n\n
  Profil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B358105
  74170279
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B35810574170279
@@ -873,16 +910,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-5ddaac081c3ac9da@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-1da2106921f46927@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20370316
 DTEND;VALUE=DATE:20370317
 SUMMARY:Ističe koncesija: HOTEL MIRAMAR PLAŽA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 16. 3. 2037. Godišnja fiksna nakn
  ada: 27.922 €.\n\n• HOTEL MIRAMAR PLAŽA D.O.O. – Koncesija na pomor
- skom dobru (OPATIJA)\, 27.922 €/god.\n\nProfil općine: https://koncesij
- ski-sat.vercel.app/#opcina/41942358B35810574170279\nIzvor: Registar konces
- ija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ skom dobru (OPATIJA) · davatelj: PRIMORSKO GORANSKA ŽUPANIJA\, 27.922 
+ €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
+ 42358B35810574170279\nIzvor: Registar koncesija (FINA)\, obrada Koncesijsk
+ i sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B35810574170279
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -892,8 +930,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-5ddaac081c3ac9da@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-1da2106921f46927@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20360916
 DTEND;VALUE=DATE:20360917
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HOTEL MIRAMAR PL
@@ -901,8 +939,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HOTEL MIRAMAR PL
 DESCRIPTION:16. 3. 2037. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• HOTEL MIRAMAR PLAŽA D.O.O. – Koncesija na pomorskom dobru (OPA
- TIJA)\, 27.922 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.
- app/#opcina/41942358B35810574170279
+ TIJA) · davatelj: PRIMORSKO GORANSKA ŽUPANIJA\, 27.922 €/god.\n\nProfi
+ l općine: https://koncesijski-sat.vercel.app/#opcina/41942358B35810574170
+ 279
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B35810574170279
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -913,16 +952,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-034e4fdbd41e3a5d@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-786796ac2cdcd8a5@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20380919
 DTEND;VALUE=DATE:20380920
 SUMMARY:Ističe koncesija: LIBURNIA RIVIERA HOTELI D.D. PODRAČUN
 DESCRIPTION:1 ugovor o koncesiji ističe 19. 9. 2038. Godišnja fiksna nakn
  ada: 10.577 €.\n\n• LIBURNIA RIVIERA HOTELI D.D. PODRAČUN – Koncesi
- ja na pomorskom dobru (OPATIJA)\, 10.577 €/god.\n\nProfil općine: https
- ://koncesijski-sat.vercel.app/#opcina/41942358B35810574170279\nIzvor: Regi
- star koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ ja na pomorskom dobru (OPATIJA) · davatelj: PRIMORSKO GORANSKA ŽUPANIJA\
+ , 10.577 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#o
+ pcina/41942358B35810574170279\nIzvor: Registar koncesija (FINA)\, obrada K
+ oncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B35810574170279
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -932,8 +972,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-034e4fdbd41e3a5d@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-786796ac2cdcd8a5@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20380319
 DTEND;VALUE=DATE:20380320
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (LIBURNIA RIVIERA
@@ -941,8 +981,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (LIBURNIA RIVIERA
 DESCRIPTION:19. 9. 2038. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• LIBURNIA RIVIERA HOTELI D.D. PODRAČUN – Koncesija na pomorskom
-  dobru (OPATIJA)\, 10.577 €/god.\n\nProfil općine: https://koncesijski-
- sat.vercel.app/#opcina/41942358B35810574170279
+  dobru (OPATIJA) · davatelj: PRIMORSKO GORANSKA ŽUPANIJA\, 10.577 €/go
+ d.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B
+ 35810574170279
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B35810574170279
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -953,16 +994,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-b545eba6ff898e3f@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-59b6d730eee64b42@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20390223
 DTEND;VALUE=DATE:20390224
 SUMMARY:Ističe koncesija: LIBURNIJSKE VODE D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 23. 2. 2039. Godišnja fiksna nakn
  ada: 382 €.\n\n• LIBURNIJSKE VODE D.O.O. – Koncesija na pomorskom do
- bru (OPATIJA)\, 382 €/god.\n\nProfil općine: https://koncesijski-sat.ve
- rcel.app/#opcina/41942358B35810574170279\nIzvor: Registar koncesija (FINA)
- \, obrada Koncesijski sat 9. 11. 2026.
+ bru (OPATIJA) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\, 
+ 382 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina
+ /41942358B35810574170279\nIzvor: Registar koncesija (FINA)\, obrada Konces
+ ijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B35810574170279
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -972,8 +1014,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-b545eba6ff898e3f@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-59b6d730eee64b42@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20380823
 DTEND;VALUE=DATE:20380824
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (LIBURNIJSKE VODE
@@ -981,8 +1023,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (LIBURNIJSKE VODE
 DESCRIPTION:23. 2. 2039. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• LIBURNIJSKE VODE D.O.O. – Koncesija na pomorskom dobru (OPATIJA
- )\, 382 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#op
- cina/41942358B35810574170279
+ ) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\, 382 €/god.
+ \n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B35
+ 810574170279
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B35810574170279
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -993,16 +1036,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-825817fe0586c88a@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-fe297e0008ae6127@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20390420
 DTEND;VALUE=DATE:20390421
 SUMMARY:Ističe koncesija: PROJEKT PRELUK D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 20. 4. 2039. Godišnja fiksna nakn
  ada: 16.723 €.\n\n• PROJEKT PRELUK D.O.O. – Koncesija na pomorskom d
- obru (OPATIJA)\, 16.723 €/god.\n\nProfil općine: https://koncesijski-sa
- t.vercel.app/#opcina/41942358B35810574170279\nIzvor: Registar koncesija (F
- INA)\, obrada Koncesijski sat 9. 11. 2026.
+ obru (OPATIJA) · davatelj: PRIMORSKO GORANSKA ŽUPANIJA\, 16.723 €/god.
+ \n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B35
+ 810574170279\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9.
+  11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B35810574170279
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1012,17 +1056,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-825817fe0586c88a@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-fe297e0008ae6127@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20381020
 DTEND;VALUE=DATE:20381021
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PROJEKT PRELUK D
  .O.O.)
 DESCRIPTION:20. 4. 2039. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
- .\n\n• PROJEKT PRELUK D.O.O. – Koncesija na pomorskom dobru (OPATIJA)\
- , 16.723 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#o
- pcina/41942358B35810574170279
+ .\n\n• PROJEKT PRELUK D.O.O. – Koncesija na pomorskom dobru (OPATIJA) 
+ · davatelj: PRIMORSKO GORANSKA ŽUPANIJA\, 16.723 €/god.\n\nProfil opć
+ ine: https://koncesijski-sat.vercel.app/#opcina/41942358B35810574170279
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B35810574170279
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1033,14 +1077,15 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-959ec2175bcce011@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-7bfee1280b792da5@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20410614
 DTEND;VALUE=DATE:20410615
 SUMMARY:Ističe koncesija: YACHT CLUB ZERT D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 14. 6. 2041. Godišnja fiksna nakn
  ada: 743 €.\n\n• YACHT CLUB ZERT D.O.O. – Koncesija pomorskog dobra 
- u svrhu izgradnje i gospodarskog korištenja (OPATIJA)\, 743 €/god.\n\nP
+ u svrhu izgradnje i gospodarskog korištenja (OPATIJA) · davatelj: ŽUPAN
+ IJSKA LUČKA UPRAVA OPATIJA-LOVRAN-MOŠČENIČKA DRAGA\, 743 €/god.\n\nP
  rofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B3581057
  4170279\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 
  2026.
@@ -1053,8 +1098,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-959ec2175bcce011@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-7bfee1280b792da5@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20401214
 DTEND;VALUE=DATE:20401215
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (YACHT CLUB ZERT 
@@ -1062,7 +1107,8 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (YACHT CLUB ZERT
 DESCRIPTION:14. 6. 2041. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• YACHT CLUB ZERT D.O.O. – Koncesija pomorskog dobra u svrhu izgr
- adnje i gospodarskog korištenja (OPATIJA)\, 743 €/god.\n\nProfil općin
+ adnje i gospodarskog korištenja (OPATIJA) · davatelj: ŽUPANIJSKA LUČKA
+  UPRAVA OPATIJA-LOVRAN-MOŠČENIČKA DRAGA\, 743 €/god.\n\nProfil općin
  e: https://koncesijski-sat.vercel.app/#opcina/41942358B35810574170279
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B35810574170279
 TRANSP:TRANSPARENT
@@ -1074,17 +1120,18 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-99aefcfba1b97b3b@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-cb34f718ba5927a1@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20410901
 DTEND;VALUE=DATE:20410902
 SUMMARY:Ističe koncesija: LIBURNIA RIVIERA HOTELI D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 1. 9. 2041. Godišnja fiksna nakna
  da: 55.651 €.\n\n• LIBURNIA RIVIERA HOTELI D.D. – Koncesija pomorsko
  g dobra u svrhu izgradnje i gospodarskog korištenja luke posebne namjene 
- (OPATIJA)\, 55.651 €/god.\n\nProfil općine: https://koncesijski-sat.ver
- cel.app/#opcina/41942358B35810574170279\nIzvor: Registar koncesija (FINA)\
- , obrada Koncesijski sat 9. 11. 2026.
+ (OPATIJA) · davatelj: PRIMORSKO GORANSKA ŽUPANIJA\, 55.651 €/god.\n\nP
+ rofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B3581057
+ 4170279\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 
+ 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B35810574170279
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1094,8 +1141,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-99aefcfba1b97b3b@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-cb34f718ba5927a1@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20410301
 DTEND;VALUE=DATE:20410302
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (LIBURNIA RIVIERA
@@ -1103,9 +1150,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (LIBURNIA RIVIERA
 DESCRIPTION:1. 9. 2041. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• LIBURNIA RIVIERA HOTELI D.D. – Koncesija pomorskog dobra u svrhu
-  izgradnje i gospodarskog korištenja luke posebne namjene (OPATIJA)\, 55.
- 651 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina
- /41942358B35810574170279
+  izgradnje i gospodarskog korištenja luke posebne namjene (OPATIJA) · da
+ vatelj: PRIMORSKO GORANSKA ŽUPANIJA\, 55.651 €/god.\n\nProfil općine: 
+ https://koncesijski-sat.vercel.app/#opcina/41942358B35810574170279
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B35810574170279
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1116,8 +1163,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-2c10d65ff567ace8@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-a7dac086f5729e47@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20410927
 DTEND;VALUE=DATE:20410928
 SUMMARY:Ističe koncesija: ZAJEDNICA PONUDITELJA KOJU ČINE JEDRILIČARSKI 
@@ -1125,9 +1172,9 @@ SUMMARY:Ističe koncesija: ZAJEDNICA PONUDITELJA KOJU ČINE JEDRILIČARSKI
 DESCRIPTION:1 ugovor o koncesiji ističe 27. 9. 2041. Godišnja fiksna nakn
  ada: 19.854 €.\n\n• ZAJEDNICA PONUDITELJA KOJU ČINE JEDRILIČARSKI KL
  UB OPATIJA I YACHT CLUB ZERT D.O.O. – Koncesija na pomorskom dobru (OPAT
- IJA)\, 19.854 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.a
- pp/#opcina/41942358B35810574170279\nIzvor: Registar koncesija (FINA)\, obr
- ada Koncesijski sat 9. 11. 2026.
+ IJA) · davatelj: PRIMORSKO GORANSKA ŽUPANIJA\, 19.854 €/god.\n\nProfil
+  općine: https://koncesijski-sat.vercel.app/#opcina/41942358B358105741702
+ 79\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B35810574170279
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1138,8 +1185,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-2c10d65ff567ace8@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-a7dac086f5729e47@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20410327
 DTEND;VALUE=DATE:20410328
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ZAJEDNICA PONUDI
@@ -1147,9 +1194,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ZAJEDNICA PONUDI
 DESCRIPTION:27. 9. 2041. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• ZAJEDNICA PONUDITELJA KOJU ČINE JEDRILIČARSKI KLUB OPATIJA I YA
- CHT CLUB ZERT D.O.O. – Koncesija na pomorskom dobru (OPATIJA)\, 19.854 
- €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
- 42358B35810574170279
+ CHT CLUB ZERT D.O.O. – Koncesija na pomorskom dobru (OPATIJA) · davatel
+ j: PRIMORSKO GORANSKA ŽUPANIJA\, 19.854 €/god.\n\nProfil općine: https
+ ://koncesijski-sat.vercel.app/#opcina/41942358B35810574170279
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B35810574170279
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1160,14 +1207,15 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-d1ae466f949d3a13@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-bd1fc264fb313403@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20420412
 DTEND;VALUE=DATE:20420413
 SUMMARY:Ističe koncesija: BEVANDA BAR D. O. O.
 DESCRIPTION:1 ugovor o koncesiji ističe 12. 4. 2042. Godišnja fiksna nakn
  ada: 6.431 €.\n\n• BEVANDA BAR D. O. O. – Koncesija pomorskog dobra 
- u svrhu gospodarskog korištenja luke (OPATIJA)\, 6.431 €/god.\n\nProfil
+ u svrhu gospodarskog korištenja luke (OPATIJA) · davatelj: ŽUPANIJSKA L
+ UČKA UPRAVA OPATIJA-LOVRAN-MOŠČENIČKA DRAGA\, 6.431 €/god.\n\nProfil
   općine: https://koncesijski-sat.vercel.app/#opcina/41942358B358105741702
  79\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B35810574170279
@@ -1179,8 +1227,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-d1ae466f949d3a13@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-bd1fc264fb313403@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20411012
 DTEND;VALUE=DATE:20411013
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BEVANDA BAR D. O
@@ -1188,7 +1236,8 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BEVANDA BAR D. O
 DESCRIPTION:12. 4. 2042. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• BEVANDA BAR D. O. O. – Koncesija pomorskog dobra u svrhu gospod
- arskog korištenja luke (OPATIJA)\, 6.431 €/god.\n\nProfil općine: http
+ arskog korištenja luke (OPATIJA) · davatelj: ŽUPANIJSKA LUČKA UPRAVA O
+ PATIJA-LOVRAN-MOŠČENIČKA DRAGA\, 6.431 €/god.\n\nProfil općine: http
  s://koncesijski-sat.vercel.app/#opcina/41942358B35810574170279
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B35810574170279
 TRANSP:TRANSPARENT
@@ -1200,14 +1249,15 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-4863df889214211f@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-ab03ef1515a19d44@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20420711
 DTEND;VALUE=DATE:20420712
 SUMMARY:Ističe koncesija: VILLA KAPETANOVIĆ D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 11. 7. 2042. Godišnja fiksna nakn
  ada: 2.341 €.\n\n• VILLA KAPETANOVIĆ D.O.O. – Koncesija za luku (OP
- ATIJA)\, 2.341 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.
+ ATIJA) · davatelj: ŽUPANIJSKA LUČKA UPRAVA OPATIJA-LOVRAN-MOŠČENIČKA
+  DRAGA\, 2.341 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.
  app/#opcina/41942358B35810574170279\nIzvor: Registar koncesija (FINA)\, ob
  rada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B35810574170279
@@ -1219,15 +1269,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-4863df889214211f@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-ab03ef1515a19d44@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20420111
 DTEND;VALUE=DATE:20420112
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VILLA KAPETANOVI
  Ć D.O.O.)
 DESCRIPTION:11. 7. 2042. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
- .\n\n• VILLA KAPETANOVIĆ D.O.O. – Koncesija za luku (OPATIJA)\, 2.341
+ .\n\n• VILLA KAPETANOVIĆ D.O.O. – Koncesija za luku (OPATIJA) · dava
+ telj: ŽUPANIJSKA LUČKA UPRAVA OPATIJA-LOVRAN-MOŠČENIČKA DRAGA\, 2.341
   €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41
  942358B35810574170279
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B35810574170279
@@ -1240,16 +1291,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-d17ecd1b663197f4@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-1e0f61943332b849@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20451124
 DTEND;VALUE=DATE:20451125
 SUMMARY:Ističe koncesija: RIVA'S HOTELS & RESORTS D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 24. 11. 2045. Godišnja fiksna nak
  nada: 1.000 €.\n\n• RIVA'S HOTELS & RESORTS D.O.O. – Koncesija na po
- morskom dobru (OPATIJA)\, 1.000 €/god.\n\nProfil općine: https://konces
- ijski-sat.vercel.app/#opcina/41942358B35810574170279\nIzvor: Registar konc
- esija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ morskom dobru (OPATIJA) · davatelj: GRAD OPATIJA\, 1.000 €/god.\n\nProf
+ il općine: https://koncesijski-sat.vercel.app/#opcina/41942358B3581057417
+ 0279\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 202
+ 6.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B35810574170279
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1259,8 +1311,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-d17ecd1b663197f4@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-1e0f61943332b849@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20450524
 DTEND;VALUE=DATE:20450525
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (RIVA'S HOTELS & 
@@ -1268,8 +1320,8 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (RIVA'S HOTELS &
 DESCRIPTION:24. 11. 2045. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• RIVA'S HOTELS & RESORTS D.O.O. – Koncesija na pomorskom dobru 
- (OPATIJA)\, 1.000 €/god.\n\nProfil općine: https://koncesijski-sat.verc
- el.app/#opcina/41942358B35810574170279
+ (OPATIJA) · davatelj: GRAD OPATIJA\, 1.000 €/god.\n\nProfil općine: ht
+ tps://koncesijski-sat.vercel.app/#opcina/41942358B35810574170279
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B35810574170279
 TRANSP:TRANSPARENT
 BEGIN:VALARM

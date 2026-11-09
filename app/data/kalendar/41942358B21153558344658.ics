@@ -4,24 +4,26 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Grad Duga Resa
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Grad Duga Resa. Iz Regis
- tra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podat
- aka. https://koncesijski-sat.vercel.app/#opcina/41942358B21153558344658
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Grad Duga Resa (pregled\
+ , svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježava s
+ e nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#opcina/
+ 41942358B21153558344658
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-de1349e27bd21a68@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-81a7bd4de4f88f1a@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20301031
 DTEND;VALUE=DATE:20301101
 SUMMARY:Ističe koncesija: RADIO 047 D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 31. 10. 2030. Godišnja fiksna nak
  nada: 133 €.\n\n• RADIO 047 D.O.O. – Koncesija za obavljanje djelatn
  osti radija (DUGA RESA\, JASTREBARSKO\, KARLOVAC\, KRAŠIĆ\, NETRETIĆ\, 
- OZALJ)\, 133 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.ap
- p/#opcina/41942358B21153558344658\nIzvor: Registar koncesija (FINA)\, obra
- da Koncesijski sat 9. 11. 2026.
+ OZALJ) · davatelj: AGENCIJA ZA ELEKTRONIČKE MEDIJE\, 133 €/god.\n\nPro
+ fil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B211535583
+ 44658\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 20
+ 26.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B21153558344658
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -31,8 +33,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-de1349e27bd21a68@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-81a7bd4de4f88f1a@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20300430
 DTEND;VALUE=DATE:20300501
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (RADIO 047 D.O.O.
@@ -40,9 +42,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (RADIO 047 D.O.O.
 DESCRIPTION:31. 10. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• RADIO 047 D.O.O. – Koncesija za obavljanje djelatnosti radija 
- (DUGA RESA\, JASTREBARSKO\, KARLOVAC\, KRAŠIĆ\, NETRETIĆ\, OZALJ)\, 133
-  €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41
- 942358B21153558344658
+ (DUGA RESA\, JASTREBARSKO\, KARLOVAC\, KRAŠIĆ\, NETRETIĆ\, OZALJ) · da
+ vatelj: AGENCIJA ZA ELEKTRONIČKE MEDIJE\, 133 €/god.\n\nProfil općine:
+  https://koncesijski-sat.vercel.app/#opcina/41942358B21153558344658
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B21153558344658
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -53,18 +55,20 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-5e46d6d63b12de41@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-44f1523a724804b0@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20371001
 DTEND;VALUE=DATE:20371002
 SUMMARY:Ističe 2 koncesije · Duga Resa
 DESCRIPTION:2 ugovora o koncesiji ističe 1. 10. 2037.\n\n• MATAKOVIĆ ST
  ROJNA OBRADA METALA – Koncesija za korištenje vodne snage radi proizvod
- nje električne energije (DUGA RESA)\n• MHE MATAKOVIĆ\, VL. KRUNOSLAV M
- ATAKOVIĆ – Koncesija za korištenje vodne snage radi proizvodnje elektr
- ične energije (DUGA RESA)\n\nProfil općine: https://koncesijski-sat.verc
- el.app/#opcina/41942358B21153558344658\nIzvor: Registar koncesija (FINA)\,
-  obrada Koncesijski sat 9. 11. 2026.
+ nje električne energije (DUGA RESA) · davatelj: MINISTARSTVO ZAŠTITE OK
+ OLIŠA I ZELENE TRANZICIJE\n• MHE MATAKOVIĆ\, VL. KRUNOSLAV MATAKOVIĆ 
+ – Koncesija za korištenje vodne snage radi proizvodnje električne ener
+ gije (DUGA RESA) · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠA I ZELENE TRAN
+ ZICIJE\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942
+ 358B21153558344658\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski 
+ sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B21153558344658
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -74,38 +78,41 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-5e46d6d63b12de41@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-44f1523a724804b0@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20370401
 DTEND;VALUE=DATE:20370402
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Duga Resa
 DESCRIPTION:1. 10. 2037. ističe 2 ugovora o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• MATAKOVIĆ STROJNA OBRADA METALA – Koncesija za korištenje vo
- dne snage radi proizvodnje električne energije (DUGA RESA)\n• MHE MATAK
- OVIĆ\, VL. KRUNOSLAV MATAKOVIĆ – Koncesija za korištenje vodne snage 
- radi proizvodnje električne energije (DUGA RESA)\n\nProfil općine: https
- ://koncesijski-sat.vercel.app/#opcina/41942358B21153558344658
+ dne snage radi proizvodnje električne energije (DUGA RESA) · davatelj: M
+ INISTARSTVO ZAŠTITE OKOLIŠA I ZELENE TRANZICIJE\n• MHE MATAKOVIĆ\, VL
+ . KRUNOSLAV MATAKOVIĆ – Koncesija za korištenje vodne snage radi proiz
+ vodnje električne energije (DUGA RESA) · davatelj: MINISTARSTVO ZAŠTITE
+  OKOLIŠA I ZELENE TRANZICIJE\n\nProfil općine: https://koncesijski-sat.v
+ ercel.app/#opcina/41942358B21153558344658
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B21153558344658
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Duga Resa
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-017351aa93afc7f9@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-f66ad746ffe72685@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20400604
 DTEND;VALUE=DATE:20400605
 SUMMARY:Ističe 2 koncesije · Duga Resa
 DESCRIPTION:2 ugovora o koncesiji ističe 4. 6. 2040.\n\n• ARKADA D.O.O. 
- – Koncesija za eksploataciju tehničko-građevnog kamena (DUGA RESA)\n
- • ARKADA D.O.O. – Koncesija za eksploataciju tehničko-građevnog kame
- na (DUGA RESA)\n\nProfil općine: https://koncesijski-sat.vercel.app/#opci
- na/41942358B21153558344658\nIzvor: Registar koncesija (FINA)\, obrada Konc
- esijski sat 9. 11. 2026.
+ – Koncesija za eksploataciju tehničko-građevnog kamena (DUGA RESA) · 
+ davatelj: MINISTARSTVO GOSPODARSTVA\n• ARKADA D.O.O. – Koncesija za ek
+ sploataciju tehničko-građevnog kamena (DUGA RESA) · davatelj: MINISTARS
+ TVO GOSPODARSTVA\n\nProfil općine: https://koncesijski-sat.vercel.app/#op
+ cina/41942358B21153558344658\nIzvor: Registar koncesija (FINA)\, obrada Ko
+ ncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B21153558344658
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -115,37 +122,38 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-017351aa93afc7f9@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-f66ad746ffe72685@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20391204
 DTEND;VALUE=DATE:20391205
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Duga Resa
 DESCRIPTION:4. 6. 2040. ističe 2 ugovora o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• ARKADA D.O.O. – Koncesija za eksploataciju tehničko-građevnog
-  kamena (DUGA RESA)\n• ARKADA D.O.O. – Koncesija za eksploataciju tehn
- ičko-građevnog kamena (DUGA RESA)\n\nProfil općine: https://koncesijski
- -sat.vercel.app/#opcina/41942358B21153558344658
+  kamena (DUGA RESA) · davatelj: MINISTARSTVO GOSPODARSTVA\n• ARKADA D.O
+ .O. – Koncesija za eksploataciju tehničko-građevnog kamena (DUGA RESA)
+  · davatelj: MINISTARSTVO GOSPODARSTVA\n\nProfil općine: https://koncesi
+ jski-sat.vercel.app/#opcina/41942358B21153558344658
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B21153558344658
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Duga Resa
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-f2c2841423e07906@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-6a21e3ac778273ea@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20401231
 DTEND;VALUE=DATE:20410101
 SUMMARY:Ističe koncesija: ARKADA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 31. 12. 2040. Godišnja fiksna nak
  nada: 4.434 €.\n\n• ARKADA D.O.O. – Koncesija za površinu utvrđeno
- g eksploatacijskog polja neenergetskih mineralnih sirovina (DUGA RESA)\, 4
- .434 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcin
- a/41942358B21153558344658\nIzvor: Registar koncesija (FINA)\, obrada Konce
- sijski sat 9. 11. 2026.
+ g eksploatacijskog polja neenergetskih mineralnih sirovina (DUGA RESA) · 
+ davatelj: MINISTARSTVO GOSPODARSTVA\, 4.434 €/god.\n\nProfil općine: ht
+ tps://koncesijski-sat.vercel.app/#opcina/41942358B21153558344658\nIzvor: R
+ egistar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B21153558344658
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -155,17 +163,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-f2c2841423e07906@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-6a21e3ac778273ea@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20400630
 DTEND;VALUE=DATE:20400701
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ARKADA D.O.O.)
 DESCRIPTION:31. 12. 2040. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• ARKADA D.O.O. – Koncesija za površinu utvrđenog eksploatacij
- skog polja neenergetskih mineralnih sirovina (DUGA RESA)\, 4.434 €/god.\
- n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B211
- 53558344658
+ skog polja neenergetskih mineralnih sirovina (DUGA RESA) · davatelj: MINI
+ STARSTVO GOSPODARSTVA\, 4.434 €/god.\n\nProfil općine: https://koncesij
+ ski-sat.vercel.app/#opcina/41942358B21153558344658
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B21153558344658
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -176,17 +184,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-6894fbcd54a45a60@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-9c0e77e5b4e0b9ad@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20421013
 DTEND;VALUE=DATE:20421014
 SUMMARY:Ističe koncesija: RADIO MREŽNICA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 13. 10. 2042. Godišnja fiksna nak
  nada: 133 €.\n\n• RADIO MREŽNICA D.O.O. – Koncesija za obavljanje d
- jelatnosti radija (DUGA RESA\, KARLOVAC\, NETRETIĆ)\, 133 €/god.\n\nPro
- fil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B211535583
- 44658\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 20
- 26.
+ jelatnosti radija (DUGA RESA\, KARLOVAC\, NETRETIĆ) · davatelj: AGENCIJA
+  ZA ELEKTRONIČKE MEDIJE\, 133 €/god.\n\nProfil općine: https://koncesi
+ jski-sat.vercel.app/#opcina/41942358B21153558344658\nIzvor: Registar konce
+ sija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B21153558344658
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -196,8 +204,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-6894fbcd54a45a60@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-9c0e77e5b4e0b9ad@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20420413
 DTEND;VALUE=DATE:20420414
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (RADIO MREŽNICA 
@@ -205,8 +213,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (RADIO MREŽNICA
 DESCRIPTION:13. 10. 2042. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• RADIO MREŽNICA D.O.O. – Koncesija za obavljanje djelatnosti r
- adija (DUGA RESA\, KARLOVAC\, NETRETIĆ)\, 133 €/god.\n\nProfil općine:
-  https://koncesijski-sat.vercel.app/#opcina/41942358B21153558344658
+ adija (DUGA RESA\, KARLOVAC\, NETRETIĆ) · davatelj: AGENCIJA ZA ELEKTRON
+ IČKE MEDIJE\, 133 €/god.\n\nProfil općine: https://koncesijski-sat.ver
+ cel.app/#opcina/41942358B21153558344658
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B21153558344658
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -217,17 +226,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-25ad0e46ae4da509@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-7f8b5d5d51ca56fa@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20500521
 DTEND;VALUE=DATE:20500522
 SUMMARY:Ističe koncesija: T&H INVEST D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 21. 5. 2050. Godišnja fiksna nakn
  ada: 1.195 €.\n\n• T&H INVEST D.O.O. – Koncesija za korištenje vodn
- e snage radi proizvodnje električne energije (DUGA RESA)\, 1.195 €/god.
- \n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B21
- 153558344658\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9.
-  11. 2026.
+ e snage radi proizvodnje električne energije (DUGA RESA) · davatelj: MIN
+ ISTARSTVO ZAŠTITE OKOLIŠA I ZELENE TRANZICIJE\, 1.195 €/god.\n\nProfil
+  općine: https://koncesijski-sat.vercel.app/#opcina/41942358B211535583446
+ 58\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B21153558344658
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -237,8 +246,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-25ad0e46ae4da509@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-7f8b5d5d51ca56fa@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20491121
 DTEND;VALUE=DATE:20491122
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (T&H INVEST D.O.O
@@ -246,8 +255,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (T&H INVEST D.O.O
 DESCRIPTION:21. 5. 2050. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• T&H INVEST D.O.O. – Koncesija za korištenje vodne snage radi p
- roizvodnje električne energije (DUGA RESA)\, 1.195 €/god.\n\nProfil op
- ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B21153558344658
+ roizvodnje električne energije (DUGA RESA) · davatelj: MINISTARSTVO ZAŠ
+ TITE OKOLIŠA I ZELENE TRANZICIJE\, 1.195 €/god.\n\nProfil općine: http
+ s://koncesijski-sat.vercel.app/#opcina/41942358B21153558344658
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B21153558344658
 TRANSP:TRANSPARENT
 BEGIN:VALARM

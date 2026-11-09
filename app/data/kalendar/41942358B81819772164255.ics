@@ -4,23 +4,25 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Općina Bol
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Bol. Iz Registra
-  koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podataka
- . https://koncesijski-sat.vercel.app/#opcina/41942358B81819772164255
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Općina Bol (pregled\, s
+ vi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježava se n
+ akon svake obrade podataka. https://koncesijski-sat.vercel.app/#opcina/419
+ 42358B81819772164255
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-173e181f00f54344@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-e829ae2207ae57ce@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
 SUMMARY:Ističe koncesija: GRABOV RAT D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 31. 12. 2026. Godišnja fiksna nak
- nada: 265 €.\n\n• GRABOV RAT D.O.O. – Koncesija za luku (BOL)\, 265 
- €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
- 42358B81819772164255\nIzvor: Registar koncesija (FINA)\, obrada Koncesijsk
- i sat 9. 11. 2026.
+ nada: 265 €.\n\n• GRABOV RAT D.O.O. – Koncesija za luku (BOL) · dav
+ atelj: LUČKA UPRAVA SPLITSKO-DALMATINSKE ŽUPANIJE\, 265 €/god.\n\nProf
+ il općine: https://koncesijski-sat.vercel.app/#opcina/41942358B8181977216
+ 4255\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 202
+ 6.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B81819772164255
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -30,8 +32,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-9f72948e5fd93c01@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-db75929f013881fe@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270630
 DTEND;VALUE=DATE:20270701
 SUMMARY:Ističe koncesija: CIAN D.O.O.
@@ -40,10 +42,10 @@ DESCRIPTION:1 ugovor o koncesiji ističe 30. 6. 2027. Godišnja fiksna nakn
   DUGI RAT\, GRADAC\, GRADAC\, HVAR\, HVAR\, MAKARSKA\, MAKARSKA\, MARINA\,
   MARINA\, MILNA\, MILNA\, POSTIRA\, POSTIRA\, SEGET\, SEGET\, SOLIN\, SOLI
  N\, SPLIT\, SPLIT\, STARI GRAD\, STARI GRAD\, SUPETAR\, SUPETAR\, SUĆURAJ
- \, SUĆURAJ\, TROGIR\, TROGIR\, VIS\, VIS\, ŠOLTA\, ŠOLTA)\, 1.900 €/g
- od.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358
- B81819772164255\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat
-  9. 11. 2026.
+ \, SUĆURAJ\, TROGIR\, TROGIR\, VIS\, VIS\, ŠOLTA\, ŠOLTA) · davatelj: 
+ LUČKA UPRAVA SPLITSKO-DALMATINSKE ŽUPANIJE\, 1.900 €/god.\n\nProfil op
+ ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B81819772164255\
+ nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B81819772164255
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -53,8 +55,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-9f72948e5fd93c01@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-db75929f013881fe@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20261230
 DTEND;VALUE=DATE:20261231
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (CIAN D.O.O.)
@@ -64,9 +66,9 @@ DESCRIPTION:30. 6. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  ADAC\, GRADAC\, HVAR\, HVAR\, MAKARSKA\, MAKARSKA\, MARINA\, MARINA\, MILN
  A\, MILNA\, POSTIRA\, POSTIRA\, SEGET\, SEGET\, SOLIN\, SOLIN\, SPLIT\, SP
  LIT\, STARI GRAD\, STARI GRAD\, SUPETAR\, SUPETAR\, SUĆURAJ\, SUĆURAJ\, 
- TROGIR\, TROGIR\, VIS\, VIS\, ŠOLTA\, ŠOLTA)\, 1.900 €/god.\n\nProfil 
- općine: https://koncesijski-sat.vercel.app/#opcina/41942358B8181977216425
- 5
+ TROGIR\, TROGIR\, VIS\, VIS\, ŠOLTA\, ŠOLTA) · davatelj: LUČKA UPRAVA 
+ SPLITSKO-DALMATINSKE ŽUPANIJE\, 1.900 €/god.\n\nProfil općine: https:/
+ /koncesijski-sat.vercel.app/#opcina/41942358B81819772164255
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B81819772164255
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -76,17 +78,18 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-1e90925c52f4aa4a@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-f063d0b13afe462a@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20271006
 DTEND;VALUE=DATE:20271007
 SUMMARY:Ističe koncesija: KICA\, OBRT ZA PRIJEVOZ VL. VINKO DRAGIČEVIĆ\,
   SUPETAR
 DESCRIPTION:1 ugovor o koncesiji ističe 6. 10. 2027. Godišnja fiksna nakn
  ada: 2.000 €.\n\n• KICA\, OBRT ZA PRIJEVOZ VL. VINKO DRAGIČEVIĆ\, SU
- PETAR – Koncesija za luku (BOL\, SUPETAR)\, 2.000 €/god.\n\nProfil op
- ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B81819772164255\
- nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ PETAR – Koncesija za luku (BOL\, SUPETAR) · davatelj: LUČKA UPRAVA SPL
+ ITSKO-DALMATINSKE ŽUPANIJE\, 2.000 €/god.\n\nProfil općine: https://ko
+ ncesijski-sat.vercel.app/#opcina/41942358B81819772164255\nIzvor: Registar 
+ koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B81819772164255
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -97,8 +100,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-1e90925c52f4aa4a@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-f063d0b13afe462a@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270406
 DTEND;VALUE=DATE:20270407
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (KICA\, OBRT ZA P
@@ -106,8 +109,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (KICA\, OBRT ZA P
 DESCRIPTION:6. 10. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• KICA\, OBRT ZA PRIJEVOZ VL. VINKO DRAGIČEVIĆ\, SUPETAR – Konc
- esija za luku (BOL\, SUPETAR)\, 2.000 €/god.\n\nProfil općine: https://
- koncesijski-sat.vercel.app/#opcina/41942358B81819772164255
+ esija za luku (BOL\, SUPETAR) · davatelj: LUČKA UPRAVA SPLITSKO-DALMATIN
+ SKE ŽUPANIJE\, 2.000 €/god.\n\nProfil općine: https://koncesijski-sat.
+ vercel.app/#opcina/41942358B81819772164255
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B81819772164255
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -118,8 +122,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-77afde9702e1af48@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-f88df6f82b1cc89a@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20271231
 DTEND;VALUE=DATE:20280101
 SUMMARY:Ističe koncesija: SUPETAR DRUŠTVO ZA PRIKAZIVANJE FILMOVA I INF.D
@@ -128,9 +132,10 @@ DESCRIPTION:1 ugovor o koncesiji ističe 31. 12. 2027. Godišnja fiksna nak
  nada: 133 €.\n\n• SUPETAR DRUŠTVO ZA PRIKAZIVANJE FILMOVA I INF.D.D. 
  – Koncesija za obavljanje djelatnosti radija (BOL\, BRELA\, DUGI RAT\, J
  ELSA\, NEREŽIŠĆA\, OMIŠ\, PODSTRANA\, POSTIRA\, SPLIT\, STARI GRAD\, S
- UPETAR)\, 133 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.a
- pp/#opcina/41942358B81819772164255\nIzvor: Registar koncesija (FINA)\, obr
- ada Koncesijski sat 9. 11. 2026.
+ UPETAR) · davatelj: AGENCIJA ZA ELEKTRONIČKE MEDIJE\, 133 €/god.\n\nPr
+ ofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B81819772
+ 164255\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2
+ 026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B81819772164255
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -141,8 +146,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-77afde9702e1af48@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-f88df6f82b1cc89a@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270630
 DTEND;VALUE=DATE:20270701
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (SUPETAR DRUŠTVO
@@ -151,9 +156,9 @@ DESCRIPTION:31. 12. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• SUPETAR DRUŠTVO ZA PRIKAZIVANJE FILMOVA I INF.D.D. – Koncesij
  a za obavljanje djelatnosti radija (BOL\, BRELA\, DUGI RAT\, JELSA\, NERE
- ŽIŠĆA\, OMIŠ\, PODSTRANA\, POSTIRA\, SPLIT\, STARI GRAD\, SUPETAR)\, 1
- 33 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/
- 41942358B81819772164255
+ ŽIŠĆA\, OMIŠ\, PODSTRANA\, POSTIRA\, SPLIT\, STARI GRAD\, SUPETAR) · 
+ davatelj: AGENCIJA ZA ELEKTRONIČKE MEDIJE\, 133 €/god.\n\nProfil općin
+ e: https://koncesijski-sat.vercel.app/#opcina/41942358B81819772164255
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B81819772164255
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -164,16 +169,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-2552a851f4137a92@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-1afeb9b09ee27e62@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20290905
 DTEND;VALUE=DATE:20290906
 SUMMARY:Ističe koncesija: INA\, D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 5. 9. 2029. Godišnja fiksna nakna
- da: 8.560 €.\n\n• INA\, D.D. – Koncesija na pomorskom dobru (BOL)\, 
- 8.560 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opci
- na/41942358B81819772164255\nIzvor: Registar koncesija (FINA)\, obrada Konc
- esijski sat 9. 11. 2026.
+ da: 8.560 €.\n\n• INA\, D.D. – Koncesija na pomorskom dobru (BOL) ·
+  davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\, 8.560 €/god.\n
+ \nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B8181
+ 9772164255\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 1
+ 1. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B81819772164255
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -183,16 +189,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-2552a851f4137a92@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-1afeb9b09ee27e62@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20290305
 DTEND;VALUE=DATE:20290306
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA\, D.D.)
 DESCRIPTION:5. 9. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
- \n\n• INA\, D.D. – Koncesija na pomorskom dobru (BOL)\, 8.560 €/god.
- \n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B81
- 819772164255
+ \n\n• INA\, D.D. – Koncesija na pomorskom dobru (BOL) · davatelj: MIN
+ ISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\, 8.560 €/god.\n\nProfil opći
+ ne: https://koncesijski-sat.vercel.app/#opcina/41942358B81819772164255
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B81819772164255
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -202,16 +208,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-541b5170eafbc85a@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-64bee9a4a78d4788@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20300430
 DTEND;VALUE=DATE:20300501
 SUMMARY:Ističe koncesija: MICHIELI-TOMIĆ D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 30. 4. 2030. Godišnja fiksna nakn
  ada: 1.593 €.\n\n• MICHIELI-TOMIĆ D.O.O. – Koncesija skupljanja i o
- dvoza komunalnog otpada (BOL)\, 1.593 €/god.\n\nProfil općine: https://
- koncesijski-sat.vercel.app/#opcina/41942358B81819772164255\nIzvor: Regista
- r koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ dvoza komunalnog otpada (BOL) · davatelj: OPĆINA BOL\, 1.593 €/god.\n\
+ nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B81819
+ 772164255\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11
+ . 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B81819772164255
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -221,8 +228,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-541b5170eafbc85a@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-64bee9a4a78d4788@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20291030
 DTEND;VALUE=DATE:20291031
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MICHIELI-TOMIĆ 
@@ -230,8 +237,8 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MICHIELI-TOMIĆ
 DESCRIPTION:30. 4. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• MICHIELI-TOMIĆ D.O.O. – Koncesija skupljanja i odvoza komunaln
- og otpada (BOL)\, 1.593 €/god.\n\nProfil općine: https://koncesijski-sa
- t.vercel.app/#opcina/41942358B81819772164255
+ og otpada (BOL) · davatelj: OPĆINA BOL\, 1.593 €/god.\n\nProfil općin
+ e: https://koncesijski-sat.vercel.app/#opcina/41942358B81819772164255
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B81819772164255
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -242,16 +249,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-d6235f2a4a0ad872@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-ad791744ff40f27f@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20601015
 DTEND;VALUE=DATE:20601016
 SUMMARY:Ističe koncesija: DRŽAVNI HIDROMETEOROLOŠKI ZAVOD
 DESCRIPTION:1 ugovor o koncesiji ističe 15. 10. 2060. Godišnja fiksna nak
  nada: 26 €.\n\n• DRŽAVNI HIDROMETEOROLOŠKI ZAVOD – Koncesija na po
- morskom dobru (BOL)\, 26 €/god.\n\nProfil općine: https://koncesijski-s
- at.vercel.app/#opcina/41942358B81819772164255\nIzvor: Registar koncesija (
- FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ morskom dobru (BOL) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKT
+ URE\, 26 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#o
+ pcina/41942358B81819772164255\nIzvor: Registar koncesija (FINA)\, obrada K
+ oncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B81819772164255
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -261,8 +269,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-d6235f2a4a0ad872@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-ad791744ff40f27f@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20600415
 DTEND;VALUE=DATE:20600416
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DRŽAVNI HIDROME
@@ -270,8 +278,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DRŽAVNI HIDROME
 DESCRIPTION:15. 10. 2060. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• DRŽAVNI HIDROMETEOROLOŠKI ZAVOD – Koncesija na pomorskom dob
- ru (BOL)\, 26 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.a
- pp/#opcina/41942358B81819772164255
+ ru (BOL) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\, 26 
+ €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
+ 42358B81819772164255
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B81819772164255
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -282,16 +291,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-e6ca52fa7b1e57aa@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-53c8b5fae9de536c@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20760717
 DTEND;VALUE=DATE:20760718
 SUMMARY:Ističe koncesija: HRVATSKI TELEKOM D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 17. 7. 2076. Godišnja fiksna nakn
  ada: 2.025 €.\n\n• HRVATSKI TELEKOM D.D. – Posebna upotreba pomorsko
- g dobra (BOL)\, 2.025 €/god.\n\nProfil općine: https://koncesijski-sat.
- vercel.app/#opcina/41942358B81819772164255\nIzvor: Registar koncesija (FIN
- A)\, obrada Koncesijski sat 9. 11. 2026.
+ g dobra (BOL) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\, 
+ 2.025 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opci
+ na/41942358B81819772164255\nIzvor: Registar koncesija (FINA)\, obrada Konc
+ esijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B81819772164255
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -301,17 +311,18 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-e6ca52fa7b1e57aa@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-53c8b5fae9de536c@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20760117
 DTEND;VALUE=DATE:20760118
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKI TELEKOM
   D.D.)
 DESCRIPTION:17. 7. 2076. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
- .\n\n• HRVATSKI TELEKOM D.D. – Posebna upotreba pomorskog dobra (BOL)\
- , 2.025 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#op
- cina/41942358B81819772164255
+ .\n\n• HRVATSKI TELEKOM D.D. – Posebna upotreba pomorskog dobra (BOL) 
+ · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\, 2.025 €/god.
+ \n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B81
+ 819772164255
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B81819772164255
 TRANSP:TRANSPARENT
 BEGIN:VALARM

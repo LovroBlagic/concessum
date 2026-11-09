@@ -1,0 +1,94 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · GRAD VIROVITICA
+X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje GRAD VIROVITICA. Iz Regist
+ ra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podata
+ ka. https://koncesijski-sat.vercel.app/#sat
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-e6baa8cd8f8f98fd@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20350228
+DTEND;VALUE=DATE:20350301
+SUMMARY:Ističe koncesija: DIM - DIMNJAČARSKI OBRT\, VL. SUZANA PASARIĆ
+DESCRIPTION:1 ugovor o koncesiji ističe 28. 2. 2035. Godišnja fiksna nakn
+ ada: 2.004 €.\n\n• DIM - DIMNJAČARSKI OBRT\, VL. SUZANA PASARIĆ – 
+ Koncesija za obavljanje dimnjačarskih poslova (VIROVITICA\, Grad Viroviti
+ ca)\, 2.004 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#
+ sat\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026
+ .
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: DIM - DIMNJAČARSKI OBRT\, VL. SUZANA PASARI
+ Ć
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-e6baa8cd8f8f98fd@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20340828
+DTEND;VALUE=DATE:20340829
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DIM - DIMNJAČAR
+ SKI OBRT\, VL. SUZANA PASARIĆ)
+DESCRIPTION:28. 2. 2035. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• DIM - DIMNJAČARSKI OBRT\, VL. SUZANA PASARIĆ – Koncesija za o
+ bavljanje dimnjačarskih poslova (VIROVITICA\, Grad Virovitica)\, 2.004 
+ €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DIM - DIMNJA
+ ČARSKI OBRT\, VL. SUZANA PASARIĆ)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-b7eb60f0e6f25534@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20390120
+DTEND;VALUE=DATE:20390121
+SUMMARY:Ističe koncesija: AGROMILK D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 20. 1. 2039. Godišnja fiksna nakn
+ ada: 4.280 €.\n\n• AGROMILK D.O.O. – Koncesija za korištenje poljop
+ rivrednog zemljišta u vlasništvu države (VIROVITICA\, Grad Virovitica)\
+ , 4.280 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\
+ nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: AGROMILK D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-b7eb60f0e6f25534@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20380720
+DTEND;VALUE=DATE:20380721
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (AGROMILK D.O.O.)
+DESCRIPTION:20. 1. 2039. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• AGROMILK D.O.O. – Koncesija za korištenje poljoprivrednog zeml
+ jišta u vlasništvu države (VIROVITICA\, Grad Virovitica)\, 4.280 €/go
+ d.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (AGROMILK D.O
+ .O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,97 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · GRAD BELIŠĆE
+X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje GRAD BELIŠĆE. Iz Registr
+ a koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podatak
+ a. https://koncesijski-sat.vercel.app/#sat
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-773db3b409a06550@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20330515
+DTEND;VALUE=DATE:20330516
+SUMMARY:Ističe koncesija: SAMOSTAL.DIMNJAČARSKA RADNJA TIBORJANCI
+DESCRIPTION:1 ugovor o koncesiji ističe 15. 5. 2033. Godišnja fiksna nakn
+ ada: 1.400 €.\n\n• SAMOSTAL.DIMNJAČARSKA RADNJA TIBORJANCI – Konces
+ ija za obavljanje dimnjačarskih poslova (BELIŠĆE\, Grad Belišće)\, 1.
+ 400 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzv
+ or: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: SAMOSTAL.DIMNJAČARSKA RADNJA TIBORJANCI
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-773db3b409a06550@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20321115
+DTEND;VALUE=DATE:20321116
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (SAMOSTAL.DIMNJA
+ ČARSKA RADNJA TIBORJANCI)
+DESCRIPTION:15. 5. 2033. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• SAMOSTAL.DIMNJAČARSKA RADNJA TIBORJANCI – Koncesija za obavlja
+ nje dimnjačarskih poslova (BELIŠĆE\, Grad Belišće)\, 1.400 €/god.\n
+ \nŠto ističe: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (SAMOSTAL.DIM
+ NJAČARSKA RADNJA TIBORJANCI)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-aff157a34070e1a5@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20370112
+DTEND;VALUE=DATE:20370113
+SUMMARY:Ističe 2 koncesije · GRAD BELIŠĆE
+DESCRIPTION:2 ugovora o koncesiji ističe 12. 1. 2037. Godišnja fiksna nak
+ nada: 95.319 €.\n\n• PPK VALPOVO  D.O.O. – Koncesija za korištenje 
+ poljoprivrednog zemljišta u vlasništvu države (BELIŠĆE\, Grad Beliš
+ će)\, 69.220 €/god.\n• PPK VALPOVO EKO D.O.O. – Koncesija za koriš
+ tenje poljoprivrednog zemljišta u vlasništvu države (BELIŠĆE\, Grad B
+ elišće)\, 26.099 €/god.\n\nŠto ističe: https://koncesijski-sat.verce
+ l.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 1
+ 1. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 2 koncesije · GRAD BELIŠĆE
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-aff157a34070e1a5@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20360712
+DTEND;VALUE=DATE:20360713
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · GRAD BELIŠĆE
+DESCRIPTION:12. 1. 2037. ističe 2 ugovora o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• PPK VALPOVO  D.O.O. – Koncesija za korištenje poljoprivrednog
+  zemljišta u vlasništvu države (BELIŠĆE\, Grad Belišće)\, 69.220 
+ €/god.\n• PPK VALPOVO EKO D.O.O. – Koncesija za korištenje poljopri
+ vrednog zemljišta u vlasništvu države (BELIŠĆE\, Grad Belišće)\, 26
+ .099 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije · GRAD BELI
+ ŠĆE
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

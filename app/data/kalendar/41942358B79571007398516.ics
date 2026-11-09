@@ -4,25 +4,26 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Općina Sveti Filip i Jakov
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Sveti Filip i Ja
- kov. Iz Registra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake
-  obrade podataka. https://koncesijski-sat.vercel.app/#opcina/41942358B7957
- 1007398516
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Općina Sveti Filip i Ja
+ kov (pregled\, svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr).
+  Osvježava se nakon svake obrade podataka. https://koncesijski-sat.vercel
+ .app/#opcina/41942358B79571007398516
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-1a6e23ff7b95c837@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-7f90ed1c28782703@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270502
 DTEND;VALUE=DATE:20270503
 SUMMARY:Ističe koncesija: OBRT ZA UGOSTITELJSTVO I TURIZAM RIO
 DESCRIPTION:1 ugovor o koncesiji ističe 2. 5. 2027. Godišnja fiksna nakna
  da: 3.613 €.\n\n• OBRT ZA UGOSTITELJSTVO I TURIZAM RIO – Koncesija p
  omorskog dobra u svrhu izgradnje i gospodarskog korištenja luke posebne n
- amjene (SVETI FILIP I JAKOV)\, 3.613 €/god.\n\nProfil općine: https://k
- oncesijski-sat.vercel.app/#opcina/41942358B79571007398516\nIzvor: Registar
-  koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ amjene (SVETI FILIP I JAKOV) · davatelj: ZADARSKA ŽUPANIJA\, 3.613 €/g
+ od.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358
+ B79571007398516\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat
+  9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B79571007398516
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -32,16 +33,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-55bfc243a9f81d65@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-356dfb8d0b962cd5@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20310816
 DTEND;VALUE=DATE:20310817
 SUMMARY:Ističe koncesija: HRVATSKA ELEKTROPRIVREDA  D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 16. 8. 2031. Godišnja fiksna nakn
  ada: 1.593 €.\n\n• HRVATSKA ELEKTROPRIVREDA  D.D. – Koncesija na pom
- orskom dobru (SVETI FILIP I JAKOV)\, 1.593 €/god.\n\nProfil općine: htt
- ps://koncesijski-sat.vercel.app/#opcina/41942358B79571007398516\nIzvor: Re
- gistar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ orskom dobru (SVETI FILIP I JAKOV) · davatelj: ZADARSKA ŽUPANIJA\, 1.593
+  €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41
+ 942358B79571007398516\nIzvor: Registar koncesija (FINA)\, obrada Koncesijs
+ ki sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B79571007398516
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -51,8 +53,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-55bfc243a9f81d65@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-356dfb8d0b962cd5@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20310216
 DTEND;VALUE=DATE:20310217
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKA ELEKTRO
@@ -60,8 +62,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKA ELEKTRO
 DESCRIPTION:16. 8. 2031. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• HRVATSKA ELEKTROPRIVREDA  D.D. – Koncesija na pomorskom dobru (
- SVETI FILIP I JAKOV)\, 1.593 €/god.\n\nProfil općine: https://koncesijs
- ki-sat.vercel.app/#opcina/41942358B79571007398516
+ SVETI FILIP I JAKOV) · davatelj: ZADARSKA ŽUPANIJA\, 1.593 €/god.\n\nP
+ rofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B7957100
+ 7398516
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B79571007398516
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -72,18 +75,18 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-21dc10202157ce4f@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-21d1e0b1199841b0@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20421222
 DTEND;VALUE=DATE:20421223
 SUMMARY:Ističe koncesija: HEP-OPERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O.-DP E
  LEKTRA ZADAR
 DESCRIPTION:1 ugovor o koncesiji ističe 22. 12. 2042. Godišnja fiksna nak
  nada: 110 €.\n\n• HEP-OPERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O.-DP ELEKT
- RA ZADAR – Posebna upotreba pomorskog dobra (SVETI FILIP I JAKOV)\, 110 
- €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
- 42358B79571007398516\nIzvor: Registar koncesija (FINA)\, obrada Koncesijsk
- i sat 9. 11. 2026.
+ RA ZADAR – Posebna upotreba pomorskog dobra (SVETI FILIP I JAKOV) · dav
+ atelj: ZADARSKA ŽUPANIJA\, 110 €/god.\n\nProfil općine: https://konces
+ ijski-sat.vercel.app/#opcina/41942358B79571007398516\nIzvor: Registar konc
+ esija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B79571007398516
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -94,8 +97,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-21dc10202157ce4f@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-21d1e0b1199841b0@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20420622
 DTEND;VALUE=DATE:20420623
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP-OPERATOR DIS
@@ -103,9 +106,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP-OPERATOR DIS
 DESCRIPTION:22. 12. 2042. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• HEP-OPERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O.-DP ELEKTRA ZADAR –
-  Posebna upotreba pomorskog dobra (SVETI FILIP I JAKOV)\, 110 €/god.\n\n
- Profil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B795710
- 07398516
+  Posebna upotreba pomorskog dobra (SVETI FILIP I JAKOV) · davatelj: ZADAR
+ SKA ŽUPANIJA\, 110 €/god.\n\nProfil općine: https://koncesijski-sat.ve
+ rcel.app/#opcina/41942358B79571007398516
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B79571007398516
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -116,16 +119,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-c0e8648e40496e81@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-9f46794e633cc098@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20510923
 DTEND;VALUE=DATE:20510924
 SUMMARY:Ističe koncesija: MARINA SUNČANI RESORT D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 23. 9. 2051. Godišnja fiksna nakn
  ada: 14.718 €.\n\n• MARINA SUNČANI RESORT D.O.O. – Koncesija za luk
- u (SVETI FILIP I JAKOV)\, 14.718 €/god.\n\nProfil općine: https://konce
- sijski-sat.vercel.app/#opcina/41942358B79571007398516\nIzvor: Registar kon
- cesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ u (SVETI FILIP I JAKOV) · davatelj: ŽUPANIJSKA LUČKA UPRAVA ZADAR\, 14.
+ 718 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina
+ /41942358B79571007398516\nIzvor: Registar koncesija (FINA)\, obrada Konces
+ ijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B79571007398516
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -135,8 +139,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-c0e8648e40496e81@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-9f46794e633cc098@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20510323
 DTEND;VALUE=DATE:20510324
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MARINA SUNČANI 
@@ -144,8 +148,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MARINA SUNČANI
 DESCRIPTION:23. 9. 2051. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• MARINA SUNČANI RESORT D.O.O. – Koncesija za luku (SVETI FILIP 
- I JAKOV)\, 14.718 €/god.\n\nProfil općine: https://koncesijski-sat.verc
- el.app/#opcina/41942358B79571007398516
+ I JAKOV) · davatelj: ŽUPANIJSKA LUČKA UPRAVA ZADAR\, 14.718 €/god.\n\
+ nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B79571
+ 007398516
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B79571007398516
 TRANSP:TRANSPARENT
 BEGIN:VALARM

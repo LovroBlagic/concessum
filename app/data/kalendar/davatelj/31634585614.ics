@@ -1,0 +1,93 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · OPĆINA MAJUR
+X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje OPĆINA MAJUR. Iz Registra
+  koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podataka
+ . https://koncesijski-sat.vercel.app/#sat
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-19054bca8985beab@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20300811
+DTEND;VALUE=DATE:20300812
+SUMMARY:Ističe koncesija: KOMUNALAC PETRINJA D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 11. 8. 2030. Godišnja fiksna nakn
+ ada: 1.300 €.\n\n• KOMUNALAC PETRINJA D.O.O. – Koncesija skupljanja 
+ i odvoza komunalnog otpada (MAJUR\, Općina Majur)\, 1.300 €/god.\n\nŠt
+ o ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar konces
+ ija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: KOMUNALAC PETRINJA D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-19054bca8985beab@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20300211
+DTEND;VALUE=DATE:20300212
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (KOMUNALAC PETRIN
+ JA D.O.O.)
+DESCRIPTION:11. 8. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• KOMUNALAC PETRINJA D.O.O. – Koncesija skupljanja i odvoza komun
+ alnog otpada (MAJUR\, Općina Majur)\, 1.300 €/god.\n\nŠto ističe: htt
+ ps://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (KOMUNALAC PE
+ TRINJA D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-06feab95beae997e@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20301021
+DTEND;VALUE=DATE:20301022
+SUMMARY:Ističe koncesija: DIMNJAČARSKI SERVIS J.D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 21. 10. 2030. Godišnja fiksna nak
+ nada: 550 €.\n\n• DIMNJAČARSKI SERVIS J.D.O.O. – Koncesija za obavl
+ janje dimnjačarskih poslova (MAJUR\, Općina Majur)\, 550 €/god.\n\nŠt
+ o ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar konces
+ ija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: DIMNJAČARSKI SERVIS J.D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-06feab95beae997e@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20300421
+DTEND;VALUE=DATE:20300422
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DIMNJAČARSKI SE
+ RVIS J.D.O.O.)
+DESCRIPTION:21. 10. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• DIMNJAČARSKI SERVIS J.D.O.O. – Koncesija za obavljanje dimnja
+ čarskih poslova (MAJUR\, Općina Majur)\, 550 €/god.\n\nŠto ističe: h
+ ttps://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DIMNJAČARSK
+ I SERVIS J.D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

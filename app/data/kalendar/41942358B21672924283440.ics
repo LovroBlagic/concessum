@@ -4,23 +4,25 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Grad Lobor
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Grad Lobor. Iz Registra 
- koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podataka.
-  https://koncesijski-sat.vercel.app/#opcina/41942358B21672924283440
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Grad Lobor (pregled\, sv
+ i davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježava se na
+ kon svake obrade podataka. https://koncesijski-sat.vercel.app/#opcina/4194
+ 2358B21672924283440
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-c4c864f8f581ca57@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-fc79710e873fe3a1@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20301106
 DTEND;VALUE=DATE:20301107
 SUMMARY:Ističe koncesija: LEUŠTEK J.D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 6. 11. 2030. Godišnja fiksna nakn
  ada: 1.050 €.\n\n• LEUŠTEK J.D.O.O. – Koncesija za obavljanje dimnj
- ačarskih poslova (LOBOR)\, 1.050 €/god.\n\nProfil općine: https://konc
- esijski-sat.vercel.app/#opcina/41942358B21672924283440\nIzvor: Registar ko
- ncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ ačarskih poslova (LOBOR) · davatelj: OPĆINA LOBOR\, 1.050 €/god.\n\nP
+ rofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B2167292
+ 4283440\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 
+ 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B21672924283440
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -30,8 +32,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-c4c864f8f581ca57@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-fc79710e873fe3a1@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20300506
 DTEND;VALUE=DATE:20300507
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (LEUŠTEK J.D.O.O
@@ -39,8 +41,8 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (LEUŠTEK J.D.O.O
 DESCRIPTION:6. 11. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• LEUŠTEK J.D.O.O. – Koncesija za obavljanje dimnjačarskih posl
- ova (LOBOR)\, 1.050 €/god.\n\nProfil općine: https://koncesijski-sat.ve
- rcel.app/#opcina/41942358B21672924283440
+ ova (LOBOR) · davatelj: OPĆINA LOBOR\, 1.050 €/god.\n\nProfil općine:
+  https://koncesijski-sat.vercel.app/#opcina/41942358B21672924283440
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B21672924283440
 TRANSP:TRANSPARENT
 BEGIN:VALARM

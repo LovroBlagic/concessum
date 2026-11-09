@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · OPĆINA PLITVIČKA JEZERA
+X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje OPĆINA PLITVIČKA JEZERA.
+  Iz Registra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obr
+ ade podataka. https://koncesijski-sat.vercel.app/#sat
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-a2d27bb33407b806@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20271012
+DTEND;VALUE=DATE:20271013
+SUMMARY:Ističe koncesija: DIVEKS J.D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 12. 10. 2027. Godišnja fiksna nak
+ nada: 8.043 €.\n\n• DIVEKS J.D.O.O. – Koncesija za obavljanje dimnja
+ čarskih poslova (PLITVIČKA JEZERA\, Općina Plitvička Jezera)\, 8.043 
+ €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: 
+ Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: DIVEKS J.D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-a2d27bb33407b806@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20270412
+DTEND;VALUE=DATE:20270413
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DIVEKS J.D.O.O.)
+DESCRIPTION:12. 10. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• DIVEKS J.D.O.O. – Koncesija za obavljanje dimnjačarskih poslo
+ va (PLITVIČKA JEZERA\, Općina Plitvička Jezera)\, 8.043 €/god.\n\nŠt
+ o ističe: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DIVEKS J.D.O
+ .O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

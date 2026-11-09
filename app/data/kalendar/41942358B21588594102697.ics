@@ -4,24 +4,25 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Općina Sunja
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Sunja. Iz Regist
- ra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podata
- ka. https://koncesijski-sat.vercel.app/#opcina/41942358B21588594102697
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Općina Sunja (pregled\,
+  svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježava se
+  nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#opcina/4
+ 1942358B21588594102697
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-33589b35b1a2edee@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-b850b63fa045cf75@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20381015
 DTEND;VALUE=DATE:20381016
 SUMMARY:Ističe koncesija: POLJOPRIVREDNA ZADRUGA POSAVINA
 DESCRIPTION:1 ugovor o koncesiji ističe 15. 10. 2038. Godišnja fiksna nak
  nada: 927 €.\n\n• POLJOPRIVREDNA ZADRUGA POSAVINA – Koncesija za kor
- ištenje poljoprivrednog zemljišta u vlasništvu države (SUNJA)\, 927 
- €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
- 42358B21588594102697\nIzvor: Registar koncesija (FINA)\, obrada Koncesijsk
- i sat 9. 11. 2026.
+ ištenje poljoprivrednog zemljišta u vlasništvu države (SUNJA) · davat
+ elj: OPĆINA SUNJA\, 927 €/god.\n\nProfil općine: https://koncesijski-s
+ at.vercel.app/#opcina/41942358B21588594102697\nIzvor: Registar koncesija (
+ FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B21588594102697
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -31,8 +32,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-33589b35b1a2edee@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-b850b63fa045cf75@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20380415
 DTEND;VALUE=DATE:20380416
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (POLJOPRIVREDNA Z
@@ -40,9 +41,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (POLJOPRIVREDNA Z
 DESCRIPTION:15. 10. 2038. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• POLJOPRIVREDNA ZADRUGA POSAVINA – Koncesija za korištenje pol
- joprivrednog zemljišta u vlasništvu države (SUNJA)\, 927 €/god.\n\nPr
- ofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B21588594
- 102697
+ joprivrednog zemljišta u vlasništvu države (SUNJA) · davatelj: OPĆINA
+  SUNJA\, 927 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.ap
+ p/#opcina/41942358B21588594102697
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B21588594102697
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -53,17 +54,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-6931782f2bc0dd28@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-2cf3ae4d12576cdc@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20391116
 DTEND;VALUE=DATE:20391117
 SUMMARY:Ističe koncesija: VIZ-MOLENDINUM D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 16. 11. 2039. Godišnja fiksna nak
  nada: 641 €.\n\n• VIZ-MOLENDINUM D.O.O. – Koncesija za korištenje v
- odne snage radi proizvodnje električne energije (SUNJA)\, 641 €/god.\n\
- nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B21588
- 594102697\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11
- . 2026.
+ odne snage radi proizvodnje električne energije (SUNJA) · davatelj: MINI
+ STARSTVO ZAŠTITE OKOLIŠA I ZELENE TRANZICIJE\, 641 €/god.\n\nProfil op
+ ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B21588594102697\
+ nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B21588594102697
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -73,8 +74,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-6931782f2bc0dd28@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-2cf3ae4d12576cdc@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20390516
 DTEND;VALUE=DATE:20390517
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VIZ-MOLENDINUM D
@@ -82,8 +83,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VIZ-MOLENDINUM D
 DESCRIPTION:16. 11. 2039. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• VIZ-MOLENDINUM D.O.O. – Koncesija za korištenje vodne snage r
- adi proizvodnje električne energije (SUNJA)\, 641 €/god.\n\nProfil opć
- ine: https://koncesijski-sat.vercel.app/#opcina/41942358B21588594102697
+ adi proizvodnje električne energije (SUNJA) · davatelj: MINISTARSTVO ZA
+ ŠTITE OKOLIŠA I ZELENE TRANZICIJE\, 641 €/god.\n\nProfil općine: http
+ s://koncesijski-sat.vercel.app/#opcina/41942358B21588594102697
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B21588594102697
 TRANSP:TRANSPARENT
 BEGIN:VALARM

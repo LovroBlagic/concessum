@@ -4,26 +4,26 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Općina Donji Andrijevci
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Donji Andrijevci
- . Iz Registra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake ob
- rade podataka. https://koncesijski-sat.vercel.app/#opcina/41942358B9115585
- 8559517
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Općina Donji Andrijevci
+  (pregled\, svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Os
+ vježava se nakon svake obrade podataka. https://koncesijski-sat.vercel.ap
+ p/#opcina/41942358B91155858559517
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-fce84f9414395a46@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-03c64b5320084eaa@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20330301
 DTEND;VALUE=DATE:20330302
 SUMMARY:Ističe koncesija: EKO-FLOR PLUS D.O.O. ZA KOMUNALNE USLUGE I TRGOV
  INU
 DESCRIPTION:1 ugovor o koncesiji ističe 1. 3. 2033. Godišnja fiksna nakna
  da: 3.632 €.\n\n• EKO-FLOR PLUS D.O.O. ZA KOMUNALNE USLUGE I TRGOVINU 
- – Koncesija skupljanja i odvoza komunalnog otpada (DONJI ANDRIJEVCI)\, 3
- .632 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcin
- a/41942358B91155858559517\nIzvor: Registar koncesija (FINA)\, obrada Konce
- sijski sat 9. 11. 2026.
+ – Koncesija skupljanja i odvoza komunalnog otpada (DONJI ANDRIJEVCI) · 
+ davatelj: OPĆINA DONJI ANDRIJEVCI\, 3.632 €/god.\n\nProfil općine: htt
+ ps://koncesijski-sat.vercel.app/#opcina/41942358B91155858559517\nIzvor: Re
+ gistar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B91155858559517
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -34,8 +34,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-fce84f9414395a46@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-03c64b5320084eaa@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20320901
 DTEND;VALUE=DATE:20320902
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (EKO-FLOR PLUS D.
@@ -43,9 +43,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (EKO-FLOR PLUS D.
 DESCRIPTION:1. 3. 2033. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• EKO-FLOR PLUS D.O.O. ZA KOMUNALNE USLUGE I TRGOVINU – Koncesija 
- skupljanja i odvoza komunalnog otpada (DONJI ANDRIJEVCI)\, 3.632 €/god.\
- n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B911
- 55858559517
+ skupljanja i odvoza komunalnog otpada (DONJI ANDRIJEVCI) · davatelj: OPĆ
+ INA DONJI ANDRIJEVCI\, 3.632 €/god.\n\nProfil općine: https://koncesijs
+ ki-sat.vercel.app/#opcina/41942358B91155858559517
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B91155858559517
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -56,16 +56,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-a13a2d78204ace15@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-06ce3076c18e282f@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20370221
 DTEND;VALUE=DATE:20370222
 SUMMARY:Ističe koncesija: E.ON DISTRIBUCIJA PLINA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 21. 2. 2037.\n\n• E.ON DISTRIBUC
  IJA PLINA D.O.O. – Koncesija za obavljanje distribucije plina na postoje
- ćem distribucijskom sustavu (DONJI ANDRIJEVCI\, GARČIN)\n\nProfil općin
- e: https://koncesijski-sat.vercel.app/#opcina/41942358B91155858559517\nIzv
- or: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ ćem distribucijskom sustavu (DONJI ANDRIJEVCI\, GARČIN) · davatelj: BRO
+ DSKO-POSAVSKA ŽUPANIJA\n\nProfil općine: https://koncesijski-sat.vercel.
+ app/#opcina/41942358B91155858559517\nIzvor: Registar koncesija (FINA)\, ob
+ rada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B91155858559517
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -75,8 +76,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-a13a2d78204ace15@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-06ce3076c18e282f@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20360821
 DTEND;VALUE=DATE:20360822
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (E.ON DISTRIBUCIJ
@@ -85,8 +86,8 @@ DESCRIPTION:21. 2. 2037. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• E.ON DISTRIBUCIJA PLINA D.O.O. – Koncesija za obavljanje distri
  bucije plina na postojećem distribucijskom sustavu (DONJI ANDRIJEVCI\, GA
- RČIN)\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942
- 358B91155858559517
+ RČIN) · davatelj: BRODSKO-POSAVSKA ŽUPANIJA\n\nProfil općine: https://
+ koncesijski-sat.vercel.app/#opcina/41942358B91155858559517
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B91155858559517
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -97,17 +98,18 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-718d3d656f350846@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-673a93541b4ad5aa@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20550626
 DTEND;VALUE=DATE:20550627
 SUMMARY:Ističe koncesija: ASPECT CROATIA KFT. - PODRUŽNICA ZAGREB
 DESCRIPTION:1 ugovor o koncesiji ističe 26. 6. 2055. Godišnja fiksna nakn
  ada: 3.004 €.\n\n• ASPECT CROATIA KFT. - PODRUŽNICA ZAGREB – Dozvol
  a za istraživanje ugljikovodika (prema Zakonu o ugljikovodicima) (DONJI A
- NDRIJEVCI)\, 3.004 €/god.\n\nProfil općine: https://koncesijski-sat.ver
- cel.app/#opcina/41942358B91155858559517\nIzvor: Registar koncesija (FINA)\
- , obrada Koncesijski sat 9. 11. 2026.
+ NDRIJEVCI) · davatelj: MINISTARSTVO GOSPODARSTVA\, 3.004 €/god.\n\nProf
+ il općine: https://koncesijski-sat.vercel.app/#opcina/41942358B9115585855
+ 9517\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 202
+ 6.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B91155858559517
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -117,8 +119,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-718d3d656f350846@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-673a93541b4ad5aa@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20541226
 DTEND;VALUE=DATE:20541227
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ASPECT CROATIA K
@@ -126,9 +128,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ASPECT CROATIA K
 DESCRIPTION:26. 6. 2055. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• ASPECT CROATIA KFT. - PODRUŽNICA ZAGREB – Dozvola za istraživ
- anje ugljikovodika (prema Zakonu o ugljikovodicima) (DONJI ANDRIJEVCI)\, 3
- .004 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcin
- a/41942358B91155858559517
+ anje ugljikovodika (prema Zakonu o ugljikovodicima) (DONJI ANDRIJEVCI) · 
+ davatelj: MINISTARSTVO GOSPODARSTVA\, 3.004 €/god.\n\nProfil općine: ht
+ tps://koncesijski-sat.vercel.app/#opcina/41942358B91155858559517
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B91155858559517
 TRANSP:TRANSPARENT
 BEGIN:VALARM

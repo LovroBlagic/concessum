@@ -4,23 +4,24 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Općina Koška
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Koška. Iz Regis
- tra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podat
- aka. https://koncesijski-sat.vercel.app/#opcina/41942358B88862880534747
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Općina Koška (pregled\
+ , svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježava s
+ e nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#opcina/
+ 41942358B88862880534747
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-7d38fc706037ada6@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-7347351170a436fb@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270615
 DTEND;VALUE=DATE:20270616
 SUMMARY:Ističe koncesija: INA\, D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 15. 6. 2027.\n\n• INA\, D.D. –
   Dozvola za eksploataciju ugljikovodika (prema Zakonu o ugljikovodicima) (
- KOŠKA)\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4194
- 2358B88862880534747\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski
-  sat 9. 11. 2026.
+ KOŠKA) · davatelj: MINISTARSTVO GOSPODARSTVA\n\nProfil općine: https://
+ koncesijski-sat.vercel.app/#opcina/41942358B88862880534747\nIzvor: Regista
+ r koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B88862880534747
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -30,16 +31,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-7d38fc706037ada6@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-7347351170a436fb@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20261215
 DTEND;VALUE=DATE:20261216
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA\, D.D.)
 DESCRIPTION:15. 6. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• INA\, D.D. – Dozvola za eksploataciju ugljikovodika (prema Zako
- nu o ugljikovodicima) (KOŠKA)\n\nProfil općine: https://koncesijski-sat.
- vercel.app/#opcina/41942358B88862880534747
+ nu o ugljikovodicima) (KOŠKA) · davatelj: MINISTARSTVO GOSPODARSTVA\n\nP
+ rofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B8886288
+ 0534747
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B88862880534747
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -49,16 +51,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-86540e9eb6cbecdb@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-1dc04591cd5bac53@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270628
 DTEND;VALUE=DATE:20270629
 SUMMARY:Ističe koncesija: INA\, D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 28. 6. 2027. Godišnja fiksna nakn
  ada: 4.535 €.\n\n• INA\, D.D. – Dozvola za istraživanje ugljikovodi
- ka (prema Zakonu o ugljikovodicima) (KOŠKA)\, 4.535 €/god.\n\nProfil op
- ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B88862880534747\
- nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ ka (prema Zakonu o ugljikovodicima) (KOŠKA) · davatelj: MINISTARSTVO GOS
+ PODARSTVA\, 4.535 €/god.\n\nProfil općine: https://koncesijski-sat.verc
+ el.app/#opcina/41942358B88862880534747\nIzvor: Registar koncesija (FINA)\,
+  obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B88862880534747
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -68,16 +71,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-86540e9eb6cbecdb@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-1dc04591cd5bac53@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20261228
 DTEND;VALUE=DATE:20261229
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA\, D.D.)
 DESCRIPTION:28. 6. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• INA\, D.D. – Dozvola za istraživanje ugljikovodika (prema Zako
- nu o ugljikovodicima) (KOŠKA)\, 4.535 €/god.\n\nProfil općine: https:/
- /koncesijski-sat.vercel.app/#opcina/41942358B88862880534747
+ nu o ugljikovodicima) (KOŠKA) · davatelj: MINISTARSTVO GOSPODARSTVA\, 4.
+ 535 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina
+ /41942358B88862880534747
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B88862880534747
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -87,16 +91,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-7a9fc9609d811804@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-7a9f5454c04890cf@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20271031
 DTEND;VALUE=DATE:20271101
 SUMMARY:Ističe koncesija: EKO-FLOR PLUS D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 31. 10. 2027.\n\n• EKO-FLOR PLUS
-  D.O.O. – Koncesija za obavljanje komunalnih djelatnosti (KOŠKA)\n\nPro
- fil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B888628805
- 34747\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 20
- 26.
+  D.O.O. – Koncesija za obavljanje komunalnih djelatnosti (KOŠKA) · dav
+ atelj: OPĆINA KOŠKA\n\nProfil općine: https://koncesijski-sat.vercel.ap
+ p/#opcina/41942358B88862880534747\nIzvor: Registar koncesija (FINA)\, obra
+ da Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B88862880534747
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -106,8 +110,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-7a9fc9609d811804@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-7a9f5454c04890cf@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270430
 DTEND;VALUE=DATE:20270501
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (EKO-FLOR PLUS D.
@@ -115,8 +119,8 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (EKO-FLOR PLUS D.
 DESCRIPTION:31. 10. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• EKO-FLOR PLUS D.O.O. – Koncesija za obavljanje komunalnih djel
- atnosti (KOŠKA)\n\nProfil općine: https://koncesijski-sat.vercel.app/#op
- cina/41942358B88862880534747
+ atnosti (KOŠKA) · davatelj: OPĆINA KOŠKA\n\nProfil općine: https://ko
+ ncesijski-sat.vercel.app/#opcina/41942358B88862880534747
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B88862880534747
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -127,16 +131,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-7a931c0d9cd0a672@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-81e09c7d12b78bea@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20290501
 DTEND;VALUE=DATE:20290502
 SUMMARY:Ističe koncesija: HEP - PLIN  D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 1. 5. 2029.\n\n• HEP - PLIN  D.O
- .O. – Koncesija za opskrbu potrošača prirodnim plinom (KOŠKA)\n\nProf
- il općine: https://koncesijski-sat.vercel.app/#opcina/41942358B8886288053
- 4747\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 202
- 6.
+ .O. – Koncesija za opskrbu potrošača prirodnim plinom (KOŠKA) · dava
+ telj: OPĆINA KOŠKA\n\nProfil općine: https://koncesijski-sat.vercel.app
+ /#opcina/41942358B88862880534747\nIzvor: Registar koncesija (FINA)\, obrad
+ a Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B88862880534747
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -146,8 +150,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-7a931c0d9cd0a672@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-81e09c7d12b78bea@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20281101
 DTEND;VALUE=DATE:20281102
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP - PLIN  D.O.
@@ -155,8 +159,8 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP - PLIN  D.O.
 DESCRIPTION:1. 5. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• HEP - PLIN  D.O.O. – Koncesija za opskrbu potrošača prirodnim 
- plinom (KOŠKA)\n\nProfil općine: https://koncesijski-sat.vercel.app/#opc
- ina/41942358B88862880534747
+ plinom (KOŠKA) · davatelj: OPĆINA KOŠKA\n\nProfil općine: https://kon
+ cesijski-sat.vercel.app/#opcina/41942358B88862880534747
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B88862880534747
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -167,16 +171,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-dcd5108f73ce94f8@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-1a37953bdacb2dad@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20290731
 DTEND;VALUE=DATE:20290801
 SUMMARY:Ističe koncesija: VATRO-DIM J.D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 31. 7. 2029. Godišnja fiksna nakn
  ada: 511 €.\n\n• VATRO-DIM J.D.O.O. – Koncesija za obavljanje dimnja
- čarskih poslova (KOŠKA)\, 511 €/god.\n\nProfil općine: https://konces
- ijski-sat.vercel.app/#opcina/41942358B88862880534747\nIzvor: Registar konc
- esija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ čarskih poslova (KOŠKA) · davatelj: OPĆINA KOŠKA\, 511 €/god.\n\nPr
+ ofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B88862880
+ 534747\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2
+ 026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B88862880534747
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -186,8 +191,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-dcd5108f73ce94f8@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-1a37953bdacb2dad@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20290131
 DTEND;VALUE=DATE:20290201
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VATRO-DIM J.D.O.
@@ -195,8 +200,8 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VATRO-DIM J.D.O.
 DESCRIPTION:31. 7. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• VATRO-DIM J.D.O.O. – Koncesija za obavljanje dimnjačarskih pos
- lova (KOŠKA)\, 511 €/god.\n\nProfil općine: https://koncesijski-sat.ve
- rcel.app/#opcina/41942358B88862880534747
+ lova (KOŠKA) · davatelj: OPĆINA KOŠKA\, 511 €/god.\n\nProfil općine
+ : https://koncesijski-sat.vercel.app/#opcina/41942358B88862880534747
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B88862880534747
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -207,17 +212,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-6e96101669c1e947@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-136333722800085a@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20360915
 DTEND;VALUE=DATE:20360916
 SUMMARY:Ističe koncesija: HANA  D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 15. 9. 2036. Godišnja fiksna nakn
  ada: 50.687 €.\n\n• HANA  D.O.O. – Koncesija za korištenje poljopri
- vrednog zemljišta u vlasništvu države (KOŠKA)\, 50.687 €/god.\n\nPro
- fil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B888628805
- 34747\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 20
- 26.
+ vrednog zemljišta u vlasništvu države (KOŠKA) · davatelj: OPĆINA KO
+ ŠKA\, 50.687 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.a
+ pp/#opcina/41942358B88862880534747\nIzvor: Registar koncesija (FINA)\, obr
+ ada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B88862880534747
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -227,16 +232,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-6e96101669c1e947@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-136333722800085a@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20360315
 DTEND;VALUE=DATE:20360316
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HANA  D.O.O.)
 DESCRIPTION:15. 9. 2036. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• HANA  D.O.O. – Koncesija za korištenje poljoprivrednog zemlji
- šta u vlasništvu države (KOŠKA)\, 50.687 €/god.\n\nProfil općine: h
- ttps://koncesijski-sat.vercel.app/#opcina/41942358B88862880534747
+ šta u vlasništvu države (KOŠKA) · davatelj: OPĆINA KOŠKA\, 50.687 
+ €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
+ 42358B88862880534747
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B88862880534747
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -247,17 +253,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-499e9e6e05ea5ef4@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-fe91e20bc460e83c@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20370205
 DTEND;VALUE=DATE:20370206
 SUMMARY:Ističe koncesija: HANA-KOŠKA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 5. 2. 2037. Godišnja fiksna nakna
  da: 83.764 €.\n\n• HANA-KOŠKA D.O.O. – Koncesija za korištenje pol
- joprivrednog zemljišta u vlasništvu države (KOŠKA)\, 83.764 €/god.\n
- \nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B8886
- 2880534747\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 1
- 1. 2026.
+ joprivrednog zemljišta u vlasništvu države (KOŠKA) · davatelj: OPĆIN
+ A KOŠKA\, 83.764 €/god.\n\nProfil općine: https://koncesijski-sat.verc
+ el.app/#opcina/41942358B88862880534747\nIzvor: Registar koncesija (FINA)\,
+  obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B88862880534747
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -267,8 +273,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-499e9e6e05ea5ef4@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-fe91e20bc460e83c@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20360805
 DTEND;VALUE=DATE:20360806
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HANA-KOŠKA D.O.
@@ -276,8 +282,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HANA-KOŠKA D.O.
 DESCRIPTION:5. 2. 2037. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• HANA-KOŠKA D.O.O. – Koncesija za korištenje poljoprivrednog ze
- mljišta u vlasništvu države (KOŠKA)\, 83.764 €/god.\n\nProfil općin
- e: https://koncesijski-sat.vercel.app/#opcina/41942358B88862880534747
+ mljišta u vlasništvu države (KOŠKA) · davatelj: OPĆINA KOŠKA\, 83.7
+ 64 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/
+ 41942358B88862880534747
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B88862880534747
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -288,20 +295,21 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-65cd8cdc9fff4ffc@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-7b247b88d5355cd5@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20481231
 DTEND;VALUE=DATE:20490101
 SUMMARY:Ističe 3 koncesije · Koška
 DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2048. Godišnja fiksna na
  knada: 2.811 €.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauze
- tu površinu odobrenog eksploatacijskog polja (KOŠKA)\, 2.811 €/god.\n
- • INA D.D. – Dozvola za eksploataciju ugljikovodika (prema Zakonu o ug
- ljikovodicima) (KOŠKA)\n• INA-INDUSTRIJA NAFTE  D.D. – Dozvola za eks
- ploataciju ugljikovodika (prema Zakonu o ugljikovodicima) (KOŠKA)\n\nProf
- il općine: https://koncesijski-sat.vercel.app/#opcina/41942358B8886288053
- 4747\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 202
- 6.
+ tu površinu odobrenog eksploatacijskog polja (KOŠKA) · davatelj: MINIST
+ ARSTVO GOSPODARSTVA\, 2.811 €/god.\n• INA D.D. – Dozvola za eksploat
+ aciju ugljikovodika (prema Zakonu o ugljikovodicima) (KOŠKA) · davatelj:
+  MINISTARSTVO GOSPODARSTVA\n• INA-INDUSTRIJA NAFTE  D.D. – Dozvola za 
+ eksploataciju ugljikovodika (prema Zakonu o ugljikovodicima) (KOŠKA) · d
+ avatelj: MINISTARSTVO GOSPODARSTVA\n\nProfil općine: https://koncesijski-
+ sat.vercel.app/#opcina/41942358B88862880534747\nIzvor: Registar koncesija 
+ (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B88862880534747
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -311,38 +319,41 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-65cd8cdc9fff4ffc@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-7b247b88d5355cd5@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20480630
 DTEND;VALUE=DATE:20480701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Koška
 DESCRIPTION:31. 12. 2048. ističe 3 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauzetu površinu o
- dobrenog eksploatacijskog polja (KOŠKA)\, 2.811 €/god.\n• INA D.D. 
- – Dozvola za eksploataciju ugljikovodika (prema Zakonu o ugljikovodicima
- ) (KOŠKA)\n• INA-INDUSTRIJA NAFTE  D.D. – Dozvola za eksploataciju ug
- ljikovodika (prema Zakonu o ugljikovodicima) (KOŠKA)\n\nProfil općine: h
- ttps://koncesijski-sat.vercel.app/#opcina/41942358B88862880534747
+ dobrenog eksploatacijskog polja (KOŠKA) · davatelj: MINISTARSTVO GOSPODA
+ RSTVA\, 2.811 €/god.\n• INA D.D. – Dozvola za eksploataciju ugljikov
+ odika (prema Zakonu o ugljikovodicima) (KOŠKA) · davatelj: MINISTARSTVO 
+ GOSPODARSTVA\n• INA-INDUSTRIJA NAFTE  D.D. – Dozvola za eksploataciju 
+ ugljikovodika (prema Zakonu o ugljikovodicima) (KOŠKA) · davatelj: MINIS
+ TARSTVO GOSPODARSTVA\n\nProfil općine: https://koncesijski-sat.vercel.app
+ /#opcina/41942358B88862880534747
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B88862880534747
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Koška
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-10a92b7006431f80@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-920cccdccbc49726@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20530309
 DTEND;VALUE=DATE:20530310
 SUMMARY:Ističe koncesija: NIZA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 9. 3. 2053. Godišnja fiksna nakna
  da: 3.185 €.\n\n• NIZA D.O.O. – Koncesija za zahvaćanje voda za teh
- nološke potrebe (KOŠKA)\, 3.185 €/god.\n\nProfil općine: https://konc
- esijski-sat.vercel.app/#opcina/41942358B88862880534747\nIzvor: Registar ko
- ncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ nološke potrebe (KOŠKA) · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠA I ZE
+ LENE TRANZICIJE\, 3.185 €/god.\n\nProfil općine: https://koncesijski-sa
+ t.vercel.app/#opcina/41942358B88862880534747\nIzvor: Registar koncesija (F
+ INA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B88862880534747
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -352,16 +363,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-10a92b7006431f80@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-920cccdccbc49726@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20520909
 DTEND;VALUE=DATE:20520910
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (NIZA D.O.O.)
 DESCRIPTION:9. 3. 2053. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• NIZA D.O.O. – Koncesija za zahvaćanje voda za tehnološke potre
- be (KOŠKA)\, 3.185 €/god.\n\nProfil općine: https://koncesijski-sat.ve
- rcel.app/#opcina/41942358B88862880534747
+ be (KOŠKA) · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠA I ZELENE TRANZICIJ
+ E\, 3.185 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#
+ opcina/41942358B88862880534747
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B88862880534747
 TRANSP:TRANSPARENT
 BEGIN:VALARM

@@ -4,23 +4,25 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Grad Otočac
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Grad Otočac. Iz Registr
- a koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podatak
- a. https://koncesijski-sat.vercel.app/#opcina/41942358B23713088644074
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Grad Otočac (pregled\, 
+ svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježava se 
+ nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#opcina/41
+ 942358B23713088644074
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-1cd7e42bf575f0cc@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-845e88a7da9cae86@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20261216
 DTEND;VALUE=DATE:20261217
 SUMMARY:Ističe koncesija: DIVEKS J.D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 16. 12. 2026. Godišnja fiksna nak
  nada: 1.475 €.\n\n• DIVEKS J.D.O.O. – Koncesija za obavljanje dimnja
- čarskih poslova (OTOČAC)\, 1.475 €/god.\n\nProfil općine: https://kon
- cesijski-sat.vercel.app/#opcina/41942358B23713088644074\nIzvor: Registar k
- oncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ čarskih poslova (OTOČAC) · davatelj: GRAD OTOČAC\, 1.475 €/god.\n\nP
+ rofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B2371308
+ 8644074\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 
+ 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B23713088644074
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -30,16 +32,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-f4f2535e100f0c2f@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-de791759d110b98d@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20320318
 DTEND;VALUE=DATE:20320319
 SUMMARY:Ističe koncesija: HRVATSKA ELEKTROPRIVREDA  D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 18. 3. 2032.\n\n• HRVATSKA ELEKT
  ROPRIVREDA  D.D. – Koncesija za korištenje vodne snage radi proizvodnje
-  električne energije (OTOČAC\, PERUŠIĆ)\n\nProfil općine: https://kon
- cesijski-sat.vercel.app/#opcina/41942358B23713088644074\nIzvor: Registar k
- oncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+  električne energije (OTOČAC\, PERUŠIĆ) · davatelj: MINISTARSTVO ZAŠ
+ TITE OKOLIŠA I ZELENE TRANZICIJE\n\nProfil općine: https://koncesijski-s
+ at.vercel.app/#opcina/41942358B23713088644074\nIzvor: Registar koncesija (
+ FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B23713088644074
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -49,8 +52,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-f4f2535e100f0c2f@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-de791759d110b98d@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20310918
 DTEND;VALUE=DATE:20310919
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKA ELEKTRO
@@ -58,9 +61,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKA ELEKTRO
 DESCRIPTION:18. 3. 2032. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• HRVATSKA ELEKTROPRIVREDA  D.D. – Koncesija za korištenje vodne
-  snage radi proizvodnje električne energije (OTOČAC\, PERUŠIĆ)\n\nProf
- il općine: https://koncesijski-sat.vercel.app/#opcina/41942358B2371308864
- 4074
+  snage radi proizvodnje električne energije (OTOČAC\, PERUŠIĆ) · dava
+ telj: MINISTARSTVO ZAŠTITE OKOLIŠA I ZELENE TRANZICIJE\n\nProfil općine
+ : https://koncesijski-sat.vercel.app/#opcina/41942358B23713088644074
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B23713088644074
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -71,16 +74,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-34fc1b88e636bbfb@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-4810ec4c7f9eed95@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20390703
 DTEND;VALUE=DATE:20390704
 SUMMARY:Ističe koncesija: KUSTURA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 3. 7. 2039. Godišnja fiksna nakna
  da: 9.954 €.\n\n• KUSTURA D.O.O. – Koncesija za zahvaćanje voda rad
- i prodaje na tržištu (OTOČAC)\, 9.954 €/god.\n\nProfil općine: https
- ://koncesijski-sat.vercel.app/#opcina/41942358B23713088644074\nIzvor: Regi
- star koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ i prodaje na tržištu (OTOČAC) · davatelj: MINISTARSTVO ZAŠTITE OKOLI
+ ŠA I ZELENE TRANZICIJE\, 9.954 €/god.\n\nProfil općine: https://konces
+ ijski-sat.vercel.app/#opcina/41942358B23713088644074\nIzvor: Registar konc
+ esija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B23713088644074
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -90,16 +94,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-34fc1b88e636bbfb@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-4810ec4c7f9eed95@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20390103
 DTEND;VALUE=DATE:20390104
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (KUSTURA D.O.O.)
 DESCRIPTION:3. 7. 2039. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• KUSTURA D.O.O. – Koncesija za zahvaćanje voda radi prodaje na t
- ržištu (OTOČAC)\, 9.954 €/god.\n\nProfil općine: https://koncesijski
- -sat.vercel.app/#opcina/41942358B23713088644074
+ ržištu (OTOČAC) · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠA I ZELENE TR
+ ANZICIJE\, 9.954 €/god.\n\nProfil općine: https://koncesijski-sat.verce
+ l.app/#opcina/41942358B23713088644074
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B23713088644074
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -110,16 +115,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-0460ab3e09723a51@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-5ae30f163e40cb45@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20450909
 DTEND;VALUE=DATE:20450910
 SUMMARY:Ističe koncesija: GIS SINAC D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 9. 9. 2045. Godišnja fiksna nakna
  da: 19.909 €.\n\n• GIS SINAC D.O.O. – Koncesija za zahvaćanje voda 
- radi prodaje na tržištu (OTOČAC)\, 19.909 €/god.\n\nProfil općine: h
- ttps://koncesijski-sat.vercel.app/#opcina/41942358B23713088644074\nIzvor: 
- Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ radi prodaje na tržištu (OTOČAC) · davatelj: MINISTARSTVO ZAŠTITE OKO
+ LIŠA I ZELENE TRANZICIJE\, 19.909 €/god.\n\nProfil općine: https://kon
+ cesijski-sat.vercel.app/#opcina/41942358B23713088644074\nIzvor: Registar k
+ oncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B23713088644074
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -129,8 +135,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-0460ab3e09723a51@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-5ae30f163e40cb45@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20450309
 DTEND;VALUE=DATE:20450310
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (GIS SINAC D.O.O.
@@ -138,8 +144,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (GIS SINAC D.O.O.
 DESCRIPTION:9. 9. 2045. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• GIS SINAC D.O.O. – Koncesija za zahvaćanje voda radi prodaje na
-  tržištu (OTOČAC)\, 19.909 €/god.\n\nProfil općine: https://koncesij
- ski-sat.vercel.app/#opcina/41942358B23713088644074
+  tržištu (OTOČAC) · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠA I ZELENE 
+ TRANZICIJE\, 19.909 €/god.\n\nProfil općine: https://koncesijski-sat.ve
+ rcel.app/#opcina/41942358B23713088644074
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B23713088644074
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -150,20 +157,22 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-7e725798456bff85@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-593c417cd2b73d20@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20451231
 DTEND;VALUE=DATE:20460101
 SUMMARY:Ističe 3 koncesije · Otočac
 DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2045. Godišnja fiksna na
  knada: 6.814 €.\n\n• INTERCAL CROATIA D.O.O. – Koncesija za površin
  u utvrđenog eksploatacijskog polja neenergetskih mineralnih sirovina (OTO
- ČAC)\, 6.814 €/god.\n• INTERCAL CROATIA D.O.O. – Koncesija za ekspl
- oataciju karbonatne mineralne sirovine za industrijsku preradbu (OTOČAC)\
- n• INTERCAL CROATIA D.O.O. – Koncesija za eksploataciju karbonatne min
- eralne sirovine za industrijsku preradbu (OTOČAC)\n\nProfil općine: http
- s://koncesijski-sat.vercel.app/#opcina/41942358B23713088644074\nIzvor: Reg
- istar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ ČAC) · davatelj: MINISTARSTVO GOSPODARSTVA\, 6.814 €/god.\n• INTERCA
+ L CROATIA D.O.O. – Koncesija za eksploataciju karbonatne mineralne sirov
+ ine za industrijsku preradbu (OTOČAC) · davatelj: MINISTARSTVO GOSPODARS
+ TVA\n• INTERCAL CROATIA D.O.O. – Koncesija za eksploataciju karbonatne
+  mineralne sirovine za industrijsku preradbu (OTOČAC) · davatelj: MINIST
+ ARSTVO GOSPODARSTVA\n\nProfil općine: https://koncesijski-sat.vercel.app/
+ #opcina/41942358B23713088644074\nIzvor: Registar koncesija (FINA)\, obrada
+  Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B23713088644074
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -173,39 +182,42 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-7e725798456bff85@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-593c417cd2b73d20@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20450630
 DTEND;VALUE=DATE:20450701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Otočac
 DESCRIPTION:31. 12. 2045. ističe 3 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• INTERCAL CROATIA D.O.O. – Koncesija za površinu utvrđenog e
- ksploatacijskog polja neenergetskih mineralnih sirovina (OTOČAC)\, 6.814 
- €/god.\n• INTERCAL CROATIA D.O.O. – Koncesija za eksploataciju karbo
- natne mineralne sirovine za industrijsku preradbu (OTOČAC)\n• INTERCAL 
- CROATIA D.O.O. – Koncesija za eksploataciju karbonatne mineralne sirovin
- e za industrijsku preradbu (OTOČAC)\n\nProfil općine: https://koncesijsk
- i-sat.vercel.app/#opcina/41942358B23713088644074
+ ksploatacijskog polja neenergetskih mineralnih sirovina (OTOČAC) · davat
+ elj: MINISTARSTVO GOSPODARSTVA\, 6.814 €/god.\n• INTERCAL CROATIA D.O.
+ O. – Koncesija za eksploataciju karbonatne mineralne sirovine za industr
+ ijsku preradbu (OTOČAC) · davatelj: MINISTARSTVO GOSPODARSTVA\n• INTER
+ CAL CROATIA D.O.O. – Koncesija za eksploataciju karbonatne mineralne sir
+ ovine za industrijsku preradbu (OTOČAC) · davatelj: MINISTARSTVO GOSPODA
+ RSTVA\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419423
+ 58B23713088644074
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B23713088644074
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Otočac
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-7b016ccfa0dc45b5@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-c88d75a23117422d@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20460809
 DTEND;VALUE=DATE:20460810
 SUMMARY:Ističe koncesija: LENERGO D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 9. 8. 2046. Godišnja fiksna nakna
  da: 664 €.\n\n• LENERGO D.O.O. – Koncesija za korištenje vodne snag
- e radi proizvodnje električne energije (OTOČAC)\, 664 €/god.\n\nProfil
-  općine: https://koncesijski-sat.vercel.app/#opcina/41942358B237130886440
- 74\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ e radi proizvodnje električne energije (OTOČAC) · davatelj: MINISTARSTV
+ O ZAŠTITE OKOLIŠA I ZELENE TRANZICIJE\, 664 €/god.\n\nProfil općine: 
+ https://koncesijski-sat.vercel.app/#opcina/41942358B23713088644074\nIzvor:
+  Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B23713088644074
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -215,16 +227,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-7b016ccfa0dc45b5@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-c88d75a23117422d@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20460209
 DTEND;VALUE=DATE:20460210
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (LENERGO D.O.O.)
 DESCRIPTION:9. 8. 2046. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• LENERGO D.O.O. – Koncesija za korištenje vodne snage radi proiz
- vodnje električne energije (OTOČAC)\, 664 €/god.\n\nProfil općine: ht
- tps://koncesijski-sat.vercel.app/#opcina/41942358B23713088644074
+ vodnje električne energije (OTOČAC) · davatelj: MINISTARSTVO ZAŠTITE O
+ KOLIŠA I ZELENE TRANZICIJE\, 664 €/god.\n\nProfil općine: https://konc
+ esijski-sat.vercel.app/#opcina/41942358B23713088644074
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B23713088644074
 TRANSP:TRANSPARENT
 BEGIN:VALARM

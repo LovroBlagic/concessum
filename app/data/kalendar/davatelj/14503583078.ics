@@ -1,0 +1,71 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · OPĆINA JARMINA
+X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje OPĆINA JARMINA. Iz Regist
+ ra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podata
+ ka. https://koncesijski-sat.vercel.app/#sat
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-2f03632e6332d28a@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20270120
+DTEND;VALUE=DATE:20270121
+SUMMARY:Ističe koncesija: HRVOJE HORVAT\, DUO EKO-DIM\, USLUGE SA SELA
+DESCRIPTION:1 ugovor o koncesiji ističe 20. 1. 2027. Godišnja fiksna nakn
+ ada: 465 €.\n\n• HRVOJE HORVAT\, DUO EKO-DIM\, USLUGE SA SELA – Konc
+ esija za obavljanje dimnjačarskih poslova (JARMINA\, Općina Jarmina)\, 4
+ 65 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzvo
+ r: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: HRVOJE HORVAT\, DUO EKO-DIM\, USLUGE SA SELA
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-bf8fa7d291048fc5@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20350531
+DTEND;VALUE=DATE:20350601
+SUMMARY:Ističe koncesija: NEVKOŠ D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 31. 5. 2035. Godišnja fiksna nakn
+ ada: 2.500 €.\n\n• NEVKOŠ D.O.O. – Koncesija skupljanja i odvoza ko
+ munalnog otpada (JARMINA\, Općina Jarmina)\, 2.500 €/god.\n\nŠto isti
+ če: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (F
+ INA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: NEVKOŠ D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-bf8fa7d291048fc5@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20341130
+DTEND;VALUE=DATE:20341201
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (NEVKOŠ D.O.O.)
+DESCRIPTION:31. 5. 2035. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• NEVKOŠ D.O.O. – Koncesija skupljanja i odvoza komunalnog otpad
+ a (JARMINA\, Općina Jarmina)\, 2.500 €/god.\n\nŠto ističe: https://ko
+ ncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (NEVKOŠ D.O.
+ O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

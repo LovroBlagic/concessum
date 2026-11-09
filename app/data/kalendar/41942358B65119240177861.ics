@@ -4,23 +4,25 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Grad Kraljevica
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Grad Kraljevica. Iz Regi
- stra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade poda
- taka. https://koncesijski-sat.vercel.app/#opcina/41942358B65119240177861
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Grad Kraljevica (pregled
+ \, svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježava 
+ se nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#opcina
+ /41942358B65119240177861
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-a16513055bdc9b13@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-887df5604322ce77@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270101
 DTEND;VALUE=DATE:20270102
 SUMMARY:Ističe koncesija: IVICA ĆENDO\, KAMINO VL. IVICA ĆENDO
 DESCRIPTION:1 ugovor o koncesiji ističe 1. 1. 2027. Godišnja fiksna nakna
  da: 664 €.\n\n• IVICA ĆENDO\, KAMINO VL. IVICA ĆENDO – Koncesija z
- a obavljanje dimnjačarskih poslova (KRALJEVICA)\, 664 €/god.\n\nProfil 
- općine: https://koncesijski-sat.vercel.app/#opcina/41942358B6511924017786
- 1\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ a obavljanje dimnjačarskih poslova (KRALJEVICA) · davatelj: GRAD KRALJEV
+ ICA\, 664 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#
+ opcina/41942358B65119240177861\nIzvor: Registar koncesija (FINA)\, obrada 
+ Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B65119240177861
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -30,16 +32,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-9956d08cfc8a1265@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-39a803b9de96efe2@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270118
 DTEND;VALUE=DATE:20270119
 SUMMARY:Ističe koncesija: A.ŽEŽELIĆ\, UGOSTITELJSKI OBRT SIDRO
 DESCRIPTION:1 ugovor o koncesiji ističe 18. 1. 2027. Godišnja fiksna nakn
  ada: 4.655 €.\n\n• A.ŽEŽELIĆ\, UGOSTITELJSKI OBRT SIDRO – Koncesi
- ja za luku (KRALJEVICA)\, 4.655 €/god.\n\nProfil općine: https://konces
- ijski-sat.vercel.app/#opcina/41942358B65119240177861\nIzvor: Registar konc
- esija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ ja za luku (KRALJEVICA) · davatelj: ŽUPANIJSKA LUČKA UPRAVA BAKAR-KRALJ
+ EVICA-KOSTRENA\, 4.655 €/god.\n\nProfil općine: https://koncesijski-sat
+ .vercel.app/#opcina/41942358B65119240177861\nIzvor: Registar koncesija (FI
+ NA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B65119240177861
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -49,17 +52,18 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-e285f37fb90f7df8@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-1901adf01196ea10@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20320110
 DTEND;VALUE=DATE:20320111
 SUMMARY:Ističe 2 koncesije · Kraljevica
 DESCRIPTION:2 ugovora o koncesiji ističe 10. 1. 2032. Godišnja fiksna nak
  nada: 16.204 €.\n\n• JADRAN HOTELI  D.O.O. – Koncesija na pomorskom 
- dobru (KRALJEVICA)\, 8.102 €/god.\n• JADRAN HOTELI  D.O.O. – Koncesi
- ja na pomorskom dobru (KRALJEVICA)\, 8.102 €/god.\n\nProfil općine: htt
- ps://koncesijski-sat.vercel.app/#opcina/41942358B65119240177861\nIzvor: Re
- gistar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ dobru (KRALJEVICA) · davatelj: PRIMORSKO GORANSKA ŽUPANIJA\, 8.102 €/g
+ od.\n• JADRAN HOTELI  D.O.O. – Koncesija na pomorskom dobru (KRALJEVIC
+ A) · davatelj: PRIMORSKO GORANSKA ŽUPANIJA\, 8.102 €/god.\n\nProfil op
+ ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B65119240177861\
+ nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B65119240177861
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -69,36 +73,38 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-e285f37fb90f7df8@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-1901adf01196ea10@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20310710
 DTEND;VALUE=DATE:20310711
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Kraljevica
 DESCRIPTION:10. 1. 2032. ističe 2 ugovora o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• JADRAN HOTELI  D.O.O. – Koncesija na pomorskom dobru (KRALJEVI
- CA)\, 8.102 €/god.\n• JADRAN HOTELI  D.O.O. – Koncesija na pomorskom
-  dobru (KRALJEVICA)\, 8.102 €/god.\n\nProfil općine: https://koncesijsk
- i-sat.vercel.app/#opcina/41942358B65119240177861
+ CA) · davatelj: PRIMORSKO GORANSKA ŽUPANIJA\, 8.102 €/god.\n• JADRAN
+  HOTELI  D.O.O. – Koncesija na pomorskom dobru (KRALJEVICA) · davatelj:
+  PRIMORSKO GORANSKA ŽUPANIJA\, 8.102 €/god.\n\nProfil općine: https://
+ koncesijski-sat.vercel.app/#opcina/41942358B65119240177861
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B65119240177861
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Kraljevica
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-76ee58503c85c7cc@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-dc681af9e0d655be@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20330502
 DTEND;VALUE=DATE:20330503
 SUMMARY:Ističe koncesija: HEP-OPERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 2. 5. 2033. Godišnja fiksna nakna
  da: 80 €.\n\n• HEP-OPERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O. – Posebna
-  upotreba pomorskog dobra (KRALJEVICA)\, 80 €/god.\n\nProfil općine: ht
- tps://koncesijski-sat.vercel.app/#opcina/41942358B65119240177861\nIzvor: R
- egistar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+  upotreba pomorskog dobra (KRALJEVICA) · davatelj: PRIMORSKO GORANSKA ŽU
+ PANIJA\, 80 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app
+ /#opcina/41942358B65119240177861\nIzvor: Registar koncesija (FINA)\, obrad
+ a Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B65119240177861
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -108,8 +114,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-76ee58503c85c7cc@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-dc681af9e0d655be@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20321102
 DTEND;VALUE=DATE:20321103
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP-OPERATOR DIS
@@ -117,8 +123,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP-OPERATOR DIS
 DESCRIPTION:2. 5. 2033. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• HEP-OPERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O. – Posebna upotreba p
- omorskog dobra (KRALJEVICA)\, 80 €/god.\n\nProfil općine: https://konce
- sijski-sat.vercel.app/#opcina/41942358B65119240177861
+ omorskog dobra (KRALJEVICA) · davatelj: PRIMORSKO GORANSKA ŽUPANIJA\, 80
+  €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41
+ 942358B65119240177861
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B65119240177861
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -129,16 +136,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-5038893250ccb0c0@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-8a0acd3866a2b3d2@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20421024
 DTEND;VALUE=DATE:20421025
 SUMMARY:Ističe koncesija: SKYDEAL MARIN D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 24. 10. 2042. Godišnja fiksna nak
  nada: 8.344 €.\n\n• SKYDEAL MARIN D.O.O. – Koncesija za luku (KRALJE
- VICA)\, 8.344 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.a
- pp/#opcina/41942358B65119240177861\nIzvor: Registar koncesija (FINA)\, obr
- ada Koncesijski sat 9. 11. 2026.
+ VICA) · davatelj: ŽUPANIJSKA LUČKA UPRAVA BAKAR-KRALJEVICA-KOSTRENA\, 8
+ .344 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcin
+ a/41942358B65119240177861\nIzvor: Registar koncesija (FINA)\, obrada Konce
+ sijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B65119240177861
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -148,17 +156,18 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-5038893250ccb0c0@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-8a0acd3866a2b3d2@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20420424
 DTEND;VALUE=DATE:20420425
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (SKYDEAL MARIN D.
  O.O.)
 DESCRIPTION:24. 10. 2042. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
- a.\n\n• SKYDEAL MARIN D.O.O. – Koncesija za luku (KRALJEVICA)\, 8.344 
- €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
- 42358B65119240177861
+ a.\n\n• SKYDEAL MARIN D.O.O. – Koncesija za luku (KRALJEVICA) · davat
+ elj: ŽUPANIJSKA LUČKA UPRAVA BAKAR-KRALJEVICA-KOSTRENA\, 8.344 €/god.\
+ n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B651
+ 19240177861
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B65119240177861
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -169,16 +178,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-1dc1f1f8c36105cd@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-1ca1011b55439bec@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20421115
 DTEND;VALUE=DATE:20421116
 SUMMARY:Ističe koncesija: JADRANSKI NAFTOVOD D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 15. 11. 2042. Godišnja fiksna nak
  nada: 25.135 €.\n\n• JADRANSKI NAFTOVOD D.D. – Koncesija na pomorsko
- m dobru (KRALJEVICA)\, 25.135 €/god.\n\nProfil općine: https://koncesij
- ski-sat.vercel.app/#opcina/41942358B65119240177861\nIzvor: Registar konces
- ija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ m dobru (KRALJEVICA) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUK
+ TURE\, 25.135 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.a
+ pp/#opcina/41942358B65119240177861\nIzvor: Registar koncesija (FINA)\, obr
+ ada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B65119240177861
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -188,8 +198,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-1dc1f1f8c36105cd@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-1ca1011b55439bec@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20420515
 DTEND;VALUE=DATE:20420516
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (JADRANSKI NAFTOV
@@ -197,8 +207,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (JADRANSKI NAFTOV
 DESCRIPTION:15. 11. 2042. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• JADRANSKI NAFTOVOD D.D. – Koncesija na pomorskom dobru (KRALJE
- VICA)\, 25.135 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.
- app/#opcina/41942358B65119240177861
+ VICA) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\, 25.135 
+ €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
+ 42358B65119240177861
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B65119240177861
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -209,17 +220,18 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-3c3661cc131c9419@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-c976de34a7f93b5b@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20440909
 DTEND;VALUE=DATE:20440910
 SUMMARY:Ističe 2 koncesije · Kraljevica
 DESCRIPTION:2 ugovora o koncesiji ističe 9. 9. 2044. Godišnja fiksna nakn
  ada: 11.222 €.\n\n• INA\, D.D.- KRALJEVICA – Posebna upotreba pomors
- kog dobra (KRALJEVICA)\, 5.611 €/god.\n• INA\, D.D. – Posebna upotre
- ba pomorskog dobra (KRALJEVICA)\, 5.611 €/god.\n\nProfil općine: https:
- //koncesijski-sat.vercel.app/#opcina/41942358B65119240177861\nIzvor: Regis
- tar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ kog dobra (KRALJEVICA) · davatelj: PRIMORSKO GORANSKA ŽUPANIJA\, 5.611 
+ €/god.\n• INA\, D.D. – Posebna upotreba pomorskog dobra (KRALJEVICA)
+  · davatelj: PRIMORSKO GORANSKA ŽUPANIJA\, 5.611 €/god.\n\nProfil opć
+ ine: https://koncesijski-sat.vercel.app/#opcina/41942358B65119240177861\nI
+ zvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B65119240177861
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -229,36 +241,38 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-3c3661cc131c9419@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-c976de34a7f93b5b@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20440309
 DTEND;VALUE=DATE:20440310
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Kraljevica
 DESCRIPTION:9. 9. 2044. ističe 2 ugovora o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• INA\, D.D.- KRALJEVICA – Posebna upotreba pomorskog dobra (KRAL
- JEVICA)\, 5.611 €/god.\n• INA\, D.D. – Posebna upotreba pomorskog do
- bra (KRALJEVICA)\, 5.611 €/god.\n\nProfil općine: https://koncesijski-s
- at.vercel.app/#opcina/41942358B65119240177861
+ JEVICA) · davatelj: PRIMORSKO GORANSKA ŽUPANIJA\, 5.611 €/god.\n• IN
+ A\, D.D. – Posebna upotreba pomorskog dobra (KRALJEVICA) · davatelj: PR
+ IMORSKO GORANSKA ŽUPANIJA\, 5.611 €/god.\n\nProfil općine: https://kon
+ cesijski-sat.vercel.app/#opcina/41942358B65119240177861
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B65119240177861
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Kraljevica
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-380ec3fff8cfea2c@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-45df667402daf941@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20490312
 DTEND;VALUE=DATE:20490313
 SUMMARY:Ističe koncesija: PLINACRO D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 12. 3. 2049. Godišnja fiksna nakn
  ada: 5.941 €.\n\n• PLINACRO D.O.O. – Koncesija na pomorskom dobru (K
- RALJEVICA)\, 5.941 €/god.\n\nProfil općine: https://koncesijski-sat.ver
- cel.app/#opcina/41942358B65119240177861\nIzvor: Registar koncesija (FINA)\
- , obrada Koncesijski sat 9. 11. 2026.
+ RALJEVICA) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\, 5.9
+ 41 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/
+ 41942358B65119240177861\nIzvor: Registar koncesija (FINA)\, obrada Koncesi
+ jski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B65119240177861
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -268,16 +282,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-380ec3fff8cfea2c@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-45df667402daf941@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20480912
 DTEND;VALUE=DATE:20480913
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PLINACRO D.O.O.)
 DESCRIPTION:12. 3. 2049. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
- .\n\n• PLINACRO D.O.O. – Koncesija na pomorskom dobru (KRALJEVICA)\, 5
- .941 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcin
- a/41942358B65119240177861
+ .\n\n• PLINACRO D.O.O. – Koncesija na pomorskom dobru (KRALJEVICA) · 
+ davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\, 5.941 €/god.\n\
+ nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B65119
+ 240177861
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B65119240177861
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -288,16 +303,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-ed7f231072d2546c@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-83cba3f8051792b7@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20501120
 DTEND;VALUE=DATE:20501121
 SUMMARY:Ističe koncesija: DALMONT D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 20. 11. 2050. Godišnja fiksna nak
  nada: 73.964 €.\n\n• DALMONT D.O.O. – Koncesija pomorskog dobra u sv
- rhu gospodarskog korištenja luke (KRALJEVICA)\, 73.964 €/god.\n\nProfil
-  općine: https://koncesijski-sat.vercel.app/#opcina/41942358B651192401778
- 61\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ rhu gospodarskog korištenja luke (KRALJEVICA) · davatelj: MINISTARSTVO M
+ ORA\, PROMETA I INFRASTRUKTURE\, 73.964 €/god.\n\nProfil općine: https:
+ //koncesijski-sat.vercel.app/#opcina/41942358B65119240177861\nIzvor: Regis
+ tar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B65119240177861
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -307,16 +323,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-ed7f231072d2546c@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-83cba3f8051792b7@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20500520
 DTEND;VALUE=DATE:20500521
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DALMONT D.O.O.)
 DESCRIPTION:20. 11. 2050. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• DALMONT D.O.O. – Koncesija pomorskog dobra u svrhu gospodarsko
- g korištenja luke (KRALJEVICA)\, 73.964 €/god.\n\nProfil općine: https
- ://koncesijski-sat.vercel.app/#opcina/41942358B65119240177861
+ g korištenja luke (KRALJEVICA) · davatelj: MINISTARSTVO MORA\, PROMETA I
+  INFRASTRUKTURE\, 73.964 €/god.\n\nProfil općine: https://koncesijski-s
+ at.vercel.app/#opcina/41942358B65119240177861
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B65119240177861
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -327,16 +344,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-dc416e370f70ee3d@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-1af4bbd3f7bc613c@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20760717
 DTEND;VALUE=DATE:20760718
 SUMMARY:Ističe koncesija: HRVATSKI TELEKOM D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 17. 7. 2076. Godišnja fiksna nakn
  ada: 243 €.\n\n• HRVATSKI TELEKOM D.D. – Posebna upotreba pomorskog 
- dobra (KRALJEVICA)\, 243 €/god.\n\nProfil općine: https://koncesijski-s
- at.vercel.app/#opcina/41942358B65119240177861\nIzvor: Registar koncesija (
- FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ dobra (KRALJEVICA) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTU
+ RE\, 243 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#o
+ pcina/41942358B65119240177861\nIzvor: Registar koncesija (FINA)\, obrada K
+ oncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B65119240177861
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -346,8 +364,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-dc416e370f70ee3d@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-1af4bbd3f7bc613c@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20760117
 DTEND;VALUE=DATE:20760118
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKI TELEKOM
@@ -355,8 +373,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKI TELEKOM
 DESCRIPTION:17. 7. 2076. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• HRVATSKI TELEKOM D.D. – Posebna upotreba pomorskog dobra (KRALJ
- EVICA)\, 243 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.ap
- p/#opcina/41942358B65119240177861
+ EVICA) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\, 243 €
+ /god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419423
+ 58B65119240177861
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B65119240177861
 TRANSP:TRANSPARENT
 BEGIN:VALARM

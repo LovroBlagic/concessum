@@ -4,24 +4,25 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Općina Stubičke Toplice
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Stubičke Toplic
- e. Iz Registra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake o
- brade podataka. https://koncesijski-sat.vercel.app/#opcina/41942358B307537
- 4378428
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Općina Stubičke Toplic
+ e (pregled\, svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). O
+ svježava se nakon svake obrade podataka. https://koncesijski-sat.vercel.a
+ pp/#opcina/41942358B3075374378428
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-17bd807270c00506@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-71c89e5c9e51780b@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20280306
 DTEND;VALUE=DATE:20280307
 SUMMARY:Ističe koncesija: LEUŠTEK J.D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 6. 3. 2028. Godišnja fiksna nakna
  da: 2.124 €.\n\n• LEUŠTEK J.D.O.O. – Koncesija za obavljanje dimnja
- čarskih poslova (STUBIČKE TOPLICE)\, 2.124 €/god.\n\nProfil općine: h
- ttps://koncesijski-sat.vercel.app/#opcina/41942358B3075374378428\nIzvor: R
- egistar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ čarskih poslova (STUBIČKE TOPLICE) · davatelj: OPĆINA STUBIČKE TOPLIC
+ E\, 2.124 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#
+ opcina/41942358B3075374378428\nIzvor: Registar koncesija (FINA)\, obrada K
+ oncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B3075374378428
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -31,8 +32,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-17bd807270c00506@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-71c89e5c9e51780b@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270906
 DTEND;VALUE=DATE:20270907
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (LEUŠTEK J.D.O.O
@@ -40,8 +41,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (LEUŠTEK J.D.O.O
 DESCRIPTION:6. 3. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• LEUŠTEK J.D.O.O. – Koncesija za obavljanje dimnjačarskih poslo
- va (STUBIČKE TOPLICE)\, 2.124 €/god.\n\nProfil općine: https://koncesi
- jski-sat.vercel.app/#opcina/41942358B3075374378428
+ va (STUBIČKE TOPLICE) · davatelj: OPĆINA STUBIČKE TOPLICE\, 2.124 €/
+ god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4194235
+ 8B3075374378428
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B3075374378428
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -52,16 +54,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-ab5339111b9a168f@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-950ed1bedd9d9c5e@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20321001
 DTEND;VALUE=DATE:20321002
 SUMMARY:Ističe koncesija: MULL-TRANS D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 1. 10. 2032. Godišnja fiksna nakn
  ada: 11.281 €.\n\n• MULL-TRANS D.O.O. – Koncesija skupljanja i odvoz
- a komunalnog otpada (STUBIČKE TOPLICE)\, 11.281 €/god.\n\nProfil općin
- e: https://koncesijski-sat.vercel.app/#opcina/41942358B3075374378428\nIzvo
- r: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ a komunalnog otpada (STUBIČKE TOPLICE) · davatelj: OPĆINA STUBIČKE TOP
+ LICE\, 11.281 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.a
+ pp/#opcina/41942358B3075374378428\nIzvor: Registar koncesija (FINA)\, obra
+ da Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B3075374378428
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -71,8 +74,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-ab5339111b9a168f@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-950ed1bedd9d9c5e@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20320401
 DTEND;VALUE=DATE:20320402
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MULL-TRANS D.O.O
@@ -80,8 +83,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MULL-TRANS D.O.O
 DESCRIPTION:1. 10. 2032. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• MULL-TRANS D.O.O. – Koncesija skupljanja i odvoza komunalnog ot
- pada (STUBIČKE TOPLICE)\, 11.281 €/god.\n\nProfil općine: https://konc
- esijski-sat.vercel.app/#opcina/41942358B3075374378428
+ pada (STUBIČKE TOPLICE) · davatelj: OPĆINA STUBIČKE TOPLICE\, 11.281 
+ €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
+ 42358B3075374378428
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B3075374378428
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -92,8 +96,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-00cdc169cf57f044@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-aa1bf64325e61728@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20341111
 DTEND;VALUE=DATE:20341112
 SUMMARY:Ističe koncesija: IVANA GOSPODARIĆ - ZAJEDNIČKI OBRT: UGOSTITELJ
@@ -101,9 +105,9 @@ SUMMARY:Ističe koncesija: IVANA GOSPODARIĆ - ZAJEDNIČKI OBRT: UGOSTITELJ
 DESCRIPTION:1 ugovor o koncesiji ističe 11. 11. 2034. Godišnja fiksna nak
  nada: 27 €.\n\n• IVANA GOSPODARIĆ - ZAJEDNIČKI OBRT: UGOSTITELJSTVO 
  I TRGOVINA – Koncesija na vodama i javnom vodnom dobru (STUBIČKE TOPLIC
- E)\, 27 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#op
- cina/41942358B3075374378428\nIzvor: Registar koncesija (FINA)\, obrada Kon
- cesijski sat 9. 11. 2026.
+ E) · davatelj: KRAPINSKO-ZAGORSKA ŽUPANIJA\, 27 €/god.\n\nProfil opći
+ ne: https://koncesijski-sat.vercel.app/#opcina/41942358B3075374378428\nIzv
+ or: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B3075374378428
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -114,8 +118,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-00cdc169cf57f044@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-aa1bf64325e61728@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20340511
 DTEND;VALUE=DATE:20340512
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (IVANA GOSPODARI
@@ -123,9 +127,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (IVANA GOSPODARI
 DESCRIPTION:11. 11. 2034. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• IVANA GOSPODARIĆ - ZAJEDNIČKI OBRT: UGOSTITELJSTVO I TRGOVINA 
- – Koncesija na vodama i javnom vodnom dobru (STUBIČKE TOPLICE)\, 27 €
- /god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419423
- 58B3075374378428
+ – Koncesija na vodama i javnom vodnom dobru (STUBIČKE TOPLICE) · davat
+ elj: KRAPINSKO-ZAGORSKA ŽUPANIJA\, 27 €/god.\n\nProfil općine: https:/
+ /koncesijski-sat.vercel.app/#opcina/41942358B3075374378428
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B3075374378428
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -136,16 +140,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-70b50f8cfb6f457c@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-4499cf2662bcb1b7@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20460506
 DTEND;VALUE=DATE:20460507
 SUMMARY:Ističe koncesija: TERME STUBAKI D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 6. 5. 2046. Godišnja fiksna nakna
  da: 2.550 €.\n\n• TERME STUBAKI D.O.O. – Koncesija za crpljenje mine
- ralnih i termalnih voda (STUBIČKE TOPLICE)\, 2.550 €/god.\n\nProfil op
- ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B3075374378428\n
- Izvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ ralnih i termalnih voda (STUBIČKE TOPLICE) · davatelj: MINISTARSTVO ZAŠ
+ TITE OKOLIŠA I ZELENE TRANZICIJE\, 2.550 €/god.\n\nProfil općine: http
+ s://koncesijski-sat.vercel.app/#opcina/41942358B3075374378428\nIzvor: Regi
+ star koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B3075374378428
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -155,8 +160,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-70b50f8cfb6f457c@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-4499cf2662bcb1b7@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20451106
 DTEND;VALUE=DATE:20451107
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (TERME STUBAKI D.
@@ -164,8 +169,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (TERME STUBAKI D.
 DESCRIPTION:6. 5. 2046. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• TERME STUBAKI D.O.O. – Koncesija za crpljenje mineralnih i terma
- lnih voda (STUBIČKE TOPLICE)\, 2.550 €/god.\n\nProfil općine: https://
- koncesijski-sat.vercel.app/#opcina/41942358B3075374378428
+ lnih voda (STUBIČKE TOPLICE) · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠA 
+ I ZELENE TRANZICIJE\, 2.550 €/god.\n\nProfil općine: https://koncesijsk
+ i-sat.vercel.app/#opcina/41942358B3075374378428
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B3075374378428
 TRANSP:TRANSPARENT
 BEGIN:VALARM

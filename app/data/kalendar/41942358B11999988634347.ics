@@ -4,23 +4,25 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Općina Čepin
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Čepin. Iz Regis
- tra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podat
- aka. https://koncesijski-sat.vercel.app/#opcina/41942358B11999988634347
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Općina Čepin (pregled\
+ , svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježava s
+ e nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#opcina/
+ 41942358B11999988634347
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-66071bc1ae3892d8@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-04631140a8cf12a5@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20300316
 DTEND;VALUE=DATE:20300317
 SUMMARY:Ističe koncesija: ŽITO  D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 16. 3. 2030. Godišnja fiksna nakn
  ada: 3.185 €.\n\n• ŽITO  D.O.O. – Koncesija za zahvaćanje voda rad
- i korištenja u proizvodnom postupku (ČEPIN)\, 3.185 €/god.\n\nProfil o
- pćine: https://koncesijski-sat.vercel.app/#opcina/41942358B11999988634347
- \nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ i korištenja u proizvodnom postupku (ČEPIN) · davatelj: MINISTARSTVO ZA
+ ŠTITE OKOLIŠA I ZELENE TRANZICIJE\, 3.185 €/god.\n\nProfil općine: ht
+ tps://koncesijski-sat.vercel.app/#opcina/41942358B11999988634347\nIzvor: R
+ egistar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B11999988634347
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -30,16 +32,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-66071bc1ae3892d8@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-04631140a8cf12a5@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20290916
 DTEND;VALUE=DATE:20290917
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ŽITO  D.O.O.)
 DESCRIPTION:16. 3. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• ŽITO  D.O.O. – Koncesija za zahvaćanje voda radi korištenja 
- u proizvodnom postupku (ČEPIN)\, 3.185 €/god.\n\nProfil općine: https:
- //koncesijski-sat.vercel.app/#opcina/41942358B11999988634347
+ u proizvodnom postupku (ČEPIN) · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠ
+ A I ZELENE TRANZICIJE\, 3.185 €/god.\n\nProfil općine: https://koncesij
+ ski-sat.vercel.app/#opcina/41942358B11999988634347
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B11999988634347
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -50,18 +53,19 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-8ecbf022a69d83a7@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-d61aa4fc8aa12630@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20350226
 DTEND;VALUE=DATE:20350227
 SUMMARY:Ističe 2 koncesije · Čepin
 DESCRIPTION:2 ugovora o koncesiji ističe 26. 2. 2035. Godišnja fiksna nak
  nada: 4.805 €.\n\n• SALAMI AUREA D.O.O. – Koncesija za zahvaćanje v
- oda za tehnološke potrebe (ČEPIN)\, 2.668 €/god.\n• COPADIO D.O.O. 
- – Koncesija za zahvaćanje voda za tehnološke potrebe (ČEPIN)\, 2.137 
- €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
- 42358B11999988634347\nIzvor: Registar koncesija (FINA)\, obrada Koncesijsk
- i sat 9. 11. 2026.
+ oda za tehnološke potrebe (ČEPIN) · davatelj: MINISTARSTVO ZAŠTITE OKO
+ LIŠA I ZELENE TRANZICIJE\, 2.668 €/god.\n• COPADIO D.O.O. – Koncesi
+ ja za zahvaćanje voda za tehnološke potrebe (ČEPIN) · davatelj: MINIST
+ ARSTVO ZAŠTITE OKOLIŠA I ZELENE TRANZICIJE\, 2.137 €/god.\n\nProfil op
+ ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B11999988634347\
+ nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B11999988634347
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -71,39 +75,41 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-8ecbf022a69d83a7@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-d61aa4fc8aa12630@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20340826
 DTEND;VALUE=DATE:20340827
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Čepin
 DESCRIPTION:26. 2. 2035. ističe 2 ugovora o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• SALAMI AUREA D.O.O. – Koncesija za zahvaćanje voda za tehnolo
- ške potrebe (ČEPIN)\, 2.668 €/god.\n• COPADIO D.O.O. – Koncesija z
- a zahvaćanje voda za tehnološke potrebe (ČEPIN)\, 2.137 €/god.\n\nPro
- fil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B119999886
- 34347
+ ške potrebe (ČEPIN) · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠA I ZELENE
+  TRANZICIJE\, 2.668 €/god.\n• COPADIO D.O.O. – Koncesija za zahvaća
+ nje voda za tehnološke potrebe (ČEPIN) · davatelj: MINISTARSTVO ZAŠTIT
+ E OKOLIŠA I ZELENE TRANZICIJE\, 2.137 €/god.\n\nProfil općine: https:/
+ /koncesijski-sat.vercel.app/#opcina/41942358B11999988634347
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B11999988634347
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Čepin
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-92999b17e58fc634@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-0d3c9e4604b9cf13@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20360710
 DTEND;VALUE=DATE:20360711
 SUMMARY:Ističe 2 koncesije · Čepin
 DESCRIPTION:2 ugovora o koncesiji ističe 10. 7. 2036. Godišnja fiksna nak
  nada: 32.570 €.\n\n• NOVI AGRAR D.O.O. – Koncesija za korištenje po
- ljoprivrednog zemljišta u vlasništvu države (ČEPIN)\, 16.285 €/god.\
- n• NOVI AGRAR D.O.O. – Koncesija za korištenje poljoprivrednog zemlji
- šta u vlasništvu države (ČEPIN)\, 16.285 €/god.\n\nProfil općine: h
- ttps://koncesijski-sat.vercel.app/#opcina/41942358B11999988634347\nIzvor: 
- Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ ljoprivrednog zemljišta u vlasništvu države (ČEPIN) · davatelj: OPĆI
+ NA ČEPIN\, 16.285 €/god.\n• NOVI AGRAR D.O.O. – Koncesija za koriš
+ tenje poljoprivrednog zemljišta u vlasništvu države (ČEPIN) · davatel
+ j: OPĆINA ČEPIN\, 16.285 €/god.\n\nProfil općine: https://koncesijski
+ -sat.vercel.app/#opcina/41942358B11999988634347\nIzvor: Registar koncesija
+  (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B11999988634347
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -113,29 +119,30 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-92999b17e58fc634@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-0d3c9e4604b9cf13@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20360110
 DTEND;VALUE=DATE:20360111
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Čepin
 DESCRIPTION:10. 7. 2036. ističe 2 ugovora o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• NOVI AGRAR D.O.O. – Koncesija za korištenje poljoprivrednog z
- emljišta u vlasništvu države (ČEPIN)\, 16.285 €/god.\n• NOVI AGRAR
-  D.O.O. – Koncesija za korištenje poljoprivrednog zemljišta u vlasniš
- tvu države (ČEPIN)\, 16.285 €/god.\n\nProfil općine: https://koncesij
- ski-sat.vercel.app/#opcina/41942358B11999988634347
+ emljišta u vlasništvu države (ČEPIN) · davatelj: OPĆINA ČEPIN\, 16.
+ 285 €/god.\n• NOVI AGRAR D.O.O. – Koncesija za korištenje poljopriv
+ rednog zemljišta u vlasništvu države (ČEPIN) · davatelj: OPĆINA ČEP
+ IN\, 16.285 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app
+ /#opcina/41942358B11999988634347
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B11999988634347
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Čepin
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-81549f19953dcf72@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-758c196b042935fa@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20440901
 DTEND;VALUE=DATE:20440902
 SUMMARY:Ističe koncesija: FARMA MUZNIH KRAVA MALA BRANJEVINA D.O.O. ZA POL
@@ -143,9 +150,10 @@ SUMMARY:Ističe koncesija: FARMA MUZNIH KRAVA MALA BRANJEVINA D.O.O. ZA POL
 DESCRIPTION:1 ugovor o koncesiji ističe 1. 9. 2044. Godišnja fiksna nakna
  da: 6.371 €.\n\n• FARMA MUZNIH KRAVA MALA BRANJEVINA D.O.O. ZA POLJOPR
  IVREDNU PROIZVODNJU – Koncesija za zahvaćanje voda za tehnološke potre
- be (ČEPIN)\, 6.371 €/god.\n\nProfil općine: https://koncesijski-sat.ve
- rcel.app/#opcina/41942358B11999988634347\nIzvor: Registar koncesija (FINA)
- \, obrada Koncesijski sat 9. 11. 2026.
+ be (ČEPIN) · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠA I ZELENE TRANZICIJ
+ E\, 6.371 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#
+ opcina/41942358B11999988634347\nIzvor: Registar koncesija (FINA)\, obrada 
+ Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B11999988634347
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -156,8 +164,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-81549f19953dcf72@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-758c196b042935fa@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20440301
 DTEND;VALUE=DATE:20440302
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (FARMA MUZNIH KRA
@@ -165,9 +173,10 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (FARMA MUZNIH KRA
 DESCRIPTION:1. 9. 2044. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• FARMA MUZNIH KRAVA MALA BRANJEVINA D.O.O. ZA POLJOPRIVREDNU PROIZV
- ODNJU – Koncesija za zahvaćanje voda za tehnološke potrebe (ČEPIN)\, 
- 6.371 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opci
- na/41942358B11999988634347
+ ODNJU – Koncesija za zahvaćanje voda za tehnološke potrebe (ČEPIN) ·
+  davatelj: MINISTARSTVO ZAŠTITE OKOLIŠA I ZELENE TRANZICIJE\, 6.371 €/
+ god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4194235
+ 8B11999988634347
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B11999988634347
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -178,16 +187,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-daf80cfca0450f7b@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-b32c79f77b8b7bd0@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20481129
 DTEND;VALUE=DATE:20481130
 SUMMARY:Ističe koncesija: ŽITO D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 29. 11. 2048. Godišnja fiksna nak
  nada: 2.668 €.\n\n• ŽITO D.O.O. – Koncesija za zahvaćanje voda za 
- tehnološke potrebe (ČEPIN)\, 2.668 €/god.\n\nProfil općine: https://k
- oncesijski-sat.vercel.app/#opcina/41942358B11999988634347\nIzvor: Registar
-  koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ tehnološke potrebe (ČEPIN) · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠA I
+  ZELENE TRANZICIJE\, 2.668 €/god.\n\nProfil općine: https://koncesijski
+ -sat.vercel.app/#opcina/41942358B11999988634347\nIzvor: Registar koncesija
+  (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B11999988634347
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -197,16 +207,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-daf80cfca0450f7b@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-b32c79f77b8b7bd0@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20480529
 DTEND;VALUE=DATE:20480530
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ŽITO D.O.O.)
 DESCRIPTION:29. 11. 2048. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• ŽITO D.O.O. – Koncesija za zahvaćanje voda za tehnološke po
- trebe (ČEPIN)\, 2.668 €/god.\n\nProfil općine: https://koncesijski-sat
- .vercel.app/#opcina/41942358B11999988634347
+ trebe (ČEPIN) · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠA I ZELENE TRANZI
+ CIJE\, 2.668 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.ap
+ p/#opcina/41942358B11999988634347
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B11999988634347
 TRANSP:TRANSPARENT
 BEGIN:VALARM

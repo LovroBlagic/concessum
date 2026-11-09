@@ -1,0 +1,94 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · OPĆINA DRAGALIĆ
+X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje OPĆINA DRAGALIĆ. Iz Regi
+ stra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade poda
+ taka. https://koncesijski-sat.vercel.app/#sat
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-c69f59beb1e420af@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20311106
+DTEND;VALUE=DATE:20311107
+SUMMARY:Ističe koncesija: PLIN-PROJEKT D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 6. 11. 2031.\n\n• PLIN-PROJEKT D
+ .O.O. – Koncesija za opskrbu potrošača prirodnim plinom (DRAGALIĆ\, O
+ pćina Dragalić)\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
+ \nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: PLIN-PROJEKT D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-c69f59beb1e420af@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20310506
+DTEND;VALUE=DATE:20310507
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PLIN-PROJEKT D.O
+ .O.)
+DESCRIPTION:6. 11. 2031. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• PLIN-PROJEKT D.O.O. – Koncesija za opskrbu potrošača prirodni
+ m plinom (DRAGALIĆ\, Općina Dragalić)\n\nŠto ističe: https://koncesij
+ ski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PLIN-PROJEKT
+  D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-30b079bd7a05b10f@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20361030
+DTEND;VALUE=DATE:20361031
+SUMMARY:Ističe koncesija: POLJOPRIVREDNO PREHRAMBENI KOMPLEKS D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 30. 10. 2036. Godišnja fiksna nak
+ nada: 7.496 €.\n\n• POLJOPRIVREDNO PREHRAMBENI KOMPLEKS D.O.O. – Kon
+ cesija za korištenje poljoprivrednog zemljišta u vlasništvu države (DR
+ AGALIĆ\, Općina Dragalić)\, 7.496 €/god.\n\nŠto ističe: https://kon
+ cesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Ko
+ ncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: POLJOPRIVREDNO PREHRAMBENI KOMPLEKS D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-30b079bd7a05b10f@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20360430
+DTEND;VALUE=DATE:20360501
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (POLJOPRIVREDNO P
+ REHRAMBENI KOMPLEKS D.O.O.)
+DESCRIPTION:30. 10. 2036. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• POLJOPRIVREDNO PREHRAMBENI KOMPLEKS D.O.O. – Koncesija za kori
+ štenje poljoprivrednog zemljišta u vlasništvu države (DRAGALIĆ\, Opć
+ ina Dragalić)\, 7.496 €/god.\n\nŠto ističe: https://koncesijski-sat.v
+ ercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (POLJOPRIVRED
+ NO PREHRAMBENI KOMPLEKS D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

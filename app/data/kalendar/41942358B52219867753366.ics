@@ -4,24 +4,25 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Općina Kravarsko
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Kravarsko. Iz Re
- gistra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade po
- dataka. https://koncesijski-sat.vercel.app/#opcina/41942358B52219867753366
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Općina Kravarsko (pregl
+ ed\, svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježav
+ a se nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#opci
+ na/41942358B52219867753366
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-6427dc8608483147@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-d56dc5e5f3c9c522@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20271113
 DTEND;VALUE=DATE:20271114
 SUMMARY:Ističe koncesija: ASPECT CROATIA KFT.
 DESCRIPTION:1 ugovor o koncesiji ističe 13. 11. 2027. Godišnja fiksna nak
  nada: 40 €.\n\n• ASPECT CROATIA KFT. – Dozvola za istraživanje uglj
- ikovodika (prema Zakonu o ugljikovodicima) (KRAVARSKO)\, 40 €/god.\n\nPr
- ofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B52219867
- 753366\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2
- 026.
+ ikovodika (prema Zakonu o ugljikovodicima) (KRAVARSKO) · davatelj: MINIST
+ ARSTVO GOSPODARSTVA\, 40 €/god.\n\nProfil općine: https://koncesijski-s
+ at.vercel.app/#opcina/41942358B52219867753366\nIzvor: Registar koncesija (
+ FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B52219867753366
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -31,8 +32,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-6427dc8608483147@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-d56dc5e5f3c9c522@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270513
 DTEND;VALUE=DATE:20270514
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ASPECT CROATIA K
@@ -40,8 +41,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ASPECT CROATIA K
 DESCRIPTION:13. 11. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• ASPECT CROATIA KFT. – Dozvola za istraživanje ugljikovodika (
- prema Zakonu o ugljikovodicima) (KRAVARSKO)\, 40 €/god.\n\nProfil općin
- e: https://koncesijski-sat.vercel.app/#opcina/41942358B52219867753366
+ prema Zakonu o ugljikovodicima) (KRAVARSKO) · davatelj: MINISTARSTVO GOSP
+ ODARSTVA\, 40 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.a
+ pp/#opcina/41942358B52219867753366
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B52219867753366
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -52,8 +54,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-86f400226ae99ae5@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-bc080e67c1d9ee62@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20290426
 DTEND;VALUE=DATE:20290427
 SUMMARY:Ističe koncesija: E-RADIO D.O.O. ZA RADIJSKU I TELEVIZIJSKU DJELAT
@@ -61,9 +63,10 @@ SUMMARY:Ističe koncesija: E-RADIO D.O.O. ZA RADIJSKU I TELEVIZIJSKU DJELAT
 DESCRIPTION:1 ugovor o koncesiji ističe 26. 4. 2029. Godišnja fiksna nakn
  ada: 133 €.\n\n• E-RADIO D.O.O. ZA RADIJSKU I TELEVIZIJSKU DJELATNOST 
  – Koncesija za obavljanje djelatnosti radija (KRAVARSKO\, LEKENIK\, VELI
- KA GORICA)\, 133 €/god.\n\nProfil općine: https://koncesijski-sat.verce
- l.app/#opcina/41942358B52219867753366\nIzvor: Registar koncesija (FINA)\, 
- obrada Koncesijski sat 9. 11. 2026.
+ KA GORICA) · davatelj: AGENCIJA ZA ELEKTRONIČKE MEDIJE\, 133 €/god.\n\
+ nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B52219
+ 867753366\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11
+ . 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B52219867753366
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -74,8 +77,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-86f400226ae99ae5@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-bc080e67c1d9ee62@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20281026
 DTEND;VALUE=DATE:20281027
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (E-RADIO D.O.O. Z
@@ -83,9 +86,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (E-RADIO D.O.O. Z
 DESCRIPTION:26. 4. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• E-RADIO D.O.O. ZA RADIJSKU I TELEVIZIJSKU DJELATNOST – Koncesij
- a za obavljanje djelatnosti radija (KRAVARSKO\, LEKENIK\, VELIKA GORICA)\,
-  133 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcin
- a/41942358B52219867753366
+ a za obavljanje djelatnosti radija (KRAVARSKO\, LEKENIK\, VELIKA GORICA) 
+ · davatelj: AGENCIJA ZA ELEKTRONIČKE MEDIJE\, 133 €/god.\n\nProfil op
+ ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B52219867753366
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B52219867753366
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -96,17 +99,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-acea441e5d91747e@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-32ac7cdb298ff3f2@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20550626
 DTEND;VALUE=DATE:20550627
 SUMMARY:Ističe koncesija: ASPECT CROATIA KFT. - PODRUŽNICA ZAGREB
 DESCRIPTION:1 ugovor o koncesiji ističe 26. 6. 2055. Godišnja fiksna nakn
  ada: 3.061 €.\n\n• ASPECT CROATIA KFT. - PODRUŽNICA ZAGREB – Dozvol
  a za istraživanje ugljikovodika (prema Zakonu o ugljikovodicima) (KRAVARS
- KO)\, 3.061 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app
- /#opcina/41942358B52219867753366\nIzvor: Registar koncesija (FINA)\, obrad
- a Koncesijski sat 9. 11. 2026.
+ KO) · davatelj: MINISTARSTVO GOSPODARSTVA\, 3.061 €/god.\n\nProfil opć
+ ine: https://koncesijski-sat.vercel.app/#opcina/41942358B52219867753366\nI
+ zvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B52219867753366
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -116,8 +119,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-acea441e5d91747e@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-32ac7cdb298ff3f2@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20541226
 DTEND;VALUE=DATE:20541227
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ASPECT CROATIA K
@@ -125,9 +128,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ASPECT CROATIA K
 DESCRIPTION:26. 6. 2055. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• ASPECT CROATIA KFT. - PODRUŽNICA ZAGREB – Dozvola za istraživ
- anje ugljikovodika (prema Zakonu o ugljikovodicima) (KRAVARSKO)\, 3.061 
- €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
- 42358B52219867753366
+ anje ugljikovodika (prema Zakonu o ugljikovodicima) (KRAVARSKO) · davatel
+ j: MINISTARSTVO GOSPODARSTVA\, 3.061 €/god.\n\nProfil općine: https://k
+ oncesijski-sat.vercel.app/#opcina/41942358B52219867753366
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B52219867753366
 TRANSP:TRANSPARENT
 BEGIN:VALARM

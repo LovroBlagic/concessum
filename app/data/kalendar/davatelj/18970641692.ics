@@ -1,0 +1,100 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · GRAD BJELOVAR
+X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje GRAD BJELOVAR. Iz Registra
+  koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podataka
+ . https://koncesijski-sat.vercel.app/#sat
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-e153507a76047900@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20280501
+DTEND;VALUE=DATE:20280502
+SUMMARY:Ističe 3 koncesije · GRAD BJELOVAR
+DESCRIPTION:3 ugovora o koncesiji ističe 1. 5. 2028. Godišnja fiksna nakn
+ ada: 6.600 €.\n\n• ZDRAVKO JANKOVIĆ\, DIMNJAČARSKI OBRT – Koncesij
+ a za obavljanje dimnjačarskih poslova (BJELOVAR\, Grad Bjelovar)\, 2.500 
+ €/god.\n• OBRT DIMKO VL DRAGAN OKRUGIĆ – Koncesija za obavljanje di
+ mnjačarskih poslova (BJELOVAR\, Grad Bjelovar)\, 2.050 €/god.\n• DIMN
+ JAČARSKI OBRT DIMKO VL DRAGAN OKRUGIĆ – Koncesija za obavljanje dimnja
+ čarskih poslova (BJELOVAR\, Grad Bjelovar)\, 2.050 €/god.\n\nŠto isti
+ če: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (F
+ INA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 3 koncesije · GRAD BJELOVAR
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-e153507a76047900@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20271101
+DTEND;VALUE=DATE:20271102
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · GRAD BJELOVAR
+DESCRIPTION:1. 5. 2028. ističe 3 ugovora o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• ZDRAVKO JANKOVIĆ\, DIMNJAČARSKI OBRT – Koncesija za obavljanj
+ e dimnjačarskih poslova (BJELOVAR\, Grad Bjelovar)\, 2.500 €/god.\n• 
+ OBRT DIMKO VL DRAGAN OKRUGIĆ – Koncesija za obavljanje dimnjačarskih p
+ oslova (BJELOVAR\, Grad Bjelovar)\, 2.050 €/god.\n• DIMNJAČARSKI OBRT
+  DIMKO VL DRAGAN OKRUGIĆ – Koncesija za obavljanje dimnjačarskih poslo
+ va (BJELOVAR\, Grad Bjelovar)\, 2.050 €/god.\n\nŠto ističe: https://ko
+ ncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · GRAD BJELO
+ VAR
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-974fd2f4da0fc056@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20291201
+DTEND;VALUE=DATE:20291202
+SUMMARY:Ističe koncesija: ZDRAVKO JANKOVIĆ\, DIMNJAČARSKI OBRT
+DESCRIPTION:1 ugovor o koncesiji ističe 1. 12. 2029. Godišnja fiksna nakn
+ ada: 2.000 €.\n\n• ZDRAVKO JANKOVIĆ\, DIMNJAČARSKI OBRT – Koncesij
+ a za obavljanje dimnjačarskih poslova (BJELOVAR\, Grad Bjelovar)\, 2.000 
+ €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: 
+ Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: ZDRAVKO JANKOVIĆ\, DIMNJAČARSKI OBRT
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-974fd2f4da0fc056@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20290601
+DTEND;VALUE=DATE:20290602
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ZDRAVKO JANKOVI
+ Ć\, DIMNJAČARSKI OBRT)
+DESCRIPTION:1. 12. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• ZDRAVKO JANKOVIĆ\, DIMNJAČARSKI OBRT – Koncesija za obavljanj
+ e dimnjačarskih poslova (BJELOVAR\, Grad Bjelovar)\, 2.000 €/god.\n\nŠ
+ to ističe: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ZDRAVKO JANK
+ OVIĆ\, DIMNJAČARSKI OBRT)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

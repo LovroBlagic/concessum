@@ -1,0 +1,322 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · OPĆINA MARKUŠICA
+X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje OPĆINA MARKUŠICA. Iz Reg
+ istra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade pod
+ ataka. https://koncesijski-sat.vercel.app/#sat
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-864ed71d970ed26a@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:Ističe koncesija: NEVKOŠ D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 9. 5. 2027. Godišnja fiksna nakna
+ da: 1.460 €.\n\n• NEVKOŠ D.O.O. – Koncesija skupljanja i odvoza kom
+ unalnog otpada (MARKUŠICA\, Općina Markušica)\, 1.460 €/god.\n\nŠto 
+ ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesij
+ a (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: NEVKOŠ D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-864ed71d970ed26a@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (NEVKOŠ D.O.O.)
+DESCRIPTION:9. 5. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodjele
+  treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
+ \n\n• NEVKOŠ D.O.O. – Koncesija skupljanja i odvoza komunalnog otpada
+  (MARKUŠICA\, Općina Markušica)\, 1.460 €/god.\n\nŠto ističe: https
+ ://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (NEVKOŠ D.O.
+ O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-1597d3ca6a5500d0@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20271103
+DTEND;VALUE=DATE:20271104
+SUMMARY:Ističe koncesija: HRVOJE HORVAT\,DUO EKO-DIM\,USLUGE SA SELA
+DESCRIPTION:1 ugovor o koncesiji ističe 3. 11. 2027. Godišnja fiksna nakn
+ ada: 465 €.\n\n• HRVOJE HORVAT\,DUO EKO-DIM\,USLUGE SA SELA – Konces
+ ija za obavljanje dimnjačarskih poslova (MARKUŠICA\, Općina Markušica)
+ \, 465 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\n
+ Izvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: HRVOJE HORVAT\,DUO EKO-DIM\,USLUGE SA SELA
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-1597d3ca6a5500d0@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20270503
+DTEND;VALUE=DATE:20270504
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVOJE HORVAT\,D
+ UO EKO-DIM\,USLUGE SA SELA)
+DESCRIPTION:3. 11. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• HRVOJE HORVAT\,DUO EKO-DIM\,USLUGE SA SELA – Koncesija za obavl
+ janje dimnjačarskih poslova (MARKUŠICA\, Općina Markušica)\, 465 €/g
+ od.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVOJE HORVA
+ T\,DUO EKO-DIM\,USLUGE SA SELA)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-d1ddeb6700a1cafe@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20310420
+DTEND;VALUE=DATE:20310421
+SUMMARY:Ističe 2 koncesije · OPĆINA MARKUŠICA
+DESCRIPTION:2 ugovora o koncesiji ističe 20. 4. 2031.\n\n• HEP-PLIN D.O.
+ O. ZA DISTRIBUCIJU I OPSKRBU PLINOM – Koncesija za opskrbu potrošača p
+ rirodnim plinom (MARKUŠICA\, Općina Markušica)\n• HEP-PLIN D.O.O. –
+  Koncesija za opskrbu potrošača prirodnim plinom (MARKUŠICA\, Općina M
+ arkušica)\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor
+ : Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 2 koncesije · OPĆINA MARKUŠICA
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-d1ddeb6700a1cafe@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20301020
+DTEND;VALUE=DATE:20301021
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · OPĆINA MARKU
+ ŠICA
+DESCRIPTION:20. 4. 2031. ističe 2 ugovora o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• HEP-PLIN D.O.O. ZA DISTRIBUCIJU I OPSKRBU PLINOM – Koncesija z
+ a opskrbu potrošača prirodnim plinom (MARKUŠICA\, Općina Markušica)\n
+ • HEP-PLIN D.O.O. – Koncesija za opskrbu potrošača prirodnim plinom 
+ (MARKUŠICA\, Općina Markušica)\n\nŠto ističe: https://koncesijski-sat
+ .vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije · OPĆINA MA
+ RKUŠICA
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-43c73fca28df5bf5@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20310502
+DTEND;VALUE=DATE:20310503
+SUMMARY:Ističe 17 koncesija · OPĆINA MARKUŠICA
+DESCRIPTION:17 ugovora o koncesiji ističe 2. 5. 2031. Godišnja fiksna nak
+ nada: 22.064 €.\n\n• FRANJO ILEKOVIĆ I MILAN ILEKOVIĆ – Koncesija 
+ za korištenje poljoprivrednog zemljišta u vlasništvu države (MARKUŠIC
+ A\, Općina Markušica)\, 3.147 €/god.\n• AUGUST DRAGANIĆ I STJEPAN D
+ RVAR – Koncesija za korištenje poljoprivrednog zemljišta u vlasništvu
+  države (MARKUŠICA\, Općina Markušica)\, 2.990 €/god.\n• JOSIP BOR
+ AS – Koncesija za korištenje poljoprivrednog zemljišta u vlasništvu d
+ ržave (MARKUŠICA\, Općina Markušica)\, 2.167 €/god.\n• IVAN KOLIĆ
+  – Koncesija za korištenje poljoprivrednog zemljišta u vlasništvu dr
+ žave (MARKUŠICA\, Općina Markušica)\, 2.044 €/god.\n• ZDRAVKO DUGI
+ NA – Koncesija za korištenje poljoprivrednog zemljišta u vlasništvu d
+ ržave (MARKUŠICA\, Općina Markušica)\, 1.567 €/god.\n• OBITELJSKO 
+ GOSPODARSTVO\, VL. MILAN ŠKOF – Koncesija za korištenje poljoprivredno
+ g zemljišta u vlasništvu države (MARKUŠICA\, Općina Markušica)\, 1.4
+ 06 €/god.\n• MIROSLAV MIKULEC – Koncesija za korištenje poljoprivre
+ dnog zemljišta u vlasništvu države (MARKUŠICA\, Općina Markušica)\, 
+ 1.380 €/god.\n• MILAN ILEKOVIĆ – Koncesija za korištenje poljopriv
+ rednog zemljišta u vlasništvu države (MARKUŠICA\, Općina Markušica)\
+ , 1.306 €/god.\n• ŽELJKO ILEKOVIĆ – Koncesija za korištenje poljo
+ privrednog zemljišta u vlasništvu države (MARKUŠICA\, Općina Markuši
+ ca)\, 1.278 €/god.\n• MILAN SMETIŠKO – Koncesija za korištenje pol
+ joprivrednog zemljišta u vlasništvu države (MARKUŠICA\, Općina Marku
+ šica)\, 940 €/god.\n• MARINKO KADOIĆ – Koncesija za korištenje po
+ ljoprivrednog zemljišta u vlasništvu države (MARKUŠICA\, Općina Marku
+ šica)\, 788 €/god.\n• NATAŠA NETINGER – Koncesija za korištenje p
+ oljoprivrednog zemljišta u vlasništvu države (MARKUŠICA\, Općina Mark
+ ušica)\, 703 €/god.\n• ŽELJKO VRBAN – Koncesija za korištenje pol
+ joprivrednog zemljišta u vlasništvu države (MARKUŠICA\, Općina Marku
+ šica)\, 697 €/god.\n• JOSIP CULEJ – Koncesija za korištenje poljop
+ rivrednog zemljišta u vlasništvu države (MARKUŠICA\, Općina Markušic
+ a)\, 586 €/god.\n• TOMISLAV KOLIĆ – Koncesija za korištenje poljop
+ rivrednog zemljišta u vlasništvu države (MARKUŠICA\, Općina Markušic
+ a)\, 514 €/god.\n• JOSIP TUŠEK – Koncesija za korištenje poljopriv
+ rednog zemljišta u vlasništvu države (MARKUŠICA\, Općina Markušica)\
+ , 348 €/god.\n• STEVO CULEJ – Koncesija za korištenje poljoprivredn
+ og zemljišta u vlasništvu države (MARKUŠICA\, Općina Markušica)\, 20
+ 3 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor
+ : Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 17 koncesija · OPĆINA MARKUŠICA
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-43c73fca28df5bf5@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20301102
+DTEND;VALUE=DATE:20301103
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 17 koncesija · OPĆINA MARKU
+ ŠICA
+DESCRIPTION:2. 5. 2031. ističe 17 ugovora o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• FRANJO ILEKOVIĆ I MILAN ILEKOVIĆ – Koncesija za korištenje 
+ poljoprivrednog zemljišta u vlasništvu države (MARKUŠICA\, Općina Mar
+ kušica)\, 3.147 €/god.\n• AUGUST DRAGANIĆ I STJEPAN DRVAR – Konces
+ ija za korištenje poljoprivrednog zemljišta u vlasništvu države (MARKU
+ ŠICA\, Općina Markušica)\, 2.990 €/god.\n• JOSIP BORAS – Koncesij
+ a za korištenje poljoprivrednog zemljišta u vlasništvu države (MARKUŠ
+ ICA\, Općina Markušica)\, 2.167 €/god.\n• IVAN KOLIĆ – Koncesija 
+ za korištenje poljoprivrednog zemljišta u vlasništvu države (MARKUŠIC
+ A\, Općina Markušica)\, 2.044 €/god.\n• ZDRAVKO DUGINA – Koncesija
+  za korištenje poljoprivrednog zemljišta u vlasništvu države (MARKUŠI
+ CA\, Općina Markušica)\, 1.567 €/god.\n• OBITELJSKO GOSPODARSTVO\, V
+ L. MILAN ŠKOF – Koncesija za korištenje poljoprivrednog zemljišta u v
+ lasništvu države (MARKUŠICA\, Općina Markušica)\, 1.406 €/god.\n•
+  MIROSLAV MIKULEC – Koncesija za korištenje poljoprivrednog zemljišta 
+ u vlasništvu države (MARKUŠICA\, Općina Markušica)\, 1.380 €/god.\n
+ • MILAN ILEKOVIĆ – Koncesija za korištenje poljoprivrednog zemljišt
+ a u vlasništvu države (MARKUŠICA\, Općina Markušica)\, 1.306 €/god.
+ \n• ŽELJKO ILEKOVIĆ – Koncesija za korištenje poljoprivrednog zemlj
+ išta u vlasništvu države (MARKUŠICA\, Općina Markušica)\, 1.278 €/
+ god.\n• MILAN SMETIŠKO – Koncesija za korištenje poljoprivrednog zem
+ ljišta u vlasništvu države (MARKUŠICA\, Općina Markušica)\, 940 €/
+ god.\n• MARINKO KADOIĆ – Koncesija za korištenje poljoprivrednog zem
+ ljišta u vlasništvu države (MARKUŠICA\, Općina Markušica)\, 788 €/
+ god.\n• NATAŠA NETINGER – Koncesija za korištenje poljoprivrednog ze
+ mljišta u vlasništvu države (MARKUŠICA\, Općina Markušica)\, 703 €
+ /god.\n• ŽELJKO VRBAN – Koncesija za korištenje poljoprivrednog zeml
+ jišta u vlasništvu države (MARKUŠICA\, Općina Markušica)\, 697 €/g
+ od.\n• JOSIP CULEJ – Koncesija za korištenje poljoprivrednog zemljiš
+ ta u vlasništvu države (MARKUŠICA\, Općina Markušica)\, 586 €/god.\
+ n• TOMISLAV KOLIĆ – Koncesija za korištenje poljoprivrednog zemljiš
+ ta u vlasništvu države (MARKUŠICA\, Općina Markušica)\, 514 €/god.\
+ n• JOSIP TUŠEK – Koncesija za korištenje poljoprivrednog zemljišta 
+ u vlasništvu države (MARKUŠICA\, Općina Markušica)\, 348 €/god.\n
+ • STEVO CULEJ – Koncesija za korištenje poljoprivrednog zemljišta u 
+ vlasništvu države (MARKUŠICA\, Općina Markušica)\, 203 €/god.\n\nŠ
+ to ističe: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 17 koncesija · OPĆINA M
+ ARKUŠICA
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-29b3959db2949a38@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20370220
+DTEND;VALUE=DATE:20370221
+SUMMARY:Ističe koncesija: POLJOPRIVREDNA ZADRUGA MARKUŠICA
+DESCRIPTION:1 ugovor o koncesiji ističe 20. 2. 2037. Godišnja fiksna nakn
+ ada: 2.216 €.\n\n• POLJOPRIVREDNA ZADRUGA MARKUŠICA – Koncesija za 
+ korištenje poljoprivrednog zemljišta u vlasništvu države (MARKUŠICA\,
+  Općina Markušica)\, 2.216 €/god.\n\nŠto ističe: https://koncesijski
+ -sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Koncesijsk
+ i sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: POLJOPRIVREDNA ZADRUGA MARKUŠICA
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-29b3959db2949a38@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20360820
+DTEND;VALUE=DATE:20360821
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (POLJOPRIVREDNA Z
+ ADRUGA MARKUŠICA)
+DESCRIPTION:20. 2. 2037. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• POLJOPRIVREDNA ZADRUGA MARKUŠICA – Koncesija za korištenje po
+ ljoprivrednog zemljišta u vlasništvu države (MARKUŠICA\, Općina Marku
+ šica)\, 2.216 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.ap
+ p/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (POLJOPRIVRED
+ NA ZADRUGA MARKUŠICA)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-0a6b0d8d99ba4638@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20380423
+DTEND;VALUE=DATE:20380424
+SUMMARY:Ističe koncesija: ERVENICA D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 23. 4. 2038. Godišnja fiksna nakn
+ ada: 6.883 €.\n\n• ERVENICA D.O.O. – Koncesija za korištenje poljop
+ rivrednog zemljišta u vlasništvu države (MARKUŠICA\, Općina Markušic
+ a)\, 6.883 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#s
+ at\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: ERVENICA D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-0a6b0d8d99ba4638@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20371023
+DTEND;VALUE=DATE:20371024
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ERVENICA D.O.O.)
+DESCRIPTION:23. 4. 2038. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• ERVENICA D.O.O. – Koncesija za korištenje poljoprivrednog zeml
+ jišta u vlasništvu države (MARKUŠICA\, Općina Markušica)\, 6.883 €
+ /god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ERVENICA D.O
+ .O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

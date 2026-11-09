@@ -4,24 +4,25 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Grad Zabok
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Grad Zabok. Iz Registra 
- koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podataka.
-  https://koncesijski-sat.vercel.app/#opcina/41942358B75991316092026
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Grad Zabok (pregled\, sv
+ i davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježava se na
+ kon svake obrade podataka. https://koncesijski-sat.vercel.app/#opcina/4194
+ 2358B75991316092026
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-5059470ce564fd13@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-dc0c73dc6347feb9@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270323
 DTEND;VALUE=DATE:20270324
 SUMMARY:Ističe koncesija: MAJA ŠĆUKANEC - EL-NI MAJA ŠĆUKANEC
 DESCRIPTION:1 ugovor o koncesiji ističe 23. 3. 2027. Godišnja fiksna nakn
  ada: 876 €.\n\n• MAJA ŠĆUKANEC - EL-NI MAJA ŠĆUKANEC – Koncesija
-  za obavljanje djelatnosti tržnica na malo (ZABOK)\, 876 €/god.\n\nProf
- il općine: https://koncesijski-sat.vercel.app/#opcina/41942358B7599131609
- 2026\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 202
- 6.
+  za obavljanje djelatnosti tržnica na malo (ZABOK) · davatelj: GRAD ZABO
+ K\, 876 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#op
+ cina/41942358B75991316092026\nIzvor: Registar koncesija (FINA)\, obrada Ko
+ ncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B75991316092026
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -31,16 +32,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-27de6b276eae9017@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-a1d4af739518d5a7@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20310821
 DTEND;VALUE=DATE:20310822
 SUMMARY:Ističe koncesija: LEUŠTEK J.D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 21. 8. 2031. Godišnja fiksna nakn
  ada: 7.320 €.\n\n• LEUŠTEK J.D.O.O. – Koncesija za obavljanje dimnj
- ačarskih poslova (ZABOK)\, 7.320 €/god.\n\nProfil općine: https://konc
- esijski-sat.vercel.app/#opcina/41942358B75991316092026\nIzvor: Registar ko
- ncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ ačarskih poslova (ZABOK) · davatelj: GRAD ZABOK\, 7.320 €/god.\n\nProf
+ il općine: https://koncesijski-sat.vercel.app/#opcina/41942358B7599131609
+ 2026\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 202
+ 6.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B75991316092026
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -50,8 +52,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-27de6b276eae9017@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-a1d4af739518d5a7@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20310221
 DTEND;VALUE=DATE:20310222
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (LEUŠTEK J.D.O.O
@@ -59,8 +61,8 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (LEUŠTEK J.D.O.O
 DESCRIPTION:21. 8. 2031. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• LEUŠTEK J.D.O.O. – Koncesija za obavljanje dimnjačarskih posl
- ova (ZABOK)\, 7.320 €/god.\n\nProfil općine: https://koncesijski-sat.ve
- rcel.app/#opcina/41942358B75991316092026
+ ova (ZABOK) · davatelj: GRAD ZABOK\, 7.320 €/god.\n\nProfil općine: ht
+ tps://koncesijski-sat.vercel.app/#opcina/41942358B75991316092026
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B75991316092026
 TRANSP:TRANSPARENT
 BEGIN:VALARM

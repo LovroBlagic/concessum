@@ -4,23 +4,25 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Općina Križ
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Križ. Iz Regist
- ra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podata
- ka. https://koncesijski-sat.vercel.app/#opcina/41942358B65618644238266
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Općina Križ (pregled\,
+  svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježava se
+  nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#opcina/4
+ 1942358B65618644238266
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-401cb9c9c62f000e@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-b4d083764b3300a1@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
 SUMMARY:Ističe koncesija: KOMUNALNI CENTAR IVANIĆ-GRAD D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 5. 12. 2026. Godišnja fiksna nakn
  ada: 1.000 €.\n\n• KOMUNALNI CENTAR IVANIĆ-GRAD D.O.O. – Koncesija 
- za obavljanje dimnjačarskih poslova (KRIŽ)\, 1.000 €/god.\n\nProfil op
- ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B65618644238266\
- nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ za obavljanje dimnjačarskih poslova (KRIŽ) · davatelj: OPĆINA KRIŽ\, 
+ 1.000 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opci
+ na/41942358B65618644238266\nIzvor: Registar koncesija (FINA)\, obrada Konc
+ esijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B65618644238266
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -30,17 +32,18 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-ab4d47ad2d4c16da@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-5c14f5e6f8d2f521@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
 SUMMARY:Ističe 2 koncesije · Križ
 DESCRIPTION:2 ugovora o koncesiji ističe 31. 12. 2026.\n\n• INA-INDUSTRI
  JA NAFTE  D.D. – Dozvola za eksploataciju ugljikovodika (prema Zakonu o 
- ugljikovodicima) (KRIŽ)\n• INA D.D. – Dozvola za eksploataciju ugljik
- ovodika (prema Zakonu o ugljikovodicima) (KRIŽ)\n\nProfil općine: https:
- //koncesijski-sat.vercel.app/#opcina/41942358B65618644238266\nIzvor: Regis
- tar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ ugljikovodicima) (KRIŽ) · davatelj: MINISTARSTVO GOSPODARSTVA\n• INA D
+ .D. – Dozvola za eksploataciju ugljikovodika (prema Zakonu o ugljikovodi
+ cima) (KRIŽ) · davatelj: MINISTARSTVO GOSPODARSTVA\n\nProfil općine: ht
+ tps://koncesijski-sat.vercel.app/#opcina/41942358B65618644238266\nIzvor: R
+ egistar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B65618644238266
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -50,17 +53,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-35dc748cb1bff851@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-264ac90b08690e74@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20271113
 DTEND;VALUE=DATE:20271114
 SUMMARY:Ističe koncesija: ASPECT CROATIA KFT.
 DESCRIPTION:1 ugovor o koncesiji ističe 13. 11. 2027. Godišnja fiksna nak
  nada: 2.710 €.\n\n• ASPECT CROATIA KFT. – Dozvola za istraživanje u
- gljikovodika (prema Zakonu o ugljikovodicima) (KRIŽ)\, 2.710 €/god.\n\n
- Profil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B656186
- 44238266\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11.
-  2026.
+ gljikovodika (prema Zakonu o ugljikovodicima) (KRIŽ) · davatelj: MINISTA
+ RSTVO GOSPODARSTVA\, 2.710 €/god.\n\nProfil općine: https://koncesijski
+ -sat.vercel.app/#opcina/41942358B65618644238266\nIzvor: Registar koncesija
+  (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B65618644238266
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -70,8 +73,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-35dc748cb1bff851@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-264ac90b08690e74@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270513
 DTEND;VALUE=DATE:20270514
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ASPECT CROATIA K
@@ -79,8 +82,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ASPECT CROATIA K
 DESCRIPTION:13. 11. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• ASPECT CROATIA KFT. – Dozvola za istraživanje ugljikovodika (
- prema Zakonu o ugljikovodicima) (KRIŽ)\, 2.710 €/god.\n\nProfil općine
- : https://koncesijski-sat.vercel.app/#opcina/41942358B65618644238266
+ prema Zakonu o ugljikovodicima) (KRIŽ) · davatelj: MINISTARSTVO GOSPODAR
+ STVA\, 2.710 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.ap
+ p/#opcina/41942358B65618644238266
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B65618644238266
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -91,17 +95,18 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-509087ce1bcf13cd@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-85a55ed9ec1f899d@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20341231
 DTEND;VALUE=DATE:20350101
 SUMMARY:Ističe 2 koncesije · Križ
 DESCRIPTION:2 ugovora o koncesiji ističe 31. 12. 2034.\n\n• INA D.D. –
   Dozvola za eksploataciju ugljikovodika (prema Zakonu o ugljikovodicima) (
- KRIŽ)\n• INA-INDUSTRIJA NAFTE  D.D. – Dozvola za eksploataciju ugljik
- ovodika (prema Zakonu o ugljikovodicima) (KRIŽ)\n\nProfil općine: https:
- //koncesijski-sat.vercel.app/#opcina/41942358B65618644238266\nIzvor: Regis
- tar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ KRIŽ) · davatelj: MINISTARSTVO GOSPODARSTVA\n• INA-INDUSTRIJA NAFTE  D
+ .D. – Dozvola za eksploataciju ugljikovodika (prema Zakonu o ugljikovodi
+ cima) (KRIŽ) · davatelj: MINISTARSTVO GOSPODARSTVA\n\nProfil općine: ht
+ tps://koncesijski-sat.vercel.app/#opcina/41942358B65618644238266\nIzvor: R
+ egistar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B65618644238266
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -111,40 +116,43 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-509087ce1bcf13cd@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-85a55ed9ec1f899d@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20340630
 DTEND;VALUE=DATE:20340701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Križ
 DESCRIPTION:31. 12. 2034. ističe 2 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• INA D.D. – Dozvola za eksploataciju ugljikovodika (prema Zako
- nu o ugljikovodicima) (KRIŽ)\n• INA-INDUSTRIJA NAFTE  D.D. – Dozvola 
- za eksploataciju ugljikovodika (prema Zakonu o ugljikovodicima) (KRIŽ)\n\
- nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B65618
- 644238266
+ nu o ugljikovodicima) (KRIŽ) · davatelj: MINISTARSTVO GOSPODARSTVA\n• 
+ INA-INDUSTRIJA NAFTE  D.D. – Dozvola za eksploataciju ugljikovodika (pre
+ ma Zakonu o ugljikovodicima) (KRIŽ) · davatelj: MINISTARSTVO GOSPODARSTV
+ A\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B6
+ 5618644238266
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B65618644238266
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Križ
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-2a62b1844fdfd9c7@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-f32d0a84456a07d8@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20361231
 DTEND;VALUE=DATE:20370101
 SUMMARY:Ističe 3 koncesije · Križ
 DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2036. Godišnja fiksna na
  knada: 8.970 €.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauze
- tu površinu odobrenog eksploatacijskog polja (KRIŽ)\, 8.970 €/god.\n
- • INA-INDUSTRIJA NAFTE  D.D. – Dozvola za eksploataciju ugljikovodika 
- (prema Zakonu o ugljikovodicima) (KRIŽ)\n• INA D.D. – Dozvola za eksp
- loataciju ugljikovodika (prema Zakonu o ugljikovodicima) (KRIŽ)\n\nProfil
-  općine: https://koncesijski-sat.vercel.app/#opcina/41942358B656186442382
- 66\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ tu površinu odobrenog eksploatacijskog polja (KRIŽ) · davatelj: MINISTA
+ RSTVO GOSPODARSTVA\, 8.970 €/god.\n• INA-INDUSTRIJA NAFTE  D.D. – Do
+ zvola za eksploataciju ugljikovodika (prema Zakonu o ugljikovodicima) (KRI
+ Ž) · davatelj: MINISTARSTVO GOSPODARSTVA\n• INA D.D. – Dozvola za ek
+ sploataciju ugljikovodika (prema Zakonu o ugljikovodicima) (KRIŽ) · dava
+ telj: MINISTARSTVO GOSPODARSTVA\n\nProfil općine: https://koncesijski-sat
+ .vercel.app/#opcina/41942358B65618644238266\nIzvor: Registar koncesija (FI
+ NA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B65618644238266
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -154,39 +162,41 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-2a62b1844fdfd9c7@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-f32d0a84456a07d8@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20360630
 DTEND;VALUE=DATE:20360701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Križ
 DESCRIPTION:31. 12. 2036. ističe 3 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauzetu površinu o
- dobrenog eksploatacijskog polja (KRIŽ)\, 8.970 €/god.\n• INA-INDUSTRI
- JA NAFTE  D.D. – Dozvola za eksploataciju ugljikovodika (prema Zakonu o 
- ugljikovodicima) (KRIŽ)\n• INA D.D. – Dozvola za eksploataciju ugljik
- ovodika (prema Zakonu o ugljikovodicima) (KRIŽ)\n\nProfil općine: https:
- //koncesijski-sat.vercel.app/#opcina/41942358B65618644238266
+ dobrenog eksploatacijskog polja (KRIŽ) · davatelj: MINISTARSTVO GOSPODAR
+ STVA\, 8.970 €/god.\n• INA-INDUSTRIJA NAFTE  D.D. – Dozvola za ekspl
+ oataciju ugljikovodika (prema Zakonu o ugljikovodicima) (KRIŽ) · davatel
+ j: MINISTARSTVO GOSPODARSTVA\n• INA D.D. – Dozvola za eksploataciju ug
+ ljikovodika (prema Zakonu o ugljikovodicima) (KRIŽ) · davatelj: MINISTAR
+ STVO GOSPODARSTVA\n\nProfil općine: https://koncesijski-sat.vercel.app/#o
+ pcina/41942358B65618644238266
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B65618644238266
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Križ
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-f2cecdc4a3db185f@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-ce83f733f77c9428@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20401231
 DTEND;VALUE=DATE:20410101
 SUMMARY:Ističe koncesija: INA-INDUSTRIJA NAFTE  D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 31. 12. 2040. Godišnja fiksna nak
  nada: 2.213 €.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauzet
- u površinu odobrenog eksploatacijskog polja (KRIŽ)\, 2.213 €/god.\n\nP
- rofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B6561864
- 4238266\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 
- 2026.
+ u površinu odobrenog eksploatacijskog polja (KRIŽ) · davatelj: MINISTAR
+ STVO GOSPODARSTVA\, 2.213 €/god.\n\nProfil općine: https://koncesijski-
+ sat.vercel.app/#opcina/41942358B65618644238266\nIzvor: Registar koncesija 
+ (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B65618644238266
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -196,8 +206,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-f2cecdc4a3db185f@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-ce83f733f77c9428@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20400630
 DTEND;VALUE=DATE:20400701
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA-INDUSTRIJA N
@@ -205,8 +215,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA-INDUSTRIJA N
 DESCRIPTION:31. 12. 2040. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauzetu površinu od
- obrenog eksploatacijskog polja (KRIŽ)\, 2.213 €/god.\n\nProfil općine:
-  https://koncesijski-sat.vercel.app/#opcina/41942358B65618644238266
+ obrenog eksploatacijskog polja (KRIŽ) · davatelj: MINISTARSTVO GOSPODARS
+ TVA\, 2.213 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app
+ /#opcina/41942358B65618644238266
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B65618644238266
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -217,24 +228,27 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-3b7c5a48a4ba8825@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-f5fd8ad4166f3f18@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20411231
 DTEND;VALUE=DATE:20420101
 SUMMARY:Ističe 6 koncesija · Križ
 DESCRIPTION:6 ugovora o koncesiji ističe 31. 12. 2041. Godišnja fiksna na
  knada: 14.956 €.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauz
- etu površinu odobrenog eksploatacijskog polja (KRIŽ)\, 7.478 €/god.\n
- • INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauzetu površinu odobreno
- g eksploatacijskog polja (KRIŽ)\, 7.478 €/god.\n• INA D.D. – Dozvol
- a za eksploataciju ugljikovodika (prema Zakonu o ugljikovodicima) (KRIŽ)\
- n• INA-INDUSTRIJA NAFTE  D.D. – Dozvola za eksploataciju ugljikovodika
-  (prema Zakonu o ugljikovodicima) (KRIŽ)\n• INA-INDUSTRIJA NAFTE  D.D. 
- – Dozvola za eksploataciju ugljikovodika (prema Zakonu o ugljikovodicima
- ) (KRIŽ)\n• INA D.D. – Dozvola za eksploataciju ugljikovodika (prema 
- Zakonu o ugljikovodicima) (KRIŽ)\n\nProfil općine: https://koncesijski-s
- at.vercel.app/#opcina/41942358B65618644238266\nIzvor: Registar koncesija (
- FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ etu površinu odobrenog eksploatacijskog polja (KRIŽ) · davatelj: MINIST
+ ARSTVO GOSPODARSTVA\, 7.478 €/god.\n• INA-INDUSTRIJA NAFTE  D.D. – K
+ oncesija za zauzetu površinu odobrenog eksploatacijskog polja (KRIŽ) · 
+ davatelj: MINISTARSTVO GOSPODARSTVA\, 7.478 €/god.\n• INA D.D. – Doz
+ vola za eksploataciju ugljikovodika (prema Zakonu o ugljikovodicima) (KRI
+ Ž) · davatelj: MINISTARSTVO GOSPODARSTVA\n• INA-INDUSTRIJA NAFTE  D.D.
+  – Dozvola za eksploataciju ugljikovodika (prema Zakonu o ugljikovodicim
+ a) (KRIŽ) · davatelj: MINISTARSTVO GOSPODARSTVA\n• INA-INDUSTRIJA NAFT
+ E  D.D. – Dozvola za eksploataciju ugljikovodika (prema Zakonu o ugljiko
+ vodicima) (KRIŽ) · davatelj: MINISTARSTVO GOSPODARSTVA\n• INA D.D. –
+  Dozvola za eksploataciju ugljikovodika (prema Zakonu o ugljikovodicima) (
+ KRIŽ) · davatelj: MINISTARSTVO GOSPODARSTVA\n\nProfil općine: https://k
+ oncesijski-sat.vercel.app/#opcina/41942358B65618644238266\nIzvor: Registar
+  koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B65618644238266
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -244,43 +258,47 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-3b7c5a48a4ba8825@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-f5fd8ad4166f3f18@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20410630
 DTEND;VALUE=DATE:20410701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 6 koncesija
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 6 koncesija · Križ
 DESCRIPTION:31. 12. 2041. ističe 6 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauzetu površinu o
- dobrenog eksploatacijskog polja (KRIŽ)\, 7.478 €/god.\n• INA-INDUSTRI
- JA NAFTE  D.D. – Koncesija za zauzetu površinu odobrenog eksploatacijsk
- og polja (KRIŽ)\, 7.478 €/god.\n• INA D.D. – Dozvola za eksploataci
- ju ugljikovodika (prema Zakonu o ugljikovodicima) (KRIŽ)\n• INA-INDUSTR
- IJA NAFTE  D.D. – Dozvola za eksploataciju ugljikovodika (prema Zakonu o
-  ugljikovodicima) (KRIŽ)\n• INA-INDUSTRIJA NAFTE  D.D. – Dozvola za e
- ksploataciju ugljikovodika (prema Zakonu o ugljikovodicima) (KRIŽ)\n• I
- NA D.D. – Dozvola za eksploataciju ugljikovodika (prema Zakonu o ugljiko
- vodicima) (KRIŽ)\n\nProfil općine: https://koncesijski-sat.vercel.app/#o
- pcina/41942358B65618644238266
+ dobrenog eksploatacijskog polja (KRIŽ) · davatelj: MINISTARSTVO GOSPODAR
+ STVA\, 7.478 €/god.\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zau
+ zetu površinu odobrenog eksploatacijskog polja (KRIŽ) · davatelj: MINIS
+ TARSTVO GOSPODARSTVA\, 7.478 €/god.\n• INA D.D. – Dozvola za eksploa
+ taciju ugljikovodika (prema Zakonu o ugljikovodicima) (KRIŽ) · davatelj:
+  MINISTARSTVO GOSPODARSTVA\n• INA-INDUSTRIJA NAFTE  D.D. – Dozvola za 
+ eksploataciju ugljikovodika (prema Zakonu o ugljikovodicima) (KRIŽ) · da
+ vatelj: MINISTARSTVO GOSPODARSTVA\n• INA-INDUSTRIJA NAFTE  D.D. – Dozv
+ ola za eksploataciju ugljikovodika (prema Zakonu o ugljikovodicima) (KRIŽ
+ ) · davatelj: MINISTARSTVO GOSPODARSTVA\n• INA D.D. – Dozvola za eksp
+ loataciju ugljikovodika (prema Zakonu o ugljikovodicima) (KRIŽ) · davate
+ lj: MINISTARSTVO GOSPODARSTVA\n\nProfil općine: https://koncesijski-sat.v
+ ercel.app/#opcina/41942358B65618644238266
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B65618644238266
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 6 koncesija
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 6 koncesija · Križ
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-178d8c4a3442f123@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-3f1e1cd5a89d4fcf@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20451231
 DTEND;VALUE=DATE:20460101
 SUMMARY:Ističe koncesija: PODZEMNO SKLADIŠTE PLINA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 31. 12. 2045. Godišnja fiksna nak
  nada: 46.701 €.\n\n• PODZEMNO SKLADIŠTE PLINA D.O.O. – Koncesija za
-  eksploataciju mineralnih sirovina (KRIŽ)\, 46.701 €/god.\n\nProfil op
- ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B65618644238266\
- nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+  eksploataciju mineralnih sirovina (KRIŽ) · davatelj: MINISTARSTVO GOSPO
+ DARSTVA\, 46.701 €/god.\n\nProfil općine: https://koncesijski-sat.verce
+ l.app/#opcina/41942358B65618644238266\nIzvor: Registar koncesija (FINA)\, 
+ obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B65618644238266
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -290,8 +308,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-178d8c4a3442f123@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-3f1e1cd5a89d4fcf@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20450630
 DTEND;VALUE=DATE:20450701
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PODZEMNO SKLADI
@@ -299,8 +317,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PODZEMNO SKLADI
 DESCRIPTION:31. 12. 2045. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• PODZEMNO SKLADIŠTE PLINA D.O.O. – Koncesija za eksploataciju 
- mineralnih sirovina (KRIŽ)\, 46.701 €/god.\n\nProfil općine: https://k
- oncesijski-sat.vercel.app/#opcina/41942358B65618644238266
+ mineralnih sirovina (KRIŽ) · davatelj: MINISTARSTVO GOSPODARSTVA\, 46.70
+ 1 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4
+ 1942358B65618644238266
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B65618644238266
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -311,16 +330,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-d87e11c2290f0be8@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-43c12fdea23484bf@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20491025
 DTEND;VALUE=DATE:20491026
 SUMMARY:Ističe koncesija: DIN NOVOSELEC  D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 25. 10. 2049. Godišnja fiksna nak
  nada: 2.124 €.\n\n• DIN NOVOSELEC  D.O.O. – Koncesija za zahvaćanje
-  voda za tehnološke potrebe (KRIŽ)\, 2.124 €/god.\n\nProfil općine: h
- ttps://koncesijski-sat.vercel.app/#opcina/41942358B65618644238266\nIzvor: 
- Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+  voda za tehnološke potrebe (KRIŽ) · davatelj: MINISTARSTVO ZAŠTITE OK
+ OLIŠA I ZELENE TRANZICIJE\, 2.124 €/god.\n\nProfil općine: https://kon
+ cesijski-sat.vercel.app/#opcina/41942358B65618644238266\nIzvor: Registar k
+ oncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B65618644238266
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -330,8 +350,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-d87e11c2290f0be8@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-43c12fdea23484bf@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20490425
 DTEND;VALUE=DATE:20490426
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DIN NOVOSELEC  D
@@ -339,8 +359,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DIN NOVOSELEC  D
 DESCRIPTION:25. 10. 2049. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• DIN NOVOSELEC  D.O.O. – Koncesija za zahvaćanje voda za tehno
- loške potrebe (KRIŽ)\, 2.124 €/god.\n\nProfil općine: https://koncesi
- jski-sat.vercel.app/#opcina/41942358B65618644238266
+ loške potrebe (KRIŽ) · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠA I ZELEN
+ E TRANZICIJE\, 2.124 €/god.\n\nProfil općine: https://koncesijski-sat.v
+ ercel.app/#opcina/41942358B65618644238266
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B65618644238266
 TRANSP:TRANSPARENT
 BEGIN:VALARM

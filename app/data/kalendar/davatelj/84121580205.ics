@@ -1,0 +1,55 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · GRAD IVANEC
+X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje GRAD IVANEC. Iz Registra k
+ oncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podataka. 
+ https://koncesijski-sat.vercel.app/#sat
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-3806bd786dc4b128@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20270901
+DTEND;VALUE=DATE:20270902
+SUMMARY:Ističe koncesija: DIMNJAČARSTVO VALJAK D.O.O.ZA DIMNJAČARSKE USL
+ UGE
+DESCRIPTION:1 ugovor o koncesiji ističe 1. 9. 2027.\n\n• DIMNJAČARSTVO 
+ VALJAK D.O.O.ZA DIMNJAČARSKE USLUGE – Koncesija za obavljanje dimnjača
+ rskih poslova (IVANEC\, Grad Ivanec)\n\nŠto ističe: https://koncesijski-
+ sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski
+  sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: DIMNJAČARSTVO VALJAK D.O.O.ZA DIMNJAČARSKE
+  USLUGE
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-3806bd786dc4b128@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20270301
+DTEND;VALUE=DATE:20270302
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DIMNJAČARSTVO V
+ ALJAK D.O.O.ZA DIMNJAČARSKE USLUGE)
+DESCRIPTION:1. 9. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodjele
+  treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
+ \n\n• DIMNJAČARSTVO VALJAK D.O.O.ZA DIMNJAČARSKE USLUGE – Koncesija 
+ za obavljanje dimnjačarskih poslova (IVANEC\, Grad Ivanec)\n\nŠto istič
+ e: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DIMNJAČARST
+ VO VALJAK D.O.O.ZA DIMNJAČARSKE USLUGE)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

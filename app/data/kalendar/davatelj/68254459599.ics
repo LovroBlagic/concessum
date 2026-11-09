@@ -1,0 +1,186 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · GRAD SLATINA
+X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje GRAD SLATINA. Iz Registra 
+ koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podataka.
+  https://koncesijski-sat.vercel.app/#sat
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-c757162d2e70a5ed@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20360921
+DTEND;VALUE=DATE:20360922
+SUMMARY:Ističe koncesija: JOŠAVAC D.O.O. ZA POLJOPRIVREDNU PROIZVODNJU I 
+ TRGOVINU
+DESCRIPTION:1 ugovor o koncesiji ističe 21. 9. 2036. Godišnja fiksna nakn
+ ada: 6.301 €.\n\n• JOŠAVAC D.O.O. ZA POLJOPRIVREDNU PROIZVODNJU I TRG
+ OVINU – Koncesija za korištenje poljoprivrednog zemljišta u vlasništv
+ u države (SLATINA\, Grad Slatina)\, 6.301 €/god.\n\nŠto ističe: https
+ ://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obr
+ ada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: JOŠAVAC D.O.O. ZA POLJOPRIVREDNU PROIZVODNJ
+ U I TRGOVINU
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-c757162d2e70a5ed@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20360321
+DTEND;VALUE=DATE:20360322
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (JOŠAVAC D.O.O. 
+ ZA POLJOPRIVREDNU PROIZVODNJU I TRGOVINU)
+DESCRIPTION:21. 9. 2036. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• JOŠAVAC D.O.O. ZA POLJOPRIVREDNU PROIZVODNJU I TRGOVINU – Konc
+ esija za korištenje poljoprivrednog zemljišta u vlasništvu države (SLA
+ TINA\, Grad Slatina)\, 6.301 €/god.\n\nŠto ističe: https://koncesijski
+ -sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (JOŠAVAC D.O
+ .O. ZA POLJOPRIVREDNU PROIZVODNJU I TRGOVINU)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-01dbf94456acaca2@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20370320
+DTEND;VALUE=DATE:20370321
+SUMMARY:Ističe 2 koncesije · GRAD SLATINA
+DESCRIPTION:2 ugovora o koncesiji ističe 20. 3. 2037. Godišnja fiksna nak
+ nada: 8.250 €.\n\n• STARI PODRUM D.O.O. – Koncesija za korištenje p
+ oljoprivrednog zemljišta u vlasništvu države (SLATINA\, Grad Slatina)\,
+  4.125 €/god.\n• STARI PODRUM D.O.O. – Koncesija za korištenje polj
+ oprivrednog zemljišta u vlasništvu države (SLATINA\, Grad Slatina)\, 4.
+ 125 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzv
+ or: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 2 koncesije · GRAD SLATINA
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-01dbf94456acaca2@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20360920
+DTEND;VALUE=DATE:20360921
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · GRAD SLATINA
+DESCRIPTION:20. 3. 2037. ističe 2 ugovora o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• STARI PODRUM D.O.O. – Koncesija za korištenje poljoprivrednog
+  zemljišta u vlasništvu države (SLATINA\, Grad Slatina)\, 4.125 €/god
+ .\n• STARI PODRUM D.O.O. – Koncesija za korištenje poljoprivrednog ze
+ mljišta u vlasništvu države (SLATINA\, Grad Slatina)\, 4.125 €/god.\n
+ \nŠto ističe: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije · GRAD SLATI
+ NA
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-a1d2bd033f000a51@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20460922
+DTEND;VALUE=DATE:20460923
+SUMMARY:Ističe 2 koncesije · GRAD SLATINA
+DESCRIPTION:2 ugovora o koncesiji ističe 22. 9. 2046. Godišnja fiksna nak
+ nada: 168 €.\n\n• STARI PODRUM D.O.O. – Koncesija za korištenje pol
+ joprivrednog zemljišta u vlasništvu države (SLATINA\, Grad Slatina)\, 8
+ 4 €/god.\n• STARI PODRUM D.O.O. – Koncesija za korištenje poljopriv
+ rednog zemljišta u vlasništvu države (SLATINA\, Grad Slatina)\, 84 €/
+ god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Regi
+ star koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 2 koncesije · GRAD SLATINA
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-a1d2bd033f000a51@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20460322
+DTEND;VALUE=DATE:20460323
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · GRAD SLATINA
+DESCRIPTION:22. 9. 2046. ističe 2 ugovora o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• STARI PODRUM D.O.O. – Koncesija za korištenje poljoprivrednog
+  zemljišta u vlasništvu države (SLATINA\, Grad Slatina)\, 84 €/god.\n
+ • STARI PODRUM D.O.O. – Koncesija za korištenje poljoprivrednog zemlj
+ išta u vlasništvu države (SLATINA\, Grad Slatina)\, 84 €/god.\n\nŠto
+  ističe: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije · GRAD SLATI
+ NA
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-d2062dab839ebd27@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20480901
+DTEND;VALUE=DATE:20480902
+SUMMARY:Ističe 2 koncesije · GRAD SLATINA
+DESCRIPTION:2 ugovora o koncesiji ističe 1. 9. 2048. Godišnja fiksna nakn
+ ada: 8.372 €.\n\n• STARI PODRUM D.O.O. – Koncesija za korištenje po
+ ljoprivrednog zemljišta u vlasništvu države (SLATINA\, Grad Slatina)\, 
+ 4.186 €/god.\n• STARI PODRUM D.O.O. – Koncesija za korištenje poljo
+ privrednog zemljišta u vlasništvu države (SLATINA\, Grad Slatina)\, 4.1
+ 86 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzvo
+ r: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 2 koncesije · GRAD SLATINA
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-d2062dab839ebd27@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20480301
+DTEND;VALUE=DATE:20480302
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · GRAD SLATINA
+DESCRIPTION:1. 9. 2048. ističe 2 ugovora o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• STARI PODRUM D.O.O. – Koncesija za korištenje poljoprivrednog 
+ zemljišta u vlasništvu države (SLATINA\, Grad Slatina)\, 4.186 €/god.
+ \n• STARI PODRUM D.O.O. – Koncesija za korištenje poljoprivrednog zem
+ ljišta u vlasništvu države (SLATINA\, Grad Slatina)\, 4.186 €/god.\n\
+ nŠto ističe: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije · GRAD SLATI
+ NA
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

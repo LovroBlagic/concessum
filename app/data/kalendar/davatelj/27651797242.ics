@@ -1,0 +1,54 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · OPĆINA BRCKOVLJANI
+X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje OPĆINA BRCKOVLJANI. Iz Re
+ gistra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade po
+ dataka. https://koncesijski-sat.vercel.app/#sat
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-2c6d10a5857e65f0@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20371116
+DTEND;VALUE=DATE:20371117
+SUMMARY:Ističe koncesija: BOŽJAKOVINA  D.D.
+DESCRIPTION:1 ugovor o koncesiji ističe 16. 11. 2037. Godišnja fiksna nak
+ nada: 109.892 €.\n\n• BOŽJAKOVINA  D.D. – Koncesija za korištenje 
+ poljoprivrednog zemljišta u vlasništvu države (BRCKOVLJANI\, Općina Br
+ ckovljani)\, 109.892 €/god.\n\nŠto ističe: https://koncesijski-sat.ver
+ cel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9.
+  11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: BOŽJAKOVINA  D.D.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-2c6d10a5857e65f0@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20370516
+DTEND;VALUE=DATE:20370517
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BOŽJAKOVINA  D.
+ D.)
+DESCRIPTION:16. 11. 2037. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• BOŽJAKOVINA  D.D. – Koncesija za korištenje poljoprivrednog 
+ zemljišta u vlasništvu države (BRCKOVLJANI\, Općina Brckovljani)\, 109
+ .892 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BOŽJAKOVINA
+   D.D.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -4,25 +4,26 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Općina Budinšćina
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Budinšćina. Iz
-  Registra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade
-  podataka. https://koncesijski-sat.vercel.app/#opcina/41942358B31177094298
- 422
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Općina Budinšćina (pr
+ egled\, svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvje
+ žava se nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#
+ opcina/41942358B31177094298422
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-5a5d1d549cdb9740@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-8b094f7e1da8a263@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20300410
 DTEND;VALUE=DATE:20300411
 SUMMARY:Ističe 2 koncesije · Budinšćina
 DESCRIPTION:2 ugovora o koncesiji ističe 10. 4. 2030.\n\n• LEUŠTEK J.D.
- O.O. – Koncesija za obavljanje dimnjačarskih poslova (BUDINŠČINA)\n
- • LEUŠTEK J.D.O.O. – Koncesija za obavljanje dimnjačarskih poslova (
- )\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B3
- 1177094298422\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9
- . 11. 2026.
+ O.O. – Koncesija za obavljanje dimnjačarskih poslova (BUDINŠČINA) · 
+ davatelj: OPĆINA BUDINŠČINA\n• LEUŠTEK J.D.O.O. – Koncesija za oba
+ vljanje dimnjačarskih poslova () · davatelj: OPĆINA BUDINŠČINA\n\nPro
+ fil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B311770942
+ 98422\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 20
+ 26.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B31177094298422
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -32,22 +33,24 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-5a5d1d549cdb9740@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-8b094f7e1da8a263@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20291010
 DTEND;VALUE=DATE:20291011
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Budinšćina
 DESCRIPTION:10. 4. 2030. ističe 2 ugovora o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• LEUŠTEK J.D.O.O. – Koncesija za obavljanje dimnjačarskih pos
- lova (BUDINŠČINA)\n• LEUŠTEK J.D.O.O. – Koncesija za obavljanje dim
- njačarskih poslova ()\n\nProfil općine: https://koncesijski-sat.vercel.a
- pp/#opcina/41942358B31177094298422
+ lova (BUDINŠČINA) · davatelj: OPĆINA BUDINŠČINA\n• LEUŠTEK J.D.O.
+ O. – Koncesija za obavljanje dimnjačarskih poslova () · davatelj: OPĆ
+ INA BUDINŠČINA\n\nProfil općine: https://koncesijski-sat.vercel.app/#op
+ cina/41942358B31177094298422
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B31177094298422
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Budinšći
+ na
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT

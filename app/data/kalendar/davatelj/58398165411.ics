@@ -1,0 +1,657 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · ŽUPANIJSKA LUČKA UPRAVA ZADAR
+X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje ŽUPANIJSKA LUČKA UPRAVA 
+ ZADAR. Iz Registra koncesija (FINA\, data.gov.hr). Osvježava se nakon sva
+ ke obrade podataka. https://koncesijski-sat.vercel.app/#sat
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-cb7db8584b245672@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20271215
+DTEND;VALUE=DATE:20271216
+SUMMARY:Ističe koncesija: ZAGREBAČKA BANKA D.D.
+DESCRIPTION:1 ugovor o koncesiji ističe 15. 12. 2027. Godišnja fiksna nak
+ nada: 3.982 €.\n\n• ZAGREBAČKA BANKA D.D. – Koncesija za luku (PREK
+ O\, Općina Preko)\, 3.982 €/god.\n\nŠto ističe: https://koncesijski-s
+ at.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski 
+ sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: ZAGREBAČKA BANKA D.D.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-cb7db8584b245672@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20270615
+DTEND;VALUE=DATE:20270616
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ZAGREBAČKA BANK
+ A D.D.)
+DESCRIPTION:15. 12. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• ZAGREBAČKA BANKA D.D. – Koncesija za luku (PREKO\, Općina Pr
+ eko)\, 3.982 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/
+ #sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ZAGREBAČKA 
+ BANKA D.D.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-35cbfc680dcf39f3@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20280726
+DTEND;VALUE=DATE:20280727
+SUMMARY:Ističe 2 koncesije · ŽUPANIJSKA LUČKA UPRAVA ZADAR
+DESCRIPTION:2 ugovora o koncesiji ističe 26. 7. 2028. Godišnja fiksna nak
+ nada: 5.310 €.\n\n• PETROL D.O.O. ZA PRIJEVOZ NAFTE I NAFTNIH DERIVATA
+  – Koncesija za luku (BIOGRAD NA MORU\, Grad Biograd na Moru)\, 2.655 
+ €/god.\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za luku (BIOGRAD NA
+  MORU\, Grad Biograd na Moru)\, 2.655 €/god.\n\nŠto ističe: https://ko
+ ncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada K
+ oncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 2 koncesije · ŽUPANIJSKA LUČKA UPRAVA ZADAR
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-35cbfc680dcf39f3@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20280126
+DTEND;VALUE=DATE:20280127
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · ŽUPANIJSKA LU
+ ČKA UPRAVA ZADAR
+DESCRIPTION:26. 7. 2028. ističe 2 ugovora o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• PETROL D.O.O. ZA PRIJEVOZ NAFTE I NAFTNIH DERIVATA – Koncesija
+  za luku (BIOGRAD NA MORU\, Grad Biograd na Moru)\, 2.655 €/god.\n• IN
+ A-INDUSTRIJA NAFTE  D.D. – Koncesija za luku (BIOGRAD NA MORU\, Grad Bio
+ grad na Moru)\, 2.655 €/god.\n\nŠto ističe: https://koncesijski-sat.ve
+ rcel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije · ŽUPANIJSK
+ A LUČKA UPRAVA ZADAR
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-65fc97605c262da4@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20280810
+DTEND;VALUE=DATE:20280811
+SUMMARY:Ističe koncesija: TRAJEKT OBRT VL. IVANA JEROLIMOV
+DESCRIPTION:1 ugovor o koncesiji ističe 10. 8. 2028. Godišnja fiksna nakn
+ ada: 400 €.\n\n• TRAJEKT OBRT VL. IVANA JEROLIMOV – Koncesija za luk
+ u (PREKO\, Općina Preko)\, 400 €/god.\n\nŠto ističe: https://koncesij
+ ski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Koncesi
+ jski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: TRAJEKT OBRT VL. IVANA JEROLIMOV
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-65fc97605c262da4@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20280210
+DTEND;VALUE=DATE:20280211
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (TRAJEKT OBRT VL.
+  IVANA JEROLIMOV)
+DESCRIPTION:10. 8. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• TRAJEKT OBRT VL. IVANA JEROLIMOV – Koncesija za luku (PREKO\, O
+ pćina Preko)\, 400 €/god.\n\nŠto ističe: https://koncesijski-sat.verc
+ el.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (TRAJEKT OBRT
+  VL. IVANA JEROLIMOV)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-73ae066168d035bb@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20290409
+DTEND;VALUE=DATE:20290410
+SUMMARY:Ističe 3 koncesije · ŽUPANIJSKA LUČKA UPRAVA ZADAR
+DESCRIPTION:3 ugovora o koncesiji ističe 9. 4. 2029. Godišnja fiksna nakn
+ ada: 16.800 €.\n\n• JADROLINIJA PODRN – Koncesija za luku (PREKO\, O
+ pćina Preko)\, 9.600 €/god.\n• JADROLINIJA PODRN – Koncesija za luk
+ u (TKON\, Općina Tkon)\, 3.600 €/god.\n• JADROLINIJA PODRN – Konces
+ ija za luku (TKON\, Općina Tkon)\, 3.600 €/god.\n\nŠto ističe: https:
+ //koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obra
+ da Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 3 koncesije · ŽUPANIJSKA LUČKA UPRAVA ZADAR
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-73ae066168d035bb@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20281009
+DTEND;VALUE=DATE:20281010
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · ŽUPANIJSKA LU
+ ČKA UPRAVA ZADAR
+DESCRIPTION:9. 4. 2029. ističe 3 ugovora o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• JADROLINIJA PODRN – Koncesija za luku (PREKO\, Općina Preko)\,
+  9.600 €/god.\n• JADROLINIJA PODRN – Koncesija za luku (TKON\, Opći
+ na Tkon)\, 3.600 €/god.\n• JADROLINIJA PODRN – Koncesija za luku (TK
+ ON\, Općina Tkon)\, 3.600 €/god.\n\nŠto ističe: https://koncesijski-s
+ at.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · ŽUPANIJSK
+ A LUČKA UPRAVA ZADAR
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-435fa6129e7d3fdc@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20290612
+DTEND;VALUE=DATE:20290613
+SUMMARY:Ističe koncesija: BRALA D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 12. 6. 2029. Godišnja fiksna nakn
+ ada: 4.513 €.\n\n• BRALA D.O.O. – Koncesija za luku (ZADAR\, Grad Za
+ dar)\, 4.513 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/
+ #sat\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 202
+ 6.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: BRALA D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-435fa6129e7d3fdc@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20281212
+DTEND;VALUE=DATE:20281213
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BRALA D.O.O.)
+DESCRIPTION:12. 6. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• BRALA D.O.O. – Koncesija za luku (ZADAR\, Grad Zadar)\, 4.513 
+ €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BRALA D.O.O.
+ )
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-6fe1e9635930328d@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20301022
+DTEND;VALUE=DATE:20301023
+SUMMARY:Ističe koncesija: ŽIVA OCEPEK CUKAR FRATAR\, VL. ŽIVA OCEPEK CUK
+ AR
+DESCRIPTION:1 ugovor o koncesiji ističe 22. 10. 2030. Godišnja fiksna nak
+ nada: 1.991 €.\n\n• ŽIVA OCEPEK CUKAR FRATAR\, VL. ŽIVA OCEPEK CUKAR
+  – Koncesija za obavljanje komunalnih djelatnosti (ZADAR\, Grad Zadar)\,
+  1.991 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\n
+ Izvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: ŽIVA OCEPEK CUKAR FRATAR\, VL. ŽIVA OCEPEK
+  CUKAR
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-6fe1e9635930328d@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20300422
+DTEND;VALUE=DATE:20300423
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ŽIVA OCEPEK CUK
+ AR FRATAR\, VL. ŽIVA OCEPEK CUKAR)
+DESCRIPTION:22. 10. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• ŽIVA OCEPEK CUKAR FRATAR\, VL. ŽIVA OCEPEK CUKAR – Koncesija
+  za obavljanje komunalnih djelatnosti (ZADAR\, Grad Zadar)\, 1.991 €/god
+ .\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ŽIVA OCEPEK
+  CUKAR FRATAR\, VL. ŽIVA OCEPEK CUKAR)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-3965c677ee4b914a@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20301105
+DTEND;VALUE=DATE:20301106
+SUMMARY:Ističe koncesija: MULIĆ D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 5. 11. 2030. Godišnja fiksna nakn
+ ada: 1.062 €.\n\n• MULIĆ D.O.O. – Koncesija za obavljanje komunalni
+ h djelatnosti (SALI\, Općina Sali)\, 1.062 €/god.\n\nŠto ističe: http
+ s://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, ob
+ rada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: MULIĆ D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-3965c677ee4b914a@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20300505
+DTEND;VALUE=DATE:20300506
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MULIĆ D.O.O.)
+DESCRIPTION:5. 11. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• MULIĆ D.O.O. – Koncesija za obavljanje komunalnih djelatnosti 
+ (SALI\, Općina Sali)\, 1.062 €/god.\n\nŠto ističe: https://koncesijsk
+ i-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MULIĆ D.O.O
+ .)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-262d12d8cb6619e2@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20310419
+DTEND;VALUE=DATE:20310420
+SUMMARY:Ističe koncesija: RIBARSKO POLJOPRIVREDNA ZADRUGA MOLAT
+DESCRIPTION:1 ugovor o koncesiji ističe 19. 4. 2031. Godišnja fiksna nakn
+ ada: 153 €.\n\n• RIBARSKO POLJOPRIVREDNA ZADRUGA MOLAT – Koncesija p
+ omorskog dobra u svrhu gospodarskog korištenja luke (ZADAR\, Grad Zadar)\
+ , 153 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nI
+ zvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: RIBARSKO POLJOPRIVREDNA ZADRUGA MOLAT
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-262d12d8cb6619e2@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20301019
+DTEND;VALUE=DATE:20301020
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (RIBARSKO POLJOPR
+ IVREDNA ZADRUGA MOLAT)
+DESCRIPTION:19. 4. 2031. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• RIBARSKO POLJOPRIVREDNA ZADRUGA MOLAT – Koncesija pomorskog dob
+ ra u svrhu gospodarskog korištenja luke (ZADAR\, Grad Zadar)\, 153 €/go
+ d.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (RIBARSKO POL
+ JOPRIVREDNA ZADRUGA MOLAT)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-1ab7ac6fb5124e7e@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20330906
+DTEND;VALUE=DATE:20330907
+SUMMARY:Ističe koncesija: ZLATNA LUKA SUKOŠAN D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 6. 9. 2033. Godišnja fiksna nakna
+ da: 1.464 €.\n\n• ZLATNA LUKA SUKOŠAN D.O.O. – Koncesija za obavlja
+ nje poslova organizacije i naplate parkiranja (SUKOŠAN\, Općina Sukošan
+ )\, 1.464 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sa
+ t\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: ZLATNA LUKA SUKOŠAN D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-1ab7ac6fb5124e7e@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20330306
+DTEND;VALUE=DATE:20330307
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ZLATNA LUKA SUKO
+ ŠAN D.O.O.)
+DESCRIPTION:6. 9. 2033. ističe 1 ugovor o koncesiji. Novi postupak dodjele
+  treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
+ \n\n• ZLATNA LUKA SUKOŠAN D.O.O. – Koncesija za obavljanje poslova or
+ ganizacije i naplate parkiranja (SUKOŠAN\, Općina Sukošan)\, 1.464 €/
+ god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ZLATNA LUKA 
+ SUKOŠAN D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-f6c87fab86a07538@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20340918
+DTEND;VALUE=DATE:20340919
+SUMMARY:Ističe koncesija: ADRIA OIL D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 18. 9. 2034. Godišnja fiksna nakn
+ ada: 26.546 €.\n\n• ADRIA OIL D.O.O. – Koncesija na pomorskom dobru 
+ (SALI\, Općina Sali)\, 26.546 €/god.\n\nŠto ističe: https://koncesijs
+ ki-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Koncesij
+ ski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: ADRIA OIL D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-f6c87fab86a07538@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20340318
+DTEND;VALUE=DATE:20340319
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ADRIA OIL D.O.O.
+ )
+DESCRIPTION:18. 9. 2034. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• ADRIA OIL D.O.O. – Koncesija na pomorskom dobru (SALI\, Općina
+  Sali)\, 26.546 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.a
+ pp/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ADRIA OIL D.
+ O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-7d767ab747660839@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20350806
+DTEND;VALUE=DATE:20350807
+SUMMARY:Ističe koncesija: VODOVOD D.O.O. ZA USLUGE OPSKRBE PITKOM VODOM
+DESCRIPTION:1 ugovor o koncesiji ističe 6. 8. 2035. Godišnja fiksna nakna
+ da: 777 €.\n\n• VODOVOD D.O.O. ZA USLUGE OPSKRBE PITKOM VODOM – Pose
+ bna upotreba pomorskog dobra (ZADAR\, Grad Zadar)\, 777 €/god.\n\nŠto i
+ stiče: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija
+  (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: VODOVOD D.O.O. ZA USLUGE OPSKRBE PITKOM VODO
+ M
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-7d767ab747660839@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20350206
+DTEND;VALUE=DATE:20350207
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VODOVOD D.O.O. Z
+ A USLUGE OPSKRBE PITKOM VODOM)
+DESCRIPTION:6. 8. 2035. ističe 1 ugovor o koncesiji. Novi postupak dodjele
+  treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
+ \n\n• VODOVOD D.O.O. ZA USLUGE OPSKRBE PITKOM VODOM – Posebna upotreba
+  pomorskog dobra (ZADAR\, Grad Zadar)\, 777 €/god.\n\nŠto ističe: http
+ s://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VODOVOD D.O.
+ O. ZA USLUGE OPSKRBE PITKOM VODOM)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-4cc7b60359321b85@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20360819
+DTEND;VALUE=DATE:20360820
+SUMMARY:Ističe koncesija: VODOVOD D.O.O. ZA USLUGE OPSKRBE PITKOM VODOM
+DESCRIPTION:1 ugovor o koncesiji ističe 19. 8. 2036. Godišnja fiksna nakn
+ ada: 94 €.\n\n• VODOVOD D.O.O. ZA USLUGE OPSKRBE PITKOM VODOM – Pose
+ bna upotreba pomorskog dobra (SALI\, Općina Sali)\, 94 €/god.\n\nŠto i
+ stiče: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija
+  (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: VODOVOD D.O.O. ZA USLUGE OPSKRBE PITKOM VODO
+ M
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-4cc7b60359321b85@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20360219
+DTEND;VALUE=DATE:20360220
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VODOVOD D.O.O. Z
+ A USLUGE OPSKRBE PITKOM VODOM)
+DESCRIPTION:19. 8. 2036. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• VODOVOD D.O.O. ZA USLUGE OPSKRBE PITKOM VODOM – Posebna upotreb
+ a pomorskog dobra (SALI\, Općina Sali)\, 94 €/god.\n\nŠto ističe: htt
+ ps://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VODOVOD D.O.
+ O. ZA USLUGE OPSKRBE PITKOM VODOM)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-77ac8051ba89dbb0@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20371004
+DTEND;VALUE=DATE:20371005
+SUMMARY:Ističe 2 koncesije · ŽUPANIJSKA LUČKA UPRAVA ZADAR
+DESCRIPTION:2 ugovora o koncesiji ističe 4. 10. 2037. Godišnja fiksna nak
+ nada: 202 €.\n\n• ODVODNJA D.O.O. – Koncesija za luku (ZADAR\, Grad 
+ Zadar)\, 101 €/god.\n• ODVODNJA D.O.O. – Koncesija za luku (ZADAR\, 
+ Grad Zadar)\, 101 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel
+ .app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11
+ . 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 2 koncesije · ŽUPANIJSKA LUČKA UPRAVA ZADAR
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-77ac8051ba89dbb0@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20370404
+DTEND;VALUE=DATE:20370405
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · ŽUPANIJSKA LU
+ ČKA UPRAVA ZADAR
+DESCRIPTION:4. 10. 2037. ističe 2 ugovora o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• ODVODNJA D.O.O. – Koncesija za luku (ZADAR\, Grad Zadar)\, 101
+  €/god.\n• ODVODNJA D.O.O. – Koncesija za luku (ZADAR\, Grad Zadar)\
+ , 101 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije · ŽUPANIJSK
+ A LUČKA UPRAVA ZADAR
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-bf65d369ba24b314@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20371114
+DTEND;VALUE=DATE:20371115
+SUMMARY:Ističe koncesija: ODVODNJA D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 14. 11. 2037. Godišnja fiksna nak
+ nada: 26 €.\n\n• ODVODNJA D.O.O. – Koncesija za luku (ZADAR\, Grad Z
+ adar)\, 26 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#s
+ at\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: ODVODNJA D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-bf65d369ba24b314@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20370514
+DTEND;VALUE=DATE:20370515
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ODVODNJA D.O.O.)
+DESCRIPTION:14. 11. 2037. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• ODVODNJA D.O.O. – Koncesija za luku (ZADAR\, Grad Zadar)\, 26 
+ €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ODVODNJA D.O
+ .O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-d94b58f3f675a3d4@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20410919
+DTEND;VALUE=DATE:20410920
+SUMMARY:Ističe koncesija: GRAD ZADAR
+DESCRIPTION:1 ugovor o koncesiji ističe 19. 9. 2041. Godišnja fiksna nakn
+ ada: 494 €.\n\n• GRAD ZADAR – Koncesija na pomorskom dobru (ZADAR\, 
+ Grad Zadar)\, 494 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel
+ .app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11
+ . 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: GRAD ZADAR
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-d94b58f3f675a3d4@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20410319
+DTEND;VALUE=DATE:20410320
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (GRAD ZADAR)
+DESCRIPTION:19. 9. 2041. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• GRAD ZADAR – Koncesija na pomorskom dobru (ZADAR\, Grad Zadar)\
+ , 494 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (GRAD ZADAR)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-42bcbf7b09362409@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20510923
+DTEND;VALUE=DATE:20510924
+SUMMARY:Ističe koncesija: MARINA SUNČANI RESORT D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 23. 9. 2051. Godišnja fiksna nakn
+ ada: 14.718 €.\n\n• MARINA SUNČANI RESORT D.O.O. – Koncesija za luk
+ u (SVETI FILIP I JAKOV\, Općina Sveti Filip i Jakov)\, 14.718 €/god.\n\
+ nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar ko
+ ncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: MARINA SUNČANI RESORT D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-42bcbf7b09362409@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20510323
+DTEND;VALUE=DATE:20510324
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MARINA SUNČANI 
+ RESORT D.O.O.)
+DESCRIPTION:23. 9. 2051. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• MARINA SUNČANI RESORT D.O.O. – Koncesija za luku (SVETI FILIP 
+ I JAKOV\, Općina Sveti Filip i Jakov)\, 14.718 €/god.\n\nŠto ističe: 
+ https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MARINA SUNČ
+ ANI RESORT D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

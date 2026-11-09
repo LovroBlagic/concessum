@@ -4,23 +4,25 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Grad Skradin
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Grad Skradin. Iz Registr
- a koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podatak
- a. https://koncesijski-sat.vercel.app/#opcina/41942358B6783725556911
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Grad Skradin (pregled\, 
+ svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježava se 
+ nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#opcina/41
+ 942358B6783725556911
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-7cc80fe47b8a146a@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-8066adb4fa6345b2@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20280803
 DTEND;VALUE=DATE:20280804
 SUMMARY:Ističe koncesija: HIDRO-WATT D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 3. 8. 2028.\n\n• HIDRO-WATT D.O.
  O. – Koncesija za korištenje vodne snage radi proizvodnje električne e
- nergije (SKRADIN)\n\nProfil općine: https://koncesijski-sat.vercel.app/#o
- pcina/41942358B6783725556911\nIzvor: Registar koncesija (FINA)\, obrada Ko
- ncesijski sat 9. 11. 2026.
+ nergije (SKRADIN) · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠA I ZELENE TRA
+ NZICIJE\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4194
+ 2358B6783725556911\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski 
+ sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B6783725556911
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -30,8 +32,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-7cc80fe47b8a146a@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-8066adb4fa6345b2@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20280203
 DTEND;VALUE=DATE:20280204
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HIDRO-WATT D.O.O
@@ -39,8 +41,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HIDRO-WATT D.O.O
 DESCRIPTION:3. 8. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• HIDRO-WATT D.O.O. – Koncesija za korištenje vodne snage radi pr
- oizvodnje električne energije (SKRADIN)\n\nProfil općine: https://konces
- ijski-sat.vercel.app/#opcina/41942358B6783725556911
+ oizvodnje električne energije (SKRADIN) · davatelj: MINISTARSTVO ZAŠTIT
+ E OKOLIŠA I ZELENE TRANZICIJE\n\nProfil općine: https://koncesijski-sat.
+ vercel.app/#opcina/41942358B6783725556911
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B6783725556911
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -51,16 +54,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-ad4b96c42a4913d2@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-65331fce615c8d1f@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20301231
 DTEND;VALUE=DATE:20310101
 SUMMARY:Ističe koncesija: ACI D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 31. 12. 2030. Godišnja fiksna nak
  nada: 3.504 €.\n\n• ACI D.D. – Koncesija pomorskog dobra u svrhu gos
- podarskog korištenja luke (SKRADIN)\, 3.504 €/god.\n\nProfil općine: h
- ttps://koncesijski-sat.vercel.app/#opcina/41942358B6783725556911\nIzvor: R
- egistar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ podarskog korištenja luke (SKRADIN) · davatelj: MINISTARSTVO MORA\, PROM
+ ETA I INFRASTRUKTURE\, 3.504 €/god.\n\nProfil općine: https://koncesijs
+ ki-sat.vercel.app/#opcina/41942358B6783725556911\nIzvor: Registar koncesij
+ a (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B6783725556911
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -70,16 +74,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-ad4b96c42a4913d2@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-65331fce615c8d1f@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20300630
 DTEND;VALUE=DATE:20300701
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ACI D.D.)
 DESCRIPTION:31. 12. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• ACI D.D. – Koncesija pomorskog dobra u svrhu gospodarskog kori
- štenja luke (SKRADIN)\, 3.504 €/god.\n\nProfil općine: https://koncesi
- jski-sat.vercel.app/#opcina/41942358B6783725556911
+ štenja luke (SKRADIN) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTR
+ UKTURE\, 3.504 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.
+ app/#opcina/41942358B6783725556911
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B6783725556911
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -89,17 +94,18 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-cead5443628c1350@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-d714238a14c80402@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20360926
 DTEND;VALUE=DATE:20360927
 SUMMARY:Ističe koncesija: JAVNA USTANOVA NACIONALNI PARK KRKA
 DESCRIPTION:1 ugovor o koncesiji ističe 26. 9. 2036. Godišnja fiksna nakn
  ada: 3.637 €.\n\n• JAVNA USTANOVA NACIONALNI PARK KRKA – Koncesija p
  omorskog dobra u svrhu izgradnje i gospodarskog korištenja luke posebne n
- amjene (SKRADIN)\, 3.637 €/god.\n\nProfil općine: https://koncesijski-s
- at.vercel.app/#opcina/41942358B6783725556911\nIzvor: Registar koncesija (F
- INA)\, obrada Koncesijski sat 9. 11. 2026.
+ amjene (SKRADIN) · davatelj: ŠIBENSKO-KNINSKA ŽUPANIJA\, 3.637 €/god.
+ \n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B67
+ 83725556911\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 
+ 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B6783725556911
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -109,8 +115,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-cead5443628c1350@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-d714238a14c80402@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20360326
 DTEND;VALUE=DATE:20360327
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (JAVNA USTANOVA N
@@ -119,8 +125,8 @@ DESCRIPTION:26. 9. 2036. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• JAVNA USTANOVA NACIONALNI PARK KRKA – Koncesija pomorskog dobra
   u svrhu izgradnje i gospodarskog korištenja luke posebne namjene (SKRADI
- N)\, 3.637 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/
- #opcina/41942358B6783725556911
+ N) · davatelj: ŠIBENSKO-KNINSKA ŽUPANIJA\, 3.637 €/god.\n\nProfil op
+ ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B6783725556911
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B6783725556911
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -131,16 +137,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-f7b55eb7d3b4e875@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-e55d5c41d6f607c7@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20460824
 DTEND;VALUE=DATE:20460825
 SUMMARY:Ističe koncesija: OPG\, VL. MARKO          PULIĆ
 DESCRIPTION:1 ugovor o koncesiji ističe 24. 8. 2046. Godišnja fiksna nakn
  ada: 1 €.\n\n• OPG\, VL. MARKO          PULIĆ – Koncesija za zahva
- ćanje voda za melioracijsko navodnjavanje (SKRADIN)\, 1 €/god.\n\nProfi
- l općine: https://koncesijski-sat.vercel.app/#opcina/41942358B67837255569
- 11\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ ćanje voda za melioracijsko navodnjavanje (SKRADIN) · davatelj: MINISTAR
+ STVO ZAŠTITE OKOLIŠA I ZELENE TRANZICIJE\, 1 €/god.\n\nProfil općine:
+  https://koncesijski-sat.vercel.app/#opcina/41942358B6783725556911\nIzvor:
+  Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B6783725556911
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -150,8 +157,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-f7b55eb7d3b4e875@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-e55d5c41d6f607c7@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20460224
 DTEND;VALUE=DATE:20460225
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (OPG\, VL. MARKO 
@@ -159,8 +166,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (OPG\, VL. MARKO
 DESCRIPTION:24. 8. 2046. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• OPG\, VL. MARKO          PULIĆ – Koncesija za zahvaćanje voda
-  za melioracijsko navodnjavanje (SKRADIN)\, 1 €/god.\n\nProfil općine: 
- https://koncesijski-sat.vercel.app/#opcina/41942358B6783725556911
+  za melioracijsko navodnjavanje (SKRADIN) · davatelj: MINISTARSTVO ZAŠTI
+ TE OKOLIŠA I ZELENE TRANZICIJE\, 1 €/god.\n\nProfil općine: https://ko
+ ncesijski-sat.vercel.app/#opcina/41942358B6783725556911
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B6783725556911
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -171,20 +179,22 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-ccabbe558d2f268e@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-a6246d10d14e99ff@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20641231
 DTEND;VALUE=DATE:20650101
 SUMMARY:Ističe 3 koncesije · Skradin
 DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2064. Godišnja fiksna na
  knada: 50.940 €.\n\n• TRANSPORT BETON LUBINA D.O.O. – Koncesija za p
  ovršinu utvrđenog eksploatacijskog polja neenergetskih mineralnih sirovi
- na (SKRADIN)\, 16.980 €/god.\n• TRANSPORT BETON LUBINA D.O.O. – Konc
- esija za eksploataciju tehničko-građevnog kamena (SKRADIN)\, 16.980 €/
- god.\n• TRANSPORT BETON LUBINA D.O.O. – Koncesija za eksploataciju teh
- ničko-građevnog kamena (SKRADIN)\, 16.980 €/god.\n\nProfil općine: ht
- tps://koncesijski-sat.vercel.app/#opcina/41942358B6783725556911\nIzvor: Re
- gistar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ na (SKRADIN) · davatelj: MINISTARSTVO GOSPODARSTVA\, 16.980 €/god.\n•
+  TRANSPORT BETON LUBINA D.O.O. – Koncesija za eksploataciju tehničko-gr
+ ađevnog kamena (SKRADIN) · davatelj: MINISTARSTVO GOSPODARSTVA\, 16.980 
+ €/god.\n• TRANSPORT BETON LUBINA D.O.O. – Koncesija za eksploataciju
+  tehničko-građevnog kamena (SKRADIN) · davatelj: MINISTARSTVO GOSPODARS
+ TVA\, 16.980 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.ap
+ p/#opcina/41942358B6783725556911\nIzvor: Registar koncesija (FINA)\, obrad
+ a Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B6783725556911
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -194,25 +204,27 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-ccabbe558d2f268e@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-a6246d10d14e99ff@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20640630
 DTEND;VALUE=DATE:20640701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Skradin
 DESCRIPTION:31. 12. 2064. ističe 3 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• TRANSPORT BETON LUBINA D.O.O. – Koncesija za površinu utvrđ
- enog eksploatacijskog polja neenergetskih mineralnih sirovina (SKRADIN)\, 
- 16.980 €/god.\n• TRANSPORT BETON LUBINA D.O.O. – Koncesija za eksplo
- ataciju tehničko-građevnog kamena (SKRADIN)\, 16.980 €/god.\n• TRANS
- PORT BETON LUBINA D.O.O. – Koncesija za eksploataciju tehničko-građevn
- og kamena (SKRADIN)\, 16.980 €/god.\n\nProfil općine: https://koncesijs
- ki-sat.vercel.app/#opcina/41942358B6783725556911
+ enog eksploatacijskog polja neenergetskih mineralnih sirovina (SKRADIN) ·
+  davatelj: MINISTARSTVO GOSPODARSTVA\, 16.980 €/god.\n• TRANSPORT BETO
+ N LUBINA D.O.O. – Koncesija za eksploataciju tehničko-građevnog kamena
+  (SKRADIN) · davatelj: MINISTARSTVO GOSPODARSTVA\, 16.980 €/god.\n• T
+ RANSPORT BETON LUBINA D.O.O. – Koncesija za eksploataciju tehničko-gra
+ đevnog kamena (SKRADIN) · davatelj: MINISTARSTVO GOSPODARSTVA\, 16.980 
+ €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
+ 42358B6783725556911
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B6783725556911
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Skradin
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT

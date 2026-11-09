@@ -4,23 +4,25 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Općina Kukljica
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Kukljica. Iz Reg
- istra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade pod
- ataka. https://koncesijski-sat.vercel.app/#opcina/41942358B62293063163489
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Općina Kukljica (pregle
+ d\, svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježava
+  se nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#opcin
+ a/41942358B62293063163489
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-d4e123b9bd6e0922@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-ea6df2aa31fcb515@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20360612
 DTEND;VALUE=DATE:20360613
 SUMMARY:Ističe koncesija: HRVATSKI OPERATOR PRIJENOSNOG SUSTAVA D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 12. 6. 2036. Godišnja fiksna nakn
  ada: 5.604 €.\n\n• HRVATSKI OPERATOR PRIJENOSNOG SUSTAVA D.D. – Konc
- esija na pomorskom dobru (KUKLJICA)\, 5.604 €/god.\n\nProfil općine: ht
- tps://koncesijski-sat.vercel.app/#opcina/41942358B62293063163489\nIzvor: R
- egistar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ esija na pomorskom dobru (KUKLJICA) · davatelj: MINISTARSTVO MORA\, PROME
+ TA I INFRASTRUKTURE\, 5.604 €/god.\n\nProfil općine: https://koncesijsk
+ i-sat.vercel.app/#opcina/41942358B62293063163489\nIzvor: Registar koncesij
+ a (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B62293063163489
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -30,8 +32,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-d4e123b9bd6e0922@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-ea6df2aa31fcb515@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20351212
 DTEND;VALUE=DATE:20351213
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKI OPERATO
@@ -39,8 +41,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKI OPERATO
 DESCRIPTION:12. 6. 2036. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• HRVATSKI OPERATOR PRIJENOSNOG SUSTAVA D.D. – Koncesija na pomor
- skom dobru (KUKLJICA)\, 5.604 €/god.\n\nProfil općine: https://koncesij
- ski-sat.vercel.app/#opcina/41942358B62293063163489
+ skom dobru (KUKLJICA) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRU
+ KTURE\, 5.604 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.a
+ pp/#opcina/41942358B62293063163489
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B62293063163489
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -51,16 +54,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-9260913ddb728177@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-94993659434695cc@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20370801
 DTEND;VALUE=DATE:20370802
 SUMMARY:Ističe koncesija: CROMARIS D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 1. 8. 2037. Godišnja fiksna nakna
  da: 747 €.\n\n• CROMARIS D.D. – Koncesija na pomorskom dobru u svrhu
-  uzgoja morske ribe i školjkaša (KUKLJICA)\, 747 €/god.\n\nProfil opć
- ine: https://koncesijski-sat.vercel.app/#opcina/41942358B62293063163489\nI
- zvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+  uzgoja morske ribe i školjkaša (KUKLJICA) · davatelj: ZADARSKA ŽUPANI
+ JA\, 747 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#o
+ pcina/41942358B62293063163489\nIzvor: Registar koncesija (FINA)\, obrada K
+ oncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B62293063163489
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -70,16 +74,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-9260913ddb728177@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-94993659434695cc@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20370201
 DTEND;VALUE=DATE:20370202
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (CROMARIS D.D.)
 DESCRIPTION:1. 8. 2037. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• CROMARIS D.D. – Koncesija na pomorskom dobru u svrhu uzgoja mors
- ke ribe i školjkaša (KUKLJICA)\, 747 €/god.\n\nProfil općine: https:/
- /koncesijski-sat.vercel.app/#opcina/41942358B62293063163489
+ ke ribe i školjkaša (KUKLJICA) · davatelj: ZADARSKA ŽUPANIJA\, 747 €
+ /god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419423
+ 58B62293063163489
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B62293063163489
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -90,16 +95,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-d42318a438af655a@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-0d06676e8959cdad@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20420801
 DTEND;VALUE=DATE:20420802
 SUMMARY:Ističe koncesija: CROMARIS D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 1. 8. 2042. Godišnja fiksna nakna
  da: 12.830 €.\n\n• CROMARIS D.D. – Koncesija na pomorskom dobru (KUK
- LJICA)\, 12.830 €/god.\n\nProfil općine: https://koncesijski-sat.vercel
- .app/#opcina/41942358B62293063163489\nIzvor: Registar koncesija (FINA)\, o
- brada Koncesijski sat 9. 11. 2026.
+ LJICA) · davatelj: ZADARSKA ŽUPANIJA\, 12.830 €/god.\n\nProfil općine
+ : https://koncesijski-sat.vercel.app/#opcina/41942358B62293063163489\nIzvo
+ r: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B62293063163489
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -109,16 +114,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-d42318a438af655a@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-0d06676e8959cdad@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20420201
 DTEND;VALUE=DATE:20420202
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (CROMARIS D.D.)
 DESCRIPTION:1. 8. 2042. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
- \n\n• CROMARIS D.D. – Koncesija na pomorskom dobru (KUKLJICA)\, 12.830
-  €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41
- 942358B62293063163489
+ \n\n• CROMARIS D.D. – Koncesija na pomorskom dobru (KUKLJICA) · davat
+ elj: ZADARSKA ŽUPANIJA\, 12.830 €/god.\n\nProfil općine: https://konce
+ sijski-sat.vercel.app/#opcina/41942358B62293063163489
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B62293063163489
 TRANSP:TRANSPARENT
 BEGIN:VALARM

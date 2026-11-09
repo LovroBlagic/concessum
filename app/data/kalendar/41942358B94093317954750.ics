@@ -4,22 +4,24 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Općina Crnac
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Crnac. Iz Regist
- ra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podata
- ka. https://koncesijski-sat.vercel.app/#opcina/41942358B94093317954750
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Općina Crnac (pregled\,
+  svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježava se
+  nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#opcina/4
+ 1942358B94093317954750
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-43e27e006c0b0d6c@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-c6550fe4b50e2cb5@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270324
 DTEND;VALUE=DATE:20270325
 SUMMARY:Ističe koncesija: CRNAC-PROMET D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 24. 3. 2027.\n\n• CRNAC-PROMET D
- .O.O. – Koncesija za obavljanje komunalnih djelatnosti (CRNAC)\n\nProfil
-  općine: https://koncesijski-sat.vercel.app/#opcina/41942358B940933179547
- 50\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ .O.O. – Koncesija za obavljanje komunalnih djelatnosti (CRNAC) · davate
+ lj: OPĆINA CRNAC\n\nProfil općine: https://koncesijski-sat.vercel.app/#o
+ pcina/41942358B94093317954750\nIzvor: Registar koncesija (FINA)\, obrada K
+ oncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B94093317954750
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -29,16 +31,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-9589357f4c4385f5@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-bfe02e47f14df313@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270628
 DTEND;VALUE=DATE:20270629
 SUMMARY:Ističe koncesija: INA\, D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 28. 6. 2027. Godišnja fiksna nakn
  ada: 3.558 €.\n\n• INA\, D.D. – Dozvola za istraživanje ugljikovodi
- ka (prema Zakonu o ugljikovodicima) (CRNAC)\, 3.558 €/god.\n\nProfil op
- ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B94093317954750\
- nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ ka (prema Zakonu o ugljikovodicima) (CRNAC) · davatelj: MINISTARSTVO GOSP
+ ODARSTVA\, 3.558 €/god.\n\nProfil općine: https://koncesijski-sat.verce
+ l.app/#opcina/41942358B94093317954750\nIzvor: Registar koncesija (FINA)\, 
+ obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B94093317954750
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -48,16 +51,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-9589357f4c4385f5@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-bfe02e47f14df313@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20261228
 DTEND;VALUE=DATE:20261229
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA\, D.D.)
 DESCRIPTION:28. 6. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• INA\, D.D. – Dozvola za istraživanje ugljikovodika (prema Zako
- nu o ugljikovodicima) (CRNAC)\, 3.558 €/god.\n\nProfil općine: https://
- koncesijski-sat.vercel.app/#opcina/41942358B94093317954750
+ nu o ugljikovodicima) (CRNAC) · davatelj: MINISTARSTVO GOSPODARSTVA\, 3.5
+ 58 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/
+ 41942358B94093317954750
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B94093317954750
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -67,17 +71,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-c8a509e5f166d4d9@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-cc6ea0063cee90c3@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20370903
 DTEND;VALUE=DATE:20370904
 SUMMARY:Ističe koncesija: POLJOPRIVREDNO PODUZEĆE ORAHOVICA D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 3. 9. 2037. Godišnja fiksna nakna
  da: 10.160 €.\n\n• POLJOPRIVREDNO PODUZEĆE ORAHOVICA D.D. – Koncesi
  ja za korištenje poljoprivrednog zemljišta u vlasništvu države (CRNAC)
- \, 10.160 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#
- opcina/41942358B94093317954750\nIzvor: Registar koncesija (FINA)\, obrada 
- Koncesijski sat 9. 11. 2026.
+  · davatelj: OPĆINA CRNAC\, 10.160 €/god.\n\nProfil općine: https://k
+ oncesijski-sat.vercel.app/#opcina/41942358B94093317954750\nIzvor: Registar
+  koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B94093317954750
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -87,8 +91,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-c8a509e5f166d4d9@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-cc6ea0063cee90c3@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20370303
 DTEND;VALUE=DATE:20370304
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (POLJOPRIVREDNO P
@@ -96,9 +100,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (POLJOPRIVREDNO P
 DESCRIPTION:3. 9. 2037. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• POLJOPRIVREDNO PODUZEĆE ORAHOVICA D.D. – Koncesija za korišten
- je poljoprivrednog zemljišta u vlasništvu države (CRNAC)\, 10.160 €/g
- od.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358
- B94093317954750
+ je poljoprivrednog zemljišta u vlasništvu države (CRNAC) · davatelj: O
+ PĆINA CRNAC\, 10.160 €/god.\n\nProfil općine: https://koncesijski-sat.
+ vercel.app/#opcina/41942358B94093317954750
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B94093317954750
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -109,17 +113,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-8464847c88e547de@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-695491cbc3f91e44@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20381015
 DTEND;VALUE=DATE:20381016
 SUMMARY:Ističe koncesija: POLJOPRIVREDNO PODUZEĆE ORAHOVICA D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 15. 10. 2038. Godišnja fiksna nak
  nada: 47.400 €.\n\n• POLJOPRIVREDNO PODUZEĆE ORAHOVICA D.D. – Konce
  sija za korištenje poljoprivrednog zemljišta u vlasništvu države (CRNA
- C)\, 47.400 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app
- /#opcina/41942358B94093317954750\nIzvor: Registar koncesija (FINA)\, obrad
- a Koncesijski sat 9. 11. 2026.
+ C) · davatelj: OPĆINA CRNAC\, 47.400 €/god.\n\nProfil općine: https:/
+ /koncesijski-sat.vercel.app/#opcina/41942358B94093317954750\nIzvor: Regist
+ ar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B94093317954750
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -129,8 +133,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-8464847c88e547de@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-695491cbc3f91e44@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20380415
 DTEND;VALUE=DATE:20380416
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (POLJOPRIVREDNO P
@@ -138,9 +142,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (POLJOPRIVREDNO P
 DESCRIPTION:15. 10. 2038. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• POLJOPRIVREDNO PODUZEĆE ORAHOVICA D.D. – Koncesija za korišt
- enje poljoprivrednog zemljišta u vlasništvu države (CRNAC)\, 47.400 €
- /god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419423
- 58B94093317954750
+ enje poljoprivrednog zemljišta u vlasništvu države (CRNAC) · davatelj:
+  OPĆINA CRNAC\, 47.400 €/god.\n\nProfil općine: https://koncesijski-sa
+ t.vercel.app/#opcina/41942358B94093317954750
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B94093317954750
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -151,19 +155,21 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-66102f77c983da77@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-d182efbff4b82a4e@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20421231
 DTEND;VALUE=DATE:20430101
 SUMMARY:Ističe 3 koncesije · Crnac
 DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2042. Godišnja fiksna na
  knada: 7.091 €.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauze
- tu površinu odobrenog eksploatacijskog polja (CRNAC)\, 7.091 €/god.\n
- • INA D.D. – Dozvola za eksploataciju ugljikovodika (prema Zakonu o ug
- ljikovodicima) (CRNAC)\n• INA-INDUSTRIJA NAFTE  D.D. – Dozvola za eksp
- loataciju ugljikovodika (prema Zakonu o ugljikovodicima) (CRNAC)\n\nProfil
-  općine: https://koncesijski-sat.vercel.app/#opcina/41942358B940933179547
- 50\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ tu površinu odobrenog eksploatacijskog polja (CRNAC) · davatelj: MINISTA
+ RSTVO GOSPODARSTVA\, 7.091 €/god.\n• INA D.D. – Dozvola za eksploata
+ ciju ugljikovodika (prema Zakonu o ugljikovodicima) (CRNAC) · davatelj: M
+ INISTARSTVO GOSPODARSTVA\n• INA-INDUSTRIJA NAFTE  D.D. – Dozvola za ek
+ sploataciju ugljikovodika (prema Zakonu o ugljikovodicima) (CRNAC) · dava
+ telj: MINISTARSTVO GOSPODARSTVA\n\nProfil općine: https://koncesijski-sat
+ .vercel.app/#opcina/41942358B94093317954750\nIzvor: Registar koncesija (FI
+ NA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B94093317954750
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -173,24 +179,26 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-66102f77c983da77@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-d182efbff4b82a4e@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20420630
 DTEND;VALUE=DATE:20420701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Crnac
 DESCRIPTION:31. 12. 2042. ističe 3 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauzetu površinu o
- dobrenog eksploatacijskog polja (CRNAC)\, 7.091 €/god.\n• INA D.D. –
-  Dozvola za eksploataciju ugljikovodika (prema Zakonu o ugljikovodicima) (
- CRNAC)\n• INA-INDUSTRIJA NAFTE  D.D. – Dozvola za eksploataciju ugljik
- ovodika (prema Zakonu o ugljikovodicima) (CRNAC)\n\nProfil općine: https:
- //koncesijski-sat.vercel.app/#opcina/41942358B94093317954750
+ dobrenog eksploatacijskog polja (CRNAC) · davatelj: MINISTARSTVO GOSPODAR
+ STVA\, 7.091 €/god.\n• INA D.D. – Dozvola za eksploataciju ugljikovo
+ dika (prema Zakonu o ugljikovodicima) (CRNAC) · davatelj: MINISTARSTVO GO
+ SPODARSTVA\n• INA-INDUSTRIJA NAFTE  D.D. – Dozvola za eksploataciju ug
+ ljikovodika (prema Zakonu o ugljikovodicima) (CRNAC) · davatelj: MINISTAR
+ STVO GOSPODARSTVA\n\nProfil općine: https://koncesijski-sat.vercel.app/#o
+ pcina/41942358B94093317954750
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B94093317954750
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Crnac
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT

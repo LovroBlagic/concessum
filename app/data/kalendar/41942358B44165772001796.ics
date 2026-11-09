@@ -4,28 +4,30 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Grad Drniš
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Grad Drniš. Iz Registra
-  koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podataka
- . https://koncesijski-sat.vercel.app/#opcina/41942358B44165772001796
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Grad Drniš (pregled\, s
+ vi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježava se n
+ akon svake obrade podataka. https://koncesijski-sat.vercel.app/#opcina/419
+ 42358B44165772001796
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-40746ff3427364da@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-810bba9597ad920b@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20291231
 DTEND;VALUE=DATE:20300101
 SUMMARY:Ističe 3 koncesije · Drniš
 DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2029. Godišnja fiksna na
  knada: 31.752 €.\n\n• KAMENOLOM D.O.O. – Koncesija za eksploataciju 
- karbonatne mineralne sirovine za industrijsku preradbu (DRNIŠ)\, 10.584 
- €/god.\n• KAMENOLOM D.O.O. – Koncesija za eksploataciju karbonatne m
- ineralne sirovine za industrijsku preradbu (DRNIŠ)\, 10.584 €/god.\n•
-  KAMENOLOM D.O.O. – Koncesija za površinu utvrđenog eksploatacijskog p
- olja neenergetskih mineralnih sirovina (DRNIŠ)\, 10.584 €/god.\n\nProfi
- l općine: https://koncesijski-sat.vercel.app/#opcina/41942358B44165772001
- 796\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026
- .
+ karbonatne mineralne sirovine za industrijsku preradbu (DRNIŠ) · davatel
+ j: MINISTARSTVO GOSPODARSTVA\, 10.584 €/god.\n• KAMENOLOM D.O.O. – K
+ oncesija za eksploataciju karbonatne mineralne sirovine za industrijsku pr
+ eradbu (DRNIŠ) · davatelj: MINISTARSTVO GOSPODARSTVA\, 10.584 €/god.\n
+ • KAMENOLOM D.O.O. – Koncesija za površinu utvrđenog eksploatacijsko
+ g polja neenergetskih mineralnih sirovina (DRNIŠ) · davatelj: MINISTARST
+ VO GOSPODARSTVA\, 10.584 €/god.\n\nProfil općine: https://koncesijski-s
+ at.vercel.app/#opcina/41942358B44165772001796\nIzvor: Registar koncesija (
+ FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B44165772001796
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -35,43 +37,47 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-40746ff3427364da@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-810bba9597ad920b@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20290630
 DTEND;VALUE=DATE:20290701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Drniš
 DESCRIPTION:31. 12. 2029. ističe 3 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• KAMENOLOM D.O.O. – Koncesija za eksploataciju karbonatne mine
- ralne sirovine za industrijsku preradbu (DRNIŠ)\, 10.584 €/god.\n• KA
- MENOLOM D.O.O. – Koncesija za eksploataciju karbonatne mineralne sirovin
- e za industrijsku preradbu (DRNIŠ)\, 10.584 €/god.\n• KAMENOLOM D.O.O
- . – Koncesija za površinu utvrđenog eksploatacijskog polja neenergetsk
- ih mineralnih sirovina (DRNIŠ)\, 10.584 €/god.\n\nProfil općine: https
- ://koncesijski-sat.vercel.app/#opcina/41942358B44165772001796
+ ralne sirovine za industrijsku preradbu (DRNIŠ) · davatelj: MINISTARSTVO
+  GOSPODARSTVA\, 10.584 €/god.\n• KAMENOLOM D.O.O. – Koncesija za eks
+ ploataciju karbonatne mineralne sirovine za industrijsku preradbu (DRNIŠ)
+  · davatelj: MINISTARSTVO GOSPODARSTVA\, 10.584 €/god.\n• KAMENOLOM D
+ .O.O. – Koncesija za površinu utvrđenog eksploatacijskog polja neenerg
+ etskih mineralnih sirovina (DRNIŠ) · davatelj: MINISTARSTVO GOSPODARSTVA
+ \, 10.584 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#
+ opcina/41942358B44165772001796
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B44165772001796
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Drniš
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-5c29189639b74fb3@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-0f167d49da26fedb@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20401231
 DTEND;VALUE=DATE:20410101
 SUMMARY:Ističe 3 koncesije · Drniš
 DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2040. Godišnja fiksna na
  knada: 13.800 €.\n\n• KAMENOLOM D.O.O. – Koncesija za površinu utvr
- đenog eksploatacijskog polja neenergetskih mineralnih sirovina (DRNIŠ)\,
-  13.800 €/god.\n• KAMENOLOM D.O.O. – Koncesija za eksploataciju karb
- onatne mineralne sirovine za industrijsku preradbu (DRNIŠ)\n• KAMENOLOM
-  D.O.O. – Koncesija za eksploataciju karbonatne mineralne sirovine za in
- dustrijsku preradbu (DRNIŠ)\n\nProfil općine: https://koncesijski-sat.ve
- rcel.app/#opcina/41942358B44165772001796\nIzvor: Registar koncesija (FINA)
- \, obrada Koncesijski sat 9. 11. 2026.
+ đenog eksploatacijskog polja neenergetskih mineralnih sirovina (DRNIŠ) 
+ · davatelj: MINISTARSTVO GOSPODARSTVA\, 13.800 €/god.\n• KAMENOLOM D.
+ O.O. – Koncesija za eksploataciju karbonatne mineralne sirovine za indus
+ trijsku preradbu (DRNIŠ) · davatelj: MINISTARSTVO GOSPODARSTVA\n• KAME
+ NOLOM D.O.O. – Koncesija za eksploataciju karbonatne mineralne sirovine 
+ za industrijsku preradbu (DRNIŠ) · davatelj: MINISTARSTVO GOSPODARSTVA\n
+ \nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B4416
+ 5772001796\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 1
+ 1. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B44165772001796
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -81,43 +87,46 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-5c29189639b74fb3@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-0f167d49da26fedb@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20400630
 DTEND;VALUE=DATE:20400701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Drniš
 DESCRIPTION:31. 12. 2040. ističe 3 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• KAMENOLOM D.O.O. – Koncesija za površinu utvrđenog eksploat
- acijskog polja neenergetskih mineralnih sirovina (DRNIŠ)\, 13.800 €/god
- .\n• KAMENOLOM D.O.O. – Koncesija za eksploataciju karbonatne mineraln
- e sirovine za industrijsku preradbu (DRNIŠ)\n• KAMENOLOM D.O.O. – Kon
- cesija za eksploataciju karbonatne mineralne sirovine za industrijsku prer
- adbu (DRNIŠ)\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcin
- a/41942358B44165772001796
+ acijskog polja neenergetskih mineralnih sirovina (DRNIŠ) · davatelj: MIN
+ ISTARSTVO GOSPODARSTVA\, 13.800 €/god.\n• KAMENOLOM D.O.O. – Koncesi
+ ja za eksploataciju karbonatne mineralne sirovine za industrijsku preradbu
+  (DRNIŠ) · davatelj: MINISTARSTVO GOSPODARSTVA\n• KAMENOLOM D.O.O. –
+  Koncesija za eksploataciju karbonatne mineralne sirovine za industrijsku 
+ preradbu (DRNIŠ) · davatelj: MINISTARSTVO GOSPODARSTVA\n\nProfil općine
+ : https://koncesijski-sat.vercel.app/#opcina/41942358B44165772001796
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B44165772001796
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Drniš
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-891431dbc71733dd@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-c5a21d69592f671a@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20411231
 DTEND;VALUE=DATE:20420101
 SUMMARY:Ističe 3 koncesije · Drniš
 DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2041. Godišnja fiksna na
  knada: 6.898 €.\n\n• MIKROSIVERIT-ZA DOM D.O.O. – Koncesija za povr
  šinu utvrđenog eksploatacijskog polja neenergetskih mineralnih sirovina 
- (DRNIŠ)\, 6.898 €/god.\n• MIKROSIVERIT-ZA DOM D.O.O. – Koncesija za
-  eksploataciju karbonatne mineralne sirovine za industrijsku preradbu (DRN
- IŠ)\n• MIKROSIVERIT-ZA DOM D.O.O. – Koncesija za eksploataciju karbon
- atne mineralne sirovine za industrijsku preradbu (DRNIŠ)\n\nProfil općin
- e: https://koncesijski-sat.vercel.app/#opcina/41942358B44165772001796\nIzv
- or: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ (DRNIŠ) · davatelj: MINISTARSTVO GOSPODARSTVA\, 6.898 €/god.\n• MIKR
+ OSIVERIT-ZA DOM D.O.O. – Koncesija za eksploataciju karbonatne mineralne
+  sirovine za industrijsku preradbu (DRNIŠ) · davatelj: MINISTARSTVO GOSP
+ ODARSTVA\n• MIKROSIVERIT-ZA DOM D.O.O. – Koncesija za eksploataciju ka
+ rbonatne mineralne sirovine za industrijsku preradbu (DRNIŠ) · davatelj:
+  MINISTARSTVO GOSPODARSTVA\n\nProfil općine: https://koncesijski-sat.verc
+ el.app/#opcina/41942358B44165772001796\nIzvor: Registar koncesija (FINA)\,
+  obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B44165772001796
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -127,44 +136,48 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-891431dbc71733dd@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-c5a21d69592f671a@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20410630
 DTEND;VALUE=DATE:20410701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Drniš
 DESCRIPTION:31. 12. 2041. ističe 3 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• MIKROSIVERIT-ZA DOM D.O.O. – Koncesija za površinu utvrđeno
- g eksploatacijskog polja neenergetskih mineralnih sirovina (DRNIŠ)\, 6.89
- 8 €/god.\n• MIKROSIVERIT-ZA DOM D.O.O. – Koncesija za eksploataciju 
- karbonatne mineralne sirovine za industrijsku preradbu (DRNIŠ)\n• MIKRO
- SIVERIT-ZA DOM D.O.O. – Koncesija za eksploataciju karbonatne mineralne 
- sirovine za industrijsku preradbu (DRNIŠ)\n\nProfil općine: https://konc
- esijski-sat.vercel.app/#opcina/41942358B44165772001796
+ g eksploatacijskog polja neenergetskih mineralnih sirovina (DRNIŠ) · dav
+ atelj: MINISTARSTVO GOSPODARSTVA\, 6.898 €/god.\n• MIKROSIVERIT-ZA DOM
+  D.O.O. – Koncesija za eksploataciju karbonatne mineralne sirovine za in
+ dustrijsku preradbu (DRNIŠ) · davatelj: MINISTARSTVO GOSPODARSTVA\n• M
+ IKROSIVERIT-ZA DOM D.O.O. – Koncesija za eksploataciju karbonatne minera
+ lne sirovine za industrijsku preradbu (DRNIŠ) · davatelj: MINISTARSTVO G
+ OSPODARSTVA\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/
+ 41942358B44165772001796
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B44165772001796
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Drniš
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-2a9175f260dd8ea9@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-ae40424c951de954@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20451231
 DTEND;VALUE=DATE:20460101
 SUMMARY:Ističe 4 koncesije · Drniš
 DESCRIPTION:4 ugovora o koncesiji ističe 31. 12. 2045. Godišnja fiksna na
  knada: 318 €.\n\n• TINO D. O. O. – Koncesija za površinu utvrđenog
-  eksploatacijskog polja neenergetskih mineralnih sirovina (DRNIŠ)\, 84 
- €/god.\n• TINO D. O. O. – Koncesija za eksploataciju arhitektonsko-g
- rađevnog kamena (DRNIŠ)\, 84 €/god.\n• TINO D. O. O. – Koncesija z
- a eksploataciju arhitektonsko-građevnog kamena (DRNIŠ)\, 84 €/god.\n
- • RADIO POSTAJA DRNIŠ D.O.O. – Koncesija za obavljanje djelatnosti ra
- dija (DRNIŠ)\, 66 €/god.\n\nProfil općine: https://koncesijski-sat.ver
- cel.app/#opcina/41942358B44165772001796\nIzvor: Registar koncesija (FINA)\
- , obrada Koncesijski sat 9. 11. 2026.
+  eksploatacijskog polja neenergetskih mineralnih sirovina (DRNIŠ) · dava
+ telj: MINISTARSTVO GOSPODARSTVA\, 84 €/god.\n• TINO D. O. O. – Konce
+ sija za eksploataciju arhitektonsko-građevnog kamena (DRNIŠ) · davatelj
+ : MINISTARSTVO GOSPODARSTVA\, 84 €/god.\n• TINO D. O. O. – Koncesija
+  za eksploataciju arhitektonsko-građevnog kamena (DRNIŠ) · davatelj: MI
+ NISTARSTVO GOSPODARSTVA\, 84 €/god.\n• RADIO POSTAJA DRNIŠ D.O.O. –
+  Koncesija za obavljanje djelatnosti radija (DRNIŠ) · davatelj: AGENCIJA
+  ZA ELEKTRONIČKE MEDIJE\, 66 €/god.\n\nProfil općine: https://koncesij
+ ski-sat.vercel.app/#opcina/41942358B44165772001796\nIzvor: Registar konces
+ ija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B44165772001796
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -174,26 +187,28 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-2a9175f260dd8ea9@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-ae40424c951de954@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20450630
 DTEND;VALUE=DATE:20450701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 4 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 4 koncesije · Drniš
 DESCRIPTION:31. 12. 2045. ističe 4 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• TINO D. O. O. – Koncesija za površinu utvrđenog eksploataci
- jskog polja neenergetskih mineralnih sirovina (DRNIŠ)\, 84 €/god.\n• 
- TINO D. O. O. – Koncesija za eksploataciju arhitektonsko-građevnog kame
- na (DRNIŠ)\, 84 €/god.\n• TINO D. O. O. – Koncesija za eksploatacij
- u arhitektonsko-građevnog kamena (DRNIŠ)\, 84 €/god.\n• RADIO POSTAJ
- A DRNIŠ D.O.O. – Koncesija za obavljanje djelatnosti radija (DRNIŠ)\, 
- 66 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/
- 41942358B44165772001796
+ jskog polja neenergetskih mineralnih sirovina (DRNIŠ) · davatelj: MINIST
+ ARSTVO GOSPODARSTVA\, 84 €/god.\n• TINO D. O. O. – Koncesija za eksp
+ loataciju arhitektonsko-građevnog kamena (DRNIŠ) · davatelj: MINISTARST
+ VO GOSPODARSTVA\, 84 €/god.\n• TINO D. O. O. – Koncesija za eksploat
+ aciju arhitektonsko-građevnog kamena (DRNIŠ) · davatelj: MINISTARSTVO G
+ OSPODARSTVA\, 84 €/god.\n• RADIO POSTAJA DRNIŠ D.O.O. – Koncesija z
+ a obavljanje djelatnosti radija (DRNIŠ) · davatelj: AGENCIJA ZA ELEKTRON
+ IČKE MEDIJE\, 66 €/god.\n\nProfil općine: https://koncesijski-sat.verc
+ el.app/#opcina/41942358B44165772001796
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B44165772001796
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 4 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 4 koncesije · Drniš
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT

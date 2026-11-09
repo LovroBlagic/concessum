@@ -1,0 +1,175 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · OPĆINA ĐURĐENOVAC
+X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje OPĆINA ĐURĐENOVAC. Iz R
+ egistra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade p
+ odataka. https://koncesijski-sat.vercel.app/#sat
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-725f0fd787c49648@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20271201
+DTEND;VALUE=DATE:20271202
+SUMMARY:Ističe koncesija: HEP - PLIN  D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 1. 12. 2027.\n\n• HEP - PLIN  D.
+ O.O. – Koncesija za opskrbu potrošača prirodnim plinom (ĐURĐENOVAC\,
+  Općina Đurđenovac)\n\nŠto ističe: https://koncesijski-sat.vercel.app
+ /#sat\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 20
+ 26.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: HEP - PLIN  D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-725f0fd787c49648@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20270601
+DTEND;VALUE=DATE:20270602
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP - PLIN  D.O.
+ O.)
+DESCRIPTION:1. 12. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• HEP - PLIN  D.O.O. – Koncesija za opskrbu potrošača prirodnim
+  plinom (ĐURĐENOVAC\, Općina Đurđenovac)\n\nŠto ističe: https://kon
+ cesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP - PLIN  
+ D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-3704c8be320bd8b0@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20341027
+DTEND;VALUE=DATE:20341028
+SUMMARY:Ističe koncesija: HANA-KOŠKA D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 27. 10. 2034. Godišnja fiksna nak
+ nada: 10.100 €.\n\n• HANA-KOŠKA D.O.O. – Koncesija za korištenje p
+ oljoprivrednog zemljišta u vlasništvu države (ĐURĐENOVAC\, Općina Đ
+ urđenovac)\, 10.100 €/god.\n\nŠto ističe: https://koncesijski-sat.ver
+ cel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9.
+  11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: HANA-KOŠKA D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-3704c8be320bd8b0@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20340427
+DTEND;VALUE=DATE:20340428
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HANA-KOŠKA D.O.
+ O.)
+DESCRIPTION:27. 10. 2034. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• HANA-KOŠKA D.O.O. – Koncesija za korištenje poljoprivrednog 
+ zemljišta u vlasništvu države (ĐURĐENOVAC\, Općina Đurđenovac)\, 1
+ 0.100 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HANA-KOŠKA 
+ D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-a9f1fd09c693fc57@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20350624
+DTEND;VALUE=DATE:20350625
+SUMMARY:Ističe koncesija: NJIVE D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 24. 6. 2035. Godišnja fiksna nakn
+ ada: 9.160 €.\n\n• NJIVE D.O.O. – Koncesija za korištenje poljopriv
+ rednog zemljišta u vlasništvu države (ĐURĐENOVAC\, Općina Đurđenov
+ ac)\, 9.160 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#
+ sat\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026
+ .
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: NJIVE D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-a9f1fd09c693fc57@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20341224
+DTEND;VALUE=DATE:20341225
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (NJIVE D.O.O.)
+DESCRIPTION:24. 6. 2035. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• NJIVE D.O.O. – Koncesija za korištenje poljoprivrednog zemlji
+ šta u vlasništvu države (ĐURĐENOVAC\, Općina Đurđenovac)\, 9.160 
+ €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (NJIVE D.O.O.
+ )
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-09e7a1148f003b84@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20360224
+DTEND;VALUE=DATE:20360225
+SUMMARY:Ističe koncesija: FARMA LIPINE D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 24. 2. 2036. Godišnja fiksna nakn
+ ada: 35.016 €.\n\n• FARMA LIPINE D.O.O. – Koncesija za korištenje p
+ oljoprivrednog zemljišta u vlasništvu države (ĐURĐENOVAC\, Općina Đ
+ urđenovac)\, 35.016 €/god.\n\nŠto ističe: https://koncesijski-sat.ver
+ cel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9.
+  11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: FARMA LIPINE D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-09e7a1148f003b84@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20350824
+DTEND;VALUE=DATE:20350825
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (FARMA LIPINE D.O
+ .O.)
+DESCRIPTION:24. 2. 2036. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• FARMA LIPINE D.O.O. – Koncesija za korištenje poljoprivrednog 
+ zemljišta u vlasništvu države (ĐURĐENOVAC\, Općina Đurđenovac)\, 3
+ 5.016 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (FARMA LIPINE
+  D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,53 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · OPĆINA BOL
+X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje OPĆINA BOL. Iz Registra k
+ oncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podataka. 
+ https://koncesijski-sat.vercel.app/#sat
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-c0050071956d7be4@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20300430
+DTEND;VALUE=DATE:20300501
+SUMMARY:Ističe koncesija: MICHIELI-TOMIĆ D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 30. 4. 2030. Godišnja fiksna nakn
+ ada: 1.593 €.\n\n• MICHIELI-TOMIĆ D.O.O. – Koncesija skupljanja i o
+ dvoza komunalnog otpada (BOL\, Općina Bol)\, 1.593 €/god.\n\nŠto isti
+ če: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (F
+ INA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: MICHIELI-TOMIĆ D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-c0050071956d7be4@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20291030
+DTEND;VALUE=DATE:20291031
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MICHIELI-TOMIĆ 
+ D.O.O.)
+DESCRIPTION:30. 4. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• MICHIELI-TOMIĆ D.O.O. – Koncesija skupljanja i odvoza komunaln
+ og otpada (BOL\, Općina Bol)\, 1.593 €/god.\n\nŠto ističe: https://ko
+ ncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MICHIELI-TOM
+ IĆ D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

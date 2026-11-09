@@ -1,0 +1,174 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · OPĆINA ŠODOLOVCI
+X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje OPĆINA ŠODOLOVCI. Iz Reg
+ istra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade pod
+ ataka. https://koncesijski-sat.vercel.app/#sat
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-a61dfcd0a4da3be6@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20281123
+DTEND;VALUE=DATE:20281124
+SUMMARY:Ističe koncesija: NEVKOŠ D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 23. 11. 2028.\n\n• NEVKOŠ D.O.O
+ . – Koncesija skupljanja i odvoza komunalnog otpada (ŠODOLOVCI\, Općin
+ a Šodolovci)\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIz
+ vor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: NEVKOŠ D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-a61dfcd0a4da3be6@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20280523
+DTEND;VALUE=DATE:20280524
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (NEVKOŠ D.O.O.)
+DESCRIPTION:23. 11. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• NEVKOŠ D.O.O. – Koncesija skupljanja i odvoza komunalnog otpa
+ da (ŠODOLOVCI\, Općina Šodolovci)\n\nŠto ističe: https://koncesijski-
+ sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (NEVKOŠ D.O.
+ O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-8754a47e545380b1@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20360707
+DTEND;VALUE=DATE:20360708
+SUMMARY:Ističe koncesija: NOVI AGRAR D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 7. 7. 2036. Godišnja fiksna nakna
+ da: 2.513 €.\n\n• NOVI AGRAR D.O.O. – Koncesija za korištenje poljo
+ privrednog zemljišta u vlasništvu države (ŠODOLOVCI\, Općina Šodolov
+ ci)\, 2.513 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#
+ sat\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026
+ .
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: NOVI AGRAR D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-8754a47e545380b1@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20360107
+DTEND;VALUE=DATE:20360108
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (NOVI AGRAR D.O.O
+ .)
+DESCRIPTION:7. 7. 2036. ističe 1 ugovor o koncesiji. Novi postupak dodjele
+  treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
+ \n\n• NOVI AGRAR D.O.O. – Koncesija za korištenje poljoprivrednog zem
+ ljišta u vlasništvu države (ŠODOLOVCI\, Općina Šodolovci)\, 2.513 
+ €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (NOVI AGRAR D
+ .O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-1256334df897dfa5@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20371023
+DTEND;VALUE=DATE:20371024
+SUMMARY:Ističe koncesija: PSVZ AGROVLADISLAVCI
+DESCRIPTION:1 ugovor o koncesiji ističe 23. 10. 2037. Godišnja fiksna nak
+ nada: 34.157 €.\n\n• PSVZ AGROVLADISLAVCI – Koncesija za korištenje
+  poljoprivrednog zemljišta u vlasništvu države (ŠODOLOVCI\, Općina Š
+ odolovci)\, 34.157 €/god.\n\nŠto ističe: https://koncesijski-sat.verce
+ l.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 1
+ 1. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: PSVZ AGROVLADISLAVCI
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-1256334df897dfa5@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20370423
+DTEND;VALUE=DATE:20370424
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PSVZ AGROVLADISL
+ AVCI)
+DESCRIPTION:23. 10. 2037. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• PSVZ AGROVLADISLAVCI – Koncesija za korištenje poljoprivredno
+ g zemljišta u vlasništvu države (ŠODOLOVCI\, Općina Šodolovci)\, 34.
+ 157 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PSVZ AGROVLA
+ DISLAVCI)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-58170e6ef0cf9d48@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20371024
+DTEND;VALUE=DATE:20371025
+SUMMARY:Ističe koncesija: NOVI AGRAR D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 24. 10. 2037. Godišnja fiksna nak
+ nada: 43.736 €.\n\n• NOVI AGRAR D.O.O. – Koncesija za korištenje po
+ ljoprivrednog zemljišta u vlasništvu države (ŠODOLOVCI\, Općina Šodo
+ lovci)\, 43.736 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.a
+ pp/#sat\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 
+ 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: NOVI AGRAR D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-58170e6ef0cf9d48@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20370424
+DTEND;VALUE=DATE:20370425
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (NOVI AGRAR D.O.O
+ .)
+DESCRIPTION:24. 10. 2037. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• NOVI AGRAR D.O.O. – Koncesija za korištenje poljoprivrednog z
+ emljišta u vlasništvu države (ŠODOLOVCI\, Općina Šodolovci)\, 43.736
+  €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (NOVI AGRAR D
+ .O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -4,23 +4,25 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Općina Sokolovac
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Sokolovac. Iz Re
- gistra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade po
- dataka. https://koncesijski-sat.vercel.app/#opcina/41942358B44405743339218
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Općina Sokolovac (pregl
+ ed\, svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježav
+ a se nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#opci
+ na/41942358B44405743339218
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-2e0b62e2de39beae@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-70fab28646df2fa1@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:Ističe koncesija: INA\, D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 30. 11. 2026. Godišnja fiksna nak
  nada: 865 €.\n\n• INA\, D.D. – Dozvola za istraživanje ugljikovodik
- a (prema Zakonu o ugljikovodicima) (SOKOLOVAC)\, 865 €/god.\n\nProfil op
- ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B44405743339218\
- nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ a (prema Zakonu o ugljikovodicima) (SOKOLOVAC) · davatelj: MINISTARSTVO G
+ OSPODARSTVA\, 865 €/god.\n\nProfil općine: https://koncesijski-sat.verc
+ el.app/#opcina/41942358B44405743339218\nIzvor: Registar koncesija (FINA)\,
+  obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B44405743339218
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -30,20 +32,21 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-f829afe42b809049@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-73135b2b167be34e@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20281231
 DTEND;VALUE=DATE:20290101
 SUMMARY:Ističe 3 koncesije · Sokolovac
 DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2028. Godišnja fiksna na
  knada: 2.788 €.\n\n• HRVATSKE ŠUME D.O.O. – Koncesija za površinu 
  utvrđenog eksploatacijskog polja neenergetskih mineralnih sirovina (SOKOL
- OVAC)\, 2.788 €/god.\n• HRVATSKE ŠUME D.O.O. – Koncesija za eksploa
- taciju građevnog pijeska i šljunka (SOKOLOVAC)\n• HRVATSKE ŠUME D.O.O
- . – Koncesija za eksploataciju građevnog pijeska i šljunka (SOKOLOVAC)
- \n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B44
- 405743339218\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9.
-  11. 2026.
+ OVAC) · davatelj: MINISTARSTVO GOSPODARSTVA\, 2.788 €/god.\n• HRVATSK
+ E ŠUME D.O.O. – Koncesija za eksploataciju građevnog pijeska i šljunk
+ a (SOKOLOVAC) · davatelj: MINISTARSTVO GOSPODARSTVA\n• HRVATSKE ŠUME D
+ .O.O. – Koncesija za eksploataciju građevnog pijeska i šljunka (SOKOLO
+ VAC) · davatelj: MINISTARSTVO GOSPODARSTVA\n\nProfil općine: https://kon
+ cesijski-sat.vercel.app/#opcina/41942358B44405743339218\nIzvor: Registar k
+ oncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B44405743339218
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -53,42 +56,45 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-f829afe42b809049@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-73135b2b167be34e@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20280630
 DTEND;VALUE=DATE:20280701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Sokolovac
 DESCRIPTION:31. 12. 2028. ističe 3 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• HRVATSKE ŠUME D.O.O. – Koncesija za površinu utvrđenog eks
- ploatacijskog polja neenergetskih mineralnih sirovina (SOKOLOVAC)\, 2.788 
- €/god.\n• HRVATSKE ŠUME D.O.O. – Koncesija za eksploataciju građev
- nog pijeska i šljunka (SOKOLOVAC)\n• HRVATSKE ŠUME D.O.O. – Koncesij
- a za eksploataciju građevnog pijeska i šljunka (SOKOLOVAC)\n\nProfil op
- ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B44405743339218
+ ploatacijskog polja neenergetskih mineralnih sirovina (SOKOLOVAC) · davat
+ elj: MINISTARSTVO GOSPODARSTVA\, 2.788 €/god.\n• HRVATSKE ŠUME D.O.O.
+  – Koncesija za eksploataciju građevnog pijeska i šljunka (SOKOLOVAC) 
+ · davatelj: MINISTARSTVO GOSPODARSTVA\n• HRVATSKE ŠUME D.O.O. – Konc
+ esija za eksploataciju građevnog pijeska i šljunka (SOKOLOVAC) · davate
+ lj: MINISTARSTVO GOSPODARSTVA\n\nProfil općine: https://koncesijski-sat.v
+ ercel.app/#opcina/41942358B44405743339218
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B44405743339218
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Sokolovac
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-1b3d7accb9465d70@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-d435df1222880376@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20291231
 DTEND;VALUE=DATE:20300101
 SUMMARY:Ističe 3 koncesije · Sokolovac
 DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2029. Godišnja fiksna na
  knada: 3.161 €.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauze
- tu površinu odobrenog eksploatacijskog polja (SOKOLOVAC)\, 3.161 €/god.
- \n• INA-INDUSTRIJA NAFTE  D.D. – Dozvola za eksploataciju ugljikovodik
- a (prema Zakonu o ugljikovodicima) (SOKOLOVAC)\n• INA D.D. – Dozvola z
- a eksploataciju ugljikovodika (prema Zakonu o ugljikovodicima) (SOKOLOVAC)
- \n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B44
- 405743339218\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9.
-  11. 2026.
+ tu površinu odobrenog eksploatacijskog polja (SOKOLOVAC) · davatelj: MIN
+ ISTARSTVO GOSPODARSTVA\, 3.161 €/god.\n• INA-INDUSTRIJA NAFTE  D.D. 
+ – Dozvola za eksploataciju ugljikovodika (prema Zakonu o ugljikovodicima
+ ) (SOKOLOVAC) · davatelj: MINISTARSTVO GOSPODARSTVA\n• INA D.D. – Doz
+ vola za eksploataciju ugljikovodika (prema Zakonu o ugljikovodicima) (SOKO
+ LOVAC) · davatelj: MINISTARSTVO GOSPODARSTVA\n\nProfil općine: https://k
+ oncesijski-sat.vercel.app/#opcina/41942358B44405743339218\nIzvor: Registar
+  koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B44405743339218
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -98,39 +104,42 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-1b3d7accb9465d70@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-d435df1222880376@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20290630
 DTEND;VALUE=DATE:20290701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Sokolovac
 DESCRIPTION:31. 12. 2029. ističe 3 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauzetu površinu o
- dobrenog eksploatacijskog polja (SOKOLOVAC)\, 3.161 €/god.\n• INA-INDU
- STRIJA NAFTE  D.D. – Dozvola za eksploataciju ugljikovodika (prema Zakon
- u o ugljikovodicima) (SOKOLOVAC)\n• INA D.D. – Dozvola za eksploatacij
- u ugljikovodika (prema Zakonu o ugljikovodicima) (SOKOLOVAC)\n\nProfil op
- ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B44405743339218
+ dobrenog eksploatacijskog polja (SOKOLOVAC) · davatelj: MINISTARSTVO GOSP
+ ODARSTVA\, 3.161 €/god.\n• INA-INDUSTRIJA NAFTE  D.D. – Dozvola za e
+ ksploataciju ugljikovodika (prema Zakonu o ugljikovodicima) (SOKOLOVAC) ·
+  davatelj: MINISTARSTVO GOSPODARSTVA\n• INA D.D. – Dozvola za eksploat
+ aciju ugljikovodika (prema Zakonu o ugljikovodicima) (SOKOLOVAC) · davate
+ lj: MINISTARSTVO GOSPODARSTVA\n\nProfil općine: https://koncesijski-sat.v
+ ercel.app/#opcina/41942358B44405743339218
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B44405743339218
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Sokolovac
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-e945524584ed7f73@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-6ceff03cceb8cd45@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20301231
 DTEND;VALUE=DATE:20310101
 SUMMARY:Ističe 2 koncesije · Sokolovac
 DESCRIPTION:2 ugovora o koncesiji ističe 31. 12. 2030.\n\n• INA-INDUSTRI
  JA NAFTE  D.D. – Dozvola za eksploataciju ugljikovodika (prema Zakonu o 
- ugljikovodicima) (SOKOLOVAC)\n• INA D.D. – Dozvola za eksploataciju ug
- ljikovodika (prema Zakonu o ugljikovodicima) (SOKOLOVAC)\n\nProfil općine
- : https://koncesijski-sat.vercel.app/#opcina/41942358B44405743339218\nIzvo
- r: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ ugljikovodicima) (SOKOLOVAC) · davatelj: MINISTARSTVO GOSPODARSTVA\n• I
+ NA D.D. – Dozvola za eksploataciju ugljikovodika (prema Zakonu o ugljiko
+ vodicima) (SOKOLOVAC) · davatelj: MINISTARSTVO GOSPODARSTVA\n\nProfil op
+ ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B44405743339218\
+ nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B44405743339218
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -140,41 +149,43 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-e945524584ed7f73@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-6ceff03cceb8cd45@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20300630
 DTEND;VALUE=DATE:20300701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Sokolovac
 DESCRIPTION:31. 12. 2030. ističe 2 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Dozvola za eksploataciju ugljiko
- vodika (prema Zakonu o ugljikovodicima) (SOKOLOVAC)\n• INA D.D. – Dozv
- ola za eksploataciju ugljikovodika (prema Zakonu o ugljikovodicima) (SOKOL
- OVAC)\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419423
- 58B44405743339218
+ vodika (prema Zakonu o ugljikovodicima) (SOKOLOVAC) · davatelj: MINISTARS
+ TVO GOSPODARSTVA\n• INA D.D. – Dozvola za eksploataciju ugljikovodika 
+ (prema Zakonu o ugljikovodicima) (SOKOLOVAC) · davatelj: MINISTARSTVO GOS
+ PODARSTVA\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41
+ 942358B44405743339218
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B44405743339218
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Sokolovac
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-dbabfc53b7efbb2f@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-7d0e3ee64f501084@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20391231
 DTEND;VALUE=DATE:20400101
 SUMMARY:Ističe 3 koncesije · Sokolovac
 DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2039. Godišnja fiksna na
  knada: 883 €.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauzetu
-  površinu odobrenog eksploatacijskog polja (SOKOLOVAC)\, 883 €/god.\n
- • INA D.D. – Dozvola za eksploataciju ugljikovodika (prema Zakonu o ug
- ljikovodicima) (SOKOLOVAC)\n• INA-INDUSTRIJA NAFTE  D.D. – Dozvola za 
- eksploataciju ugljikovodika (prema Zakonu o ugljikovodicima) (SOKOLOVAC)\n
- \nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B4440
- 5743339218\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 1
- 1. 2026.
+  površinu odobrenog eksploatacijskog polja (SOKOLOVAC) · davatelj: MINIS
+ TARSTVO GOSPODARSTVA\, 883 €/god.\n• INA D.D. – Dozvola za eksploata
+ ciju ugljikovodika (prema Zakonu o ugljikovodicima) (SOKOLOVAC) · davatel
+ j: MINISTARSTVO GOSPODARSTVA\n• INA-INDUSTRIJA NAFTE  D.D. – Dozvola z
+ a eksploataciju ugljikovodika (prema Zakonu o ugljikovodicima) (SOKOLOVAC)
+  · davatelj: MINISTARSTVO GOSPODARSTVA\n\nProfil općine: https://koncesi
+ jski-sat.vercel.app/#opcina/41942358B44405743339218\nIzvor: Registar konce
+ sija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B44405743339218
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -184,24 +195,26 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-dbabfc53b7efbb2f@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-7d0e3ee64f501084@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20390630
 DTEND;VALUE=DATE:20390701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Sokolovac
 DESCRIPTION:31. 12. 2039. ističe 3 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauzetu površinu o
- dobrenog eksploatacijskog polja (SOKOLOVAC)\, 883 €/god.\n• INA D.D. 
- – Dozvola za eksploataciju ugljikovodika (prema Zakonu o ugljikovodicima
- ) (SOKOLOVAC)\n• INA-INDUSTRIJA NAFTE  D.D. – Dozvola za eksploataciju
-  ugljikovodika (prema Zakonu o ugljikovodicima) (SOKOLOVAC)\n\nProfil opć
- ine: https://koncesijski-sat.vercel.app/#opcina/41942358B44405743339218
+ dobrenog eksploatacijskog polja (SOKOLOVAC) · davatelj: MINISTARSTVO GOSP
+ ODARSTVA\, 883 €/god.\n• INA D.D. – Dozvola za eksploataciju ugljiko
+ vodika (prema Zakonu o ugljikovodicima) (SOKOLOVAC) · davatelj: MINISTARS
+ TVO GOSPODARSTVA\n• INA-INDUSTRIJA NAFTE  D.D. – Dozvola za eksploatac
+ iju ugljikovodika (prema Zakonu o ugljikovodicima) (SOKOLOVAC) · davatelj
+ : MINISTARSTVO GOSPODARSTVA\n\nProfil općine: https://koncesijski-sat.ver
+ cel.app/#opcina/41942358B44405743339218
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B44405743339218
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Sokolovac
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT

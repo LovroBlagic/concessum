@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · OPĆINA ŠPIŠIĆ BUKOVICA
+X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje OPĆINA ŠPIŠIĆ BUKOVICA
+ . Iz Registra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake ob
+ rade podataka. https://koncesijski-sat.vercel.app/#sat
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-17384e7111f33fb1@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20310318
+DTEND;VALUE=DATE:20310319
+SUMMARY:Ističe koncesija: DIMKO D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 18. 3. 2031. Godišnja fiksna nakn
+ ada: 743 €.\n\n• DIMKO D.O.O. – Koncesija za obavljanje dimnjačarsk
+ ih poslova (ŠPIŠIĆ BUKOVICA\, Općina Špišić Bukovica)\, 743 €/god
+ .\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Regista
+ r koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: DIMKO D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-17384e7111f33fb1@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20300918
+DTEND;VALUE=DATE:20300919
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DIMKO D.O.O.)
+DESCRIPTION:18. 3. 2031. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• DIMKO D.O.O. – Koncesija za obavljanje dimnjačarskih poslova (
+ ŠPIŠIĆ BUKOVICA\, Općina Špišić Bukovica)\, 743 €/god.\n\nŠto is
+ tiče: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DIMKO D.O.O.
+ )
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

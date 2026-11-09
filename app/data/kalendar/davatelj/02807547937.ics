@@ -1,0 +1,181 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · OPĆINA ČAČINCI
+X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje OPĆINA ČAČINCI. Iz Regi
+ stra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade poda
+ taka. https://koncesijski-sat.vercel.app/#sat
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-d85e836f104a094a@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20380429
+DTEND;VALUE=DATE:20380430
+SUMMARY:Ističe koncesija: POLJOPRIVREDNO PODUZEĆE ORAHOVICA D.D.
+DESCRIPTION:1 ugovor o koncesiji ističe 29. 4. 2038. Godišnja fiksna nakn
+ ada: 39.756 €.\n\n• POLJOPRIVREDNO PODUZEĆE ORAHOVICA D.D. – Konces
+ ija za korištenje poljoprivrednog zemljišta u vlasništvu države (ČAČ
+ INCI\, Općina Čačinci)\, 39.756 €/god.\n\nŠto ističe: https://konce
+ sijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Konc
+ esijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: POLJOPRIVREDNO PODUZEĆE ORAHOVICA D.D.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-d85e836f104a094a@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20371029
+DTEND;VALUE=DATE:20371030
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (POLJOPRIVREDNO P
+ ODUZEĆE ORAHOVICA D.D.)
+DESCRIPTION:29. 4. 2038. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• POLJOPRIVREDNO PODUZEĆE ORAHOVICA D.D. – Koncesija za korište
+ nje poljoprivrednog zemljišta u vlasništvu države (ČAČINCI\, Općina 
+ Čačinci)\, 39.756 €/god.\n\nŠto ističe: https://koncesijski-sat.verc
+ el.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (POLJOPRIVRED
+ NO PODUZEĆE ORAHOVICA D.D.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-532b05b0d6046e78@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20381015
+DTEND;VALUE=DATE:20381016
+SUMMARY:Ističe koncesija: POLJOPRIVREDNO PODUZEĆE ORAHOVICA D.D.
+DESCRIPTION:1 ugovor o koncesiji ističe 15. 10. 2038. Godišnja fiksna nak
+ nada: 51.350 €.\n\n• POLJOPRIVREDNO PODUZEĆE ORAHOVICA D.D. – Konce
+ sija za korištenje poljoprivrednog zemljišta u vlasništvu države (ČA
+ ČINCI\, Općina Čačinci)\, 51.350 €/god.\n\nŠto ističe: https://kon
+ cesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Ko
+ ncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: POLJOPRIVREDNO PODUZEĆE ORAHOVICA D.D.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-532b05b0d6046e78@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20380415
+DTEND;VALUE=DATE:20380416
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (POLJOPRIVREDNO P
+ ODUZEĆE ORAHOVICA D.D.)
+DESCRIPTION:15. 10. 2038. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• POLJOPRIVREDNO PODUZEĆE ORAHOVICA D.D. – Koncesija za korišt
+ enje poljoprivrednog zemljišta u vlasništvu države (ČAČINCI\, Općina
+  Čačinci)\, 51.350 €/god.\n\nŠto ističe: https://koncesijski-sat.ver
+ cel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (POLJOPRIVRED
+ NO PODUZEĆE ORAHOVICA D.D.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-9d5285877cfc6267@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20470306
+DTEND;VALUE=DATE:20470307
+SUMMARY:Ističe koncesija: POLJOPRIVREDNO PODUZEĆE ORAHOVICA D.D.
+DESCRIPTION:1 ugovor o koncesiji ističe 6. 3. 2047. Godišnja fiksna nakna
+ da: 5.226 €.\n\n• POLJOPRIVREDNO PODUZEĆE ORAHOVICA D.D. – Koncesij
+ a za korištenje poljoprivrednog zemljišta u vlasništvu države (ČAČIN
+ CI\, Općina Čačinci)\, 5.226 €/god.\n\nŠto ističe: https://koncesij
+ ski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Koncesi
+ jski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: POLJOPRIVREDNO PODUZEĆE ORAHOVICA D.D.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-9d5285877cfc6267@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20460906
+DTEND;VALUE=DATE:20460907
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (POLJOPRIVREDNO P
+ ODUZEĆE ORAHOVICA D.D.)
+DESCRIPTION:6. 3. 2047. ističe 1 ugovor o koncesiji. Novi postupak dodjele
+  treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
+ \n\n• POLJOPRIVREDNO PODUZEĆE ORAHOVICA D.D. – Koncesija za korišten
+ je poljoprivrednog zemljišta u vlasništvu države (ČAČINCI\, Općina 
+ Čačinci)\, 5.226 €/god.\n\nŠto ističe: https://koncesijski-sat.verce
+ l.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (POLJOPRIVRED
+ NO PODUZEĆE ORAHOVICA D.D.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-652146f433748c26@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20481231
+DTEND;VALUE=DATE:20490101
+SUMMARY:Ističe koncesija: POLJOPRIVREDNO PODUZEĆE ORAHOVICA D.D.
+DESCRIPTION:1 ugovor o koncesiji ističe 31. 12. 2048. Godišnja fiksna nak
+ nada: 10.376 €.\n\n• POLJOPRIVREDNO PODUZEĆE ORAHOVICA D.D. – Konce
+ sija za korištenje poljoprivrednog zemljišta u vlasništvu države (ČA
+ ČINCI\, Općina Čačinci)\, 10.376 €/god.\n\nŠto ističe: https://kon
+ cesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Ko
+ ncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: POLJOPRIVREDNO PODUZEĆE ORAHOVICA D.D.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-652146f433748c26@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20480630
+DTEND;VALUE=DATE:20480701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (POLJOPRIVREDNO P
+ ODUZEĆE ORAHOVICA D.D.)
+DESCRIPTION:31. 12. 2048. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• POLJOPRIVREDNO PODUZEĆE ORAHOVICA D.D. – Koncesija za korišt
+ enje poljoprivrednog zemljišta u vlasništvu države (ČAČINCI\, Općina
+  Čačinci)\, 10.376 €/god.\n\nŠto ističe: https://koncesijski-sat.ver
+ cel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (POLJOPRIVRED
+ NO PODUZEĆE ORAHOVICA D.D.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

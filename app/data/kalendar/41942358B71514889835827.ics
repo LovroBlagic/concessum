@@ -4,23 +4,24 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Općina Žumberak
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Žumberak. Iz Re
- gistra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade po
- dataka. https://koncesijski-sat.vercel.app/#opcina/41942358B71514889835827
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Općina Žumberak (pregl
+ ed\, svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježav
+ a se nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#opci
+ na/41942358B71514889835827
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-d92b61f860052789@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-5f1b4b67e8f6c42d@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20350101
 DTEND;VALUE=DATE:20350102
 SUMMARY:Ističe koncesija: EKO-FLOR PLUS D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 1. 1. 2035.\n\n• EKO-FLOR PLUS D
- .O.O. – Koncesija skupljanja i odvoza komunalnog otpada (ŽUMBERAK)\n\nP
- rofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B7151488
- 9835827\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 
- 2026.
+ .O.O. – Koncesija skupljanja i odvoza komunalnog otpada (ŽUMBERAK) · d
+ avatelj: OPĆINA ŽUMBERAK\n\nProfil općine: https://koncesijski-sat.verc
+ el.app/#opcina/41942358B71514889835827\nIzvor: Registar koncesija (FINA)\,
+  obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B71514889835827
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -30,8 +31,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-d92b61f860052789@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-5f1b4b67e8f6c42d@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20340701
 DTEND;VALUE=DATE:20340702
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (EKO-FLOR PLUS D.
@@ -39,8 +40,8 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (EKO-FLOR PLUS D.
 DESCRIPTION:1. 1. 2035. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• EKO-FLOR PLUS D.O.O. – Koncesija skupljanja i odvoza komunalnog 
- otpada (ŽUMBERAK)\n\nProfil općine: https://koncesijski-sat.vercel.app/#
- opcina/41942358B71514889835827
+ otpada (ŽUMBERAK) · davatelj: OPĆINA ŽUMBERAK\n\nProfil općine: https
+ ://koncesijski-sat.vercel.app/#opcina/41942358B71514889835827
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B71514889835827
 TRANSP:TRANSPARENT
 BEGIN:VALARM

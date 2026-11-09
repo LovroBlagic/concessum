@@ -4,23 +4,25 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Grad Županja
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Grad Županja. Iz Regist
- ra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podata
- ka. https://koncesijski-sat.vercel.app/#opcina/41942358B26041090574045
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Grad Županja (pregled\,
+  svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježava se
+  nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#opcina/4
+ 1942358B26041090574045
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-ce064f50bd72e0a6@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-62296ff1e14d2b79@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20300811
 DTEND;VALUE=DATE:20300812
 SUMMARY:Ističe koncesija: ČAĐO PRODUKT D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 11. 8. 2030. Godišnja fiksna nakn
  ada: 1.000 €.\n\n• ČAĐO PRODUKT D.O.O. – Koncesija za obavljanje d
- imnjačarskih poslova (ŽUPANJA)\, 1.000 €/god.\n\nProfil općine: https
- ://koncesijski-sat.vercel.app/#opcina/41942358B26041090574045\nIzvor: Regi
- star koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ imnjačarskih poslova (ŽUPANJA) · davatelj: GRAD ŽUPANJA\, 1.000 €/go
+ d.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B
+ 26041090574045\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 
+ 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B26041090574045
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -30,8 +32,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-ce064f50bd72e0a6@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-62296ff1e14d2b79@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20300211
 DTEND;VALUE=DATE:20300212
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ČAĐO PRODUKT D
@@ -39,8 +41,8 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ČAĐO PRODUKT D
 DESCRIPTION:11. 8. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• ČAĐO PRODUKT D.O.O. – Koncesija za obavljanje dimnjačarskih 
- poslova (ŽUPANJA)\, 1.000 €/god.\n\nProfil općine: https://koncesijski
- -sat.vercel.app/#opcina/41942358B26041090574045
+ poslova (ŽUPANJA) · davatelj: GRAD ŽUPANJA\, 1.000 €/god.\n\nProfil o
+ pćine: https://koncesijski-sat.vercel.app/#opcina/41942358B26041090574045
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B26041090574045
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -51,16 +53,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-beeff62001df0b40@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-7c7d1c594ab3f3d7@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20491118
 DTEND;VALUE=DATE:20491119
 SUMMARY:Ističe koncesija: VINDIJA D.D. VARAŽDIN
 DESCRIPTION:1 ugovor o koncesiji ističe 18. 11. 2049. Godišnja fiksna nak
  nada: 13.272 €.\n\n• VINDIJA D.D. VARAŽDIN – Koncesija za zahvaćan
- je voda za tehnološke potrebe (ŽUPANJA)\, 13.272 €/god.\n\nProfil opć
- ine: https://koncesijski-sat.vercel.app/#opcina/41942358B26041090574045\nI
- zvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ je voda za tehnološke potrebe (ŽUPANJA) · davatelj: MINISTARSTVO ZAŠTI
+ TE OKOLIŠA I ZELENE TRANZICIJE\, 13.272 €/god.\n\nProfil općine: https
+ ://koncesijski-sat.vercel.app/#opcina/41942358B26041090574045\nIzvor: Regi
+ star koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B26041090574045
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -70,8 +73,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-beeff62001df0b40@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-7c7d1c594ab3f3d7@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20490518
 DTEND;VALUE=DATE:20490519
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VINDIJA D.D. VAR
@@ -79,8 +82,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VINDIJA D.D. VAR
 DESCRIPTION:18. 11. 2049. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• VINDIJA D.D. VARAŽDIN – Koncesija za zahvaćanje voda za tehn
- ološke potrebe (ŽUPANJA)\, 13.272 €/god.\n\nProfil općine: https://ko
- ncesijski-sat.vercel.app/#opcina/41942358B26041090574045
+ ološke potrebe (ŽUPANJA) · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠA I Z
+ ELENE TRANZICIJE\, 13.272 €/god.\n\nProfil općine: https://koncesijski-
+ sat.vercel.app/#opcina/41942358B26041090574045
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B26041090574045
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -91,17 +95,18 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-15269220cb78daa9@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-6f1e9da1c1deb730@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20491206
 DTEND;VALUE=DATE:20491207
 SUMMARY:Ističe koncesija: SAME DEUTZ-FAHR ŽETELICE D.O.O. U LIKVIDACIJI
 DESCRIPTION:1 ugovor o koncesiji ističe 6. 12. 2049. Godišnja fiksna nakn
  ada: 2.389 €.\n\n• SAME DEUTZ-FAHR ŽETELICE D.O.O. U LIKVIDACIJI – 
- Koncesija za zahvaćanje voda za tehnološke potrebe (ŽUPANJA)\, 2.389 
- €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
- 42358B26041090574045\nIzvor: Registar koncesija (FINA)\, obrada Koncesijsk
- i sat 9. 11. 2026.
+ Koncesija za zahvaćanje voda za tehnološke potrebe (ŽUPANJA) · davatel
+ j: MINISTARSTVO ZAŠTITE OKOLIŠA I ZELENE TRANZICIJE\, 2.389 €/god.\n\n
+ Profil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B260410
+ 90574045\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11.
+  2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B26041090574045
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -112,8 +117,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-15269220cb78daa9@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-6f1e9da1c1deb730@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20490606
 DTEND;VALUE=DATE:20490607
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (SAME DEUTZ-FAHR 
@@ -121,9 +126,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (SAME DEUTZ-FAHR
 DESCRIPTION:6. 12. 2049. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• SAME DEUTZ-FAHR ŽETELICE D.O.O. U LIKVIDACIJI – Koncesija za z
- ahvaćanje voda za tehnološke potrebe (ŽUPANJA)\, 2.389 €/god.\n\nProf
- il općine: https://koncesijski-sat.vercel.app/#opcina/41942358B2604109057
- 4045
+ ahvaćanje voda za tehnološke potrebe (ŽUPANJA) · davatelj: MINISTARSTV
+ O ZAŠTITE OKOLIŠA I ZELENE TRANZICIJE\, 2.389 €/god.\n\nProfil općine
+ : https://koncesijski-sat.vercel.app/#opcina/41942358B26041090574045
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B26041090574045
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -134,17 +139,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-93eb538c83e8f054@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-25b9d28177c84d76@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20550620
 DTEND;VALUE=DATE:20550621
 SUMMARY:Ističe koncesija: HRVATSKA INDUSTRIJA ŠEĆERA D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 20. 6. 2055. Godišnja fiksna nakn
  ada: 13.950 €.\n\n• HRVATSKA INDUSTRIJA ŠEĆERA D.D. – Koncesija za
-  zahvaćanje voda za tehnološke potrebe (ŽUPANJA)\, 13.950 €/god.\n\nP
- rofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B2604109
- 0574045\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 
- 2026.
+  zahvaćanje voda za tehnološke potrebe (ŽUPANJA) · davatelj: MINISTARS
+ TVO ZAŠTITE OKOLIŠA I ZELENE TRANZICIJE\, 13.950 €/god.\n\nProfil opć
+ ine: https://koncesijski-sat.vercel.app/#opcina/41942358B26041090574045\nI
+ zvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B26041090574045
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -154,8 +159,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-93eb538c83e8f054@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-25b9d28177c84d76@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20541220
 DTEND;VALUE=DATE:20541221
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKA INDUSTR
@@ -163,8 +168,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKA INDUSTR
 DESCRIPTION:20. 6. 2055. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• HRVATSKA INDUSTRIJA ŠEĆERA D.D. – Koncesija za zahvaćanje vo
- da za tehnološke potrebe (ŽUPANJA)\, 13.950 €/god.\n\nProfil općine: 
- https://koncesijski-sat.vercel.app/#opcina/41942358B26041090574045
+ da za tehnološke potrebe (ŽUPANJA) · davatelj: MINISTARSTVO ZAŠTITE OK
+ OLIŠA I ZELENE TRANZICIJE\, 13.950 €/god.\n\nProfil općine: https://ko
+ ncesijski-sat.vercel.app/#opcina/41942358B26041090574045
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B26041090574045
 TRANSP:TRANSPARENT
 BEGIN:VALARM

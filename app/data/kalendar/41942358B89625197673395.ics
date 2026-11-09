@@ -4,24 +4,25 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Općina Garčin
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Garčin. Iz Regi
- stra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade poda
- taka. https://koncesijski-sat.vercel.app/#opcina/41942358B89625197673395
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Općina Garčin (pregled
+ \, svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježava 
+ se nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#opcina
+ /41942358B89625197673395
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-c83c1c9c1d9f8d5b@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-337236c6251bac36@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20301201
 DTEND;VALUE=DATE:20301202
 SUMMARY:Ističe koncesija: EKO-FLOR PLUS D.O.O.-PODRAČUN-INVESTICIJE
 DESCRIPTION:1 ugovor o koncesiji ističe 1. 12. 2030. Godišnja fiksna nakn
  ada: 6.902 €.\n\n• EKO-FLOR PLUS D.O.O.-PODRAČUN-INVESTICIJE – Konc
- esija skupljanja i odvoza komunalnog otpada (GARČIN)\, 6.902 €/god.\n\n
- Profil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B896251
- 97673395\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11.
-  2026.
+ esija skupljanja i odvoza komunalnog otpada (GARČIN) · davatelj: OPĆINA
+  GARČIN\, 6.902 €/god.\n\nProfil općine: https://koncesijski-sat.verce
+ l.app/#opcina/41942358B89625197673395\nIzvor: Registar koncesija (FINA)\, 
+ obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B89625197673395
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -31,8 +32,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-c83c1c9c1d9f8d5b@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-337236c6251bac36@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20300601
 DTEND;VALUE=DATE:20300602
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (EKO-FLOR PLUS D.
@@ -40,8 +41,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (EKO-FLOR PLUS D.
 DESCRIPTION:1. 12. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• EKO-FLOR PLUS D.O.O.-PODRAČUN-INVESTICIJE – Koncesija skupljan
- ja i odvoza komunalnog otpada (GARČIN)\, 6.902 €/god.\n\nProfil općine
- : https://koncesijski-sat.vercel.app/#opcina/41942358B89625197673395
+ ja i odvoza komunalnog otpada (GARČIN) · davatelj: OPĆINA GARČIN\, 6.9
+ 02 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/
+ 41942358B89625197673395
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B89625197673395
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -52,17 +54,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-8684b72148ab575b@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-a940b3fd9f24bbbb@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20550626
 DTEND;VALUE=DATE:20550627
 SUMMARY:Ističe koncesija: ASPECT CROATIA KFT. - PODRUŽNICA ZAGREB
 DESCRIPTION:1 ugovor o koncesiji ističe 26. 6. 2055. Godišnja fiksna nakn
  ada: 4.688 €.\n\n• ASPECT CROATIA KFT. - PODRUŽNICA ZAGREB – Dozvol
  a za istraživanje ugljikovodika (prema Zakonu o ugljikovodicima) (GARČIN
- )\, 4.688 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#
- opcina/41942358B89625197673395\nIzvor: Registar koncesija (FINA)\, obrada 
- Koncesijski sat 9. 11. 2026.
+ ) · davatelj: MINISTARSTVO GOSPODARSTVA\, 4.688 €/god.\n\nProfil općin
+ e: https://koncesijski-sat.vercel.app/#opcina/41942358B89625197673395\nIzv
+ or: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B89625197673395
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -72,8 +74,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-8684b72148ab575b@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-a940b3fd9f24bbbb@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20541226
 DTEND;VALUE=DATE:20541227
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ASPECT CROATIA K
@@ -81,9 +83,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ASPECT CROATIA K
 DESCRIPTION:26. 6. 2055. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• ASPECT CROATIA KFT. - PODRUŽNICA ZAGREB – Dozvola za istraživ
- anje ugljikovodika (prema Zakonu o ugljikovodicima) (GARČIN)\, 4.688 €/
- god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4194235
- 8B89625197673395
+ anje ugljikovodika (prema Zakonu o ugljikovodicima) (GARČIN) · davatelj:
+  MINISTARSTVO GOSPODARSTVA\, 4.688 €/god.\n\nProfil općine: https://kon
+ cesijski-sat.vercel.app/#opcina/41942358B89625197673395
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B89625197673395
 TRANSP:TRANSPARENT
 BEGIN:VALARM

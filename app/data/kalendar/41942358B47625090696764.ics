@@ -4,25 +4,27 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Grad Senj
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Grad Senj. Iz Registra k
- oncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podataka. 
- https://koncesijski-sat.vercel.app/#opcina/41942358B47625090696764
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Grad Senj (pregled\, svi
+  davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježava se nak
+ on svake obrade podataka. https://koncesijski-sat.vercel.app/#opcina/41942
+ 358B47625090696764
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-75cfb30176a51eca@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-80e7ec1164e194e6@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
 SUMMARY:Ističe 2 koncesije · Senj
 DESCRIPTION:2 ugovora o koncesiji ističe 31. 12. 2026. Godišnja fiksna na
  knada: 4.665 €.\n\n• NONO D.O.O. – Dozvola za eksploataciju geoterma
- lne vode za energetske svrhe (prema Zakonu o ugljikovodicima) (SENJ)\, 4.4
- 00 €/god.\n• DEZINSEKCIJA\, D. O. O. – Koncesija za luku (SENJ)\, 26
- 5 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4
- 1942358B47625090696764\nIzvor: Registar koncesija (FINA)\, obrada Koncesij
- ski sat 9. 11. 2026.
+ lne vode za energetske svrhe (prema Zakonu o ugljikovodicima) (SENJ) · da
+ vatelj: LUČKA UPRAVA SENJ\, 4.400 €/god.\n• DEZINSEKCIJA\, D. O. O. 
+ – Koncesija za luku (SENJ) · davatelj: LUČKA UPRAVA SENJ\, 265 €/god
+ .\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B4
+ 7625090696764\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9
+ . 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B47625090696764
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -32,19 +34,21 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-7f33ea6fe9e7585b@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-599f895376a0f27e@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20271231
 DTEND;VALUE=DATE:20280101
 SUMMARY:Ističe 4 koncesije · Senj
 DESCRIPTION:4 ugovora o koncesiji ističe 31. 12. 2027. Godišnja fiksna na
  knada: 5.300 €.\n\n• RAPSKA PLOVIDBA D.D. – Koncesija za luku (SENJ)
- \, 3.000 €/god.\n• INA\, D.D. – Koncesija za luku (SENJ)\, 1.000 €
- /god.\n• PLODINE D.D. – Koncesija za luku (SENJ)\, 1.000 €/god.\n•
-  LEJLA HUBA\, HARD HOT-COLD\, VL. LEJLA HUBA – Koncesija za luku (SENJ)\
- , 300 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opci
- na/41942358B47625090696764\nIzvor: Registar koncesija (FINA)\, obrada Konc
- esijski sat 9. 11. 2026.
+  · davatelj: LUČKA UPRAVA SENJ\, 3.000 €/god.\n• INA\, D.D. – Konc
+ esija za luku (SENJ) · davatelj: LUČKA UPRAVA SENJ\, 1.000 €/god.\n•
+  PLODINE D.D. – Koncesija za luku (SENJ) · davatelj: LUČKA UPRAVA SENJ
+ \, 1.000 €/god.\n• LEJLA HUBA\, HARD HOT-COLD\, VL. LEJLA HUBA – Kon
+ cesija za luku (SENJ) · davatelj: LUČKA UPRAVA SENJ\, 300 €/god.\n\nPr
+ ofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B47625090
+ 696764\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2
+ 026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B47625090696764
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -54,39 +58,41 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-7f33ea6fe9e7585b@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-599f895376a0f27e@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270630
 DTEND;VALUE=DATE:20270701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 4 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 4 koncesije · Senj
 DESCRIPTION:31. 12. 2027. ističe 4 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
- ra.\n\n• RAPSKA PLOVIDBA D.D. – Koncesija za luku (SENJ)\, 3.000 €/g
- od.\n• INA\, D.D. – Koncesija za luku (SENJ)\, 1.000 €/god.\n• PLO
- DINE D.D. – Koncesija za luku (SENJ)\, 1.000 €/god.\n• LEJLA HUBA\, 
- HARD HOT-COLD\, VL. LEJLA HUBA – Koncesija za luku (SENJ)\, 300 €/god.
- \n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B47
- 625090696764
+ ra.\n\n• RAPSKA PLOVIDBA D.D. – Koncesija za luku (SENJ) · davatelj: 
+ LUČKA UPRAVA SENJ\, 3.000 €/god.\n• INA\, D.D. – Koncesija za luku 
+ (SENJ) · davatelj: LUČKA UPRAVA SENJ\, 1.000 €/god.\n• PLODINE D.D. 
+ – Koncesija za luku (SENJ) · davatelj: LUČKA UPRAVA SENJ\, 1.000 €/g
+ od.\n• LEJLA HUBA\, HARD HOT-COLD\, VL. LEJLA HUBA – Koncesija za luku
+  (SENJ) · davatelj: LUČKA UPRAVA SENJ\, 300 €/god.\n\nProfil općine: 
+ https://koncesijski-sat.vercel.app/#opcina/41942358B47625090696764
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B47625090696764
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 4 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 4 koncesije · Senj
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-09bb18941167fd57@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-01d499061f1a7364@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20280831
 DTEND;VALUE=DATE:20280901
 SUMMARY:Ističe 2 koncesije · Senj
 DESCRIPTION:2 ugovora o koncesiji ističe 31. 8. 2028. Godišnja fiksna nak
  nada: 3.000 €.\n\n• VL.SABRINA TURINA\, RINO – Koncesija za luku (SE
- NJ)\, 1.500 €/god.\n• MAJA TOMLJANOVIĆ\, IVAN\, VL. MAJA TOMLJANOVIĆ
-  – Koncesija za luku (SENJ)\, 1.500 €/god.\n\nProfil općine: https://
- koncesijski-sat.vercel.app/#opcina/41942358B47625090696764\nIzvor: Regista
- r koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ NJ) · davatelj: LUČKA UPRAVA SENJ\, 1.500 €/god.\n• MAJA TOMLJANOVI
+ Ć\, IVAN\, VL. MAJA TOMLJANOVIĆ – Koncesija za luku (SENJ) · davatelj
+ : LUČKA UPRAVA SENJ\, 1.500 €/god.\n\nProfil općine: https://koncesijs
+ ki-sat.vercel.app/#opcina/41942358B47625090696764\nIzvor: Registar koncesi
+ ja (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B47625090696764
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -96,35 +102,37 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-09bb18941167fd57@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-01d499061f1a7364@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20280229
 DTEND;VALUE=DATE:20280301
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Senj
 DESCRIPTION:31. 8. 2028. ističe 2 ugovora o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
- a.\n\n• VL.SABRINA TURINA\, RINO – Koncesija za luku (SENJ)\, 1.500 
- €/god.\n• MAJA TOMLJANOVIĆ\, IVAN\, VL. MAJA TOMLJANOVIĆ – Koncesi
- ja za luku (SENJ)\, 1.500 €/god.\n\nProfil općine: https://koncesijski-
- sat.vercel.app/#opcina/41942358B47625090696764
+ a.\n\n• VL.SABRINA TURINA\, RINO – Koncesija za luku (SENJ) · davatel
+ j: LUČKA UPRAVA SENJ\, 1.500 €/god.\n• MAJA TOMLJANOVIĆ\, IVAN\, VL.
+  MAJA TOMLJANOVIĆ – Koncesija za luku (SENJ) · davatelj: LUČKA UPRAVA
+  SENJ\, 1.500 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.a
+ pp/#opcina/41942358B47625090696764
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B47625090696764
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Senj
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-b63d8ab00e517e74@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-14b05d96a39a251c@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20281005
 DTEND;VALUE=DATE:20281006
 SUMMARY:Ističe koncesija: NOVI DIM D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 5. 10. 2028.\n\n• NOVI DIM D.O.O
- . – Koncesija za obavljanje dimnjačarskih poslova (SENJ)\n\nProfil opć
- ine: https://koncesijski-sat.vercel.app/#opcina/41942358B47625090696764\nI
- zvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ . – Koncesija za obavljanje dimnjačarskih poslova (SENJ) · davatelj: G
+ RAD SENJ\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
+ 42358B47625090696764\nIzvor: Registar koncesija (FINA)\, obrada Koncesijsk
+ i sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B47625090696764
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -134,16 +142,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-b63d8ab00e517e74@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-14b05d96a39a251c@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20280405
 DTEND;VALUE=DATE:20280406
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (NOVI DIM D.O.O.)
 DESCRIPTION:5. 10. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• NOVI DIM D.O.O. – Koncesija za obavljanje dimnjačarskih poslov
- a (SENJ)\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
- 42358B47625090696764
+ a (SENJ) · davatelj: GRAD SENJ\n\nProfil općine: https://koncesijski-sat
+ .vercel.app/#opcina/41942358B47625090696764
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B47625090696764
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -154,22 +162,24 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-2de8009199874a23@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-22b010f7d2613548@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20281231
 DTEND;VALUE=DATE:20290101
 SUMMARY:Ističe 6 koncesija · Senj
 DESCRIPTION:6 ugovora o koncesiji ističe 31. 12. 2028. Godišnja fiksna na
- knada: 22.083 €.\n\n• GKD SENJ D.O.O. – Koncesija za luku (SENJ)\, 1
- 2.578 €/god.\n• ADRIATIC FARMING D.O.O. – Koncesija za gospodarsko k
- orištenje (SENJ)\, 4.505 €/god.\n• ROKO\, VL. IVANA HUBA – Koncesij
- a za luku (SENJ)\, 1.500 €/god.\n• MARINTINO\, VL. MARIJAN TOMLJANOVI
- Ć – Koncesija za luku (SENJ)\, 1.500 €/god.\n• DAMIR MLAČAK J. D. 
- O. O. – Koncesija za upravljanje i održavanje javnog nužnika (SENJ)\, 
- 1.000 €/god.\n• ADRIA YACHTING D.O.O. – Koncesija za luku (SENJ)\, 1
- .000 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcin
- a/41942358B47625090696764\nIzvor: Registar koncesija (FINA)\, obrada Konce
- sijski sat 9. 11. 2026.
+ knada: 22.083 €.\n\n• GKD SENJ D.O.O. – Koncesija za luku (SENJ) · 
+ davatelj: LUČKA UPRAVA SENJ\, 12.578 €/god.\n• ADRIATIC FARMING D.O.O
+ . – Koncesija za gospodarsko korištenje (SENJ) · davatelj: LUČKA UPRA
+ VA SENJ\, 4.505 €/god.\n• ROKO\, VL. IVANA HUBA – Koncesija za luku 
+ (SENJ) · davatelj: LUČKA UPRAVA SENJ\, 1.500 €/god.\n• MARINTINO\, V
+ L. MARIJAN TOMLJANOVIĆ – Koncesija za luku (SENJ) · davatelj: LUČKA U
+ PRAVA SENJ\, 1.500 €/god.\n• DAMIR MLAČAK J. D. O. O. – Koncesija z
+ a upravljanje i održavanje javnog nužnika (SENJ) · davatelj: LUČKA UPR
+ AVA SENJ\, 1.000 €/god.\n• ADRIA YACHTING D.O.O. – Koncesija za luku
+  (SENJ) · davatelj: LUČKA UPRAVA SENJ\, 1.000 €/god.\n\nProfil općine
+ : https://koncesijski-sat.vercel.app/#opcina/41942358B47625090696764\nIzvo
+ r: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B47625090696764
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -179,50 +189,56 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-2de8009199874a23@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-22b010f7d2613548@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20280630
 DTEND;VALUE=DATE:20280701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 6 koncesija
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 6 koncesija · Senj
 DESCRIPTION:31. 12. 2028. ističe 6 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
- ra.\n\n• GKD SENJ D.O.O. – Koncesija za luku (SENJ)\, 12.578 €/god.\
- n• ADRIATIC FARMING D.O.O. – Koncesija za gospodarsko korištenje (SEN
- J)\, 4.505 €/god.\n• ROKO\, VL. IVANA HUBA – Koncesija za luku (SENJ
- )\, 1.500 €/god.\n• MARINTINO\, VL. MARIJAN TOMLJANOVIĆ – Koncesija
-  za luku (SENJ)\, 1.500 €/god.\n• DAMIR MLAČAK J. D. O. O. – Konces
- ija za upravljanje i održavanje javnog nužnika (SENJ)\, 1.000 €/god.\n
- • ADRIA YACHTING D.O.O. – Koncesija za luku (SENJ)\, 1.000 €/god.\n\
- nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B47625
- 090696764
+ ra.\n\n• GKD SENJ D.O.O. – Koncesija za luku (SENJ) · davatelj: LUČK
+ A UPRAVA SENJ\, 12.578 €/god.\n• ADRIATIC FARMING D.O.O. – Koncesija
+  za gospodarsko korištenje (SENJ) · davatelj: LUČKA UPRAVA SENJ\, 4.505
+  €/god.\n• ROKO\, VL. IVANA HUBA – Koncesija za luku (SENJ) · davat
+ elj: LUČKA UPRAVA SENJ\, 1.500 €/god.\n• MARINTINO\, VL. MARIJAN TOML
+ JANOVIĆ – Koncesija za luku (SENJ) · davatelj: LUČKA UPRAVA SENJ\, 1.
+ 500 €/god.\n• DAMIR MLAČAK J. D. O. O. – Koncesija za upravljanje i
+  održavanje javnog nužnika (SENJ) · davatelj: LUČKA UPRAVA SENJ\, 1.00
+ 0 €/god.\n• ADRIA YACHTING D.O.O. – Koncesija za luku (SENJ) · dava
+ telj: LUČKA UPRAVA SENJ\, 1.000 €/god.\n\nProfil općine: https://konce
+ sijski-sat.vercel.app/#opcina/41942358B47625090696764
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B47625090696764
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 6 koncesija
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 6 koncesija · Senj
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-b6e7d374441aec77@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-0486ed6970a679e1@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20291231
 DTEND;VALUE=DATE:20300101
 SUMMARY:Ističe 9 koncesija · Senj
 DESCRIPTION:9 ugovora o koncesiji ističe 31. 12. 2029. Godišnja fiksna na
  knada: 42.189 €.\n\n• PORAT LUKOVO\, VL. NIKOLA ROGIĆ – Koncesija z
- a luku (SENJ)\, 8.000 €/god.\n• VL.SABRINA TURINA\, RINO – Koncesija
-  za luku (SENJ)\, 7.700 €/god.\n• 4M\,OBRT ZA UGOST.VL.TATJANA MAJIĆ 
- – Koncesija za luku (SENJ)\, 7.700 €/god.\n• FANTAČ J.D.O.O. – Ko
- ncesija za luku (SENJ)\, 7.600 €/god.\n• ALEN BAŠIĆ\, P E R L A – 
- Koncesija za luku (SENJ)\, 5.100 €/god.\n• IVICA ŠTEFIČIĆ GRADINA 
- – Koncesija za obavljanje ugostiteljske djelatnosti na lučkom području
-  (SENJ)\, 2.389 €/god.\n• FANTAČ J.D.O.O. – Koncesija za luku (SENJ
- )\, 1.400 €/god.\n• HOLIDAY VUKEL\, VL. CHRISTIAN VUKELIĆ – Koncesi
- ja za luku (SENJ)\, 1.300 €/god.\n• UGOSTITELJSKI OBRT DABAC – Konce
- sija za luku (SENJ)\, 1.000 €/god.\n\nProfil općine: https://koncesijsk
- i-sat.vercel.app/#opcina/41942358B47625090696764\nIzvor: Registar koncesij
- a (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ a luku (SENJ) · davatelj: LUČKA UPRAVA SENJ\, 8.000 €/god.\n• VL.SAB
+ RINA TURINA\, RINO – Koncesija za luku (SENJ) · davatelj: LUČKA UPRAVA
+  SENJ\, 7.700 €/god.\n• 4M\,OBRT ZA UGOST.VL.TATJANA MAJIĆ – Konces
+ ija za luku (SENJ) · davatelj: LUČKA UPRAVA SENJ\, 7.700 €/god.\n• F
+ ANTAČ J.D.O.O. – Koncesija za luku (SENJ) · davatelj: LUČKA UPRAVA SE
+ NJ\, 7.600 €/god.\n• ALEN BAŠIĆ\, P E R L A – Koncesija za luku (S
+ ENJ) · davatelj: LUČKA UPRAVA SENJ\, 5.100 €/god.\n• IVICA ŠTEFIČI
+ Ć GRADINA – Koncesija za obavljanje ugostiteljske djelatnosti na lučko
+ m području (SENJ) · davatelj: LUČKA UPRAVA SENJ\, 2.389 €/god.\n• F
+ ANTAČ J.D.O.O. – Koncesija za luku (SENJ) · davatelj: LUČKA UPRAVA SE
+ NJ\, 1.400 €/god.\n• HOLIDAY VUKEL\, VL. CHRISTIAN VUKELIĆ – Konces
+ ija za luku (SENJ) · davatelj: LUČKA UPRAVA SENJ\, 1.300 €/god.\n• U
+ GOSTITELJSKI OBRT DABAC – Koncesija za luku (SENJ) · davatelj: LUČKA U
+ PRAVA SENJ\, 1.000 €/god.\n\nProfil općine: https://koncesijski-sat.ver
+ cel.app/#opcina/41942358B47625090696764\nIzvor: Registar koncesija (FINA)\
+ , obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B47625090696764
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -232,44 +248,49 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-b6e7d374441aec77@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-0486ed6970a679e1@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20290630
 DTEND;VALUE=DATE:20290701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 9 koncesija
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 9 koncesija · Senj
 DESCRIPTION:31. 12. 2029. ističe 9 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
- ra.\n\n• PORAT LUKOVO\, VL. NIKOLA ROGIĆ – Koncesija za luku (SENJ)\,
-  8.000 €/god.\n• VL.SABRINA TURINA\, RINO – Koncesija za luku (SENJ)
- \, 7.700 €/god.\n• 4M\,OBRT ZA UGOST.VL.TATJANA MAJIĆ – Koncesija z
- a luku (SENJ)\, 7.700 €/god.\n• FANTAČ J.D.O.O. – Koncesija za luku
-  (SENJ)\, 7.600 €/god.\n• ALEN BAŠIĆ\, P E R L A – Koncesija za lu
- ku (SENJ)\, 5.100 €/god.\n• IVICA ŠTEFIČIĆ GRADINA – Koncesija za
-  obavljanje ugostiteljske djelatnosti na lučkom području (SENJ)\, 2.389 
- €/god.\n• FANTAČ J.D.O.O. – Koncesija za luku (SENJ)\, 1.400 €/go
- d.\n• HOLIDAY VUKEL\, VL. CHRISTIAN VUKELIĆ – Koncesija za luku (SENJ
- )\, 1.300 €/god.\n• UGOSTITELJSKI OBRT DABAC – Koncesija za luku (SE
- NJ)\, 1.000 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app
- /#opcina/41942358B47625090696764
+ ra.\n\n• PORAT LUKOVO\, VL. NIKOLA ROGIĆ – Koncesija za luku (SENJ) 
+ · davatelj: LUČKA UPRAVA SENJ\, 8.000 €/god.\n• VL.SABRINA TURINA\, 
+ RINO – Koncesija za luku (SENJ) · davatelj: LUČKA UPRAVA SENJ\, 7.700 
+ €/god.\n• 4M\,OBRT ZA UGOST.VL.TATJANA MAJIĆ – Koncesija za luku (S
+ ENJ) · davatelj: LUČKA UPRAVA SENJ\, 7.700 €/god.\n• FANTAČ J.D.O.O
+ . – Koncesija za luku (SENJ) · davatelj: LUČKA UPRAVA SENJ\, 7.600 €
+ /god.\n• ALEN BAŠIĆ\, P E R L A – Koncesija za luku (SENJ) · davate
+ lj: LUČKA UPRAVA SENJ\, 5.100 €/god.\n• IVICA ŠTEFIČIĆ GRADINA –
+  Koncesija za obavljanje ugostiteljske djelatnosti na lučkom području (S
+ ENJ) · davatelj: LUČKA UPRAVA SENJ\, 2.389 €/god.\n• FANTAČ J.D.O.O
+ . – Koncesija za luku (SENJ) · davatelj: LUČKA UPRAVA SENJ\, 1.400 €
+ /god.\n• HOLIDAY VUKEL\, VL. CHRISTIAN VUKELIĆ – Koncesija za luku (S
+ ENJ) · davatelj: LUČKA UPRAVA SENJ\, 1.300 €/god.\n• UGOSTITELJSKI O
+ BRT DABAC – Koncesija za luku (SENJ) · davatelj: LUČKA UPRAVA SENJ\, 1
+ .000 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcin
+ a/41942358B47625090696764
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B47625090696764
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 9 koncesija
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 9 koncesija · Senj
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-fa492d0b57c5c69b@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-6e1299f09346e79c@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20300331
 DTEND;VALUE=DATE:20300401
 SUMMARY:Ističe koncesija: LIKA LOVSTVO D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 31. 3. 2030. Godišnja fiksna nakn
  ada: 9.305 €.\n\n• LIKA LOVSTVO D.O.O. – Koncesija za prava lova na 
- lovištu u vlasništvu RH (SENJ)\, 9.305 €/god.\n\nProfil općine: https
- ://koncesijski-sat.vercel.app/#opcina/41942358B47625090696764\nIzvor: Regi
- star koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ lovištu u vlasništvu RH (SENJ) · davatelj: MINISTARSTVO POLJOPRIVREDE\,
+  ŠUMARSTVA I RIBARSTVA\, 9.305 €/god.\n\nProfil općine: https://konces
+ ijski-sat.vercel.app/#opcina/41942358B47625090696764\nIzvor: Registar konc
+ esija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B47625090696764
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -279,8 +300,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-fa492d0b57c5c69b@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-6e1299f09346e79c@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20290930
 DTEND;VALUE=DATE:20291001
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (LIKA LOVSTVO D.O
@@ -288,8 +309,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (LIKA LOVSTVO D.O
 DESCRIPTION:31. 3. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• LIKA LOVSTVO D.O.O. – Koncesija za prava lova na lovištu u vla
- sništvu RH (SENJ)\, 9.305 €/god.\n\nProfil općine: https://koncesijski
- -sat.vercel.app/#opcina/41942358B47625090696764
+ sništvu RH (SENJ) · davatelj: MINISTARSTVO POLJOPRIVREDE\, ŠUMARSTVA I 
+ RIBARSTVA\, 9.305 €/god.\n\nProfil općine: https://koncesijski-sat.verc
+ el.app/#opcina/41942358B47625090696764
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B47625090696764
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -300,17 +322,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-bfa989fa0d409731@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-175b84e779ae3cee@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20341031
 DTEND;VALUE=DATE:20341101
 SUMMARY:Ističe koncesija: HRVATSKA ELEKTROPRIVREDA  D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 31. 10. 2034. Godišnja fiksna nak
  nada: 641 €.\n\n• HRVATSKA ELEKTROPRIVREDA  D.D. – Koncesija pomorsk
- og dobra u svrhu gospodarskog korištenja luke (SENJ)\, 641 €/god.\n\nPr
- ofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B47625090
- 696764\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2
- 026.
+ og dobra u svrhu gospodarskog korištenja luke (SENJ) · davatelj: MINISTA
+ RSTVO MORA\, PROMETA I INFRASTRUKTURE\, 641 €/god.\n\nProfil općine: ht
+ tps://koncesijski-sat.vercel.app/#opcina/41942358B47625090696764\nIzvor: R
+ egistar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B47625090696764
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -320,8 +342,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-bfa989fa0d409731@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-175b84e779ae3cee@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20340430
 DTEND;VALUE=DATE:20340501
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKA ELEKTRO
@@ -329,8 +351,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKA ELEKTRO
 DESCRIPTION:31. 10. 2034. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• HRVATSKA ELEKTROPRIVREDA  D.D. – Koncesija pomorskog dobra u s
- vrhu gospodarskog korištenja luke (SENJ)\, 641 €/god.\n\nProfil općine
- : https://koncesijski-sat.vercel.app/#opcina/41942358B47625090696764
+ vrhu gospodarskog korištenja luke (SENJ) · davatelj: MINISTARSTVO MORA\,
+  PROMETA I INFRASTRUKTURE\, 641 €/god.\n\nProfil općine: https://konces
+ ijski-sat.vercel.app/#opcina/41942358B47625090696764
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B47625090696764
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -341,16 +364,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-20b12ad2aee21b61@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-5d489635929ae617@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20351116
 DTEND;VALUE=DATE:20351117
 SUMMARY:Ističe koncesija: AUTO ZUBAK-ZAGREB D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 16. 11. 2035. Godišnja fiksna nak
  nada: 1.148 €.\n\n• AUTO ZUBAK-ZAGREB D.O.O. – Koncesija na pomorsko
- m dobru (SENJ)\, 1.148 €/god.\n\nProfil općine: https://koncesijski-sat
- .vercel.app/#opcina/41942358B47625090696764\nIzvor: Registar koncesija (FI
- NA)\, obrada Koncesijski sat 9. 11. 2026.
+ m dobru (SENJ) · davatelj: LIČKO-SENJSKA ŽUPANIJA\, 1.148 €/god.\n\nP
+ rofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B4762509
+ 0696764\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 
+ 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B47625090696764
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -360,8 +384,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-20b12ad2aee21b61@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-5d489635929ae617@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20350516
 DTEND;VALUE=DATE:20350517
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (AUTO ZUBAK-ZAGRE
@@ -369,8 +393,8 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (AUTO ZUBAK-ZAGRE
 DESCRIPTION:16. 11. 2035. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• AUTO ZUBAK-ZAGREB D.O.O. – Koncesija na pomorskom dobru (SENJ)
- \, 1.148 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#o
- pcina/41942358B47625090696764
+  · davatelj: LIČKO-SENJSKA ŽUPANIJA\, 1.148 €/god.\n\nProfil općine:
+  https://koncesijski-sat.vercel.app/#opcina/41942358B47625090696764
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B47625090696764
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -381,18 +405,18 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-1d50db823c919c29@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-83474e53cd01b403@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20361231
 DTEND;VALUE=DATE:20370101
 SUMMARY:Ističe koncesija: A-MORE\, OBRT ZA TRGOVINU\, VL. MONIKA NEKIĆ RO
  NČEVIĆ\, SENJ\, ULICA POTOK 22
 DESCRIPTION:1 ugovor o koncesiji ističe 31. 12. 2036. Godišnja fiksna nak
  nada: 9.000 €.\n\n• A-MORE\, OBRT ZA TRGOVINU\, VL. MONIKA NEKIĆ RON
- ČEVIĆ\, SENJ\, ULICA POTOK 22 – Koncesija za luku (SENJ)\, 9.000 €/g
- od.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358
- B47625090696764\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat
-  9. 11. 2026.
+ ČEVIĆ\, SENJ\, ULICA POTOK 22 – Koncesija za luku (SENJ) · davatelj: 
+ LUČKA UPRAVA SENJ\, 9.000 €/god.\n\nProfil općine: https://koncesijski
+ -sat.vercel.app/#opcina/41942358B47625090696764\nIzvor: Registar koncesija
+  (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B47625090696764
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -403,8 +427,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-1d50db823c919c29@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-83474e53cd01b403@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20360630
 DTEND;VALUE=DATE:20360701
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (A-MORE\, OBRT ZA
@@ -412,8 +436,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (A-MORE\, OBRT ZA
 DESCRIPTION:31. 12. 2036. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• A-MORE\, OBRT ZA TRGOVINU\, VL. MONIKA NEKIĆ RONČEVIĆ\, SENJ\
- , ULICA POTOK 22 – Koncesija za luku (SENJ)\, 9.000 €/god.\n\nProfil o
- pćine: https://koncesijski-sat.vercel.app/#opcina/41942358B47625090696764
+ , ULICA POTOK 22 – Koncesija za luku (SENJ) · davatelj: LUČKA UPRAVA S
+ ENJ\, 9.000 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app
+ /#opcina/41942358B47625090696764
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B47625090696764
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -424,16 +449,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-1a3d5d0c85b6b1da@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-ee3f94a8c615e47f@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20390430
 DTEND;VALUE=DATE:20390501
 SUMMARY:Ističe koncesija: NORDIC FISH D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 30. 4. 2039. Godišnja fiksna nakn
  ada: 2.986 €.\n\n• NORDIC FISH D.O.O. – Koncesija na pomorskom dobru
-  (SENJ)\, 2.986 €/god.\n\nProfil općine: https://koncesijski-sat.vercel
- .app/#opcina/41942358B47625090696764\nIzvor: Registar koncesija (FINA)\, o
- brada Koncesijski sat 9. 11. 2026.
+  (SENJ) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\, 2.986 
+ €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
+ 42358B47625090696764\nIzvor: Registar koncesija (FINA)\, obrada Koncesijsk
+ i sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B47625090696764
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -443,17 +469,18 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-1a3d5d0c85b6b1da@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-ee3f94a8c615e47f@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20381030
 DTEND;VALUE=DATE:20381031
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (NORDIC FISH D.O.
  O.)
 DESCRIPTION:30. 4. 2039. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
- .\n\n• NORDIC FISH D.O.O. – Koncesija na pomorskom dobru (SENJ)\, 2.98
- 6 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4
- 1942358B47625090696764
+ .\n\n• NORDIC FISH D.O.O. – Koncesija na pomorskom dobru (SENJ) · dav
+ atelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\, 2.986 €/god.\n\nPr
+ ofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B47625090
+ 696764
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B47625090696764
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -464,16 +491,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-dc32ab4bd99c0112@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-2cae1898d50351cd@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20410510
 DTEND;VALUE=DATE:20410511
 SUMMARY:Ističe koncesija: VODOVOD D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 10. 5. 2041. Godišnja fiksna nakn
  ada: 62 €.\n\n• VODOVOD D.O.O. – Koncesija na pomorskom dobru (SENJ)
- \, 62 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opci
- na/41942358B47625090696764\nIzvor: Registar koncesija (FINA)\, obrada Konc
- esijski sat 9. 11. 2026.
+  · davatelj: LIČKO-SENJSKA ŽUPANIJA\, 62 €/god.\n\nProfil općine: ht
+ tps://koncesijski-sat.vercel.app/#opcina/41942358B47625090696764\nIzvor: R
+ egistar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B47625090696764
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -483,16 +510,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-dc32ab4bd99c0112@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-2cae1898d50351cd@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20401110
 DTEND;VALUE=DATE:20401111
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VODOVOD D.O.O.)
 DESCRIPTION:10. 5. 2041. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
- .\n\n• VODOVOD D.O.O. – Koncesija na pomorskom dobru (SENJ)\, 62 €/g
- od.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358
- B47625090696764
+ .\n\n• VODOVOD D.O.O. – Koncesija na pomorskom dobru (SENJ) · davatel
+ j: LIČKO-SENJSKA ŽUPANIJA\, 62 €/god.\n\nProfil općine: https://konce
+ sijski-sat.vercel.app/#opcina/41942358B47625090696764
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B47625090696764
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -503,16 +530,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-b570654d259e8e86@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-262ae0c3240379f4@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20451231
 DTEND;VALUE=DATE:20460101
 SUMMARY:Ističe koncesija: RADIO SENJ D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 31. 12. 2045. Godišnja fiksna nak
  nada: 66 €.\n\n• RADIO SENJ D.O.O. – Koncesija za obavljanje djelatn
- osti radija (SENJ)\, 66 €/god.\n\nProfil općine: https://koncesijski-sa
- t.vercel.app/#opcina/41942358B47625090696764\nIzvor: Registar koncesija (F
- INA)\, obrada Koncesijski sat 9. 11. 2026.
+ osti radija (SENJ) · davatelj: AGENCIJA ZA ELEKTRONIČKE MEDIJE\, 66 €/
+ god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4194235
+ 8B47625090696764\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sa
+ t 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B47625090696764
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -522,8 +550,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-b570654d259e8e86@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-262ae0c3240379f4@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20450630
 DTEND;VALUE=DATE:20450701
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (RADIO SENJ D.O.O
@@ -531,8 +559,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (RADIO SENJ D.O.O
 DESCRIPTION:31. 12. 2045. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• RADIO SENJ D.O.O. – Koncesija za obavljanje djelatnosti radija
-  (SENJ)\, 66 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.ap
- p/#opcina/41942358B47625090696764
+  (SENJ) · davatelj: AGENCIJA ZA ELEKTRONIČKE MEDIJE\, 66 €/god.\n\nPro
+ fil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B476250906
+ 96764
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B47625090696764
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -543,17 +572,18 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-7235f4138f33bcb5@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-df29711d9695b0e9@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20600605
 DTEND;VALUE=DATE:20600606
 SUMMARY:Ističe koncesija: HEP-OPERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 5. 6. 2060. Godišnja fiksna nakna
  da: 1.577 €.\n\n• HEP-OPERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O. – Konc
  esija pomorskog dobra za posebnu upotrebu u svrhu gradnje kabelske veze (S
- ENJ)\, 1.577 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.ap
- p/#opcina/41942358B47625090696764\nIzvor: Registar koncesija (FINA)\, obra
- da Koncesijski sat 9. 11. 2026.
+ ENJ) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\, 1.577 €
+ /god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419423
+ 58B47625090696764\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski s
+ at 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B47625090696764
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -563,8 +593,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-7235f4138f33bcb5@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-df29711d9695b0e9@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20591205
 DTEND;VALUE=DATE:20591206
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP-OPERATOR DIS
@@ -572,9 +602,10 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP-OPERATOR DIS
 DESCRIPTION:5. 6. 2060. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• HEP-OPERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O. – Koncesija pomorsko
- g dobra za posebnu upotrebu u svrhu gradnje kabelske veze (SENJ)\, 1.577 
- €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
- 42358B47625090696764
+ g dobra za posebnu upotrebu u svrhu gradnje kabelske veze (SENJ) · davate
+ lj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\, 1.577 €/god.\n\nProfi
+ l općine: https://koncesijski-sat.vercel.app/#opcina/41942358B47625090696
+ 764
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B47625090696764
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -585,16 +616,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-5371465295cdb7c9@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-db66155d85abeb25@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20601015
 DTEND;VALUE=DATE:20601016
 SUMMARY:Ističe koncesija: DRŽAVNI HIDROMETEOROLOŠKI ZAVOD
 DESCRIPTION:1 ugovor o koncesiji ističe 15. 10. 2060. Godišnja fiksna nak
  nada: 14 €.\n\n• DRŽAVNI HIDROMETEOROLOŠKI ZAVOD – Koncesija na po
- morskom dobru (SENJ)\, 14 €/god.\n\nProfil općine: https://koncesijski-
- sat.vercel.app/#opcina/41942358B47625090696764\nIzvor: Registar koncesija 
- (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ morskom dobru (SENJ) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUK
+ TURE\, 14 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#
+ opcina/41942358B47625090696764\nIzvor: Registar koncesija (FINA)\, obrada 
+ Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B47625090696764
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -604,8 +636,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-5371465295cdb7c9@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-db66155d85abeb25@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20600415
 DTEND;VALUE=DATE:20600416
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DRŽAVNI HIDROME
@@ -613,8 +645,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DRŽAVNI HIDROME
 DESCRIPTION:15. 10. 2060. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• DRŽAVNI HIDROMETEOROLOŠKI ZAVOD – Koncesija na pomorskom dob
- ru (SENJ)\, 14 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.
- app/#opcina/41942358B47625090696764
+ ru (SENJ) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\, 14 
+ €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
+ 42358B47625090696764
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B47625090696764
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -625,16 +658,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-156fcf62661bc945@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-f0e4f1ae989a71b2@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20760717
 DTEND;VALUE=DATE:20760718
 SUMMARY:Ističe koncesija: HRVATSKI TELEKOM D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 17. 7. 2076. Godišnja fiksna nakn
  ada: 4.308 €.\n\n• HRVATSKI TELEKOM D.D. – Posebna upotreba pomorsko
- g dobra (SENJ)\, 4.308 €/god.\n\nProfil općine: https://koncesijski-sat
- .vercel.app/#opcina/41942358B47625090696764\nIzvor: Registar koncesija (FI
- NA)\, obrada Koncesijski sat 9. 11. 2026.
+ g dobra (SENJ) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\,
+  4.308 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opc
+ ina/41942358B47625090696764\nIzvor: Registar koncesija (FINA)\, obrada Kon
+ cesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B47625090696764
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -644,8 +678,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-156fcf62661bc945@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-f0e4f1ae989a71b2@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20760117
 DTEND;VALUE=DATE:20760118
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKI TELEKOM
@@ -653,8 +687,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKI TELEKOM
 DESCRIPTION:17. 7. 2076. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• HRVATSKI TELEKOM D.D. – Posebna upotreba pomorskog dobra (SENJ)
- \, 4.308 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#o
- pcina/41942358B47625090696764
+  · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\, 4.308 €/god
+ .\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B4
+ 7625090696764
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B47625090696764
 TRANSP:TRANSPARENT
 BEGIN:VALARM

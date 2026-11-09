@@ -4,24 +4,25 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Općina Vratišinec
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Vratišinec. Iz 
- Registra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade 
- podataka. https://koncesijski-sat.vercel.app/#opcina/41942358B273658421984
- 37
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Općina Vratišinec (pre
+ gled\, svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvjež
+ ava se nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#op
+ cina/41942358B27365842198437
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-2540ae8f8579e889@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-af3cda1d3c00b333@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20291201
 DTEND;VALUE=DATE:20291202
 SUMMARY:Ističe koncesija: BRU-FRA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 1. 12. 2029. Godišnja fiksna nakn
  ada: 1.000 €.\n\n• BRU-FRA D.O.O. – Koncesija za obavljanje dimnjač
- arskih poslova (VRATIŠINEC)\, 1.000 €/god.\n\nProfil općine: https://k
- oncesijski-sat.vercel.app/#opcina/41942358B27365842198437\nIzvor: Registar
-  koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ arskih poslova (VRATIŠINEC) · davatelj: OPĆINA VRATIŠINEC\, 1.000 €/
+ god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4194235
+ 8B27365842198437\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sa
+ t 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B27365842198437
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -31,16 +32,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-2540ae8f8579e889@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-af3cda1d3c00b333@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20290601
 DTEND;VALUE=DATE:20290602
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BRU-FRA D.O.O.)
 DESCRIPTION:1. 12. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• BRU-FRA D.O.O. – Koncesija za obavljanje dimnjačarskih poslova
-  (VRATIŠINEC)\, 1.000 €/god.\n\nProfil općine: https://koncesijski-sat
- .vercel.app/#opcina/41942358B27365842198437
+  (VRATIŠINEC) · davatelj: OPĆINA VRATIŠINEC\, 1.000 €/god.\n\nProfil
+  općine: https://koncesijski-sat.vercel.app/#opcina/41942358B273658421984
+ 37
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B27365842198437
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -51,17 +53,18 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-12e4258f54c34ef1@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-537ae53a00d20d03@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20461231
 DTEND;VALUE=DATE:20470101
 SUMMARY:Ističe 2 koncesije · Vratišinec
 DESCRIPTION:2 ugovora o koncesiji ističe 31. 12. 2046.\n\n• INA-INDUSTRI
  JA NAFTE  D.D. – Dozvola za eksploataciju ugljikovodika (prema Zakonu o 
- ugljikovodicima) (VRATIŠINEC)\n• INA D.D. – Dozvola za eksploataciju 
- ugljikovodika (prema Zakonu o ugljikovodicima) (VRATIŠINEC)\n\nProfil op
- ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B27365842198437\
- nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ ugljikovodicima) (VRATIŠINEC) · davatelj: MINISTARSTVO GOSPODARSTVA\n•
+  INA D.D. – Dozvola za eksploataciju ugljikovodika (prema Zakonu o uglji
+ kovodicima) (VRATIŠINEC) · davatelj: MINISTARSTVO GOSPODARSTVA\n\nProfil
+  općine: https://koncesijski-sat.vercel.app/#opcina/41942358B273658421984
+ 37\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B27365842198437
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -71,23 +74,25 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-12e4258f54c34ef1@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-537ae53a00d20d03@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20460630
 DTEND;VALUE=DATE:20460701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Vratišinec
 DESCRIPTION:31. 12. 2046. ističe 2 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Dozvola za eksploataciju ugljiko
- vodika (prema Zakonu o ugljikovodicima) (VRATIŠINEC)\n• INA D.D. – Do
- zvola za eksploataciju ugljikovodika (prema Zakonu o ugljikovodicima) (VRA
- TIŠINEC)\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41
- 942358B27365842198437
+ vodika (prema Zakonu o ugljikovodicima) (VRATIŠINEC) · davatelj: MINISTA
+ RSTVO GOSPODARSTVA\n• INA D.D. – Dozvola za eksploataciju ugljikovodik
+ a (prema Zakonu o ugljikovodicima) (VRATIŠINEC) · davatelj: MINISTARSTVO
+  GOSPODARSTVA\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcin
+ a/41942358B27365842198437
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B27365842198437
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Vratišine
+ c
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT

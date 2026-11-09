@@ -4,24 +4,25 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Grad Zagreb
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Grad Zagreb. Iz Registra
-  koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podataka
- . https://koncesijski-sat.vercel.app/#opcina/41942358B62049760899595
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Grad Zagreb (pregled\, s
+ vi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježava se n
+ akon svake obrade podataka. https://koncesijski-sat.vercel.app/#opcina/419
+ 42358B62049760899595
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-e87b418e4c11f8c2@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-39f6b296a2c954c1@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270323
 DTEND;VALUE=DATE:20270324
 SUMMARY:Ističe koncesija: GRADSKA PLINARA ZAGREB D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 23. 3. 2027. Godišnja fiksna nakn
  ada: 46.453 €.\n\n• GRADSKA PLINARA ZAGREB D.O.O. – Koncesija za oba
  vljanje distribucije plina na postojećem distribucijskom sustavu (ZAGREB)
- \, 46.453 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#
- opcina/41942358B62049760899595\nIzvor: Registar koncesija (FINA)\, obrada 
- Koncesijski sat 9. 11. 2026.
+  · davatelj: GRAD ZAGREB\, 46.453 €/god.\n\nProfil općine: https://kon
+ cesijski-sat.vercel.app/#opcina/41942358B62049760899595\nIzvor: Registar k
+ oncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B62049760899595
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -31,8 +32,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-c75c6b14208a0552@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-18edc0cab641f2e6@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270401
 DTEND;VALUE=DATE:20270402
 SUMMARY:Ističe koncesija: RADIO KAJ D.O.O.
@@ -41,9 +42,10 @@ DESCRIPTION:1 ugovor o koncesiji ističe 1. 4. 2027. Godišnja fiksna nakna
  osti radija (GRAD ZAGREB\, KOPRIVNICA\, KOPRIVNICA\, KRAPINSKO-ZAGORSKA Ž
  UPANIJA\, KRAPINSKO-ZAGORSKA ŽUPANIJA\, MEĐIMURSKA ŽUPANIJA\, MEĐIMURS
  KA ŽUPANIJA\, VARAŽDINSKA ŽUPANIJA\, VARAŽDINSKA ŽUPANIJA\, ZAGREBAČ
- KA ŽUPANIJA\, ZAGREBAČKA ŽUPANIJA)\, 1.195 €/god.\n\nProfil općine: 
- https://koncesijski-sat.vercel.app/#opcina/41942358B62049760899595\nIzvor:
-  Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ KA ŽUPANIJA\, ZAGREBAČKA ŽUPANIJA) · davatelj: AGENCIJA ZA ELEKTRONIČ
+ KE MEDIJE\, 1.195 €/god.\n\nProfil općine: https://koncesijski-sat.verc
+ el.app/#opcina/41942358B62049760899595\nIzvor: Registar koncesija (FINA)\,
+  obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B62049760899595
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -53,17 +55,18 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-9087a1f93bfb9033@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-4577b55d4dfbaf5e@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270427
 DTEND;VALUE=DATE:20270428
 SUMMARY:Ističe koncesija: OTVORENI RADIO D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 27. 4. 2027. Godišnja fiksna nakn
  ada: 4.313 €.\n\n• OTVORENI RADIO D.O.O. – Koncesija za obavljanje d
  jelatnosti radija (GRAD ZAGREB\, ZAGREBAČKA ŽUPANIJA\, ZAGREBAČKA ŽUPA
- NIJA)\, 4.313 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.a
- pp/#opcina/41942358B62049760899595\nIzvor: Registar koncesija (FINA)\, obr
- ada Koncesijski sat 9. 11. 2026.
+ NIJA) · davatelj: AGENCIJA ZA ELEKTRONIČKE MEDIJE\, 4.313 €/god.\n\nPr
+ ofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B62049760
+ 899595\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2
+ 026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B62049760899595
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -73,17 +76,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-f783de20e5442e48@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-be3683f3efde57c6@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20271113
 DTEND;VALUE=DATE:20271114
 SUMMARY:Ističe koncesija: ASPECT CROATIA KFT.
 DESCRIPTION:1 ugovor o koncesiji ističe 13. 11. 2027. Godišnja fiksna nak
  nada: 4.607 €.\n\n• ASPECT CROATIA KFT. – Dozvola za istraživanje u
- gljikovodika (prema Zakonu o ugljikovodicima) (ZAGREB)\, 4.607 €/god.\n\
- nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B62049
- 760899595\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11
- . 2026.
+ gljikovodika (prema Zakonu o ugljikovodicima) (ZAGREB) · davatelj: MINIST
+ ARSTVO GOSPODARSTVA\, 4.607 €/god.\n\nProfil općine: https://koncesijsk
+ i-sat.vercel.app/#opcina/41942358B62049760899595\nIzvor: Registar koncesij
+ a (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B62049760899595
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -93,8 +96,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-f783de20e5442e48@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-be3683f3efde57c6@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270513
 DTEND;VALUE=DATE:20270514
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ASPECT CROATIA K
@@ -102,8 +105,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ASPECT CROATIA K
 DESCRIPTION:13. 11. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• ASPECT CROATIA KFT. – Dozvola za istraživanje ugljikovodika (
- prema Zakonu o ugljikovodicima) (ZAGREB)\, 4.607 €/god.\n\nProfil općin
- e: https://koncesijski-sat.vercel.app/#opcina/41942358B62049760899595
+ prema Zakonu o ugljikovodicima) (ZAGREB) · davatelj: MINISTARSTVO GOSPODA
+ RSTVA\, 4.607 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.a
+ pp/#opcina/41942358B62049760899595
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B62049760899595
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -114,16 +118,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-de31d8efef8ac924@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-faf82d8e9a9c0579@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20271119
 DTEND;VALUE=DATE:20271120
 SUMMARY:Ističe koncesija: ZAGREBAČKI HOLDING D.O.O.-PODRUŽNICA ZRINJEVAC
 DESCRIPTION:1 ugovor o koncesiji ističe 19. 11. 2027.\n\n• ZAGREBAČKI H
  OLDING D.O.O.-PODRUŽNICA ZRINJEVAC – Koncesija za zahvaćanje voda za t
- ehnološke potrebe (GRAD ZAGREB)\n\nProfil općine: https://koncesijski-sa
- t.vercel.app/#opcina/41942358B62049760899595\nIzvor: Registar koncesija (F
- INA)\, obrada Koncesijski sat 9. 11. 2026.
+ ehnološke potrebe (GRAD ZAGREB) · davatelj: MINISTARSTVO ZAŠTITE OKOLI
+ ŠA I ZELENE TRANZICIJE\n\nProfil općine: https://koncesijski-sat.vercel.
+ app/#opcina/41942358B62049760899595\nIzvor: Registar koncesija (FINA)\, ob
+ rada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B62049760899595
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -134,8 +139,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-de31d8efef8ac924@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-faf82d8e9a9c0579@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270519
 DTEND;VALUE=DATE:20270520
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ZAGREBAČKI HOLD
@@ -143,8 +148,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ZAGREBAČKI HOLD
 DESCRIPTION:19. 11. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• ZAGREBAČKI HOLDING D.O.O.-PODRUŽNICA ZRINJEVAC – Koncesija z
- a zahvaćanje voda za tehnološke potrebe (GRAD ZAGREB)\n\nProfil općine:
-  https://koncesijski-sat.vercel.app/#opcina/41942358B62049760899595
+ a zahvaćanje voda za tehnološke potrebe (GRAD ZAGREB) · davatelj: MINIS
+ TARSTVO ZAŠTITE OKOLIŠA I ZELENE TRANZICIJE\n\nProfil općine: https://k
+ oncesijski-sat.vercel.app/#opcina/41942358B62049760899595
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B62049760899595
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -155,16 +161,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-5f3f37b85e97e14f@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-40ac8ea7672405bd@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20280603
 DTEND;VALUE=DATE:20280604
 SUMMARY:Ističe koncesija: MEDIA-COMMERCE D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 3. 6. 2028. Godišnja fiksna nakna
  da: 25 €.\n\n• MEDIA-COMMERCE D.O.O. – Koncesija za zahvaćanje voda
-  radi korištenja u proizvodnom postupku (ZAGREB)\, 25 €/god.\n\nProfil 
- općine: https://koncesijski-sat.vercel.app/#opcina/41942358B6204976089959
- 5\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+  radi korištenja u proizvodnom postupku (ZAGREB) · davatelj: MINISTARSTV
+ O ZAŠTITE OKOLIŠA I ZELENE TRANZICIJE\, 25 €/god.\n\nProfil općine: h
+ ttps://koncesijski-sat.vercel.app/#opcina/41942358B62049760899595\nIzvor: 
+ Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B62049760899595
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -174,8 +181,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-5f3f37b85e97e14f@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-40ac8ea7672405bd@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20271203
 DTEND;VALUE=DATE:20271204
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MEDIA-COMMERCE D
@@ -183,8 +190,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MEDIA-COMMERCE D
 DESCRIPTION:3. 6. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• MEDIA-COMMERCE D.O.O. – Koncesija za zahvaćanje voda radi kori
- štenja u proizvodnom postupku (ZAGREB)\, 25 €/god.\n\nProfil općine: h
- ttps://koncesijski-sat.vercel.app/#opcina/41942358B62049760899595
+ štenja u proizvodnom postupku (ZAGREB) · davatelj: MINISTARSTVO ZAŠTITE
+  OKOLIŠA I ZELENE TRANZICIJE\, 25 €/god.\n\nProfil općine: https://kon
+ cesijski-sat.vercel.app/#opcina/41942358B62049760899595
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B62049760899595
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -195,16 +203,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-7d7de471061e23ec@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-5c4ed59170ec09bc@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20281231
 DTEND;VALUE=DATE:20290101
 SUMMARY:Ističe koncesija: YAMMAT D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 31. 12. 2028. Godišnja fiksna nak
  nada: 1.062 €.\n\n• YAMMAT D.O.O. – Koncesija za obavljanje djelatno
- sti radija (GRAD ZAGREB)\, 1.062 €/god.\n\nProfil općine: https://konce
- sijski-sat.vercel.app/#opcina/41942358B62049760899595\nIzvor: Registar kon
- cesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ sti radija (GRAD ZAGREB) · davatelj: AGENCIJA ZA ELEKTRONIČKE MEDIJE\, 1
+ .062 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcin
+ a/41942358B62049760899595\nIzvor: Registar koncesija (FINA)\, obrada Konce
+ sijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B62049760899595
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -214,16 +223,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-7d7de471061e23ec@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-5c4ed59170ec09bc@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20280630
 DTEND;VALUE=DATE:20280701
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (YAMMAT D.O.O.)
 DESCRIPTION:31. 12. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• YAMMAT D.O.O. – Koncesija za obavljanje djelatnosti radija (GR
- AD ZAGREB)\, 1.062 €/god.\n\nProfil općine: https://koncesijski-sat.ver
- cel.app/#opcina/41942358B62049760899595
+ AD ZAGREB) · davatelj: AGENCIJA ZA ELEKTRONIČKE MEDIJE\, 1.062 €/god.\
+ n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B620
+ 49760899595
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B62049760899595
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -234,16 +244,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-7ffae7ab5a2e5db6@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-6f99e435a1a7e2ca@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20291012
 DTEND;VALUE=DATE:20291013
 SUMMARY:Ističe koncesija: UDRUGA RADIO MARIJA
 DESCRIPTION:1 ugovor o koncesiji ističe 12. 10. 2029. Godišnja fiksna nak
  nada: 597 €.\n\n• UDRUGA RADIO MARIJA – Koncesija za obavljanje djel
- atnosti radija (GRAD ZAGREB)\, 597 €/god.\n\nProfil općine: https://kon
- cesijski-sat.vercel.app/#opcina/41942358B62049760899595\nIzvor: Registar k
- oncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ atnosti radija (GRAD ZAGREB) · davatelj: AGENCIJA ZA ELEKTRONIČKE MEDIJE
+ \, 597 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opc
+ ina/41942358B62049760899595\nIzvor: Registar koncesija (FINA)\, obrada Kon
+ cesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B62049760899595
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -253,8 +264,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-7ffae7ab5a2e5db6@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-6f99e435a1a7e2ca@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20290412
 DTEND;VALUE=DATE:20290413
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (UDRUGA RADIO MAR
@@ -262,8 +273,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (UDRUGA RADIO MAR
 DESCRIPTION:12. 10. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• UDRUGA RADIO MARIJA – Koncesija za obavljanje djelatnosti radi
- ja (GRAD ZAGREB)\, 597 €/god.\n\nProfil općine: https://koncesijski-sat
- .vercel.app/#opcina/41942358B62049760899595
+ ja (GRAD ZAGREB) · davatelj: AGENCIJA ZA ELEKTRONIČKE MEDIJE\, 597 €/g
+ od.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358
+ B62049760899595
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B62049760899595
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -274,17 +286,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-1e8b0b1cface80cd@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-4b20477561531691@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20291104
 DTEND;VALUE=DATE:20291105
 SUMMARY:Ističe koncesija: VOSSLOH UTENZILIJA D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 4. 11. 2029. Godišnja fiksna nakn
  ada: 1.062 €.\n\n• VOSSLOH UTENZILIJA D.D. – Koncesija za zahvaćanj
- e voda radi korištenja u proizvodnom postupku (ZAGREB)\, 1.062 €/god.\n
- \nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B6204
- 9760899595\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 1
- 1. 2026.
+ e voda radi korištenja u proizvodnom postupku (ZAGREB) · davatelj: MINIS
+ TARSTVO ZAŠTITE OKOLIŠA I ZELENE TRANZICIJE\, 1.062 €/god.\n\nProfil o
+ pćine: https://koncesijski-sat.vercel.app/#opcina/41942358B62049760899595
+ \nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B62049760899595
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -294,8 +306,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-1e8b0b1cface80cd@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-4b20477561531691@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20290504
 DTEND;VALUE=DATE:20290505
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VOSSLOH UTENZILI
@@ -303,8 +315,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VOSSLOH UTENZILI
 DESCRIPTION:4. 11. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• VOSSLOH UTENZILIJA D.D. – Koncesija za zahvaćanje voda radi ko
- rištenja u proizvodnom postupku (ZAGREB)\, 1.062 €/god.\n\nProfil opći
- ne: https://koncesijski-sat.vercel.app/#opcina/41942358B62049760899595
+ rištenja u proizvodnom postupku (ZAGREB) · davatelj: MINISTARSTVO ZAŠTI
+ TE OKOLIŠA I ZELENE TRANZICIJE\, 1.062 €/god.\n\nProfil općine: https:
+ //koncesijski-sat.vercel.app/#opcina/41942358B62049760899595
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B62049760899595
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -315,17 +328,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-eea70d0c6d0f5d4e@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-b464801e6ddfaa49@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20310210
 DTEND;VALUE=DATE:20310211
 SUMMARY:Ističe koncesija: DIMNJAČARSKA OBRTNIČKA ZADRUGA
 DESCRIPTION:1 ugovor o koncesiji ističe 10. 2. 2031. Godišnja fiksna nakn
  ada: 11.281 €.\n\n• DIMNJAČARSKA OBRTNIČKA ZADRUGA – Koncesija za 
- obavljanje dimnjačarskih poslova (GRAD ZAGREB)\, 11.281 €/god.\n\nProfi
- l općine: https://koncesijski-sat.vercel.app/#opcina/41942358B62049760899
- 595\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026
- .
+ obavljanje dimnjačarskih poslova (GRAD ZAGREB) · davatelj: GRAD ZAGREB\,
+  11.281 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#op
+ cina/41942358B62049760899595\nIzvor: Registar koncesija (FINA)\, obrada Ko
+ ncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B62049760899595
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -335,8 +348,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-eea70d0c6d0f5d4e@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-b464801e6ddfaa49@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20300810
 DTEND;VALUE=DATE:20300811
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DIMNJAČARSKA OB
@@ -344,8 +357,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DIMNJAČARSKA OB
 DESCRIPTION:10. 2. 2031. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• DIMNJAČARSKA OBRTNIČKA ZADRUGA – Koncesija za obavljanje dimn
- jačarskih poslova (GRAD ZAGREB)\, 11.281 €/god.\n\nProfil općine: http
- s://koncesijski-sat.vercel.app/#opcina/41942358B62049760899595
+ jačarskih poslova (GRAD ZAGREB) · davatelj: GRAD ZAGREB\, 11.281 €/god
+ .\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B6
+ 2049760899595
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B62049760899595
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -356,8 +370,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-28dbef89241b9588@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-689548714560cdd5@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20311218
 DTEND;VALUE=DATE:20311219
 SUMMARY:Ističe koncesija: Z1 TELEVIZIJA D.O.O.
@@ -366,9 +380,10 @@ DESCRIPTION:1 ugovor o koncesiji ističe 18. 12. 2031. Godišnja fiksna nak
  jelatnosti televizije (GRAD ZAGREB\, KARLOVAČKA ŽUPANIJA\, KARLOVAČKA 
  ŽUPANIJA\, KRAPINSKO-ZAGORSKA ŽUPANIJA\, KRAPINSKO-ZAGORSKA ŽUPANIJA\, 
  SISAČKO-MOSLAVAČKA ŽUPANIJA\, SISAČKO-MOSLAVAČKA ŽUPANIJA\, ZAGREBA
- ČKA ŽUPANIJA\, ZAGREBAČKA ŽUPANIJA)\, 1.991 €/god.\n\nProfil općine
- : https://koncesijski-sat.vercel.app/#opcina/41942358B62049760899595\nIzvo
- r: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ ČKA ŽUPANIJA\, ZAGREBAČKA ŽUPANIJA) · davatelj: AGENCIJA ZA ELEKTRONI
+ ČKE MEDIJE\, 1.991 €/god.\n\nProfil općine: https://koncesijski-sat.ve
+ rcel.app/#opcina/41942358B62049760899595\nIzvor: Registar koncesija (FINA)
+ \, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B62049760899595
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -378,8 +393,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-28dbef89241b9588@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-689548714560cdd5@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20310618
 DTEND;VALUE=DATE:20310619
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (Z1 TELEVIZIJA D.
@@ -390,8 +405,9 @@ DESCRIPTION:18. 12. 2031. ističe 1 ugovor o koncesiji. Novi postupak dodje
  evizije (GRAD ZAGREB\, KARLOVAČKA ŽUPANIJA\, KARLOVAČKA ŽUPANIJA\, KRA
  PINSKO-ZAGORSKA ŽUPANIJA\, KRAPINSKO-ZAGORSKA ŽUPANIJA\, SISAČKO-MOSLAV
  AČKA ŽUPANIJA\, SISAČKO-MOSLAVAČKA ŽUPANIJA\, ZAGREBAČKA ŽUPANIJA\,
-  ZAGREBAČKA ŽUPANIJA)\, 1.991 €/god.\n\nProfil općine: https://konces
- ijski-sat.vercel.app/#opcina/41942358B62049760899595
+  ZAGREBAČKA ŽUPANIJA) · davatelj: AGENCIJA ZA ELEKTRONIČKE MEDIJE\, 1.
+ 991 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina
+ /41942358B62049760899595
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B62049760899595
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -402,16 +418,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-a89402c29928ca94@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-cc320309998ecbd6@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20330426
 DTEND;VALUE=DATE:20330427
 SUMMARY:Ističe koncesija: ENTER ZAGREB D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 26. 4. 2033. Godišnja fiksna nakn
  ada: 597 €.\n\n• ENTER ZAGREB D.O.O. – Koncesija za obavljanje djela
- tnosti radija (ZAGREB)\, 597 €/god.\n\nProfil općine: https://koncesijs
- ki-sat.vercel.app/#opcina/41942358B62049760899595\nIzvor: Registar koncesi
- ja (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ tnosti radija (ZAGREB) · davatelj: AGENCIJA ZA ELEKTRONIČKE MEDIJE\, 597
+  €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41
+ 942358B62049760899595\nIzvor: Registar koncesija (FINA)\, obrada Koncesijs
+ ki sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B62049760899595
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -421,8 +438,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-a89402c29928ca94@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-cc320309998ecbd6@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20321026
 DTEND;VALUE=DATE:20321027
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ENTER ZAGREB D.O
@@ -430,8 +447,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ENTER ZAGREB D.O
 DESCRIPTION:26. 4. 2033. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• ENTER ZAGREB D.O.O. – Koncesija za obavljanje djelatnosti radij
- a (ZAGREB)\, 597 €/god.\n\nProfil općine: https://koncesijski-sat.verce
- l.app/#opcina/41942358B62049760899595
+ a (ZAGREB) · davatelj: AGENCIJA ZA ELEKTRONIČKE MEDIJE\, 597 €/god.\n\
+ nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B62049
+ 760899595
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B62049760899595
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -442,8 +460,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-c873324e8e75e5c1@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-c83aa89bf1814616@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20330609
 DTEND;VALUE=DATE:20330610
 SUMMARY:Ističe koncesija: NEZAVISNA TELEVIZIJA D.O.O.
@@ -452,9 +470,10 @@ DESCRIPTION:1 ugovor o koncesiji ističe 9. 6. 2033. Godišnja fiksna nakna
  nje djelatnosti televizije (GRAD ZAGREB\, KARLOVAČKA ŽUPANIJA\, KARLOVA
  ČKA ŽUPANIJA\, KRAPINSKO-ZAGORSKA ŽUPANIJA\, KRAPINSKO-ZAGORSKA ŽUPANI
  JA\, SISAČKO-MOSLAVAČKA ŽUPANIJA\, SISAČKO-MOSLAVAČKA ŽUPANIJA\, ZAG
- REBAČKA ŽUPANIJA\, ZAGREBAČKA ŽUPANIJA)\, 1.991 €/god.\n\nProfil op
- ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B62049760899595\
- nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ REBAČKA ŽUPANIJA\, ZAGREBAČKA ŽUPANIJA) · davatelj: AGENCIJA ZA ELEKT
+ RONIČKE MEDIJE\, 1.991 €/god.\n\nProfil općine: https://koncesijski-sa
+ t.vercel.app/#opcina/41942358B62049760899595\nIzvor: Registar koncesija (F
+ INA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B62049760899595
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -464,8 +483,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-c873324e8e75e5c1@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-c83aa89bf1814616@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20321209
 DTEND;VALUE=DATE:20321210
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (NEZAVISNA TELEVI
@@ -476,8 +495,9 @@ DESCRIPTION:9. 6. 2033. ističe 1 ugovor o koncesiji. Novi postupak dodjele
  i televizije (GRAD ZAGREB\, KARLOVAČKA ŽUPANIJA\, KARLOVAČKA ŽUPANIJA\
  , KRAPINSKO-ZAGORSKA ŽUPANIJA\, KRAPINSKO-ZAGORSKA ŽUPANIJA\, SISAČKO-M
  OSLAVAČKA ŽUPANIJA\, SISAČKO-MOSLAVAČKA ŽUPANIJA\, ZAGREBAČKA ŽUPAN
- IJA\, ZAGREBAČKA ŽUPANIJA)\, 1.991 €/god.\n\nProfil općine: https://k
- oncesijski-sat.vercel.app/#opcina/41942358B62049760899595
+ IJA\, ZAGREBAČKA ŽUPANIJA) · davatelj: AGENCIJA ZA ELEKTRONIČKE MEDIJE
+ \, 1.991 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#o
+ pcina/41942358B62049760899595
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B62049760899595
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -488,17 +508,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-04db55c7e78cb018@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-72dda8f33adc059f@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20341013
 DTEND;VALUE=DATE:20341014
 SUMMARY:Ističe koncesija: ZAGREBAČKI HOLDING D.O.O. ROBNI TERMINALI ZAGRE
  B
 DESCRIPTION:1 ugovor o koncesiji ističe 13. 10. 2034.\n\n• ZAGREBAČKI H
  OLDING D.O.O. ROBNI TERMINALI ZAGREB – Koncesija za osnivanje slobodne z
- one (ZAGREB)\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina
- /41942358B62049760899595\nIzvor: Registar koncesija (FINA)\, obrada Konces
- ijski sat 9. 11. 2026.
+ one (ZAGREB) · davatelj: MINISTARSTVO GOSPODARSTVA\n\nProfil općine: htt
+ ps://koncesijski-sat.vercel.app/#opcina/41942358B62049760899595\nIzvor: Re
+ gistar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B62049760899595
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -509,8 +529,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-04db55c7e78cb018@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-72dda8f33adc059f@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20340413
 DTEND;VALUE=DATE:20340414
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ZAGREBAČKI HOLD
@@ -518,8 +538,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ZAGREBAČKI HOLD
 DESCRIPTION:13. 10. 2034. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• ZAGREBAČKI HOLDING D.O.O. ROBNI TERMINALI ZAGREB – Koncesija 
- za osnivanje slobodne zone (ZAGREB)\n\nProfil općine: https://koncesijski
- -sat.vercel.app/#opcina/41942358B62049760899595
+ za osnivanje slobodne zone (ZAGREB) · davatelj: MINISTARSTVO GOSPODARSTVA
+ \n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B62
+ 049760899595
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B62049760899595
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -530,17 +551,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-5deb941af81e1590@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-3cec9f69c8f9ac40@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20360923
 DTEND;VALUE=DATE:20360924
 SUMMARY:Ističe koncesija: TOP RADIO D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 23. 9. 2036. Godišnja fiksna nakn
  ada: 2.389 €.\n\n• TOP RADIO D.O.O. – Koncesija za obavljanje djelat
  nosti radija (GRAD ZAGREB\, ZAGREBAČKA ŽUPANIJA\, ZAGREBAČKA ŽUPANIJA)
- \, 2.389 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#o
- pcina/41942358B62049760899595\nIzvor: Registar koncesija (FINA)\, obrada K
- oncesijski sat 9. 11. 2026.
+  · davatelj: AGENCIJA ZA ELEKTRONIČKE MEDIJE\, 2.389 €/god.\n\nProfil 
+ općine: https://koncesijski-sat.vercel.app/#opcina/41942358B6204976089959
+ 5\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B62049760899595
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -550,8 +571,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-5deb941af81e1590@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-3cec9f69c8f9ac40@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20360323
 DTEND;VALUE=DATE:20360324
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (TOP RADIO D.O.O.
@@ -559,9 +580,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (TOP RADIO D.O.O.
 DESCRIPTION:23. 9. 2036. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• TOP RADIO D.O.O. – Koncesija za obavljanje djelatnosti radija (
- GRAD ZAGREB\, ZAGREBAČKA ŽUPANIJA\, ZAGREBAČKA ŽUPANIJA)\, 2.389 €/g
- od.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358
- B62049760899595
+ GRAD ZAGREB\, ZAGREBAČKA ŽUPANIJA\, ZAGREBAČKA ŽUPANIJA) · davatelj: 
+ AGENCIJA ZA ELEKTRONIČKE MEDIJE\, 2.389 €/god.\n\nProfil općine: https
+ ://koncesijski-sat.vercel.app/#opcina/41942358B62049760899595
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B62049760899595
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -572,16 +593,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-8e12d79c8b3c0dde@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-8a19b7045a28156d@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20410721
 DTEND;VALUE=DATE:20410722
 SUMMARY:Ističe koncesija: NEXE D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 21. 7. 2041. Godišnja fiksna nakn
  ada: 956 €.\n\n• NEXE D.D. – Koncesija za zahvaćanje voda za tehnol
- oške potrebe (GRAD ZAGREB)\, 956 €/god.\n\nProfil općine: https://konc
- esijski-sat.vercel.app/#opcina/41942358B62049760899595\nIzvor: Registar ko
- ncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ oške potrebe (GRAD ZAGREB) · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠA I 
+ ZELENE TRANZICIJE\, 956 €/god.\n\nProfil općine: https://koncesijski-sa
+ t.vercel.app/#opcina/41942358B62049760899595\nIzvor: Registar koncesija (F
+ INA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B62049760899595
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -591,16 +613,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-8e12d79c8b3c0dde@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-8a19b7045a28156d@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20410121
 DTEND;VALUE=DATE:20410122
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (NEXE D.D.)
 DESCRIPTION:21. 7. 2041. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• NEXE D.D. – Koncesija za zahvaćanje voda za tehnološke potreb
- e (GRAD ZAGREB)\, 956 €/god.\n\nProfil općine: https://koncesijski-sat.
- vercel.app/#opcina/41942358B62049760899595
+ e (GRAD ZAGREB) · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠA I ZELENE TRANZ
+ ICIJE\, 956 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app
+ /#opcina/41942358B62049760899595
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B62049760899595
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -610,18 +633,18 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-a7be9818c3603dfd@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-88e54603e9807fe4@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20420706
 DTEND;VALUE=DATE:20420707
 SUMMARY:Ističe koncesija: SVEUČILIŠTE U ZAGREBU FAKULTET POLITIČKIH ZNA
  NOSTI
 DESCRIPTION:1 ugovor o koncesiji ističe 6. 7. 2042. Godišnja fiksna nakna
  da: 133 €.\n\n• SVEUČILIŠTE U ZAGREBU FAKULTET POLITIČKIH ZNANOSTI 
- – Koncesija za obavljanje djelatnosti radija (GRAD ZAGREB)\, 133 €/god
- .\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B6
- 2049760899595\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9
- . 11. 2026.
+ – Koncesija za obavljanje djelatnosti radija (GRAD ZAGREB) · davatelj: 
+ AGENCIJA ZA ELEKTRONIČKE MEDIJE\, 133 €/god.\n\nProfil općine: https:/
+ /koncesijski-sat.vercel.app/#opcina/41942358B62049760899595\nIzvor: Regist
+ ar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B62049760899595
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -632,8 +655,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-a7be9818c3603dfd@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-88e54603e9807fe4@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20420106
 DTEND;VALUE=DATE:20420107
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (SVEUČILIŠTE U 
@@ -641,9 +664,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (SVEUČILIŠTE U
 DESCRIPTION:6. 7. 2042. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• SVEUČILIŠTE U ZAGREBU FAKULTET POLITIČKIH ZNANOSTI – Koncesij
- a za obavljanje djelatnosti radija (GRAD ZAGREB)\, 133 €/god.\n\nProfil 
- općine: https://koncesijski-sat.vercel.app/#opcina/41942358B6204976089959
- 5
+ a za obavljanje djelatnosti radija (GRAD ZAGREB) · davatelj: AGENCIJA ZA 
+ ELEKTRONIČKE MEDIJE\, 133 €/god.\n\nProfil općine: https://koncesijski
+ -sat.vercel.app/#opcina/41942358B62049760899595
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B62049760899595
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -654,19 +677,20 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-4ebe808bcbcd0c44@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-b5915b53ddfa3476@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20421031
 DTEND;VALUE=DATE:20421101
 SUMMARY:Ističe 2 koncesije · Zagreb
 DESCRIPTION:2 ugovora o koncesiji ističe 31. 10. 2042. Godišnja fiksna na
  knada: 6.846 €.\n\n• GPC INSTRUMENTATION PROCESS D.O.O. – Koncesija 
- za zauzetu površinu odobrenog eksploatacijskog polja (ZAGREB)\, 6.846 €
- /god.\n• GPC INSTRUMENTATION PROCESS D.O.O. – Dozvola za eksploataciju
-  geotermalne vode za energetske svrhe (prema Zakonu o ugljikovodicima) (GR
- AD ZAGREB)\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4
- 1942358B62049760899595\nIzvor: Registar koncesija (FINA)\, obrada Koncesij
- ski sat 9. 11. 2026.
+ za zauzetu površinu odobrenog eksploatacijskog polja (ZAGREB) · davatelj
+ : MINISTARSTVO GOSPODARSTVA\, 6.846 €/god.\n• GPC INSTRUMENTATION PROC
+ ESS D.O.O. – Dozvola za eksploataciju geotermalne vode za energetske svr
+ he (prema Zakonu o ugljikovodicima) (GRAD ZAGREB) · davatelj: MINISTARSTV
+ O GOSPODARSTVA\n\nProfil općine: https://koncesijski-sat.vercel.app/#opci
+ na/41942358B62049760899595\nIzvor: Registar koncesija (FINA)\, obrada Konc
+ esijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B62049760899595
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -676,38 +700,40 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-4ebe808bcbcd0c44@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-b5915b53ddfa3476@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20420430
 DTEND;VALUE=DATE:20420501
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Zagreb
 DESCRIPTION:31. 10. 2042. ističe 2 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• GPC INSTRUMENTATION PROCESS D.O.O. – Koncesija za zauzetu pov
- ršinu odobrenog eksploatacijskog polja (ZAGREB)\, 6.846 €/god.\n• GPC
-  INSTRUMENTATION PROCESS D.O.O. – Dozvola za eksploataciju geotermalne v
- ode za energetske svrhe (prema Zakonu o ugljikovodicima) (GRAD ZAGREB)\n\n
- Profil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B620497
- 60899595
+ ršinu odobrenog eksploatacijskog polja (ZAGREB) · davatelj: MINISTARSTVO
+  GOSPODARSTVA\, 6.846 €/god.\n• GPC INSTRUMENTATION PROCESS D.O.O. –
+  Dozvola za eksploataciju geotermalne vode za energetske svrhe (prema Zako
+ nu o ugljikovodicima) (GRAD ZAGREB) · davatelj: MINISTARSTVO GOSPODARSTVA
+ \n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B62
+ 049760899595
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B62049760899595
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Zagreb
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-ec664c8c3e18bd98@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-a93e49b17d07ffcb@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20431212
 DTEND;VALUE=DATE:20431213
 SUMMARY:Ističe koncesija: JADRANSKI NAFTOVOD D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 12. 12. 2043. Godišnja fiksna nak
  nada: 6.371 €.\n\n• JADRANSKI NAFTOVOD D.D. – Koncesija za zahvaćan
- je voda za tehnološke potrebe (ZAGREB)\, 6.371 €/god.\n\nProfil općine
- : https://koncesijski-sat.vercel.app/#opcina/41942358B62049760899595\nIzvo
- r: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ je voda za tehnološke potrebe (ZAGREB) · davatelj: MINISTARSTVO ZAŠTITE
+  OKOLIŠA I ZELENE TRANZICIJE\, 6.371 €/god.\n\nProfil općine: https://
+ koncesijski-sat.vercel.app/#opcina/41942358B62049760899595\nIzvor: Regista
+ r koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B62049760899595
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -717,8 +743,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-ec664c8c3e18bd98@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-a93e49b17d07ffcb@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20430612
 DTEND;VALUE=DATE:20430613
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (JADRANSKI NAFTOV
@@ -726,8 +752,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (JADRANSKI NAFTOV
 DESCRIPTION:12. 12. 2043. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• JADRANSKI NAFTOVOD D.D. – Koncesija za zahvaćanje voda za teh
- nološke potrebe (ZAGREB)\, 6.371 €/god.\n\nProfil općine: https://konc
- esijski-sat.vercel.app/#opcina/41942358B62049760899595
+ nološke potrebe (ZAGREB) · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠA I ZE
+ LENE TRANZICIJE\, 6.371 €/god.\n\nProfil općine: https://koncesijski-sa
+ t.vercel.app/#opcina/41942358B62049760899595
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B62049760899595
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -738,17 +765,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-924d02df454772dd@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-f23b01dcdbac0e1e@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20440515
 DTEND;VALUE=DATE:20440516
 SUMMARY:Ističe koncesija: SALESIANER MIETTEX LOTOS D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 15. 5. 2044. Godišnja fiksna nakn
  ada: 3.600 €.\n\n• SALESIANER MIETTEX LOTOS D.O.O. – Koncesija za za
- hvaćanje voda za tehnološke potrebe (GRAD ZAGREB)\, 3.600 €/god.\n\nPr
- ofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B62049760
- 899595\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2
- 026.
+ hvaćanje voda za tehnološke potrebe (GRAD ZAGREB) · davatelj: MINISTARS
+ TVO ZAŠTITE OKOLIŠA I ZELENE TRANZICIJE\, 3.600 €/god.\n\nProfil opći
+ ne: https://koncesijski-sat.vercel.app/#opcina/41942358B62049760899595\nIz
+ vor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B62049760899595
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -758,8 +785,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-924d02df454772dd@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-f23b01dcdbac0e1e@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20431115
 DTEND;VALUE=DATE:20431116
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (SALESIANER MIETT
@@ -767,8 +794,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (SALESIANER MIETT
 DESCRIPTION:15. 5. 2044. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• SALESIANER MIETTEX LOTOS D.O.O. – Koncesija za zahvaćanje voda
-  za tehnološke potrebe (GRAD ZAGREB)\, 3.600 €/god.\n\nProfil općine: 
- https://koncesijski-sat.vercel.app/#opcina/41942358B62049760899595
+  za tehnološke potrebe (GRAD ZAGREB) · davatelj: MINISTARSTVO ZAŠTITE O
+ KOLIŠA I ZELENE TRANZICIJE\, 3.600 €/god.\n\nProfil općine: https://ko
+ ncesijski-sat.vercel.app/#opcina/41942358B62049760899595
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B62049760899595
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -779,16 +807,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-a810f5ddce9d88ec@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-342e1b2cb2239ca3@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20440706
 DTEND;VALUE=DATE:20440707
 SUMMARY:Ističe koncesija: ZAGREBAČKI RADIO PLAVI 9 D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 6. 7. 2044. Godišnja fiksna nakna
  da: 1.128 €.\n\n• ZAGREBAČKI RADIO PLAVI 9 D.O.O. – Koncesija za ob
- avljanje djelatnosti radija (GRAD ZAGREB)\, 1.128 €/god.\n\nProfil opći
- ne: https://koncesijski-sat.vercel.app/#opcina/41942358B62049760899595\nIz
- vor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ avljanje djelatnosti radija (GRAD ZAGREB) · davatelj: AGENCIJA ZA ELEKTRO
+ NIČKE MEDIJE\, 1.128 €/god.\n\nProfil općine: https://koncesijski-sat.
+ vercel.app/#opcina/41942358B62049760899595\nIzvor: Registar koncesija (FIN
+ A)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B62049760899595
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -798,8 +827,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-a810f5ddce9d88ec@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-342e1b2cb2239ca3@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20440106
 DTEND;VALUE=DATE:20440107
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ZAGREBAČKI RADI
@@ -807,8 +836,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ZAGREBAČKI RADI
 DESCRIPTION:6. 7. 2044. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• ZAGREBAČKI RADIO PLAVI 9 D.O.O. – Koncesija za obavljanje djela
- tnosti radija (GRAD ZAGREB)\, 1.128 €/god.\n\nProfil općine: https://ko
- ncesijski-sat.vercel.app/#opcina/41942358B62049760899595
+ tnosti radija (GRAD ZAGREB) · davatelj: AGENCIJA ZA ELEKTRONIČKE MEDIJE\
+ , 1.128 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#op
+ cina/41942358B62049760899595
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B62049760899595
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -819,8 +849,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-cb5483279491dac7@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-e9497f6888a48921@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20451013
 DTEND;VALUE=DATE:20451014
 SUMMARY:Ističe koncesija: OTVORENA TELEVIZIJA ZAGREB D.D.
@@ -828,9 +858,10 @@ DESCRIPTION:1 ugovor o koncesiji ističe 13. 10. 2045. Godišnja fiksna nak
  nada: 1.991 €.\n\n• OTVORENA TELEVIZIJA ZAGREB D.D. – Koncesija za o
  bavljanje djelatnosti televizije (GRAD ZAGREB\, KARLOVAČKA ŽUPANIJA\, KR
  APINSKO-ZAGORSKA ŽUPANIJA\, SISAČKO-MOSLAVAČKA ŽUPANIJA\, ZAGREBAČKA 
- ŽUPANIJA)\, 1.991 €/god.\n\nProfil općine: https://koncesijski-sat.ver
- cel.app/#opcina/41942358B62049760899595\nIzvor: Registar koncesija (FINA)\
- , obrada Koncesijski sat 9. 11. 2026.
+ ŽUPANIJA) · davatelj: AGENCIJA ZA ELEKTRONIČKE MEDIJE\, 1.991 €/god.\
+ n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B620
+ 49760899595\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 
+ 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B62049760899595
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -840,8 +871,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-cb5483279491dac7@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-e9497f6888a48921@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20450413
 DTEND;VALUE=DATE:20450414
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (OTVORENA TELEVIZ
@@ -850,9 +881,9 @@ DESCRIPTION:13. 10. 2045. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• OTVORENA TELEVIZIJA ZAGREB D.D. – Koncesija za obavljanje djel
  atnosti televizije (GRAD ZAGREB\, KARLOVAČKA ŽUPANIJA\, KRAPINSKO-ZAGORS
- KA ŽUPANIJA\, SISAČKO-MOSLAVAČKA ŽUPANIJA\, ZAGREBAČKA ŽUPANIJA)\, 1
- .991 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcin
- a/41942358B62049760899595
+ KA ŽUPANIJA\, SISAČKO-MOSLAVAČKA ŽUPANIJA\, ZAGREBAČKA ŽUPANIJA) · 
+ davatelj: AGENCIJA ZA ELEKTRONIČKE MEDIJE\, 1.991 €/god.\n\nProfil opć
+ ine: https://koncesijski-sat.vercel.app/#opcina/41942358B62049760899595
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B62049760899595
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -863,17 +894,18 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-65746ca51ea070dc@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-241f7f2b1c7c3e8d@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20451017
 DTEND;VALUE=DATE:20451018
 SUMMARY:Ističe koncesija: ANTENA ZAGREB D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 17. 10. 2045. Godišnja fiksna nak
  nada: 1.858 €.\n\n• ANTENA ZAGREB D.O.O. – Koncesija za obavljanje d
  jelatnosti radija (GRAD ZAGREB\, ZAGREBAČKA ŽUPANIJA\, ZAGREBAČKA ŽUPA
- NIJA)\, 1.858 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.a
- pp/#opcina/41942358B62049760899595\nIzvor: Registar koncesija (FINA)\, obr
- ada Koncesijski sat 9. 11. 2026.
+ NIJA) · davatelj: AGENCIJA ZA ELEKTRONIČKE MEDIJE\, 1.858 €/god.\n\nPr
+ ofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B62049760
+ 899595\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2
+ 026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B62049760899595
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -883,8 +915,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-65746ca51ea070dc@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-241f7f2b1c7c3e8d@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20450417
 DTEND;VALUE=DATE:20450418
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ANTENA ZAGREB D.
@@ -892,9 +924,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ANTENA ZAGREB D.
 DESCRIPTION:17. 10. 2045. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• ANTENA ZAGREB D.O.O. – Koncesija za obavljanje djelatnosti rad
- ija (GRAD ZAGREB\, ZAGREBAČKA ŽUPANIJA\, ZAGREBAČKA ŽUPANIJA)\, 1.858 
- €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
- 42358B62049760899595
+ ija (GRAD ZAGREB\, ZAGREBAČKA ŽUPANIJA\, ZAGREBAČKA ŽUPANIJA) · davat
+ elj: AGENCIJA ZA ELEKTRONIČKE MEDIJE\, 1.858 €/god.\n\nProfil općine: 
+ https://koncesijski-sat.vercel.app/#opcina/41942358B62049760899595
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B62049760899595
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -905,16 +937,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-12633a85002f2703@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-fe1e38b7adca1eef@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20461012
 DTEND;VALUE=DATE:20461013
 SUMMARY:Ističe koncesija: HEP-TOPLINARSTVO D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 12. 10. 2046.\n\n• HEP-TOPLINARS
  TVO D.O.O. – Koncesija za obavljanje komunalne djelatnosti opskrbe topli
- nskom energijom (ZAGREB)\n\nProfil općine: https://koncesijski-sat.vercel
- .app/#opcina/41942358B62049760899595\nIzvor: Registar koncesija (FINA)\, o
- brada Koncesijski sat 9. 11. 2026.
+ nskom energijom (ZAGREB) · davatelj: GRAD ZAGREB\n\nProfil općine: https
+ ://koncesijski-sat.vercel.app/#opcina/41942358B62049760899595\nIzvor: Regi
+ star koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B62049760899595
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -924,8 +956,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-12633a85002f2703@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-fe1e38b7adca1eef@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20460412
 DTEND;VALUE=DATE:20460413
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP-TOPLINARSTVO
@@ -933,8 +965,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP-TOPLINARSTVO
 DESCRIPTION:12. 10. 2046. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• HEP-TOPLINARSTVO D.O.O. – Koncesija za obavljanje komunalne dj
- elatnosti opskrbe toplinskom energijom (ZAGREB)\n\nProfil općine: https:/
- /koncesijski-sat.vercel.app/#opcina/41942358B62049760899595
+ elatnosti opskrbe toplinskom energijom (ZAGREB) · davatelj: GRAD ZAGREB\n
+ \nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B6204
+ 9760899595
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B62049760899595
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -945,16 +978,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-76c86a6e43f34c36@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-75db56d697c9a3f9@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20490828
 DTEND;VALUE=DATE:20490829
 SUMMARY:Ističe koncesija: PLIVA HRVATSKA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 28. 8. 2049. Godišnja fiksna nakn
  ada: 3.185 €.\n\n• PLIVA HRVATSKA D.O.O. – Koncesija za zahvaćanje 
- voda za tehnološke potrebe (GRAD ZAGREB)\, 3.185 €/god.\n\nProfil opći
- ne: https://koncesijski-sat.vercel.app/#opcina/41942358B62049760899595\nIz
- vor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ voda za tehnološke potrebe (GRAD ZAGREB) · davatelj: MINISTARSTVO ZAŠTI
+ TE OKOLIŠA I ZELENE TRANZICIJE\, 3.185 €/god.\n\nProfil općine: https:
+ //koncesijski-sat.vercel.app/#opcina/41942358B62049760899595\nIzvor: Regis
+ tar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B62049760899595
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -964,8 +998,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-76c86a6e43f34c36@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-75db56d697c9a3f9@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20490228
 DTEND;VALUE=DATE:20490301
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PLIVA HRVATSKA D
@@ -973,8 +1007,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PLIVA HRVATSKA D
 DESCRIPTION:28. 8. 2049. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• PLIVA HRVATSKA D.O.O. – Koncesija za zahvaćanje voda za tehnol
- oške potrebe (GRAD ZAGREB)\, 3.185 €/god.\n\nProfil općine: https://ko
- ncesijski-sat.vercel.app/#opcina/41942358B62049760899595
+ oške potrebe (GRAD ZAGREB) · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠA I 
+ ZELENE TRANZICIJE\, 3.185 €/god.\n\nProfil općine: https://koncesijski-
+ sat.vercel.app/#opcina/41942358B62049760899595
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B62049760899595
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -985,16 +1020,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-1f31c798140ccfd5@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-3b4d4859d1bf4ec2@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20501102
 DTEND;VALUE=DATE:20501103
 SUMMARY:Ističe koncesija: KRAŠ D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 2. 11. 2050. Godišnja fiksna nakn
  ada: 5.309 €.\n\n• KRAŠ D.D. – Koncesija za zahvaćanje voda za teh
- nološke potrebe (GRAD ZAGREB)\, 5.309 €/god.\n\nProfil općine: https:/
- /koncesijski-sat.vercel.app/#opcina/41942358B62049760899595\nIzvor: Regist
- ar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ nološke potrebe (GRAD ZAGREB) · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠA
+  I ZELENE TRANZICIJE\, 5.309 €/god.\n\nProfil općine: https://koncesijs
+ ki-sat.vercel.app/#opcina/41942358B62049760899595\nIzvor: Registar koncesi
+ ja (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B62049760899595
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1004,16 +1040,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-1f31c798140ccfd5@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-3b4d4859d1bf4ec2@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20500502
 DTEND;VALUE=DATE:20500503
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (KRAŠ D.D.)
 DESCRIPTION:2. 11. 2050. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• KRAŠ D.D. – Koncesija za zahvaćanje voda za tehnološke potre
- be (GRAD ZAGREB)\, 5.309 €/god.\n\nProfil općine: https://koncesijski-s
- at.vercel.app/#opcina/41942358B62049760899595
+ be (GRAD ZAGREB) · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠA I ZELENE TRAN
+ ZICIJE\, 5.309 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.
+ app/#opcina/41942358B62049760899595
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B62049760899595
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1023,16 +1060,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-c3cd4e996611637f@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-ad918e1c7e0f7689@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20501223
 DTEND;VALUE=DATE:20501224
 SUMMARY:Ističe koncesija: DUKAT D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 23. 12. 2050. Godišnja fiksna nak
  nada: 53.089 €.\n\n• DUKAT D.D. – Koncesija za zahvaćanje voda za t
- ehnološke potrebe (ZAGREB)\, 53.089 €/god.\n\nProfil općine: https://k
- oncesijski-sat.vercel.app/#opcina/41942358B62049760899595\nIzvor: Registar
-  koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ ehnološke potrebe (ZAGREB) · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠA I 
+ ZELENE TRANZICIJE\, 53.089 €/god.\n\nProfil općine: https://koncesijski
+ -sat.vercel.app/#opcina/41942358B62049760899595\nIzvor: Registar koncesija
+  (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B62049760899595
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1042,16 +1080,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-c3cd4e996611637f@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-ad918e1c7e0f7689@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20500623
 DTEND;VALUE=DATE:20500624
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DUKAT D.D.)
 DESCRIPTION:23. 12. 2050. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• DUKAT D.D. – Koncesija za zahvaćanje voda za tehnološke potr
- ebe (ZAGREB)\, 53.089 €/god.\n\nProfil općine: https://koncesijski-sat.
- vercel.app/#opcina/41942358B62049760899595
+ ebe (ZAGREB) · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠA I ZELENE TRANZICI
+ JE\, 53.089 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app
+ /#opcina/41942358B62049760899595
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B62049760899595
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1061,16 +1100,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-cee77147eeadbab5@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-5f017beffbcfd7d3@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20510318
 DTEND;VALUE=DATE:20510319
 SUMMARY:Ističe koncesija: ZVIJEZDA PLUS D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 18. 3. 2051. Godišnja fiksna nakn
  ada: 15.927 €.\n\n• ZVIJEZDA PLUS D.O.O. – Koncesija za zahvaćanje 
- voda za tehnološke potrebe (ZAGREB)\, 15.927 €/god.\n\nProfil općine: 
- https://koncesijski-sat.vercel.app/#opcina/41942358B62049760899595\nIzvor:
-  Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ voda za tehnološke potrebe (ZAGREB) · davatelj: MINISTARSTVO ZAŠTITE OK
+ OLIŠA I ZELENE TRANZICIJE\, 15.927 €/god.\n\nProfil općine: https://ko
+ ncesijski-sat.vercel.app/#opcina/41942358B62049760899595\nIzvor: Registar 
+ koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B62049760899595
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1080,8 +1120,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-cee77147eeadbab5@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-5f017beffbcfd7d3@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20500918
 DTEND;VALUE=DATE:20500919
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ZVIJEZDA PLUS D.
@@ -1089,8 +1129,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ZVIJEZDA PLUS D.
 DESCRIPTION:18. 3. 2051. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• ZVIJEZDA PLUS D.O.O. – Koncesija za zahvaćanje voda za tehnolo
- ške potrebe (ZAGREB)\, 15.927 €/god.\n\nProfil općine: https://koncesi
- jski-sat.vercel.app/#opcina/41942358B62049760899595
+ ške potrebe (ZAGREB) · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠA I ZELENE
+  TRANZICIJE\, 15.927 €/god.\n\nProfil općine: https://koncesijski-sat.v
+ ercel.app/#opcina/41942358B62049760899595
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B62049760899595
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1101,16 +1142,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-62d17ec0e3a003d9@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-31fc9f50121a44f6@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20510721
 DTEND;VALUE=DATE:20510722
 SUMMARY:Ističe koncesija: ELKA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 21. 7. 2051. Godišnja fiksna nakn
  ada: 3.185 €.\n\n• ELKA D.O.O. – Koncesija za zahvaćanje voda za te
- hnološke potrebe (GRAD ZAGREB)\, 3.185 €/god.\n\nProfil općine: https:
- //koncesijski-sat.vercel.app/#opcina/41942358B62049760899595\nIzvor: Regis
- tar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ hnološke potrebe (GRAD ZAGREB) · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠ
+ A I ZELENE TRANZICIJE\, 3.185 €/god.\n\nProfil općine: https://koncesij
+ ski-sat.vercel.app/#opcina/41942358B62049760899595\nIzvor: Registar konces
+ ija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B62049760899595
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1120,16 +1162,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-62d17ec0e3a003d9@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-31fc9f50121a44f6@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20510121
 DTEND;VALUE=DATE:20510122
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ELKA D.O.O.)
 DESCRIPTION:21. 7. 2051. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• ELKA D.O.O. – Koncesija za zahvaćanje voda za tehnološke potr
- ebe (GRAD ZAGREB)\, 3.185 €/god.\n\nProfil općine: https://koncesijski-
- sat.vercel.app/#opcina/41942358B62049760899595
+ ebe (GRAD ZAGREB) · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠA I ZELENE TRA
+ NZICIJE\, 3.185 €/god.\n\nProfil općine: https://koncesijski-sat.vercel
+ .app/#opcina/41942358B62049760899595
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B62049760899595
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1139,16 +1182,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-14b12f18dc05576b@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-ddf23713791877dd@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20520225
 DTEND;VALUE=DATE:20520226
 SUMMARY:Ističe koncesija: INA MAZIVA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 25. 2. 2052. Godišnja fiksna nakn
  ada: 26.545 €.\n\n• INA MAZIVA D.O.O. – Koncesija za zahvaćanje vod
- a za tehnološke potrebe (GRAD ZAGREB)\, 26.545 €/god.\n\nProfil općine
- : https://koncesijski-sat.vercel.app/#opcina/41942358B62049760899595\nIzvo
- r: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ a za tehnološke potrebe (GRAD ZAGREB) · davatelj: MINISTARSTVO ZAŠTITE 
+ OKOLIŠA I ZELENE TRANZICIJE\, 26.545 €/god.\n\nProfil općine: https://
+ koncesijski-sat.vercel.app/#opcina/41942358B62049760899595\nIzvor: Regista
+ r koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B62049760899595
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1158,8 +1202,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-14b12f18dc05576b@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-ddf23713791877dd@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20510825
 DTEND;VALUE=DATE:20510826
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA MAZIVA D.O.O
@@ -1167,8 +1211,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA MAZIVA D.O.O
 DESCRIPTION:25. 2. 2052. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• INA MAZIVA D.O.O. – Koncesija za zahvaćanje voda za tehnološk
- e potrebe (GRAD ZAGREB)\, 26.545 €/god.\n\nProfil općine: https://konce
- sijski-sat.vercel.app/#opcina/41942358B62049760899595
+ e potrebe (GRAD ZAGREB) · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠA I ZELE
+ NE TRANZICIJE\, 26.545 €/god.\n\nProfil općine: https://koncesijski-sat
+ .vercel.app/#opcina/41942358B62049760899595
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B62049760899595
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1179,8 +1224,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-2e19cd2930859280@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-732c63d59b01fafb@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20520729
 DTEND;VALUE=DATE:20520730
 SUMMARY:Ističe koncesija: CEMEX HRVATSKA D.D. ZA PROIZVODNJU I PRODAJU CEM
@@ -1188,9 +1233,10 @@ SUMMARY:Ističe koncesija: CEMEX HRVATSKA D.D. ZA PROIZVODNJU I PRODAJU CEM
 DESCRIPTION:1 ugovor o koncesiji ističe 29. 7. 2052. Godišnja fiksna nakn
  ada: 1.406 €.\n\n• CEMEX HRVATSKA D.D. ZA PROIZVODNJU I PRODAJU CEMENT
  A I DRUGIH GRAĐEVINSKIH MATERIJALA – Koncesija za zahvaćanje voda za t
- ehnološke potrebe (GRAD ZAGREB)\, 1.406 €/god.\n\nProfil općine: https
- ://koncesijski-sat.vercel.app/#opcina/41942358B62049760899595\nIzvor: Regi
- star koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ ehnološke potrebe (GRAD ZAGREB) · davatelj: MINISTARSTVO ZAŠTITE OKOLI
+ ŠA I ZELENE TRANZICIJE\, 1.406 €/god.\n\nProfil općine: https://konces
+ ijski-sat.vercel.app/#opcina/41942358B62049760899595\nIzvor: Registar konc
+ esija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B62049760899595
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1201,8 +1247,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-2e19cd2930859280@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-732c63d59b01fafb@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20520129
 DTEND;VALUE=DATE:20520130
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (CEMEX HRVATSKA D
@@ -1211,8 +1257,9 @@ DESCRIPTION:29. 7. 2052. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• CEMEX HRVATSKA D.D. ZA PROIZVODNJU I PRODAJU CEMENTA I DRUGIH GRA
  ĐEVINSKIH MATERIJALA – Koncesija za zahvaćanje voda za tehnološke pot
- rebe (GRAD ZAGREB)\, 1.406 €/god.\n\nProfil općine: https://koncesijski
- -sat.vercel.app/#opcina/41942358B62049760899595
+ rebe (GRAD ZAGREB) · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠA I ZELENE TR
+ ANZICIJE\, 1.406 €/god.\n\nProfil općine: https://koncesijski-sat.verce
+ l.app/#opcina/41942358B62049760899595
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B62049760899595
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1224,16 +1271,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-4e62493904ff5e59@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-56dfe0ae876db8f9@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20951025
 DTEND;VALUE=DATE:20951026
 SUMMARY:Ističe koncesija: BETON-LUČKO D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 25. 10. 2095.\n\n• BETON-LUČKO 
- D.O.O. – Koncesija za istraživanje mineralnih sirovina (ZAGREB)\n\nProf
- il općine: https://koncesijski-sat.vercel.app/#opcina/41942358B6204976089
- 9595\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 202
- 6.
+ D.O.O. – Koncesija za istraživanje mineralnih sirovina (ZAGREB) · dava
+ telj: MINISTARSTVO GOSPODARSTVA\n\nProfil općine: https://koncesijski-sat
+ .vercel.app/#opcina/41942358B62049760899595\nIzvor: Registar koncesija (FI
+ NA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B62049760899595
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1243,8 +1290,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-4e62493904ff5e59@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-56dfe0ae876db8f9@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20950425
 DTEND;VALUE=DATE:20950426
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BETON-LUČKO D.O
@@ -1252,8 +1299,8 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BETON-LUČKO D.O
 DESCRIPTION:25. 10. 2095. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• BETON-LUČKO D.O.O. – Koncesija za istraživanje mineralnih si
- rovina (ZAGREB)\n\nProfil općine: https://koncesijski-sat.vercel.app/#opc
- ina/41942358B62049760899595
+ rovina (ZAGREB) · davatelj: MINISTARSTVO GOSPODARSTVA\n\nProfil općine: 
+ https://koncesijski-sat.vercel.app/#opcina/41942358B62049760899595
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B62049760899595
 TRANSP:TRANSPARENT
 BEGIN:VALARM

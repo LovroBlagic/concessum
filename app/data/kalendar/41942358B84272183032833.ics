@@ -4,24 +4,25 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Općina Mala Subotica
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Mala Subotica. I
- z Registra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrad
- e podataka. https://koncesijski-sat.vercel.app/#opcina/41942358B8427218303
- 2833
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Općina Mala Subotica (p
+ regled\, svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvje
+ žava se nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#
+ opcina/41942358B84272183032833
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-222e10266a491ea7@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-de9ee4c4224fa449@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20341003
 DTEND;VALUE=DATE:20341004
 SUMMARY:Ističe koncesija: BRU-FRA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 3. 10. 2034. Godišnja fiksna nakn
  ada: 1.351 €.\n\n• BRU-FRA D.O.O. – Koncesija za obavljanje dimnjač
- arskih poslova (MALA SUBOTICA)\, 1.351 €/god.\n\nProfil općine: https:/
- /koncesijski-sat.vercel.app/#opcina/41942358B84272183032833\nIzvor: Regist
- ar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ arskih poslova (MALA SUBOTICA) · davatelj: OPĆINA MALA SUBOTICA\, 1.351 
+ €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
+ 42358B84272183032833\nIzvor: Registar koncesija (FINA)\, obrada Koncesijsk
+ i sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B84272183032833
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -31,16 +32,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-222e10266a491ea7@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-de9ee4c4224fa449@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20340403
 DTEND;VALUE=DATE:20340404
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BRU-FRA D.O.O.)
 DESCRIPTION:3. 10. 2034. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• BRU-FRA D.O.O. – Koncesija za obavljanje dimnjačarskih poslova
-  (MALA SUBOTICA)\, 1.351 €/god.\n\nProfil općine: https://koncesijski-s
- at.vercel.app/#opcina/41942358B84272183032833
+  (MALA SUBOTICA) · davatelj: OPĆINA MALA SUBOTICA\, 1.351 €/god.\n\nPr
+ ofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B84272183
+ 032833
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B84272183032833
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -51,18 +53,18 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-fab4b22a7db0d2c4@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-130ea5663f0a9821@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20360331
 DTEND;VALUE=DATE:20360401
 SUMMARY:Ističe koncesija: DIMOS\, OBRT ZA DIMNJAČARSKE USLUGE\, VL. ROBER
  T ZVER
 DESCRIPTION:1 ugovor o koncesiji ističe 31. 3. 2036. Godišnja fiksna nakn
  ada: 1.410 €.\n\n• DIMOS\, OBRT ZA DIMNJAČARSKE USLUGE\, VL. ROBERT Z
- VER – Koncesija za obavljanje dimnjačarskih poslova (MALA SUBOTICA)\, 1
- .410 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcin
- a/41942358B84272183032833\nIzvor: Registar koncesija (FINA)\, obrada Konce
- sijski sat 9. 11. 2026.
+ VER – Koncesija za obavljanje dimnjačarskih poslova (MALA SUBOTICA) · 
+ davatelj: OPĆINA MALA SUBOTICA\, 1.410 €/god.\n\nProfil općine: https:
+ //koncesijski-sat.vercel.app/#opcina/41942358B84272183032833\nIzvor: Regis
+ tar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B84272183032833
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -73,8 +75,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-fab4b22a7db0d2c4@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-130ea5663f0a9821@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20350930
 DTEND;VALUE=DATE:20351001
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DIMOS\, OBRT ZA 
@@ -82,9 +84,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DIMOS\, OBRT ZA
 DESCRIPTION:31. 3. 2036. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• DIMOS\, OBRT ZA DIMNJAČARSKE USLUGE\, VL. ROBERT ZVER – Konces
- ija za obavljanje dimnjačarskih poslova (MALA SUBOTICA)\, 1.410 €/god.\
- n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B842
- 72183032833
+ ija za obavljanje dimnjačarskih poslova (MALA SUBOTICA) · davatelj: OPĆ
+ INA MALA SUBOTICA\, 1.410 €/god.\n\nProfil općine: https://koncesijski-
+ sat.vercel.app/#opcina/41942358B84272183032833
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B84272183032833
 TRANSP:TRANSPARENT
 BEGIN:VALARM

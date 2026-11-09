@@ -4,25 +4,26 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Općina Staro Petrovo Selo
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Staro Petrovo Se
- lo. Iz Registra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake 
- obrade podataka. https://koncesijski-sat.vercel.app/#opcina/41942358B57794
- 033999299
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Općina Staro Petrovo Se
+ lo (pregled\, svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). 
+ Osvježava se nakon svake obrade podataka. https://koncesijski-sat.vercel.
+ app/#opcina/41942358B57794033999299
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-ddfec6b43470db64@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-6132b31b1cb34a74@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20360620
 DTEND;VALUE=DATE:20360621
 SUMMARY:Ističe koncesija: POLJOPRIVREDNO PREHRAMBENI KOMPLEKS D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 20. 6. 2036. Godišnja fiksna nakn
  ada: 34 €.\n\n• POLJOPRIVREDNO PREHRAMBENI KOMPLEKS D.O.O. – Koncesi
  ja za zahvaćanje voda za melioracijsko navodnjavanje (STARO PETROVO SELO)
- \, 34 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opci
- na/41942358B57794033999299\nIzvor: Registar koncesija (FINA)\, obrada Konc
- esijski sat 9. 11. 2026.
+  · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠA I ZELENE TRANZICIJE\, 34 €/
+ god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4194235
+ 8B57794033999299\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sa
+ t 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B57794033999299
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -32,8 +33,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-ddfec6b43470db64@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-6132b31b1cb34a74@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20351220
 DTEND;VALUE=DATE:20351221
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (POLJOPRIVREDNO P
@@ -41,9 +42,10 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (POLJOPRIVREDNO P
 DESCRIPTION:20. 6. 2036. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• POLJOPRIVREDNO PREHRAMBENI KOMPLEKS D.O.O. – Koncesija za zahva
- ćanje voda za melioracijsko navodnjavanje (STARO PETROVO SELO)\, 34 €/g
- od.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358
- B57794033999299
+ ćanje voda za melioracijsko navodnjavanje (STARO PETROVO SELO) · davatel
+ j: MINISTARSTVO ZAŠTITE OKOLIŠA I ZELENE TRANZICIJE\, 34 €/god.\n\nPro
+ fil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B577940339
+ 99299
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B57794033999299
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -54,17 +56,18 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-1cae81665f3048d4@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-d2135b1a49dc0830@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20550626
 DTEND;VALUE=DATE:20550627
 SUMMARY:Ističe koncesija: ASPECT CROATIA KFT. - PODRUŽNICA ZAGREB
 DESCRIPTION:1 ugovor o koncesiji ističe 26. 6. 2055. Godišnja fiksna nakn
  ada: 7.484 €.\n\n• ASPECT CROATIA KFT. - PODRUŽNICA ZAGREB – Dozvol
  a za istraživanje ugljikovodika (prema Zakonu o ugljikovodicima) (STARO P
- ETROVO SELO)\, 7.484 €/god.\n\nProfil općine: https://koncesijski-sat.v
- ercel.app/#opcina/41942358B57794033999299\nIzvor: Registar koncesija (FINA
- )\, obrada Koncesijski sat 9. 11. 2026.
+ ETROVO SELO) · davatelj: MINISTARSTVO GOSPODARSTVA\, 7.484 €/god.\n\nPr
+ ofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B57794033
+ 999299\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2
+ 026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B57794033999299
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -74,8 +77,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-1cae81665f3048d4@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-d2135b1a49dc0830@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20541226
 DTEND;VALUE=DATE:20541227
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ASPECT CROATIA K
@@ -83,9 +86,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ASPECT CROATIA K
 DESCRIPTION:26. 6. 2055. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• ASPECT CROATIA KFT. - PODRUŽNICA ZAGREB – Dozvola za istraživ
- anje ugljikovodika (prema Zakonu o ugljikovodicima) (STARO PETROVO SELO)\,
-  7.484 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opc
- ina/41942358B57794033999299
+ anje ugljikovodika (prema Zakonu o ugljikovodicima) (STARO PETROVO SELO) 
+ · davatelj: MINISTARSTVO GOSPODARSTVA\, 7.484 €/god.\n\nProfil općine:
+  https://koncesijski-sat.vercel.app/#opcina/41942358B57794033999299
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B57794033999299
 TRANSP:TRANSPARENT
 BEGIN:VALARM

@@ -1,0 +1,57 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · OPĆINA DUBRAVICA
+X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje OPĆINA DUBRAVICA. Iz Regi
+ stra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade poda
+ taka. https://koncesijski-sat.vercel.app/#sat
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-f19700c85170f104@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20290515
+DTEND;VALUE=DATE:20290516
+SUMMARY:Ističe 2 koncesije · OPĆINA DUBRAVICA
+DESCRIPTION:2 ugovora o koncesiji ističe 15. 5. 2029. Godišnja fiksna nak
+ nada: 820 €.\n\n• DIMNJAČAR USLUŽNI OBRT\, VL. MARKO POGAČIĆ – K
+ oncesija za obavljanje dimnjačarskih poslova (DUBRAVICA\, Općina Dubravi
+ ca)\, 410 €/god.\n• MARKO POGAČIĆ - DIMNJAČAR – Koncesija za obav
+ ljanje dimnjačarskih poslova (DUBRAVICA\, Općina Dubravica)\, 410 €/go
+ d.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Regist
+ ar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 2 koncesije · OPĆINA DUBRAVICA
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-f19700c85170f104@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20281115
+DTEND;VALUE=DATE:20281116
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · OPĆINA DUBRAV
+ ICA
+DESCRIPTION:15. 5. 2029. ističe 2 ugovora o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• DIMNJAČAR USLUŽNI OBRT\, VL. MARKO POGAČIĆ – Koncesija za 
+ obavljanje dimnjačarskih poslova (DUBRAVICA\, Općina Dubravica)\, 410 
+ €/god.\n• MARKO POGAČIĆ - DIMNJAČAR – Koncesija za obavljanje dim
+ njačarskih poslova (DUBRAVICA\, Općina Dubravica)\, 410 €/god.\n\nŠto
+  ističe: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije · OPĆINA DU
+ BRAVICA
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

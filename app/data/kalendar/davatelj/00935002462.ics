@@ -1,0 +1,95 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · OPĆINA VELA LUKA
+X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje OPĆINA VELA LUKA. Iz Regi
+ stra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade poda
+ taka. https://koncesijski-sat.vercel.app/#sat
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-ee077c3974f782f5@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20300527
+DTEND;VALUE=DATE:20300528
+SUMMARY:Ističe koncesija: AUTOTRANS D.D.
+DESCRIPTION:1 ugovor o koncesiji ističe 27. 5. 2030. Godišnja fiksna nakn
+ ada: 2.025 €.\n\n• AUTOTRANS D.D. – Koncesija za obavljanje komunaln
+ ih djelatnosti (VELA LUKA\, Općina Vela Luka)\, 2.025 €/god.\n\nŠto is
+ tiče: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija 
+ (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: AUTOTRANS D.D.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-ee077c3974f782f5@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20291127
+DTEND;VALUE=DATE:20291128
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (AUTOTRANS D.D.)
+DESCRIPTION:27. 5. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• AUTOTRANS D.D. – Koncesija za obavljanje komunalnih djelatnosti
+  (VELA LUKA\, Općina Vela Luka)\, 2.025 €/god.\n\nŠto ističe: https:/
+ /koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (AUTOTRANS D.
+ D.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-efc08c433cf05d31@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20381114
+DTEND;VALUE=DATE:20381115
+SUMMARY:Ističe koncesija: NERETVANSKO-PELJEŠKO-KORČULANSKO-LASTOVSKO-MLJ
+ ETSKI VODOVOD D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 14. 11. 2038. Godišnja fiksna nak
+ nada: 86 €.\n\n• NERETVANSKO-PELJEŠKO-KORČULANSKO-LASTOVSKO-MLJETSKI
+  VODOVOD D.O.O. – Posebna upotreba pomorskog dobra (VELA LUKA\, Općina 
+ Vela Luka)\, 86 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.a
+ pp/#sat\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 
+ 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: NERETVANSKO-PELJEŠKO-KORČULANSKO-LASTOVSKO
+ -MLJETSKI VODOVOD D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-efc08c433cf05d31@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20380514
+DTEND;VALUE=DATE:20380515
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (NERETVANSKO-PELJ
+ EŠKO-KORČULANSKO-LASTOVSKO-MLJETSKI VODOVOD D.O.O.)
+DESCRIPTION:14. 11. 2038. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• NERETVANSKO-PELJEŠKO-KORČULANSKO-LASTOVSKO-MLJETSKI VODOVOD D.
+ O.O. – Posebna upotreba pomorskog dobra (VELA LUKA\, Općina Vela Luka)\
+ , 86 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (NERETVANSKO-
+ PELJEŠKO-KORČULANSKO-LASTOVSKO-MLJETSKI VODOVOD D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

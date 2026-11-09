@@ -4,23 +4,25 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Općina Viljevo
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Viljevo. Iz Regi
- stra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade poda
- taka. https://koncesijski-sat.vercel.app/#opcina/41942358B36185360982273
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Općina Viljevo (pregled
+ \, svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježava 
+ se nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#opcina
+ /41942358B36185360982273
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-7a3ee4f632c705b1@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-06c31623980ce390@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270628
 DTEND;VALUE=DATE:20270629
 SUMMARY:Ističe koncesija: INA\, D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 28. 6. 2027. Godišnja fiksna nakn
  ada: 3.934 €.\n\n• INA\, D.D. – Dozvola za istraživanje ugljikovodi
- ka (prema Zakonu o ugljikovodicima) (VILJEVO)\, 3.934 €/god.\n\nProfil o
- pćine: https://koncesijski-sat.vercel.app/#opcina/41942358B36185360982273
- \nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ ka (prema Zakonu o ugljikovodicima) (VILJEVO) · davatelj: MINISTARSTVO GO
+ SPODARSTVA\, 3.934 €/god.\n\nProfil općine: https://koncesijski-sat.ver
+ cel.app/#opcina/41942358B36185360982273\nIzvor: Registar koncesija (FINA)\
+ , obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B36185360982273
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -30,16 +32,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-7a3ee4f632c705b1@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-06c31623980ce390@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20261228
 DTEND;VALUE=DATE:20261229
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA\, D.D.)
 DESCRIPTION:28. 6. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• INA\, D.D. – Dozvola za istraživanje ugljikovodika (prema Zako
- nu o ugljikovodicima) (VILJEVO)\, 3.934 €/god.\n\nProfil općine: https:
- //koncesijski-sat.vercel.app/#opcina/41942358B36185360982273
+ nu o ugljikovodicima) (VILJEVO) · davatelj: MINISTARSTVO GOSPODARSTVA\, 3
+ .934 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcin
+ a/41942358B36185360982273
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B36185360982273
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -49,16 +52,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-4d695b03d94f8410@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-bbc69a433e650e7a@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20290801
 DTEND;VALUE=DATE:20290802
 SUMMARY:Ističe koncesija: HEP - PLIN  D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 1. 8. 2029.\n\n• HEP - PLIN  D.O
- .O. – Koncesija za opskrbu potrošača prirodnim plinom (VILJEVO)\n\nPro
- fil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B361853609
- 82273\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 20
- 26.
+ .O. – Koncesija za opskrbu potrošača prirodnim plinom (VILJEVO) · dav
+ atelj: OPĆINA VILJEVO\n\nProfil općine: https://koncesijski-sat.vercel.a
+ pp/#opcina/41942358B36185360982273\nIzvor: Registar koncesija (FINA)\, obr
+ ada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B36185360982273
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -68,8 +71,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-4d695b03d94f8410@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-bbc69a433e650e7a@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20290201
 DTEND;VALUE=DATE:20290202
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP - PLIN  D.O.
@@ -77,8 +80,8 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP - PLIN  D.O.
 DESCRIPTION:1. 8. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• HEP - PLIN  D.O.O. – Koncesija za opskrbu potrošača prirodnim 
- plinom (VILJEVO)\n\nProfil općine: https://koncesijski-sat.vercel.app/#op
- cina/41942358B36185360982273
+ plinom (VILJEVO) · davatelj: OPĆINA VILJEVO\n\nProfil općine: https://k
+ oncesijski-sat.vercel.app/#opcina/41942358B36185360982273
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B36185360982273
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -89,17 +92,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-a338cf841118e198@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-756988d75c6a486e@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20360620
 DTEND;VALUE=DATE:20360621
 SUMMARY:Ističe koncesija: ŽITAR D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 20. 6. 2036. Godišnja fiksna nakn
  ada: 65.637 €.\n\n• ŽITAR D.O.O. – Koncesija za korištenje poljopr
- ivrednog zemljišta u vlasništvu države (VILJEVO)\, 65.637 €/god.\n\nP
- rofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B3618536
- 0982273\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 
- 2026.
+ ivrednog zemljišta u vlasništvu države (VILJEVO) · davatelj: OPĆINA V
+ ILJEVO\, 65.637 €/god.\n\nProfil općine: https://koncesijski-sat.vercel
+ .app/#opcina/41942358B36185360982273\nIzvor: Registar koncesija (FINA)\, o
+ brada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B36185360982273
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -109,16 +112,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-a338cf841118e198@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-756988d75c6a486e@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20351220
 DTEND;VALUE=DATE:20351221
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ŽITAR D.O.O.)
 DESCRIPTION:20. 6. 2036. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• ŽITAR D.O.O. – Koncesija za korištenje poljoprivrednog zemlji
- šta u vlasništvu države (VILJEVO)\, 65.637 €/god.\n\nProfil općine: 
- https://koncesijski-sat.vercel.app/#opcina/41942358B36185360982273
+ šta u vlasništvu države (VILJEVO) · davatelj: OPĆINA VILJEVO\, 65.637
+  €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41
+ 942358B36185360982273
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B36185360982273
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -129,17 +133,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-16abc599feb73cb2@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-75429e2f155f400b@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20361206
 DTEND;VALUE=DATE:20361207
 SUMMARY:Ističe koncesija: ŽITAR D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 6. 12. 2036. Godišnja fiksna nakn
  ada: 29.275 €.\n\n• ŽITAR D.O.O. – Koncesija za korištenje poljopr
- ivrednog zemljišta u vlasništvu države (VILJEVO)\, 29.275 €/god.\n\nP
- rofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B3618536
- 0982273\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 
- 2026.
+ ivrednog zemljišta u vlasništvu države (VILJEVO) · davatelj: OPĆINA V
+ ILJEVO\, 29.275 €/god.\n\nProfil općine: https://koncesijski-sat.vercel
+ .app/#opcina/41942358B36185360982273\nIzvor: Registar koncesija (FINA)\, o
+ brada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B36185360982273
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -149,16 +153,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-16abc599feb73cb2@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-75429e2f155f400b@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20360606
 DTEND;VALUE=DATE:20360607
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ŽITAR D.O.O.)
 DESCRIPTION:6. 12. 2036. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• ŽITAR D.O.O. – Koncesija za korištenje poljoprivrednog zemlji
- šta u vlasništvu države (VILJEVO)\, 29.275 €/god.\n\nProfil općine: 
- https://koncesijski-sat.vercel.app/#opcina/41942358B36185360982273
+ šta u vlasništvu države (VILJEVO) · davatelj: OPĆINA VILJEVO\, 29.275
+  €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41
+ 942358B36185360982273
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B36185360982273
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -169,16 +174,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-ba77b6cf24c02361@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-b815a57f3ec873fe@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20380301
 DTEND;VALUE=DATE:20380302
 SUMMARY:Ističe koncesija: ŽITAR D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 1. 3. 2038. Godišnja fiksna nakna
  da: 823 €.\n\n• ŽITAR D.O.O. – Koncesija za zahvaćanje voda za teh
- nološke potrebe (VILJEVO)\, 823 €/god.\n\nProfil općine: https://konce
- sijski-sat.vercel.app/#opcina/41942358B36185360982273\nIzvor: Registar kon
- cesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ nološke potrebe (VILJEVO) · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠA I Z
+ ELENE TRANZICIJE\, 823 €/god.\n\nProfil općine: https://koncesijski-sat
+ .vercel.app/#opcina/41942358B36185360982273\nIzvor: Registar koncesija (FI
+ NA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B36185360982273
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -188,16 +194,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-ba77b6cf24c02361@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-b815a57f3ec873fe@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20370901
 DTEND;VALUE=DATE:20370902
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ŽITAR D.O.O.)
 DESCRIPTION:1. 3. 2038. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• ŽITAR D.O.O. – Koncesija za zahvaćanje voda za tehnološke pot
- rebe (VILJEVO)\, 823 €/god.\n\nProfil općine: https://koncesijski-sat.v
- ercel.app/#opcina/41942358B36185360982273
+ rebe (VILJEVO) · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠA I ZELENE TRANZI
+ CIJE\, 823 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/
+ #opcina/41942358B36185360982273
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B36185360982273
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -208,20 +215,21 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-76244cabfa2d23a0@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-2e4b557f80d32d30@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20401231
 DTEND;VALUE=DATE:20410101
 SUMMARY:Ističe 3 koncesije · Viljevo
 DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2040. Godišnja fiksna na
  knada: 19.192 €.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauz
- etu površinu odobrenog eksploatacijskog polja (VILJEVO)\, 19.192 €/god.
- \n• INA-INDUSTRIJA NAFTE  D.D. – Dozvola za eksploataciju ugljikovodik
- a (prema Zakonu o ugljikovodicima) (VILJEVO)\n• INA D.D. – Dozvola za 
- eksploataciju ugljikovodika (prema Zakonu o ugljikovodicima) (VILJEVO)\n\n
- Profil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B361853
- 60982273\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11.
-  2026.
+ etu površinu odobrenog eksploatacijskog polja (VILJEVO) · davatelj: MINI
+ STARSTVO GOSPODARSTVA\, 19.192 €/god.\n• INA-INDUSTRIJA NAFTE  D.D. 
+ – Dozvola za eksploataciju ugljikovodika (prema Zakonu o ugljikovodicima
+ ) (VILJEVO) · davatelj: MINISTARSTVO GOSPODARSTVA\n• INA D.D. – Dozvo
+ la za eksploataciju ugljikovodika (prema Zakonu o ugljikovodicima) (VILJEV
+ O) · davatelj: MINISTARSTVO GOSPODARSTVA\n\nProfil općine: https://konce
+ sijski-sat.vercel.app/#opcina/41942358B36185360982273\nIzvor: Registar kon
+ cesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B36185360982273
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -231,40 +239,43 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-76244cabfa2d23a0@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-2e4b557f80d32d30@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20400630
 DTEND;VALUE=DATE:20400701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Viljevo
 DESCRIPTION:31. 12. 2040. ističe 3 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauzetu površinu o
- dobrenog eksploatacijskog polja (VILJEVO)\, 19.192 €/god.\n• INA-INDUS
- TRIJA NAFTE  D.D. – Dozvola za eksploataciju ugljikovodika (prema Zakonu
-  o ugljikovodicima) (VILJEVO)\n• INA D.D. – Dozvola za eksploataciju u
- gljikovodika (prema Zakonu o ugljikovodicima) (VILJEVO)\n\nProfil općine:
-  https://koncesijski-sat.vercel.app/#opcina/41942358B36185360982273
+ dobrenog eksploatacijskog polja (VILJEVO) · davatelj: MINISTARSTVO GOSPOD
+ ARSTVA\, 19.192 €/god.\n• INA-INDUSTRIJA NAFTE  D.D. – Dozvola za ek
+ sploataciju ugljikovodika (prema Zakonu o ugljikovodicima) (VILJEVO) · da
+ vatelj: MINISTARSTVO GOSPODARSTVA\n• INA D.D. – Dozvola za eksploataci
+ ju ugljikovodika (prema Zakonu o ugljikovodicima) (VILJEVO) · davatelj: M
+ INISTARSTVO GOSPODARSTVA\n\nProfil općine: https://koncesijski-sat.vercel
+ .app/#opcina/41942358B36185360982273
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B36185360982273
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Viljevo
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-3aa5589f09199247@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-72d08dfb4b3748c7@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20421231
 DTEND;VALUE=DATE:20430101
 SUMMARY:Ističe 2 koncesije · Viljevo
 DESCRIPTION:2 ugovora o koncesiji ističe 31. 12. 2042. Godišnja fiksna na
  knada: 2.206 €.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauze
- tu površinu odobrenog eksploatacijskog polja (VILJEVO)\, 1.103 €/god.\n
- • INA-INDUSTRIJA NAFTE  D.D. – Dozvola za eksploataciju ugljikovodika 
- (prema Zakonu o ugljikovodicima) (VILJEVO)\, 1.103 €/god.\n\nProfil opć
- ine: https://koncesijski-sat.vercel.app/#opcina/41942358B36185360982273\nI
- zvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ tu površinu odobrenog eksploatacijskog polja (VILJEVO) · davatelj: MINIS
+ TARSTVO GOSPODARSTVA\, 1.103 €/god.\n• INA-INDUSTRIJA NAFTE  D.D. – 
+ Dozvola za eksploataciju ugljikovodika (prema Zakonu o ugljikovodicima) (V
+ ILJEVO) · davatelj: MINISTARSTVO GOSPODARSTVA\, 1.103 €/god.\n\nProfil 
+ općine: https://koncesijski-sat.vercel.app/#opcina/41942358B3618536098227
+ 3\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B36185360982273
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -274,37 +285,39 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-3aa5589f09199247@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-72d08dfb4b3748c7@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20420630
 DTEND;VALUE=DATE:20420701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Viljevo
 DESCRIPTION:31. 12. 2042. ističe 2 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauzetu površinu o
- dobrenog eksploatacijskog polja (VILJEVO)\, 1.103 €/god.\n• INA-INDUST
- RIJA NAFTE  D.D. – Dozvola za eksploataciju ugljikovodika (prema Zakonu 
- o ugljikovodicima) (VILJEVO)\, 1.103 €/god.\n\nProfil općine: https://k
- oncesijski-sat.vercel.app/#opcina/41942358B36185360982273
+ dobrenog eksploatacijskog polja (VILJEVO) · davatelj: MINISTARSTVO GOSPOD
+ ARSTVA\, 1.103 €/god.\n• INA-INDUSTRIJA NAFTE  D.D. – Dozvola za eks
+ ploataciju ugljikovodika (prema Zakonu o ugljikovodicima) (VILJEVO) · dav
+ atelj: MINISTARSTVO GOSPODARSTVA\, 1.103 €/god.\n\nProfil općine: https
+ ://koncesijski-sat.vercel.app/#opcina/41942358B36185360982273
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B36185360982273
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Viljevo
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-c7467945f6a6e171@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-72aaa7c3c4293137@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20480718
 DTEND;VALUE=DATE:20480719
 SUMMARY:Ističe koncesija: KRNJAK  D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 18. 7. 2048. Godišnja fiksna nakn
  ada: 1.858 €.\n\n• KRNJAK  D.O.O. – Koncesija za zahvaćanje voda za
-  tehnološke potrebe (VILJEVO)\, 1.858 €/god.\n\nProfil općine: https:/
- /koncesijski-sat.vercel.app/#opcina/41942358B36185360982273\nIzvor: Regist
- ar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+  tehnološke potrebe (VILJEVO) · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠA
+  I ZELENE TRANZICIJE\, 1.858 €/god.\n\nProfil općine: https://koncesijs
+ ki-sat.vercel.app/#opcina/41942358B36185360982273\nIzvor: Registar koncesi
+ ja (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B36185360982273
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -314,16 +327,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-c7467945f6a6e171@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-72aaa7c3c4293137@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20480118
 DTEND;VALUE=DATE:20480119
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (KRNJAK  D.O.O.)
 DESCRIPTION:18. 7. 2048. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• KRNJAK  D.O.O. – Koncesija za zahvaćanje voda za tehnološke p
- otrebe (VILJEVO)\, 1.858 €/god.\n\nProfil općine: https://koncesijski-s
- at.vercel.app/#opcina/41942358B36185360982273
+ otrebe (VILJEVO) · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠA I ZELENE TRAN
+ ZICIJE\, 1.858 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.
+ app/#opcina/41942358B36185360982273
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B36185360982273
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -334,16 +348,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-7b416ce5cdd296f2@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-03501b4135c6d63b@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20530726
 DTEND;VALUE=DATE:20530727
 SUMMARY:Ističe koncesija: ŽITAR D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 26. 7. 2053. Godišnja fiksna nakn
  ada: 796 €.\n\n• ŽITAR D.O.O. – Koncesija za zahvaćanje voda za te
- hnološke potrebe (VILJEVO)\, 796 €/god.\n\nProfil općine: https://konc
- esijski-sat.vercel.app/#opcina/41942358B36185360982273\nIzvor: Registar ko
- ncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ hnološke potrebe (VILJEVO) · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠA I 
+ ZELENE TRANZICIJE\, 796 €/god.\n\nProfil općine: https://koncesijski-sa
+ t.vercel.app/#opcina/41942358B36185360982273\nIzvor: Registar koncesija (F
+ INA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B36185360982273
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -353,16 +368,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-7b416ce5cdd296f2@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-03501b4135c6d63b@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20530126
 DTEND;VALUE=DATE:20530127
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ŽITAR D.O.O.)
 DESCRIPTION:26. 7. 2053. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• ŽITAR D.O.O. – Koncesija za zahvaćanje voda za tehnološke po
- trebe (VILJEVO)\, 796 €/god.\n\nProfil općine: https://koncesijski-sat.
- vercel.app/#opcina/41942358B36185360982273
+ trebe (VILJEVO) · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠA I ZELENE TRANZ
+ ICIJE\, 796 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app
+ /#opcina/41942358B36185360982273
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B36185360982273
 TRANSP:TRANSPARENT
 BEGIN:VALARM

@@ -4,23 +4,25 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Grad Knin
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Grad Knin. Iz Registra k
- oncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podataka. 
- https://koncesijski-sat.vercel.app/#opcina/41942358B41124787035973
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Grad Knin (pregled\, svi
+  davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježava se nak
+ on svake obrade podataka. https://koncesijski-sat.vercel.app/#opcina/41942
+ 358B41124787035973
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-4ed1c85e5ff0c245@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-4c1ecabeb1a92252@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20320318
 DTEND;VALUE=DATE:20320319
 SUMMARY:Ističe koncesija: HRVATSKA ELEKTROPRIVREDA  D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 18. 3. 2032.\n\n• HRVATSKA ELEKT
  ROPRIVREDA  D.D. – Koncesija za korištenje vodne snage radi proizvodnje
-  električne energije (KNIN)\n\nProfil općine: https://koncesijski-sat.ve
- rcel.app/#opcina/41942358B41124787035973\nIzvor: Registar koncesija (FINA)
- \, obrada Koncesijski sat 9. 11. 2026.
+  električne energije (KNIN) · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠA I
+  ZELENE TRANZICIJE\n\nProfil općine: https://koncesijski-sat.vercel.app/#
+ opcina/41942358B41124787035973\nIzvor: Registar koncesija (FINA)\, obrada 
+ Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B41124787035973
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -30,8 +32,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-4ed1c85e5ff0c245@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-4c1ecabeb1a92252@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20310918
 DTEND;VALUE=DATE:20310919
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKA ELEKTRO
@@ -39,8 +41,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKA ELEKTRO
 DESCRIPTION:18. 3. 2032. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• HRVATSKA ELEKTROPRIVREDA  D.D. – Koncesija za korištenje vodne
-  snage radi proizvodnje električne energije (KNIN)\n\nProfil općine: htt
- ps://koncesijski-sat.vercel.app/#opcina/41942358B41124787035973
+  snage radi proizvodnje električne energije (KNIN) · davatelj: MINISTARS
+ TVO ZAŠTITE OKOLIŠA I ZELENE TRANZICIJE\n\nProfil općine: https://konce
+ sijski-sat.vercel.app/#opcina/41942358B41124787035973
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B41124787035973
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -51,17 +54,18 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-0b78d2d04dda9983@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-6b1201d6ee4fa7b6@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20411220
 DTEND;VALUE=DATE:20411221
 SUMMARY:Ističe koncesija: HRVATSKA ELEKTROPRIVREDA  D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 20. 12. 2041. Godišnja fiksna nak
  nada: 637 €.\n\n• HRVATSKA ELEKTROPRIVREDA  D.D. – Koncesija za kori
- štenje vodne snage radi proizvodnje električne energije (KNIN)\, 637 €
- /god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419423
- 58B41124787035973\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski s
- at 9. 11. 2026.
+ štenje vodne snage radi proizvodnje električne energije (KNIN) · davate
+ lj: MINISTARSTVO ZAŠTITE OKOLIŠA I ZELENE TRANZICIJE\, 637 €/god.\n\nP
+ rofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B4112478
+ 7035973\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 
+ 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B41124787035973
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -71,8 +75,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-0b78d2d04dda9983@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-6b1201d6ee4fa7b6@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20410620
 DTEND;VALUE=DATE:20410621
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKA ELEKTRO
@@ -80,9 +84,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKA ELEKTRO
 DESCRIPTION:20. 12. 2041. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• HRVATSKA ELEKTROPRIVREDA  D.D. – Koncesija za korištenje vodn
- e snage radi proizvodnje električne energije (KNIN)\, 637 €/god.\n\nPro
- fil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B411247870
- 35973
+ e snage radi proizvodnje električne energije (KNIN) · davatelj: MINISTAR
+ STVO ZAŠTITE OKOLIŠA I ZELENE TRANZICIJE\, 637 €/god.\n\nProfil općin
+ e: https://koncesijski-sat.vercel.app/#opcina/41942358B41124787035973
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B41124787035973
 TRANSP:TRANSPARENT
 BEGIN:VALARM

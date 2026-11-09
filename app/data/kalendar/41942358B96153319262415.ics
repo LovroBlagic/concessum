@@ -4,23 +4,25 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Općina Lukač
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Lukač. Iz Regis
- tra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podat
- aka. https://koncesijski-sat.vercel.app/#opcina/41942358B96153319262415
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Općina Lukač (pregled\
+ , svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježava s
+ e nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#opcina/
+ 41942358B96153319262415
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-aeff490c44a25670@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-e786733365858f04@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270628
 DTEND;VALUE=DATE:20270629
 SUMMARY:Ističe koncesija: INA\, D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 28. 6. 2027. Godišnja fiksna nakn
  ada: 3.744 €.\n\n• INA\, D.D. – Dozvola za istraživanje ugljikovodi
- ka (prema Zakonu o ugljikovodicima) (LUKAČ)\, 3.744 €/god.\n\nProfil op
- ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B96153319262415\
- nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ ka (prema Zakonu o ugljikovodicima) (LUKAČ) · davatelj: MINISTARSTVO GOS
+ PODARSTVA\, 3.744 €/god.\n\nProfil općine: https://koncesijski-sat.verc
+ el.app/#opcina/41942358B96153319262415\nIzvor: Registar koncesija (FINA)\,
+  obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B96153319262415
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -30,16 +32,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-aeff490c44a25670@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-e786733365858f04@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20261228
 DTEND;VALUE=DATE:20261229
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA\, D.D.)
 DESCRIPTION:28. 6. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• INA\, D.D. – Dozvola za istraživanje ugljikovodika (prema Zako
- nu o ugljikovodicima) (LUKAČ)\, 3.744 €/god.\n\nProfil općine: https:/
- /koncesijski-sat.vercel.app/#opcina/41942358B96153319262415
+ nu o ugljikovodicima) (LUKAČ) · davatelj: MINISTARSTVO GOSPODARSTVA\, 3.
+ 744 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina
+ /41942358B96153319262415
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B96153319262415
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -49,16 +52,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-a2a70482e67d8bc6@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-3aa3b5d7bd1af843@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20300416
 DTEND;VALUE=DATE:20300417
 SUMMARY:Ističe koncesija: DIM VIROVITICA\, VL. SUZANA PASARIĆ
 DESCRIPTION:1 ugovor o koncesiji ističe 16. 4. 2030. Godišnja fiksna nakn
  ada: 544 €.\n\n• DIM VIROVITICA\, VL. SUZANA PASARIĆ – Koncesija za
-  obavljanje dimnjačarskih poslova (LUKAČ)\, 544 €/god.\n\nProfil opći
- ne: https://koncesijski-sat.vercel.app/#opcina/41942358B96153319262415\nIz
- vor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+  obavljanje dimnjačarskih poslova (LUKAČ) · davatelj: OPĆINA LUKAČ\, 
+ 544 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina
+ /41942358B96153319262415\nIzvor: Registar koncesija (FINA)\, obrada Konces
+ ijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B96153319262415
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -68,8 +72,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-a2a70482e67d8bc6@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-3aa3b5d7bd1af843@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20291016
 DTEND;VALUE=DATE:20291017
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DIM VIROVITICA\,
@@ -77,8 +81,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DIM VIROVITICA\,
 DESCRIPTION:16. 4. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• DIM VIROVITICA\, VL. SUZANA PASARIĆ – Koncesija za obavljanje 
- dimnjačarskih poslova (LUKAČ)\, 544 €/god.\n\nProfil općine: https://
- koncesijski-sat.vercel.app/#opcina/41942358B96153319262415
+ dimnjačarskih poslova (LUKAČ) · davatelj: OPĆINA LUKAČ\, 544 €/god.
+ \n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B96
+ 153319262415
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B96153319262415
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -89,20 +94,21 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-c3631c31f97639cf@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-46dfcdd80aff76c4@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20361231
 DTEND;VALUE=DATE:20370101
 SUMMARY:Ističe 3 koncesije · Lukač
 DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2036. Godišnja fiksna na
  knada: 12.004 €.\n\n• ROMIĆ-PROMET D.O.O. – Koncesija za eksploatac
- iju građevnog pijeska i šljunka (LUKAČ)\, 6.002 €/god.\n• ROMIĆ-PR
- OMET D.O.O. – Koncesija za površinu utvrđenog eksploatacijskog polja n
- eenergetskih mineralnih sirovina (LUKAČ)\, 6.002 €/god.\n• ROMIĆ-PRO
- MET D.O.O. – Koncesija za eksploataciju građevnog pijeska i šljunka (L
- UKAČ)\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942
- 358B96153319262415\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski 
- sat 9. 11. 2026.
+ iju građevnog pijeska i šljunka (LUKAČ) · davatelj: MINISTARSTVO GOSPO
+ DARSTVA\, 6.002 €/god.\n• ROMIĆ-PROMET D.O.O. – Koncesija za površ
+ inu utvrđenog eksploatacijskog polja neenergetskih mineralnih sirovina (L
+ UKAČ) · davatelj: MINISTARSTVO GOSPODARSTVA\, 6.002 €/god.\n• ROMIĆ
+ -PROMET D.O.O. – Koncesija za eksploataciju građevnog pijeska i šljunk
+ a (LUKAČ) · davatelj: MINISTARSTVO GOSPODARSTVA\n\nProfil općine: https
+ ://koncesijski-sat.vercel.app/#opcina/41942358B96153319262415\nIzvor: Regi
+ star koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B96153319262415
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -112,41 +118,43 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-c3631c31f97639cf@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-46dfcdd80aff76c4@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20360630
 DTEND;VALUE=DATE:20360701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Lukač
 DESCRIPTION:31. 12. 2036. ističe 3 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• ROMIĆ-PROMET D.O.O. – Koncesija za eksploataciju građevnog 
- pijeska i šljunka (LUKAČ)\, 6.002 €/god.\n• ROMIĆ-PROMET D.O.O. –
-  Koncesija za površinu utvrđenog eksploatacijskog polja neenergetskih mi
- neralnih sirovina (LUKAČ)\, 6.002 €/god.\n• ROMIĆ-PROMET D.O.O. – 
- Koncesija za eksploataciju građevnog pijeska i šljunka (LUKAČ)\n\nProfi
- l općine: https://koncesijski-sat.vercel.app/#opcina/41942358B96153319262
- 415
+ pijeska i šljunka (LUKAČ) · davatelj: MINISTARSTVO GOSPODARSTVA\, 6.002
+  €/god.\n• ROMIĆ-PROMET D.O.O. – Koncesija za površinu utvrđenog 
+ eksploatacijskog polja neenergetskih mineralnih sirovina (LUKAČ) · davat
+ elj: MINISTARSTVO GOSPODARSTVA\, 6.002 €/god.\n• ROMIĆ-PROMET D.O.O. 
+ – Koncesija za eksploataciju građevnog pijeska i šljunka (LUKAČ) · d
+ avatelj: MINISTARSTVO GOSPODARSTVA\n\nProfil općine: https://koncesijski-
+ sat.vercel.app/#opcina/41942358B96153319262415
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B96153319262415
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Lukač
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-cb32e0e849bd17ee@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-9fac2bc3e620bda4@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20401231
 DTEND;VALUE=DATE:20410101
 SUMMARY:Ističe 2 koncesije · Lukač
 DESCRIPTION:2 ugovora o koncesiji ističe 31. 12. 2040. Godišnja fiksna na
  knada: 2.204 €.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauze
- tu površinu odobrenog eksploatacijskog polja (LUKAČ)\, 1.102 €/god.\n
- • INA-INDUSTRIJA NAFTE  D.D. – Dozvola za eksploataciju ugljikovodika 
- (prema Zakonu o ugljikovodicima) (LUKAČ)\, 1.102 €/god.\n\nProfil opći
- ne: https://koncesijski-sat.vercel.app/#opcina/41942358B96153319262415\nIz
- vor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ tu površinu odobrenog eksploatacijskog polja (LUKAČ) · davatelj: MINIST
+ ARSTVO GOSPODARSTVA\, 1.102 €/god.\n• INA-INDUSTRIJA NAFTE  D.D. – D
+ ozvola za eksploataciju ugljikovodika (prema Zakonu o ugljikovodicima) (LU
+ KAČ) · davatelj: MINISTARSTVO GOSPODARSTVA\, 1.102 €/god.\n\nProfil op
+ ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B96153319262415\
+ nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B96153319262415
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -156,23 +164,24 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-cb32e0e849bd17ee@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-9fac2bc3e620bda4@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20400630
 DTEND;VALUE=DATE:20400701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Lukač
 DESCRIPTION:31. 12. 2040. ističe 2 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauzetu površinu o
- dobrenog eksploatacijskog polja (LUKAČ)\, 1.102 €/god.\n• INA-INDUSTR
- IJA NAFTE  D.D. – Dozvola za eksploataciju ugljikovodika (prema Zakonu o
-  ugljikovodicima) (LUKAČ)\, 1.102 €/god.\n\nProfil općine: https://kon
- cesijski-sat.vercel.app/#opcina/41942358B96153319262415
+ dobrenog eksploatacijskog polja (LUKAČ) · davatelj: MINISTARSTVO GOSPODA
+ RSTVA\, 1.102 €/god.\n• INA-INDUSTRIJA NAFTE  D.D. – Dozvola za eksp
+ loataciju ugljikovodika (prema Zakonu o ugljikovodicima) (LUKAČ) · davat
+ elj: MINISTARSTVO GOSPODARSTVA\, 1.102 €/god.\n\nProfil općine: https:/
+ /koncesijski-sat.vercel.app/#opcina/41942358B96153319262415
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B96153319262415
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Lukač
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT

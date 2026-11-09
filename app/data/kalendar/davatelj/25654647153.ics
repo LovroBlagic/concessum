@@ -1,0 +1,95 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · GRAD KARLOVAC
+X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje GRAD KARLOVAC. Iz Registra
+  koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podataka
+ . https://koncesijski-sat.vercel.app/#sat
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-25554ae39a24ea3f@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20360725
+DTEND;VALUE=DATE:20360726
+SUMMARY:Ističe koncesija: GRADSKA TOPLANA D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 25. 7. 2036.\n\n• GRADSKA TOPLAN
+ A D.O.O. – Koncesija za obavljanje komunalne djelatnosti opskrbe toplins
+ kom energijom (KARLOVAC\, Grad Karlovac)\n\nŠto ističe: https://koncesij
+ ski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Koncesi
+ jski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: GRADSKA TOPLANA D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-25554ae39a24ea3f@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20360125
+DTEND;VALUE=DATE:20360126
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (GRADSKA TOPLANA 
+ D.O.O.)
+DESCRIPTION:25. 7. 2036. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• GRADSKA TOPLANA D.O.O. – Koncesija za obavljanje komunalne djel
+ atnosti opskrbe toplinskom energijom (KARLOVAC\, Grad Karlovac)\n\nŠto is
+ tiče: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (GRADSKA TOPL
+ ANA D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-321f12676b302209@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20370101
+DTEND;VALUE=DATE:20370102
+SUMMARY:Ističe koncesija: MONTCOGIM-PLINARA D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 1. 1. 2037.\n\n• MONTCOGIM-PLINA
+ RA D.O.O. – Koncesija za opskrbu potrošača prirodnim plinom (BARILOVI
+ Ć\, DRAGANIĆ\, DUGA RESA\, KARLOVAC\, NETRETIĆ\, OGULIN\, OZALJ\, RIBNI
+ K\, SLUNJ\, ŽAKANJE\, Općina Barilović)\n\nŠto ističe: https://konces
+ ijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Konce
+ sijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: MONTCOGIM-PLINARA D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-321f12676b302209@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20360701
+DTEND;VALUE=DATE:20360702
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MONTCOGIM-PLINAR
+ A D.O.O.)
+DESCRIPTION:1. 1. 2037. ističe 1 ugovor o koncesiji. Novi postupak dodjele
+  treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
+ \n\n• MONTCOGIM-PLINARA D.O.O. – Koncesija za opskrbu potrošača prir
+ odnim plinom (BARILOVIĆ\, DRAGANIĆ\, DUGA RESA\, KARLOVAC\, NETRETIĆ\, 
+ OGULIN\, OZALJ\, RIBNIK\, SLUNJ\, ŽAKANJE\, Općina Barilović)\n\nŠto i
+ stiče: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MONTCOGIM-PL
+ INARA D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

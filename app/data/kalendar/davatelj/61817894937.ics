@@ -1,0 +1,113 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · GRAD ZAGREB
+X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje GRAD ZAGREB. Iz Registra k
+ oncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podataka. 
+ https://koncesijski-sat.vercel.app/#sat
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-9cfc5dc2e150ae41@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20270323
+DTEND;VALUE=DATE:20270324
+SUMMARY:Ističe koncesija: GRADSKA PLINARA ZAGREB D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 23. 3. 2027. Godišnja fiksna nakn
+ ada: 46.453 €.\n\n• GRADSKA PLINARA ZAGREB D.O.O. – Koncesija za oba
+ vljanje distribucije plina na postojećem distribucijskom sustavu (ZAGREB\
+ , Grad Zagreb)\, 46.453 €/god.\n\nŠto ističe: https://koncesijski-sat.
+ vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat
+  9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: GRADSKA PLINARA ZAGREB D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-d228fd6b95c367f6@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20310210
+DTEND;VALUE=DATE:20310211
+SUMMARY:Ističe koncesija: DIMNJAČARSKA OBRTNIČKA ZADRUGA
+DESCRIPTION:1 ugovor o koncesiji ističe 10. 2. 2031. Godišnja fiksna nakn
+ ada: 11.281 €.\n\n• DIMNJAČARSKA OBRTNIČKA ZADRUGA – Koncesija za 
+ obavljanje dimnjačarskih poslova (GRAD ZAGREB\, Grad Zagreb)\, 11.281 €
+ /god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Reg
+ istar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: DIMNJAČARSKA OBRTNIČKA ZADRUGA
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-d228fd6b95c367f6@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20300810
+DTEND;VALUE=DATE:20300811
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DIMNJAČARSKA OB
+ RTNIČKA ZADRUGA)
+DESCRIPTION:10. 2. 2031. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• DIMNJAČARSKA OBRTNIČKA ZADRUGA – Koncesija za obavljanje dimn
+ jačarskih poslova (GRAD ZAGREB\, Grad Zagreb)\, 11.281 €/god.\n\nŠto i
+ stiče: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DIMNJAČARSK
+ A OBRTNIČKA ZADRUGA)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-48dd18c2dbc1cb92@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20461012
+DTEND;VALUE=DATE:20461013
+SUMMARY:Ističe koncesija: HEP-TOPLINARSTVO D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 12. 10. 2046.\n\n• HEP-TOPLINARS
+ TVO D.O.O. – Koncesija za obavljanje komunalne djelatnosti opskrbe topli
+ nskom energijom (ZAGREB\, Grad Zagreb)\n\nŠto ističe: https://koncesijsk
+ i-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Koncesijs
+ ki sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: HEP-TOPLINARSTVO D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-48dd18c2dbc1cb92@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20460412
+DTEND;VALUE=DATE:20460413
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP-TOPLINARSTVO
+  D.O.O.)
+DESCRIPTION:12. 10. 2046. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• HEP-TOPLINARSTVO D.O.O. – Koncesija za obavljanje komunalne dj
+ elatnosti opskrbe toplinskom energijom (ZAGREB\, Grad Zagreb)\n\nŠto isti
+ če: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP-TOPLINAR
+ STVO D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

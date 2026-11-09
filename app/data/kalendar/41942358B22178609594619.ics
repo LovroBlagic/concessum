@@ -4,24 +4,25 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Općina Čeminac
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Čeminac. Iz Reg
- istra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade pod
- ataka. https://koncesijski-sat.vercel.app/#opcina/41942358B22178609594619
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Općina Čeminac (pregle
+ d\, svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježava
+  se nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#opcin
+ a/41942358B22178609594619
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-a073230ec03d0c20@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-c619f24dcaa52087@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20291216
 DTEND;VALUE=DATE:20291217
 SUMMARY:Ističe koncesija: BELJE PLUS D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 16. 12. 2029. Godišnja fiksna nak
  nada: 4.247 €.\n\n• BELJE PLUS D.O.O. – Koncesija za zahvaćanje vod
- a radi korištenja u proizvodnom postupku (ČEMINAC)\, 4.247 €/god.\n\nP
- rofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B2217860
- 9594619\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 
- 2026.
+ a radi korištenja u proizvodnom postupku (ČEMINAC) · davatelj: MINISTAR
+ STVO ZAŠTITE OKOLIŠA I ZELENE TRANZICIJE\, 4.247 €/god.\n\nProfil opć
+ ine: https://koncesijski-sat.vercel.app/#opcina/41942358B22178609594619\nI
+ zvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B22178609594619
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -31,8 +32,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-a073230ec03d0c20@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-c619f24dcaa52087@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20290616
 DTEND;VALUE=DATE:20290617
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BELJE PLUS D.O.O
@@ -40,8 +41,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BELJE PLUS D.O.O
 DESCRIPTION:16. 12. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• BELJE PLUS D.O.O. – Koncesija za zahvaćanje voda radi korišt
- enja u proizvodnom postupku (ČEMINAC)\, 4.247 €/god.\n\nProfil općine:
-  https://koncesijski-sat.vercel.app/#opcina/41942358B22178609594619
+ enja u proizvodnom postupku (ČEMINAC) · davatelj: MINISTARSTVO ZAŠTITE 
+ OKOLIŠA I ZELENE TRANZICIJE\, 4.247 €/god.\n\nProfil općine: https://k
+ oncesijski-sat.vercel.app/#opcina/41942358B22178609594619
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B22178609594619
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -52,17 +54,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-a192c369a19c317f@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-84eae27d5baa8aa1@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20340129
 DTEND;VALUE=DATE:20340130
 SUMMARY:Ističe koncesija: BELJE PLUS D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 29. 1. 2034. Godišnja fiksna nakn
  ada: 146.829 €.\n\n• BELJE PLUS D.O.O. – Koncesija za korištenje po
- ljoprivrednog zemljišta u vlasništvu države (ČEMINAC)\, 146.829 €/go
- d.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B
- 22178609594619\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 
- 9. 11. 2026.
+ ljoprivrednog zemljišta u vlasništvu države (ČEMINAC) · davatelj: OP
+ ĆINA ČEMINAC\, 146.829 €/god.\n\nProfil općine: https://koncesijski-s
+ at.vercel.app/#opcina/41942358B22178609594619\nIzvor: Registar koncesija (
+ FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B22178609594619
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -72,8 +74,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-a192c369a19c317f@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-84eae27d5baa8aa1@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20330729
 DTEND;VALUE=DATE:20330730
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BELJE PLUS D.O.O
@@ -81,8 +83,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BELJE PLUS D.O.O
 DESCRIPTION:29. 1. 2034. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• BELJE PLUS D.O.O. – Koncesija za korištenje poljoprivrednog ze
- mljišta u vlasništvu države (ČEMINAC)\, 146.829 €/god.\n\nProfil op
- ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B22178609594619
+ mljišta u vlasništvu države (ČEMINAC) · davatelj: OPĆINA ČEMINAC\, 
+ 146.829 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#op
+ cina/41942358B22178609594619
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B22178609594619
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -93,16 +96,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-d18c81042078758a@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-6d537833a694c698@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20450923
 DTEND;VALUE=DATE:20450924
 SUMMARY:Ističe koncesija: BELJE PLUS D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 23. 9. 2045. Godišnja fiksna nakn
  ada: 1.991 €.\n\n• BELJE PLUS D.O.O. – Koncesija za zahvaćanje voda
-  za tehnološke potrebe (ČEMINAC)\, 1.991 €/god.\n\nProfil općine: htt
- ps://koncesijski-sat.vercel.app/#opcina/41942358B22178609594619\nIzvor: Re
- gistar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+  za tehnološke potrebe (ČEMINAC) · davatelj: MINISTARSTVO ZAŠTITE OKOL
+ IŠA I ZELENE TRANZICIJE\, 1.991 €/god.\n\nProfil općine: https://konce
+ sijski-sat.vercel.app/#opcina/41942358B22178609594619\nIzvor: Registar kon
+ cesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B22178609594619
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -112,8 +116,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-d18c81042078758a@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-6d537833a694c698@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20450323
 DTEND;VALUE=DATE:20450324
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BELJE PLUS D.O.O
@@ -121,8 +125,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BELJE PLUS D.O.O
 DESCRIPTION:23. 9. 2045. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• BELJE PLUS D.O.O. – Koncesija za zahvaćanje voda za tehnološk
- e potrebe (ČEMINAC)\, 1.991 €/god.\n\nProfil općine: https://koncesijs
- ki-sat.vercel.app/#opcina/41942358B22178609594619
+ e potrebe (ČEMINAC) · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠA I ZELENE 
+ TRANZICIJE\, 1.991 €/god.\n\nProfil općine: https://koncesijski-sat.ver
+ cel.app/#opcina/41942358B22178609594619
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B22178609594619
 TRANSP:TRANSPARENT
 BEGIN:VALARM

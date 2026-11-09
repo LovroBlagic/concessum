@@ -4,15 +4,16 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Grad Sisak
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Grad Sisak. Iz Registra 
- koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podataka.
-  https://koncesijski-sat.vercel.app/#opcina/41942358B87600882063308
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Grad Sisak (pregled\, sv
+ i davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježava se na
+ kon svake obrade podataka. https://koncesijski-sat.vercel.app/#opcina/4194
+ 2358B87600882063308
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-f24df396ea1206ed@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-936f5a5a81d50279@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270213
 DTEND;VALUE=DATE:20270214
 SUMMARY:Ističe koncesija: CVETNIĆ USLUŽNO PRIJEVOZNIČKI I TRGOVAČKI OB
@@ -20,10 +21,10 @@ SUMMARY:Ističe koncesija: CVETNIĆ USLUŽNO PRIJEVOZNIČKI I TRGOVAČKI OB
 DESCRIPTION:1 ugovor o koncesiji ističe 13. 2. 2027. Godišnja fiksna nakn
  ada: 1.001 €.\n\n• CVETNIĆ USLUŽNO PRIJEVOZNIČKI I TRGOVAČKI OBRT\
  , SINIŠA CVETNIĆ – Koncesija djelatnosti premještanja i uklanjanja ne
- propisno parkiranih i napuštenih vozila (SISAK)\, 1.001 €/god.\n\nProfi
- l općine: https://koncesijski-sat.vercel.app/#opcina/41942358B87600882063
- 308\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026
- .
+ propisno parkiranih i napuštenih vozila (SISAK) · davatelj: GRAD SISAK\,
+  1.001 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opc
+ ina/41942358B87600882063308\nIzvor: Registar koncesija (FINA)\, obrada Kon
+ cesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B87600882063308
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -34,17 +35,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-42486c3de103953d@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-373a90a257b42024@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20271113
 DTEND;VALUE=DATE:20271114
 SUMMARY:Ističe koncesija: ASPECT CROATIA KFT.
 DESCRIPTION:1 ugovor o koncesiji ističe 13. 11. 2027. Godišnja fiksna nak
  nada: 6.343 €.\n\n• ASPECT CROATIA KFT. – Dozvola za istraživanje u
- gljikovodika (prema Zakonu o ugljikovodicima) (SISAK)\, 6.343 €/god.\n\n
- Profil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B876008
- 82063308\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11.
-  2026.
+ gljikovodika (prema Zakonu o ugljikovodicima) (SISAK) · davatelj: MINISTA
+ RSTVO GOSPODARSTVA\, 6.343 €/god.\n\nProfil općine: https://koncesijski
+ -sat.vercel.app/#opcina/41942358B87600882063308\nIzvor: Registar koncesija
+  (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B87600882063308
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -54,8 +55,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-42486c3de103953d@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-373a90a257b42024@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270513
 DTEND;VALUE=DATE:20270514
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ASPECT CROATIA K
@@ -63,8 +64,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ASPECT CROATIA K
 DESCRIPTION:13. 11. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• ASPECT CROATIA KFT. – Dozvola za istraživanje ugljikovodika (
- prema Zakonu o ugljikovodicima) (SISAK)\, 6.343 €/god.\n\nProfil općine
- : https://koncesijski-sat.vercel.app/#opcina/41942358B87600882063308
+ prema Zakonu o ugljikovodicima) (SISAK) · davatelj: MINISTARSTVO GOSPODAR
+ STVA\, 6.343 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.ap
+ p/#opcina/41942358B87600882063308
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B87600882063308
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -75,16 +77,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-a7c3ebef447fdff8@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-24d468fb70ddbcda@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20271231
 DTEND;VALUE=DATE:20280101
 SUMMARY:Ističe koncesija: RADIO SISAK D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 31. 12. 2027. Godišnja fiksna nak
  nada: 133 €.\n\n• RADIO SISAK D.O.O. – Koncesija za obavljanje djela
- tnosti radija (SISAK)\, 133 €/god.\n\nProfil općine: https://koncesijsk
- i-sat.vercel.app/#opcina/41942358B87600882063308\nIzvor: Registar koncesij
- a (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ tnosti radija (SISAK) · davatelj: AGENCIJA ZA ELEKTRONIČKE MEDIJE\, 133 
+ €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
+ 42358B87600882063308\nIzvor: Registar koncesija (FINA)\, obrada Koncesijsk
+ i sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B87600882063308
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -94,8 +97,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-a7c3ebef447fdff8@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-24d468fb70ddbcda@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270630
 DTEND;VALUE=DATE:20270701
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (RADIO SISAK D.O.
@@ -103,8 +106,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (RADIO SISAK D.O.
 DESCRIPTION:31. 12. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• RADIO SISAK D.O.O. – Koncesija za obavljanje djelatnosti radij
- a (SISAK)\, 133 €/god.\n\nProfil općine: https://koncesijski-sat.vercel
- .app/#opcina/41942358B87600882063308
+ a (SISAK) · davatelj: AGENCIJA ZA ELEKTRONIČKE MEDIJE\, 133 €/god.\n\n
+ Profil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B876008
+ 82063308
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B87600882063308
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -115,16 +119,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-ca69f3630e22f670@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-657d328383e9fbe9@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20281001
 DTEND;VALUE=DATE:20281002
 SUMMARY:Ističe koncesija: BRODOCENTAR SISAK D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 1. 10. 2028. Godišnja fiksna nakn
  ada: 7.963 €.\n\n• BRODOCENTAR SISAK D.O.O. – Koncesija za luku (SIS
- AK)\, 7.963 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app
- /#opcina/41942358B87600882063308\nIzvor: Registar koncesija (FINA)\, obrad
- a Koncesijski sat 9. 11. 2026.
+ AK) · davatelj: LUČKA UPRAVA SISAK\, 7.963 €/god.\n\nProfil općine: h
+ ttps://koncesijski-sat.vercel.app/#opcina/41942358B87600882063308\nIzvor: 
+ Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B87600882063308
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -134,17 +138,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-ca69f3630e22f670@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-657d328383e9fbe9@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20280401
 DTEND;VALUE=DATE:20280402
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BRODOCENTAR SISA
  K D.O.O.)
 DESCRIPTION:1. 10. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
- .\n\n• BRODOCENTAR SISAK D.O.O. – Koncesija za luku (SISAK)\, 7.963 
- €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
- 42358B87600882063308
+ .\n\n• BRODOCENTAR SISAK D.O.O. – Koncesija za luku (SISAK) · davatel
+ j: LUČKA UPRAVA SISAK\, 7.963 €/god.\n\nProfil općine: https://koncesi
+ jski-sat.vercel.app/#opcina/41942358B87600882063308
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B87600882063308
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -155,8 +159,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-f13a1bbe5dfaf277@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-87c31fa09f9588e3@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20340909
 DTEND;VALUE=DATE:20340910
 SUMMARY:Ističe koncesija: DIMNJAČAR\, DIMNJAČARSKI OBRT\, VL. MARIO KUŠ
@@ -164,9 +168,9 @@ SUMMARY:Ističe koncesija: DIMNJAČAR\, DIMNJAČARSKI OBRT\, VL. MARIO KUŠ
 DESCRIPTION:1 ugovor o koncesiji ističe 9. 9. 2034. Godišnja fiksna nakna
  da: 1.001 €.\n\n• DIMNJAČAR\, DIMNJAČARSKI OBRT\, VL. MARIO KUŠAN\,
   MOŠĆENICA\, BANA TOME BAKAČA 4 – Koncesija za obavljanje dimnjačars
- kih poslova (SISAK)\, 1.001 €/god.\n\nProfil općine: https://koncesijsk
- i-sat.vercel.app/#opcina/41942358B87600882063308\nIzvor: Registar koncesij
- a (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ kih poslova (SISAK) · davatelj: GRAD SISAK\, 1.001 €/god.\n\nProfil op
+ ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B87600882063308\
+ nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B87600882063308
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -177,8 +181,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-f13a1bbe5dfaf277@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-87c31fa09f9588e3@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20340309
 DTEND;VALUE=DATE:20340310
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DIMNJAČAR\, DIM
@@ -187,8 +191,8 @@ DESCRIPTION:9. 9. 2034. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• DIMNJAČAR\, DIMNJAČARSKI OBRT\, VL. MARIO KUŠAN\, MOŠĆENICA\,
   BANA TOME BAKAČA 4 – Koncesija za obavljanje dimnjačarskih poslova (S
- ISAK)\, 1.001 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.a
- pp/#opcina/41942358B87600882063308
+ ISAK) · davatelj: GRAD SISAK\, 1.001 €/god.\n\nProfil općine: https://
+ koncesijski-sat.vercel.app/#opcina/41942358B87600882063308
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B87600882063308
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -200,16 +204,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-114f706d8635d335@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-956ce10dda021b6f@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20381227
 DTEND;VALUE=DATE:20381228
 SUMMARY:Ističe koncesija: HEP-TOPLINARSTVO  D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 27. 12. 2038.\n\n• HEP-TOPLINARS
  TVO  D.O.O. – Koncesija za obavljanje komunalne djelatnosti opskrbe topl
- inskom energijom (SISAK)\n\nProfil općine: https://koncesijski-sat.vercel
- .app/#opcina/41942358B87600882063308\nIzvor: Registar koncesija (FINA)\, o
- brada Koncesijski sat 9. 11. 2026.
+ inskom energijom (SISAK) · davatelj: GRAD SISAK\n\nProfil općine: https:
+ //koncesijski-sat.vercel.app/#opcina/41942358B87600882063308\nIzvor: Regis
+ tar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B87600882063308
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -219,8 +223,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-114f706d8635d335@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-956ce10dda021b6f@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20380627
 DTEND;VALUE=DATE:20380628
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP-TOPLINARSTVO
@@ -228,8 +232,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP-TOPLINARSTVO
 DESCRIPTION:27. 12. 2038. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• HEP-TOPLINARSTVO  D.O.O. – Koncesija za obavljanje komunalne d
- jelatnosti opskrbe toplinskom energijom (SISAK)\n\nProfil općine: https:/
- /koncesijski-sat.vercel.app/#opcina/41942358B87600882063308
+ jelatnosti opskrbe toplinskom energijom (SISAK) · davatelj: GRAD SISAK\n\
+ nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B87600
+ 882063308
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B87600882063308
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -240,16 +245,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-e4207b0a1f41346c@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-8f711fc5c798ee6a@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20420531
 DTEND;VALUE=DATE:20420601
 SUMMARY:Ističe koncesija: KISIKANA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 31. 5. 2042. Godišnja fiksna nakn
  ada: 2.277 €.\n\n• KISIKANA D.O.O. – Koncesija za zahvaćanje voda z
- a tehnološke potrebe (SISAK)\, 2.277 €/god.\n\nProfil općine: https://
- koncesijski-sat.vercel.app/#opcina/41942358B87600882063308\nIzvor: Regista
- r koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ a tehnološke potrebe (SISAK) · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠA 
+ I ZELENE TRANZICIJE\, 2.277 €/god.\n\nProfil općine: https://koncesijsk
+ i-sat.vercel.app/#opcina/41942358B87600882063308\nIzvor: Registar koncesij
+ a (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B87600882063308
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -259,16 +265,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-e4207b0a1f41346c@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-8f711fc5c798ee6a@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20411130
 DTEND;VALUE=DATE:20411201
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (KISIKANA D.O.O.)
 DESCRIPTION:31. 5. 2042. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• KISIKANA D.O.O. – Koncesija za zahvaćanje voda za tehnološke 
- potrebe (SISAK)\, 2.277 €/god.\n\nProfil općine: https://koncesijski-sa
- t.vercel.app/#opcina/41942358B87600882063308
+ potrebe (SISAK) · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠA I ZELENE TRANZ
+ ICIJE\, 2.277 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.a
+ pp/#opcina/41942358B87600882063308
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B87600882063308
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -279,16 +286,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-9eed74c814ffcd6c@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-2be4a751f366d5d1@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20520715
 DTEND;VALUE=DATE:20520716
 SUMMARY:Ističe koncesija: INA-INDUSTRIJA NAFTE  D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 15. 7. 2052. Godišnja fiksna nakn
  ada: 31.853 €.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zahva
- ćanje voda za tehnološke potrebe (SISAK)\, 31.853 €/god.\n\nProfil op
- ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B87600882063308\
- nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ ćanje voda za tehnološke potrebe (SISAK) · davatelj: MINISTARSTVO ZAŠT
+ ITE OKOLIŠA I ZELENE TRANZICIJE\, 31.853 €/god.\n\nProfil općine: http
+ s://koncesijski-sat.vercel.app/#opcina/41942358B87600882063308\nIzvor: Reg
+ istar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B87600882063308
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -298,8 +306,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-9eed74c814ffcd6c@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-2be4a751f366d5d1@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20520115
 DTEND;VALUE=DATE:20520116
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA-INDUSTRIJA N
@@ -307,8 +315,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA-INDUSTRIJA N
 DESCRIPTION:15. 7. 2052. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zahvaćanje voda za t
- ehnološke potrebe (SISAK)\, 31.853 €/god.\n\nProfil općine: https://ko
- ncesijski-sat.vercel.app/#opcina/41942358B87600882063308
+ ehnološke potrebe (SISAK) · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠA I Z
+ ELENE TRANZICIJE\, 31.853 €/god.\n\nProfil općine: https://koncesijski-
+ sat.vercel.app/#opcina/41942358B87600882063308
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B87600882063308
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -319,16 +328,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-a93a9fc70aede057@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-1041faf58c9049cb@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20520915
 DTEND;VALUE=DATE:20520916
 SUMMARY:Ističe koncesija: ABS SISAK D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 15. 9. 2052. Godišnja fiksna nakn
  ada: 31.853 €.\n\n• ABS SISAK D.O.O. – Koncesija za zahvaćanje voda
-  za tehnološke potrebe (SISAK)\, 31.853 €/god.\n\nProfil općine: https
- ://koncesijski-sat.vercel.app/#opcina/41942358B87600882063308\nIzvor: Regi
- star koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+  za tehnološke potrebe (SISAK) · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠ
+ A I ZELENE TRANZICIJE\, 31.853 €/god.\n\nProfil općine: https://koncesi
+ jski-sat.vercel.app/#opcina/41942358B87600882063308\nIzvor: Registar konce
+ sija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B87600882063308
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -338,8 +348,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-a93a9fc70aede057@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-1041faf58c9049cb@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20520315
 DTEND;VALUE=DATE:20520316
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ABS SISAK D.O.O.
@@ -347,8 +357,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ABS SISAK D.O.O.
 DESCRIPTION:15. 9. 2052. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• ABS SISAK D.O.O. – Koncesija za zahvaćanje voda za tehnološke
-  potrebe (SISAK)\, 31.853 €/god.\n\nProfil općine: https://koncesijski-
- sat.vercel.app/#opcina/41942358B87600882063308
+  potrebe (SISAK) · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠA I ZELENE TRAN
+ ZICIJE\, 31.853 €/god.\n\nProfil općine: https://koncesijski-sat.vercel
+ .app/#opcina/41942358B87600882063308
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B87600882063308
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -359,17 +370,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-9d247980ce352adf@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-9633cf717b6c41c5@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20550626
 DTEND;VALUE=DATE:20550627
 SUMMARY:Ističe koncesija: ASPECT CROATIA KFT. - PODRUŽNICA ZAGREB
 DESCRIPTION:1 ugovor o koncesiji ističe 26. 6. 2055. Godišnja fiksna nakn
  ada: 889 €.\n\n• ASPECT CROATIA KFT. - PODRUŽNICA ZAGREB – Dozvola 
- za istraživanje ugljikovodika (prema Zakonu o ugljikovodicima) (SISAK)\, 
- 889 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina
- /41942358B87600882063308\nIzvor: Registar koncesija (FINA)\, obrada Konces
- ijski sat 9. 11. 2026.
+ za istraživanje ugljikovodika (prema Zakonu o ugljikovodicima) (SISAK) ·
+  davatelj: MINISTARSTVO GOSPODARSTVA\, 889 €/god.\n\nProfil općine: htt
+ ps://koncesijski-sat.vercel.app/#opcina/41942358B87600882063308\nIzvor: Re
+ gistar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B87600882063308
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -379,8 +390,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-9d247980ce352adf@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-9633cf717b6c41c5@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20541226
 DTEND;VALUE=DATE:20541227
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ASPECT CROATIA K
@@ -388,9 +399,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ASPECT CROATIA K
 DESCRIPTION:26. 6. 2055. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• ASPECT CROATIA KFT. - PODRUŽNICA ZAGREB – Dozvola za istraživ
- anje ugljikovodika (prema Zakonu o ugljikovodicima) (SISAK)\, 889 €/god.
- \n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B87
- 600882063308
+ anje ugljikovodika (prema Zakonu o ugljikovodicima) (SISAK) · davatelj: M
+ INISTARSTVO GOSPODARSTVA\, 889 €/god.\n\nProfil općine: https://koncesi
+ jski-sat.vercel.app/#opcina/41942358B87600882063308
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B87600882063308
 TRANSP:TRANSPARENT
 BEGIN:VALARM

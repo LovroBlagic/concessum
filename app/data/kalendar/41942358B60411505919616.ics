@@ -4,24 +4,25 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Grad Križevci
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Grad Križevci. Iz Regis
- tra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podat
- aka. https://koncesijski-sat.vercel.app/#opcina/41942358B60411505919616
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Grad Križevci (pregled\
+ , svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježava s
+ e nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#opcina/
+ 41942358B60411505919616
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-066422af6cf793ad@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-922a67e7a83c7b91@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20271113
 DTEND;VALUE=DATE:20271114
 SUMMARY:Ističe koncesija: ASPECT CROATIA KFT.
 DESCRIPTION:1 ugovor o koncesiji ističe 13. 11. 2027. Godišnja fiksna nak
  nada: 1.934 €.\n\n• ASPECT CROATIA KFT. – Dozvola za istraživanje u
- gljikovodika (prema Zakonu o ugljikovodicima) (KRIŽEVCI)\, 1.934 €/god.
- \n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B60
- 411505919616\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9.
-  11. 2026.
+ gljikovodika (prema Zakonu o ugljikovodicima) (KRIŽEVCI) · davatelj: MIN
+ ISTARSTVO GOSPODARSTVA\, 1.934 €/god.\n\nProfil općine: https://koncesi
+ jski-sat.vercel.app/#opcina/41942358B60411505919616\nIzvor: Registar konce
+ sija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B60411505919616
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -31,8 +32,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-066422af6cf793ad@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-922a67e7a83c7b91@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270513
 DTEND;VALUE=DATE:20270514
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ASPECT CROATIA K
@@ -40,8 +41,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ASPECT CROATIA K
 DESCRIPTION:13. 11. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• ASPECT CROATIA KFT. – Dozvola za istraživanje ugljikovodika (
- prema Zakonu o ugljikovodicima) (KRIŽEVCI)\, 1.934 €/god.\n\nProfil op
- ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B60411505919616
+ prema Zakonu o ugljikovodicima) (KRIŽEVCI) · davatelj: MINISTARSTVO GOSP
+ ODARSTVA\, 1.934 €/god.\n\nProfil općine: https://koncesijski-sat.verce
+ l.app/#opcina/41942358B60411505919616
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B60411505919616
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -52,8 +54,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-18bc27892a25ce29@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-8dea26ac116eef4b@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20300223
 DTEND;VALUE=DATE:20300224
 SUMMARY:Ističe koncesija: OBITELJSKO POLJOPRIVREDNO GOSPODARSTVO\, JOSIP K
@@ -61,9 +63,10 @@ SUMMARY:Ističe koncesija: OBITELJSKO POLJOPRIVREDNO GOSPODARSTVO\, JOSIP K
 DESCRIPTION:1 ugovor o koncesiji ističe 23. 2. 2030. Godišnja fiksna nakn
  ada: 159 €.\n\n• OBITELJSKO POLJOPRIVREDNO GOSPODARSTVO\, JOSIP KAMENJ
  AK – Koncesija za zahvaćanje voda radi korištenja u proizvodnom postup
- ku (KRIŽEVCI)\, 159 €/god.\n\nProfil općine: https://koncesijski-sat.v
- ercel.app/#opcina/41942358B60411505919616\nIzvor: Registar koncesija (FINA
- )\, obrada Koncesijski sat 9. 11. 2026.
+ ku (KRIŽEVCI) · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠA I ZELENE TRANZI
+ CIJE\, 159 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/
+ #opcina/41942358B60411505919616\nIzvor: Registar koncesija (FINA)\, obrada
+  Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B60411505919616
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -74,8 +77,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-18bc27892a25ce29@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-8dea26ac116eef4b@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20290823
 DTEND;VALUE=DATE:20290824
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (OBITELJSKO POLJO
@@ -84,8 +87,9 @@ DESCRIPTION:23. 2. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• OBITELJSKO POLJOPRIVREDNO GOSPODARSTVO\, JOSIP KAMENJAK – Konce
  sija za zahvaćanje voda radi korištenja u proizvodnom postupku (KRIŽEVC
- I)\, 159 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#o
- pcina/41942358B60411505919616
+ I) · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠA I ZELENE TRANZICIJE\, 159 
+ €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
+ 42358B60411505919616
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B60411505919616
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -96,17 +100,18 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-32c2c9386e1707b2@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-523377f38def833f@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20381219
 DTEND;VALUE=DATE:20381220
 SUMMARY:Ističe koncesija: RADNIK-PLIN D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 19. 12. 2038. Godišnja fiksna nak
  nada: 1.327 €.\n\n• RADNIK-PLIN D.O.O. – Koncesija za obavljanje dis
  tribucije plina na postojećem distribucijskom sustavu (KRIŽEVCI\, SVETI 
- IVAN ŽABNO\, SVETI IVAN ŽABNO)\, 1.327 €/god.\n\nProfil općine: https
- ://koncesijski-sat.vercel.app/#opcina/41942358B60411505919616\nIzvor: Regi
- star koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ IVAN ŽABNO\, SVETI IVAN ŽABNO) · davatelj: KOPRIVNIČKO-KRIŽEVAČKA Ž
+ UPANIJA\, 1.327 €/god.\n\nProfil općine: https://koncesijski-sat.vercel
+ .app/#opcina/41942358B60411505919616\nIzvor: Registar koncesija (FINA)\, o
+ brada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B60411505919616
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -116,8 +121,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-32c2c9386e1707b2@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-523377f38def833f@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20380619
 DTEND;VALUE=DATE:20380620
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (RADNIK-PLIN D.O.
@@ -126,8 +131,9 @@ DESCRIPTION:19. 12. 2038. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• RADNIK-PLIN D.O.O. – Koncesija za obavljanje distribucije plin
  a na postojećem distribucijskom sustavu (KRIŽEVCI\, SVETI IVAN ŽABNO\, 
- SVETI IVAN ŽABNO)\, 1.327 €/god.\n\nProfil općine: https://koncesijski
- -sat.vercel.app/#opcina/41942358B60411505919616
+ SVETI IVAN ŽABNO) · davatelj: KOPRIVNIČKO-KRIŽEVAČKA ŽUPANIJA\, 1.32
+ 7 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4
+ 1942358B60411505919616
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B60411505919616
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -138,16 +144,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-aeb6c06ddbb4591f@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-08d53d97df6d9070@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20390601
 DTEND;VALUE=DATE:20390602
 SUMMARY:Ističe koncesija: KALNIČKE VODE BIO NATURA D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 1. 6. 2039.\n\n• KALNIČKE VODE 
  BIO NATURA D.D. – Koncesija za crpljenje mineralnih i termalnih voda (KR
- IŽEVCI)\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
- 42358B60411505919616\nIzvor: Registar koncesija (FINA)\, obrada Koncesijsk
- i sat 9. 11. 2026.
+ IŽEVCI) · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠA I ZELENE TRANZICIJE\n
+ \nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B6041
+ 1505919616\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 1
+ 1. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B60411505919616
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -157,8 +164,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-aeb6c06ddbb4591f@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-08d53d97df6d9070@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20381201
 DTEND;VALUE=DATE:20381202
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (KALNIČKE VODE B
@@ -166,8 +173,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (KALNIČKE VODE B
 DESCRIPTION:1. 6. 2039. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• KALNIČKE VODE BIO NATURA D.D. – Koncesija za crpljenje mineraln
- ih i termalnih voda (KRIŽEVCI)\n\nProfil općine: https://koncesijski-sat
- .vercel.app/#opcina/41942358B60411505919616
+ ih i termalnih voda (KRIŽEVCI) · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠ
+ A I ZELENE TRANZICIJE\n\nProfil općine: https://koncesijski-sat.vercel.ap
+ p/#opcina/41942358B60411505919616
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B60411505919616
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -178,17 +186,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-65b732a8d7f4624d@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-82f04c18b817a14e@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20390609
 DTEND;VALUE=DATE:20390610
 SUMMARY:Ističe koncesija: KALNIČKE VODE BIO NATURA D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 9. 6. 2039. Godišnja fiksna nakna
  da: 55.186 €.\n\n• KALNIČKE VODE BIO NATURA D.D. – Koncesija za zah
- vaćanje voda radi prodaje na tržištu (KRIŽEVCI)\, 55.186 €/god.\n\nP
- rofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B6041150
- 5919616\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 
- 2026.
+ vaćanje voda radi prodaje na tržištu (KRIŽEVCI) · davatelj: MINISTARS
+ TVO ZAŠTITE OKOLIŠA I ZELENE TRANZICIJE\, 55.186 €/god.\n\nProfil opć
+ ine: https://koncesijski-sat.vercel.app/#opcina/41942358B60411505919616\nI
+ zvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B60411505919616
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -198,8 +206,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-65b732a8d7f4624d@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-82f04c18b817a14e@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20381209
 DTEND;VALUE=DATE:20381210
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (KALNIČKE VODE B
@@ -207,8 +215,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (KALNIČKE VODE B
 DESCRIPTION:9. 6. 2039. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• KALNIČKE VODE BIO NATURA D.D. – Koncesija za zahvaćanje voda r
- adi prodaje na tržištu (KRIŽEVCI)\, 55.186 €/god.\n\nProfil općine: 
- https://koncesijski-sat.vercel.app/#opcina/41942358B60411505919616
+ adi prodaje na tržištu (KRIŽEVCI) · davatelj: MINISTARSTVO ZAŠTITE OK
+ OLIŠA I ZELENE TRANZICIJE\, 55.186 €/god.\n\nProfil općine: https://ko
+ ncesijski-sat.vercel.app/#opcina/41942358B60411505919616
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B60411505919616
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -219,17 +228,18 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-8d2ea0acb102f6c7@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-6970dcd932408364@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20451022
 DTEND;VALUE=DATE:20451023
 SUMMARY:Ističe koncesija: OBITELJSKO POLJOPRIVREDNO GOSPODARSTVO ANTUN RUK
  AVINA
 DESCRIPTION:1 ugovor o koncesiji ističe 22. 10. 2045.\n\n• OBITELJSKO PO
  LJOPRIVREDNO GOSPODARSTVO ANTUN RUKAVINA – Koncesija za zahvaćanje voda
-  za melioracijsko navodnjavanje (KRIŽEVCI)\n\nProfil općine: https://kon
- cesijski-sat.vercel.app/#opcina/41942358B60411505919616\nIzvor: Registar k
- oncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+  za melioracijsko navodnjavanje (KRIŽEVCI) · davatelj: MINISTARSTVO ZAŠ
+ TITE OKOLIŠA I ZELENE TRANZICIJE\n\nProfil općine: https://koncesijski-s
+ at.vercel.app/#opcina/41942358B60411505919616\nIzvor: Registar koncesija (
+ FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B60411505919616
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -240,8 +250,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-8d2ea0acb102f6c7@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-6970dcd932408364@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20450422
 DTEND;VALUE=DATE:20450423
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (OBITELJSKO POLJO
@@ -249,9 +259,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (OBITELJSKO POLJO
 DESCRIPTION:22. 10. 2045. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• OBITELJSKO POLJOPRIVREDNO GOSPODARSTVO ANTUN RUKAVINA – Konces
- ija za zahvaćanje voda za melioracijsko navodnjavanje (KRIŽEVCI)\n\nProf
- il općine: https://koncesijski-sat.vercel.app/#opcina/41942358B6041150591
- 9616
+ ija za zahvaćanje voda za melioracijsko navodnjavanje (KRIŽEVCI) · dava
+ telj: MINISTARSTVO ZAŠTITE OKOLIŠA I ZELENE TRANZICIJE\n\nProfil općine
+ : https://koncesijski-sat.vercel.app/#opcina/41942358B60411505919616
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B60411505919616
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -262,16 +272,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-e20d84c0f14135a1@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-c3aee72da646f660@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20451231
 DTEND;VALUE=DATE:20460101
 SUMMARY:Ističe koncesija: RADIO KRIŽEVCI D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 31. 12. 2045. Godišnja fiksna nak
  nada: 66 €.\n\n• RADIO KRIŽEVCI D.O.O. – Koncesija za obavljanje dj
- elatnosti radija (KRIŽEVCI)\, 66 €/god.\n\nProfil općine: https://konc
- esijski-sat.vercel.app/#opcina/41942358B60411505919616\nIzvor: Registar ko
- ncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ elatnosti radija (KRIŽEVCI) · davatelj: AGENCIJA ZA ELEKTRONIČKE MEDIJE
+ \, 66 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opci
+ na/41942358B60411505919616\nIzvor: Registar koncesija (FINA)\, obrada Konc
+ esijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B60411505919616
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -281,8 +292,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-e20d84c0f14135a1@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-c3aee72da646f660@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20450630
 DTEND;VALUE=DATE:20450701
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (RADIO KRIŽEVCI 
@@ -290,8 +301,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (RADIO KRIŽEVCI
 DESCRIPTION:31. 12. 2045. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• RADIO KRIŽEVCI D.O.O. – Koncesija za obavljanje djelatnosti r
- adija (KRIŽEVCI)\, 66 €/god.\n\nProfil općine: https://koncesijski-sat
- .vercel.app/#opcina/41942358B60411505919616
+ adija (KRIŽEVCI) · davatelj: AGENCIJA ZA ELEKTRONIČKE MEDIJE\, 66 €/g
+ od.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358
+ B60411505919616
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B60411505919616
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -302,16 +314,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-181db93ec767884f@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-180e50f77f73f29f@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20481109
 DTEND;VALUE=DATE:20481110
 SUMMARY:Ističe koncesija: ATLANTIC CEDEVITA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 9. 11. 2048. Godišnja fiksna nakn
  ada: 13.936 €.\n\n• ATLANTIC CEDEVITA D.O.O. – Koncesija za zahvaća
- nje voda radi prodaje na tržištu (KRIŽEVCI)\, 13.936 €/god.\n\nProfil
-  općine: https://koncesijski-sat.vercel.app/#opcina/41942358B604115059196
- 16\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ nje voda radi prodaje na tržištu (KRIŽEVCI) · davatelj: MINISTARSTVO Z
+ AŠTITE OKOLIŠA I ZELENE TRANZICIJE\, 13.936 €/god.\n\nProfil općine: 
+ https://koncesijski-sat.vercel.app/#opcina/41942358B60411505919616\nIzvor:
+  Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B60411505919616
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -321,8 +334,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-181db93ec767884f@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-180e50f77f73f29f@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20480509
 DTEND;VALUE=DATE:20480510
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ATLANTIC CEDEVIT
@@ -330,8 +343,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ATLANTIC CEDEVIT
 DESCRIPTION:9. 11. 2048. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• ATLANTIC CEDEVITA D.O.O. – Koncesija za zahvaćanje voda radi p
- rodaje na tržištu (KRIŽEVCI)\, 13.936 €/god.\n\nProfil općine: https
- ://koncesijski-sat.vercel.app/#opcina/41942358B60411505919616
+ rodaje na tržištu (KRIŽEVCI) · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠ
+ A I ZELENE TRANZICIJE\, 13.936 €/god.\n\nProfil općine: https://koncesi
+ jski-sat.vercel.app/#opcina/41942358B60411505919616
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B60411505919616
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -342,16 +356,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-dad36d6ce95afd04@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-232eed6ed222448a@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20481121
 DTEND;VALUE=DATE:20481122
 SUMMARY:Ističe koncesija: BILOKALNIK-IPA D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 21. 11. 2048. Godišnja fiksna nak
  nada: 9.025 €.\n\n• BILOKALNIK-IPA D.D. – Koncesija za zahvaćanje v
- oda za tehnološke potrebe (KRIŽEVCI)\, 9.025 €/god.\n\nProfil općine:
-  https://koncesijski-sat.vercel.app/#opcina/41942358B60411505919616\nIzvor
- : Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ oda za tehnološke potrebe (KRIŽEVCI) · davatelj: MINISTARSTVO ZAŠTITE 
+ OKOLIŠA I ZELENE TRANZICIJE\, 9.025 €/god.\n\nProfil općine: https://k
+ oncesijski-sat.vercel.app/#opcina/41942358B60411505919616\nIzvor: Registar
+  koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B60411505919616
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -361,8 +376,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-dad36d6ce95afd04@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-232eed6ed222448a@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20480521
 DTEND;VALUE=DATE:20480522
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BILOKALNIK-IPA D
@@ -370,8 +385,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BILOKALNIK-IPA D
 DESCRIPTION:21. 11. 2048. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• BILOKALNIK-IPA D.D. – Koncesija za zahvaćanje voda za tehnolo
- ške potrebe (KRIŽEVCI)\, 9.025 €/god.\n\nProfil općine: https://konce
- sijski-sat.vercel.app/#opcina/41942358B60411505919616
+ ške potrebe (KRIŽEVCI) · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠA I ZEL
+ ENE TRANZICIJE\, 9.025 €/god.\n\nProfil općine: https://koncesijski-sat
+ .vercel.app/#opcina/41942358B60411505919616
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B60411505919616
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -382,21 +398,25 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-f321791143c471c4@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-699b5b74771cc877@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20510212
 DTEND;VALUE=DATE:20510213
 SUMMARY:Ističe 4 koncesije · Križevci
 DESCRIPTION:4 ugovora o koncesiji ističe 12. 2. 2051. Godišnja fiksna nak
  nada: 116.264 €.\n\n• ATLANTIC CEDEVITA D.O.O. – Koncesija za zahva
- ćanje voda radi prodaje na tržištu (KRIŽEVCI)\, 29.066 €/god.\n• A
- TLANTIC CEDEVITA D.O.O. – Koncesija za zahvaćanje voda za tehnološke p
- otrebe (KRIŽEVCI)\, 29.066 €/god.\n• ATLANTIC CEDEVITA D.O.O. – Kon
- cesija za zahvaćanje voda za tehnološke potrebe (KRIŽEVCI)\, 29.066 €
- /god.\n• ATLANTIC CEDEVITA D.O.O. – Koncesija za zahvaćanje voda radi
-  prodaje na tržištu (KRIŽEVCI)\, 29.066 €/god.\n\nProfil općine: htt
- ps://koncesijski-sat.vercel.app/#opcina/41942358B60411505919616\nIzvor: Re
- gistar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ ćanje voda radi prodaje na tržištu (KRIŽEVCI) · davatelj: MINISTARSTV
+ O ZAŠTITE OKOLIŠA I ZELENE TRANZICIJE\, 29.066 €/god.\n• ATLANTIC CE
+ DEVITA D.O.O. – Koncesija za zahvaćanje voda za tehnološke potrebe (KR
+ IŽEVCI) · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠA I ZELENE TRANZICIJE\,
+  29.066 €/god.\n• ATLANTIC CEDEVITA D.O.O. – Koncesija za zahvaćanj
+ e voda za tehnološke potrebe (KRIŽEVCI) · davatelj: MINISTARSTVO ZAŠTI
+ TE OKOLIŠA I ZELENE TRANZICIJE\, 29.066 €/god.\n• ATLANTIC CEDEVITA D
+ .O.O. – Koncesija za zahvaćanje voda radi prodaje na tržištu (KRIŽEV
+ CI) · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠA I ZELENE TRANZICIJE\, 29.0
+ 66 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/
+ 41942358B60411505919616\nIzvor: Registar koncesija (FINA)\, obrada Koncesi
+ jski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B60411505919616
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -406,41 +426,45 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-f321791143c471c4@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-699b5b74771cc877@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20500812
 DTEND;VALUE=DATE:20500813
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 4 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 4 koncesije · Križevci
 DESCRIPTION:12. 2. 2051. ističe 4 ugovora o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• ATLANTIC CEDEVITA D.O.O. – Koncesija za zahvaćanje voda radi 
- prodaje na tržištu (KRIŽEVCI)\, 29.066 €/god.\n• ATLANTIC CEDEVITA 
- D.O.O. – Koncesija za zahvaćanje voda za tehnološke potrebe (KRIŽEVCI
- )\, 29.066 €/god.\n• ATLANTIC CEDEVITA D.O.O. – Koncesija za zahvać
- anje voda za tehnološke potrebe (KRIŽEVCI)\, 29.066 €/god.\n• ATLANT
- IC CEDEVITA D.O.O. – Koncesija za zahvaćanje voda radi prodaje na trži
- štu (KRIŽEVCI)\, 29.066 €/god.\n\nProfil općine: https://koncesijski-
- sat.vercel.app/#opcina/41942358B60411505919616
+ prodaje na tržištu (KRIŽEVCI) · davatelj: MINISTARSTVO ZAŠTITE OKOLI
+ ŠA I ZELENE TRANZICIJE\, 29.066 €/god.\n• ATLANTIC CEDEVITA D.O.O. 
+ – Koncesija za zahvaćanje voda za tehnološke potrebe (KRIŽEVCI) · da
+ vatelj: MINISTARSTVO ZAŠTITE OKOLIŠA I ZELENE TRANZICIJE\, 29.066 €/go
+ d.\n• ATLANTIC CEDEVITA D.O.O. – Koncesija za zahvaćanje voda za tehn
+ ološke potrebe (KRIŽEVCI) · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠA I 
+ ZELENE TRANZICIJE\, 29.066 €/god.\n• ATLANTIC CEDEVITA D.O.O. – Konc
+ esija za zahvaćanje voda radi prodaje na tržištu (KRIŽEVCI) · davatel
+ j: MINISTARSTVO ZAŠTITE OKOLIŠA I ZELENE TRANZICIJE\, 29.066 €/god.\n\
+ nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B60411
+ 505919616
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B60411505919616
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 4 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 4 koncesije · Križevci
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-2f824a9e2d8726a6@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-7bbc97e952263ac3@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20550626
 DTEND;VALUE=DATE:20550627
 SUMMARY:Ističe koncesija: ASPECT CROATIA KFT. - PODRUŽNICA ZAGREB
 DESCRIPTION:1 ugovor o koncesiji ističe 26. 6. 2055. Godišnja fiksna nakn
  ada: 6.512 €.\n\n• ASPECT CROATIA KFT. - PODRUŽNICA ZAGREB – Dozvol
  a za istraživanje ugljikovodika (prema Zakonu o ugljikovodicima) (KRIŽEV
- CI)\, 6.512 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app
- /#opcina/41942358B60411505919616\nIzvor: Registar koncesija (FINA)\, obrad
- a Koncesijski sat 9. 11. 2026.
+ CI) · davatelj: MINISTARSTVO GOSPODARSTVA\, 6.512 €/god.\n\nProfil opć
+ ine: https://koncesijski-sat.vercel.app/#opcina/41942358B60411505919616\nI
+ zvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B60411505919616
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -450,8 +474,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-2f824a9e2d8726a6@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-7bbc97e952263ac3@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20541226
 DTEND;VALUE=DATE:20541227
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ASPECT CROATIA K
@@ -459,9 +483,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ASPECT CROATIA K
 DESCRIPTION:26. 6. 2055. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• ASPECT CROATIA KFT. - PODRUŽNICA ZAGREB – Dozvola za istraživ
- anje ugljikovodika (prema Zakonu o ugljikovodicima) (KRIŽEVCI)\, 6.512 
- €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
- 42358B60411505919616
+ anje ugljikovodika (prema Zakonu o ugljikovodicima) (KRIŽEVCI) · davatel
+ j: MINISTARSTVO GOSPODARSTVA\, 6.512 €/god.\n\nProfil općine: https://k
+ oncesijski-sat.vercel.app/#opcina/41942358B60411505919616
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B60411505919616
 TRANSP:TRANSPARENT
 BEGIN:VALARM

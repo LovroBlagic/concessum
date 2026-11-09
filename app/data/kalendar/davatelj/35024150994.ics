@@ -1,0 +1,59 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · OPĆINA ŠANDROVAC
+X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje OPĆINA ŠANDROVAC. Iz Reg
+ istra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade pod
+ ataka. https://koncesijski-sat.vercel.app/#sat
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-eb06e317e18bf0d9@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20281124
+DTEND;VALUE=DATE:20281125
+SUMMARY:Ističe 2 koncesije · OPĆINA ŠANDROVAC
+DESCRIPTION:2 ugovora o koncesiji ističe 24. 11. 2028. Godišnja fiksna na
+ knada: 400 €.\n\n• IVAN GALOVIĆ\, DIMNJAČARSTVO GALOVIĆ\, VL. IVAN 
+ GALOVIĆ – Koncesija za obavljanje dimnjačarskih poslova (ŠANDROVAC\, 
+ Općina Šandrovac)\, 200 €/god.\n• IVAN GALOVIĆ\, DIMNJAČARSTVO GAL
+ OVIĆ\, VL. IVAN GALOVIĆ – Koncesija za obavljanje dimnjačarskih poslo
+ va (ŠANDROVAC\, Općina Šandrovac)\, 200 €/god.\n\nŠto ističe: https
+ ://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obr
+ ada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 2 koncesije · OPĆINA ŠANDROVAC
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-eb06e317e18bf0d9@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20280524
+DTEND;VALUE=DATE:20280525
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · OPĆINA ŠANDR
+ OVAC
+DESCRIPTION:24. 11. 2028. ističe 2 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• IVAN GALOVIĆ\, DIMNJAČARSTVO GALOVIĆ\, VL. IVAN GALOVIĆ –
+  Koncesija za obavljanje dimnjačarskih poslova (ŠANDROVAC\, Općina Šan
+ drovac)\, 200 €/god.\n• IVAN GALOVIĆ\, DIMNJAČARSTVO GALOVIĆ\, VL. 
+ IVAN GALOVIĆ – Koncesija za obavljanje dimnjačarskih poslova (ŠANDROV
+ AC\, Općina Šandrovac)\, 200 €/god.\n\nŠto ističe: https://koncesijs
+ ki-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije · OPĆINA Š
+ ANDROVAC
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

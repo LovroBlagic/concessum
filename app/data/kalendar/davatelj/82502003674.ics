@@ -1,0 +1,35 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · OPĆINA TOPUSKO
+X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje OPĆINA TOPUSKO. Iz Regist
+ ra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podata
+ ka. https://koncesijski-sat.vercel.app/#sat
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-25ec9ce8ac17ad07@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:Ističe koncesija: TIHOMIR KUŠAN\, DIMNJAČARSKA RADNJA KUŠAN TIH
+ OMIR
+DESCRIPTION:1 ugovor o koncesiji ističe 20. 12. 2026. Godišnja fiksna nak
+ nada: 239 €.\n\n• TIHOMIR KUŠAN\, DIMNJAČARSKA RADNJA KUŠAN TIHOMIR
+  – Koncesija za obavljanje dimnjačarskih poslova (TOPUSKO\, Općina Top
+ usko)\, 239 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#
+ sat\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026
+ .
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: TIHOMIR KUŠAN\, DIMNJAČARSKA RADNJA KUŠAN
+  TIHOMIR
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

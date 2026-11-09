@@ -4,23 +4,25 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Općina Rasinja
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Rasinja. Iz Regi
- stra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade poda
- taka. https://koncesijski-sat.vercel.app/#opcina/41942358B77437021683980
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Općina Rasinja (pregled
+ \, svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježava 
+ se nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#opcina
+ /41942358B77437021683980
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-c04a19f4699e501d@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-413a56f76d4ff327@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:Ističe koncesija: INA\, D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 30. 11. 2026. Godišnja fiksna nak
  nada: 207 €.\n\n• INA\, D.D. – Dozvola za istraživanje ugljikovodik
- a (prema Zakonu o ugljikovodicima) (RASINJA)\, 207 €/god.\n\nProfil opć
- ine: https://koncesijski-sat.vercel.app/#opcina/41942358B77437021683980\nI
- zvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ a (prema Zakonu o ugljikovodicima) (RASINJA) · davatelj: MINISTARSTVO GOS
+ PODARSTVA\, 207 €/god.\n\nProfil općine: https://koncesijski-sat.vercel
+ .app/#opcina/41942358B77437021683980\nIzvor: Registar koncesija (FINA)\, o
+ brada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B77437021683980
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -30,20 +32,21 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-727bda396af05f73@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-238f4dca6495cd9c@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
 SUMMARY:Ističe 3 koncesije · Rasinja
 DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2026. Godišnja fiksna na
  knada: 1.558 €.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauze
- tu površinu odobrenog eksploatacijskog polja (RASINJA)\, 1.558 €/god.\n
- • INA-INDUSTRIJA NAFTE  D.D. – Dozvola za eksploataciju ugljikovodika 
- (prema Zakonu o ugljikovodicima) (RASINJA)\n• INA D.D. – Dozvola za ek
- sploataciju ugljikovodika (prema Zakonu o ugljikovodicima) (RASINJA)\n\nPr
- ofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B77437021
- 683980\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2
- 026.
+ tu površinu odobrenog eksploatacijskog polja (RASINJA) · davatelj: MINIS
+ TARSTVO GOSPODARSTVA\, 1.558 €/god.\n• INA-INDUSTRIJA NAFTE  D.D. – 
+ Dozvola za eksploataciju ugljikovodika (prema Zakonu o ugljikovodicima) (R
+ ASINJA) · davatelj: MINISTARSTVO GOSPODARSTVA\n• INA D.D. – Dozvola z
+ a eksploataciju ugljikovodika (prema Zakonu o ugljikovodicima) (RASINJA) 
+ · davatelj: MINISTARSTVO GOSPODARSTVA\n\nProfil općine: https://koncesij
+ ski-sat.vercel.app/#opcina/41942358B77437021683980\nIzvor: Registar konces
+ ija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B77437021683980
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -53,17 +56,18 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-ab0bba5631c5198c@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-57a17c6a8f1c642a@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270630
 DTEND;VALUE=DATE:20270701
 SUMMARY:Ističe 2 koncesije · Rasinja
 DESCRIPTION:2 ugovora o koncesiji ističe 30. 6. 2027.\n\n• INA D.D. – 
  Dozvola za eksploataciju ugljikovodika (prema Zakonu o ugljikovodicima) (R
- ASINJA)\n• INA-INDUSTRIJA NAFTE  D.D. – Dozvola za eksploataciju uglji
- kovodika (prema Zakonu o ugljikovodicima) (RASINJA)\n\nProfil općine: htt
- ps://koncesijski-sat.vercel.app/#opcina/41942358B77437021683980\nIzvor: Re
- gistar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ ASINJA) · davatelj: MINISTARSTVO GOSPODARSTVA\n• INA-INDUSTRIJA NAFTE  
+ D.D. – Dozvola za eksploataciju ugljikovodika (prema Zakonu o ugljikovod
+ icima) (RASINJA) · davatelj: MINISTARSTVO GOSPODARSTVA\n\nProfil općine:
+  https://koncesijski-sat.vercel.app/#opcina/41942358B77437021683980\nIzvor
+ : Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B77437021683980
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -73,39 +77,40 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-ab0bba5631c5198c@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-57a17c6a8f1c642a@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20261230
 DTEND;VALUE=DATE:20261231
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Rasinja
 DESCRIPTION:30. 6. 2027. ističe 2 ugovora o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• INA D.D. – Dozvola za eksploataciju ugljikovodika (prema Zakon
- u o ugljikovodicima) (RASINJA)\n• INA-INDUSTRIJA NAFTE  D.D. – Dozvola
-  za eksploataciju ugljikovodika (prema Zakonu o ugljikovodicima) (RASINJA)
- \n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B77
- 437021683980
+ u o ugljikovodicima) (RASINJA) · davatelj: MINISTARSTVO GOSPODARSTVA\n•
+  INA-INDUSTRIJA NAFTE  D.D. – Dozvola za eksploataciju ugljikovodika (pr
+ ema Zakonu o ugljikovodicima) (RASINJA) · davatelj: MINISTARSTVO GOSPODAR
+ STVA\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4194235
+ 8B77437021683980
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B77437021683980
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Rasinja
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-8cad4ec738f57554@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-a583115d48b3f6fd@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20310930
 DTEND;VALUE=DATE:20311001
 SUMMARY:Ističe koncesija: KRANJEC\, OBRT ZA DIMNJAČARSKE USLUGE\, VL. BO
  ŽIDAR TRANJEC
 DESCRIPTION:1 ugovor o koncesiji ističe 30. 9. 2031. Godišnja fiksna nakn
  ada: 50 €.\n\n• KRANJEC\, OBRT ZA DIMNJAČARSKE USLUGE\, VL. BOŽIDAR 
- TRANJEC – Koncesija za obavljanje komunalnih djelatnosti (RASINJA)\, 50 
- €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
- 42358B77437021683980\nIzvor: Registar koncesija (FINA)\, obrada Koncesijsk
- i sat 9. 11. 2026.
+ TRANJEC – Koncesija za obavljanje komunalnih djelatnosti (RASINJA) · da
+ vatelj: OPĆINA RASINJA\, 50 €/god.\n\nProfil općine: https://koncesijs
+ ki-sat.vercel.app/#opcina/41942358B77437021683980\nIzvor: Registar koncesi
+ ja (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B77437021683980
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -116,8 +121,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-8cad4ec738f57554@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-a583115d48b3f6fd@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20310330
 DTEND;VALUE=DATE:20310331
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (KRANJEC\, OBRT Z
@@ -125,9 +130,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (KRANJEC\, OBRT Z
 DESCRIPTION:30. 9. 2031. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• KRANJEC\, OBRT ZA DIMNJAČARSKE USLUGE\, VL. BOŽIDAR TRANJEC –
-  Koncesija za obavljanje komunalnih djelatnosti (RASINJA)\, 50 €/god.\n\
- nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B77437
- 021683980
+  Koncesija za obavljanje komunalnih djelatnosti (RASINJA) · davatelj: OP
+ ĆINA RASINJA\, 50 €/god.\n\nProfil općine: https://koncesijski-sat.ver
+ cel.app/#opcina/41942358B77437021683980
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B77437021683980
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -138,17 +143,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-ec03f39716296a0b@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-f2ad54f7a173a871@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20500212
 DTEND;VALUE=DATE:20500213
 SUMMARY:Ističe koncesija: BUKOTERMAL D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 12. 2. 2050. Godišnja fiksna nakn
  ada: 3.302 €.\n\n• BUKOTERMAL D.O.O. – Dozvola za eksploataciju geot
  ermalne vode za energetske svrhe (prema Zakonu o ugljikovodicima) (RASINJA
- )\, 3.302 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#
- opcina/41942358B77437021683980\nIzvor: Registar koncesija (FINA)\, obrada 
- Koncesijski sat 9. 11. 2026.
+ ) · davatelj: MINISTARSTVO GOSPODARSTVA\, 3.302 €/god.\n\nProfil općin
+ e: https://koncesijski-sat.vercel.app/#opcina/41942358B77437021683980\nIzv
+ or: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B77437021683980
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -158,8 +163,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-ec03f39716296a0b@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-f2ad54f7a173a871@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20490812
 DTEND;VALUE=DATE:20490813
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BUKOTERMAL D.O.O
@@ -167,9 +172,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BUKOTERMAL D.O.O
 DESCRIPTION:12. 2. 2050. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• BUKOTERMAL D.O.O. – Dozvola za eksploataciju geotermalne vode z
- a energetske svrhe (prema Zakonu o ugljikovodicima) (RASINJA)\, 3.302 €/
- god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4194235
- 8B77437021683980
+ a energetske svrhe (prema Zakonu o ugljikovodicima) (RASINJA) · davatelj:
+  MINISTARSTVO GOSPODARSTVA\, 3.302 €/god.\n\nProfil općine: https://kon
+ cesijski-sat.vercel.app/#opcina/41942358B77437021683980
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B77437021683980
 TRANSP:TRANSPARENT
 BEGIN:VALARM

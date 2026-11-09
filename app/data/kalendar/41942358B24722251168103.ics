@@ -4,23 +4,25 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Grad Vodice
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Grad Vodice. Iz Registra
-  koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podataka
- . https://koncesijski-sat.vercel.app/#opcina/41942358B24722251168103
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Grad Vodice (pregled\, s
+ vi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježava se n
+ akon svake obrade podataka. https://koncesijski-sat.vercel.app/#opcina/419
+ 42358B24722251168103
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-f3a81665366661ec@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-532c43ecf3cc35ae@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270215
 DTEND;VALUE=DATE:20270216
 SUMMARY:Ističe koncesija: GRADSKO PODUZEĆE D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 15. 2. 2027. Godišnja fiksna nakn
  ada: 7.220 €.\n\n• GRADSKO PODUZEĆE D.O.O. – Koncesija na pomorskom
-  dobru (VODICE)\, 7.220 €/god.\n\nProfil općine: https://koncesijski-sa
- t.vercel.app/#opcina/41942358B24722251168103\nIzvor: Registar koncesija (F
- INA)\, obrada Koncesijski sat 9. 11. 2026.
+  dobru (VODICE) · davatelj: ŠIBENSKO-KNINSKA ŽUPANIJA\, 7.220 €/god.\
+ n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B247
+ 22251168103\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 
+ 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B24722251168103
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -30,16 +32,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-a58e2f7ffbc2be03@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-d4137e683341a8db@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20280614
 DTEND;VALUE=DATE:20280615
 SUMMARY:Ističe koncesija: GRADSKO PODUZEĆE D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 14. 6. 2028. Godišnja fiksna nakn
  ada: 555 €.\n\n• GRADSKO PODUZEĆE D.O.O. – Koncesija za obavljanje 
- djelatnosti organizacije parkiranja (VODICE)\, 555 €/god.\n\nProfil opć
- ine: https://koncesijski-sat.vercel.app/#opcina/41942358B24722251168103\nI
- zvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ djelatnosti organizacije parkiranja (VODICE) · davatelj: ŠIBENSKO-KNINSK
+ A ŽUPANIJA\, 555 €/god.\n\nProfil općine: https://koncesijski-sat.verc
+ el.app/#opcina/41942358B24722251168103\nIzvor: Registar koncesija (FINA)\,
+  obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B24722251168103
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -49,8 +52,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-a58e2f7ffbc2be03@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-d4137e683341a8db@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20271214
 DTEND;VALUE=DATE:20271215
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (GRADSKO PODUZEĆ
@@ -58,8 +61,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (GRADSKO PODUZEĆ
 DESCRIPTION:14. 6. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• GRADSKO PODUZEĆE D.O.O. – Koncesija za obavljanje djelatnosti 
- organizacije parkiranja (VODICE)\, 555 €/god.\n\nProfil općine: https:/
- /koncesijski-sat.vercel.app/#opcina/41942358B24722251168103
+ organizacije parkiranja (VODICE) · davatelj: ŠIBENSKO-KNINSKA ŽUPANIJA\
+ , 555 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opci
+ na/41942358B24722251168103
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B24722251168103
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -70,16 +74,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-f3a89bbbd744112e@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-80abb09912e6985f@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20301231
 DTEND;VALUE=DATE:20310101
 SUMMARY:Ističe koncesija: ACI D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 31. 12. 2030. Godišnja fiksna nak
  nada: 6.786 €.\n\n• ACI D.D. – Koncesija na pomorskom dobru (VODICE)
- \, 6.786 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#o
- pcina/41942358B24722251168103\nIzvor: Registar koncesija (FINA)\, obrada K
- oncesijski sat 9. 11. 2026.
+  · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\, 6.786 €/god
+ .\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B2
+ 4722251168103\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9
+ . 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B24722251168103
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -89,16 +94,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-f3a89bbbd744112e@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-80abb09912e6985f@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20300630
 DTEND;VALUE=DATE:20300701
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ACI D.D.)
 DESCRIPTION:31. 12. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
- a.\n\n• ACI D.D. – Koncesija na pomorskom dobru (VODICE)\, 6.786 €/g
- od.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358
- B24722251168103
+ a.\n\n• ACI D.D. – Koncesija na pomorskom dobru (VODICE) · davatelj: 
+ MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\, 6.786 €/god.\n\nProfil op
+ ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B24722251168103
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B24722251168103
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -108,16 +113,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-516d28a8056d995c@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-041382b674c69f48@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20360612
 DTEND;VALUE=DATE:20360613
 SUMMARY:Ističe koncesija: HRVATSKI OPERATOR PRIJENOSNOG SUSTAVA D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 12. 6. 2036. Godišnja fiksna nakn
  ada: 972 €.\n\n• HRVATSKI OPERATOR PRIJENOSNOG SUSTAVA D.D. – Konces
- ija na pomorskom dobru (VODICE)\, 972 €/god.\n\nProfil općine: https://
- koncesijski-sat.vercel.app/#opcina/41942358B24722251168103\nIzvor: Regista
- r koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ ija na pomorskom dobru (VODICE) · davatelj: MINISTARSTVO MORA\, PROMETA I
+  INFRASTRUKTURE\, 972 €/god.\n\nProfil općine: https://koncesijski-sat.
+ vercel.app/#opcina/41942358B24722251168103\nIzvor: Registar koncesija (FIN
+ A)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B24722251168103
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -127,8 +133,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-516d28a8056d995c@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-041382b674c69f48@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20351212
 DTEND;VALUE=DATE:20351213
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKI OPERATO
@@ -136,8 +142,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKI OPERATO
 DESCRIPTION:12. 6. 2036. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• HRVATSKI OPERATOR PRIJENOSNOG SUSTAVA D.D. – Koncesija na pomor
- skom dobru (VODICE)\, 972 €/god.\n\nProfil općine: https://koncesijski-
- sat.vercel.app/#opcina/41942358B24722251168103
+ skom dobru (VODICE) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKT
+ URE\, 972 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#
+ opcina/41942358B24722251168103
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B24722251168103
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -148,16 +155,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-5ca92851b048cd5e@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-f6d790a454345d3a@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20390409
 DTEND;VALUE=DATE:20390410
 SUMMARY:Ističe koncesija: VODOVOD I ODVODNJA D.O.O.RN.POS.NAM
 DESCRIPTION:1 ugovor o koncesiji ističe 9. 4. 2039. Godišnja fiksna nakna
  da: 93 €.\n\n• VODOVOD I ODVODNJA D.O.O.RN.POS.NAM – Posebna upotreb
- a pomorskog dobra (VODICE)\, 93 €/god.\n\nProfil općine: https://konces
- ijski-sat.vercel.app/#opcina/41942358B24722251168103\nIzvor: Registar konc
- esija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ a pomorskog dobra (VODICE) · davatelj: ŠIBENSKO-KNINSKA ŽUPANIJA\, 93 
+ €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
+ 42358B24722251168103\nIzvor: Registar koncesija (FINA)\, obrada Koncesijsk
+ i sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B24722251168103
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -167,8 +175,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-5ca92851b048cd5e@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-f6d790a454345d3a@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20381009
 DTEND;VALUE=DATE:20381010
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VODOVOD I ODVODN
@@ -176,8 +184,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VODOVOD I ODVODN
 DESCRIPTION:9. 4. 2039. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• VODOVOD I ODVODNJA D.O.O.RN.POS.NAM – Posebna upotreba pomorskog
-  dobra (VODICE)\, 93 €/god.\n\nProfil općine: https://koncesijski-sat.v
- ercel.app/#opcina/41942358B24722251168103
+  dobra (VODICE) · davatelj: ŠIBENSKO-KNINSKA ŽUPANIJA\, 93 €/god.\n\n
+ Profil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B247222
+ 51168103
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B24722251168103
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -188,16 +197,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-d6f25b00f7d9023b@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-9b361291066da0ee@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20391204
 DTEND;VALUE=DATE:20391205
 SUMMARY:Ističe koncesija: HEP - OPERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 4. 12. 2039. Godišnja fiksna nakn
  ada: 1.539 €.\n\n• HEP - OPERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O. – K
- oncesija na pomorskom dobru (VODICE)\, 1.539 €/god.\n\nProfil općine: h
- ttps://koncesijski-sat.vercel.app/#opcina/41942358B24722251168103\nIzvor: 
- Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ oncesija na pomorskom dobru (VODICE) · davatelj: ŠIBENSKO-KNINSKA ŽUPAN
+ IJA\, 1.539 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app
+ /#opcina/41942358B24722251168103\nIzvor: Registar koncesija (FINA)\, obrad
+ a Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B24722251168103
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -208,8 +218,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-d6f25b00f7d9023b@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-9b361291066da0ee@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20390604
 DTEND;VALUE=DATE:20390605
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP - OPERATOR D
@@ -217,8 +227,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP - OPERATOR D
 DESCRIPTION:4. 12. 2039. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• HEP - OPERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O. – Koncesija na po
- morskom dobru (VODICE)\, 1.539 €/god.\n\nProfil općine: https://koncesi
- jski-sat.vercel.app/#opcina/41942358B24722251168103
+ morskom dobru (VODICE) · davatelj: ŠIBENSKO-KNINSKA ŽUPANIJA\, 1.539 
+ €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
+ 42358B24722251168103
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B24722251168103
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -229,16 +240,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-f3079b27a069770b@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-69abd582cd1efd07@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20400414
 DTEND;VALUE=DATE:20400415
 SUMMARY:Ističe koncesija: GRAD VODICE
 DESCRIPTION:1 ugovor o koncesiji ističe 14. 4. 2040. Godišnja fiksna nakn
  ada: 216 €.\n\n• GRAD VODICE – Posebna upotreba pomorskog dobra (VOD
- ICE)\, 216 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/
- #opcina/41942358B24722251168103\nIzvor: Registar koncesija (FINA)\, obrada
-  Koncesijski sat 9. 11. 2026.
+ ICE) · davatelj: ŠIBENSKO-KNINSKA ŽUPANIJA\, 216 €/god.\n\nProfil op
+ ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B24722251168103\
+ nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B24722251168103
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -248,16 +259,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-f3079b27a069770b@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-69abd582cd1efd07@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20391014
 DTEND;VALUE=DATE:20391015
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (GRAD VODICE)
 DESCRIPTION:14. 4. 2040. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
- .\n\n• GRAD VODICE – Posebna upotreba pomorskog dobra (VODICE)\, 216 
- €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
- 42358B24722251168103
+ .\n\n• GRAD VODICE – Posebna upotreba pomorskog dobra (VODICE) · dava
+ telj: ŠIBENSKO-KNINSKA ŽUPANIJA\, 216 €/god.\n\nProfil općine: https:
+ //koncesijski-sat.vercel.app/#opcina/41942358B24722251168103
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B24722251168103
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -267,16 +278,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-1655124e9a6e39b6@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-9e3112a0c7f5a346@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20430414
 DTEND;VALUE=DATE:20430415
 SUMMARY:Ističe koncesija: VODOVOD I ODVODNJA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 14. 4. 2043. Godišnja fiksna nakn
  ada: 254 €.\n\n• VODOVOD I ODVODNJA D.O.O. – Posebna upotreba pomors
- kog dobra (VODICE)\, 254 €/god.\n\nProfil općine: https://koncesijski-s
- at.vercel.app/#opcina/41942358B24722251168103\nIzvor: Registar koncesija (
- FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ kog dobra (VODICE) · davatelj: ŠIBENSKO-KNINSKA ŽUPANIJA\, 254 €/god.
+ \n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B24
+ 722251168103\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9.
+  11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B24722251168103
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -286,8 +298,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-1655124e9a6e39b6@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-9e3112a0c7f5a346@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20421014
 DTEND;VALUE=DATE:20421015
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VODOVOD I ODVODN
@@ -295,8 +307,8 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VODOVOD I ODVODN
 DESCRIPTION:14. 4. 2043. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• VODOVOD I ODVODNJA D.O.O. – Posebna upotreba pomorskog dobra (V
- ODICE)\, 254 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.ap
- p/#opcina/41942358B24722251168103
+ ODICE) · davatelj: ŠIBENSKO-KNINSKA ŽUPANIJA\, 254 €/god.\n\nProfil o
+ pćine: https://koncesijski-sat.vercel.app/#opcina/41942358B24722251168103
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B24722251168103
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -307,18 +319,18 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-916df92c362bec55@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-cedc7fb0f509e97c@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20440531
 DTEND;VALUE=DATE:20440601
 SUMMARY:Ističe koncesija: VODOVOD I ODVODNJA D.O.O.-RAZVOJ VODOOPSKRBE OP
  ĆINE STANKOVCI
 DESCRIPTION:1 ugovor o koncesiji ističe 31. 5. 2044. Godišnja fiksna nakn
  ada: 8 €.\n\n• VODOVOD I ODVODNJA D.O.O.-RAZVOJ VODOOPSKRBE OPĆINE ST
- ANKOVCI – Posebna upotreba pomorskog dobra (VODICE)\, 8 €/god.\n\nProf
- il općine: https://koncesijski-sat.vercel.app/#opcina/41942358B2472225116
- 8103\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 202
- 6.
+ ANKOVCI – Posebna upotreba pomorskog dobra (VODICE) · davatelj: ŠIBENS
+ KO-KNINSKA ŽUPANIJA\, 8 €/god.\n\nProfil općine: https://koncesijski-s
+ at.vercel.app/#opcina/41942358B24722251168103\nIzvor: Registar koncesija (
+ FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B24722251168103
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -329,8 +341,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-916df92c362bec55@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-cedc7fb0f509e97c@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20431130
 DTEND;VALUE=DATE:20431201
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VODOVOD I ODVODN
@@ -338,8 +350,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VODOVOD I ODVODN
 DESCRIPTION:31. 5. 2044. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• VODOVOD I ODVODNJA D.O.O.-RAZVOJ VODOOPSKRBE OPĆINE STANKOVCI 
- – Posebna upotreba pomorskog dobra (VODICE)\, 8 €/god.\n\nProfil opći
- ne: https://koncesijski-sat.vercel.app/#opcina/41942358B24722251168103
+ – Posebna upotreba pomorskog dobra (VODICE) · davatelj: ŠIBENSKO-KNINS
+ KA ŽUPANIJA\, 8 €/god.\n\nProfil općine: https://koncesijski-sat.verce
+ l.app/#opcina/41942358B24722251168103
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B24722251168103
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -350,16 +363,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-15e932d99df855c5@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-a7c4c75d77f1566e@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20760717
 DTEND;VALUE=DATE:20760718
 SUMMARY:Ističe koncesija: HRVATSKI TELEKOM D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 17. 7. 2076. Godišnja fiksna nakn
  ada: 1.067 €.\n\n• HRVATSKI TELEKOM D.D. – Posebna upotreba pomorsko
- g dobra (VODICE)\, 1.067 €/god.\n\nProfil općine: https://koncesijski-s
- at.vercel.app/#opcina/41942358B24722251168103\nIzvor: Registar koncesija (
- FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ g dobra (VODICE) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE
+ \, 1.067 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#o
+ pcina/41942358B24722251168103\nIzvor: Registar koncesija (FINA)\, obrada K
+ oncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B24722251168103
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -369,8 +383,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-15e932d99df855c5@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-a7c4c75d77f1566e@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20760117
 DTEND;VALUE=DATE:20760118
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKI TELEKOM
@@ -378,8 +392,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKI TELEKOM
 DESCRIPTION:17. 7. 2076. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• HRVATSKI TELEKOM D.D. – Posebna upotreba pomorskog dobra (VODIC
- E)\, 1.067 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/
- #opcina/41942358B24722251168103
+ E) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\, 1.067 €/g
+ od.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358
+ B24722251168103
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B24722251168103
 TRANSP:TRANSPARENT
 BEGIN:VALARM

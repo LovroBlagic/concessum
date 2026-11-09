@@ -4,24 +4,25 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Grad Obrovac
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Grad Obrovac. Iz Registr
- a koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podatak
- a. https://koncesijski-sat.vercel.app/#opcina/41942358B23722142725163
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Grad Obrovac (pregled\, 
+ svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježava se 
+ nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#opcina/41
+ 942358B23722142725163
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-1eba74db104e5b19@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-51675b242f1dd8c1@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20301203
 DTEND;VALUE=DATE:20301204
 SUMMARY:Ističe koncesija: PORAT - MORSKA AKVAKULTARA VL. ŠIME KARAMARKO
 DESCRIPTION:1 ugovor o koncesiji ističe 3. 12. 2030. Godišnja fiksna nakn
  ada: 796 €.\n\n• PORAT - MORSKA AKVAKULTARA VL. ŠIME KARAMARKO – Ko
  ncesija na pomorskom dobru u svrhu uzgoja morske ribe i školjkaša (OBROV
- AC)\, 796 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#
- opcina/41942358B23722142725163\nIzvor: Registar koncesija (FINA)\, obrada 
- Koncesijski sat 9. 11. 2026.
+ AC) · davatelj: ZADARSKA ŽUPANIJA\, 796 €/god.\n\nProfil općine: http
+ s://koncesijski-sat.vercel.app/#opcina/41942358B23722142725163\nIzvor: Reg
+ istar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B23722142725163
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -32,8 +33,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-1eba74db104e5b19@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-51675b242f1dd8c1@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20300603
 DTEND;VALUE=DATE:20300604
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PORAT - MORSKA A
@@ -41,9 +42,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PORAT - MORSKA A
 DESCRIPTION:3. 12. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• PORAT - MORSKA AKVAKULTARA VL. ŠIME KARAMARKO – Koncesija na p
- omorskom dobru u svrhu uzgoja morske ribe i školjkaša (OBROVAC)\, 796 
- €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
- 42358B23722142725163
+ omorskom dobru u svrhu uzgoja morske ribe i školjkaša (OBROVAC) · davat
+ elj: ZADARSKA ŽUPANIJA\, 796 €/god.\n\nProfil općine: https://koncesij
+ ski-sat.vercel.app/#opcina/41942358B23722142725163
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B23722142725163
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -54,16 +55,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-b81c8bf746224104@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-63349c0d8e26e4f6@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20320318
 DTEND;VALUE=DATE:20320319
 SUMMARY:Ističe koncesija: HRVATSKA ELEKTROPRIVREDA  D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 18. 3. 2032.\n\n• HRVATSKA ELEKT
  ROPRIVREDA  D.D. – Koncesija za korištenje vodne snage radi proizvodnje
-  električne energije (OBROVAC)\n\nProfil općine: https://koncesijski-sat
- .vercel.app/#opcina/41942358B23722142725163\nIzvor: Registar koncesija (FI
- NA)\, obrada Koncesijski sat 9. 11. 2026.
+  električne energije (OBROVAC) · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠ
+ A I ZELENE TRANZICIJE\n\nProfil općine: https://koncesijski-sat.vercel.ap
+ p/#opcina/41942358B23722142725163\nIzvor: Registar koncesija (FINA)\, obra
+ da Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B23722142725163
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -73,8 +75,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-b81c8bf746224104@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-63349c0d8e26e4f6@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20310918
 DTEND;VALUE=DATE:20310919
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKA ELEKTRO
@@ -82,8 +84,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKA ELEKTRO
 DESCRIPTION:18. 3. 2032. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• HRVATSKA ELEKTROPRIVREDA  D.D. – Koncesija za korištenje vodne
-  snage radi proizvodnje električne energije (OBROVAC)\n\nProfil općine: 
- https://koncesijski-sat.vercel.app/#opcina/41942358B23722142725163
+  snage radi proizvodnje električne energije (OBROVAC) · davatelj: MINIST
+ ARSTVO ZAŠTITE OKOLIŠA I ZELENE TRANZICIJE\n\nProfil općine: https://ko
+ ncesijski-sat.vercel.app/#opcina/41942358B23722142725163
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B23722142725163
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -94,16 +97,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-f16b20d887aebf6c@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-9552731dee9a10d2@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20330307
 DTEND;VALUE=DATE:20330308
 SUMMARY:Ističe koncesija: CEDAR D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 7. 3. 2033.\n\n• CEDAR D.O.O. 
- – Koncesija za zahvaćanje voda radi prodaje na tržištu (OBROVAC)\n\nP
- rofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B2372214
- 2725163\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 
- 2026.
+ – Koncesija za zahvaćanje voda radi prodaje na tržištu (OBROVAC) · d
+ avatelj: MINISTARSTVO ZAŠTITE OKOLIŠA I ZELENE TRANZICIJE\n\nProfil opć
+ ine: https://koncesijski-sat.vercel.app/#opcina/41942358B23722142725163\nI
+ zvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B23722142725163
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -113,16 +116,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-f16b20d887aebf6c@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-9552731dee9a10d2@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20320907
 DTEND;VALUE=DATE:20320908
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (CEDAR D.O.O.)
 DESCRIPTION:7. 3. 2033. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• CEDAR D.O.O. – Koncesija za zahvaćanje voda radi prodaje na tr
- žištu (OBROVAC)\n\nProfil općine: https://koncesijski-sat.vercel.app/#o
- pcina/41942358B23722142725163
+ žištu (OBROVAC) · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠA I ZELENE TRA
+ NZICIJE\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4194
+ 2358B23722142725163
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B23722142725163
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -133,19 +137,21 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-12749a48574a8dfc@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-9b07f571d9cb37b8@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20560824
 DTEND;VALUE=DATE:20560825
 SUMMARY:Ističe 3 koncesije · Obrovac
 DESCRIPTION:3 ugovora o koncesiji ističe 24. 8. 2056. Godišnja fiksna nak
  nada: 126.216 €.\n\n• FASSA D.O.O. – Koncesija za eksploataciju boks
- ita (OBROVAC)\, 42.072 €/god.\n• FASSA D.O.O. – Koncesija za eksploa
- taciju boksita (OBROVAC)\, 42.072 €/god.\n• FASSA D.O.O. – Koncesija
-  za površinu utvrđenog eksploatacijskog polja neenergetskih mineralnih s
- irovina (OBROVAC)\, 42.072 €/god.\n\nProfil općine: https://koncesijski
- -sat.vercel.app/#opcina/41942358B23722142725163\nIzvor: Registar koncesija
-  (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ ita (OBROVAC) · davatelj: MINISTARSTVO GOSPODARSTVA\, 42.072 €/god.\n
+ • FASSA D.O.O. – Koncesija za eksploataciju boksita (OBROVAC) · davat
+ elj: MINISTARSTVO GOSPODARSTVA\, 42.072 €/god.\n• FASSA D.O.O. – Kon
+ cesija za površinu utvrđenog eksploatacijskog polja neenergetskih minera
+ lnih sirovina (OBROVAC) · davatelj: MINISTARSTVO GOSPODARSTVA\, 42.072 
+ €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
+ 42358B23722142725163\nIzvor: Registar koncesija (FINA)\, obrada Koncesijsk
+ i sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B23722142725163
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -155,41 +161,45 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-12749a48574a8dfc@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-9b07f571d9cb37b8@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20560224
 DTEND;VALUE=DATE:20560225
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Obrovac
 DESCRIPTION:24. 8. 2056. ističe 3 ugovora o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
- a.\n\n• FASSA D.O.O. – Koncesija za eksploataciju boksita (OBROVAC)\, 
- 42.072 €/god.\n• FASSA D.O.O. – Koncesija za eksploataciju boksita (
- OBROVAC)\, 42.072 €/god.\n• FASSA D.O.O. – Koncesija za površinu ut
- vrđenog eksploatacijskog polja neenergetskih mineralnih sirovina (OBROVAC
- )\, 42.072 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/
- #opcina/41942358B23722142725163
+ a.\n\n• FASSA D.O.O. – Koncesija za eksploataciju boksita (OBROVAC) ·
+  davatelj: MINISTARSTVO GOSPODARSTVA\, 42.072 €/god.\n• FASSA D.O.O. 
+ – Koncesija za eksploataciju boksita (OBROVAC) · davatelj: MINISTARSTVO
+  GOSPODARSTVA\, 42.072 €/god.\n• FASSA D.O.O. – Koncesija za površi
+ nu utvrđenog eksploatacijskog polja neenergetskih mineralnih sirovina (OB
+ ROVAC) · davatelj: MINISTARSTVO GOSPODARSTVA\, 42.072 €/god.\n\nProfil 
+ općine: https://koncesijski-sat.vercel.app/#opcina/41942358B2372214272516
+ 3
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B23722142725163
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Obrovac
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-cd8f169f68fc927a@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-2834b923923c968e@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20571231
 DTEND;VALUE=DATE:20580101
 SUMMARY:Ističe 3 koncesije · Obrovac
 DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2057. Godišnja fiksna na
  knada: 2.060 €.\n\n• KAMEN D.O.O. – Koncesija za površinu utvrđeno
- g eksploatacijskog polja neenergetskih mineralnih sirovina (OBROVAC)\, 2.0
- 60 €/god.\n• KAMEN D.O.O. – Koncesija za eksploataciju arhitektonsko
- -građevnog kamena (OBROVAC)\n• KAMEN D.O.O. – Koncesija za eksploatac
- iju arhitektonsko-građevnog kamena (OBROVAC)\n\nProfil općine: https://k
- oncesijski-sat.vercel.app/#opcina/41942358B23722142725163\nIzvor: Registar
-  koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ g eksploatacijskog polja neenergetskih mineralnih sirovina (OBROVAC) · da
+ vatelj: MINISTARSTVO GOSPODARSTVA\, 2.060 €/god.\n• KAMEN D.O.O. – K
+ oncesija za eksploataciju arhitektonsko-građevnog kamena (OBROVAC) · dav
+ atelj: MINISTARSTVO GOSPODARSTVA\n• KAMEN D.O.O. – Koncesija za eksplo
+ ataciju arhitektonsko-građevnog kamena (OBROVAC) · davatelj: MINISTARSTV
+ O GOSPODARSTVA\n\nProfil općine: https://koncesijski-sat.vercel.app/#opci
+ na/41942358B23722142725163\nIzvor: Registar koncesija (FINA)\, obrada Konc
+ esijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B23722142725163
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -199,24 +209,26 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-cd8f169f68fc927a@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-2834b923923c968e@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20570630
 DTEND;VALUE=DATE:20570701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Obrovac
 DESCRIPTION:31. 12. 2057. ističe 3 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• KAMEN D.O.O. – Koncesija za površinu utvrđenog eksploatacij
- skog polja neenergetskih mineralnih sirovina (OBROVAC)\, 2.060 €/god.\n
- • KAMEN D.O.O. – Koncesija za eksploataciju arhitektonsko-građevnog k
- amena (OBROVAC)\n• KAMEN D.O.O. – Koncesija za eksploataciju arhitekto
- nsko-građevnog kamena (OBROVAC)\n\nProfil općine: https://koncesijski-sa
- t.vercel.app/#opcina/41942358B23722142725163
+ skog polja neenergetskih mineralnih sirovina (OBROVAC) · davatelj: MINIST
+ ARSTVO GOSPODARSTVA\, 2.060 €/god.\n• KAMEN D.O.O. – Koncesija za ek
+ sploataciju arhitektonsko-građevnog kamena (OBROVAC) · davatelj: MINISTA
+ RSTVO GOSPODARSTVA\n• KAMEN D.O.O. – Koncesija za eksploataciju arhite
+ ktonsko-građevnog kamena (OBROVAC) · davatelj: MINISTARSTVO GOSPODARSTVA
+ \n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B23
+ 722142725163
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B23722142725163
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Obrovac
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT

@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · GRAD KLANJEC
+X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje GRAD KLANJEC. Iz Registra 
+ koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podataka.
+  https://koncesijski-sat.vercel.app/#sat
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-20b810c363dd0870@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20270301
+DTEND;VALUE=DATE:20270302
+SUMMARY:Ističe koncesija: LEUŠTEK J.D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 1. 3. 2027. Godišnja fiksna nakna
+ da: 1.340 €.\n\n• LEUŠTEK J.D.O.O. – Koncesija za obavljanje dimnja
+ čarskih poslova (KLANJEC\, Grad Klanjec)\, 1.340 €/god.\n\nŠto ističe
+ : https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA
+ )\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: LEUŠTEK J.D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

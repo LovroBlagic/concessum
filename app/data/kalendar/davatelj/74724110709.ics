@@ -1,0 +1,59 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · VUKOVARSKO-SRIJEMSKA ŽUPANIJA
+X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje VUKOVARSKO-SRIJEMSKA ŽUPA
+ NIJA. Iz Registra koncesija (FINA\, data.gov.hr). Osvježava se nakon svak
+ e obrade podataka. https://koncesijski-sat.vercel.app/#sat
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-94b1e299af7877fc@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20481209
+DTEND;VALUE=DATE:20481210
+SUMMARY:Ističe koncesija: PLINARA ISTOČNE SLAVONIJE D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 9. 12. 2048.\n\n• PLINARA ISTOČ
+ NE SLAVONIJE D.O.O. – Koncesija za obavljanje distribucije plina na post
+ ojećem distribucijskom sustavu (ANDRIJAŠEVCI\, BABINA GREDA\, BOŠNJACI\
+ , CERNA\, DRENOVCI\, GRADIŠTE\, GUNJA\, ILOK\, IVANKOVO\, JARMINA\, LOVAS
+ \, NUŠTAR\, OTOK\, PRIVLAKA\, STARI JANKOVCI\, STARI MIKANOVCI\, VINKOVCI
+ \, VOĐINCI\, VRBANJA\, ŠTITAR\, ŽUPANJA\, Općina Andrijaševci)\n\nŠt
+ o ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar konces
+ ija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: PLINARA ISTOČNE SLAVONIJE D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-94b1e299af7877fc@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20480609
+DTEND;VALUE=DATE:20480610
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PLINARA ISTOČNE
+  SLAVONIJE D.O.O.)
+DESCRIPTION:9. 12. 2048. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• PLINARA ISTOČNE SLAVONIJE D.O.O. – Koncesija za obavljanje dis
+ tribucije plina na postojećem distribucijskom sustavu (ANDRIJAŠEVCI\, BA
+ BINA GREDA\, BOŠNJACI\, CERNA\, DRENOVCI\, GRADIŠTE\, GUNJA\, ILOK\, IVA
+ NKOVO\, JARMINA\, LOVAS\, NUŠTAR\, OTOK\, PRIVLAKA\, STARI JANKOVCI\, STA
+ RI MIKANOVCI\, VINKOVCI\, VOĐINCI\, VRBANJA\, ŠTITAR\, ŽUPANJA\, Općin
+ a Andrijaševci)\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PLINARA ISTO
+ ČNE SLAVONIJE D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

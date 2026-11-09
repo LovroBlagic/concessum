@@ -4,24 +4,24 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Općina Novi Golubovec
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Novi Golubovec. 
- Iz Registra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obra
- de podataka. https://koncesijski-sat.vercel.app/#opcina/41942358B700138548
- 28466
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Općina Novi Golubovec (
+ pregled\, svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvj
+ ežava se nakon svake obrade podataka. https://koncesijski-sat.vercel.app/
+ #opcina/41942358B70013854828466
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-b7c4924ea8253488@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-b48f52e66f72e304@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270808
 DTEND;VALUE=DATE:20270809
 SUMMARY:Ističe koncesija: LEUŠTEK J.D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 8. 8. 2027.\n\n• LEUŠTEK J.D.O.
- O. – Koncesija za obavljanje dimnjačarskih poslova (NOVI GOLUBOVEC)\n\n
- Profil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B700138
- 54828466\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11.
-  2026.
+ O. – Koncesija za obavljanje dimnjačarskih poslova (NOVI GOLUBOVEC) · 
+ davatelj: OPĆINA NOVI GOLUBOVEC\n\nProfil općine: https://koncesijski-sa
+ t.vercel.app/#opcina/41942358B70013854828466\nIzvor: Registar koncesija (F
+ INA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B70013854828466
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -31,8 +31,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-b7c4924ea8253488@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-b48f52e66f72e304@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270208
 DTEND;VALUE=DATE:20270209
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (LEUŠTEK J.D.O.O
@@ -40,8 +40,8 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (LEUŠTEK J.D.O.O
 DESCRIPTION:8. 8. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• LEUŠTEK J.D.O.O. – Koncesija za obavljanje dimnjačarskih poslo
- va (NOVI GOLUBOVEC)\n\nProfil općine: https://koncesijski-sat.vercel.app/
- #opcina/41942358B70013854828466
+ va (NOVI GOLUBOVEC) · davatelj: OPĆINA NOVI GOLUBOVEC\n\nProfil općine:
+  https://koncesijski-sat.vercel.app/#opcina/41942358B70013854828466
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B70013854828466
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -52,16 +52,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-511ead3f80e2390b@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-b05f7ed4a18e2afb@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270908
 DTEND;VALUE=DATE:20270909
 SUMMARY:Ističe koncesija: LEUŠTEK J.D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 8. 9. 2027. Godišnja fiksna nakna
  da: 600 €.\n\n• LEUŠTEK J.D.O.O. – Koncesija za obavljanje dimnjač
- arskih poslova (NOVI GOLUBOVEC)\, 600 €/god.\n\nProfil općine: https://
- koncesijski-sat.vercel.app/#opcina/41942358B70013854828466\nIzvor: Regista
- r koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ arskih poslova (NOVI GOLUBOVEC) · davatelj: OPĆINA NOVI GOLUBOVEC\, 600 
+ €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
+ 42358B70013854828466\nIzvor: Registar koncesija (FINA)\, obrada Koncesijsk
+ i sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B70013854828466
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -71,8 +72,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-511ead3f80e2390b@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-b05f7ed4a18e2afb@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270308
 DTEND;VALUE=DATE:20270309
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (LEUŠTEK J.D.O.O
@@ -80,8 +81,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (LEUŠTEK J.D.O.O
 DESCRIPTION:8. 9. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• LEUŠTEK J.D.O.O. – Koncesija za obavljanje dimnjačarskih poslo
- va (NOVI GOLUBOVEC)\, 600 €/god.\n\nProfil općine: https://koncesijski-
- sat.vercel.app/#opcina/41942358B70013854828466
+ va (NOVI GOLUBOVEC) · davatelj: OPĆINA NOVI GOLUBOVEC\, 600 €/god.\n\n
+ Profil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B700138
+ 54828466
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B70013854828466
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -92,20 +94,22 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-ebf00016e8df3a39@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-2abddcfb1acf3a98@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20361231
 DTEND;VALUE=DATE:20370101
 SUMMARY:Ističe 3 koncesije · Novi Golubovec
 DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2036. Godišnja fiksna na
  knada: 11.792 €.\n\n• GOLUBOVEČKI KAMENOLOMI  D.O.O. – Koncesija za
-  eksploataciju tehničko-građevnog kamena (NOVI GOLUBOVEC)\, 5.896 €/go
- d.\n• GOLUBOVEČKI KAMENOLOMI D.O.O. – Koncesija za površinu utvrđen
- og eksploatacijskog polja neenergetskih mineralnih sirovina (NOVI GOLUBOVE
- C)\, 5.896 €/god.\n• GOLUBOVEČKI KAMENOLOMI D.O.O. – Koncesija za e
- ksploataciju tehničko-građevnog kamena (NOVI GOLUBOVEC)\n\nProfil općin
- e: https://koncesijski-sat.vercel.app/#opcina/41942358B70013854828466\nIzv
- or: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+  eksploataciju tehničko-građevnog kamena (NOVI GOLUBOVEC) · davatelj: M
+ INISTARSTVO GOSPODARSTVA\, 5.896 €/god.\n• GOLUBOVEČKI KAMENOLOMI D.O
+ .O. – Koncesija za površinu utvrđenog eksploatacijskog polja neenerget
+ skih mineralnih sirovina (NOVI GOLUBOVEC) · davatelj: MINISTARSTVO GOSPOD
+ ARSTVA\, 5.896 €/god.\n• GOLUBOVEČKI KAMENOLOMI D.O.O. – Koncesija 
+ za eksploataciju tehničko-građevnog kamena (NOVI GOLUBOVEC) · davatelj:
+  MINISTARSTVO GOSPODARSTVA\n\nProfil općine: https://koncesijski-sat.verc
+ el.app/#opcina/41942358B70013854828466\nIzvor: Registar koncesija (FINA)\,
+  obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B70013854828466
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -115,44 +119,48 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-ebf00016e8df3a39@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-2abddcfb1acf3a98@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20360630
 DTEND;VALUE=DATE:20360701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Novi Golubovec
 DESCRIPTION:31. 12. 2036. ističe 3 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• GOLUBOVEČKI KAMENOLOMI  D.O.O. – Koncesija za eksploataciju 
- tehničko-građevnog kamena (NOVI GOLUBOVEC)\, 5.896 €/god.\n• GOLUBOV
- EČKI KAMENOLOMI D.O.O. – Koncesija za površinu utvrđenog eksploatacij
- skog polja neenergetskih mineralnih sirovina (NOVI GOLUBOVEC)\, 5.896 €/
- god.\n• GOLUBOVEČKI KAMENOLOMI D.O.O. – Koncesija za eksploataciju te
- hničko-građevnog kamena (NOVI GOLUBOVEC)\n\nProfil općine: https://konc
- esijski-sat.vercel.app/#opcina/41942358B70013854828466
+ tehničko-građevnog kamena (NOVI GOLUBOVEC) · davatelj: MINISTARSTVO GOS
+ PODARSTVA\, 5.896 €/god.\n• GOLUBOVEČKI KAMENOLOMI D.O.O. – Koncesi
+ ja za površinu utvrđenog eksploatacijskog polja neenergetskih mineralnih
+  sirovina (NOVI GOLUBOVEC) · davatelj: MINISTARSTVO GOSPODARSTVA\, 5.896 
+ €/god.\n• GOLUBOVEČKI KAMENOLOMI D.O.O. – Koncesija za eksploatacij
+ u tehničko-građevnog kamena (NOVI GOLUBOVEC) · davatelj: MINISTARSTVO G
+ OSPODARSTVA\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/
+ 41942358B70013854828466
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B70013854828466
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Novi Golub
+ ovec
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-4711d60bdae6192e@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-bde2da699b0e59d0@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20401231
 DTEND;VALUE=DATE:20410101
 SUMMARY:Ističe 3 koncesije · Novi Golubovec
 DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2040. Godišnja fiksna na
  knada: 14.688 €.\n\n• GOLUBOVEČKI KAMENOLOMI D.O.O. – Koncesija za 
- eksploataciju tehničko-građevnog kamena (NOVI GOLUBOVEC)\, 4.896 €/god
- .\n• GOLUBOVEČKI KAMENOLOMI D.O.O. – Koncesija za eksploataciju tehni
- čko-građevnog kamena (NOVI GOLUBOVEC)\, 4.896 €/god.\n• GOLUBOVEČKI
-  KAMENOLOMI D.O.O. – Koncesija za površinu utvrđenog eksploatacijskog 
- polja neenergetskih mineralnih sirovina (NOVI GOLUBOVEC)\, 4.896 €/god.\
- n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B700
- 13854828466\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 
- 11. 2026.
+ eksploataciju tehničko-građevnog kamena (NOVI GOLUBOVEC) · davatelj: MI
+ NISTARSTVO GOSPODARSTVA\, 4.896 €/god.\n• GOLUBOVEČKI KAMENOLOMI D.O.
+ O. – Koncesija za eksploataciju tehničko-građevnog kamena (NOVI GOLUBO
+ VEC) · davatelj: MINISTARSTVO GOSPODARSTVA\, 4.896 €/god.\n• GOLUBOVE
+ ČKI KAMENOLOMI D.O.O. – Koncesija za površinu utvrđenog eksploatacijs
+ kog polja neenergetskih mineralnih sirovina (NOVI GOLUBOVEC) · davatelj: 
+ MINISTARSTVO GOSPODARSTVA\, 4.896 €/god.\n\nProfil općine: https://konc
+ esijski-sat.vercel.app/#opcina/41942358B70013854828466\nIzvor: Registar ko
+ ncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B70013854828466
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -162,25 +170,28 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-4711d60bdae6192e@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-bde2da699b0e59d0@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20400630
 DTEND;VALUE=DATE:20400701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Novi Golubovec
 DESCRIPTION:31. 12. 2040. ističe 3 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• GOLUBOVEČKI KAMENOLOMI D.O.O. – Koncesija za eksploataciju t
- ehničko-građevnog kamena (NOVI GOLUBOVEC)\, 4.896 €/god.\n• GOLUBOVE
- ČKI KAMENOLOMI D.O.O. – Koncesija za eksploataciju tehničko-građevnog
-  kamena (NOVI GOLUBOVEC)\, 4.896 €/god.\n• GOLUBOVEČKI KAMENOLOMI D.O
- .O. – Koncesija za površinu utvrđenog eksploatacijskog polja neenerget
- skih mineralnih sirovina (NOVI GOLUBOVEC)\, 4.896 €/god.\n\nProfil opći
- ne: https://koncesijski-sat.vercel.app/#opcina/41942358B70013854828466
+ ehničko-građevnog kamena (NOVI GOLUBOVEC) · davatelj: MINISTARSTVO GOSP
+ ODARSTVA\, 4.896 €/god.\n• GOLUBOVEČKI KAMENOLOMI D.O.O. – Koncesij
+ a za eksploataciju tehničko-građevnog kamena (NOVI GOLUBOVEC) · davatel
+ j: MINISTARSTVO GOSPODARSTVA\, 4.896 €/god.\n• GOLUBOVEČKI KAMENOLOMI
+  D.O.O. – Koncesija za površinu utvrđenog eksploatacijskog polja neene
+ rgetskih mineralnih sirovina (NOVI GOLUBOVEC) · davatelj: MINISTARSTVO GO
+ SPODARSTVA\, 4.896 €/god.\n\nProfil općine: https://koncesijski-sat.ver
+ cel.app/#opcina/41942358B70013854828466
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B70013854828466
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Novi Golub
+ ovec
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT

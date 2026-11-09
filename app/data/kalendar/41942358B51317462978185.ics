@@ -4,23 +4,25 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Općina Mljet
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Mljet. Iz Regist
- ra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podata
- ka. https://koncesijski-sat.vercel.app/#opcina/41942358B51317462978185
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Općina Mljet (pregled\,
+  svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježava se
+  nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#opcina/4
+ 1942358B51317462978185
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-a86e7ceb1bb013d1@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-9c9ba6df10062cc3@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270315
 DTEND;VALUE=DATE:20270316
 SUMMARY:Ističe koncesija: KOZJAK PLUS D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 15. 3. 2027. Godišnja fiksna nakn
- ada: 10.618 €.\n\n• KOZJAK PLUS D.O.O. – Koncesija za luku (MLJET)\,
-  10.618 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#op
- cina/41942358B51317462978185\nIzvor: Registar koncesija (FINA)\, obrada Ko
- ncesijski sat 9. 11. 2026.
+ ada: 10.618 €.\n\n• KOZJAK PLUS D.O.O. – Koncesija za luku (MLJET) 
+ · davatelj: LUČKA UPRAVA DUBROVAČKO-NERETVANSKE ŽUPANIJE\, 10.618 €/
+ god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4194235
+ 8B51317462978185\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sa
+ t 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B51317462978185
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -30,16 +32,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-05cb922ca8dee38c@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-fde5bebc1b736c78@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20290201
 DTEND;VALUE=DATE:20290202
 SUMMARY:Ističe koncesija: RIBA-MLJET D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 1. 2. 2029. Godišnja fiksna nakna
  da: 2.654 €.\n\n• RIBA-MLJET D.O.O. – Koncesija na pomorskom dobru (
- MLJET)\, 2.654 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.
- app/#opcina/41942358B51317462978185\nIzvor: Registar koncesija (FINA)\, ob
- rada Koncesijski sat 9. 11. 2026.
+ MLJET) · davatelj: DUBROVAČKO-NERETVANSKA ŽUPANIJA\, 2.654 €/god.\n\n
+ Profil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B513174
+ 62978185\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11.
+  2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B51317462978185
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -49,17 +52,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-05cb922ca8dee38c@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-fde5bebc1b736c78@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20280801
 DTEND;VALUE=DATE:20280802
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (RIBA-MLJET D.O.O
  .)
 DESCRIPTION:1. 2. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
- \n\n• RIBA-MLJET D.O.O. – Koncesija na pomorskom dobru (MLJET)\, 2.654
-  €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41
- 942358B51317462978185
+ \n\n• RIBA-MLJET D.O.O. – Koncesija na pomorskom dobru (MLJET) · dava
+ telj: DUBROVAČKO-NERETVANSKA ŽUPANIJA\, 2.654 €/god.\n\nProfil općine
+ : https://koncesijski-sat.vercel.app/#opcina/41942358B51317462978185
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B51317462978185
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -70,19 +73,22 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-0ea4b26eec1fb66d@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-b5f4c99f7fa110b3@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20290701
 DTEND;VALUE=DATE:20290702
 SUMMARY:Ističe 4 koncesije · Mljet
 DESCRIPTION:4 ugovora o koncesiji ističe 1. 7. 2029. Godišnja fiksna nakn
  ada: 3.252 €.\n\n• WILD BOAR DISTILLERY J.D.O.O. – Koncesija za luku
-  (MLJET)\, 1.460 €/god.\n• PROŽURA D.O.O. – Koncesija za luku (MLJE
- T)\, 730 €/god.\n• JADRANSKI LUKSUZNI HOTELI D.D. – Koncesija za luk
- u (MLJET)\, 664 €/god.\n• KOMUNALNO MLJET D.O.O. – Koncesija za luku
-  (MLJET)\, 398 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.
- app/#opcina/41942358B51317462978185\nIzvor: Registar koncesija (FINA)\, ob
- rada Koncesijski sat 9. 11. 2026.
+  (MLJET) · davatelj: LUČKA UPRAVA DUBROVAČKO-NERETVANSKE ŽUPANIJE\, 1.
+ 460 €/god.\n• PROŽURA D.O.O. – Koncesija za luku (MLJET) · davatel
+ j: LUČKA UPRAVA DUBROVAČKO-NERETVANSKE ŽUPANIJE\, 730 €/god.\n• JAD
+ RANSKI LUKSUZNI HOTELI D.D. – Koncesija za luku (MLJET) · davatelj: LU
+ ČKA UPRAVA DUBROVAČKO-NERETVANSKE ŽUPANIJE\, 664 €/god.\n• KOMUNALN
+ O MLJET D.O.O. – Koncesija za luku (MLJET) · davatelj: LUČKA UPRAVA DU
+ BROVAČKO-NERETVANSKE ŽUPANIJE\, 398 €/god.\n\nProfil općine: https://
+ koncesijski-sat.vercel.app/#opcina/41942358B51317462978185\nIzvor: Regista
+ r koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B51317462978185
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -92,38 +98,42 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-0ea4b26eec1fb66d@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-b5f4c99f7fa110b3@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20290101
 DTEND;VALUE=DATE:20290102
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 4 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 4 koncesije · Mljet
 DESCRIPTION:1. 7. 2029. ističe 4 ugovora o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
- .\n\n• WILD BOAR DISTILLERY J.D.O.O. – Koncesija za luku (MLJET)\, 1.4
- 60 €/god.\n• PROŽURA D.O.O. – Koncesija za luku (MLJET)\, 730 €/g
- od.\n• JADRANSKI LUKSUZNI HOTELI D.D. – Koncesija za luku (MLJET)\, 66
- 4 €/god.\n• KOMUNALNO MLJET D.O.O. – Koncesija za luku (MLJET)\, 398
-  €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41
- 942358B51317462978185
+ .\n\n• WILD BOAR DISTILLERY J.D.O.O. – Koncesija za luku (MLJET) · da
+ vatelj: LUČKA UPRAVA DUBROVAČKO-NERETVANSKE ŽUPANIJE\, 1.460 €/god.\n
+ • PROŽURA D.O.O. – Koncesija za luku (MLJET) · davatelj: LUČKA UPRA
+ VA DUBROVAČKO-NERETVANSKE ŽUPANIJE\, 730 €/god.\n• JADRANSKI LUKSUZN
+ I HOTELI D.D. – Koncesija za luku (MLJET) · davatelj: LUČKA UPRAVA DUB
+ ROVAČKO-NERETVANSKE ŽUPANIJE\, 664 €/god.\n• KOMUNALNO MLJET D.O.O. 
+ – Koncesija za luku (MLJET) · davatelj: LUČKA UPRAVA DUBROVAČKO-NERET
+ VANSKE ŽUPANIJE\, 398 €/god.\n\nProfil općine: https://koncesijski-sat
+ .vercel.app/#opcina/41942358B51317462978185
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B51317462978185
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 4 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 4 koncesije · Mljet
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-ae1cac57982446f0@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-97230617d07f18dc@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20300531
 DTEND;VALUE=DATE:20300601
 SUMMARY:Ističe koncesija: MS UGOSTITELJSKI OBRT\, VL. LENKA PUHJERA
 DESCRIPTION:1 ugovor o koncesiji ističe 31. 5. 2030. Godišnja fiksna nakn
  ada: 4.380 €.\n\n• MS UGOSTITELJSKI OBRT\, VL. LENKA PUHJERA – Konce
- sija na pomorskom dobru (MLJET)\, 4.380 €/god.\n\nProfil općine: https:
- //koncesijski-sat.vercel.app/#opcina/41942358B51317462978185\nIzvor: Regis
- tar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ sija na pomorskom dobru (MLJET) · davatelj: DUBROVAČKO-NERETVANSKA ŽUPA
+ NIJA\, 4.380 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.ap
+ p/#opcina/41942358B51317462978185\nIzvor: Registar koncesija (FINA)\, obra
+ da Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B51317462978185
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -133,8 +143,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-ae1cac57982446f0@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-97230617d07f18dc@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20291130
 DTEND;VALUE=DATE:20291201
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MS UGOSTITELJSKI
@@ -142,8 +152,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MS UGOSTITELJSKI
 DESCRIPTION:31. 5. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• MS UGOSTITELJSKI OBRT\, VL. LENKA PUHJERA – Koncesija na pomors
- kom dobru (MLJET)\, 4.380 €/god.\n\nProfil općine: https://koncesijski-
- sat.vercel.app/#opcina/41942358B51317462978185
+ kom dobru (MLJET) · davatelj: DUBROVAČKO-NERETVANSKA ŽUPANIJA\, 4.380 
+ €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
+ 42358B51317462978185
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B51317462978185
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -154,16 +165,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-027724bf9ba2110f@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-82c58e4a90059bc7@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20340131
 DTEND;VALUE=DATE:20340201
 SUMMARY:Ističe koncesija: RIBA-MLJET D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 31. 1. 2034. Godišnja fiksna nakn
  ada: 3.554 €.\n\n• RIBA-MLJET D.O.O. – Koncesija na pomorskom dobru 
- (MLJET)\, 3.554 €/god.\n\nProfil općine: https://koncesijski-sat.vercel
- .app/#opcina/41942358B51317462978185\nIzvor: Registar koncesija (FINA)\, o
- brada Koncesijski sat 9. 11. 2026.
+ (MLJET) · davatelj: DUBROVAČKO-NERETVANSKA ŽUPANIJA\, 3.554 €/god.\n\
+ nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B51317
+ 462978185\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11
+ . 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B51317462978185
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -173,17 +185,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-027724bf9ba2110f@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-82c58e4a90059bc7@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20330731
 DTEND;VALUE=DATE:20330801
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (RIBA-MLJET D.O.O
  .)
 DESCRIPTION:31. 1. 2034. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
- .\n\n• RIBA-MLJET D.O.O. – Koncesija na pomorskom dobru (MLJET)\, 3.55
- 4 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4
- 1942358B51317462978185
+ .\n\n• RIBA-MLJET D.O.O. – Koncesija na pomorskom dobru (MLJET) · dav
+ atelj: DUBROVAČKO-NERETVANSKA ŽUPANIJA\, 3.554 €/god.\n\nProfil općin
+ e: https://koncesijski-sat.vercel.app/#opcina/41942358B51317462978185
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B51317462978185
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -194,16 +206,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-3b5bc4a5c6232151@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-3f59648f3163d53e@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20360612
 DTEND;VALUE=DATE:20360613
 SUMMARY:Ističe koncesija: HRVATSKI OPERATOR PRIJENOSNOG SUSTAVA D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 12. 6. 2036. Godišnja fiksna nakn
  ada: 5.095 €.\n\n• HRVATSKI OPERATOR PRIJENOSNOG SUSTAVA D.D. – Konc
- esija na pomorskom dobru (MLJET)\, 5.095 €/god.\n\nProfil općine: https
- ://koncesijski-sat.vercel.app/#opcina/41942358B51317462978185\nIzvor: Regi
- star koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ esija na pomorskom dobru (MLJET) · davatelj: MINISTARSTVO MORA\, PROMETA 
+ I INFRASTRUKTURE\, 5.095 €/god.\n\nProfil općine: https://koncesijski-s
+ at.vercel.app/#opcina/41942358B51317462978185\nIzvor: Registar koncesija (
+ FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B51317462978185
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -213,8 +226,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-3b5bc4a5c6232151@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-3f59648f3163d53e@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20351212
 DTEND;VALUE=DATE:20351213
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKI OPERATO
@@ -222,8 +235,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKI OPERATO
 DESCRIPTION:12. 6. 2036. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• HRVATSKI OPERATOR PRIJENOSNOG SUSTAVA D.D. – Koncesija na pomor
- skom dobru (MLJET)\, 5.095 €/god.\n\nProfil općine: https://koncesijski
- -sat.vercel.app/#opcina/41942358B51317462978185
+ skom dobru (MLJET) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTU
+ RE\, 5.095 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/
+ #opcina/41942358B51317462978185
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B51317462978185
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -234,16 +248,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-6419bd52653ae1eb@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-ce998477516df135@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20420523
 DTEND;VALUE=DATE:20420524
 SUMMARY:Ističe koncesija: USLUGE MLJET D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 23. 5. 2042. Godišnja fiksna nakn
  ada: 5.672 €.\n\n• USLUGE MLJET D.O.O. – Koncesija pomorskog dobra u
-  svrhu gospodarskog korištenja luke (MLJET)\, 5.672 €/god.\n\nProfil op
- ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B51317462978185\
- nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+  svrhu gospodarskog korištenja luke (MLJET) · davatelj: MINISTARSTVO MOR
+ A\, PROMETA I INFRASTRUKTURE\, 5.672 €/god.\n\nProfil općine: https://k
+ oncesijski-sat.vercel.app/#opcina/41942358B51317462978185\nIzvor: Registar
+  koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B51317462978185
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -253,8 +268,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-6419bd52653ae1eb@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-ce998477516df135@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20411123
 DTEND;VALUE=DATE:20411124
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (USLUGE MLJET D.O
@@ -262,8 +277,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (USLUGE MLJET D.O
 DESCRIPTION:23. 5. 2042. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• USLUGE MLJET D.O.O. – Koncesija pomorskog dobra u svrhu gospoda
- rskog korištenja luke (MLJET)\, 5.672 €/god.\n\nProfil općine: https:/
- /koncesijski-sat.vercel.app/#opcina/41942358B51317462978185
+ rskog korištenja luke (MLJET) · davatelj: MINISTARSTVO MORA\, PROMETA I 
+ INFRASTRUKTURE\, 5.672 €/god.\n\nProfil općine: https://koncesijski-sat
+ .vercel.app/#opcina/41942358B51317462978185
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B51317462978185
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -274,8 +290,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-626e5d38dfec649d@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-1c60531e1f5d67a9@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20440314
 DTEND;VALUE=DATE:20440315
 SUMMARY:Ističe koncesija: HEP-OPERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O.\, EL
@@ -283,9 +299,10 @@ SUMMARY:Ističe koncesija: HEP-OPERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O.\, EL
 DESCRIPTION:1 ugovor o koncesiji ističe 14. 3. 2044. Godišnja fiksna nakn
  ada: 3.091 €.\n\n• HEP-OPERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O.\, ELEKT
  ROJUG DUBROVNIK – Koncesija pomorskog dobra za posebnu upotrebu u svrhu 
- gradnje kabelske veze (MLJET)\, 3.091 €/god.\n\nProfil općine: https://
- koncesijski-sat.vercel.app/#opcina/41942358B51317462978185\nIzvor: Regista
- r koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ gradnje kabelske veze (MLJET) · davatelj: DUBROVAČKO-NERETVANSKA ŽUPANI
+ JA\, 3.091 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/
+ #opcina/41942358B51317462978185\nIzvor: Registar koncesija (FINA)\, obrada
+  Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B51317462978185
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -296,8 +313,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-626e5d38dfec649d@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-1c60531e1f5d67a9@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20430914
 DTEND;VALUE=DATE:20430915
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP-OPERATOR DIS
@@ -306,8 +323,9 @@ DESCRIPTION:14. 3. 2044. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• HEP-OPERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O.\, ELEKTROJUG DUBROVNI
  K – Koncesija pomorskog dobra za posebnu upotrebu u svrhu gradnje kabels
- ke veze (MLJET)\, 3.091 €/god.\n\nProfil općine: https://koncesijski-sa
- t.vercel.app/#opcina/41942358B51317462978185
+ ke veze (MLJET) · davatelj: DUBROVAČKO-NERETVANSKA ŽUPANIJA\, 3.091 €
+ /god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419423
+ 58B51317462978185
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B51317462978185
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -318,16 +336,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-efec8da91af1698d@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-355662a562f02bfb@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20450608
 DTEND;VALUE=DATE:20450609
 SUMMARY:Ističe koncesija: JAVNA USTANOVA NACIONALNI PARK MLJET
 DESCRIPTION:1 ugovor o koncesiji ističe 8. 6. 2045. Godišnja fiksna nakna
  da: 2.514 €.\n\n• JAVNA USTANOVA NACIONALNI PARK MLJET – Koncesija n
- a pomorskom dobru (MLJET)\, 2.514 €/god.\n\nProfil općine: https://konc
- esijski-sat.vercel.app/#opcina/41942358B51317462978185\nIzvor: Registar ko
- ncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ a pomorskom dobru (MLJET) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRA
+ STRUKTURE\, 2.514 €/god.\n\nProfil općine: https://koncesijski-sat.verc
+ el.app/#opcina/41942358B51317462978185\nIzvor: Registar koncesija (FINA)\,
+  obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B51317462978185
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -337,8 +356,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-efec8da91af1698d@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-355662a562f02bfb@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20441208
 DTEND;VALUE=DATE:20441209
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (JAVNA USTANOVA N
@@ -346,8 +365,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (JAVNA USTANOVA N
 DESCRIPTION:8. 6. 2045. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• JAVNA USTANOVA NACIONALNI PARK MLJET – Koncesija na pomorskom do
- bru (MLJET)\, 2.514 €/god.\n\nProfil općine: https://koncesijski-sat.ve
- rcel.app/#opcina/41942358B51317462978185
+ bru (MLJET) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\, 2.
+ 514 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina
+ /41942358B51317462978185
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B51317462978185
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -358,16 +378,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-877946c8eb3d316d@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-e7879454eae104a3@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20760717
 DTEND;VALUE=DATE:20760718
 SUMMARY:Ističe koncesija: HRVATSKI TELEKOM D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 17. 7. 2076. Godišnja fiksna nakn
  ada: 14.487 €.\n\n• HRVATSKI TELEKOM D.D. – Posebna upotreba pomorsk
- og dobra (MLJET)\, 14.487 €/god.\n\nProfil općine: https://koncesijski-
- sat.vercel.app/#opcina/41942358B51317462978185\nIzvor: Registar koncesija 
- (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ og dobra (MLJET) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE
+ \, 14.487 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#
+ opcina/41942358B51317462978185\nIzvor: Registar koncesija (FINA)\, obrada 
+ Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B51317462978185
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -377,8 +398,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-877946c8eb3d316d@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-e7879454eae104a3@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20760117
 DTEND;VALUE=DATE:20760118
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKI TELEKOM
@@ -386,8 +407,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKI TELEKOM
 DESCRIPTION:17. 7. 2076. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• HRVATSKI TELEKOM D.D. – Posebna upotreba pomorskog dobra (MLJET
- )\, 14.487 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/
- #opcina/41942358B51317462978185
+ ) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\, 14.487 €/g
+ od.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358
+ B51317462978185
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B51317462978185
 TRANSP:TRANSPARENT
 BEGIN:VALARM

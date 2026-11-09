@@ -4,25 +4,26 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Grad Nin
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Grad Nin. Iz Registra ko
- ncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podataka. h
- ttps://koncesijski-sat.vercel.app/#opcina/41942358B76735856838344
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Grad Nin (pregled\, svi 
+ davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježava se nako
+ n svake obrade podataka. https://koncesijski-sat.vercel.app/#opcina/419423
+ 58B76735856838344
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-7b441078f64985b9@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-0737900512e73acf@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20310527
 DTEND;VALUE=DATE:20310528
 SUMMARY:Ističe koncesija: TURISTHOTEL DRUŠTVO S OGRANIČENOM ODGOVORNOŠ
  ĆU ZA UGOSTITELJSTVO I TURIZAM
 DESCRIPTION:1 ugovor o koncesiji ističe 27. 5. 2031. Godišnja fiksna nakn
  ada: 391.046 €.\n\n• TURISTHOTEL DRUŠTVO S OGRANIČENOM ODGOVORNOŠĆ
- U ZA UGOSTITELJSTVO I TURIZAM – Koncesija na pomorskom dobru (NIN)\, 391
- .046 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcin
- a/41942358B76735856838344\nIzvor: Registar koncesija (FINA)\, obrada Konce
- sijski sat 9. 11. 2026.
+ U ZA UGOSTITELJSTVO I TURIZAM – Koncesija na pomorskom dobru (NIN) · da
+ vatelj: ZADARSKA ŽUPANIJA\, 391.046 €/god.\n\nProfil općine: https://k
+ oncesijski-sat.vercel.app/#opcina/41942358B76735856838344\nIzvor: Registar
+  koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B76735856838344
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -33,8 +34,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-7b441078f64985b9@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-0737900512e73acf@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20301127
 DTEND;VALUE=DATE:20301128
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (TURISTHOTEL DRU
@@ -42,9 +43,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (TURISTHOTEL DRU
 DESCRIPTION:27. 5. 2031. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• TURISTHOTEL DRUŠTVO S OGRANIČENOM ODGOVORNOŠĆU ZA UGOSTITELJS
- TVO I TURIZAM – Koncesija na pomorskom dobru (NIN)\, 391.046 €/god.\n\
- nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B76735
- 856838344
+ TVO I TURIZAM – Koncesija na pomorskom dobru (NIN) · davatelj: ZADARSKA
+  ŽUPANIJA\, 391.046 €/god.\n\nProfil općine: https://koncesijski-sat.v
+ ercel.app/#opcina/41942358B76735856838344
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B76735856838344
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -55,16 +56,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-323fd163ed1cf70a@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-f392b1b91bdc860c@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20340220
 DTEND;VALUE=DATE:20340221
 SUMMARY:Ističe koncesija: KOMUNALIJE I ODVODNJA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 20. 2. 2034. Godišnja fiksna nakn
  ada: 1.118 €.\n\n• KOMUNALIJE I ODVODNJA D.O.O. – Koncesija na pomor
- skom dobru (NIN)\, 1.118 €/god.\n\nProfil općine: https://koncesijski-s
- at.vercel.app/#opcina/41942358B76735856838344\nIzvor: Registar koncesija (
- FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ skom dobru (NIN) · davatelj: ZADARSKA ŽUPANIJA\, 1.118 €/god.\n\nProfi
+ l općine: https://koncesijski-sat.vercel.app/#opcina/41942358B76735856838
+ 344\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026
+ .
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B76735856838344
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -74,8 +76,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-323fd163ed1cf70a@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-f392b1b91bdc860c@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20330820
 DTEND;VALUE=DATE:20330821
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (KOMUNALIJE I ODV
@@ -83,8 +85,8 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (KOMUNALIJE I ODV
 DESCRIPTION:20. 2. 2034. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• KOMUNALIJE I ODVODNJA D.O.O. – Koncesija na pomorskom dobru (NI
- N)\, 1.118 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/
- #opcina/41942358B76735856838344
+ N) · davatelj: ZADARSKA ŽUPANIJA\, 1.118 €/god.\n\nProfil općine: htt
+ ps://koncesijski-sat.vercel.app/#opcina/41942358B76735856838344
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B76735856838344
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -95,17 +97,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-5d1d2917b8a195da@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-c287f62b50d2afef@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20370821
 DTEND;VALUE=DATE:20370822
 SUMMARY:Ističe koncesija: VIGENS D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 21. 8. 2037. Godišnja fiksna nakn
  ada: 31.853 €.\n\n• VIGENS D.O.O. – Koncesija za korištenje poljopr
- ivrednog zemljišta u vlasništvu države (NIN)\, 31.853 €/god.\n\nProfi
- l općine: https://koncesijski-sat.vercel.app/#opcina/41942358B76735856838
- 344\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026
- .
+ ivrednog zemljišta u vlasništvu države (NIN) · davatelj: GRAD NIN\, 31
+ .853 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcin
+ a/41942358B76735856838344\nIzvor: Registar koncesija (FINA)\, obrada Konce
+ sijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B76735856838344
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -115,16 +117,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-5d1d2917b8a195da@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-c287f62b50d2afef@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20370221
 DTEND;VALUE=DATE:20370222
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VIGENS D.O.O.)
 DESCRIPTION:21. 8. 2037. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• VIGENS D.O.O. – Koncesija za korištenje poljoprivrednog zemlji
- šta u vlasništvu države (NIN)\, 31.853 €/god.\n\nProfil općine: http
- s://koncesijski-sat.vercel.app/#opcina/41942358B76735856838344
+ šta u vlasništvu države (NIN) · davatelj: GRAD NIN\, 31.853 €/god.\n
+ \nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B7673
+ 5856838344
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B76735856838344
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -135,16 +138,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-160f8b879323a0f9@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-2dbc446725d72b16@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20401103
 DTEND;VALUE=DATE:20401104
 SUMMARY:Ističe koncesija: HEP-OPERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 3. 11. 2040. Godišnja fiksna nakn
  ada: 35 €.\n\n• HEP-OPERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O. – Posebn
- a upotreba pomorskog dobra (NIN)\, 35 €/god.\n\nProfil općine: https://
- koncesijski-sat.vercel.app/#opcina/41942358B76735856838344\nIzvor: Regista
- r koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ a upotreba pomorskog dobra (NIN) · davatelj: ZADARSKA ŽUPANIJA\, 35 €/
+ god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4194235
+ 8B76735856838344\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sa
+ t 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B76735856838344
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -154,8 +158,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-160f8b879323a0f9@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-2dbc446725d72b16@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20400503
 DTEND;VALUE=DATE:20400504
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP-OPERATOR DIS
@@ -163,8 +167,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP-OPERATOR DIS
 DESCRIPTION:3. 11. 2040. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• HEP-OPERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O. – Posebna upotreba 
- pomorskog dobra (NIN)\, 35 €/god.\n\nProfil općine: https://koncesijski
- -sat.vercel.app/#opcina/41942358B76735856838344
+ pomorskog dobra (NIN) · davatelj: ZADARSKA ŽUPANIJA\, 35 €/god.\n\nPro
+ fil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B767358568
+ 38344
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B76735856838344
 TRANSP:TRANSPARENT
 BEGIN:VALARM

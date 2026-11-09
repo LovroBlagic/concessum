@@ -4,27 +4,29 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Općina Brinje
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Brinje. Iz Regis
- tra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podat
- aka. https://koncesijski-sat.vercel.app/#opcina/41942358B83133172786331
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Općina Brinje (pregled\
+ , svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježava s
+ e nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#opcina/
+ 41942358B83133172786331
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-5fe0d20fd6410f29@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-bbc7b7e2b8cec5f2@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20301231
 DTEND;VALUE=DATE:20310101
 SUMMARY:Ističe 3 koncesije · Brinje
 DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2030. Godišnja fiksna na
  knada: 756 €.\n\n• DASOVIĆ D.O.O. – Koncesija za eksploataciju tehn
- ičko-građevnog kamena (BRINJE)\, 252 €/god.\n• DASOVIĆ D.O.O. – K
- oncesija za eksploataciju tehničko-građevnog kamena (BRINJE)\, 252 €/g
- od.\n• DASOVIĆ D.O.O. – Koncesija za površinu utvrđenog eksploataci
- jskog polja neenergetskih mineralnih sirovina (BRINJE)\, 252 €/god.\n\nP
- rofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B8313317
- 2786331\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 
- 2026.
+ ičko-građevnog kamena (BRINJE) · davatelj: MINISTARSTVO GOSPODARSTVA\, 
+ 252 €/god.\n• DASOVIĆ D.O.O. – Koncesija za eksploataciju tehničko
+ -građevnog kamena (BRINJE) · davatelj: MINISTARSTVO GOSPODARSTVA\, 252 
+ €/god.\n• DASOVIĆ D.O.O. – Koncesija za površinu utvrđenog eksplo
+ atacijskog polja neenergetskih mineralnih sirovina (BRINJE) · davatelj: M
+ INISTARSTVO GOSPODARSTVA\, 252 €/god.\n\nProfil općine: https://koncesi
+ jski-sat.vercel.app/#opcina/41942358B83133172786331\nIzvor: Registar konce
+ sija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B83133172786331
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -34,41 +36,45 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-5fe0d20fd6410f29@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-bbc7b7e2b8cec5f2@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20300630
 DTEND;VALUE=DATE:20300701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Brinje
 DESCRIPTION:31. 12. 2030. ističe 3 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• DASOVIĆ D.O.O. – Koncesija za eksploataciju tehničko-građe
- vnog kamena (BRINJE)\, 252 €/god.\n• DASOVIĆ D.O.O. – Koncesija za 
- eksploataciju tehničko-građevnog kamena (BRINJE)\, 252 €/god.\n• DAS
- OVIĆ D.O.O. – Koncesija za površinu utvrđenog eksploatacijskog polja 
- neenergetskih mineralnih sirovina (BRINJE)\, 252 €/god.\n\nProfil općin
- e: https://koncesijski-sat.vercel.app/#opcina/41942358B83133172786331
+ vnog kamena (BRINJE) · davatelj: MINISTARSTVO GOSPODARSTVA\, 252 €/god.
+ \n• DASOVIĆ D.O.O. – Koncesija za eksploataciju tehničko-građevnog 
+ kamena (BRINJE) · davatelj: MINISTARSTVO GOSPODARSTVA\, 252 €/god.\n•
+  DASOVIĆ D.O.O. – Koncesija za površinu utvrđenog eksploatacijskog po
+ lja neenergetskih mineralnih sirovina (BRINJE) · davatelj: MINISTARSTVO G
+ OSPODARSTVA\, 252 €/god.\n\nProfil općine: https://koncesijski-sat.verc
+ el.app/#opcina/41942358B83133172786331
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B83133172786331
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Brinje
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-d9b49fe727eff6ba@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-be28751c94c5c9bf@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20501231
 DTEND;VALUE=DATE:20510101
 SUMMARY:Ističe 3 koncesije · Brinje
 DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2050. Godišnja fiksna na
  knada: 11.980 €.\n\n• LIBAK D.O.O – Koncesija za eksploataciju tehni
- čko-građevnog kamena (BRINJE)\, 5.990 €/god.\n• LIBAK D.O.O – Konc
- esija za površinu utvrđenog eksploatacijskog polja neenergetskih mineral
- nih sirovina (BRINJE)\, 5.990 €/god.\n• LIBAK D.O.O – Koncesija za e
- ksploataciju tehničko-građevnog kamena (BRINJE)\n\nProfil općine: https
- ://koncesijski-sat.vercel.app/#opcina/41942358B83133172786331\nIzvor: Regi
- star koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ čko-građevnog kamena (BRINJE) · davatelj: MINISTARSTVO GOSPODARSTVA\, 5
+ .990 €/god.\n• LIBAK D.O.O – Koncesija za površinu utvrđenog ekspl
+ oatacijskog polja neenergetskih mineralnih sirovina (BRINJE) · davatelj: 
+ MINISTARSTVO GOSPODARSTVA\, 5.990 €/god.\n• LIBAK D.O.O – Koncesija 
+ za eksploataciju tehničko-građevnog kamena (BRINJE) · davatelj: MINISTA
+ RSTVO GOSPODARSTVA\n\nProfil općine: https://koncesijski-sat.vercel.app/#
+ opcina/41942358B83133172786331\nIzvor: Registar koncesija (FINA)\, obrada 
+ Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B83133172786331
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -78,24 +84,26 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-d9b49fe727eff6ba@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-be28751c94c5c9bf@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20500630
 DTEND;VALUE=DATE:20500701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Brinje
 DESCRIPTION:31. 12. 2050. ističe 3 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• LIBAK D.O.O – Koncesija za eksploataciju tehničko-građevnog
-  kamena (BRINJE)\, 5.990 €/god.\n• LIBAK D.O.O – Koncesija za površ
- inu utvrđenog eksploatacijskog polja neenergetskih mineralnih sirovina (B
- RINJE)\, 5.990 €/god.\n• LIBAK D.O.O – Koncesija za eksploataciju te
- hničko-građevnog kamena (BRINJE)\n\nProfil općine: https://koncesijski-
- sat.vercel.app/#opcina/41942358B83133172786331
+  kamena (BRINJE) · davatelj: MINISTARSTVO GOSPODARSTVA\, 5.990 €/god.\n
+ • LIBAK D.O.O – Koncesija za površinu utvrđenog eksploatacijskog pol
+ ja neenergetskih mineralnih sirovina (BRINJE) · davatelj: MINISTARSTVO GO
+ SPODARSTVA\, 5.990 €/god.\n• LIBAK D.O.O – Koncesija za eksploatacij
+ u tehničko-građevnog kamena (BRINJE) · davatelj: MINISTARSTVO GOSPODARS
+ TVA\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358
+ B83133172786331
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B83133172786331
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Brinje
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT

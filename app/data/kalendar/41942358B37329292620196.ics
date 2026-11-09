@@ -4,24 +4,25 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Općina Plitvička Jezera
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Plitvička Jezer
- a. Iz Registra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake o
- brade podataka. https://koncesijski-sat.vercel.app/#opcina/41942358B373292
- 92620196
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Općina Plitvička Jezer
+ a (pregled\, svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). O
+ svježava se nakon svake obrade podataka. https://koncesijski-sat.vercel.a
+ pp/#opcina/41942358B37329292620196
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-361c44ca4a92718f@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-1afa467f7fb18242@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20271012
 DTEND;VALUE=DATE:20271013
 SUMMARY:Ističe koncesija: DIVEKS J.D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 12. 10. 2027. Godišnja fiksna nak
  nada: 8.043 €.\n\n• DIVEKS J.D.O.O. – Koncesija za obavljanje dimnja
- čarskih poslova (PLITVIČKA JEZERA)\, 8.043 €/god.\n\nProfil općine: h
- ttps://koncesijski-sat.vercel.app/#opcina/41942358B37329292620196\nIzvor: 
- Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ čarskih poslova (PLITVIČKA JEZERA) · davatelj: OPĆINA PLITVIČKA JEZER
+ A\, 8.043 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#
+ opcina/41942358B37329292620196\nIzvor: Registar koncesija (FINA)\, obrada 
+ Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B37329292620196
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -31,16 +32,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-361c44ca4a92718f@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-1afa467f7fb18242@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270412
 DTEND;VALUE=DATE:20270413
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DIVEKS J.D.O.O.)
 DESCRIPTION:12. 10. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• DIVEKS J.D.O.O. – Koncesija za obavljanje dimnjačarskih poslo
- va (PLITVIČKA JEZERA)\, 8.043 €/god.\n\nProfil općine: https://koncesi
- jski-sat.vercel.app/#opcina/41942358B37329292620196
+ va (PLITVIČKA JEZERA) · davatelj: OPĆINA PLITVIČKA JEZERA\, 8.043 €/
+ god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4194235
+ 8B37329292620196
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B37329292620196
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -51,18 +53,19 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-6a7953bb1f10d95e@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-a8d6a2b9108b0ca9@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20390416
 DTEND;VALUE=DATE:20390417
 SUMMARY:Ističe koncesija: PLITVIČKA JEZERA NACIONALNI PARK
 DESCRIPTION:1 ugovor o koncesiji ističe 16. 4. 2039. Godišnja fiksna nakn
  ada: 482 €.\n\n• PLITVIČKA JEZERA NACIONALNI PARK – Koncesija za po
  stavljanje plutajućih ili plovećih objekata na vodama radi obavljanja ug
- ostiteljske ili druge tržne djelatnosti (PLITVIČKA JEZERA)\, 482 €/god
- .\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B3
- 7329292620196\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9
- . 11. 2026.
+ ostiteljske ili druge tržne djelatnosti (PLITVIČKA JEZERA) · davatelj: 
+ MINISTARSTVO ZAŠTITE OKOLIŠA I ZELENE TRANZICIJE\, 482 €/god.\n\nProfi
+ l općine: https://koncesijski-sat.vercel.app/#opcina/41942358B37329292620
+ 196\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026
+ .
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B37329292620196
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -72,8 +75,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-6a7953bb1f10d95e@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-a8d6a2b9108b0ca9@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20381016
 DTEND;VALUE=DATE:20381017
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PLITVIČKA JEZER
@@ -82,9 +85,9 @@ DESCRIPTION:16. 4. 2039. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• PLITVIČKA JEZERA NACIONALNI PARK – Koncesija za postavljanje p
  lutajućih ili plovećih objekata na vodama radi obavljanja ugostiteljske 
- ili druge tržne djelatnosti (PLITVIČKA JEZERA)\, 482 €/god.\n\nProfil 
- općine: https://koncesijski-sat.vercel.app/#opcina/41942358B3732929262019
- 6
+ ili druge tržne djelatnosti (PLITVIČKA JEZERA) · davatelj: MINISTARSTVO
+  ZAŠTITE OKOLIŠA I ZELENE TRANZICIJE\, 482 €/god.\n\nProfil općine: h
+ ttps://koncesijski-sat.vercel.app/#opcina/41942358B37329292620196
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B37329292620196
 TRANSP:TRANSPARENT
 BEGIN:VALARM

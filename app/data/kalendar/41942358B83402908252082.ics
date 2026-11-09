@@ -4,23 +4,25 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Općina Gundinci
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Gundinci. Iz Reg
- istra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade pod
- ataka. https://koncesijski-sat.vercel.app/#opcina/41942358B83402908252082
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Općina Gundinci (pregle
+ d\, svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježava
+  se nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#opcin
+ a/41942358B83402908252082
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-a3156f5237e1e95f@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-50d9099acbdb1772@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20271001
 DTEND;VALUE=DATE:20271002
 SUMMARY:Ističe koncesija: MULL-TRANS D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 1. 10. 2027. Godišnja fiksna nakn
  ada: 7.300 €.\n\n• MULL-TRANS D.O.O. – Koncesija skupljanja i odvoza
-  komunalnog otpada (GUNDINCI)\, 7.300 €/god.\n\nProfil općine: https://
- koncesijski-sat.vercel.app/#opcina/41942358B83402908252082\nIzvor: Regista
- r koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+  komunalnog otpada (GUNDINCI) · davatelj: OPĆINA GUNDINCI\, 7.300 €/go
+ d.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B
+ 83402908252082\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 
+ 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B83402908252082
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -30,8 +32,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-a3156f5237e1e95f@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-50d9099acbdb1772@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270401
 DTEND;VALUE=DATE:20270402
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MULL-TRANS D.O.O
@@ -39,8 +41,8 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MULL-TRANS D.O.O
 DESCRIPTION:1. 10. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• MULL-TRANS D.O.O. – Koncesija skupljanja i odvoza komunalnog ot
- pada (GUNDINCI)\, 7.300 €/god.\n\nProfil općine: https://koncesijski-sa
- t.vercel.app/#opcina/41942358B83402908252082
+ pada (GUNDINCI) · davatelj: OPĆINA GUNDINCI\, 7.300 €/god.\n\nProfil o
+ pćine: https://koncesijski-sat.vercel.app/#opcina/41942358B83402908252082
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B83402908252082
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -51,20 +53,21 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-4c1059b41d63b98b@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-b17f26fc17ba549f@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20390312
 DTEND;VALUE=DATE:20390313
 SUMMARY:Ističe 3 koncesije · Gundinci
 DESCRIPTION:3 ugovora o koncesiji ističe 12. 3. 2039. Godišnja fiksna nak
  nada: 31.364 €.\n\n• AGRO-KADIĆ D.O.O. – Koncesija za korištenje p
- oljoprivrednog zemljišta u vlasništvu države (GUNDINCI)\, 11.481 €/go
- d.\n• ORKIĆ D.O.O. – Koncesija za korištenje poljoprivrednog zemlji
- šta u vlasništvu države (GUNDINCI)\, 10.650 €/god.\n• KARAVIDOVIĆ 
- D.O.O. – Koncesija za korištenje poljoprivrednog zemljišta u vlasništ
- vu države (GUNDINCI)\, 9.233 €/god.\n\nProfil općine: https://koncesij
- ski-sat.vercel.app/#opcina/41942358B83402908252082\nIzvor: Registar konces
- ija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ oljoprivrednog zemljišta u vlasništvu države (GUNDINCI) · davatelj: OP
+ ĆINA GUNDINCI\, 11.481 €/god.\n• ORKIĆ D.O.O. – Koncesija za kori
+ štenje poljoprivrednog zemljišta u vlasništvu države (GUNDINCI) · dav
+ atelj: OPĆINA GUNDINCI\, 10.650 €/god.\n• KARAVIDOVIĆ D.O.O. – Kon
+ cesija za korištenje poljoprivrednog zemljišta u vlasništvu države (GU
+ NDINCI) · davatelj: OPĆINA GUNDINCI\, 9.233 €/god.\n\nProfil općine: 
+ https://koncesijski-sat.vercel.app/#opcina/41942358B83402908252082\nIzvor:
+  Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B83402908252082
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -74,40 +77,41 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-4c1059b41d63b98b@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-b17f26fc17ba549f@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20380912
 DTEND;VALUE=DATE:20380913
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Gundinci
 DESCRIPTION:12. 3. 2039. ističe 3 ugovora o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• AGRO-KADIĆ D.O.O. – Koncesija za korištenje poljoprivrednog 
- zemljišta u vlasništvu države (GUNDINCI)\, 11.481 €/god.\n• ORKIĆ 
- D.O.O. – Koncesija za korištenje poljoprivrednog zemljišta u vlasništ
- vu države (GUNDINCI)\, 10.650 €/god.\n• KARAVIDOVIĆ D.O.O. – Konce
- sija za korištenje poljoprivrednog zemljišta u vlasništvu države (GUND
- INCI)\, 9.233 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.a
- pp/#opcina/41942358B83402908252082
+ zemljišta u vlasništvu države (GUNDINCI) · davatelj: OPĆINA GUNDINCI\
+ , 11.481 €/god.\n• ORKIĆ D.O.O. – Koncesija za korištenje poljopri
+ vrednog zemljišta u vlasništvu države (GUNDINCI) · davatelj: OPĆINA G
+ UNDINCI\, 10.650 €/god.\n• KARAVIDOVIĆ D.O.O. – Koncesija za koriš
+ tenje poljoprivrednog zemljišta u vlasništvu države (GUNDINCI) · davat
+ elj: OPĆINA GUNDINCI\, 9.233 €/god.\n\nProfil općine: https://koncesij
+ ski-sat.vercel.app/#opcina/41942358B83402908252082
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B83402908252082
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Gundinci
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-111ef1801394eac0@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-7e545db18d25cf00@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20520207
 DTEND;VALUE=DATE:20520208
 SUMMARY:Ističe koncesija: BROD-PLIN D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 7. 2. 2052.\n\n• BROD-PLIN D.O.O
  . – Koncesija za obavljanje distribucije plina na postojećem distribuci
- jskom sustavu (GUNDINCI\, SIKIREVCI\, SLAVONSKI ŠAMAC\, VELIKA KOPANICA)\
- n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B834
- 02908252082\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 
- 11. 2026.
+ jskom sustavu (GUNDINCI\, SIKIREVCI\, SLAVONSKI ŠAMAC\, VELIKA KOPANICA) 
+ · davatelj: BRODSKO-POSAVSKA ŽUPANIJA\n\nProfil općine: https://koncesi
+ jski-sat.vercel.app/#opcina/41942358B83402908252082\nIzvor: Registar konce
+ sija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B83402908252082
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -117,8 +121,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-111ef1801394eac0@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-7e545db18d25cf00@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20510807
 DTEND;VALUE=DATE:20510808
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BROD-PLIN D.O.O.
@@ -127,8 +131,8 @@ DESCRIPTION:7. 2. 2052. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• BROD-PLIN D.O.O. – Koncesija za obavljanje distribucije plina na
   postojećem distribucijskom sustavu (GUNDINCI\, SIKIREVCI\, SLAVONSKI ŠA
- MAC\, VELIKA KOPANICA)\n\nProfil općine: https://koncesijski-sat.vercel.a
- pp/#opcina/41942358B83402908252082
+ MAC\, VELIKA KOPANICA) · davatelj: BRODSKO-POSAVSKA ŽUPANIJA\n\nProfil o
+ pćine: https://koncesijski-sat.vercel.app/#opcina/41942358B83402908252082
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B83402908252082
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -139,17 +143,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-53f6a56da8577916@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-e61efcadae44694d@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20550626
 DTEND;VALUE=DATE:20550627
 SUMMARY:Ističe koncesija: ASPECT CROATIA KFT. - PODRUŽNICA ZAGREB
 DESCRIPTION:1 ugovor o koncesiji ističe 26. 6. 2055. Godišnja fiksna nakn
  ada: 1.184 €.\n\n• ASPECT CROATIA KFT. - PODRUŽNICA ZAGREB – Dozvol
  a za istraživanje ugljikovodika (prema Zakonu o ugljikovodicima) (GUNDINC
- I)\, 1.184 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/
- #opcina/41942358B83402908252082\nIzvor: Registar koncesija (FINA)\, obrada
-  Koncesijski sat 9. 11. 2026.
+ I) · davatelj: MINISTARSTVO GOSPODARSTVA\, 1.184 €/god.\n\nProfil opći
+ ne: https://koncesijski-sat.vercel.app/#opcina/41942358B83402908252082\nIz
+ vor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B83402908252082
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -159,8 +163,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-53f6a56da8577916@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-e61efcadae44694d@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20541226
 DTEND;VALUE=DATE:20541227
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ASPECT CROATIA K
@@ -168,9 +172,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ASPECT CROATIA K
 DESCRIPTION:26. 6. 2055. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• ASPECT CROATIA KFT. - PODRUŽNICA ZAGREB – Dozvola za istraživ
- anje ugljikovodika (prema Zakonu o ugljikovodicima) (GUNDINCI)\, 1.184 €
- /god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419423
- 58B83402908252082
+ anje ugljikovodika (prema Zakonu o ugljikovodicima) (GUNDINCI) · davatelj
+ : MINISTARSTVO GOSPODARSTVA\, 1.184 €/god.\n\nProfil općine: https://ko
+ ncesijski-sat.vercel.app/#opcina/41942358B83402908252082
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B83402908252082
 TRANSP:TRANSPARENT
 BEGIN:VALARM

@@ -1,0 +1,53 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · OPĆINA MOŠĆENIČKA DRAGA
+X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje OPĆINA MOŠĆENIČKA DRAG
+ A. Iz Registra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake o
+ brade podataka. https://koncesijski-sat.vercel.app/#sat
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-6901c2c2c38658bf@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20290329
+DTEND;VALUE=DATE:20290330
+SUMMARY:Ističe koncesija: MOSCHIENA D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 29. 3. 2029. Godišnja fiksna nakn
+ ada: 3.501 €.\n\n• MOSCHIENA D.O.O. – Koncesija na kulturnom dobru (
+ PRIMORSKO-GORANSKA ŽUPANIJA\, Općina Mošćenička Draga)\, 3.501 €/go
+ d.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Regist
+ ar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: MOSCHIENA D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-6901c2c2c38658bf@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20280929
+DTEND;VALUE=DATE:20280930
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MOSCHIENA D.O.O.
+ )
+DESCRIPTION:29. 3. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• MOSCHIENA D.O.O. – Koncesija na kulturnom dobru (PRIMORSKO-GORA
+ NSKA ŽUPANIJA\, Općina Mošćenička Draga)\, 3.501 €/god.\n\nŠto ist
+ iče: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MOSCHIENA D.
+ O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

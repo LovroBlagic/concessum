@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · OPĆINA KOPRIVNIČKI BREGI
+X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje OPĆINA KOPRIVNIČKI BREGI
+ . Iz Registra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake ob
+ rade podataka. https://koncesijski-sat.vercel.app/#sat
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-99489070ba71bcff@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20270503
+DTEND;VALUE=DATE:20270504
+SUMMARY:Ističe koncesija: MLD-USLUGE D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 3. 5. 2027. Godišnja fiksna nakna
+ da: 439 €.\n\n• MLD-USLUGE D.O.O. – Koncesija za obavljanje dimnjač
+ arskih poslova (KOPRIVNIČKI BREGI\, Općina Koprivnički Bregi)\, 439 €
+ /god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Reg
+ istar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: MLD-USLUGE D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

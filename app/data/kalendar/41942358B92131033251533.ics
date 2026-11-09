@@ -4,15 +4,16 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Općina Seget
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Seget. Iz Regist
- ra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podata
- ka. https://koncesijski-sat.vercel.app/#opcina/41942358B92131033251533
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Općina Seget (pregled\,
+  svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježava se
+  nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#opcina/4
+ 1942358B92131033251533
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-dc421b3d0b7f7a98@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-26447b5809a1463f@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
 SUMMARY:Ističe koncesija: TRANSPORT BRODOVA OSTOJIĆ\, OBRT ZA PRIJEVOZ I 
@@ -20,9 +21,10 @@ SUMMARY:Ističe koncesija: TRANSPORT BRODOVA OSTOJIĆ\, OBRT ZA PRIJEVOZ I
 DESCRIPTION:1 ugovor o koncesiji ističe 31. 12. 2026. Godišnja fiksna nak
  nada: 1.400 €.\n\n• TRANSPORT BRODOVA OSTOJIĆ\, OBRT ZA PRIJEVOZ I US
  LUGE\, VL. PJER OSTOJIĆ\, SOLIN – Koncesija za luku (SEGET\, SOLIN\, SP
- LIT\, TROGIR)\, 1.400 €/god.\n\nProfil općine: https://koncesijski-sat.
- vercel.app/#opcina/41942358B92131033251533\nIzvor: Registar koncesija (FIN
- A)\, obrada Koncesijski sat 9. 11. 2026.
+ LIT\, TROGIR) · davatelj: LUČKA UPRAVA SPLITSKO-DALMATINSKE ŽUPANIJE\, 
+ 1.400 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opci
+ na/41942358B92131033251533\nIzvor: Registar koncesija (FINA)\, obrada Konc
+ esijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B92131033251533
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -33,18 +35,20 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-bdc923c2a84d748a@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-d6d96119359e771a@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270630
 DTEND;VALUE=DATE:20270701
 SUMMARY:Ističe 2 koncesije · Seget
 DESCRIPTION:2 ugovora o koncesiji ističe 30. 6. 2027. Godišnja fiksna nak
  nada: 3.000 €.\n\n• VIŠIĆ\, OBRT ZA PRIJEVOZ\, ISKOPE\, VUČU VOZILA
-  I POMOĆ NA CESTI VL. DRAŽEN VIŠIĆ – Koncesija za luku (SEGET)\, 2.0
- 00 €/god.\n• S&P\,OBRT ZA PRIJEVOZ I VUČU VOZILA\,VL.IVAN DODIG – K
- oncesija za luku (SEGET)\, 1.000 €/god.\n\nProfil općine: https://konce
- sijski-sat.vercel.app/#opcina/41942358B92131033251533\nIzvor: Registar kon
- cesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+  I POMOĆ NA CESTI VL. DRAŽEN VIŠIĆ – Koncesija za luku (SEGET) · da
+ vatelj: LUČKA UPRAVA SPLITSKO-DALMATINSKE ŽUPANIJE\, 2.000 €/god.\n•
+  S&P\,OBRT ZA PRIJEVOZ I VUČU VOZILA\,VL.IVAN DODIG – Koncesija za luku
+  (SEGET) · davatelj: LUČKA UPRAVA SPLITSKO-DALMATINSKE ŽUPANIJE\, 1.000
+  €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41
+ 942358B92131033251533\nIzvor: Registar koncesija (FINA)\, obrada Koncesijs
+ ki sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B92131033251533
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -54,37 +58,40 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-bdc923c2a84d748a@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-d6d96119359e771a@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20261230
 DTEND;VALUE=DATE:20261231
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Seget
 DESCRIPTION:30. 6. 2027. ističe 2 ugovora o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• VIŠIĆ\, OBRT ZA PRIJEVOZ\, ISKOPE\, VUČU VOZILA I POMOĆ NA C
- ESTI VL. DRAŽEN VIŠIĆ – Koncesija za luku (SEGET)\, 2.000 €/god.\n
- • S&P\,OBRT ZA PRIJEVOZ I VUČU VOZILA\,VL.IVAN DODIG – Koncesija za l
- uku (SEGET)\, 1.000 €/god.\n\nProfil općine: https://koncesijski-sat.ve
- rcel.app/#opcina/41942358B92131033251533
+ ESTI VL. DRAŽEN VIŠIĆ – Koncesija za luku (SEGET) · davatelj: LUČKA
+  UPRAVA SPLITSKO-DALMATINSKE ŽUPANIJE\, 2.000 €/god.\n• S&P\,OBRT ZA 
+ PRIJEVOZ I VUČU VOZILA\,VL.IVAN DODIG – Koncesija za luku (SEGET) · da
+ vatelj: LUČKA UPRAVA SPLITSKO-DALMATINSKE ŽUPANIJE\, 1.000 €/god.\n\nP
+ rofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B9213103
+ 3251533
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B92131033251533
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Seget
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-cd01bf5cadb282b3@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-f65f84e050502c74@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20290625
 DTEND;VALUE=DATE:20290626
 SUMMARY:Ističe koncesija: VRANJICA BELVEDERE D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 25. 6. 2029. Godišnja fiksna nakn
  ada: 46.284 €.\n\n• VRANJICA BELVEDERE D.D. – Koncesija na pomorskom
-  dobru (SEGET)\, 46.284 €/god.\n\nProfil općine: https://koncesijski-sa
- t.vercel.app/#opcina/41942358B92131033251533\nIzvor: Registar koncesija (F
- INA)\, obrada Koncesijski sat 9. 11. 2026.
+  dobru (SEGET) · davatelj: SPLITSKO-DALMATINSKA ŽUPANIJA\, 46.284 €/go
+ d.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B
+ 92131033251533\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 
+ 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B92131033251533
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -94,17 +101,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-cd01bf5cadb282b3@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-f65f84e050502c74@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20281225
 DTEND;VALUE=DATE:20281226
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VRANJICA BELVEDE
  RE D.D.)
 DESCRIPTION:25. 6. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
- .\n\n• VRANJICA BELVEDERE D.D. – Koncesija na pomorskom dobru (SEGET)\
- , 46.284 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#o
- pcina/41942358B92131033251533
+ .\n\n• VRANJICA BELVEDERE D.D. – Koncesija na pomorskom dobru (SEGET) 
+ · davatelj: SPLITSKO-DALMATINSKA ŽUPANIJA\, 46.284 €/god.\n\nProfil op
+ ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B92131033251533
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B92131033251533
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -115,19 +122,21 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-c961e7b0facdf951@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-d217cb1888d69b5b@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20291231
 DTEND;VALUE=DATE:20300101
 SUMMARY:Ističe 3 koncesije · Seget
 DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2029. Godišnja fiksna na
  knada: 3.926 €.\n\n• ALAS DALMACIJA D.O.O. – Koncesija za površinu 
  utvrđenog eksploatacijskog polja neenergetskih mineralnih sirovina (SEGET
- )\, 3.926 €/god.\n• ALAS DALMACIJA D.O.O. – Koncesija za eksploataci
- ju tehničko-građevnog kamena (SEGET)\n• ALAS DALMACIJA D.O.O. – Konc
- esija za eksploataciju tehničko-građevnog kamena (SEGET)\n\nProfil opći
- ne: https://koncesijski-sat.vercel.app/#opcina/41942358B92131033251533\nIz
- vor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ ) · davatelj: MINISTARSTVO GOSPODARSTVA\, 3.926 €/god.\n• ALAS DALMAC
+ IJA D.O.O. – Koncesija za eksploataciju tehničko-građevnog kamena (SEG
+ ET) · davatelj: MINISTARSTVO GOSPODARSTVA\n• ALAS DALMACIJA D.O.O. – 
+ Koncesija za eksploataciju tehničko-građevnog kamena (SEGET) · davatelj
+ : MINISTARSTVO GOSPODARSTVA\n\nProfil općine: https://koncesijski-sat.ver
+ cel.app/#opcina/41942358B92131033251533\nIzvor: Registar koncesija (FINA)\
+ , obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B92131033251533
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -137,43 +146,47 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-c961e7b0facdf951@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-d217cb1888d69b5b@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20290630
 DTEND;VALUE=DATE:20290701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Seget
 DESCRIPTION:31. 12. 2029. ističe 3 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• ALAS DALMACIJA D.O.O. – Koncesija za površinu utvrđenog eks
- ploatacijskog polja neenergetskih mineralnih sirovina (SEGET)\, 3.926 €/
- god.\n• ALAS DALMACIJA D.O.O. – Koncesija za eksploataciju tehničko-g
- rađevnog kamena (SEGET)\n• ALAS DALMACIJA D.O.O. – Koncesija za ekspl
- oataciju tehničko-građevnog kamena (SEGET)\n\nProfil općine: https://ko
- ncesijski-sat.vercel.app/#opcina/41942358B92131033251533
+ ploatacijskog polja neenergetskih mineralnih sirovina (SEGET) · davatelj:
+  MINISTARSTVO GOSPODARSTVA\, 3.926 €/god.\n• ALAS DALMACIJA D.O.O. –
+  Koncesija za eksploataciju tehničko-građevnog kamena (SEGET) · davatel
+ j: MINISTARSTVO GOSPODARSTVA\n• ALAS DALMACIJA D.O.O. – Koncesija za e
+ ksploataciju tehničko-građevnog kamena (SEGET) · davatelj: MINISTARSTVO
+  GOSPODARSTVA\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcin
+ a/41942358B92131033251533
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B92131033251533
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Seget
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-85db178136cd8a11@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-68cc56e043949c64@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20311231
 DTEND;VALUE=DATE:20320101
 SUMMARY:Ističe 4 koncesije · Seget
 DESCRIPTION:4 ugovora o koncesiji ističe 31. 12. 2031. Godišnja fiksna na
  knada: 71.199 €.\n\n• NAUTIČKI CENTAR TROGIR  D.O.O. – Koncesija na
-  pomorskom dobru (SEGET)\, 70.923 €/god.\n• KAMEN BEČIR D.O.O. – Ko
- ncesija za eksploataciju arhitektonskog građevinskog kamena (SEGET)\, 92 
- €/god.\n• KAMEN BEČIR D.O.O. – Koncesija za eksploataciju arhitekto
- nsko-građevnog kamena (SEGET)\, 92 €/god.\n• KAMEN BEČIR D.O.O. – 
- Koncesija za površinu utvrđenog eksploatacijskog polja neenergetskih min
- eralnih sirovina (SEGET)\, 92 €/god.\n\nProfil općine: https://koncesij
- ski-sat.vercel.app/#opcina/41942358B92131033251533\nIzvor: Registar konces
- ija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+  pomorskom dobru (SEGET) · davatelj: SPLITSKO-DALMATINSKA ŽUPANIJA\, 70.
+ 923 €/god.\n• KAMEN BEČIR D.O.O. – Koncesija za eksploataciju arhit
+ ektonskog građevinskog kamena (SEGET) · davatelj: MINISTARSTVO GOSPODARS
+ TVA\, 92 €/god.\n• KAMEN BEČIR D.O.O. – Koncesija za eksploataciju 
+ arhitektonsko-građevnog kamena (SEGET) · davatelj: MINISTARSTVO GOSPODAR
+ STVA\, 92 €/god.\n• KAMEN BEČIR D.O.O. – Koncesija za površinu utv
+ rđenog eksploatacijskog polja neenergetskih mineralnih sirovina (SEGET) 
+ · davatelj: MINISTARSTVO GOSPODARSTVA\, 92 €/god.\n\nProfil općine: ht
+ tps://koncesijski-sat.vercel.app/#opcina/41942358B92131033251533\nIzvor: R
+ egistar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B92131033251533
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -183,40 +196,43 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-85db178136cd8a11@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-68cc56e043949c64@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20310630
 DTEND;VALUE=DATE:20310701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 4 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 4 koncesije · Seget
 DESCRIPTION:31. 12. 2031. ističe 4 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• NAUTIČKI CENTAR TROGIR  D.O.O. – Koncesija na pomorskom dobr
- u (SEGET)\, 70.923 €/god.\n• KAMEN BEČIR D.O.O. – Koncesija za eksp
- loataciju arhitektonskog građevinskog kamena (SEGET)\, 92 €/god.\n• K
- AMEN BEČIR D.O.O. – Koncesija za eksploataciju arhitektonsko-građevnog
-  kamena (SEGET)\, 92 €/god.\n• KAMEN BEČIR D.O.O. – Koncesija za po
- vršinu utvrđenog eksploatacijskog polja neenergetskih mineralnih sirovin
- a (SEGET)\, 92 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.
- app/#opcina/41942358B92131033251533
+ u (SEGET) · davatelj: SPLITSKO-DALMATINSKA ŽUPANIJA\, 70.923 €/god.\n
+ • KAMEN BEČIR D.O.O. – Koncesija za eksploataciju arhitektonskog gra
+ đevinskog kamena (SEGET) · davatelj: MINISTARSTVO GOSPODARSTVA\, 92 €/
+ god.\n• KAMEN BEČIR D.O.O. – Koncesija za eksploataciju arhitektonsko
+ -građevnog kamena (SEGET) · davatelj: MINISTARSTVO GOSPODARSTVA\, 92 €
+ /god.\n• KAMEN BEČIR D.O.O. – Koncesija za površinu utvrđenog ekspl
+ oatacijskog polja neenergetskih mineralnih sirovina (SEGET) · davatelj: M
+ INISTARSTVO GOSPODARSTVA\, 92 €/god.\n\nProfil općine: https://koncesij
+ ski-sat.vercel.app/#opcina/41942358B92131033251533
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B92131033251533
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 4 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 4 koncesije · Seget
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-cc39d127dddd3325@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-aac8a2d0790c2c00@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20370319
 DTEND;VALUE=DATE:20370320
 SUMMARY:Ističe koncesija: VODOVOD I KANALIZACIJA  D.O.O.-USLUGE
 DESCRIPTION:1 ugovor o koncesiji ističe 19. 3. 2037. Godišnja fiksna nakn
  ada: 144 €.\n\n• VODOVOD I KANALIZACIJA  D.O.O.-USLUGE – Koncesija n
- a pomorskom dobru (SEGET)\, 144 €/god.\n\nProfil općine: https://konces
- ijski-sat.vercel.app/#opcina/41942358B92131033251533\nIzvor: Registar konc
- esija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ a pomorskom dobru (SEGET) · davatelj: SPLITSKO-DALMATINSKA ŽUPANIJA\, 14
+ 4 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4
+ 1942358B92131033251533\nIzvor: Registar koncesija (FINA)\, obrada Koncesij
+ ski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B92131033251533
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -226,8 +242,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-cc39d127dddd3325@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-aac8a2d0790c2c00@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20360919
 DTEND;VALUE=DATE:20360920
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VODOVOD I KANALI
@@ -235,8 +251,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VODOVOD I KANALI
 DESCRIPTION:19. 3. 2037. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• VODOVOD I KANALIZACIJA  D.O.O.-USLUGE – Koncesija na pomorskom 
- dobru (SEGET)\, 144 €/god.\n\nProfil općine: https://koncesijski-sat.ve
- rcel.app/#opcina/41942358B92131033251533
+ dobru (SEGET) · davatelj: SPLITSKO-DALMATINSKA ŽUPANIJA\, 144 €/god.\n
+ \nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B9213
+ 1033251533
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B92131033251533
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -247,16 +264,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-c23ba55a39d5de13@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-fd8ed1fcda3a3df6@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20370521
 DTEND;VALUE=DATE:20370522
 SUMMARY:Ističe koncesija: VODOVOD I KANALIZACIJA  D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 21. 5. 2037. Godišnja fiksna nakn
  ada: 287 €.\n\n• VODOVOD I KANALIZACIJA  D.O.O. – Koncesija na pomor
- skom dobru (SEGET)\, 287 €/god.\n\nProfil općine: https://koncesijski-s
- at.vercel.app/#opcina/41942358B92131033251533\nIzvor: Registar koncesija (
- FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ skom dobru (SEGET) · davatelj: SPLITSKO-DALMATINSKA ŽUPANIJA\, 287 €/g
+ od.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358
+ B92131033251533\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat
+  9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B92131033251533
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -266,8 +284,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-c23ba55a39d5de13@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-fd8ed1fcda3a3df6@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20361121
 DTEND;VALUE=DATE:20361122
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VODOVOD I KANALI
@@ -275,8 +293,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VODOVOD I KANALI
 DESCRIPTION:21. 5. 2037. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• VODOVOD I KANALIZACIJA  D.O.O. – Koncesija na pomorskom dobru (
- SEGET)\, 287 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.ap
- p/#opcina/41942358B92131033251533
+ SEGET) · davatelj: SPLITSKO-DALMATINSKA ŽUPANIJA\, 287 €/god.\n\nProfi
+ l općine: https://koncesijski-sat.vercel.app/#opcina/41942358B92131033251
+ 533
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B92131033251533
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -287,16 +306,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-eaebcde36b0a12b9@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-dc67971af4bc55c7@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20401028
 DTEND;VALUE=DATE:20401029
 SUMMARY:Ističe koncesija: HOTEL MEDENA D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 28. 10. 2040. Godišnja fiksna nak
  nada: 15.537 €.\n\n• HOTEL MEDENA D.D. – Koncesija na pomorskom dobr
- u (SEGET)\, 15.537 €/god.\n\nProfil općine: https://koncesijski-sat.ver
- cel.app/#opcina/41942358B92131033251533\nIzvor: Registar koncesija (FINA)\
- , obrada Koncesijski sat 9. 11. 2026.
+ u (SEGET) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\, 15.5
+ 37 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/
+ 41942358B92131033251533\nIzvor: Registar koncesija (FINA)\, obrada Koncesi
+ jski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B92131033251533
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -306,17 +326,18 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-eaebcde36b0a12b9@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-dc67971af4bc55c7@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20400428
 DTEND;VALUE=DATE:20400429
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HOTEL MEDENA D.D
  .)
 DESCRIPTION:28. 10. 2040. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
- a.\n\n• HOTEL MEDENA D.D. – Koncesija na pomorskom dobru (SEGET)\, 15.
- 537 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina
- /41942358B92131033251533
+ a.\n\n• HOTEL MEDENA D.D. – Koncesija na pomorskom dobru (SEGET) · da
+ vatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\, 15.537 €/god.\n\n
+ Profil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B921310
+ 33251533
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B92131033251533
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -327,19 +348,21 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-32cab534888c79ac@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-387e9b8e92f2a6ff@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20401231
 DTEND;VALUE=DATE:20410101
 SUMMARY:Ističe 3 koncesije · Seget
 DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2040. Godišnja fiksna na
  knada: 372 €.\n\n• DELTA-DRAGUN  D.O.O. – Koncesija za površinu utv
- rđenog eksploatacijskog polja neenergetskih mineralnih sirovina (SEGET)\,
-  372 €/god.\n• DELTA-DRAGUN\, D.O.O – Koncesija za eksploataciju arh
- itektonsko-građevnog kamena (SEGET)\n• DELTA-DRAGUN  D.O.O. – Koncesi
- ja za eksploataciju arhitektonsko-građevnog kamena (SEGET)\n\nProfil opć
- ine: https://koncesijski-sat.vercel.app/#opcina/41942358B92131033251533\nI
- zvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ rđenog eksploatacijskog polja neenergetskih mineralnih sirovina (SEGET) 
+ · davatelj: MINISTARSTVO GOSPODARSTVA\, 372 €/god.\n• DELTA-DRAGUN\, 
+ D.O.O – Koncesija za eksploataciju arhitektonsko-građevnog kamena (SEGE
+ T) · davatelj: MINISTARSTVO GOSPODARSTVA\n• DELTA-DRAGUN  D.O.O. – Ko
+ ncesija za eksploataciju arhitektonsko-građevnog kamena (SEGET) · davate
+ lj: MINISTARSTVO GOSPODARSTVA\n\nProfil općine: https://koncesijski-sat.v
+ ercel.app/#opcina/41942358B92131033251533\nIzvor: Registar koncesija (FINA
+ )\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B92131033251533
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -349,30 +372,32 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-32cab534888c79ac@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-387e9b8e92f2a6ff@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20400630
 DTEND;VALUE=DATE:20400701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Seget
 DESCRIPTION:31. 12. 2040. ističe 3 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• DELTA-DRAGUN  D.O.O. – Koncesija za površinu utvrđenog eksp
- loatacijskog polja neenergetskih mineralnih sirovina (SEGET)\, 372 €/god
- .\n• DELTA-DRAGUN\, D.O.O – Koncesija za eksploataciju arhitektonsko-g
- rađevnog kamena (SEGET)\n• DELTA-DRAGUN  D.O.O. – Koncesija za eksplo
- ataciju arhitektonsko-građevnog kamena (SEGET)\n\nProfil općine: https:/
- /koncesijski-sat.vercel.app/#opcina/41942358B92131033251533
+ loatacijskog polja neenergetskih mineralnih sirovina (SEGET) · davatelj: 
+ MINISTARSTVO GOSPODARSTVA\, 372 €/god.\n• DELTA-DRAGUN\, D.O.O – Kon
+ cesija za eksploataciju arhitektonsko-građevnog kamena (SEGET) · davatel
+ j: MINISTARSTVO GOSPODARSTVA\n• DELTA-DRAGUN  D.O.O. – Koncesija za ek
+ sploataciju arhitektonsko-građevnog kamena (SEGET) · davatelj: MINISTARS
+ TVO GOSPODARSTVA\n\nProfil općine: https://koncesijski-sat.vercel.app/#op
+ cina/41942358B92131033251533
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B92131033251533
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Seget
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-b09a80299a0dcf0f@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-49bdadb9132c8288@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20430314
 DTEND;VALUE=DATE:20430315
 SUMMARY:Ističe koncesija: VODOVOD I KANALIZACIJA D.O.O. ZA VODOOPSKRBU\, O
@@ -380,9 +405,9 @@ SUMMARY:Ističe koncesija: VODOVOD I KANALIZACIJA D.O.O. ZA VODOOPSKRBU\, O
 DESCRIPTION:1 ugovor o koncesiji ističe 14. 3. 2043. Godišnja fiksna nakn
  ada: 772 €.\n\n• VODOVOD I KANALIZACIJA D.O.O. ZA VODOOPSKRBU\, ODVODN
  JU I PROČIŠĆAVANJE OTPADNIH VODA – Koncesija na pomorskom dobru (SEGE
- T)\, 772 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#o
- pcina/41942358B92131033251533\nIzvor: Registar koncesija (FINA)\, obrada K
- oncesijski sat 9. 11. 2026.
+ T) · davatelj: SPLITSKO-DALMATINSKA ŽUPANIJA\, 772 €/god.\n\nProfil op
+ ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B92131033251533\
+ nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B92131033251533
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -393,8 +418,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-b09a80299a0dcf0f@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-49bdadb9132c8288@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20420914
 DTEND;VALUE=DATE:20420915
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VODOVOD I KANALI
@@ -402,9 +427,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VODOVOD I KANALI
 DESCRIPTION:14. 3. 2043. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• VODOVOD I KANALIZACIJA D.O.O. ZA VODOOPSKRBU\, ODVODNJU I PROČI
- ŠĆAVANJE OTPADNIH VODA – Koncesija na pomorskom dobru (SEGET)\, 772 
- €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
- 42358B92131033251533
+ ŠĆAVANJE OTPADNIH VODA – Koncesija na pomorskom dobru (SEGET) · davat
+ elj: SPLITSKO-DALMATINSKA ŽUPANIJA\, 772 €/god.\n\nProfil općine: http
+ s://koncesijski-sat.vercel.app/#opcina/41942358B92131033251533
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B92131033251533
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -416,16 +441,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-6f80421876918bad@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-4a5d96183625525e@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20460927
 DTEND;VALUE=DATE:20460928
 SUMMARY:Ističe koncesija: VODOVOD I KANALIZ.DOO-KK2021-2027-FAZA2AKT
 DESCRIPTION:1 ugovor o koncesiji ističe 27. 9. 2046. Godišnja fiksna nakn
  ada: 9 €.\n\n• VODOVOD I KANALIZ.DOO-KK2021-2027-FAZA2AKT – Posebna 
- upotreba pomorskog dobra (SEGET)\, 9 €/god.\n\nProfil općine: https://k
- oncesijski-sat.vercel.app/#opcina/41942358B92131033251533\nIzvor: Registar
-  koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ upotreba pomorskog dobra (SEGET) · davatelj: SPLITSKO-DALMATINSKA ŽUPANI
+ JA\, 9 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opc
+ ina/41942358B92131033251533\nIzvor: Registar koncesija (FINA)\, obrada Kon
+ cesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B92131033251533
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -435,8 +461,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-6f80421876918bad@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-4a5d96183625525e@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20460327
 DTEND;VALUE=DATE:20460328
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VODOVOD I KANALI
@@ -444,8 +470,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VODOVOD I KANALI
 DESCRIPTION:27. 9. 2046. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• VODOVOD I KANALIZ.DOO-KK2021-2027-FAZA2AKT – Posebna upotreba p
- omorskog dobra (SEGET)\, 9 €/god.\n\nProfil općine: https://koncesijski
- -sat.vercel.app/#opcina/41942358B92131033251533
+ omorskog dobra (SEGET) · davatelj: SPLITSKO-DALMATINSKA ŽUPANIJA\, 9 €
+ /god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419423
+ 58B92131033251533
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B92131033251533
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -456,16 +483,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-8a339c4148bb9dd0@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-7a53e9f0109d3e83@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20461025
 DTEND;VALUE=DATE:20461026
 SUMMARY:Ističe koncesija: VODOVOD I KANALIZ.DOO-KK2021-2027-FAZA2AKT
 DESCRIPTION:1 ugovor o koncesiji ističe 25. 10. 2046. Godišnja fiksna nak
  nada: 1.564 €.\n\n• VODOVOD I KANALIZ.DOO-KK2021-2027-FAZA2AKT – Pos
- ebna upotreba pomorskog dobra (SEGET)\, 1.564 €/god.\n\nProfil općine: 
- https://koncesijski-sat.vercel.app/#opcina/41942358B92131033251533\nIzvor:
-  Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ ebna upotreba pomorskog dobra (SEGET) · davatelj: SPLITSKO-DALMATINSKA Ž
+ UPANIJA\, 1.564 €/god.\n\nProfil općine: https://koncesijski-sat.vercel
+ .app/#opcina/41942358B92131033251533\nIzvor: Registar koncesija (FINA)\, o
+ brada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B92131033251533
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -475,8 +503,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-8a339c4148bb9dd0@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-7a53e9f0109d3e83@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20460425
 DTEND;VALUE=DATE:20460426
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VODOVOD I KANALI
@@ -484,8 +512,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VODOVOD I KANALI
 DESCRIPTION:25. 10. 2046. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• VODOVOD I KANALIZ.DOO-KK2021-2027-FAZA2AKT – Posebna upotreba 
- pomorskog dobra (SEGET)\, 1.564 €/god.\n\nProfil općine: https://konces
- ijski-sat.vercel.app/#opcina/41942358B92131033251533
+ pomorskog dobra (SEGET) · davatelj: SPLITSKO-DALMATINSKA ŽUPANIJA\, 1.56
+ 4 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4
+ 1942358B92131033251533
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B92131033251533
 TRANSP:TRANSPARENT
 BEGIN:VALARM

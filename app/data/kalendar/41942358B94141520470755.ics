@@ -4,23 +4,24 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Grad Kutjevo
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Grad Kutjevo. Iz Registr
- a koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podatak
- a. https://koncesijski-sat.vercel.app/#opcina/41942358B94141520470755
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Grad Kutjevo (pregled\, 
+ svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježava se 
+ nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#opcina/41
+ 942358B94141520470755
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-968abedf26b0332e@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-68c137e127e4e071@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20290601
 DTEND;VALUE=DATE:20290602
 SUMMARY:Ističe koncesija: HRVATSKA ELEKTROPRIVREDA D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 1. 6. 2029.\n\n• HRVATSKA ELEKTR
  OPRIVREDA D.D. – Koncesija za opskrbu potrošača prirodnim plinom (KUTJ
- EVO)\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4194235
- 8B94141520470755\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sa
- t 9. 11. 2026.
+ EVO) · davatelj: GRAD KUTJEVO\n\nProfil općine: https://koncesijski-sat.
+ vercel.app/#opcina/41942358B94141520470755\nIzvor: Registar koncesija (FIN
+ A)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B94141520470755
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -30,8 +31,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-968abedf26b0332e@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-68c137e127e4e071@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20281201
 DTEND;VALUE=DATE:20281202
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKA ELEKTRO
@@ -39,8 +40,8 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKA ELEKTRO
 DESCRIPTION:1. 6. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• HRVATSKA ELEKTROPRIVREDA D.D. – Koncesija za opskrbu potrošača
-  prirodnim plinom (KUTJEVO)\n\nProfil općine: https://koncesijski-sat.ver
- cel.app/#opcina/41942358B94141520470755
+  prirodnim plinom (KUTJEVO) · davatelj: GRAD KUTJEVO\n\nProfil općine: h
+ ttps://koncesijski-sat.vercel.app/#opcina/41942358B94141520470755
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B94141520470755
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -51,20 +52,21 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-e7c67293d0d02afc@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-1a0482e410277566@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20351231
 DTEND;VALUE=DATE:20360101
 SUMMARY:Ističe 3 koncesije · Kutjevo
 DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2035. Godišnja fiksna na
  knada: 12.508 €.\n\n• VELIČKI KAMEN D.O.O. – Koncesija za površinu
   utvrđenog eksploatacijskog polja neenergetskih mineralnih sirovina (KUTJ
- EVO)\, 12.508 €/god.\n• VELIČKI KAMEN D.O.O. – Koncesija za eksploa
- taciju tehničko-građevnog kamena (KUTJEVO)\n• VELIČKI KAMEN D.O.O. 
- – Koncesija za eksploataciju tehničko-građevnog kamena (KUTJEVO)\n\nPr
- ofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B94141520
- 470755\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2
- 026.
+ EVO) · davatelj: MINISTARSTVO GOSPODARSTVA\, 12.508 €/god.\n• VELIČK
+ I KAMEN D.O.O. – Koncesija za eksploataciju tehničko-građevnog kamena 
+ (KUTJEVO) · davatelj: MINISTARSTVO GOSPODARSTVA\n• VELIČKI KAMEN D.O.O
+ . – Koncesija za eksploataciju tehničko-građevnog kamena (KUTJEVO) · 
+ davatelj: MINISTARSTVO GOSPODARSTVA\n\nProfil općine: https://koncesijski
+ -sat.vercel.app/#opcina/41942358B94141520470755\nIzvor: Registar koncesija
+  (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B94141520470755
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -74,39 +76,41 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-e7c67293d0d02afc@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-1a0482e410277566@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20350630
 DTEND;VALUE=DATE:20350701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Kutjevo
 DESCRIPTION:31. 12. 2035. ističe 3 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• VELIČKI KAMEN D.O.O. – Koncesija za površinu utvrđenog eks
- ploatacijskog polja neenergetskih mineralnih sirovina (KUTJEVO)\, 12.508 
- €/god.\n• VELIČKI KAMEN D.O.O. – Koncesija za eksploataciju tehnič
- ko-građevnog kamena (KUTJEVO)\n• VELIČKI KAMEN D.O.O. – Koncesija za
-  eksploataciju tehničko-građevnog kamena (KUTJEVO)\n\nProfil općine: ht
- tps://koncesijski-sat.vercel.app/#opcina/41942358B94141520470755
+ ploatacijskog polja neenergetskih mineralnih sirovina (KUTJEVO) · davatel
+ j: MINISTARSTVO GOSPODARSTVA\, 12.508 €/god.\n• VELIČKI KAMEN D.O.O. 
+ – Koncesija za eksploataciju tehničko-građevnog kamena (KUTJEVO) · da
+ vatelj: MINISTARSTVO GOSPODARSTVA\n• VELIČKI KAMEN D.O.O. – Koncesija
+  za eksploataciju tehničko-građevnog kamena (KUTJEVO) · davatelj: MINIS
+ TARSTVO GOSPODARSTVA\n\nProfil općine: https://koncesijski-sat.vercel.app
+ /#opcina/41942358B94141520470755
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B94141520470755
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Kutjevo
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-e9786648bfcb19b9@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-0d387cd77bbd6a73@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20370123
 DTEND;VALUE=DATE:20370124
 SUMMARY:Ističe koncesija: KUTJEVO  D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 23. 1. 2037. Godišnja fiksna nakn
  ada: 86.270 €.\n\n• KUTJEVO  D.D. – Koncesija za korištenje poljopr
- ivrednog zemljišta u vlasništvu države (KUTJEVO)\, 86.270 €/god.\n\nP
- rofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B9414152
- 0470755\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 
- 2026.
+ ivrednog zemljišta u vlasništvu države (KUTJEVO) · davatelj: GRAD KUTJ
+ EVO\, 86.270 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.ap
+ p/#opcina/41942358B94141520470755\nIzvor: Registar koncesija (FINA)\, obra
+ da Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B94141520470755
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -116,16 +120,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-e9786648bfcb19b9@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-0d387cd77bbd6a73@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20360723
 DTEND;VALUE=DATE:20360724
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (KUTJEVO  D.D.)
 DESCRIPTION:23. 1. 2037. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• KUTJEVO  D.D. – Koncesija za korištenje poljoprivrednog zemlji
- šta u vlasništvu države (KUTJEVO)\, 86.270 €/god.\n\nProfil općine: 
- https://koncesijski-sat.vercel.app/#opcina/41942358B94141520470755
+ šta u vlasništvu države (KUTJEVO) · davatelj: GRAD KUTJEVO\, 86.270 
+ €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
+ 42358B94141520470755
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B94141520470755
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -136,17 +141,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-dc02783e8f7286aa@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-ff70de55265f54fe@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20381223
 DTEND;VALUE=DATE:20381224
 SUMMARY:Ističe koncesija: KUTJEVO  D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 23. 12. 2038. Godišnja fiksna nak
  nada: 14.732 €.\n\n• KUTJEVO  D.D. – Koncesija za korištenje poljop
- rivrednog zemljišta u vlasništvu države (KUTJEVO)\, 14.732 €/god.\n\n
- Profil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B941415
- 20470755\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11.
-  2026.
+ rivrednog zemljišta u vlasništvu države (KUTJEVO) · davatelj: GRAD KUT
+ JEVO\, 14.732 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.a
+ pp/#opcina/41942358B94141520470755\nIzvor: Registar koncesija (FINA)\, obr
+ ada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B94141520470755
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -156,16 +161,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-dc02783e8f7286aa@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-ff70de55265f54fe@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20380623
 DTEND;VALUE=DATE:20380624
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (KUTJEVO  D.D.)
 DESCRIPTION:23. 12. 2038. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• KUTJEVO  D.D. – Koncesija za korištenje poljoprivrednog zemlj
- išta u vlasništvu države (KUTJEVO)\, 14.732 €/god.\n\nProfil općine:
-  https://koncesijski-sat.vercel.app/#opcina/41942358B94141520470755
+ išta u vlasništvu države (KUTJEVO) · davatelj: GRAD KUTJEVO\, 14.732 
+ €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
+ 42358B94141520470755
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B94141520470755
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -176,17 +182,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-aa1b11977b6d10ee@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-ef7c78c5c6bbc53c@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20470123
 DTEND;VALUE=DATE:20470124
 SUMMARY:Ističe koncesija: KUTJEVO  D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 23. 1. 2047. Godišnja fiksna nakn
  ada: 3.318 €.\n\n• KUTJEVO  D.D. – Koncesija za korištenje poljopri
- vrednog zemljišta u vlasništvu države (KUTJEVO)\, 3.318 €/god.\n\nPro
- fil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B941415204
- 70755\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 20
- 26.
+ vrednog zemljišta u vlasništvu države (KUTJEVO) · davatelj: GRAD KUTJE
+ VO\, 3.318 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/
+ #opcina/41942358B94141520470755\nIzvor: Registar koncesija (FINA)\, obrada
+  Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B94141520470755
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -196,16 +202,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-aa1b11977b6d10ee@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-ef7c78c5c6bbc53c@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20460723
 DTEND;VALUE=DATE:20460724
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (KUTJEVO  D.D.)
 DESCRIPTION:23. 1. 2047. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• KUTJEVO  D.D. – Koncesija za korištenje poljoprivrednog zemlji
- šta u vlasništvu države (KUTJEVO)\, 3.318 €/god.\n\nProfil općine: h
- ttps://koncesijski-sat.vercel.app/#opcina/41942358B94141520470755
+ šta u vlasništvu države (KUTJEVO) · davatelj: GRAD KUTJEVO\, 3.318 €
+ /god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419423
+ 58B94141520470755
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B94141520470755
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -216,16 +223,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-cee579d8aac04b6c@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-ee6a9fc10672ba46@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20530313
 DTEND;VALUE=DATE:20530314
 SUMMARY:Ističe koncesija: KUTJEVO D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 13. 3. 2053. Godišnja fiksna nakn
  ada: 2.654 €.\n\n• KUTJEVO D.D. – Koncesija za zahvaćanje voda za t
- ehnološke potrebe (KUTJEVO)\, 2.654 €/god.\n\nProfil općine: https://k
- oncesijski-sat.vercel.app/#opcina/41942358B94141520470755\nIzvor: Registar
-  koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ ehnološke potrebe (KUTJEVO) · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠA I
+  ZELENE TRANZICIJE\, 2.654 €/god.\n\nProfil općine: https://koncesijski
+ -sat.vercel.app/#opcina/41942358B94141520470755\nIzvor: Registar koncesija
+  (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B94141520470755
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -235,16 +243,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-cee579d8aac04b6c@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-ee6a9fc10672ba46@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20520913
 DTEND;VALUE=DATE:20520914
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (KUTJEVO D.D.)
 DESCRIPTION:13. 3. 2053. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• KUTJEVO D.D. – Koncesija za zahvaćanje voda za tehnološke pot
- rebe (KUTJEVO)\, 2.654 €/god.\n\nProfil općine: https://koncesijski-sat
- .vercel.app/#opcina/41942358B94141520470755
+ rebe (KUTJEVO) · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠA I ZELENE TRANZI
+ CIJE\, 2.654 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.ap
+ p/#opcina/41942358B94141520470755
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B94141520470755
 TRANSP:TRANSPARENT
 BEGIN:VALARM

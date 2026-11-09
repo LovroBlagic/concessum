@@ -1,0 +1,56 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · OPĆINA ČEPIN
+X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje OPĆINA ČEPIN. Iz Registr
+ a koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podatak
+ a. https://koncesijski-sat.vercel.app/#sat
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-2066339dbdf6ad8a@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20360710
+DTEND;VALUE=DATE:20360711
+SUMMARY:Ističe 2 koncesije · OPĆINA ČEPIN
+DESCRIPTION:2 ugovora o koncesiji ističe 10. 7. 2036. Godišnja fiksna nak
+ nada: 32.570 €.\n\n• NOVI AGRAR D.O.O. – Koncesija za korištenje po
+ ljoprivrednog zemljišta u vlasništvu države (ČEPIN\, Općina Čepin)\,
+  16.285 €/god.\n• NOVI AGRAR D.O.O. – Koncesija za korištenje poljo
+ privrednog zemljišta u vlasništvu države (ČEPIN\, Općina Čepin)\, 16
+ .285 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIz
+ vor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 2 koncesije · OPĆINA ČEPIN
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-2066339dbdf6ad8a@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20360110
+DTEND;VALUE=DATE:20360111
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · OPĆINA ČEPIN
+DESCRIPTION:10. 7. 2036. ističe 2 ugovora o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• NOVI AGRAR D.O.O. – Koncesija za korištenje poljoprivrednog z
+ emljišta u vlasništvu države (ČEPIN\, Općina Čepin)\, 16.285 €/god
+ .\n• NOVI AGRAR D.O.O. – Koncesija za korištenje poljoprivrednog zeml
+ jišta u vlasništvu države (ČEPIN\, Općina Čepin)\, 16.285 €/god.\n
+ \nŠto ističe: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije · OPĆINA Č
+ EPIN
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

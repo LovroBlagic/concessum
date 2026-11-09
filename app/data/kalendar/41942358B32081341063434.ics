@@ -4,26 +4,29 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Grad Umag
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Grad Umag. Iz Registra k
- oncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podataka. 
- https://koncesijski-sat.vercel.app/#opcina/41942358B32081341063434
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Grad Umag (pregled\, svi
+  davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježava se nak
+ on svake obrade podataka. https://koncesijski-sat.vercel.app/#opcina/41942
+ 358B32081341063434
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-b526e79eaf7b0b9f@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-15bd4b621d7921ef@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20271231
 DTEND;VALUE=DATE:20280101
 SUMMARY:Ističe 3 koncesije · Umag
 DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2027. Godišnja fiksna na
  knada: 10.220 €.\n\n• ANTENAL D.O.O. – Koncesija za površinu utvrđ
  enog eksploatacijskog polja neenergetskih mineralnih sirovina (UMAG - UMAG
- O)\, 10.220 €/god.\n• ANTENAL D.O.O. – Koncesija za eksploataciju te
- hničko-građevnog kamena (UMAG - UMAGO)\n• ANTENAL D.O.O. – Koncesija
-  za eksploataciju tehničko-građevnog kamena (UMAG - UMAGO)\n\nProfil op
- ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B32081341063434\
- nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ O) · davatelj: MINISTARSTVO GOSPODARSTVA\, 10.220 €/god.\n• ANTENAL D
+ .O.O. – Koncesija za eksploataciju tehničko-građevnog kamena (UMAG - U
+ MAGO) · davatelj: MINISTARSTVO GOSPODARSTVA\n• ANTENAL D.O.O. – Konce
+ sija za eksploataciju tehničko-građevnog kamena (UMAG - UMAGO) · davate
+ lj: MINISTARSTVO GOSPODARSTVA\n\nProfil općine: https://koncesijski-sat.v
+ ercel.app/#opcina/41942358B32081341063434\nIzvor: Registar koncesija (FINA
+ )\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B32081341063434
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -33,38 +36,41 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-b526e79eaf7b0b9f@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-15bd4b621d7921ef@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270630
 DTEND;VALUE=DATE:20270701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Umag
 DESCRIPTION:31. 12. 2027. ističe 3 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• ANTENAL D.O.O. – Koncesija za površinu utvrđenog eksploatac
- ijskog polja neenergetskih mineralnih sirovina (UMAG - UMAGO)\, 10.220 €
- /god.\n• ANTENAL D.O.O. – Koncesija za eksploataciju tehničko-građev
- nog kamena (UMAG - UMAGO)\n• ANTENAL D.O.O. – Koncesija za eksploataci
- ju tehničko-građevnog kamena (UMAG - UMAGO)\n\nProfil općine: https://k
- oncesijski-sat.vercel.app/#opcina/41942358B32081341063434
+ ijskog polja neenergetskih mineralnih sirovina (UMAG - UMAGO) · davatelj:
+  MINISTARSTVO GOSPODARSTVA\, 10.220 €/god.\n• ANTENAL D.O.O. – Konce
+ sija za eksploataciju tehničko-građevnog kamena (UMAG - UMAGO) · davate
+ lj: MINISTARSTVO GOSPODARSTVA\n• ANTENAL D.O.O. – Koncesija za eksploa
+ taciju tehničko-građevnog kamena (UMAG - UMAGO) · davatelj: MINISTARSTV
+ O GOSPODARSTVA\n\nProfil općine: https://koncesijski-sat.vercel.app/#opci
+ na/41942358B32081341063434
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B32081341063434
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Umag
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-1ecb49417c1fa99d@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-a9bf008ae4173816@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20280126
 DTEND;VALUE=DATE:20280127
 SUMMARY:Ističe koncesija: D.M.M. - TIM D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 26. 1. 2028. Godišnja fiksna nakn
  ada: 2.787 €.\n\n• D.M.M. - TIM D.O.O. – Koncesija za obavljanje dim
- njačarskih poslova (UMAG - UMAGO)\, 2.787 €/god.\n\nProfil općine: htt
- ps://koncesijski-sat.vercel.app/#opcina/41942358B32081341063434\nIzvor: Re
- gistar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ njačarskih poslova (UMAG - UMAGO) · davatelj: GRAD UMAG\, 2.787 €/god.
+ \n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B32
+ 081341063434\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9.
+  11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B32081341063434
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -74,8 +80,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-1ecb49417c1fa99d@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-a9bf008ae4173816@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270726
 DTEND;VALUE=DATE:20270727
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (D.M.M. - TIM D.O
@@ -83,8 +89,8 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (D.M.M. - TIM D.O
 DESCRIPTION:26. 1. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• D.M.M. - TIM D.O.O. – Koncesija za obavljanje dimnjačarskih po
- slova (UMAG - UMAGO)\, 2.787 €/god.\n\nProfil općine: https://koncesijs
- ki-sat.vercel.app/#opcina/41942358B32081341063434
+ slova (UMAG - UMAGO) · davatelj: GRAD UMAG\, 2.787 €/god.\n\nProfil op
+ ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B32081341063434
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B32081341063434
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -95,16 +101,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-9d8062b83dc227d5@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-0cf7b78430a5b5c6@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20280301
 DTEND;VALUE=DATE:20280302
 SUMMARY:Ističe koncesija: PAOLETIĆ IVAN  J.D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 1. 3. 2028. Godišnja fiksna nakna
  da: 2.357 €.\n\n• PAOLETIĆ IVAN  J.D.O.O. – Koncesija za luku (UMAG
-  - UMAGO)\, 2.357 €/god.\n\nProfil općine: https://koncesijski-sat.verc
- el.app/#opcina/41942358B32081341063434\nIzvor: Registar koncesija (FINA)\,
-  obrada Koncesijski sat 9. 11. 2026.
+  - UMAGO) · davatelj: LUČKA UPRAVA UMAG-NOVIGRAD\, 2.357 €/god.\n\nPro
+ fil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B320813410
+ 63434\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 20
+ 26.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B32081341063434
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -114,17 +121,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-9d8062b83dc227d5@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-0cf7b78430a5b5c6@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270901
 DTEND;VALUE=DATE:20270902
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PAOLETIĆ IVAN  
  J.D.O.O.)
 DESCRIPTION:1. 3. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
- \n\n• PAOLETIĆ IVAN  J.D.O.O. – Koncesija za luku (UMAG - UMAGO)\, 2.
- 357 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina
- /41942358B32081341063434
+ \n\n• PAOLETIĆ IVAN  J.D.O.O. – Koncesija za luku (UMAG - UMAGO) · d
+ avatelj: LUČKA UPRAVA UMAG-NOVIGRAD\, 2.357 €/god.\n\nProfil općine: h
+ ttps://koncesijski-sat.vercel.app/#opcina/41942358B32081341063434
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B32081341063434
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -135,16 +142,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-f6571d54becf5ac5@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-92c9967dd4717b8e@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20301231
 DTEND;VALUE=DATE:20310101
 SUMMARY:Ističe koncesija: ACI D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 31. 12. 2030. Godišnja fiksna nak
  nada: 12.572 €.\n\n• ACI D.D. – Koncesija pomorskog dobra u svrhu go
- spodarskog korištenja luke (UMAG - UMAGO)\, 12.572 €/god.\n\nProfil op
- ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B32081341063434\
- nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ spodarskog korištenja luke (UMAG - UMAGO) · davatelj: MINISTARSTVO MORA\
+ , PROMETA I INFRASTRUKTURE\, 12.572 €/god.\n\nProfil općine: https://ko
+ ncesijski-sat.vercel.app/#opcina/41942358B32081341063434\nIzvor: Registar 
+ koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B32081341063434
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -154,16 +162,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-f6571d54becf5ac5@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-92c9967dd4717b8e@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20300630
 DTEND;VALUE=DATE:20300701
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ACI D.D.)
 DESCRIPTION:31. 12. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• ACI D.D. – Koncesija pomorskog dobra u svrhu gospodarskog kori
- štenja luke (UMAG - UMAGO)\, 12.572 €/god.\n\nProfil općine: https://k
- oncesijski-sat.vercel.app/#opcina/41942358B32081341063434
+ štenja luke (UMAG - UMAGO) · davatelj: MINISTARSTVO MORA\, PROMETA I INF
+ RASTRUKTURE\, 12.572 €/god.\n\nProfil općine: https://koncesijski-sat.v
+ ercel.app/#opcina/41942358B32081341063434
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B32081341063434
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -173,16 +182,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-6f27fcba138f20db@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-6de3542aa1c2a4b7@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20330418
 DTEND;VALUE=DATE:20330419
 SUMMARY:Ističe koncesija: PLAVA LAGUNA D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 18. 4. 2033. Godišnja fiksna nakn
  ada: 67.291 €.\n\n• PLAVA LAGUNA D.D. – Koncesija na pomorskom dobru
-  (UMAG - UMAGO)\, 67.291 €/god.\n\nProfil općine: https://koncesijski-s
- at.vercel.app/#opcina/41942358B32081341063434\nIzvor: Registar koncesija (
- FINA)\, obrada Koncesijski sat 9. 11. 2026.
+  (UMAG - UMAGO) · davatelj: ISTARSKA ŽUPANIJA\, 67.291 €/god.\n\nProfi
+ l općine: https://koncesijski-sat.vercel.app/#opcina/41942358B32081341063
+ 434\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026
+ .
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B32081341063434
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -192,8 +202,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-6f27fcba138f20db@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-6de3542aa1c2a4b7@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20321018
 DTEND;VALUE=DATE:20321019
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PLAVA LAGUNA D.D
@@ -201,8 +211,8 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PLAVA LAGUNA D.D
 DESCRIPTION:18. 4. 2033. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• PLAVA LAGUNA D.D. – Koncesija na pomorskom dobru (UMAG - UMAGO)
- \, 67.291 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#
- opcina/41942358B32081341063434
+  · davatelj: ISTARSKA ŽUPANIJA\, 67.291 €/god.\n\nProfil općine: http
+ s://koncesijski-sat.vercel.app/#opcina/41942358B32081341063434
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B32081341063434
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -213,16 +223,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-b4178fc3c09fa0ff@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-08d29ada83dabd1f@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20330422
 DTEND;VALUE=DATE:20330423
 SUMMARY:Ističe koncesija: KANOVELE D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 22. 4. 2033. Godišnja fiksna nakn
  ada: 1.679 €.\n\n• KANOVELE D.O.O. – Koncesija na pomorskom dobru (U
- MAG - UMAGO)\, 1.679 €/god.\n\nProfil općine: https://koncesijski-sat.v
- ercel.app/#opcina/41942358B32081341063434\nIzvor: Registar koncesija (FINA
- )\, obrada Koncesijski sat 9. 11. 2026.
+ MAG - UMAGO) · davatelj: ISTARSKA ŽUPANIJA\, 1.679 €/god.\n\nProfil op
+ ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B32081341063434\
+ nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B32081341063434
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -232,16 +242,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-b4178fc3c09fa0ff@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-08d29ada83dabd1f@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20321022
 DTEND;VALUE=DATE:20321023
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (KANOVELE D.O.O.)
 DESCRIPTION:22. 4. 2033. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
- .\n\n• KANOVELE D.O.O. – Koncesija na pomorskom dobru (UMAG - UMAGO)\,
-  1.679 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opc
- ina/41942358B32081341063434
+ .\n\n• KANOVELE D.O.O. – Koncesija na pomorskom dobru (UMAG - UMAGO) 
+ · davatelj: ISTARSKA ŽUPANIJA\, 1.679 €/god.\n\nProfil općine: https:
+ //koncesijski-sat.vercel.app/#opcina/41942358B32081341063434
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B32081341063434
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -252,16 +262,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-b0edc350fe946ae3@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-32601a042b5cf51c@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20330426
 DTEND;VALUE=DATE:20330427
 SUMMARY:Ističe koncesija: REZIDENCIJA SKIPER D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 26. 4. 2033. Godišnja fiksna nakn
  ada: 6.846 €.\n\n• REZIDENCIJA SKIPER D.O.O. – Koncesija na pomorsko
- m dobru (UMAG - UMAGO)\, 6.846 €/god.\n\nProfil općine: https://koncesi
- jski-sat.vercel.app/#opcina/41942358B32081341063434\nIzvor: Registar konce
- sija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ m dobru (UMAG - UMAGO) · davatelj: ISTARSKA ŽUPANIJA\, 6.846 €/god.\n\
+ nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B32081
+ 341063434\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11
+ . 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B32081341063434
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -271,8 +282,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-b0edc350fe946ae3@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-32601a042b5cf51c@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20321026
 DTEND;VALUE=DATE:20321027
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (REZIDENCIJA SKIP
@@ -280,8 +291,8 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (REZIDENCIJA SKIP
 DESCRIPTION:26. 4. 2033. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• REZIDENCIJA SKIPER D.O.O. – Koncesija na pomorskom dobru (UMAG 
- - UMAGO)\, 6.846 €/god.\n\nProfil općine: https://koncesijski-sat.verce
- l.app/#opcina/41942358B32081341063434
+ - UMAGO) · davatelj: ISTARSKA ŽUPANIJA\, 6.846 €/god.\n\nProfil općin
+ e: https://koncesijski-sat.vercel.app/#opcina/41942358B32081341063434
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B32081341063434
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -292,16 +303,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-783f4e7fe17777ae@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-e3bf05bac8ee564b@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20331118
 DTEND;VALUE=DATE:20331119
 SUMMARY:Ističe koncesija: G.M. KORPORACIJA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 18. 11. 2033. Godišnja fiksna nak
  nada: 14.575 €.\n\n• G.M. KORPORACIJA D.O.O. – Koncesija na pomorsko
- m dobru (UMAG - UMAGO)\, 14.575 €/god.\n\nProfil općine: https://konces
- ijski-sat.vercel.app/#opcina/41942358B32081341063434\nIzvor: Registar konc
- esija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ m dobru (UMAG - UMAGO) · davatelj: ISTARSKA ŽUPANIJA\, 14.575 €/god.\n
+ \nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B3208
+ 1341063434\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 1
+ 1. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B32081341063434
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -311,8 +323,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-783f4e7fe17777ae@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-e3bf05bac8ee564b@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20330518
 DTEND;VALUE=DATE:20330519
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (G.M. KORPORACIJA
@@ -320,8 +332,8 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (G.M. KORPORACIJA
 DESCRIPTION:18. 11. 2033. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• G.M. KORPORACIJA D.O.O. – Koncesija na pomorskom dobru (UMAG -
-  UMAGO)\, 14.575 €/god.\n\nProfil općine: https://koncesijski-sat.verce
- l.app/#opcina/41942358B32081341063434
+  UMAGO) · davatelj: ISTARSKA ŽUPANIJA\, 14.575 €/god.\n\nProfil općin
+ e: https://koncesijski-sat.vercel.app/#opcina/41942358B32081341063434
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B32081341063434
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -332,16 +344,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-0e68b203ece08792@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-19e49a3076436c09@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20340109
 DTEND;VALUE=DATE:20340110
 SUMMARY:Ističe koncesija: SKIPER HOTELI D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 9. 1. 2034. Godišnja fiksna nakna
  da: 4.421 €.\n\n• SKIPER HOTELI D.O.O. – Koncesija na pomorskom dobr
- u (UMAG - UMAGO)\, 4.421 €/god.\n\nProfil općine: https://koncesijski-s
- at.vercel.app/#opcina/41942358B32081341063434\nIzvor: Registar koncesija (
- FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ u (UMAG - UMAGO) · davatelj: GRAD UMAG\, 4.421 €/god.\n\nProfil općine
+ : https://koncesijski-sat.vercel.app/#opcina/41942358B32081341063434\nIzvo
+ r: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B32081341063434
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -351,8 +363,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-0e68b203ece08792@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-19e49a3076436c09@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20330709
 DTEND;VALUE=DATE:20330710
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (SKIPER HOTELI D.
@@ -360,8 +372,8 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (SKIPER HOTELI D.
 DESCRIPTION:9. 1. 2034. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• SKIPER HOTELI D.O.O. – Koncesija na pomorskom dobru (UMAG - UMAG
- O)\, 4.421 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/
- #opcina/41942358B32081341063434
+ O) · davatelj: GRAD UMAG\, 4.421 €/god.\n\nProfil općine: https://konc
+ esijski-sat.vercel.app/#opcina/41942358B32081341063434
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B32081341063434
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -372,18 +384,18 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-6ed14a87463cd554@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-969e52c4060f2e89@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20350201
 DTEND;VALUE=DATE:20350202
 SUMMARY:Ističe koncesija: MAION\, OBRT ZA UGOSTITELJSTVO\, TURIZAM I DIZAJ
  N VL. MANUELLA MIKETEK
 DESCRIPTION:1 ugovor o koncesiji ističe 1. 2. 2035. Godišnja fiksna nakna
  da: 9.540 €.\n\n• MAION\, OBRT ZA UGOSTITELJSTVO\, TURIZAM I DIZAJN VL
- . MANUELLA MIKETEK – Koncesija na pomorskom dobru (UMAG - UMAGO)\, 9.540
-  €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41
- 942358B32081341063434\nIzvor: Registar koncesija (FINA)\, obrada Koncesijs
- ki sat 9. 11. 2026.
+ . MANUELLA MIKETEK – Koncesija na pomorskom dobru (UMAG - UMAGO) · dava
+ telj: ISTARSKA ŽUPANIJA\, 9.540 €/god.\n\nProfil općine: https://konce
+ sijski-sat.vercel.app/#opcina/41942358B32081341063434\nIzvor: Registar kon
+ cesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B32081341063434
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -394,8 +406,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-6ed14a87463cd554@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-969e52c4060f2e89@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20340801
 DTEND;VALUE=DATE:20340802
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MAION\, OBRT ZA 
@@ -403,9 +415,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MAION\, OBRT ZA
 DESCRIPTION:1. 2. 2035. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• MAION\, OBRT ZA UGOSTITELJSTVO\, TURIZAM I DIZAJN VL. MANUELLA MIK
- ETEK – Koncesija na pomorskom dobru (UMAG - UMAGO)\, 9.540 €/god.\n\nP
- rofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B3208134
- 1063434
+ ETEK – Koncesija na pomorskom dobru (UMAG - UMAGO) · davatelj: ISTARSKA
+  ŽUPANIJA\, 9.540 €/god.\n\nProfil općine: https://koncesijski-sat.ver
+ cel.app/#opcina/41942358B32081341063434
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B32081341063434
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -416,15 +428,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-f0073ccbb664f1c1@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-c96fc172e71484ff@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20350323
 DTEND;VALUE=DATE:20350324
 SUMMARY:Ističe koncesija: 6. MAJ ODVODNJA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 23. 3. 2035.\n\n• 6. MAJ ODVODNJ
- A D.O.O. – Koncesija na pomorskom dobru (UMAG - UMAGO)\n\nProfil općine
- : https://koncesijski-sat.vercel.app/#opcina/41942358B32081341063434\nIzvo
- r: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ A D.O.O. – Koncesija na pomorskom dobru (UMAG - UMAGO) · davatelj: GRAD
+  UMAG\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419423
+ 58B32081341063434\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski s
+ at 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B32081341063434
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -434,8 +447,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-f0073ccbb664f1c1@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-c96fc172e71484ff@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20340923
 DTEND;VALUE=DATE:20340924
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (6. MAJ ODVODNJA 
@@ -443,8 +456,8 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (6. MAJ ODVODNJA
 DESCRIPTION:23. 3. 2035. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• 6. MAJ ODVODNJA D.O.O. – Koncesija na pomorskom dobru (UMAG - U
- MAGO)\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419423
- 58B32081341063434
+ MAGO) · davatelj: GRAD UMAG\n\nProfil općine: https://koncesijski-sat.ve
+ rcel.app/#opcina/41942358B32081341063434
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B32081341063434
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -455,16 +468,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-d6915a6623df66ba@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-3bcb9523f52ea26e@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20360331
 DTEND;VALUE=DATE:20360401
 SUMMARY:Ističe koncesija: INA-INDUSTRIJA NAFTE  D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 31. 3. 2036. Godišnja fiksna nakn
  ada: 11.376 €.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija na pomors
- kom dobru (UMAG - UMAGO)\, 11.376 €/god.\n\nProfil općine: https://konc
- esijski-sat.vercel.app/#opcina/41942358B32081341063434\nIzvor: Registar ko
- ncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ kom dobru (UMAG - UMAGO) · davatelj: LUČKA UPRAVA UMAG-NOVIGRAD\, 11.376
+  €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41
+ 942358B32081341063434\nIzvor: Registar koncesija (FINA)\, obrada Koncesijs
+ ki sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B32081341063434
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -474,8 +488,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-d6915a6623df66ba@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-3bcb9523f52ea26e@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20350930
 DTEND;VALUE=DATE:20351001
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA-INDUSTRIJA N
@@ -483,8 +497,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA-INDUSTRIJA N
 DESCRIPTION:31. 3. 2036. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija na pomorskom dobru (UMAG
-  - UMAGO)\, 11.376 €/god.\n\nProfil općine: https://koncesijski-sat.ver
- cel.app/#opcina/41942358B32081341063434
+  - UMAGO) · davatelj: LUČKA UPRAVA UMAG-NOVIGRAD\, 11.376 €/god.\n\nPr
+ ofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B32081341
+ 063434
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B32081341063434
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -495,15 +510,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-b11f1f40e964a2b6@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-3941873e925a5aad@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20361212
 DTEND;VALUE=DATE:20361213
 SUMMARY:Ističe koncesija: 6. MAJ ODVODNJA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 12. 12. 2036.\n\n• 6. MAJ ODVODN
- JA D.O.O. – Koncesija na pomorskom dobru (UMAG - UMAGO)\n\nProfil općin
- e: https://koncesijski-sat.vercel.app/#opcina/41942358B32081341063434\nIzv
- or: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ JA D.O.O. – Koncesija na pomorskom dobru (UMAG - UMAGO) · davatelj: GRA
+ D UMAG\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942
+ 358B32081341063434\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski 
+ sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B32081341063434
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -513,8 +529,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-b11f1f40e964a2b6@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-3941873e925a5aad@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20360612
 DTEND;VALUE=DATE:20360613
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (6. MAJ ODVODNJA 
@@ -522,8 +538,8 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (6. MAJ ODVODNJA
 DESCRIPTION:12. 12. 2036. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• 6. MAJ ODVODNJA D.O.O. – Koncesija na pomorskom dobru (UMAG - 
- UMAGO)\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942
- 358B32081341063434
+ UMAGO) · davatelj: GRAD UMAG\n\nProfil općine: https://koncesijski-sat.v
+ ercel.app/#opcina/41942358B32081341063434
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B32081341063434
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -534,16 +550,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-e3f9bc9ce9e70431@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-625894a5eba2db0d@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20370329
 DTEND;VALUE=DATE:20370330
 SUMMARY:Ističe 2 koncesije · Umag
 DESCRIPTION:2 ugovora o koncesiji ističe 29. 3. 2037.\n\n• 6.MAJ ODVODNJ
- A D.O.O. – Koncesija na pomorskom dobru (UMAG - UMAGO)\n• 6. MAJ ODVOD
- NJA D.O.O. – Koncesija na pomorskom dobru (UMAG - UMAGO)\n\nProfil opći
- ne: https://koncesijski-sat.vercel.app/#opcina/41942358B32081341063434\nIz
- vor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ A D.O.O. – Koncesija na pomorskom dobru (UMAG - UMAGO) · davatelj: GRAD
+  UMAG\n• 6. MAJ ODVODNJA D.O.O. – Koncesija na pomorskom dobru (UMAG -
+  UMAGO) · davatelj: GRAD UMAG\n\nProfil općine: https://koncesijski-sat.
+ vercel.app/#opcina/41942358B32081341063434\nIzvor: Registar koncesija (FIN
+ A)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B32081341063434
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -553,39 +570,41 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-e3f9bc9ce9e70431@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-625894a5eba2db0d@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20360929
 DTEND;VALUE=DATE:20360930
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Umag
 DESCRIPTION:29. 3. 2037. ističe 2 ugovora o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• 6.MAJ ODVODNJA D.O.O. – Koncesija na pomorskom dobru (UMAG - U
- MAGO)\n• 6. MAJ ODVODNJA D.O.O. – Koncesija na pomorskom dobru (UMAG -
-  UMAGO)\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4194
- 2358B32081341063434
+ MAGO) · davatelj: GRAD UMAG\n• 6. MAJ ODVODNJA D.O.O. – Koncesija na 
+ pomorskom dobru (UMAG - UMAGO) · davatelj: GRAD UMAG\n\nProfil općine: h
+ ttps://koncesijski-sat.vercel.app/#opcina/41942358B32081341063434
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B32081341063434
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Umag
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-a5be9bd7a322feb4@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-7d2643b4699cb923@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20370404
 DTEND;VALUE=DATE:20370405
 SUMMARY:Ističe 3 koncesije · Umag
 DESCRIPTION:3 ugovora o koncesiji ističe 4. 4. 2037. Godišnja fiksna nakn
  ada: 6.530 €.\n\n• OBRT ABALON VL.TOMISLAV BAŠIĆ – Koncesija na po
- morskom dobru (UMAG - UMAGO)\, 2.681 €/god.\n• OBRT MORSKI RIBOLOV VL.
- VLADIMIR BAŠIĆ – Koncesija na pomorskom dobru (UMAG - UMAGO)\, 2.681 
- €/god.\n• OBRT SHARK VL.PETAR KRALJEVIĆ – Koncesija na pomorskom do
- bru (UMAG - UMAGO)\, 1.168 €/god.\n\nProfil općine: https://koncesijski
- -sat.vercel.app/#opcina/41942358B32081341063434\nIzvor: Registar koncesija
-  (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ morskom dobru (UMAG - UMAGO) · davatelj: MINISTARSTVO MORA\, PROMETA I IN
+ FRASTRUKTURE\, 2.681 €/god.\n• OBRT MORSKI RIBOLOV VL.VLADIMIR BAŠIĆ
+  – Koncesija na pomorskom dobru (UMAG - UMAGO) · davatelj: MINISTARSTVO
+  MORA\, PROMETA I INFRASTRUKTURE\, 2.681 €/god.\n• OBRT SHARK VL.PETAR
+  KRALJEVIĆ – Koncesija na pomorskom dobru (UMAG - UMAGO) · davatelj: M
+ INISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\, 1.168 €/god.\n\nProfil op
+ ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B32081341063434\
+ nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B32081341063434
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -595,38 +614,40 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-a5be9bd7a322feb4@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-7d2643b4699cb923@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20361004
 DTEND;VALUE=DATE:20361005
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Umag
 DESCRIPTION:4. 4. 2037. ističe 3 ugovora o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• OBRT ABALON VL.TOMISLAV BAŠIĆ – Koncesija na pomorskom dobru 
- (UMAG - UMAGO)\, 2.681 €/god.\n• OBRT MORSKI RIBOLOV VL.VLADIMIR BAŠI
- Ć – Koncesija na pomorskom dobru (UMAG - UMAGO)\, 2.681 €/god.\n• O
- BRT SHARK VL.PETAR KRALJEVIĆ – Koncesija na pomorskom dobru (UMAG - UMA
- GO)\, 1.168 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app
- /#opcina/41942358B32081341063434
+ (UMAG - UMAGO) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\,
+  2.681 €/god.\n• OBRT MORSKI RIBOLOV VL.VLADIMIR BAŠIĆ – Koncesija
+  na pomorskom dobru (UMAG - UMAGO) · davatelj: MINISTARSTVO MORA\, PROMET
+ A I INFRASTRUKTURE\, 2.681 €/god.\n• OBRT SHARK VL.PETAR KRALJEVIĆ 
+ – Koncesija na pomorskom dobru (UMAG - UMAGO) · davatelj: MINISTARSTVO 
+ MORA\, PROMETA I INFRASTRUKTURE\, 1.168 €/god.\n\nProfil općine: https:
+ //koncesijski-sat.vercel.app/#opcina/41942358B32081341063434
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B32081341063434
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Umag
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-0d6a349dde9a2d12@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-58ecdb5639d2feff@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20400730
 DTEND;VALUE=DATE:20400731
 SUMMARY:Ističe koncesija: 6.MAJ ODVODNJA D.O.O.-NAKNADA ZA RAZVOJ
 DESCRIPTION:1 ugovor o koncesiji ističe 30. 7. 2040.\n\n• 6.MAJ ODVODNJA
   D.O.O.-NAKNADA ZA RAZVOJ – Posebna upotreba pomorskog dobra (UMAG - UMA
- GO)\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358
- B32081341063434\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat
-  9. 11. 2026.
+ GO) · davatelj: GRAD UMAG\n\nProfil općine: https://koncesijski-sat.verc
+ el.app/#opcina/41942358B32081341063434\nIzvor: Registar koncesija (FINA)\,
+  obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B32081341063434
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -636,8 +657,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-0d6a349dde9a2d12@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-58ecdb5639d2feff@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20400130
 DTEND;VALUE=DATE:20400131
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (6.MAJ ODVODNJA D
@@ -645,8 +666,8 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (6.MAJ ODVODNJA D
 DESCRIPTION:30. 7. 2040. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• 6.MAJ ODVODNJA D.O.O.-NAKNADA ZA RAZVOJ – Posebna upotreba pomo
- rskog dobra (UMAG - UMAGO)\n\nProfil općine: https://koncesijski-sat.verc
- el.app/#opcina/41942358B32081341063434
+ rskog dobra (UMAG - UMAGO) · davatelj: GRAD UMAG\n\nProfil općine: https
+ ://koncesijski-sat.vercel.app/#opcina/41942358B32081341063434
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B32081341063434
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -657,16 +678,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-0d1b1336c19004e6@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-c6b49408d04043d2@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20411103
 DTEND;VALUE=DATE:20411104
 SUMMARY:Ističe koncesija: KOMUNELA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 3. 11. 2041. Godišnja fiksna nakn
  ada: 2.781 €.\n\n• KOMUNELA D.O.O. – Koncesija na pomorskom dobru (U
- MAG - UMAGO)\, 2.781 €/god.\n\nProfil općine: https://koncesijski-sat.v
- ercel.app/#opcina/41942358B32081341063434\nIzvor: Registar koncesija (FINA
- )\, obrada Koncesijski sat 9. 11. 2026.
+ MAG - UMAGO) · davatelj: GRAD UMAG\, 2.781 €/god.\n\nProfil općine: ht
+ tps://koncesijski-sat.vercel.app/#opcina/41942358B32081341063434\nIzvor: R
+ egistar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B32081341063434
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -676,16 +697,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-0d1b1336c19004e6@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-c6b49408d04043d2@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20410503
 DTEND;VALUE=DATE:20410504
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (KOMUNELA D.O.O.)
 DESCRIPTION:3. 11. 2041. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
- .\n\n• KOMUNELA D.O.O. – Koncesija na pomorskom dobru (UMAG - UMAGO)\,
-  2.781 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opc
- ina/41942358B32081341063434
+ .\n\n• KOMUNELA D.O.O. – Koncesija na pomorskom dobru (UMAG - UMAGO) 
+ · davatelj: GRAD UMAG\, 2.781 €/god.\n\nProfil općine: https://koncesi
+ jski-sat.vercel.app/#opcina/41942358B32081341063434
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B32081341063434
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -696,16 +717,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-9d9383329429f242@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-27f03d3bf513cf87@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20420706
 DTEND;VALUE=DATE:20420707
 SUMMARY:Ističe koncesija: ČISTA VODA PROJEKT D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 6. 7. 2042. Godišnja fiksna nakna
  da: 800 €.\n\n• ČISTA VODA PROJEKT D.O.O. – Koncesija na pomorskom 
- dobru (UMAG - UMAGO)\, 800 €/god.\n\nProfil općine: https://koncesijski
- -sat.vercel.app/#opcina/41942358B32081341063434\nIzvor: Registar koncesija
-  (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ dobru (UMAG - UMAGO) · davatelj: GRAD UMAG\, 800 €/god.\n\nProfil opći
+ ne: https://koncesijski-sat.vercel.app/#opcina/41942358B32081341063434\nIz
+ vor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B32081341063434
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -715,8 +736,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-9d9383329429f242@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-27f03d3bf513cf87@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20420106
 DTEND;VALUE=DATE:20420107
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ČISTA VODA PROJ
@@ -724,8 +745,8 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ČISTA VODA PROJ
 DESCRIPTION:6. 7. 2042. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• ČISTA VODA PROJEKT D.O.O. – Koncesija na pomorskom dobru (UMAG 
- - UMAGO)\, 800 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.
- app/#opcina/41942358B32081341063434
+ - UMAGO) · davatelj: GRAD UMAG\, 800 €/god.\n\nProfil općine: https://
+ koncesijski-sat.vercel.app/#opcina/41942358B32081341063434
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B32081341063434
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -736,17 +757,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-f5e6dbefc99fa448@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-d13ad58120d78e63@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20440502
 DTEND;VALUE=DATE:20440503
 SUMMARY:Ističe koncesija: REZIDENCIJA SKIPER D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 2. 5. 2044. Godišnja fiksna nakna
  da: 637 €.\n\n• REZIDENCIJA SKIPER D.O.O. – Koncesija za zahvaćanje
-  voda za melioracijsko navodnjavanje (UMAG - UMAGO)\, 637 €/god.\n\nProf
- il općine: https://koncesijski-sat.vercel.app/#opcina/41942358B3208134106
- 3434\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 202
- 6.
+  voda za melioracijsko navodnjavanje (UMAG - UMAGO) · davatelj: MINISTARS
+ TVO ZAŠTITE OKOLIŠA I ZELENE TRANZICIJE\, 637 €/god.\n\nProfil općine
+ : https://koncesijski-sat.vercel.app/#opcina/41942358B32081341063434\nIzvo
+ r: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B32081341063434
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -756,8 +777,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-f5e6dbefc99fa448@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-d13ad58120d78e63@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20431102
 DTEND;VALUE=DATE:20431103
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (REZIDENCIJA SKIP
@@ -765,8 +786,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (REZIDENCIJA SKIP
 DESCRIPTION:2. 5. 2044. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• REZIDENCIJA SKIPER D.O.O. – Koncesija za zahvaćanje voda za mel
- ioracijsko navodnjavanje (UMAG - UMAGO)\, 637 €/god.\n\nProfil općine: 
- https://koncesijski-sat.vercel.app/#opcina/41942358B32081341063434
+ ioracijsko navodnjavanje (UMAG - UMAGO) · davatelj: MINISTARSTVO ZAŠTITE
+  OKOLIŠA I ZELENE TRANZICIJE\, 637 €/god.\n\nProfil općine: https://ko
+ ncesijski-sat.vercel.app/#opcina/41942358B32081341063434
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B32081341063434
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -777,8 +799,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-9216cf6c5efa1355@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-ccf70b82946e5914@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20440818
 DTEND;VALUE=DATE:20440819
 SUMMARY:Ističe koncesija: FARMA JOLA\, POLJOPRIVREDNI OBRT\, VL. MICHAEL P
@@ -786,9 +808,10 @@ SUMMARY:Ističe koncesija: FARMA JOLA\, POLJOPRIVREDNI OBRT\, VL. MICHAEL P
 DESCRIPTION:1 ugovor o koncesiji ističe 18. 8. 2044. Godišnja fiksna nakn
  ada: 2 €.\n\n• FARMA JOLA\, POLJOPRIVREDNI OBRT\, VL. MICHAEL PAVLOVI
  Ć – Koncesija za zahvaćanje voda za melioracijsko navodnjavanje (UMAG 
- - UMAGO)\, 2 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.ap
- p/#opcina/41942358B32081341063434\nIzvor: Registar koncesija (FINA)\, obra
- da Koncesijski sat 9. 11. 2026.
+ - UMAGO) · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠA I ZELENE TRANZICIJE\,
+  2 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/
+ 41942358B32081341063434\nIzvor: Registar koncesija (FINA)\, obrada Koncesi
+ jski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B32081341063434
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -799,8 +822,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-9216cf6c5efa1355@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-ccf70b82946e5914@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20440218
 DTEND;VALUE=DATE:20440219
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (FARMA JOLA\, POL
@@ -808,9 +831,10 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (FARMA JOLA\, POL
 DESCRIPTION:18. 8. 2044. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• FARMA JOLA\, POLJOPRIVREDNI OBRT\, VL. MICHAEL PAVLOVIĆ – Konc
- esija za zahvaćanje voda za melioracijsko navodnjavanje (UMAG - UMAGO)\, 
- 2 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4
- 1942358B32081341063434
+ esija za zahvaćanje voda za melioracijsko navodnjavanje (UMAG - UMAGO) ·
+  davatelj: MINISTARSTVO ZAŠTITE OKOLIŠA I ZELENE TRANZICIJE\, 2 €/god.
+ \n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B32
+ 081341063434
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B32081341063434
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -821,16 +845,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-3991e1a7ce815aa1@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-cb3e933c6db11784@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20760717
 DTEND;VALUE=DATE:20760718
 SUMMARY:Ističe koncesija: HRVATSKI TELEKOM D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 17. 7. 2076. Godišnja fiksna nakn
  ada: 15.627 €.\n\n• HRVATSKI TELEKOM D.D. – Posebna upotreba pomorsk
- og dobra (UMAG - UMAGO)\, 15.627 €/god.\n\nProfil općine: https://konce
- sijski-sat.vercel.app/#opcina/41942358B32081341063434\nIzvor: Registar kon
- cesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ og dobra (UMAG - UMAGO) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRAST
+ RUKTURE\, 15.627 €/god.\n\nProfil općine: https://koncesijski-sat.verce
+ l.app/#opcina/41942358B32081341063434\nIzvor: Registar koncesija (FINA)\, 
+ obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B32081341063434
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -840,8 +865,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-3991e1a7ce815aa1@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-cb3e933c6db11784@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20760117
 DTEND;VALUE=DATE:20760118
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKI TELEKOM
@@ -849,8 +874,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKI TELEKOM
 DESCRIPTION:17. 7. 2076. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• HRVATSKI TELEKOM D.D. – Posebna upotreba pomorskog dobra (UMAG 
- - UMAGO)\, 15.627 €/god.\n\nProfil općine: https://koncesijski-sat.verc
- el.app/#opcina/41942358B32081341063434
+ - UMAGO) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\, 15.62
+ 7 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4
+ 1942358B32081341063434
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B32081341063434
 TRANSP:TRANSPARENT
 BEGIN:VALARM

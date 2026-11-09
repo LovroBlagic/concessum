@@ -4,24 +4,26 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Općina Trpanj
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Trpanj. Iz Regis
- tra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podat
- aka. https://koncesijski-sat.vercel.app/#opcina/41942358B63954772467188
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Općina Trpanj (pregled\
+ , svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježava s
+ e nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#opcina/
+ 41942358B63954772467188
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-4566a3686ed62c68@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-1a79ad8a8b171fdf@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20290625
 DTEND;VALUE=DATE:20290626
 SUMMARY:Ističe koncesija: MOORING SERVICE D.O.O. ZA USLUGE U POMORSTVU
 DESCRIPTION:1 ugovor o koncesiji ističe 25. 6. 2029. Godišnja fiksna nakn
  ada: 6.450 €.\n\n• MOORING SERVICE D.O.O. ZA USLUGE U POMORSTVU – Ko
- ncesija pomorskog dobra u svrhu gospodarskog korištenja luke (TRPANJ)\, 6
- .450 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcin
- a/41942358B63954772467188\nIzvor: Registar koncesija (FINA)\, obrada Konce
- sijski sat 9. 11. 2026.
+ ncesija pomorskog dobra u svrhu gospodarskog korištenja luke (TRPANJ) · 
+ davatelj: LUČKA UPRAVA DUBROVAČKO-NERETVANSKE ŽUPANIJE\, 6.450 €/god.
+ \n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B63
+ 954772467188\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9.
+  11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B63954772467188
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -31,8 +33,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-4566a3686ed62c68@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-1a79ad8a8b171fdf@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20281225
 DTEND;VALUE=DATE:20281226
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MOORING SERVICE 
@@ -40,9 +42,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MOORING SERVICE
 DESCRIPTION:25. 6. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• MOORING SERVICE D.O.O. ZA USLUGE U POMORSTVU – Koncesija pomors
- kog dobra u svrhu gospodarskog korištenja luke (TRPANJ)\, 6.450 €/god.\
- n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B639
- 54772467188
+ kog dobra u svrhu gospodarskog korištenja luke (TRPANJ) · davatelj: LUČ
+ KA UPRAVA DUBROVAČKO-NERETVANSKE ŽUPANIJE\, 6.450 €/god.\n\nProfil op
+ ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B63954772467188
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B63954772467188
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -53,17 +55,18 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-c69b0f62f0859ed9@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-7834e6c5d38e18b8@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20300701
 DTEND;VALUE=DATE:20300702
 SUMMARY:Ističe koncesija: MOORING SERVICE D.O.O. ZA USLUGE U POMORSTVU
 DESCRIPTION:1 ugovor o koncesiji ističe 1. 7. 2030. Godišnja fiksna nakna
  da: 10.751 €.\n\n• MOORING SERVICE D.O.O. ZA USLUGE U POMORSTVU – Ko
- ncesija pomorskog dobra u svrhu gospodarskog korištenja luke (TRPANJ)\, 1
- 0.751 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opci
- na/41942358B63954772467188\nIzvor: Registar koncesija (FINA)\, obrada Konc
- esijski sat 9. 11. 2026.
+ ncesija pomorskog dobra u svrhu gospodarskog korištenja luke (TRPANJ) · 
+ davatelj: LUČKA UPRAVA DUBROVAČKO-NERETVANSKE ŽUPANIJE\, 10.751 €/god
+ .\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B6
+ 3954772467188\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9
+ . 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B63954772467188
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -73,8 +76,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-c69b0f62f0859ed9@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-7834e6c5d38e18b8@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20300101
 DTEND;VALUE=DATE:20300102
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MOORING SERVICE 
@@ -82,9 +85,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MOORING SERVICE
 DESCRIPTION:1. 7. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• MOORING SERVICE D.O.O. ZA USLUGE U POMORSTVU – Koncesija pomorsk
- og dobra u svrhu gospodarskog korištenja luke (TRPANJ)\, 10.751 €/god.\
- n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B639
- 54772467188
+ og dobra u svrhu gospodarskog korištenja luke (TRPANJ) · davatelj: LUČK
+ A UPRAVA DUBROVAČKO-NERETVANSKE ŽUPANIJE\, 10.751 €/god.\n\nProfil op
+ ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B63954772467188
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B63954772467188
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -95,19 +98,21 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-202164eaf93f7bcc@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-08c6f61e7f6cbb7f@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20300722
 DTEND;VALUE=DATE:20300723
 SUMMARY:Ističe 2 koncesije · Trpanj
 DESCRIPTION:2 ugovora o koncesiji ističe 22. 7. 2030. Godišnja fiksna nak
  nada: 398 €.\n\n• KOMUNALNO TRPANJ DRUŠTVO S OGRANIČENOM ODGOVORNOŠ
  ĆU ZA KOMUNALNE DJELATNOSTI – Koncesija za obavljanje komunalnih djelat
- nosti (TRPANJ)\, 199 €/god.\n• KOMUNALNO TRPANJ DRUŠTVO S OGRANIČENO
- M ODGOVORNOŠĆU ZA KOMUNALNE DJELATNOSTI – Koncesija skupljanja i odvoz
- a komunalnog otpada (TRPANJ)\, 199 €/god.\n\nProfil općine: https://kon
- cesijski-sat.vercel.app/#opcina/41942358B63954772467188\nIzvor: Registar k
- oncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ nosti (TRPANJ) · davatelj: LUČKA UPRAVA DUBROVAČKO-NERETVANSKE ŽUPANIJ
+ E\, 199 €/god.\n• KOMUNALNO TRPANJ DRUŠTVO S OGRANIČENOM ODGOVORNOŠ
+ ĆU ZA KOMUNALNE DJELATNOSTI – Koncesija skupljanja i odvoza komunalnog 
+ otpada (TRPANJ) · davatelj: LUČKA UPRAVA DUBROVAČKO-NERETVANSKE ŽUPANI
+ JE\, 199 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#o
+ pcina/41942358B63954772467188\nIzvor: Registar koncesija (FINA)\, obrada K
+ oncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B63954772467188
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -117,30 +122,32 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-202164eaf93f7bcc@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-08c6f61e7f6cbb7f@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20300122
 DTEND;VALUE=DATE:20300123
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Trpanj
 DESCRIPTION:22. 7. 2030. ističe 2 ugovora o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• KOMUNALNO TRPANJ DRUŠTVO S OGRANIČENOM ODGOVORNOŠĆU ZA KOMUN
  ALNE DJELATNOSTI – Koncesija za obavljanje komunalnih djelatnosti (TRPAN
- J)\, 199 €/god.\n• KOMUNALNO TRPANJ DRUŠTVO S OGRANIČENOM ODGOVORNO
- ŠĆU ZA KOMUNALNE DJELATNOSTI – Koncesija skupljanja i odvoza komunalno
- g otpada (TRPANJ)\, 199 €/god.\n\nProfil općine: https://koncesijski-sa
- t.vercel.app/#opcina/41942358B63954772467188
+ J) · davatelj: LUČKA UPRAVA DUBROVAČKO-NERETVANSKE ŽUPANIJE\, 199 €/
+ god.\n• KOMUNALNO TRPANJ DRUŠTVO S OGRANIČENOM ODGOVORNOŠĆU ZA KOMUN
+ ALNE DJELATNOSTI – Koncesija skupljanja i odvoza komunalnog otpada (TRPA
+ NJ) · davatelj: LUČKA UPRAVA DUBROVAČKO-NERETVANSKE ŽUPANIJE\, 199 €
+ /god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419423
+ 58B63954772467188
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B63954772467188
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Trpanj
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-70d5d6cac4434a65@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-0ad72e76e9d7c9ea@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20440630
 DTEND;VALUE=DATE:20440701
 SUMMARY:Ističe koncesija: HEP-OPERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O.\, DP
@@ -148,9 +155,10 @@ SUMMARY:Ističe koncesija: HEP-OPERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O.\, DP
 DESCRIPTION:1 ugovor o koncesiji ističe 30. 6. 2044. Godišnja fiksna nakn
  ada: 159 €.\n\n• HEP-OPERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O.\, DP ELEK
  TRA ZAGREB – Koncesija pomorskog dobra za posebnu upotrebu u svrhu gradn
- je kabelske veze (TRPANJ)\, 159 €/god.\n\nProfil općine: https://konces
- ijski-sat.vercel.app/#opcina/41942358B63954772467188\nIzvor: Registar konc
- esija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ je kabelske veze (TRPANJ) · davatelj: DUBROVAČKO-NERETVANSKA ŽUPANIJA\,
+  159 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcin
+ a/41942358B63954772467188\nIzvor: Registar koncesija (FINA)\, obrada Konce
+ sijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B63954772467188
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -161,8 +169,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-70d5d6cac4434a65@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-0ad72e76e9d7c9ea@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20431230
 DTEND;VALUE=DATE:20431231
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP-OPERATOR DIS
@@ -171,8 +179,9 @@ DESCRIPTION:30. 6. 2044. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• HEP-OPERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O.\, DP ELEKTRA ZAGREB 
  – Koncesija pomorskog dobra za posebnu upotrebu u svrhu gradnje kabelske
-  veze (TRPANJ)\, 159 €/god.\n\nProfil općine: https://koncesijski-sat.v
- ercel.app/#opcina/41942358B63954772467188
+  veze (TRPANJ) · davatelj: DUBROVAČKO-NERETVANSKA ŽUPANIJA\, 159 €/go
+ d.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B
+ 63954772467188
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B63954772467188
 TRANSP:TRANSPARENT
 BEGIN:VALARM

@@ -1,0 +1,72 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · GRAD ZABOK
+X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje GRAD ZABOK. Iz Registra ko
+ ncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podataka. h
+ ttps://koncesijski-sat.vercel.app/#sat
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-511763e05916befc@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20270323
+DTEND;VALUE=DATE:20270324
+SUMMARY:Ističe koncesija: MAJA ŠĆUKANEC - EL-NI MAJA ŠĆUKANEC
+DESCRIPTION:1 ugovor o koncesiji ističe 23. 3. 2027. Godišnja fiksna nakn
+ ada: 876 €.\n\n• MAJA ŠĆUKANEC - EL-NI MAJA ŠĆUKANEC – Koncesija
+  za obavljanje djelatnosti tržnica na malo (ZABOK\, Grad Zabok)\, 876 €
+ /god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Reg
+ istar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: MAJA ŠĆUKANEC - EL-NI MAJA ŠĆUKANEC
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-7b4f6ba5bedcd65f@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20310821
+DTEND;VALUE=DATE:20310822
+SUMMARY:Ističe koncesija: LEUŠTEK J.D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 21. 8. 2031. Godišnja fiksna nakn
+ ada: 7.320 €.\n\n• LEUŠTEK J.D.O.O. – Koncesija za obavljanje dimnj
+ ačarskih poslova (ZABOK\, Grad Zabok)\, 7.320 €/god.\n\nŠto ističe: h
+ ttps://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\,
+  obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: LEUŠTEK J.D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-7b4f6ba5bedcd65f@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20310221
+DTEND;VALUE=DATE:20310222
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (LEUŠTEK J.D.O.O
+ .)
+DESCRIPTION:21. 8. 2031. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• LEUŠTEK J.D.O.O. – Koncesija za obavljanje dimnjačarskih posl
+ ova (ZABOK\, Grad Zabok)\, 7.320 €/god.\n\nŠto ističe: https://koncesi
+ jski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (LEUŠTEK J.D
+ .O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

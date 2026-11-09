@@ -1,0 +1,541 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · GRAD PULA - POLA
+X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje GRAD PULA - POLA. Iz Regis
+ tra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podat
+ aka. https://koncesijski-sat.vercel.app/#sat
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-feaf5d69b5eb9eb6@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20270519
+DTEND;VALUE=DATE:20270520
+SUMMARY:Ističe koncesija: DIMNJAK D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 19. 5. 2027. Godišnja fiksna nakn
+ ada: 3.053 €.\n\n• DIMNJAK D.O.O. – Koncesija za obavljanje dimnjač
+ arskih poslova (PULA - POLA\, Grad Pula)\, 3.053 €/god.\n\nŠto ističe:
+  https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)
+ \, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: DIMNJAK D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-feaf5d69b5eb9eb6@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DIMNJAK D.O.O.)
+DESCRIPTION:19. 5. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• DIMNJAK D.O.O. – Koncesija za obavljanje dimnjačarskih poslova
+  (PULA - POLA\, Grad Pula)\, 3.053 €/god.\n\nŠto ističe: https://konce
+ sijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DIMNJAK D.O.
+ O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-43415a8cd64f0bd6@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20330328
+DTEND;VALUE=DATE:20330329
+SUMMARY:Ističe koncesija: KLUB SPORTSKOG RIBOLOVA NA MORU ŠTINJAN PULA
+DESCRIPTION:1 ugovor o koncesiji ističe 28. 3. 2033. Godišnja fiksna nakn
+ ada: 1.682 €.\n\n• KLUB SPORTSKOG RIBOLOVA NA MORU ŠTINJAN PULA – K
+ oncesija pomorskog dobra u svrhu gospodarskog korištenja luke (PULA - POL
+ A\, Grad Pula)\, 1.682 €/god.\n\nŠto ističe: https://koncesijski-sat.v
+ ercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 
+ 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: KLUB SPORTSKOG RIBOLOVA NA MORU ŠTINJAN PUL
+ A
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-43415a8cd64f0bd6@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20320928
+DTEND;VALUE=DATE:20320929
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (KLUB SPORTSKOG R
+ IBOLOVA NA MORU ŠTINJAN PULA)
+DESCRIPTION:28. 3. 2033. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• KLUB SPORTSKOG RIBOLOVA NA MORU ŠTINJAN PULA – Koncesija pomor
+ skog dobra u svrhu gospodarskog korištenja luke (PULA - POLA\, Grad Pula)
+ \, 1.682 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (KLUB SPORTSK
+ OG RIBOLOVA NA MORU ŠTINJAN PULA)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-edd44b346cef9b11@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20350618
+DTEND;VALUE=DATE:20350619
+SUMMARY:Ističe 3 koncesije · GRAD PULA - POLA
+DESCRIPTION:3 ugovora o koncesiji ističe 18. 6. 2035. Godišnja fiksna nak
+ nada: 1.263 €.\n\n• VODOVOD PULA D.O.O. – Koncesija na pomorskom dob
+ ru (PULA - POLA\, Grad Pula)\, 421 €/god.\n• PLINARA D.O.O. – Konces
+ ija na pomorskom dobru (PULA - POLA\, Grad Pula)\, 421 €/god.\n• PRAGR
+ ANDE D.O.O. – Koncesija na pomorskom dobru (PULA - POLA\, Grad Pula)\, 4
+ 21 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzvo
+ r: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 3 koncesije · GRAD PULA - POLA
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-edd44b346cef9b11@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20341218
+DTEND;VALUE=DATE:20341219
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · GRAD PULA - PO
+ LA
+DESCRIPTION:18. 6. 2035. ističe 3 ugovora o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• VODOVOD PULA D.O.O. – Koncesija na pomorskom dobru (PULA - POL
+ A\, Grad Pula)\, 421 €/god.\n• PLINARA D.O.O. – Koncesija na pomorsk
+ om dobru (PULA - POLA\, Grad Pula)\, 421 €/god.\n• PRAGRANDE D.O.O. 
+ – Koncesija na pomorskom dobru (PULA - POLA\, Grad Pula)\, 421 €/god.\
+ n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · GRAD PULA 
+ - POLA
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-888afba3f3f80387@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20350619
+DTEND;VALUE=DATE:20350620
+SUMMARY:Ističe 2 koncesije · GRAD PULA - POLA
+DESCRIPTION:2 ugovora o koncesiji ističe 19. 6. 2035. Godišnja fiksna nak
+ nada: 10.792 €.\n\n• PRAGRANDE D.O.O. – Koncesija na pomorskom dobru
+  (PULA - POLA\, Grad Pula)\, 5.396 €/god.\n• PRAGRANDE D.O.O. – Konc
+ esija na pomorskom dobru (PULA - POLA\, Grad Pula)\, 5.396 €/god.\n\nŠt
+ o ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar konces
+ ija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 2 koncesije · GRAD PULA - POLA
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-888afba3f3f80387@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20341219
+DTEND;VALUE=DATE:20341220
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · GRAD PULA - PO
+ LA
+DESCRIPTION:19. 6. 2035. ističe 2 ugovora o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• PRAGRANDE D.O.O. – Koncesija na pomorskom dobru (PULA - POLA\,
+  Grad Pula)\, 5.396 €/god.\n• PRAGRANDE D.O.O. – Koncesija na pomors
+ kom dobru (PULA - POLA\, Grad Pula)\, 5.396 €/god.\n\nŠto ističe: http
+ s://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije · GRAD PULA 
+ - POLA
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-d9637d0727caaf32@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20370711
+DTEND;VALUE=DATE:20370712
+SUMMARY:Ističe koncesija: WARM UP D. O. O.
+DESCRIPTION:1 ugovor o koncesiji ističe 11. 7. 2037. Godišnja fiksna nakn
+ ada: 8.837 €.\n\n• WARM UP D. O. O. – Koncesija na pomorskom dobru (
+ PULA - POLA\, Grad Pula)\, 8.837 €/god.\n\nŠto ističe: https://koncesi
+ jski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Konces
+ ijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: WARM UP D. O. O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-d9637d0727caaf32@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20370111
+DTEND;VALUE=DATE:20370112
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (WARM UP D. O. O.
+ )
+DESCRIPTION:11. 7. 2037. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• WARM UP D. O. O. – Koncesija na pomorskom dobru (PULA - POLA\, 
+ Grad Pula)\, 8.837 €/god.\n\nŠto ističe: https://koncesijski-sat.verce
+ l.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (WARM UP D. O
+ . O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-2e2ea7237c9c5760@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20371123
+DTEND;VALUE=DATE:20371124
+SUMMARY:Ističe koncesija: PRAGRANDE D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 23. 11. 2037. Godišnja fiksna nak
+ nada: 253 €.\n\n• PRAGRANDE D.O.O. – Koncesija na pomorskom dobru (P
+ ULA - POLA\, Grad Pula)\, 253 €/god.\n\nŠto ističe: https://koncesijsk
+ i-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Koncesijs
+ ki sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: PRAGRANDE D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-2e2ea7237c9c5760@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20370523
+DTEND;VALUE=DATE:20370524
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PRAGRANDE D.O.O.
+ )
+DESCRIPTION:23. 11. 2037. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• PRAGRANDE D.O.O. – Koncesija na pomorskom dobru (PULA - POLA\,
+  Grad Pula)\, 253 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel
+ .app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PRAGRANDE D.
+ O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-7067b9234ca74e78@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20390205
+DTEND;VALUE=DATE:20390206
+SUMMARY:Ističe koncesija: HEP-OPERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 5. 2. 2039. Godišnja fiksna nakna
+ da: 7 €.\n\n• HEP-OPERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O. – Koncesij
+ a na pomorskom dobru u svrhu uzgoja morske ribe i školjkaša (PULA - POLA
+ \, Grad Pula)\, 7 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel
+ .app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11
+ . 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: HEP-OPERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-7067b9234ca74e78@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20380805
+DTEND;VALUE=DATE:20380806
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP-OPERATOR DIS
+ TRIBUCIJSKOG SUSTAVA D.O.O.)
+DESCRIPTION:5. 2. 2039. ističe 1 ugovor o koncesiji. Novi postupak dodjele
+  treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
+ \n\n• HEP-OPERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O. – Koncesija na pomor
+ skom dobru u svrhu uzgoja morske ribe i školjkaša (PULA - POLA\, Grad Pu
+ la)\, 7 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP-OPERATOR
+  DISTRIBUCIJSKOG SUSTAVA D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-126fb616be9a0149@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20390424
+DTEND;VALUE=DATE:20390425
+SUMMARY:Ističe koncesija: PRAGRANDE D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 24. 4. 2039. Godišnja fiksna nakn
+ ada: 164 €.\n\n• PRAGRANDE D.O.O. – Koncesija na pomorskom dobru (PU
+ LA - POLA\, Grad Pula)\, 164 €/god.\n\nŠto ističe: https://koncesijski
+ -sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Koncesijsk
+ i sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: PRAGRANDE D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-126fb616be9a0149@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20381024
+DTEND;VALUE=DATE:20381025
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PRAGRANDE D.O.O.
+ )
+DESCRIPTION:24. 4. 2039. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• PRAGRANDE D.O.O. – Koncesija na pomorskom dobru (PULA - POLA\, 
+ Grad Pula)\, 164 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.
+ app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PRAGRANDE D.
+ O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-b0ca7e69b8280961@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20390918
+DTEND;VALUE=DATE:20390919
+SUMMARY:Ističe koncesija: PRAGRANDE D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 18. 9. 2039. Godišnja fiksna nakn
+ ada: 13 €.\n\n• PRAGRANDE D.O.O. – Koncesija na pomorskom dobru (PUL
+ A - POLA\, Grad Pula)\, 13 €/god.\n\nŠto ističe: https://koncesijski-s
+ at.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski 
+ sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: PRAGRANDE D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-b0ca7e69b8280961@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20390318
+DTEND;VALUE=DATE:20390319
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PRAGRANDE D.O.O.
+ )
+DESCRIPTION:18. 9. 2039. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• PRAGRANDE D.O.O. – Koncesija na pomorskom dobru (PULA - POLA\, 
+ Grad Pula)\, 13 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.a
+ pp/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PRAGRANDE D.
+ O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-912416ab602eeb55@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20390919
+DTEND;VALUE=DATE:20390920
+SUMMARY:Ističe koncesija: TEHNOMONT - BRODOGRADILIŠTE PULA D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 19. 9. 2039. Godišnja fiksna nakn
+ ada: 29.146 €.\n\n• TEHNOMONT - BRODOGRADILIŠTE PULA D.O.O. – Konce
+ sija na pomorskom dobru (PULA - POLA\, Grad Pula)\, 29.146 €/god.\n\nŠt
+ o ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar konces
+ ija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: TEHNOMONT - BRODOGRADILIŠTE PULA D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-912416ab602eeb55@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20390319
+DTEND;VALUE=DATE:20390320
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (TEHNOMONT - BROD
+ OGRADILIŠTE PULA D.O.O.)
+DESCRIPTION:19. 9. 2039. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• TEHNOMONT - BRODOGRADILIŠTE PULA D.O.O. – Koncesija na pomorsk
+ om dobru (PULA - POLA\, Grad Pula)\, 29.146 €/god.\n\nŠto ističe: http
+ s://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (TEHNOMONT - 
+ BRODOGRADILIŠTE PULA D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-afb8813fe871d5fc@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20400127
+DTEND;VALUE=DATE:20400128
+SUMMARY:Ističe koncesija: PRAGRANDE D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 27. 1. 2040. Godišnja fiksna nakn
+ ada: 92 €.\n\n• PRAGRANDE D.O.O. – Koncesija na pomorskom dobru (PUL
+ A - POLA\, Grad Pula)\, 92 €/god.\n\nŠto ističe: https://koncesijski-s
+ at.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski 
+ sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: PRAGRANDE D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-afb8813fe871d5fc@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20390727
+DTEND;VALUE=DATE:20390728
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PRAGRANDE D.O.O.
+ )
+DESCRIPTION:27. 1. 2040. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• PRAGRANDE D.O.O. – Koncesija na pomorskom dobru (PULA - POLA\, 
+ Grad Pula)\, 92 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.a
+ pp/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PRAGRANDE D.
+ O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-4c1f3c76279b902f@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20401203
+DTEND;VALUE=DATE:20401204
+SUMMARY:Ističe koncesija: PRAGRANDE D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 3. 12. 2040. Godišnja fiksna nakn
+ ada: 3 €.\n\n• PRAGRANDE D.O.O. – Koncesija na pomorskom dobru (PULA
+  - POLA\, Grad Pula)\, 3 €/god.\n\nŠto ističe: https://koncesijski-sat
+ .vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sa
+ t 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: PRAGRANDE D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-4c1f3c76279b902f@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20400603
+DTEND;VALUE=DATE:20400604
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PRAGRANDE D.O.O.
+ )
+DESCRIPTION:3. 12. 2040. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• PRAGRANDE D.O.O. – Koncesija na pomorskom dobru (PULA - POLA\, 
+ Grad Pula)\, 3 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.ap
+ p/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PRAGRANDE D.
+ O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-13513e6e912b24bf@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20410426
+DTEND;VALUE=DATE:20410427
+SUMMARY:Ističe koncesija: PRAGRANDE D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 26. 4. 2041. Godišnja fiksna nakn
+ ada: 5 €.\n\n• PRAGRANDE D.O.O. – Koncesija na pomorskom dobru (PULA
+  - POLA\, Grad Pula)\, 5 €/god.\n\nŠto ističe: https://koncesijski-sat
+ .vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sa
+ t 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: PRAGRANDE D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-13513e6e912b24bf@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20401026
+DTEND;VALUE=DATE:20401027
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PRAGRANDE D.O.O.
+ )
+DESCRIPTION:26. 4. 2041. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• PRAGRANDE D.O.O. – Koncesija na pomorskom dobru (PULA - POLA\, 
+ Grad Pula)\, 5 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.ap
+ p/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PRAGRANDE D.
+ O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

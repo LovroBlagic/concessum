@@ -1,0 +1,57 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · OPĆINA LIŽNJAN-LISIGNANO
+X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje OPĆINA LIŽNJAN-LISIGNANO
+ . Iz Registra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake ob
+ rade podataka. https://koncesijski-sat.vercel.app/#sat
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-53721936d9c54f46@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20330120
+DTEND;VALUE=DATE:20330121
+SUMMARY:Ističe koncesija: DIMNJAK D.O.O. ZA DIMNJAČARSKE USLUGE I LOŽIŠ
+ NU TEHNIKU
+DESCRIPTION:1 ugovor o koncesiji ističe 20. 1. 2033. Godišnja fiksna nakn
+ ada: 664 €.\n\n• DIMNJAK D.O.O. ZA DIMNJAČARSKE USLUGE I LOŽIŠNU TE
+ HNIKU – Koncesija za obavljanje dimnjačarskih poslova (LIŽNJAN - LISIG
+ NANO\, Općina Ližnjan)\, 664 €/god.\n\nŠto ističe: https://koncesijs
+ ki-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Koncesij
+ ski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: DIMNJAK D.O.O. ZA DIMNJAČARSKE USLUGE I LO
+ ŽIŠNU TEHNIKU
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-53721936d9c54f46@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20320720
+DTEND;VALUE=DATE:20320721
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DIMNJAK D.O.O. Z
+ A DIMNJAČARSKE USLUGE I LOŽIŠNU TEHNIKU)
+DESCRIPTION:20. 1. 2033. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• DIMNJAK D.O.O. ZA DIMNJAČARSKE USLUGE I LOŽIŠNU TEHNIKU – Ko
+ ncesija za obavljanje dimnjačarskih poslova (LIŽNJAN - LISIGNANO\, Opći
+ na Ližnjan)\, 664 €/god.\n\nŠto ističe: https://koncesijski-sat.verce
+ l.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DIMNJAK D.O.
+ O. ZA DIMNJAČARSKE USLUGE I LOŽIŠNU TEHNIKU)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

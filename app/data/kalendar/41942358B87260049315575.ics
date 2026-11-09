@@ -4,23 +4,25 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Grad Lepoglava
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Grad Lepoglava. Iz Regis
- tra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podat
- aka. https://koncesijski-sat.vercel.app/#opcina/41942358B87260049315575
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Grad Lepoglava (pregled\
+ , svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježava s
+ e nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#opcina/
+ 41942358B87260049315575
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-27f8e8b227befca6@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-8e24189bc3dbae53@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270124
 DTEND;VALUE=DATE:20270125
 SUMMARY:Ističe koncesija: DIMAX D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 24. 1. 2027. Godišnja fiksna nakn
  ada: 1.725 €.\n\n• DIMAX D.O.O. – Koncesija za obavljanje dimnjačar
- skih poslova (LEPOGLAVA)\, 1.725 €/god.\n\nProfil općine: https://konce
- sijski-sat.vercel.app/#opcina/41942358B87260049315575\nIzvor: Registar kon
- cesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ skih poslova (LEPOGLAVA) · davatelj: GRAD LEPOGLAVA\, 1.725 €/god.\n\nP
+ rofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B8726004
+ 9315575\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 
+ 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B87260049315575
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -30,20 +32,22 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-aff0f771389a3e66@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-5ae5ba4999155711@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20281231
 DTEND;VALUE=DATE:20290101
 SUMMARY:Ističe 3 koncesije · Lepoglava
 DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2028. Godišnja fiksna na
  knada: 11.976 €.\n\n• HOLCIM (HRVATSKA) D.O.O. – Koncesija za eksplo
- ataciju tehničko-građevnog kamena (LEPOGLAVA)\, 5.988 €/god.\n• HOLC
- IM (HRVATSKA) D.O.O. – Koncesija za površinu utvrđenog eksploatacijsko
- g polja neenergetskih mineralnih sirovina (LEPOGLAVA)\, 5.988 €/god.\n
- • HOLCIM (HRVATSKA) D.O.O. – Koncesija za eksploataciju tehničko-gra
- đevnog kamena (LEPOGLAVA)\n\nProfil općine: https://koncesijski-sat.verc
- el.app/#opcina/41942358B87260049315575\nIzvor: Registar koncesija (FINA)\,
-  obrada Koncesijski sat 9. 11. 2026.
+ ataciju tehničko-građevnog kamena (LEPOGLAVA) · davatelj: MINISTARSTVO 
+ GOSPODARSTVA\, 5.988 €/god.\n• HOLCIM (HRVATSKA) D.O.O. – Koncesija 
+ za površinu utvrđenog eksploatacijskog polja neenergetskih mineralnih si
+ rovina (LEPOGLAVA) · davatelj: MINISTARSTVO GOSPODARSTVA\, 5.988 €/god.
+ \n• HOLCIM (HRVATSKA) D.O.O. – Koncesija za eksploataciju tehničko-gr
+ ađevnog kamena (LEPOGLAVA) · davatelj: MINISTARSTVO GOSPODARSTVA\n\nProf
+ il općine: https://koncesijski-sat.vercel.app/#opcina/41942358B8726004931
+ 5575\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 202
+ 6.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B87260049315575
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -53,43 +57,46 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-aff0f771389a3e66@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-5ae5ba4999155711@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20280630
 DTEND;VALUE=DATE:20280701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Lepoglava
 DESCRIPTION:31. 12. 2028. ističe 3 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• HOLCIM (HRVATSKA) D.O.O. – Koncesija za eksploataciju tehnič
- ko-građevnog kamena (LEPOGLAVA)\, 5.988 €/god.\n• HOLCIM (HRVATSKA) D
- .O.O. – Koncesija za površinu utvrđenog eksploatacijskog polja neenerg
- etskih mineralnih sirovina (LEPOGLAVA)\, 5.988 €/god.\n• HOLCIM (HRVAT
- SKA) D.O.O. – Koncesija za eksploataciju tehničko-građevnog kamena (LE
- POGLAVA)\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
- 42358B87260049315575
+ ko-građevnog kamena (LEPOGLAVA) · davatelj: MINISTARSTVO GOSPODARSTVA\, 
+ 5.988 €/god.\n• HOLCIM (HRVATSKA) D.O.O. – Koncesija za površinu ut
+ vrđenog eksploatacijskog polja neenergetskih mineralnih sirovina (LEPOGLA
+ VA) · davatelj: MINISTARSTVO GOSPODARSTVA\, 5.988 €/god.\n• HOLCIM (H
+ RVATSKA) D.O.O. – Koncesija za eksploataciju tehničko-građevnog kamena
+  (LEPOGLAVA) · davatelj: MINISTARSTVO GOSPODARSTVA\n\nProfil općine: htt
+ ps://koncesijski-sat.vercel.app/#opcina/41942358B87260049315575
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B87260049315575
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Lepoglava
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-7e65ef28bc24dc2b@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-640dfe30ef582d00@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20361231
 DTEND;VALUE=DATE:20370101
 SUMMARY:Ističe 3 koncesije · Lepoglava
 DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2036. Godišnja fiksna na
  knada: 438 €.\n\n• GOLUBOVEČKI KAMENOLOMI D.O.O. – Koncesija za eks
- ploataciju tehničko-građevnog kamena (LEPOGLAVA)\, 146 €/god.\n• GOL
- UBOVEČKI KAMENOLOMI D.O.O. – Koncesija za eksploataciju tehničko-građ
- evnog kamena (LEPOGLAVA)\, 146 €/god.\n• GOLUBOVEČKI KAMENOLOMI D.O.O
- . – Koncesija za površinu utvrđenog eksploatacijskog polja neenergetsk
- ih mineralnih sirovina (LEPOGLAVA)\, 146 €/god.\n\nProfil općine: https
- ://koncesijski-sat.vercel.app/#opcina/41942358B87260049315575\nIzvor: Regi
- star koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ ploataciju tehničko-građevnog kamena (LEPOGLAVA) · davatelj: MINISTARST
+ VO GOSPODARSTVA\, 146 €/god.\n• GOLUBOVEČKI KAMENOLOMI D.O.O. – Kon
+ cesija za eksploataciju tehničko-građevnog kamena (LEPOGLAVA) · davatel
+ j: MINISTARSTVO GOSPODARSTVA\, 146 €/god.\n• GOLUBOVEČKI KAMENOLOMI D
+ .O.O. – Koncesija za površinu utvrđenog eksploatacijskog polja neenerg
+ etskih mineralnih sirovina (LEPOGLAVA) · davatelj: MINISTARSTVO GOSPODARS
+ TVA\, 146 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#
+ opcina/41942358B87260049315575\nIzvor: Registar koncesija (FINA)\, obrada 
+ Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B87260049315575
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -99,25 +106,27 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-7e65ef28bc24dc2b@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-640dfe30ef582d00@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20360630
 DTEND;VALUE=DATE:20360701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Lepoglava
 DESCRIPTION:31. 12. 2036. ističe 3 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• GOLUBOVEČKI KAMENOLOMI D.O.O. – Koncesija za eksploataciju t
- ehničko-građevnog kamena (LEPOGLAVA)\, 146 €/god.\n• GOLUBOVEČKI KA
- MENOLOMI D.O.O. – Koncesija za eksploataciju tehničko-građevnog kamena
-  (LEPOGLAVA)\, 146 €/god.\n• GOLUBOVEČKI KAMENOLOMI D.O.O. – Konces
- ija za površinu utvrđenog eksploatacijskog polja neenergetskih mineralni
- h sirovina (LEPOGLAVA)\, 146 €/god.\n\nProfil općine: https://koncesijs
- ki-sat.vercel.app/#opcina/41942358B87260049315575
+ ehničko-građevnog kamena (LEPOGLAVA) · davatelj: MINISTARSTVO GOSPODARS
+ TVA\, 146 €/god.\n• GOLUBOVEČKI KAMENOLOMI D.O.O. – Koncesija za ek
+ sploataciju tehničko-građevnog kamena (LEPOGLAVA) · davatelj: MINISTARS
+ TVO GOSPODARSTVA\, 146 €/god.\n• GOLUBOVEČKI KAMENOLOMI D.O.O. – Ko
+ ncesija za površinu utvrđenog eksploatacijskog polja neenergetskih miner
+ alnih sirovina (LEPOGLAVA) · davatelj: MINISTARSTVO GOSPODARSTVA\, 146 
+ €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
+ 42358B87260049315575
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B87260049315575
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Lepoglava
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT

@@ -4,24 +4,25 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Općina Davor
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Davor. Iz Regist
- ra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podata
- ka. https://koncesijski-sat.vercel.app/#opcina/41942358B8432957809699
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Općina Davor (pregled\,
+  svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježava se
+  nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#opcina/4
+ 1942358B8432957809699
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-f5f5dea0e9903fc2@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-bebc5387ad120643@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20360620
 DTEND;VALUE=DATE:20360621
 SUMMARY:Ističe koncesija: POLJOPRIVREDNO PREHRAMBENI KOMPLEKS D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 20. 6. 2036. Godišnja fiksna nakn
  ada: 11.680 €.\n\n• POLJOPRIVREDNO PREHRAMBENI KOMPLEKS D.O.O. – Kon
  cesija za korištenje poljoprivrednog zemljišta u vlasništvu države (DA
- VOR)\, 11.680 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.a
- pp/#opcina/41942358B8432957809699\nIzvor: Registar koncesija (FINA)\, obra
- da Koncesijski sat 9. 11. 2026.
+ VOR) · davatelj: OPĆINA DAVOR\, 11.680 €/god.\n\nProfil općine: https
+ ://koncesijski-sat.vercel.app/#opcina/41942358B8432957809699\nIzvor: Regis
+ tar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B8432957809699
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -31,8 +32,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-f5f5dea0e9903fc2@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-bebc5387ad120643@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20351220
 DTEND;VALUE=DATE:20351221
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (POLJOPRIVREDNO P
@@ -40,9 +41,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (POLJOPRIVREDNO P
 DESCRIPTION:20. 6. 2036. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• POLJOPRIVREDNO PREHRAMBENI KOMPLEKS D.O.O. – Koncesija za kori
- štenje poljoprivrednog zemljišta u vlasništvu države (DAVOR)\, 11.680 
- €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
- 42358B8432957809699
+ štenje poljoprivrednog zemljišta u vlasništvu države (DAVOR) · davate
+ lj: OPĆINA DAVOR\, 11.680 €/god.\n\nProfil općine: https://koncesijski
+ -sat.vercel.app/#opcina/41942358B8432957809699
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B8432957809699
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -53,8 +54,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-127f6e247ed6ddf5@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-354d0505eab23928@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20370223
 DTEND;VALUE=DATE:20370224
 SUMMARY:Ističe koncesija: E.ON DISTRIBUCIJA PLINA D.O.O.
@@ -63,9 +64,10 @@ DESCRIPTION:1 ugovor o koncesiji ističe 23. 2. 2037. Godišnja fiksna nakn
  vljanje distribucije plina na postojećem distribucijskom sustavu (DAVOR\,
   GORNJI BOGIĆEVCI\, GORNJI BOGIĆEVCI\, NOVA KAPELA\, NOVA KAPELA\, OKUČ
  ANI\, OKUČANI\, STARA GRADIŠKA\, STARA GRADIŠKA\, STARO PETROVO SELO\, 
- STARO PETROVO SELO\, VRBJE\, VRBJE)\, 2.329 €/god.\n\nProfil općine: ht
- tps://koncesijski-sat.vercel.app/#opcina/41942358B8432957809699\nIzvor: Re
- gistar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ STARO PETROVO SELO\, VRBJE\, VRBJE) · davatelj: BRODSKO-POSAVSKA ŽUPANIJ
+ A\, 2.329 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#
+ opcina/41942358B8432957809699\nIzvor: Registar koncesija (FINA)\, obrada K
+ oncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B8432957809699
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -75,8 +77,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-127f6e247ed6ddf5@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-354d0505eab23928@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20360823
 DTEND;VALUE=DATE:20360824
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (E.ON DISTRIBUCIJ
@@ -87,8 +89,9 @@ DESCRIPTION:23. 2. 2037. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  bucije plina na postojećem distribucijskom sustavu (DAVOR\, GORNJI BOGIĆ
  EVCI\, GORNJI BOGIĆEVCI\, NOVA KAPELA\, NOVA KAPELA\, OKUČANI\, OKUČANI
  \, STARA GRADIŠKA\, STARA GRADIŠKA\, STARO PETROVO SELO\, STARO PETROVO 
- SELO\, VRBJE\, VRBJE)\, 2.329 €/god.\n\nProfil općine: https://koncesij
- ski-sat.vercel.app/#opcina/41942358B8432957809699
+ SELO\, VRBJE\, VRBJE) · davatelj: BRODSKO-POSAVSKA ŽUPANIJA\, 2.329 €/
+ god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4194235
+ 8B8432957809699
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B8432957809699
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -99,17 +102,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-bdec38805c5684e8@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-c4a27f15c839ec22@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20550626
 DTEND;VALUE=DATE:20550627
 SUMMARY:Ističe koncesija: ASPECT CROATIA KFT. - PODRUŽNICA ZAGREB
 DESCRIPTION:1 ugovor o koncesiji ističe 26. 6. 2055. Godišnja fiksna nakn
  ada: 2.268 €.\n\n• ASPECT CROATIA KFT. - PODRUŽNICA ZAGREB – Dozvol
- a za istraživanje ugljikovodika (prema Zakonu o ugljikovodicima) (DAVOR)\
- , 2.268 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#op
- cina/41942358B8432957809699\nIzvor: Registar koncesija (FINA)\, obrada Kon
- cesijski sat 9. 11. 2026.
+ a za istraživanje ugljikovodika (prema Zakonu o ugljikovodicima) (DAVOR) 
+ · davatelj: MINISTARSTVO GOSPODARSTVA\, 2.268 €/god.\n\nProfil općine:
+  https://koncesijski-sat.vercel.app/#opcina/41942358B8432957809699\nIzvor:
+  Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B8432957809699
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -119,8 +122,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-bdec38805c5684e8@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-c4a27f15c839ec22@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20541226
 DTEND;VALUE=DATE:20541227
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ASPECT CROATIA K
@@ -128,9 +131,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ASPECT CROATIA K
 DESCRIPTION:26. 6. 2055. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• ASPECT CROATIA KFT. - PODRUŽNICA ZAGREB – Dozvola za istraživ
- anje ugljikovodika (prema Zakonu o ugljikovodicima) (DAVOR)\, 2.268 €/go
- d.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B
- 8432957809699
+ anje ugljikovodika (prema Zakonu o ugljikovodicima) (DAVOR) · davatelj: M
+ INISTARSTVO GOSPODARSTVA\, 2.268 €/god.\n\nProfil općine: https://konce
+ sijski-sat.vercel.app/#opcina/41942358B8432957809699
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B8432957809699
 TRANSP:TRANSPARENT
 BEGIN:VALARM

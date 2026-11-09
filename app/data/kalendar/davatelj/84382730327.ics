@@ -1,0 +1,174 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · GRAD VALPOVO
+X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje GRAD VALPOVO. Iz Registra 
+ koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podataka.
+  https://koncesijski-sat.vercel.app/#sat
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-f0159a93713540d9@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20330425
+DTEND;VALUE=DATE:20330426
+SUMMARY:Ističe koncesija: HEP - PLIN  D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 25. 4. 2033.\n\n• HEP - PLIN  D.
+ O.O. – Koncesija za opskrbu potrošača prirodnim plinom (VALPOVO\, Grad
+  Valpovo)\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor:
+  Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: HEP - PLIN  D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-f0159a93713540d9@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20321025
+DTEND;VALUE=DATE:20321026
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP - PLIN  D.O.
+ O.)
+DESCRIPTION:25. 4. 2033. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• HEP - PLIN  D.O.O. – Koncesija za opskrbu potrošača prirodnim
+  plinom (VALPOVO\, Grad Valpovo)\n\nŠto ističe: https://koncesijski-sat.
+ vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP - PLIN  
+ D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-5f048f738b48b208@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20331015
+DTEND;VALUE=DATE:20331016
+SUMMARY:Ističe koncesija: DIMNJAČARSKI OBRT VALPOVO\, VL. ROBERT POHIŽEK
+DESCRIPTION:1 ugovor o koncesiji ističe 15. 10. 2033. Godišnja fiksna nak
+ nada: 1.500 €.\n\n• DIMNJAČARSKI OBRT VALPOVO\, VL. ROBERT POHIŽEK 
+ – Koncesija za obavljanje dimnjačarskih poslova (VALPOVO\, Grad Valpovo
+ )\, 1.500 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sa
+ t\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: DIMNJAČARSKI OBRT VALPOVO\, VL. ROBERT POHI
+ ŽEK
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-5f048f738b48b208@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20330415
+DTEND;VALUE=DATE:20330416
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DIMNJAČARSKI OB
+ RT VALPOVO\, VL. ROBERT POHIŽEK)
+DESCRIPTION:15. 10. 2033. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• DIMNJAČARSKI OBRT VALPOVO\, VL. ROBERT POHIŽEK – Koncesija z
+ a obavljanje dimnjačarskih poslova (VALPOVO\, Grad Valpovo)\, 1.500 €/g
+ od.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DIMNJAČARSK
+ I OBRT VALPOVO\, VL. ROBERT POHIŽEK)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-ac8e079fa6867d5d@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20370112
+DTEND;VALUE=DATE:20370113
+SUMMARY:Ističe koncesija: PPK VALPOVO  D.D.
+DESCRIPTION:1 ugovor o koncesiji ističe 12. 1. 2037. Godišnja fiksna nakn
+ ada: 222.588 €.\n\n• PPK VALPOVO  D.D. – Koncesija za korištenje po
+ ljoprivrednog zemljišta u vlasništvu države (VALPOVO\, Grad Valpovo)\, 
+ 222.588 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\
+ nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: PPK VALPOVO  D.D.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-ac8e079fa6867d5d@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20360712
+DTEND;VALUE=DATE:20360713
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PPK VALPOVO  D.D
+ .)
+DESCRIPTION:12. 1. 2037. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• PPK VALPOVO  D.D. – Koncesija za korištenje poljoprivrednog ze
+ mljišta u vlasništvu države (VALPOVO\, Grad Valpovo)\, 222.588 €/god.
+ \n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PPK VALPOVO 
+  D.D.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-dfd25fc70abbd8db@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20371231
+DTEND;VALUE=DATE:20380101
+SUMMARY:Ističe koncesija: PPK VALPOVO EKO D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 31. 12. 2037. Godišnja fiksna nak
+ nada: 49.755 €.\n\n• PPK VALPOVO EKO D.O.O. – Koncesija za korišten
+ je poljoprivrednog zemljišta u vlasništvu države (VALPOVO\, Grad Valpov
+ o)\, 49.755 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#
+ sat\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026
+ .
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: PPK VALPOVO EKO D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-dfd25fc70abbd8db@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20370630
+DTEND;VALUE=DATE:20370701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PPK VALPOVO EKO 
+ D.O.O.)
+DESCRIPTION:31. 12. 2037. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• PPK VALPOVO EKO D.O.O. – Koncesija za korištenje poljoprivred
+ nog zemljišta u vlasništvu države (VALPOVO\, Grad Valpovo)\, 49.755 €
+ /god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PPK VALPOVO 
+ EKO D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

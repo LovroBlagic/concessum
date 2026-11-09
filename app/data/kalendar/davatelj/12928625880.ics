@@ -1,0 +1,161 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · BJELOVARSKO-BILOGORSKA ŽUPANIJA
+X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje BJELOVARSKO-BILOGORSKA ŽU
+ PANIJA. Iz Registra koncesija (FINA\, data.gov.hr). Osvježava se nakon sv
+ ake obrade podataka. https://koncesijski-sat.vercel.app/#sat
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-f260522e2ca8138a@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20270301
+DTEND;VALUE=DATE:20270302
+SUMMARY:Ističe koncesija: PRIVATNA PRAKSA ZDRAVSTVENE NJEGE IVANA BERAK\, 
+ MED. SESTRA
+DESCRIPTION:1 ugovor o koncesiji ističe 1. 3. 2027. Godišnja fiksna nakna
+ da: 478 €.\n\n• PRIVATNA PRAKSA ZDRAVSTVENE NJEGE IVANA BERAK\, MED. S
+ ESTRA – Koncesija za obavljanje javne zdravstvene službe (IVANSKA)\, 47
+ 8 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor
+ : Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: PRIVATNA PRAKSA ZDRAVSTVENE NJEGE IVANA BERA
+ K\, MED. SESTRA
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-c89eac1793695a60@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20300420
+DTEND;VALUE=DATE:20300421
+SUMMARY:Ističe koncesija: ELEKTROMETAL-DISTRIBUCIJA PLINA D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 20. 4. 2030. Godišnja fiksna nakn
+ ada: 1.327 €.\n\n• ELEKTROMETAL-DISTRIBUCIJA PLINA D.O.O. – Koncesij
+ a za obavljanje distribucije plina na postojećem distribucijskom sustavu 
+ (BEREK\, BJELOVAR\, BJELOVAR\, IVANSKA\, IVANSKA\, KAPELA\, KAPELA\, NOVA 
+ RAČA\, NOVA RAČA\, ROVIŠĆE\, ROVIŠĆE\, SEVERIN\, SEVERIN\, VELIKA PI
+ SANICA\, VELIKA PISANICA\, VELIKI GRĐEVAC\, VELIKI GRĐEVAC\, ŠTEFANJE\,
+  ŠTEFANJE\, Općina Berek)\, 1.327 €/god.\n\nŠto ističe: https://konc
+ esijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Kon
+ cesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: ELEKTROMETAL-DISTRIBUCIJA PLINA D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-c89eac1793695a60@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20291020
+DTEND;VALUE=DATE:20291021
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ELEKTROMETAL-DIS
+ TRIBUCIJA PLINA D.O.O.)
+DESCRIPTION:20. 4. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• ELEKTROMETAL-DISTRIBUCIJA PLINA D.O.O. – Koncesija za obavljanj
+ e distribucije plina na postojećem distribucijskom sustavu (BEREK\, BJELO
+ VAR\, BJELOVAR\, IVANSKA\, IVANSKA\, KAPELA\, KAPELA\, NOVA RAČA\, NOVA R
+ AČA\, ROVIŠĆE\, ROVIŠĆE\, SEVERIN\, SEVERIN\, VELIKA PISANICA\, VELIK
+ A PISANICA\, VELIKI GRĐEVAC\, VELIKI GRĐEVAC\, ŠTEFANJE\, ŠTEFANJE\, O
+ pćina Berek)\, 1.327 €/god.\n\nŠto ističe: https://koncesijski-sat.ve
+ rcel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ELEKTROMETAL
+ -DISTRIBUCIJA PLINA D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-65e4319177bd52a3@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20300524
+DTEND;VALUE=DATE:20300525
+SUMMARY:Ističe koncesija: ČAPLIN D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 24. 5. 2030.\n\n• ČAPLIN D.O.O.
+  – Koncesija za obavljanje distribucije plina na postojećem distribucij
+ skom sustavu (ČAZMA\, Grad Čazma)\n\nŠto ističe: https://koncesijski-s
+ at.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski 
+ sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: ČAPLIN D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-65e4319177bd52a3@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20291124
+DTEND;VALUE=DATE:20291125
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ČAPLIN D.O.O.)
+DESCRIPTION:24. 5. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• ČAPLIN D.O.O. – Koncesija za obavljanje distribucije plina na 
+ postojećem distribucijskom sustavu (ČAZMA\, Grad Čazma)\n\nŠto ističe
+ : https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ČAPLIN D.O.
+ O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-8c3c1d286f94cb16@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20420508
+DTEND;VALUE=DATE:20420509
+SUMMARY:Ističe koncesija: SIROVINA - TRGOPRERADA D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 8. 5. 2042. Godišnja fiksna nakna
+ da: 2.203 €.\n\n• SIROVINA - TRGOPRERADA D.O.O. – Koncesija za skupl
+ janje ambalažnog otpada (BJELOVAR\, Grad Bjelovar)\, 2.203 €/god.\n\nŠ
+ to ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar konce
+ sija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: SIROVINA - TRGOPRERADA D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-8c3c1d286f94cb16@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20411108
+DTEND;VALUE=DATE:20411109
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (SIROVINA - TRGOP
+ RERADA D.O.O.)
+DESCRIPTION:8. 5. 2042. ističe 1 ugovor o koncesiji. Novi postupak dodjele
+  treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
+ \n\n• SIROVINA - TRGOPRERADA D.O.O. – Koncesija za skupljanje ambalaž
+ nog otpada (BJELOVAR\, Grad Bjelovar)\, 2.203 €/god.\n\nŠto ističe: ht
+ tps://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (SIROVINA - T
+ RGOPRERADA D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

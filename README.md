@@ -42,7 +42,7 @@ Kad koncesija istekne prije nego što je proveden novi postupak, javno se dobro 
 - **Objašnjenje uz svaki pokazatelj.**
 - **Pamti zadnju gledanu općinu.**
 - **Preuzmi CSV.** Datoteka se izravno otvara u hrvatskom Excelu (`;` kao razdjelnik, UTF-8 s BOM-om).
-- **Pretplata na rokove.** Svaka općina ima stalnu kalendarsku adresu (`/data/kalendar/<id>.ics`). Službenik je jednom doda u Google, Outlook (Microsoft 365) ili Apple kalendar, a novi rokovi pojavljuju se sami nakon svakog osvježavanja podataka. Ugovori koji ističu istog dana su jedan događaj s popisom i naknadom; 6 mjeseci ranije stoji događaj „pripremiti postupak“. Bez prijave i bez e-adrese, pa nema ni osobnih podataka korisnika.
+- **Pretplata na rokove.** Dvije vrste kalendara sa stalnom adresom: **po davatelju** („moji ugovori“, `/data/kalendar/davatelj/<OIB>.ics`, 351 davatelj) za onoga tko vodi postupak, i **po općini** (`/data/kalendar/<id>.ics`, 477 općina) kao pregled svih ugovora na području. Razlika je bitna: općine same dodjeljuju tek 12 % aktivnih koncesija na svom području (Grad Dubrovnik 13 od 349), ostalo lučke uprave, županije i ministarstva. Službenik kalendar jednom doda u Google, Outlook (Microsoft 365) ili Apple kalendar, a novi rokovi pojavljuju se sami nakon svakog osvježavanja podataka. Ugovori koji ističu istog dana su jedan događaj s popisom i naknadom; 6 mjeseci ranije stoji događaj „pripremiti postupak“. Bez prijave i bez e-adrese, pa nema ni osobnih podataka korisnika.
 - **Preuzmi rokove (.ics).** Jednokratna kopija rokova s popisa, s podsjetnikom 6 mjeseci i mjesec dana prije isteka.
 - **Ispiši izvještaj.** Profil općine sprema se kao PDF, spreman za vijeće.
 - **Radi na mobitelu**, ima svijetlu i tamnu temu, a grafovi imaju tekstualne opise za čitače zaslona.
@@ -84,7 +84,7 @@ python3 -m http.server 8766 --directory app        # http://localhost:8766
 pip install pandas rapidfuzz
 python3 izvori.py                 # provjera izvora na Portalu -> izvori.json
 python3 obrada.py koncesije.txt   # -> koncesije.json, opcine.geojson
-python3 izvoz_web.py              # -> app/data/podaci.js, granice.js, koncesije.csv, kalendar/<shapeID>.ics
+python3 izvoz_web.py              # -> app/data/podaci.js, granice.js, koncesije.csv, kalendar/<shapeID>.ics, kalendar/davatelj/<OIB>.ics
 ```
 
 `koncesije.txt` je izvoz „Preuzmi sve podatke“ s servisi.fina.hr/regkonc (windows-1250, `;`). Status ugovora (aktivna, ističe, istekla) aplikacija računa prema današnjem datumu u pregledniku, pa ostaje točan i bez ponovne obrade.

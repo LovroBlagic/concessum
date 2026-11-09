@@ -4,26 +4,26 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Grad Novi Vinodolski
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Grad Novi Vinodolski. Iz
-  Registra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade
-  podataka. https://koncesijski-sat.vercel.app/#opcina/41942358B34203868969
- 139
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Grad Novi Vinodolski (pr
+ egled\, svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvje
+ žava se nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#
+ opcina/41942358B34203868969139
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-40b7369e9cfec20d@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-b57e8dec3a2581f1@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270201
 DTEND;VALUE=DATE:20270202
 SUMMARY:Ističe koncesija: ŠKOLJIĆ OBRT ZA UGOSTITELJSTVO I USLUGE\, VL. 
  ŽELJKA KOMADINA
 DESCRIPTION:1 ugovor o koncesiji ističe 1. 2. 2027. Godišnja fiksna nakna
  da: 7.666 €.\n\n• ŠKOLJIĆ OBRT ZA UGOSTITELJSTVO I USLUGE\, VL. ŽEL
- JKA KOMADINA – Koncesija na pomorskom dobru (NOVI VINODOLSKI)\, 7.666 
- €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
- 42358B34203868969139\nIzvor: Registar koncesija (FINA)\, obrada Koncesijsk
- i sat 9. 11. 2026.
+ JKA KOMADINA – Koncesija na pomorskom dobru (NOVI VINODOLSKI) · davatel
+ j: PRIMORSKO GORANSKA ŽUPANIJA\, 7.666 €/god.\n\nProfil općine: https:
+ //koncesijski-sat.vercel.app/#opcina/41942358B34203868969139\nIzvor: Regis
+ tar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B34203868969139
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -34,16 +34,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-5da0150004d9193f@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-50de38a0d9486012@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20271027
 DTEND;VALUE=DATE:20271028
 SUMMARY:Ističe koncesija: NAVITECH D. O. O.
 DESCRIPTION:1 ugovor o koncesiji ističe 27. 10. 2027. Godišnja fiksna nak
  nada: 2.920 €.\n\n• NAVITECH D. O. O. – Koncesija na pomorskom dobru
-  (NOVI VINODOLSKI)\, 2.920 €/god.\n\nProfil općine: https://koncesijski
- -sat.vercel.app/#opcina/41942358B34203868969139\nIzvor: Registar koncesija
-  (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+  (NOVI VINODOLSKI) · davatelj: ŽUPANIJSKA LUČKA UPRAVA NOVI VINODOLSKI\
+ , 2.920 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#op
+ cina/41942358B34203868969139\nIzvor: Registar koncesija (FINA)\, obrada Ko
+ ncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B34203868969139
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -53,8 +54,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-5da0150004d9193f@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-50de38a0d9486012@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270427
 DTEND;VALUE=DATE:20270428
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (NAVITECH D. O. O
@@ -62,8 +63,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (NAVITECH D. O. O
 DESCRIPTION:27. 10. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• NAVITECH D. O. O. – Koncesija na pomorskom dobru (NOVI VINODOL
- SKI)\, 2.920 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.ap
- p/#opcina/41942358B34203868969139
+ SKI) · davatelj: ŽUPANIJSKA LUČKA UPRAVA NOVI VINODOLSKI\, 2.920 €/go
+ d.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B
+ 34203868969139
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B34203868969139
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -74,18 +76,18 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-9af790df1fea092f@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-92e395a1559480ac@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20300313
 DTEND;VALUE=DATE:20300314
 SUMMARY:Ističe koncesija: ŽARKO CVITKOVIĆ\, ŠTORIJA\, VL. ŽARKO CVITKO
  VIĆ
 DESCRIPTION:1 ugovor o koncesiji ističe 13. 3. 2030. Godišnja fiksna nakn
  ada: 415 €.\n\n• ŽARKO CVITKOVIĆ\, ŠTORIJA\, VL. ŽARKO CVITKOVIĆ 
- – Koncesija na pomorskom dobru (NOVI VINODOLSKI)\, 415 €/god.\n\nProfi
- l općine: https://koncesijski-sat.vercel.app/#opcina/41942358B34203868969
- 139\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026
- .
+ – Koncesija na pomorskom dobru (NOVI VINODOLSKI) · davatelj: ŽUPANIJSK
+ A LUČKA UPRAVA NOVI VINODOLSKI\, 415 €/god.\n\nProfil općine: https://
+ koncesijski-sat.vercel.app/#opcina/41942358B34203868969139\nIzvor: Regista
+ r koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B34203868969139
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -96,8 +98,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-9af790df1fea092f@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-92e395a1559480ac@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20290913
 DTEND;VALUE=DATE:20290914
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ŽARKO CVITKOVI
@@ -105,8 +107,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ŽARKO CVITKOVI
 DESCRIPTION:13. 3. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• ŽARKO CVITKOVIĆ\, ŠTORIJA\, VL. ŽARKO CVITKOVIĆ – Koncesij
- a na pomorskom dobru (NOVI VINODOLSKI)\, 415 €/god.\n\nProfil općine: h
- ttps://koncesijski-sat.vercel.app/#opcina/41942358B34203868969139
+ a na pomorskom dobru (NOVI VINODOLSKI) · davatelj: ŽUPANIJSKA LUČKA UPR
+ AVA NOVI VINODOLSKI\, 415 €/god.\n\nProfil općine: https://koncesijski-
+ sat.vercel.app/#opcina/41942358B34203868969139
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B34203868969139
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -117,16 +120,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-712da3c9070e4f8b@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-1844d3fd0ebe0ca1@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20310125
 DTEND;VALUE=DATE:20310126
 SUMMARY:Ističe koncesija: NOVI DIM D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 25. 1. 2031. Godišnja fiksna nakn
  ada: 1.327 €.\n\n• NOVI DIM D.O.O. – Koncesija za obavljanje dimnja
- čarskih poslova (NOVI VINODOLSKI)\, 1.327 €/god.\n\nProfil općine: htt
- ps://koncesijski-sat.vercel.app/#opcina/41942358B34203868969139\nIzvor: Re
- gistar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ čarskih poslova (NOVI VINODOLSKI) · davatelj: GRAD NOVI VINODOLSKI\, 1.3
+ 27 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/
+ 41942358B34203868969139\nIzvor: Registar koncesija (FINA)\, obrada Koncesi
+ jski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B34203868969139
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -136,16 +140,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-712da3c9070e4f8b@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-1844d3fd0ebe0ca1@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20300725
 DTEND;VALUE=DATE:20300726
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (NOVI DIM D.O.O.)
 DESCRIPTION:25. 1. 2031. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• NOVI DIM D.O.O. – Koncesija za obavljanje dimnjačarskih poslov
- a (NOVI VINODOLSKI)\, 1.327 €/god.\n\nProfil općine: https://koncesijsk
- i-sat.vercel.app/#opcina/41942358B34203868969139
+ a (NOVI VINODOLSKI) · davatelj: GRAD NOVI VINODOLSKI\, 1.327 €/god.\n\n
+ Profil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B342038
+ 68969139
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B34203868969139
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -156,18 +161,18 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-e72339b947a0ad35@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-9abe19c4a847bb2f@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20320926
 DTEND;VALUE=DATE:20320927
 SUMMARY:Ističe koncesija: ADRIATIC FARMING D.O.O. ZA RIBARSTVO\, TR GOVINU
   I USLUGE
 DESCRIPTION:1 ugovor o koncesiji ističe 26. 9. 2032. Godišnja fiksna nakn
  ada: 1.404 €.\n\n• ADRIATIC FARMING D.O.O. ZA RIBARSTVO\, TR GOVINU I 
- USLUGE – Koncesija na pomorskom dobru (NOVI VINODOLSKI)\, 1.404 €/god.
- \n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B34
- 203868969139\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9.
-  11. 2026.
+ USLUGE – Koncesija na pomorskom dobru (NOVI VINODOLSKI) · davatelj: PRI
+ MORSKO GORANSKA ŽUPANIJA\, 1.404 €/god.\n\nProfil općine: https://konc
+ esijski-sat.vercel.app/#opcina/41942358B34203868969139\nIzvor: Registar ko
+ ncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B34203868969139
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -178,8 +183,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-e72339b947a0ad35@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-9abe19c4a847bb2f@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20320326
 DTEND;VALUE=DATE:20320327
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ADRIATIC FARMING
@@ -187,8 +192,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ADRIATIC FARMING
 DESCRIPTION:26. 9. 2032. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• ADRIATIC FARMING D.O.O. ZA RIBARSTVO\, TR GOVINU I USLUGE – Kon
- cesija na pomorskom dobru (NOVI VINODOLSKI)\, 1.404 €/god.\n\nProfil op
- ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B34203868969139
+ cesija na pomorskom dobru (NOVI VINODOLSKI) · davatelj: PRIMORSKO GORANSK
+ A ŽUPANIJA\, 1.404 €/god.\n\nProfil općine: https://koncesijski-sat.ve
+ rcel.app/#opcina/41942358B34203868969139
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B34203868969139
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -199,20 +205,22 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-cf2559e6f1dfa2f6@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-2b3bebe845099007@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20321231
 DTEND;VALUE=DATE:20330101
 SUMMARY:Ističe 3 koncesije · Novi Vinodolski
 DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2032. Godišnja fiksna na
  knada: 2.132 €.\n\n• KAMENOLOM KOLEVRAT D.O.O. – Koncesija za eksplo
- ataciju tehničko-građevnog kamena (NOVI VINODOLSKI)\, 1.066 €/god.\n
- • KAMENOLOM KOLEVRAT D.O.O. – Koncesija za površinu utvrđenog eksplo
- atacijskog polja neenergetskih mineralnih sirovina (NOVI VINODOLSKI)\, 1.0
- 66 €/god.\n• KAMENOLOM KOLEVRAT D.O.O. – Koncesija za eksploataciju 
- tehničko-građevnog kamena (NOVI VINODOLSKI)\n\nProfil općine: https://k
- oncesijski-sat.vercel.app/#opcina/41942358B34203868969139\nIzvor: Registar
-  koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ ataciju tehničko-građevnog kamena (NOVI VINODOLSKI) · davatelj: MINISTA
+ RSTVO GOSPODARSTVA\, 1.066 €/god.\n• KAMENOLOM KOLEVRAT D.O.O. – Kon
+ cesija za površinu utvrđenog eksploatacijskog polja neenergetskih minera
+ lnih sirovina (NOVI VINODOLSKI) · davatelj: MINISTARSTVO GOSPODARSTVA\, 1
+ .066 €/god.\n• KAMENOLOM KOLEVRAT D.O.O. – Koncesija za eksploatacij
+ u tehničko-građevnog kamena (NOVI VINODOLSKI) · davatelj: MINISTARSTVO 
+ GOSPODARSTVA\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina
+ /41942358B34203868969139\nIzvor: Registar koncesija (FINA)\, obrada Konces
+ ijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B34203868969139
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -222,39 +230,44 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-cf2559e6f1dfa2f6@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-2b3bebe845099007@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20320630
 DTEND;VALUE=DATE:20320701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Novi Vinodolsk
+ i
 DESCRIPTION:31. 12. 2032. ističe 3 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• KAMENOLOM KOLEVRAT D.O.O. – Koncesija za eksploataciju tehni
- čko-građevnog kamena (NOVI VINODOLSKI)\, 1.066 €/god.\n• KAMENOLOM K
- OLEVRAT D.O.O. – Koncesija za površinu utvrđenog eksploatacijskog polj
- a neenergetskih mineralnih sirovina (NOVI VINODOLSKI)\, 1.066 €/god.\n
- • KAMENOLOM KOLEVRAT D.O.O. – Koncesija za eksploataciju tehničko-gra
- đevnog kamena (NOVI VINODOLSKI)\n\nProfil općine: https://koncesijski-sa
- t.vercel.app/#opcina/41942358B34203868969139
+ čko-građevnog kamena (NOVI VINODOLSKI) · davatelj: MINISTARSTVO GOSPODA
+ RSTVA\, 1.066 €/god.\n• KAMENOLOM KOLEVRAT D.O.O. – Koncesija za pov
+ ršinu utvrđenog eksploatacijskog polja neenergetskih mineralnih sirovina
+  (NOVI VINODOLSKI) · davatelj: MINISTARSTVO GOSPODARSTVA\, 1.066 €/god.
+ \n• KAMENOLOM KOLEVRAT D.O.O. – Koncesija za eksploataciju tehničko-g
+ rađevnog kamena (NOVI VINODOLSKI) · davatelj: MINISTARSTVO GOSPODARSTVA\
+ n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B342
+ 03868969139
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B34203868969139
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Novi Vinod
+ olski
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-07523d974de67b18@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-e307798a8233d534@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20340801
 DTEND;VALUE=DATE:20340802
 SUMMARY:Ističe koncesija: INA\, D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 1. 8. 2034. Godišnja fiksna nakna
  da: 12.168 €.\n\n• INA\, D.D. – Koncesija na pomorskom dobru (NOVI V
- INODOLSKI)\, 12.168 €/god.\n\nProfil općine: https://koncesijski-sat.ve
- rcel.app/#opcina/41942358B34203868969139\nIzvor: Registar koncesija (FINA)
- \, obrada Koncesijski sat 9. 11. 2026.
+ INODOLSKI) · davatelj: ŽUPANIJSKA LUČKA UPRAVA NOVI VINODOLSKI\, 12.168
+  €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41
+ 942358B34203868969139\nIzvor: Registar koncesija (FINA)\, obrada Koncesijs
+ ki sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B34203868969139
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -264,16 +277,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-07523d974de67b18@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-e307798a8233d534@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20340201
 DTEND;VALUE=DATE:20340202
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA\, D.D.)
 DESCRIPTION:1. 8. 2034. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
- \n\n• INA\, D.D. – Koncesija na pomorskom dobru (NOVI VINODOLSKI)\, 12
- .168 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcin
- a/41942358B34203868969139
+ \n\n• INA\, D.D. – Koncesija na pomorskom dobru (NOVI VINODOLSKI) · d
+ avatelj: ŽUPANIJSKA LUČKA UPRAVA NOVI VINODOLSKI\, 12.168 €/god.\n\nPr
+ ofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B34203868
+ 969139
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B34203868969139
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -283,16 +297,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-a809cc11482d30bd@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-0a3102bc348d31dc@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20340920
 DTEND;VALUE=DATE:20340921
 SUMMARY:Ističe koncesija: MARIS TRADE D. O. O.
 DESCRIPTION:1 ugovor o koncesiji ističe 20. 9. 2034. Godišnja fiksna nakn
  ada: 10.044 €.\n\n• MARIS TRADE D. O. O. – Koncesija na pomorskom do
- bru (NOVI VINODOLSKI)\, 10.044 €/god.\n\nProfil općine: https://koncesi
- jski-sat.vercel.app/#opcina/41942358B34203868969139\nIzvor: Registar konce
- sija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ bru (NOVI VINODOLSKI) · davatelj: PRIMORSKO GORANSKA ŽUPANIJA\, 10.044 
+ €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
+ 42358B34203868969139\nIzvor: Registar koncesija (FINA)\, obrada Koncesijsk
+ i sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B34203868969139
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -302,8 +317,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-a809cc11482d30bd@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-0a3102bc348d31dc@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20340320
 DTEND;VALUE=DATE:20340321
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MARIS TRADE D. O
@@ -311,8 +326,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MARIS TRADE D. O
 DESCRIPTION:20. 9. 2034. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• MARIS TRADE D. O. O. – Koncesija na pomorskom dobru (NOVI VINOD
- OLSKI)\, 10.044 €/god.\n\nProfil općine: https://koncesijski-sat.vercel
- .app/#opcina/41942358B34203868969139
+ OLSKI) · davatelj: PRIMORSKO GORANSKA ŽUPANIJA\, 10.044 €/god.\n\nProf
+ il općine: https://koncesijski-sat.vercel.app/#opcina/41942358B3420386896
+ 9139
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B34203868969139
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -323,16 +339,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-262459394b5124de@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-b573d684308a09c2@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20341020
 DTEND;VALUE=DATE:20341021
 SUMMARY:Ističe koncesija: MITAN MARINA D. O. O.
 DESCRIPTION:1 ugovor o koncesiji ističe 20. 10. 2034. Godišnja fiksna nak
  nada: 1.442 €.\n\n• MITAN MARINA D. O. O. – Koncesija na pomorskom d
- obru (NOVI VINODOLSKI)\, 1.442 €/god.\n\nProfil općine: https://koncesi
- jski-sat.vercel.app/#opcina/41942358B34203868969139\nIzvor: Registar konce
- sija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ obru (NOVI VINODOLSKI) · davatelj: PRIMORSKO GORANSKA ŽUPANIJA\, 1.442 
+ €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
+ 42358B34203868969139\nIzvor: Registar koncesija (FINA)\, obrada Koncesijsk
+ i sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B34203868969139
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -342,8 +359,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-262459394b5124de@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-b573d684308a09c2@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20340420
 DTEND;VALUE=DATE:20340421
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MITAN MARINA D. 
@@ -351,8 +368,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MITAN MARINA D.
 DESCRIPTION:20. 10. 2034. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• MITAN MARINA D. O. O. – Koncesija na pomorskom dobru (NOVI VIN
- ODOLSKI)\, 1.442 €/god.\n\nProfil općine: https://koncesijski-sat.verce
- l.app/#opcina/41942358B34203868969139
+ ODOLSKI) · davatelj: PRIMORSKO GORANSKA ŽUPANIJA\, 1.442 €/god.\n\nPro
+ fil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B342038689
+ 69139
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B34203868969139
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -363,16 +381,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-d4478a377230861e@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-e337fe1346277492@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20350609
 DTEND;VALUE=DATE:20350610
 SUMMARY:Ističe koncesija: GRAD NOVI VINODOLSKI - LUKA KLENOVICA
 DESCRIPTION:1 ugovor o koncesiji ističe 9. 6. 2035. Godišnja fiksna nakna
  da: 18 €.\n\n• GRAD NOVI VINODOLSKI - LUKA KLENOVICA – Koncesija na 
- pomorskom dobru (NOVI VINODOLSKI)\, 18 €/god.\n\nProfil općine: https:/
- /koncesijski-sat.vercel.app/#opcina/41942358B34203868969139\nIzvor: Regist
- ar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ pomorskom dobru (NOVI VINODOLSKI) · davatelj: ŽUPANIJSKA LUČKA UPRAVA N
+ OVI VINODOLSKI\, 18 €/god.\n\nProfil općine: https://koncesijski-sat.ve
+ rcel.app/#opcina/41942358B34203868969139\nIzvor: Registar koncesija (FINA)
+ \, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B34203868969139
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -382,8 +401,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-d4478a377230861e@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-e337fe1346277492@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20341209
 DTEND;VALUE=DATE:20341210
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (GRAD NOVI VINODO
@@ -391,8 +410,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (GRAD NOVI VINODO
 DESCRIPTION:9. 6. 2035. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• GRAD NOVI VINODOLSKI - LUKA KLENOVICA – Koncesija na pomorskom d
- obru (NOVI VINODOLSKI)\, 18 €/god.\n\nProfil općine: https://koncesijsk
- i-sat.vercel.app/#opcina/41942358B34203868969139
+ obru (NOVI VINODOLSKI) · davatelj: ŽUPANIJSKA LUČKA UPRAVA NOVI VINODOL
+ SKI\, 18 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#o
+ pcina/41942358B34203868969139
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B34203868969139
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -403,18 +423,19 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-9564ceec6884bc81@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-76a9d35b75a35084@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20370110
 DTEND;VALUE=DATE:20370111
 SUMMARY:Ističe 2 koncesije · Novi Vinodolski
 DESCRIPTION:2 ugovora o koncesiji ističe 10. 1. 2037. Godišnja fiksna nak
  nada: 810 €.\n\n• VODOVOD ŽRNOVNICA D.O.O.AGROMELACIJA – Koncesija 
- na pomorskom dobru (NOVI VINODOLSKI)\, 405 €/god.\n• VODOVOD ŽRNOVNIC
- A D.O.O.AGROMELACIJA – Koncesija na pomorskom dobru (NOVI VINODOLSKI)\, 
- 405 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina
- /41942358B34203868969139\nIzvor: Registar koncesija (FINA)\, obrada Konces
- ijski sat 9. 11. 2026.
+ na pomorskom dobru (NOVI VINODOLSKI) · davatelj: GRAD NOVI VINODOLSKI\, 4
+ 05 €/god.\n• VODOVOD ŽRNOVNICA D.O.O.AGROMELACIJA – Koncesija na po
+ morskom dobru (NOVI VINODOLSKI) · davatelj: GRAD NOVI VINODOLSKI\, 405 
+ €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
+ 42358B34203868969139\nIzvor: Registar koncesija (FINA)\, obrada Koncesijsk
+ i sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B34203868969139
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -424,37 +445,41 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-9564ceec6884bc81@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-76a9d35b75a35084@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20360710
 DTEND;VALUE=DATE:20360711
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Novi Vinodolsk
+ i
 DESCRIPTION:10. 1. 2037. ističe 2 ugovora o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• VODOVOD ŽRNOVNICA D.O.O.AGROMELACIJA – Koncesija na pomorskom
-  dobru (NOVI VINODOLSKI)\, 405 €/god.\n• VODOVOD ŽRNOVNICA D.O.O.AGRO
- MELACIJA – Koncesija na pomorskom dobru (NOVI VINODOLSKI)\, 405 €/god.
- \n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B34
- 203868969139
+  dobru (NOVI VINODOLSKI) · davatelj: GRAD NOVI VINODOLSKI\, 405 €/god.\
+ n• VODOVOD ŽRNOVNICA D.O.O.AGROMELACIJA – Koncesija na pomorskom dobr
+ u (NOVI VINODOLSKI) · davatelj: GRAD NOVI VINODOLSKI\, 405 €/god.\n\nPr
+ ofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B34203868
+ 969139
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B34203868969139
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Novi Vinod
+ olski
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-6cbdfde9d9ae2bf8@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-d49a8853b26c0bc5@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20370516
 DTEND;VALUE=DATE:20370517
 SUMMARY:Ističe koncesija: KTD VODOVOD ŽRNOVNICA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 16. 5. 2037. Godišnja fiksna nakn
  ada: 1.826 €.\n\n• KTD VODOVOD ŽRNOVNICA D.O.O. – Koncesija na pomo
- rskom dobru (NOVI VINODOLSKI)\, 1.826 €/god.\n\nProfil općine: https://
- koncesijski-sat.vercel.app/#opcina/41942358B34203868969139\nIzvor: Regista
- r koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ rskom dobru (NOVI VINODOLSKI) · davatelj: GRAD NOVI VINODOLSKI\, 1.826 
+ €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
+ 42358B34203868969139\nIzvor: Registar koncesija (FINA)\, obrada Koncesijsk
+ i sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B34203868969139
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -464,8 +489,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-6cbdfde9d9ae2bf8@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-d49a8853b26c0bc5@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20361116
 DTEND;VALUE=DATE:20361117
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (KTD VODOVOD ŽRN
@@ -473,8 +498,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (KTD VODOVOD ŽRN
 DESCRIPTION:16. 5. 2037. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• KTD VODOVOD ŽRNOVNICA D.O.O. – Koncesija na pomorskom dobru (N
- OVI VINODOLSKI)\, 1.826 €/god.\n\nProfil općine: https://koncesijski-sa
- t.vercel.app/#opcina/41942358B34203868969139
+ OVI VINODOLSKI) · davatelj: GRAD NOVI VINODOLSKI\, 1.826 €/god.\n\nProf
+ il općine: https://koncesijski-sat.vercel.app/#opcina/41942358B3420386896
+ 9139
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B34203868969139
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -485,16 +511,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-e5711fb2089982ce@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-daaa57b700f86250@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20370811
 DTEND;VALUE=DATE:20370812
 SUMMARY:Ističe koncesija: OBRT LUCIJA\, VL. SREĆKO BUTKOVIĆ
 DESCRIPTION:1 ugovor o koncesiji ističe 11. 8. 2037. Godišnja fiksna nakn
  ada: 13.972 €.\n\n• OBRT LUCIJA\, VL. SREĆKO BUTKOVIĆ – Koncesija 
- na pomorskom dobru (NOVI VINODOLSKI)\, 13.972 €/god.\n\nProfil općine: 
- https://koncesijski-sat.vercel.app/#opcina/41942358B34203868969139\nIzvor:
-  Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ na pomorskom dobru (NOVI VINODOLSKI) · davatelj: PRIMORSKO GORANSKA ŽUPA
+ NIJA\, 13.972 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.a
+ pp/#opcina/41942358B34203868969139\nIzvor: Registar koncesija (FINA)\, obr
+ ada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B34203868969139
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -504,8 +531,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-e5711fb2089982ce@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-daaa57b700f86250@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20370211
 DTEND;VALUE=DATE:20370212
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (OBRT LUCIJA\, VL
@@ -513,8 +540,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (OBRT LUCIJA\, VL
 DESCRIPTION:11. 8. 2037. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• OBRT LUCIJA\, VL. SREĆKO BUTKOVIĆ – Koncesija na pomorskom do
- bru (NOVI VINODOLSKI)\, 13.972 €/god.\n\nProfil općine: https://koncesi
- jski-sat.vercel.app/#opcina/41942358B34203868969139
+ bru (NOVI VINODOLSKI) · davatelj: PRIMORSKO GORANSKA ŽUPANIJA\, 13.972 
+ €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
+ 42358B34203868969139
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B34203868969139
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -525,16 +553,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-ccff8bf1a1973424@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-5ac93ccf194972ac@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20380503
 DTEND;VALUE=DATE:20380504
 SUMMARY:Ističe koncesija: KTD VODOVOD ŽRNOVNICA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 3. 5. 2038. Godišnja fiksna nakna
  da: 247 €.\n\n• KTD VODOVOD ŽRNOVNICA D.O.O. – Koncesija na pomorsk
- om dobru (NOVI VINODOLSKI)\, 247 €/god.\n\nProfil općine: https://konce
- sijski-sat.vercel.app/#opcina/41942358B34203868969139\nIzvor: Registar kon
- cesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ om dobru (NOVI VINODOLSKI) · davatelj: GRAD NOVI VINODOLSKI\, 247 €/god
+ .\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B3
+ 4203868969139\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9
+ . 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B34203868969139
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -544,8 +573,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-ccff8bf1a1973424@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-5ac93ccf194972ac@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20371103
 DTEND;VALUE=DATE:20371104
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (KTD VODOVOD ŽRN
@@ -553,8 +582,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (KTD VODOVOD ŽRN
 DESCRIPTION:3. 5. 2038. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• KTD VODOVOD ŽRNOVNICA D.O.O. – Koncesija na pomorskom dobru (NO
- VI VINODOLSKI)\, 247 €/god.\n\nProfil općine: https://koncesijski-sat.v
- ercel.app/#opcina/41942358B34203868969139
+ VI VINODOLSKI) · davatelj: GRAD NOVI VINODOLSKI\, 247 €/god.\n\nProfil 
+ općine: https://koncesijski-sat.vercel.app/#opcina/41942358B3420386896913
+ 9
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B34203868969139
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -565,18 +595,18 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-848d00c99de070bc@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-8001c8408f51e78d@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20390121
 DTEND;VALUE=DATE:20390122
 SUMMARY:Ističe koncesija: KTD VODOVOD ŽRNOVNICA - NAPLATA VODE ZA GRADANS
  TVO
 DESCRIPTION:1 ugovor o koncesiji ističe 21. 1. 2039. Godišnja fiksna nakn
  ada: 153 €.\n\n• KTD VODOVOD ŽRNOVNICA - NAPLATA VODE ZA GRADANSTVO 
- – Koncesija na pomorskom dobru (NOVI VINODOLSKI)\, 153 €/god.\n\nProfi
- l općine: https://koncesijski-sat.vercel.app/#opcina/41942358B34203868969
- 139\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026
- .
+ – Koncesija na pomorskom dobru (NOVI VINODOLSKI) · davatelj: GRAD NOVI 
+ VINODOLSKI\, 153 €/god.\n\nProfil općine: https://koncesijski-sat.verce
+ l.app/#opcina/41942358B34203868969139\nIzvor: Registar koncesija (FINA)\, 
+ obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B34203868969139
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -587,8 +617,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-848d00c99de070bc@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-8001c8408f51e78d@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20380721
 DTEND;VALUE=DATE:20380722
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (KTD VODOVOD ŽRN
@@ -596,8 +626,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (KTD VODOVOD ŽRN
 DESCRIPTION:21. 1. 2039. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• KTD VODOVOD ŽRNOVNICA - NAPLATA VODE ZA GRADANSTVO – Koncesija
-  na pomorskom dobru (NOVI VINODOLSKI)\, 153 €/god.\n\nProfil općine: ht
- tps://koncesijski-sat.vercel.app/#opcina/41942358B34203868969139
+  na pomorskom dobru (NOVI VINODOLSKI) · davatelj: GRAD NOVI VINODOLSKI\, 
+ 153 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina
+ /41942358B34203868969139
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B34203868969139
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -608,18 +639,18 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-2583e77bffbb46ad@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-6862b590ce491ce8@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20390624
 DTEND;VALUE=DATE:20390625
 SUMMARY:Ističe koncesija: OBRT ZA UGOSTITELJSTVO LUCIJA\, VL. SREĆKO BUTK
  OVIĆ-ZAJAM BR.78/21765
 DESCRIPTION:1 ugovor o koncesiji ističe 24. 6. 2039. Godišnja fiksna nakn
  ada: 10.010 €.\n\n• OBRT ZA UGOSTITELJSTVO LUCIJA\, VL. SREĆKO BUTKOV
- IĆ-ZAJAM BR.78/21765 – Koncesija na pomorskom dobru (NOVI VINODOLSKI)\,
-  10.010 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#op
- cina/41942358B34203868969139\nIzvor: Registar koncesija (FINA)\, obrada Ko
- ncesijski sat 9. 11. 2026.
+ IĆ-ZAJAM BR.78/21765 – Koncesija na pomorskom dobru (NOVI VINODOLSKI) 
+ · davatelj: PRIMORSKO GORANSKA ŽUPANIJA\, 10.010 €/god.\n\nProfil opć
+ ine: https://koncesijski-sat.vercel.app/#opcina/41942358B34203868969139\nI
+ zvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B34203868969139
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -630,8 +661,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-2583e77bffbb46ad@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-6862b590ce491ce8@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20381224
 DTEND;VALUE=DATE:20381225
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (OBRT ZA UGOSTITE
@@ -639,9 +670,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (OBRT ZA UGOSTITE
 DESCRIPTION:24. 6. 2039. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• OBRT ZA UGOSTITELJSTVO LUCIJA\, VL. SREĆKO BUTKOVIĆ-ZAJAM BR.78
- /21765 – Koncesija na pomorskom dobru (NOVI VINODOLSKI)\, 10.010 €/god
- .\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B3
- 4203868969139
+ /21765 – Koncesija na pomorskom dobru (NOVI VINODOLSKI) · davatelj: PRI
+ MORSKO GORANSKA ŽUPANIJA\, 10.010 €/god.\n\nProfil općine: https://kon
+ cesijski-sat.vercel.app/#opcina/41942358B34203868969139
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B34203868969139
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -652,16 +683,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-331257e0c6d2f5e6@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-0a54f1acc30a95aa@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20400317
 DTEND;VALUE=DATE:20400318
 SUMMARY:Ističe koncesija: HOTEL LIŠANJ D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 17. 3. 2040. Godišnja fiksna nakn
  ada: 45.054 €.\n\n• HOTEL LIŠANJ D.O.O. – Koncesija na pomorskom do
- bru (NOVI VINODOLSKI)\, 45.054 €/god.\n\nProfil općine: https://koncesi
- jski-sat.vercel.app/#opcina/41942358B34203868969139\nIzvor: Registar konce
- sija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ bru (NOVI VINODOLSKI) · davatelj: PRIMORSKO GORANSKA ŽUPANIJA\, 45.054 
+ €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
+ 42358B34203868969139\nIzvor: Registar koncesija (FINA)\, obrada Koncesijsk
+ i sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B34203868969139
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -671,8 +703,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-331257e0c6d2f5e6@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-0a54f1acc30a95aa@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20390917
 DTEND;VALUE=DATE:20390918
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HOTEL LIŠANJ D.
@@ -680,8 +712,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HOTEL LIŠANJ D.
 DESCRIPTION:17. 3. 2040. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• HOTEL LIŠANJ D.O.O. – Koncesija na pomorskom dobru (NOVI VINOD
- OLSKI)\, 45.054 €/god.\n\nProfil općine: https://koncesijski-sat.vercel
- .app/#opcina/41942358B34203868969139
+ OLSKI) · davatelj: PRIMORSKO GORANSKA ŽUPANIJA\, 45.054 €/god.\n\nProf
+ il općine: https://koncesijski-sat.vercel.app/#opcina/41942358B3420386896
+ 9139
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B34203868969139
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -692,18 +725,18 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-3642ca24976563b3@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-8cbb26ab3ea92925@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20400511
 DTEND;VALUE=DATE:20400512
 SUMMARY:Ističe koncesija: VIO ŽRNOVNICA CRIKVENICA VINODOL D.O.O.- NAPLAT
  A VODE ZA PRIVREDU
 DESCRIPTION:1 ugovor o koncesiji ističe 11. 5. 2040. Godišnja fiksna nakn
  ada: 44 €.\n\n• VIO ŽRNOVNICA CRIKVENICA VINODOL D.O.O.- NAPLATA VODE
-  ZA PRIVREDU – Koncesija na pomorskom dobru (NOVI VINODOLSKI)\, 44 €/g
- od.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358
- B34203868969139\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat
-  9. 11. 2026.
+  ZA PRIVREDU – Koncesija na pomorskom dobru (NOVI VINODOLSKI) · davatel
+ j: GRAD NOVI VINODOLSKI\, 44 €/god.\n\nProfil općine: https://koncesijs
+ ki-sat.vercel.app/#opcina/41942358B34203868969139\nIzvor: Registar koncesi
+ ja (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B34203868969139
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -714,8 +747,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-3642ca24976563b3@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-8cbb26ab3ea92925@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20391111
 DTEND;VALUE=DATE:20391112
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VIO ŽRNOVNICA C
@@ -723,9 +756,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VIO ŽRNOVNICA C
 DESCRIPTION:11. 5. 2040. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• VIO ŽRNOVNICA CRIKVENICA VINODOL D.O.O.- NAPLATA VODE ZA PRIVRED
- U – Koncesija na pomorskom dobru (NOVI VINODOLSKI)\, 44 €/god.\n\nProf
- il općine: https://koncesijski-sat.vercel.app/#opcina/41942358B3420386896
- 9139
+ U – Koncesija na pomorskom dobru (NOVI VINODOLSKI) · davatelj: GRAD NOV
+ I VINODOLSKI\, 44 €/god.\n\nProfil općine: https://koncesijski-sat.verc
+ el.app/#opcina/41942358B34203868969139
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B34203868969139
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -736,18 +769,18 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-217502dc2bd32887@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-9e92ffd0a4095fb7@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20410412
 DTEND;VALUE=DATE:20410413
 SUMMARY:Ističe koncesija: VIO ŽRNOVNICA CRIKVENICA VINODOL D.O.O.- NAPLAT
  A VODE ZA PRIVREDU
 DESCRIPTION:1 ugovor o koncesiji ističe 12. 4. 2041. Godišnja fiksna nakn
  ada: 386 €.\n\n• VIO ŽRNOVNICA CRIKVENICA VINODOL D.O.O.- NAPLATA VOD
- E ZA PRIVREDU – Posebna upotreba pomorskog dobra (NOVI VINODOLSKI)\, 386
-  €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41
- 942358B34203868969139\nIzvor: Registar koncesija (FINA)\, obrada Koncesijs
- ki sat 9. 11. 2026.
+ E ZA PRIVREDU – Posebna upotreba pomorskog dobra (NOVI VINODOLSKI) · da
+ vatelj: GRAD NOVI VINODOLSKI\, 386 €/god.\n\nProfil općine: https://kon
+ cesijski-sat.vercel.app/#opcina/41942358B34203868969139\nIzvor: Registar k
+ oncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B34203868969139
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -758,8 +791,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-217502dc2bd32887@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-9e92ffd0a4095fb7@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20401012
 DTEND;VALUE=DATE:20401013
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VIO ŽRNOVNICA C
@@ -767,9 +800,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VIO ŽRNOVNICA C
 DESCRIPTION:12. 4. 2041. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• VIO ŽRNOVNICA CRIKVENICA VINODOL D.O.O.- NAPLATA VODE ZA PRIVRED
- U – Posebna upotreba pomorskog dobra (NOVI VINODOLSKI)\, 386 €/god.\n\
- nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B34203
- 868969139
+ U – Posebna upotreba pomorskog dobra (NOVI VINODOLSKI) · davatelj: GRAD
+  NOVI VINODOLSKI\, 386 €/god.\n\nProfil općine: https://koncesijski-sat
+ .vercel.app/#opcina/41942358B34203868969139
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B34203868969139
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -780,18 +813,18 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-72f954f0f4b3088f@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-d2bb4fed2276ba96@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20420322
 DTEND;VALUE=DATE:20420323
 SUMMARY:Ističe koncesija: VIO ŽRNOVNICA CRIKVENICA VINODOL D.O.O.- NAPLAT
  A VODE ZA PRIVREDU
 DESCRIPTION:1 ugovor o koncesiji ističe 22. 3. 2042. Godišnja fiksna nakn
  ada: 97 €.\n\n• VIO ŽRNOVNICA CRIKVENICA VINODOL D.O.O.- NAPLATA VODE
-  ZA PRIVREDU – Koncesija na pomorskom dobru (NOVI VINODOLSKI)\, 97 €/g
- od.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358
- B34203868969139\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat
-  9. 11. 2026.
+  ZA PRIVREDU – Koncesija na pomorskom dobru (NOVI VINODOLSKI) · davatel
+ j: GRAD NOVI VINODOLSKI\, 97 €/god.\n\nProfil općine: https://koncesijs
+ ki-sat.vercel.app/#opcina/41942358B34203868969139\nIzvor: Registar koncesi
+ ja (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B34203868969139
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -802,8 +835,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-72f954f0f4b3088f@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-d2bb4fed2276ba96@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20410922
 DTEND;VALUE=DATE:20410923
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VIO ŽRNOVNICA C
@@ -811,9 +844,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VIO ŽRNOVNICA C
 DESCRIPTION:22. 3. 2042. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• VIO ŽRNOVNICA CRIKVENICA VINODOL D.O.O.- NAPLATA VODE ZA PRIVRED
- U – Koncesija na pomorskom dobru (NOVI VINODOLSKI)\, 97 €/god.\n\nProf
- il općine: https://koncesijski-sat.vercel.app/#opcina/41942358B3420386896
- 9139
+ U – Koncesija na pomorskom dobru (NOVI VINODOLSKI) · davatelj: GRAD NOV
+ I VINODOLSKI\, 97 €/god.\n\nProfil općine: https://koncesijski-sat.verc
+ el.app/#opcina/41942358B34203868969139
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B34203868969139
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -824,21 +857,24 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-b082b48305e9b4e3@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-214deb3de910aa55@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20421109
 DTEND;VALUE=DATE:20421110
 SUMMARY:Ističe 3 koncesije · Novi Vinodolski
 DESCRIPTION:3 ugovora o koncesiji ističe 9. 11. 2042. Godišnja fiksna nak
  nada: 51.279 €.\n\n• NAUTICA MARE D.O.O. – Koncesija pomorskog dobra
   u svrhu izgradnje i gospodarskog korištenja luke posebne namjene (NOVI V
- INODOLSKI)\, 17.093 €/god.\n• NAUTICA MARE D.O.O. – Koncesija pomors
- kog dobra u svrhu izgradnje i gospodarskog korištenja luke posebne namjen
- e (NOVI VINODOLSKI)\, 17.093 €/god.\n• NAUTICA MARE D.O.O. – Koncesi
- ja pomorskog dobra u svrhu izgradnje i gospodarskog korištenja luke poseb
- ne namjene (NOVI VINODOLSKI)\, 17.093 €/god.\n\nProfil općine: https://
- koncesijski-sat.vercel.app/#opcina/41942358B34203868969139\nIzvor: Regista
- r koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ INODOLSKI) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\, 17.
+ 093 €/god.\n• NAUTICA MARE D.O.O. – Koncesija pomorskog dobra u svrh
+ u izgradnje i gospodarskog korištenja luke posebne namjene (NOVI VINODOLS
+ KI) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\, 17.093 €
+ /god.\n• NAUTICA MARE D.O.O. – Koncesija pomorskog dobra u svrhu izgra
+ dnje i gospodarskog korištenja luke posebne namjene (NOVI VINODOLSKI) · 
+ davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\, 17.093 €/god.\n
+ \nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B3420
+ 3868969139\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 1
+ 1. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B34203868969139
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -848,40 +884,45 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-b082b48305e9b4e3@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-214deb3de910aa55@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20420509
 DTEND;VALUE=DATE:20420510
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Novi Vinodolsk
+ i
 DESCRIPTION:9. 11. 2042. ističe 3 ugovora o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• NAUTICA MARE D.O.O. – Koncesija pomorskog dobra u svrhu izgrad
- nje i gospodarskog korištenja luke posebne namjene (NOVI VINODOLSKI)\, 17
- .093 €/god.\n• NAUTICA MARE D.O.O. – Koncesija pomorskog dobra u svr
- hu izgradnje i gospodarskog korištenja luke posebne namjene (NOVI VINODOL
- SKI)\, 17.093 €/god.\n• NAUTICA MARE D.O.O. – Koncesija pomorskog do
- bra u svrhu izgradnje i gospodarskog korištenja luke posebne namjene (NOV
- I VINODOLSKI)\, 17.093 €/god.\n\nProfil općine: https://koncesijski-sat
- .vercel.app/#opcina/41942358B34203868969139
+ nje i gospodarskog korištenja luke posebne namjene (NOVI VINODOLSKI) · d
+ avatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\, 17.093 €/god.\n
+ • NAUTICA MARE D.O.O. – Koncesija pomorskog dobra u svrhu izgradnje i 
+ gospodarskog korištenja luke posebne namjene (NOVI VINODOLSKI) · davatel
+ j: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\, 17.093 €/god.\n• NAU
+ TICA MARE D.O.O. – Koncesija pomorskog dobra u svrhu izgradnje i gospoda
+ rskog korištenja luke posebne namjene (NOVI VINODOLSKI) · davatelj: MINI
+ STARSTVO MORA\, PROMETA I INFRASTRUKTURE\, 17.093 €/god.\n\nProfil opći
+ ne: https://koncesijski-sat.vercel.app/#opcina/41942358B34203868969139
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B34203868969139
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Novi Vinod
+ olski
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-2a3b5bf21a170dea@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-780b2a373efbe78e@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20550201
 DTEND;VALUE=DATE:20550202
 SUMMARY:Ističe koncesija: MITAN MARINA D. O. O.
 DESCRIPTION:1 ugovor o koncesiji ističe 1. 2. 2055. Godišnja fiksna nakna
  da: 23.517 €.\n\n• MITAN MARINA D. O. O. – Koncesija za luku (NOVI V
- INODOLSKI)\, 23.517 €/god.\n\nProfil općine: https://koncesijski-sat.ve
- rcel.app/#opcina/41942358B34203868969139\nIzvor: Registar koncesija (FINA)
- \, obrada Koncesijski sat 9. 11. 2026.
+ INODOLSKI) · davatelj: ŽUPANIJSKA LUČKA UPRAVA NOVI VINODOLSKI\, 23.517
+  €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41
+ 942358B34203868969139\nIzvor: Registar koncesija (FINA)\, obrada Koncesijs
+ ki sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B34203868969139
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -891,17 +932,18 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-2a3b5bf21a170dea@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-780b2a373efbe78e@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20540801
 DTEND;VALUE=DATE:20540802
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MITAN MARINA D. 
  O. O.)
 DESCRIPTION:1. 2. 2055. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
- \n\n• MITAN MARINA D. O. O. – Koncesija za luku (NOVI VINODOLSKI)\, 23
- .517 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcin
- a/41942358B34203868969139
+ \n\n• MITAN MARINA D. O. O. – Koncesija za luku (NOVI VINODOLSKI) · d
+ avatelj: ŽUPANIJSKA LUČKA UPRAVA NOVI VINODOLSKI\, 23.517 €/god.\n\nPr
+ ofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B34203868
+ 969139
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B34203868969139
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -912,17 +954,18 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-bb77f8ba82526807@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-d60b472caa6b6253@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20551231
 DTEND;VALUE=DATE:20560101
 SUMMARY:Ističe 2 koncesije · Novi Vinodolski
 DESCRIPTION:2 ugovora o koncesiji ističe 31. 12. 2055.\n\n• IZGRADNJA D.
  O.O. – Koncesija za eksploataciju tehničko-građevnog kamena (NOVI VINO
- DOLSKI)\n• IZGRADNJA D.O.O. – Koncesija za eksploataciju tehničko-gra
- đevnog kamena (NOVI VINODOLSKI)\n\nProfil općine: https://koncesijski-sa
- t.vercel.app/#opcina/41942358B34203868969139\nIzvor: Registar koncesija (F
- INA)\, obrada Koncesijski sat 9. 11. 2026.
+ DOLSKI) · davatelj: MINISTARSTVO GOSPODARSTVA\n• IZGRADNJA D.O.O. – K
+ oncesija za eksploataciju tehničko-građevnog kamena (NOVI VINODOLSKI) ·
+  davatelj: MINISTARSTVO GOSPODARSTVA\n\nProfil općine: https://koncesijsk
+ i-sat.vercel.app/#opcina/41942358B34203868969139\nIzvor: Registar koncesij
+ a (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B34203868969139
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -932,37 +975,40 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-bb77f8ba82526807@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-d60b472caa6b6253@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20550630
 DTEND;VALUE=DATE:20550701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Novi Vinodolsk
+ i
 DESCRIPTION:31. 12. 2055. ističe 2 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• IZGRADNJA D.O.O. – Koncesija za eksploataciju tehničko-građ
- evnog kamena (NOVI VINODOLSKI)\n• IZGRADNJA D.O.O. – Koncesija za eksp
- loataciju tehničko-građevnog kamena (NOVI VINODOLSKI)\n\nProfil općine:
-  https://koncesijski-sat.vercel.app/#opcina/41942358B34203868969139
+ evnog kamena (NOVI VINODOLSKI) · davatelj: MINISTARSTVO GOSPODARSTVA\n•
+  IZGRADNJA D.O.O. – Koncesija za eksploataciju tehničko-građevnog kame
+ na (NOVI VINODOLSKI) · davatelj: MINISTARSTVO GOSPODARSTVA\n\nProfil opć
+ ine: https://koncesijski-sat.vercel.app/#opcina/41942358B34203868969139
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B34203868969139
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Novi Vinod
+ olski
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-561c263888015deb@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-258c4f33e1343020@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20611231
 DTEND;VALUE=DATE:20620101
 SUMMARY:Ističe koncesija: IZGRADNJA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 31. 12. 2061. Godišnja fiksna nak
  nada: 2.062 €.\n\n• IZGRADNJA D.O.O. – Koncesija za površinu utvrđ
  enog eksploatacijskog polja neenergetskih mineralnih sirovina (NOVI VINODO
- LSKI)\, 2.062 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.a
- pp/#opcina/41942358B34203868969139\nIzvor: Registar koncesija (FINA)\, obr
- ada Koncesijski sat 9. 11. 2026.
+ LSKI) · davatelj: MINISTARSTVO GOSPODARSTVA\, 2.062 €/god.\n\nProfil op
+ ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B34203868969139\
+ nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B34203868969139
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -972,8 +1018,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-561c263888015deb@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-258c4f33e1343020@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20610630
 DTEND;VALUE=DATE:20610701
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (IZGRADNJA D.O.O.
@@ -981,9 +1027,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (IZGRADNJA D.O.O.
 DESCRIPTION:31. 12. 2061. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• IZGRADNJA D.O.O. – Koncesija za površinu utvrđenog eksploata
- cijskog polja neenergetskih mineralnih sirovina (NOVI VINODOLSKI)\, 2.062 
- €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
- 42358B34203868969139
+ cijskog polja neenergetskih mineralnih sirovina (NOVI VINODOLSKI) · davat
+ elj: MINISTARSTVO GOSPODARSTVA\, 2.062 €/god.\n\nProfil općine: https:/
+ /koncesijski-sat.vercel.app/#opcina/41942358B34203868969139
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B34203868969139
 TRANSP:TRANSPARENT
 BEGIN:VALARM

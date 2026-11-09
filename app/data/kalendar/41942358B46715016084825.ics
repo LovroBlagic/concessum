@@ -4,23 +4,25 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Općina Hrvace
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Hrvace. Iz Regis
- tra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podat
- aka. https://koncesijski-sat.vercel.app/#opcina/41942358B46715016084825
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Općina Hrvace (pregled\
+ , svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježava s
+ e nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#opcina/
+ 41942358B46715016084825
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-b07781f69b164b0e@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-e3a57cab23465f84@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20320318
 DTEND;VALUE=DATE:20320319
 SUMMARY:Ističe koncesija: HRVATSKA ELEKTROPRIVREDA  D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 18. 3. 2032.\n\n• HRVATSKA ELEKT
  ROPRIVREDA  D.D. – Koncesija za korištenje vodne snage radi proizvodnje
-  električne energije (HRVACE)\n\nProfil općine: https://koncesijski-sat.
- vercel.app/#opcina/41942358B46715016084825\nIzvor: Registar koncesija (FIN
- A)\, obrada Koncesijski sat 9. 11. 2026.
+  električne energije (HRVACE) · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠA
+  I ZELENE TRANZICIJE\n\nProfil općine: https://koncesijski-sat.vercel.app
+ /#opcina/41942358B46715016084825\nIzvor: Registar koncesija (FINA)\, obrad
+ a Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B46715016084825
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -30,8 +32,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-b07781f69b164b0e@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-e3a57cab23465f84@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20310918
 DTEND;VALUE=DATE:20310919
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKA ELEKTRO
@@ -39,8 +41,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKA ELEKTRO
 DESCRIPTION:18. 3. 2032. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• HRVATSKA ELEKTROPRIVREDA  D.D. – Koncesija za korištenje vodne
-  snage radi proizvodnje električne energije (HRVACE)\n\nProfil općine: h
- ttps://koncesijski-sat.vercel.app/#opcina/41942358B46715016084825
+  snage radi proizvodnje električne energije (HRVACE) · davatelj: MINISTA
+ RSTVO ZAŠTITE OKOLIŠA I ZELENE TRANZICIJE\n\nProfil općine: https://kon
+ cesijski-sat.vercel.app/#opcina/41942358B46715016084825
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B46715016084825
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -51,20 +54,23 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-dbb83e8a2cba7b23@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-7e930c7e910fd209@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20320925
 DTEND;VALUE=DATE:20320926
 SUMMARY:Ističe 4 koncesije · Hrvace
 DESCRIPTION:4 ugovora o koncesiji ističe 25. 9. 2032. Godišnja fiksna nak
  nada: 3.822 €.\n\n• MEGRAM  D.O.O – Koncesija za površinu utvrđeno
- g eksploatacijskog polja neenergetskih mineralnih sirovina (HRVACE)\, 3.63
- 8 €/god.\n• MEGRAM D.O.O. – Koncesija za eksploataciju tehničko-gra
- đevnog kamena (HRVACE)\, 184 €/god.\n• MEGRAM D.O.O. – Koncesija za
-  eksploataciju tehničko-građevnog kamena (HRVACE)\n• MEGRAM D.O.O. –
-  Koncesija za eksploataciju tehničko-građevnog kamena (HRVACE)\n\nProfil
-  općine: https://koncesijski-sat.vercel.app/#opcina/41942358B467150160848
- 25\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ g eksploatacijskog polja neenergetskih mineralnih sirovina (HRVACE) · dav
+ atelj: MINISTARSTVO GOSPODARSTVA\, 3.638 €/god.\n• MEGRAM D.O.O. – K
+ oncesija za eksploataciju tehničko-građevnog kamena (HRVACE) · davatelj
+ : MINISTARSTVO GOSPODARSTVA\, 184 €/god.\n• MEGRAM D.O.O. – Koncesij
+ a za eksploataciju tehničko-građevnog kamena (HRVACE) · davatelj: MINIS
+ TARSTVO GOSPODARSTVA\n• MEGRAM D.O.O. – Koncesija za eksploataciju teh
+ ničko-građevnog kamena (HRVACE) · davatelj: MINISTARSTVO GOSPODARSTVA\n
+ \nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B4671
+ 5016084825\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 1
+ 1. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B46715016084825
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -74,25 +80,27 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-dbb83e8a2cba7b23@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-7e930c7e910fd209@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20320325
 DTEND;VALUE=DATE:20320326
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 4 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 4 koncesije · Hrvace
 DESCRIPTION:25. 9. 2032. ističe 4 ugovora o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• MEGRAM  D.O.O – Koncesija za površinu utvrđenog eksploatacij
- skog polja neenergetskih mineralnih sirovina (HRVACE)\, 3.638 €/god.\n
- • MEGRAM D.O.O. – Koncesija za eksploataciju tehničko-građevnog kame
- na (HRVACE)\, 184 €/god.\n• MEGRAM D.O.O. – Koncesija za eksploataci
- ju tehničko-građevnog kamena (HRVACE)\n• MEGRAM D.O.O. – Koncesija z
- a eksploataciju tehničko-građevnog kamena (HRVACE)\n\nProfil općine: ht
- tps://koncesijski-sat.vercel.app/#opcina/41942358B46715016084825
+ skog polja neenergetskih mineralnih sirovina (HRVACE) · davatelj: MINISTA
+ RSTVO GOSPODARSTVA\, 3.638 €/god.\n• MEGRAM D.O.O. – Koncesija za ek
+ sploataciju tehničko-građevnog kamena (HRVACE) · davatelj: MINISTARSTVO
+  GOSPODARSTVA\, 184 €/god.\n• MEGRAM D.O.O. – Koncesija za eksploata
+ ciju tehničko-građevnog kamena (HRVACE) · davatelj: MINISTARSTVO GOSPOD
+ ARSTVA\n• MEGRAM D.O.O. – Koncesija za eksploataciju tehničko-građev
+ nog kamena (HRVACE) · davatelj: MINISTARSTVO GOSPODARSTVA\n\nProfil opći
+ ne: https://koncesijski-sat.vercel.app/#opcina/41942358B46715016084825
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B46715016084825
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 4 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 4 koncesije · Hrvace
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT

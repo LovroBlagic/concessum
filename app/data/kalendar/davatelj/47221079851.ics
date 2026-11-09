@@ -1,0 +1,135 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · OPĆINA MAGADENOVAC
+X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje OPĆINA MAGADENOVAC. Iz Re
+ gistra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade po
+ dataka. https://koncesijski-sat.vercel.app/#sat
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-859be83f56a81992@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20300807
+DTEND;VALUE=DATE:20300808
+SUMMARY:Ističe koncesija: DIVEKS J.D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 7. 8. 2030. Godišnja fiksna nakna
+ da: 1.910 €.\n\n• DIVEKS J.D.O.O. – Koncesija za obavljanje dimnjač
+ arskih poslova (MAGADENOVAC\, Općina Magdenovac)\, 1.910 €/god.\n\nŠto
+  ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesi
+ ja (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: DIVEKS J.D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-859be83f56a81992@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20300207
+DTEND;VALUE=DATE:20300208
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DIVEKS J.D.O.O.)
+DESCRIPTION:7. 8. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodjele
+  treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
+ \n\n• DIVEKS J.D.O.O. – Koncesija za obavljanje dimnjačarskih poslova
+  (MAGADENOVAC\, Općina Magdenovac)\, 1.910 €/god.\n\nŠto ističe: http
+ s://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DIVEKS J.D.O
+ .O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-7d2e24a77a7f170c@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20360817
+DTEND;VALUE=DATE:20360818
+SUMMARY:Ističe koncesija: BLATA D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 17. 8. 2036. Godišnja fiksna nakn
+ ada: 97.388 €.\n\n• BLATA D.O.O. – Koncesija za korištenje poljopri
+ vrednog zemljišta u vlasništvu države (MAGADENOVAC\, Općina Magdenovac
+ )\, 97.388 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#s
+ at\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: BLATA D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-7d2e24a77a7f170c@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20360217
+DTEND;VALUE=DATE:20360218
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BLATA D.O.O.)
+DESCRIPTION:17. 8. 2036. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• BLATA D.O.O. – Koncesija za korištenje poljoprivrednog zemlji
+ šta u vlasništvu države (MAGADENOVAC\, Općina Magdenovac)\, 97.388 €
+ /god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BLATA D.O.O.
+ )
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-72682dcd064e78f4@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20360822
+DTEND;VALUE=DATE:20360823
+SUMMARY:Ističe 2 koncesije · OPĆINA MAGADENOVAC
+DESCRIPTION:2 ugovora o koncesiji ističe 22. 8. 2036. Godišnja fiksna nak
+ nada: 15.602 €.\n\n• ŽITO D.O.O. – Koncesija za korištenje poljopr
+ ivrednog zemljišta u vlasništvu države (MAGADENOVAC\, Općina Magdenova
+ c)\, 7.801 €/god.\n• ŽITO D.O.O. – Koncesija za korištenje poljopr
+ ivrednog zemljišta u vlasništvu države (MAGADENOVAC\, Općina Magdenova
+ c)\, 7.801 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#s
+ at\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 2 koncesije · OPĆINA MAGADENOVAC
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-72682dcd064e78f4@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20360222
+DTEND;VALUE=DATE:20360223
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · OPĆINA MAGADE
+ NOVAC
+DESCRIPTION:22. 8. 2036. ističe 2 ugovora o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• ŽITO D.O.O. – Koncesija za korištenje poljoprivrednog zemlji
+ šta u vlasništvu države (MAGADENOVAC\, Općina Magdenovac)\, 7.801 €/
+ god.\n• ŽITO D.O.O. – Koncesija za korištenje poljoprivrednog zemlji
+ šta u vlasništvu države (MAGADENOVAC\, Općina Magdenovac)\, 7.801 €/
+ god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije · OPĆINA MA
+ GADENOVAC
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

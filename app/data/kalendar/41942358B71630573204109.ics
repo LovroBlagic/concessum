@@ -4,25 +4,25 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Grad Sveti Ivan Zelina
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Grad Sveti Ivan Zelina. 
- Iz Registra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obra
- de podataka. https://koncesijski-sat.vercel.app/#opcina/41942358B716305732
- 04109
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Grad Sveti Ivan Zelina (
+ pregled\, svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvj
+ ežava se nakon svake obrade podataka. https://koncesijski-sat.vercel.app/
+ #opcina/41942358B71630573204109
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-6d4547c1a316a61a@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-1dbfd8c74a403624@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20271113
 DTEND;VALUE=DATE:20271114
 SUMMARY:Ističe koncesija: ASPECT CROATIA KFT.
 DESCRIPTION:1 ugovor o koncesiji ističe 13. 11. 2027. Godišnja fiksna nak
  nada: 1.901 €.\n\n• ASPECT CROATIA KFT. – Dozvola za istraživanje u
- gljikovodika (prema Zakonu o ugljikovodicima) (SVETI IVAN ZELINA)\, 1.901 
- €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
- 42358B71630573204109\nIzvor: Registar koncesija (FINA)\, obrada Koncesijsk
- i sat 9. 11. 2026.
+ gljikovodika (prema Zakonu o ugljikovodicima) (SVETI IVAN ZELINA) · davat
+ elj: MINISTARSTVO GOSPODARSTVA\, 1.901 €/god.\n\nProfil općine: https:/
+ /koncesijski-sat.vercel.app/#opcina/41942358B71630573204109\nIzvor: Regist
+ ar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B71630573204109
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -32,8 +32,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-6d4547c1a316a61a@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-1dbfd8c74a403624@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270513
 DTEND;VALUE=DATE:20270514
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ASPECT CROATIA K
@@ -41,9 +41,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ASPECT CROATIA K
 DESCRIPTION:13. 11. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• ASPECT CROATIA KFT. – Dozvola za istraživanje ugljikovodika (
- prema Zakonu o ugljikovodicima) (SVETI IVAN ZELINA)\, 1.901 €/god.\n\nPr
- ofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B71630573
- 204109
+ prema Zakonu o ugljikovodicima) (SVETI IVAN ZELINA) · davatelj: MINISTARS
+ TVO GOSPODARSTVA\, 1.901 €/god.\n\nProfil općine: https://koncesijski-s
+ at.vercel.app/#opcina/41942358B71630573204109
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B71630573204109
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -54,17 +54,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-cd4376ad2ecc55b8@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-f11ba68f4bf10071@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20280228
 DTEND;VALUE=DATE:20280229
 SUMMARY:Ističe koncesija: ZELINA-PLIN D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 28. 2. 2028. Godišnja fiksna nakn
  ada: 1.327 €.\n\n• ZELINA-PLIN D.O.O. – Koncesija za obavljanje dist
- ribucije plina na postojećem distribucijskom sustavu (SVETI IVAN ZELINA)\
- , 1.327 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#op
- cina/41942358B71630573204109\nIzvor: Registar koncesija (FINA)\, obrada Ko
- ncesijski sat 9. 11. 2026.
+ ribucije plina na postojećem distribucijskom sustavu (SVETI IVAN ZELINA) 
+ · davatelj: ZAGREBAČKA ŽUPANIJA\, 1.327 €/god.\n\nProfil općine: htt
+ ps://koncesijski-sat.vercel.app/#opcina/41942358B71630573204109\nIzvor: Re
+ gistar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B71630573204109
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -74,8 +74,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-cd4376ad2ecc55b8@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-f11ba68f4bf10071@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270828
 DTEND;VALUE=DATE:20270829
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ZELINA-PLIN D.O.
@@ -83,9 +83,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ZELINA-PLIN D.O.
 DESCRIPTION:28. 2. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• ZELINA-PLIN D.O.O. – Koncesija za obavljanje distribucije plina
-  na postojećem distribucijskom sustavu (SVETI IVAN ZELINA)\, 1.327 €/go
- d.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B
- 71630573204109
+  na postojećem distribucijskom sustavu (SVETI IVAN ZELINA) · davatelj: Z
+ AGREBAČKA ŽUPANIJA\, 1.327 €/god.\n\nProfil općine: https://koncesijs
+ ki-sat.vercel.app/#opcina/41942358B71630573204109
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B71630573204109
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -96,16 +96,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-c310723310746c5a@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-81d7bd0b870789f8@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20300417
 DTEND;VALUE=DATE:20300418
 SUMMARY:Ističe koncesija: LEUŠTEK J.D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 17. 4. 2030. Godišnja fiksna nakn
  ada: 950 €.\n\n• LEUŠTEK J.D.O.O. – Koncesija za obavljanje dimnja
- čarskih poslova (SVETI IVAN ZELINA)\, 950 €/god.\n\nProfil općine: htt
- ps://koncesijski-sat.vercel.app/#opcina/41942358B71630573204109\nIzvor: Re
- gistar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ čarskih poslova (SVETI IVAN ZELINA) · davatelj: GRAD SVETI IVAN ZELINA\,
+  950 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcin
+ a/41942358B71630573204109\nIzvor: Registar koncesija (FINA)\, obrada Konce
+ sijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B71630573204109
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -115,8 +116,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-c310723310746c5a@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-81d7bd0b870789f8@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20291017
 DTEND;VALUE=DATE:20291018
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (LEUŠTEK J.D.O.O
@@ -124,8 +125,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (LEUŠTEK J.D.O.O
 DESCRIPTION:17. 4. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• LEUŠTEK J.D.O.O. – Koncesija za obavljanje dimnjačarskih posl
- ova (SVETI IVAN ZELINA)\, 950 €/god.\n\nProfil općine: https://koncesij
- ski-sat.vercel.app/#opcina/41942358B71630573204109
+ ova (SVETI IVAN ZELINA) · davatelj: GRAD SVETI IVAN ZELINA\, 950 €/god.
+ \n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B71
+ 630573204109
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B71630573204109
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -136,16 +138,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-d483bfcac9194132@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-6f54654a5e2be6cd@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20451231
 DTEND;VALUE=DATE:20460101
 SUMMARY:Ističe koncesija: RADIO SV.I.ZELINA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 31. 12. 2045. Godišnja fiksna nak
  nada: 66 €.\n\n• RADIO SV.I.ZELINA D.O.O. – Koncesija za obavljanje 
- djelatnosti radija (SVETI IVAN ZELINA)\, 66 €/god.\n\nProfil općine: ht
- tps://koncesijski-sat.vercel.app/#opcina/41942358B71630573204109\nIzvor: R
- egistar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ djelatnosti radija (SVETI IVAN ZELINA) · davatelj: AGENCIJA ZA ELEKTRONI
+ ČKE MEDIJE\, 66 €/god.\n\nProfil općine: https://koncesijski-sat.verce
+ l.app/#opcina/41942358B71630573204109\nIzvor: Registar koncesija (FINA)\, 
+ obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B71630573204109
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -155,8 +158,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-d483bfcac9194132@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-6f54654a5e2be6cd@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20450630
 DTEND;VALUE=DATE:20450701
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (RADIO SV.I.ZELIN
@@ -164,8 +167,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (RADIO SV.I.ZELIN
 DESCRIPTION:31. 12. 2045. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• RADIO SV.I.ZELINA D.O.O. – Koncesija za obavljanje djelatnosti
-  radija (SVETI IVAN ZELINA)\, 66 €/god.\n\nProfil općine: https://konce
- sijski-sat.vercel.app/#opcina/41942358B71630573204109
+  radija (SVETI IVAN ZELINA) · davatelj: AGENCIJA ZA ELEKTRONIČKE MEDIJE\
+ , 66 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcin
+ a/41942358B71630573204109
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B71630573204109
 TRANSP:TRANSPARENT
 BEGIN:VALARM

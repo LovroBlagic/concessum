@@ -4,25 +4,26 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Općina Đelekovec
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Đelekovec. Iz R
- egistra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade p
- odataka. https://koncesijski-sat.vercel.app/#opcina/41942358B5927649812437
- 3
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Općina Đelekovec (preg
+ led\, svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježa
+ va se nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#opc
+ ina/41942358B59276498124373
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-f659b29153731400@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-854713b6400d405c@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270630
 DTEND;VALUE=DATE:20270701
 SUMMARY:Ističe 2 koncesije · Đelekovec
 DESCRIPTION:2 ugovora o koncesiji ističe 30. 6. 2027.\n\n• INA D.D. – 
  Dozvola za eksploataciju ugljikovodika (prema Zakonu o ugljikovodicima) (
- ĐELEKOVEC)\n• INA-INDUSTRIJA NAFTE  D.D. – Dozvola za eksploataciju u
- gljikovodika (prema Zakonu o ugljikovodicima) (ĐELEKOVEC)\n\nProfil opći
- ne: https://koncesijski-sat.vercel.app/#opcina/41942358B59276498124373\nIz
- vor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ ĐELEKOVEC) · davatelj: MINISTARSTVO GOSPODARSTVA\n• INA-INDUSTRIJA NAF
+ TE  D.D. – Dozvola za eksploataciju ugljikovodika (prema Zakonu o ugljik
+ ovodicima) (ĐELEKOVEC) · davatelj: MINISTARSTVO GOSPODARSTVA\n\nProfil o
+ pćine: https://koncesijski-sat.vercel.app/#opcina/41942358B59276498124373
+ \nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B59276498124373
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -32,37 +33,39 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-f659b29153731400@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-854713b6400d405c@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20261230
 DTEND;VALUE=DATE:20261231
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Đelekovec
 DESCRIPTION:30. 6. 2027. ističe 2 ugovora o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• INA D.D. – Dozvola za eksploataciju ugljikovodika (prema Zakon
- u o ugljikovodicima) (ĐELEKOVEC)\n• INA-INDUSTRIJA NAFTE  D.D. – Dozv
- ola za eksploataciju ugljikovodika (prema Zakonu o ugljikovodicima) (ĐELE
- KOVEC)\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942
- 358B59276498124373
+ u o ugljikovodicima) (ĐELEKOVEC) · davatelj: MINISTARSTVO GOSPODARSTVA\n
+ • INA-INDUSTRIJA NAFTE  D.D. – Dozvola za eksploataciju ugljikovodika 
+ (prema Zakonu o ugljikovodicima) (ĐELEKOVEC) · davatelj: MINISTARSTVO GO
+ SPODARSTVA\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4
+ 1942358B59276498124373
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B59276498124373
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Đelekovec
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-2c7dc06c38b0f5d1@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-8b87fb2692d649f7@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20281029
 DTEND;VALUE=DATE:20281030
 SUMMARY:Ističe koncesija: MLD-USLUGE D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 29. 10. 2028. Godišnja fiksna nak
  nada: 420 €.\n\n• MLD-USLUGE D.O.O. – Koncesija za obavljanje dimnja
- čarskih poslova (ĐELEKOVEC)\, 420 €/god.\n\nProfil općine: https://ko
- ncesijski-sat.vercel.app/#opcina/41942358B59276498124373\nIzvor: Registar 
- koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ čarskih poslova (ĐELEKOVEC) · davatelj: OPĆINA ĐELEKOVEC\, 420 €/go
+ d.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B
+ 59276498124373\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 
+ 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B59276498124373
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -72,8 +75,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-2c7dc06c38b0f5d1@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-8b87fb2692d649f7@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20280429
 DTEND;VALUE=DATE:20280430
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MLD-USLUGE D.O.O
@@ -81,8 +84,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MLD-USLUGE D.O.O
 DESCRIPTION:29. 10. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• MLD-USLUGE D.O.O. – Koncesija za obavljanje dimnjačarskih pos
- lova (ĐELEKOVEC)\, 420 €/god.\n\nProfil općine: https://koncesijski-sa
- t.vercel.app/#opcina/41942358B59276498124373
+ lova (ĐELEKOVEC) · davatelj: OPĆINA ĐELEKOVEC\, 420 €/god.\n\nProfil
+  općine: https://koncesijski-sat.vercel.app/#opcina/41942358B592764981243
+ 73
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B59276498124373
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -93,18 +97,19 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-c5bcf655516b31f7@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-0d2a213005fedac2@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20291231
 DTEND;VALUE=DATE:20300101
 SUMMARY:Ističe 2 koncesije · Đelekovec
 DESCRIPTION:2 ugovora o koncesiji ističe 31. 12. 2029. Godišnja fiksna na
  knada: 68 €.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauzetu 
- površinu odobrenog eksploatacijskog polja (ĐELEKOVEC)\, 34 €/god.\n•
-  INA-INDUSTRIJA NAFTE  D.D. – Dozvola za eksploataciju ugljikovodika (pr
- ema Zakonu o ugljikovodicima) (ĐELEKOVEC)\, 34 €/god.\n\nProfil općine
- : https://koncesijski-sat.vercel.app/#opcina/41942358B59276498124373\nIzvo
- r: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ površinu odobrenog eksploatacijskog polja (ĐELEKOVEC) · davatelj: MINIS
+ TARSTVO GOSPODARSTVA\, 34 €/god.\n• INA-INDUSTRIJA NAFTE  D.D. – Doz
+ vola za eksploataciju ugljikovodika (prema Zakonu o ugljikovodicima) (ĐEL
+ EKOVEC) · davatelj: MINISTARSTVO GOSPODARSTVA\, 34 €/god.\n\nProfil op
+ ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B59276498124373\
+ nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B59276498124373
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -114,39 +119,41 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-c5bcf655516b31f7@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-0d2a213005fedac2@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20290630
 DTEND;VALUE=DATE:20290701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Đelekovec
 DESCRIPTION:31. 12. 2029. ističe 2 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauzetu površinu o
- dobrenog eksploatacijskog polja (ĐELEKOVEC)\, 34 €/god.\n• INA-INDUST
- RIJA NAFTE  D.D. – Dozvola za eksploataciju ugljikovodika (prema Zakonu 
- o ugljikovodicima) (ĐELEKOVEC)\, 34 €/god.\n\nProfil općine: https://k
- oncesijski-sat.vercel.app/#opcina/41942358B59276498124373
+ dobrenog eksploatacijskog polja (ĐELEKOVEC) · davatelj: MINISTARSTVO GOS
+ PODARSTVA\, 34 €/god.\n• INA-INDUSTRIJA NAFTE  D.D. – Dozvola za eks
+ ploataciju ugljikovodika (prema Zakonu o ugljikovodicima) (ĐELEKOVEC) · 
+ davatelj: MINISTARSTVO GOSPODARSTVA\, 34 €/god.\n\nProfil općine: https
+ ://koncesijski-sat.vercel.app/#opcina/41942358B59276498124373
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B59276498124373
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Đelekovec
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-2f834b2a0cc20e5c@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-799b7205f6ba530c@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20341231
 DTEND;VALUE=DATE:20350101
 SUMMARY:Ističe 2 koncesije · Đelekovec
 DESCRIPTION:2 ugovora o koncesiji ističe 31. 12. 2034. Godišnja fiksna na
  knada: 372 €.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Dozvola za eksploata
- ciju ugljikovodika (prema Zakonu o ugljikovodicima) (ĐELEKOVEC)\, 186 €
- /god.\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauzetu površinu o
- dobrenog eksploatacijskog polja (ĐELEKOVEC)\, 186 €/god.\n\nProfil opć
- ine: https://koncesijski-sat.vercel.app/#opcina/41942358B59276498124373\nI
- zvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ ciju ugljikovodika (prema Zakonu o ugljikovodicima) (ĐELEKOVEC) · davate
+ lj: MINISTARSTVO GOSPODARSTVA\, 186 €/god.\n• INA-INDUSTRIJA NAFTE  D.
+ D. – Koncesija za zauzetu površinu odobrenog eksploatacijskog polja (Đ
+ ELEKOVEC) · davatelj: MINISTARSTVO GOSPODARSTVA\, 186 €/god.\n\nProfil 
+ općine: https://koncesijski-sat.vercel.app/#opcina/41942358B5927649812437
+ 3\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B59276498124373
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -156,29 +163,30 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-2f834b2a0cc20e5c@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-799b7205f6ba530c@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20340630
 DTEND;VALUE=DATE:20340701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Đelekovec
 DESCRIPTION:31. 12. 2034. ističe 2 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Dozvola za eksploataciju ugljiko
- vodika (prema Zakonu o ugljikovodicima) (ĐELEKOVEC)\, 186 €/god.\n• I
- NA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauzetu površinu odobrenog eks
- ploatacijskog polja (ĐELEKOVEC)\, 186 €/god.\n\nProfil općine: https:/
- /koncesijski-sat.vercel.app/#opcina/41942358B59276498124373
+ vodika (prema Zakonu o ugljikovodicima) (ĐELEKOVEC) · davatelj: MINISTAR
+ STVO GOSPODARSTVA\, 186 €/god.\n• INA-INDUSTRIJA NAFTE  D.D. – Konce
+ sija za zauzetu površinu odobrenog eksploatacijskog polja (ĐELEKOVEC) ·
+  davatelj: MINISTARSTVO GOSPODARSTVA\, 186 €/god.\n\nProfil općine: htt
+ ps://koncesijski-sat.vercel.app/#opcina/41942358B59276498124373
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B59276498124373
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Đelekovec
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-0da10cb31d7fef5d@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-951d3f8f2cd8b8b8@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20460506
 DTEND;VALUE=DATE:20460507
 SUMMARY:Ističe koncesija: BETON-LUČKO D.O.O.-ENERG. I RESURSNO UČINKOVIT
@@ -186,9 +194,10 @@ SUMMARY:Ističe koncesija: BETON-LUČKO D.O.O.-ENERG. I RESURSNO UČINKOVIT
 DESCRIPTION:1 ugovor o koncesiji ističe 6. 5. 2046. Godišnja fiksna nakna
  da: 750 €.\n\n• BETON-LUČKO D.O.O.-ENERG. I RESURSNO UČINKOVITA TRAZ
  ICIJA BL – Koncesija za zahvaćanje voda za tehnološke potrebe (ĐELEKO
- VEC)\, 750 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/
- #opcina/41942358B59276498124373\nIzvor: Registar koncesija (FINA)\, obrada
-  Koncesijski sat 9. 11. 2026.
+ VEC) · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠA I ZELENE TRANZICIJE\, 750
+  €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41
+ 942358B59276498124373\nIzvor: Registar koncesija (FINA)\, obrada Koncesijs
+ ki sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B59276498124373
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -199,8 +208,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-0da10cb31d7fef5d@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-951d3f8f2cd8b8b8@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20451106
 DTEND;VALUE=DATE:20451107
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BETON-LUČKO D.O
@@ -208,9 +217,10 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BETON-LUČKO D.O
 DESCRIPTION:6. 5. 2046. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• BETON-LUČKO D.O.O.-ENERG. I RESURSNO UČINKOVITA TRAZICIJA BL –
-  Koncesija za zahvaćanje voda za tehnološke potrebe (ĐELEKOVEC)\, 750 
- €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
- 42358B59276498124373
+  Koncesija za zahvaćanje voda za tehnološke potrebe (ĐELEKOVEC) · dava
+ telj: MINISTARSTVO ZAŠTITE OKOLIŠA I ZELENE TRANZICIJE\, 750 €/god.\n\
+ nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B59276
+ 498124373
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B59276498124373
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -221,8 +231,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-1cbbd23599dab687@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-3c3871308739e735@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20491220
 DTEND;VALUE=DATE:20491221
 SUMMARY:Ističe koncesija: TERRA ENERGY GENERATION COMPANY D.O.O. ZA ENERGE
@@ -231,9 +241,9 @@ DESCRIPTION:1 ugovor o koncesiji ističe 20. 12. 2049. Godišnja fiksna nak
  nada: 6.922 €.\n\n• TERRA ENERGY GENERATION COMPANY D.O.O. ZA ENERGETI
  KU – Dozvola za zauzetu površinu utvrđenog eksploatacijskog polja geot
  ermalne vode za energetske svrhe (prema Zakonu o ugljikovodicima) (ĐELEKO
- VEC)\, 6.922 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.ap
- p/#opcina/41942358B59276498124373\nIzvor: Registar koncesija (FINA)\, obra
- da Koncesijski sat 9. 11. 2026.
+ VEC) · davatelj: MINISTARSTVO GOSPODARSTVA\, 6.922 €/god.\n\nProfil op
+ ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B59276498124373\
+ nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B59276498124373
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -244,8 +254,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-1cbbd23599dab687@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-3c3871308739e735@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20490620
 DTEND;VALUE=DATE:20490621
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (TERRA ENERGY GEN
@@ -254,9 +264,9 @@ DESCRIPTION:20. 12. 2049. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• TERRA ENERGY GENERATION COMPANY D.O.O. ZA ENERGETIKU – Dozvola
   za zauzetu površinu utvrđenog eksploatacijskog polja geotermalne vode z
- a energetske svrhe (prema Zakonu o ugljikovodicima) (ĐELEKOVEC)\, 6.922 
- €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
- 42358B59276498124373
+ a energetske svrhe (prema Zakonu o ugljikovodicima) (ĐELEKOVEC) · davate
+ lj: MINISTARSTVO GOSPODARSTVA\, 6.922 €/god.\n\nProfil općine: https://
+ koncesijski-sat.vercel.app/#opcina/41942358B59276498124373
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B59276498124373
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -267,17 +277,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-ca593a76896fc225@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-9992a698faffa263@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20500212
 DTEND;VALUE=DATE:20500213
 SUMMARY:Ističe koncesija: BUKOTERMAL D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 12. 2. 2050. Godišnja fiksna nakn
  ada: 277 €.\n\n• BUKOTERMAL D.O.O. – Dozvola za eksploataciju geoter
  malne vode za energetske svrhe (prema Zakonu o ugljikovodicima) (ĐELEKOVE
- C)\, 277 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#o
- pcina/41942358B59276498124373\nIzvor: Registar koncesija (FINA)\, obrada K
- oncesijski sat 9. 11. 2026.
+ C) · davatelj: MINISTARSTVO GOSPODARSTVA\, 277 €/god.\n\nProfil općine
+ : https://koncesijski-sat.vercel.app/#opcina/41942358B59276498124373\nIzvo
+ r: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B59276498124373
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -287,8 +297,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-ca593a76896fc225@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-9992a698faffa263@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20490812
 DTEND;VALUE=DATE:20490813
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BUKOTERMAL D.O.O
@@ -296,9 +306,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BUKOTERMAL D.O.O
 DESCRIPTION:12. 2. 2050. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• BUKOTERMAL D.O.O. – Dozvola za eksploataciju geotermalne vode z
- a energetske svrhe (prema Zakonu o ugljikovodicima) (ĐELEKOVEC)\, 277 €
- /god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419423
- 58B59276498124373
+ a energetske svrhe (prema Zakonu o ugljikovodicima) (ĐELEKOVEC) · davate
+ lj: MINISTARSTVO GOSPODARSTVA\, 277 €/god.\n\nProfil općine: https://ko
+ ncesijski-sat.vercel.app/#opcina/41942358B59276498124373
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B59276498124373
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -309,20 +319,21 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-31629adc0f8ff7d9@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-5e133d329209c806@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20551231
 DTEND;VALUE=DATE:20560101
 SUMMARY:Ističe 3 koncesije · Đelekovec
 DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2055. Godišnja fiksna na
  knada: 2.580 €.\n\n• BETON-LUČKO D.O.O. – Koncesija za površinu ut
  vrđenog eksploatacijskog polja neenergetskih mineralnih sirovina (ĐELEKO
- VEC)\, 2.580 €/god.\n• BETON-LUČKO D.O.O. – Koncesija za eksploatac
- iju građevnog pijeska i šljunka (ĐELEKOVEC)\n• BETON-LUČKO D.O.O. 
- – Koncesija za eksploataciju građevnog pijeska i šljunka (ĐELEKOVEC)\
- n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B592
- 76498124373\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 
- 11. 2026.
+ VEC) · davatelj: MINISTARSTVO GOSPODARSTVA\, 2.580 €/god.\n• BETON-LU
+ ČKO D.O.O. – Koncesija za eksploataciju građevnog pijeska i šljunka (
+ ĐELEKOVEC) · davatelj: MINISTARSTVO GOSPODARSTVA\n• BETON-LUČKO D.O.O
+ . – Koncesija za eksploataciju građevnog pijeska i šljunka (ĐELEKOVEC
+ ) · davatelj: MINISTARSTVO GOSPODARSTVA\n\nProfil općine: https://konces
+ ijski-sat.vercel.app/#opcina/41942358B59276498124373\nIzvor: Registar konc
+ esija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B59276498124373
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -332,24 +343,26 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-31629adc0f8ff7d9@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-5e133d329209c806@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20550630
 DTEND;VALUE=DATE:20550701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Đelekovec
 DESCRIPTION:31. 12. 2055. ističe 3 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• BETON-LUČKO D.O.O. – Koncesija za površinu utvrđenog ekspl
- oatacijskog polja neenergetskih mineralnih sirovina (ĐELEKOVEC)\, 2.580 
- €/god.\n• BETON-LUČKO D.O.O. – Koncesija za eksploataciju građevno
- g pijeska i šljunka (ĐELEKOVEC)\n• BETON-LUČKO D.O.O. – Koncesija z
- a eksploataciju građevnog pijeska i šljunka (ĐELEKOVEC)\n\nProfil opći
- ne: https://koncesijski-sat.vercel.app/#opcina/41942358B59276498124373
+ oatacijskog polja neenergetskih mineralnih sirovina (ĐELEKOVEC) · davate
+ lj: MINISTARSTVO GOSPODARSTVA\, 2.580 €/god.\n• BETON-LUČKO D.O.O. 
+ – Koncesija za eksploataciju građevnog pijeska i šljunka (ĐELEKOVEC) 
+ · davatelj: MINISTARSTVO GOSPODARSTVA\n• BETON-LUČKO D.O.O. – Konces
+ ija za eksploataciju građevnog pijeska i šljunka (ĐELEKOVEC) · davatel
+ j: MINISTARSTVO GOSPODARSTVA\n\nProfil općine: https://koncesijski-sat.ve
+ rcel.app/#opcina/41942358B59276498124373
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B59276498124373
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Đelekovec
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT

@@ -4,23 +4,24 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Općina Cestica
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Cestica. Iz Regi
- stra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade poda
- taka. https://koncesijski-sat.vercel.app/#opcina/41942358B5058073366135
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Općina Cestica (pregled
+ \, svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježava 
+ se nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#opcina
+ /41942358B5058073366135
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-2581aaf25bed186d@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-cce6413d40d98b58@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20311215
 DTEND;VALUE=DATE:20311216
 SUMMARY:Ističe koncesija: DIMAX D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 15. 12. 2031. Godišnja fiksna nak
  nada: 531 €.\n\n• DIMAX D.O.O. – Koncesija za obavljanje dimnjačars
- kih poslova (CESTICA)\, 531 €/god.\n\nProfil općine: https://koncesijsk
- i-sat.vercel.app/#opcina/41942358B5058073366135\nIzvor: Registar koncesija
-  (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ kih poslova (CESTICA) · davatelj: OPĆINA CESTICA\, 531 €/god.\n\nProfi
+ l općine: https://koncesijski-sat.vercel.app/#opcina/41942358B50580733661
+ 35\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B5058073366135
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -30,16 +31,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-2581aaf25bed186d@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-cce6413d40d98b58@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20310615
 DTEND;VALUE=DATE:20310616
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DIMAX D.O.O.)
 DESCRIPTION:15. 12. 2031. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• DIMAX D.O.O. – Koncesija za obavljanje dimnjačarskih poslova 
- (CESTICA)\, 531 €/god.\n\nProfil općine: https://koncesijski-sat.vercel
- .app/#opcina/41942358B5058073366135
+ (CESTICA) · davatelj: OPĆINA CESTICA\, 531 €/god.\n\nProfil općine: h
+ ttps://koncesijski-sat.vercel.app/#opcina/41942358B5058073366135
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B5058073366135
 TRANSP:TRANSPARENT
 BEGIN:VALARM

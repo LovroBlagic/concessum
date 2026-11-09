@@ -1,0 +1,256 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · GRAD VINKOVCI
+X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje GRAD VINKOVCI. Iz Registra
+  koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podataka
+ . https://koncesijski-sat.vercel.app/#sat
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-50df58923b69fa31@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20281001
+DTEND;VALUE=DATE:20281002
+SUMMARY:Ističe koncesija: DIMNJAČARSKO-USLUŽNI OBRT EKO-DIM\, VL. HRVOJE
+  HORVAT
+DESCRIPTION:1 ugovor o koncesiji ističe 1. 10. 2028.\n\n• DIMNJAČARSKO-
+ USLUŽNI OBRT EKO-DIM\, VL. HRVOJE HORVAT – Koncesija za obavljanje dimn
+ jačarskih poslova (VINKOVCI\, Grad Vinkovci)\n\nŠto ističe: https://kon
+ cesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Ko
+ ncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: DIMNJAČARSKO-USLUŽNI OBRT EKO-DIM\, VL. HR
+ VOJE HORVAT
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-50df58923b69fa31@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20280401
+DTEND;VALUE=DATE:20280402
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DIMNJAČARSKO-US
+ LUŽNI OBRT EKO-DIM\, VL. HRVOJE HORVAT)
+DESCRIPTION:1. 10. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• DIMNJAČARSKO-USLUŽNI OBRT EKO-DIM\, VL. HRVOJE HORVAT – Konce
+ sija za obavljanje dimnjačarskih poslova (VINKOVCI\, Grad Vinkovci)\n\nŠ
+ to ističe: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DIMNJAČARSK
+ O-USLUŽNI OBRT EKO-DIM\, VL. HRVOJE HORVAT)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-53142ca81fef2858@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20281020
+DTEND;VALUE=DATE:20281021
+SUMMARY:Ističe koncesija: DIMNJAČARSKO - USLUŽNI OBRT EKO - DIM\, VLASNI
+ K HRVOJE HORVAT
+DESCRIPTION:1 ugovor o koncesiji ističe 20. 10. 2028.\n\n• DIMNJAČARSKO
+  - USLUŽNI OBRT EKO - DIM\, VLASNIK HRVOJE HORVAT – Koncesija za obavlj
+ anje komunalnih djelatnosti (VINKOVCI\, Grad Vinkovci)\n\nŠto ističe: ht
+ tps://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, 
+ obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: DIMNJAČARSKO - USLUŽNI OBRT EKO - DIM\, VL
+ ASNIK HRVOJE HORVAT
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-53142ca81fef2858@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20280420
+DTEND;VALUE=DATE:20280421
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DIMNJAČARSKO - 
+ USLUŽNI OBRT EKO - DIM\, VLASNIK HRVOJE HORVAT)
+DESCRIPTION:20. 10. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• DIMNJAČARSKO - USLUŽNI OBRT EKO - DIM\, VLASNIK HRVOJE HORVAT 
+ – Koncesija za obavljanje komunalnih djelatnosti (VINKOVCI\, Grad Vinkov
+ ci)\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DIMNJAČARSK
+ O - USLUŽNI OBRT EKO - DIM\, VLASNIK HRVOJE HORVAT)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-baf2a7cda78623fd@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20310901
+DTEND;VALUE=DATE:20310902
+SUMMARY:Ističe koncesija: NEVKOŠ D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 1. 9. 2031.\n\n• NEVKOŠ D.O.O. 
+ – Koncesija skupljanja i odvoza komunalnog otpada (VINKOVCI\, Grad Vinko
+ vci)\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Regi
+ star koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: NEVKOŠ D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-baf2a7cda78623fd@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20310301
+DTEND;VALUE=DATE:20310302
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (NEVKOŠ D.O.O.)
+DESCRIPTION:1. 9. 2031. ističe 1 ugovor o koncesiji. Novi postupak dodjele
+  treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
+ \n\n• NEVKOŠ D.O.O. – Koncesija skupljanja i odvoza komunalnog otpada
+  (VINKOVCI\, Grad Vinkovci)\n\nŠto ističe: https://koncesijski-sat.verce
+ l.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (NEVKOŠ D.O.
+ O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-12d1ff5d9b36b987@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20360610
+DTEND;VALUE=DATE:20360611
+SUMMARY:Ističe koncesija: GTG VINKOVCI D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 10. 6. 2036. Godišnja fiksna nakn
+ ada: 1.619 €.\n\n• GTG VINKOVCI D.O.O. – Koncesija za obavljanje kom
+ unalne djelatnosti opskrbe toplinskom energijom (VINKOVCI\, Grad Vinkovci)
+ \, 1.619 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
+ \nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: GTG VINKOVCI D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-12d1ff5d9b36b987@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20351210
+DTEND;VALUE=DATE:20351211
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (GTG VINKOVCI D.O
+ .O.)
+DESCRIPTION:10. 6. 2036. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• GTG VINKOVCI D.O.O. – Koncesija za obavljanje komunalne djelatn
+ osti opskrbe toplinskom energijom (VINKOVCI\, Grad Vinkovci)\, 1.619 €/g
+ od.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (GTG VINKOVCI
+  D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-fd756a0a01f13fbb@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20370904
+DTEND;VALUE=DATE:20370905
+SUMMARY:Ističe koncesija: FELIX PLUS D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 4. 9. 2037. Godišnja fiksna nakna
+ da: 11.537 €.\n\n• FELIX PLUS D.O.O. – Koncesija za korištenje polj
+ oprivrednog zemljišta u vlasništvu države (VINKOVCI\, Grad Vinkovci)\, 
+ 11.537 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\n
+ Izvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: FELIX PLUS D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-fd756a0a01f13fbb@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20370304
+DTEND;VALUE=DATE:20370305
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (FELIX PLUS D.O.O
+ .)
+DESCRIPTION:4. 9. 2037. ističe 1 ugovor o koncesiji. Novi postupak dodjele
+  treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
+ \n\n• FELIX PLUS D.O.O. – Koncesija za korištenje poljoprivrednog zem
+ ljišta u vlasništvu države (VINKOVCI\, Grad Vinkovci)\, 11.537 €/god.
+ \n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (FELIX PLUS D
+ .O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-c31cf4b900adaa7f@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20370925
+DTEND;VALUE=DATE:20370926
+SUMMARY:Ističe koncesija: PIK-VINKOVCI PLUS D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 25. 9. 2037. Godišnja fiksna nakn
+ ada: 27.154 €.\n\n• PIK-VINKOVCI PLUS D.O.O. – Koncesija za korište
+ nje poljoprivrednog zemljišta u vlasništvu države (VINKOVCI\, Grad Vink
+ ovci)\, 27.154 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.ap
+ p/#sat\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2
+ 026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: PIK-VINKOVCI PLUS D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-c31cf4b900adaa7f@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20370325
+DTEND;VALUE=DATE:20370326
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PIK-VINKOVCI PLU
+ S D.O.O.)
+DESCRIPTION:25. 9. 2037. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• PIK-VINKOVCI PLUS D.O.O. – Koncesija za korištenje poljoprivre
+ dnog zemljišta u vlasništvu države (VINKOVCI\, Grad Vinkovci)\, 27.154 
+ €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PIK-VINKOVCI
+  PLUS D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

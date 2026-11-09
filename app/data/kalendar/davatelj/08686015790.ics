@@ -1,0 +1,160 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · GRAD SISAK
+X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje GRAD SISAK. Iz Registra ko
+ ncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podataka. h
+ ttps://koncesijski-sat.vercel.app/#sat
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-c68d7cd638614e18@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+SUMMARY:Ističe koncesija: CVETNIĆ USLUŽNO PRIJEVOZNIČKI I TRGOVAČKI OB
+ RT\, SINIŠA CVETNIĆ
+DESCRIPTION:1 ugovor o koncesiji ističe 13. 2. 2027. Godišnja fiksna nakn
+ ada: 1.001 €.\n\n• CVETNIĆ USLUŽNO PRIJEVOZNIČKI I TRGOVAČKI OBRT\
+ , SINIŠA CVETNIĆ – Koncesija djelatnosti premještanja i uklanjanja ne
+ propisno parkiranih i napuštenih vozila (SISAK\, Grad Sisak)\, 1.001 €/
+ god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Regi
+ star koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: CVETNIĆ USLUŽNO PRIJEVOZNIČKI I TRGOVAČK
+ I OBRT\, SINIŠA CVETNIĆ
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-f0c816f1c04558e0@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20310101
+DTEND;VALUE=DATE:20310102
+SUMMARY:Ističe koncesija: MONTCOGIM-PLINARA D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 1. 1. 2031.\n\n• MONTCOGIM-PLINA
+ RA D.O.O. – Koncesija za opskrbu potrošača prirodnim plinom (LEKENIK\,
+  MARTINSKA VES\, SISAK\, SUNJA\, Općina Lekenik)\n\nŠto ističe: https:/
+ /koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrad
+ a Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: MONTCOGIM-PLINARA D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-f0c816f1c04558e0@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20300701
+DTEND;VALUE=DATE:20300702
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MONTCOGIM-PLINAR
+ A D.O.O.)
+DESCRIPTION:1. 1. 2031. ističe 1 ugovor o koncesiji. Novi postupak dodjele
+  treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
+ \n\n• MONTCOGIM-PLINARA D.O.O. – Koncesija za opskrbu potrošača prir
+ odnim plinom (LEKENIK\, MARTINSKA VES\, SISAK\, SUNJA\, Općina Lekenik)\n
+ \nŠto ističe: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MONTCOGIM-PL
+ INARA D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-dde81a19b20e02e3@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20340909
+DTEND;VALUE=DATE:20340910
+SUMMARY:Ističe koncesija: DIMNJAČAR\, DIMNJAČARSKI OBRT\, VL. MARIO KUŠ
+ AN\, MOŠĆENICA\, BANA TOME BAKAČA 4
+DESCRIPTION:1 ugovor o koncesiji ističe 9. 9. 2034. Godišnja fiksna nakna
+ da: 1.001 €.\n\n• DIMNJAČAR\, DIMNJAČARSKI OBRT\, VL. MARIO KUŠAN\,
+  MOŠĆENICA\, BANA TOME BAKAČA 4 – Koncesija za obavljanje dimnjačars
+ kih poslova (SISAK\, Grad Sisak)\, 1.001 €/god.\n\nŠto ističe: https:/
+ /koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrad
+ a Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: DIMNJAČAR\, DIMNJAČARSKI OBRT\, VL. MARIO 
+ KUŠAN\, MOŠĆENICA\, BANA TOME BAKAČA 4
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-dde81a19b20e02e3@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20340309
+DTEND;VALUE=DATE:20340310
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DIMNJAČAR\, DIM
+ NJAČARSKI OBRT\, VL. MARIO KUŠAN\, MOŠĆENICA\, BANA TOME BAKAČA 4)
+DESCRIPTION:9. 9. 2034. ističe 1 ugovor o koncesiji. Novi postupak dodjele
+  treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
+ \n\n• DIMNJAČAR\, DIMNJAČARSKI OBRT\, VL. MARIO KUŠAN\, MOŠĆENICA\,
+  BANA TOME BAKAČA 4 – Koncesija za obavljanje dimnjačarskih poslova (S
+ ISAK\, Grad Sisak)\, 1.001 €/god.\n\nŠto ističe: https://koncesijski-s
+ at.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DIMNJAČAR\,
+  DIMNJAČARSKI OBRT\, VL. MARIO KUŠAN\, MOŠĆENICA\, BANA TOME BAKAČA 4
+ )
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-b785add9ef4e2be3@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20381227
+DTEND;VALUE=DATE:20381228
+SUMMARY:Ističe koncesija: HEP-TOPLINARSTVO  D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 27. 12. 2038.\n\n• HEP-TOPLINARS
+ TVO  D.O.O. – Koncesija za obavljanje komunalne djelatnosti opskrbe topl
+ inskom energijom (SISAK\, Grad Sisak)\n\nŠto ističe: https://koncesijski
+ -sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Koncesijsk
+ i sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: HEP-TOPLINARSTVO  D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-b785add9ef4e2be3@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20380627
+DTEND;VALUE=DATE:20380628
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP-TOPLINARSTVO
+   D.O.O.)
+DESCRIPTION:27. 12. 2038. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• HEP-TOPLINARSTVO  D.O.O. – Koncesija za obavljanje komunalne d
+ jelatnosti opskrbe toplinskom energijom (SISAK\, Grad Sisak)\n\nŠto isti
+ če: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP-TOPLINAR
+ STVO  D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

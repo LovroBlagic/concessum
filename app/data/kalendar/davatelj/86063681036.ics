@@ -1,0 +1,54 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · OPĆINA GORNJI MIHALJEVEC
+X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje OPĆINA GORNJI MIHALJEVEC.
+  Iz Registra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obr
+ ade podataka. https://koncesijski-sat.vercel.app/#sat
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-bdc2da5a2a73de3c@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20331004
+DTEND;VALUE=DATE:20331005
+SUMMARY:Ističe koncesija: BRU-FRA D.O.O. ZA DIMNJAČARSKE USLUGE
+DESCRIPTION:1 ugovor o koncesiji ističe 4. 10. 2033. Godišnja fiksna nakn
+ ada: 665 €.\n\n• BRU-FRA D.O.O. ZA DIMNJAČARSKE USLUGE – Koncesija 
+ za obavljanje dimnjačarskih poslova (GORNJI MIHALJEVEC\, Općina Gornji M
+ ihaljevec)\, 665 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.
+ app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11.
+  2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: BRU-FRA D.O.O. ZA DIMNJAČARSKE USLUGE
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-bdc2da5a2a73de3c@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20330404
+DTEND;VALUE=DATE:20330405
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BRU-FRA D.O.O. Z
+ A DIMNJAČARSKE USLUGE)
+DESCRIPTION:4. 10. 2033. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• BRU-FRA D.O.O. ZA DIMNJAČARSKE USLUGE – Koncesija za obavljanj
+ e dimnjačarskih poslova (GORNJI MIHALJEVEC\, Općina Gornji Mihaljevec)\,
+  665 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BRU-FRA D.O.
+ O. ZA DIMNJAČARSKE USLUGE)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

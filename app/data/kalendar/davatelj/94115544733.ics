@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · OPĆINA KRIŽ
+X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje OPĆINA KRIŽ. Iz Registra
+  koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podataka
+ . https://koncesijski-sat.vercel.app/#sat
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-df5893da5d9b38d3@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:Ističe koncesija: KOMUNALNI CENTAR IVANIĆ-GRAD D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 5. 12. 2026. Godišnja fiksna nakn
+ ada: 1.000 €.\n\n• KOMUNALNI CENTAR IVANIĆ-GRAD D.O.O. – Koncesija 
+ za obavljanje dimnjačarskih poslova (KRIŽ\, Općina Križ)\, 1.000 €/g
+ od.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Regis
+ tar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: KOMUNALNI CENTAR IVANIĆ-GRAD D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

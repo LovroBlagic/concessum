@@ -4,24 +4,25 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Grad Dugo Selo
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Grad Dugo Selo. Iz Regis
- tra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podat
- aka. https://koncesijski-sat.vercel.app/#opcina/41942358B96150752107300
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Grad Dugo Selo (pregled\
+ , svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježava s
+ e nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#opcina/
+ 41942358B96150752107300
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-6eda01c22c8e39d0@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-b26dc0b4536952af@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20271113
 DTEND;VALUE=DATE:20271114
 SUMMARY:Ističe koncesija: ASPECT CROATIA KFT.
 DESCRIPTION:1 ugovor o koncesiji ističe 13. 11. 2027. Godišnja fiksna nak
  nada: 2.739 €.\n\n• ASPECT CROATIA KFT. – Dozvola za istraživanje u
- gljikovodika (prema Zakonu o ugljikovodicima) (DUGO SELO)\, 2.739 €/god.
- \n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B96
- 150752107300\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9.
-  11. 2026.
+ gljikovodika (prema Zakonu o ugljikovodicima) (DUGO SELO) · davatelj: MIN
+ ISTARSTVO GOSPODARSTVA\, 2.739 €/god.\n\nProfil općine: https://koncesi
+ jski-sat.vercel.app/#opcina/41942358B96150752107300\nIzvor: Registar konce
+ sija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B96150752107300
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -31,8 +32,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-6eda01c22c8e39d0@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-b26dc0b4536952af@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270513
 DTEND;VALUE=DATE:20270514
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ASPECT CROATIA K
@@ -40,8 +41,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ASPECT CROATIA K
 DESCRIPTION:13. 11. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• ASPECT CROATIA KFT. – Dozvola za istraživanje ugljikovodika (
- prema Zakonu o ugljikovodicima) (DUGO SELO)\, 2.739 €/god.\n\nProfil op
- ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B96150752107300
+ prema Zakonu o ugljikovodicima) (DUGO SELO) · davatelj: MINISTARSTVO GOSP
+ ODARSTVA\, 2.739 €/god.\n\nProfil općine: https://koncesijski-sat.verce
+ l.app/#opcina/41942358B96150752107300
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B96150752107300
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -52,17 +54,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-7abb07ccc8f5268a@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-df374883c55f3c7a@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20280228
 DTEND;VALUE=DATE:20280229
 SUMMARY:Ističe koncesija: DUKOM PLIN D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 28. 2. 2028. Godišnja fiksna nakn
  ada: 1.327 €.\n\n• DUKOM PLIN D.O.O. – Koncesija za obavljanje distr
- ibucije plina na postojećem distribucijskom sustavu (DUGO SELO)\, 1.327 
- €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
- 42358B96150752107300\nIzvor: Registar koncesija (FINA)\, obrada Koncesijsk
- i sat 9. 11. 2026.
+ ibucije plina na postojećem distribucijskom sustavu (DUGO SELO) · davate
+ lj: ZAGREBAČKA ŽUPANIJA\, 1.327 €/god.\n\nProfil općine: https://konc
+ esijski-sat.vercel.app/#opcina/41942358B96150752107300\nIzvor: Registar ko
+ ncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B96150752107300
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -72,8 +74,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-7abb07ccc8f5268a@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-df374883c55f3c7a@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270828
 DTEND;VALUE=DATE:20270829
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DUKOM PLIN D.O.O
@@ -81,9 +83,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DUKOM PLIN D.O.O
 DESCRIPTION:28. 2. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• DUKOM PLIN D.O.O. – Koncesija za obavljanje distribucije plina 
- na postojećem distribucijskom sustavu (DUGO SELO)\, 1.327 €/god.\n\nPro
- fil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B961507521
- 07300
+ na postojećem distribucijskom sustavu (DUGO SELO) · davatelj: ZAGREBAČK
+ A ŽUPANIJA\, 1.327 €/god.\n\nProfil općine: https://koncesijski-sat.ve
+ rcel.app/#opcina/41942358B96150752107300
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B96150752107300
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -94,16 +96,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-48af006cc2f4da8f@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-3d454c67f0851358@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20310508
 DTEND;VALUE=DATE:20310509
 SUMMARY:Ističe koncesija: MIVEGRA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 8. 5. 2031. Godišnja fiksna nakna
  da: 2.000 €.\n\n• MIVEGRA D.O.O. – Koncesija za obavljanje dimnjača
- rskih poslova (DUGO SELO)\, 2.000 €/god.\n\nProfil općine: https://konc
- esijski-sat.vercel.app/#opcina/41942358B96150752107300\nIzvor: Registar ko
- ncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ rskih poslova (DUGO SELO) · davatelj: GRAD DUGO SELO\, 2.000 €/god.\n\n
+ Profil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B961507
+ 52107300\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11.
+  2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B96150752107300
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -113,16 +116,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-48af006cc2f4da8f@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-3d454c67f0851358@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20301108
 DTEND;VALUE=DATE:20301109
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MIVEGRA D.O.O.)
 DESCRIPTION:8. 5. 2031. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• MIVEGRA D.O.O. – Koncesija za obavljanje dimnjačarskih poslova 
- (DUGO SELO)\, 2.000 €/god.\n\nProfil općine: https://koncesijski-sat.ve
- rcel.app/#opcina/41942358B96150752107300
+ (DUGO SELO) · davatelj: GRAD DUGO SELO\, 2.000 €/god.\n\nProfil općine
+ : https://koncesijski-sat.vercel.app/#opcina/41942358B96150752107300
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B96150752107300
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -133,17 +136,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-8a2d1c96b3c166f6@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-5554f38b9842858e@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20371116
 DTEND;VALUE=DATE:20371117
 SUMMARY:Ističe koncesija: BOŽJAKOVINA  D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 16. 11. 2037. Godišnja fiksna nak
  nada: 29.107 €.\n\n• BOŽJAKOVINA  D.D. – Koncesija za korištenje p
- oljoprivrednog zemljišta u vlasništvu države (DUGO SELO)\, 29.107 €/g
- od.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358
- B96150752107300\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat
-  9. 11. 2026.
+ oljoprivrednog zemljišta u vlasništvu države (DUGO SELO) · davatelj: G
+ RAD DUGO SELO\, 29.107 €/god.\n\nProfil općine: https://koncesijski-sat
+ .vercel.app/#opcina/41942358B96150752107300\nIzvor: Registar koncesija (FI
+ NA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B96150752107300
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -153,8 +156,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-8a2d1c96b3c166f6@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-5554f38b9842858e@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20370516
 DTEND;VALUE=DATE:20370517
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BOŽJAKOVINA  D.
@@ -162,8 +165,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BOŽJAKOVINA  D.
 DESCRIPTION:16. 11. 2037. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• BOŽJAKOVINA  D.D. – Koncesija za korištenje poljoprivrednog 
- zemljišta u vlasništvu države (DUGO SELO)\, 29.107 €/god.\n\nProfil o
- pćine: https://koncesijski-sat.vercel.app/#opcina/41942358B96150752107300
+ zemljišta u vlasništvu države (DUGO SELO) · davatelj: GRAD DUGO SELO\,
+  29.107 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#op
+ cina/41942358B96150752107300
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B96150752107300
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -174,20 +178,21 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-02ad32d4d62bf9b6@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-a9263776db09955f@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20411231
 DTEND;VALUE=DATE:20420101
 SUMMARY:Ističe 3 koncesije · Dugo Selo
 DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2041. Godišnja fiksna na
  knada: 1.431 €.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauze
- tu površinu odobrenog eksploatacijskog polja (DUGO SELO)\, 1.431 €/god.
- \n• INA D.D. – Dozvola za eksploataciju ugljikovodika (prema Zakonu o 
- ugljikovodicima) (DUGO SELO)\n• INA-INDUSTRIJA NAFTE  D.D. – Dozvola z
- a eksploataciju ugljikovodika (prema Zakonu o ugljikovodicima) (DUGO SELO)
- \n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B96
- 150752107300\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9.
-  11. 2026.
+ tu površinu odobrenog eksploatacijskog polja (DUGO SELO) · davatelj: MIN
+ ISTARSTVO GOSPODARSTVA\, 1.431 €/god.\n• INA D.D. – Dozvola za ekspl
+ oataciju ugljikovodika (prema Zakonu o ugljikovodicima) (DUGO SELO) · dav
+ atelj: MINISTARSTVO GOSPODARSTVA\n• INA-INDUSTRIJA NAFTE  D.D. – Dozvo
+ la za eksploataciju ugljikovodika (prema Zakonu o ugljikovodicima) (DUGO S
+ ELO) · davatelj: MINISTARSTVO GOSPODARSTVA\n\nProfil općine: https://kon
+ cesijski-sat.vercel.app/#opcina/41942358B96150752107300\nIzvor: Registar k
+ oncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B96150752107300
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -197,24 +202,26 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-02ad32d4d62bf9b6@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-a9263776db09955f@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20410630
 DTEND;VALUE=DATE:20410701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Dugo Selo
 DESCRIPTION:31. 12. 2041. ističe 3 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauzetu površinu o
- dobrenog eksploatacijskog polja (DUGO SELO)\, 1.431 €/god.\n• INA D.D.
-  – Dozvola za eksploataciju ugljikovodika (prema Zakonu o ugljikovodicim
- a) (DUGO SELO)\n• INA-INDUSTRIJA NAFTE  D.D. – Dozvola za eksploatacij
- u ugljikovodika (prema Zakonu o ugljikovodicima) (DUGO SELO)\n\nProfil op
- ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B96150752107300
+ dobrenog eksploatacijskog polja (DUGO SELO) · davatelj: MINISTARSTVO GOSP
+ ODARSTVA\, 1.431 €/god.\n• INA D.D. – Dozvola za eksploataciju uglji
+ kovodika (prema Zakonu o ugljikovodicima) (DUGO SELO) · davatelj: MINISTA
+ RSTVO GOSPODARSTVA\n• INA-INDUSTRIJA NAFTE  D.D. – Dozvola za eksploat
+ aciju ugljikovodika (prema Zakonu o ugljikovodicima) (DUGO SELO) · davate
+ lj: MINISTARSTVO GOSPODARSTVA\n\nProfil općine: https://koncesijski-sat.v
+ ercel.app/#opcina/41942358B96150752107300
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B96150752107300
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Dugo Selo
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT

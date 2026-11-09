@@ -4,25 +4,25 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Grad Beli Manastir
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Grad Beli Manastir. Iz R
- egistra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade p
- odataka. https://koncesijski-sat.vercel.app/#opcina/41942358B5500973600466
- 7
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Grad Beli Manastir (preg
+ led\, svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježa
+ va se nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#opc
+ ina/41942358B55009736004667
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-bdcd40d9fe2dcfba@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-1a5ed9baeb443c70@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20271112
 DTEND;VALUE=DATE:20271113
 SUMMARY:Ističe koncesija: RADIO BANSKA KOSA D.O.O. ZA RADIJSKU DJELATNOST
 DESCRIPTION:1 ugovor o koncesiji ističe 12. 11. 2027. Godišnja fiksna nak
  nada: 66 €.\n\n• RADIO BANSKA KOSA D.O.O. ZA RADIJSKU DJELATNOST – K
- oncesija za obavljanje djelatnosti radija (BELI MANASTIR)\, 66 €/god.\n\
- nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B55009
- 736004667\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11
- . 2026.
+ oncesija za obavljanje djelatnosti radija (BELI MANASTIR) · davatelj: AGE
+ NCIJA ZA ELEKTRONIČKE MEDIJE\, 66 €/god.\n\nProfil općine: https://kon
+ cesijski-sat.vercel.app/#opcina/41942358B55009736004667\nIzvor: Registar k
+ oncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B55009736004667
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -33,8 +33,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-bdcd40d9fe2dcfba@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-1a5ed9baeb443c70@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270512
 DTEND;VALUE=DATE:20270513
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (RADIO BANSKA KOS
@@ -42,8 +42,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (RADIO BANSKA KOS
 DESCRIPTION:12. 11. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• RADIO BANSKA KOSA D.O.O. ZA RADIJSKU DJELATNOST – Koncesija za
-  obavljanje djelatnosti radija (BELI MANASTIR)\, 66 €/god.\n\nProfil op
- ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B55009736004667
+  obavljanje djelatnosti radija (BELI MANASTIR) · davatelj: AGENCIJA ZA EL
+ EKTRONIČKE MEDIJE\, 66 €/god.\n\nProfil općine: https://koncesijski-sa
+ t.vercel.app/#opcina/41942358B55009736004667
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B55009736004667
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -54,17 +55,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-d098e315dd9715a7@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-631fe2f73b1a084b@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20291001
 DTEND;VALUE=DATE:20291002
 SUMMARY:Ističe koncesija: EKO-DIM\, OBRT ZA DIMNJAČARSKE USLUGE
 DESCRIPTION:1 ugovor o koncesiji ističe 1. 10. 2029. Godišnja fiksna nakn
  ada: 664 €.\n\n• EKO-DIM\, OBRT ZA DIMNJAČARSKE USLUGE – Koncesija 
- za obavljanje dimnjačarskih poslova (BELI MANASTIR)\, 664 €/god.\n\nPro
- fil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B550097360
- 04667\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 20
- 26.
+ za obavljanje dimnjačarskih poslova (BELI MANASTIR) · davatelj: GRAD BEL
+ I MANASTIR\, 664 €/god.\n\nProfil općine: https://koncesijski-sat.verce
+ l.app/#opcina/41942358B55009736004667\nIzvor: Registar koncesija (FINA)\, 
+ obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B55009736004667
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -74,8 +75,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-d098e315dd9715a7@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-631fe2f73b1a084b@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20290401
 DTEND;VALUE=DATE:20290402
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (EKO-DIM\, OBRT Z
@@ -83,8 +84,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (EKO-DIM\, OBRT Z
 DESCRIPTION:1. 10. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• EKO-DIM\, OBRT ZA DIMNJAČARSKE USLUGE – Koncesija za obavljanj
- e dimnjačarskih poslova (BELI MANASTIR)\, 664 €/god.\n\nProfil općine:
-  https://koncesijski-sat.vercel.app/#opcina/41942358B55009736004667
+ e dimnjačarskih poslova (BELI MANASTIR) · davatelj: GRAD BELI MANASTIR\,
+  664 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcin
+ a/41942358B55009736004667
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B55009736004667
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -95,17 +97,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-3436d8df9438fc1e@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-9a3241c910dbdfe6@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20300322
 DTEND;VALUE=DATE:20300323
 SUMMARY:Ističe koncesija: BELJE PLUS D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 22. 3. 2030. Godišnja fiksna nakn
  ada: 1.486 €.\n\n• BELJE PLUS D.O.O. – Koncesija za zahvaćanje voda
-  radi korištenja u proizvodnom postupku (BELI MANASTIR)\, 1.486 €/god.\
- n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B550
- 09736004667\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 
- 11. 2026.
+  radi korištenja u proizvodnom postupku (BELI MANASTIR) · davatelj: MINI
+ STARSTVO ZAŠTITE OKOLIŠA I ZELENE TRANZICIJE\, 1.486 €/god.\n\nProfil 
+ općine: https://koncesijski-sat.vercel.app/#opcina/41942358B5500973600466
+ 7\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B55009736004667
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -115,8 +117,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-3436d8df9438fc1e@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-9a3241c910dbdfe6@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20290922
 DTEND;VALUE=DATE:20290923
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BELJE PLUS D.O.O
@@ -124,8 +126,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BELJE PLUS D.O.O
 DESCRIPTION:22. 3. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• BELJE PLUS D.O.O. – Koncesija za zahvaćanje voda radi korište
- nja u proizvodnom postupku (BELI MANASTIR)\, 1.486 €/god.\n\nProfil opć
- ine: https://koncesijski-sat.vercel.app/#opcina/41942358B55009736004667
+ nja u proizvodnom postupku (BELI MANASTIR) · davatelj: MINISTARSTVO ZAŠT
+ ITE OKOLIŠA I ZELENE TRANZICIJE\, 1.486 €/god.\n\nProfil općine: https
+ ://koncesijski-sat.vercel.app/#opcina/41942358B55009736004667
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B55009736004667
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -136,16 +139,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-3b10f25d9caecdc7@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-b18907ff4c976fb3@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20421015
 DTEND;VALUE=DATE:20421016
 SUMMARY:Ističe koncesija: BELJE PLUS D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 15. 10. 2042. Godišnja fiksna nak
  nada: 319 €.\n\n• BELJE PLUS D.O.O. – Koncesija za zahvaćanje voda 
- za tehnološke potrebe (BELI MANASTIR)\, 319 €/god.\n\nProfil općine: h
- ttps://koncesijski-sat.vercel.app/#opcina/41942358B55009736004667\nIzvor: 
- Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ za tehnološke potrebe (BELI MANASTIR) · davatelj: MINISTARSTVO ZAŠTITE 
+ OKOLIŠA I ZELENE TRANZICIJE\, 319 €/god.\n\nProfil općine: https://kon
+ cesijski-sat.vercel.app/#opcina/41942358B55009736004667\nIzvor: Registar k
+ oncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B55009736004667
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -155,8 +159,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-3b10f25d9caecdc7@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-b18907ff4c976fb3@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20420415
 DTEND;VALUE=DATE:20420416
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BELJE PLUS D.O.O
@@ -164,8 +168,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BELJE PLUS D.O.O
 DESCRIPTION:15. 10. 2042. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• BELJE PLUS D.O.O. – Koncesija za zahvaćanje voda za tehnološ
- ke potrebe (BELI MANASTIR)\, 319 €/god.\n\nProfil općine: https://konce
- sijski-sat.vercel.app/#opcina/41942358B55009736004667
+ ke potrebe (BELI MANASTIR) · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠA I Z
+ ELENE TRANZICIJE\, 319 €/god.\n\nProfil općine: https://koncesijski-sat
+ .vercel.app/#opcina/41942358B55009736004667
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B55009736004667
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -176,17 +181,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-9c293120c2797756@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-c2007a8182bb3737@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20450923
 DTEND;VALUE=DATE:20450924
 SUMMARY:Ističe koncesija: BELJE PLUS D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 23. 9. 2045. Godišnja fiksna nakn
  ada: 3.318 €.\n\n• BELJE PLUS D.O.O. – Koncesija za zahvaćanje voda
-  za tehnološke potrebe (BELI MANASTIR\, DRAŽ\, DRAŽ)\, 3.318 €/god.\n
- \nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B5500
- 9736004667\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 1
- 1. 2026.
+  za tehnološke potrebe (BELI MANASTIR\, DRAŽ\, DRAŽ) · davatelj: MINIS
+ TARSTVO ZAŠTITE OKOLIŠA I ZELENE TRANZICIJE\, 3.318 €/god.\n\nProfil o
+ pćine: https://koncesijski-sat.vercel.app/#opcina/41942358B55009736004667
+ \nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B55009736004667
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -196,8 +201,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-9c293120c2797756@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-c2007a8182bb3737@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20450323
 DTEND;VALUE=DATE:20450324
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BELJE PLUS D.O.O
@@ -205,8 +210,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BELJE PLUS D.O.O
 DESCRIPTION:23. 9. 2045. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• BELJE PLUS D.O.O. – Koncesija za zahvaćanje voda za tehnološk
- e potrebe (BELI MANASTIR\, DRAŽ\, DRAŽ)\, 3.318 €/god.\n\nProfil opći
- ne: https://koncesijski-sat.vercel.app/#opcina/41942358B55009736004667
+ e potrebe (BELI MANASTIR\, DRAŽ\, DRAŽ) · davatelj: MINISTARSTVO ZAŠTI
+ TE OKOLIŠA I ZELENE TRANZICIJE\, 3.318 €/god.\n\nProfil općine: https:
+ //koncesijski-sat.vercel.app/#opcina/41942358B55009736004667
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B55009736004667
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -217,17 +223,18 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-b739a5a9801eecfe@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-3d453d6e872176c0@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20451231
 DTEND;VALUE=DATE:20460101
 SUMMARY:Ističe koncesija: RADIO BARANJA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 31. 12. 2045. Godišnja fiksna nak
  nada: 66 €.\n\n• RADIO BARANJA D.O.O. – Koncesija za obavljanje djel
  atnosti radija (BELI MANASTIR\, BILJE\, DARDA\, JAGODNJAK\, KNEŽEVI VINOG
- RADI\, PETLOVAC\, PETRIJEVCI\, POPOVAC\, ČEMINAC)\, 66 €/god.\n\nProfil
-  općine: https://koncesijski-sat.vercel.app/#opcina/41942358B550097360046
- 67\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ RADI\, PETLOVAC\, PETRIJEVCI\, POPOVAC\, ČEMINAC) · davatelj: AGENCIJA Z
+ A ELEKTRONIČKE MEDIJE\, 66 €/god.\n\nProfil općine: https://koncesijsk
+ i-sat.vercel.app/#opcina/41942358B55009736004667\nIzvor: Registar koncesij
+ a (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B55009736004667
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -237,8 +244,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-b739a5a9801eecfe@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-3d453d6e872176c0@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20450630
 DTEND;VALUE=DATE:20450701
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (RADIO BARANJA D.
@@ -247,8 +254,9 @@ DESCRIPTION:31. 12. 2045. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• RADIO BARANJA D.O.O. – Koncesija za obavljanje djelatnosti rad
  ija (BELI MANASTIR\, BILJE\, DARDA\, JAGODNJAK\, KNEŽEVI VINOGRADI\, PETL
- OVAC\, PETRIJEVCI\, POPOVAC\, ČEMINAC)\, 66 €/god.\n\nProfil općine: h
- ttps://koncesijski-sat.vercel.app/#opcina/41942358B55009736004667
+ OVAC\, PETRIJEVCI\, POPOVAC\, ČEMINAC) · davatelj: AGENCIJA ZA ELEKTRONI
+ ČKE MEDIJE\, 66 €/god.\n\nProfil općine: https://koncesijski-sat.verce
+ l.app/#opcina/41942358B55009736004667
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B55009736004667
 TRANSP:TRANSPARENT
 BEGIN:VALARM

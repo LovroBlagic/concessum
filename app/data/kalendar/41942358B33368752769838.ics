@@ -4,29 +4,30 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Općina Sveti Đurđ
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Sveti Đurđ. Iz
-  Registra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade
-  podataka. https://koncesijski-sat.vercel.app/#opcina/41942358B33368752769
- 838
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Općina Sveti Đurđ (pr
+ egled\, svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvje
+ žava se nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#
+ opcina/41942358B33368752769838
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-5976a1a92ea39844@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-a19b754386f0d4ac@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20281231
 DTEND;VALUE=DATE:20290101
 SUMMARY:Ističe 3 koncesije · Sveti Đurđ
 DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2028. Godišnja fiksna na
  knada: 18.744 €.\n\n• ŠLJUNČARA-TRANSPORTI SMONTARA D.O.O. – Konce
- sija za eksploataciju građevnog pijeska i šljunka (SVETI ĐURĐ)\, 9.372
-  €/god.\n• ŠLJUNČARA-TRANSPORTI SMONTARA D.O.O. – Koncesija za pov
- ršinu utvrđenog eksploatacijskog polja neenergetskih mineralnih sirovina
-  (SVETI ĐURĐ)\, 9.372 €/god.\n• ŠLJUNČARA-TRANSPORTI SMONTARA D.O.
- O. – Koncesija za eksploataciju građevnog pijeska i šljunka (SVETI ĐU
- RĐ)\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4194235
- 8B33368752769838\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sa
- t 9. 11. 2026.
+ sija za eksploataciju građevnog pijeska i šljunka (SVETI ĐURĐ) · dava
+ telj: MINISTARSTVO GOSPODARSTVA\, 9.372 €/god.\n• ŠLJUNČARA-TRANSPOR
+ TI SMONTARA D.O.O. – Koncesija za površinu utvrđenog eksploatacijskog 
+ polja neenergetskih mineralnih sirovina (SVETI ĐURĐ) · davatelj: MINIST
+ ARSTVO GOSPODARSTVA\, 9.372 €/god.\n• ŠLJUNČARA-TRANSPORTI SMONTARA 
+ D.O.O. – Koncesija za eksploataciju građevnog pijeska i šljunka (SVETI
+  ĐURĐ) · davatelj: MINISTARSTVO GOSPODARSTVA\n\nProfil općine: https:/
+ /koncesijski-sat.vercel.app/#opcina/41942358B33368752769838\nIzvor: Regist
+ ar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B33368752769838
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -36,43 +37,46 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-5976a1a92ea39844@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-a19b754386f0d4ac@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20280630
 DTEND;VALUE=DATE:20280701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Sveti Đurđ
 DESCRIPTION:31. 12. 2028. ističe 3 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• ŠLJUNČARA-TRANSPORTI SMONTARA D.O.O. – Koncesija za eksploa
- taciju građevnog pijeska i šljunka (SVETI ĐURĐ)\, 9.372 €/god.\n• 
- ŠLJUNČARA-TRANSPORTI SMONTARA D.O.O. – Koncesija za površinu utvrđen
- og eksploatacijskog polja neenergetskih mineralnih sirovina (SVETI ĐURĐ)
- \, 9.372 €/god.\n• ŠLJUNČARA-TRANSPORTI SMONTARA D.O.O. – Koncesij
- a za eksploataciju građevnog pijeska i šljunka (SVETI ĐURĐ)\n\nProfil 
- općine: https://koncesijski-sat.vercel.app/#opcina/41942358B3336875276983
- 8
+ taciju građevnog pijeska i šljunka (SVETI ĐURĐ) · davatelj: MINISTARS
+ TVO GOSPODARSTVA\, 9.372 €/god.\n• ŠLJUNČARA-TRANSPORTI SMONTARA D.O
+ .O. – Koncesija za površinu utvrđenog eksploatacijskog polja neenerget
+ skih mineralnih sirovina (SVETI ĐURĐ) · davatelj: MINISTARSTVO GOSPODAR
+ STVA\, 9.372 €/god.\n• ŠLJUNČARA-TRANSPORTI SMONTARA D.O.O. – Konc
+ esija za eksploataciju građevnog pijeska i šljunka (SVETI ĐURĐ) · dav
+ atelj: MINISTARSTVO GOSPODARSTVA\n\nProfil općine: https://koncesijski-sa
+ t.vercel.app/#opcina/41942358B33368752769838
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B33368752769838
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Sveti Đur
+ đ
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-234d82be63577dab@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-9cf91f63bd774a08@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20400301
 DTEND;VALUE=DATE:20400302
 SUMMARY:Ističe 2 koncesije · Sveti Đurđ
 DESCRIPTION:2 ugovora o koncesiji ističe 1. 3. 2040. Godišnja fiksna nakn
  ada: 17.172 €.\n\n• BAGERKOP-ROBERTO D.O.O. – Koncesija za eksploata
- ciju građevnog pijeska i šljunka (SVETI ĐURĐ)\, 8.586 €/god.\n• BA
- GERKOP-ROBERTO D.O.O. – Koncesija za površinu utvrđenog eksploatacijsk
- og polja neenergetskih mineralnih sirovina (SVETI ĐURĐ)\, 8.586 €/god.
- \n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B33
- 368752769838\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9.
-  11. 2026.
+ ciju građevnog pijeska i šljunka (SVETI ĐURĐ) · davatelj: MINISTARSTV
+ O GOSPODARSTVA\, 8.586 €/god.\n• BAGERKOP-ROBERTO D.O.O. – Koncesija
+  za površinu utvrđenog eksploatacijskog polja neenergetskih mineralnih s
+ irovina (SVETI ĐURĐ) · davatelj: MINISTARSTVO GOSPODARSTVA\, 8.586 €/
+ god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4194235
+ 8B33368752769838\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sa
+ t 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B33368752769838
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -82,37 +86,40 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-234d82be63577dab@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-9cf91f63bd774a08@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20390901
 DTEND;VALUE=DATE:20390902
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Sveti Đurđ
 DESCRIPTION:1. 3. 2040. ističe 2 ugovora o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• BAGERKOP-ROBERTO D.O.O. – Koncesija za eksploataciju građevnog
-  pijeska i šljunka (SVETI ĐURĐ)\, 8.586 €/god.\n• BAGERKOP-ROBERTO 
- D.O.O. – Koncesija za površinu utvrđenog eksploatacijskog polja neener
- getskih mineralnih sirovina (SVETI ĐURĐ)\, 8.586 €/god.\n\nProfil opć
- ine: https://koncesijski-sat.vercel.app/#opcina/41942358B33368752769838
+  pijeska i šljunka (SVETI ĐURĐ) · davatelj: MINISTARSTVO GOSPODARSTVA\
+ , 8.586 €/god.\n• BAGERKOP-ROBERTO D.O.O. – Koncesija za površinu u
+ tvrđenog eksploatacijskog polja neenergetskih mineralnih sirovina (SVETI 
+ ĐURĐ) · davatelj: MINISTARSTVO GOSPODARSTVA\, 8.586 €/god.\n\nProfil 
+ općine: https://koncesijski-sat.vercel.app/#opcina/41942358B3336875276983
+ 8
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B33368752769838
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Sveti Đur
+ đ
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-68c49f05e3b488b9@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-135b31b4cf33cc07@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20401231
 DTEND;VALUE=DATE:20410101
 SUMMARY:Ističe koncesija: BAGERKOP-ROBERTO D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 31. 12. 2040.\n\n• BAGERKOP-ROBE
  RTO D.O.O. – Koncesija za eksploataciju građevnog pijeska i šljunka (S
- VETI ĐURĐ)\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina
- /41942358B33368752769838\nIzvor: Registar koncesija (FINA)\, obrada Konces
- ijski sat 9. 11. 2026.
+ VETI ĐURĐ) · davatelj: MINISTARSTVO GOSPODARSTVA\n\nProfil općine: htt
+ ps://koncesijski-sat.vercel.app/#opcina/41942358B33368752769838\nIzvor: Re
+ gistar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B33368752769838
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -122,8 +129,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-68c49f05e3b488b9@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-135b31b4cf33cc07@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20400630
 DTEND;VALUE=DATE:20400701
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BAGERKOP-ROBERTO
@@ -131,8 +138,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BAGERKOP-ROBERTO
 DESCRIPTION:31. 12. 2040. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• BAGERKOP-ROBERTO D.O.O. – Koncesija za eksploataciju građevno
- g pijeska i šljunka (SVETI ĐURĐ)\n\nProfil općine: https://koncesijski
- -sat.vercel.app/#opcina/41942358B33368752769838
+ g pijeska i šljunka (SVETI ĐURĐ) · davatelj: MINISTARSTVO GOSPODARSTVA
+ \n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B33
+ 368752769838
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B33368752769838
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -143,16 +151,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-da87021617c87b14@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-6bdf646f536f5f82@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20550618
 DTEND;VALUE=DATE:20550619
 SUMMARY:Ističe koncesija: PERUTNINA PTUJ - PIPO D.O.O. ČAKOVEC
 DESCRIPTION:1 ugovor o koncesiji ističe 18. 6. 2055.\n\n• PERUTNINA PTUJ
   - PIPO D.O.O. ČAKOVEC – Koncesija za zahvaćanje voda za tehnološke p
- otrebe (SVETI ĐURĐ)\n\nProfil općine: https://koncesijski-sat.vercel.ap
- p/#opcina/41942358B33368752769838\nIzvor: Registar koncesija (FINA)\, obra
- da Koncesijski sat 9. 11. 2026.
+ otrebe (SVETI ĐURĐ) · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠA I ZELENE
+  TRANZICIJE\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/
+ 41942358B33368752769838\nIzvor: Registar koncesija (FINA)\, obrada Koncesi
+ jski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B33368752769838
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -162,8 +171,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-da87021617c87b14@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-6bdf646f536f5f82@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20541218
 DTEND;VALUE=DATE:20541219
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PERUTNINA PTUJ -
@@ -171,8 +180,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PERUTNINA PTUJ -
 DESCRIPTION:18. 6. 2055. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• PERUTNINA PTUJ - PIPO D.O.O. ČAKOVEC – Koncesija za zahvaćanj
- e voda za tehnološke potrebe (SVETI ĐURĐ)\n\nProfil općine: https://ko
- ncesijski-sat.vercel.app/#opcina/41942358B33368752769838
+ e voda za tehnološke potrebe (SVETI ĐURĐ) · davatelj: MINISTARSTVO ZA
+ ŠTITE OKOLIŠA I ZELENE TRANZICIJE\n\nProfil općine: https://koncesijski
+ -sat.vercel.app/#opcina/41942358B33368752769838
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B33368752769838
 TRANSP:TRANSPARENT
 BEGIN:VALARM

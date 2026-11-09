@@ -1,0 +1,53 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · OPĆINA SUTIVAN
+X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje OPĆINA SUTIVAN. Iz Regist
+ ra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podata
+ ka. https://koncesijski-sat.vercel.app/#sat
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-82e3e91c3b8c8fb3@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20291109
+DTEND;VALUE=DATE:20291110
+SUMMARY:Ističe koncesija: MICHIELI-TOMIĆ D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 9. 11. 2029. Godišnja fiksna nakn
+ ada: 1.327 €.\n\n• MICHIELI-TOMIĆ D.O.O. – Koncesija skupljanja i o
+ dvoza komunalnog otpada (SUTIVAN\, Općina Sutivan)\, 1.327 €/god.\n\nŠ
+ to ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar konce
+ sija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: MICHIELI-TOMIĆ D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-82e3e91c3b8c8fb3@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20290509
+DTEND;VALUE=DATE:20290510
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MICHIELI-TOMIĆ 
+ D.O.O.)
+DESCRIPTION:9. 11. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• MICHIELI-TOMIĆ D.O.O. – Koncesija skupljanja i odvoza komunaln
+ og otpada (SUTIVAN\, Općina Sutivan)\, 1.327 €/god.\n\nŠto ističe: ht
+ tps://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MICHIELI-TOM
+ IĆ D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

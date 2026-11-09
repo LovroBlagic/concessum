@@ -34,7 +34,7 @@
   const U = P.ugovori.map((r, i) => {
     const doD = parse(r[5]);
     return {
-      i, dav: P.davatelji[r[0]], kon: P.koncesionari[r[1]], vrsta: P.vrste[r[2]],
+      i, di: r[0], dav: P.davatelji[r[0]], kon: P.koncesionari[r[1]], vrsta: P.vrste[r[2]],
       sektor: P.vrsteSektor[r[2]], opc: r[3] >= 0 ? P.opcine[r[3]] : null,
       od: parse(r[4]), do: doD, nast: r[6], lok: r[7], nak: r[8],
       st: doD < DANAS ? "istekla" : doD < M6 ? "hitno" : doD < M24 ? "istjece" : "aktivna",
@@ -361,12 +361,11 @@
   // ---------- pretplata na kalendar (statični feed po općini, generira izvoz_web.py) ----------
   const JAVNO = /^(localhost|127\.0\.0\.1)$/.test(location.hostname) ? "https://koncesijski-sat.vercel.app" : location.origin;
   const GEN = parse(P.generirano);
-  $("#opcina-pretplata").onclick = () => {
-    const id = S.opcina, naziv = nazivOpcine[id];
-    const ima = U.some((u) => u.opc === id && u.do >= GEN);
-    $("#pretplata-opcina").textContent = naziv;
-    $("#pretplata-sadrzaj").hidden = !ima; $("#pretplata-prazno").hidden = ima;
-    const https = `${JAVNO}/data/kalendar/${id}.ics`, webcal = https.replace(/^https?:/, "webcal:");
+  // Kalendar po općini = pregled svih ugovora na području; po davatelju = „moji ugovori“ (tko vodi postupak).
+  // Općine same dodjeljuju tek ~12 % koncesija na svom području, ostalo lučke uprave, županije i ministarstva.
+  const normNaziv = (t) => t.toLowerCase().replace(/^(grad|općina)\s+/, "").trim();
+  function postaviVeze(put, naziv) {
+    const https = `${JAVNO}/data/kalendar/${put}.ics`, webcal = https.replace(/^https?:/, "webcal:");
     const ime = encodeURIComponent("Rokovi koncesija · " + naziv);
     $("#pp-google").href = "https://calendar.google.com/calendar/render?cid=" + encodeURIComponent(webcal);
     $("#pp-m365").href = `https://outlook.office.com/calendar/0/addfromweb?url=${encodeURIComponent(https)}&name=${ime}`;
@@ -374,6 +373,33 @@
     $("#pp-webcal").href = webcal;
     $("#pp-url").value = https;
     $("#pp-kopiraj").textContent = "Kopiraj";
+  }
+  $("#opcina-pretplata").onclick = () => {
+    const id = S.opcina, naziv = nazivOpcine[id];
+    const ovdje = U.filter((u) => u.opc === id && u.do >= GEN);
+    $("#pretplata-opcina").textContent = naziv;
+    $("#pretplata-sadrzaj").hidden = !ovdje.length; $("#pretplata-prazno").hidden = !!ovdje.length;
+    if (!ovdje.length) { $("#pretplata").showModal(); return; }
+    // davatelji s aktivnim ugovorima u ovoj općini, grupirani po stabilnom ključu (OIB)
+    const dav = {};
+    for (const u of ovdje) {
+      const k = P.davateljiKal[u.di];
+      (dav[k] = dav[k] || { k, ime: u.dav, ovdje: 0, ukupno: 0 }).ovdje++;
+    }
+    for (const u of U) { const d = dav[P.davateljiKal[u.di]]; if (d && u.do >= GEN) d.ukupno++; }
+    const lista = Object.values(dav).sort((a, b) => b.ovdje - a.ovdje);
+    const svoj = lista.find((d) => normNaziv(d.ime) === normNaziv(naziv));
+    const opcije = [
+      { put: id, naslov: "Svi ugovori na području – pregled", pod: `${fmt.format(ovdje.length)} aktivnih ugovora, svi davatelji · za gradonačelnika, vijeće, javnost`, ime: naziv },
+      ...lista.map((d) => ({ put: "davatelj/" + d.k, naslov: d.ime, ime: d.ime,
+        pod: `ugovori koje dodjeljuje: ${fmt.format(d.ovdje)} ovdje` + (d.ukupno > d.ovdje ? ` · ${fmt.format(d.ukupno)} ukupno na svim lokacijama` : "") + (d === svoj ? " · vaša općina kao davatelj" : "") })),
+    ];
+    const zadano = svoj ? 1 + lista.indexOf(svoj) : 0;
+    $("#pretplata-opcije").innerHTML = opcije.map((o, i) =>
+      `<label class="pretplata-opcija"><input type="radio" name="pp-izbor" value="${i}"${i === zadano ? " checked" : ""}>` +
+      `<span><b>${esc(o.naslov)}</b><small>${esc(o.pod)}</small></span></label>`).join("");
+    $("#pretplata-opcije").onchange = (e) => { const o = opcije[+e.target.value]; postaviVeze(o.put, o.ime); };
+    postaviVeze(opcije[zadano].put, opcije[zadano].ime);
     $("#pretplata").showModal();
   };
   $("#pp-kopiraj").onclick = async () => {

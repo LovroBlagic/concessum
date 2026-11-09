@@ -4,23 +4,25 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Općina Vela Luka
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Vela Luka. Iz Re
- gistra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade po
- dataka. https://koncesijski-sat.vercel.app/#opcina/41942358B90023423647319
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Općina Vela Luka (pregl
+ ed\, svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježav
+ a se nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#opci
+ na/41942358B90023423647319
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-d549637338641195@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-ec87daad1e7786eb@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
 SUMMARY:Ističe koncesija: TOLERANCA\, VL. DINO ŠEPAROVIĆ
 DESCRIPTION:1 ugovor o koncesiji ističe 14. 11. 2026. Godišnja fiksna nak
  nada: 135 €.\n\n• TOLERANCA\, VL. DINO ŠEPAROVIĆ – Koncesija na po
- morskom dobru (VELA LUKA)\, 135 €/god.\n\nProfil općine: https://konces
- ijski-sat.vercel.app/#opcina/41942358B90023423647319\nIzvor: Registar konc
- esija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ morskom dobru (VELA LUKA) · davatelj: ŽUPANIJSKA LUČKA UPRAVA VELA LUKA
+ \, 135 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opc
+ ina/41942358B90023423647319\nIzvor: Registar koncesija (FINA)\, obrada Kon
+ cesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B90023423647319
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -30,8 +32,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-072d168759be22a8@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-090c4c84839c5d03@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270115
 DTEND;VALUE=DATE:20270116
 SUMMARY:Ističe koncesija: KOMUNALNE DJELATNOSTI D.O.O. ZA KOMUNALNE DJELAT
@@ -39,9 +41,10 @@ SUMMARY:Ističe koncesija: KOMUNALNE DJELATNOSTI D.O.O. ZA KOMUNALNE DJELAT
 DESCRIPTION:1 ugovor o koncesiji ističe 15. 1. 2027. Godišnja fiksna nakn
  ada: 9.291 €.\n\n• KOMUNALNE DJELATNOSTI D.O.O. ZA KOMUNALNE DJELATNOS
  TI – Koncesija za obavljanje poslova organizacije i naplate parkiranja (
- VELA LUKA)\, 9.291 €/god.\n\nProfil općine: https://koncesijski-sat.ver
- cel.app/#opcina/41942358B90023423647319\nIzvor: Registar koncesija (FINA)\
- , obrada Koncesijski sat 9. 11. 2026.
+ VELA LUKA) · davatelj: ŽUPANIJSKA LUČKA UPRAVA VELA LUKA\, 9.291 €/go
+ d.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B
+ 90023423647319\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 
+ 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B90023423647319
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -52,17 +55,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-fc6c4cbc47eabe10@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-79f1d3f8d3623a6f@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270124
 DTEND;VALUE=DATE:20270125
 SUMMARY:Ističe koncesija: KOMUNALNE DJELATNOSTI D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 24. 1. 2027. Godišnja fiksna nakn
  ada: 5.000 €.\n\n• KOMUNALNE DJELATNOSTI D.O.O. – Koncesija za obavl
- janje poslova organizacije i naplate parkiranja (VELA LUKA)\, 5.000 €/go
- d.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B
- 90023423647319\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 
- 9. 11. 2026.
+ janje poslova organizacije i naplate parkiranja (VELA LUKA) · davatelj: 
+ ŽUPANIJSKA LUČKA UPRAVA VELA LUKA\, 5.000 €/god.\n\nProfil općine: ht
+ tps://koncesijski-sat.vercel.app/#opcina/41942358B90023423647319\nIzvor: R
+ egistar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B90023423647319
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -72,17 +75,18 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-c0aadf3a23d1d253@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-d2c0191592e4adf1@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270331
 DTEND;VALUE=DATE:20270401
 SUMMARY:Ističe koncesija: OBRT ZA IZNAJMLJIVANJE PLOVILA PROIZD VL.NIKOLA 
  ŽUVELA
 DESCRIPTION:1 ugovor o koncesiji ističe 31. 3. 2027. Godišnja fiksna nakn
  ada: 200 €.\n\n• OBRT ZA IZNAJMLJIVANJE PLOVILA PROIZD VL.NIKOLA ŽUVE
- LA – Koncesija na pomorskom dobru (VELA LUKA)\, 200 €/god.\n\nProfil o
- pćine: https://koncesijski-sat.vercel.app/#opcina/41942358B90023423647319
- \nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ LA – Koncesija na pomorskom dobru (VELA LUKA) · davatelj: ŽUPANIJSKA L
+ UČKA UPRAVA VELA LUKA\, 200 €/god.\n\nProfil općine: https://koncesijs
+ ki-sat.vercel.app/#opcina/41942358B90023423647319\nIzvor: Registar koncesi
+ ja (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B90023423647319
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -93,16 +97,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-67f1a8948996bd12@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-e12f202e47e95c75@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270426
 DTEND;VALUE=DATE:20270427
 SUMMARY:Ističe koncesija: RADIO M - UDRUGA MLADEŽI VELA LUKA I DR. JTD
 DESCRIPTION:1 ugovor o koncesiji ističe 26. 4. 2027. Godišnja fiksna nakn
  ada: 66 €.\n\n• RADIO M - UDRUGA MLADEŽI VELA LUKA I DR. JTD – Konc
- esija za obavljanje djelatnosti radija (VELA LUKA)\, 66 €/god.\n\nProfil
-  općine: https://koncesijski-sat.vercel.app/#opcina/41942358B900234236473
- 19\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ esija za obavljanje djelatnosti radija (VELA LUKA) · davatelj: AGENCIJA Z
+ A ELEKTRONIČKE MEDIJE\, 66 €/god.\n\nProfil općine: https://koncesijsk
+ i-sat.vercel.app/#opcina/41942358B90023423647319\nIzvor: Registar koncesij
+ a (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B90023423647319
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -113,17 +118,18 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-14930a2f50c3fd2b@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-b897b4339d262662@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270528
 DTEND;VALUE=DATE:20270529
 SUMMARY:Ističe koncesija: TAXI RELAX\, VL. MARIO SARDELIĆ I FRANO SARDELI
  Ć
 DESCRIPTION:1 ugovor o koncesiji ističe 28. 5. 2027. Godišnja fiksna nakn
  ada: 135 €.\n\n• TAXI RELAX\, VL. MARIO SARDELIĆ I FRANO SARDELIĆ 
- – Koncesija na pomorskom dobru (VELA LUKA)\, 135 €/god.\n\nProfil opć
- ine: https://koncesijski-sat.vercel.app/#opcina/41942358B90023423647319\nI
- zvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ – Koncesija na pomorskom dobru (VELA LUKA) · davatelj: ŽUPANIJSKA LUČ
+ KA UPRAVA VELA LUKA\, 135 €/god.\n\nProfil općine: https://koncesijski-
+ sat.vercel.app/#opcina/41942358B90023423647319\nIzvor: Registar koncesija 
+ (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B90023423647319
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -134,8 +140,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-14930a2f50c3fd2b@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-b897b4339d262662@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (TAXI RELAX\, VL.
@@ -143,8 +149,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (TAXI RELAX\, VL.
 DESCRIPTION:28. 5. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• TAXI RELAX\, VL. MARIO SARDELIĆ I FRANO SARDELIĆ – Koncesija 
- na pomorskom dobru (VELA LUKA)\, 135 €/god.\n\nProfil općine: https://k
- oncesijski-sat.vercel.app/#opcina/41942358B90023423647319
+ na pomorskom dobru (VELA LUKA) · davatelj: ŽUPANIJSKA LUČKA UPRAVA VELA
+  LUKA\, 135 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app
+ /#opcina/41942358B90023423647319
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B90023423647319
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -155,18 +162,19 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-c1f0b11a116be4d4@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-ca58418e9ecdbbfd@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270630
 DTEND;VALUE=DATE:20270701
 SUMMARY:Ističe 2 koncesije · Vela Luka
 DESCRIPTION:2 ugovora o koncesiji ističe 30. 6. 2027. Godišnja fiksna nak
  nada: 270 €.\n\n• TAXI PETAR\, OBRT ZA TAXI PRIJEVOZ\, VL. PETAR BARČ
- OT – Koncesija na pomorskom dobru (VELA LUKA)\, 135 €/god.\n• JERKO\
- , OBRT ZA TAXI SLUŽBU\, VL. JERKO CETINIĆ – Koncesija na pomorskom dob
- ru (VELA LUKA)\, 135 €/god.\n\nProfil općine: https://koncesijski-sat.v
- ercel.app/#opcina/41942358B90023423647319\nIzvor: Registar koncesija (FINA
- )\, obrada Koncesijski sat 9. 11. 2026.
+ OT – Koncesija na pomorskom dobru (VELA LUKA) · davatelj: ŽUPANIJSKA L
+ UČKA UPRAVA VELA LUKA\, 135 €/god.\n• JERKO\, OBRT ZA TAXI SLUŽBU\, 
+ VL. JERKO CETINIĆ – Koncesija na pomorskom dobru (VELA LUKA) · davatel
+ j: ŽUPANIJSKA LUČKA UPRAVA VELA LUKA\, 135 €/god.\n\nProfil općine: h
+ ttps://koncesijski-sat.vercel.app/#opcina/41942358B90023423647319\nIzvor: 
+ Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B90023423647319
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -176,37 +184,39 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-c1f0b11a116be4d4@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-ca58418e9ecdbbfd@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20261230
 DTEND;VALUE=DATE:20261231
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Vela Luka
 DESCRIPTION:30. 6. 2027. ističe 2 ugovora o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• TAXI PETAR\, OBRT ZA TAXI PRIJEVOZ\, VL. PETAR BARČOT – Konce
- sija na pomorskom dobru (VELA LUKA)\, 135 €/god.\n• JERKO\, OBRT ZA TA
- XI SLUŽBU\, VL. JERKO CETINIĆ – Koncesija na pomorskom dobru (VELA LUK
- A)\, 135 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#o
- pcina/41942358B90023423647319
+ sija na pomorskom dobru (VELA LUKA) · davatelj: ŽUPANIJSKA LUČKA UPRAVA
+  VELA LUKA\, 135 €/god.\n• JERKO\, OBRT ZA TAXI SLUŽBU\, VL. JERKO CE
+ TINIĆ – Koncesija na pomorskom dobru (VELA LUKA) · davatelj: ŽUPANIJS
+ KA LUČKA UPRAVA VELA LUKA\, 135 €/god.\n\nProfil općine: https://konce
+ sijski-sat.vercel.app/#opcina/41942358B90023423647319
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B90023423647319
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Vela Luka
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-b140622148fc7e78@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-231c71b7afa72459@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270716
 DTEND;VALUE=DATE:20270717
 SUMMARY:Ističe koncesija: AUTOTRANS D. D.
 DESCRIPTION:1 ugovor o koncesiji ističe 16. 7. 2027. Godišnja fiksna nakn
  ada: 135 €.\n\n• AUTOTRANS D. D. – Koncesija za obavljanje prijevoza
-  putnika u javnom prometu (VELA LUKA)\, 135 €/god.\n\nProfil općine: ht
- tps://koncesijski-sat.vercel.app/#opcina/41942358B90023423647319\nIzvor: R
- egistar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+  putnika u javnom prometu (VELA LUKA) · davatelj: ŽUPANIJSKA LUČKA UPRA
+ VA VELA LUKA\, 135 €/god.\n\nProfil općine: https://koncesijski-sat.ver
+ cel.app/#opcina/41942358B90023423647319\nIzvor: Registar koncesija (FINA)\
+ , obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B90023423647319
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -216,16 +226,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-b140622148fc7e78@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-231c71b7afa72459@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270116
 DTEND;VALUE=DATE:20270117
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (AUTOTRANS D. D.)
 DESCRIPTION:16. 7. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• AUTOTRANS D. D. – Koncesija za obavljanje prijevoza putnika u j
- avnom prometu (VELA LUKA)\, 135 €/god.\n\nProfil općine: https://konces
- ijski-sat.vercel.app/#opcina/41942358B90023423647319
+ avnom prometu (VELA LUKA) · davatelj: ŽUPANIJSKA LUČKA UPRAVA VELA LUKA
+ \, 135 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opc
+ ina/41942358B90023423647319
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B90023423647319
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -236,16 +247,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-cfb00af87b3c3fd3@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-e66637299af12824@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20271110
 DTEND;VALUE=DATE:20271111
 SUMMARY:Ističe koncesija: SPORT'SWAY VL.JELENA BARČOT
 DESCRIPTION:1 ugovor o koncesiji ističe 10. 11. 2027. Godišnja fiksna nak
  nada: 3.000 €.\n\n• SPORT'SWAY VL.JELENA BARČOT – Koncesija na pomo
- rskom dobru (VELA LUKA)\, 3.000 €/god.\n\nProfil općine: https://konces
- ijski-sat.vercel.app/#opcina/41942358B90023423647319\nIzvor: Registar konc
- esija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ rskom dobru (VELA LUKA) · davatelj: ŽUPANIJSKA LUČKA UPRAVA VELA LUKA\,
+  3.000 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opc
+ ina/41942358B90023423647319\nIzvor: Registar koncesija (FINA)\, obrada Kon
+ cesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B90023423647319
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -255,8 +267,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-cfb00af87b3c3fd3@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-e66637299af12824@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270510
 DTEND;VALUE=DATE:20270511
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (SPORT'SWAY VL.JE
@@ -264,8 +276,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (SPORT'SWAY VL.JE
 DESCRIPTION:10. 11. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• SPORT'SWAY VL.JELENA BARČOT – Koncesija na pomorskom dobru (V
- ELA LUKA)\, 3.000 €/god.\n\nProfil općine: https://koncesijski-sat.verc
- el.app/#opcina/41942358B90023423647319
+ ELA LUKA) · davatelj: ŽUPANIJSKA LUČKA UPRAVA VELA LUKA\, 3.000 €/god
+ .\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B9
+ 0023423647319
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B90023423647319
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -276,16 +289,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-3e38bd7c4efabac3@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-996e9493c1238003@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20271231
 DTEND;VALUE=DATE:20280101
 SUMMARY:Ističe koncesija: VLAŠIĆ\, VL. VILI VLAŠIĆ I MARIJO VLAŠIĆ
 DESCRIPTION:1 ugovor o koncesiji ističe 31. 12. 2027. Godišnja fiksna nak
  nada: 135 €.\n\n• VLAŠIĆ\, VL. VILI VLAŠIĆ I MARIJO VLAŠIĆ – K
- oncesija na pomorskom dobru (VELA LUKA)\, 135 €/god.\n\nProfil općine: 
- https://koncesijski-sat.vercel.app/#opcina/41942358B90023423647319\nIzvor:
-  Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ oncesija na pomorskom dobru (VELA LUKA) · davatelj: ŽUPANIJSKA LUČKA UP
+ RAVA VELA LUKA\, 135 €/god.\n\nProfil općine: https://koncesijski-sat.v
+ ercel.app/#opcina/41942358B90023423647319\nIzvor: Registar koncesija (FINA
+ )\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B90023423647319
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -296,8 +310,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-3e38bd7c4efabac3@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-996e9493c1238003@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270630
 DTEND;VALUE=DATE:20270701
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VLAŠIĆ\, VL. V
@@ -305,8 +319,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VLAŠIĆ\, VL. V
 DESCRIPTION:31. 12. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• VLAŠIĆ\, VL. VILI VLAŠIĆ I MARIJO VLAŠIĆ – Koncesija na 
- pomorskom dobru (VELA LUKA)\, 135 €/god.\n\nProfil općine: https://konc
- esijski-sat.vercel.app/#opcina/41942358B90023423647319
+ pomorskom dobru (VELA LUKA) · davatelj: ŽUPANIJSKA LUČKA UPRAVA VELA LU
+ KA\, 135 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#o
+ pcina/41942358B90023423647319
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B90023423647319
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -317,16 +332,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-a88ed9144df27813@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-bf62809a15f31546@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20280617
 DTEND;VALUE=DATE:20280618
 SUMMARY:Ističe koncesija: TOLERANCA\, VL. DINO ŠEPAROVIĆ
 DESCRIPTION:1 ugovor o koncesiji ističe 17. 6. 2028. Godišnja fiksna nakn
  ada: 135 €.\n\n• TOLERANCA\, VL. DINO ŠEPAROVIĆ – Koncesija na pom
- orskom dobru (VELA LUKA)\, 135 €/god.\n\nProfil općine: https://koncesi
- jski-sat.vercel.app/#opcina/41942358B90023423647319\nIzvor: Registar konce
- sija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ orskom dobru (VELA LUKA) · davatelj: ŽUPANIJSKA LUČKA UPRAVA VELA LUKA\
+ , 135 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opci
+ na/41942358B90023423647319\nIzvor: Registar koncesija (FINA)\, obrada Konc
+ esijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B90023423647319
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -336,8 +352,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-a88ed9144df27813@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-bf62809a15f31546@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20271217
 DTEND;VALUE=DATE:20271218
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (TOLERANCA\, VL. 
@@ -345,8 +361,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (TOLERANCA\, VL.
 DESCRIPTION:17. 6. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• TOLERANCA\, VL. DINO ŠEPAROVIĆ – Koncesija na pomorskom dobru
-  (VELA LUKA)\, 135 €/god.\n\nProfil općine: https://koncesijski-sat.ver
- cel.app/#opcina/41942358B90023423647319
+  (VELA LUKA) · davatelj: ŽUPANIJSKA LUČKA UPRAVA VELA LUKA\, 135 €/go
+ d.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B
+ 90023423647319
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B90023423647319
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -357,16 +374,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-583f2977433e975a@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-de637d6e9885a528@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20280625
 DTEND;VALUE=DATE:20280626
 SUMMARY:Ističe koncesija: TAXI TAMARA\, VL. TAMARA ROTIM
 DESCRIPTION:1 ugovor o koncesiji ističe 25. 6. 2028. Godišnja fiksna nakn
  ada: 135 €.\n\n• TAXI TAMARA\, VL. TAMARA ROTIM – Koncesija na pomor
- skom dobru (VELA LUKA)\, 135 €/god.\n\nProfil općine: https://koncesijs
- ki-sat.vercel.app/#opcina/41942358B90023423647319\nIzvor: Registar koncesi
- ja (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ skom dobru (VELA LUKA) · davatelj: ŽUPANIJSKA LUČKA UPRAVA VELA LUKA\, 
+ 135 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina
+ /41942358B90023423647319\nIzvor: Registar koncesija (FINA)\, obrada Konces
+ ijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B90023423647319
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -376,8 +394,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-583f2977433e975a@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-de637d6e9885a528@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20271225
 DTEND;VALUE=DATE:20271226
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (TAXI TAMARA\, VL
@@ -385,8 +403,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (TAXI TAMARA\, VL
 DESCRIPTION:25. 6. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• TAXI TAMARA\, VL. TAMARA ROTIM – Koncesija na pomorskom dobru (
- VELA LUKA)\, 135 €/god.\n\nProfil općine: https://koncesijski-sat.verce
- l.app/#opcina/41942358B90023423647319
+ VELA LUKA) · davatelj: ŽUPANIJSKA LUČKA UPRAVA VELA LUKA\, 135 €/god.
+ \n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B90
+ 023423647319
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B90023423647319
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -397,16 +416,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-d081767d4a5a5633@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-6eecaec8d99233d1@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20280628
 DTEND;VALUE=DATE:20280629
 SUMMARY:Ističe koncesija: MUŠKAT D.O.O.ZA PROMET ROBA I USLUGA
 DESCRIPTION:1 ugovor o koncesiji ističe 28. 6. 2028. Godišnja fiksna nakn
  ada: 135 €.\n\n• MUŠKAT D.O.O.ZA PROMET ROBA I USLUGA – Koncesija n
- a pomorskom dobru (VELA LUKA)\, 135 €/god.\n\nProfil općine: https://ko
- ncesijski-sat.vercel.app/#opcina/41942358B90023423647319\nIzvor: Registar 
- koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ a pomorskom dobru (VELA LUKA) · davatelj: ŽUPANIJSKA LUČKA UPRAVA VELA 
+ LUKA\, 135 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/
+ #opcina/41942358B90023423647319\nIzvor: Registar koncesija (FINA)\, obrada
+  Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B90023423647319
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -416,8 +436,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-d081767d4a5a5633@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-6eecaec8d99233d1@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20271228
 DTEND;VALUE=DATE:20271229
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MUŠKAT D.O.O.ZA
@@ -425,8 +445,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MUŠKAT D.O.O.ZA
 DESCRIPTION:28. 6. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• MUŠKAT D.O.O.ZA PROMET ROBA I USLUGA – Koncesija na pomorskom 
- dobru (VELA LUKA)\, 135 €/god.\n\nProfil općine: https://koncesijski-sa
- t.vercel.app/#opcina/41942358B90023423647319
+ dobru (VELA LUKA) · davatelj: ŽUPANIJSKA LUČKA UPRAVA VELA LUKA\, 135 
+ €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
+ 42358B90023423647319
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B90023423647319
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -437,16 +458,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-7f82d2cec087f434@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-99ca71053475e1de@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20280716
 DTEND;VALUE=DATE:20280717
 SUMMARY:Ističe koncesija: DIONIS\, VL.DOBRENKO RUBEŠA
 DESCRIPTION:1 ugovor o koncesiji ističe 16. 7. 2028. Godišnja fiksna nakn
  ada: 1.327 €.\n\n• DIONIS\, VL.DOBRENKO RUBEŠA – Koncesija za luku 
- (VELA LUKA)\, 1.327 €/god.\n\nProfil općine: https://koncesijski-sat.ve
- rcel.app/#opcina/41942358B90023423647319\nIzvor: Registar koncesija (FINA)
- \, obrada Koncesijski sat 9. 11. 2026.
+ (VELA LUKA) · davatelj: ŽUPANIJSKA LUČKA UPRAVA VELA LUKA\, 1.327 €/g
+ od.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358
+ B90023423647319\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat
+  9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B90023423647319
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -456,17 +478,18 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-7f82d2cec087f434@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-99ca71053475e1de@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20280116
 DTEND;VALUE=DATE:20280117
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DIONIS\, VL.DOBR
  ENKO RUBEŠA)
 DESCRIPTION:16. 7. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
- .\n\n• DIONIS\, VL.DOBRENKO RUBEŠA – Koncesija za luku (VELA LUKA)\, 
- 1.327 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opci
- na/41942358B90023423647319
+ .\n\n• DIONIS\, VL.DOBRENKO RUBEŠA – Koncesija za luku (VELA LUKA) ·
+  davatelj: ŽUPANIJSKA LUČKA UPRAVA VELA LUKA\, 1.327 €/god.\n\nProfil 
+ općine: https://koncesijski-sat.vercel.app/#opcina/41942358B9002342364731
+ 9
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B90023423647319
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -477,16 +500,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-3f75b2c9ab3d33a9@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-757f8836f31944dd@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20281007
 DTEND;VALUE=DATE:20281008
 SUMMARY:Ističe koncesija: BILICA\, VL. SLAVEN PETKOVIĆ
 DESCRIPTION:1 ugovor o koncesiji ističe 7. 10. 2028. Godišnja fiksna nakn
  ada: 135 €.\n\n• BILICA\, VL. SLAVEN PETKOVIĆ – Koncesija na pomors
- kom dobru (VELA LUKA)\, 135 €/god.\n\nProfil općine: https://koncesijsk
- i-sat.vercel.app/#opcina/41942358B90023423647319\nIzvor: Registar koncesij
- a (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ kom dobru (VELA LUKA) · davatelj: ŽUPANIJSKA LUČKA UPRAVA VELA LUKA\, 1
+ 35 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/
+ 41942358B90023423647319\nIzvor: Registar koncesija (FINA)\, obrada Koncesi
+ jski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B90023423647319
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -496,8 +520,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-3f75b2c9ab3d33a9@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-757f8836f31944dd@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20280407
 DTEND;VALUE=DATE:20280408
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BILICA\, VL. SLA
@@ -505,8 +529,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BILICA\, VL. SLA
 DESCRIPTION:7. 10. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• BILICA\, VL. SLAVEN PETKOVIĆ – Koncesija na pomorskom dobru (V
- ELA LUKA)\, 135 €/god.\n\nProfil općine: https://koncesijski-sat.vercel
- .app/#opcina/41942358B90023423647319
+ ELA LUKA) · davatelj: ŽUPANIJSKA LUČKA UPRAVA VELA LUKA\, 135 €/god.\
+ n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B900
+ 23423647319
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B90023423647319
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -517,16 +542,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-b2862a0a6439d286@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-fa87cd9ff6f94acd@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20290115
 DTEND;VALUE=DATE:20290116
 SUMMARY:Ističe koncesija: VAL MEDIA D.O.O. ZA TRGOVINU I USLUGE
 DESCRIPTION:1 ugovor o koncesiji ističe 15. 1. 2029. Godišnja fiksna nakn
  ada: 66 €.\n\n• VAL MEDIA D.O.O. ZA TRGOVINU I USLUGE – Koncesija za
-  obavljanje djelatnosti radija (VELA LUKA)\, 66 €/god.\n\nProfil općine
- : https://koncesijski-sat.vercel.app/#opcina/41942358B90023423647319\nIzvo
- r: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+  obavljanje djelatnosti radija (VELA LUKA) · davatelj: AGENCIJA ZA ELEKTR
+ ONIČKE MEDIJE\, 66 €/god.\n\nProfil općine: https://koncesijski-sat.ve
+ rcel.app/#opcina/41942358B90023423647319\nIzvor: Registar koncesija (FINA)
+ \, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B90023423647319
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -536,8 +562,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-b2862a0a6439d286@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-fa87cd9ff6f94acd@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20280715
 DTEND;VALUE=DATE:20280716
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VAL MEDIA D.O.O.
@@ -545,8 +571,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VAL MEDIA D.O.O.
 DESCRIPTION:15. 1. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• VAL MEDIA D.O.O. ZA TRGOVINU I USLUGE – Koncesija za obavljanje
-  djelatnosti radija (VELA LUKA)\, 66 €/god.\n\nProfil općine: https://k
- oncesijski-sat.vercel.app/#opcina/41942358B90023423647319
+  djelatnosti radija (VELA LUKA) · davatelj: AGENCIJA ZA ELEKTRONIČKE MED
+ IJE\, 66 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#o
+ pcina/41942358B90023423647319
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B90023423647319
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -557,20 +584,21 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-3391b0c00fddb33c@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-f2ea92a3626935a7@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20290620
 DTEND;VALUE=DATE:20290621
 SUMMARY:Ističe 2 koncesije · Vela Luka
 DESCRIPTION:2 ugovora o koncesiji ističe 20. 6. 2029. Godišnja fiksna nak
  nada: 10.320 €.\n\n• SHIJE\, ZAJEDNIČKI OBRT ZA UGOSTITELJSTVO\, VL. 
  IVO SARDELIĆ I DANIJELA SARDELIĆ – Koncesija za obavljanje ugostiteljs
- ke djelatnosti na lučkom području (VELA LUKA)\, 5.160 €/god.\n• SHIJ
- E\, ZAJEDNIČKI OBRT ZA UGOSTITELJSTVO\, VL. IVO SARDELIĆ I DANIJELA SARD
- ELIĆ – Koncesija za obavljanje ugostiteljske djelatnosti na lučkom pod
- ručju (VELA LUKA)\, 5.160 €/god.\n\nProfil općine: https://koncesijski
- -sat.vercel.app/#opcina/41942358B90023423647319\nIzvor: Registar koncesija
-  (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ ke djelatnosti na lučkom području (VELA LUKA) · davatelj: ŽUPANIJSKA L
+ UČKA UPRAVA VELA LUKA\, 5.160 €/god.\n• SHIJE\, ZAJEDNIČKI OBRT ZA U
+ GOSTITELJSTVO\, VL. IVO SARDELIĆ I DANIJELA SARDELIĆ – Koncesija za ob
+ avljanje ugostiteljske djelatnosti na lučkom području (VELA LUKA) · dav
+ atelj: ŽUPANIJSKA LUČKA UPRAVA VELA LUKA\, 5.160 €/god.\n\nProfil opć
+ ine: https://koncesijski-sat.vercel.app/#opcina/41942358B90023423647319\nI
+ zvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B90023423647319
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -580,39 +608,41 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-3391b0c00fddb33c@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-f2ea92a3626935a7@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20281220
 DTEND;VALUE=DATE:20281221
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Vela Luka
 DESCRIPTION:20. 6. 2029. ističe 2 ugovora o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• SHIJE\, ZAJEDNIČKI OBRT ZA UGOSTITELJSTVO\, VL. IVO SARDELIĆ I
   DANIJELA SARDELIĆ – Koncesija za obavljanje ugostiteljske djelatnosti 
- na lučkom području (VELA LUKA)\, 5.160 €/god.\n• SHIJE\, ZAJEDNIČKI
-  OBRT ZA UGOSTITELJSTVO\, VL. IVO SARDELIĆ I DANIJELA SARDELIĆ – Konce
- sija za obavljanje ugostiteljske djelatnosti na lučkom području (VELA LU
- KA)\, 5.160 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app
- /#opcina/41942358B90023423647319
+ na lučkom području (VELA LUKA) · davatelj: ŽUPANIJSKA LUČKA UPRAVA VE
+ LA LUKA\, 5.160 €/god.\n• SHIJE\, ZAJEDNIČKI OBRT ZA UGOSTITELJSTVO\,
+  VL. IVO SARDELIĆ I DANIJELA SARDELIĆ – Koncesija za obavljanje ugosti
+ teljske djelatnosti na lučkom području (VELA LUKA) · davatelj: ŽUPANIJ
+ SKA LUČKA UPRAVA VELA LUKA\, 5.160 €/god.\n\nProfil općine: https://ko
+ ncesijski-sat.vercel.app/#opcina/41942358B90023423647319
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B90023423647319
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Vela Luka
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-bc518e70c6480839@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-87588db20f94747e@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20291020
 DTEND;VALUE=DATE:20291021
 SUMMARY:Ističe koncesija: INA\, D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 20. 10. 2029. Godišnja fiksna nak
  nada: 1.000 €.\n\n• INA\, D.D. – Koncesija na pomorskom dobru (VELA 
- LUKA)\, 1.000 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.a
- pp/#opcina/41942358B90023423647319\nIzvor: Registar koncesija (FINA)\, obr
- ada Koncesijski sat 9. 11. 2026.
+ LUKA) · davatelj: ŽUPANIJSKA LUČKA UPRAVA VELA LUKA\, 1.000 €/god.\n\
+ nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B90023
+ 423647319\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11
+ . 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B90023423647319
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -622,16 +652,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-bc518e70c6480839@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-87588db20f94747e@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20290420
 DTEND;VALUE=DATE:20290421
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA\, D.D.)
 DESCRIPTION:20. 10. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
- a.\n\n• INA\, D.D. – Koncesija na pomorskom dobru (VELA LUKA)\, 1.000 
- €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
- 42358B90023423647319
+ a.\n\n• INA\, D.D. – Koncesija na pomorskom dobru (VELA LUKA) · davat
+ elj: ŽUPANIJSKA LUČKA UPRAVA VELA LUKA\, 1.000 €/god.\n\nProfil općin
+ e: https://koncesijski-sat.vercel.app/#opcina/41942358B90023423647319
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B90023423647319
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -641,16 +671,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-3d8d6ae07cb46de4@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-60772ed6b0e0f485@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20300302
 DTEND;VALUE=DATE:20300303
 SUMMARY:Ističe koncesija: INA\, D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 2. 3. 2030. Godišnja fiksna nakna
  da: 3.000 €.\n\n• INA\, D.D. – Koncesija na pomorskom dobru (VELA LU
- KA)\, 3.000 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app
- /#opcina/41942358B90023423647319\nIzvor: Registar koncesija (FINA)\, obrad
- a Koncesijski sat 9. 11. 2026.
+ KA) · davatelj: ŽUPANIJSKA LUČKA UPRAVA VELA LUKA\, 3.000 €/god.\n\nP
+ rofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B9002342
+ 3647319\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 
+ 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B90023423647319
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -660,16 +691,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-3d8d6ae07cb46de4@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-60772ed6b0e0f485@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20290902
 DTEND;VALUE=DATE:20290903
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA\, D.D.)
 DESCRIPTION:2. 3. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
- \n\n• INA\, D.D. – Koncesija na pomorskom dobru (VELA LUKA)\, 3.000 
- €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
- 42358B90023423647319
+ \n\n• INA\, D.D. – Koncesija na pomorskom dobru (VELA LUKA) · davatel
+ j: ŽUPANIJSKA LUČKA UPRAVA VELA LUKA\, 3.000 €/god.\n\nProfil općine:
+  https://koncesijski-sat.vercel.app/#opcina/41942358B90023423647319
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B90023423647319
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -679,18 +710,18 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-d4714d6ff0bf6bb1@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-72d4d31decf2a349@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20300518
 DTEND;VALUE=DATE:20300519
 SUMMARY:Ističe koncesija: VALASUB\, OBRT ZA PODVODNE RADOVE\, VL. ROBERT L
  OVRIČEVIĆ
 DESCRIPTION:1 ugovor o koncesiji ističe 18. 5. 2030. Godišnja fiksna nakn
  ada: 135 €.\n\n• VALASUB\, OBRT ZA PODVODNE RADOVE\, VL. ROBERT LOVRI
- ČEVIĆ – Koncesija na pomorskom dobru (VELA LUKA)\, 135 €/god.\n\nPro
- fil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B900234236
- 47319\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 20
- 26.
+ ČEVIĆ – Koncesija na pomorskom dobru (VELA LUKA) · davatelj: ŽUPANIJ
+ SKA LUČKA UPRAVA VELA LUKA\, 135 €/god.\n\nProfil općine: https://konc
+ esijski-sat.vercel.app/#opcina/41942358B90023423647319\nIzvor: Registar ko
+ ncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B90023423647319
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -701,8 +732,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-d4714d6ff0bf6bb1@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-72d4d31decf2a349@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20291118
 DTEND;VALUE=DATE:20291119
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VALASUB\, OBRT Z
@@ -710,8 +741,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VALASUB\, OBRT Z
 DESCRIPTION:18. 5. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• VALASUB\, OBRT ZA PODVODNE RADOVE\, VL. ROBERT LOVRIČEVIĆ – K
- oncesija na pomorskom dobru (VELA LUKA)\, 135 €/god.\n\nProfil općine: 
- https://koncesijski-sat.vercel.app/#opcina/41942358B90023423647319
+ oncesija na pomorskom dobru (VELA LUKA) · davatelj: ŽUPANIJSKA LUČKA UP
+ RAVA VELA LUKA\, 135 €/god.\n\nProfil općine: https://koncesijski-sat.v
+ ercel.app/#opcina/41942358B90023423647319
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B90023423647319
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -722,16 +754,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-e55ab97f601950fa@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-1dc198bebda7e82d@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20300527
 DTEND;VALUE=DATE:20300528
 SUMMARY:Ističe koncesija: AUTOTRANS D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 27. 5. 2030. Godišnja fiksna nakn
  ada: 2.025 €.\n\n• AUTOTRANS D.D. – Koncesija za obavljanje komunaln
- ih djelatnosti (VELA LUKA)\, 2.025 €/god.\n\nProfil općine: https://kon
- cesijski-sat.vercel.app/#opcina/41942358B90023423647319\nIzvor: Registar k
- oncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ ih djelatnosti (VELA LUKA) · davatelj: OPĆINA VELA LUKA\, 2.025 €/god.
+ \n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B90
+ 023423647319\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9.
+  11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B90023423647319
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -741,16 +774,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-e55ab97f601950fa@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-1dc198bebda7e82d@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20291127
 DTEND;VALUE=DATE:20291128
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (AUTOTRANS D.D.)
 DESCRIPTION:27. 5. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• AUTOTRANS D.D. – Koncesija za obavljanje komunalnih djelatnosti
-  (VELA LUKA)\, 2.025 €/god.\n\nProfil općine: https://koncesijski-sat.v
- ercel.app/#opcina/41942358B90023423647319
+  (VELA LUKA) · davatelj: OPĆINA VELA LUKA\, 2.025 €/god.\n\nProfil op
+ ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B90023423647319
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B90023423647319
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -761,16 +794,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-eb898e8e516f7b21@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-36215410643f48c5@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20330630
 DTEND;VALUE=DATE:20330701
 SUMMARY:Ističe koncesija: UGOSTITELJSKI OBRT CVITA\, VL. CVJETANA TABAIN
 DESCRIPTION:1 ugovor o koncesiji ističe 30. 6. 2033. Godišnja fiksna nakn
  ada: 6.800 €.\n\n• UGOSTITELJSKI OBRT CVITA\, VL. CVJETANA TABAIN – 
- Koncesija na pomorskom dobru (VELA LUKA)\, 6.800 €/god.\n\nProfil općin
- e: https://koncesijski-sat.vercel.app/#opcina/41942358B90023423647319\nIzv
- or: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ Koncesija na pomorskom dobru (VELA LUKA) · davatelj: DUBROVAČKO-NERETVAN
+ SKA ŽUPANIJA\, 6.800 €/god.\n\nProfil općine: https://koncesijski-sat.
+ vercel.app/#opcina/41942358B90023423647319\nIzvor: Registar koncesija (FIN
+ A)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B90023423647319
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -781,8 +815,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-eb898e8e516f7b21@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-36215410643f48c5@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20321230
 DTEND;VALUE=DATE:20321231
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (UGOSTITELJSKI OB
@@ -790,8 +824,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (UGOSTITELJSKI OB
 DESCRIPTION:30. 6. 2033. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• UGOSTITELJSKI OBRT CVITA\, VL. CVJETANA TABAIN – Koncesija na p
- omorskom dobru (VELA LUKA)\, 6.800 €/god.\n\nProfil općine: https://kon
- cesijski-sat.vercel.app/#opcina/41942358B90023423647319
+ omorskom dobru (VELA LUKA) · davatelj: DUBROVAČKO-NERETVANSKA ŽUPANIJA\
+ , 6.800 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#op
+ cina/41942358B90023423647319
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B90023423647319
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -802,16 +837,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-44244f9f58ce8e99@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-e44923e60ba25060@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20340630
 DTEND;VALUE=DATE:20340701
 SUMMARY:Ističe koncesija: JADROLINIJA
 DESCRIPTION:1 ugovor o koncesiji ističe 30. 6. 2034. Godišnja fiksna nakn
  ada: 4.896 €.\n\n• JADROLINIJA – Koncesija na pomorskom dobru (VELA 
- LUKA)\, 4.896 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.a
- pp/#opcina/41942358B90023423647319\nIzvor: Registar koncesija (FINA)\, obr
- ada Koncesijski sat 9. 11. 2026.
+ LUKA) · davatelj: ŽUPANIJSKA LUČKA UPRAVA VELA LUKA\, 4.896 €/god.\n\
+ nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B90023
+ 423647319\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11
+ . 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B90023423647319
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -821,16 +857,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-44244f9f58ce8e99@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-e44923e60ba25060@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20331230
 DTEND;VALUE=DATE:20331231
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (JADROLINIJA)
 DESCRIPTION:30. 6. 2034. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
- .\n\n• JADROLINIJA – Koncesija na pomorskom dobru (VELA LUKA)\, 4.896 
- €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
- 42358B90023423647319
+ .\n\n• JADROLINIJA – Koncesija na pomorskom dobru (VELA LUKA) · davat
+ elj: ŽUPANIJSKA LUČKA UPRAVA VELA LUKA\, 4.896 €/god.\n\nProfil općin
+ e: https://koncesijski-sat.vercel.app/#opcina/41942358B90023423647319
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B90023423647319
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -840,16 +876,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-2258c1429fd0676b@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-84e9f62980d57913@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20351007
 DTEND;VALUE=DATE:20351008
 SUMMARY:Ističe koncesija: HT D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 7. 10. 2035. Godišnja fiksna nakn
  ada: 141 €.\n\n• HT D.D. – Koncesija pomorskog dobra za posebnu upot
- rebu u svrhu gradnje kabelske veze (VELA LUKA)\, 141 €/god.\n\nProfil op
- ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B90023423647319\
- nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ rebu u svrhu gradnje kabelske veze (VELA LUKA) · davatelj: ŽUPANIJSKA LU
+ ČKA UPRAVA VELA LUKA\, 141 €/god.\n\nProfil općine: https://koncesijsk
+ i-sat.vercel.app/#opcina/41942358B90023423647319\nIzvor: Registar koncesij
+ a (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B90023423647319
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -859,16 +896,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-2258c1429fd0676b@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-84e9f62980d57913@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20350407
 DTEND;VALUE=DATE:20350408
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HT D.D.)
 DESCRIPTION:7. 10. 2035. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• HT D.D. – Koncesija pomorskog dobra za posebnu upotrebu u svrhu
-  gradnje kabelske veze (VELA LUKA)\, 141 €/god.\n\nProfil općine: https
- ://koncesijski-sat.vercel.app/#opcina/41942358B90023423647319
+  gradnje kabelske veze (VELA LUKA) · davatelj: ŽUPANIJSKA LUČKA UPRAVA 
+ VELA LUKA\, 141 €/god.\n\nProfil općine: https://koncesijski-sat.vercel
+ .app/#opcina/41942358B90023423647319
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B90023423647319
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -878,18 +916,20 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-431e7d1f42da25cf@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-58a7895a5e042ae6@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20360218
 DTEND;VALUE=DATE:20360219
 SUMMARY:Ističe 2 koncesije · Vela Luka
 DESCRIPTION:2 ugovora o koncesiji ističe 18. 2. 2036. Godišnja fiksna nak
  nada: 2.711 €.\n\n• GLOBAL GRUPA D.O.O. – Koncesija pomorskog dobra 
- u svrhu gospodarskog korištenja luke (VELA LUKA)\, 2.711 €/god.\n• MO
- NTMONTAŽA-GREBEN D.O.O. U STEČAJU – Koncesija pomorskog dobra u svrhu 
- gospodarskog korištenja luke (VELA LUKA)\n\nProfil općine: https://konce
- sijski-sat.vercel.app/#opcina/41942358B90023423647319\nIzvor: Registar kon
- cesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ u svrhu gospodarskog korištenja luke (VELA LUKA) · davatelj: MINISTARSTV
+ O MORA\, PROMETA I INFRASTRUKTURE\, 2.711 €/god.\n• MONTMONTAŽA-GREBE
+ N D.O.O. U STEČAJU – Koncesija pomorskog dobra u svrhu gospodarskog kor
+ ištenja luke (VELA LUKA) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRA
+ STRUKTURE\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41
+ 942358B90023423647319\nIzvor: Registar koncesija (FINA)\, obrada Koncesijs
+ ki sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B90023423647319
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -899,37 +939,40 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-431e7d1f42da25cf@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-58a7895a5e042ae6@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20350818
 DTEND;VALUE=DATE:20350819
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Vela Luka
 DESCRIPTION:18. 2. 2036. ističe 2 ugovora o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• GLOBAL GRUPA D.O.O. – Koncesija pomorskog dobra u svrhu gospod
- arskog korištenja luke (VELA LUKA)\, 2.711 €/god.\n• MONTMONTAŽA-GRE
- BEN D.O.O. U STEČAJU – Koncesija pomorskog dobra u svrhu gospodarskog k
- orištenja luke (VELA LUKA)\n\nProfil općine: https://koncesijski-sat.ver
- cel.app/#opcina/41942358B90023423647319
+ arskog korištenja luke (VELA LUKA) · davatelj: MINISTARSTVO MORA\, PROME
+ TA I INFRASTRUKTURE\, 2.711 €/god.\n• MONTMONTAŽA-GREBEN D.O.O. U STE
+ ČAJU – Koncesija pomorskog dobra u svrhu gospodarskog korištenja luke 
+ (VELA LUKA) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\n\nP
+ rofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B9002342
+ 3647319
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B90023423647319
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Vela Luka
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-0dc960c9190ddeda@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-9c1e09884e13c2d0@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20370918
 DTEND;VALUE=DATE:20370919
 SUMMARY:Ističe koncesija: OVALIS NOVA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 18. 9. 2037. Godišnja fiksna nakn
  ada: 37.860 €.\n\n• OVALIS NOVA D.O.O. – Koncesija na pomorskom dobr
- u (VELA LUKA)\, 37.860 €/god.\n\nProfil općine: https://koncesijski-sat
- .vercel.app/#opcina/41942358B90023423647319\nIzvor: Registar koncesija (FI
- NA)\, obrada Koncesijski sat 9. 11. 2026.
+ u (VELA LUKA) · davatelj: DUBROVAČKO-NERETVANSKA ŽUPANIJA\, 37.860 €/
+ god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4194235
+ 8B90023423647319\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sa
+ t 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B90023423647319
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -939,17 +982,18 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-0dc960c9190ddeda@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-9c1e09884e13c2d0@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20370318
 DTEND;VALUE=DATE:20370319
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (OVALIS NOVA D.O.
  O.)
 DESCRIPTION:18. 9. 2037. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
- .\n\n• OVALIS NOVA D.O.O. – Koncesija na pomorskom dobru (VELA LUKA)\,
-  37.860 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#op
- cina/41942358B90023423647319
+ .\n\n• OVALIS NOVA D.O.O. – Koncesija na pomorskom dobru (VELA LUKA) 
+ · davatelj: DUBROVAČKO-NERETVANSKA ŽUPANIJA\, 37.860 €/god.\n\nProfil
+  općine: https://koncesijski-sat.vercel.app/#opcina/41942358B900234236473
+ 19
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B90023423647319
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -960,18 +1004,18 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-6c64cb4ef34ea06b@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-4bc04b9d49c24c87@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20381114
 DTEND;VALUE=DATE:20381115
 SUMMARY:Ističe koncesija: NERETVANSKO-PELJEŠKO-KORČULANSKO-LASTOVSKO-MLJ
  ETSKI VODOVOD D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 14. 11. 2038. Godišnja fiksna nak
  nada: 86 €.\n\n• NERETVANSKO-PELJEŠKO-KORČULANSKO-LASTOVSKO-MLJETSKI
-  VODOVOD D.O.O. – Posebna upotreba pomorskog dobra (VELA LUKA)\, 86 €/
- god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4194235
- 8B90023423647319\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sa
- t 9. 11. 2026.
+  VODOVOD D.O.O. – Posebna upotreba pomorskog dobra (VELA LUKA) · davate
+ lj: OPĆINA VELA LUKA\, 86 €/god.\n\nProfil općine: https://koncesijski
+ -sat.vercel.app/#opcina/41942358B90023423647319\nIzvor: Registar koncesija
+  (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B90023423647319
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -982,8 +1026,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-6c64cb4ef34ea06b@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-4bc04b9d49c24c87@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20380514
 DTEND;VALUE=DATE:20380515
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (NERETVANSKO-PELJ
@@ -991,9 +1035,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (NERETVANSKO-PELJ
 DESCRIPTION:14. 11. 2038. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• NERETVANSKO-PELJEŠKO-KORČULANSKO-LASTOVSKO-MLJETSKI VODOVOD D.
- O.O. – Posebna upotreba pomorskog dobra (VELA LUKA)\, 86 €/god.\n\nPro
- fil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B900234236
- 47319
+ O.O. – Posebna upotreba pomorskog dobra (VELA LUKA) · davatelj: OPĆINA
+  VELA LUKA\, 86 €/god.\n\nProfil općine: https://koncesijski-sat.vercel
+ .app/#opcina/41942358B90023423647319
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B90023423647319
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1004,17 +1048,18 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-4ce0f69e5e24eeb0@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-96204cdd4e267774@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20571110
 DTEND;VALUE=DATE:20571111
 SUMMARY:Ističe koncesija: HRVATSKI OPERATOR PRIJENOSNOG SUSTAVA D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 10. 11. 2057. Godišnja fiksna nak
  nada: 5.274 €.\n\n• HRVATSKI OPERATOR PRIJENOSNOG SUSTAVA D.D. – Kon
  cesija pomorskog dobra za posebnu upotrebu u svrhu gradnje kabelske veze (
- VELA LUKA)\, 5.274 €/god.\n\nProfil općine: https://koncesijski-sat.ver
- cel.app/#opcina/41942358B90023423647319\nIzvor: Registar koncesija (FINA)\
- , obrada Koncesijski sat 9. 11. 2026.
+ VELA LUKA) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\, 5.2
+ 74 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/
+ 41942358B90023423647319\nIzvor: Registar koncesija (FINA)\, obrada Koncesi
+ jski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B90023423647319
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1024,8 +1069,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-4ce0f69e5e24eeb0@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-96204cdd4e267774@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20570510
 DTEND;VALUE=DATE:20570511
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKI OPERATO
@@ -1033,9 +1078,10 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKI OPERATO
 DESCRIPTION:10. 11. 2057. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• HRVATSKI OPERATOR PRIJENOSNOG SUSTAVA D.D. – Koncesija pomorsk
- og dobra za posebnu upotrebu u svrhu gradnje kabelske veze (VELA LUKA)\, 5
- .274 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcin
- a/41942358B90023423647319
+ og dobra za posebnu upotrebu u svrhu gradnje kabelske veze (VELA LUKA) · 
+ davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\, 5.274 €/god.\n\
+ nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B90023
+ 423647319
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B90023423647319
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1046,16 +1092,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-c1869c824854bf28@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-bfe24b17ba37da40@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20760717
 DTEND;VALUE=DATE:20760718
 SUMMARY:Ističe koncesija: HRVATSKI TELEKOM D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 17. 7. 2076. Godišnja fiksna nakn
  ada: 3.533 €.\n\n• HRVATSKI TELEKOM D.D. – Posebna upotreba pomorsko
- g dobra (VELA LUKA)\, 3.533 €/god.\n\nProfil općine: https://koncesijsk
- i-sat.vercel.app/#opcina/41942358B90023423647319\nIzvor: Registar koncesij
- a (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ g dobra (VELA LUKA) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKT
+ URE\, 3.533 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app
+ /#opcina/41942358B90023423647319\nIzvor: Registar koncesija (FINA)\, obrad
+ a Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B90023423647319
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1065,8 +1112,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-c1869c824854bf28@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-bfe24b17ba37da40@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20760117
 DTEND;VALUE=DATE:20760118
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKI TELEKOM
@@ -1074,8 +1121,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKI TELEKOM
 DESCRIPTION:17. 7. 2076. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• HRVATSKI TELEKOM D.D. – Posebna upotreba pomorskog dobra (VELA 
- LUKA)\, 3.533 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.a
- pp/#opcina/41942358B90023423647319
+ LUKA) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\, 3.533 
+ €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
+ 42358B90023423647319
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B90023423647319
 TRANSP:TRANSPARENT
 BEGIN:VALARM

@@ -4,27 +4,29 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Općina Čavle
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Čavle. Iz Regis
- tra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podat
- aka. https://koncesijski-sat.vercel.app/#opcina/41942358B97852125593877
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Općina Čavle (pregled\
+ , svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježava s
+ e nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#opcina/
+ 41942358B97852125593877
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-e255d70a57d52f17@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-0f8da39916ad4280@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20271231
 DTEND;VALUE=DATE:20280101
 SUMMARY:Ističe 3 koncesije · Čavle
 DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2027. Godišnja fiksna na
  knada: 8.020 €.\n\n• ROXIT HRVATSKA D.O.O. – Koncesija za eksploatac
- iju tehničko-građevnog kamena (ČAVLE)\, 4.010 €/god.\n• ROXIT HRVAT
- SKA D.O.O. – Koncesija za površinu utvrđenog eksploatacijskog polja ne
- energetskih mineralnih sirovina (ČAVLE)\, 4.010 €/god.\n• ROXIT HRVAT
- SKA D.O.O. – Koncesija za eksploataciju tehničko-građevnog kamena (ČA
- VLE)\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4194235
- 8B97852125593877\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sa
- t 9. 11. 2026.
+ iju tehničko-građevnog kamena (ČAVLE) · davatelj: MINISTARSTVO GOSPODA
+ RSTVA\, 4.010 €/god.\n• ROXIT HRVATSKA D.O.O. – Koncesija za površi
+ nu utvrđenog eksploatacijskog polja neenergetskih mineralnih sirovina (Č
+ AVLE) · davatelj: MINISTARSTVO GOSPODARSTVA\, 4.010 €/god.\n• ROXIT H
+ RVATSKA D.O.O. – Koncesija za eksploataciju tehničko-građevnog kamena 
+ (ČAVLE) · davatelj: MINISTARSTVO GOSPODARSTVA\n\nProfil općine: https:/
+ /koncesijski-sat.vercel.app/#opcina/41942358B97852125593877\nIzvor: Regist
+ ar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B97852125593877
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -34,39 +36,40 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-e255d70a57d52f17@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-0f8da39916ad4280@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270630
 DTEND;VALUE=DATE:20270701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Čavle
 DESCRIPTION:31. 12. 2027. ističe 3 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• ROXIT HRVATSKA D.O.O. – Koncesija za eksploataciju tehničko-
- građevnog kamena (ČAVLE)\, 4.010 €/god.\n• ROXIT HRVATSKA D.O.O. –
-  Koncesija za površinu utvrđenog eksploatacijskog polja neenergetskih mi
- neralnih sirovina (ČAVLE)\, 4.010 €/god.\n• ROXIT HRVATSKA D.O.O. –
-  Koncesija za eksploataciju tehničko-građevnog kamena (ČAVLE)\n\nProfil
-  općine: https://koncesijski-sat.vercel.app/#opcina/41942358B978521255938
- 77
+ građevnog kamena (ČAVLE) · davatelj: MINISTARSTVO GOSPODARSTVA\, 4.010 
+ €/god.\n• ROXIT HRVATSKA D.O.O. – Koncesija za površinu utvrđenog 
+ eksploatacijskog polja neenergetskih mineralnih sirovina (ČAVLE) · davat
+ elj: MINISTARSTVO GOSPODARSTVA\, 4.010 €/god.\n• ROXIT HRVATSKA D.O.O.
+  – Koncesija za eksploataciju tehničko-građevnog kamena (ČAVLE) · da
+ vatelj: MINISTARSTVO GOSPODARSTVA\n\nProfil općine: https://koncesijski-s
+ at.vercel.app/#opcina/41942358B97852125593877
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B97852125593877
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Čavle
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-cf7414ce31431764@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-aabf189a8bf22961@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20301205
 DTEND;VALUE=DATE:20301206
 SUMMARY:Ističe koncesija: ENERGO D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 5. 12. 2030.\n\n• ENERGO D.O.O. 
  – Koncesija za obavljanje distribucije plina na postojećem distribucijs
- kom sustavu (ČAVLE)\n\nProfil općine: https://koncesijski-sat.vercel.app
- /#opcina/41942358B97852125593877\nIzvor: Registar koncesija (FINA)\, obrad
- a Koncesijski sat 9. 11. 2026.
+ kom sustavu (ČAVLE) · davatelj: OPĆINA ČAVLE\n\nProfil općine: https:
+ //koncesijski-sat.vercel.app/#opcina/41942358B97852125593877\nIzvor: Regis
+ tar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B97852125593877
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -76,16 +79,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-cf7414ce31431764@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-aabf189a8bf22961@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20300605
 DTEND;VALUE=DATE:20300606
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ENERGO D.O.O.)
 DESCRIPTION:5. 12. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• ENERGO D.O.O. – Koncesija za obavljanje distribucije plina na p
- ostojećem distribucijskom sustavu (ČAVLE)\n\nProfil općine: https://kon
- cesijski-sat.vercel.app/#opcina/41942358B97852125593877
+ ostojećem distribucijskom sustavu (ČAVLE) · davatelj: OPĆINA ČAVLE\n\
+ nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B97852
+ 125593877
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B97852125593877
 TRANSP:TRANSPARENT
 BEGIN:VALARM

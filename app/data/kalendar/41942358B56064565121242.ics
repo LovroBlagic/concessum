@@ -4,23 +4,25 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Opicina Pirovac
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Opicina Pirovac. Iz Regi
- stra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade poda
- taka. https://koncesijski-sat.vercel.app/#opcina/41942358B56064565121242
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Opicina Pirovac (pregled
+ \, svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježava 
+ se nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#opcina
+ /41942358B56064565121242
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-5389d58932b7db2c@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-14b7bb9713223380@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20330904
 DTEND;VALUE=DATE:20330905
 SUMMARY:Ističe koncesija: PIROVČANKA POLJOPRIVREDNA ZADRUGA
 DESCRIPTION:1 ugovor o koncesiji ističe 4. 9. 2033. Godišnja fiksna nakna
  da: 14.042 €.\n\n• PIROVČANKA POLJOPRIVREDNA ZADRUGA – Koncesija na
-  pomorskom dobru (PIROVAC)\, 14.042 €/god.\n\nProfil općine: https://ko
- ncesijski-sat.vercel.app/#opcina/41942358B56064565121242\nIzvor: Registar 
- koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+  pomorskom dobru (PIROVAC) · davatelj: ŠIBENSKO-KNINSKA ŽUPANIJA\, 14.0
+ 42 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/
+ 41942358B56064565121242\nIzvor: Registar koncesija (FINA)\, obrada Koncesi
+ jski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B56064565121242
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -30,8 +32,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-5389d58932b7db2c@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-14b7bb9713223380@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20330304
 DTEND;VALUE=DATE:20330305
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PIROVČANKA POLJ
@@ -39,8 +41,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PIROVČANKA POLJ
 DESCRIPTION:4. 9. 2033. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• PIROVČANKA POLJOPRIVREDNA ZADRUGA – Koncesija na pomorskom dobr
- u (PIROVAC)\, 14.042 €/god.\n\nProfil općine: https://koncesijski-sat.v
- ercel.app/#opcina/41942358B56064565121242
+ u (PIROVAC) · davatelj: ŠIBENSKO-KNINSKA ŽUPANIJA\, 14.042 €/god.\n\n
+ Profil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B560645
+ 65121242
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B56064565121242
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -51,16 +54,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-963579a94f1be5a0@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-0ab0bb84f441ce84@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20330924
 DTEND;VALUE=DATE:20330925
 SUMMARY:Ističe koncesija: MARINA PIROVAC D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 24. 9. 2033. Godišnja fiksna nakn
  ada: 35.057 €.\n\n• MARINA PIROVAC D.O.O. – Koncesija za uporabu i k
- orištenje luke posebne namjene (PIROVAC)\, 35.057 €/god.\n\nProfil opć
- ine: https://koncesijski-sat.vercel.app/#opcina/41942358B56064565121242\nI
- zvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ orištenje luke posebne namjene (PIROVAC) · davatelj: ŠIBENSKO-KNINSKA 
+ ŽUPANIJA\, 35.057 €/god.\n\nProfil općine: https://koncesijski-sat.ver
+ cel.app/#opcina/41942358B56064565121242\nIzvor: Registar koncesija (FINA)\
+ , obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B56064565121242
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -70,8 +74,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-963579a94f1be5a0@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-0ab0bb84f441ce84@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20330324
 DTEND;VALUE=DATE:20330325
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MARINA PIROVAC D
@@ -79,8 +83,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MARINA PIROVAC D
 DESCRIPTION:24. 9. 2033. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• MARINA PIROVAC D.O.O. – Koncesija za uporabu i korištenje luke
-  posebne namjene (PIROVAC)\, 35.057 €/god.\n\nProfil općine: https://ko
- ncesijski-sat.vercel.app/#opcina/41942358B56064565121242
+  posebne namjene (PIROVAC) · davatelj: ŠIBENSKO-KNINSKA ŽUPANIJA\, 35.0
+ 57 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/
+ 41942358B56064565121242
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B56064565121242
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -91,17 +96,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-84f7b42b073a2460@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-297172b92a826ec8@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20390610
 DTEND;VALUE=DATE:20390611
 SUMMARY:Ističe koncesija: HEP - OPERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 10. 6. 2039. Godišnja fiksna nakn
  ada: 160 €.\n\n• HEP - OPERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O. – Kon
  cesija pomorskog dobra za posebnu upotrebu u svrhu gradnje kabelske veze (
- PIROVAC)\, 160 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.
- app/#opcina/41942358B56064565121242\nIzvor: Registar koncesija (FINA)\, ob
- rada Koncesijski sat 9. 11. 2026.
+ PIROVAC) · davatelj: ŠIBENSKO-KNINSKA ŽUPANIJA\, 160 €/god.\n\nProfil
+  općine: https://koncesijski-sat.vercel.app/#opcina/41942358B560645651212
+ 42\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B56064565121242
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -112,8 +117,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-84f7b42b073a2460@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-297172b92a826ec8@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20381210
 DTEND;VALUE=DATE:20381211
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP - OPERATOR D
@@ -121,9 +126,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP - OPERATOR D
 DESCRIPTION:10. 6. 2039. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• HEP - OPERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O. – Koncesija pomor
- skog dobra za posebnu upotrebu u svrhu gradnje kabelske veze (PIROVAC)\, 1
- 60 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/
- 41942358B56064565121242
+ skog dobra za posebnu upotrebu u svrhu gradnje kabelske veze (PIROVAC) · 
+ davatelj: ŠIBENSKO-KNINSKA ŽUPANIJA\, 160 €/god.\n\nProfil općine: ht
+ tps://koncesijski-sat.vercel.app/#opcina/41942358B56064565121242
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B56064565121242
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -134,16 +139,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-3888d1242d34f69e@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-046f56d9ac51c889@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20440314
 DTEND;VALUE=DATE:20440315
 SUMMARY:Ističe koncesija: VODOVOD I ODVODNJA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 14. 3. 2044. Godišnja fiksna nakn
  ada: 180 €.\n\n• VODOVOD I ODVODNJA D.O.O. – Posebna upotreba pomors
- kog dobra (PIROVAC)\, 180 €/god.\n\nProfil općine: https://koncesijski-
- sat.vercel.app/#opcina/41942358B56064565121242\nIzvor: Registar koncesija 
- (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ kog dobra (PIROVAC) · davatelj: ŠIBENSKO-KNINSKA ŽUPANIJA\, 180 €/god
+ .\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B5
+ 6064565121242\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9
+ . 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B56064565121242
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -153,8 +159,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-3888d1242d34f69e@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-046f56d9ac51c889@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20430914
 DTEND;VALUE=DATE:20430915
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VODOVOD I ODVODN
@@ -162,8 +168,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VODOVOD I ODVODN
 DESCRIPTION:14. 3. 2044. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• VODOVOD I ODVODNJA D.O.O. – Posebna upotreba pomorskog dobra (P
- IROVAC)\, 180 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.a
- pp/#opcina/41942358B56064565121242
+ IROVAC) · davatelj: ŠIBENSKO-KNINSKA ŽUPANIJA\, 180 €/god.\n\nProfil 
+ općine: https://koncesijski-sat.vercel.app/#opcina/41942358B5606456512124
+ 2
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B56064565121242
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -174,16 +181,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-b645536736d30c60@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-7d479d5fdb5bf8ea@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20460129
 DTEND;VALUE=DATE:20460130
 SUMMARY:Ističe koncesija: VRILO D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 29. 1. 2046. Godišnja fiksna nakn
  ada: 115 €.\n\n• VRILO D.O.O. – Posebna upotreba pomorskog dobra (PI
- ROVAC)\, 115 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.ap
- p/#opcina/41942358B56064565121242\nIzvor: Registar koncesija (FINA)\, obra
- da Koncesijski sat 9. 11. 2026.
+ ROVAC) · davatelj: ŠIBENSKO-KNINSKA ŽUPANIJA\, 115 €/god.\n\nProfil o
+ pćine: https://koncesijski-sat.vercel.app/#opcina/41942358B56064565121242
+ \nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B56064565121242
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -193,16 +200,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-b645536736d30c60@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-7d479d5fdb5bf8ea@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20450729
 DTEND;VALUE=DATE:20450730
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VRILO D.O.O.)
 DESCRIPTION:29. 1. 2046. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
- .\n\n• VRILO D.O.O. – Posebna upotreba pomorskog dobra (PIROVAC)\, 115
-  €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41
- 942358B56064565121242
+ .\n\n• VRILO D.O.O. – Posebna upotreba pomorskog dobra (PIROVAC) · da
+ vatelj: ŠIBENSKO-KNINSKA ŽUPANIJA\, 115 €/god.\n\nProfil općine: http
+ s://koncesijski-sat.vercel.app/#opcina/41942358B56064565121242
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B56064565121242
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -213,19 +220,21 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-ed3026f406f3357d@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-d75990495433de81@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20551231
 DTEND;VALUE=DATE:20560101
 SUMMARY:Ističe 3 koncesije · Opicina Pirovac
 DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2055. Godišnja fiksna na
  knada: 1.324 €.\n\n• SARAĐEN D.O.O. – Koncesija za površinu utvrđ
- enog eksploatacijskog polja neenergetskih mineralnih sirovina (PIROVAC)\, 
- 1.324 €/god.\n• SARAĐEN D.O.O. – Koncesija za eksploataciju tehnič
- ko-građevnog kamena (PIROVAC)\n• SARAĐEN D.O.O. – Koncesija za ekspl
- oataciju tehničko-građevnog kamena (PIROVAC)\n\nProfil općine: https://
- koncesijski-sat.vercel.app/#opcina/41942358B56064565121242\nIzvor: Regista
- r koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ enog eksploatacijskog polja neenergetskih mineralnih sirovina (PIROVAC) ·
+  davatelj: MINISTARSTVO GOSPODARSTVA\, 1.324 €/god.\n• SARAĐEN D.O.O.
+  – Koncesija za eksploataciju tehničko-građevnog kamena (PIROVAC) · d
+ avatelj: MINISTARSTVO GOSPODARSTVA\n• SARAĐEN D.O.O. – Koncesija za e
+ ksploataciju tehničko-građevnog kamena (PIROVAC) · davatelj: MINISTARST
+ VO GOSPODARSTVA\n\nProfil općine: https://koncesijski-sat.vercel.app/#opc
+ ina/41942358B56064565121242\nIzvor: Registar koncesija (FINA)\, obrada Kon
+ cesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B56064565121242
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -235,24 +244,28 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-ed3026f406f3357d@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-d75990495433de81@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20550630
 DTEND;VALUE=DATE:20550701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Opicina Pirova
+ c
 DESCRIPTION:31. 12. 2055. ističe 3 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• SARAĐEN D.O.O. – Koncesija za površinu utvrđenog eksploata
- cijskog polja neenergetskih mineralnih sirovina (PIROVAC)\, 1.324 €/god.
- \n• SARAĐEN D.O.O. – Koncesija za eksploataciju tehničko-građevnog 
- kamena (PIROVAC)\n• SARAĐEN D.O.O. – Koncesija za eksploataciju tehni
- čko-građevnog kamena (PIROVAC)\n\nProfil općine: https://koncesijski-sa
- t.vercel.app/#opcina/41942358B56064565121242
+ cijskog polja neenergetskih mineralnih sirovina (PIROVAC) · davatelj: MIN
+ ISTARSTVO GOSPODARSTVA\, 1.324 €/god.\n• SARAĐEN D.O.O. – Koncesija
+  za eksploataciju tehničko-građevnog kamena (PIROVAC) · davatelj: MINIS
+ TARSTVO GOSPODARSTVA\n• SARAĐEN D.O.O. – Koncesija za eksploataciju t
+ ehničko-građevnog kamena (PIROVAC) · davatelj: MINISTARSTVO GOSPODARSTV
+ A\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B5
+ 6064565121242
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B56064565121242
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Opicina Pi
+ rovac
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT

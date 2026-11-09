@@ -1,0 +1,4440 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · AGENCIJA ZA ELEKTRONIČKE MEDIJE
+X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje AGENCIJA ZA ELEKTRONIČKE 
+ MEDIJE. Iz Registra koncesija (FINA\, data.gov.hr). Osvježava se nakon sv
+ ake obrade podataka. https://koncesijski-sat.vercel.app/#sat
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-4c20627b964402fe@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:Ističe 3 koncesije · AGENCIJA ZA ELEKTRONIČKE MEDIJE
+DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2026. Godišnja fiksna na
+ knada: 332 €.\n\n• INFORMATIVNI CENTAR-HRVATSKA RADIO POSTAJA ČAZMA D
+ .O.O. – Koncesija za obavljanje djelatnosti radija (BJELOVAR\, FARKAŠEV
+ AC\, ČAZMA\, ŠTEFANJE\, Grad Bjelovar)\, 133 €/god.\n• NOVOSTI D.O.O
+ . – Koncesija za obavljanje djelatnosti radija (VINKOVCI\, Grad Vinkovci
+ )\, 133 €/god.\n• RADIO STUBICA D.O.O. – Koncesija za obavljanje dje
+ latnosti radija (DONJA STUBICA\, GORNJA STUBICA\, MARIJA BISTRICA\, OROSLA
+ VJE\, STUBIČKE TOPLICE\, Grad Donja Stubica)\, 66 €/god.\n\nŠto istič
+ e: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FIN
+ A)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 3 koncesije · AGENCIJA ZA ELEKTRONIČKE MEDIJE
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-3f1312f0385a751c@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270107
+SUMMARY:Ističe koncesija: SLAVONSKI RADIO D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 6. 1. 2027. Godišnja fiksna nakna
+ da: 465 €.\n\n• SLAVONSKI RADIO D.O.O. – Koncesija za obavljanje dje
+ latnosti radija (OSJEČKO-BARANJSKA ŽUPANIJA)\, 465 €/god.\n\nŠto isti
+ če: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (F
+ INA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: SLAVONSKI RADIO D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-9f4f99f98fb64e09@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20270222
+DTEND;VALUE=DATE:20270223
+SUMMARY:Ističe koncesija: VTV D.O.O. ZA PROIZVODNJU PRIJENOS I EMITIRANJE 
+ TELEVIZIJSKO
+DESCRIPTION:1 ugovor o koncesiji ističe 22. 2. 2027. Godišnja fiksna nakn
+ ada: 664 €.\n\n• VTV D.O.O. ZA PROIZVODNJU PRIJENOS I EMITIRANJE TELEV
+ IZIJSKO – Koncesija za obavljanje djelatnosti televizije (BJELOVARSKO-BI
+ LOGORSKA ŽUPANIJA\, BRODSKO-POSAVSKA ŽUPANIJA\, POŽEŠKO-SLAVONSKA ŽUP
+ ANIJA\, VIROVITIČKO-PODRAVSKA ŽUPANIJA)\, 664 €/god.\n\nŠto ističe: 
+ https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\
+ , obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: VTV D.O.O. ZA PROIZVODNJU PRIJENOS I EMITIRA
+ NJE TELEVIZIJSKO
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-052e4a308074852a@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20270401
+DTEND;VALUE=DATE:20270402
+SUMMARY:Ističe koncesija: RADIO KAJ D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 1. 4. 2027. Godišnja fiksna nakna
+ da: 1.195 €.\n\n• RADIO KAJ D.O.O. – Koncesija za obavljanje djelatn
+ osti radija (GRAD ZAGREB\, KOPRIVNICA\, KOPRIVNICA\, KRAPINSKO-ZAGORSKA Ž
+ UPANIJA\, KRAPINSKO-ZAGORSKA ŽUPANIJA\, MEĐIMURSKA ŽUPANIJA\, MEĐIMURS
+ KA ŽUPANIJA\, VARAŽDINSKA ŽUPANIJA\, VARAŽDINSKA ŽUPANIJA\, ZAGREBAČ
+ KA ŽUPANIJA\, ZAGREBAČKA ŽUPANIJA\, Grad Zagreb)\, 1.195 €/god.\n\nŠ
+ to ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar konce
+ sija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: RADIO KAJ D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-fcc4ff702d780c1c@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20270426
+DTEND;VALUE=DATE:20270427
+SUMMARY:Ističe 11 koncesija · AGENCIJA ZA ELEKTRONIČKE MEDIJE
+DESCRIPTION:11 ugovora o koncesiji ističe 26. 4. 2027. Godišnja fiksna na
+ knada: 726 €.\n\n• JADRANKA D.D. – Koncesija za obavljanje djelatnos
+ ti radija (MALI LOŠINJ\, Otok Losinj)\, 66 €/god.\n• RADIO LABIN ZA R
+ ADIJSKU DJELATNOST DRUŠTVO SA OGRANIČENOM ODOGOVORNOŠĆU – Koncesija 
+ za obavljanje djelatnosti radija (LABIN\, Grad Labin)\, 66 €/god.\n• D
+ IFUZIJA D.O.O. – Koncesija za obavljanje djelatnosti radija (VUKOVAR\, G
+ rad Vukovar)\, 66 €/god.\n• RADIO ORAHOVICA D.O.O. – Koncesija za ob
+ avljanje djelatnosti radija (ORAHOVICA\, Grad Orahovica)\, 66 €/god.\n
+ • RADIO POSTAJA NOVSKA D.O.O. – Koncesija za obavljanje djelatnosti ra
+ dija (NOVSKA\, Grad Novska)\, 66 €/god.\n• RADIO GORSKI KOTAR D.O.O. 
+ – Koncesija za obavljanje djelatnosti radija (DELNICE\, Grad Delnice)\, 
+ 66 €/god.\n• RADIO M - UDRUGA MLADEŽI VELA LUKA I DR. JTD – Koncesi
+ ja za obavljanje djelatnosti radija (VELA LUKA\, Općina Vela Luka)\, 66 
+ €/god.\n• PETRINJSKI RADIO D.O.O. ZA RADIJSKU DJELATNOST – Koncesija
+  za obavljanje djelatnosti radija (PETRINJA\, Grad Petrinja)\, 66 €/god.
+ \n• RADIO BIOKOVO D.O.O. – Koncesija za obavljanje djelatnosti radija 
+ (VRGORAC\, Grad Vrgorac)\, 66 €/god.\n• RADIO DELTA D.O.O. – Koncesi
+ ja za obavljanje djelatnosti radija (KULA NORINSKA\, METKOVIĆ\, OPUZEN\, 
+ ZAŽABLJE\, Općina Kula Norinska)\, 66 €/god.\n• RADIO KORČULA J.T.D
+ . ZA PROIZ.I EMIT.RADIJSKOG PROGRAMA – Koncesija za obavljanje djelatnos
+ ti radija (KORČULA\, Grad Korčula)\, 66 €/god.\n\nŠto ističe: https:
+ //koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obra
+ da Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 11 koncesija · AGENCIJA ZA ELEKTRONIČKE MEDIJE
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-af127818f4e0fd5e@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20270427
+DTEND;VALUE=DATE:20270428
+SUMMARY:Ističe 4 koncesije · AGENCIJA ZA ELEKTRONIČKE MEDIJE
+DESCRIPTION:4 ugovora o koncesiji ističe 27. 4. 2027. Godišnja fiksna nak
+ nada: 12.409 €.\n\n• OTVORENI RADIO D.O.O. – Koncesija za obavljanje
+  djelatnosti radija (GRAD ZAGREB\, ZAGREBAČKA ŽUPANIJA\, ZAGREBAČKA ŽU
+ PANIJA\, Grad Zagreb)\, 4.313 €/god.\n• BRAVO CBC D.O.O. – Koncesija
+  za obavljanje djelatnosti radija (REPUBLIKA HRVATSKA)\, 4.048 €/god.\n
+ • HRVATSKI KATOLIČKI RADIO – Koncesija za obavljanje djelatnosti radi
+ ja (REPUBLIKA HRVATSKA)\, 3.982 €/god.\n• RAPSODIJA D.O.O. – Koncesi
+ ja za obavljanje djelatnosti radija (BOROVO\, Općina Borovo)\, 66 €/god
+ .\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Regista
+ r koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 4 koncesije · AGENCIJA ZA ELEKTRONIČKE MEDIJE
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-62e4bf427c156958@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20270521
+DTEND;VALUE=DATE:20270522
+SUMMARY:Ističe koncesija: UDRUGA ZA PROMICANJE MEDIJSKE KULTURE I AUDIOVIZ
+ UALNIH DJELATNOSTI "CASTUA"
+DESCRIPTION:1 ugovor o koncesiji ističe 21. 5. 2027. Godišnja fiksna nakn
+ ada: 66 €.\n\n• UDRUGA ZA PROMICANJE MEDIJSKE KULTURE I AUDIOVIZUALNIH
+  DJELATNOSTI "CASTUA" – Koncesija za obavljanje djelatnosti radija (KAST
+ AV\, Grad Kastav)\, 66 €/god.\n\nŠto ističe: https://koncesijski-sat.v
+ ercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 
+ 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: UDRUGA ZA PROMICANJE MEDIJSKE KULTURE I AUDI
+ OVIZUALNIH DJELATNOSTI "CASTUA"
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-62e4bf427c156958@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (UDRUGA ZA PROMIC
+ ANJE MEDIJSKE KULTURE I AUDIOVIZUALNIH DJELATNOSTI "CASTUA")
+DESCRIPTION:21. 5. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• UDRUGA ZA PROMICANJE MEDIJSKE KULTURE I AUDIOVIZUALNIH DJELATNOST
+ I "CASTUA" – Koncesija za obavljanje djelatnosti radija (KASTAV\, Grad K
+ astav)\, 66 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#
+ sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (UDRUGA ZA PR
+ OMICANJE MEDIJSKE KULTURE I AUDIOVIZUALNIH DJELATNOSTI "CASTUA")
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-87f464ea1e6ffabc@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20270721
+DTEND;VALUE=DATE:20270722
+SUMMARY:Ističe koncesija: MATIS D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 21. 7. 2027. Godišnja fiksna nakn
+ ada: 133 €.\n\n• MATIS D.O.O. – Koncesija za obavljanje djelatnosti 
+ radija (SAMOBOR\, Grad Samobor)\, 133 €/god.\n\nŠto ističe: https://ko
+ ncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada K
+ oncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: MATIS D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-87f464ea1e6ffabc@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20270121
+DTEND;VALUE=DATE:20270122
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MATIS D.O.O.)
+DESCRIPTION:21. 7. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• MATIS D.O.O. – Koncesija za obavljanje djelatnosti radija (SAMO
+ BOR\, Grad Samobor)\, 133 €/god.\n\nŠto ističe: https://koncesijski-sa
+ t.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MATIS D.O.O.
+ )
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-a251cec458c63a72@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20270831
+DTEND;VALUE=DATE:20270901
+SUMMARY:Ističe koncesija: ZAGORSKI RADIO D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 31. 8. 2027. Godišnja fiksna nakn
+ ada: 133 €.\n\n• ZAGORSKI RADIO D.O.O. – Koncesija za obavljanje dje
+ latnosti radija (BEDEKOVČINA\, DONJA STUBICA\, KRAPINA\, KRAPINSKE TOPLIC
+ E\, LOBOR\, MAČE\, OROSLAVJE\, STUBIČKE TOPLICE\, SVETI KRIŽ ZAČRETJE\
+ , ZABOK\, ZLATAR\, ZLATAR BISTRICA\, Općina Bedekovčina)\, 133 €/god.\
+ n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar 
+ koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: ZAGORSKI RADIO D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-a251cec458c63a72@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270301
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ZAGORSKI RADIO D
+ .O.O.)
+DESCRIPTION:31. 8. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• ZAGORSKI RADIO D.O.O. – Koncesija za obavljanje djelatnosti rad
+ ija (BEDEKOVČINA\, DONJA STUBICA\, KRAPINA\, KRAPINSKE TOPLICE\, LOBOR\, 
+ MAČE\, OROSLAVJE\, STUBIČKE TOPLICE\, SVETI KRIŽ ZAČRETJE\, ZABOK\, ZL
+ ATAR\, ZLATAR BISTRICA\, Općina Bedekovčina)\, 133 €/god.\n\nŠto isti
+ če: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ZAGORSKI RAD
+ IO D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-64dc5afd173501d5@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20270915
+DTEND;VALUE=DATE:20270916
+SUMMARY:Ističe koncesija: RADIO POSTAJA PLOČE D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 15. 9. 2027. Godišnja fiksna nakn
+ ada: 66 €.\n\n• RADIO POSTAJA PLOČE D.O.O. – Koncesija za obavljanj
+ e djelatnosti radija (PLOČE\, Grad Ploče)\, 66 €/god.\n\nŠto ističe:
+  https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)
+ \, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: RADIO POSTAJA PLOČE D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-64dc5afd173501d5@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20270315
+DTEND;VALUE=DATE:20270316
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (RADIO POSTAJA PL
+ OČE D.O.O.)
+DESCRIPTION:15. 9. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• RADIO POSTAJA PLOČE D.O.O. – Koncesija za obavljanje djelatnos
+ ti radija (PLOČE\, Grad Ploče)\, 66 €/god.\n\nŠto ističe: https://ko
+ ncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (RADIO POSTAJ
+ A PLOČE D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-6794abe30a5bce3d@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20270927
+DTEND;VALUE=DATE:20270928
+SUMMARY:Ističe koncesija: MEDULINSKA RIVIJERA D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 27. 9. 2027. Godišnja fiksna nakn
+ ada: 133 €.\n\n• MEDULINSKA RIVIJERA D.O.O. – Koncesija za obavljanj
+ e djelatnosti radija (PULA - POLA\, Grad Pula)\, 133 €/god.\n\nŠto isti
+ če: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (F
+ INA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: MEDULINSKA RIVIJERA D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-6794abe30a5bce3d@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20270327
+DTEND;VALUE=DATE:20270328
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MEDULINSKA RIVIJ
+ ERA D.O.O.)
+DESCRIPTION:27. 9. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• MEDULINSKA RIVIJERA D.O.O. – Koncesija za obavljanje djelatnost
+ i radija (PULA - POLA\, Grad Pula)\, 133 €/god.\n\nŠto ističe: https:/
+ /koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MEDULINSKA R
+ IVIJERA D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-5f9484f60c38fcb7@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20271005
+DTEND;VALUE=DATE:20271006
+SUMMARY:Ističe 2 koncesije · AGENCIJA ZA ELEKTRONIČKE MEDIJE
+DESCRIPTION:2 ugovora o koncesiji ističe 5. 10. 2027. Godišnja fiksna nak
+ nada: 132 €.\n\n• RADIO BANOVINA D.O.O. – Koncesija za obavljanje dj
+ elatnosti radija (GLINA\, GVOZD\, KRAVARSKO\, POKUPSKO\, TOPUSKO\, VOJNIĆ
+ \, Grad Glina)\, 66 €/god.\n• RADIO BLJESAK D.O.O. – Koncesija za ob
+ avljanje djelatnosti radija (OKUČANI\, Općina Okućani)\, 66 €/god.\n\
+ nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar ko
+ ncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 2 koncesije · AGENCIJA ZA ELEKTRONIČKE MEDIJE
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-5f9484f60c38fcb7@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20270405
+DTEND;VALUE=DATE:20270406
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · AGENCIJA ZA EL
+ EKTRONIČKE MEDIJE
+DESCRIPTION:5. 10. 2027. ističe 2 ugovora o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• RADIO BANOVINA D.O.O. – Koncesija za obavljanje djelatnosti ra
+ dija (GLINA\, GVOZD\, KRAVARSKO\, POKUPSKO\, TOPUSKO\, VOJNIĆ\, Grad Glin
+ a)\, 66 €/god.\n• RADIO BLJESAK D.O.O. – Koncesija za obavljanje dje
+ latnosti radija (OKUČANI\, Općina Okućani)\, 66 €/god.\n\nŠto istič
+ e: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije · AGENCIJA Z
+ A ELEKTRONIČKE MEDIJE
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-b58570f9b11f7921@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20271012
+DTEND;VALUE=DATE:20271013
+SUMMARY:Ističe koncesija: UDRUGA RADIO MARIJA
+DESCRIPTION:1 ugovor o koncesiji ističe 12. 10. 2027. Godišnja fiksna nak
+ nada: 100 €.\n\n• UDRUGA RADIO MARIJA – Koncesija za obavljanje djel
+ atnosti radija (ANDRIJAŠEVCI\, BOGDANOVCI\, BOROVO\, ERNESTINOVO\, IVANKO
+ VO\, JARMINA\, MARKUŠICA\, NUŠTAR\, PRIVLAKA\, TORDINCI\, TRPINJA\, VINK
+ OVCI\, VUKOVAR\, ŠODOLOVCI\, Općina Andrijaševci)\, 100 €/god.\n\nŠt
+ o ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar konces
+ ija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: UDRUGA RADIO MARIJA
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-b58570f9b11f7921@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20270412
+DTEND;VALUE=DATE:20270413
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (UDRUGA RADIO MAR
+ IJA)
+DESCRIPTION:12. 10. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• UDRUGA RADIO MARIJA – Koncesija za obavljanje djelatnosti radi
+ ja (ANDRIJAŠEVCI\, BOGDANOVCI\, BOROVO\, ERNESTINOVO\, IVANKOVO\, JARMINA
+ \, MARKUŠICA\, NUŠTAR\, PRIVLAKA\, TORDINCI\, TRPINJA\, VINKOVCI\, VUKOV
+ AR\, ŠODOLOVCI\, Općina Andrijaševci)\, 100 €/god.\n\nŠto ističe: h
+ ttps://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (UDRUGA RADIO
+  MARIJA)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-5701eb71e8b20de6@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20271112
+DTEND;VALUE=DATE:20271113
+SUMMARY:Ističe 6 koncesija · AGENCIJA ZA ELEKTRONIČKE MEDIJE
+DESCRIPTION:6 ugovora o koncesiji ističe 12. 11. 2027. Godišnja fiksna na
+ knada: 396 €.\n\n• RADIO DRAVA D.O.O. – Koncesija za obavljanje djel
+ atnosti radija (KOPRIVNICA\, Grad Koprivnica)\, 66 €/god.\n• HRVATSKI 
+ RADIO OTOČAC D.O.O. – Koncesija za obavljanje djelatnosti radija (GOSPI
+ Ć\, OTOČAC\, PERUŠIĆ\, SENJ\, VRHOVINE\, Grad Gospić)\, 66 €/god.\n
+ • RADIO BANSKA KOSA D.O.O. ZA RADIJSKU DJELATNOST – Koncesija za obavl
+ janje djelatnosti radija (BELI MANASTIR\, Grad Beli Manastir)\, 66 €/god
+ .\n• RADIO SLUNJ D.O.O. – Koncesija za obavljanje djelatnosti radija (
+ SLUNJ\, Grad Slunj)\, 66 €/god.\n• UDRUGA RADIO MARIJA – Koncesija z
+ a obavljanje djelatnosti radija (VIROVITICA\, Grad Virovitica)\, 66 €/go
+ d.\n• SVN MEDIA D.O.O. – Koncesija za obavljanje djelatnosti radija (S
+ VETA NEDELJA\, Općina Sveta Nedelja)\, 66 €/god.\n\nŠto ističe: https
+ ://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obr
+ ada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 6 koncesija · AGENCIJA ZA ELEKTRONIČKE MEDIJE
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-5701eb71e8b20de6@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20270512
+DTEND;VALUE=DATE:20270513
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 6 koncesija · AGENCIJA ZA EL
+ EKTRONIČKE MEDIJE
+DESCRIPTION:12. 11. 2027. ističe 6 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• RADIO DRAVA D.O.O. – Koncesija za obavljanje djelatnosti radi
+ ja (KOPRIVNICA\, Grad Koprivnica)\, 66 €/god.\n• HRVATSKI RADIO OTOČA
+ C D.O.O. – Koncesija za obavljanje djelatnosti radija (GOSPIĆ\, OTOČAC
+ \, PERUŠIĆ\, SENJ\, VRHOVINE\, Grad Gospić)\, 66 €/god.\n• RADIO BA
+ NSKA KOSA D.O.O. ZA RADIJSKU DJELATNOST – Koncesija za obavljanje djelat
+ nosti radija (BELI MANASTIR\, Grad Beli Manastir)\, 66 €/god.\n• RADIO
+  SLUNJ D.O.O. – Koncesija za obavljanje djelatnosti radija (SLUNJ\, Grad
+  Slunj)\, 66 €/god.\n• UDRUGA RADIO MARIJA – Koncesija za obavljanje
+  djelatnosti radija (VIROVITICA\, Grad Virovitica)\, 66 €/god.\n• SVN 
+ MEDIA D.O.O. – Koncesija za obavljanje djelatnosti radija (SVETA NEDELJA
+ \, Općina Sveta Nedelja)\, 66 €/god.\n\nŠto ističe: https://koncesijs
+ ki-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 6 koncesija · AGENCIJA Z
+ A ELEKTRONIČKE MEDIJE
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-01621cd9d14ab87e@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20271118
+DTEND;VALUE=DATE:20271119
+SUMMARY:Ističe koncesija: RADIO TEREZIJA D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 18. 11. 2027. Godišnja fiksna nak
+ nada: 66 €.\n\n• RADIO TEREZIJA D.O.O. – Koncesija za obavljanje dje
+ latnosti radija (BJELOVAR\, Grad Bjelovar)\, 66 €/god.\n\nŠto ističe: 
+ https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\
+ , obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: RADIO TEREZIJA D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-01621cd9d14ab87e@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20270518
+DTEND;VALUE=DATE:20270519
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (RADIO TEREZIJA D
+ .O.O.)
+DESCRIPTION:18. 11. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• RADIO TEREZIJA D.O.O. – Koncesija za obavljanje djelatnosti ra
+ dija (BJELOVAR\, Grad Bjelovar)\, 66 €/god.\n\nŠto ističe: https://kon
+ cesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (RADIO TEREZI
+ JA D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-e1bbd5b8d72fdd28@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20271231
+DTEND;VALUE=DATE:20280101
+SUMMARY:Ističe 4 koncesije · AGENCIJA ZA ELEKTRONIČKE MEDIJE
+DESCRIPTION:4 ugovora o koncesiji ističe 31. 12. 2027. Godišnja fiksna na
+ knada: 532 €.\n\n• RADIO BROD-INFORMIRANJE I MARKETING D.O.O. – Konc
+ esija za obavljanje djelatnosti radija (SLAVONSKI BROD\, Grad Slavonski Br
+ od)\, 133 €/god.\n• SUPETAR DRUŠTVO ZA PRIKAZIVANJE FILMOVA I INF.D.D
+ . – Koncesija za obavljanje djelatnosti radija (BOL\, BRELA\, DUGI RAT\,
+  JELSA\, NEREŽIŠĆA\, OMIŠ\, PODSTRANA\, POSTIRA\, SPLIT\, STARI GRAD\,
+  SUPETAR\, Općina Bol)\, 133 €/god.\n• RADIO POSTAJA NEDELIŠĆE D.O.
+ O. – Koncesija za obavljanje djelatnosti radija (BELICA\, DEKANOVEC\, DO
+ MAŠINEC\, MALA SUBOTICA\, MURSKO SREDIŠĆE\, NEDELIŠĆE\, PODTUREN\, PR
+ IBISLAVEC\, SELNICA\, STRAHONINEC\, SVETI JURAJ NA BREGU\, VRATIŠINEC\, 
+ ČAKOVEC\, ŠENKOVEC\, Općina Belica)\, 133 €/god.\n• RADIO SISAK D.O
+ .O. – Koncesija za obavljanje djelatnosti radija (SISAK\, Grad Sisak)\, 
+ 133 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzv
+ or: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 4 koncesije · AGENCIJA ZA ELEKTRONIČKE MEDIJE
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-e1bbd5b8d72fdd28@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20270630
+DTEND;VALUE=DATE:20270701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 4 koncesije · AGENCIJA ZA EL
+ EKTRONIČKE MEDIJE
+DESCRIPTION:31. 12. 2027. ističe 4 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• RADIO BROD-INFORMIRANJE I MARKETING D.O.O. – Koncesija za oba
+ vljanje djelatnosti radija (SLAVONSKI BROD\, Grad Slavonski Brod)\, 133 
+ €/god.\n• SUPETAR DRUŠTVO ZA PRIKAZIVANJE FILMOVA I INF.D.D. – Konc
+ esija za obavljanje djelatnosti radija (BOL\, BRELA\, DUGI RAT\, JELSA\, N
+ EREŽIŠĆA\, OMIŠ\, PODSTRANA\, POSTIRA\, SPLIT\, STARI GRAD\, SUPETAR\,
+  Općina Bol)\, 133 €/god.\n• RADIO POSTAJA NEDELIŠĆE D.O.O. – Kon
+ cesija za obavljanje djelatnosti radija (BELICA\, DEKANOVEC\, DOMAŠINEC\,
+  MALA SUBOTICA\, MURSKO SREDIŠĆE\, NEDELIŠĆE\, PODTUREN\, PRIBISLAVEC\
+ , SELNICA\, STRAHONINEC\, SVETI JURAJ NA BREGU\, VRATIŠINEC\, ČAKOVEC\, 
+ ŠENKOVEC\, Općina Belica)\, 133 €/god.\n• RADIO SISAK D.O.O. – Kon
+ cesija za obavljanje djelatnosti radija (SISAK\, Grad Sisak)\, 133 €/god
+ .\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 4 koncesije · AGENCIJA Z
+ A ELEKTRONIČKE MEDIJE
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-74798bd7fdce0015@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20280427
+DTEND;VALUE=DATE:20280428
+SUMMARY:Ističe koncesija: RADIO RAB D.O.O. ZA RADIJSKU I TELEVIZIJSKU DJEL
+ ATNOST
+DESCRIPTION:1 ugovor o koncesiji ističe 27. 4. 2028. Godišnja fiksna nakn
+ ada: 66 €.\n\n• RADIO RAB D.O.O. ZA RADIJSKU I TELEVIZIJSKU DJELATNOST
+  – Koncesija za obavljanje djelatnosti radija (RAB\, Grad Rab)\, 66 €/
+ god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Regi
+ star koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: RADIO RAB D.O.O. ZA RADIJSKU I TELEVIZIJSKU 
+ DJELATNOST
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-74798bd7fdce0015@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20271027
+DTEND;VALUE=DATE:20271028
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (RADIO RAB D.O.O.
+  ZA RADIJSKU I TELEVIZIJSKU DJELATNOST)
+DESCRIPTION:27. 4. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• RADIO RAB D.O.O. ZA RADIJSKU I TELEVIZIJSKU DJELATNOST – Konces
+ ija za obavljanje djelatnosti radija (RAB\, Grad Rab)\, 66 €/god.\n\nŠt
+ o ističe: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (RADIO RAB D.
+ O.O. ZA RADIJSKU I TELEVIZIJSKU DJELATNOST)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-f791e1c8f4306652@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20280510
+DTEND;VALUE=DATE:20280511
+SUMMARY:Ističe koncesija: TELE-5 D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 10. 5. 2028. Godišnja fiksna nakn
+ ada: 133 €.\n\n• TELE-5 D.O.O. – Koncesija za obavljanje djelatnosti
+  televizije (DUBROVAČKO-NERETVANSKA ŽUPANIJA)\, 133 €/god.\n\nŠto ist
+ iče: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (
+ FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: TELE-5 D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-f791e1c8f4306652@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20271110
+DTEND;VALUE=DATE:20271111
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (TELE-5 D.O.O.)
+DESCRIPTION:10. 5. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• TELE-5 D.O.O. – Koncesija za obavljanje djelatnosti televizije 
+ (DUBROVAČKO-NERETVANSKA ŽUPANIJA)\, 133 €/god.\n\nŠto ističe: https:
+ //koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (TELE-5 D.O.O
+ .)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-c59adb6801df8b0b@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20280721
+DTEND;VALUE=DATE:20280722
+SUMMARY:Ističe koncesija: HILARIS D.O.O.ZA TRGOVINU I USLUGE
+DESCRIPTION:1 ugovor o koncesiji ističe 21. 7. 2028. Godišnja fiksna nakn
+ ada: 66 €.\n\n• HILARIS D.O.O.ZA TRGOVINU I USLUGE – Koncesija za ob
+ avljanje djelatnosti radija (IMOTSKI\, LOKVIČIĆI\, PODBABLJE\, PROLOŽAC
+ \, RUNOVIĆI\, ZMIJAVCI\, Grad Imotski)\, 66 €/god.\n\nŠto ističe: htt
+ ps://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, o
+ brada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: HILARIS D.O.O.ZA TRGOVINU I USLUGE
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-c59adb6801df8b0b@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20280121
+DTEND;VALUE=DATE:20280122
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HILARIS D.O.O.ZA
+  TRGOVINU I USLUGE)
+DESCRIPTION:21. 7. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• HILARIS D.O.O.ZA TRGOVINU I USLUGE – Koncesija za obavljanje dj
+ elatnosti radija (IMOTSKI\, LOKVIČIĆI\, PODBABLJE\, PROLOŽAC\, RUNOVIĆ
+ I\, ZMIJAVCI\, Grad Imotski)\, 66 €/god.\n\nŠto ističe: https://konces
+ ijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HILARIS D.O.
+ O.ZA TRGOVINU I USLUGE)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-daf141956a1f8402@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20280817
+DTEND;VALUE=DATE:20280818
+SUMMARY:Ističe koncesija: RADIO O. K. D. O. O.
+DESCRIPTION:1 ugovor o koncesiji ističe 17. 8. 2028. Godišnja fiksna nakn
+ ada: 66 €.\n\n• RADIO O. K. D. O. O. – Koncesija za obavljanje djela
+ tnosti radija (BAŠKA\, CRIKVENICA\, DOBRINJ\, KRK\, MALINSKA-DUBAŠNICA\,
+  OMIŠALJ\, PUNAT\, Otok Krk)\, 66 €/god.\n\nŠto ističe: https://konce
+ sijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Konc
+ esijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: RADIO O. K. D. O. O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-daf141956a1f8402@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20280217
+DTEND;VALUE=DATE:20280218
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (RADIO O. K. D. O
+ . O.)
+DESCRIPTION:17. 8. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• RADIO O. K. D. O. O. – Koncesija za obavljanje djelatnosti radi
+ ja (BAŠKA\, CRIKVENICA\, DOBRINJ\, KRK\, MALINSKA-DUBAŠNICA\, OMIŠALJ\,
+  PUNAT\, Otok Krk)\, 66 €/god.\n\nŠto ističe: https://koncesijski-sat.
+ vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (RADIO O. K. 
+ D. O. O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-62ea12d2c91978d1@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20280902
+DTEND;VALUE=DATE:20280903
+SUMMARY:Ističe koncesija: HIT RADIO D.O.O. ZA RADIJSKU I TELEVIZIJSKU DJEL
+ ATNOST
+DESCRIPTION:1 ugovor o koncesiji ističe 2. 9. 2028. Godišnja fiksna nakna
+ da: 66 €.\n\n• HIT RADIO D.O.O. ZA RADIJSKU I TELEVIZIJSKU DJELATNOST 
+ – Koncesija za obavljanje djelatnosti radija (CIVLJANE\, DICMO\, DUGOPOL
+ JE\, HRVACE\, KIJEVO\, SINJ\, VRLIKA\, Općina Civljane)\, 66 €/god.\n\n
+ Što ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar kon
+ cesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: HIT RADIO D.O.O. ZA RADIJSKU I TELEVIZIJSKU 
+ DJELATNOST
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-62ea12d2c91978d1@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20280302
+DTEND;VALUE=DATE:20280303
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HIT RADIO D.O.O.
+  ZA RADIJSKU I TELEVIZIJSKU DJELATNOST)
+DESCRIPTION:2. 9. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodjele
+  treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
+ \n\n• HIT RADIO D.O.O. ZA RADIJSKU I TELEVIZIJSKU DJELATNOST – Koncesi
+ ja za obavljanje djelatnosti radija (CIVLJANE\, DICMO\, DUGOPOLJE\, HRVACE
+ \, KIJEVO\, SINJ\, VRLIKA\, Općina Civljane)\, 66 €/god.\n\nŠto istič
+ e: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HIT RADIO D.
+ O.O. ZA RADIJSKU I TELEVIZIJSKU DJELATNOST)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-0cb9e377fe50485a@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20280909
+DTEND;VALUE=DATE:20280910
+SUMMARY:Ističe koncesija: DIADORA MEDIA D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 9. 9. 2028. Godišnja fiksna nakna
+ da: 398 €.\n\n• DIADORA MEDIA D.O.O. – Koncesija za obavljanje djela
+ tnosti televizije (LIČKO-SENJSKA ŽUPANIJA\, ZADARSKA ŽUPANIJA\, ŠIBENS
+ KO-KNINSKA ŽUPANIJA)\, 398 €/god.\n\nŠto ističe: https://koncesijski-
+ sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski
+  sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: DIADORA MEDIA D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-0cb9e377fe50485a@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20280309
+DTEND;VALUE=DATE:20280310
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DIADORA MEDIA D.
+ O.O.)
+DESCRIPTION:9. 9. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodjele
+  treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
+ \n\n• DIADORA MEDIA D.O.O. – Koncesija za obavljanje djelatnosti telev
+ izije (LIČKO-SENJSKA ŽUPANIJA\, ZADARSKA ŽUPANIJA\, ŠIBENSKO-KNINSKA 
+ ŽUPANIJA)\, 398 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.
+ app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DIADORA MEDI
+ A D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-c5afbd4e6ca138e7@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20281031
+DTEND;VALUE=DATE:20281101
+SUMMARY:Ističe 2 koncesije · AGENCIJA ZA ELEKTRONIČKE MEDIJE
+DESCRIPTION:2 ugovora o koncesiji ističe 31. 10. 2028. Godišnja fiksna na
+ knada: 132 €.\n\n• STUDIO M D.O.O. – Koncesija za obavljanje djelatn
+ osti radija (DOMAŠINEC\, DONJA DUBRAVA\, DONJI KRALJEVEC\, DONJI VIDOVEC\
+ , GORIČAN\, PRELOG\, SVETA MARIJA\, VELIKI BUKOVEC\, Općina Domašinec)\
+ , 66 €/god.\n• MEGA-ERP D.O.O. – Koncesija za obavljanje djelatnosti
+  radija (BAKAR\, Grad Bakar)\, 66 €/god.\n\nŠto ističe: https://konces
+ ijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Konce
+ sijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 2 koncesije · AGENCIJA ZA ELEKTRONIČKE MEDIJE
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-c5afbd4e6ca138e7@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20280430
+DTEND;VALUE=DATE:20280501
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · AGENCIJA ZA EL
+ EKTRONIČKE MEDIJE
+DESCRIPTION:31. 10. 2028. ističe 2 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• STUDIO M D.O.O. – Koncesija za obavljanje djelatnosti radija 
+ (DOMAŠINEC\, DONJA DUBRAVA\, DONJI KRALJEVEC\, DONJI VIDOVEC\, GORIČAN\,
+  PRELOG\, SVETA MARIJA\, VELIKI BUKOVEC\, Općina Domašinec)\, 66 €/god
+ .\n• MEGA-ERP D.O.O. – Koncesija za obavljanje djelatnosti radija (BAK
+ AR\, Grad Bakar)\, 66 €/god.\n\nŠto ističe: https://koncesijski-sat.ve
+ rcel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije · AGENCIJA Z
+ A ELEKTRONIČKE MEDIJE
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-7fe5bc8661daa8c3@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20281111
+DTEND;VALUE=DATE:20281112
+SUMMARY:Ističe koncesija: RADIO BENKOVAC D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 11. 11. 2028. Godišnja fiksna nak
+ nada: 66 €.\n\n• RADIO BENKOVAC D.O.O. – Koncesija za obavljanje dje
+ latnosti radija (BENKOVAC\, POLAČA\, Grad Benkovac)\, 66 €/god.\n\nŠto
+  ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesi
+ ja (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: RADIO BENKOVAC D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-7fe5bc8661daa8c3@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20280511
+DTEND;VALUE=DATE:20280512
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (RADIO BENKOVAC D
+ .O.O.)
+DESCRIPTION:11. 11. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• RADIO BENKOVAC D.O.O. – Koncesija za obavljanje djelatnosti ra
+ dija (BENKOVAC\, POLAČA\, Grad Benkovac)\, 66 €/god.\n\nŠto ističe: h
+ ttps://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (RADIO BENKOV
+ AC D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-0b90d805efd78b1b@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20281215
+DTEND;VALUE=DATE:20281216
+SUMMARY:Ističe koncesija: SVEUČILIŠTE U DUBROVNIKU
+DESCRIPTION:1 ugovor o koncesiji ističe 15. 12. 2028. Godišnja fiksna nak
+ nada: 66 €.\n\n• SVEUČILIŠTE U DUBROVNIKU – Koncesija za obavljanj
+ e djelatnosti radija (DUBROVNIK\, Grad Dubrovnik)\, 66 €/god.\n\nŠto is
+ tiče: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija 
+ (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: SVEUČILIŠTE U DUBROVNIKU
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-0b90d805efd78b1b@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20280615
+DTEND;VALUE=DATE:20280616
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (SVEUČILIŠTE U 
+ DUBROVNIKU)
+DESCRIPTION:15. 12. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• SVEUČILIŠTE U DUBROVNIKU – Koncesija za obavljanje djelatnos
+ ti radija (DUBROVNIK\, Grad Dubrovnik)\, 66 €/god.\n\nŠto ističe: http
+ s://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (SVEUČILIŠT
+ E U DUBROVNIKU)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-0f0aaf9ceeeb1981@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20281231
+DTEND;VALUE=DATE:20290101
+SUMMARY:Ističe 2 koncesije · AGENCIJA ZA ELEKTRONIČKE MEDIJE
+DESCRIPTION:2 ugovora o koncesiji ističe 31. 12. 2028. Godišnja fiksna na
+ knada: 1.195 €.\n\n• YAMMAT D.O.O. – Koncesija za obavljanje djelatn
+ osti radija (GRAD ZAGREB\, Grad Zagreb)\, 1.062 €/god.\n• JADRANSKA RA
+ DIJSKA MREŽA D.O.O. – Koncesija za obavljanje djelatnosti radija (MURTE
+ R - KORNATI\, PIROVAC\, PRIMOŠTEN\, ŠIBENIK\, Opicina Muter-Kornati)\, 1
+ 33 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzvo
+ r: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 2 koncesije · AGENCIJA ZA ELEKTRONIČKE MEDIJE
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-0f0aaf9ceeeb1981@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20280630
+DTEND;VALUE=DATE:20280701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · AGENCIJA ZA EL
+ EKTRONIČKE MEDIJE
+DESCRIPTION:31. 12. 2028. ističe 2 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• YAMMAT D.O.O. – Koncesija za obavljanje djelatnosti radija (G
+ RAD ZAGREB\, Grad Zagreb)\, 1.062 €/god.\n• JADRANSKA RADIJSKA MREŽA 
+ D.O.O. – Koncesija za obavljanje djelatnosti radija (MURTER - KORNATI\, 
+ PIROVAC\, PRIMOŠTEN\, ŠIBENIK\, Opicina Muter-Kornati)\, 133 €/god.\n\
+ nŠto ističe: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije · AGENCIJA Z
+ A ELEKTRONIČKE MEDIJE
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-f0d55359496b4ac1@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20290111
+DTEND;VALUE=DATE:20290112
+SUMMARY:Ističe koncesija: RTL HRVATSKA D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 11. 1. 2029. Godišnja fiksna nakn
+ ada: 5.773 €.\n\n• RTL HRVATSKA D.O.O. – Koncesija za obavljanje dje
+ latnosti televizije (REPUBLIKA HRVATSKA)\, 5.773 €/god.\n\nŠto ističe:
+  https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)
+ \, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: RTL HRVATSKA D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-f0d55359496b4ac1@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20280711
+DTEND;VALUE=DATE:20280712
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (RTL HRVATSKA D.O
+ .O.)
+DESCRIPTION:11. 1. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• RTL HRVATSKA D.O.O. – Koncesija za obavljanje djelatnosti telev
+ izije (REPUBLIKA HRVATSKA)\, 5.773 €/god.\n\nŠto ističe: https://konce
+ sijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (RTL HRVATSKA
+  D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-69ca1e47a3c7c048@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20290115
+DTEND;VALUE=DATE:20290116
+SUMMARY:Ističe 3 koncesije · AGENCIJA ZA ELEKTRONIČKE MEDIJE
+DESCRIPTION:3 ugovora o koncesiji ističe 15. 1. 2029. Godišnja fiksna nak
+ nada: 198 €.\n\n• RADIO SJEVEROZAPAD D.O.O. – Koncesija za obavljanj
+ e djelatnosti radija (VARAŽDIN\, Grad Varaždin)\, 66 €/god.\n• VAL M
+ EDIA D.O.O. ZA TRGOVINU I USLUGE – Koncesija za obavljanje djelatnosti r
+ adija (VELA LUKA\, Općina Vela Luka)\, 66 €/god.\n• HRVATSKI RADIO VA
+ LPOVŠTINA D.O.O. – Koncesija za obavljanje djelatnosti radija (BELIŠĆ
+ E\, BIZOVAC\, MARIJANCI\, VALPOVO\, Grad Belišće)\, 66 €/god.\n\nŠto 
+ ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesij
+ a (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 3 koncesije · AGENCIJA ZA ELEKTRONIČKE MEDIJE
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-69ca1e47a3c7c048@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20280715
+DTEND;VALUE=DATE:20280716
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · AGENCIJA ZA EL
+ EKTRONIČKE MEDIJE
+DESCRIPTION:15. 1. 2029. ističe 3 ugovora o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• RADIO SJEVEROZAPAD D.O.O. – Koncesija za obavljanje djelatnost
+ i radija (VARAŽDIN\, Grad Varaždin)\, 66 €/god.\n• VAL MEDIA D.O.O. 
+ ZA TRGOVINU I USLUGE – Koncesija za obavljanje djelatnosti radija (VELA 
+ LUKA\, Općina Vela Luka)\, 66 €/god.\n• HRVATSKI RADIO VALPOVŠTINA D
+ .O.O. – Koncesija za obavljanje djelatnosti radija (BELIŠĆE\, BIZOVAC\
+ , MARIJANCI\, VALPOVO\, Grad Belišće)\, 66 €/god.\n\nŠto ističe: htt
+ ps://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · AGENCIJA Z
+ A ELEKTRONIČKE MEDIJE
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-2fdcc3059b08d6aa@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20290215
+DTEND;VALUE=DATE:20290216
+SUMMARY:Ističe koncesija: MEDIA-MIX-RADIO 105 D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 15. 2. 2029. Godišnja fiksna nakn
+ ada: 66 €.\n\n• MEDIA-MIX-RADIO 105 D.O.O. – Koncesija za obavljanje
+  djelatnosti radija (MURSKO SREDIŠĆE\, SELNICA\, SVETI MARTIN NA MURI\, 
+ VRATIŠINEC\, Grad Mursko Središće)\, 66 €/god.\n\nŠto ističe: https
+ ://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obr
+ ada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: MEDIA-MIX-RADIO 105 D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-2fdcc3059b08d6aa@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20280815
+DTEND;VALUE=DATE:20280816
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MEDIA-MIX-RADIO 
+ 105 D.O.O.)
+DESCRIPTION:15. 2. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• MEDIA-MIX-RADIO 105 D.O.O. – Koncesija za obavljanje djelatnost
+ i radija (MURSKO SREDIŠĆE\, SELNICA\, SVETI MARTIN NA MURI\, VRATIŠINEC
+ \, Grad Mursko Središće)\, 66 €/god.\n\nŠto ističe: https://koncesij
+ ski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MEDIA-MIX-RA
+ DIO 105 D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-edeb5ed47c372e1d@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20290220
+DTEND;VALUE=DATE:20290221
+SUMMARY:Ističe koncesija: PLANEX RADIO D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 20. 2. 2029. Godišnja fiksna nakn
+ ada: 66 €.\n\n• PLANEX RADIO D.O.O. – Koncesija za obavljanje djelat
+ nosti radija (BERETINEC\, MARUŠEVEC\, VARAŽDIN\, VIDOVEC\, Općina Beret
+ inec)\, 66 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#s
+ at\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: PLANEX RADIO D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-edeb5ed47c372e1d@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20280820
+DTEND;VALUE=DATE:20280821
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PLANEX RADIO D.O
+ .O.)
+DESCRIPTION:20. 2. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• PLANEX RADIO D.O.O. – Koncesija za obavljanje djelatnosti radij
+ a (BERETINEC\, MARUŠEVEC\, VARAŽDIN\, VIDOVEC\, Općina Beretinec)\, 66 
+ €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PLANEX RADIO
+  D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-14ba114fb5bc533d@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20290310
+DTEND;VALUE=DATE:20290311
+SUMMARY:Ističe koncesija: TROGIR HOLDING D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 10. 3. 2029. Godišnja fiksna nakn
+ ada: 133 €.\n\n• TROGIR HOLDING D.O.O. – Koncesija za obavljanje dje
+ latnosti radija (TROGIR\, Grad Trogir)\, 133 €/god.\n\nŠto ističe: htt
+ ps://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, o
+ brada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: TROGIR HOLDING D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-14ba114fb5bc533d@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20280910
+DTEND;VALUE=DATE:20280911
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (TROGIR HOLDING D
+ .O.O.)
+DESCRIPTION:10. 3. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• TROGIR HOLDING D.O.O. – Koncesija za obavljanje djelatnosti rad
+ ija (TROGIR\, Grad Trogir)\, 133 €/god.\n\nŠto ističe: https://koncesi
+ jski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (TROGIR HOLDI
+ NG D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-74de1c180217a5b8@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20290401
+DTEND;VALUE=DATE:20290402
+SUMMARY:Ističe 2 koncesije · AGENCIJA ZA ELEKTRONIČKE MEDIJE
+DESCRIPTION:2 ugovora o koncesiji ističe 1. 4. 2029. Godišnja fiksna nakn
+ ada: 6.437 €.\n\n• RTL HRVATSKA D.O.O. – Koncesija za obavljanje dje
+ latnosti televizije (REPUBLIKA HRVATSKA)\, 5.773 €/god.\n• SLAVONSKO-B
+ RODSKA TELEVIZIJA D.O.O. – Koncesija za obavljanje djelatnosti televizij
+ e (BJELOVARSKO-BILOGORSKA ŽUPANIJA\, BRODSKO-POSAVSKA ŽUPANIJA\, POŽEŠ
+ KO-SLAVONSKA ŽUPANIJA\, VIROVITIČKO-PODRAVSKA ŽUPANIJA)\, 664 €/god.\
+ n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar 
+ koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 2 koncesije · AGENCIJA ZA ELEKTRONIČKE MEDIJE
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-74de1c180217a5b8@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20281001
+DTEND;VALUE=DATE:20281002
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · AGENCIJA ZA EL
+ EKTRONIČKE MEDIJE
+DESCRIPTION:1. 4. 2029. ističe 2 ugovora o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• RTL HRVATSKA D.O.O. – Koncesija za obavljanje djelatnosti telev
+ izije (REPUBLIKA HRVATSKA)\, 5.773 €/god.\n• SLAVONSKO-BRODSKA TELEVIZ
+ IJA D.O.O. – Koncesija za obavljanje djelatnosti televizije (BJELOVARSKO
+ -BILOGORSKA ŽUPANIJA\, BRODSKO-POSAVSKA ŽUPANIJA\, POŽEŠKO-SLAVONSKA 
+ ŽUPANIJA\, VIROVITIČKO-PODRAVSKA ŽUPANIJA)\, 664 €/god.\n\nŠto isti
+ če: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije · AGENCIJA Z
+ A ELEKTRONIČKE MEDIJE
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-dae6c9e09a4856f7@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20290426
+DTEND;VALUE=DATE:20290427
+SUMMARY:Ističe 2 koncesije · AGENCIJA ZA ELEKTRONIČKE MEDIJE
+DESCRIPTION:2 ugovora o koncesiji ističe 26. 4. 2029. Godišnja fiksna nak
+ nada: 266 €.\n\n• E-RADIO D.O.O. ZA RADIJSKU I TELEVIZIJSKU DJELATNOST
+  – Koncesija za obavljanje djelatnosti radija (KRAVARSKO\, LEKENIK\, VEL
+ IKA GORICA\, Općina Kravarsko)\, 133 €/god.\n• INFANTINFO DRUŠTVO ZA
+  RADIO DIFUZIJU I IZDAVAČKU DJELATNOST – Koncesija za obavljanje djelat
+ nosti radija (PULA - POLA\, Grad Pula)\, 133 €/god.\n\nŠto ističe: htt
+ ps://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, o
+ brada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 2 koncesije · AGENCIJA ZA ELEKTRONIČKE MEDIJE
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-dae6c9e09a4856f7@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20281026
+DTEND;VALUE=DATE:20281027
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · AGENCIJA ZA EL
+ EKTRONIČKE MEDIJE
+DESCRIPTION:26. 4. 2029. ističe 2 ugovora o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• E-RADIO D.O.O. ZA RADIJSKU I TELEVIZIJSKU DJELATNOST – Koncesi
+ ja za obavljanje djelatnosti radija (KRAVARSKO\, LEKENIK\, VELIKA GORICA\,
+  Općina Kravarsko)\, 133 €/god.\n• INFANTINFO DRUŠTVO ZA RADIO DIFUZ
+ IJU I IZDAVAČKU DJELATNOST – Koncesija za obavljanje djelatnosti radija
+  (PULA - POLA\, Grad Pula)\, 133 €/god.\n\nŠto ističe: https://koncesi
+ jski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije · AGENCIJA Z
+ A ELEKTRONIČKE MEDIJE
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-82769c82be0b5fb7@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20290430
+DTEND;VALUE=DATE:20290501
+SUMMARY:Ističe koncesija: BIJELO PLAVI RADIO D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 30. 4. 2029. Godišnja fiksna nakn
+ ada: 199 €.\n\n• BIJELO PLAVI RADIO D.O.O. – Koncesija za obavljanje
+  djelatnosti radija (OSIJEK\, Grad Osijek)\, 199 €/god.\n\nŠto ističe:
+  https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)
+ \, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: BIJELO PLAVI RADIO D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-82769c82be0b5fb7@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20281030
+DTEND;VALUE=DATE:20281031
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BIJELO PLAVI RAD
+ IO D.O.O.)
+DESCRIPTION:30. 4. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• BIJELO PLAVI RADIO D.O.O. – Koncesija za obavljanje djelatnosti
+  radija (OSIJEK\, Grad Osijek)\, 199 €/god.\n\nŠto ističe: https://kon
+ cesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BIJELO PLAVI
+  RADIO D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-a252e690696f5459@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20290531
+DTEND;VALUE=DATE:20290601
+SUMMARY:Ističe koncesija: ALFA D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 31. 5. 2029. Godišnja fiksna nakn
+ ada: 265 €.\n\n• ALFA D.O.O. – Koncesija za obavljanje djelatnosti r
+ adija (BJELOVARSKO-BILOGORSKA ŽUPANIJA)\, 265 €/god.\n\nŠto ističe: h
+ ttps://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\,
+  obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: ALFA D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-a252e690696f5459@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20281130
+DTEND;VALUE=DATE:20281201
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ALFA D.O.O.)
+DESCRIPTION:31. 5. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• ALFA D.O.O. – Koncesija za obavljanje djelatnosti radija (BJELO
+ VARSKO-BILOGORSKA ŽUPANIJA)\, 265 €/god.\n\nŠto ističe: https://konce
+ sijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ALFA D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-bf67c86a84babe56@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20290720
+DTEND;VALUE=DATE:20290721
+SUMMARY:Ističe koncesija: RADIO PSUNJ D.O.O.ZA PRIPREMU I EMITIRANJE RADIJ
+ SKOG PROGRAMA
+DESCRIPTION:1 ugovor o koncesiji ističe 20. 7. 2029. Godišnja fiksna nakn
+ ada: 66 €.\n\n• RADIO PSUNJ D.O.O.ZA PRIPREMU I EMITIRANJE RADIJSKOG P
+ ROGRAMA – Koncesija za obavljanje djelatnosti radija (CERNIK\, DRAGALIĆ
+ \, NOVA GRADIŠKA\, REŠETARI\, Općina Cernik)\, 66 €/god.\n\nŠto isti
+ če: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (F
+ INA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: RADIO PSUNJ D.O.O.ZA PRIPREMU I EMITIRANJE R
+ ADIJSKOG PROGRAMA
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-bf67c86a84babe56@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20290120
+DTEND;VALUE=DATE:20290121
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (RADIO PSUNJ D.O.
+ O.ZA PRIPREMU I EMITIRANJE RADIJSKOG PROGRAMA)
+DESCRIPTION:20. 7. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• RADIO PSUNJ D.O.O.ZA PRIPREMU I EMITIRANJE RADIJSKOG PROGRAMA –
+  Koncesija za obavljanje djelatnosti radija (CERNIK\, DRAGALIĆ\, NOVA GRA
+ DIŠKA\, REŠETARI\, Općina Cernik)\, 66 €/god.\n\nŠto ističe: https:
+ //koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (RADIO PSUNJ 
+ D.O.O.ZA PRIPREMU I EMITIRANJE RADIJSKOG PROGRAMA)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-08ffd243dae2a8b7@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20290930
+DTEND;VALUE=DATE:20291001
+SUMMARY:Ističe koncesija: RADIO SLAVONIJA D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 30. 9. 2029. Godišnja fiksna nakn
+ ada: 265 €.\n\n• RADIO SLAVONIJA D.O.O. – Koncesija za obavljanje dj
+ elatnosti radija (BRESTOVAC\, BRODSKO-POSAVSKA ŽUPANIJA\, JAKŠIĆ\, KUTI
+ NA\, KUTJEVO\, NOVSKA\, PLETERNICA\, POŽEGA\, Općina Brestovac)\, 265 
+ €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: 
+ Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: RADIO SLAVONIJA D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-08ffd243dae2a8b7@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20290330
+DTEND;VALUE=DATE:20290331
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (RADIO SLAVONIJA 
+ D.O.O.)
+DESCRIPTION:30. 9. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• RADIO SLAVONIJA D.O.O. – Koncesija za obavljanje djelatnosti ra
+ dija (BRESTOVAC\, BRODSKO-POSAVSKA ŽUPANIJA\, JAKŠIĆ\, KUTINA\, KUTJEVO
+ \, NOVSKA\, PLETERNICA\, POŽEGA\, Općina Brestovac)\, 265 €/god.\n\nŠ
+ to ističe: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (RADIO SLAVON
+ IJA D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-f4435195a90ac265@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20291012
+DTEND;VALUE=DATE:20291013
+SUMMARY:Ističe koncesija: UDRUGA RADIO MARIJA
+DESCRIPTION:1 ugovor o koncesiji ističe 12. 10. 2029. Godišnja fiksna nak
+ nada: 597 €.\n\n• UDRUGA RADIO MARIJA – Koncesija za obavljanje djel
+ atnosti radija (GRAD ZAGREB\, Grad Zagreb)\, 597 €/god.\n\nŠto ističe:
+  https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)
+ \, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: UDRUGA RADIO MARIJA
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-f4435195a90ac265@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20290412
+DTEND;VALUE=DATE:20290413
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (UDRUGA RADIO MAR
+ IJA)
+DESCRIPTION:12. 10. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• UDRUGA RADIO MARIJA – Koncesija za obavljanje djelatnosti radi
+ ja (GRAD ZAGREB\, Grad Zagreb)\, 597 €/god.\n\nŠto ističe: https://kon
+ cesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (UDRUGA RADIO
+  MARIJA)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-30bab279dde73d6e@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20291013
+DTEND;VALUE=DATE:20291014
+SUMMARY:Ističe 3 koncesije · AGENCIJA ZA ELEKTRONIČKE MEDIJE
+DESCRIPTION:3 ugovora o koncesiji ističe 13. 10. 2029. Godišnja fiksna na
+ knada: 198 €.\n\n• RADIO-MAX D.O.O. – Koncesija za obavljanje djelat
+ nosti radija (IVANEC\, MARUŠEVEC\, VIDOVEC\, Grad Ivanec)\, 66 €/god.\n
+ • RADIO MARIJA BISTRICA D.O.O. – Koncesija za obavljanje djelatnosti r
+ adija (KONJŠČINA\, MARIJA BISTRICA\, ZLATAR BISTRICA\, Općina Konjšči
+ na)\, 66 €/god.\n• RADIO PITOMAČA D.O.O. – Koncesija za obavljanje 
+ djelatnosti radija (KLOŠTAR PODRAVSKI\, PITOMAČA\, PODRAVSKE SESVETE\, 
+ ŠPIŠIĆ BUKOVICA\, Općina Kloštar Podravski)\, 66 €/god.\n\nŠto ist
+ iče: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (
+ FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 3 koncesije · AGENCIJA ZA ELEKTRONIČKE MEDIJE
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-30bab279dde73d6e@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20290413
+DTEND;VALUE=DATE:20290414
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · AGENCIJA ZA EL
+ EKTRONIČKE MEDIJE
+DESCRIPTION:13. 10. 2029. ističe 3 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• RADIO-MAX D.O.O. – Koncesija za obavljanje djelatnosti radija
+  (IVANEC\, MARUŠEVEC\, VIDOVEC\, Grad Ivanec)\, 66 €/god.\n• RADIO MA
+ RIJA BISTRICA D.O.O. – Koncesija za obavljanje djelatnosti radija (KONJ
+ ŠČINA\, MARIJA BISTRICA\, ZLATAR BISTRICA\, Općina Konjščina)\, 66 
+ €/god.\n• RADIO PITOMAČA D.O.O. – Koncesija za obavljanje djelatnos
+ ti radija (KLOŠTAR PODRAVSKI\, PITOMAČA\, PODRAVSKE SESVETE\, ŠPIŠIĆ 
+ BUKOVICA\, Općina Kloštar Podravski)\, 66 €/god.\n\nŠto ističe: http
+ s://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · AGENCIJA Z
+ A ELEKTRONIČKE MEDIJE
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-ff8d94c842b11ade@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20291027
+DTEND;VALUE=DATE:20291028
+SUMMARY:Ističe 3 koncesije · AGENCIJA ZA ELEKTRONIČKE MEDIJE
+DESCRIPTION:3 ugovora o koncesiji ističe 27. 10. 2029. Godišnja fiksna na
+ knada: 198 €.\n\n• RADIO VIROVITICA D.O.O. – Koncesija za obavljanje
+  djelatnosti radija (VIROVITICA\, Grad Virovitica)\, 66 €/god.\n• ILOK
+  TON D.O.O. ZA USLUŽNE DJELATNOSTI – Koncesija za obavljanje djelatnost
+ i radija (ILOK\, Grad Ilok)\, 66 €/god.\n• RADIO BLATO J.T.D. – Konc
+ esija za obavljanje djelatnosti radija (BLATO\, Općina Blato)\, 66 €/go
+ d.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Regist
+ ar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 3 koncesije · AGENCIJA ZA ELEKTRONIČKE MEDIJE
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-ff8d94c842b11ade@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20290427
+DTEND;VALUE=DATE:20290428
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · AGENCIJA ZA EL
+ EKTRONIČKE MEDIJE
+DESCRIPTION:27. 10. 2029. ističe 3 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• RADIO VIROVITICA D.O.O. – Koncesija za obavljanje djelatnosti
+  radija (VIROVITICA\, Grad Virovitica)\, 66 €/god.\n• ILOK TON D.O.O. 
+ ZA USLUŽNE DJELATNOSTI – Koncesija za obavljanje djelatnosti radija (IL
+ OK\, Grad Ilok)\, 66 €/god.\n• RADIO BLATO J.T.D. – Koncesija za oba
+ vljanje djelatnosti radija (BLATO\, Općina Blato)\, 66 €/god.\n\nŠto i
+ stiče: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · AGENCIJA Z
+ A ELEKTRONIČKE MEDIJE
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-d232e88bbdf5b1fc@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20291112
+DTEND;VALUE=DATE:20291113
+SUMMARY:Ističe 3 koncesije · AGENCIJA ZA ELEKTRONIČKE MEDIJE
+DESCRIPTION:3 ugovora o koncesiji ističe 12. 11. 2029. Godišnja fiksna na
+ knada: 399 €.\n\n• ROSS D.O.O. – Koncesija za obavljanje djelatnosti
+  radija (ZADAR\, Grad Zadar)\, 133 €/god.\n• HRVATSKI RADIO KARLOVAC D
+ .O.O. – Koncesija za obavljanje djelatnosti radija (BARILOVIĆ\, DRAGANI
+ Ć\, DUGA RESA\, KARLOVAC\, Općina Barilović)\, 133 €/god.\n• RADIO 
+ VALLIS AUREA D.O.O. – Koncesija za obavljanje djelatnosti radija (JAKŠI
+ Ć\, KAPTOL\, KUTJEVO\, PLETERNICA\, POŽEGA\, VELIKA\, Općina Jakšić)\
+ , 133 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nI
+ zvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 3 koncesije · AGENCIJA ZA ELEKTRONIČKE MEDIJE
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-d232e88bbdf5b1fc@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20290512
+DTEND;VALUE=DATE:20290513
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · AGENCIJA ZA EL
+ EKTRONIČKE MEDIJE
+DESCRIPTION:12. 11. 2029. ističe 3 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• ROSS D.O.O. – Koncesija za obavljanje djelatnosti radija (ZAD
+ AR\, Grad Zadar)\, 133 €/god.\n• HRVATSKI RADIO KARLOVAC D.O.O. – Ko
+ ncesija za obavljanje djelatnosti radija (BARILOVIĆ\, DRAGANIĆ\, DUGA RE
+ SA\, KARLOVAC\, Općina Barilović)\, 133 €/god.\n• RADIO VALLIS AUREA
+  D.O.O. – Koncesija za obavljanje djelatnosti radija (JAKŠIĆ\, KAPTOL\
+ , KUTJEVO\, PLETERNICA\, POŽEGA\, VELIKA\, Općina Jakšić)\, 133 €/go
+ d.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · AGENCIJA Z
+ A ELEKTRONIČKE MEDIJE
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-8ff3aab9cfcd04d0@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20291221
+DTEND;VALUE=DATE:20291222
+SUMMARY:Ističe koncesija: LAUDATO TV D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 21. 12. 2029. Godišnja fiksna nak
+ nada: 1.394 €.\n\n• LAUDATO TV D.O.O. – Koncesija za obavljanje djel
+ atnosti televizije (BARILOVIĆ\, BOSILJEVO\, DRAGANIĆ\, DUGA RESA\, GENER
+ ALSKI STOL\, GRAD ZAGREB\, JASTREBARSKO\, KARLOVAC\, KLINČA SELA\, KRAŠI
+ Ć\, KRNJAK\, LASINJA\, NETRETIĆ\, OZALJ\, PISAROVINA\, SAMOBOR\, STUPNIK
+ \, SVETA NEDELJA\, VELIKA GORICA\, VOJNIĆ\, ŽAKANJE\, Općina Barilović
+ )\, 1.394 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sa
+ t\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: LAUDATO TV D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-8ff3aab9cfcd04d0@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20290621
+DTEND;VALUE=DATE:20290622
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (LAUDATO TV D.O.O
+ .)
+DESCRIPTION:21. 12. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• LAUDATO TV D.O.O. – Koncesija za obavljanje djelatnosti televi
+ zije (BARILOVIĆ\, BOSILJEVO\, DRAGANIĆ\, DUGA RESA\, GENERALSKI STOL\, G
+ RAD ZAGREB\, JASTREBARSKO\, KARLOVAC\, KLINČA SELA\, KRAŠIĆ\, KRNJAK\, 
+ LASINJA\, NETRETIĆ\, OZALJ\, PISAROVINA\, SAMOBOR\, STUPNIK\, SVETA NEDEL
+ JA\, VELIKA GORICA\, VOJNIĆ\, ŽAKANJE\, Općina Barilović)\, 1.394 €/
+ god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (LAUDATO TV D
+ .O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-a3fd6abded8343f2@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20300228
+DTEND;VALUE=DATE:20300301
+SUMMARY:Ističe koncesija: NOVI RADIO-ZADAR D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 28. 2. 2030. Godišnja fiksna nakn
+ ada: 199 €.\n\n• NOVI RADIO-ZADAR D.O.O. – Koncesija za obavljanje d
+ jelatnosti radija (ZADARSKA ŽUPANIJA)\, 199 €/god.\n\nŠto ističe: htt
+ ps://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, o
+ brada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: NOVI RADIO-ZADAR D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-a3fd6abded8343f2@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20290828
+DTEND;VALUE=DATE:20290829
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (NOVI RADIO-ZADAR
+  D.O.O.)
+DESCRIPTION:28. 2. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• NOVI RADIO-ZADAR D.O.O. – Koncesija za obavljanje djelatnosti r
+ adija (ZADARSKA ŽUPANIJA)\, 199 €/god.\n\nŠto ističe: https://koncesi
+ jski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (NOVI RADIO-Z
+ ADAR D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-494fa5c2821a35db@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20300426
+DTEND;VALUE=DATE:20300427
+SUMMARY:Ističe koncesija: GRADSKI RADIO D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 26. 4. 2030. Godišnja fiksna nakn
+ ada: 199 €.\n\n• GRADSKI RADIO D.O.O. – Koncesija za obavljanje djel
+ atnosti radija (OSIJEK\, Grad Osijek)\, 199 €/god.\n\nŠto ističe: http
+ s://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, ob
+ rada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: GRADSKI RADIO D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-494fa5c2821a35db@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20291026
+DTEND;VALUE=DATE:20291027
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (GRADSKI RADIO D.
+ O.O.)
+DESCRIPTION:26. 4. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• GRADSKI RADIO D.O.O. – Koncesija za obavljanje djelatnosti radi
+ ja (OSIJEK\, Grad Osijek)\, 199 €/god.\n\nŠto ističe: https://koncesij
+ ski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (GRADSKI RADI
+ O D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-bfb921becc3ec1ed@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20300904
+DTEND;VALUE=DATE:20300905
+SUMMARY:Ističe koncesija: JADRANSKA RADIJSKA MREŽA D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 4. 9. 2030. Godišnja fiksna nakna
+ da: 66 €.\n\n• JADRANSKA RADIJSKA MREŽA D.O.O. – Koncesija za obavl
+ janje djelatnosti radija (KOMIŽA\, VIS\, Grad Komiža)\, 66 €/god.\n\n
+ Što ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar kon
+ cesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: JADRANSKA RADIJSKA MREŽA D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-bfb921becc3ec1ed@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20300304
+DTEND;VALUE=DATE:20300305
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (JADRANSKA RADIJS
+ KA MREŽA D.O.O.)
+DESCRIPTION:4. 9. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodjele
+  treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
+ \n\n• JADRANSKA RADIJSKA MREŽA D.O.O. – Koncesija za obavljanje djela
+ tnosti radija (KOMIŽA\, VIS\, Grad Komiža)\, 66 €/god.\n\nŠto ističe
+ : https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (JADRANSKA RA
+ DIJSKA MREŽA D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-452a690918a24eab@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20301031
+DTEND;VALUE=DATE:20301101
+SUMMARY:Ističe koncesija: RADIO 047 D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 31. 10. 2030. Godišnja fiksna nak
+ nada: 133 €.\n\n• RADIO 047 D.O.O. – Koncesija za obavljanje djelatn
+ osti radija (DUGA RESA\, JASTREBARSKO\, KARLOVAC\, KRAŠIĆ\, NETRETIĆ\, 
+ OZALJ\, Grad Duga Resa)\, 133 €/god.\n\nŠto ističe: https://koncesijsk
+ i-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Koncesijs
+ ki sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: RADIO 047 D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-452a690918a24eab@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20300430
+DTEND;VALUE=DATE:20300501
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (RADIO 047 D.O.O.
+ )
+DESCRIPTION:31. 10. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• RADIO 047 D.O.O. – Koncesija za obavljanje djelatnosti radija 
+ (DUGA RESA\, JASTREBARSKO\, KARLOVAC\, KRAŠIĆ\, NETRETIĆ\, OZALJ\, Grad
+  Duga Resa)\, 133 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel
+ .app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (RADIO 047 D.
+ O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-22ddf8b68ee5ed34@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20301118
+DTEND;VALUE=DATE:20301119
+SUMMARY:Ističe koncesija: RADIO RAGUSA D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 18. 11. 2030. Godišnja fiksna nak
+ nada: 133 €.\n\n• RADIO RAGUSA D.O.O. – Koncesija za obavljanje djel
+ atnosti radija (DUBROVAČKO-NERETVANSKA ŽUPANIJA)\, 133 €/god.\n\nŠto 
+ ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesij
+ a (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: RADIO RAGUSA D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-22ddf8b68ee5ed34@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20300518
+DTEND;VALUE=DATE:20300519
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (RADIO RAGUSA D.O
+ .O.)
+DESCRIPTION:18. 11. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• RADIO RAGUSA D.O.O. – Koncesija za obavljanje djelatnosti radi
+ ja (DUBROVAČKO-NERETVANSKA ŽUPANIJA)\, 133 €/god.\n\nŠto ističe: htt
+ ps://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (RADIO RAGUSA
+  D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-3328822f981641f7@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20310331
+DTEND;VALUE=DATE:20310401
+SUMMARY:Ističe koncesija: SAVEZ UDRUGA ROJCA
+DESCRIPTION:1 ugovor o koncesiji ističe 31. 3. 2031. Godišnja fiksna nakn
+ ada: 66 €.\n\n• SAVEZ UDRUGA ROJCA – Koncesija za obavljanje djelatn
+ osti radija (PULA - POLA\, Grad Pula)\, 66 €/god.\n\nŠto ističe: https
+ ://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obr
+ ada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: SAVEZ UDRUGA ROJCA
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-3328822f981641f7@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20300930
+DTEND;VALUE=DATE:20301001
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (SAVEZ UDRUGA ROJ
+ CA)
+DESCRIPTION:31. 3. 2031. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• SAVEZ UDRUGA ROJCA – Koncesija za obavljanje djelatnosti radija
+  (PULA - POLA\, Grad Pula)\, 66 €/god.\n\nŠto ističe: https://koncesij
+ ski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (SAVEZ UDRUGA
+  ROJCA)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-b13de2b52f41d86e@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20311112
+DTEND;VALUE=DATE:20311113
+SUMMARY:Ističe koncesija: INFORMATIVNI CENTAR ZAPREŠIĆ D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 12. 11. 2031. Godišnja fiksna nak
+ nada: 398 €.\n\n• INFORMATIVNI CENTAR ZAPREŠIĆ D.O.O. – Koncesija 
+ za obavljanje djelatnosti radija (BRDOVEC\, PUŠČA\, ZAGREB\, ZAPREŠIĆ\
+ , Općina Brdovec)\, 398 €/god.\n\nŠto ističe: https://koncesijski-sat
+ .vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sa
+ t 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: INFORMATIVNI CENTAR ZAPREŠIĆ D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-b13de2b52f41d86e@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20310512
+DTEND;VALUE=DATE:20310513
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INFORMATIVNI CEN
+ TAR ZAPREŠIĆ D.O.O.)
+DESCRIPTION:12. 11. 2031. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• INFORMATIVNI CENTAR ZAPREŠIĆ D.O.O. – Koncesija za obavljanj
+ e djelatnosti radija (BRDOVEC\, PUŠČA\, ZAGREB\, ZAPREŠIĆ\, Općina Br
+ dovec)\, 398 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/
+ #sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INFORMATIVNI
+  CENTAR ZAPREŠIĆ D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-30092f442d2ffa8e@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20311130
+DTEND;VALUE=DATE:20311201
+SUMMARY:Ističe koncesija: HAPPY FM D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 30. 11. 2031. Godišnja fiksna nak
+ nada: 465 €.\n\n• HAPPY FM D.O.O. – Koncesija za obavljanje djelatno
+ sti radija (BRCKOVLJANI\, DRAGANIĆ\, DRAGANIĆ\, DUGO SELO\, DUGO SELO\, 
+ IVANIĆ GRAD\, IVANIĆ GRAD\, KLOŠTAR IVANIĆ\, KLOŠTAR IVANIĆ\, KRAVAR
+ SKO\, KRAVARSKO\, LASINJA\, LASINJA\, LEKENIK\, LEKENIK\, MARTINSKA VES\, 
+ MARTINSKA VES\, ORLE\, ORLE\, PISAROVINA\, PISAROVINA\, POKUPSKO\, POKUPSK
+ O\, RUGVICA\, RUGVICA\, VELIKA GORICA\, VELIKA GORICA\, Općina Brckovljan
+ i)\, 465 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
+ \nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: HAPPY FM D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-30092f442d2ffa8e@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20310530
+DTEND;VALUE=DATE:20310531
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HAPPY FM D.O.O.)
+DESCRIPTION:30. 11. 2031. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• HAPPY FM D.O.O. – Koncesija za obavljanje djelatnosti radija (
+ BRCKOVLJANI\, DRAGANIĆ\, DRAGANIĆ\, DUGO SELO\, DUGO SELO\, IVANIĆ GRAD
+ \, IVANIĆ GRAD\, KLOŠTAR IVANIĆ\, KLOŠTAR IVANIĆ\, KRAVARSKO\, KRAVAR
+ SKO\, LASINJA\, LASINJA\, LEKENIK\, LEKENIK\, MARTINSKA VES\, MARTINSKA VE
+ S\, ORLE\, ORLE\, PISAROVINA\, PISAROVINA\, POKUPSKO\, POKUPSKO\, RUGVICA\
+ , RUGVICA\, VELIKA GORICA\, VELIKA GORICA\, Općina Brckovljani)\, 465 €
+ /god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HAPPY FM D.O
+ .O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-bc2be26be2146eaf@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20311202
+DTEND;VALUE=DATE:20311203
+SUMMARY:Ističe koncesija: RADIO TRSAT D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 2. 12. 2031. Godišnja fiksna nakn
+ ada: 332 €.\n\n• RADIO TRSAT D.O.O. – Koncesija za obavljanje djelat
+ nosti radija (PRIMORSKO-GORANSKA ŽUPANIJA)\, 332 €/god.\n\nŠto ističe
+ : https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA
+ )\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: RADIO TRSAT D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-bc2be26be2146eaf@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20310602
+DTEND;VALUE=DATE:20310603
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (RADIO TRSAT D.O.
+ O.)
+DESCRIPTION:2. 12. 2031. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• RADIO TRSAT D.O.O. – Koncesija za obavljanje djelatnosti radija
+  (PRIMORSKO-GORANSKA ŽUPANIJA)\, 332 €/god.\n\nŠto ističe: https://ko
+ ncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (RADIO TRSAT 
+ D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-3bce4b4f5f9e1224@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20311218
+DTEND;VALUE=DATE:20311219
+SUMMARY:Ističe koncesija: Z1 TELEVIZIJA D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 18. 12. 2031. Godišnja fiksna nak
+ nada: 1.991 €.\n\n• Z1 TELEVIZIJA D.O.O. – Koncesija za obavljanje d
+ jelatnosti televizije (GRAD ZAGREB\, KARLOVAČKA ŽUPANIJA\, KARLOVAČKA 
+ ŽUPANIJA\, KRAPINSKO-ZAGORSKA ŽUPANIJA\, KRAPINSKO-ZAGORSKA ŽUPANIJA\, 
+ SISAČKO-MOSLAVAČKA ŽUPANIJA\, SISAČKO-MOSLAVAČKA ŽUPANIJA\, ZAGREBA
+ ČKA ŽUPANIJA\, ZAGREBAČKA ŽUPANIJA\, Grad Zagreb)\, 1.991 €/god.\n\n
+ Što ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar kon
+ cesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: Z1 TELEVIZIJA D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-3bce4b4f5f9e1224@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20310618
+DTEND;VALUE=DATE:20310619
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (Z1 TELEVIZIJA D.
+ O.O.)
+DESCRIPTION:18. 12. 2031. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• Z1 TELEVIZIJA D.O.O. – Koncesija za obavljanje djelatnosti tel
+ evizije (GRAD ZAGREB\, KARLOVAČKA ŽUPANIJA\, KARLOVAČKA ŽUPANIJA\, KRA
+ PINSKO-ZAGORSKA ŽUPANIJA\, KRAPINSKO-ZAGORSKA ŽUPANIJA\, SISAČKO-MOSLAV
+ AČKA ŽUPANIJA\, SISAČKO-MOSLAVAČKA ŽUPANIJA\, ZAGREBAČKA ŽUPANIJA\,
+  ZAGREBAČKA ŽUPANIJA\, Grad Zagreb)\, 1.991 €/god.\n\nŠto ističe: ht
+ tps://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (Z1 TELEVIZIJ
+ A D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-e8c67f4a4b4f693c@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20311231
+DTEND;VALUE=DATE:20320101
+SUMMARY:Ističe 2 koncesije · AGENCIJA ZA ELEKTRONIČKE MEDIJE
+DESCRIPTION:2 ugovora o koncesiji ističe 31. 12. 2031. Godišnja fiksna na
+ knada: 1.194 €.\n\n• MT ETER D.O.O. – Koncesija za obavljanje djelat
+ nosti radija (BRCKOVLJANI\, DUGO SELO\, GRAD ZAGREB\, RUGVICA\, Općina Br
+ ckovljani)\, 929 €/god.\n• RADIO KORZO D.O.O. – Koncesija za obavlja
+ nje djelatnosti radija (RIJEKA\, Grad Rijeka)\, 265 €/god.\n\nŠto isti
+ če: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (F
+ INA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 2 koncesije · AGENCIJA ZA ELEKTRONIČKE MEDIJE
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-e8c67f4a4b4f693c@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20310630
+DTEND;VALUE=DATE:20310701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · AGENCIJA ZA EL
+ EKTRONIČKE MEDIJE
+DESCRIPTION:31. 12. 2031. ističe 2 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• MT ETER D.O.O. – Koncesija za obavljanje djelatnosti radija (
+ BRCKOVLJANI\, DUGO SELO\, GRAD ZAGREB\, RUGVICA\, Općina Brckovljani)\, 9
+ 29 €/god.\n• RADIO KORZO D.O.O. – Koncesija za obavljanje djelatnost
+ i radija (RIJEKA\, Grad Rijeka)\, 265 €/god.\n\nŠto ističe: https://ko
+ ncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije · AGENCIJA Z
+ A ELEKTRONIČKE MEDIJE
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-65538d885497faf8@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20320301
+DTEND;VALUE=DATE:20320302
+SUMMARY:Ističe koncesija: ŽUPANIJSKA LIGA PROTIV RAKA - SPLIT
+DESCRIPTION:1 ugovor o koncesiji ističe 1. 3. 2032. Godišnja fiksna nakna
+ da: 199 €.\n\n• ŽUPANIJSKA LIGA PROTIV RAKA - SPLIT – Koncesija za 
+ obavljanje djelatnosti radija (BAŠKA VODA\, BRELA\, DUGI RAT\, KAŠTELA\,
+  MAKARSKA\, OMIŠ\, PODSTRANA\, POSTIRA\, SOLIN\, SPLIT\, SUPETAR\, TUČEP
+ I\, Općina Baška Voda)\, 199 €/god.\n\nŠto ističe: https://koncesijs
+ ki-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Koncesij
+ ski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: ŽUPANIJSKA LIGA PROTIV RAKA - SPLIT
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-65538d885497faf8@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20310901
+DTEND;VALUE=DATE:20310902
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ŽUPANIJSKA LIGA
+  PROTIV RAKA - SPLIT)
+DESCRIPTION:1. 3. 2032. ističe 1 ugovor o koncesiji. Novi postupak dodjele
+  treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
+ \n\n• ŽUPANIJSKA LIGA PROTIV RAKA - SPLIT – Koncesija za obavljanje d
+ jelatnosti radija (BAŠKA VODA\, BRELA\, DUGI RAT\, KAŠTELA\, MAKARSKA\, 
+ OMIŠ\, PODSTRANA\, POSTIRA\, SOLIN\, SPLIT\, SUPETAR\, TUČEPI\, Općina 
+ Baška Voda)\, 199 €/god.\n\nŠto ističe: https://koncesijski-sat.verce
+ l.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ŽUPANIJSKA 
+ LIGA PROTIV RAKA - SPLIT)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-6204b157fbc2889a@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20320902
+DTEND;VALUE=DATE:20320903
+SUMMARY:Ističe koncesija: UDRUGA RADIO MARIJA
+DESCRIPTION:1 ugovor o koncesiji ističe 2. 9. 2032. Godišnja fiksna nakna
+ da: 166 €.\n\n• UDRUGA RADIO MARIJA – Koncesija za obavljanje djelat
+ nosti radija (SPLIT\, Grad Split)\, 166 €/god.\n\nŠto ističe: https://
+ koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada
+  Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: UDRUGA RADIO MARIJA
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-6204b157fbc2889a@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20320302
+DTEND;VALUE=DATE:20320303
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (UDRUGA RADIO MAR
+ IJA)
+DESCRIPTION:2. 9. 2032. ističe 1 ugovor o koncesiji. Novi postupak dodjele
+  treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
+ \n\n• UDRUGA RADIO MARIJA – Koncesija za obavljanje djelatnosti radija
+  (SPLIT\, Grad Split)\, 166 €/god.\n\nŠto ističe: https://koncesijski-
+ sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (UDRUGA RADIO
+  MARIJA)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-a92aa5f7fbc4db13@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20330201
+DTEND;VALUE=DATE:20330202
+SUMMARY:Ističe koncesija: SVEUČILIŠTE U SPLITU
+DESCRIPTION:1 ugovor o koncesiji ističe 1. 2. 2033. Godišnja fiksna nakna
+ da: 166 €.\n\n• SVEUČILIŠTE U SPLITU – Koncesija za obavljanje dje
+ latnosti radija (SPLIT\, Grad Split)\, 166 €/god.\n\nŠto ističe: https
+ ://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obr
+ ada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: SVEUČILIŠTE U SPLITU
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-a92aa5f7fbc4db13@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20320801
+DTEND;VALUE=DATE:20320802
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (SVEUČILIŠTE U 
+ SPLITU)
+DESCRIPTION:1. 2. 2033. ističe 1 ugovor o koncesiji. Novi postupak dodjele
+  treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
+ \n\n• SVEUČILIŠTE U SPLITU – Koncesija za obavljanje djelatnosti rad
+ ija (SPLIT\, Grad Split)\, 166 €/god.\n\nŠto ističe: https://koncesijs
+ ki-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (SVEUČILIŠT
+ E U SPLITU)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-1f2951e6f3a919e3@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20330426
+DTEND;VALUE=DATE:20330427
+SUMMARY:Ističe koncesija: ENTER ZAGREB D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 26. 4. 2033. Godišnja fiksna nakn
+ ada: 597 €.\n\n• ENTER ZAGREB D.O.O. – Koncesija za obavljanje djela
+ tnosti radija (ZAGREB\, Grad Zagreb)\, 597 €/god.\n\nŠto ističe: https
+ ://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obr
+ ada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: ENTER ZAGREB D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-1f2951e6f3a919e3@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20321026
+DTEND;VALUE=DATE:20321027
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ENTER ZAGREB D.O
+ .O.)
+DESCRIPTION:26. 4. 2033. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• ENTER ZAGREB D.O.O. – Koncesija za obavljanje djelatnosti radij
+ a (ZAGREB\, Grad Zagreb)\, 597 €/god.\n\nŠto ističe: https://koncesijs
+ ki-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ENTER ZAGREB
+  D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-49276c0471994a4d@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20330609
+DTEND;VALUE=DATE:20330610
+SUMMARY:Ističe koncesija: NEZAVISNA TELEVIZIJA D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 9. 6. 2033. Godišnja fiksna nakna
+ da: 1.991 €.\n\n• NEZAVISNA TELEVIZIJA D.O.O. – Koncesija za obavlja
+ nje djelatnosti televizije (GRAD ZAGREB\, KARLOVAČKA ŽUPANIJA\, KARLOVA
+ ČKA ŽUPANIJA\, KRAPINSKO-ZAGORSKA ŽUPANIJA\, KRAPINSKO-ZAGORSKA ŽUPANI
+ JA\, SISAČKO-MOSLAVAČKA ŽUPANIJA\, SISAČKO-MOSLAVAČKA ŽUPANIJA\, ZAG
+ REBAČKA ŽUPANIJA\, ZAGREBAČKA ŽUPANIJA\, Grad Zagreb)\, 1.991 €/god.
+ \n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar
+  koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: NEZAVISNA TELEVIZIJA D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-49276c0471994a4d@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20321209
+DTEND;VALUE=DATE:20321210
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (NEZAVISNA TELEVI
+ ZIJA D.O.O.)
+DESCRIPTION:9. 6. 2033. ističe 1 ugovor o koncesiji. Novi postupak dodjele
+  treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
+ \n\n• NEZAVISNA TELEVIZIJA D.O.O. – Koncesija za obavljanje djelatnost
+ i televizije (GRAD ZAGREB\, KARLOVAČKA ŽUPANIJA\, KARLOVAČKA ŽUPANIJA\
+ , KRAPINSKO-ZAGORSKA ŽUPANIJA\, KRAPINSKO-ZAGORSKA ŽUPANIJA\, SISAČKO-M
+ OSLAVAČKA ŽUPANIJA\, SISAČKO-MOSLAVAČKA ŽUPANIJA\, ZAGREBAČKA ŽUPAN
+ IJA\, ZAGREBAČKA ŽUPANIJA\, Grad Zagreb)\, 1.991 €/god.\n\nŠto istič
+ e: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (NEZAVISNA TE
+ LEVIZIJA D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-f91a523fdfa28977@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20330702
+DTEND;VALUE=DATE:20330703
+SUMMARY:Ističe koncesija: VTV D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 2. 7. 2033. Godišnja fiksna nakna
+ da: 796 €.\n\n• VTV D.O.O. – Koncesija za obavljanje djelatnosti tel
+ evizije (BRODSKO-POSAVSKA ŽUPANIJA\, OSJEČKO-BARANJSKA ŽUPANIJA\, VUKOV
+ ARSKO-SRIJEMSKA ŽUPANIJA)\, 796 €/god.\n\nŠto ističe: https://koncesi
+ jski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Konces
+ ijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: VTV D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-f91a523fdfa28977@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20330102
+DTEND;VALUE=DATE:20330103
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VTV D.O.O.)
+DESCRIPTION:2. 7. 2033. ističe 1 ugovor o koncesiji. Novi postupak dodjele
+  treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
+ \n\n• VTV D.O.O. – Koncesija za obavljanje djelatnosti televizije (BRO
+ DSKO-POSAVSKA ŽUPANIJA\, OSJEČKO-BARANJSKA ŽUPANIJA\, VUKOVARSKO-SRIJEM
+ SKA ŽUPANIJA)\, 796 €/god.\n\nŠto ističe: https://koncesijski-sat.ver
+ cel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VTV D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-95c2f8d2920f6bf7@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20340430
+DTEND;VALUE=DATE:20340501
+SUMMARY:Ističe koncesija: RADIO DALMACIJA D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 30. 4. 2034. Godišnja fiksna nakn
+ ada: 929 €.\n\n• RADIO DALMACIJA D.O.O. – Koncesija za obavljanje dj
+ elatnosti radija (DUBROVAČKO-NERETVANSKA ŽUPANIJA\, SPLITSKO-DALMATINSKA
+  ŽUPANIJA\, SPLITSKO-DALMATINSKA ŽUPANIJA\, ZADARSKA ŽUPANIJA\, ZADARSK
+ A ŽUPANIJA\, ŠIBENSKO-KNINSKA ŽUPANIJA\, ŠIBENSKO-KNINSKA ŽUPANIJA)\,
+  929 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIz
+ vor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: RADIO DALMACIJA D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-95c2f8d2920f6bf7@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20331030
+DTEND;VALUE=DATE:20331031
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (RADIO DALMACIJA 
+ D.O.O.)
+DESCRIPTION:30. 4. 2034. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• RADIO DALMACIJA D.O.O. – Koncesija za obavljanje djelatnosti ra
+ dija (DUBROVAČKO-NERETVANSKA ŽUPANIJA\, SPLITSKO-DALMATINSKA ŽUPANIJA\,
+  SPLITSKO-DALMATINSKA ŽUPANIJA\, ZADARSKA ŽUPANIJA\, ZADARSKA ŽUPANIJA\
+ , ŠIBENSKO-KNINSKA ŽUPANIJA\, ŠIBENSKO-KNINSKA ŽUPANIJA)\, 929 €/god
+ .\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (RADIO DALMAC
+ IJA D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-2a18cafe2b712dff@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20360923
+DTEND;VALUE=DATE:20360924
+SUMMARY:Ističe koncesija: TOP RADIO D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 23. 9. 2036. Godišnja fiksna nakn
+ ada: 2.389 €.\n\n• TOP RADIO D.O.O. – Koncesija za obavljanje djelat
+ nosti radija (GRAD ZAGREB\, ZAGREBAČKA ŽUPANIJA\, ZAGREBAČKA ŽUPANIJA\
+ , Grad Zagreb)\, 2.389 €/god.\n\nŠto ističe: https://koncesijski-sat.v
+ ercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 
+ 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: TOP RADIO D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-2a18cafe2b712dff@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20360323
+DTEND;VALUE=DATE:20360324
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (TOP RADIO D.O.O.
+ )
+DESCRIPTION:23. 9. 2036. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• TOP RADIO D.O.O. – Koncesija za obavljanje djelatnosti radija (
+ GRAD ZAGREB\, ZAGREBAČKA ŽUPANIJA\, ZAGREBAČKA ŽUPANIJA\, Grad Zagreb)
+ \, 2.389 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (TOP RADIO D.
+ O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-5b6fd12f1638befa@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20420706
+DTEND;VALUE=DATE:20420707
+SUMMARY:Ističe 4 koncesije · AGENCIJA ZA ELEKTRONIČKE MEDIJE
+DESCRIPTION:4 ugovora o koncesiji ističe 6. 7. 2042. Godišnja fiksna nakn
+ ada: 532 €.\n\n• MIROSLAV KRALJEVIĆ DRUŠTVO ZA INFORMIRANJE D.O.O. 
+ – Koncesija za obavljanje djelatnosti radija (POŽEŠKO-SLAVONSKA ŽUPAN
+ IJA)\, 133 €/god.\n• ŽUPANIJSKI RADIO ŠIBENIK D.O.O. – Koncesija z
+ a obavljanje djelatnosti radija (ŠIBENSKO-KNINSKA ŽUPANIJA)\, 133 €/go
+ d.\n• SVEUČILIŠTE U ZAGREBU FAKULTET POLITIČKIH ZNANOSTI – Koncesij
+ a za obavljanje djelatnosti radija (GRAD ZAGREB\, Grad Zagreb)\, 133 €/g
+ od.\n• INFORMATIVNI CENTAR VIROVITICA D.O.O. – Koncesija za obavljanje
+  djelatnosti radija (VIROVITIČKO-PODRAVSKA ŽUPANIJA)\, 133 €/god.\n\n
+ Što ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar kon
+ cesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 4 koncesije · AGENCIJA ZA ELEKTRONIČKE MEDIJE
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-5b6fd12f1638befa@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20420106
+DTEND;VALUE=DATE:20420107
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 4 koncesije · AGENCIJA ZA EL
+ EKTRONIČKE MEDIJE
+DESCRIPTION:6. 7. 2042. ističe 4 ugovora o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• MIROSLAV KRALJEVIĆ DRUŠTVO ZA INFORMIRANJE D.O.O. – Koncesija
+  za obavljanje djelatnosti radija (POŽEŠKO-SLAVONSKA ŽUPANIJA)\, 133 
+ €/god.\n• ŽUPANIJSKI RADIO ŠIBENIK D.O.O. – Koncesija za obavljanj
+ e djelatnosti radija (ŠIBENSKO-KNINSKA ŽUPANIJA)\, 133 €/god.\n• SVE
+ UČILIŠTE U ZAGREBU FAKULTET POLITIČKIH ZNANOSTI – Koncesija za obavlj
+ anje djelatnosti radija (GRAD ZAGREB\, Grad Zagreb)\, 133 €/god.\n• IN
+ FORMATIVNI CENTAR VIROVITICA D.O.O. – Koncesija za obavljanje djelatnost
+ i radija (VIROVITIČKO-PODRAVSKA ŽUPANIJA)\, 133 €/god.\n\nŠto ističe
+ : https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 4 koncesije · AGENCIJA Z
+ A ELEKTRONIČKE MEDIJE
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-21dae5882f5608a3@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20421013
+DTEND;VALUE=DATE:20421014
+SUMMARY:Ističe koncesija: RADIO MREŽNICA D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 13. 10. 2042. Godišnja fiksna nak
+ nada: 133 €.\n\n• RADIO MREŽNICA D.O.O. – Koncesija za obavljanje d
+ jelatnosti radija (DUGA RESA\, KARLOVAC\, NETRETIĆ\, Grad Duga Resa)\, 13
+ 3 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor
+ : Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: RADIO MREŽNICA D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-21dae5882f5608a3@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20420413
+DTEND;VALUE=DATE:20420414
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (RADIO MREŽNICA 
+ D.O.O.)
+DESCRIPTION:13. 10. 2042. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• RADIO MREŽNICA D.O.O. – Koncesija za obavljanje djelatnosti r
+ adija (DUGA RESA\, KARLOVAC\, NETRETIĆ\, Grad Duga Resa)\, 133 €/god.\n
+ \nŠto ističe: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (RADIO MREŽN
+ ICA D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-90c73b79803fc6f8@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20421031
+DTEND;VALUE=DATE:20421101
+SUMMARY:Ističe koncesija: HRVATSKI RADIO ČAKOVEC D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 31. 10. 2042. Godišnja fiksna nak
+ nada: 133 €.\n\n• HRVATSKI RADIO ČAKOVEC D.O.O. – Koncesija za obav
+ ljanje djelatnosti radija (MEĐIMURSKA ŽUPANIJA)\, 133 €/god.\n\nŠto i
+ stiče: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija
+  (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: HRVATSKI RADIO ČAKOVEC D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-90c73b79803fc6f8@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20420430
+DTEND;VALUE=DATE:20420501
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKI RADIO 
+ ČAKOVEC D.O.O.)
+DESCRIPTION:31. 10. 2042. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• HRVATSKI RADIO ČAKOVEC D.O.O. – Koncesija za obavljanje djela
+ tnosti radija (MEĐIMURSKA ŽUPANIJA)\, 133 €/god.\n\nŠto ističe: http
+ s://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKI RAD
+ IO ČAKOVEC D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-6b77d65ddbebb731@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20421231
+DTEND;VALUE=DATE:20430101
+SUMMARY:Ističe koncesija: TELEVIZIJA JADRAN D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 31. 12. 2042. Godišnja fiksna nak
+ nada: 664 €.\n\n• TELEVIZIJA JADRAN D.O.O. – Koncesija za obavljanje
+  djelatnosti televizije (DUBROVAČKO-NERETVANSKA ŽUPANIJA\, SPLITSKO-DALM
+ ATINSKA ŽUPANIJA)\, 664 €/god.\n\nŠto ističe: https://koncesijski-sat
+ .vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sa
+ t 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: TELEVIZIJA JADRAN D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-6b77d65ddbebb731@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20420630
+DTEND;VALUE=DATE:20420701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (TELEVIZIJA JADRA
+ N D.O.O.)
+DESCRIPTION:31. 12. 2042. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• TELEVIZIJA JADRAN D.O.O. – Koncesija za obavljanje djelatnosti
+  televizije (DUBROVAČKO-NERETVANSKA ŽUPANIJA\, SPLITSKO-DALMATINSKA ŽUP
+ ANIJA)\, 664 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/
+ #sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (TELEVIZIJA J
+ ADRAN D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-658172787c17e6a8@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20430706
+DTEND;VALUE=DATE:20430707
+SUMMARY:Ističe koncesija: S - TEL D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 6. 7. 2043. Godišnja fiksna nakna
+ da: 199 €.\n\n• S - TEL D.O.O. – Koncesija za obavljanje djelatnosti
+  radija (SISAČKO-MOSLAVAČKA ŽUPANIJA)\, 199 €/god.\n\nŠto ističe: h
+ ttps://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\,
+  obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: S - TEL D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-658172787c17e6a8@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20430106
+DTEND;VALUE=DATE:20430107
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (S - TEL D.O.O.)
+DESCRIPTION:6. 7. 2043. ističe 1 ugovor o koncesiji. Novi postupak dodjele
+  treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
+ \n\n• S - TEL D.O.O. – Koncesija za obavljanje djelatnosti radija (SIS
+ AČKO-MOSLAVAČKA ŽUPANIJA)\, 199 €/god.\n\nŠto ističe: https://konce
+ sijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (S - TEL D.O.
+ O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-59eacaaaccaefc29@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20430721
+DTEND;VALUE=DATE:20430722
+SUMMARY:Ističe koncesija: TELEVIZIJA DALMACIJA D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 21. 7. 2043. Godišnja fiksna nakn
+ ada: 730 €.\n\n• TELEVIZIJA DALMACIJA D.O.O. – Koncesija za obavljan
+ je djelatnosti televizije (DUBROVAČKO-NERETVANSKA ŽUPANIJA\, SPLITSKO-DA
+ LMATINSKA ŽUPANIJA)\, 730 €/god.\n\nŠto ističe: https://koncesijski-s
+ at.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski 
+ sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: TELEVIZIJA DALMACIJA D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-59eacaaaccaefc29@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20430121
+DTEND;VALUE=DATE:20430122
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (TELEVIZIJA DALMA
+ CIJA D.O.O.)
+DESCRIPTION:21. 7. 2043. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• TELEVIZIJA DALMACIJA D.O.O. – Koncesija za obavljanje djelatnos
+ ti televizije (DUBROVAČKO-NERETVANSKA ŽUPANIJA\, SPLITSKO-DALMATINSKA Ž
+ UPANIJA)\, 730 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.ap
+ p/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (TELEVIZIJA D
+ ALMACIJA D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-ecc8faa2afff72c2@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20430731
+DTEND;VALUE=DATE:20430801
+SUMMARY:Ističe koncesija: DRUŠTVO MULTIPLE SKLEROZE BRODSKO-POSAVSKE ŽUP
+ ANIJE
+DESCRIPTION:1 ugovor o koncesiji ističe 31. 7. 2043. Godišnja fiksna nakn
+ ada: 66 €.\n\n• DRUŠTVO MULTIPLE SKLEROZE BRODSKO-POSAVSKE ŽUPANIJE 
+ – Koncesija za obavljanje djelatnosti radija (SLAVONSKI BROD\, Grad Slav
+ onski Brod)\, 66 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.
+ app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11.
+  2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: DRUŠTVO MULTIPLE SKLEROZE BRODSKO-POSAVSKE 
+ ŽUPANIJE
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-ecc8faa2afff72c2@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20430131
+DTEND;VALUE=DATE:20430201
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DRUŠTVO MULTIPL
+ E SKLEROZE BRODSKO-POSAVSKE ŽUPANIJE)
+DESCRIPTION:31. 7. 2043. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• DRUŠTVO MULTIPLE SKLEROZE BRODSKO-POSAVSKE ŽUPANIJE – Koncesi
+ ja za obavljanje djelatnosti radija (SLAVONSKI BROD\, Grad Slavonski Brod)
+ \, 66 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DRUŠTVO MUL
+ TIPLE SKLEROZE BRODSKO-POSAVSKE ŽUPANIJE)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-52df973edfcf8453@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20430922
+DTEND;VALUE=DATE:20430923
+SUMMARY:Ističe koncesija: 0AR D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 22. 9. 2043. Godišnja fiksna nakn
+ ada: 730 €.\n\n• 0AR D.O.O. – Koncesija za obavljanje djelatnosti te
+ levizije (BRODSKO-POSAVSKA ŽUPANIJA\, OSJEČKO-BARANJSKA ŽUPANIJA\, OSJE
+ ČKO-BARANJSKA ŽUPANIJA\, VUKOVARSKO-SRIJEMSKA ŽUPANIJA\, VUKOVARSKO-SRI
+ JEMSKA ŽUPANIJA)\, 730 €/god.\n\nŠto ističe: https://koncesijski-sat.
+ vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat
+  9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: 0AR D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-52df973edfcf8453@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20430322
+DTEND;VALUE=DATE:20430323
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (0AR D.O.O.)
+DESCRIPTION:22. 9. 2043. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• 0AR D.O.O. – Koncesija za obavljanje djelatnosti televizije (BR
+ ODSKO-POSAVSKA ŽUPANIJA\, OSJEČKO-BARANJSKA ŽUPANIJA\, OSJEČKO-BARANJS
+ KA ŽUPANIJA\, VUKOVARSKO-SRIJEMSKA ŽUPANIJA\, VUKOVARSKO-SRIJEMSKA ŽUPA
+ NIJA)\, 730 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#
+ sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (0AR D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-469cfe1f98b7e4fd@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20431004
+DTEND;VALUE=DATE:20431005
+SUMMARY:Ističe koncesija: RADIO SLAVONIJA D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 4. 10. 2043. Godišnja fiksna nakn
+ ada: 1.128 €.\n\n• RADIO SLAVONIJA D.O.O. – Koncesija za obavljanje 
+ djelatnosti radija (BJELOVARSKO-BILOGORSKA ŽUPANIJA\, BRODSKO-POSAVSKA Ž
+ UPANIJA\, OSJEČKO-BARANJSKA ŽUPANIJA\, POŽEŠKO-SLAVONSKA ŽUPANIJA\, S
+ ISAČKO-MOSLAVAČKA ŽUPANIJA\, VIROVITIČKO-PODRAVSKA ŽUPANIJA\, VUKOVAR
+ SKO-SRIJEMSKA ŽUPANIJA)\, 1.128 €/god.\n\nŠto ističe: https://koncesi
+ jski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Konces
+ ijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: RADIO SLAVONIJA D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-469cfe1f98b7e4fd@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20430404
+DTEND;VALUE=DATE:20430405
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (RADIO SLAVONIJA 
+ D.O.O.)
+DESCRIPTION:4. 10. 2043. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• RADIO SLAVONIJA D.O.O. – Koncesija za obavljanje djelatnosti ra
+ dija (BJELOVARSKO-BILOGORSKA ŽUPANIJA\, BRODSKO-POSAVSKA ŽUPANIJA\, OSJE
+ ČKO-BARANJSKA ŽUPANIJA\, POŽEŠKO-SLAVONSKA ŽUPANIJA\, SISAČKO-MOSLAV
+ AČKA ŽUPANIJA\, VIROVITIČKO-PODRAVSKA ŽUPANIJA\, VUKOVARSKO-SRIJEMSKA 
+ ŽUPANIJA)\, 1.128 €/god.\n\nŠto ističe: https://koncesijski-sat.verce
+ l.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (RADIO SLAVON
+ IJA D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-4a8d95d46fc7a1af@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20431017
+DTEND;VALUE=DATE:20431018
+SUMMARY:Ističe koncesija: CIK DR. BOŽO MILANOVIĆ D. O. O.
+DESCRIPTION:1 ugovor o koncesiji ističe 17. 10. 2043. Godišnja fiksna nak
+ nada: 531 €.\n\n• CIK DR. BOŽO MILANOVIĆ D. O. O. – Koncesija za o
+ bavljanje djelatnosti radija (ISTARSKA ŽUPANIJA)\, 531 €/god.\n\nŠto i
+ stiče: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija
+  (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: CIK DR. BOŽO MILANOVIĆ D. O. O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-4a8d95d46fc7a1af@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20430417
+DTEND;VALUE=DATE:20430418
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (CIK DR. BOŽO MI
+ LANOVIĆ D. O. O.)
+DESCRIPTION:17. 10. 2043. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• CIK DR. BOŽO MILANOVIĆ D. O. O. – Koncesija za obavljanje dj
+ elatnosti radija (ISTARSKA ŽUPANIJA)\, 531 €/god.\n\nŠto ističe: http
+ s://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (CIK DR. BOŽ
+ O MILANOVIĆ D. O. O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-56dc2716075b5d60@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20431021
+DTEND;VALUE=DATE:20431022
+SUMMARY:Ističe koncesija: VTV - VARAŽDINSKA TELEVIZIJA D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 21. 10. 2043. Godišnja fiksna nak
+ nada: 597 €.\n\n• VTV - VARAŽDINSKA TELEVIZIJA D.O.O. – Koncesija z
+ a obavljanje djelatnosti televizije (BJELOVARSKO-BILOGORSKA ŽUPANIJA\, KO
+ PRIVNIČKO-KRIŽEVAČKA ŽUPANIJA\, MEĐIMURSKA ŽUPANIJA\, VARAŽDINSKA 
+ ŽUPANIJA)\, 597 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.
+ app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11.
+  2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: VTV - VARAŽDINSKA TELEVIZIJA D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-56dc2716075b5d60@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20430421
+DTEND;VALUE=DATE:20430422
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VTV - VARAŽDINS
+ KA TELEVIZIJA D.O.O.)
+DESCRIPTION:21. 10. 2043. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• VTV - VARAŽDINSKA TELEVIZIJA D.O.O. – Koncesija za obavljanje
+  djelatnosti televizije (BJELOVARSKO-BILOGORSKA ŽUPANIJA\, KOPRIVNIČKO-K
+ RIŽEVAČKA ŽUPANIJA\, MEĐIMURSKA ŽUPANIJA\, VARAŽDINSKA ŽUPANIJA)\, 
+ 597 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VTV - VARAŽ
+ DINSKA TELEVIZIJA D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-ada03c989cf08fc7@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20431211
+DTEND;VALUE=DATE:20431212
+SUMMARY:Ističe koncesija: UDRUGA RADIO MARIJA
+DESCRIPTION:1 ugovor o koncesiji ističe 11. 12. 2043. Godišnja fiksna nak
+ nada: 66 €.\n\n• UDRUGA RADIO MARIJA – Koncesija za obavljanje djela
+ tnosti radija (MARUŠEVEC\, SRAČINEC\, TRNOVEC BARTOLOVEČKI\, VARAŽDIN\
+ , VIDOVEC\, Općina Maruševec)\, 66 €/god.\n\nŠto ističe: https://kon
+ cesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Ko
+ ncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: UDRUGA RADIO MARIJA
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-ada03c989cf08fc7@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20430611
+DTEND;VALUE=DATE:20430612
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (UDRUGA RADIO MAR
+ IJA)
+DESCRIPTION:11. 12. 2043. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• UDRUGA RADIO MARIJA – Koncesija za obavljanje djelatnosti radi
+ ja (MARUŠEVEC\, SRAČINEC\, TRNOVEC BARTOLOVEČKI\, VARAŽDIN\, VIDOVEC\,
+  Općina Maruševec)\, 66 €/god.\n\nŠto ističe: https://koncesijski-sa
+ t.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (UDRUGA RADIO
+  MARIJA)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-368895965bd30023@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20431214
+DTEND;VALUE=DATE:20431215
+SUMMARY:Ističe koncesija: AUTOR D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 14. 12. 2043. Godišnja fiksna nak
+ nada: 5.707 €.\n\n• AUTOR D.O.O. – Koncesija za obavljanje djelatnos
+ ti radija (REPUBLIKA HRVATSKA)\, 5.707 €/god.\n\nŠto ističe: https://k
+ oncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada 
+ Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: AUTOR D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-368895965bd30023@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20430614
+DTEND;VALUE=DATE:20430615
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (AUTOR D.O.O.)
+DESCRIPTION:14. 12. 2043. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• AUTOR D.O.O. – Koncesija za obavljanje djelatnosti radija (REP
+ UBLIKA HRVATSKA)\, 5.707 €/god.\n\nŠto ističe: https://koncesijski-sat
+ .vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (AUTOR D.O.O.
+ )
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-c0b457ae50be822c@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20431221
+DTEND;VALUE=DATE:20431222
+SUMMARY:Ističe koncesija: MEDIA CONSULTING D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 21. 12. 2043. Godišnja fiksna nak
+ nada: 133 €.\n\n• MEDIA CONSULTING D.O.O. – Koncesija za obavljanje 
+ djelatnosti radija (DUBROVAČKO-NERETVANSKA ŽUPANIJA)\, 133 €/god.\n\n
+ Što ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar kon
+ cesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: MEDIA CONSULTING D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-c0b457ae50be822c@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20430621
+DTEND;VALUE=DATE:20430622
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MEDIA CONSULTING
+  D.O.O.)
+DESCRIPTION:21. 12. 2043. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• MEDIA CONSULTING D.O.O. – Koncesija za obavljanje djelatnosti 
+ radija (DUBROVAČKO-NERETVANSKA ŽUPANIJA)\, 133 €/god.\n\nŠto ističe:
+  https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MEDIA CONSUL
+ TING D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-cf64565f8166eac1@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20440115
+DTEND;VALUE=DATE:20440116
+SUMMARY:Ističe 2 koncesije · AGENCIJA ZA ELEKTRONIČKE MEDIJE
+DESCRIPTION:2 ugovora o koncesiji ističe 15. 1. 2044. Godišnja fiksna nak
+ nada: 1.195 €.\n\n• TV NOVA D.O.O. – Koncesija za obavljanje djelatn
+ osti televizije (ISTARSKA ŽUPANIJA\, LIČKO-SENJSKA ŽUPANIJA\, PRIMORSKO
+ -GORANSKA ŽUPANIJA)\, 730 €/god.\n• ULTRA SPLIT D.O.O. – Koncesija 
+ za obavljanje djelatnosti radija (SPLITSKO-DALMATINSKA ŽUPANIJA)\, 465 
+ €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: 
+ Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 2 koncesije · AGENCIJA ZA ELEKTRONIČKE MEDIJE
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-cf64565f8166eac1@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20430715
+DTEND;VALUE=DATE:20430716
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · AGENCIJA ZA EL
+ EKTRONIČKE MEDIJE
+DESCRIPTION:15. 1. 2044. ističe 2 ugovora o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• TV NOVA D.O.O. – Koncesija za obavljanje djelatnosti televizij
+ e (ISTARSKA ŽUPANIJA\, LIČKO-SENJSKA ŽUPANIJA\, PRIMORSKO-GORANSKA ŽUP
+ ANIJA)\, 730 €/god.\n• ULTRA SPLIT D.O.O. – Koncesija za obavljanje 
+ djelatnosti radija (SPLITSKO-DALMATINSKA ŽUPANIJA)\, 465 €/god.\n\nŠto
+  ističe: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije · AGENCIJA Z
+ A ELEKTRONIČKE MEDIJE
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-b08c0d51325c945f@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20440314
+DTEND;VALUE=DATE:20440315
+SUMMARY:Ističe koncesija: BRAVO CBC D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 14. 3. 2044. Godišnja fiksna nakn
+ ada: 5.707 €.\n\n• BRAVO CBC D.O.O. – Koncesija za obavljanje djelat
+ nosti radija (REPUBLIKA HRVATSKA)\, 5.707 €/god.\n\nŠto ističe: https:
+ //koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obra
+ da Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: BRAVO CBC D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-b08c0d51325c945f@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20430914
+DTEND;VALUE=DATE:20430915
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BRAVO CBC D.O.O.
+ )
+DESCRIPTION:14. 3. 2044. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• BRAVO CBC D.O.O. – Koncesija za obavljanje djelatnosti radija (
+ REPUBLIKA HRVATSKA)\, 5.707 €/god.\n\nŠto ističe: https://koncesijski-
+ sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BRAVO CBC D.
+ O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-71684088b903e6ae@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20440427
+DTEND;VALUE=DATE:20440428
+SUMMARY:Ističe koncesija: TELEVIZIJA SLAVONIJE I BARANJE D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 27. 4. 2044. Godišnja fiksna nakn
+ ada: 730 €.\n\n• TELEVIZIJA SLAVONIJE I BARANJE D.O.O. – Koncesija z
+ a obavljanje djelatnosti televizije (BRODSKO-POSAVSKA ŽUPANIJA\, OSJEČKO
+ -BARANJSKA ŽUPANIJA\, VUKOVARSKO-SRIJEMSKA ŽUPANIJA)\, 730 €/god.\n\n
+ Što ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar kon
+ cesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: TELEVIZIJA SLAVONIJE I BARANJE D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-71684088b903e6ae@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20431027
+DTEND;VALUE=DATE:20431028
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (TELEVIZIJA SLAVO
+ NIJE I BARANJE D.O.O.)
+DESCRIPTION:27. 4. 2044. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• TELEVIZIJA SLAVONIJE I BARANJE D.O.O. – Koncesija za obavljanje
+  djelatnosti televizije (BRODSKO-POSAVSKA ŽUPANIJA\, OSJEČKO-BARANJSKA 
+ ŽUPANIJA\, VUKOVARSKO-SRIJEMSKA ŽUPANIJA)\, 730 €/god.\n\nŠto ističe
+ : https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (TELEVIZIJA S
+ LAVONIJE I BARANJE D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-a6f476b02b02eab1@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20440430
+DTEND;VALUE=DATE:20440501
+SUMMARY:Ističe koncesija: KOMBEL D.O.O. ZA KOMUNALNE DJELATNOSTI
+DESCRIPTION:1 ugovor o koncesiji ističe 30. 4. 2044. Godišnja fiksna nakn
+ ada: 66 €.\n\n• KOMBEL D.O.O. ZA KOMUNALNE DJELATNOSTI – Koncesija z
+ a obavljanje djelatnosti radija (BELIŠĆE\, Grad Belišće)\, 66 €/god.
+ \n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar
+  koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: KOMBEL D.O.O. ZA KOMUNALNE DJELATNOSTI
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-a6f476b02b02eab1@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20431030
+DTEND;VALUE=DATE:20431031
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (KOMBEL D.O.O. ZA
+  KOMUNALNE DJELATNOSTI)
+DESCRIPTION:30. 4. 2044. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• KOMBEL D.O.O. ZA KOMUNALNE DJELATNOSTI – Koncesija za obavljanj
+ e djelatnosti radija (BELIŠĆE\, Grad Belišće)\, 66 €/god.\n\nŠto is
+ tiče: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (KOMBEL D.O.O
+ . ZA KOMUNALNE DJELATNOSTI)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-b096611ace924041@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20440617
+DTEND;VALUE=DATE:20440618
+SUMMARY:Ističe koncesija: RADIO PRKOS J.D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 17. 6. 2044. Godišnja fiksna nakn
+ ada: 66 €.\n\n• RADIO PRKOS J.D.O.O. – Koncesija za obavljanje djela
+ tnosti radija (NOVA GRADIŠKA\, Grad Nova Gradiška)\, 66 €/god.\n\nŠto
+  ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesi
+ ja (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: RADIO PRKOS J.D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-b096611ace924041@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20431217
+DTEND;VALUE=DATE:20431218
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (RADIO PRKOS J.D.
+ O.O.)
+DESCRIPTION:17. 6. 2044. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• RADIO PRKOS J.D.O.O. – Koncesija za obavljanje djelatnosti radi
+ ja (NOVA GRADIŠKA\, Grad Nova Gradiška)\, 66 €/god.\n\nŠto ističe: h
+ ttps://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (RADIO PRKOS 
+ J.D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-9ed1fbfedbe7b248@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20440706
+DTEND;VALUE=DATE:20440707
+SUMMARY:Ističe 2 koncesije · AGENCIJA ZA ELEKTRONIČKE MEDIJE
+DESCRIPTION:2 ugovora o koncesiji ističe 6. 7. 2044. Godišnja fiksna nakn
+ ada: 1.460 €.\n\n• ZAGREBAČKI RADIO PLAVI 9 D.O.O. – Koncesija za o
+ bavljanje djelatnosti radija (GRAD ZAGREB\, Grad Zagreb)\, 1.128 €/god.\
+ n• HRVATSKI RADIO VUKOVAR D.O.O. – Koncesija za obavljanje djelatnosti
+  radija (OSJEČKO-BARANJSKA ŽUPANIJA\, VUKOVARSKO-SRIJEMSKA ŽUPANIJA)\, 
+ 332 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzv
+ or: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 2 koncesije · AGENCIJA ZA ELEKTRONIČKE MEDIJE
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-9ed1fbfedbe7b248@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20440106
+DTEND;VALUE=DATE:20440107
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · AGENCIJA ZA EL
+ EKTRONIČKE MEDIJE
+DESCRIPTION:6. 7. 2044. ističe 2 ugovora o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• ZAGREBAČKI RADIO PLAVI 9 D.O.O. – Koncesija za obavljanje djel
+ atnosti radija (GRAD ZAGREB\, Grad Zagreb)\, 1.128 €/god.\n• HRVATSKI 
+ RADIO VUKOVAR D.O.O. – Koncesija za obavljanje djelatnosti radija (OSJE
+ ČKO-BARANJSKA ŽUPANIJA\, VUKOVARSKO-SRIJEMSKA ŽUPANIJA)\, 332 €/god.\
+ n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije · AGENCIJA Z
+ A ELEKTRONIČKE MEDIJE
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-b81e395573f3318c@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20440714
+DTEND;VALUE=DATE:20440715
+SUMMARY:Ističe koncesija: MEDIA CONSULTING D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 14. 7. 2044. Godišnja fiksna nakn
+ ada: 730 €.\n\n• MEDIA CONSULTING D.O.O. – Koncesija za obavljanje d
+ jelatnosti radija (DUBROVAČKO-NERETVANSKA ŽUPANIJA\, SPLITSKO-DALMATINSK
+ A ŽUPANIJA)\, 730 €/god.\n\nŠto ističe: https://koncesijski-sat.verce
+ l.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 1
+ 1. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: MEDIA CONSULTING D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-b81e395573f3318c@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20440114
+DTEND;VALUE=DATE:20440115
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MEDIA CONSULTING
+  D.O.O.)
+DESCRIPTION:14. 7. 2044. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• MEDIA CONSULTING D.O.O. – Koncesija za obavljanje djelatnosti r
+ adija (DUBROVAČKO-NERETVANSKA ŽUPANIJA\, SPLITSKO-DALMATINSKA ŽUPANIJA)
+ \, 730 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MEDIA CONSUL
+ TING D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-d0331e668e1e2c59@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20440731
+DTEND;VALUE=DATE:20440801
+SUMMARY:Ističe koncesija: MEDIA FI D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 31. 7. 2044. Godišnja fiksna nakn
+ ada: 66 €.\n\n• MEDIA FI D.O.O. – Koncesija za obavljanje djelatnost
+ i radija (BALE - VALLE\, KANFANAR\, ROVINJ - ROVIGNO\, SVETI PETAR U ŠUMI
+ \, VRSAR - ORSERA\, ŽMINJ\, Općina Bale)\, 66 €/god.\n\nŠto ističe: 
+ https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\
+ , obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: MEDIA FI D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-d0331e668e1e2c59@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20440131
+DTEND;VALUE=DATE:20440201
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MEDIA FI D.O.O.)
+DESCRIPTION:31. 7. 2044. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• MEDIA FI D.O.O. – Koncesija za obavljanje djelatnosti radija (B
+ ALE - VALLE\, KANFANAR\, ROVINJ - ROVIGNO\, SVETI PETAR U ŠUMI\, VRSAR - 
+ ORSERA\, ŽMINJ\, Općina Bale)\, 66 €/god.\n\nŠto ističe: https://kon
+ cesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MEDIA FI D.O
+ .O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-5a8091863b95a6a0@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20441006
+DTEND;VALUE=DATE:20441007
+SUMMARY:Ističe koncesija: KANAL RI D. O. O.
+DESCRIPTION:1 ugovor o koncesiji ističe 6. 10. 2044. Godišnja fiksna nakn
+ ada: 730 €.\n\n• KANAL RI D. O. O. – Koncesija za obavljanje djelatn
+ osti televizije (ISTARSKA ŽUPANIJA\, LIČKO-SENJSKA ŽUPANIJA\, PRIMORSKO
+ -GORANSKA ŽUPANIJA)\, 730 €/god.\n\nŠto ističe: https://koncesijski-s
+ at.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski 
+ sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: KANAL RI D. O. O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-5a8091863b95a6a0@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20440406
+DTEND;VALUE=DATE:20440407
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (KANAL RI D. O. O
+ .)
+DESCRIPTION:6. 10. 2044. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• KANAL RI D. O. O. – Koncesija za obavljanje djelatnosti televiz
+ ije (ISTARSKA ŽUPANIJA\, LIČKO-SENJSKA ŽUPANIJA\, PRIMORSKO-GORANSKA Ž
+ UPANIJA)\, 730 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.ap
+ p/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (KANAL RI D. 
+ O. O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-71184298dcec666c@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20441013
+DTEND;VALUE=DATE:20441014
+SUMMARY:Ističe koncesija: RADIO KOPRIVNICA D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 13. 10. 2044. Godišnja fiksna nak
+ nada: 133 €.\n\n• RADIO KOPRIVNICA D.O.O. – Koncesija za obavljanje 
+ djelatnosti radija (KOPRIVNIČKO-KRIŽEVAČKA ŽUPANIJA)\, 133 €/god.\n\
+ nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar ko
+ ncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: RADIO KOPRIVNICA D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-71184298dcec666c@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20440413
+DTEND;VALUE=DATE:20440414
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (RADIO KOPRIVNICA
+  D.O.O.)
+DESCRIPTION:13. 10. 2044. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• RADIO KOPRIVNICA D.O.O. – Koncesija za obavljanje djelatnosti 
+ radija (KOPRIVNIČKO-KRIŽEVAČKA ŽUPANIJA)\, 133 €/god.\n\nŠto istič
+ e: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (RADIO KOPRIV
+ NICA D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-89af9dc336d5bd17@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20441031
+DTEND;VALUE=DATE:20441101
+SUMMARY:Ističe koncesija: EXTRA FM ZAGREB D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 31. 10. 2044. Godišnja fiksna nak
+ nada: 1.195 €.\n\n• EXTRA FM ZAGREB D.O.O. – Koncesija za obavljanje
+  djelatnosti radija (BRDOVEC\, GRAD ZAGREB\, GRAD ZAGREB\, RUGVICA\, RUGVI
+ CA\, STUPNIK\, STUPNIK\, SVETA NEDELJA\, SVETA NEDELJA\, VELIKA GORICA\, V
+ ELIKA GORICA\, ZAPREŠIĆ\, ZAPREŠIĆ\, Općina Brdovec)\, 1.195 €/god.
+ \n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar
+  koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: EXTRA FM ZAGREB D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-89af9dc336d5bd17@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20440430
+DTEND;VALUE=DATE:20440501
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (EXTRA FM ZAGREB 
+ D.O.O.)
+DESCRIPTION:31. 10. 2044. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• EXTRA FM ZAGREB D.O.O. – Koncesija za obavljanje djelatnosti r
+ adija (BRDOVEC\, GRAD ZAGREB\, GRAD ZAGREB\, RUGVICA\, RUGVICA\, STUPNIK\,
+  STUPNIK\, SVETA NEDELJA\, SVETA NEDELJA\, VELIKA GORICA\, VELIKA GORICA\,
+  ZAPREŠIĆ\, ZAPREŠIĆ\, Općina Brdovec)\, 1.195 €/god.\n\nŠto isti
+ če: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (EXTRA FM ZAG
+ REB D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-7839b0f19a096c9e@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20450429
+DTEND;VALUE=DATE:20450430
+SUMMARY:Ističe koncesija: NOVA TV D.D.
+DESCRIPTION:1 ugovor o koncesiji ističe 29. 4. 2045. Godišnja fiksna nakn
+ ada: 5.707 €.\n\n• NOVA TV D.D. – Koncesija za obavljanje djelatnost
+ i televizije (REPUBLIKA HRVATSKA)\, 5.707 €/god.\n\nŠto ističe: https:
+ //koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obra
+ da Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: NOVA TV D.D.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-7839b0f19a096c9e@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20441029
+DTEND;VALUE=DATE:20441030
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (NOVA TV D.D.)
+DESCRIPTION:29. 4. 2045. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• NOVA TV D.D. – Koncesija za obavljanje djelatnosti televizije (
+ REPUBLIKA HRVATSKA)\, 5.707 €/god.\n\nŠto ističe: https://koncesijski-
+ sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (NOVA TV D.D.
+ )
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-28e8bf5ce3a7d86f@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20450514
+DTEND;VALUE=DATE:20450515
+SUMMARY:Ističe koncesija: SVEUČILIŠTE U OSIJEKU\, FAKULTET ELEKTROTEHNIK
+ E\, RAČUNARSTVA I INFORMACIJSKIH TEHNOLOGIJA
+DESCRIPTION:1 ugovor o koncesiji ističe 14. 5. 2045. Godišnja fiksna nakn
+ ada: 66 €.\n\n• SVEUČILIŠTE U OSIJEKU\, FAKULTET ELEKTROTEHNIKE\, RA
+ ČUNARSTVA I INFORMACIJSKIH TEHNOLOGIJA – Koncesija za obavljanje djelat
+ nosti radija (OSIJEK\, Grad Osijek)\, 66 €/god.\n\nŠto ističe: https:/
+ /koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrad
+ a Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: SVEUČILIŠTE U OSIJEKU\, FAKULTET ELEKTROTE
+ HNIKE\, RAČUNARSTVA I INFORMACIJSKIH TEHNOLOGIJA
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-28e8bf5ce3a7d86f@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20441114
+DTEND;VALUE=DATE:20441115
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (SVEUČILIŠTE U 
+ OSIJEKU\, FAKULTET ELEKTROTEHNIKE\, RAČUNARSTVA I INFORMACIJSKIH TEHNOLOG
+ IJA)
+DESCRIPTION:14. 5. 2045. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• SVEUČILIŠTE U OSIJEKU\, FAKULTET ELEKTROTEHNIKE\, RAČUNARSTVA 
+ I INFORMACIJSKIH TEHNOLOGIJA – Koncesija za obavljanje djelatnosti radij
+ a (OSIJEK\, Grad Osijek)\, 66 €/god.\n\nŠto ističe: https://koncesijsk
+ i-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (SVEUČILIŠT
+ E U OSIJEKU\, FAKULTET ELEKTROTEHNIKE\, RAČUNARSTVA I INFORMACIJSKIH TEHN
+ OLOGIJA)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-cdd23ce12872a675@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20450519
+DTEND;VALUE=DATE:20450520
+SUMMARY:Ističe koncesija: SJEVER SJEVEROZAPAD D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 19. 5. 2045. Godišnja fiksna nakn
+ ada: 199 €.\n\n• SJEVER SJEVEROZAPAD D.O.O. – Koncesija za obavljanj
+ e djelatnosti televizije (BISTRA\, BRDOVEC\, JAKOVLJE\, LUKA\, MARIJA GORI
+ CA\, PUŠČA\, SAMOBOR\, SVETA NEDELJA\, ZAPREŠIĆ\, Općina Bistra)\, 19
+ 9 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor
+ : Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: SJEVER SJEVEROZAPAD D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-cdd23ce12872a675@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20441119
+DTEND;VALUE=DATE:20441120
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (SJEVER SJEVEROZA
+ PAD D.O.O.)
+DESCRIPTION:19. 5. 2045. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• SJEVER SJEVEROZAPAD D.O.O. – Koncesija za obavljanje djelatnost
+ i televizije (BISTRA\, BRDOVEC\, JAKOVLJE\, LUKA\, MARIJA GORICA\, PUŠČA
+ \, SAMOBOR\, SVETA NEDELJA\, ZAPREŠIĆ\, Općina Bistra)\, 199 €/god.\n
+ \nŠto ističe: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (SJEVER SJEVE
+ ROZAPAD D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-9e30265cde21cfa7@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20450617
+DTEND;VALUE=DATE:20450618
+SUMMARY:Ističe 2 koncesije · AGENCIJA ZA ELEKTRONIČKE MEDIJE
+DESCRIPTION:2 ugovora o koncesiji ističe 17. 6. 2045. Godišnja fiksna nak
+ nada: 3.318 €.\n\n• TVORNICA KULTURE D.O.O. – Koncesija za obavljanj
+ e djelatnosti radija (BJELOVARSKO-BILOGORSKA ŽUPANIJA\, GRAD ZAGREB\, KAR
+ LOVAČKA ŽUPANIJA\, KOPRIVNIČKO-KRIŽEVAČKA ŽUPANIJA\, KRAPINSKO-ZAGOR
+ SKA ŽUPANIJA\, MEĐIMURSKA ŽUPANIJA\, PRIMORSKO-GORANSKA ŽUPANIJA\, SIS
+ AČKO-MOSLAVAČKA ŽUPANIJA\, VARAŽDINSKA ŽUPANIJA\, ZAGREBAČKA ŽUPANI
+ JA)\, 2.654 €/god.\n• TVORNICA KULTURE D.O.O. – Koncesija za obavlja
+ nje djelatnosti radija (ISTARSKA ŽUPANIJA\, LIČKO-SENJSKA ŽUPANIJA\, PR
+ IMORSKO-GORANSKA ŽUPANIJA)\, 664 €/god.\n\nŠto ističe: https://konces
+ ijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Konce
+ sijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 2 koncesije · AGENCIJA ZA ELEKTRONIČKE MEDIJE
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-9e30265cde21cfa7@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20441217
+DTEND;VALUE=DATE:20441218
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · AGENCIJA ZA EL
+ EKTRONIČKE MEDIJE
+DESCRIPTION:17. 6. 2045. ističe 2 ugovora o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• TVORNICA KULTURE D.O.O. – Koncesija za obavljanje djelatnosti 
+ radija (BJELOVARSKO-BILOGORSKA ŽUPANIJA\, GRAD ZAGREB\, KARLOVAČKA ŽUPA
+ NIJA\, KOPRIVNIČKO-KRIŽEVAČKA ŽUPANIJA\, KRAPINSKO-ZAGORSKA ŽUPANIJA\
+ , MEĐIMURSKA ŽUPANIJA\, PRIMORSKO-GORANSKA ŽUPANIJA\, SISAČKO-MOSLAVA
+ ČKA ŽUPANIJA\, VARAŽDINSKA ŽUPANIJA\, ZAGREBAČKA ŽUPANIJA)\, 2.654 
+ €/god.\n• TVORNICA KULTURE D.O.O. – Koncesija za obavljanje djelatno
+ sti radija (ISTARSKA ŽUPANIJA\, LIČKO-SENJSKA ŽUPANIJA\, PRIMORSKO-GORA
+ NSKA ŽUPANIJA)\, 664 €/god.\n\nŠto ističe: https://koncesijski-sat.ve
+ rcel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije · AGENCIJA Z
+ A ELEKTRONIČKE MEDIJE
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-c5b135354a4ee1d9@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20450810
+DTEND;VALUE=DATE:20450811
+SUMMARY:Ističe koncesija: UDRUGA RADIO MARIJA
+DESCRIPTION:1 ugovor o koncesiji ističe 10. 8. 2045. Godišnja fiksna nakn
+ ada: 66 €.\n\n• UDRUGA RADIO MARIJA – Koncesija za obavljanje djelat
+ nosti radija (NAŠICE\, ĐURĐENOVAC\, Grad Našice)\, 66 €/god.\n\nŠto
+  ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesi
+ ja (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: UDRUGA RADIO MARIJA
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-c5b135354a4ee1d9@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20450210
+DTEND;VALUE=DATE:20450211
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (UDRUGA RADIO MAR
+ IJA)
+DESCRIPTION:10. 8. 2045. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• UDRUGA RADIO MARIJA – Koncesija za obavljanje djelatnosti radij
+ a (NAŠICE\, ĐURĐENOVAC\, Grad Našice)\, 66 €/god.\n\nŠto ističe: h
+ ttps://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (UDRUGA RADIO
+  MARIJA)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-90f66b05b97db8f2@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20451013
+DTEND;VALUE=DATE:20451014
+SUMMARY:Ističe koncesija: OTVORENA TELEVIZIJA ZAGREB D.D.
+DESCRIPTION:1 ugovor o koncesiji ističe 13. 10. 2045. Godišnja fiksna nak
+ nada: 1.991 €.\n\n• OTVORENA TELEVIZIJA ZAGREB D.D. – Koncesija za o
+ bavljanje djelatnosti televizije (GRAD ZAGREB\, KARLOVAČKA ŽUPANIJA\, KR
+ APINSKO-ZAGORSKA ŽUPANIJA\, SISAČKO-MOSLAVAČKA ŽUPANIJA\, ZAGREBAČKA 
+ ŽUPANIJA\, Grad Zagreb)\, 1.991 €/god.\n\nŠto ističe: https://koncesi
+ jski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Konces
+ ijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: OTVORENA TELEVIZIJA ZAGREB D.D.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-90f66b05b97db8f2@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20450413
+DTEND;VALUE=DATE:20450414
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (OTVORENA TELEVIZ
+ IJA ZAGREB D.D.)
+DESCRIPTION:13. 10. 2045. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• OTVORENA TELEVIZIJA ZAGREB D.D. – Koncesija za obavljanje djel
+ atnosti televizije (GRAD ZAGREB\, KARLOVAČKA ŽUPANIJA\, KRAPINSKO-ZAGORS
+ KA ŽUPANIJA\, SISAČKO-MOSLAVAČKA ŽUPANIJA\, ZAGREBAČKA ŽUPANIJA\, Gr
+ ad Zagreb)\, 1.991 €/god.\n\nŠto ističe: https://koncesijski-sat.verce
+ l.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (OTVORENA TEL
+ EVIZIJA ZAGREB D.D.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-00cac3700d5e21f5@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20451017
+DTEND;VALUE=DATE:20451018
+SUMMARY:Ističe koncesija: ANTENA ZAGREB D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 17. 10. 2045. Godišnja fiksna nak
+ nada: 1.858 €.\n\n• ANTENA ZAGREB D.O.O. – Koncesija za obavljanje d
+ jelatnosti radija (GRAD ZAGREB\, ZAGREBAČKA ŽUPANIJA\, ZAGREBAČKA ŽUPA
+ NIJA\, Grad Zagreb)\, 1.858 €/god.\n\nŠto ističe: https://koncesijski-
+ sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski
+  sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: ANTENA ZAGREB D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-00cac3700d5e21f5@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20450417
+DTEND;VALUE=DATE:20450418
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ANTENA ZAGREB D.
+ O.O.)
+DESCRIPTION:17. 10. 2045. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• ANTENA ZAGREB D.O.O. – Koncesija za obavljanje djelatnosti rad
+ ija (GRAD ZAGREB\, ZAGREBAČKA ŽUPANIJA\, ZAGREBAČKA ŽUPANIJA\, Grad Za
+ greb)\, 1.858 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app
+ /#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ANTENA ZAGRE
+ B D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-e2a0d3a4428f06fc@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20451130
+DTEND;VALUE=DATE:20451201
+SUMMARY:Ističe 3 koncesije · AGENCIJA ZA ELEKTRONIČKE MEDIJE
+DESCRIPTION:3 ugovora o koncesiji ističe 30. 11. 2045. Godišnja fiksna na
+ knada: 198 €.\n\n• RADIO HRVATSKO ZAGORJE - KRAPINA D.O.O. – Koncesi
+ ja za obavljanje djelatnosti radija (HUM NA SUTLI\, KLANJEC\, KRAPINA\, KR
+ APINSKE TOPLICE\, MIHOVLJAN\, PETROVSKO\, PREGRADA\, RADOBOJ\, SVETI KRIŽ
+  ZAČRETJE\, TUHELJ\, Općina Hum na Sutli)\, 66 €/god.\n• HRVATSKI RA
+ DIO ŽUPANJA D.O.O. – Koncesija za obavljanje djelatnosti radija (BABINA
+  GREDA\, BOŠNJACI\, DRENOVCI\, GRADIŠTE\, GUNJA\, VRBANJA\, ŠTITAR\, Ž
+ UPANJA\, Općina Babina Greda)\, 66 €/god.\n• CENTAR ZA KULTURU I INFO
+ RMIRANJE DRAGUTIN NOVAK LUDBREG – Koncesija za obavljanje djelatnosti ra
+ dija (LUDBREG\, Grad Ludbreg)\, 66 €/god.\n\nŠto ističe: https://konce
+ sijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Konc
+ esijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 3 koncesije · AGENCIJA ZA ELEKTRONIČKE MEDIJE
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-e2a0d3a4428f06fc@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20450530
+DTEND;VALUE=DATE:20450531
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · AGENCIJA ZA EL
+ EKTRONIČKE MEDIJE
+DESCRIPTION:30. 11. 2045. ističe 3 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• RADIO HRVATSKO ZAGORJE - KRAPINA D.O.O. – Koncesija za obavlj
+ anje djelatnosti radija (HUM NA SUTLI\, KLANJEC\, KRAPINA\, KRAPINSKE TOPL
+ ICE\, MIHOVLJAN\, PETROVSKO\, PREGRADA\, RADOBOJ\, SVETI KRIŽ ZAČRETJE\,
+  TUHELJ\, Općina Hum na Sutli)\, 66 €/god.\n• HRVATSKI RADIO ŽUPANJA
+  D.O.O. – Koncesija za obavljanje djelatnosti radija (BABINA GREDA\, BO
+ ŠNJACI\, DRENOVCI\, GRADIŠTE\, GUNJA\, VRBANJA\, ŠTITAR\, ŽUPANJA\, Op
+ ćina Babina Greda)\, 66 €/god.\n• CENTAR ZA KULTURU I INFORMIRANJE DR
+ AGUTIN NOVAK LUDBREG – Koncesija za obavljanje djelatnosti radija (LUDBR
+ EG\, Grad Ludbreg)\, 66 €/god.\n\nŠto ističe: https://koncesijski-sat.
+ vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · AGENCIJA Z
+ A ELEKTRONIČKE MEDIJE
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-67ca60e1a7160fac@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20451218
+DTEND;VALUE=DATE:20451219
+SUMMARY:Ističe koncesija: UDRUGA RADIO MARIJA
+DESCRIPTION:1 ugovor o koncesiji ističe 18. 12. 2045. Godišnja fiksna nak
+ nada: 133 €.\n\n• UDRUGA RADIO MARIJA – Koncesija za obavljanje djel
+ atnosti radija (LOVRAN\, MATULJI\, OPATIJA\, RIJEKA\, VIŠKOVO\, Općina L
+ ovran)\, 133 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/
+ #sat\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 202
+ 6.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: UDRUGA RADIO MARIJA
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-67ca60e1a7160fac@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20450618
+DTEND;VALUE=DATE:20450619
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (UDRUGA RADIO MAR
+ IJA)
+DESCRIPTION:18. 12. 2045. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• UDRUGA RADIO MARIJA – Koncesija za obavljanje djelatnosti radi
+ ja (LOVRAN\, MATULJI\, OPATIJA\, RIJEKA\, VIŠKOVO\, Općina Lovran)\, 133
+  €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (UDRUGA RADIO
+  MARIJA)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-0fc4daa209c43b05@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20451231
+DTEND;VALUE=DATE:20460101
+SUMMARY:Ističe 25 koncesija · AGENCIJA ZA ELEKTRONIČKE MEDIJE
+DESCRIPTION:25 ugovora o koncesiji ističe 31. 12. 2045. Godišnja fiksna n
+ aknada: 1.650 €.\n\n• RADIO DONJI MIHOLJAC D.O.O. – Koncesija za oba
+ vljanje djelatnosti radija (DONJI MIHOLJAC\, Grad Donji Miholjac)\, 66 €
+ /god.\n• RADIO SENJ D.O.O. – Koncesija za obavljanje djelatnosti radij
+ a (SENJ\, Grad Senj)\, 66 €/god.\n• RADIO STAR TV D.O.O. – Koncesija
+  za obavljanje djelatnosti radija (BRTONIGLA - VERTENEGLIO\, BUJE - BUIE\,
+  NOVIGRAD\, UMAG - UMAGO\, Općina Brtonigla)\, 66 €/god.\n• RADIO VRB
+ OVEC D.O.O. – Koncesija za obavljanje djelatnosti radija (VRBOVEC\, Grad
+  Vrbovec)\, 66 €/god.\n• CROATA\, D.O.O. – Koncesija za obavljanje d
+ jelatnosti radija (BIOGRAD NA MORU\, PAKOŠTANE\, PAŠMAN\, SVETI FILIP I 
+ JAKOV\, TKON\, Grad Biograd na Moru)\, 66 €/god.\n• RADIO KRIŽEVCI D.
+ O.O. – Koncesija za obavljanje djelatnosti radija (KRIŽEVCI\, Grad Kri
+ ževci)\, 66 €/god.\n• RADIO OGULIN D.O.O. – Koncesija za obavljanje
+  djelatnosti radija (JOSIPDOL\, OGULIN\, PLAŠKI\, Općina Josipdol)\, 66 
+ €/god.\n• RADIO NOVI MAROF D.O.O. – Koncesija za obavljanje djelatno
+ sti radija (NOVI MAROF\, Grad Novi Marof)\, 66 €/god.\n• RADIO ĐAKOVO
+  D.O.O. – Koncesija za obavljanje djelatnosti radija (DRENJE\, GORJANI\,
+  PODGORAČ\, PUNITOVCI\, SATNICA ĐAKOVAČKA\, VIŠKOVCI\, ĐAKOVO\, Opći
+ na Drenje)\, 66 €/god.\n• RADIO JASKA D.O.O. – Koncesija za obavljan
+ je djelatnosti radija (JASTREBARSKO\, Grad Jastrebarsko)\, 66 €/god.\n
+ • MEGAMIX D.O.O. – Koncesija za obavljanje djelatnosti radija (HVAR\, 
+ Grad Hvar)\, 66 €/god.\n• RADIO GRUBIŠNO POLJE D.O.O. – Koncesija z
+ a obavljanje djelatnosti radija (GRUBIŠNO POLJE\, Grad Grubišno Polje)\,
+  66 €/god.\n• RADIO-DARUVAR D.O.O. – Koncesija za obavljanje djelatn
+ osti radija (DARUVAR\, PAKRAC\, SIRAČ\, Grad Daruvar)\, 66 €/god.\n• 
+ MOSLAVAČKI LIST D.O.O. – Koncesija za obavljanje djelatnosti radija (KU
+ TINA\, POPOVAČA\, Grad Kutina)\, 66 €/god.\n• RADIO SV.I.ZELINA D.O.O
+ . – Koncesija za obavljanje djelatnosti radija (SVETI IVAN ZELINA\, Grad
+  Sveti Ivan Zelina)\, 66 €/god.\n• RADIO POSTAJA DRNIŠ D.O.O. – Kon
+ cesija za obavljanje djelatnosti radija (DRNIŠ\, Grad Drniš)\, 66 €/go
+ d.\n• RADIO BARANJA D.O.O. – Koncesija za obavljanje djelatnosti radij
+ a (BELI MANASTIR\, BILJE\, DARDA\, JAGODNJAK\, KNEŽEVI VINOGRADI\, PETLOV
+ AC\, PETRIJEVCI\, POPOVAC\, ČEMINAC\, Grad Beli Manastir)\, 66 €/god.\n
+ • PODRAVSKI RADIO D.O.O. – Koncesija za obavljanje djelatnosti radija 
+ (ĐURĐEVAC\, Grad Đurđevac)\, 66 €/god.\n• RADIO NAŠICE D.O.O. –
+  Koncesija za obavljanje djelatnosti radija (NAŠICE\, Grad Našice)\, 66 
+ €/god.\n• RADIO MAKARSKA RIVIJERA D.O.O. – Koncesija za obavljanje d
+ jelatnosti radija (BAŠKA VODA\, MAKARSKA\, PODGORA\, TUČEPI\, Općina Ba
+ ška Voda)\, 66 €/god.\n• RADIO ZLATAR\, D.O.O. – Koncesija za obavl
+ janje djelatnosti radija (ZLATAR\, Grad Zlatar)\, 66 €/god.\n• RADIO S
+ FM J.D.O.O. – Koncesija za obavljanje djelatnosti radija (IVANEC\, Grad 
+ Ivanec)\, 66 €/god.\n• KRUGOVAL 93\,1 MHZ GAREŠNICA D.O.O. – Konces
+ ija za obavljanje djelatnosti radija (GAREŠNICA\, Grad Garešnica)\, 66 
+ €/god.\n• OBITELJSKI RADIO IVANIĆ D.O.O. – Koncesija za obavljanje 
+ djelatnosti radija (IVANIĆ GRAD\, Grad Ivanić Grad)\, 66 €/god.\n• R
+ ADIO CENTAR-STUDIO POREČ D.O.O. – Koncesija za obavljanje djelatnosti r
+ adija (FUNTANA - FONTANE\, KAŠTELIR - LABINCI - CASTELLIERE-S.DOMENICA\, 
+ POREČ - PARENZO\, SVETI LOVREČ\, TAR-VABRIGA - TORRE - ABREGA\, VIŠNJAN
+  - VISIGNANO\, VRSAR - ORSERA\, Općina Funtana)\, 66 €/god.\n\nŠto ist
+ iče: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (
+ FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 25 koncesija · AGENCIJA ZA ELEKTRONIČKE MEDIJE
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-0fc4daa209c43b05@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20450630
+DTEND;VALUE=DATE:20450701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 25 koncesija · AGENCIJA ZA E
+ LEKTRONIČKE MEDIJE
+DESCRIPTION:31. 12. 2045. ističe 25 ugovora o koncesiji. Novi postupak dod
+ jele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugov
+ ora.\n\n• RADIO DONJI MIHOLJAC D.O.O. – Koncesija za obavljanje djelat
+ nosti radija (DONJI MIHOLJAC\, Grad Donji Miholjac)\, 66 €/god.\n• RAD
+ IO SENJ D.O.O. – Koncesija za obavljanje djelatnosti radija (SENJ\, Grad
+  Senj)\, 66 €/god.\n• RADIO STAR TV D.O.O. – Koncesija za obavljanje
+  djelatnosti radija (BRTONIGLA - VERTENEGLIO\, BUJE - BUIE\, NOVIGRAD\, UM
+ AG - UMAGO\, Općina Brtonigla)\, 66 €/god.\n• RADIO VRBOVEC D.O.O. 
+ – Koncesija za obavljanje djelatnosti radija (VRBOVEC\, Grad Vrbovec)\, 
+ 66 €/god.\n• CROATA\, D.O.O. – Koncesija za obavljanje djelatnosti r
+ adija (BIOGRAD NA MORU\, PAKOŠTANE\, PAŠMAN\, SVETI FILIP I JAKOV\, TKON
+ \, Grad Biograd na Moru)\, 66 €/god.\n• RADIO KRIŽEVCI D.O.O. – Kon
+ cesija za obavljanje djelatnosti radija (KRIŽEVCI\, Grad Križevci)\, 66 
+ €/god.\n• RADIO OGULIN D.O.O. – Koncesija za obavljanje djelatnosti 
+ radija (JOSIPDOL\, OGULIN\, PLAŠKI\, Općina Josipdol)\, 66 €/god.\n•
+  RADIO NOVI MAROF D.O.O. – Koncesija za obavljanje djelatnosti radija (N
+ OVI MAROF\, Grad Novi Marof)\, 66 €/god.\n• RADIO ĐAKOVO D.O.O. – K
+ oncesija za obavljanje djelatnosti radija (DRENJE\, GORJANI\, PODGORAČ\, 
+ PUNITOVCI\, SATNICA ĐAKOVAČKA\, VIŠKOVCI\, ĐAKOVO\, Općina Drenje)\, 
+ 66 €/god.\n• RADIO JASKA D.O.O. – Koncesija za obavljanje djelatnost
+ i radija (JASTREBARSKO\, Grad Jastrebarsko)\, 66 €/god.\n• MEGAMIX D.O
+ .O. – Koncesija za obavljanje djelatnosti radija (HVAR\, Grad Hvar)\, 66
+  €/god.\n• RADIO GRUBIŠNO POLJE D.O.O. – Koncesija za obavljanje dj
+ elatnosti radija (GRUBIŠNO POLJE\, Grad Grubišno Polje)\, 66 €/god.\n
+ • RADIO-DARUVAR D.O.O. – Koncesija za obavljanje djelatnosti radija (D
+ ARUVAR\, PAKRAC\, SIRAČ\, Grad Daruvar)\, 66 €/god.\n• MOSLAVAČKI LI
+ ST D.O.O. – Koncesija za obavljanje djelatnosti radija (KUTINA\, POPOVA
+ ČA\, Grad Kutina)\, 66 €/god.\n• RADIO SV.I.ZELINA D.O.O. – Koncesi
+ ja za obavljanje djelatnosti radija (SVETI IVAN ZELINA\, Grad Sveti Ivan Z
+ elina)\, 66 €/god.\n• RADIO POSTAJA DRNIŠ D.O.O. – Koncesija za oba
+ vljanje djelatnosti radija (DRNIŠ\, Grad Drniš)\, 66 €/god.\n• RADIO
+  BARANJA D.O.O. – Koncesija za obavljanje djelatnosti radija (BELI MANAS
+ TIR\, BILJE\, DARDA\, JAGODNJAK\, KNEŽEVI VINOGRADI\, PETLOVAC\, PETRIJEV
+ CI\, POPOVAC\, ČEMINAC\, Grad Beli Manastir)\, 66 €/god.\n• PODRAVSKI
+  RADIO D.O.O. – Koncesija za obavljanje djelatnosti radija (ĐURĐEVAC\,
+  Grad Đurđevac)\, 66 €/god.\n• RADIO NAŠICE D.O.O. – Koncesija za
+  obavljanje djelatnosti radija (NAŠICE\, Grad Našice)\, 66 €/god.\n•
+  RADIO MAKARSKA RIVIJERA D.O.O. – Koncesija za obavljanje djelatnosti ra
+ dija (BAŠKA VODA\, MAKARSKA\, PODGORA\, TUČEPI\, Općina Baška Voda)\, 
+ 66 €/god.\n• RADIO ZLATAR\, D.O.O. – Koncesija za obavljanje djelatn
+ osti radija (ZLATAR\, Grad Zlatar)\, 66 €/god.\n• RADIO SFM J.D.O.O. 
+ – Koncesija za obavljanje djelatnosti radija (IVANEC\, Grad Ivanec)\, 66
+  €/god.\n• KRUGOVAL 93\,1 MHZ GAREŠNICA D.O.O. – Koncesija za obavl
+ janje djelatnosti radija (GAREŠNICA\, Grad Garešnica)\, 66 €/god.\n•
+  OBITELJSKI RADIO IVANIĆ D.O.O. – Koncesija za obavljanje djelatnosti r
+ adija (IVANIĆ GRAD\, Grad Ivanić Grad)\, 66 €/god.\n• RADIO CENTAR-S
+ TUDIO POREČ D.O.O. – Koncesija za obavljanje djelatnosti radija (FUNTAN
+ A - FONTANE\, KAŠTELIR - LABINCI - CASTELLIERE-S.DOMENICA\, POREČ - PARE
+ NZO\, SVETI LOVREČ\, TAR-VABRIGA - TORRE - ABREGA\, VIŠNJAN - VISIGNANO\
+ , VRSAR - ORSERA\, Općina Funtana)\, 66 €/god.\n\nŠto ističe: https:/
+ /koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 25 koncesija · AGENCIJA 
+ ZA ELEKTRONIČKE MEDIJE
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-56478a0916f2db6d@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20460102
+DTEND;VALUE=DATE:20460103
+SUMMARY:Ističe 2 koncesije · AGENCIJA ZA ELEKTRONIČKE MEDIJE
+DESCRIPTION:2 ugovora o koncesiji ističe 2. 1. 2046. Godišnja fiksna nakn
+ ada: 11.414 €.\n\n• NOVA TV D.D. – Koncesija za obavljanje djelatnos
+ ti televizije (REPUBLIKA HRVATSKA)\, 5.707 €/god.\n• RTL HRVATSKA D.O.
+ O. – Koncesija za obavljanje djelatnosti televizije (REPUBLIKA HRVATSKA)
+ \, 5.707 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
+ \nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 2 koncesije · AGENCIJA ZA ELEKTRONIČKE MEDIJE
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-56478a0916f2db6d@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20450702
+DTEND;VALUE=DATE:20450703
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · AGENCIJA ZA EL
+ EKTRONIČKE MEDIJE
+DESCRIPTION:2. 1. 2046. ističe 2 ugovora o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• NOVA TV D.D. – Koncesija za obavljanje djelatnosti televizije (
+ REPUBLIKA HRVATSKA)\, 5.707 €/god.\n• RTL HRVATSKA D.O.O. – Koncesij
+ a za obavljanje djelatnosti televizije (REPUBLIKA HRVATSKA)\, 5.707 €/go
+ d.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije · AGENCIJA Z
+ A ELEKTRONIČKE MEDIJE
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-3e75f7afa9645ac7@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20460228
+DTEND;VALUE=DATE:20460301
+SUMMARY:Ističe koncesija: NOVI RADIO D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 28. 2. 2046. Godišnja fiksna nakn
+ ada: 66 €.\n\n• NOVI RADIO D.O.O. – Koncesija za obavljanje djelatno
+ sti radija (DRENJE\, GORJANI\, KOŠKA\, PODGORAČ\, PUNITOVCI\, SATNICA Đ
+ AKOVAČKA\, VIŠKOVCI\, VUKA\, ĐAKOVO\, Općina Drenje)\, 66 €/god.\n\n
+ Što ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar kon
+ cesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: NOVI RADIO D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-3e75f7afa9645ac7@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20450828
+DTEND;VALUE=DATE:20450829
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (NOVI RADIO D.O.O
+ .)
+DESCRIPTION:28. 2. 2046. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• NOVI RADIO D.O.O. – Koncesija za obavljanje djelatnosti radija 
+ (DRENJE\, GORJANI\, KOŠKA\, PODGORAČ\, PUNITOVCI\, SATNICA ĐAKOVAČKA\,
+  VIŠKOVCI\, VUKA\, ĐAKOVO\, Općina Drenje)\, 66 €/god.\n\nŠto istič
+ e: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (NOVI RADIO D
+ .O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-6615d1ea268de9eb@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20460329
+DTEND;VALUE=DATE:20460330
+SUMMARY:Ističe koncesija: KULTURNO INFORMATIVNI CENTAR GOSPIĆ
+DESCRIPTION:1 ugovor o koncesiji ističe 29. 3. 2046. Godišnja fiksna nakn
+ ada: 66 €.\n\n• KULTURNO INFORMATIVNI CENTAR GOSPIĆ – Koncesija za 
+ obavljanje djelatnosti radija (LIČKO-SENJSKA ŽUPANIJA)\, 66 €/god.\n\n
+ Što ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar kon
+ cesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: KULTURNO INFORMATIVNI CENTAR GOSPIĆ
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-6615d1ea268de9eb@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20450929
+DTEND;VALUE=DATE:20450930
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (KULTURNO INFORMA
+ TIVNI CENTAR GOSPIĆ)
+DESCRIPTION:29. 3. 2046. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• KULTURNO INFORMATIVNI CENTAR GOSPIĆ – Koncesija za obavljanje 
+ djelatnosti radija (LIČKO-SENJSKA ŽUPANIJA)\, 66 €/god.\n\nŠto istič
+ e: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (KULTURNO INF
+ ORMATIVNI CENTAR GOSPIĆ)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-c026f80516c3f5ca@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20460401
+DTEND;VALUE=DATE:20460402
+SUMMARY:Ističe 2 koncesije · AGENCIJA ZA ELEKTRONIČKE MEDIJE
+DESCRIPTION:2 ugovora o koncesiji ističe 1. 4. 2046. Godišnja fiksna nakn
+ ada: 11.414 €.\n\n• AUTOR D.O.O. – Koncesija za obavljanje djelatnos
+ ti televizije (REPUBLIKA HRVATSKA)\, 5.707 €/god.\n• HOO TV D.O.O. –
+  Koncesija za obavljanje djelatnosti televizije (REPUBLIKA HRVATSKA)\, 5.7
+ 07 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzvo
+ r: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 2 koncesije · AGENCIJA ZA ELEKTRONIČKE MEDIJE
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-c026f80516c3f5ca@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20451001
+DTEND;VALUE=DATE:20451002
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · AGENCIJA ZA EL
+ EKTRONIČKE MEDIJE
+DESCRIPTION:1. 4. 2046. ističe 2 ugovora o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• AUTOR D.O.O. – Koncesija za obavljanje djelatnosti televizije (
+ REPUBLIKA HRVATSKA)\, 5.707 €/god.\n• HOO TV D.O.O. – Koncesija za o
+ bavljanje djelatnosti televizije (REPUBLIKA HRVATSKA)\, 5.707 €/god.\n\n
+ Što ističe: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije · AGENCIJA Z
+ A ELEKTRONIČKE MEDIJE
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-a57175065d26c46b@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20460831
+DTEND;VALUE=DATE:20460901
+SUMMARY:Ističe koncesija: SLATINSKI INFORMATIVNI CENTAR D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 31. 8. 2046. Godišnja fiksna nakn
+ ada: 66 €.\n\n• SLATINSKI INFORMATIVNI CENTAR D.O.O. – Koncesija za 
+ obavljanje djelatnosti radija (SLATINA\, Grad Slatina)\, 66 €/god.\n\nŠ
+ to ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar konce
+ sija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: SLATINSKI INFORMATIVNI CENTAR D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-a57175065d26c46b@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20460228
+DTEND;VALUE=DATE:20460301
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (SLATINSKI INFORM
+ ATIVNI CENTAR D.O.O.)
+DESCRIPTION:31. 8. 2046. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• SLATINSKI INFORMATIVNI CENTAR D.O.O. – Koncesija za obavljanje 
+ djelatnosti radija (SLATINA\, Grad Slatina)\, 66 €/god.\n\nŠto ističe:
+  https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (SLATINSKI IN
+ FORMATIVNI CENTAR D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-9cc51b27c25b6a7d@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20461025
+DTEND;VALUE=DATE:20461026
+SUMMARY:Ističe koncesija: BRAVO CBC D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 25. 10. 2046. Godišnja fiksna nak
+ nada: 5.707 €.\n\n• BRAVO CBC D.O.O. – Koncesija za obavljanje djela
+ tnosti radija (REPUBLIKA HRVATSKA)\, 5.707 €/god.\n\nŠto ističe: https
+ ://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obr
+ ada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: BRAVO CBC D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-9cc51b27c25b6a7d@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20460425
+DTEND;VALUE=DATE:20460426
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BRAVO CBC D.O.O.
+ )
+DESCRIPTION:25. 10. 2046. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• BRAVO CBC D.O.O. – Koncesija za obavljanje djelatnosti radija 
+ (REPUBLIKA HRVATSKA)\, 5.707 €/god.\n\nŠto ističe: https://koncesijski
+ -sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BRAVO CBC D.
+ O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-f8869582bc4f401a@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20461101
+DTEND;VALUE=DATE:20461102
+SUMMARY:Ističe 2 koncesije · AGENCIJA ZA ELEKTRONIČKE MEDIJE
+DESCRIPTION:2 ugovora o koncesiji ističe 1. 11. 2046. Godišnja fiksna nak
+ nada: 1.394 €.\n\n• EXTRA FM ZAGREB D.O.O. – Koncesija za obavljanje
+  djelatnosti radija (DUBROVAČKO-NERETVANSKA ŽUPANIJA\, SPLITSKO-DALMATIN
+ SKA ŽUPANIJA)\, 730 €/god.\n• EXTRA FM ZAGREB D.O.O. – Koncesija za
+  obavljanje djelatnosti radija (ISTARSKA ŽUPANIJA\, LIČKO-SENJSKA ŽUPAN
+ IJA\, PRIMORSKO-GORANSKA ŽUPANIJA)\, 664 €/god.\n\nŠto ističe: https:
+ //koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obra
+ da Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 2 koncesije · AGENCIJA ZA ELEKTRONIČKE MEDIJE
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-f8869582bc4f401a@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20460501
+DTEND;VALUE=DATE:20460502
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · AGENCIJA ZA EL
+ EKTRONIČKE MEDIJE
+DESCRIPTION:1. 11. 2046. ističe 2 ugovora o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• EXTRA FM ZAGREB D.O.O. – Koncesija za obavljanje djelatnosti r
+ adija (DUBROVAČKO-NERETVANSKA ŽUPANIJA\, SPLITSKO-DALMATINSKA ŽUPANIJA)
+ \, 730 €/god.\n• EXTRA FM ZAGREB D.O.O. – Koncesija za obavljanje dj
+ elatnosti radija (ISTARSKA ŽUPANIJA\, LIČKO-SENJSKA ŽUPANIJA\, PRIMORSK
+ O-GORANSKA ŽUPANIJA)\, 664 €/god.\n\nŠto ističe: https://koncesijski-
+ sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije · AGENCIJA Z
+ A ELEKTRONIČKE MEDIJE
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-f467832551664e09@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20461115
+DTEND;VALUE=DATE:20461116
+SUMMARY:Ističe koncesija: ANTENA ZAGREB D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 15. 11. 2046. Godišnja fiksna nak
+ nada: 664 €.\n\n• ANTENA ZAGREB D.O.O. – Koncesija za obavljanje dje
+ latnosti radija (ISTARSKA ŽUPANIJA\, LIČKO-SENJSKA ŽUPANIJA\, PRIMORSKO
+ -GORANSKA ŽUPANIJA)\, 664 €/god.\n\nŠto ističe: https://koncesijski-s
+ at.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski 
+ sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: ANTENA ZAGREB D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-f467832551664e09@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20460515
+DTEND;VALUE=DATE:20460516
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ANTENA ZAGREB D.
+ O.O.)
+DESCRIPTION:15. 11. 2046. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• ANTENA ZAGREB D.O.O. – Koncesija za obavljanje djelatnosti rad
+ ija (ISTARSKA ŽUPANIJA\, LIČKO-SENJSKA ŽUPANIJA\, PRIMORSKO-GORANSKA Ž
+ UPANIJA)\, 664 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.ap
+ p/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ANTENA ZAGRE
+ B D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

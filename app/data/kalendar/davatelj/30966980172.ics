@@ -1,0 +1,91 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · OPĆINA  VELIKA
+X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje OPĆINA  VELIKA. Iz Regist
+ ra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podata
+ ka. https://koncesijski-sat.vercel.app/#sat
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-610bbf2a685d85d9@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20360922
+DTEND;VALUE=DATE:20360923
+SUMMARY:Ističe koncesija: KUTJEVO  D.D.
+DESCRIPTION:1 ugovor o koncesiji ističe 22. 9. 2036. Godišnja fiksna nakn
+ ada: 10.618 €.\n\n• KUTJEVO  D.D. – Koncesija za korištenje poljopr
+ ivrednog zemljišta u vlasništvu države (VELIKA\, Općina Velika)\, 10.6
+ 18 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzvo
+ r: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: KUTJEVO  D.D.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-610bbf2a685d85d9@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20360322
+DTEND;VALUE=DATE:20360323
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (KUTJEVO  D.D.)
+DESCRIPTION:22. 9. 2036. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• KUTJEVO  D.D. – Koncesija za korištenje poljoprivrednog zemlji
+ šta u vlasništvu države (VELIKA\, Općina Velika)\, 10.618 €/god.\n\n
+ Što ističe: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (KUTJEVO  D.D
+ .)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-0ee775388ec1c36a@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20460901
+DTEND;VALUE=DATE:20460902
+SUMMARY:Ističe koncesija: KUTJEVO  D.D.
+DESCRIPTION:1 ugovor o koncesiji ističe 1. 9. 2046. Godišnja fiksna nakna
+ da: 11.158 €.\n\n• KUTJEVO  D.D. – Koncesija za korištenje poljopri
+ vrednog zemljišta u vlasništvu države (VELIKA\, Općina Velika)\, 11.15
+ 8 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor
+ : Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: KUTJEVO  D.D.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-0ee775388ec1c36a@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20460301
+DTEND;VALUE=DATE:20460302
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (KUTJEVO  D.D.)
+DESCRIPTION:1. 9. 2046. ističe 1 ugovor o koncesiji. Novi postupak dodjele
+  treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
+ \n\n• KUTJEVO  D.D. – Koncesija za korištenje poljoprivrednog zemlji
+ šta u vlasništvu države (VELIKA\, Općina Velika)\, 11.158 €/god.\n\n
+ Što ističe: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (KUTJEVO  D.D
+ .)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -4,23 +4,25 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Grad Koprivnica
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Grad Koprivnica. Iz Regi
- stra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade poda
- taka. https://koncesijski-sat.vercel.app/#opcina/41942358B2418052653219
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Grad Koprivnica (pregled
+ \, svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježava 
+ se nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#opcina
+ /41942358B2418052653219
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-77722cb06e7117e0@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-9e670617374b280e@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20271112
 DTEND;VALUE=DATE:20271113
 SUMMARY:Ističe koncesija: RADIO DRAVA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 12. 11. 2027. Godišnja fiksna nak
  nada: 66 €.\n\n• RADIO DRAVA D.O.O. – Koncesija za obavljanje djelat
- nosti radija (KOPRIVNICA)\, 66 €/god.\n\nProfil općine: https://koncesi
- jski-sat.vercel.app/#opcina/41942358B2418052653219\nIzvor: Registar konces
- ija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ nosti radija (KOPRIVNICA) · davatelj: AGENCIJA ZA ELEKTRONIČKE MEDIJE\, 
+ 66 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/
+ 41942358B2418052653219\nIzvor: Registar koncesija (FINA)\, obrada Koncesij
+ ski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B2418052653219
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -30,8 +32,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-77722cb06e7117e0@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-9e670617374b280e@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270512
 DTEND;VALUE=DATE:20270513
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (RADIO DRAVA D.O.
@@ -39,8 +41,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (RADIO DRAVA D.O.
 DESCRIPTION:12. 11. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• RADIO DRAVA D.O.O. – Koncesija za obavljanje djelatnosti radij
- a (KOPRIVNICA)\, 66 €/god.\n\nProfil općine: https://koncesijski-sat.ve
- rcel.app/#opcina/41942358B2418052653219
+ a (KOPRIVNICA) · davatelj: AGENCIJA ZA ELEKTRONIČKE MEDIJE\, 66 €/god.
+ \n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B24
+ 18052653219
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B2418052653219
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -51,23 +54,26 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-ca47846897746944@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-17ca8e2a6b342063@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20291231
 DTEND;VALUE=DATE:20300101
 SUMMARY:Ističe 5 koncesija · Koprivnica
 DESCRIPTION:5 ugovora o koncesiji ističe 31. 12. 2029. Godišnja fiksna na
  knada: 2.093 €.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauze
- tu površinu odobrenog eksploatacijskog polja (KOPRIVNICA)\, 1.329 €/god
- .\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauzetu površinu odobr
- enog eksploatacijskog polja (KOPRIVNICA)\, 382 €/god.\n• INA-INDUSTRIJ
- A NAFTE  D.D. – Dozvola za eksploataciju ugljikovodika (prema Zakonu o u
- gljikovodicima) (KOPRIVNICA)\, 382 €/god.\n• INA-INDUSTRIJA NAFTE  D.D
- . – Dozvola za eksploataciju ugljikovodika (prema Zakonu o ugljikovodici
- ma) (KOPRIVNICA)\n• INA D.D. – Dozvola za eksploataciju ugljikovodika 
- (prema Zakonu o ugljikovodicima) (KOPRIVNICA)\n\nProfil općine: https://k
- oncesijski-sat.vercel.app/#opcina/41942358B2418052653219\nIzvor: Registar 
- koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ tu površinu odobrenog eksploatacijskog polja (KOPRIVNICA) · davatelj: MI
+ NISTARSTVO GOSPODARSTVA\, 1.329 €/god.\n• INA-INDUSTRIJA NAFTE  D.D. 
+ – Koncesija za zauzetu površinu odobrenog eksploatacijskog polja (KOPRI
+ VNICA) · davatelj: MINISTARSTVO GOSPODARSTVA\, 382 €/god.\n• INA-INDU
+ STRIJA NAFTE  D.D. – Dozvola za eksploataciju ugljikovodika (prema Zakon
+ u o ugljikovodicima) (KOPRIVNICA) · davatelj: MINISTARSTVO GOSPODARSTVA\,
+  382 €/god.\n• INA-INDUSTRIJA NAFTE  D.D. – Dozvola za eksploataciju
+  ugljikovodika (prema Zakonu o ugljikovodicima) (KOPRIVNICA) · davatelj: 
+ MINISTARSTVO GOSPODARSTVA\n• INA D.D. – Dozvola za eksploataciju uglji
+ kovodika (prema Zakonu o ugljikovodicima) (KOPRIVNICA) · davatelj: MINIST
+ ARSTVO GOSPODARSTVA\n\nProfil općine: https://koncesijski-sat.vercel.app/
+ #opcina/41942358B2418052653219\nIzvor: Registar koncesija (FINA)\, obrada 
+ Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B2418052653219
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -77,45 +83,49 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-ca47846897746944@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-17ca8e2a6b342063@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20290630
 DTEND;VALUE=DATE:20290701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 5 koncesija
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 5 koncesija · Koprivnica
 DESCRIPTION:31. 12. 2029. ističe 5 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauzetu površinu o
- dobrenog eksploatacijskog polja (KOPRIVNICA)\, 1.329 €/god.\n• INA-IND
- USTRIJA NAFTE  D.D. – Koncesija za zauzetu površinu odobrenog eksploata
- cijskog polja (KOPRIVNICA)\, 382 €/god.\n• INA-INDUSTRIJA NAFTE  D.D. 
- – Dozvola za eksploataciju ugljikovodika (prema Zakonu o ugljikovodicima
- ) (KOPRIVNICA)\, 382 €/god.\n• INA-INDUSTRIJA NAFTE  D.D. – Dozvola 
- za eksploataciju ugljikovodika (prema Zakonu o ugljikovodicima) (KOPRIVNIC
- A)\n• INA D.D. – Dozvola za eksploataciju ugljikovodika (prema Zakonu 
- o ugljikovodicima) (KOPRIVNICA)\n\nProfil općine: https://koncesijski-sat
- .vercel.app/#opcina/41942358B2418052653219
+ dobrenog eksploatacijskog polja (KOPRIVNICA) · davatelj: MINISTARSTVO GOS
+ PODARSTVA\, 1.329 €/god.\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija z
+ a zauzetu površinu odobrenog eksploatacijskog polja (KOPRIVNICA) · davat
+ elj: MINISTARSTVO GOSPODARSTVA\, 382 €/god.\n• INA-INDUSTRIJA NAFTE  D
+ .D. – Dozvola za eksploataciju ugljikovodika (prema Zakonu o ugljikovodi
+ cima) (KOPRIVNICA) · davatelj: MINISTARSTVO GOSPODARSTVA\, 382 €/god.\n
+ • INA-INDUSTRIJA NAFTE  D.D. – Dozvola za eksploataciju ugljikovodika 
+ (prema Zakonu o ugljikovodicima) (KOPRIVNICA) · davatelj: MINISTARSTVO GO
+ SPODARSTVA\n• INA D.D. – Dozvola za eksploataciju ugljikovodika (prema
+  Zakonu o ugljikovodicima) (KOPRIVNICA) · davatelj: MINISTARSTVO GOSPODAR
+ STVA\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4194235
+ 8B2418052653219
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B2418052653219
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 5 koncesija
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 5 koncesija · Koprivnica
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-918fe2bbfb8ffe0a@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-0f8d6f14c77198f0@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20301101
 DTEND;VALUE=DATE:20301102
 SUMMARY:Ističe 3 koncesije · Koprivnica
 DESCRIPTION:3 ugovora o koncesiji ističe 1. 11. 2030.\n\n• DIS\, OBRT ZA
   DIMNJAČARSKE USLUGE\, VL. ANDRO ZEBEC – Koncesija za obavljanje dimnja
- čarskih poslova (KOPRIVNICA)\n• DIMNJAČARSKI OBRT TRUBELJA\, VL. GORAN
-  TRUBELJA – Koncesija za obavljanje dimnjačarskih poslova (KOPRIVNICA)\
- n• MLD-USLUGE D.O.O. – Koncesija za obavljanje dimnjačarskih poslova 
- (KOPRIVNICA)\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina
- /41942358B2418052653219\nIzvor: Registar koncesija (FINA)\, obrada Koncesi
- jski sat 9. 11. 2026.
+ čarskih poslova (KOPRIVNICA) · davatelj: GRAD KOPRIVNICA\n• DIMNJAČAR
+ SKI OBRT TRUBELJA\, VL. GORAN TRUBELJA – Koncesija za obavljanje dimnja
+ čarskih poslova (KOPRIVNICA) · davatelj: GRAD KOPRIVNICA\n• MLD-USLUGE
+  D.O.O. – Koncesija za obavljanje dimnjačarskih poslova (KOPRIVNICA) ·
+  davatelj: GRAD KOPRIVNICA\n\nProfil općine: https://koncesijski-sat.verc
+ el.app/#opcina/41942358B2418052653219\nIzvor: Registar koncesija (FINA)\, 
+ obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B2418052653219
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -125,42 +135,44 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-918fe2bbfb8ffe0a@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-0f8d6f14c77198f0@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20300501
 DTEND;VALUE=DATE:20300502
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Koprivnica
 DESCRIPTION:1. 11. 2030. ističe 3 ugovora o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• DIS\, OBRT ZA DIMNJAČARSKE USLUGE\, VL. ANDRO ZEBEC – Koncesi
- ja za obavljanje dimnjačarskih poslova (KOPRIVNICA)\n• DIMNJAČARSKI OB
- RT TRUBELJA\, VL. GORAN TRUBELJA – Koncesija za obavljanje dimnjačarski
- h poslova (KOPRIVNICA)\n• MLD-USLUGE D.O.O. – Koncesija za obavljanje 
- dimnjačarskih poslova (KOPRIVNICA)\n\nProfil općine: https://koncesijski
- -sat.vercel.app/#opcina/41942358B2418052653219
+ ja za obavljanje dimnjačarskih poslova (KOPRIVNICA) · davatelj: GRAD KOP
+ RIVNICA\n• DIMNJAČARSKI OBRT TRUBELJA\, VL. GORAN TRUBELJA – Koncesij
+ a za obavljanje dimnjačarskih poslova (KOPRIVNICA) · davatelj: GRAD KOPR
+ IVNICA\n• MLD-USLUGE D.O.O. – Koncesija za obavljanje dimnjačarskih p
+ oslova (KOPRIVNICA) · davatelj: GRAD KOPRIVNICA\n\nProfil općine: https:
+ //koncesijski-sat.vercel.app/#opcina/41942358B2418052653219
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B2418052653219
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Koprivnica
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-c73a8f5a815a25f0@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-89dd7546c4f9c87f@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20391231
 DTEND;VALUE=DATE:20400101
 SUMMARY:Ističe 3 koncesije · Koprivnica
 DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2039. Godišnja fiksna na
  knada: 936 €.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauzetu
-  površinu odobrenog eksploatacijskog polja (KOPRIVNICA)\, 936 €/god.\n
- • INA D.D. – Dozvola za eksploataciju ugljikovodika (prema Zakonu o ug
- ljikovodicima) (KOPRIVNICA)\n• INA-INDUSTRIJA NAFTE  D.D. – Dozvola za
-  eksploataciju ugljikovodika (prema Zakonu o ugljikovodicima) (KOPRIVNICA)
- \n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B24
- 18052653219\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 
- 11. 2026.
+  površinu odobrenog eksploatacijskog polja (KOPRIVNICA) · davatelj: MINI
+ STARSTVO GOSPODARSTVA\, 936 €/god.\n• INA D.D. – Dozvola za eksploat
+ aciju ugljikovodika (prema Zakonu o ugljikovodicima) (KOPRIVNICA) · davat
+ elj: MINISTARSTVO GOSPODARSTVA\n• INA-INDUSTRIJA NAFTE  D.D. – Dozvola
+  za eksploataciju ugljikovodika (prema Zakonu o ugljikovodicima) (KOPRIVNI
+ CA) · davatelj: MINISTARSTVO GOSPODARSTVA\n\nProfil općine: https://konc
+ esijski-sat.vercel.app/#opcina/41942358B2418052653219\nIzvor: Registar kon
+ cesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B2418052653219
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -170,38 +182,41 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-c73a8f5a815a25f0@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-89dd7546c4f9c87f@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20390630
 DTEND;VALUE=DATE:20390701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Koprivnica
 DESCRIPTION:31. 12. 2039. ističe 3 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauzetu površinu o
- dobrenog eksploatacijskog polja (KOPRIVNICA)\, 936 €/god.\n• INA D.D. 
- – Dozvola za eksploataciju ugljikovodika (prema Zakonu o ugljikovodicima
- ) (KOPRIVNICA)\n• INA-INDUSTRIJA NAFTE  D.D. – Dozvola za eksploatacij
- u ugljikovodika (prema Zakonu o ugljikovodicima) (KOPRIVNICA)\n\nProfil op
- ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B2418052653219
+ dobrenog eksploatacijskog polja (KOPRIVNICA) · davatelj: MINISTARSTVO GOS
+ PODARSTVA\, 936 €/god.\n• INA D.D. – Dozvola za eksploataciju ugljik
+ ovodika (prema Zakonu o ugljikovodicima) (KOPRIVNICA) · davatelj: MINISTA
+ RSTVO GOSPODARSTVA\n• INA-INDUSTRIJA NAFTE  D.D. – Dozvola za eksploat
+ aciju ugljikovodika (prema Zakonu o ugljikovodicima) (KOPRIVNICA) · davat
+ elj: MINISTARSTVO GOSPODARSTVA\n\nProfil općine: https://koncesijski-sat.
+ vercel.app/#opcina/41942358B2418052653219
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B2418052653219
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Koprivnica
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-79a0892e24777842@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-002aa0728f60e236@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20481026
 DTEND;VALUE=DATE:20481027
 SUMMARY:Ističe koncesija: PODRAVKA D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 26. 10. 2048. Godišnja fiksna nak
  nada: 3.185 €.\n\n• PODRAVKA D.D. – Koncesija za zahvaćanje voda za
-  tehnološke potrebe (KOPRIVNICA)\, 3.185 €/god.\n\nProfil općine: http
- s://koncesijski-sat.vercel.app/#opcina/41942358B2418052653219\nIzvor: Regi
- star koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+  tehnološke potrebe (KOPRIVNICA) · davatelj: MINISTARSTVO ZAŠTITE OKOLI
+ ŠA I ZELENE TRANZICIJE\, 3.185 €/god.\n\nProfil općine: https://konces
+ ijski-sat.vercel.app/#opcina/41942358B2418052653219\nIzvor: Registar konce
+ sija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B2418052653219
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -211,16 +226,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-79a0892e24777842@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-002aa0728f60e236@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20480426
 DTEND;VALUE=DATE:20480427
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PODRAVKA D.D.)
 DESCRIPTION:26. 10. 2048. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• PODRAVKA D.D. – Koncesija za zahvaćanje voda za tehnološke p
- otrebe (KOPRIVNICA)\, 3.185 €/god.\n\nProfil općine: https://koncesijsk
- i-sat.vercel.app/#opcina/41942358B2418052653219
+ otrebe (KOPRIVNICA) · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠA I ZELENE T
+ RANZICIJE\, 3.185 €/god.\n\nProfil općine: https://koncesijski-sat.verc
+ el.app/#opcina/41942358B2418052653219
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B2418052653219
 TRANSP:TRANSPARENT
 BEGIN:VALARM

@@ -1,0 +1,104 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · GRAD SLAVONSKI BROD
+X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje GRAD SLAVONSKI BROD. Iz Re
+ gistra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade po
+ dataka. https://koncesijski-sat.vercel.app/#sat
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-89dd87ffb6dab11a@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20321025
+DTEND;VALUE=DATE:20321026
+SUMMARY:Ističe 3 koncesije · GRAD SLAVONSKI BROD
+DESCRIPTION:3 ugovora o koncesiji ističe 25. 10. 2032. Godišnja fiksna na
+ knada: 5.973 €.\n\n• IN-GRUPA DIMNJAČARSKI OBRT VL. IGOR NENADIĆ –
+  Koncesija za obavljanje dimnjačarskih poslova (SLAVONSKI BROD\, Grad Sla
+ vonski Brod)\, 1.991 €/god.\n• IN-GRUPA DIMNJAČARSKI OBRT VL. IGOR NE
+ NADIĆ – Koncesija za obavljanje dimnjačarskih poslova (SLAVONSKI BROD\
+ , Grad Slavonski Brod)\, 1.991 €/god.\n• IN-GRUPA DIMNJAČARSKI OBRT V
+ L. IGOR NENADIĆ – Koncesija za obavljanje dimnjačarskih poslova (SLAVO
+ NSKI BROD\, Grad Slavonski Brod)\, 1.991 €/god.\n\nŠto ističe: https:/
+ /koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrad
+ a Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 3 koncesije · GRAD SLAVONSKI BROD
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-89dd87ffb6dab11a@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20320425
+DTEND;VALUE=DATE:20320426
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · GRAD SLAVONSKI
+  BROD
+DESCRIPTION:25. 10. 2032. ističe 3 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• IN-GRUPA DIMNJAČARSKI OBRT VL. IGOR NENADIĆ – Koncesija za 
+ obavljanje dimnjačarskih poslova (SLAVONSKI BROD\, Grad Slavonski Brod)\,
+  1.991 €/god.\n• IN-GRUPA DIMNJAČARSKI OBRT VL. IGOR NENADIĆ – Kon
+ cesija za obavljanje dimnjačarskih poslova (SLAVONSKI BROD\, Grad Slavons
+ ki Brod)\, 1.991 €/god.\n• IN-GRUPA DIMNJAČARSKI OBRT VL. IGOR NENADI
+ Ć – Koncesija za obavljanje dimnjačarskih poslova (SLAVONSKI BROD\, Gr
+ ad Slavonski Brod)\, 1.991 €/god.\n\nŠto ističe: https://koncesijski-s
+ at.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · GRAD SLAVO
+ NSKI BROD
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-7abbc07e744d86f7@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20380801
+DTEND;VALUE=DATE:20380802
+SUMMARY:Ističe koncesija: BROD-PLIN D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 1. 8. 2038. Godišnja fiksna nakna
+ da: 3.982 €.\n\n• BROD-PLIN D.O.O. – Koncesija za obavljanje komunal
+ ne djelatnosti opskrbe toplinskom energijom (SLAVONSKI BROD\, Grad Slavons
+ ki Brod)\, 3.982 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.
+ app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11.
+  2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: BROD-PLIN D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-7abbc07e744d86f7@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20380201
+DTEND;VALUE=DATE:20380202
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BROD-PLIN D.O.O.
+ )
+DESCRIPTION:1. 8. 2038. ističe 1 ugovor o koncesiji. Novi postupak dodjele
+  treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
+ \n\n• BROD-PLIN D.O.O. – Koncesija za obavljanje komunalne djelatnosti
+  opskrbe toplinskom energijom (SLAVONSKI BROD\, Grad Slavonski Brod)\, 3.9
+ 82 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BROD-PLIN D.
+ O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

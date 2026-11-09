@@ -4,24 +4,25 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Općina Feričanci
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Feričanci. Iz R
- egistra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade p
- odataka. https://koncesijski-sat.vercel.app/#opcina/41942358B2426027950982
- 0
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Općina Feričanci (preg
+ led\, svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježa
+ va se nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#opc
+ ina/41942358B24260279509820
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-4f0842e1edb129c6@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-76d15418cfabc613@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270628
 DTEND;VALUE=DATE:20270629
 SUMMARY:Ističe koncesija: INA\, D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 28. 6. 2027. Godišnja fiksna nakn
  ada: 853 €.\n\n• INA\, D.D. – Dozvola za istraživanje ugljikovodika
-  (prema Zakonu o ugljikovodicima) (FERIČANCI)\, 853 €/god.\n\nProfil op
- ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B24260279509820\
- nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+  (prema Zakonu o ugljikovodicima) (FERIČANCI) · davatelj: MINISTARSTVO G
+ OSPODARSTVA\, 853 €/god.\n\nProfil općine: https://koncesijski-sat.verc
+ el.app/#opcina/41942358B24260279509820\nIzvor: Registar koncesija (FINA)\,
+  obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B24260279509820
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -31,16 +32,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-4f0842e1edb129c6@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-76d15418cfabc613@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20261228
 DTEND;VALUE=DATE:20261229
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA\, D.D.)
 DESCRIPTION:28. 6. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• INA\, D.D. – Dozvola za istraživanje ugljikovodika (prema Zako
- nu o ugljikovodicima) (FERIČANCI)\, 853 €/god.\n\nProfil općine: https
- ://koncesijski-sat.vercel.app/#opcina/41942358B24260279509820
+ nu o ugljikovodicima) (FERIČANCI) · davatelj: MINISTARSTVO GOSPODARSTVA\
+ , 853 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opci
+ na/41942358B24260279509820
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B24260279509820
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -50,20 +52,21 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-f4043bdc7b1c7045@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-18ac30ec3b10bbb2@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20281231
 DTEND;VALUE=DATE:20290101
 SUMMARY:Ističe 3 koncesije · Feričanci
 DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2028. Godišnja fiksna na
  knada: 692 €.\n\n• HRVATSKE ŠUME D.O.O. – Koncesija za površinu ut
  vrđenog eksploatacijskog polja neenergetskih mineralnih sirovina (FERIČA
- NCI)\, 692 €/god.\n• HRVATSKE ŠUME D.O.O. – Koncesija za eksploatac
- iju tehničko-građevnog kamena (FERIČANCI)\n• HRVATSKE ŠUME D.O.O. 
- – Koncesija za eksploataciju tehničko-građevnog kamena (FERIČANCI)\n\
- nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B24260
- 279509820\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11
- . 2026.
+ NCI) · davatelj: MINISTARSTVO GOSPODARSTVA\, 692 €/god.\n• HRVATSKE 
+ ŠUME D.O.O. – Koncesija za eksploataciju tehničko-građevnog kamena (F
+ ERIČANCI) · davatelj: MINISTARSTVO GOSPODARSTVA\n• HRVATSKE ŠUME D.O.
+ O. – Koncesija za eksploataciju tehničko-građevnog kamena (FERIČANCI)
+  · davatelj: MINISTARSTVO GOSPODARSTVA\n\nProfil općine: https://koncesi
+ jski-sat.vercel.app/#opcina/41942358B24260279509820\nIzvor: Registar konce
+ sija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B24260279509820
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -73,38 +76,41 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-f4043bdc7b1c7045@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-18ac30ec3b10bbb2@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20280630
 DTEND;VALUE=DATE:20280701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Feričanci
 DESCRIPTION:31. 12. 2028. ističe 3 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• HRVATSKE ŠUME D.O.O. – Koncesija za površinu utvrđenog eks
- ploatacijskog polja neenergetskih mineralnih sirovina (FERIČANCI)\, 692 
- €/god.\n• HRVATSKE ŠUME D.O.O. – Koncesija za eksploataciju tehnič
- ko-građevnog kamena (FERIČANCI)\n• HRVATSKE ŠUME D.O.O. – Koncesija
-  za eksploataciju tehničko-građevnog kamena (FERIČANCI)\n\nProfil opći
- ne: https://koncesijski-sat.vercel.app/#opcina/41942358B24260279509820
+ ploatacijskog polja neenergetskih mineralnih sirovina (FERIČANCI) · dava
+ telj: MINISTARSTVO GOSPODARSTVA\, 692 €/god.\n• HRVATSKE ŠUME D.O.O. 
+ – Koncesija za eksploataciju tehničko-građevnog kamena (FERIČANCI) ·
+  davatelj: MINISTARSTVO GOSPODARSTVA\n• HRVATSKE ŠUME D.O.O. – Konces
+ ija za eksploataciju tehničko-građevnog kamena (FERIČANCI) · davatelj:
+  MINISTARSTVO GOSPODARSTVA\n\nProfil općine: https://koncesijski-sat.verc
+ el.app/#opcina/41942358B24260279509820
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B24260279509820
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Feričanci
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-d33ea1f5a4418a4f@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-65e51b2de9af6f54@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20350629
 DTEND;VALUE=DATE:20350630
 SUMMARY:Ističe koncesija: OSILOVAC D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 29. 6. 2035. Godišnja fiksna nakn
  ada: 2.655 €.\n\n• OSILOVAC D.O.O. – Koncesija za zahvaćanje voda z
- a tehnološke potrebe (FERIČANCI)\, 2.655 €/god.\n\nProfil općine: htt
- ps://koncesijski-sat.vercel.app/#opcina/41942358B24260279509820\nIzvor: Re
- gistar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ a tehnološke potrebe (FERIČANCI) · davatelj: MINISTARSTVO ZAŠTITE OKOL
+ IŠA I ZELENE TRANZICIJE\, 2.655 €/god.\n\nProfil općine: https://konce
+ sijski-sat.vercel.app/#opcina/41942358B24260279509820\nIzvor: Registar kon
+ cesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B24260279509820
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -114,16 +120,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-d33ea1f5a4418a4f@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-65e51b2de9af6f54@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20341229
 DTEND;VALUE=DATE:20341230
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (OSILOVAC D.O.O.)
 DESCRIPTION:29. 6. 2035. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• OSILOVAC D.O.O. – Koncesija za zahvaćanje voda za tehnološke 
- potrebe (FERIČANCI)\, 2.655 €/god.\n\nProfil općine: https://koncesijs
- ki-sat.vercel.app/#opcina/41942358B24260279509820
+ potrebe (FERIČANCI) · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠA I ZELENE 
+ TRANZICIJE\, 2.655 €/god.\n\nProfil općine: https://koncesijski-sat.ver
+ cel.app/#opcina/41942358B24260279509820
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B24260279509820
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -134,17 +141,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-c0a3fbda6d006d4f@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-3c2e3897210797be@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20360620
 DTEND;VALUE=DATE:20360621
 SUMMARY:Ističe koncesija: OSILOVAC D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 20. 6. 2036. Godišnja fiksna nakn
  ada: 8.494 €.\n\n• OSILOVAC D.O.O. – Koncesija za korištenje poljop
- rivrednog zemljišta u vlasništvu države (FERIČANCI)\, 8.494 €/god.\n
- \nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B2426
- 0279509820\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 1
- 1. 2026.
+ rivrednog zemljišta u vlasništvu države (FERIČANCI) · davatelj: OPĆI
+ NA FERIČANCI\, 8.494 €/god.\n\nProfil općine: https://koncesijski-sat.
+ vercel.app/#opcina/41942358B24260279509820\nIzvor: Registar koncesija (FIN
+ A)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B24260279509820
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -154,16 +161,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-c0a3fbda6d006d4f@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-3c2e3897210797be@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20351220
 DTEND;VALUE=DATE:20351221
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (OSILOVAC D.O.O.)
 DESCRIPTION:20. 6. 2036. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• OSILOVAC D.O.O. – Koncesija za korištenje poljoprivrednog zeml
- jišta u vlasništvu države (FERIČANCI)\, 8.494 €/god.\n\nProfil opći
- ne: https://koncesijski-sat.vercel.app/#opcina/41942358B24260279509820
+ jišta u vlasništvu države (FERIČANCI) · davatelj: OPĆINA FERIČANCI\
+ , 8.494 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#op
+ cina/41942358B24260279509820
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B24260279509820
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -174,17 +182,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-8470f6087fbf97b4@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-b369a3ce65d861ac@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20470627
 DTEND;VALUE=DATE:20470628
 SUMMARY:Ističe koncesija: FERAVINO  D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 27. 6. 2047. Godišnja fiksna nakn
  ada: 2.654 €.\n\n• FERAVINO  D.O.O. – Koncesija za korištenje poljo
- privrednog zemljišta u vlasništvu države (FERIČANCI)\, 2.654 €/god.\
- n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B242
- 60279509820\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 
- 11. 2026.
+ privrednog zemljišta u vlasništvu države (FERIČANCI) · davatelj: OPĆ
+ INA FERIČANCI\, 2.654 €/god.\n\nProfil općine: https://koncesijski-sat
+ .vercel.app/#opcina/41942358B24260279509820\nIzvor: Registar koncesija (FI
+ NA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B24260279509820
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -194,8 +202,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-8470f6087fbf97b4@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-b369a3ce65d861ac@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20461227
 DTEND;VALUE=DATE:20461228
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (FERAVINO  D.O.O.
@@ -203,8 +211,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (FERAVINO  D.O.O.
 DESCRIPTION:27. 6. 2047. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• FERAVINO  D.O.O. – Koncesija za korištenje poljoprivrednog zem
- ljišta u vlasništvu države (FERIČANCI)\, 2.654 €/god.\n\nProfil opć
- ine: https://koncesijski-sat.vercel.app/#opcina/41942358B24260279509820
+ ljišta u vlasništvu države (FERIČANCI) · davatelj: OPĆINA FERIČANCI
+ \, 2.654 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#o
+ pcina/41942358B24260279509820
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B24260279509820
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -215,16 +224,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-b4f167befb179cd5@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-7b5286ea088886e1@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20500703
 DTEND;VALUE=DATE:20500704
 SUMMARY:Ističe koncesija: OSILOVAC D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 3. 7. 2050. Godišnja fiksna nakna
  da: 557 €.\n\n• OSILOVAC D.O.O. – Koncesija za zahvaćanje voda za t
- ehnološke potrebe (FERIČANCI)\, 557 €/god.\n\nProfil općine: https://
- koncesijski-sat.vercel.app/#opcina/41942358B24260279509820\nIzvor: Regista
- r koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ ehnološke potrebe (FERIČANCI) · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠ
+ A I ZELENE TRANZICIJE\, 557 €/god.\n\nProfil općine: https://koncesijsk
+ i-sat.vercel.app/#opcina/41942358B24260279509820\nIzvor: Registar koncesij
+ a (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B24260279509820
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -234,16 +244,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-b4f167befb179cd5@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-7b5286ea088886e1@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20500103
 DTEND;VALUE=DATE:20500104
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (OSILOVAC D.O.O.)
 DESCRIPTION:3. 7. 2050. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• OSILOVAC D.O.O. – Koncesija za zahvaćanje voda za tehnološke p
- otrebe (FERIČANCI)\, 557 €/god.\n\nProfil općine: https://koncesijski-
- sat.vercel.app/#opcina/41942358B24260279509820
+ otrebe (FERIČANCI) · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠA I ZELENE T
+ RANZICIJE\, 557 €/god.\n\nProfil općine: https://koncesijski-sat.vercel
+ .app/#opcina/41942358B24260279509820
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B24260279509820
 TRANSP:TRANSPARENT
 BEGIN:VALARM

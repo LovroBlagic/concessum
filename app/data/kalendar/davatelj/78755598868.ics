@@ -1,0 +1,234 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · GRAD SPLIT
+X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje GRAD SPLIT. Iz Registra ko
+ ncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podataka. h
+ ttps://koncesijski-sat.vercel.app/#sat
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-5e785e78841cd77f@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20270420
+DTEND;VALUE=DATE:20270421
+SUMMARY:Ističe koncesija: DIMNJAČARSTVO KAMIN J.D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 20. 4. 2027. Godišnja fiksna nakn
+ ada: 584 €.\n\n• DIMNJAČARSTVO KAMIN J.D.O.O. – Koncesija za obavlj
+ anje dimnjačarskih poslova (SPLIT\, Grad Split)\, 584 €/god.\n\nŠto is
+ tiče: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija 
+ (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: DIMNJAČARSTVO KAMIN J.D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-5ff775fa63ae3318@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20290128
+DTEND;VALUE=DATE:20290129
+SUMMARY:Ističe koncesija: KOTAO-M\, OBRT ZA DIMNJAČARSTVO VL. MATE SRDANO
+ VIĆ
+DESCRIPTION:1 ugovor o koncesiji ističe 28. 1. 2029. Godišnja fiksna nakn
+ ada: 2.212 €.\n\n• KOTAO-M\, OBRT ZA DIMNJAČARSTVO VL. MATE SRDANOVI
+ Ć – Koncesija za obavljanje dimnjačarskih poslova (SPLIT\, Grad Split)
+ \, 2.212 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
+ \nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: KOTAO-M\, OBRT ZA DIMNJAČARSTVO VL. MATE SR
+ DANOVIĆ
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-5ff775fa63ae3318@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20280728
+DTEND;VALUE=DATE:20280729
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (KOTAO-M\, OBRT Z
+ A DIMNJAČARSTVO VL. MATE SRDANOVIĆ)
+DESCRIPTION:28. 1. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• KOTAO-M\, OBRT ZA DIMNJAČARSTVO VL. MATE SRDANOVIĆ – Koncesij
+ a za obavljanje dimnjačarskih poslova (SPLIT\, Grad Split)\, 2.212 €/go
+ d.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (KOTAO-M\, OB
+ RT ZA DIMNJAČARSTVO VL. MATE SRDANOVIĆ)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-a90bbd6d41069ce0@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20290331
+DTEND;VALUE=DATE:20290401
+SUMMARY:Ističe koncesija: FACULET\, OBRT ZA USLUGE\, VL. MATIJA VLADANOVI
+ Ć
+DESCRIPTION:1 ugovor o koncesiji ističe 31. 3. 2029. Godišnja fiksna nakn
+ ada: 76.500 €.\n\n• FACULET\, OBRT ZA USLUGE\, VL. MATIJA VLADANOVIĆ 
+ – Koncesija za obavljanje komunalnih djelatnosti (SPLIT\, Grad Split)\, 
+ 76.500 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\n
+ Izvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: FACULET\, OBRT ZA USLUGE\, VL. MATIJA VLADAN
+ OVIĆ
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-a90bbd6d41069ce0@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20280930
+DTEND;VALUE=DATE:20281001
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (FACULET\, OBRT Z
+ A USLUGE\, VL. MATIJA VLADANOVIĆ)
+DESCRIPTION:31. 3. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• FACULET\, OBRT ZA USLUGE\, VL. MATIJA VLADANOVIĆ – Koncesija z
+ a obavljanje komunalnih djelatnosti (SPLIT\, Grad Split)\, 76.500 €/god.
+ \n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (FACULET\, OB
+ RT ZA USLUGE\, VL. MATIJA VLADANOVIĆ)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-ad03033a05a846b4@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20290708
+DTEND;VALUE=DATE:20290709
+SUMMARY:Ističe koncesija: APODOS D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 8. 7. 2029. Godišnja fiksna nakna
+ da: 18.000 €.\n\n• APODOS D.O.O. – Koncesija za organizaciju turisti
+ čkog razgledavanja grada (SPLIT\, Grad Split)\, 18.000 €/god.\n\nŠto i
+ stiče: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija
+  (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: APODOS D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-ad03033a05a846b4@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20290108
+DTEND;VALUE=DATE:20290109
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (APODOS D.O.O.)
+DESCRIPTION:8. 7. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjele
+  treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
+ \n\n• APODOS D.O.O. – Koncesija za organizaciju turističkog razgledav
+ anja grada (SPLIT\, Grad Split)\, 18.000 €/god.\n\nŠto ističe: https:/
+ /koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (APODOS D.O.O
+ .)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-bce48cb942080f4a@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20291106
+DTEND;VALUE=DATE:20291107
+SUMMARY:Ističe koncesija: RAZGLEDNICA D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 6. 11. 2029. Godišnja fiksna nakn
+ ada: 840 €.\n\n• RAZGLEDNICA D.O.O. – Koncesija za obavljanje dimnja
+ čarskih poslova (SPLIT\, Grad Split)\, 840 €/god.\n\nŠto ističe: http
+ s://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, ob
+ rada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: RAZGLEDNICA D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-bce48cb942080f4a@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20290506
+DTEND;VALUE=DATE:20290507
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (RAZGLEDNICA D.O.
+ O.)
+DESCRIPTION:6. 11. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• RAZGLEDNICA D.O.O. – Koncesija za obavljanje dimnjačarskih pos
+ lova (SPLIT\, Grad Split)\, 840 €/god.\n\nŠto ističe: https://koncesij
+ ski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (RAZGLEDNICA 
+ D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-db3869dc6985ef3c@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20331030
+DTEND;VALUE=DATE:20331031
+SUMMARY:Ističe koncesija: ANTE BLAŽEVIĆ
+DESCRIPTION:1 ugovor o koncesiji ističe 30. 10. 2033. Godišnja fiksna nak
+ nada: 1.115 €.\n\n• ANTE BLAŽEVIĆ – Koncesija na pomorskom dobru (
+ SPLIT\, Grad Split)\, 1.115 €/god.\n\nŠto ističe: https://koncesijski-
+ sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski
+  sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: ANTE BLAŽEVIĆ
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-db3869dc6985ef3c@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20330430
+DTEND;VALUE=DATE:20330501
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ANTE BLAŽEVIĆ)
+DESCRIPTION:30. 10. 2033. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• ANTE BLAŽEVIĆ – Koncesija na pomorskom dobru (SPLIT\, Grad S
+ plit)\, 1.115 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app
+ /#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ANTE BLAŽEV
+ IĆ)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

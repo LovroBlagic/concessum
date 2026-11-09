@@ -1,0 +1,220 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · OPĆINA RUGVICA
+X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje OPĆINA RUGVICA. Iz Regist
+ ra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podata
+ ka. https://koncesijski-sat.vercel.app/#sat
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-a077515b3dd242a7@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20280426
+DTEND;VALUE=DATE:20280427
+SUMMARY:Ističe koncesija: MIVEGRA - D.O.O. ZA GRADITELJSTVO\, TRGOV INU I 
+ USLUGE
+DESCRIPTION:1 ugovor o koncesiji ističe 26. 4. 2028. Godišnja fiksna nakn
+ ada: 750 €.\n\n• MIVEGRA - D.O.O. ZA GRADITELJSTVO\, TRGOV INU I USLUG
+ E – Koncesija za obavljanje dimnjačarskih poslova (RUGVICA\, Općina Ru
+ gvica)\, 750 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/
+ #sat\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 202
+ 6.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: MIVEGRA - D.O.O. ZA GRADITELJSTVO\, TRGOV IN
+ U I USLUGE
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-a077515b3dd242a7@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20271026
+DTEND;VALUE=DATE:20271027
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MIVEGRA - D.O.O.
+  ZA GRADITELJSTVO\, TRGOV INU I USLUGE)
+DESCRIPTION:26. 4. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• MIVEGRA - D.O.O. ZA GRADITELJSTVO\, TRGOV INU I USLUGE – Konces
+ ija za obavljanje dimnjačarskih poslova (RUGVICA\, Općina Rugvica)\, 750
+  €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MIVEGRA - D.
+ O.O. ZA GRADITELJSTVO\, TRGOV INU I USLUGE)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-0af22707268d98a9@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20290601
+DTEND;VALUE=DATE:20290602
+SUMMARY:Ističe koncesija: MULL-TRANS D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 1. 6. 2029.\n\n• MULL-TRANS D.O.
+ O. – Koncesija skupljanja i odvoza komunalnog otpada (RUGVICA\, Općina 
+ Rugvica)\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: 
+ Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: MULL-TRANS D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-0af22707268d98a9@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20281201
+DTEND;VALUE=DATE:20281202
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MULL-TRANS D.O.O
+ .)
+DESCRIPTION:1. 6. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjele
+  treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
+ \n\n• MULL-TRANS D.O.O. – Koncesija skupljanja i odvoza komunalnog otp
+ ada (RUGVICA\, Općina Rugvica)\n\nŠto ističe: https://koncesijski-sat.v
+ ercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MULL-TRANS D
+ .O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-4a6a9b383dea911d@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20310831
+DTEND;VALUE=DATE:20310901
+SUMMARY:Ističe koncesija: BC INSTITUT D.D.
+DESCRIPTION:1 ugovor o koncesiji ističe 31. 8. 2031. Godišnja fiksna nakn
+ ada: 48.173 €.\n\n• BC INSTITUT D.D. – Koncesija za korištenje polj
+ oprivrednog zemljišta u vlasništvu države (RUGVICA\, Općina Rugvica)\,
+  48.173 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\
+ nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: BC INSTITUT D.D.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-4a6a9b383dea911d@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20310228
+DTEND;VALUE=DATE:20310301
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BC INSTITUT D.D.
+ )
+DESCRIPTION:31. 8. 2031. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• BC INSTITUT D.D. – Koncesija za korištenje poljoprivrednog zem
+ ljišta u vlasništvu države (RUGVICA\, Općina Rugvica)\, 48.173 €/god
+ .\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BC INSTITUT 
+ D.D.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-1fd266e40ec6b99e@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20360621
+DTEND;VALUE=DATE:20360622
+SUMMARY:Ističe 2 koncesije · OPĆINA RUGVICA
+DESCRIPTION:2 ugovora o koncesiji ističe 21. 6. 2036. Godišnja fiksna nak
+ nada: 17.596 €.\n\n• PA-VITA ULJARA D.O.O. ZA PROIZVODNJU I PROMET POL
+ JOPRIVREDNIM PROIZVODIMA – Koncesija za korištenje poljoprivrednog zeml
+ jišta u vlasništvu države (RUGVICA\, Općina Rugvica)\, 8.820 €/god.\
+ n• PA-VITA D.O.O. – Koncesija za korištenje poljoprivrednog zemljišt
+ a u vlasništvu države (RUGVICA\, Općina Rugvica)\, 8.776 €/god.\n\nŠ
+ to ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar konce
+ sija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 2 koncesije · OPĆINA RUGVICA
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-1fd266e40ec6b99e@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20351221
+DTEND;VALUE=DATE:20351222
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · OPĆINA RUGVIC
+ A
+DESCRIPTION:21. 6. 2036. ističe 2 ugovora o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• PA-VITA ULJARA D.O.O. ZA PROIZVODNJU I PROMET POLJOPRIVREDNIM PR
+ OIZVODIMA – Koncesija za korištenje poljoprivrednog zemljišta u vlasni
+ štvu države (RUGVICA\, Općina Rugvica)\, 8.820 €/god.\n• PA-VITA D.
+ O.O. – Koncesija za korištenje poljoprivrednog zemljišta u vlasništvu
+  države (RUGVICA\, Općina Rugvica)\, 8.776 €/god.\n\nŠto ističe: htt
+ ps://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije · OPĆINA RU
+ GVICA
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-712267d17a9eb911@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20380111
+DTEND;VALUE=DATE:20380112
+SUMMARY:Ističe koncesija: RASTO D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 11. 1. 2038. Godišnja fiksna nakn
+ ada: 7.728 €.\n\n• RASTO D.O.O. – Koncesija za korištenje poljopriv
+ rednog zemljišta u vlasništvu države (RUGVICA\, Općina Rugvica)\, 7.72
+ 8 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor
+ : Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: RASTO D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-712267d17a9eb911@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20370711
+DTEND;VALUE=DATE:20370712
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (RASTO D.O.O.)
+DESCRIPTION:11. 1. 2038. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• RASTO D.O.O. – Koncesija za korištenje poljoprivrednog zemlji
+ šta u vlasništvu države (RUGVICA\, Općina Rugvica)\, 7.728 €/god.\n\
+ nŠto ističe: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (RASTO D.O.O.
+ )
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

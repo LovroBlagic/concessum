@@ -4,23 +4,25 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Otok Krk
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Otok Krk. Iz Registra ko
- ncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podataka. h
- ttps://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Otok Krk (pregled\, svi 
+ davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježava se nako
+ n svake obrade podataka. https://koncesijski-sat.vercel.app/#opcina/419423
+ 58B45790635822188
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-f0be5b8c5c2649e0@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-2ebfcfc468549324@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270224
 DTEND;VALUE=DATE:20270225
 SUMMARY:Ističe koncesija: MLD-USLUGE D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 24. 2. 2027. Godišnja fiksna nakn
  ada: 664 €.\n\n• MLD-USLUGE D.O.O. – Koncesija za obavljanje dimnja
- čarskih poslova (BAŠKA)\, 664 €/god.\n\nProfil općine: https://konces
- ijski-sat.vercel.app/#opcina/41942358B45790635822188\nIzvor: Registar konc
- esija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ čarskih poslova (BAŠKA) · davatelj: OPĆINA BAŠKA\, 664 €/god.\n\nPr
+ ofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B45790635
+ 822188\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2
+ 026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -30,16 +32,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-eebbb776307a302e@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-c20096f13df10d64@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270301
 DTEND;VALUE=DATE:20270302
 SUMMARY:Ističe koncesija: BRODOGRADILIŠTE ĐANI-KLIMNO\, VL. ĐANI JURIĆ
 DESCRIPTION:1 ugovor o koncesiji ističe 1. 3. 2027. Godišnja fiksna nakna
  da: 4.027 €.\n\n• BRODOGRADILIŠTE ĐANI-KLIMNO\, VL. ĐANI JURIĆ –
-  Koncesija na pomorskom dobru (DOBRINJ)\, 4.027 €/god.\n\nProfil općine
- : https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188\nIzvo
- r: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+  Koncesija na pomorskom dobru (DOBRINJ) · davatelj: PRIMORSKO GORANSKA Ž
+ UPANIJA\, 4.027 €/god.\n\nProfil općine: https://koncesijski-sat.vercel
+ .app/#opcina/41942358B45790635822188\nIzvor: Registar koncesija (FINA)\, o
+ brada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -50,16 +53,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-dd5725aa07deef4d@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-78df6cbbe017f025@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270701
 DTEND;VALUE=DATE:20270702
 SUMMARY:Ističe koncesija: BRODOGRADILIŠTE VL. ANTON JURIĆ
 DESCRIPTION:1 ugovor o koncesiji ističe 1. 7. 2027. Godišnja fiksna nakna
  da: 1.598 €.\n\n• BRODOGRADILIŠTE VL. ANTON JURIĆ – Koncesija na p
- omorskom dobru (DOBRINJ)\, 1.598 €/god.\n\nProfil općine: https://konce
- sijski-sat.vercel.app/#opcina/41942358B45790635822188\nIzvor: Registar kon
- cesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ omorskom dobru (DOBRINJ) · davatelj: PRIMORSKO GORANSKA ŽUPANIJA\, 1.598
+  €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41
+ 942358B45790635822188\nIzvor: Registar koncesija (FINA)\, obrada Koncesijs
+ ki sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -69,8 +73,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-dd5725aa07deef4d@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-78df6cbbe017f025@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270101
 DTEND;VALUE=DATE:20270102
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BRODOGRADILIŠTE
@@ -78,8 +82,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BRODOGRADILIŠTE
 DESCRIPTION:1. 7. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• BRODOGRADILIŠTE VL. ANTON JURIĆ – Koncesija na pomorskom dobru
-  (DOBRINJ)\, 1.598 €/god.\n\nProfil općine: https://koncesijski-sat.ver
- cel.app/#opcina/41942358B45790635822188
+  (DOBRINJ) · davatelj: PRIMORSKO GORANSKA ŽUPANIJA\, 1.598 €/god.\n\nP
+ rofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B4579063
+ 5822188
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -90,18 +95,20 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-1dbce2a476661f91@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-a69e7915da8ea418@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20271231
 DTEND;VALUE=DATE:20280101
 SUMMARY:Ističe 2 koncesije · Otok Krk
 DESCRIPTION:2 ugovora o koncesiji ističe 31. 12. 2027. Godišnja fiksna na
  knada: 3.422 €.\n\n• JADROLINIJA\, DRUŠTVO ZA LINIJSKI POMORSKI PRIJE
  VOZ PUTNIKA I TERETA – Koncesija za organiziranje unutarnjeg linijskog p
- rijevoza (KRK)\, 2.654 €/god.\n• DEZINSEKCIJA\, D. O. O. – Koncesija
-  na pomorskom dobru (KRK)\, 768 €/god.\n\nProfil općine: https://konces
- ijski-sat.vercel.app/#opcina/41942358B45790635822188\nIzvor: Registar konc
- esija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ rijevoza (KRK) · davatelj: AGENCIJA ZA OBALNI LINIJSKI POMORSKI PROMET\, 
+ 2.654 €/god.\n• DEZINSEKCIJA\, D. O. O. – Koncesija na pomorskom dob
+ ru (KRK) · davatelj: ŽUPANIJSKA LUČKA UPRAVA KRK\, 768 €/god.\n\nProf
+ il općine: https://koncesijski-sat.vercel.app/#opcina/41942358B4579063582
+ 2188\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 202
+ 6.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -111,38 +118,39 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-1dbce2a476661f91@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-a69e7915da8ea418@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270630
 DTEND;VALUE=DATE:20270701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Otok Krk
 DESCRIPTION:31. 12. 2027. ističe 2 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• JADROLINIJA\, DRUŠTVO ZA LINIJSKI POMORSKI PRIJEVOZ PUTNIKA I 
  TERETA – Koncesija za organiziranje unutarnjeg linijskog prijevoza (KRK)
- \, 2.654 €/god.\n• DEZINSEKCIJA\, D. O. O. – Koncesija na pomorskom 
- dobru (KRK)\, 768 €/god.\n\nProfil općine: https://koncesijski-sat.verc
- el.app/#opcina/41942358B45790635822188
+  · davatelj: AGENCIJA ZA OBALNI LINIJSKI POMORSKI PROMET\, 2.654 €/god.
+ \n• DEZINSEKCIJA\, D. O. O. – Koncesija na pomorskom dobru (KRK) · da
+ vatelj: ŽUPANIJSKA LUČKA UPRAVA KRK\, 768 €/god.\n\nProfil općine: ht
+ tps://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Otok Krk
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-b3bd16e0f24a42a3@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-768a394fdaae0ef1@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20280611
 DTEND;VALUE=DATE:20280612
 SUMMARY:Ističe koncesija: FISH HOUSE OMIŠALJ D.O.O.-PODRAČUN
 DESCRIPTION:1 ugovor o koncesiji ističe 11. 6. 2028. Godišnja fiksna nakn
  ada: 11.308 €.\n\n• FISH HOUSE OMIŠALJ D.O.O.-PODRAČUN – Koncesija
-  pomorskog dobra u svrhu gospodarskog korištenja luke (OMIŠALJ)\, 11.308
-  €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41
- 942358B45790635822188\nIzvor: Registar koncesija (FINA)\, obrada Koncesijs
- ki sat 9. 11. 2026.
+  pomorskog dobra u svrhu gospodarskog korištenja luke (OMIŠALJ) · davat
+ elj: ŽUPANIJSKA LUČKA UPRAVA KRK\, 11.308 €/god.\n\nProfil općine: ht
+ tps://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188\nIzvor: R
+ egistar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -152,8 +160,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-b3bd16e0f24a42a3@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-768a394fdaae0ef1@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20271211
 DTEND;VALUE=DATE:20271212
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (FISH HOUSE OMIŠ
@@ -161,9 +169,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (FISH HOUSE OMIŠ
 DESCRIPTION:11. 6. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• FISH HOUSE OMIŠALJ D.O.O.-PODRAČUN – Koncesija pomorskog dobr
- a u svrhu gospodarskog korištenja luke (OMIŠALJ)\, 11.308 €/god.\n\nPr
- ofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B45790635
- 822188
+ a u svrhu gospodarskog korištenja luke (OMIŠALJ) · davatelj: ŽUPANIJSK
+ A LUČKA UPRAVA KRK\, 11.308 €/god.\n\nProfil općine: https://koncesijs
+ ki-sat.vercel.app/#opcina/41942358B45790635822188
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -174,16 +182,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-b7f043e8300db142@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-e984f2e53fdc04b9@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20280613
 DTEND;VALUE=DATE:20280614
 SUMMARY:Ističe koncesija: KRČKE VILLE D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 13. 6. 2028. Godišnja fiksna nakn
  ada: 5.256 €.\n\n• KRČKE VILLE D.O.O. – Koncesija pomorskog dobra u
-  svrhu gospodarskog korištenja luke (KRK)\, 5.256 €/god.\n\nProfil opć
- ine: https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188\nI
- zvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+  svrhu gospodarskog korištenja luke (KRK) · davatelj: ŽUPANIJSKA LUČKA
+  UPRAVA KRK\, 5.256 €/god.\n\nProfil općine: https://koncesijski-sat.ve
+ rcel.app/#opcina/41942358B45790635822188\nIzvor: Registar koncesija (FINA)
+ \, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -193,8 +202,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-b7f043e8300db142@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-e984f2e53fdc04b9@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20271213
 DTEND;VALUE=DATE:20271214
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (KRČKE VILLE D.O
@@ -202,8 +211,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (KRČKE VILLE D.O
 DESCRIPTION:13. 6. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• KRČKE VILLE D.O.O. – Koncesija pomorskog dobra u svrhu gospoda
- rskog korištenja luke (KRK)\, 5.256 €/god.\n\nProfil općine: https://k
- oncesijski-sat.vercel.app/#opcina/41942358B45790635822188
+ rskog korištenja luke (KRK) · davatelj: ŽUPANIJSKA LUČKA UPRAVA KRK\, 
+ 5.256 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opci
+ na/41942358B45790635822188
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -214,17 +224,18 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-728eb9c5746cdfeb@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-002a46642eaf1d25@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20280817
 DTEND;VALUE=DATE:20280818
 SUMMARY:Ističe koncesija: RADIO O. K. D. O. O.
 DESCRIPTION:1 ugovor o koncesiji ističe 17. 8. 2028. Godišnja fiksna nakn
  ada: 66 €.\n\n• RADIO O. K. D. O. O. – Koncesija za obavljanje djela
  tnosti radija (BAŠKA\, CRIKVENICA\, DOBRINJ\, KRK\, MALINSKA-DUBAŠNICA\,
-  OMIŠALJ\, PUNAT)\, 66 €/god.\n\nProfil općine: https://koncesijski-sa
- t.vercel.app/#opcina/41942358B45790635822188\nIzvor: Registar koncesija (F
- INA)\, obrada Koncesijski sat 9. 11. 2026.
+  OMIŠALJ\, PUNAT) · davatelj: AGENCIJA ZA ELEKTRONIČKE MEDIJE\, 66 €/
+ god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4194235
+ 8B45790635822188\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sa
+ t 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -234,8 +245,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-728eb9c5746cdfeb@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-002a46642eaf1d25@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20280217
 DTEND;VALUE=DATE:20280218
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (RADIO O. K. D. O
@@ -244,8 +255,9 @@ DESCRIPTION:17. 8. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• RADIO O. K. D. O. O. – Koncesija za obavljanje djelatnosti radi
  ja (BAŠKA\, CRIKVENICA\, DOBRINJ\, KRK\, MALINSKA-DUBAŠNICA\, OMIŠALJ\,
-  PUNAT)\, 66 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.ap
- p/#opcina/41942358B45790635822188
+  PUNAT) · davatelj: AGENCIJA ZA ELEKTRONIČKE MEDIJE\, 66 €/god.\n\nPro
+ fil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B457906358
+ 22188
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -256,17 +268,18 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-eba5e45c5a390952@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-1e9d602aafe1a06b@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20281217
 DTEND;VALUE=DATE:20281218
 SUMMARY:Ističe koncesija: OMNIS D.O.O. PODRUŽNICA RIJEKA - GLAVNA PODRUŽ
  NICA
 DESCRIPTION:1 ugovor o koncesiji ističe 17. 12. 2028. Godišnja fiksna nak
  nada: 500 €.\n\n• OMNIS D.O.O. PODRUŽNICA RIJEKA - GLAVNA PODRUŽNICA
-  – Koncesija na pomorskom dobru (OMIŠALJ)\, 500 €/god.\n\nProfil opć
- ine: https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188\nI
- zvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+  – Koncesija na pomorskom dobru (OMIŠALJ) · davatelj: LUČKA UPRAVA RI
+ JEKA\, 500 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/
+ #opcina/41942358B45790635822188\nIzvor: Registar koncesija (FINA)\, obrada
+  Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -277,8 +290,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-eba5e45c5a390952@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-1e9d602aafe1a06b@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20280617
 DTEND;VALUE=DATE:20280618
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (OMNIS D.O.O. POD
@@ -286,8 +299,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (OMNIS D.O.O. POD
 DESCRIPTION:17. 12. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• OMNIS D.O.O. PODRUŽNICA RIJEKA - GLAVNA PODRUŽNICA – Koncesi
- ja na pomorskom dobru (OMIŠALJ)\, 500 €/god.\n\nProfil općine: https:/
- /koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
+ ja na pomorskom dobru (OMIŠALJ) · davatelj: LUČKA UPRAVA RIJEKA\, 500 
+ €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
+ 42358B45790635822188
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -298,16 +312,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-d1f2e932e41c53c9@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-819474e68f0da42b@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20290101
 DTEND;VALUE=DATE:20290102
 SUMMARY:Ističe koncesija: HOTELI NJIVICE D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 1. 1. 2029. Godišnja fiksna nakna
  da: 38.499 €.\n\n• HOTELI NJIVICE D.O.O. – Koncesija na pomorskom do
- bru (OMIŠALJ)\, 38.499 €/god.\n\nProfil općine: https://koncesijski-sa
- t.vercel.app/#opcina/41942358B45790635822188\nIzvor: Registar koncesija (F
- INA)\, obrada Koncesijski sat 9. 11. 2026.
+ bru (OMIŠALJ) · davatelj: PRIMORSKO GORANSKA ŽUPANIJA\, 38.499 €/god.
+ \n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B45
+ 790635822188\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9.
+  11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -317,17 +332,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-d1f2e932e41c53c9@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-819474e68f0da42b@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20280701
 DTEND;VALUE=DATE:20280702
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HOTELI NJIVICE D
  .O.O.)
 DESCRIPTION:1. 1. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
- \n\n• HOTELI NJIVICE D.O.O. – Koncesija na pomorskom dobru (OMIŠALJ)\
- , 38.499 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#o
- pcina/41942358B45790635822188
+ \n\n• HOTELI NJIVICE D.O.O. – Koncesija na pomorskom dobru (OMIŠALJ) 
+ · davatelj: PRIMORSKO GORANSKA ŽUPANIJA\, 38.499 €/god.\n\nProfil opć
+ ine: https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -338,16 +353,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-1191d9ee2df3a21f@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-ba6ff99dca1e6bed@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20290115
 DTEND;VALUE=DATE:20290116
 SUMMARY:Ističe koncesija: PONIKVE D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 15. 1. 2029. Godišnja fiksna nakn
  ada: 1.147 €.\n\n• PONIKVE D.O.O. – Koncesija pomorskog dobra u svrh
- u izgradnje i gospodarskog korištenja (BAŠKA)\, 1.147 €/god.\n\nProfil
-  općine: https://koncesijski-sat.vercel.app/#opcina/41942358B457906358221
- 88\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ u izgradnje i gospodarskog korištenja (BAŠKA) · davatelj: PRIMORSKO GOR
+ ANSKA ŽUPANIJA\, 1.147 €/god.\n\nProfil općine: https://koncesijski-sa
+ t.vercel.app/#opcina/41942358B45790635822188\nIzvor: Registar koncesija (F
+ INA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -357,16 +373,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-1191d9ee2df3a21f@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-ba6ff99dca1e6bed@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20280715
 DTEND;VALUE=DATE:20280716
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PONIKVE D.O.O.)
 DESCRIPTION:15. 1. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• PONIKVE D.O.O. – Koncesija pomorskog dobra u svrhu izgradnje i 
- gospodarskog korištenja (BAŠKA)\, 1.147 €/god.\n\nProfil općine: http
- s://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
+ gospodarskog korištenja (BAŠKA) · davatelj: PRIMORSKO GORANSKA ŽUPANIJ
+ A\, 1.147 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#
+ opcina/41942358B45790635822188
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -377,18 +394,18 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-a9f048d96357658a@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-0e59924f5aa7a3a4@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20290125
 DTEND;VALUE=DATE:20290126
 SUMMARY:Ističe koncesija: MAR.IN.SERVISE S.R.L.\, GLAVNA PODRUŽNICA RIJEK
  A\, SA SJEDIŠTEM U RIJECI
 DESCRIPTION:1 ugovor o koncesiji ističe 25. 1. 2029. Godišnja fiksna nakn
  ada: 1.500 €.\n\n• MAR.IN.SERVISE S.R.L.\, GLAVNA PODRUŽNICA RIJEKA\,
-  SA SJEDIŠTEM U RIJECI – Koncesija na pomorskom dobru (OMIŠALJ)\, 1.50
- 0 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4
- 1942358B45790635822188\nIzvor: Registar koncesija (FINA)\, obrada Koncesij
- ski sat 9. 11. 2026.
+  SA SJEDIŠTEM U RIJECI – Koncesija na pomorskom dobru (OMIŠALJ) · dav
+ atelj: LUČKA UPRAVA RIJEKA\, 1.500 €/god.\n\nProfil općine: https://ko
+ ncesijski-sat.vercel.app/#opcina/41942358B45790635822188\nIzvor: Registar 
+ koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -399,8 +416,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-a9f048d96357658a@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-0e59924f5aa7a3a4@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20280725
 DTEND;VALUE=DATE:20280726
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MAR.IN.SERVISE S
@@ -408,9 +425,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MAR.IN.SERVISE S
 DESCRIPTION:25. 1. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• MAR.IN.SERVISE S.R.L.\, GLAVNA PODRUŽNICA RIJEKA\, SA SJEDIŠTEM
-  U RIJECI – Koncesija na pomorskom dobru (OMIŠALJ)\, 1.500 €/god.\n\n
- Profil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B457906
- 35822188
+  U RIJECI – Koncesija na pomorskom dobru (OMIŠALJ) · davatelj: LUČKA 
+ UPRAVA RIJEKA\, 1.500 €/god.\n\nProfil općine: https://koncesijski-sat.
+ vercel.app/#opcina/41942358B45790635822188
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -421,16 +438,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-2cd95faa2078bdb3@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-ef36de0dcf9e1725@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20290318
 DTEND;VALUE=DATE:20290319
 SUMMARY:Ističe koncesija: MLD-USLUGE D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 18. 3. 2029. Godišnja fiksna nakn
  ada: 1.330 €.\n\n• MLD-USLUGE D.O.O. – Koncesija za obavljanje dimnj
- ačarskih poslova (KRK)\, 1.330 €/god.\n\nProfil općine: https://konces
- ijski-sat.vercel.app/#opcina/41942358B45790635822188\nIzvor: Registar konc
- esija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ ačarskih poslova (KRK) · davatelj: GRAD KRK\, 1.330 €/god.\n\nProfil o
+ pćine: https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
+ \nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -440,8 +457,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-2cd95faa2078bdb3@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-ef36de0dcf9e1725@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20280918
 DTEND;VALUE=DATE:20280919
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MLD-USLUGE D.O.O
@@ -449,8 +466,8 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MLD-USLUGE D.O.O
 DESCRIPTION:18. 3. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• MLD-USLUGE D.O.O. – Koncesija za obavljanje dimnjačarskih posl
- ova (KRK)\, 1.330 €/god.\n\nProfil općine: https://koncesijski-sat.verc
- el.app/#opcina/41942358B45790635822188
+ ova (KRK) · davatelj: GRAD KRK\, 1.330 €/god.\n\nProfil općine: https:
+ //koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -461,21 +478,23 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-93472ad7f844066f@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-483d79492dc14931@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20290405
 DTEND;VALUE=DATE:20290406
 SUMMARY:Ističe 5 koncesija · Otok Krk
 DESCRIPTION:5 ugovora o koncesiji ističe 5. 4. 2029. Godišnja fiksna nakn
  ada: 6.000 €.\n\n• ADRIAINSPEKT  D. O. O. – Koncesija na pomorskom d
- obru (OMIŠALJ)\, 1.500 €/god.\n• SAYBOLT PAN ADRIATIKA D.O.O. – Kon
- cesija na pomorskom dobru (OMIŠALJ)\, 1.500 €/god.\n• CROATIAINSPECT 
- D.O.O. – Koncesija na pomorskom dobru (OMIŠALJ)\, 1.500 €/god.\n• I
- ND - EKO D. O. O. – Koncesija na pomorskom dobru (OMIŠALJ)\, 1.000 €/
- god.\n• BEN SHIP SUPPLY D.O.O. – Koncesija na pomorskom dobru (OMIŠAL
- J)\, 500 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#o
- pcina/41942358B45790635822188\nIzvor: Registar koncesija (FINA)\, obrada K
- oncesijski sat 9. 11. 2026.
+ obru (OMIŠALJ) · davatelj: LUČKA UPRAVA RIJEKA\, 1.500 €/god.\n• SA
+ YBOLT PAN ADRIATIKA D.O.O. – Koncesija na pomorskom dobru (OMIŠALJ) · 
+ davatelj: LUČKA UPRAVA RIJEKA\, 1.500 €/god.\n• CROATIAINSPECT D.O.O.
+  – Koncesija na pomorskom dobru (OMIŠALJ) · davatelj: LUČKA UPRAVA RI
+ JEKA\, 1.500 €/god.\n• IND - EKO D. O. O. – Koncesija na pomorskom d
+ obru (OMIŠALJ) · davatelj: LUČKA UPRAVA RIJEKA\, 1.000 €/god.\n• BE
+ N SHIP SUPPLY D.O.O. – Koncesija na pomorskom dobru (OMIŠALJ) · davate
+ lj: LUČKA UPRAVA RIJEKA\, 500 €/god.\n\nProfil općine: https://koncesi
+ jski-sat.vercel.app/#opcina/41942358B45790635822188\nIzvor: Registar konce
+ sija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -485,41 +504,44 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-93472ad7f844066f@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-483d79492dc14931@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20281005
 DTEND;VALUE=DATE:20281006
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 5 koncesija
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 5 koncesija · Otok Krk
 DESCRIPTION:5. 4. 2029. ističe 5 ugovora o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• ADRIAINSPEKT  D. O. O. – Koncesija na pomorskom dobru (OMIŠALJ
- )\, 1.500 €/god.\n• SAYBOLT PAN ADRIATIKA D.O.O. – Koncesija na pomo
- rskom dobru (OMIŠALJ)\, 1.500 €/god.\n• CROATIAINSPECT D.O.O. – Kon
- cesija na pomorskom dobru (OMIŠALJ)\, 1.500 €/god.\n• IND - EKO D. O.
-  O. – Koncesija na pomorskom dobru (OMIŠALJ)\, 1.000 €/god.\n• BEN 
- SHIP SUPPLY D.O.O. – Koncesija na pomorskom dobru (OMIŠALJ)\, 500 €/g
- od.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358
- B45790635822188
+ ) · davatelj: LUČKA UPRAVA RIJEKA\, 1.500 €/god.\n• SAYBOLT PAN ADRI
+ ATIKA D.O.O. – Koncesija na pomorskom dobru (OMIŠALJ) · davatelj: LUČ
+ KA UPRAVA RIJEKA\, 1.500 €/god.\n• CROATIAINSPECT D.O.O. – Koncesija
+  na pomorskom dobru (OMIŠALJ) · davatelj: LUČKA UPRAVA RIJEKA\, 1.500 
+ €/god.\n• IND - EKO D. O. O. – Koncesija na pomorskom dobru (OMIŠAL
+ J) · davatelj: LUČKA UPRAVA RIJEKA\, 1.000 €/god.\n• BEN SHIP SUPPLY
+  D.O.O. – Koncesija na pomorskom dobru (OMIŠALJ) · davatelj: LUČKA UP
+ RAVA RIJEKA\, 500 €/god.\n\nProfil općine: https://koncesijski-sat.verc
+ el.app/#opcina/41942358B45790635822188
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 5 koncesija
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 5 koncesija · Otok Krk
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-e1885ef9ce66a9fc@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-1d59649a447c4aab@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20290407
 DTEND;VALUE=DATE:20290408
 SUMMARY:Ističe koncesija: STELLA -IMPEX DRUŠTVO S OGRANIČENOM ODGOVORNO
  ŠĆU
 DESCRIPTION:1 ugovor o koncesiji ističe 7. 4. 2029. Godišnja fiksna nakna
  da: 500 €.\n\n• STELLA -IMPEX DRUŠTVO S OGRANIČENOM ODGOVORNOŠĆU 
- – Koncesija na pomorskom dobru (OMIŠALJ)\, 500 €/god.\n\nProfil opći
- ne: https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188\nIz
- vor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ – Koncesija na pomorskom dobru (OMIŠALJ) · davatelj: LUČKA UPRAVA RIJ
+ EKA\, 500 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#
+ opcina/41942358B45790635822188\nIzvor: Registar koncesija (FINA)\, obrada 
+ Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -530,8 +552,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-e1885ef9ce66a9fc@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-1d59649a447c4aab@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20281007
 DTEND;VALUE=DATE:20281008
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (STELLA -IMPEX DR
@@ -539,8 +561,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (STELLA -IMPEX DR
 DESCRIPTION:7. 4. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• STELLA -IMPEX DRUŠTVO S OGRANIČENOM ODGOVORNOŠĆU – Koncesija
-  na pomorskom dobru (OMIŠALJ)\, 500 €/god.\n\nProfil općine: https://k
- oncesijski-sat.vercel.app/#opcina/41942358B45790635822188
+  na pomorskom dobru (OMIŠALJ) · davatelj: LUČKA UPRAVA RIJEKA\, 500 €
+ /god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419423
+ 58B45790635822188
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -551,16 +574,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-dc6b7f269a701cec@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-c635f46b6c772974@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20290523
 DTEND;VALUE=DATE:20290524
 SUMMARY:Ističe koncesija: DEZINSEKCIJA\, D. O. O.
 DESCRIPTION:1 ugovor o koncesiji ističe 23. 5. 2029. Godišnja fiksna nakn
  ada: 2.000 €.\n\n• DEZINSEKCIJA\, D. O. O. – Koncesija na pomorskom 
- dobru (OMIŠALJ)\, 2.000 €/god.\n\nProfil općine: https://koncesijski-s
- at.vercel.app/#opcina/41942358B45790635822188\nIzvor: Registar koncesija (
- FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ dobru (OMIŠALJ) · davatelj: LUČKA UPRAVA RIJEKA\, 2.000 €/god.\n\nPro
+ fil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B457906358
+ 22188\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 20
+ 26.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -570,8 +594,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-dc6b7f269a701cec@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-c635f46b6c772974@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20281123
 DTEND;VALUE=DATE:20281124
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DEZINSEKCIJA\, D
@@ -579,8 +603,8 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DEZINSEKCIJA\, D
 DESCRIPTION:23. 5. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• DEZINSEKCIJA\, D. O. O. – Koncesija na pomorskom dobru (OMIŠAL
- J)\, 2.000 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/
- #opcina/41942358B45790635822188
+ J) · davatelj: LUČKA UPRAVA RIJEKA\, 2.000 €/god.\n\nProfil općine: h
+ ttps://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -591,16 +615,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-a45b3ed9f85145e6@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-45ab4d405aa90d0f@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20290528
 DTEND;VALUE=DATE:20290529
 SUMMARY:Ističe koncesija: OTO-NAUTIKA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 28. 5. 2029. Godišnja fiksna nakn
  ada: 1.781 €.\n\n• OTO-NAUTIKA D.O.O. – Koncesija za luku (OMIŠALJ)
- \, 1.781 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#o
- pcina/41942358B45790635822188\nIzvor: Registar koncesija (FINA)\, obrada K
- oncesijski sat 9. 11. 2026.
+  · davatelj: ŽUPANIJSKA LUČKA UPRAVA KRK\, 1.781 €/god.\n\nProfil op
+ ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188\
+ nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -610,17 +634,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-a45b3ed9f85145e6@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-45ab4d405aa90d0f@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20281128
 DTEND;VALUE=DATE:20281129
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (OTO-NAUTIKA D.O.
  O.)
 DESCRIPTION:28. 5. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
- .\n\n• OTO-NAUTIKA D.O.O. – Koncesija za luku (OMIŠALJ)\, 1.781 €/g
- od.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358
- B45790635822188
+ .\n\n• OTO-NAUTIKA D.O.O. – Koncesija za luku (OMIŠALJ) · davatelj: 
+ ŽUPANIJSKA LUČKA UPRAVA KRK\, 1.781 €/god.\n\nProfil općine: https://
+ koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -631,16 +655,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-712eda221fdada9d@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-146758f3dbaabeea@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20290807
 DTEND;VALUE=DATE:20290808
 SUMMARY:Ističe koncesija: DEZINSEKCIJA\, D. O. O.
 DESCRIPTION:1 ugovor o koncesiji ističe 7. 8. 2029. Godišnja fiksna nakna
  da: 1.000 €.\n\n• DEZINSEKCIJA\, D. O. O. – Koncesija na pomorskom d
- obru (OMIŠALJ)\, 1.000 €/god.\n\nProfil općine: https://koncesijski-sa
- t.vercel.app/#opcina/41942358B45790635822188\nIzvor: Registar koncesija (F
- INA)\, obrada Koncesijski sat 9. 11. 2026.
+ obru (OMIŠALJ) · davatelj: LUČKA UPRAVA RIJEKA\, 1.000 €/god.\n\nProf
+ il općine: https://koncesijski-sat.vercel.app/#opcina/41942358B4579063582
+ 2188\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 202
+ 6.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -650,8 +675,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-712eda221fdada9d@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-146758f3dbaabeea@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20290207
 DTEND;VALUE=DATE:20290208
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DEZINSEKCIJA\, D
@@ -659,8 +684,8 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DEZINSEKCIJA\, D
 DESCRIPTION:7. 8. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• DEZINSEKCIJA\, D. O. O. – Koncesija na pomorskom dobru (OMIŠALJ
- )\, 1.000 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#
- opcina/41942358B45790635822188
+ ) · davatelj: LUČKA UPRAVA RIJEKA\, 1.000 €/god.\n\nProfil općine: ht
+ tps://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -671,17 +696,18 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-38c058f5f24681c9@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-67d05c08eafd8833@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20290930
 DTEND;VALUE=DATE:20291001
 SUMMARY:Ističe 2 koncesije · Otok Krk
 DESCRIPTION:2 ugovora o koncesiji ističe 30. 9. 2029. Godišnja fiksna nak
  nada: 1.000 €.\n\n• AMEC OPSKRBA BRODOVA D.O.O. – Koncesija na pomor
- skom dobru (OMIŠALJ)\, 500 €/god.\n• INSPECTORATE(CROATIA)LTD D.O.O. 
- – Koncesija na pomorskom dobru (OMIŠALJ)\, 500 €/god.\n\nProfil opći
- ne: https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188\nIz
- vor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ skom dobru (OMIŠALJ) · davatelj: LUČKA UPRAVA RIJEKA\, 500 €/god.\n
+ • INSPECTORATE(CROATIA)LTD D.O.O. – Koncesija na pomorskom dobru (OMI
+ ŠALJ) · davatelj: LUČKA UPRAVA RIJEKA\, 500 €/god.\n\nProfil općine:
+  https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188\nIzvor
+ : Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -691,38 +717,39 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-38c058f5f24681c9@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-67d05c08eafd8833@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20290330
 DTEND;VALUE=DATE:20290331
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Otok Krk
 DESCRIPTION:30. 9. 2029. ističe 2 ugovora o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• AMEC OPSKRBA BRODOVA D.O.O. – Koncesija na pomorskom dobru (OM
- IŠALJ)\, 500 €/god.\n• INSPECTORATE(CROATIA)LTD D.O.O. – Koncesija 
- na pomorskom dobru (OMIŠALJ)\, 500 €/god.\n\nProfil općine: https://ko
- ncesijski-sat.vercel.app/#opcina/41942358B45790635822188
+ IŠALJ) · davatelj: LUČKA UPRAVA RIJEKA\, 500 €/god.\n• INSPECTORATE
+ (CROATIA)LTD D.O.O. – Koncesija na pomorskom dobru (OMIŠALJ) · davatel
+ j: LUČKA UPRAVA RIJEKA\, 500 €/god.\n\nProfil općine: https://koncesij
+ ski-sat.vercel.app/#opcina/41942358B45790635822188
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Otok Krk
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-10f7ec74d8821693@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-a68daa8cb0edf445@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20291120
 DTEND;VALUE=DATE:20291121
 SUMMARY:Ističe koncesija: OILSPEC INTERNATIONAL D.O.O. ZA ISPITIVANJA I SA
  VJETOVANJA
 DESCRIPTION:1 ugovor o koncesiji ističe 20. 11. 2029. Godišnja fiksna nak
  nada: 1.500 €.\n\n• OILSPEC INTERNATIONAL D.O.O. ZA ISPITIVANJA I SAVJ
- ETOVANJA – Koncesija na pomorskom dobru (OMIŠALJ)\, 1.500 €/god.\n\nP
- rofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B4579063
- 5822188\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 
- 2026.
+ ETOVANJA – Koncesija na pomorskom dobru (OMIŠALJ) · davatelj: LUČKA U
+ PRAVA RIJEKA\, 1.500 €/god.\n\nProfil općine: https://koncesijski-sat.v
+ ercel.app/#opcina/41942358B45790635822188\nIzvor: Registar koncesija (FINA
+ )\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -733,8 +760,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-10f7ec74d8821693@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-a68daa8cb0edf445@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20290520
 DTEND;VALUE=DATE:20290521
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (OILSPEC INTERNAT
@@ -742,8 +769,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (OILSPEC INTERNAT
 DESCRIPTION:20. 11. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• OILSPEC INTERNATIONAL D.O.O. ZA ISPITIVANJA I SAVJETOVANJA – K
- oncesija na pomorskom dobru (OMIŠALJ)\, 1.500 €/god.\n\nProfil općine:
-  https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
+ oncesija na pomorskom dobru (OMIŠALJ) · davatelj: LUČKA UPRAVA RIJEKA\,
+  1.500 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opc
+ ina/41942358B45790635822188
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -754,18 +782,19 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-3c050e9833153539@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-2adaa75f0af35c23@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20300701
 DTEND;VALUE=DATE:20300702
 SUMMARY:Ističe 2 koncesije · Otok Krk
 DESCRIPTION:2 ugovora o koncesiji ističe 1. 7. 2030. Godišnja fiksna nakn
  ada: 19.478 €.\n\n• INSULA\,VL.ZVONIMIR MASLAĆ I DORA MASLAČ \,NJIVI
- CE – Koncesija na pomorskom dobru (OMIŠALJ)\, 10.861 €/god.\n• IVA 
- ZNIDARŠIĆ\, SUNCE\, VL. IVA ZNIDARŠIĆ – Koncesija na pomorskom dobru
-  (OMIŠALJ)\, 8.617 €/god.\n\nProfil općine: https://koncesijski-sat.ve
- rcel.app/#opcina/41942358B45790635822188\nIzvor: Registar koncesija (FINA)
- \, obrada Koncesijski sat 9. 11. 2026.
+ CE – Koncesija na pomorskom dobru (OMIŠALJ) · davatelj: PRIMORSKO GORA
+ NSKA ŽUPANIJA\, 10.861 €/god.\n• IVA ZNIDARŠIĆ\, SUNCE\, VL. IVA ZN
+ IDARŠIĆ – Koncesija na pomorskom dobru (OMIŠALJ) · davatelj: PRIMORS
+ KO GORANSKA ŽUPANIJA\, 8.617 €/god.\n\nProfil općine: https://koncesij
+ ski-sat.vercel.app/#opcina/41942358B45790635822188\nIzvor: Registar konces
+ ija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -775,37 +804,39 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-3c050e9833153539@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-2adaa75f0af35c23@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20300101
 DTEND;VALUE=DATE:20300102
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Otok Krk
 DESCRIPTION:1. 7. 2030. ističe 2 ugovora o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• INSULA\,VL.ZVONIMIR MASLAĆ I DORA MASLAČ \,NJIVICE – Koncesij
- a na pomorskom dobru (OMIŠALJ)\, 10.861 €/god.\n• IVA ZNIDARŠIĆ\, S
- UNCE\, VL. IVA ZNIDARŠIĆ – Koncesija na pomorskom dobru (OMIŠALJ)\, 8
- .617 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcin
- a/41942358B45790635822188
+ a na pomorskom dobru (OMIŠALJ) · davatelj: PRIMORSKO GORANSKA ŽUPANIJA\
+ , 10.861 €/god.\n• IVA ZNIDARŠIĆ\, SUNCE\, VL. IVA ZNIDARŠIĆ – K
+ oncesija na pomorskom dobru (OMIŠALJ) · davatelj: PRIMORSKO GORANSKA ŽU
+ PANIJA\, 8.617 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.
+ app/#opcina/41942358B45790635822188
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Otok Krk
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-591dfc6f1523deab@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-d99000238ed92033@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20300804
 DTEND;VALUE=DATE:20300805
 SUMMARY:Ističe koncesija: FLASH ENERGY D.O.O
 DESCRIPTION:1 ugovor o koncesiji ističe 4. 8. 2030. Godišnja fiksna nakna
  da: 2.476 €.\n\n• FLASH ENERGY D.O.O – Koncesija pomorskog dobra u s
- vrhu gospodarskog korištenja luke (KRK)\, 2.476 €/god.\n\nProfil općin
- e: https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188\nIzv
- or: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ vrhu gospodarskog korištenja luke (KRK) · davatelj: ŽUPANIJSKA LUČKA U
+ PRAVA KRK\, 2.476 €/god.\n\nProfil općine: https://koncesijski-sat.verc
+ el.app/#opcina/41942358B45790635822188\nIzvor: Registar koncesija (FINA)\,
+  obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -815,8 +846,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-591dfc6f1523deab@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-d99000238ed92033@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20300204
 DTEND;VALUE=DATE:20300205
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (FLASH ENERGY D.O
@@ -824,8 +855,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (FLASH ENERGY D.O
 DESCRIPTION:4. 8. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• FLASH ENERGY D.O.O – Koncesija pomorskog dobra u svrhu gospodars
- kog korištenja luke (KRK)\, 2.476 €/god.\n\nProfil općine: https://kon
- cesijski-sat.vercel.app/#opcina/41942358B45790635822188
+ kog korištenja luke (KRK) · davatelj: ŽUPANIJSKA LUČKA UPRAVA KRK\, 2.
+ 476 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina
+ /41942358B45790635822188
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -836,16 +868,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-ae0216dcda0939a2@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-7898e9d476b00124@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20300805
 DTEND;VALUE=DATE:20300806
 SUMMARY:Ističe koncesija: DEZINSEKCIJA\, D. O. O.
 DESCRIPTION:1 ugovor o koncesiji ističe 5. 8. 2030. Godišnja fiksna nakna
  da: 1.000 €.\n\n• DEZINSEKCIJA\, D. O. O. – Koncesija na pomorskom d
- obru (OMIŠALJ)\, 1.000 €/god.\n\nProfil općine: https://koncesijski-sa
- t.vercel.app/#opcina/41942358B45790635822188\nIzvor: Registar koncesija (F
- INA)\, obrada Koncesijski sat 9. 11. 2026.
+ obru (OMIŠALJ) · davatelj: LUČKA UPRAVA RIJEKA\, 1.000 €/god.\n\nProf
+ il općine: https://koncesijski-sat.vercel.app/#opcina/41942358B4579063582
+ 2188\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 202
+ 6.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -855,8 +888,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-ae0216dcda0939a2@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-7898e9d476b00124@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20300205
 DTEND;VALUE=DATE:20300206
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DEZINSEKCIJA\, D
@@ -864,8 +897,8 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DEZINSEKCIJA\, D
 DESCRIPTION:5. 8. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• DEZINSEKCIJA\, D. O. O. – Koncesija na pomorskom dobru (OMIŠALJ
- )\, 1.000 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#
- opcina/41942358B45790635822188
+ ) · davatelj: LUČKA UPRAVA RIJEKA\, 1.000 €/god.\n\nProfil općine: ht
+ tps://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -876,16 +909,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-dd3509e068322d30@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-9176946d7e919b8a@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20301111
 DTEND;VALUE=DATE:20301112
 SUMMARY:Ističe koncesija: MLD-USLUGE D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 11. 11. 2030. Godišnja fiksna nak
  nada: 500 €.\n\n• MLD-USLUGE D.O.O. – Koncesija za obavljanje dimnja
- čarskih poslova (OMIŠALJ)\, 500 €/god.\n\nProfil općine: https://konc
- esijski-sat.vercel.app/#opcina/41942358B45790635822188\nIzvor: Registar ko
- ncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ čarskih poslova (OMIŠALJ) · davatelj: OPĆINA OMIŠALJ\, 500 €/god.\n
+ \nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B4579
+ 0635822188\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 1
+ 1. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -895,8 +929,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-dd3509e068322d30@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-9176946d7e919b8a@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20300511
 DTEND;VALUE=DATE:20300512
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MLD-USLUGE D.O.O
@@ -904,8 +938,8 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MLD-USLUGE D.O.O
 DESCRIPTION:11. 11. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• MLD-USLUGE D.O.O. – Koncesija za obavljanje dimnjačarskih pos
- lova (OMIŠALJ)\, 500 €/god.\n\nProfil općine: https://koncesijski-sat.
- vercel.app/#opcina/41942358B45790635822188
+ lova (OMIŠALJ) · davatelj: OPĆINA OMIŠALJ\, 500 €/god.\n\nProfil op
+ ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -916,16 +950,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-37bc3adf77ac3c11@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-659e74cb50fd6085@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20310408
 DTEND;VALUE=DATE:20310409
 SUMMARY:Ističe koncesija: INA-INDUSTRIJA NAFTE  D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 8. 4. 2031. Godišnja fiksna nakna
  da: 1.875 €.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija na pomorsko
- m dobru (KRK)\, 1.875 €/god.\n\nProfil općine: https://koncesijski-sat.
- vercel.app/#opcina/41942358B45790635822188\nIzvor: Registar koncesija (FIN
- A)\, obrada Koncesijski sat 9. 11. 2026.
+ m dobru (KRK) · davatelj: ŽUPANIJSKA LUČKA UPRAVA KRK\, 1.875 €/god.\
+ n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B457
+ 90635822188\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 
+ 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -935,17 +970,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-37bc3adf77ac3c11@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-659e74cb50fd6085@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20301008
 DTEND;VALUE=DATE:20301009
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA-INDUSTRIJA N
  AFTE  D.D.)
 DESCRIPTION:8. 4. 2031. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
- \n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija na pomorskom dobru (KRK)\
- , 1.875 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#op
- cina/41942358B45790635822188
+ \n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija na pomorskom dobru (KRK) 
+ · davatelj: ŽUPANIJSKA LUČKA UPRAVA KRK\, 1.875 €/god.\n\nProfil opć
+ ine: https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -956,16 +991,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-74fe641fa45d0114@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-06298d83f2bc640e@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20310521
 DTEND;VALUE=DATE:20310522
 SUMMARY:Ističe koncesija: INA-INDUSTRIJA NAFTE  D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 21. 5. 2031. Godišnja fiksna nakn
  ada: 1.326 €.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija na pomorsk
- om dobru (KRK)\, 1.326 €/god.\n\nProfil općine: https://koncesijski-sat
- .vercel.app/#opcina/41942358B45790635822188\nIzvor: Registar koncesija (FI
- NA)\, obrada Koncesijski sat 9. 11. 2026.
+ om dobru (KRK) · davatelj: ŽUPANIJSKA LUČKA UPRAVA KRK\, 1.326 €/god.
+ \n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B45
+ 790635822188\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9.
+  11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -975,8 +1011,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-74fe641fa45d0114@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-06298d83f2bc640e@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20301121
 DTEND;VALUE=DATE:20301122
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA-INDUSTRIJA N
@@ -984,8 +1020,8 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA-INDUSTRIJA N
 DESCRIPTION:21. 5. 2031. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija na pomorskom dobru (KRK)
- \, 1.326 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#o
- pcina/41942358B45790635822188
+  · davatelj: ŽUPANIJSKA LUČKA UPRAVA KRK\, 1.326 €/god.\n\nProfil op
+ ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -996,16 +1032,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-93771072a6484d8a@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-ae9f252e88b44dbb@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20310826
 DTEND;VALUE=DATE:20310827
 SUMMARY:Ističe koncesija: TRUMM D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 26. 8. 2031. Godišnja fiksna nakn
  ada: 4.015 €.\n\n• TRUMM D.O.O. – Koncesija na pomorskom dobru (DOBR
- INJ)\, 4.015 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.ap
- p/#opcina/41942358B45790635822188\nIzvor: Registar koncesija (FINA)\, obra
- da Koncesijski sat 9. 11. 2026.
+ INJ) · davatelj: PRIMORSKO GORANSKA ŽUPANIJA\, 4.015 €/god.\n\nProfil 
+ općine: https://koncesijski-sat.vercel.app/#opcina/41942358B4579063582218
+ 8\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1015,16 +1051,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-93771072a6484d8a@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-ae9f252e88b44dbb@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20310226
 DTEND;VALUE=DATE:20310227
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (TRUMM D.O.O.)
 DESCRIPTION:26. 8. 2031. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
- .\n\n• TRUMM D.O.O. – Koncesija na pomorskom dobru (DOBRINJ)\, 4.015 
- €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
- 42358B45790635822188
+ .\n\n• TRUMM D.O.O. – Koncesija na pomorskom dobru (DOBRINJ) · davate
+ lj: PRIMORSKO GORANSKA ŽUPANIJA\, 4.015 €/god.\n\nProfil općine: https
+ ://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1035,16 +1071,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-ac628041ae0450bf@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-756a3b36b810befe@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20311119
 DTEND;VALUE=DATE:20311120
 SUMMARY:Ističe koncesija: MARINA PUNAT D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 19. 11. 2031. Godišnja fiksna nak
  nada: 21.463 €.\n\n• MARINA PUNAT D.O.O. – Koncesija pomorskog dobra
-  u svrhu gospodarskog korištenja luke (PUNAT)\, 21.463 €/god.\n\nProfil
-  općine: https://koncesijski-sat.vercel.app/#opcina/41942358B457906358221
- 88\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+  u svrhu gospodarskog korištenja luke (PUNAT) · davatelj: MINISTARSTVO M
+ ORA\, PROMETA I INFRASTRUKTURE\, 21.463 €/god.\n\nProfil općine: https:
+ //koncesijski-sat.vercel.app/#opcina/41942358B45790635822188\nIzvor: Regis
+ tar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1054,8 +1091,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-ac628041ae0450bf@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-756a3b36b810befe@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20310519
 DTEND;VALUE=DATE:20310520
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MARINA PUNAT D.O
@@ -1063,8 +1100,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MARINA PUNAT D.O
 DESCRIPTION:19. 11. 2031. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• MARINA PUNAT D.O.O. – Koncesija pomorskog dobra u svrhu gospod
- arskog korištenja luke (PUNAT)\, 21.463 €/god.\n\nProfil općine: https
- ://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
+ arskog korištenja luke (PUNAT) · davatelj: MINISTARSTVO MORA\, PROMETA I
+  INFRASTRUKTURE\, 21.463 €/god.\n\nProfil općine: https://koncesijski-s
+ at.vercel.app/#opcina/41942358B45790635822188
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1075,16 +1113,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-75ce7f67a445f31f@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-c331d8f602b4b977@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20320201
 DTEND;VALUE=DATE:20320202
 SUMMARY:Ističe koncesija: PONIKVE D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 1. 2. 2032. Godišnja fiksna nakna
  da: 3.472 €.\n\n• PONIKVE D.O.O. – Koncesija na pomorskom dobru (OMI
- ŠALJ)\, 3.472 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.
- app/#opcina/41942358B45790635822188\nIzvor: Registar koncesija (FINA)\, ob
- rada Koncesijski sat 9. 11. 2026.
+ ŠALJ) · davatelj: PRIMORSKO GORANSKA ŽUPANIJA\, 3.472 €/god.\n\nProfi
+ l općine: https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822
+ 188\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026
+ .
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1094,16 +1133,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-75ce7f67a445f31f@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-c331d8f602b4b977@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20310801
 DTEND;VALUE=DATE:20310802
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PONIKVE D.O.O.)
 DESCRIPTION:1. 2. 2032. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
- \n\n• PONIKVE D.O.O. – Koncesija na pomorskom dobru (OMIŠALJ)\, 3.472
-  €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41
- 942358B45790635822188
+ \n\n• PONIKVE D.O.O. – Koncesija na pomorskom dobru (OMIŠALJ) · dava
+ telj: PRIMORSKO GORANSKA ŽUPANIJA\, 3.472 €/god.\n\nProfil općine: htt
+ ps://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1114,17 +1153,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-06bb9642d7310ba3@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-d1ac905d214b4b70@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20320816
 DTEND;VALUE=DATE:20320817
 SUMMARY:Ističe koncesija: BRODOGRADILIŠTE PUNAT D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 16. 8. 2032. Godišnja fiksna nakn
  ada: 3.356 €.\n\n• BRODOGRADILIŠTE PUNAT D.O.O. – Koncesija pomorsk
- og dobra u svrhu gospodarskog korištenja luke (PUNAT)\, 3.356 €/god.\n\
- nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B45790
- 635822188\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11
- . 2026.
+ og dobra u svrhu gospodarskog korištenja luke (PUNAT) · davatelj: MINIST
+ ARSTVO MORA\, PROMETA I INFRASTRUKTURE\, 3.356 €/god.\n\nProfil općine:
+  https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188\nIzvor
+ : Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1134,8 +1173,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-06bb9642d7310ba3@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-d1ac905d214b4b70@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20320216
 DTEND;VALUE=DATE:20320217
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BRODOGRADILIŠTE
@@ -1143,8 +1182,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BRODOGRADILIŠTE
 DESCRIPTION:16. 8. 2032. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• BRODOGRADILIŠTE PUNAT D.O.O. – Koncesija pomorskog dobra u svr
- hu gospodarskog korištenja luke (PUNAT)\, 3.356 €/god.\n\nProfil općin
- e: https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
+ hu gospodarskog korištenja luke (PUNAT) · davatelj: MINISTARSTVO MORA\, 
+ PROMETA I INFRASTRUKTURE\, 3.356 €/god.\n\nProfil općine: https://konce
+ sijski-sat.vercel.app/#opcina/41942358B45790635822188
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1155,16 +1195,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-3f39f79de2d63900@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-ea8437db4d5be8e1@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20320920
 DTEND;VALUE=DATE:20320921
 SUMMARY:Ističe koncesija: HOTELI PUNAT D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 20. 9. 2032. Godišnja fiksna nakn
  ada: 44.656 €.\n\n• HOTELI PUNAT D.D. – Koncesija na pomorskom dobru
-  (PUNAT)\, 44.656 €/god.\n\nProfil općine: https://koncesijski-sat.verc
- el.app/#opcina/41942358B45790635822188\nIzvor: Registar koncesija (FINA)\,
-  obrada Koncesijski sat 9. 11. 2026.
+  (PUNAT) · davatelj: PRIMORSKO GORANSKA ŽUPANIJA\, 44.656 €/god.\n\nPr
+ ofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B45790635
+ 822188\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2
+ 026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1174,17 +1215,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-3f39f79de2d63900@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-ea8437db4d5be8e1@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20320320
 DTEND;VALUE=DATE:20320321
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HOTELI PUNAT D.D
  .)
 DESCRIPTION:20. 9. 2032. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
- .\n\n• HOTELI PUNAT D.D. – Koncesija na pomorskom dobru (PUNAT)\, 44.6
- 56 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/
- 41942358B45790635822188
+ .\n\n• HOTELI PUNAT D.D. – Koncesija na pomorskom dobru (PUNAT) · dav
+ atelj: PRIMORSKO GORANSKA ŽUPANIJA\, 44.656 €/god.\n\nProfil općine: h
+ ttps://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1195,19 +1236,21 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-fd0f993906dc2181@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-8de3cd224c5b17e1@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20330502
 DTEND;VALUE=DATE:20330503
 SUMMARY:Ističe 3 koncesije · Otok Krk
 DESCRIPTION:3 ugovora o koncesiji ističe 2. 5. 2033. Godišnja fiksna nakn
  ada: 1.066 €.\n\n• HEP-OPERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O. – Pos
- ebna upotreba pomorskog dobra (KRK)\, 916 €/god.\n• HEP-OPERATOR DISTR
- IBUCIJSKOG SUSTAVA D.O.O. – Posebna upotreba pomorskog dobra (OMIŠALJ)\
- , 80 €/god.\n• HEP-OPERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O. – Posebna
-  upotreba pomorskog dobra (PUNAT)\, 70 €/god.\n\nProfil općine: https:/
- /koncesijski-sat.vercel.app/#opcina/41942358B45790635822188\nIzvor: Regist
- ar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ ebna upotreba pomorskog dobra (KRK) · davatelj: PRIMORSKO GORANSKA ŽUPAN
+ IJA\, 916 €/god.\n• HEP-OPERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O. – Po
+ sebna upotreba pomorskog dobra (OMIŠALJ) · davatelj: PRIMORSKO GORANSKA 
+ ŽUPANIJA\, 80 €/god.\n• HEP-OPERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O. 
+ – Posebna upotreba pomorskog dobra (PUNAT) · davatelj: PRIMORSKO GORANS
+ KA ŽUPANIJA\, 70 €/god.\n\nProfil općine: https://koncesijski-sat.verc
+ el.app/#opcina/41942358B45790635822188\nIzvor: Registar koncesija (FINA)\,
+  obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1217,38 +1260,41 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-fd0f993906dc2181@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-8de3cd224c5b17e1@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20321102
 DTEND;VALUE=DATE:20321103
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Otok Krk
 DESCRIPTION:2. 5. 2033. ističe 3 ugovora o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• HEP-OPERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O. – Posebna upotreba 
- pomorskog dobra (KRK)\, 916 €/god.\n• HEP-OPERATOR DISTRIBUCIJSKOG SUS
- TAVA D.O.O. – Posebna upotreba pomorskog dobra (OMIŠALJ)\, 80 €/god.\
- n• HEP-OPERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O. – Posebna upotreba pomo
- rskog dobra (PUNAT)\, 70 €/god.\n\nProfil općine: https://koncesijski-s
- at.vercel.app/#opcina/41942358B45790635822188
+ pomorskog dobra (KRK) · davatelj: PRIMORSKO GORANSKA ŽUPANIJA\, 916 €/
+ god.\n• HEP-OPERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O. – Posebna upotreba
+  pomorskog dobra (OMIŠALJ) · davatelj: PRIMORSKO GORANSKA ŽUPANIJA\, 80
+  €/god.\n• HEP-OPERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O. – Posebna upo
+ treba pomorskog dobra (PUNAT) · davatelj: PRIMORSKO GORANSKA ŽUPANIJA\, 
+ 70 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/
+ 41942358B45790635822188
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Otok Krk
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-5f8c4b8d6bafac97@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-d4495d20254db811@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20331004
 DTEND;VALUE=DATE:20331005
 SUMMARY:Ističe koncesija: HOTELI PUNAT D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 4. 10. 2033. Godišnja fiksna nakn
  ada: 13.960 €.\n\n• HOTELI PUNAT D.D. – Koncesija na pomorskom dobru
-  (PUNAT)\, 13.960 €/god.\n\nProfil općine: https://koncesijski-sat.verc
- el.app/#opcina/41942358B45790635822188\nIzvor: Registar koncesija (FINA)\,
-  obrada Koncesijski sat 9. 11. 2026.
+  (PUNAT) · davatelj: PRIMORSKO GORANSKA ŽUPANIJA\, 13.960 €/god.\n\nPr
+ ofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B45790635
+ 822188\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2
+ 026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1258,17 +1304,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-5f8c4b8d6bafac97@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-d4495d20254db811@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20330404
 DTEND;VALUE=DATE:20330405
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HOTELI PUNAT D.D
  .)
 DESCRIPTION:4. 10. 2033. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
- .\n\n• HOTELI PUNAT D.D. – Koncesija na pomorskom dobru (PUNAT)\, 13.9
- 60 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/
- 41942358B45790635822188
+ .\n\n• HOTELI PUNAT D.D. – Koncesija na pomorskom dobru (PUNAT) · dav
+ atelj: PRIMORSKO GORANSKA ŽUPANIJA\, 13.960 €/god.\n\nProfil općine: h
+ ttps://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1279,16 +1325,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-2272bbc74181fed7@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-1049bb233caecfb3@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20340406
 DTEND;VALUE=DATE:20340407
 SUMMARY:Ističe koncesija: JADRANSKI POMORSKI SERVIS D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 6. 4. 2034. Godišnja fiksna nakna
  da: 5.000 €.\n\n• JADRANSKI POMORSKI SERVIS D.O.O. – Koncesija na po
- morskom dobru (OMIŠALJ)\, 5.000 €/god.\n\nProfil općine: https://konce
- sijski-sat.vercel.app/#opcina/41942358B45790635822188\nIzvor: Registar kon
- cesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ morskom dobru (OMIŠALJ) · davatelj: LUČKA UPRAVA RIJEKA\, 5.000 €/god
+ .\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B4
+ 5790635822188\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9
+ . 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1298,8 +1345,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-2272bbc74181fed7@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-1049bb233caecfb3@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20331006
 DTEND;VALUE=DATE:20331007
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (JADRANSKI POMORS
@@ -1307,8 +1354,8 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (JADRANSKI POMORS
 DESCRIPTION:6. 4. 2034. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• JADRANSKI POMORSKI SERVIS D.O.O. – Koncesija na pomorskom dobru 
- (OMIŠALJ)\, 5.000 €/god.\n\nProfil općine: https://koncesijski-sat.ver
- cel.app/#opcina/41942358B45790635822188
+ (OMIŠALJ) · davatelj: LUČKA UPRAVA RIJEKA\, 5.000 €/god.\n\nProfil op
+ ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1319,16 +1366,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-7a13813a49af0482@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-52b5a735bea6366a@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20340408
 DTEND;VALUE=DATE:20340409
 SUMMARY:Ističe koncesija: RIJEKA PLOV D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 8. 4. 2034. Godišnja fiksna nakna
  da: 4.000 €.\n\n• RIJEKA PLOV D.O.O. – Koncesija na pomorskom dobru 
- (OMIŠALJ)\, 4.000 €/god.\n\nProfil općine: https://koncesijski-sat.ver
- cel.app/#opcina/41942358B45790635822188\nIzvor: Registar koncesija (FINA)\
- , obrada Koncesijski sat 9. 11. 2026.
+ (OMIŠALJ) · davatelj: LUČKA UPRAVA RIJEKA\, 4.000 €/god.\n\nProfil op
+ ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188\
+ nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1338,17 +1385,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-7a13813a49af0482@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-52b5a735bea6366a@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20331008
 DTEND;VALUE=DATE:20331009
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (RIJEKA PLOV D.O.
  O.)
 DESCRIPTION:8. 4. 2034. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
- \n\n• RIJEKA PLOV D.O.O. – Koncesija na pomorskom dobru (OMIŠALJ)\, 4
- .000 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcin
- a/41942358B45790635822188
+ \n\n• RIJEKA PLOV D.O.O. – Koncesija na pomorskom dobru (OMIŠALJ) · 
+ davatelj: LUČKA UPRAVA RIJEKA\, 4.000 €/god.\n\nProfil općine: https:/
+ /koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1359,16 +1406,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-d0269a99678d59b0@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-9f641684d0869948@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20340425
 DTEND;VALUE=DATE:20340426
 SUMMARY:Ističe koncesija: VALAMAR RIVIERA D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 25. 4. 2034. Godišnja fiksna nakn
  ada: 22.686 €.\n\n• VALAMAR RIVIERA D.D. – Koncesija na pomorskom do
- bru (KRK)\, 22.686 €/god.\n\nProfil općine: https://koncesijski-sat.ver
- cel.app/#opcina/41942358B45790635822188\nIzvor: Registar koncesija (FINA)\
- , obrada Koncesijski sat 9. 11. 2026.
+ bru (KRK) · davatelj: PRIMORSKO GORANSKA ŽUPANIJA\, 22.686 €/god.\n\nP
+ rofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B4579063
+ 5822188\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 
+ 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1378,17 +1426,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-d0269a99678d59b0@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-9f641684d0869948@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20331025
 DTEND;VALUE=DATE:20331026
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VALAMAR RIVIERA 
  D.D.)
 DESCRIPTION:25. 4. 2034. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
- .\n\n• VALAMAR RIVIERA D.D. – Koncesija na pomorskom dobru (KRK)\, 22.
- 686 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina
- /41942358B45790635822188
+ .\n\n• VALAMAR RIVIERA D.D. – Koncesija na pomorskom dobru (KRK) · da
+ vatelj: PRIMORSKO GORANSKA ŽUPANIJA\, 22.686 €/god.\n\nProfil općine: 
+ https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1399,17 +1447,18 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-c85de4dd639359f8@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-46e24606bd39d4e9@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20340801
 DTEND;VALUE=DATE:20340802
 SUMMARY:Ističe 2 koncesije · Otok Krk
 DESCRIPTION:2 ugovora o koncesiji ističe 1. 8. 2034. Godišnja fiksna nakn
  ada: 4.070 €.\n\n• PONIKVE VODA D.O.O. – Koncesija na pomorskom dobr
- u (KRK)\, 2.321 €/god.\n• PONIKVE VODA D.O.O. – Koncesija na pomorsk
- om dobru (OMIŠALJ)\, 1.749 €/god.\n\nProfil općine: https://koncesijsk
- i-sat.vercel.app/#opcina/41942358B45790635822188\nIzvor: Registar koncesij
- a (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ u (KRK) · davatelj: PRIMORSKO GORANSKA ŽUPANIJA\, 2.321 €/god.\n• PO
+ NIKVE VODA D.O.O. – Koncesija na pomorskom dobru (OMIŠALJ) · davatelj:
+  PRIMORSKO GORANSKA ŽUPANIJA\, 1.749 €/god.\n\nProfil općine: https://
+ koncesijski-sat.vercel.app/#opcina/41942358B45790635822188\nIzvor: Regista
+ r koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1419,36 +1468,37 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-c85de4dd639359f8@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-46e24606bd39d4e9@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20340201
 DTEND;VALUE=DATE:20340202
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Otok Krk
 DESCRIPTION:1. 8. 2034. ističe 2 ugovora o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
- .\n\n• PONIKVE VODA D.O.O. – Koncesija na pomorskom dobru (KRK)\, 2.32
- 1 €/god.\n• PONIKVE VODA D.O.O. – Koncesija na pomorskom dobru (OMI
- ŠALJ)\, 1.749 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.
- app/#opcina/41942358B45790635822188
+ .\n\n• PONIKVE VODA D.O.O. – Koncesija na pomorskom dobru (KRK) · dav
+ atelj: PRIMORSKO GORANSKA ŽUPANIJA\, 2.321 €/god.\n• PONIKVE VODA D.O
+ .O. – Koncesija na pomorskom dobru (OMIŠALJ) · davatelj: PRIMORSKO GOR
+ ANSKA ŽUPANIJA\, 1.749 €/god.\n\nProfil općine: https://koncesijski-sa
+ t.vercel.app/#opcina/41942358B45790635822188
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Otok Krk
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-681906796f82adca@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-a04bcbe38750ac69@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20340806
 DTEND;VALUE=DATE:20340807
 SUMMARY:Ističe koncesija: LUKA RIJEKA D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 6. 8. 2034. Godišnja fiksna nakna
  da: 4.000 €.\n\n• LUKA RIJEKA D.D. – Koncesija na pomorskom dobru (O
- MIŠALJ)\, 4.000 €/god.\n\nProfil općine: https://koncesijski-sat.verce
- l.app/#opcina/41942358B45790635822188\nIzvor: Registar koncesija (FINA)\, 
- obrada Koncesijski sat 9. 11. 2026.
+ MIŠALJ) · davatelj: LUČKA UPRAVA RIJEKA\, 4.000 €/god.\n\nProfil opć
+ ine: https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188\nI
+ zvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1458,17 +1508,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-681906796f82adca@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-a04bcbe38750ac69@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20340206
 DTEND;VALUE=DATE:20340207
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (LUKA RIJEKA D.D.
  )
 DESCRIPTION:6. 8. 2034. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
- \n\n• LUKA RIJEKA D.D. – Koncesija na pomorskom dobru (OMIŠALJ)\, 4.0
- 00 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/
- 41942358B45790635822188
+ \n\n• LUKA RIJEKA D.D. – Koncesija na pomorskom dobru (OMIŠALJ) · da
+ vatelj: LUČKA UPRAVA RIJEKA\, 4.000 €/god.\n\nProfil općine: https://k
+ oncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1479,16 +1529,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-cc86d490394e60f4@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-26e6bab0f321a38e@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20340910
 DTEND;VALUE=DATE:20340911
 SUMMARY:Ističe koncesija: VALAMAR RIVIERA D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 10. 9. 2034. Godišnja fiksna nakn
  ada: 19.360 €.\n\n• VALAMAR RIVIERA D.D. – Koncesija na pomorskom do
- bru (KRK)\, 19.360 €/god.\n\nProfil općine: https://koncesijski-sat.ver
- cel.app/#opcina/41942358B45790635822188\nIzvor: Registar koncesija (FINA)\
- , obrada Koncesijski sat 9. 11. 2026.
+ bru (KRK) · davatelj: PRIMORSKO GORANSKA ŽUPANIJA\, 19.360 €/god.\n\nP
+ rofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B4579063
+ 5822188\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 
+ 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1498,17 +1549,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-cc86d490394e60f4@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-26e6bab0f321a38e@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20340310
 DTEND;VALUE=DATE:20340311
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VALAMAR RIVIERA 
  D.D.)
 DESCRIPTION:10. 9. 2034. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
- .\n\n• VALAMAR RIVIERA D.D. – Koncesija na pomorskom dobru (KRK)\, 19.
- 360 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina
- /41942358B45790635822188
+ .\n\n• VALAMAR RIVIERA D.D. – Koncesija na pomorskom dobru (KRK) · da
+ vatelj: PRIMORSKO GORANSKA ŽUPANIJA\, 19.360 €/god.\n\nProfil općine: 
+ https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1519,16 +1570,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-12d4267338dd6cd9@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-ef1b83a16c7609f8@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20350328
 DTEND;VALUE=DATE:20350329
 SUMMARY:Ističe koncesija: VALAMAR RIVIERA D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 28. 3. 2035. Godišnja fiksna nakn
  ada: 13.209 €.\n\n• VALAMAR RIVIERA D.D. – Koncesija na pomorskom do
- bru (PUNAT)\, 13.209 €/god.\n\nProfil općine: https://koncesijski-sat.v
- ercel.app/#opcina/41942358B45790635822188\nIzvor: Registar koncesija (FINA
- )\, obrada Koncesijski sat 9. 11. 2026.
+ bru (PUNAT) · davatelj: PRIMORSKO GORANSKA ŽUPANIJA\, 13.209 €/god.\n\
+ nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B45790
+ 635822188\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11
+ . 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1538,17 +1590,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-12d4267338dd6cd9@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-ef1b83a16c7609f8@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20340928
 DTEND;VALUE=DATE:20340929
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VALAMAR RIVIERA 
  D.D.)
 DESCRIPTION:28. 3. 2035. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
- .\n\n• VALAMAR RIVIERA D.D. – Koncesija na pomorskom dobru (PUNAT)\, 1
- 3.209 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opci
- na/41942358B45790635822188
+ .\n\n• VALAMAR RIVIERA D.D. – Koncesija na pomorskom dobru (PUNAT) · 
+ davatelj: PRIMORSKO GORANSKA ŽUPANIJA\, 13.209 €/god.\n\nProfil općine
+ : https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1559,16 +1611,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-410585974bfdb14f@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-e4f0ba11ba5da82b@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20350519
 DTEND;VALUE=DATE:20350520
 SUMMARY:Ističe koncesija: JADRANSKI NAFTOVOD  D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 19. 5. 2035. Godišnja fiksna nakn
  ada: 33.500 €.\n\n• JADRANSKI NAFTOVOD  D.D. – Koncesija na pomorsko
- m dobru (OMIŠALJ)\, 33.500 €/god.\n\nProfil općine: https://koncesijsk
- i-sat.vercel.app/#opcina/41942358B45790635822188\nIzvor: Registar koncesij
- a (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ m dobru (OMIŠALJ) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTU
+ RE\, 33.500 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app
+ /#opcina/41942358B45790635822188\nIzvor: Registar koncesija (FINA)\, obrad
+ a Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1578,8 +1631,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-410585974bfdb14f@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-e4f0ba11ba5da82b@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20341119
 DTEND;VALUE=DATE:20341120
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (JADRANSKI NAFTOV
@@ -1587,8 +1640,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (JADRANSKI NAFTOV
 DESCRIPTION:19. 5. 2035. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• JADRANSKI NAFTOVOD  D.D. – Koncesija na pomorskom dobru (OMIŠA
- LJ)\, 33.500 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.ap
- p/#opcina/41942358B45790635822188
+ LJ) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\, 33.500 €
+ /god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419423
+ 58B45790635822188
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1599,16 +1653,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-30f20fca2a3c0021@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-896dfa4784a1b348@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20350603
 DTEND;VALUE=DATE:20350604
 SUMMARY:Ističe koncesija: JADRANSKI NAFTOVOD D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 3. 6. 2035. Godišnja fiksna nakna
  da: 1.511 €.\n\n• JADRANSKI NAFTOVOD D.D. – Koncesija za luku (OMIŠ
- ALJ)\, 1.511 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.ap
- p/#opcina/41942358B45790635822188\nIzvor: Registar koncesija (FINA)\, obra
- da Koncesijski sat 9. 11. 2026.
+ ALJ) · davatelj: LUČKA UPRAVA RIJEKA\, 1.511 €/god.\n\nProfil općine:
+  https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188\nIzvor
+ : Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1618,17 +1672,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-30f20fca2a3c0021@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-896dfa4784a1b348@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20341203
 DTEND;VALUE=DATE:20341204
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (JADRANSKI NAFTOV
  OD D.D.)
 DESCRIPTION:3. 6. 2035. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
- \n\n• JADRANSKI NAFTOVOD D.D. – Koncesija za luku (OMIŠALJ)\, 1.511 
- €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
- 42358B45790635822188
+ \n\n• JADRANSKI NAFTOVOD D.D. – Koncesija za luku (OMIŠALJ) · davate
+ lj: LUČKA UPRAVA RIJEKA\, 1.511 €/god.\n\nProfil općine: https://konce
+ sijski-sat.vercel.app/#opcina/41942358B45790635822188
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1639,16 +1693,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-818a386a018271f0@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-ca7b3f1ed4e7acb6@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20360721
 DTEND;VALUE=DATE:20360722
 SUMMARY:Ističe koncesija: GAME J. D. O. O.
 DESCRIPTION:1 ugovor o koncesiji ističe 21. 7. 2036. Godišnja fiksna nakn
  ada: 5.000 €.\n\n• GAME J. D. O. O. – Koncesija za obavljanje poslov
- a organizacije i naplate parkiranja (OMIŠALJ)\, 5.000 €/god.\n\nProfil 
- općine: https://koncesijski-sat.vercel.app/#opcina/41942358B4579063582218
- 8\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ a organizacije i naplate parkiranja (OMIŠALJ) · davatelj: ŽUPANIJSKA LU
+ ČKA UPRAVA KRK\, 5.000 €/god.\n\nProfil općine: https://koncesijski-sa
+ t.vercel.app/#opcina/41942358B45790635822188\nIzvor: Registar koncesija (F
+ INA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1658,8 +1713,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-818a386a018271f0@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-ca7b3f1ed4e7acb6@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20360121
 DTEND;VALUE=DATE:20360122
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (GAME J. D. O. O.
@@ -1667,8 +1722,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (GAME J. D. O. O.
 DESCRIPTION:21. 7. 2036. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• GAME J. D. O. O. – Koncesija za obavljanje poslova organizacije
-  i naplate parkiranja (OMIŠALJ)\, 5.000 €/god.\n\nProfil općine: https
- ://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
+  i naplate parkiranja (OMIŠALJ) · davatelj: ŽUPANIJSKA LUČKA UPRAVA KR
+ K\, 5.000 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#
+ opcina/41942358B45790635822188
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1679,16 +1735,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-2b0f6ef1e91edced@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-2278522a9f7ad1a8@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20360801
 DTEND;VALUE=DATE:20360802
 SUMMARY:Ističe koncesija: PONIKVE VODA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 1. 8. 2036. Godišnja fiksna nakna
  da: 824 €.\n\n• PONIKVE VODA D.O.O. – Koncesija na pomorskom dobru (
- OMIŠALJ)\, 824 €/god.\n\nProfil općine: https://koncesijski-sat.vercel
- .app/#opcina/41942358B45790635822188\nIzvor: Registar koncesija (FINA)\, o
- brada Koncesijski sat 9. 11. 2026.
+ OMIŠALJ) · davatelj: PRIMORSKO GORANSKA ŽUPANIJA\, 824 €/god.\n\nProf
+ il općine: https://koncesijski-sat.vercel.app/#opcina/41942358B4579063582
+ 2188\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 202
+ 6.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1698,17 +1755,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-2b0f6ef1e91edced@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-2278522a9f7ad1a8@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20360201
 DTEND;VALUE=DATE:20360202
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PONIKVE VODA D.O
  .O.)
 DESCRIPTION:1. 8. 2036. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
- \n\n• PONIKVE VODA D.O.O. – Koncesija na pomorskom dobru (OMIŠALJ)\, 
- 824 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina
- /41942358B45790635822188
+ \n\n• PONIKVE VODA D.O.O. – Koncesija na pomorskom dobru (OMIŠALJ) ·
+  davatelj: PRIMORSKO GORANSKA ŽUPANIJA\, 824 €/god.\n\nProfil općine: 
+ https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1719,16 +1776,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-b9196b0a01a12970@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-2a86875266b54101@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20370414
 DTEND;VALUE=DATE:20370415
 SUMMARY:Ističe koncesija: SVIJET MORA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 14. 4. 2037. Godišnja fiksna nakn
  ada: 14.627 €.\n\n• SVIJET MORA D.O.O. – Koncesija na pomorskom dobr
- u (KRK)\, 14.627 €/god.\n\nProfil općine: https://koncesijski-sat.verce
- l.app/#opcina/41942358B45790635822188\nIzvor: Registar koncesija (FINA)\, 
- obrada Koncesijski sat 9. 11. 2026.
+ u (KRK) · davatelj: PRIMORSKO GORANSKA ŽUPANIJA\, 14.627 €/god.\n\nPro
+ fil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B457906358
+ 22188\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 20
+ 26.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1738,17 +1796,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-b9196b0a01a12970@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-2a86875266b54101@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20361014
 DTEND;VALUE=DATE:20361015
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (SVIJET MORA D.O.
  O.)
 DESCRIPTION:14. 4. 2037. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
- .\n\n• SVIJET MORA D.O.O. – Koncesija na pomorskom dobru (KRK)\, 14.62
- 7 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4
- 1942358B45790635822188
+ .\n\n• SVIJET MORA D.O.O. – Koncesija na pomorskom dobru (KRK) · dava
+ telj: PRIMORSKO GORANSKA ŽUPANIJA\, 14.627 €/god.\n\nProfil općine: ht
+ tps://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1759,16 +1817,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-dd050e1703b61e29@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-8a1ab2a825baa0f9@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20370602
 DTEND;VALUE=DATE:20370603
 SUMMARY:Ističe koncesija: VECLA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 2. 6. 2037. Godišnja fiksna nakna
- da: 10.246 €.\n\n• VECLA D.O.O. – Koncesija za luku (KRK)\, 10.246 
- €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
- 42358B45790635822188\nIzvor: Registar koncesija (FINA)\, obrada Koncesijsk
- i sat 9. 11. 2026.
+ da: 10.246 €.\n\n• VECLA D.O.O. – Koncesija za luku (KRK) · davatel
+ j: ŽUPANIJSKA LUČKA UPRAVA KRK\, 10.246 €/god.\n\nProfil općine: http
+ s://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188\nIzvor: Reg
+ istar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1778,16 +1836,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-dd050e1703b61e29@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-8a1ab2a825baa0f9@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20361202
 DTEND;VALUE=DATE:20361203
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VECLA D.O.O.)
 DESCRIPTION:2. 6. 2037. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
- \n\n• VECLA D.O.O. – Koncesija za luku (KRK)\, 10.246 €/god.\n\nProf
- il općine: https://koncesijski-sat.vercel.app/#opcina/41942358B4579063582
- 2188
+ \n\n• VECLA D.O.O. – Koncesija za luku (KRK) · davatelj: ŽUPANIJSKA 
+ LUČKA UPRAVA KRK\, 10.246 €/god.\n\nProfil općine: https://koncesijski
+ -sat.vercel.app/#opcina/41942358B45790635822188
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1798,16 +1856,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-69f7094c4126aa72@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-17c4b3a525fe8a0f@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20370816
 DTEND;VALUE=DATE:20370817
 SUMMARY:Ističe koncesija: HADRIA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 16. 8. 2037. Godišnja fiksna nakn
  ada: 93.145 €.\n\n• HADRIA D.O.O. – Koncesija na pomorskom dobru (OM
- IŠALJ)\, 93.145 €/god.\n\nProfil općine: https://koncesijski-sat.verce
- l.app/#opcina/41942358B45790635822188\nIzvor: Registar koncesija (FINA)\, 
- obrada Koncesijski sat 9. 11. 2026.
+ IŠALJ) · davatelj: PRIMORSKO GORANSKA ŽUPANIJA\, 93.145 €/god.\n\nPro
+ fil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B457906358
+ 22188\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 20
+ 26.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1817,16 +1876,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-69f7094c4126aa72@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-17c4b3a525fe8a0f@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20370216
 DTEND;VALUE=DATE:20370217
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HADRIA D.O.O.)
 DESCRIPTION:16. 8. 2037. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
- .\n\n• HADRIA D.O.O. – Koncesija na pomorskom dobru (OMIŠALJ)\, 93.14
- 5 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4
- 1942358B45790635822188
+ .\n\n• HADRIA D.O.O. – Koncesija na pomorskom dobru (OMIŠALJ) · dava
+ telj: PRIMORSKO GORANSKA ŽUPANIJA\, 93.145 €/god.\n\nProfil općine: ht
+ tps://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1837,16 +1896,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-71481e26f7c718a4@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-d9a01d1d20450e58@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20380720
 DTEND;VALUE=DATE:20380721
 SUMMARY:Ističe koncesija: HRVATSKI OPERATOR PRIJENOSNOG SUSTAVA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 20. 7. 2038. Godišnja fiksna nakn
  ada: 1.829 €.\n\n• HRVATSKI OPERATOR PRIJENOSNOG SUSTAVA D.O.O. – Ko
- ncesija na pomorskom dobru (DOBRINJ)\, 1.829 €/god.\n\nProfil općine: h
- ttps://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188\nIzvor: 
- Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ ncesija na pomorskom dobru (DOBRINJ) · davatelj: PRIMORSKO GORANSKA ŽUPA
+ NIJA\, 1.829 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.ap
+ p/#opcina/41942358B45790635822188\nIzvor: Registar koncesija (FINA)\, obra
+ da Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1856,8 +1916,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-71481e26f7c718a4@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-d9a01d1d20450e58@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20380120
 DTEND;VALUE=DATE:20380121
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKI OPERATO
@@ -1865,8 +1925,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKI OPERATO
 DESCRIPTION:20. 7. 2038. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• HRVATSKI OPERATOR PRIJENOSNOG SUSTAVA D.O.O. – Koncesija na pom
- orskom dobru (DOBRINJ)\, 1.829 €/god.\n\nProfil općine: https://koncesi
- jski-sat.vercel.app/#opcina/41942358B45790635822188
+ orskom dobru (DOBRINJ) · davatelj: PRIMORSKO GORANSKA ŽUPANIJA\, 1.829 
+ €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
+ 42358B45790635822188
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1877,19 +1938,21 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-d71fdfc859b3c7b9@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-a39c345df76aba93@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20381231
 DTEND;VALUE=DATE:20390101
 SUMMARY:Ističe 3 koncesije · Otok Krk
 DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2038. Godišnja fiksna na
  knada: 12.876 €.\n\n• GP KRK D.D. – Koncesija za površinu utvrđeno
- g eksploatacijskog polja neenergetskih mineralnih sirovina (VRBNIK)\, 6.43
- 8 €/god.\n• GP KRK D.D. – Koncesija za eksploataciju tehničko-građ
- evnog kamena (VRBNIK)\, 6.438 €/god.\n• GP KRK D.D. – Koncesija za e
- ksploataciju tehničko-građevnog kamena (VRBNIK)\n\nProfil općine: https
- ://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188\nIzvor: Regi
- star koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ g eksploatacijskog polja neenergetskih mineralnih sirovina (VRBNIK) · dav
+ atelj: MINISTARSTVO GOSPODARSTVA\, 6.438 €/god.\n• GP KRK D.D. – Kon
+ cesija za eksploataciju tehničko-građevnog kamena (VRBNIK) · davatelj: 
+ MINISTARSTVO GOSPODARSTVA\, 6.438 €/god.\n• GP KRK D.D. – Koncesija 
+ za eksploataciju tehničko-građevnog kamena (VRBNIK) · davatelj: MINISTA
+ RSTVO GOSPODARSTVA\n\nProfil općine: https://koncesijski-sat.vercel.app/#
+ opcina/41942358B45790635822188\nIzvor: Registar koncesija (FINA)\, obrada 
+ Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1899,38 +1962,41 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-d71fdfc859b3c7b9@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-a39c345df76aba93@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20380630
 DTEND;VALUE=DATE:20380701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Otok Krk
 DESCRIPTION:31. 12. 2038. ističe 3 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• GP KRK D.D. – Koncesija za površinu utvrđenog eksploatacijs
- kog polja neenergetskih mineralnih sirovina (VRBNIK)\, 6.438 €/god.\n•
-  GP KRK D.D. – Koncesija za eksploataciju tehničko-građevnog kamena (V
- RBNIK)\, 6.438 €/god.\n• GP KRK D.D. – Koncesija za eksploataciju te
- hničko-građevnog kamena (VRBNIK)\n\nProfil općine: https://koncesijski-
- sat.vercel.app/#opcina/41942358B45790635822188
+ kog polja neenergetskih mineralnih sirovina (VRBNIK) · davatelj: MINISTAR
+ STVO GOSPODARSTVA\, 6.438 €/god.\n• GP KRK D.D. – Koncesija za ekspl
+ oataciju tehničko-građevnog kamena (VRBNIK) · davatelj: MINISTARSTVO GO
+ SPODARSTVA\, 6.438 €/god.\n• GP KRK D.D. – Koncesija za eksploatacij
+ u tehničko-građevnog kamena (VRBNIK) · davatelj: MINISTARSTVO GOSPODARS
+ TVA\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358
+ B45790635822188
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Otok Krk
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-85245c1fec85c9d7@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-3864387b76d723fa@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20390920
 DTEND;VALUE=DATE:20390921
 SUMMARY:Ističe koncesija: PONIKVE VODA D.O.O.-EU PROJEKT
 DESCRIPTION:1 ugovor o koncesiji ističe 20. 9. 2039. Godišnja fiksna nakn
  ada: 2.729 €.\n\n• PONIKVE VODA D.O.O.-EU PROJEKT – Koncesija na pom
- orskom dobru (DOBRINJ)\, 2.729 €/god.\n\nProfil općine: https://koncesi
- jski-sat.vercel.app/#opcina/41942358B45790635822188\nIzvor: Registar konce
- sija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ orskom dobru (DOBRINJ) · davatelj: PRIMORSKO GORANSKA ŽUPANIJA\, 2.729 
+ €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
+ 42358B45790635822188\nIzvor: Registar koncesija (FINA)\, obrada Koncesijsk
+ i sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1940,8 +2006,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-85245c1fec85c9d7@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-3864387b76d723fa@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20390320
 DTEND;VALUE=DATE:20390321
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PONIKVE VODA D.O
@@ -1949,8 +2015,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PONIKVE VODA D.O
 DESCRIPTION:20. 9. 2039. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• PONIKVE VODA D.O.O.-EU PROJEKT – Koncesija na pomorskom dobru (
- DOBRINJ)\, 2.729 €/god.\n\nProfil općine: https://koncesijski-sat.verce
- l.app/#opcina/41942358B45790635822188
+ DOBRINJ) · davatelj: PRIMORSKO GORANSKA ŽUPANIJA\, 2.729 €/god.\n\nPro
+ fil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B457906358
+ 22188
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1961,20 +2028,21 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-3cfdfd292ecf5494@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-83e92a7ec809ea0e@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20391220
 DTEND;VALUE=DATE:20391221
 SUMMARY:Ističe 3 koncesije · Otok Krk
 DESCRIPTION:3 ugovora o koncesiji ističe 20. 12. 2039. Godišnja fiksna na
  knada: 39.786 €.\n\n• HOTELI NJIVICE D.O.O. – Koncesija pomorskog do
- bra u svrhu izgradnje i gospodarskog korištenja (OMIŠALJ)\, 13.262 €/g
- od.\n• HOTELI NJIVICE D.O.O. – Koncesija na pomorskom dobru (OMIŠALJ)
- \, 13.262 €/god.\n• HOTELI NJIVICE D.O.O. – Koncesija pomorskog dobr
- a u svrhu izgradnje i gospodarskog korištenja (OMIŠALJ)\, 13.262 €/god
- .\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B4
- 5790635822188\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9
- . 11. 2026.
+ bra u svrhu izgradnje i gospodarskog korištenja (OMIŠALJ) · davatelj: P
+ RIMORSKO GORANSKA ŽUPANIJA\, 13.262 €/god.\n• HOTELI NJIVICE D.O.O. 
+ – Koncesija na pomorskom dobru (OMIŠALJ) · davatelj: PRIMORSKO GORANSK
+ A ŽUPANIJA\, 13.262 €/god.\n• HOTELI NJIVICE D.O.O. – Koncesija pom
+ orskog dobra u svrhu izgradnje i gospodarskog korištenja (OMIŠALJ) · da
+ vatelj: PRIMORSKO GORANSKA ŽUPANIJA\, 13.262 €/god.\n\nProfil općine: 
+ https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188\nIzvor:
+  Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1984,38 +2052,41 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-3cfdfd292ecf5494@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-83e92a7ec809ea0e@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20390620
 DTEND;VALUE=DATE:20390621
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Otok Krk
 DESCRIPTION:20. 12. 2039. ističe 3 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• HOTELI NJIVICE D.O.O. – Koncesija pomorskog dobra u svrhu izg
- radnje i gospodarskog korištenja (OMIŠALJ)\, 13.262 €/god.\n• HOTELI
-  NJIVICE D.O.O. – Koncesija na pomorskom dobru (OMIŠALJ)\, 13.262 €/g
- od.\n• HOTELI NJIVICE D.O.O. – Koncesija pomorskog dobra u svrhu izgra
- dnje i gospodarskog korištenja (OMIŠALJ)\, 13.262 €/god.\n\nProfil op
- ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
+ radnje i gospodarskog korištenja (OMIŠALJ) · davatelj: PRIMORSKO GORANS
+ KA ŽUPANIJA\, 13.262 €/god.\n• HOTELI NJIVICE D.O.O. – Koncesija na
+  pomorskom dobru (OMIŠALJ) · davatelj: PRIMORSKO GORANSKA ŽUPANIJA\, 13
+ .262 €/god.\n• HOTELI NJIVICE D.O.O. – Koncesija pomorskog dobra u s
+ vrhu izgradnje i gospodarskog korištenja (OMIŠALJ) · davatelj: PRIMORSK
+ O GORANSKA ŽUPANIJA\, 13.262 €/god.\n\nProfil općine: https://koncesij
+ ski-sat.vercel.app/#opcina/41942358B45790635822188
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Otok Krk
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-2efc43dfddbc7d09@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-47731684c4c0adea@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20400720
 DTEND;VALUE=DATE:20400721
 SUMMARY:Ističe koncesija: HRVATSKI OPERATOR PRIJENOSNOG SUSTAVA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 20. 7. 2040. Godišnja fiksna nakn
  ada: 2.872 €.\n\n• HRVATSKI OPERATOR PRIJENOSNOG SUSTAVA D.O.O. – Ko
- ncesija na pomorskom dobru (KRK)\, 2.872 €/god.\n\nProfil općine: https
- ://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188\nIzvor: Regi
- star koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ ncesija na pomorskom dobru (KRK) · davatelj: PRIMORSKO GORANSKA ŽUPANIJA
+ \, 2.872 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#o
+ pcina/41942358B45790635822188\nIzvor: Registar koncesija (FINA)\, obrada K
+ oncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -2025,8 +2096,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-2efc43dfddbc7d09@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-47731684c4c0adea@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20400120
 DTEND;VALUE=DATE:20400121
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKI OPERATO
@@ -2034,8 +2105,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKI OPERATO
 DESCRIPTION:20. 7. 2040. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• HRVATSKI OPERATOR PRIJENOSNOG SUSTAVA D.O.O. – Koncesija na pom
- orskom dobru (KRK)\, 2.872 €/god.\n\nProfil općine: https://koncesijski
- -sat.vercel.app/#opcina/41942358B45790635822188
+ orskom dobru (KRK) · davatelj: PRIMORSKO GORANSKA ŽUPANIJA\, 2.872 €/g
+ od.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358
+ B45790635822188
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -2046,16 +2118,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-db147f402704300d@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-f737e6948989ac6b@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20420716
 DTEND;VALUE=DATE:20420717
 SUMMARY:Ističe koncesija: JADRANSKI NAFTOVOD D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 16. 7. 2042. Godišnja fiksna nakn
  ada: 42.687 €.\n\n• JADRANSKI NAFTOVOD D.D. – Koncesija na pomorskom
-  dobru (OMIŠALJ)\, 42.687 €/god.\n\nProfil općine: https://koncesijski
- -sat.vercel.app/#opcina/41942358B45790635822188\nIzvor: Registar koncesija
-  (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+  dobru (OMIŠALJ) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTUR
+ E\, 42.687 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/
+ #opcina/41942358B45790635822188\nIzvor: Registar koncesija (FINA)\, obrada
+  Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -2065,8 +2138,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-db147f402704300d@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-f737e6948989ac6b@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20420116
 DTEND;VALUE=DATE:20420117
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (JADRANSKI NAFTOV
@@ -2074,8 +2147,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (JADRANSKI NAFTOV
 DESCRIPTION:16. 7. 2042. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• JADRANSKI NAFTOVOD D.D. – Koncesija na pomorskom dobru (OMIŠAL
- J)\, 42.687 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app
- /#opcina/41942358B45790635822188
+ J) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\, 42.687 €/
+ god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4194235
+ 8B45790635822188
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -2086,16 +2160,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-75fb2f9212f9e633@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-20aa002364fe5322@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20421115
 DTEND;VALUE=DATE:20421116
 SUMMARY:Ističe koncesija: JADRANSKI NAFTOVOD D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 15. 11. 2042. Godišnja fiksna nak
  nada: 25.135 €.\n\n• JADRANSKI NAFTOVOD D.D. – Koncesija na pomorsko
- m dobru (OMIŠALJ)\, 25.135 €/god.\n\nProfil općine: https://koncesijsk
- i-sat.vercel.app/#opcina/41942358B45790635822188\nIzvor: Registar koncesij
- a (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ m dobru (OMIŠALJ) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTU
+ RE\, 25.135 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app
+ /#opcina/41942358B45790635822188\nIzvor: Registar koncesija (FINA)\, obrad
+ a Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -2105,8 +2180,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-75fb2f9212f9e633@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-20aa002364fe5322@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20420515
 DTEND;VALUE=DATE:20420516
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (JADRANSKI NAFTOV
@@ -2114,8 +2189,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (JADRANSKI NAFTOV
 DESCRIPTION:15. 11. 2042. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• JADRANSKI NAFTOVOD D.D. – Koncesija na pomorskom dobru (OMIŠA
- LJ)\, 25.135 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.ap
- p/#opcina/41942358B45790635822188
+ LJ) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\, 25.135 €
+ /god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419423
+ 58B45790635822188
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -2126,16 +2202,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-41b1a278658fe3fa@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-e037b9c4e7585fd1@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20430515
 DTEND;VALUE=DATE:20430516
 SUMMARY:Ističe koncesija: LABRAX ADRIA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 15. 5. 2043. Godišnja fiksna nakn
  ada: 13.122 €.\n\n• LABRAX ADRIA D.O.O. – Koncesija na pomorskom dob
- ru (KRK)\, 13.122 €/god.\n\nProfil općine: https://koncesijski-sat.verc
- el.app/#opcina/41942358B45790635822188\nIzvor: Registar koncesija (FINA)\,
-  obrada Koncesijski sat 9. 11. 2026.
+ ru (KRK) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\, 13.12
+ 2 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4
+ 1942358B45790635822188\nIzvor: Registar koncesija (FINA)\, obrada Koncesij
+ ski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -2145,17 +2222,18 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-41b1a278658fe3fa@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-e037b9c4e7585fd1@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20421115
 DTEND;VALUE=DATE:20421116
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (LABRAX ADRIA D.O
  .O.)
 DESCRIPTION:15. 5. 2043. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
- .\n\n• LABRAX ADRIA D.O.O. – Koncesija na pomorskom dobru (KRK)\, 13.1
- 22 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/
- 41942358B45790635822188
+ .\n\n• LABRAX ADRIA D.O.O. – Koncesija na pomorskom dobru (KRK) · dav
+ atelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\, 13.122 €/god.\n\nP
+ rofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B4579063
+ 5822188
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -2166,16 +2244,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-12d9f55d04621a46@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-75fc7e99d9a34652@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20460611
 DTEND;VALUE=DATE:20460612
 SUMMARY:Ističe koncesija: MARIMED D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 11. 6. 2046. Godišnja fiksna nakn
  ada: 7.943 €.\n\n• MARIMED D.O.O. – Koncesija na pomorskom dobru (PU
- NAT)\, 7.943 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.ap
- p/#opcina/41942358B45790635822188\nIzvor: Registar koncesija (FINA)\, obra
- da Koncesijski sat 9. 11. 2026.
+ NAT) · davatelj: PRIMORSKO GORANSKA ŽUPANIJA\, 7.943 €/god.\n\nProfil 
+ općine: https://koncesijski-sat.vercel.app/#opcina/41942358B4579063582218
+ 8\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -2185,16 +2263,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-12d9f55d04621a46@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-75fc7e99d9a34652@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20451211
 DTEND;VALUE=DATE:20451212
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MARIMED D.O.O.)
 DESCRIPTION:11. 6. 2046. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
- .\n\n• MARIMED D.O.O. – Koncesija na pomorskom dobru (PUNAT)\, 7.943 
- €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
- 42358B45790635822188
+ .\n\n• MARIMED D.O.O. – Koncesija na pomorskom dobru (PUNAT) · davate
+ lj: PRIMORSKO GORANSKA ŽUPANIJA\, 7.943 €/god.\n\nProfil općine: https
+ ://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -2205,16 +2283,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-afdc35221962f236@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-3702122c5c401741@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20490312
 DTEND;VALUE=DATE:20490313
 SUMMARY:Ističe koncesija: PLINACRO D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 12. 3. 2049. Godišnja fiksna nakn
  ada: 5.941 €.\n\n• PLINACRO D.O.O. – Koncesija na pomorskom dobru (O
- MIŠALJ)\, 5.941 €/god.\n\nProfil općine: https://koncesijski-sat.verce
- l.app/#opcina/41942358B45790635822188\nIzvor: Registar koncesija (FINA)\, 
- obrada Koncesijski sat 9. 11. 2026.
+ MIŠALJ) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\, 5.941
+  €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41
+ 942358B45790635822188\nIzvor: Registar koncesija (FINA)\, obrada Koncesijs
+ ki sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -2224,16 +2303,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-afdc35221962f236@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-3702122c5c401741@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20480912
 DTEND;VALUE=DATE:20480913
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PLINACRO D.O.O.)
 DESCRIPTION:12. 3. 2049. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
- .\n\n• PLINACRO D.O.O. – Koncesija na pomorskom dobru (OMIŠALJ)\, 5.9
- 41 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/
- 41942358B45790635822188
+ .\n\n• PLINACRO D.O.O. – Koncesija na pomorskom dobru (OMIŠALJ) · da
+ vatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\, 5.941 €/god.\n\nP
+ rofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B4579063
+ 5822188
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -2244,16 +2324,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-ecd9fe652936f7e2@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-35bed52870213b96@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20601015
 DTEND;VALUE=DATE:20601016
 SUMMARY:Ističe koncesija: DRŽAVNI HIDROMETEOROLOŠKI ZAVOD
 DESCRIPTION:1 ugovor o koncesiji ističe 15. 10. 2060. Godišnja fiksna nak
  nada: 26 €.\n\n• DRŽAVNI HIDROMETEOROLOŠKI ZAVOD – Koncesija na po
- morskom dobru (KRK)\, 26 €/god.\n\nProfil općine: https://koncesijski-s
- at.vercel.app/#opcina/41942358B45790635822188\nIzvor: Registar koncesija (
- FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ morskom dobru (KRK) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKT
+ URE\, 26 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#o
+ pcina/41942358B45790635822188\nIzvor: Registar koncesija (FINA)\, obrada K
+ oncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -2263,8 +2344,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-ecd9fe652936f7e2@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-35bed52870213b96@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20600415
 DTEND;VALUE=DATE:20600416
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DRŽAVNI HIDROME
@@ -2272,8 +2353,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DRŽAVNI HIDROME
 DESCRIPTION:15. 10. 2060. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• DRŽAVNI HIDROMETEOROLOŠKI ZAVOD – Koncesija na pomorskom dob
- ru (KRK)\, 26 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.a
- pp/#opcina/41942358B45790635822188
+ ru (KRK) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\, 26 
+ €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
+ 42358B45790635822188
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -2284,16 +2366,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-1721e3dbb3fb902c@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-4e52fcfe65a1bbc4@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20610601
 DTEND;VALUE=DATE:20610602
 SUMMARY:Ističe koncesija: JANAF\, D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 1. 6. 2061. Godišnja fiksna nakna
  da: 118 €.\n\n• JANAF\, D.D. – Koncesija na pomorskom dobru (OMIŠAL
- J)\, 118 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#o
- pcina/41942358B45790635822188\nIzvor: Registar koncesija (FINA)\, obrada K
- oncesijski sat 9. 11. 2026.
+ J) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\, 118 €/god
+ .\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B4
+ 5790635822188\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9
+ . 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -2303,16 +2386,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-1721e3dbb3fb902c@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-4e52fcfe65a1bbc4@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20601201
 DTEND;VALUE=DATE:20601202
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (JANAF\, D.D.)
 DESCRIPTION:1. 6. 2061. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
- \n\n• JANAF\, D.D. – Koncesija na pomorskom dobru (OMIŠALJ)\, 118 €
- /god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419423
- 58B45790635822188
+ \n\n• JANAF\, D.D. – Koncesija na pomorskom dobru (OMIŠALJ) · davate
+ lj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\, 118 €/god.\n\nProfil 
+ općine: https://koncesijski-sat.vercel.app/#opcina/41942358B4579063582218
+ 8
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -2323,18 +2407,21 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-9d417179cf5ce513@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-fed1b898df52de3f@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20760717
 DTEND;VALUE=DATE:20760718
 SUMMARY:Ističe 3 koncesije · Otok Krk
 DESCRIPTION:3 ugovora o koncesiji ističe 17. 7. 2076. Godišnja fiksna nak
  nada: 11.735 €.\n\n• HRVATSKI TELEKOM D.D. – Posebna upotreba pomors
- kog dobra (BAŠKA)\, 9.048 €/god.\n• HRVATSKI TELEKOM D.D. – Posebna
-  upotreba pomorskog dobra (KRK)\, 1.802 €/god.\n• HRVATSKI TELEKOM D.D
- . – Posebna upotreba pomorskog dobra (DOBRINJ)\, 885 €/god.\n\nProfil 
- općine: https://koncesijski-sat.vercel.app/#opcina/41942358B4579063582218
- 8\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ kog dobra (BAŠKA) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTU
+ RE\, 9.048 €/god.\n• HRVATSKI TELEKOM D.D. – Posebna upotreba pomors
+ kog dobra (KRK) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\
+ , 1.802 €/god.\n• HRVATSKI TELEKOM D.D. – Posebna upotreba pomorskog
+  dobra (DOBRINJ) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE
+ \, 885 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opc
+ ina/41942358B45790635822188\nIzvor: Registar koncesija (FINA)\, obrada Kon
+ cesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -2344,23 +2431,26 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-9d417179cf5ce513@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-fed1b898df52de3f@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20760117
 DTEND;VALUE=DATE:20760118
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Otok Krk
 DESCRIPTION:17. 7. 2076. ističe 3 ugovora o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• HRVATSKI TELEKOM D.D. – Posebna upotreba pomorskog dobra (BAŠ
- KA)\, 9.048 €/god.\n• HRVATSKI TELEKOM D.D. – Posebna upotreba pomor
- skog dobra (KRK)\, 1.802 €/god.\n• HRVATSKI TELEKOM D.D. – Posebna u
- potreba pomorskog dobra (DOBRINJ)\, 885 €/god.\n\nProfil općine: https:
- //koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
+ KA) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\, 9.048 €/
+ god.\n• HRVATSKI TELEKOM D.D. – Posebna upotreba pomorskog dobra (KRK)
+  · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\, 1.802 €/god
+ .\n• HRVATSKI TELEKOM D.D. – Posebna upotreba pomorskog dobra (DOBRINJ
+ ) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\, 885 €/god.
+ \n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B45
+ 790635822188
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45790635822188
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Otok Krk
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT

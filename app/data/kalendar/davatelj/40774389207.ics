@@ -1,0 +1,371 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · LIČKO-SENJSKA ŽUPANIJA
+X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje LIČKO-SENJSKA ŽUPANIJA. 
+ Iz Registra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obra
+ de podataka. https://koncesijski-sat.vercel.app/#sat
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-ce29a6da4538c7b5@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20351116
+DTEND;VALUE=DATE:20351117
+SUMMARY:Ističe koncesija: AUTO ZUBAK-ZAGREB D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 16. 11. 2035. Godišnja fiksna nak
+ nada: 1.148 €.\n\n• AUTO ZUBAK-ZAGREB D.O.O. – Koncesija na pomorsko
+ m dobru (SENJ\, Grad Senj)\, 1.148 €/god.\n\nŠto ističe: https://konce
+ sijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Konc
+ esijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: AUTO ZUBAK-ZAGREB D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-ce29a6da4538c7b5@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20350516
+DTEND;VALUE=DATE:20350517
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (AUTO ZUBAK-ZAGRE
+ B D.O.O.)
+DESCRIPTION:16. 11. 2035. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• AUTO ZUBAK-ZAGREB D.O.O. – Koncesija na pomorskom dobru (SENJ\
+ , Grad Senj)\, 1.148 €/god.\n\nŠto ističe: https://koncesijski-sat.ver
+ cel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (AUTO ZUBAK-Z
+ AGREB D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-5a0fe0d93e6111f9@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20370412
+DTEND;VALUE=DATE:20370413
+SUMMARY:Ističe koncesija: HADRIA D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 12. 4. 2037. Godišnja fiksna nakn
+ ada: 41.940 €.\n\n• HADRIA D.O.O. – Koncesija na pomorskom dobru (NO
+ VALJA\, Grad Novalja)\, 41.940 €/god.\n\nŠto ističe: https://koncesijs
+ ki-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Koncesij
+ ski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: HADRIA D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-5a0fe0d93e6111f9@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20361012
+DTEND;VALUE=DATE:20361013
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HADRIA D.O.O.)
+DESCRIPTION:12. 4. 2037. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• HADRIA D.O.O. – Koncesija na pomorskom dobru (NOVALJA\, Grad No
+ valja)\, 41.940 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.a
+ pp/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HADRIA D.O.O
+ .)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-83817327760d2af6@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20370427
+DTEND;VALUE=DATE:20370428
+SUMMARY:Ističe koncesija: SLANI VJETAR D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 27. 4. 2037. Godišnja fiksna nakn
+ ada: 172.540 €.\n\n• SLANI VJETAR D.O.O. – Koncesija na pomorskom do
+ bru (NOVALJA\, Grad Novalja)\, 172.540 €/god.\n\nŠto ističe: https://k
+ oncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada 
+ Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: SLANI VJETAR D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-83817327760d2af6@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20361027
+DTEND;VALUE=DATE:20361028
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (SLANI VJETAR D.O
+ .O.)
+DESCRIPTION:27. 4. 2037. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• SLANI VJETAR D.O.O. – Koncesija na pomorskom dobru (NOVALJA\, G
+ rad Novalja)\, 172.540 €/god.\n\nŠto ističe: https://koncesijski-sat.v
+ ercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (SLANI VJETAR
+  D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-ff9f5fee65e78e50@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20390712
+DTEND;VALUE=DATE:20390713
+SUMMARY:Ističe koncesija: GRMALJ D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 12. 7. 2039. Godišnja fiksna nakn
+ ada: 15.276 €.\n\n• GRMALJ D.O.O. – Koncesija djelatnosti premješta
+ nja i uklanjanja nepropisno parkiranih i napuštenih vozila (NOVALJA\, Gra
+ d Novalja)\, 15.276 €/god.\n\nŠto ističe: https://koncesijski-sat.verc
+ el.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 
+ 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: GRMALJ D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-ff9f5fee65e78e50@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20390112
+DTEND;VALUE=DATE:20390113
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (GRMALJ D.O.O.)
+DESCRIPTION:12. 7. 2039. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• GRMALJ D.O.O. – Koncesija djelatnosti premještanja i uklanjanj
+ a nepropisno parkiranih i napuštenih vozila (NOVALJA\, Grad Novalja)\, 15
+ .276 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (GRMALJ D.O.O
+ .)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-25b4a2587bd20948@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20410510
+DTEND;VALUE=DATE:20410511
+SUMMARY:Ističe koncesija: VODOVOD D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 10. 5. 2041. Godišnja fiksna nakn
+ ada: 62 €.\n\n• VODOVOD D.O.O. – Koncesija na pomorskom dobru (SENJ\
+ , Grad Senj)\, 62 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel
+ .app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11
+ . 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: VODOVOD D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-25b4a2587bd20948@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20401110
+DTEND;VALUE=DATE:20401111
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VODOVOD D.O.O.)
+DESCRIPTION:10. 5. 2041. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• VODOVOD D.O.O. – Koncesija na pomorskom dobru (SENJ\, Grad Senj
+ )\, 62 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VODOVOD D.O.
+ O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-22f8586bf1b9091d@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20410705
+DTEND;VALUE=DATE:20410706
+SUMMARY:Ističe koncesija: SLAVICA ŠOTA
+DESCRIPTION:1 ugovor o koncesiji ističe 5. 7. 2041. Godišnja fiksna nakna
+ da: 279 €.\n\n• SLAVICA ŠOTA – Koncesija za plažu (KARLOBAG\, Opć
+ ina Karlobag)\, 279 €/god.\n\nŠto ističe: https://koncesijski-sat.verc
+ el.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 
+ 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: SLAVICA ŠOTA
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-22f8586bf1b9091d@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20410105
+DTEND;VALUE=DATE:20410106
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (SLAVICA ŠOTA)
+DESCRIPTION:5. 7. 2041. ističe 1 ugovor o koncesiji. Novi postupak dodjele
+  treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
+ \n\n• SLAVICA ŠOTA – Koncesija za plažu (KARLOBAG\, Općina Karlobag
+ )\, 279 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (SLAVICA ŠOT
+ A)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-acb4a40087e086b4@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20440612
+DTEND;VALUE=DATE:20440613
+SUMMARY:Ističe koncesija: VODOVOD D.O.O. - IZGRAD. I REKON. VOD. NA PODRU
+ ČJU ZADARSKE ŽUPANIJE
+DESCRIPTION:1 ugovor o koncesiji ističe 12. 6. 2044. Godišnja fiksna nakn
+ ada: 2.198 €.\n\n• VODOVOD D.O.O. - IZGRAD. I REKON. VOD. NA PODRUČJU
+  ZADARSKE ŽUPANIJE – Posebna upotreba pomorskog dobra (KARLOBAG\, Opći
+ na Karlobag)\, 2.198 €/god.\n\nŠto ističe: https://koncesijski-sat.ver
+ cel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9.
+  11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: VODOVOD D.O.O. - IZGRAD. I REKON. VOD. NA PO
+ DRUČJU ZADARSKE ŽUPANIJE
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-acb4a40087e086b4@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20431212
+DTEND;VALUE=DATE:20431213
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VODOVOD D.O.O. -
+  IZGRAD. I REKON. VOD. NA PODRUČJU ZADARSKE ŽUPANIJE)
+DESCRIPTION:12. 6. 2044. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• VODOVOD D.O.O. - IZGRAD. I REKON. VOD. NA PODRUČJU ZADARSKE ŽUP
+ ANIJE – Posebna upotreba pomorskog dobra (KARLOBAG\, Općina Karlobag)\,
+  2.198 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VODOVOD D.O.
+ O. - IZGRAD. I REKON. VOD. NA PODRUČJU ZADARSKE ŽUPANIJE)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-d5e88797cc7c043e@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20450711
+DTEND;VALUE=DATE:20450712
+SUMMARY:Ističe koncesija: GUŠĆIĆ D. O. O.
+DESCRIPTION:1 ugovor o koncesiji ističe 11. 7. 2045. Godišnja fiksna nakn
+ ada: 2.232 €.\n\n• GUŠĆIĆ D. O. O. – Koncesija na pomorskom dobru
+  (NOVALJA\, Grad Novalja)\, 2.232 €/god.\n\nŠto ističe: https://konces
+ ijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Konce
+ sijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: GUŠĆIĆ D. O. O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-d5e88797cc7c043e@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20450111
+DTEND;VALUE=DATE:20450112
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (GUŠĆIĆ D. O. 
+ O.)
+DESCRIPTION:11. 7. 2045. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• GUŠĆIĆ D. O. O. – Koncesija na pomorskom dobru (NOVALJA\, Gr
+ ad Novalja)\, 2.232 €/god.\n\nŠto ističe: https://koncesijski-sat.verc
+ el.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (GUŠĆIĆ D.
+  O. O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-1e9bd62b770ad166@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20700831
+DTEND;VALUE=DATE:20700901
+SUMMARY:Ističe koncesija: EVN CROATIA PLIN D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 31. 8. 2070.\n\n• EVN CROATIA PL
+ IN D.O.O. – Koncesija za opskrbu potrošača prirodnim plinom (GOSPIĆ\,
+  OTOČAC\, Grad Gospić)\n\nŠto ističe: https://koncesijski-sat.vercel.a
+ pp/#sat\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 
+ 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: EVN CROATIA PLIN D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-1e9bd62b770ad166@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20700228
+DTEND;VALUE=DATE:20700301
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (EVN CROATIA PLIN
+  D.O.O.)
+DESCRIPTION:31. 8. 2070. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• EVN CROATIA PLIN D.O.O. – Koncesija za opskrbu potrošača prir
+ odnim plinom (GOSPIĆ\, OTOČAC\, Grad Gospić)\n\nŠto ističe: https://k
+ oncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (EVN CROATIA 
+ PLIN D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

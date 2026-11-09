@@ -4,24 +4,25 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Općina Polača
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Polača. Iz Regi
- stra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade poda
- taka. https://koncesijski-sat.vercel.app/#opcina/41942358B48972691086636
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Općina Polača (pregled
+ \, svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježava 
+ se nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#opcina
+ /41942358B48972691086636
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-e42b2c825e381e58@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-40808dc76f2df59e@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20280831
 DTEND;VALUE=DATE:20280901
 SUMMARY:Ističe koncesija: PROŽURA D.O.O.\, PUTNIČKA AGENCIJA
 DESCRIPTION:1 ugovor o koncesiji ističe 31. 8. 2028. Godišnja fiksna nakn
  ada: 398 €.\n\n• PROŽURA D.O.O.\, PUTNIČKA AGENCIJA – Koncesija po
- morskog dobra u svrhu gospodarskog korištenja luke (POLAČA)\, 398 €/go
- d.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B
- 48972691086636\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 
- 9. 11. 2026.
+ morskog dobra u svrhu gospodarskog korištenja luke (POLAČA) · davatelj:
+  LUČKA UPRAVA DUBROVAČKO-NERETVANSKE ŽUPANIJE\, 398 €/god.\n\nProfil 
+ općine: https://koncesijski-sat.vercel.app/#opcina/41942358B4897269108663
+ 6\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B48972691086636
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -31,8 +32,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-e42b2c825e381e58@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-40808dc76f2df59e@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20280229
 DTEND;VALUE=DATE:20280301
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PROŽURA D.O.O.\
@@ -40,9 +41,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PROŽURA D.O.O.\
 DESCRIPTION:31. 8. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• PROŽURA D.O.O.\, PUTNIČKA AGENCIJA – Koncesija pomorskog dobr
- a u svrhu gospodarskog korištenja luke (POLAČA)\, 398 €/god.\n\nProfil
-  općine: https://koncesijski-sat.vercel.app/#opcina/41942358B489726910866
- 36
+ a u svrhu gospodarskog korištenja luke (POLAČA) · davatelj: LUČKA UPRA
+ VA DUBROVAČKO-NERETVANSKE ŽUPANIJE\, 398 €/god.\n\nProfil općine: htt
+ ps://koncesijski-sat.vercel.app/#opcina/41942358B48972691086636
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B48972691086636
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -53,19 +54,21 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-27d148dd7731edb0@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-6fa70bcf8e70b370@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20370331
 DTEND;VALUE=DATE:20370401
 SUMMARY:Ističe 3 koncesije · Polača
 DESCRIPTION:3 ugovora o koncesiji ističe 31. 3. 2037. Godišnja fiksna nak
  nada: 7.628 €.\n\n• SOMAR D.O.O. – Koncesija za eksploataciju tehni
- čko-građevnog kamena (POLAČA)\, 3.814 €/god.\n• SOMAR D.O.O. – Ko
- ncesija za površinu utvrđenog eksploatacijskog polja neenergetskih miner
- alnih sirovina (POLAČA)\, 3.814 €/god.\n• SOMAR D.O.O. – Koncesija 
- za eksploataciju tehničko-građevnog kamena (POLAČA)\n\nProfil općine: 
- https://koncesijski-sat.vercel.app/#opcina/41942358B48972691086636\nIzvor:
-  Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ čko-građevnog kamena (POLAČA) · davatelj: MINISTARSTVO GOSPODARSTVA\, 
+ 3.814 €/god.\n• SOMAR D.O.O. – Koncesija za površinu utvrđenog eks
+ ploatacijskog polja neenergetskih mineralnih sirovina (POLAČA) · davatel
+ j: MINISTARSTVO GOSPODARSTVA\, 3.814 €/god.\n• SOMAR D.O.O. – Konces
+ ija za eksploataciju tehničko-građevnog kamena (POLAČA) · davatelj: MI
+ NISTARSTVO GOSPODARSTVA\n\nProfil općine: https://koncesijski-sat.vercel.
+ app/#opcina/41942358B48972691086636\nIzvor: Registar koncesija (FINA)\, ob
+ rada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B48972691086636
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -75,47 +78,52 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-27d148dd7731edb0@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-6fa70bcf8e70b370@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20360930
 DTEND;VALUE=DATE:20361001
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Polača
 DESCRIPTION:31. 3. 2037. ističe 3 ugovora o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• SOMAR D.O.O. – Koncesija za eksploataciju tehničko-građevnog
-  kamena (POLAČA)\, 3.814 €/god.\n• SOMAR D.O.O. – Koncesija za povr
- šinu utvrđenog eksploatacijskog polja neenergetskih mineralnih sirovina 
- (POLAČA)\, 3.814 €/god.\n• SOMAR D.O.O. – Koncesija za eksploatacij
- u tehničko-građevnog kamena (POLAČA)\n\nProfil općine: https://koncesi
- jski-sat.vercel.app/#opcina/41942358B48972691086636
+  kamena (POLAČA) · davatelj: MINISTARSTVO GOSPODARSTVA\, 3.814 €/god.\
+ n• SOMAR D.O.O. – Koncesija za površinu utvrđenog eksploatacijskog p
+ olja neenergetskih mineralnih sirovina (POLAČA) · davatelj: MINISTARSTVO
+  GOSPODARSTVA\, 3.814 €/god.\n• SOMAR D.O.O. – Koncesija za eksploat
+ aciju tehničko-građevnog kamena (POLAČA) · davatelj: MINISTARSTVO GOSP
+ ODARSTVA\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
+ 42358B48972691086636
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B48972691086636
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Polača
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-b91327ef805b7271@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-6f9b5622513d6bff@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20451231
 DTEND;VALUE=DATE:20460101
 SUMMARY:Ističe 6 koncesija · Polača
 DESCRIPTION:6 ugovora o koncesiji ističe 31. 12. 2045. Godišnja fiksna na
  knada: 15.440 €.\n\n• ROXIT HRVATSKA D.O.O. – Koncesija za površinu
   utvrđenog eksploatacijskog polja neenergetskih mineralnih sirovina (POLA
- ČA)\, 8.332 €/god.\n• HOLCIM (HRVATSKA) D.O.O. – Koncesija za ekspl
- oataciju tehničko-građevnog kamena (POLAČA)\, 3.554 €/god.\n• HOLCI
- M (HRVATSKA) D.O.O. – Koncesija za površinu utvrđenog eksploatacijskog
-  polja neenergetskih mineralnih sirovina (POLAČA)\, 3.554 €/god.\n• R
- OXIT HRVATSKA D.O.O. – Koncesija za eksploataciju karbonatne mineralne s
- irovine za industrijsku preradbu (POLAČA)\n• ROXIT HRVATSKA D.O.O. – 
- Koncesija za eksploataciju karbonatne mineralne sirovine za industrijsku p
- reradbu (POLAČA)\n• HOLCIM (HRVATSKA) D.O.O. – Koncesija za eksploata
- ciju tehničko-građevnog kamena (POLAČA)\n\nProfil općine: https://konc
- esijski-sat.vercel.app/#opcina/41942358B48972691086636\nIzvor: Registar ko
- ncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ ČA) · davatelj: MINISTARSTVO GOSPODARSTVA\, 8.332 €/god.\n• HOLCIM (
+ HRVATSKA) D.O.O. – Koncesija za eksploataciju tehničko-građevnog kamen
+ a (POLAČA) · davatelj: MINISTARSTVO GOSPODARSTVA\, 3.554 €/god.\n• H
+ OLCIM (HRVATSKA) D.O.O. – Koncesija za površinu utvrđenog eksploatacij
+ skog polja neenergetskih mineralnih sirovina (POLAČA) · davatelj: MINIST
+ ARSTVO GOSPODARSTVA\, 3.554 €/god.\n• ROXIT HRVATSKA D.O.O. – Konces
+ ija za eksploataciju karbonatne mineralne sirovine za industrijsku preradb
+ u (POLAČA) · davatelj: MINISTARSTVO GOSPODARSTVA\n• ROXIT HRVATSKA D.O
+ .O. – Koncesija za eksploataciju karbonatne mineralne sirovine za indust
+ rijsku preradbu (POLAČA) · davatelj: MINISTARSTVO GOSPODARSTVA\n• HOLC
+ IM (HRVATSKA) D.O.O. – Koncesija za eksploataciju tehničko-građevnog k
+ amena (POLAČA) · davatelj: MINISTARSTVO GOSPODARSTVA\n\nProfil općine: 
+ https://koncesijski-sat.vercel.app/#opcina/41942358B48972691086636\nIzvor:
+  Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B48972691086636
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -125,30 +133,33 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-b91327ef805b7271@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-6f9b5622513d6bff@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20450630
 DTEND;VALUE=DATE:20450701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 6 koncesija
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 6 koncesija · Polača
 DESCRIPTION:31. 12. 2045. ističe 6 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• ROXIT HRVATSKA D.O.O. – Koncesija za površinu utvrđenog eks
- ploatacijskog polja neenergetskih mineralnih sirovina (POLAČA)\, 8.332 
- €/god.\n• HOLCIM (HRVATSKA) D.O.O. – Koncesija za eksploataciju tehn
- ičko-građevnog kamena (POLAČA)\, 3.554 €/god.\n• HOLCIM (HRVATSKA) 
- D.O.O. – Koncesija za površinu utvrđenog eksploatacijskog polja neener
- getskih mineralnih sirovina (POLAČA)\, 3.554 €/god.\n• ROXIT HRVATSKA
-  D.O.O. – Koncesija za eksploataciju karbonatne mineralne sirovine za in
- dustrijsku preradbu (POLAČA)\n• ROXIT HRVATSKA D.O.O. – Koncesija za 
- eksploataciju karbonatne mineralne sirovine za industrijsku preradbu (POLA
- ČA)\n• HOLCIM (HRVATSKA) D.O.O. – Koncesija za eksploataciju tehničk
- o-građevnog kamena (POLAČA)\n\nProfil općine: https://koncesijski-sat.v
- ercel.app/#opcina/41942358B48972691086636
+ ploatacijskog polja neenergetskih mineralnih sirovina (POLAČA) · davatel
+ j: MINISTARSTVO GOSPODARSTVA\, 8.332 €/god.\n• HOLCIM (HRVATSKA) D.O.O
+ . – Koncesija za eksploataciju tehničko-građevnog kamena (POLAČA) · 
+ davatelj: MINISTARSTVO GOSPODARSTVA\, 3.554 €/god.\n• HOLCIM (HRVATSKA
+ ) D.O.O. – Koncesija za površinu utvrđenog eksploatacijskog polja neen
+ ergetskih mineralnih sirovina (POLAČA) · davatelj: MINISTARSTVO GOSPODAR
+ STVA\, 3.554 €/god.\n• ROXIT HRVATSKA D.O.O. – Koncesija za eksploat
+ aciju karbonatne mineralne sirovine za industrijsku preradbu (POLAČA) · 
+ davatelj: MINISTARSTVO GOSPODARSTVA\n• ROXIT HRVATSKA D.O.O. – Koncesi
+ ja za eksploataciju karbonatne mineralne sirovine za industrijsku preradbu
+  (POLAČA) · davatelj: MINISTARSTVO GOSPODARSTVA\n• HOLCIM (HRVATSKA) D
+ .O.O. – Koncesija za eksploataciju tehničko-građevnog kamena (POLAČA)
+  · davatelj: MINISTARSTVO GOSPODARSTVA\n\nProfil općine: https://koncesi
+ jski-sat.vercel.app/#opcina/41942358B48972691086636
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B48972691086636
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 6 koncesija
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 6 koncesija · Polača
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT

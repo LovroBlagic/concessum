@@ -4,23 +4,24 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Grad Slunj
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Grad Slunj. Iz Registra 
- koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podataka.
-  https://koncesijski-sat.vercel.app/#opcina/41942358B69896257239961
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Grad Slunj (pregled\, sv
+ i davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježava se na
+ kon svake obrade podataka. https://koncesijski-sat.vercel.app/#opcina/4194
+ 2358B69896257239961
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-2f019108764e6717@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-a1e6ad954d4787b0@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270807
 DTEND;VALUE=DATE:20270808
 SUMMARY:Ističe koncesija: ENERGON DIMNJAČARSKI OBRT
 DESCRIPTION:1 ugovor o koncesiji ističe 7. 8. 2027.\n\n• ENERGON DIMNJA
- ČARSKI OBRT – Koncesija za obavljanje dimnjačarskih poslova (SLUNJ)\n\
- nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B69896
- 257239961\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11
- . 2026.
+ ČARSKI OBRT – Koncesija za obavljanje dimnjačarskih poslova (SLUNJ) ·
+  davatelj: GRAD SLUNJ\n\nProfil općine: https://koncesijski-sat.vercel.ap
+ p/#opcina/41942358B69896257239961\nIzvor: Registar koncesija (FINA)\, obra
+ da Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B69896257239961
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -30,8 +31,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-2f019108764e6717@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-a1e6ad954d4787b0@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270207
 DTEND;VALUE=DATE:20270208
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ENERGON DIMNJAČ
@@ -39,8 +40,8 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ENERGON DIMNJAČ
 DESCRIPTION:7. 8. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• ENERGON DIMNJAČARSKI OBRT – Koncesija za obavljanje dimnjačars
- kih poslova (SLUNJ)\n\nProfil općine: https://koncesijski-sat.vercel.app/
- #opcina/41942358B69896257239961
+ kih poslova (SLUNJ) · davatelj: GRAD SLUNJ\n\nProfil općine: https://kon
+ cesijski-sat.vercel.app/#opcina/41942358B69896257239961
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B69896257239961
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -51,16 +52,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-f1a2fc83e6601e98@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-40d0736024fd205e@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20271112
 DTEND;VALUE=DATE:20271113
 SUMMARY:Ističe koncesija: RADIO SLUNJ D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 12. 11. 2027. Godišnja fiksna nak
  nada: 66 €.\n\n• RADIO SLUNJ D.O.O. – Koncesija za obavljanje djelat
- nosti radija (SLUNJ)\, 66 €/god.\n\nProfil općine: https://koncesijski-
- sat.vercel.app/#opcina/41942358B69896257239961\nIzvor: Registar koncesija 
- (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ nosti radija (SLUNJ) · davatelj: AGENCIJA ZA ELEKTRONIČKE MEDIJE\, 66 
+ €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
+ 42358B69896257239961\nIzvor: Registar koncesija (FINA)\, obrada Koncesijsk
+ i sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B69896257239961
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -70,8 +72,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-f1a2fc83e6601e98@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-40d0736024fd205e@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270512
 DTEND;VALUE=DATE:20270513
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (RADIO SLUNJ D.O.
@@ -79,8 +81,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (RADIO SLUNJ D.O.
 DESCRIPTION:12. 11. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• RADIO SLUNJ D.O.O. – Koncesija za obavljanje djelatnosti radij
- a (SLUNJ)\, 66 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.
- app/#opcina/41942358B69896257239961
+ a (SLUNJ) · davatelj: AGENCIJA ZA ELEKTRONIČKE MEDIJE\, 66 €/god.\n\nP
+ rofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B6989625
+ 7239961
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B69896257239961
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -91,17 +94,18 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-284f35c067b48f8a@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-36ea41934f8cba0d@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20321231
 DTEND;VALUE=DATE:20330101
 SUMMARY:Ističe koncesija: OBRT ZA PRIJEVOZ I USLUGE VL. SLAVKO KOVAČEVIĆ
 DESCRIPTION:1 ugovor o koncesiji ističe 31. 12. 2032. Godišnja fiksna nak
  nada: 718 €.\n\n• OBRT ZA PRIJEVOZ I USLUGE VL. SLAVKO KOVAČEVIĆ –
   Koncesija za površinu utvrđenog eksploatacijskog polja neenergetskih mi
- neralnih sirovina (SLUNJ)\, 718 €/god.\n\nProfil općine: https://konces
- ijski-sat.vercel.app/#opcina/41942358B69896257239961\nIzvor: Registar konc
- esija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ neralnih sirovina (SLUNJ) · davatelj: MINISTARSTVO GOSPODARSTVA\, 718 €
+ /god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419423
+ 58B69896257239961\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski s
+ at 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B69896257239961
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -112,8 +116,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-284f35c067b48f8a@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-36ea41934f8cba0d@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20320630
 DTEND;VALUE=DATE:20320701
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (OBRT ZA PRIJEVOZ
@@ -122,8 +126,9 @@ DESCRIPTION:31. 12. 2032. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• OBRT ZA PRIJEVOZ I USLUGE VL. SLAVKO KOVAČEVIĆ – Koncesija z
  a površinu utvrđenog eksploatacijskog polja neenergetskih mineralnih sir
- ovina (SLUNJ)\, 718 €/god.\n\nProfil općine: https://koncesijski-sat.ve
- rcel.app/#opcina/41942358B69896257239961
+ ovina (SLUNJ) · davatelj: MINISTARSTVO GOSPODARSTVA\, 718 €/god.\n\nPro
+ fil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B698962572
+ 39961
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B69896257239961
 TRANSP:TRANSPARENT
 BEGIN:VALARM

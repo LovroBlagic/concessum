@@ -4,27 +4,29 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Općina Tinjan
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Tinjan. Iz Regis
- tra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podat
- aka. https://koncesijski-sat.vercel.app/#opcina/41942358B57078948587956
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Općina Tinjan (pregled\
+ , svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježava s
+ e nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#opcina/
+ 41942358B57078948587956
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-ddcc8677bab668f4@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-0ddfb7c920979312@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20321231
 DTEND;VALUE=DATE:20330101
 SUMMARY:Ističe 3 koncesije · Tinjan
 DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2032. Godišnja fiksna na
  knada: 416 €.\n\n• OBRT PULIN VL. DARIO PULIN – Koncesija za eksploa
- taciju tehničko-građevnog kamena (TINJAN)\, 208 €/god.\n• OBRT PULIN
-  VL. DARIO PULIN – Koncesija za površinu utvrđenog eksploatacijskog po
- lja neenergetskih mineralnih sirovina (TINJAN)\, 208 €/god.\n• OBRT PU
- LIN VL. DARIO PULIN – Koncesija za eksploataciju tehničko-građevnog ka
- mena (TINJAN)\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcin
- a/41942358B57078948587956\nIzvor: Registar koncesija (FINA)\, obrada Konce
- sijski sat 9. 11. 2026.
+ taciju tehničko-građevnog kamena (TINJAN) · davatelj: MINISTARSTVO GOSP
+ ODARSTVA\, 208 €/god.\n• OBRT PULIN VL. DARIO PULIN – Koncesija za p
+ ovršinu utvrđenog eksploatacijskog polja neenergetskih mineralnih sirovi
+ na (TINJAN) · davatelj: MINISTARSTVO GOSPODARSTVA\, 208 €/god.\n• OBR
+ T PULIN VL. DARIO PULIN – Koncesija za eksploataciju tehničko-građevno
+ g kamena (TINJAN) · davatelj: MINISTARSTVO GOSPODARSTVA\n\nProfil općine
+ : https://koncesijski-sat.vercel.app/#opcina/41942358B57078948587956\nIzvo
+ r: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B57078948587956
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -34,25 +36,26 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-ddcc8677bab668f4@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-0ddfb7c920979312@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20320630
 DTEND;VALUE=DATE:20320701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Tinjan
 DESCRIPTION:31. 12. 2032. ističe 3 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• OBRT PULIN VL. DARIO PULIN – Koncesija za eksploataciju tehni
- čko-građevnog kamena (TINJAN)\, 208 €/god.\n• OBRT PULIN VL. DARIO P
- ULIN – Koncesija za površinu utvrđenog eksploatacijskog polja neenerge
- tskih mineralnih sirovina (TINJAN)\, 208 €/god.\n• OBRT PULIN VL. DARI
- O PULIN – Koncesija za eksploataciju tehničko-građevnog kamena (TINJAN
- )\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B5
- 7078948587956
+ čko-građevnog kamena (TINJAN) · davatelj: MINISTARSTVO GOSPODARSTVA\, 2
+ 08 €/god.\n• OBRT PULIN VL. DARIO PULIN – Koncesija za površinu utv
+ rđenog eksploatacijskog polja neenergetskih mineralnih sirovina (TINJAN) 
+ · davatelj: MINISTARSTVO GOSPODARSTVA\, 208 €/god.\n• OBRT PULIN VL. 
+ DARIO PULIN – Koncesija za eksploataciju tehničko-građevnog kamena (TI
+ NJAN) · davatelj: MINISTARSTVO GOSPODARSTVA\n\nProfil općine: https://ko
+ ncesijski-sat.vercel.app/#opcina/41942358B57078948587956
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B57078948587956
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Tinjan
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT

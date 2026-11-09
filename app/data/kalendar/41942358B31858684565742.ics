@@ -4,24 +4,25 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Općina Donja Motičina
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Donja Motičina.
-  Iz Registra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obr
- ade podataka. https://koncesijski-sat.vercel.app/#opcina/41942358B31858684
- 565742
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Općina Donja Motičina 
+ (pregled\, svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osv
+ ježava se nakon svake obrade podataka. https://koncesijski-sat.vercel.app
+ /#opcina/41942358B31858684565742
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-015cddb41578e5f2@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-09d05a63898de6b6@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270628
 DTEND;VALUE=DATE:20270629
 SUMMARY:Ističe koncesija: INA\, D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 28. 6. 2027. Godišnja fiksna nakn
  ada: 15 €.\n\n• INA\, D.D. – Dozvola za istraživanje ugljikovodika 
- (prema Zakonu o ugljikovodicima) (DONJA MOTIČINA)\, 15 €/god.\n\nProfil
-  općine: https://koncesijski-sat.vercel.app/#opcina/41942358B318586845657
- 42\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ (prema Zakonu o ugljikovodicima) (DONJA MOTIČINA) · davatelj: MINISTARST
+ VO GOSPODARSTVA\, 15 €/god.\n\nProfil općine: https://koncesijski-sat.v
+ ercel.app/#opcina/41942358B31858684565742\nIzvor: Registar koncesija (FINA
+ )\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B31858684565742
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -31,16 +32,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-015cddb41578e5f2@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-09d05a63898de6b6@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20261228
 DTEND;VALUE=DATE:20261229
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA\, D.D.)
 DESCRIPTION:28. 6. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• INA\, D.D. – Dozvola za istraživanje ugljikovodika (prema Zako
- nu o ugljikovodicima) (DONJA MOTIČINA)\, 15 €/god.\n\nProfil općine: h
- ttps://koncesijski-sat.vercel.app/#opcina/41942358B31858684565742
+ nu o ugljikovodicima) (DONJA MOTIČINA) · davatelj: MINISTARSTVO GOSPODAR
+ STVA\, 15 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#
+ opcina/41942358B31858684565742
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B31858684565742
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -50,20 +52,21 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-985c1dfa1a924fcc@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-c4269c1680b6e85d@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20401231
 DTEND;VALUE=DATE:20410101
 SUMMARY:Ističe 3 koncesije · Donja Motičina
 DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2040. Godišnja fiksna na
  knada: 7.566 €.\n\n• MASIV KAMEN D.O.O. – Koncesija za površinu utv
  rđenog eksploatacijskog polja neenergetskih mineralnih sirovina (DONJA MO
- TIČINA)\, 7.566 €/god.\n• MASIV KAMEN D.O.O. – Koncesija za eksploa
- taciju tehničko-građevnog kamena (DONJA MOTIČINA)\n• MASIV KAMEN D.O.
- O. – Koncesija za eksploataciju tehničko-građevnog kamena (DONJA MOTI
- ČINA)\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942
- 358B31858684565742\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski 
- sat 9. 11. 2026.
+ TIČINA) · davatelj: MINISTARSTVO GOSPODARSTVA\, 7.566 €/god.\n• MASI
+ V KAMEN D.O.O. – Koncesija za eksploataciju tehničko-građevnog kamena 
+ (DONJA MOTIČINA) · davatelj: MINISTARSTVO GOSPODARSTVA\n• MASIV KAMEN 
+ D.O.O. – Koncesija za eksploataciju tehničko-građevnog kamena (DONJA M
+ OTIČINA) · davatelj: MINISTARSTVO GOSPODARSTVA\n\nProfil općine: https:
+ //koncesijski-sat.vercel.app/#opcina/41942358B31858684565742\nIzvor: Regis
+ tar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B31858684565742
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -73,25 +76,28 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-985c1dfa1a924fcc@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-c4269c1680b6e85d@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20400630
 DTEND;VALUE=DATE:20400701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Donja Motičin
+ a
 DESCRIPTION:31. 12. 2040. ističe 3 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• MASIV KAMEN D.O.O. – Koncesija za površinu utvrđenog eksplo
- atacijskog polja neenergetskih mineralnih sirovina (DONJA MOTIČINA)\, 7.5
- 66 €/god.\n• MASIV KAMEN D.O.O. – Koncesija za eksploataciju tehnič
- ko-građevnog kamena (DONJA MOTIČINA)\n• MASIV KAMEN D.O.O. – Koncesi
- ja za eksploataciju tehničko-građevnog kamena (DONJA MOTIČINA)\n\nProfi
- l općine: https://koncesijski-sat.vercel.app/#opcina/41942358B31858684565
- 742
+ atacijskog polja neenergetskih mineralnih sirovina (DONJA MOTIČINA) · da
+ vatelj: MINISTARSTVO GOSPODARSTVA\, 7.566 €/god.\n• MASIV KAMEN D.O.O.
+  – Koncesija za eksploataciju tehničko-građevnog kamena (DONJA MOTIČI
+ NA) · davatelj: MINISTARSTVO GOSPODARSTVA\n• MASIV KAMEN D.O.O. – Kon
+ cesija za eksploataciju tehničko-građevnog kamena (DONJA MOTIČINA) · d
+ avatelj: MINISTARSTVO GOSPODARSTVA\n\nProfil općine: https://koncesijski-
+ sat.vercel.app/#opcina/41942358B31858684565742
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B31858684565742
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Donja Moti
+ čina
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT

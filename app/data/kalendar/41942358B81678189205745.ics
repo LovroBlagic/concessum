@@ -4,24 +4,25 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Grad Popovača
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Grad Popovača. Iz Regis
- tra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podat
- aka. https://koncesijski-sat.vercel.app/#opcina/41942358B81678189205745
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Grad Popovača (pregled\
+ , svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježava s
+ e nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#opcina/
+ 41942358B81678189205745
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-1eb4d6b540e72647@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-2e6711b98940a34b@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20271113
 DTEND;VALUE=DATE:20271114
 SUMMARY:Ističe koncesija: ASPECT CROATIA KFT.
 DESCRIPTION:1 ugovor o koncesiji ističe 13. 11. 2027. Godišnja fiksna nak
  nada: 594 €.\n\n• ASPECT CROATIA KFT. – Dozvola za istraživanje ugl
- jikovodika (prema Zakonu o ugljikovodicima) (POPOVAČA)\, 594 €/god.\n\n
- Profil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B816781
- 89205745\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11.
-  2026.
+ jikovodika (prema Zakonu o ugljikovodicima) (POPOVAČA) · davatelj: MINIS
+ TARSTVO GOSPODARSTVA\, 594 €/god.\n\nProfil općine: https://koncesijski
+ -sat.vercel.app/#opcina/41942358B81678189205745\nIzvor: Registar koncesija
+  (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B81678189205745
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -31,8 +32,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-1eb4d6b540e72647@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-2e6711b98940a34b@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270513
 DTEND;VALUE=DATE:20270514
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ASPECT CROATIA K
@@ -40,8 +41,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ASPECT CROATIA K
 DESCRIPTION:13. 11. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• ASPECT CROATIA KFT. – Dozvola za istraživanje ugljikovodika (
- prema Zakonu o ugljikovodicima) (POPOVAČA)\, 594 €/god.\n\nProfil opći
- ne: https://koncesijski-sat.vercel.app/#opcina/41942358B81678189205745
+ prema Zakonu o ugljikovodicima) (POPOVAČA) · davatelj: MINISTARSTVO GOSP
+ ODARSTVA\, 594 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.
+ app/#opcina/41942358B81678189205745
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B81678189205745
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -52,16 +54,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-d9f3dc8266023079@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-da0c1e5cf3c1e712@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20291110
 DTEND;VALUE=DATE:20291111
 SUMMARY:Ističe koncesija: BELJE PLUS D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 10. 11. 2029. Godišnja fiksna nak
  nada: 521 €.\n\n• BELJE PLUS D.O.O. – Koncesija za zahvaćanje voda 
- za tehnološke potrebe (POPOVAČA)\, 521 €/god.\n\nProfil općine: https
- ://koncesijski-sat.vercel.app/#opcina/41942358B81678189205745\nIzvor: Regi
- star koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ za tehnološke potrebe (POPOVAČA) · davatelj: MINISTARSTVO ZAŠTITE OKOL
+ IŠA I ZELENE TRANZICIJE\, 521 €/god.\n\nProfil općine: https://koncesi
+ jski-sat.vercel.app/#opcina/41942358B81678189205745\nIzvor: Registar konce
+ sija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B81678189205745
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -71,8 +74,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-d9f3dc8266023079@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-da0c1e5cf3c1e712@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20290510
 DTEND;VALUE=DATE:20290511
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BELJE PLUS D.O.O
@@ -80,8 +83,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BELJE PLUS D.O.O
 DESCRIPTION:10. 11. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• BELJE PLUS D.O.O. – Koncesija za zahvaćanje voda za tehnološ
- ke potrebe (POPOVAČA)\, 521 €/god.\n\nProfil općine: https://koncesijs
- ki-sat.vercel.app/#opcina/41942358B81678189205745
+ ke potrebe (POPOVAČA) · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠA I ZELEN
+ E TRANZICIJE\, 521 €/god.\n\nProfil općine: https://koncesijski-sat.ver
+ cel.app/#opcina/41942358B81678189205745
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B81678189205745
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -92,17 +96,18 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-bb8f998cb6bbb154@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-1fd40ce253b1539f@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20301231
 DTEND;VALUE=DATE:20310101
 SUMMARY:Ističe 2 koncesije · Popovača
 DESCRIPTION:2 ugovora o koncesiji ističe 31. 12. 2030.\n\n• INA-INDUSTRI
  JA NAFTE  D.D. – Dozvola za eksploataciju ugljikovodika (prema Zakonu o 
- ugljikovodicima) (POPOVAČA)\n• INA D.D. – Dozvola za eksploataciju ug
- ljikovodika (prema Zakonu o ugljikovodicima) (POPOVAČA)\n\nProfil općine
- : https://koncesijski-sat.vercel.app/#opcina/41942358B81678189205745\nIzvo
- r: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ ugljikovodicima) (POPOVAČA) · davatelj: MINISTARSTVO GOSPODARSTVA\n• I
+ NA D.D. – Dozvola za eksploataciju ugljikovodika (prema Zakonu o ugljiko
+ vodicima) (POPOVAČA) · davatelj: MINISTARSTVO GOSPODARSTVA\n\nProfil op
+ ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B81678189205745\
+ nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B81678189205745
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -112,37 +117,39 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-bb8f998cb6bbb154@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-1fd40ce253b1539f@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20300630
 DTEND;VALUE=DATE:20300701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Popovača
 DESCRIPTION:31. 12. 2030. ističe 2 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Dozvola za eksploataciju ugljiko
- vodika (prema Zakonu o ugljikovodicima) (POPOVAČA)\n• INA D.D. – Dozv
- ola za eksploataciju ugljikovodika (prema Zakonu o ugljikovodicima) (POPOV
- AČA)\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419423
- 58B81678189205745
+ vodika (prema Zakonu o ugljikovodicima) (POPOVAČA) · davatelj: MINISTARS
+ TVO GOSPODARSTVA\n• INA D.D. – Dozvola za eksploataciju ugljikovodika 
+ (prema Zakonu o ugljikovodicima) (POPOVAČA) · davatelj: MINISTARSTVO GOS
+ PODARSTVA\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41
+ 942358B81678189205745
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B81678189205745
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Popovača
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-2780cf86f0c10dec@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-29091c303cf495f1@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20341231
 DTEND;VALUE=DATE:20350101
 SUMMARY:Ističe koncesija: INA-INDUSTRIJA NAFTE  D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 31. 12. 2034.\n\n• INA-INDUSTRIJ
  A NAFTE  D.D. – Dozvola za eksploataciju ugljikovodika (prema Zakonu o u
- gljikovodicima) (POPOVAČA)\n\nProfil općine: https://koncesijski-sat.ver
- cel.app/#opcina/41942358B81678189205745\nIzvor: Registar koncesija (FINA)\
- , obrada Koncesijski sat 9. 11. 2026.
+ gljikovodicima) (POPOVAČA) · davatelj: MINISTARSTVO GOSPODARSTVA\n\nProf
+ il općine: https://koncesijski-sat.vercel.app/#opcina/41942358B8167818920
+ 5745\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 202
+ 6.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B81678189205745
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -152,8 +159,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-2780cf86f0c10dec@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-29091c303cf495f1@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20340630
 DTEND;VALUE=DATE:20340701
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA-INDUSTRIJA N
@@ -161,8 +168,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA-INDUSTRIJA N
 DESCRIPTION:31. 12. 2034. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Dozvola za eksploataciju ugljikov
- odika (prema Zakonu o ugljikovodicima) (POPOVAČA)\n\nProfil općine: http
- s://koncesijski-sat.vercel.app/#opcina/41942358B81678189205745
+ odika (prema Zakonu o ugljikovodicima) (POPOVAČA) · davatelj: MINISTARST
+ VO GOSPODARSTVA\n\nProfil općine: https://koncesijski-sat.vercel.app/#opc
+ ina/41942358B81678189205745
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B81678189205745
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -173,61 +181,18 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-9c185b4fdc240805@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-1fefdd08b40b8ed3@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20411231
 DTEND;VALUE=DATE:20420101
 SUMMARY:Ističe 3 koncesije · Popovača
 DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2041. Godišnja fiksna na
  knada: 419 €.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauzetu
-  površinu odobrenog eksploatacijskog polja (POPOVAČA)\, 419 €/god.\n
- • INA D.D. – Dozvola za eksploataciju ugljikovodika (prema Zakonu o ug
- ljikovodicima) (POPOVAČA)\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija z
- a eksploataciju plina (POPOVAČA)\n\nProfil općine: https://koncesijski-s
- at.vercel.app/#opcina/41942358B81678189205745\nIzvor: Registar koncesija (
- FINA)\, obrada Koncesijski sat 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#opcina/41942358B81678189205745
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Ističe 3 koncesije · Popovača
-TRIGGER:-P7D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:priprema-9c185b4fdc240805@koncesijski-sat
-DTSTAMP:20261109T134442Z
-DTSTART;VALUE=DATE:20410630
-DTEND;VALUE=DATE:20410701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
-DESCRIPTION:31. 12. 2041. ističe 3 ugovora o koncesiji. Novi postupak dodj
- ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
- ra.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauzetu površinu o
- dobrenog eksploatacijskog polja (POPOVAČA)\, 419 €/god.\n• INA D.D. 
- – Dozvola za eksploataciju ugljikovodika (prema Zakonu o ugljikovodicima
- ) (POPOVAČA)\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za eksploataci
- ju plina (POPOVAČA)\n\nProfil općine: https://koncesijski-sat.vercel.app
- /#opcina/41942358B81678189205745
-URL:https://koncesijski-sat.vercel.app/#opcina/41942358B81678189205745
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
-TRIGGER:-P7D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:istek-3bddb0c31e1d654a@koncesijski-sat
-DTSTAMP:20261109T134442Z
-DTSTART;VALUE=DATE:20431231
-DTEND;VALUE=DATE:20440101
-SUMMARY:Ističe 3 koncesije · Popovača
-DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2043. Godišnja fiksna na
- knada: 5.326 €.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauze
- tu površinu odobrenog eksploatacijskog polja (POPOVAČA)\, 5.326 €/god.
- \n• INA-INDUSTRIJA NAFTE  D.D. – Dozvola za eksploataciju ugljikovodik
- a (prema Zakonu o ugljikovodicima) (POPOVAČA)\n• INA D.D. – Dozvola z
- a eksploataciju ugljikovodika (prema Zakonu o ugljikovodicima) (POPOVAČA)
+  površinu odobrenog eksploatacijskog polja (POPOVAČA) · davatelj: MINIS
+ TARSTVO GOSPODARSTVA\, 419 €/god.\n• INA D.D. – Dozvola za eksploata
+ ciju ugljikovodika (prema Zakonu o ugljikovodicima) (POPOVAČA) · davatel
+ j: MINISTARSTVO GOSPODARSTVA\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija
+  za eksploataciju plina (POPOVAČA) · davatelj: MINISTARSTVO GOSPODARSTVA
  \n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B81
  678189205745\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9.
   11. 2026.
@@ -240,24 +205,73 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-3bddb0c31e1d654a@koncesijski-sat
-DTSTAMP:20261109T134442Z
-DTSTART;VALUE=DATE:20430630
-DTEND;VALUE=DATE:20430701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
-DESCRIPTION:31. 12. 2043. ističe 3 ugovora o koncesiji. Novi postupak dodj
+UID:priprema-1fefdd08b40b8ed3@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20410630
+DTEND;VALUE=DATE:20410701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Popovača
+DESCRIPTION:31. 12. 2041. ističe 3 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauzetu površinu o
- dobrenog eksploatacijskog polja (POPOVAČA)\, 5.326 €/god.\n• INA-INDU
- STRIJA NAFTE  D.D. – Dozvola za eksploataciju ugljikovodika (prema Zakon
- u o ugljikovodicima) (POPOVAČA)\n• INA D.D. – Dozvola za eksploatacij
- u ugljikovodika (prema Zakonu o ugljikovodicima) (POPOVAČA)\n\nProfil op
- ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B81678189205745
+ dobrenog eksploatacijskog polja (POPOVAČA) · davatelj: MINISTARSTVO GOSP
+ ODARSTVA\, 419 €/god.\n• INA D.D. – Dozvola za eksploataciju ugljiko
+ vodika (prema Zakonu o ugljikovodicima) (POPOVAČA) · davatelj: MINISTARS
+ TVO GOSPODARSTVA\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za eksploat
+ aciju plina (POPOVAČA) · davatelj: MINISTARSTVO GOSPODARSTVA\n\nProfil o
+ pćine: https://koncesijski-sat.vercel.app/#opcina/41942358B81678189205745
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B81678189205745
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Popovača
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-61b0cad7502b054a@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20431231
+DTEND;VALUE=DATE:20440101
+SUMMARY:Ističe 3 koncesije · Popovača
+DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2043. Godišnja fiksna na
+ knada: 5.326 €.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauze
+ tu površinu odobrenog eksploatacijskog polja (POPOVAČA) · davatelj: MIN
+ ISTARSTVO GOSPODARSTVA\, 5.326 €/god.\n• INA-INDUSTRIJA NAFTE  D.D. 
+ – Dozvola za eksploataciju ugljikovodika (prema Zakonu o ugljikovodicima
+ ) (POPOVAČA) · davatelj: MINISTARSTVO GOSPODARSTVA\n• INA D.D. – Doz
+ vola za eksploataciju ugljikovodika (prema Zakonu o ugljikovodicima) (POPO
+ VAČA) · davatelj: MINISTARSTVO GOSPODARSTVA\n\nProfil općine: https://k
+ oncesijski-sat.vercel.app/#opcina/41942358B81678189205745\nIzvor: Registar
+  koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B81678189205745
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 3 koncesije · Popovača
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-61b0cad7502b054a@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20430630
+DTEND;VALUE=DATE:20430701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Popovača
+DESCRIPTION:31. 12. 2043. ističe 3 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauzetu površinu o
+ dobrenog eksploatacijskog polja (POPOVAČA) · davatelj: MINISTARSTVO GOSP
+ ODARSTVA\, 5.326 €/god.\n• INA-INDUSTRIJA NAFTE  D.D. – Dozvola za e
+ ksploataciju ugljikovodika (prema Zakonu o ugljikovodicima) (POPOVAČA) ·
+  davatelj: MINISTARSTVO GOSPODARSTVA\n• INA D.D. – Dozvola za eksploat
+ aciju ugljikovodika (prema Zakonu o ugljikovodicima) (POPOVAČA) · davate
+ lj: MINISTARSTVO GOSPODARSTVA\n\nProfil općine: https://koncesijski-sat.v
+ ercel.app/#opcina/41942358B81678189205745
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B81678189205745
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Popovača
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT

@@ -4,23 +4,24 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Općina Vinica
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Vinica. Iz Regis
- tra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podat
- aka. https://koncesijski-sat.vercel.app/#opcina/41942358B2077636467277
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Općina Vinica (pregled\
+ , svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježava s
+ e nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#opcina/
+ 41942358B2077636467277
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-a3c6138b28313114@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-72f3431dbdb974e5@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270116
 DTEND;VALUE=DATE:20270117
 SUMMARY:Ističe koncesija: DIMAX D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 16. 1. 2027. Godišnja fiksna nakn
  ada: 677 €.\n\n• DIMAX D.O.O. – Koncesija za obavljanje dimnjačarsk
- ih poslova (VINICA)\, 677 €/god.\n\nProfil općine: https://koncesijski-
- sat.vercel.app/#opcina/41942358B2077636467277\nIzvor: Registar koncesija (
- FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ ih poslova (VINICA) · davatelj: OPĆINA VINICA\, 677 €/god.\n\nProfil o
+ pćine: https://koncesijski-sat.vercel.app/#opcina/41942358B2077636467277\
+ nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B2077636467277
 TRANSP:TRANSPARENT
 BEGIN:VALARM

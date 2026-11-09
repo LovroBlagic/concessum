@@ -1,0 +1,135 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · OPĆINA PODGORAČ
+X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje OPĆINA PODGORAČ. Iz Regi
+ stra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade poda
+ taka. https://koncesijski-sat.vercel.app/#sat
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-21a223f7bf217290@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20290328
+DTEND;VALUE=DATE:20290329
+SUMMARY:Ističe koncesija: VATRO-DIM J.D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 28. 3. 2029. Godišnja fiksna nakn
+ ada: 511 €.\n\n• VATRO-DIM J.D.O.O. – Koncesija za obavljanje dimnja
+ čarskih poslova (PODGORAČ\, Općina Podgorač)\, 511 €/god.\n\nŠto is
+ tiče: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija 
+ (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: VATRO-DIM J.D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-21a223f7bf217290@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20280928
+DTEND;VALUE=DATE:20280929
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VATRO-DIM J.D.O.
+ O.)
+DESCRIPTION:28. 3. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• VATRO-DIM J.D.O.O. – Koncesija za obavljanje dimnjačarskih pos
+ lova (PODGORAČ\, Općina Podgorač)\, 511 €/god.\n\nŠto ističe: https
+ ://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VATRO-DIM J.
+ D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-e9810b37552157f2@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20340225
+DTEND;VALUE=DATE:20340226
+SUMMARY:Ističe koncesija: HANA-VUKA D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 25. 2. 2034. Godišnja fiksna nakn
+ ada: 12.609 €.\n\n• HANA-VUKA D.O.O. – Koncesija za korištenje polj
+ oprivrednog zemljišta u vlasništvu države (PODGORAČ\, Općina Podgora
+ č)\, 12.609 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/
+ #sat\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 202
+ 6.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: HANA-VUKA D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-e9810b37552157f2@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20330825
+DTEND;VALUE=DATE:20330826
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HANA-VUKA D.O.O.
+ )
+DESCRIPTION:25. 2. 2034. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• HANA-VUKA D.O.O. – Koncesija za korištenje poljoprivrednog zem
+ ljišta u vlasništvu države (PODGORAČ\, Općina Podgorač)\, 12.609 €
+ /god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HANA-VUKA D.
+ O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-773d9912ae2a7136@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20390121
+DTEND;VALUE=DATE:20390122
+SUMMARY:Ističe koncesija: HANA-VUKA D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 21. 1. 2039. Godišnja fiksna nakn
+ ada: 32.517 €.\n\n• HANA-VUKA D.O.O. – Koncesija za korištenje polj
+ oprivrednog zemljišta u vlasništvu države (PODGORAČ\, Općina Podgora
+ č)\, 32.517 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/
+ #sat\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 202
+ 6.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: HANA-VUKA D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-773d9912ae2a7136@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20380721
+DTEND;VALUE=DATE:20380722
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HANA-VUKA D.O.O.
+ )
+DESCRIPTION:21. 1. 2039. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• HANA-VUKA D.O.O. – Koncesija za korištenje poljoprivrednog zem
+ ljišta u vlasništvu države (PODGORAČ\, Općina Podgorač)\, 32.517 €
+ /god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HANA-VUKA D.
+ O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

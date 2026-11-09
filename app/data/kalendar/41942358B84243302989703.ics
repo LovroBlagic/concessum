@@ -4,23 +4,25 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Općina Marina
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Marina. Iz Regis
- tra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podat
- aka. https://koncesijski-sat.vercel.app/#opcina/41942358B84243302989703
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Općina Marina (pregled\
+ , svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježava s
+ e nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#opcina/
+ 41942358B84243302989703
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-7930df16f25127f1@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-c3b80f692d75738b@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
 SUMMARY:Ističe koncesija: PUDE SERVIS D.O.O.ZA TURIZAM I     USLUGE
 DESCRIPTION:1 ugovor o koncesiji ističe 31. 12. 2026. Godišnja fiksna nak
  nada: 398 €.\n\n• PUDE SERVIS D.O.O.ZA TURIZAM I     USLUGE – Konces
- ija za luku (MARINA)\, 398 €/god.\n\nProfil općine: https://koncesijski
- -sat.vercel.app/#opcina/41942358B84243302989703\nIzvor: Registar koncesija
-  (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ ija za luku (MARINA) · davatelj: LUČKA UPRAVA SPLITSKO-DALMATINSKE ŽUPA
+ NIJE\, 398 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/
+ #opcina/41942358B84243302989703\nIzvor: Registar koncesija (FINA)\, obrada
+  Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B84243302989703
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -30,18 +32,18 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-48acf9b12339a5bf@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-613858bafe9d5e17@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270630
 DTEND;VALUE=DATE:20270701
 SUMMARY:Ističe koncesija: PEREŽA\, OBRT ZA PRIJEVOZ I VUČU VOZILA VL. DR
  AGAN PEREŽA\, POZORAC\, POD BILO 7
 DESCRIPTION:1 ugovor o koncesiji ističe 30. 6. 2027. Godišnja fiksna nakn
  ada: 1.000 €.\n\n• PEREŽA\, OBRT ZA PRIJEVOZ I VUČU VOZILA VL. DRAGA
- N PEREŽA\, POZORAC\, POD BILO 7 – Koncesija za luku (MARINA)\, 1.000 
- €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
- 42358B84243302989703\nIzvor: Registar koncesija (FINA)\, obrada Koncesijsk
- i sat 9. 11. 2026.
+ N PEREŽA\, POZORAC\, POD BILO 7 – Koncesija za luku (MARINA) · davatel
+ j: LUČKA UPRAVA SPLITSKO-DALMATINSKE ŽUPANIJE\, 1.000 €/god.\n\nProfil
+  općine: https://koncesijski-sat.vercel.app/#opcina/41942358B842433029897
+ 03\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B84243302989703
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -52,8 +54,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-48acf9b12339a5bf@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-613858bafe9d5e17@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20261230
 DTEND;VALUE=DATE:20261231
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PEREŽA\, OBRT Z
@@ -61,9 +63,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PEREŽA\, OBRT Z
 DESCRIPTION:30. 6. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• PEREŽA\, OBRT ZA PRIJEVOZ I VUČU VOZILA VL. DRAGAN PEREŽA\, PO
- ZORAC\, POD BILO 7 – Koncesija za luku (MARINA)\, 1.000 €/god.\n\nProf
- il općine: https://koncesijski-sat.vercel.app/#opcina/41942358B8424330298
- 9703
+ ZORAC\, POD BILO 7 – Koncesija za luku (MARINA) · davatelj: LUČKA UPRA
+ VA SPLITSKO-DALMATINSKE ŽUPANIJE\, 1.000 €/god.\n\nProfil općine: http
+ s://koncesijski-sat.vercel.app/#opcina/41942358B84243302989703
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B84243302989703
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -74,8 +76,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-a4d779d70ccf4070@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-563ec85e3c8638ac@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20450309
 DTEND;VALUE=DATE:20450310
 SUMMARY:Ističe koncesija: VODOVOD I KANALIZACIJA D.O.O. ZA VODOOPS KRBU\, 
@@ -83,9 +85,9 @@ SUMMARY:Ističe koncesija: VODOVOD I KANALIZACIJA D.O.O. ZA VODOOPS KRBU\,
 DESCRIPTION:1 ugovor o koncesiji ističe 9. 3. 2045. Godišnja fiksna nakna
  da: 1.031 €.\n\n• VODOVOD I KANALIZACIJA D.O.O. ZA VODOOPS KRBU\, ODVO
  DNJU I PROČIŠĆAVANJE OTPADNIH – Koncesija na pomorskom dobru (MARINA)
- \, 1.031 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#o
- pcina/41942358B84243302989703\nIzvor: Registar koncesija (FINA)\, obrada K
- oncesijski sat 9. 11. 2026.
+  · davatelj: SPLITSKO-DALMATINSKA ŽUPANIJA\, 1.031 €/god.\n\nProfil op
+ ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B84243302989703\
+ nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B84243302989703
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -96,8 +98,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-a4d779d70ccf4070@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-563ec85e3c8638ac@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20440909
 DTEND;VALUE=DATE:20440910
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VODOVOD I KANALI
@@ -105,9 +107,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VODOVOD I KANALI
 DESCRIPTION:9. 3. 2045. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• VODOVOD I KANALIZACIJA D.O.O. ZA VODOOPS KRBU\, ODVODNJU I PROČI
- ŠĆAVANJE OTPADNIH – Koncesija na pomorskom dobru (MARINA)\, 1.031 €/
- god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4194235
- 8B84243302989703
+ ŠĆAVANJE OTPADNIH – Koncesija na pomorskom dobru (MARINA) · davatelj:
+  SPLITSKO-DALMATINSKA ŽUPANIJA\, 1.031 €/god.\n\nProfil općine: https:
+ //koncesijski-sat.vercel.app/#opcina/41942358B84243302989703
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B84243302989703
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -118,19 +120,21 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-3d2a0406dd62110e@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-6411d3bdd1247da5@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20471231
 DTEND;VALUE=DATE:20480101
 SUMMARY:Ističe 3 koncesije · Marina
 DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2047. Godišnja fiksna na
  knada: 6.400 €.\n\n• SENIOR D.O.O. – Koncesija za eksploataciju arhi
- tektonsko-građevnog kamena (MARINA)\, 3.200 €/god.\n• SENIOR D.O.O. 
- – Koncesija za površinu utvrđenog eksploatacijskog polja neenergetskih
-  mineralnih sirovina (MARINA)\, 3.200 €/god.\n• SENIOR D.O.O. – Konc
- esija za eksploataciju arhitektonsko-građevnog kamena (MARINA)\n\nProfil 
- općine: https://koncesijski-sat.vercel.app/#opcina/41942358B8424330298970
- 3\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ tektonsko-građevnog kamena (MARINA) · davatelj: MINISTARSTVO GOSPODARSTV
+ A\, 3.200 €/god.\n• SENIOR D.O.O. – Koncesija za površinu utvrđeno
+ g eksploatacijskog polja neenergetskih mineralnih sirovina (MARINA) · dav
+ atelj: MINISTARSTVO GOSPODARSTVA\, 3.200 €/god.\n• SENIOR D.O.O. – K
+ oncesija za eksploataciju arhitektonsko-građevnog kamena (MARINA) · dava
+ telj: MINISTARSTVO GOSPODARSTVA\n\nProfil općine: https://koncesijski-sat
+ .vercel.app/#opcina/41942358B84243302989703\nIzvor: Registar koncesija (FI
+ NA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B84243302989703
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -140,38 +144,41 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-3d2a0406dd62110e@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-6411d3bdd1247da5@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20470630
 DTEND;VALUE=DATE:20470701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Marina
 DESCRIPTION:31. 12. 2047. ističe 3 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• SENIOR D.O.O. – Koncesija za eksploataciju arhitektonsko-gra
- đevnog kamena (MARINA)\, 3.200 €/god.\n• SENIOR D.O.O. – Koncesija 
- za površinu utvrđenog eksploatacijskog polja neenergetskih mineralnih si
- rovina (MARINA)\, 3.200 €/god.\n• SENIOR D.O.O. – Koncesija za ekspl
- oataciju arhitektonsko-građevnog kamena (MARINA)\n\nProfil općine: https
- ://koncesijski-sat.vercel.app/#opcina/41942358B84243302989703
+ đevnog kamena (MARINA) · davatelj: MINISTARSTVO GOSPODARSTVA\, 3.200 €
+ /god.\n• SENIOR D.O.O. – Koncesija za površinu utvrđenog eksploataci
+ jskog polja neenergetskih mineralnih sirovina (MARINA) · davatelj: MINIST
+ ARSTVO GOSPODARSTVA\, 3.200 €/god.\n• SENIOR D.O.O. – Koncesija za e
+ ksploataciju arhitektonsko-građevnog kamena (MARINA) · davatelj: MINISTA
+ RSTVO GOSPODARSTVA\n\nProfil općine: https://koncesijski-sat.vercel.app/#
+ opcina/41942358B84243302989703
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B84243302989703
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Marina
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-40ca6a4b3920d5bb@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-1ce8dd91b5addfea@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20760717
 DTEND;VALUE=DATE:20760718
 SUMMARY:Ističe koncesija: HRVATSKI TELEKOM D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 17. 7. 2076. Godišnja fiksna nakn
  ada: 1.155 €.\n\n• HRVATSKI TELEKOM D.D. – Posebna upotreba pomorsko
- g dobra (MARINA)\, 1.155 €/god.\n\nProfil općine: https://koncesijski-s
- at.vercel.app/#opcina/41942358B84243302989703\nIzvor: Registar koncesija (
- FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ g dobra (MARINA) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE
+ \, 1.155 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#o
+ pcina/41942358B84243302989703\nIzvor: Registar koncesija (FINA)\, obrada K
+ oncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B84243302989703
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -181,8 +188,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-40ca6a4b3920d5bb@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-1ce8dd91b5addfea@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20760117
 DTEND;VALUE=DATE:20760118
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKI TELEKOM
@@ -190,8 +197,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKI TELEKOM
 DESCRIPTION:17. 7. 2076. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• HRVATSKI TELEKOM D.D. – Posebna upotreba pomorskog dobra (MARIN
- A)\, 1.155 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/
- #opcina/41942358B84243302989703
+ A) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\, 1.155 €/g
+ od.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358
+ B84243302989703
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B84243302989703
 TRANSP:TRANSPARENT
 BEGIN:VALARM

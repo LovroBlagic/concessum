@@ -4,23 +4,25 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Grad Đakovo
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Grad Đakovo. Iz Registr
- a koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podatak
- a. https://koncesijski-sat.vercel.app/#opcina/41942358B74230403119288
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Grad Đakovo (pregled\, 
+ svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježava se 
+ nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#opcina/41
+ 942358B74230403119288
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-4c13b4eec7b08639@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-63e6806e0d469314@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20310430
 DTEND;VALUE=DATE:20310501
 SUMMARY:Ističe koncesija: HEP - PLIN  D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 30. 4. 2031. Godišnja fiksna nakn
  ada: 1.062 €.\n\n• HEP - PLIN  D.O.O. – Koncesija za opskrbu potroš
- ača prirodnim plinom (ĐAKOVO)\, 1.062 €/god.\n\nProfil općine: https:
- //koncesijski-sat.vercel.app/#opcina/41942358B74230403119288\nIzvor: Regis
- tar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ ača prirodnim plinom (ĐAKOVO) · davatelj: GRAD ĐAKOVO\, 1.062 €/god.
+ \n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B74
+ 230403119288\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9.
+  11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B74230403119288
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -30,8 +32,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-4c13b4eec7b08639@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-63e6806e0d469314@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20301030
 DTEND;VALUE=DATE:20301031
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP - PLIN  D.O.
@@ -39,8 +41,8 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP - PLIN  D.O.
 DESCRIPTION:30. 4. 2031. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• HEP - PLIN  D.O.O. – Koncesija za opskrbu potrošača prirodnim
-  plinom (ĐAKOVO)\, 1.062 €/god.\n\nProfil općine: https://koncesijski-
- sat.vercel.app/#opcina/41942358B74230403119288
+  plinom (ĐAKOVO) · davatelj: GRAD ĐAKOVO\, 1.062 €/god.\n\nProfil op
+ ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B74230403119288
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B74230403119288
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -51,18 +53,19 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-254fdb09d1e38c46@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-a3a809d35bc7fde0@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20350302
 DTEND;VALUE=DATE:20350303
 SUMMARY:Ističe koncesija: AGRO-LER\, OBRT U POLJOPRIVREDI VL.MATO GLAVŠEV
  IĆ
 DESCRIPTION:1 ugovor o koncesiji ističe 2. 3. 2035. Godišnja fiksna nakna
  da: 13 €.\n\n• AGRO-LER\, OBRT U POLJOPRIVREDI VL.MATO GLAVŠEVIĆ –
-  Koncesija za zahvaćanje voda za melioracijsko navodnjavanje (ĐAKOVO)\, 
- 13 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/
- 41942358B74230403119288\nIzvor: Registar koncesija (FINA)\, obrada Koncesi
- jski sat 9. 11. 2026.
+  Koncesija za zahvaćanje voda za melioracijsko navodnjavanje (ĐAKOVO) ·
+  davatelj: MINISTARSTVO ZAŠTITE OKOLIŠA I ZELENE TRANZICIJE\, 13 €/god
+ .\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B7
+ 4230403119288\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9
+ . 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B74230403119288
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -73,8 +76,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-254fdb09d1e38c46@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-a3a809d35bc7fde0@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20340902
 DTEND;VALUE=DATE:20340903
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (AGRO-LER\, OBRT 
@@ -82,9 +85,10 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (AGRO-LER\, OBRT
 DESCRIPTION:2. 3. 2035. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• AGRO-LER\, OBRT U POLJOPRIVREDI VL.MATO GLAVŠEVIĆ – Koncesija 
- za zahvaćanje voda za melioracijsko navodnjavanje (ĐAKOVO)\, 13 €/god.
- \n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B74
- 230403119288
+ za zahvaćanje voda za melioracijsko navodnjavanje (ĐAKOVO) · davatelj: 
+ MINISTARSTVO ZAŠTITE OKOLIŠA I ZELENE TRANZICIJE\, 13 €/god.\n\nProfil
+  općine: https://koncesijski-sat.vercel.app/#opcina/41942358B742304031192
+ 88
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B74230403119288
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -95,19 +99,21 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-99752d623316af73@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-e9a4bdc3362ebe6c@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20401231
 DTEND;VALUE=DATE:20410101
 SUMMARY:Ističe 3 koncesije · Đakovo
 DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2040. Godišnja fiksna na
  knada: 21.036 €.\n\n• WIENERBERGER D.O.O. – Koncesija za eksploataci
- ju ciglarske gline (ĐAKOVO)\, 10.518 €/god.\n• WIENERBERGER D.O.O. 
- – Koncesija za površinu utvrđenog eksploatacijskog polja neenergetskih
-  mineralnih sirovina (ĐAKOVO)\, 10.518 €/god.\n• WIENERBERGER D.O.O. 
- – Koncesija za eksploataciju ciglarske gline (ĐAKOVO)\n\nProfil općine
- : https://koncesijski-sat.vercel.app/#opcina/41942358B74230403119288\nIzvo
- r: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ ju ciglarske gline (ĐAKOVO) · davatelj: MINISTARSTVO GOSPODARSTVA\, 10.5
+ 18 €/god.\n• WIENERBERGER D.O.O. – Koncesija za površinu utvrđenog
+  eksploatacijskog polja neenergetskih mineralnih sirovina (ĐAKOVO) · dav
+ atelj: MINISTARSTVO GOSPODARSTVA\, 10.518 €/god.\n• WIENERBERGER D.O.O
+ . – Koncesija za eksploataciju ciglarske gline (ĐAKOVO) · davatelj: MI
+ NISTARSTVO GOSPODARSTVA\n\nProfil općine: https://koncesijski-sat.vercel.
+ app/#opcina/41942358B74230403119288\nIzvor: Registar koncesija (FINA)\, ob
+ rada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B74230403119288
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -117,38 +123,41 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-99752d623316af73@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-e9a4bdc3362ebe6c@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20400630
 DTEND;VALUE=DATE:20400701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Đakovo
 DESCRIPTION:31. 12. 2040. ističe 3 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• WIENERBERGER D.O.O. – Koncesija za eksploataciju ciglarske gl
- ine (ĐAKOVO)\, 10.518 €/god.\n• WIENERBERGER D.O.O. – Koncesija za 
- površinu utvrđenog eksploatacijskog polja neenergetskih mineralnih sirov
- ina (ĐAKOVO)\, 10.518 €/god.\n• WIENERBERGER D.O.O. – Koncesija za 
- eksploataciju ciglarske gline (ĐAKOVO)\n\nProfil općine: https://koncesi
- jski-sat.vercel.app/#opcina/41942358B74230403119288
+ ine (ĐAKOVO) · davatelj: MINISTARSTVO GOSPODARSTVA\, 10.518 €/god.\n
+ • WIENERBERGER D.O.O. – Koncesija za površinu utvrđenog eksploatacij
+ skog polja neenergetskih mineralnih sirovina (ĐAKOVO) · davatelj: MINIST
+ ARSTVO GOSPODARSTVA\, 10.518 €/god.\n• WIENERBERGER D.O.O. – Koncesi
+ ja za eksploataciju ciglarske gline (ĐAKOVO) · davatelj: MINISTARSTVO GO
+ SPODARSTVA\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4
+ 1942358B74230403119288
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B74230403119288
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Đakovo
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-e7fa180234cf0dfc@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-da05901c5a980d9a@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20511216
 DTEND;VALUE=DATE:20511217
 SUMMARY:Ističe koncesija: ĐAKOVO HRAST D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 16. 12. 2051. Godišnja fiksna nak
  nada: 1.062 €.\n\n• ĐAKOVO HRAST D.O.O. – Koncesija za zahvaćanje 
- voda za tehnološke potrebe (ĐAKOVO)\, 1.062 €/god.\n\nProfil općine: 
- https://koncesijski-sat.vercel.app/#opcina/41942358B74230403119288\nIzvor:
-  Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ voda za tehnološke potrebe (ĐAKOVO) · davatelj: MINISTARSTVO ZAŠTITE O
+ KOLIŠA I ZELENE TRANZICIJE\, 1.062 €/god.\n\nProfil općine: https://ko
+ ncesijski-sat.vercel.app/#opcina/41942358B74230403119288\nIzvor: Registar 
+ koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B74230403119288
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -158,8 +167,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-e7fa180234cf0dfc@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-da05901c5a980d9a@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20510616
 DTEND;VALUE=DATE:20510617
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ĐAKOVO HRAST D.
@@ -167,8 +176,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ĐAKOVO HRAST D.
 DESCRIPTION:16. 12. 2051. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• ĐAKOVO HRAST D.O.O. – Koncesija za zahvaćanje voda za tehnol
- oške potrebe (ĐAKOVO)\, 1.062 €/god.\n\nProfil općine: https://konces
- ijski-sat.vercel.app/#opcina/41942358B74230403119288
+ oške potrebe (ĐAKOVO) · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠA I ZELE
+ NE TRANZICIJE\, 1.062 €/god.\n\nProfil općine: https://koncesijski-sat.
+ vercel.app/#opcina/41942358B74230403119288
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B74230403119288
 TRANSP:TRANSPARENT
 BEGIN:VALARM

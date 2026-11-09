@@ -1,0 +1,91 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · OPĆINA SMOKVICA
+X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje OPĆINA SMOKVICA. Iz Regis
+ tra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podat
+ aka. https://koncesijski-sat.vercel.app/#sat
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-7b7400a8b0ee538b@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20401030
+DTEND;VALUE=DATE:20401031
+SUMMARY:Ističe koncesija: VODOVOD D.O.O.IZGRADNJA PODSUSTAVA ODVODNJE
+DESCRIPTION:1 ugovor o koncesiji ističe 30. 10. 2040.\n\n• VODOVOD D.O.O
+ .IZGRADNJA PODSUSTAVA ODVODNJE – Koncesija na pomorskom dobru (SMOKVICA\
+ , Općina Smokvica)\n\nŠto ističe: https://koncesijski-sat.vercel.app/#s
+ at\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: VODOVOD D.O.O.IZGRADNJA PODSUSTAVA ODVODNJE
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-7b7400a8b0ee538b@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20400430
+DTEND;VALUE=DATE:20400501
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VODOVOD D.O.O.IZ
+ GRADNJA PODSUSTAVA ODVODNJE)
+DESCRIPTION:30. 10. 2040. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• VODOVOD D.O.O.IZGRADNJA PODSUSTAVA ODVODNJE – Koncesija na pom
+ orskom dobru (SMOKVICA\, Općina Smokvica)\n\nŠto ističe: https://konces
+ ijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VODOVOD D.O.
+ O.IZGRADNJA PODSUSTAVA ODVODNJE)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-02edb986af8b9857@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20401229
+DTEND;VALUE=DATE:20401230
+SUMMARY:Ističe koncesija: VODOVOD D.O.O.IZGRADNJA PODSUSTAVA ODVODNJE
+DESCRIPTION:1 ugovor o koncesiji ističe 29. 12. 2040.\n\n• VODOVOD D.O.O
+ .IZGRADNJA PODSUSTAVA ODVODNJE – Koncesija na pomorskom dobru (SMOKVICA\
+ , Općina Smokvica)\n\nŠto ističe: https://koncesijski-sat.vercel.app/#s
+ at\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: VODOVOD D.O.O.IZGRADNJA PODSUSTAVA ODVODNJE
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-02edb986af8b9857@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20400629
+DTEND;VALUE=DATE:20400630
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VODOVOD D.O.O.IZ
+ GRADNJA PODSUSTAVA ODVODNJE)
+DESCRIPTION:29. 12. 2040. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• VODOVOD D.O.O.IZGRADNJA PODSUSTAVA ODVODNJE – Koncesija na pom
+ orskom dobru (SMOKVICA\, Općina Smokvica)\n\nŠto ističe: https://konces
+ ijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VODOVOD D.O.
+ O.IZGRADNJA PODSUSTAVA ODVODNJE)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

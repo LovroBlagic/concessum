@@ -4,23 +4,25 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Općina Darda
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Darda. Iz Regist
- ra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podata
- ka. https://koncesijski-sat.vercel.app/#opcina/41942358B83840905876894
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Općina Darda (pregled\,
+  svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježava se
+  nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#opcina/4
+ 1942358B83840905876894
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-47757caaa4eb9554@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-fdd8ad7803d11e1f@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270107
 DTEND;VALUE=DATE:20270108
 SUMMARY:Ističe koncesija: FLORIJAN DIMNJAČARSKE USLUGE
 DESCRIPTION:1 ugovor o koncesiji ističe 7. 1. 2027. Godišnja fiksna nakna
  da: 1.460 €.\n\n• FLORIJAN DIMNJAČARSKE USLUGE – Koncesija za obavl
- janje dimnjačarskih poslova (DARDA)\, 1.460 €/god.\n\nProfil općine: h
- ttps://koncesijski-sat.vercel.app/#opcina/41942358B83840905876894\nIzvor: 
- Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ janje dimnjačarskih poslova (DARDA) · davatelj: OPĆINA DARDA\, 1.460 
+ €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
+ 42358B83840905876894\nIzvor: Registar koncesija (FINA)\, obrada Koncesijsk
+ i sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B83840905876894
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -30,16 +32,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-df48f83bf4232be3@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-189b1b3b9f4ff58c@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270307
 DTEND;VALUE=DATE:20270308
 SUMMARY:Ističe koncesija: PARANGAL  D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 7. 3. 2027. Godišnja fiksna nakna
  da: 664 €.\n\n• PARANGAL  D.O.O. – Koncesija za obavljanje poslova n
- a održavanju javne rasvjete (DARDA)\, 664 €/god.\n\nProfil općine: htt
- ps://koncesijski-sat.vercel.app/#opcina/41942358B83840905876894\nIzvor: Re
- gistar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ a održavanju javne rasvjete (DARDA) · davatelj: OPĆINA DARDA\, 664 €/
+ god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4194235
+ 8B83840905876894\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sa
+ t 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B83840905876894
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -49,19 +52,21 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-27035b084f79b967@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-b5f04d5e40638abc@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20271231
 DTEND;VALUE=DATE:20280101
 SUMMARY:Ističe 3 koncesije · Darda
 DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2027. Godišnja fiksna na
  knada: 2.904 €.\n\n• BARAS D.O.O. – Koncesija za eksploataciju građ
- evnog pijeska i šljunka (DARDA)\, 968 €/god.\n• BARAS D.O.O. – Konc
- esija za eksploataciju građevnog pijeska i šljunka (DARDA)\, 968 €/god
- .\n• BARAS D.O.O. – Koncesija za površinu utvrđenog eksploatacijskog
-  polja neenergetskih mineralnih sirovina (DARDA)\, 968 €/god.\n\nProfil 
- općine: https://koncesijski-sat.vercel.app/#opcina/41942358B8384090587689
- 4\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ evnog pijeska i šljunka (DARDA) · davatelj: MINISTARSTVO GOSPODARSTVA\, 
+ 968 €/god.\n• BARAS D.O.O. – Koncesija za eksploataciju građevnog p
+ ijeska i šljunka (DARDA) · davatelj: MINISTARSTVO GOSPODARSTVA\, 968 €
+ /god.\n• BARAS D.O.O. – Koncesija za površinu utvrđenog eksploatacij
+ skog polja neenergetskih mineralnih sirovina (DARDA) · davatelj: MINISTAR
+ STVO GOSPODARSTVA\, 968 €/god.\n\nProfil općine: https://koncesijski-sa
+ t.vercel.app/#opcina/41942358B83840905876894\nIzvor: Registar koncesija (F
+ INA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B83840905876894
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -71,39 +76,41 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-27035b084f79b967@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-b5f04d5e40638abc@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270630
 DTEND;VALUE=DATE:20270701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Darda
 DESCRIPTION:31. 12. 2027. ističe 3 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• BARAS D.O.O. – Koncesija za eksploataciju građevnog pijeska 
- i šljunka (DARDA)\, 968 €/god.\n• BARAS D.O.O. – Koncesija za ekspl
- oataciju građevnog pijeska i šljunka (DARDA)\, 968 €/god.\n• BARAS D
- .O.O. – Koncesija za površinu utvrđenog eksploatacijskog polja neenerg
- etskih mineralnih sirovina (DARDA)\, 968 €/god.\n\nProfil općine: https
- ://koncesijski-sat.vercel.app/#opcina/41942358B83840905876894
+ i šljunka (DARDA) · davatelj: MINISTARSTVO GOSPODARSTVA\, 968 €/god.\n
+ • BARAS D.O.O. – Koncesija za eksploataciju građevnog pijeska i šlju
+ nka (DARDA) · davatelj: MINISTARSTVO GOSPODARSTVA\, 968 €/god.\n• BAR
+ AS D.O.O. – Koncesija za površinu utvrđenog eksploatacijskog polja nee
+ nergetskih mineralnih sirovina (DARDA) · davatelj: MINISTARSTVO GOSPODARS
+ TVA\, 968 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#
+ opcina/41942358B83840905876894
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B83840905876894
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Darda
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-4cdd265bbb60a2ed@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-dfe2923a92c05263@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20360822
 DTEND;VALUE=DATE:20360823
 SUMMARY:Ističe koncesija: BELJE PLUS D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 22. 8. 2036. Godišnja fiksna nakn
  ada: 138.911 €.\n\n• BELJE PLUS D.O.O. – Koncesija za korištenje po
- ljoprivrednog zemljišta u vlasništvu države (DARDA)\, 138.911 €/god.\
- n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B838
- 40905876894\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 
- 11. 2026.
+ ljoprivrednog zemljišta u vlasništvu države (DARDA) · davatelj: OPĆIN
+ A DARDA\, 138.911 €/god.\n\nProfil općine: https://koncesijski-sat.verc
+ el.app/#opcina/41942358B83840905876894\nIzvor: Registar koncesija (FINA)\,
+  obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B83840905876894
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -113,8 +120,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-4cdd265bbb60a2ed@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-dfe2923a92c05263@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20360222
 DTEND;VALUE=DATE:20360223
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BELJE PLUS D.O.O
@@ -122,8 +129,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BELJE PLUS D.O.O
 DESCRIPTION:22. 8. 2036. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• BELJE PLUS D.O.O. – Koncesija za korištenje poljoprivrednog ze
- mljišta u vlasništvu države (DARDA)\, 138.911 €/god.\n\nProfil općin
- e: https://koncesijski-sat.vercel.app/#opcina/41942358B83840905876894
+ mljišta u vlasništvu države (DARDA) · davatelj: OPĆINA DARDA\, 138.91
+ 1 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4
+ 1942358B83840905876894
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B83840905876894
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -134,16 +142,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-a6e7131d2d799e8b@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-f31dd3e6dbb0c46f@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20440818
 DTEND;VALUE=DATE:20440819
 SUMMARY:Ističe koncesija: BUDIMCI D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 18. 8. 2044. Godišnja fiksna nakn
  ada: 11 €.\n\n• BUDIMCI D.O.O. – Koncesija za zahvaćanje voda za me
- lioracijsko navodnjavanje (DARDA)\, 11 €/god.\n\nProfil općine: https:/
- /koncesijski-sat.vercel.app/#opcina/41942358B83840905876894\nIzvor: Regist
- ar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ lioracijsko navodnjavanje (DARDA) · davatelj: MINISTARSTVO ZAŠTITE OKOLI
+ ŠA I ZELENE TRANZICIJE\, 11 €/god.\n\nProfil općine: https://koncesijs
+ ki-sat.vercel.app/#opcina/41942358B83840905876894\nIzvor: Registar koncesi
+ ja (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B83840905876894
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -153,16 +162,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-a6e7131d2d799e8b@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-f31dd3e6dbb0c46f@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20440218
 DTEND;VALUE=DATE:20440219
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BUDIMCI D.O.O.)
 DESCRIPTION:18. 8. 2044. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• BUDIMCI D.O.O. – Koncesija za zahvaćanje voda za melioracijsko
-  navodnjavanje (DARDA)\, 11 €/god.\n\nProfil općine: https://koncesijsk
- i-sat.vercel.app/#opcina/41942358B83840905876894
+  navodnjavanje (DARDA) · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠA I ZELEN
+ E TRANZICIJE\, 11 €/god.\n\nProfil općine: https://koncesijski-sat.verc
+ el.app/#opcina/41942358B83840905876894
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B83840905876894
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -173,16 +183,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-54bad3f546840959@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-a075fb0e12a0e60e@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20440901
 DTEND;VALUE=DATE:20440902
 SUMMARY:Ističe koncesija: BELJE PLUS D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 1. 9. 2044. Godišnja fiksna nakna
  da: 2.389 €.\n\n• BELJE PLUS D.O.O. – Koncesija za zahvaćanje voda 
- za tehnološke potrebe (DARDA)\, 2.389 €/god.\n\nProfil općine: https:/
- /koncesijski-sat.vercel.app/#opcina/41942358B83840905876894\nIzvor: Regist
- ar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ za tehnološke potrebe (DARDA) · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠA
+  I ZELENE TRANZICIJE\, 2.389 €/god.\n\nProfil općine: https://koncesijs
+ ki-sat.vercel.app/#opcina/41942358B83840905876894\nIzvor: Registar koncesi
+ ja (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B83840905876894
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -192,8 +203,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-54bad3f546840959@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-a075fb0e12a0e60e@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20440301
 DTEND;VALUE=DATE:20440302
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BELJE PLUS D.O.O
@@ -201,8 +212,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BELJE PLUS D.O.O
 DESCRIPTION:1. 9. 2044. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• BELJE PLUS D.O.O. – Koncesija za zahvaćanje voda za tehnološke
-  potrebe (DARDA)\, 2.389 €/god.\n\nProfil općine: https://koncesijski-s
- at.vercel.app/#opcina/41942358B83840905876894
+  potrebe (DARDA) · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠA I ZELENE TRAN
+ ZICIJE\, 2.389 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.
+ app/#opcina/41942358B83840905876894
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B83840905876894
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -213,16 +225,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-8fbbcb109092c8a2@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-4af2291d3a32599e@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20470406
 DTEND;VALUE=DATE:20470407
 SUMMARY:Ističe koncesija: BELJE PLUS D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 6. 4. 2047. Godišnja fiksna nakna
  da: 1.991 €.\n\n• BELJE PLUS D.O.O. – Koncesija za zahvaćanje voda 
- za tehnološke potrebe (DARDA)\, 1.991 €/god.\n\nProfil općine: https:/
- /koncesijski-sat.vercel.app/#opcina/41942358B83840905876894\nIzvor: Regist
- ar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ za tehnološke potrebe (DARDA) · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠA
+  I ZELENE TRANZICIJE\, 1.991 €/god.\n\nProfil općine: https://koncesijs
+ ki-sat.vercel.app/#opcina/41942358B83840905876894\nIzvor: Registar koncesi
+ ja (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B83840905876894
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -232,8 +245,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-8fbbcb109092c8a2@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-4af2291d3a32599e@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20461006
 DTEND;VALUE=DATE:20461007
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BELJE PLUS D.O.O
@@ -241,8 +254,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BELJE PLUS D.O.O
 DESCRIPTION:6. 4. 2047. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• BELJE PLUS D.O.O. – Koncesija za zahvaćanje voda za tehnološke
-  potrebe (DARDA)\, 1.991 €/god.\n\nProfil općine: https://koncesijski-s
- at.vercel.app/#opcina/41942358B83840905876894
+  potrebe (DARDA) · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠA I ZELENE TRAN
+ ZICIJE\, 1.991 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.
+ app/#opcina/41942358B83840905876894
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B83840905876894
 TRANSP:TRANSPARENT
 BEGIN:VALARM

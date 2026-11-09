@@ -4,24 +4,25 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Grad Novi Marof
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Grad Novi Marof. Iz Regi
- stra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade poda
- taka. https://koncesijski-sat.vercel.app/#opcina/41942358B14240258940853
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Grad Novi Marof (pregled
+ \, svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježava 
+ se nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#opcina
+ /41942358B14240258940853
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-982d86fec06aa255@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-5a6c8079a41c39ac@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20280820
 DTEND;VALUE=DATE:20280821
 SUMMARY:Ističe koncesija: POLJOPRIVREDNA ZADRUGA SLOGA
 DESCRIPTION:1 ugovor o koncesiji ističe 20. 8. 2028. Godišnja fiksna nakn
  ada: 879 €.\n\n• POLJOPRIVREDNA ZADRUGA SLOGA – Koncesija za korišt
- enje voda za uzgoj riba u zatvorenim vodama (NOVI MAROF)\, 879 €/god.\n\
- nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B14240
- 258940853\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11
- . 2026.
+ enje voda za uzgoj riba u zatvorenim vodama (NOVI MAROF) · davatelj: MINI
+ STARSTVO ZAŠTITE OKOLIŠA I ZELENE TRANZICIJE\, 879 €/god.\n\nProfil op
+ ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B14240258940853\
+ nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B14240258940853
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -31,8 +32,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-982d86fec06aa255@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-5a6c8079a41c39ac@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20280220
 DTEND;VALUE=DATE:20280221
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (POLJOPRIVREDNA Z
@@ -40,8 +41,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (POLJOPRIVREDNA Z
 DESCRIPTION:20. 8. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• POLJOPRIVREDNA ZADRUGA SLOGA – Koncesija za korištenje voda za
-  uzgoj riba u zatvorenim vodama (NOVI MAROF)\, 879 €/god.\n\nProfil opć
- ine: https://koncesijski-sat.vercel.app/#opcina/41942358B14240258940853
+  uzgoj riba u zatvorenim vodama (NOVI MAROF) · davatelj: MINISTARSTVO ZA
+ ŠTITE OKOLIŠA I ZELENE TRANZICIJE\, 879 €/god.\n\nProfil općine: http
+ s://koncesijski-sat.vercel.app/#opcina/41942358B14240258940853
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B14240258940853
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -52,20 +54,22 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-1c34ac5bf57accdb@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-7960d43b1c6e5b39@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20361231
 DTEND;VALUE=DATE:20370101
 SUMMARY:Ističe 3 koncesije · Novi Marof
 DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2036. Godišnja fiksna na
  knada: 3.654 €.\n\n• KAMENOLOM PODEVČEVO D.O.O. – Koncesija za eksp
- loataciju tehničko-građevnog kamena (NOVI MAROF)\, 1.218 €/god.\n• K
- AMENOLOM PODEVČEVO D.O.O. – Koncesija za eksploataciju tehničko-građe
- vnog kamena (NOVI MAROF)\, 1.218 €/god.\n• KAMENOLOM PODEVČEVO D.O.O.
-  – Koncesija za površinu utvrđenog eksploatacijskog polja neenergetski
- h mineralnih sirovina (NOVI MAROF)\, 1.218 €/god.\n\nProfil općine: htt
- ps://koncesijski-sat.vercel.app/#opcina/41942358B14240258940853\nIzvor: Re
- gistar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ loataciju tehničko-građevnog kamena (NOVI MAROF) · davatelj: MINISTARST
+ VO GOSPODARSTVA\, 1.218 €/god.\n• KAMENOLOM PODEVČEVO D.O.O. – Konc
+ esija za eksploataciju tehničko-građevnog kamena (NOVI MAROF) · davatel
+ j: MINISTARSTVO GOSPODARSTVA\, 1.218 €/god.\n• KAMENOLOM PODEVČEVO D.
+ O.O. – Koncesija za površinu utvrđenog eksploatacijskog polja neenerge
+ tskih mineralnih sirovina (NOVI MAROF) · davatelj: MINISTARSTVO GOSPODARS
+ TVA\, 1.218 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app
+ /#opcina/41942358B14240258940853\nIzvor: Registar koncesija (FINA)\, obrad
+ a Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B14240258940853
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -75,39 +79,42 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-1c34ac5bf57accdb@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-7960d43b1c6e5b39@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20360630
 DTEND;VALUE=DATE:20360701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Novi Marof
 DESCRIPTION:31. 12. 2036. ističe 3 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• KAMENOLOM PODEVČEVO D.O.O. – Koncesija za eksploataciju tehn
- ičko-građevnog kamena (NOVI MAROF)\, 1.218 €/god.\n• KAMENOLOM PODEV
- ČEVO D.O.O. – Koncesija za eksploataciju tehničko-građevnog kamena (N
- OVI MAROF)\, 1.218 €/god.\n• KAMENOLOM PODEVČEVO D.O.O. – Koncesija
-  za površinu utvrđenog eksploatacijskog polja neenergetskih mineralnih s
- irovina (NOVI MAROF)\, 1.218 €/god.\n\nProfil općine: https://koncesijs
- ki-sat.vercel.app/#opcina/41942358B14240258940853
+ ičko-građevnog kamena (NOVI MAROF) · davatelj: MINISTARSTVO GOSPODARSTV
+ A\, 1.218 €/god.\n• KAMENOLOM PODEVČEVO D.O.O. – Koncesija za ekspl
+ oataciju tehničko-građevnog kamena (NOVI MAROF) · davatelj: MINISTARSTV
+ O GOSPODARSTVA\, 1.218 €/god.\n• KAMENOLOM PODEVČEVO D.O.O. – Konce
+ sija za površinu utvrđenog eksploatacijskog polja neenergetskih mineraln
+ ih sirovina (NOVI MAROF) · davatelj: MINISTARSTVO GOSPODARSTVA\, 1.218 
+ €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
+ 42358B14240258940853
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B14240258940853
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Novi Marof
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-7d3c1116fd9a0d91@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-9cdcd5aef8d9f62a@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20451231
 DTEND;VALUE=DATE:20460101
 SUMMARY:Ističe koncesija: RADIO NOVI MAROF D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 31. 12. 2045. Godišnja fiksna nak
  nada: 66 €.\n\n• RADIO NOVI MAROF D.O.O. – Koncesija za obavljanje d
- jelatnosti radija (NOVI MAROF)\, 66 €/god.\n\nProfil općine: https://ko
- ncesijski-sat.vercel.app/#opcina/41942358B14240258940853\nIzvor: Registar 
- koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ jelatnosti radija (NOVI MAROF) · davatelj: AGENCIJA ZA ELEKTRONIČKE MEDI
+ JE\, 66 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#op
+ cina/41942358B14240258940853\nIzvor: Registar koncesija (FINA)\, obrada Ko
+ ncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B14240258940853
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -117,8 +124,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-7d3c1116fd9a0d91@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-9cdcd5aef8d9f62a@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20450630
 DTEND;VALUE=DATE:20450701
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (RADIO NOVI MAROF
@@ -126,8 +133,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (RADIO NOVI MAROF
 DESCRIPTION:31. 12. 2045. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• RADIO NOVI MAROF D.O.O. – Koncesija za obavljanje djelatnosti 
- radija (NOVI MAROF)\, 66 €/god.\n\nProfil općine: https://koncesijski-s
- at.vercel.app/#opcina/41942358B14240258940853
+ radija (NOVI MAROF) · davatelj: AGENCIJA ZA ELEKTRONIČKE MEDIJE\, 66 €
+ /god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419423
+ 58B14240258940853
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B14240258940853
 TRANSP:TRANSPARENT
 BEGIN:VALARM

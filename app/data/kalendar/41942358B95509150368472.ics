@@ -4,24 +4,26 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Općina Kostrena
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Kostrena. Iz Reg
- istra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade pod
- ataka. https://koncesijski-sat.vercel.app/#opcina/41942358B95509150368472
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Općina Kostrena (pregle
+ d\, svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježava
+  se nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#opcin
+ a/41942358B95509150368472
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-903dfa17e372ed01@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-a804059b07b3728a@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20290101
 DTEND;VALUE=DATE:20290102
 SUMMARY:Ističe koncesija: UGOSTITELJSKI OBRT VAL\, VL. IVAN ZEC
 DESCRIPTION:1 ugovor o koncesiji ističe 1. 1. 2029. Godišnja fiksna nakna
  da: 2.256 €.\n\n• UGOSTITELJSKI OBRT VAL\, VL. IVAN ZEC – Koncesija 
- za obavljanje ugostiteljske djelatnosti na lučkom području (KOSTRENA)\, 
- 2.256 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opci
- na/41942358B95509150368472\nIzvor: Registar koncesija (FINA)\, obrada Konc
- esijski sat 9. 11. 2026.
+ za obavljanje ugostiteljske djelatnosti na lučkom području (KOSTRENA) ·
+  davatelj: ŽUPANIJSKA LUČKA UPRAVA BAKAR-KRALJEVICA-KOSTRENA\, 2.256 €
+ /god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419423
+ 58B95509150368472\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski s
+ at 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B95509150368472
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -31,8 +33,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-903dfa17e372ed01@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-a804059b07b3728a@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20280701
 DTEND;VALUE=DATE:20280702
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (UGOSTITELJSKI OB
@@ -40,9 +42,10 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (UGOSTITELJSKI OB
 DESCRIPTION:1. 1. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• UGOSTITELJSKI OBRT VAL\, VL. IVAN ZEC – Koncesija za obavljanje 
- ugostiteljske djelatnosti na lučkom području (KOSTRENA)\, 2.256 €/god.
- \n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B95
- 509150368472
+ ugostiteljske djelatnosti na lučkom području (KOSTRENA) · davatelj: ŽU
+ PANIJSKA LUČKA UPRAVA BAKAR-KRALJEVICA-KOSTRENA\, 2.256 €/god.\n\nProfi
+ l općine: https://koncesijski-sat.vercel.app/#opcina/41942358B95509150368
+ 472
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B95509150368472
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -53,16 +56,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-953fab67adbaeb99@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-d71b6349d8a8dd25@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20291204
 DTEND;VALUE=DATE:20291205
 SUMMARY:Ističe koncesija: IVICA ĆENDO\, KAMINO\, VL. IVICA ĆENDO
 DESCRIPTION:1 ugovor o koncesiji ističe 4. 12. 2029. Godišnja fiksna nakn
  ada: 500 €.\n\n• IVICA ĆENDO\, KAMINO\, VL. IVICA ĆENDO – Koncesij
- a za obavljanje dimnjačarskih poslova (KOSTRENA)\, 500 €/god.\n\nProfil
-  općine: https://koncesijski-sat.vercel.app/#opcina/41942358B955091503684
- 72\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ a za obavljanje dimnjačarskih poslova (KOSTRENA) · davatelj: OPĆINA KOS
+ TRENA\, 500 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app
+ /#opcina/41942358B95509150368472\nIzvor: Registar koncesija (FINA)\, obrad
+ a Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B95509150368472
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -72,8 +76,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-953fab67adbaeb99@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-d71b6349d8a8dd25@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20290604
 DTEND;VALUE=DATE:20290605
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (IVICA ĆENDO\, K
@@ -81,8 +85,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (IVICA ĆENDO\, K
 DESCRIPTION:4. 12. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• IVICA ĆENDO\, KAMINO\, VL. IVICA ĆENDO – Koncesija za obavlja
- nje dimnjačarskih poslova (KOSTRENA)\, 500 €/god.\n\nProfil općine: ht
- tps://koncesijski-sat.vercel.app/#opcina/41942358B95509150368472
+ nje dimnjačarskih poslova (KOSTRENA) · davatelj: OPĆINA KOSTRENA\, 500 
+ €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
+ 42358B95509150368472
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B95509150368472
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -93,17 +98,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-2c3ecaee26f493f5@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-78dd3bd2b22de935@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20310708
 DTEND;VALUE=DATE:20310709
 SUMMARY:Ističe koncesija: BRODOGRADILIŠTE VIKTOR LENAC D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 8. 7. 2031. Godišnja fiksna nakna
  da: 5.521 €.\n\n• BRODOGRADILIŠTE VIKTOR LENAC D.D. – Koncesija za 
- zahvaćanje voda za tehnološke potrebe (KOSTRENA)\, 5.521 €/god.\n\nPro
- fil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B955091503
- 68472\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 20
- 26.
+ zahvaćanje voda za tehnološke potrebe (KOSTRENA) · davatelj: MINISTARST
+ VO ZAŠTITE OKOLIŠA I ZELENE TRANZICIJE\, 5.521 €/god.\n\nProfil općin
+ e: https://koncesijski-sat.vercel.app/#opcina/41942358B95509150368472\nIzv
+ or: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B95509150368472
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -113,8 +118,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-2c3ecaee26f493f5@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-78dd3bd2b22de935@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20310108
 DTEND;VALUE=DATE:20310109
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BRODOGRADILIŠTE
@@ -122,8 +127,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BRODOGRADILIŠTE
 DESCRIPTION:8. 7. 2031. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• BRODOGRADILIŠTE VIKTOR LENAC D.D. – Koncesija za zahvaćanje vo
- da za tehnološke potrebe (KOSTRENA)\, 5.521 €/god.\n\nProfil općine: h
- ttps://koncesijski-sat.vercel.app/#opcina/41942358B95509150368472
+ da za tehnološke potrebe (KOSTRENA) · davatelj: MINISTARSTVO ZAŠTITE OK
+ OLIŠA I ZELENE TRANZICIJE\, 5.521 €/god.\n\nProfil općine: https://kon
+ cesijski-sat.vercel.app/#opcina/41942358B95509150368472
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B95509150368472
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -134,17 +140,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-19094180a9c84a87@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-672c3af474b4b239@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20310808
 DTEND;VALUE=DATE:20310809
 SUMMARY:Ističe koncesija: BRODOGRADILIŠTE VIKTOR LENAC D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 8. 8. 2031. Godišnja fiksna nakna
  da: 44.294 €.\n\n• BRODOGRADILIŠTE VIKTOR LENAC D.D. – Koncesija po
- morskog dobra u svrhu gospodarskog korištenja luke (KOSTRENA)\, 44.294 
- €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
- 42358B95509150368472\nIzvor: Registar koncesija (FINA)\, obrada Koncesijsk
- i sat 9. 11. 2026.
+ morskog dobra u svrhu gospodarskog korištenja luke (KOSTRENA) · davatelj
+ : MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\, 44.294 €/god.\n\nProfil
+  općine: https://koncesijski-sat.vercel.app/#opcina/41942358B955091503684
+ 72\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B95509150368472
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -154,8 +160,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-19094180a9c84a87@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-672c3af474b4b239@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20310208
 DTEND;VALUE=DATE:20310209
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BRODOGRADILIŠTE
@@ -163,9 +169,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BRODOGRADILIŠTE
 DESCRIPTION:8. 8. 2031. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• BRODOGRADILIŠTE VIKTOR LENAC D.D. – Koncesija pomorskog dobra u
-  svrhu gospodarskog korištenja luke (KOSTRENA)\, 44.294 €/god.\n\nProfi
- l općine: https://koncesijski-sat.vercel.app/#opcina/41942358B95509150368
- 472
+  svrhu gospodarskog korištenja luke (KOSTRENA) · davatelj: MINISTARSTVO 
+ MORA\, PROMETA I INFRASTRUKTURE\, 44.294 €/god.\n\nProfil općine: https
+ ://koncesijski-sat.vercel.app/#opcina/41942358B95509150368472
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B95509150368472
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -176,17 +182,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-06657ebb6e768806@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-67116fb687273280@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20330524
 DTEND;VALUE=DATE:20330525
 SUMMARY:Ističe koncesija: INA-INDUSTRIJA NAFTE  D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 24. 5. 2033. Godišnja fiksna nakn
  ada: 1.174 €.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija pomorskog 
- dobra u svrhu gospodarskog korištenja luke (KOSTRENA)\, 1.174 €/god.\n\
- nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B95509
- 150368472\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11
- . 2026.
+ dobra u svrhu gospodarskog korištenja luke (KOSTRENA) · davatelj: MINIST
+ ARSTVO MORA\, PROMETA I INFRASTRUKTURE\, 1.174 €/god.\n\nProfil općine:
+  https://koncesijski-sat.vercel.app/#opcina/41942358B95509150368472\nIzvor
+ : Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B95509150368472
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -196,8 +202,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-06657ebb6e768806@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-67116fb687273280@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20321124
 DTEND;VALUE=DATE:20321125
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA-INDUSTRIJA N
@@ -205,8 +211,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA-INDUSTRIJA N
 DESCRIPTION:24. 5. 2033. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija pomorskog dobra u svrhu 
- gospodarskog korištenja luke (KOSTRENA)\, 1.174 €/god.\n\nProfil općin
- e: https://koncesijski-sat.vercel.app/#opcina/41942358B95509150368472
+ gospodarskog korištenja luke (KOSTRENA) · davatelj: MINISTARSTVO MORA\, 
+ PROMETA I INFRASTRUKTURE\, 1.174 €/god.\n\nProfil općine: https://konce
+ sijski-sat.vercel.app/#opcina/41942358B95509150368472
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B95509150368472
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -217,16 +224,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-8f7211c3d1e9a644@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-c84ae08cd623539a@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20350519
 DTEND;VALUE=DATE:20350520
 SUMMARY:Ističe koncesija: JADRANSKI NAFTOVOD D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 19. 5. 2035. Godišnja fiksna nakn
  ada: 33.500 €.\n\n• JADRANSKI NAFTOVOD D.D. – Koncesija na pomorskom
-  dobru (KOSTRENA)\, 33.500 €/god.\n\nProfil općine: https://koncesijski
- -sat.vercel.app/#opcina/41942358B95509150368472\nIzvor: Registar koncesija
-  (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+  dobru (KOSTRENA) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTUR
+ E\, 33.500 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/
+ #opcina/41942358B95509150368472\nIzvor: Registar koncesija (FINA)\, obrada
+  Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B95509150368472
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -236,8 +244,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-8f7211c3d1e9a644@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-c84ae08cd623539a@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20341119
 DTEND;VALUE=DATE:20341120
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (JADRANSKI NAFTOV
@@ -245,8 +253,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (JADRANSKI NAFTOV
 DESCRIPTION:19. 5. 2035. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• JADRANSKI NAFTOVOD D.D. – Koncesija na pomorskom dobru (KOSTREN
- A)\, 33.500 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app
- /#opcina/41942358B95509150368472
+ A) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\, 33.500 €/
+ god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4194235
+ 8B95509150368472
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B95509150368472
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -257,17 +266,18 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-ae6d33bc25937a88@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-e1a207eb7245adb9@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20360728
 DTEND;VALUE=DATE:20360729
 SUMMARY:Ističe koncesija: Š.U. LUČICA STARA VODA
 DESCRIPTION:1 ugovor o koncesiji ističe 28. 7. 2036. Godišnja fiksna nakn
  ada: 4.736 €.\n\n• Š.U. LUČICA STARA VODA – Dozvola za eksploataci
  ju geotermalne vode za energetske svrhe (prema Zakonu o ugljikovodicima) (
- KOSTRENA)\, 4.736 €/god.\n\nProfil općine: https://koncesijski-sat.verc
- el.app/#opcina/41942358B95509150368472\nIzvor: Registar koncesija (FINA)\,
-  obrada Koncesijski sat 9. 11. 2026.
+ KOSTRENA) · davatelj: PRIMORSKO GORANSKA ŽUPANIJA\, 4.736 €/god.\n\nPr
+ ofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B95509150
+ 368472\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2
+ 026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B95509150368472
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -277,8 +287,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-ae6d33bc25937a88@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-e1a207eb7245adb9@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20360128
 DTEND;VALUE=DATE:20360129
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (Š.U. LUČICA ST
@@ -286,9 +296,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (Š.U. LUČICA ST
 DESCRIPTION:28. 7. 2036. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• Š.U. LUČICA STARA VODA – Dozvola za eksploataciju geotermalne
-  vode za energetske svrhe (prema Zakonu o ugljikovodicima) (KOSTRENA)\, 4.
- 736 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina
- /41942358B95509150368472
+  vode za energetske svrhe (prema Zakonu o ugljikovodicima) (KOSTRENA) · d
+ avatelj: PRIMORSKO GORANSKA ŽUPANIJA\, 4.736 €/god.\n\nProfil općine: 
+ https://koncesijski-sat.vercel.app/#opcina/41942358B95509150368472
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B95509150368472
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -299,16 +309,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-b60a84eafcd33263@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-76c4feaf8f666d26@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20440909
 DTEND;VALUE=DATE:20440910
 SUMMARY:Ističe koncesija: INA\, D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 9. 9. 2044. Godišnja fiksna nakna
  da: 5.611 €.\n\n• INA\, D.D. – Posebna upotreba pomorskog dobra (KOS
- TRENA)\, 5.611 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.
- app/#opcina/41942358B95509150368472\nIzvor: Registar koncesija (FINA)\, ob
- rada Koncesijski sat 9. 11. 2026.
+ TRENA) · davatelj: PRIMORSKO GORANSKA ŽUPANIJA\, 5.611 €/god.\n\nProfi
+ l općine: https://koncesijski-sat.vercel.app/#opcina/41942358B95509150368
+ 472\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026
+ .
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B95509150368472
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -318,16 +329,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-b60a84eafcd33263@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-76c4feaf8f666d26@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20440309
 DTEND;VALUE=DATE:20440310
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA\, D.D.)
 DESCRIPTION:9. 9. 2044. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
- \n\n• INA\, D.D. – Posebna upotreba pomorskog dobra (KOSTRENA)\, 5.611
-  €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41
- 942358B95509150368472
+ \n\n• INA\, D.D. – Posebna upotreba pomorskog dobra (KOSTRENA) · dava
+ telj: PRIMORSKO GORANSKA ŽUPANIJA\, 5.611 €/god.\n\nProfil općine: htt
+ ps://koncesijski-sat.vercel.app/#opcina/41942358B95509150368472
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B95509150368472
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -337,16 +348,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-826b7aa542e55284@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-643b3db54b4e9305@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20601015
 DTEND;VALUE=DATE:20601016
 SUMMARY:Ističe koncesija: DRŽAVNI HIDROMETEOROLOŠKI ZAVOD
 DESCRIPTION:1 ugovor o koncesiji ističe 15. 10. 2060. Godišnja fiksna nak
  nada: 29 €.\n\n• DRŽAVNI HIDROMETEOROLOŠKI ZAVOD – Koncesija na po
- morskom dobru (KOSTRENA)\, 29 €/god.\n\nProfil općine: https://koncesij
- ski-sat.vercel.app/#opcina/41942358B95509150368472\nIzvor: Registar konces
- ija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ morskom dobru (KOSTRENA) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRAS
+ TRUKTURE\, 29 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.a
+ pp/#opcina/41942358B95509150368472\nIzvor: Registar koncesija (FINA)\, obr
+ ada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B95509150368472
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -356,8 +368,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-826b7aa542e55284@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-643b3db54b4e9305@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20600415
 DTEND;VALUE=DATE:20600416
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DRŽAVNI HIDROME
@@ -365,8 +377,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DRŽAVNI HIDROME
 DESCRIPTION:15. 10. 2060. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• DRŽAVNI HIDROMETEOROLOŠKI ZAVOD – Koncesija na pomorskom dob
- ru (KOSTRENA)\, 29 €/god.\n\nProfil općine: https://koncesijski-sat.ver
- cel.app/#opcina/41942358B95509150368472
+ ru (KOSTRENA) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\, 
+ 29 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/
+ 41942358B95509150368472
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B95509150368472
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -377,17 +390,18 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-e0d3f9ee435b8ca8@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-0a024135e26d3090@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20610628
 DTEND;VALUE=DATE:20610629
 SUMMARY:Ističe koncesija: INA-INDUSTRIJA NAFTE  D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 28. 6. 2061. Godišnja fiksna nakn
  ada: 33.627 €.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija pomorskog
   dobra u svrhu izgradnje i gospodarskog korištenja luke posebne namjene (
- KOSTRENA)\, 33.627 €/god.\n\nProfil općine: https://koncesijski-sat.ver
- cel.app/#opcina/41942358B95509150368472\nIzvor: Registar koncesija (FINA)\
- , obrada Koncesijski sat 9. 11. 2026.
+ KOSTRENA) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\, 33.6
+ 27 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/
+ 41942358B95509150368472\nIzvor: Registar koncesija (FINA)\, obrada Koncesi
+ jski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B95509150368472
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -397,8 +411,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-e0d3f9ee435b8ca8@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-0a024135e26d3090@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20601228
 DTEND;VALUE=DATE:20601229
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA-INDUSTRIJA N
@@ -406,9 +420,10 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA-INDUSTRIJA N
 DESCRIPTION:28. 6. 2061. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija pomorskog dobra u svrhu 
- izgradnje i gospodarskog korištenja luke posebne namjene (KOSTRENA)\, 33.
- 627 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina
- /41942358B95509150368472
+ izgradnje i gospodarskog korištenja luke posebne namjene (KOSTRENA) · da
+ vatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\, 33.627 €/god.\n\n
+ Profil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B955091
+ 50368472
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B95509150368472
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -419,16 +434,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-b19d290e35be8b6f@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-6679334e6dee5a7b@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20760717
 DTEND;VALUE=DATE:20760718
 SUMMARY:Ističe koncesija: HRVATSKI TELEKOM D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 17. 7. 2076. Godišnja fiksna nakn
  ada: 243 €.\n\n• HRVATSKI TELEKOM D.D. – Posebna upotreba pomorskog 
- dobra (KOSTRENA)\, 243 €/god.\n\nProfil općine: https://koncesijski-sat
- .vercel.app/#opcina/41942358B95509150368472\nIzvor: Registar koncesija (FI
- NA)\, obrada Koncesijski sat 9. 11. 2026.
+ dobra (KOSTRENA) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE
+ \, 243 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opc
+ ina/41942358B95509150368472\nIzvor: Registar koncesija (FINA)\, obrada Kon
+ cesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B95509150368472
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -438,8 +454,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-b19d290e35be8b6f@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-6679334e6dee5a7b@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20760117
 DTEND;VALUE=DATE:20760118
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKI TELEKOM
@@ -447,8 +463,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKI TELEKOM
 DESCRIPTION:17. 7. 2076. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• HRVATSKI TELEKOM D.D. – Posebna upotreba pomorskog dobra (KOSTR
- ENA)\, 243 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/
- #opcina/41942358B95509150368472
+ ENA) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\, 243 €/g
+ od.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358
+ B95509150368472
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B95509150368472
 TRANSP:TRANSPARENT
 BEGIN:VALARM

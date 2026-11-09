@@ -1,0 +1,58 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · OPĆINA TISNO
+X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje OPĆINA TISNO. Iz Registra
+  koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podataka
+ . https://koncesijski-sat.vercel.app/#sat
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-3f9b67ac3b2f5289@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20291114
+DTEND;VALUE=DATE:20291115
+SUMMARY:Ističe 3 koncesije · OPĆINA TISNO
+DESCRIPTION:3 ugovora o koncesiji ističe 14. 11. 2029. Godišnja fiksna na
+ knada: 4.200 €.\n\n• ELEKTROLUKIN\, VL. ROKO LUKIN – Koncesija za ob
+ avljanje komunalnih djelatnosti (TISNO)\, 1.600 €/god.\n• TRGOVAČKI O
+ BRT VOĆE BETINA – Održavanje tržnice na malo (TISNO)\, 1.300 €/god.
+ \n• TRGOVAČKI OBRT VOĆE BETINA – Koncesija za obavljanje djelatnosti
+  tržnica na malo (TISNO)\, 1.300 €/god.\n\nŠto ističe: https://konces
+ ijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Konce
+ sijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 3 koncesije · OPĆINA TISNO
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-3f9b67ac3b2f5289@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20290514
+DTEND;VALUE=DATE:20290515
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · OPĆINA TISNO
+DESCRIPTION:14. 11. 2029. ističe 3 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• ELEKTROLUKIN\, VL. ROKO LUKIN – Koncesija za obavljanje komun
+ alnih djelatnosti (TISNO)\, 1.600 €/god.\n• TRGOVAČKI OBRT VOĆE BETI
+ NA – Održavanje tržnice na malo (TISNO)\, 1.300 €/god.\n• TRGOVAČ
+ KI OBRT VOĆE BETINA – Koncesija za obavljanje djelatnosti tržnica na m
+ alo (TISNO)\, 1.300 €/god.\n\nŠto ističe: https://koncesijski-sat.verc
+ el.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · OPĆINA TI
+ SNO
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

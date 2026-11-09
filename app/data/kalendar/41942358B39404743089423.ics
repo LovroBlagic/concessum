@@ -4,23 +4,25 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Općina Bebrina
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Bebrina. Iz Regi
- stra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade poda
- taka. https://koncesijski-sat.vercel.app/#opcina/41942358B39404743089423
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Općina Bebrina (pregled
+ \, svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježava 
+ se nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#opcina
+ /41942358B39404743089423
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-ee3928ba4685bb27@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-cff4b909beb65202@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20290104
 DTEND;VALUE=DATE:20290105
 SUMMARY:Ističe koncesija: ITELYUM INTEGRA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 4. 1. 2029. Godišnja fiksna nakna
  da: 1.593 €.\n\n• ITELYUM INTEGRA D.O.O. – Koncesija skupljanja i od
- voza komunalnog otpada (BEBRINA)\, 1.593 €/god.\n\nProfil općine: https
- ://koncesijski-sat.vercel.app/#opcina/41942358B39404743089423\nIzvor: Regi
- star koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ voza komunalnog otpada (BEBRINA) · davatelj: OPĆINA BEBRINA\, 1.593 €/
+ god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4194235
+ 8B39404743089423\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sa
+ t 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B39404743089423
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -30,8 +32,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-ee3928ba4685bb27@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-cff4b909beb65202@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20280704
 DTEND;VALUE=DATE:20280705
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ITELYUM INTEGRA 
@@ -39,8 +41,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ITELYUM INTEGRA
 DESCRIPTION:4. 1. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• ITELYUM INTEGRA D.O.O. – Koncesija skupljanja i odvoza komunalno
- g otpada (BEBRINA)\, 1.593 €/god.\n\nProfil općine: https://koncesijski
- -sat.vercel.app/#opcina/41942358B39404743089423
+ g otpada (BEBRINA) · davatelj: OPĆINA BEBRINA\, 1.593 €/god.\n\nProfil
+  općine: https://koncesijski-sat.vercel.app/#opcina/41942358B394047430894
+ 23
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B39404743089423
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -51,17 +54,18 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-64bbd8bc10b1a6e8@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-bca95ffb673d199c@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20370221
 DTEND;VALUE=DATE:20370222
 SUMMARY:Ističe koncesija: BROD-PLIN D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 21. 2. 2037.\n\n• BROD-PLIN D.O.
  O. – Koncesija za obavljanje distribucije plina na postojećem distribuc
  ijskom sustavu (BEBRINA\, BRODSKI STUPNIK\, BUKOVLJE\, GORNJA VRBA\, KLAKA
- R\, ORIOVAC\, PODCRKAVLJE\, SIBINJ\, SLAVONSKI BROD\, VRPOLJE)\n\nProfil o
- pćine: https://koncesijski-sat.vercel.app/#opcina/41942358B39404743089423
- \nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ R\, ORIOVAC\, PODCRKAVLJE\, SIBINJ\, SLAVONSKI BROD\, VRPOLJE) · davatelj
+ : BRODSKO-POSAVSKA ŽUPANIJA\n\nProfil općine: https://koncesijski-sat.ve
+ rcel.app/#opcina/41942358B39404743089423\nIzvor: Registar koncesija (FINA)
+ \, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B39404743089423
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -71,8 +75,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-64bbd8bc10b1a6e8@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-bca95ffb673d199c@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20360821
 DTEND;VALUE=DATE:20360822
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BROD-PLIN D.O.O.
@@ -82,8 +86,8 @@ DESCRIPTION:21. 2. 2037. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  .\n\n• BROD-PLIN D.O.O. – Koncesija za obavljanje distribucije plina n
  a postojećem distribucijskom sustavu (BEBRINA\, BRODSKI STUPNIK\, BUKOVLJ
  E\, GORNJA VRBA\, KLAKAR\, ORIOVAC\, PODCRKAVLJE\, SIBINJ\, SLAVONSKI BROD
- \, VRPOLJE)\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/
- 41942358B39404743089423
+ \, VRPOLJE) · davatelj: BRODSKO-POSAVSKA ŽUPANIJA\n\nProfil općine: htt
+ ps://koncesijski-sat.vercel.app/#opcina/41942358B39404743089423
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B39404743089423
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -94,17 +98,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-0191101c90e29cab@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-bbbc21a913fbf796@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20550626
 DTEND;VALUE=DATE:20550627
 SUMMARY:Ističe koncesija: ASPECT CROATIA KFT. - PODRUŽNICA ZAGREB
 DESCRIPTION:1 ugovor o koncesiji ističe 26. 6. 2055. Godišnja fiksna nakn
  ada: 5.372 €.\n\n• ASPECT CROATIA KFT. - PODRUŽNICA ZAGREB – Dozvol
  a za istraživanje ugljikovodika (prema Zakonu o ugljikovodicima) (BEBRINA
- )\, 5.372 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#
- opcina/41942358B39404743089423\nIzvor: Registar koncesija (FINA)\, obrada 
- Koncesijski sat 9. 11. 2026.
+ ) · davatelj: MINISTARSTVO GOSPODARSTVA\, 5.372 €/god.\n\nProfil općin
+ e: https://koncesijski-sat.vercel.app/#opcina/41942358B39404743089423\nIzv
+ or: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B39404743089423
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -114,8 +118,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-0191101c90e29cab@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-bbbc21a913fbf796@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20541226
 DTEND;VALUE=DATE:20541227
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ASPECT CROATIA K
@@ -123,9 +127,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ASPECT CROATIA K
 DESCRIPTION:26. 6. 2055. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• ASPECT CROATIA KFT. - PODRUŽNICA ZAGREB – Dozvola za istraživ
- anje ugljikovodika (prema Zakonu o ugljikovodicima) (BEBRINA)\, 5.372 €/
- god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4194235
- 8B39404743089423
+ anje ugljikovodika (prema Zakonu o ugljikovodicima) (BEBRINA) · davatelj:
+  MINISTARSTVO GOSPODARSTVA\, 5.372 €/god.\n\nProfil općine: https://kon
+ cesijski-sat.vercel.app/#opcina/41942358B39404743089423
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B39404743089423
 TRANSP:TRANSPARENT
 BEGIN:VALARM

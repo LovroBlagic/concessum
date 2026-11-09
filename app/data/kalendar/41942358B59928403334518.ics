@@ -4,24 +4,25 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Grad Poreč
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Grad Poreč. Iz Registra
-  koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podataka
- . https://koncesijski-sat.vercel.app/#opcina/41942358B59928403334518
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Grad Poreč (pregled\, s
+ vi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježava se n
+ akon svake obrade podataka. https://koncesijski-sat.vercel.app/#opcina/419
+ 42358B59928403334518
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-efa47cdfd9f6003f@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-8a853c72341be094@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
 SUMMARY:Ističe koncesija: VALAMAR RIVIERA D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 18. 12. 2026. Godišnja fiksna nak
  nada: 86.270 €.\n\n• VALAMAR RIVIERA D.D. – Koncesija za obavljanje 
- poslova organizacije i naplate parkiranja (POREČ - PARENZO)\, 86.270 €/
- god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4194235
- 8B59928403334518\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sa
- t 9. 11. 2026.
+ poslova organizacije i naplate parkiranja (POREČ - PARENZO) · davatelj: 
+ GRAD POREČ-PARENZO\, 86.270 €/god.\n\nProfil općine: https://koncesijs
+ ki-sat.vercel.app/#opcina/41942358B59928403334518\nIzvor: Registar koncesi
+ ja (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B59928403334518
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -31,16 +32,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-e254e0df159fff17@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-a434964a8dd797dd@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20280828
 DTEND;VALUE=DATE:20280829
 SUMMARY:Ističe koncesija: AUTOTRANS D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 28. 8. 2028. Godišnja fiksna nakn
  ada: 300 €.\n\n• AUTOTRANS D.D. – Koncesija za obavljanje lokalnog l
- inijskog prijevoza putnika (POREČ - PARENZO)\, 300 €/god.\n\nProfil op
- ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B59928403334518\
- nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ inijskog prijevoza putnika (POREČ - PARENZO) · davatelj: GRAD POREČ-PAR
+ ENZO\, 300 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/
+ #opcina/41942358B59928403334518\nIzvor: Registar koncesija (FINA)\, obrada
+  Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B59928403334518
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -50,16 +52,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-e254e0df159fff17@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-a434964a8dd797dd@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20280228
 DTEND;VALUE=DATE:20280229
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (AUTOTRANS D.D.)
 DESCRIPTION:28. 8. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• AUTOTRANS D.D. – Koncesija za obavljanje lokalnog linijskog pri
- jevoza putnika (POREČ - PARENZO)\, 300 €/god.\n\nProfil općine: https:
- //koncesijski-sat.vercel.app/#opcina/41942358B59928403334518
+ jevoza putnika (POREČ - PARENZO) · davatelj: GRAD POREČ-PARENZO\, 300 
+ €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
+ 42358B59928403334518
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B59928403334518
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -70,16 +73,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-fe26675dff2cb7be@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-5d2415dff6615938@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20290613
 DTEND;VALUE=DATE:20290614
 SUMMARY:Ističe koncesija: CAMINUS J.D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 13. 6. 2029. Godišnja fiksna nakn
  ada: 2.024 €.\n\n• CAMINUS J.D.O.O. – Koncesija za obavljanje dimnja
- čarskih poslova (POREČ - PARENZO)\, 2.024 €/god.\n\nProfil općine: ht
- tps://koncesijski-sat.vercel.app/#opcina/41942358B59928403334518\nIzvor: R
- egistar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ čarskih poslova (POREČ - PARENZO) · davatelj: GRAD POREČ-PARENZO\, 2.0
+ 24 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/
+ 41942358B59928403334518\nIzvor: Registar koncesija (FINA)\, obrada Koncesi
+ jski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B59928403334518
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -89,8 +93,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-fe26675dff2cb7be@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-5d2415dff6615938@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20281213
 DTEND;VALUE=DATE:20281214
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (CAMINUS J.D.O.O.
@@ -98,8 +102,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (CAMINUS J.D.O.O.
 DESCRIPTION:13. 6. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• CAMINUS J.D.O.O. – Koncesija za obavljanje dimnjačarskih poslo
- va (POREČ - PARENZO)\, 2.024 €/god.\n\nProfil općine: https://koncesij
- ski-sat.vercel.app/#opcina/41942358B59928403334518
+ va (POREČ - PARENZO) · davatelj: GRAD POREČ-PARENZO\, 2.024 €/god.\n\
+ nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B59928
+ 403334518
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B59928403334518
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -110,16 +115,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-d0757defb1fd1bfa@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-0021c6f1c5735f20@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20311129
 DTEND;VALUE=DATE:20311130
 SUMMARY:Ističe koncesija: ODVODNJA POREČ D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 29. 11. 2031. Godišnja fiksna nak
  nada: 551 €.\n\n• ODVODNJA POREČ D.O.O. – Koncesija na pomorskom do
- bru (POREČ - PARENZO)\, 551 €/god.\n\nProfil općine: https://koncesijs
- ki-sat.vercel.app/#opcina/41942358B59928403334518\nIzvor: Registar koncesi
- ja (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ bru (POREČ - PARENZO) · davatelj: ISTARSKA ŽUPANIJA\, 551 €/god.\n\nP
+ rofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B5992840
+ 3334518\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 
+ 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B59928403334518
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -129,8 +135,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-d0757defb1fd1bfa@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-0021c6f1c5735f20@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20310529
 DTEND;VALUE=DATE:20310530
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ODVODNJA POREČ 
@@ -138,8 +144,8 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ODVODNJA POREČ
 DESCRIPTION:29. 11. 2031. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• ODVODNJA POREČ D.O.O. – Koncesija na pomorskom dobru (POREČ 
- - PARENZO)\, 551 €/god.\n\nProfil općine: https://koncesijski-sat.verce
- l.app/#opcina/41942358B59928403334518
+ - PARENZO) · davatelj: ISTARSKA ŽUPANIJA\, 551 €/god.\n\nProfil općin
+ e: https://koncesijski-sat.vercel.app/#opcina/41942358B59928403334518
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B59928403334518
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -150,20 +156,22 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-93ff8a78e6af52b9@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-1647f37834501f3c@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20321231
 DTEND;VALUE=DATE:20330101
 SUMMARY:Ističe 3 koncesije · Poreč
 DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2032. Godišnja fiksna na
  knada: 3.931 €.\n\n• OBRT PULIN VL. DARIO PULIN – Koncesija za povr
  šinu utvrđenog eksploatacijskog polja neenergetskih mineralnih sirovina 
- (POREČ - PARENZO)\, 3.370 €/god.\n• OBRT PULIN VL. DARIO PULIN – Ko
- ncesija za eksploataciju tehničko-građevnog kamena (POREČ - PARENZO)\, 
- 561 €/god.\n• OBRT PULIN VL. DARIO PULIN – Koncesija za eksploatacij
- u tehničko-građevnog kamena (POREČ - PARENZO)\n\nProfil općine: https:
- //koncesijski-sat.vercel.app/#opcina/41942358B59928403334518\nIzvor: Regis
- tar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ (POREČ - PARENZO) · davatelj: MINISTARSTVO GOSPODARSTVA\, 3.370 €/god.
+ \n• OBRT PULIN VL. DARIO PULIN – Koncesija za eksploataciju tehničko-
+ građevnog kamena (POREČ - PARENZO) · davatelj: MINISTARSTVO GOSPODARSTV
+ A\, 561 €/god.\n• OBRT PULIN VL. DARIO PULIN – Koncesija za eksploat
+ aciju tehničko-građevnog kamena (POREČ - PARENZO) · davatelj: MINISTAR
+ STVO GOSPODARSTVA\n\nProfil općine: https://koncesijski-sat.vercel.app/#o
+ pcina/41942358B59928403334518\nIzvor: Registar koncesija (FINA)\, obrada K
+ oncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B59928403334518
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -173,39 +181,42 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-93ff8a78e6af52b9@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-1647f37834501f3c@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20320630
 DTEND;VALUE=DATE:20320701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Poreč
 DESCRIPTION:31. 12. 2032. ističe 3 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• OBRT PULIN VL. DARIO PULIN – Koncesija za površinu utvrđeno
  g eksploatacijskog polja neenergetskih mineralnih sirovina (POREČ - PAREN
- ZO)\, 3.370 €/god.\n• OBRT PULIN VL. DARIO PULIN – Koncesija za eksp
- loataciju tehničko-građevnog kamena (POREČ - PARENZO)\, 561 €/god.\n
- • OBRT PULIN VL. DARIO PULIN – Koncesija za eksploataciju tehničko-gr
- ađevnog kamena (POREČ - PARENZO)\n\nProfil općine: https://koncesijski-
- sat.vercel.app/#opcina/41942358B59928403334518
+ ZO) · davatelj: MINISTARSTVO GOSPODARSTVA\, 3.370 €/god.\n• OBRT PULI
+ N VL. DARIO PULIN – Koncesija za eksploataciju tehničko-građevnog kame
+ na (POREČ - PARENZO) · davatelj: MINISTARSTVO GOSPODARSTVA\, 561 €/god
+ .\n• OBRT PULIN VL. DARIO PULIN – Koncesija za eksploataciju tehničko
+ -građevnog kamena (POREČ - PARENZO) · davatelj: MINISTARSTVO GOSPODARST
+ VA\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B
+ 59928403334518
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B59928403334518
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Poreč
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-3057061c6fc74346@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-d5e068d386407731@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20330418
 DTEND;VALUE=DATE:20330419
 SUMMARY:Ističe koncesija: VALAMAR RIVIERA D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 18. 4. 2033. Godišnja fiksna nakn
  ada: 19.844 €.\n\n• VALAMAR RIVIERA D.D. – Koncesija na pomorskom do
- bru (POREČ - PARENZO)\, 19.844 €/god.\n\nProfil općine: https://konces
- ijski-sat.vercel.app/#opcina/41942358B59928403334518\nIzvor: Registar konc
- esija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ bru (POREČ - PARENZO) · davatelj: ISTARSKA ŽUPANIJA\, 19.844 €/god.\n
+ \nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B5992
+ 8403334518\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 1
+ 1. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B59928403334518
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -215,8 +226,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-3057061c6fc74346@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-d5e068d386407731@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20321018
 DTEND;VALUE=DATE:20321019
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VALAMAR RIVIERA 
@@ -224,8 +235,8 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VALAMAR RIVIERA
 DESCRIPTION:18. 4. 2033. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• VALAMAR RIVIERA D.D. – Koncesija na pomorskom dobru (POREČ - P
- ARENZO)\, 19.844 €/god.\n\nProfil općine: https://koncesijski-sat.verce
- l.app/#opcina/41942358B59928403334518
+ ARENZO) · davatelj: ISTARSKA ŽUPANIJA\, 19.844 €/god.\n\nProfil općin
+ e: https://koncesijski-sat.vercel.app/#opcina/41942358B59928403334518
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B59928403334518
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -236,16 +247,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-f5a1d23626bb9073@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-9aed80a36fa6c2be@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20331231
 DTEND;VALUE=DATE:20340101
 SUMMARY:Ističe koncesija: PLAVA LAGUNA D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 31. 12. 2033. Godišnja fiksna nak
  nada: 97.822 €.\n\n• PLAVA LAGUNA D.D. – Koncesija na pomorskom dobr
- u (POREČ - PARENZO)\, 97.822 €/god.\n\nProfil općine: https://koncesij
- ski-sat.vercel.app/#opcina/41942358B59928403334518\nIzvor: Registar konces
- ija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ u (POREČ - PARENZO) · davatelj: ISTARSKA ŽUPANIJA\, 97.822 €/god.\n\n
+ Profil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B599284
+ 03334518\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11.
+  2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B59928403334518
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -255,8 +267,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-f5a1d23626bb9073@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-9aed80a36fa6c2be@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20330630
 DTEND;VALUE=DATE:20330701
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PLAVA LAGUNA D.D
@@ -264,8 +276,8 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PLAVA LAGUNA D.D
 DESCRIPTION:31. 12. 2033. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• PLAVA LAGUNA D.D. – Koncesija na pomorskom dobru (POREČ - PAR
- ENZO)\, 97.822 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.
- app/#opcina/41942358B59928403334518
+ ENZO) · davatelj: ISTARSKA ŽUPANIJA\, 97.822 €/god.\n\nProfil općine:
+  https://koncesijski-sat.vercel.app/#opcina/41942358B59928403334518
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B59928403334518
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -276,16 +288,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-86a35367299ee77e@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-5d65bb357c91535c@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20340101
 DTEND;VALUE=DATE:20340102
 SUMMARY:Ističe koncesija: VALAMAR RIVIERA D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 1. 1. 2034. Godišnja fiksna nakna
  da: 56.341 €.\n\n• VALAMAR RIVIERA D.D. – Koncesija za plažu (PORE
- Č - PARENZO)\, 56.341 €/god.\n\nProfil općine: https://koncesijski-sat
- .vercel.app/#opcina/41942358B59928403334518\nIzvor: Registar koncesija (FI
- NA)\, obrada Koncesijski sat 9. 11. 2026.
+ Č - PARENZO) · davatelj: ISTARSKA ŽUPANIJA\, 56.341 €/god.\n\nProfil 
+ općine: https://koncesijski-sat.vercel.app/#opcina/41942358B5992840333451
+ 8\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B59928403334518
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -295,17 +307,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-86a35367299ee77e@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-5d65bb357c91535c@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20330701
 DTEND;VALUE=DATE:20330702
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VALAMAR RIVIERA 
  D.D.)
 DESCRIPTION:1. 1. 2034. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
- \n\n• VALAMAR RIVIERA D.D. – Koncesija za plažu (POREČ - PARENZO)\, 
- 56.341 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opc
- ina/41942358B59928403334518
+ \n\n• VALAMAR RIVIERA D.D. – Koncesija za plažu (POREČ - PARENZO) ·
+  davatelj: ISTARSKA ŽUPANIJA\, 56.341 €/god.\n\nProfil općine: https:/
+ /koncesijski-sat.vercel.app/#opcina/41942358B59928403334518
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B59928403334518
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -316,18 +328,19 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-dadb4486ad25ba4e@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-b422867187eaaf39@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20350201
 DTEND;VALUE=DATE:20350202
 SUMMARY:Ističe 2 koncesije · Poreč
 DESCRIPTION:2 ugovora o koncesiji ističe 1. 2. 2035. Godišnja fiksna nakn
  ada: 4.816 €.\n\n• ADRIATIC POREČ D. O. O. – Koncesija na pomorskom
-  dobru (POREČ - PARENZO)\, 2.984 €/god.\n• PERUNIČIĆ VELJO\, VLASNI
- K UGOSTITELJSKO TURISTIČKOG OBRTA ŠPADIĆI – Koncesija na pomorskom do
- bru (POREČ - PARENZO)\, 1.832 €/god.\n\nProfil općine: https://koncesi
- jski-sat.vercel.app/#opcina/41942358B59928403334518\nIzvor: Registar konce
- sija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+  dobru (POREČ - PARENZO) · davatelj: ISTARSKA ŽUPANIJA\, 2.984 €/god.
+ \n• PERUNIČIĆ VELJO\, VLASNIK UGOSTITELJSKO TURISTIČKOG OBRTA ŠPADI
+ ĆI – Koncesija na pomorskom dobru (POREČ - PARENZO) · davatelj: ISTAR
+ SKA ŽUPANIJA\, 1.832 €/god.\n\nProfil općine: https://koncesijski-sat.
+ vercel.app/#opcina/41942358B59928403334518\nIzvor: Registar koncesija (FIN
+ A)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B59928403334518
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -337,37 +350,39 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-dadb4486ad25ba4e@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-b422867187eaaf39@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20340801
 DTEND;VALUE=DATE:20340802
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Poreč
 DESCRIPTION:1. 2. 2035. ističe 2 ugovora o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• ADRIATIC POREČ D. O. O. – Koncesija na pomorskom dobru (POREČ
-  - PARENZO)\, 2.984 €/god.\n• PERUNIČIĆ VELJO\, VLASNIK UGOSTITELJSK
- O TURISTIČKOG OBRTA ŠPADIĆI – Koncesija na pomorskom dobru (POREČ - 
- PARENZO)\, 1.832 €/god.\n\nProfil općine: https://koncesijski-sat.verce
- l.app/#opcina/41942358B59928403334518
+  - PARENZO) · davatelj: ISTARSKA ŽUPANIJA\, 2.984 €/god.\n• PERUNIČ
+ IĆ VELJO\, VLASNIK UGOSTITELJSKO TURISTIČKOG OBRTA ŠPADIĆI – Koncesi
+ ja na pomorskom dobru (POREČ - PARENZO) · davatelj: ISTARSKA ŽUPANIJA\,
+  1.832 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opc
+ ina/41942358B59928403334518
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B59928403334518
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Poreč
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-871268b0dcb42885@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-f56aa0976fafc9e4@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20360102
 DTEND;VALUE=DATE:20360103
 SUMMARY:Ističe koncesija: INA-INDUSTRIJA NAFTE  D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 2. 1. 2036. Godišnja fiksna nakna
  da: 3.000 €.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija na pomorsko
- m dobru (POREČ - PARENZO)\, 3.000 €/god.\n\nProfil općine: https://kon
- cesijski-sat.vercel.app/#opcina/41942358B59928403334518\nIzvor: Registar k
- oncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ m dobru (POREČ - PARENZO) · davatelj: ŽUPANIJSKA LUČKA UPRAVA POREČ -
+  AUTORITA PORTUALE REGIONALE DI PARENZO\, 3.000 €/god.\n\nProfil općine
+ : https://koncesijski-sat.vercel.app/#opcina/41942358B59928403334518\nIzvo
+ r: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B59928403334518
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -377,8 +392,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-871268b0dcb42885@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-f56aa0976fafc9e4@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20350702
 DTEND;VALUE=DATE:20350703
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA-INDUSTRIJA N
@@ -386,8 +401,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA-INDUSTRIJA N
 DESCRIPTION:2. 1. 2036. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija na pomorskom dobru (PORE
- Č - PARENZO)\, 3.000 €/god.\n\nProfil općine: https://koncesijski-sat.
- vercel.app/#opcina/41942358B59928403334518
+ Č - PARENZO) · davatelj: ŽUPANIJSKA LUČKA UPRAVA POREČ - AUTORITA POR
+ TUALE REGIONALE DI PARENZO\, 3.000 €/god.\n\nProfil općine: https://kon
+ cesijski-sat.vercel.app/#opcina/41942358B59928403334518
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B59928403334518
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -398,16 +414,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-4b7c1fd4daa5e302@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-aa04161bee72ed6e@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20390827
 DTEND;VALUE=DATE:20390828
 SUMMARY:Ističe koncesija: USLUGA POREČ D.O.O. RJ MARINA
 DESCRIPTION:1 ugovor o koncesiji ističe 27. 8. 2039. Godišnja fiksna nakn
  ada: 246 €.\n\n• USLUGA POREČ D.O.O. RJ MARINA – Posebna upotreba p
- omorskog dobra (POREČ - PARENZO)\, 246 €/god.\n\nProfil općine: https:
- //koncesijski-sat.vercel.app/#opcina/41942358B59928403334518\nIzvor: Regis
- tar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ omorskog dobra (POREČ - PARENZO) · davatelj: GRAD POREČ-PARENZO\, 246 
+ €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
+ 42358B59928403334518\nIzvor: Registar koncesija (FINA)\, obrada Koncesijsk
+ i sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B59928403334518
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -417,8 +434,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-4b7c1fd4daa5e302@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-aa04161bee72ed6e@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20390227
 DTEND;VALUE=DATE:20390228
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (USLUGA POREČ D.
@@ -426,8 +443,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (USLUGA POREČ D.
 DESCRIPTION:27. 8. 2039. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• USLUGA POREČ D.O.O. RJ MARINA – Posebna upotreba pomorskog dob
- ra (POREČ - PARENZO)\, 246 €/god.\n\nProfil općine: https://koncesijsk
- i-sat.vercel.app/#opcina/41942358B59928403334518
+ ra (POREČ - PARENZO) · davatelj: GRAD POREČ-PARENZO\, 246 €/god.\n\nP
+ rofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B5992840
+ 3334518
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B59928403334518
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -438,17 +456,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-6956e6d1bb14ecdb@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-b63b7e5eec90f196@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20400312
 DTEND;VALUE=DATE:20400313
 SUMMARY:Ističe koncesija: MASIMO LABINAC\, ŠKOLJKARSTVO I TRGOVINA
 DESCRIPTION:1 ugovor o koncesiji ističe 12. 3. 2040. Godišnja fiksna nakn
  ada: 1.632 €.\n\n• MASIMO LABINAC\, ŠKOLJKARSTVO I TRGOVINA – Konce
  sija na pomorskom dobru u svrhu uzgoja morske ribe i školjkaša (POREČ -
-  PARENZO)\, 1.632 €/god.\n\nProfil općine: https://koncesijski-sat.verc
- el.app/#opcina/41942358B59928403334518\nIzvor: Registar koncesija (FINA)\,
-  obrada Koncesijski sat 9. 11. 2026.
+  PARENZO) · davatelj: GRAD POREČ-PARENZO\, 1.632 €/god.\n\nProfil opć
+ ine: https://koncesijski-sat.vercel.app/#opcina/41942358B59928403334518\nI
+ zvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B59928403334518
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -458,8 +476,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-6956e6d1bb14ecdb@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-b63b7e5eec90f196@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20390912
 DTEND;VALUE=DATE:20390913
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MASIMO LABINAC\,
@@ -467,9 +485,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MASIMO LABINAC\,
 DESCRIPTION:12. 3. 2040. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• MASIMO LABINAC\, ŠKOLJKARSTVO I TRGOVINA – Koncesija na pomors
- kom dobru u svrhu uzgoja morske ribe i školjkaša (POREČ - PARENZO)\, 1.
- 632 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina
- /41942358B59928403334518
+ kom dobru u svrhu uzgoja morske ribe i školjkaša (POREČ - PARENZO) · d
+ avatelj: GRAD POREČ-PARENZO\, 1.632 €/god.\n\nProfil općine: https://k
+ oncesijski-sat.vercel.app/#opcina/41942358B59928403334518
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B59928403334518
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -480,20 +498,21 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-800d8b7b39c0e23b@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-8be213d3f47ece32@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20401231
 DTEND;VALUE=DATE:20410101
 SUMMARY:Ističe 3 koncesije · Poreč
 DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2040. Godišnja fiksna na
  knada: 51.834 €.\n\n• KAMEN D.D. – Koncesija za površinu utvrđenog
   eksploatacijskog polja neenergetskih mineralnih sirovina (POREČ - PARENZ
- O)\, 36.466 €/god.\n• KAMEN D.D. – Koncesija za eksploataciju arhite
- ktonsko-građevnog kamena (POREČ - PARENZO)\, 15.368 €/god.\n• KAMEN 
- D.D. – Koncesija za eksploataciju arhitektonsko-građevnog kamena (PORE
- Č - PARENZO)\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcin
- a/41942358B59928403334518\nIzvor: Registar koncesija (FINA)\, obrada Konce
- sijski sat 9. 11. 2026.
+ O) · davatelj: MINISTARSTVO GOSPODARSTVA\, 36.466 €/god.\n• KAMEN D.D
+ . – Koncesija za eksploataciju arhitektonsko-građevnog kamena (POREČ -
+  PARENZO) · davatelj: MINISTARSTVO GOSPODARSTVA\, 15.368 €/god.\n• KA
+ MEN D.D. – Koncesija za eksploataciju arhitektonsko-građevnog kamena (P
+ OREČ - PARENZO) · davatelj: MINISTARSTVO GOSPODARSTVA\n\nProfil općine:
+  https://koncesijski-sat.vercel.app/#opcina/41942358B59928403334518\nIzvor
+ : Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B59928403334518
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -503,40 +522,41 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-800d8b7b39c0e23b@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-8be213d3f47ece32@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20400630
 DTEND;VALUE=DATE:20400701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Poreč
 DESCRIPTION:31. 12. 2040. ističe 3 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• KAMEN D.D. – Koncesija za površinu utvrđenog eksploatacijsk
- og polja neenergetskih mineralnih sirovina (POREČ - PARENZO)\, 36.466 €
- /god.\n• KAMEN D.D. – Koncesija za eksploataciju arhitektonsko-građev
- nog kamena (POREČ - PARENZO)\, 15.368 €/god.\n• KAMEN D.D. – Konces
- ija za eksploataciju arhitektonsko-građevnog kamena (POREČ - PARENZO)\n\
- nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B59928
- 403334518
+ og polja neenergetskih mineralnih sirovina (POREČ - PARENZO) · davatelj:
+  MINISTARSTVO GOSPODARSTVA\, 36.466 €/god.\n• KAMEN D.D. – Koncesija
+  za eksploataciju arhitektonsko-građevnog kamena (POREČ - PARENZO) · da
+ vatelj: MINISTARSTVO GOSPODARSTVA\, 15.368 €/god.\n• KAMEN D.D. – Ko
+ ncesija za eksploataciju arhitektonsko-građevnog kamena (POREČ - PARENZO
+ ) · davatelj: MINISTARSTVO GOSPODARSTVA\n\nProfil općine: https://konces
+ ijski-sat.vercel.app/#opcina/41942358B59928403334518
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B59928403334518
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Poreč
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-ed64bf958ab5ce0a@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-7f65624ec9df47ce@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20420325
 DTEND;VALUE=DATE:20420326
 SUMMARY:Ističe koncesija: USLUGA POREČ D.O.O. RJ MARINA
 DESCRIPTION:1 ugovor o koncesiji ističe 25. 3. 2042. Godišnja fiksna nakn
  ada: 33.181 €.\n\n• USLUGA POREČ D.O.O. RJ MARINA – Koncesija pomor
- skog dobra u svrhu gospodarskog korištenja luke (POREČ - PARENZO)\, 33.1
- 81 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/
- 41942358B59928403334518\nIzvor: Registar koncesija (FINA)\, obrada Koncesi
- jski sat 9. 11. 2026.
+ skog dobra u svrhu gospodarskog korištenja luke (POREČ - PARENZO) · dav
+ atelj: GRAD POREČ-PARENZO\, 33.181 €/god.\n\nProfil općine: https://ko
+ ncesijski-sat.vercel.app/#opcina/41942358B59928403334518\nIzvor: Registar 
+ koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B59928403334518
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -546,8 +566,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-ed64bf958ab5ce0a@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-7f65624ec9df47ce@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20410925
 DTEND;VALUE=DATE:20410926
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (USLUGA POREČ D.
@@ -555,9 +575,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (USLUGA POREČ D.
 DESCRIPTION:25. 3. 2042. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• USLUGA POREČ D.O.O. RJ MARINA – Koncesija pomorskog dobra u sv
- rhu gospodarskog korištenja luke (POREČ - PARENZO)\, 33.181 €/god.\n\n
- Profil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B599284
- 03334518
+ rhu gospodarskog korištenja luke (POREČ - PARENZO) · davatelj: GRAD POR
+ EČ-PARENZO\, 33.181 €/god.\n\nProfil općine: https://koncesijski-sat.v
+ ercel.app/#opcina/41942358B59928403334518
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B59928403334518
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -568,16 +588,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-6ef13e77be5b7853@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-c750f0e786609a6a@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20431213
 DTEND;VALUE=DATE:20431214
 SUMMARY:Ističe koncesija: AGROLAGUNA D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 13. 12. 2043. Godišnja fiksna nak
  nada: 16 €.\n\n• AGROLAGUNA D.D. – Koncesija za zahvaćanje voda za 
- melioracijsko navodnjavanje (POREČ - PARENZO)\, 16 €/god.\n\nProfil op
- ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B59928403334518\
- nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ melioracijsko navodnjavanje (POREČ - PARENZO) · davatelj: MINISTARSTVO Z
+ AŠTITE OKOLIŠA I ZELENE TRANZICIJE\, 16 €/god.\n\nProfil općine: http
+ s://koncesijski-sat.vercel.app/#opcina/41942358B59928403334518\nIzvor: Reg
+ istar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B59928403334518
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -587,16 +608,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-6ef13e77be5b7853@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-c750f0e786609a6a@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20430613
 DTEND;VALUE=DATE:20430614
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (AGROLAGUNA D.D.)
 DESCRIPTION:13. 12. 2043. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• AGROLAGUNA D.D. – Koncesija za zahvaćanje voda za melioracijs
- ko navodnjavanje (POREČ - PARENZO)\, 16 €/god.\n\nProfil općine: https
- ://koncesijski-sat.vercel.app/#opcina/41942358B59928403334518
+ ko navodnjavanje (POREČ - PARENZO) · davatelj: MINISTARSTVO ZAŠTITE OKO
+ LIŠA I ZELENE TRANZICIJE\, 16 €/god.\n\nProfil općine: https://koncesi
+ jski-sat.vercel.app/#opcina/41942358B59928403334518
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B59928403334518
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -607,16 +629,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-a40efc0880e969b5@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-30b868ad1e6236f7@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20490604
 DTEND;VALUE=DATE:20490605
 SUMMARY:Ističe koncesija: VALAMAR RIVIERA D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 4. 6. 2049. Godišnja fiksna nakna
  da: 1.394 €.\n\n• VALAMAR RIVIERA D.D. – Koncesija za zahvaćanje vo
- da za tehnološke potrebe (POREČ - PARENZO)\, 1.394 €/god.\n\nProfil op
- ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B59928403334518\
- nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ da za tehnološke potrebe (POREČ - PARENZO) · davatelj: MINISTARSTVO ZA
+ ŠTITE OKOLIŠA I ZELENE TRANZICIJE\, 1.394 €/god.\n\nProfil općine: ht
+ tps://koncesijski-sat.vercel.app/#opcina/41942358B59928403334518\nIzvor: R
+ egistar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B59928403334518
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -626,8 +649,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-a40efc0880e969b5@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-30b868ad1e6236f7@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20481204
 DTEND;VALUE=DATE:20481205
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VALAMAR RIVIERA 
@@ -635,8 +658,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VALAMAR RIVIERA
 DESCRIPTION:4. 6. 2049. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• VALAMAR RIVIERA D.D. – Koncesija za zahvaćanje voda za tehnolo
- ške potrebe (POREČ - PARENZO)\, 1.394 €/god.\n\nProfil općine: https:
- //koncesijski-sat.vercel.app/#opcina/41942358B59928403334518
+ ške potrebe (POREČ - PARENZO) · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠ
+ A I ZELENE TRANZICIJE\, 1.394 €/god.\n\nProfil općine: https://koncesij
+ ski-sat.vercel.app/#opcina/41942358B59928403334518
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B59928403334518
 TRANSP:TRANSPARENT
 BEGIN:VALARM

@@ -1,0 +1,55 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · OPĆINA  BUKOVLJE
+X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje OPĆINA  BUKOVLJE. Iz Regi
+ stra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade poda
+ taka. https://koncesijski-sat.vercel.app/#sat
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-cf624353b4725690@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20300525
+DTEND;VALUE=DATE:20300526
+SUMMARY:Ističe koncesija: ITELYUM INTEGRA D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 25. 5. 2030.\n\n• ITELYUM INTEGR
+ A D.O.O. – Koncesija skupljanja i odvoza komunalnog otpada (BUKOVLJE\, D
+ ONJI ANDRIJEVCI\, GORNJA VRBA\, GUNDINCI\, KLAKAR\, PODCRKAVLJE\, SIKIREVC
+ I\, SLAVONSKI ŠAMAC\, Općina Bukovlje)\n\nŠto ističe: https://koncesij
+ ski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Koncesi
+ jski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: ITELYUM INTEGRA D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-cf624353b4725690@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20291125
+DTEND;VALUE=DATE:20291126
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ITELYUM INTEGRA 
+ D.O.O.)
+DESCRIPTION:25. 5. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• ITELYUM INTEGRA D.O.O. – Koncesija skupljanja i odvoza komunaln
+ og otpada (BUKOVLJE\, DONJI ANDRIJEVCI\, GORNJA VRBA\, GUNDINCI\, KLAKAR\,
+  PODCRKAVLJE\, SIKIREVCI\, SLAVONSKI ŠAMAC\, Općina Bukovlje)\n\nŠto is
+ tiče: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ITELYUM INTE
+ GRA D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

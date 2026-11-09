@@ -1,0 +1,90 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · OPĆINA SUHOPOLJE
+X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje OPĆINA SUHOPOLJE. Iz Regi
+ stra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade poda
+ taka. https://koncesijski-sat.vercel.app/#sat
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-272413bf6782a40d@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20300227
+DTEND;VALUE=DATE:20300228
+SUMMARY:Ističe koncesija: ŽDREBAC D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 27. 2. 2030. Godišnja fiksna nakn
+ ada: 1.500 €.\n\n• ŽDREBAC D.O.O. – Koncesija za obavljanje dimnja
+ čarskih poslova (SUHOPOLJE\, Općina Suhopolje)\, 1.500 €/god.\n\nŠto 
+ ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesij
+ a (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: ŽDREBAC D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-272413bf6782a40d@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20290827
+DTEND;VALUE=DATE:20290828
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ŽDREBAC D.O.O.)
+DESCRIPTION:27. 2. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• ŽDREBAC D.O.O. – Koncesija za obavljanje dimnjačarskih poslov
+ a (SUHOPOLJE\, Općina Suhopolje)\, 1.500 €/god.\n\nŠto ističe: https:
+ //koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ŽDREBAC D.O
+ .O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-0c6c26a1b042608e@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20380611
+DTEND;VALUE=DATE:20380612
+SUMMARY:Ističe koncesija: DIBA D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 11. 6. 2038. Godišnja fiksna nakn
+ ada: 119.664 €.\n\n• DIBA D.O.O. – Koncesija za korištenje poljopri
+ vrednog zemljišta u vlasništvu države (SUHOPOLJE\, Općina Suhopolje)\,
+  119.664 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
+ \nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: DIBA D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-0c6c26a1b042608e@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20371211
+DTEND;VALUE=DATE:20371212
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DIBA D.O.O.)
+DESCRIPTION:11. 6. 2038. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• DIBA D.O.O. – Koncesija za korištenje poljoprivrednog zemljiš
+ ta u vlasništvu države (SUHOPOLJE\, Općina Suhopolje)\, 119.664 €/god
+ .\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DIBA D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

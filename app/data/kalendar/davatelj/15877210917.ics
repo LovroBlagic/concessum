@@ -1,0 +1,139 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · VARAŽDINSKA ŽUPANIJA
+X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje VARAŽDINSKA ŽUPANIJA. Iz
+  Registra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade
+  podataka. https://koncesijski-sat.vercel.app/#sat
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-bcd1a64c0c1f5db0@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20390224
+DTEND;VALUE=DATE:20390225
+SUMMARY:Ističe koncesija: TERMOPLIN D.D.
+DESCRIPTION:1 ugovor o koncesiji ističe 24. 2. 2039. Godišnja fiksna nakn
+ ada: 1.327 €.\n\n• TERMOPLIN D.D. – Koncesija za obavljanje distribu
+ cije plina na postojećem distribucijskom sustavu (VARAŽDINSKA ŽUPANIJA)
+ \, 1.327 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
+ \nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: TERMOPLIN D.D.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-bcd1a64c0c1f5db0@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20380824
+DTEND;VALUE=DATE:20380825
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (TERMOPLIN D.D.)
+DESCRIPTION:24. 2. 2039. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• TERMOPLIN D.D. – Koncesija za obavljanje distribucije plina na 
+ postojećem distribucijskom sustavu (VARAŽDINSKA ŽUPANIJA)\, 1.327 €/g
+ od.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (TERMOPLIN D.
+ D.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-27872edf4c61f5fb@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20390515
+DTEND;VALUE=DATE:20390516
+SUMMARY:Ističe koncesija: TERMOPLIN D.D.
+DESCRIPTION:1 ugovor o koncesiji ističe 15. 5. 2039. Godišnja fiksna nakn
+ ada: 1.327 €.\n\n• TERMOPLIN D.D. – Koncesija za obavljanje distribu
+ cije plina na postojećem distribucijskom sustavu (BREZNICA\, VISOKO\, VIS
+ OKO\, Općina Breznica)\, 1.327 €/god.\n\nŠto ističe: https://koncesij
+ ski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Koncesi
+ jski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: TERMOPLIN D.D.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-27872edf4c61f5fb@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20381115
+DTEND;VALUE=DATE:20381116
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (TERMOPLIN D.D.)
+DESCRIPTION:15. 5. 2039. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• TERMOPLIN D.D. – Koncesija za obavljanje distribucije plina na 
+ postojećem distribucijskom sustavu (BREZNICA\, VISOKO\, VISOKO\, Općina 
+ Breznica)\, 1.327 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel
+ .app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (TERMOPLIN D.
+ D.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-3a2cd5394561e132@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20390921
+DTEND;VALUE=DATE:20390922
+SUMMARY:Ističe 2 koncesije · VARAŽDINSKA ŽUPANIJA
+DESCRIPTION:2 ugovora o koncesiji ističe 21. 9. 2039. Godišnja fiksna nak
+ nada: 1.327 €.\n\n• IVKOM-PLIN D.O.O. – Koncesija za obavljanje dist
+ ribucije plina na postojećem distribucijskom sustavu (IVANEC\, KLENOVNIK\
+ , KLENOVNIK\, NOVI MAROF\, NOVI MAROF\, Grad Ivanec)\, 1.327 €/god.\n•
+  IVKOM PLIN D.O.O. – Koncesija za izgradnju distribucijskog sustava plin
+ ovoda i pružanje usluga distribucijskim sustavom (DONJA VOĆA\, Općina D
+ onja Voća)\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzvo
+ r: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 2 koncesije · VARAŽDINSKA ŽUPANIJA
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-3a2cd5394561e132@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20390321
+DTEND;VALUE=DATE:20390322
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · VARAŽDINSKA 
+ ŽUPANIJA
+DESCRIPTION:21. 9. 2039. ističe 2 ugovora o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• IVKOM-PLIN D.O.O. – Koncesija za obavljanje distribucije plina
+  na postojećem distribucijskom sustavu (IVANEC\, KLENOVNIK\, KLENOVNIK\, 
+ NOVI MAROF\, NOVI MAROF\, Grad Ivanec)\, 1.327 €/god.\n• IVKOM PLIN D.
+ O.O. – Koncesija za izgradnju distribucijskog sustava plinovoda i pruža
+ nje usluga distribucijskim sustavom (DONJA VOĆA\, Općina Donja Voća)\n\
+ nŠto ističe: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije · VARAŽDINS
+ KA ŽUPANIJA
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

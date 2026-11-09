@@ -4,25 +4,25 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Opicina Muter-Kornati
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Opicina Muter-Kornati. I
- z Registra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrad
- e podataka. https://koncesijski-sat.vercel.app/#opcina/41942358B8606810463
- 8384
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Opicina Muter-Kornati (p
+ regled\, svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvje
+ žava se nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#
+ opcina/41942358B86068104638384
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-95c848fba5de23e9@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-7cab71a1ae69a44e@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20280529
 DTEND;VALUE=DATE:20280530
 SUMMARY:Ističe koncesija: INA-INDUSTRIJA NAFTE  D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 29. 5. 2028. Godišnja fiksna nakn
  ada: 46.451 €.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija pomorskog
-  dobra u svrhu izgradnje i gospodarskog korištenja (MURTER - KORNATI)\, 4
- 6.451 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opci
- na/41942358B86068104638384\nIzvor: Registar koncesija (FINA)\, obrada Konc
- esijski sat 9. 11. 2026.
+  dobra u svrhu izgradnje i gospodarskog korištenja (MURTER - KORNATI) · 
+ davatelj: ŠIBENSKO-KNINSKA ŽUPANIJA\, 46.451 €/god.\n\nProfil općine:
+  https://koncesijski-sat.vercel.app/#opcina/41942358B86068104638384\nIzvor
+ : Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B86068104638384
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -32,8 +32,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-95c848fba5de23e9@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-7cab71a1ae69a44e@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20271129
 DTEND;VALUE=DATE:20271130
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA-INDUSTRIJA N
@@ -41,9 +41,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA-INDUSTRIJA N
 DESCRIPTION:29. 5. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija pomorskog dobra u svrhu 
- izgradnje i gospodarskog korištenja (MURTER - KORNATI)\, 46.451 €/god.\
- n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B860
- 68104638384
+ izgradnje i gospodarskog korištenja (MURTER - KORNATI) · davatelj: ŠIBE
+ NSKO-KNINSKA ŽUPANIJA\, 46.451 €/god.\n\nProfil općine: https://konces
+ ijski-sat.vercel.app/#opcina/41942358B86068104638384
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B86068104638384
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -54,17 +54,18 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-c274fc66a8c93bcb@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-e2dce3f948979f64@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20281231
 DTEND;VALUE=DATE:20290101
 SUMMARY:Ističe koncesija: JADRANSKA RADIJSKA MREŽA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 31. 12. 2028. Godišnja fiksna nak
  nada: 133 €.\n\n• JADRANSKA RADIJSKA MREŽA D.O.O. – Koncesija za ob
  avljanje djelatnosti radija (MURTER - KORNATI\, PIROVAC\, PRIMOŠTEN\, ŠI
- BENIK)\, 133 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.ap
- p/#opcina/41942358B86068104638384\nIzvor: Registar koncesija (FINA)\, obra
- da Koncesijski sat 9. 11. 2026.
+ BENIK) · davatelj: AGENCIJA ZA ELEKTRONIČKE MEDIJE\, 133 €/god.\n\nPro
+ fil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B860681046
+ 38384\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 20
+ 26.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B86068104638384
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -74,8 +75,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-c274fc66a8c93bcb@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-e2dce3f948979f64@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20280630
 DTEND;VALUE=DATE:20280701
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (JADRANSKA RADIJS
@@ -83,9 +84,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (JADRANSKA RADIJS
 DESCRIPTION:31. 12. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• JADRANSKA RADIJSKA MREŽA D.O.O. – Koncesija za obavljanje dje
- latnosti radija (MURTER - KORNATI\, PIROVAC\, PRIMOŠTEN\, ŠIBENIK)\, 133
-  €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41
- 942358B86068104638384
+ latnosti radija (MURTER - KORNATI\, PIROVAC\, PRIMOŠTEN\, ŠIBENIK) · da
+ vatelj: AGENCIJA ZA ELEKTRONIČKE MEDIJE\, 133 €/god.\n\nProfil općine:
+  https://koncesijski-sat.vercel.app/#opcina/41942358B86068104638384
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B86068104638384
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -96,18 +97,18 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-5f5a53ffbb8b2117@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-db7597fbf9274cc6@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20290406
 DTEND;VALUE=DATE:20290407
 SUMMARY:Ističe koncesija: ZMINJAK RIBARSKO-UGOSTITELJSKI OBRT OTOK ZMINJAK
   VL.KREŠIMIR PLESLIĆ
 DESCRIPTION:1 ugovor o koncesiji ističe 6. 4. 2029. Godišnja fiksna nakna
  da: 6.200 €.\n\n• ZMINJAK RIBARSKO-UGOSTITELJSKI OBRT OTOK ZMINJAK VL.
- KREŠIMIR PLESLIĆ – Koncesija na pomorskom dobru (MURTER - KORNATI)\, 6
- .200 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcin
- a/41942358B86068104638384\nIzvor: Registar koncesija (FINA)\, obrada Konce
- sijski sat 9. 11. 2026.
+ KREŠIMIR PLESLIĆ – Koncesija na pomorskom dobru (MURTER - KORNATI) · 
+ davatelj: ŠIBENSKO-KNINSKA ŽUPANIJA\, 6.200 €/god.\n\nProfil općine: 
+ https://koncesijski-sat.vercel.app/#opcina/41942358B86068104638384\nIzvor:
+  Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B86068104638384
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -118,8 +119,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-5f5a53ffbb8b2117@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-db7597fbf9274cc6@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20281006
 DTEND;VALUE=DATE:20281007
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ZMINJAK RIBARSKO
@@ -127,9 +128,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ZMINJAK RIBARSKO
 DESCRIPTION:6. 4. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• ZMINJAK RIBARSKO-UGOSTITELJSKI OBRT OTOK ZMINJAK VL.KREŠIMIR PLES
- LIĆ – Koncesija na pomorskom dobru (MURTER - KORNATI)\, 6.200 €/god.\
- n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B860
- 68104638384
+ LIĆ – Koncesija na pomorskom dobru (MURTER - KORNATI) · davatelj: ŠIB
+ ENSKO-KNINSKA ŽUPANIJA\, 6.200 €/god.\n\nProfil općine: https://konces
+ ijski-sat.vercel.app/#opcina/41942358B86068104638384
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B86068104638384
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -140,20 +141,23 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-53b14bc4c7e956e3@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-a9b1200acb8c2352@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20301231
 DTEND;VALUE=DATE:20310101
 SUMMARY:Ističe 4 koncesije · Opicina Muter-Kornati
 DESCRIPTION:4 ugovora o koncesiji ističe 31. 12. 2030. Godišnja fiksna na
  knada: 63.734 €.\n\n• ACI D.D. – Koncesija na pomorskom dobru (MURTE
- R - KORNATI)\, 48.144 €/god.\n• MALI ŠKVER D.O.O. – Koncesija na po
- morskom dobru (MURTER - KORNATI)\, 8.285 €/god.\n• ACI D.D. – Konces
- ija za luku nautičkog turizma (MURTER - KORNATI)\, 4.059 €/god.\n• AC
- I D.D. – Koncesija djelatnosti premještanja i uklanjanja nepropisno par
- kiranih i napuštenih vozila (MURTER - KORNATI)\, 3.246 €/god.\n\nProfil
-  općine: https://koncesijski-sat.vercel.app/#opcina/41942358B860681046383
- 84\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ R - KORNATI) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\, 4
+ 8.144 €/god.\n• MALI ŠKVER D.O.O. – Koncesija na pomorskom dobru (M
+ URTER - KORNATI) · davatelj: ŠIBENSKO-KNINSKA ŽUPANIJA\, 8.285 €/god.
+ \n• ACI D.D. – Koncesija za luku nautičkog turizma (MURTER - KORNATI)
+  · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\, 4.059 €/god
+ .\n• ACI D.D. – Koncesija djelatnosti premještanja i uklanjanja nepro
+ pisno parkiranih i napuštenih vozila (MURTER - KORNATI) · davatelj: MINI
+ STARSTVO MORA\, PROMETA I INFRASTRUKTURE\, 3.246 €/god.\n\nProfil općin
+ e: https://koncesijski-sat.vercel.app/#opcina/41942358B86068104638384\nIzv
+ or: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B86068104638384
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -163,39 +167,45 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-53b14bc4c7e956e3@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-a9b1200acb8c2352@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20300630
 DTEND;VALUE=DATE:20300701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 4 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 4 koncesije · Opicina Muter-
+ Kornati
 DESCRIPTION:31. 12. 2030. ističe 4 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
- ra.\n\n• ACI D.D. – Koncesija na pomorskom dobru (MURTER - KORNATI)\, 
- 48.144 €/god.\n• MALI ŠKVER D.O.O. – Koncesija na pomorskom dobru (
- MURTER - KORNATI)\, 8.285 €/god.\n• ACI D.D. – Koncesija za luku nau
- tičkog turizma (MURTER - KORNATI)\, 4.059 €/god.\n• ACI D.D. – Konc
- esija djelatnosti premještanja i uklanjanja nepropisno parkiranih i napu
- štenih vozila (MURTER - KORNATI)\, 3.246 €/god.\n\nProfil općine: http
- s://koncesijski-sat.vercel.app/#opcina/41942358B86068104638384
+ ra.\n\n• ACI D.D. – Koncesija na pomorskom dobru (MURTER - KORNATI) ·
+  davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\, 48.144 €/god.\
+ n• MALI ŠKVER D.O.O. – Koncesija na pomorskom dobru (MURTER - KORNATI
+ ) · davatelj: ŠIBENSKO-KNINSKA ŽUPANIJA\, 8.285 €/god.\n• ACI D.D. 
+ – Koncesija za luku nautičkog turizma (MURTER - KORNATI) · davatelj: M
+ INISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\, 4.059 €/god.\n• ACI D.D.
+  – Koncesija djelatnosti premještanja i uklanjanja nepropisno parkirani
+ h i napuštenih vozila (MURTER - KORNATI) · davatelj: MINISTARSTVO MORA\,
+  PROMETA I INFRASTRUKTURE\, 3.246 €/god.\n\nProfil općine: https://konc
+ esijski-sat.vercel.app/#opcina/41942358B86068104638384
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B86068104638384
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 4 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 4 koncesije · Opicina Mu
+ ter-Kornati
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-db821b6cbd69c78a@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-fad34f4944c1aec3@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20311110
 DTEND;VALUE=DATE:20311111
 SUMMARY:Ističe koncesija: RAOL D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 10. 11. 2031. Godišnja fiksna nak
  nada: 13.422 €.\n\n• RAOL D.O.O. – Koncesija na pomorskom dobru (MUR
- TER - KORNATI)\, 13.422 €/god.\n\nProfil općine: https://koncesijski-sa
- t.vercel.app/#opcina/41942358B86068104638384\nIzvor: Registar koncesija (F
- INA)\, obrada Koncesijski sat 9. 11. 2026.
+ TER - KORNATI) · davatelj: ŠIBENSKO-KNINSKA ŽUPANIJA\, 13.422 €/god.\
+ n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B860
+ 68104638384\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 
+ 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B86068104638384
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -205,16 +215,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-db821b6cbd69c78a@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-fad34f4944c1aec3@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20310510
 DTEND;VALUE=DATE:20310511
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (RAOL D.O.O.)
 DESCRIPTION:10. 11. 2031. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
- a.\n\n• RAOL D.O.O. – Koncesija na pomorskom dobru (MURTER - KORNATI)\
- , 13.422 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#o
- pcina/41942358B86068104638384
+ a.\n\n• RAOL D.O.O. – Koncesija na pomorskom dobru (MURTER - KORNATI) 
+ · davatelj: ŠIBENSKO-KNINSKA ŽUPANIJA\, 13.422 €/god.\n\nProfil opći
+ ne: https://koncesijski-sat.vercel.app/#opcina/41942358B86068104638384
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B86068104638384
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -224,16 +234,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-0020b88282599181@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-25e8bc8027d6f887@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20330419
 DTEND;VALUE=DATE:20330420
 SUMMARY:Ističe koncesija: COLONIA D.O.O. ZA UGOSTITELJSTVO
 DESCRIPTION:1 ugovor o koncesiji ističe 19. 4. 2033. Godišnja fiksna nakn
  ada: 6.047 €.\n\n• COLONIA D.O.O. ZA UGOSTITELJSTVO – Koncesija na p
- omorskom dobru (MURTER - KORNATI)\, 6.047 €/god.\n\nProfil općine: http
- s://koncesijski-sat.vercel.app/#opcina/41942358B86068104638384\nIzvor: Reg
- istar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ omorskom dobru (MURTER - KORNATI) · davatelj: ŠIBENSKO-KNINSKA ŽUPANIJA
+ \, 6.047 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#o
+ pcina/41942358B86068104638384\nIzvor: Registar koncesija (FINA)\, obrada K
+ oncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B86068104638384
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -243,8 +254,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-0020b88282599181@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-25e8bc8027d6f887@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20321019
 DTEND;VALUE=DATE:20321020
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (COLONIA D.O.O. Z
@@ -252,8 +263,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (COLONIA D.O.O. Z
 DESCRIPTION:19. 4. 2033. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• COLONIA D.O.O. ZA UGOSTITELJSTVO – Koncesija na pomorskom dobru
-  (MURTER - KORNATI)\, 6.047 €/god.\n\nProfil općine: https://koncesijsk
- i-sat.vercel.app/#opcina/41942358B86068104638384
+  (MURTER - KORNATI) · davatelj: ŠIBENSKO-KNINSKA ŽUPANIJA\, 6.047 €/g
+ od.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358
+ B86068104638384
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B86068104638384
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -264,16 +276,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-2683a0f624dfeb33@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-cae97b08a2e20fda@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20340609
 DTEND;VALUE=DATE:20340610
 SUMMARY:Ističe koncesija: PELAGOS NET FARMA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 9. 6. 2034. Godišnja fiksna nakna
  da: 15.322 €.\n\n• PELAGOS NET FARMA D.O.O. – Koncesija na pomorskom
-  dobru (MURTER - KORNATI)\, 15.322 €/god.\n\nProfil općine: https://kon
- cesijski-sat.vercel.app/#opcina/41942358B86068104638384\nIzvor: Registar k
- oncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+  dobru (MURTER - KORNATI) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRA
+ STRUKTURE\, 15.322 €/god.\n\nProfil općine: https://koncesijski-sat.ver
+ cel.app/#opcina/41942358B86068104638384\nIzvor: Registar koncesija (FINA)\
+ , obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B86068104638384
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -283,8 +296,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-2683a0f624dfeb33@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-cae97b08a2e20fda@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20331209
 DTEND;VALUE=DATE:20331210
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PELAGOS NET FARM
@@ -292,8 +305,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PELAGOS NET FARM
 DESCRIPTION:9. 6. 2034. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• PELAGOS NET FARMA D.O.O. – Koncesija na pomorskom dobru (MURTER 
- - KORNATI)\, 15.322 €/god.\n\nProfil općine: https://koncesijski-sat.ve
- rcel.app/#opcina/41942358B86068104638384
+ - KORNATI) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\, 15.
+ 322 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina
+ /41942358B86068104638384
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B86068104638384
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -304,16 +318,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-1efec9b13b547960@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-6df727c080159e55@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20350131
 DTEND;VALUE=DATE:20350201
 SUMMARY:Ističe koncesija: ČIGRAĐA UGOSTITELJSKI OBRT TURČINOV DARKO
 DESCRIPTION:1 ugovor o koncesiji ističe 31. 1. 2035. Godišnja fiksna nakn
  ada: 6.358 €.\n\n• ČIGRAĐA UGOSTITELJSKI OBRT TURČINOV DARKO – Ko
- ncesija na pomorskom dobru (MURTER - KORNATI)\, 6.358 €/god.\n\nProfil o
- pćine: https://koncesijski-sat.vercel.app/#opcina/41942358B86068104638384
- \nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ ncesija na pomorskom dobru (MURTER - KORNATI) · davatelj: ŠIBENSKO-KNINS
+ KA ŽUPANIJA\, 6.358 €/god.\n\nProfil općine: https://koncesijski-sat.v
+ ercel.app/#opcina/41942358B86068104638384\nIzvor: Registar koncesija (FINA
+ )\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B86068104638384
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -323,8 +338,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-1efec9b13b547960@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-6df727c080159e55@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20340731
 DTEND;VALUE=DATE:20340801
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ČIGRAĐA UGOSTI
@@ -332,8 +347,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ČIGRAĐA UGOSTI
 DESCRIPTION:31. 1. 2035. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• ČIGRAĐA UGOSTITELJSKI OBRT TURČINOV DARKO – Koncesija na pom
- orskom dobru (MURTER - KORNATI)\, 6.358 €/god.\n\nProfil općine: https:
- //koncesijski-sat.vercel.app/#opcina/41942358B86068104638384
+ orskom dobru (MURTER - KORNATI) · davatelj: ŠIBENSKO-KNINSKA ŽUPANIJA\,
+  6.358 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opc
+ ina/41942358B86068104638384
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B86068104638384
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -344,16 +360,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-772814561dc34e8a@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-09ab5919e4d7f9b0@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20360311
 DTEND;VALUE=DATE:20360312
 SUMMARY:Ističe koncesija: COLONIA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 11. 3. 2036. Godišnja fiksna nakn
  ada: 5.193 €.\n\n• COLONIA D.O.O. – Koncesija na pomorskom dobru (MU
- RTER - KORNATI)\, 5.193 €/god.\n\nProfil općine: https://koncesijski-sa
- t.vercel.app/#opcina/41942358B86068104638384\nIzvor: Registar koncesija (F
- INA)\, obrada Koncesijski sat 9. 11. 2026.
+ RTER - KORNATI) · davatelj: ŠIBENSKO-KNINSKA ŽUPANIJA\, 5.193 €/god.\
+ n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B860
+ 68104638384\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 
+ 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B86068104638384
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -363,16 +380,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-772814561dc34e8a@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-09ab5919e4d7f9b0@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20350911
 DTEND;VALUE=DATE:20350912
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (COLONIA D.O.O.)
 DESCRIPTION:11. 3. 2036. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• COLONIA D.O.O. – Koncesija na pomorskom dobru (MURTER - KORNATI
- )\, 5.193 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#
- opcina/41942358B86068104638384
+ ) · davatelj: ŠIBENSKO-KNINSKA ŽUPANIJA\, 5.193 €/god.\n\nProfil opć
+ ine: https://koncesijski-sat.vercel.app/#opcina/41942358B86068104638384
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B86068104638384
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -383,17 +400,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-f16e46aca73486a1@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-7b9b3485a42187e4@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20370131
 DTEND;VALUE=DATE:20370201
 SUMMARY:Ističe koncesija: IVANA KLASIČEK\, KORNATI\, VL. IVANA KLASIČEK
 DESCRIPTION:1 ugovor o koncesiji ističe 31. 1. 2037. Godišnja fiksna nakn
  ada: 8.229 €.\n\n• IVANA KLASIČEK\, KORNATI\, VL. IVANA KLASIČEK –
-  Koncesija na pomorskom dobru (MURTER - KORNATI)\, 8.229 €/god.\n\nProfi
- l općine: https://koncesijski-sat.vercel.app/#opcina/41942358B86068104638
- 384\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026
- .
+  Koncesija na pomorskom dobru (MURTER - KORNATI) · davatelj: ŠIBENSKO-KN
+ INSKA ŽUPANIJA\, 8.229 €/god.\n\nProfil općine: https://koncesijski-sa
+ t.vercel.app/#opcina/41942358B86068104638384\nIzvor: Registar koncesija (F
+ INA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B86068104638384
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -404,8 +421,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-f16e46aca73486a1@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-7b9b3485a42187e4@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20360731
 DTEND;VALUE=DATE:20360801
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (IVANA KLASIČEK\
@@ -413,8 +430,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (IVANA KLASIČEK\
 DESCRIPTION:31. 1. 2037. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• IVANA KLASIČEK\, KORNATI\, VL. IVANA KLASIČEK – Koncesija na 
- pomorskom dobru (MURTER - KORNATI)\, 8.229 €/god.\n\nProfil općine: htt
- ps://koncesijski-sat.vercel.app/#opcina/41942358B86068104638384
+ pomorskom dobru (MURTER - KORNATI) · davatelj: ŠIBENSKO-KNINSKA ŽUPANIJ
+ A\, 8.229 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#
+ opcina/41942358B86068104638384
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B86068104638384
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -425,16 +443,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-34cdc9f94d923a42@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-f20b2bd594f39719@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20370416
 DTEND;VALUE=DATE:20370417
 SUMMARY:Ističe koncesija: KOSIRINA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 16. 4. 2037. Godišnja fiksna nakn
  ada: 4.371 €.\n\n• KOSIRINA D.O.O. – Koncesija na pomorskom dobru (M
- URTER - KORNATI)\, 4.371 €/god.\n\nProfil općine: https://koncesijski-s
- at.vercel.app/#opcina/41942358B86068104638384\nIzvor: Registar koncesija (
- FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ URTER - KORNATI) · davatelj: ŠIBENSKO-KNINSKA ŽUPANIJA\, 4.371 €/god.
+ \n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B86
+ 068104638384\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9.
+  11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B86068104638384
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -444,16 +463,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-34cdc9f94d923a42@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-f20b2bd594f39719@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20361016
 DTEND;VALUE=DATE:20361017
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (KOSIRINA D.O.O.)
 DESCRIPTION:16. 4. 2037. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• KOSIRINA D.O.O. – Koncesija na pomorskom dobru (MURTER - KORNAT
- I)\, 4.371 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/
- #opcina/41942358B86068104638384
+ I) · davatelj: ŠIBENSKO-KNINSKA ŽUPANIJA\, 4.371 €/god.\n\nProfil op
+ ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B86068104638384
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B86068104638384
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -464,17 +483,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-2e50662703423d07@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-34dd74db130f6cde@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20371231
 DTEND;VALUE=DATE:20380101
 SUMMARY:Ističe koncesija: MARINA HRAMINA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 31. 12. 2037. Godišnja fiksna nak
  nada: 10.295 €.\n\n• MARINA HRAMINA D.O.O. – Koncesija pomorskog dob
- ra u svrhu gospodarskog korištenja luke (MURTER - KORNATI)\, 10.295 €/g
- od.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358
- B86068104638384\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat
-  9. 11. 2026.
+ ra u svrhu gospodarskog korištenja luke (MURTER - KORNATI) · davatelj: M
+ INISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\, 10.295 €/god.\n\nProfil op
+ ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B86068104638384\
+ nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B86068104638384
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -484,8 +503,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-2e50662703423d07@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-34dd74db130f6cde@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20370630
 DTEND;VALUE=DATE:20370701
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MARINA HRAMINA D
@@ -493,8 +512,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MARINA HRAMINA D
 DESCRIPTION:31. 12. 2037. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• MARINA HRAMINA D.O.O. – Koncesija pomorskog dobra u svrhu gosp
- odarskog korištenja luke (MURTER - KORNATI)\, 10.295 €/god.\n\nProfil o
- pćine: https://koncesijski-sat.vercel.app/#opcina/41942358B86068104638384
+ odarskog korištenja luke (MURTER - KORNATI) · davatelj: MINISTARSTVO MOR
+ A\, PROMETA I INFRASTRUKTURE\, 10.295 €/god.\n\nProfil općine: https://
+ koncesijski-sat.vercel.app/#opcina/41942358B86068104638384
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B86068104638384
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -505,16 +525,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-5ff0b0ce342e7767@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-e60c67dfd157c594@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20380313
 DTEND;VALUE=DATE:20380314
 SUMMARY:Ističe koncesija: JAVNA USTANOVA NACIONALNI PARK KORNATI
 DESCRIPTION:1 ugovor o koncesiji ističe 13. 3. 2038. Godišnja fiksna nakn
  ada: 29.075 €.\n\n• JAVNA USTANOVA NACIONALNI PARK KORNATI – Koncesi
- ja na pomorskom dobru (MURTER - KORNATI)\, 29.075 €/god.\n\nProfil opći
- ne: https://koncesijski-sat.vercel.app/#opcina/41942358B86068104638384\nIz
- vor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ ja na pomorskom dobru (MURTER - KORNATI) · davatelj: MINISTARSTVO MORA\, 
+ PROMETA I INFRASTRUKTURE\, 29.075 €/god.\n\nProfil općine: https://konc
+ esijski-sat.vercel.app/#opcina/41942358B86068104638384\nIzvor: Registar ko
+ ncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B86068104638384
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -524,8 +545,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-5ff0b0ce342e7767@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-e60c67dfd157c594@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20370913
 DTEND;VALUE=DATE:20370914
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (JAVNA USTANOVA N
@@ -533,8 +554,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (JAVNA USTANOVA N
 DESCRIPTION:13. 3. 2038. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• JAVNA USTANOVA NACIONALNI PARK KORNATI – Koncesija na pomorskom
-  dobru (MURTER - KORNATI)\, 29.075 €/god.\n\nProfil općine: https://kon
- cesijski-sat.vercel.app/#opcina/41942358B86068104638384
+  dobru (MURTER - KORNATI) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRA
+ STRUKTURE\, 29.075 €/god.\n\nProfil općine: https://koncesijski-sat.ver
+ cel.app/#opcina/41942358B86068104638384
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B86068104638384
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -545,16 +567,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-6c8a292fa71ea400@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-6014d5e8fdf0aaaa@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20411023
 DTEND;VALUE=DATE:20411024
 SUMMARY:Ističe koncesija: UGOSTITELJSKI OBRT  'ŽMARA'
 DESCRIPTION:1 ugovor o koncesiji ističe 23. 10. 2041. Godišnja fiksna nak
  nada: 11.340 €.\n\n• UGOSTITELJSKI OBRT  'ŽMARA' – Koncesija na pom
- orskom dobru (MURTER - KORNATI)\, 11.340 €/god.\n\nProfil općine: https
- ://koncesijski-sat.vercel.app/#opcina/41942358B86068104638384\nIzvor: Regi
- star koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ orskom dobru (MURTER - KORNATI) · davatelj: ŠIBENSKO-KNINSKA ŽUPANIJA\,
+  11.340 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#op
+ cina/41942358B86068104638384\nIzvor: Registar koncesija (FINA)\, obrada Ko
+ ncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B86068104638384
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -564,8 +587,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-6c8a292fa71ea400@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-6014d5e8fdf0aaaa@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20410423
 DTEND;VALUE=DATE:20410424
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (UGOSTITELJSKI OB
@@ -573,8 +596,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (UGOSTITELJSKI OB
 DESCRIPTION:23. 10. 2041. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• UGOSTITELJSKI OBRT  'ŽMARA' – Koncesija na pomorskom dobru (M
- URTER - KORNATI)\, 11.340 €/god.\n\nProfil općine: https://koncesijski-
- sat.vercel.app/#opcina/41942358B86068104638384
+ URTER - KORNATI) · davatelj: ŠIBENSKO-KNINSKA ŽUPANIJA\, 11.340 €/god
+ .\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B8
+ 6068104638384
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B86068104638384
 TRANSP:TRANSPARENT
 BEGIN:VALARM

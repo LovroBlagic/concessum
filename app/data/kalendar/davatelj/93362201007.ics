@@ -1,0 +1,141 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · VIROVITIČKO-PODRAVSKA ŽUPANIJA
+X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje VIROVITIČKO-PODRAVSKA ŽU
+ PANIJA. Iz Registra koncesija (FINA\, data.gov.hr). Osvježava se nakon sv
+ ake obrade podataka. https://koncesijski-sat.vercel.app/#sat
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-3c7c1d9d4850c98f@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20440131
+DTEND;VALUE=DATE:20440201
+SUMMARY:Ističe 3 koncesije · VIROVITIČKO-PODRAVSKA ŽUPANIJA
+DESCRIPTION:3 ugovora o koncesiji ističe 31. 1. 2044.\n\n• PAPUK PLIN D.
+ O.O. ZA OBAVLJANJE DJELATNOSTI U SEKTORU PLINA – Koncesija za obavljanje
+  distribucije plina na postojećem distribucijskom sustavu (ORAHOVICA\, Gr
+ ad Orahovica)\n• HEP-PLIN D.O.O.ZA DISTRIB.I OPSKRBU PLINOM-PROL.RA .PRI
+ HODA – Koncesija za obavljanje distribucije plina na postojećem distrib
+ ucijskom sustavu (SLATINA\, Grad Slatina)\n• PLINKOM D.O.O. – Koncesij
+ a za obavljanje distribucije plina na postojećem distribucijskom sustavu 
+ (PITOMAČA\, Općina Pitomača)\n\nŠto ističe: https://koncesijski-sat.v
+ ercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 
+ 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 3 koncesije · VIROVITIČKO-PODRAVSKA ŽUPANIJA
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-3c7c1d9d4850c98f@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20430731
+DTEND;VALUE=DATE:20430801
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · VIROVITIČKO-P
+ ODRAVSKA ŽUPANIJA
+DESCRIPTION:31. 1. 2044. ističe 3 ugovora o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• PAPUK PLIN D.O.O. ZA OBAVLJANJE DJELATNOSTI U SEKTORU PLINA – 
+ Koncesija za obavljanje distribucije plina na postojećem distribucijskom 
+ sustavu (ORAHOVICA\, Grad Orahovica)\n• HEP-PLIN D.O.O.ZA DISTRIB.I OPSK
+ RBU PLINOM-PROL.RA .PRIHODA – Koncesija za obavljanje distribucije plina
+  na postojećem distribucijskom sustavu (SLATINA\, Grad Slatina)\n• PLIN
+ KOM D.O.O. – Koncesija za obavljanje distribucije plina na postojećem d
+ istribucijskom sustavu (PITOMAČA\, Općina Pitomača)\n\nŠto ističe: ht
+ tps://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · VIROVITIČ
+ KO-PODRAVSKA ŽUPANIJA
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-e58a69e6d6ae4c34@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20440305
+DTEND;VALUE=DATE:20440306
+SUMMARY:Ističe koncesija: HEP-PLIN D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 5. 3. 2044.\n\n• HEP-PLIN D.O.O.
+  – Koncesija za obavljanje distribucije plina na postojećem distribucij
+ skom sustavu (GRADINA\, Općina Gradina)\n\nŠto ističe: https://koncesij
+ ski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Koncesi
+ jski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: HEP-PLIN D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-e58a69e6d6ae4c34@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20430905
+DTEND;VALUE=DATE:20430906
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP-PLIN D.O.O.)
+DESCRIPTION:5. 3. 2044. ističe 1 ugovor o koncesiji. Novi postupak dodjele
+  treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
+ \n\n• HEP-PLIN D.O.O. – Koncesija za obavljanje distribucije plina na 
+ postojećem distribucijskom sustavu (GRADINA\, Općina Gradina)\n\nŠto is
+ tiče: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP-PLIN D.O
+ .O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-1592ac41635ce0f9@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20470510
+DTEND;VALUE=DATE:20470511
+SUMMARY:Ističe koncesija: HEP-PLIN D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 10. 5. 2047.\n\n• HEP-PLIN D.O.O
+ . – Koncesija za obavljanje distribucije plina na postojećem distribuci
+ jskom sustavu (VIROVITICA\, Grad Virovitica)\n\nŠto ističe: https://konc
+ esijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Kon
+ cesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: HEP-PLIN D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-1592ac41635ce0f9@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20461110
+DTEND;VALUE=DATE:20461111
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP-PLIN D.O.O.)
+DESCRIPTION:10. 5. 2047. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• HEP-PLIN D.O.O. – Koncesija za obavljanje distribucije plina na
+  postojećem distribucijskom sustavu (VIROVITICA\, Grad Virovitica)\n\nŠt
+ o ističe: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP-PLIN D.O
+ .O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

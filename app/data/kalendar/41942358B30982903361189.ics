@@ -4,27 +4,29 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Općina Konavle
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Konavle. Iz Regi
- stra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade poda
- taka. https://koncesijski-sat.vercel.app/#opcina/41942358B30982903361189
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Općina Konavle (pregled
+ \, svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježava 
+ se nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#opcina
+ /41942358B30982903361189
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-57ce3bf38f6805bc@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-a4717dd0126a9ebe@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20280623
 DTEND;VALUE=DATE:20280624
 SUMMARY:Ističe 3 koncesije · Konavle
 DESCRIPTION:3 ugovora o koncesiji ističe 23. 6. 2028. Godišnja fiksna nak
  nada: 762 €.\n\n• MARINOVIĆ-KONAVLE D.O.O. – Koncesija za površinu
   utvrđenog eksploatacijskog polja neenergetskih mineralnih sirovina (KONA
- VLE)\, 762 €/god.\n• MARINOVIĆ-KONAVLE D.O.O. – Koncesija za eksplo
- ataciju tehničko-građevnog kamena (KONAVLE)\n• MARINOVIĆ-KONAVLE D.O.
- O. – Koncesija za eksploataciju tehničko-građevnog kamena (KONAVLE)\n\
- nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B30982
- 903361189\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11
- . 2026.
+ VLE) · davatelj: MINISTARSTVO GOSPODARSTVA\, 762 €/god.\n• MARINOVIĆ
+ -KONAVLE D.O.O. – Koncesija za eksploataciju tehničko-građevnog kamena
+  (KONAVLE) · davatelj: MINISTARSTVO GOSPODARSTVA\n• MARINOVIĆ-KONAVLE 
+ D.O.O. – Koncesija za eksploataciju tehničko-građevnog kamena (KONAVLE
+ ) · davatelj: MINISTARSTVO GOSPODARSTVA\n\nProfil općine: https://konces
+ ijski-sat.vercel.app/#opcina/41942358B30982903361189\nIzvor: Registar konc
+ esija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B30982903361189
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -34,30 +36,32 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-57ce3bf38f6805bc@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-a4717dd0126a9ebe@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20271223
 DTEND;VALUE=DATE:20271224
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Konavle
 DESCRIPTION:23. 6. 2028. ističe 3 ugovora o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• MARINOVIĆ-KONAVLE D.O.O. – Koncesija za površinu utvrđenog 
- eksploatacijskog polja neenergetskih mineralnih sirovina (KONAVLE)\, 762 
- €/god.\n• MARINOVIĆ-KONAVLE D.O.O. – Koncesija za eksploataciju teh
- ničko-građevnog kamena (KONAVLE)\n• MARINOVIĆ-KONAVLE D.O.O. – Konc
- esija za eksploataciju tehničko-građevnog kamena (KONAVLE)\n\nProfil op
- ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B30982903361189
+ eksploatacijskog polja neenergetskih mineralnih sirovina (KONAVLE) · dava
+ telj: MINISTARSTVO GOSPODARSTVA\, 762 €/god.\n• MARINOVIĆ-KONAVLE D.O
+ .O. – Koncesija za eksploataciju tehničko-građevnog kamena (KONAVLE) 
+ · davatelj: MINISTARSTVO GOSPODARSTVA\n• MARINOVIĆ-KONAVLE D.O.O. – 
+ Koncesija za eksploataciju tehničko-građevnog kamena (KONAVLE) · davate
+ lj: MINISTARSTVO GOSPODARSTVA\n\nProfil općine: https://koncesijski-sat.v
+ ercel.app/#opcina/41942358B30982903361189
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B30982903361189
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Konavle
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-6603d320367234dd@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-d46202e7e7eb70e8@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20280701
 DTEND;VALUE=DATE:20280702
 SUMMARY:Ističe koncesija: ČISTOĆA I ZELENILO KONAVLE D.O.O. ZA OBAVLJANJ
@@ -65,9 +69,10 @@ SUMMARY:Ističe koncesija: ČISTOĆA I ZELENILO KONAVLE D.O.O. ZA OBAVLJANJ
 DESCRIPTION:1 ugovor o koncesiji ističe 1. 7. 2028. Godišnja fiksna nakna
  da: 3.982 €.\n\n• ČISTOĆA I ZELENILO KONAVLE D.O.O. ZA OBAVLJANJE KO
  MUNALNIH DJELATNOSTI – Koncesija skupljanja i odvoza komunalnog otpada (
- KONAVLE)\, 3.982 €/god.\n\nProfil općine: https://koncesijski-sat.verce
- l.app/#opcina/41942358B30982903361189\nIzvor: Registar koncesija (FINA)\, 
- obrada Koncesijski sat 9. 11. 2026.
+ KONAVLE) · davatelj: LUČKA UPRAVA DUBROVAČKO-NERETVANSKE ŽUPANIJE\, 3.
+ 982 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina
+ /41942358B30982903361189\nIzvor: Registar koncesija (FINA)\, obrada Konces
+ ijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B30982903361189
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -78,8 +83,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-6603d320367234dd@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-d46202e7e7eb70e8@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20280101
 DTEND;VALUE=DATE:20280102
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ČISTOĆA I ZELE
@@ -87,9 +92,10 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ČISTOĆA I ZELE
 DESCRIPTION:1. 7. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• ČISTOĆA I ZELENILO KONAVLE D.O.O. ZA OBAVLJANJE KOMUNALNIH DJELA
- TNOSTI – Koncesija skupljanja i odvoza komunalnog otpada (KONAVLE)\, 3.9
- 82 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/
- 41942358B30982903361189
+ TNOSTI – Koncesija skupljanja i odvoza komunalnog otpada (KONAVLE) · da
+ vatelj: LUČKA UPRAVA DUBROVAČKO-NERETVANSKE ŽUPANIJE\, 3.982 €/god.\n
+ \nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B3098
+ 2903361189
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B30982903361189
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -100,16 +106,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-e08eb5e89c80b311@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-cdd7fbedc4ab3b52@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20290701
 DTEND;VALUE=DATE:20290702
 SUMMARY:Ističe koncesija: ČISTOĆA I ZELENILO KONAVLE D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 1. 7. 2029. Godišnja fiksna nakna
  da: 4.645 €.\n\n• ČISTOĆA I ZELENILO KONAVLE D.O.O. – Koncesija za
-  luku (KONAVLE)\, 4.645 €/god.\n\nProfil općine: https://koncesijski-sa
- t.vercel.app/#opcina/41942358B30982903361189\nIzvor: Registar koncesija (F
- INA)\, obrada Koncesijski sat 9. 11. 2026.
+  luku (KONAVLE) · davatelj: LUČKA UPRAVA DUBROVAČKO-NERETVANSKE ŽUPANI
+ JE\, 4.645 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/
+ #opcina/41942358B30982903361189\nIzvor: Registar koncesija (FINA)\, obrada
+  Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B30982903361189
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -119,8 +126,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-e08eb5e89c80b311@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-cdd7fbedc4ab3b52@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20290101
 DTEND;VALUE=DATE:20290102
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ČISTOĆA I ZELE
@@ -128,8 +135,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ČISTOĆA I ZELE
 DESCRIPTION:1. 7. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• ČISTOĆA I ZELENILO KONAVLE D.O.O. – Koncesija za luku (KONAVLE
- )\, 4.645 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#
- opcina/41942358B30982903361189
+ ) · davatelj: LUČKA UPRAVA DUBROVAČKO-NERETVANSKE ŽUPANIJE\, 4.645 €
+ /god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419423
+ 58B30982903361189
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B30982903361189
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -140,16 +148,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-9a01756b082225e7@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-7ec49c6591c340ff@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20291130
 DTEND;VALUE=DATE:20291201
 SUMMARY:Ističe koncesija: HOTELI CAVTAT D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 30. 11. 2029. Godišnja fiksna nak
  nada: 25.217 €.\n\n• HOTELI CAVTAT D.O.O. – Koncesija na pomorskom d
- obru (KONAVLE)\, 25.217 €/god.\n\nProfil općine: https://koncesijski-sa
- t.vercel.app/#opcina/41942358B30982903361189\nIzvor: Registar koncesija (F
- INA)\, obrada Koncesijski sat 9. 11. 2026.
+ obru (KONAVLE) · davatelj: DUBROVAČKO-NERETVANSKA ŽUPANIJA\, 25.217 €
+ /god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419423
+ 58B30982903361189\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski s
+ at 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B30982903361189
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -159,17 +168,18 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-9a01756b082225e7@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-7ec49c6591c340ff@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20290530
 DTEND;VALUE=DATE:20290531
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HOTELI CAVTAT D.
  O.O.)
 DESCRIPTION:30. 11. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
- a.\n\n• HOTELI CAVTAT D.O.O. – Koncesija na pomorskom dobru (KONAVLE)\
- , 25.217 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#o
- pcina/41942358B30982903361189
+ a.\n\n• HOTELI CAVTAT D.O.O. – Koncesija na pomorskom dobru (KONAVLE) 
+ · davatelj: DUBROVAČKO-NERETVANSKA ŽUPANIJA\, 25.217 €/god.\n\nProfil
+  općine: https://koncesijski-sat.vercel.app/#opcina/41942358B309829033611
+ 89
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B30982903361189
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -180,17 +190,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-ab84218476e0758e@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-15d3767967aaf04e@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20320609
 DTEND;VALUE=DATE:20320610
 SUMMARY:Ističe koncesija: MOORING SERVICE D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 9. 6. 2032. Godišnja fiksna nakna
  da: 5.442 €.\n\n• MOORING SERVICE D.O.O. – Koncesija pomorskog dobra
-  u svrhu gospodarskog korištenja luke (KONAVLE)\, 5.442 €/god.\n\nProfi
- l općine: https://koncesijski-sat.vercel.app/#opcina/41942358B30982903361
- 189\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026
- .
+  u svrhu gospodarskog korištenja luke (KONAVLE) · davatelj: LUČKA UPRAV
+ A DUBROVAČKO-NERETVANSKE ŽUPANIJE\, 5.442 €/god.\n\nProfil općine: ht
+ tps://koncesijski-sat.vercel.app/#opcina/41942358B30982903361189\nIzvor: R
+ egistar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B30982903361189
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -200,8 +210,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-ab84218476e0758e@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-15d3767967aaf04e@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20311209
 DTEND;VALUE=DATE:20311210
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MOORING SERVICE 
@@ -209,8 +219,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MOORING SERVICE
 DESCRIPTION:9. 6. 2032. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• MOORING SERVICE D.O.O. – Koncesija pomorskog dobra u svrhu gospo
- darskog korištenja luke (KONAVLE)\, 5.442 €/god.\n\nProfil općine: htt
- ps://koncesijski-sat.vercel.app/#opcina/41942358B30982903361189
+ darskog korištenja luke (KONAVLE) · davatelj: LUČKA UPRAVA DUBROVAČKO-
+ NERETVANSKE ŽUPANIJE\, 5.442 €/god.\n\nProfil općine: https://koncesij
+ ski-sat.vercel.app/#opcina/41942358B30982903361189
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B30982903361189
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -221,16 +232,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-0244d069939db1b4@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-6d769b8d5e889701@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20340621
 DTEND;VALUE=DATE:20340622
 SUMMARY:Ističe koncesija: VIVA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 21. 6. 2034.\n\n• VIVA D.O.O. 
- – Koncesija za zahvaćanje voda radi prodaje na tržištu (KONAVLE)\n\nP
- rofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B3098290
- 3361189\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 
- 2026.
+ – Koncesija za zahvaćanje voda radi prodaje na tržištu (KONAVLE) · d
+ avatelj: MINISTARSTVO ZAŠTITE OKOLIŠA I ZELENE TRANZICIJE\n\nProfil opć
+ ine: https://koncesijski-sat.vercel.app/#opcina/41942358B30982903361189\nI
+ zvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B30982903361189
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -240,16 +251,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-0244d069939db1b4@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-6d769b8d5e889701@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20331221
 DTEND;VALUE=DATE:20331222
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VIVA D.O.O.)
 DESCRIPTION:21. 6. 2034. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• VIVA D.O.O. – Koncesija za zahvaćanje voda radi prodaje na tr
- žištu (KONAVLE)\n\nProfil općine: https://koncesijski-sat.vercel.app/#o
- pcina/41942358B30982903361189
+ žištu (KONAVLE) · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠA I ZELENE TRA
+ NZICIJE\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4194
+ 2358B30982903361189
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B30982903361189
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -259,16 +271,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-1c2f5dc30ff97bc6@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-38c9c896a69ad5a5@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20341020
 DTEND;VALUE=DATE:20341021
 SUMMARY:Ističe koncesija: MARIJANA BOŠKOVIĆ
 DESCRIPTION:1 ugovor o koncesiji ističe 20. 10. 2034. Godišnja fiksna nak
  nada: 8 €.\n\n• MARIJANA BOŠKOVIĆ – Koncesija pomorskog dobra u sv
- rhu izgradnje i gospodarskog korištenja (KONAVLE)\, 8 €/god.\n\nProfil 
- općine: https://koncesijski-sat.vercel.app/#opcina/41942358B3098290336118
- 9\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ rhu izgradnje i gospodarskog korištenja (KONAVLE) · davatelj: OPĆINA KO
+ NAVLE\, 8 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#
+ opcina/41942358B30982903361189\nIzvor: Registar koncesija (FINA)\, obrada 
+ Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B30982903361189
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -278,8 +291,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-1c2f5dc30ff97bc6@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-38c9c896a69ad5a5@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20340420
 DTEND;VALUE=DATE:20340421
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MARIJANA BOŠKOV
@@ -287,8 +300,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MARIJANA BOŠKOV
 DESCRIPTION:20. 10. 2034. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• MARIJANA BOŠKOVIĆ – Koncesija pomorskog dobra u svrhu izgrad
- nje i gospodarskog korištenja (KONAVLE)\, 8 €/god.\n\nProfil općine: h
- ttps://koncesijski-sat.vercel.app/#opcina/41942358B30982903361189
+ nje i gospodarskog korištenja (KONAVLE) · davatelj: OPĆINA KONAVLE\, 8 
+ €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
+ 42358B30982903361189
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B30982903361189
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -299,17 +313,18 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-ab74b86c2060edc3@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-ab8132fa674e1880@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20350228
 DTEND;VALUE=DATE:20350301
 SUMMARY:Ističe 2 koncesije · Konavle
 DESCRIPTION:2 ugovora o koncesiji ističe 28. 2. 2035. Godišnja fiksna nak
  nada: 156.880 €.\n\n• HOTEL CROATIA D.D. – Koncesija na pomorskom do
- bru (KONAVLE)\, 150.000 €/god.\n• OTOK SUPETAR D.O.O. – Koncesija na
-  pomorskom dobru (KONAVLE)\, 6.880 €/god.\n\nProfil općine: https://kon
- cesijski-sat.vercel.app/#opcina/41942358B30982903361189\nIzvor: Registar k
- oncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ bru (KONAVLE) · davatelj: DUBROVAČKO-NERETVANSKA ŽUPANIJA\, 150.000 €
+ /god.\n• OTOK SUPETAR D.O.O. – Koncesija na pomorskom dobru (KONAVLE) 
+ · davatelj: DUBROVAČKO-NERETVANSKA ŽUPANIJA\, 6.880 €/god.\n\nProfil 
+ općine: https://koncesijski-sat.vercel.app/#opcina/41942358B3098290336118
+ 9\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B30982903361189
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -319,36 +334,38 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-ab74b86c2060edc3@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-ab8132fa674e1880@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20340828
 DTEND;VALUE=DATE:20340829
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Konavle
 DESCRIPTION:28. 2. 2035. ističe 2 ugovora o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
- a.\n\n• HOTEL CROATIA D.D. – Koncesija na pomorskom dobru (KONAVLE)\, 
- 150.000 €/god.\n• OTOK SUPETAR D.O.O. – Koncesija na pomorskom dobru
-  (KONAVLE)\, 6.880 €/god.\n\nProfil općine: https://koncesijski-sat.ver
- cel.app/#opcina/41942358B30982903361189
+ a.\n\n• HOTEL CROATIA D.D. – Koncesija na pomorskom dobru (KONAVLE) ·
+  davatelj: DUBROVAČKO-NERETVANSKA ŽUPANIJA\, 150.000 €/god.\n• OTOK 
+ SUPETAR D.O.O. – Koncesija na pomorskom dobru (KONAVLE) · davatelj: DUB
+ ROVAČKO-NERETVANSKA ŽUPANIJA\, 6.880 €/god.\n\nProfil općine: https:/
+ /koncesijski-sat.vercel.app/#opcina/41942358B30982903361189
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B30982903361189
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Konavle
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-a4ca202e5b747206@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-27c4255801378423@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20430716
 DTEND;VALUE=DATE:20430717
 SUMMARY:Ističe koncesija: CAVTAT MARINA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 16. 7. 2043. Godišnja fiksna nakn
  ada: 24.238 €.\n\n• CAVTAT MARINA D.O.O. – Koncesija za luku nautič
- kog turizma (KONAVLE)\, 24.238 €/god.\n\nProfil općine: https://koncesi
- jski-sat.vercel.app/#opcina/41942358B30982903361189\nIzvor: Registar konce
- sija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ kog turizma (KONAVLE) · davatelj: DUBROVAČKO-NERETVANSKA ŽUPANIJA\, 24.
+ 238 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina
+ /41942358B30982903361189\nIzvor: Registar koncesija (FINA)\, obrada Konces
+ ijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B30982903361189
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -358,8 +375,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-a4ca202e5b747206@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-27c4255801378423@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20430116
 DTEND;VALUE=DATE:20430117
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (CAVTAT MARINA D.
@@ -367,8 +384,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (CAVTAT MARINA D.
 DESCRIPTION:16. 7. 2043. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• CAVTAT MARINA D.O.O. – Koncesija za luku nautičkog turizma (KO
- NAVLE)\, 24.238 €/god.\n\nProfil općine: https://koncesijski-sat.vercel
- .app/#opcina/41942358B30982903361189
+ NAVLE) · davatelj: DUBROVAČKO-NERETVANSKA ŽUPANIJA\, 24.238 €/god.\n\
+ nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B30982
+ 903361189
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B30982903361189
 TRANSP:TRANSPARENT
 BEGIN:VALARM

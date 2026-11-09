@@ -4,23 +4,25 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Općina Mikleuš
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Mikleuš. Iz Reg
- istra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade pod
- ataka. https://koncesijski-sat.vercel.app/#opcina/41942358B87886165170898
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Općina Mikleuš (pregle
+ d\, svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježava
+  se nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#opcin
+ a/41942358B87886165170898
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-10fb7874c04c2461@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-82542030b0f71ffc@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270628
 DTEND;VALUE=DATE:20270629
 SUMMARY:Ističe koncesija: INA\, D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 28. 6. 2027. Godišnja fiksna nakn
  ada: 1.473 €.\n\n• INA\, D.D. – Dozvola za istraživanje ugljikovodi
- ka (prema Zakonu o ugljikovodicima) (MIKLEUŠ)\, 1.473 €/god.\n\nProfil 
- općine: https://koncesijski-sat.vercel.app/#opcina/41942358B8788616517089
- 8\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ ka (prema Zakonu o ugljikovodicima) (MIKLEUŠ) · davatelj: MINISTARSTVO G
+ OSPODARSTVA\, 1.473 €/god.\n\nProfil općine: https://koncesijski-sat.ve
+ rcel.app/#opcina/41942358B87886165170898\nIzvor: Registar koncesija (FINA)
+ \, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B87886165170898
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -30,16 +32,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-10fb7874c04c2461@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-82542030b0f71ffc@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20261228
 DTEND;VALUE=DATE:20261229
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA\, D.D.)
 DESCRIPTION:28. 6. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• INA\, D.D. – Dozvola za istraživanje ugljikovodika (prema Zako
- nu o ugljikovodicima) (MIKLEUŠ)\, 1.473 €/god.\n\nProfil općine: https
- ://koncesijski-sat.vercel.app/#opcina/41942358B87886165170898
+ nu o ugljikovodicima) (MIKLEUŠ) · davatelj: MINISTARSTVO GOSPODARSTVA\, 
+ 1.473 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opci
+ na/41942358B87886165170898
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B87886165170898
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -49,16 +52,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-38942a9b28952b5a@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-ecd1fc7b4ec2f039@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20290625
 DTEND;VALUE=DATE:20290626
 SUMMARY:Ističe koncesija: ŽDREBAC D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 25. 6. 2029. Godišnja fiksna nakn
  ada: 610 €.\n\n• ŽDREBAC D.O.O. – Koncesija za obavljanje dimnjača
- rskih poslova (MIKLEUŠ)\, 610 €/god.\n\nProfil općine: https://koncesi
- jski-sat.vercel.app/#opcina/41942358B87886165170898\nIzvor: Registar konce
- sija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ rskih poslova (MIKLEUŠ) · davatelj: OPĆINA MIKLEUŠ\, 610 €/god.\n\nP
+ rofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B8788616
+ 5170898\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 
+ 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B87886165170898
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -68,16 +72,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-38942a9b28952b5a@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-ecd1fc7b4ec2f039@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20281225
 DTEND;VALUE=DATE:20281226
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ŽDREBAC D.O.O.)
 DESCRIPTION:25. 6. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• ŽDREBAC D.O.O. – Koncesija za obavljanje dimnjačarskih poslov
- a (MIKLEUŠ)\, 610 €/god.\n\nProfil općine: https://koncesijski-sat.ver
- cel.app/#opcina/41942358B87886165170898
+ a (MIKLEUŠ) · davatelj: OPĆINA MIKLEUŠ\, 610 €/god.\n\nProfil općin
+ e: https://koncesijski-sat.vercel.app/#opcina/41942358B87886165170898
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B87886165170898
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -88,16 +92,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-0d4c2607a197f24d@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-58575e050f775b61@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20300801
 DTEND;VALUE=DATE:20300802
 SUMMARY:Ističe koncesija: MULL-TRANS D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 1. 8. 2030. Godišnja fiksna nakna
  da: 1.868 €.\n\n• MULL-TRANS D.O.O. – Koncesija skupljanja i odvoza 
- komunalnog otpada (MIKLEUŠ)\, 1.868 €/god.\n\nProfil općine: https://k
- oncesijski-sat.vercel.app/#opcina/41942358B87886165170898\nIzvor: Registar
-  koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ komunalnog otpada (MIKLEUŠ) · davatelj: OPĆINA MIKLEUŠ\, 1.868 €/god
+ .\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B8
+ 7886165170898\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9
+ . 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B87886165170898
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -107,8 +112,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-0d4c2607a197f24d@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-58575e050f775b61@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20300201
 DTEND;VALUE=DATE:20300202
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MULL-TRANS D.O.O
@@ -116,8 +121,8 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MULL-TRANS D.O.O
 DESCRIPTION:1. 8. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• MULL-TRANS D.O.O. – Koncesija skupljanja i odvoza komunalnog otp
- ada (MIKLEUŠ)\, 1.868 €/god.\n\nProfil općine: https://koncesijski-sat
- .vercel.app/#opcina/41942358B87886165170898
+ ada (MIKLEUŠ) · davatelj: OPĆINA MIKLEUŠ\, 1.868 €/god.\n\nProfil op
+ ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B87886165170898
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B87886165170898
 TRANSP:TRANSPARENT
 BEGIN:VALARM

@@ -4,23 +4,24 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Općina Antunovac
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Antunovac. Iz Re
- gistra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade po
- dataka. https://koncesijski-sat.vercel.app/#opcina/41942358B64631398606645
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Općina Antunovac (pregl
+ ed\, svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježav
+ a se nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#opci
+ na/41942358B64631398606645
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-05f4ef0cc6b085da@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-2bd72a130bd2160b@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20291231
 DTEND;VALUE=DATE:20300101
 SUMMARY:Ističe koncesija: HEP - PLIN  D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 31. 12. 2029.\n\n• HEP - PLIN  D
- .O.O. – Koncesija za opskrbu potrošača prirodnim plinom (ANTUNOVAC)\n\
- nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B64631
- 398606645\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11
- . 2026.
+ .O.O. – Koncesija za opskrbu potrošača prirodnim plinom (ANTUNOVAC) ·
+  davatelj: OPĆINA ANTUNOVAC\n\nProfil općine: https://koncesijski-sat.ve
+ rcel.app/#opcina/41942358B64631398606645\nIzvor: Registar koncesija (FINA)
+ \, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B64631398606645
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -30,8 +31,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-05f4ef0cc6b085da@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-2bd72a130bd2160b@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20290630
 DTEND;VALUE=DATE:20290701
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP - PLIN  D.O.
@@ -39,8 +40,8 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP - PLIN  D.O.
 DESCRIPTION:31. 12. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• HEP - PLIN  D.O.O. – Koncesija za opskrbu potrošača prirodni
- m plinom (ANTUNOVAC)\n\nProfil općine: https://koncesijski-sat.vercel.app
- /#opcina/41942358B64631398606645
+ m plinom (ANTUNOVAC) · davatelj: OPĆINA ANTUNOVAC\n\nProfil općine: htt
+ ps://koncesijski-sat.vercel.app/#opcina/41942358B64631398606645
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B64631398606645
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -51,18 +52,19 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-a15caa5efae76ae8@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-accff6e26eddb23d@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20360710
 DTEND;VALUE=DATE:20360711
 SUMMARY:Ističe 2 koncesije · Antunovac
 DESCRIPTION:2 ugovora o koncesiji ističe 10. 7. 2036. Godišnja fiksna nak
  nada: 220.196 €.\n\n• NOVI AGRAR D.O.O. – Koncesija za korištenje p
- oljoprivrednog zemljišta u vlasništvu države (ANTUNOVAC)\, 110.098 €/
- god.\n• NOVI AGRAR D.O.O. – Koncesija za korištenje poljoprivrednog z
- emljišta u vlasništvu države (ANTUNOVAC)\, 110.098 €/god.\n\nProfil o
- pćine: https://koncesijski-sat.vercel.app/#opcina/41942358B64631398606645
- \nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ oljoprivrednog zemljišta u vlasništvu države (ANTUNOVAC) · davatelj: O
+ PĆINA ANTUNOVAC\, 110.098 €/god.\n• NOVI AGRAR D.O.O. – Koncesija z
+ a korištenje poljoprivrednog zemljišta u vlasništvu države (ANTUNOVAC)
+  · davatelj: OPĆINA ANTUNOVAC\, 110.098 €/god.\n\nProfil općine: http
+ s://koncesijski-sat.vercel.app/#opcina/41942358B64631398606645\nIzvor: Reg
+ istar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B64631398606645
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -72,38 +74,39 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-a15caa5efae76ae8@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-accff6e26eddb23d@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20360110
 DTEND;VALUE=DATE:20360111
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Antunovac
 DESCRIPTION:10. 7. 2036. ističe 2 ugovora o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• NOVI AGRAR D.O.O. – Koncesija za korištenje poljoprivrednog z
- emljišta u vlasništvu države (ANTUNOVAC)\, 110.098 €/god.\n• NOVI A
- GRAR D.O.O. – Koncesija za korištenje poljoprivrednog zemljišta u vlas
- ništvu države (ANTUNOVAC)\, 110.098 €/god.\n\nProfil općine: https://
- koncesijski-sat.vercel.app/#opcina/41942358B64631398606645
+ emljišta u vlasništvu države (ANTUNOVAC) · davatelj: OPĆINA ANTUNOVAC
+ \, 110.098 €/god.\n• NOVI AGRAR D.O.O. – Koncesija za korištenje po
+ ljoprivrednog zemljišta u vlasništvu države (ANTUNOVAC) · davatelj: OP
+ ĆINA ANTUNOVAC\, 110.098 €/god.\n\nProfil općine: https://koncesijski-
+ sat.vercel.app/#opcina/41942358B64631398606645
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B64631398606645
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Antunovac
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-5230100ad8b4da90@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-24a32979d4c71c8c@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20380901
 DTEND;VALUE=DATE:20380902
 SUMMARY:Ističe koncesija: NOVI AGRAR D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 1. 9. 2038. Godišnja fiksna nakna
  da: 40.978 €.\n\n• NOVI AGRAR D.O.O. – Koncesija za korištenje polj
- oprivrednog zemljišta u vlasništvu države (ANTUNOVAC)\, 40.978 €/god.
- \n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B64
- 631398606645\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9.
-  11. 2026.
+ oprivrednog zemljišta u vlasništvu države (ANTUNOVAC) · davatelj: OPĆ
+ INA ANTUNOVAC\, 40.978 €/god.\n\nProfil općine: https://koncesijski-sat
+ .vercel.app/#opcina/41942358B64631398606645\nIzvor: Registar koncesija (FI
+ NA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B64631398606645
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -113,8 +116,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-5230100ad8b4da90@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-24a32979d4c71c8c@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20380301
 DTEND;VALUE=DATE:20380302
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (NOVI AGRAR D.O.O
@@ -122,8 +125,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (NOVI AGRAR D.O.O
 DESCRIPTION:1. 9. 2038. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• NOVI AGRAR D.O.O. – Koncesija za korištenje poljoprivrednog zem
- ljišta u vlasništvu države (ANTUNOVAC)\, 40.978 €/god.\n\nProfil opć
- ine: https://koncesijski-sat.vercel.app/#opcina/41942358B64631398606645
+ ljišta u vlasništvu države (ANTUNOVAC) · davatelj: OPĆINA ANTUNOVAC\,
+  40.978 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#op
+ cina/41942358B64631398606645
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B64631398606645
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -134,8 +138,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-6b9bdc4176751cd4@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-81f98c19d429346b@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20391229
 DTEND;VALUE=DATE:20391230
 SUMMARY:Ističe koncesija: OBITELJSKO POLJOPRIVREDNO GOSPODARSTVO MILAS MAR
@@ -143,9 +147,10 @@ SUMMARY:Ističe koncesija: OBITELJSKO POLJOPRIVREDNO GOSPODARSTVO MILAS MAR
 DESCRIPTION:1 ugovor o koncesiji ističe 29. 12. 2039. Godišnja fiksna nak
  nada: 11 €.\n\n• OBITELJSKO POLJOPRIVREDNO GOSPODARSTVO MILAS MARKO 
  – Koncesija za zahvaćanje voda za melioracijsko navodnjavanje (ANTUNOVA
- C)\, 11 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#op
- cina/41942358B64631398606645\nIzvor: Registar koncesija (FINA)\, obrada Ko
- ncesijski sat 9. 11. 2026.
+ C) · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠA I ZELENE TRANZICIJE\, 11 
+ €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
+ 42358B64631398606645\nIzvor: Registar koncesija (FINA)\, obrada Koncesijsk
+ i sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B64631398606645
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -156,8 +161,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-6b9bdc4176751cd4@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-81f98c19d429346b@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20390629
 DTEND;VALUE=DATE:20390630
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (OBITELJSKO POLJO
@@ -165,9 +170,10 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (OBITELJSKO POLJO
 DESCRIPTION:29. 12. 2039. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• OBITELJSKO POLJOPRIVREDNO GOSPODARSTVO MILAS MARKO – Koncesija
-  za zahvaćanje voda za melioracijsko navodnjavanje (ANTUNOVAC)\, 11 €/g
- od.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358
- B64631398606645
+  za zahvaćanje voda za melioracijsko navodnjavanje (ANTUNOVAC) · davatel
+ j: MINISTARSTVO ZAŠTITE OKOLIŠA I ZELENE TRANZICIJE\, 11 €/god.\n\nPro
+ fil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B646313986
+ 06645
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B64631398606645
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -178,17 +184,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-04222cc5a01d7524@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-8cf6cfa392a114e4@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20440725
 DTEND;VALUE=DATE:20440726
 SUMMARY:Ističe koncesija: FARMA MUZNIH KRAVA ORLOVNJAK D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 25. 7. 2044. Godišnja fiksna nakn
  ada: 6.371 €.\n\n• FARMA MUZNIH KRAVA ORLOVNJAK D.O.O. – Koncesija z
- a zahvaćanje voda za tehnološke potrebe (ANTUNOVAC)\, 6.371 €/god.\n\n
- Profil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B646313
- 98606645\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11.
-  2026.
+ a zahvaćanje voda za tehnološke potrebe (ANTUNOVAC) · davatelj: MINISTA
+ RSTVO ZAŠTITE OKOLIŠA I ZELENE TRANZICIJE\, 6.371 €/god.\n\nProfil op
+ ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B64631398606645\
+ nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B64631398606645
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -198,8 +204,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-04222cc5a01d7524@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-8cf6cfa392a114e4@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20440125
 DTEND;VALUE=DATE:20440126
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (FARMA MUZNIH KRA
@@ -207,8 +213,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (FARMA MUZNIH KRA
 DESCRIPTION:25. 7. 2044. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• FARMA MUZNIH KRAVA ORLOVNJAK D.O.O. – Koncesija za zahvaćanje 
- voda za tehnološke potrebe (ANTUNOVAC)\, 6.371 €/god.\n\nProfil općine
- : https://koncesijski-sat.vercel.app/#opcina/41942358B64631398606645
+ voda za tehnološke potrebe (ANTUNOVAC) · davatelj: MINISTARSTVO ZAŠTITE
+  OKOLIŠA I ZELENE TRANZICIJE\, 6.371 €/god.\n\nProfil općine: https://
+ koncesijski-sat.vercel.app/#opcina/41942358B64631398606645
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B64631398606645
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -219,17 +226,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-adeb206d7726f430@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-f9ea18b7c28c05a2@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20480901
 DTEND;VALUE=DATE:20480902
 SUMMARY:Ističe koncesija: NOVI AGRAR D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 1. 9. 2048. Godišnja fiksna nakna
  da: 6.020 €.\n\n• NOVI AGRAR D.O.O. – Koncesija za korištenje poljo
- privrednog zemljišta u vlasništvu države (ANTUNOVAC)\, 6.020 €/god.\n
- \nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B6463
- 1398606645\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 1
- 1. 2026.
+ privrednog zemljišta u vlasništvu države (ANTUNOVAC) · davatelj: OPĆI
+ NA ANTUNOVAC\, 6.020 €/god.\n\nProfil općine: https://koncesijski-sat.v
+ ercel.app/#opcina/41942358B64631398606645\nIzvor: Registar koncesija (FINA
+ )\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B64631398606645
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -239,8 +246,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-adeb206d7726f430@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-f9ea18b7c28c05a2@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20480301
 DTEND;VALUE=DATE:20480302
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (NOVI AGRAR D.O.O
@@ -248,8 +255,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (NOVI AGRAR D.O.O
 DESCRIPTION:1. 9. 2048. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• NOVI AGRAR D.O.O. – Koncesija za korištenje poljoprivrednog zem
- ljišta u vlasništvu države (ANTUNOVAC)\, 6.020 €/god.\n\nProfil opći
- ne: https://koncesijski-sat.vercel.app/#opcina/41942358B64631398606645
+ ljišta u vlasništvu države (ANTUNOVAC) · davatelj: OPĆINA ANTUNOVAC\,
+  6.020 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opc
+ ina/41942358B64631398606645
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B64631398606645
 TRANSP:TRANSPARENT
 BEGIN:VALARM

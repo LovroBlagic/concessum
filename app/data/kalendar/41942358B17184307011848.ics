@@ -4,25 +4,26 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Općina Domašinec
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Domašinec. Iz R
- egistra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade p
- odataka. https://koncesijski-sat.vercel.app/#opcina/41942358B1718430701184
- 8
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Općina Domašinec (preg
+ led\, svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježa
+ va se nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#opc
+ ina/41942358B17184307011848
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-af85af0ea66d15b9@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-956c608054d7e661@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20281031
 DTEND;VALUE=DATE:20281101
 SUMMARY:Ističe koncesija: STUDIO M D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 31. 10. 2028. Godišnja fiksna nak
  nada: 66 €.\n\n• STUDIO M D.O.O. – Koncesija za obavljanje djelatnos
  ti radija (DOMAŠINEC\, DONJA DUBRAVA\, DONJI KRALJEVEC\, DONJI VIDOVEC\, 
- GORIČAN\, PRELOG\, SVETA MARIJA\, VELIKI BUKOVEC)\, 66 €/god.\n\nProfil
-  općine: https://koncesijski-sat.vercel.app/#opcina/41942358B171843070118
- 48\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ GORIČAN\, PRELOG\, SVETA MARIJA\, VELIKI BUKOVEC) · davatelj: AGENCIJA Z
+ A ELEKTRONIČKE MEDIJE\, 66 €/god.\n\nProfil općine: https://koncesijsk
+ i-sat.vercel.app/#opcina/41942358B17184307011848\nIzvor: Registar koncesij
+ a (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B17184307011848
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -32,8 +33,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-af85af0ea66d15b9@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-956c608054d7e661@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20280430
 DTEND;VALUE=DATE:20280501
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (STUDIO M D.O.O.)
@@ -41,8 +42,9 @@ DESCRIPTION:31. 10. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• STUDIO M D.O.O. – Koncesija za obavljanje djelatnosti radija (
  DOMAŠINEC\, DONJA DUBRAVA\, DONJI KRALJEVEC\, DONJI VIDOVEC\, GORIČAN\, 
- PRELOG\, SVETA MARIJA\, VELIKI BUKOVEC)\, 66 €/god.\n\nProfil općine: h
- ttps://koncesijski-sat.vercel.app/#opcina/41942358B17184307011848
+ PRELOG\, SVETA MARIJA\, VELIKI BUKOVEC) · davatelj: AGENCIJA ZA ELEKTRONI
+ ČKE MEDIJE\, 66 €/god.\n\nProfil općine: https://koncesijski-sat.verce
+ l.app/#opcina/41942358B17184307011848
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B17184307011848
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -53,20 +55,21 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-f5e3d72b93d76233@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-c5d6d83c0e00565d@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20451231
 DTEND;VALUE=DATE:20460101
 SUMMARY:Ističe 3 koncesije · Domašinec
 DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2045. Godišnja fiksna na
  knada: 9.180 €.\n\n• MEĐIMURJE TEGRA D.D. – Koncesija za eksploatac
- iju građevnog pijeska i šljunka (DOMAŠINEC)\, 4.590 €/god.\n• MEĐI
- MURJE TEGRA D.D. – Koncesija za površinu utvrđenog eksploatacijskog po
- lja neenergetskih mineralnih sirovina (DOMAŠINEC)\, 4.590 €/god.\n• M
- EĐIMURJE TEGRA D.D. – Koncesija za eksploataciju građevnog pijeska i 
- šljunka (DOMAŠINEC)\n\nProfil općine: https://koncesijski-sat.vercel.ap
- p/#opcina/41942358B17184307011848\nIzvor: Registar koncesija (FINA)\, obra
- da Koncesijski sat 9. 11. 2026.
+ iju građevnog pijeska i šljunka (DOMAŠINEC) · davatelj: MINISTARSTVO G
+ OSPODARSTVA\, 4.590 €/god.\n• MEĐIMURJE TEGRA D.D. – Koncesija za p
+ ovršinu utvrđenog eksploatacijskog polja neenergetskih mineralnih sirovi
+ na (DOMAŠINEC) · davatelj: MINISTARSTVO GOSPODARSTVA\, 4.590 €/god.\n
+ • MEĐIMURJE TEGRA D.D. – Koncesija za eksploataciju građevnog pijesk
+ a i šljunka (DOMAŠINEC) · davatelj: MINISTARSTVO GOSPODARSTVA\n\nProfil
+  općine: https://koncesijski-sat.vercel.app/#opcina/41942358B171843070118
+ 48\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B17184307011848
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -76,43 +79,45 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-f5e3d72b93d76233@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-c5d6d83c0e00565d@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20450630
 DTEND;VALUE=DATE:20450701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Domašinec
 DESCRIPTION:31. 12. 2045. ističe 3 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• MEĐIMURJE TEGRA D.D. – Koncesija za eksploataciju građevnog
-  pijeska i šljunka (DOMAŠINEC)\, 4.590 €/god.\n• MEĐIMURJE TEGRA D.
- D. – Koncesija za površinu utvrđenog eksploatacijskog polja neenergets
- kih mineralnih sirovina (DOMAŠINEC)\, 4.590 €/god.\n• MEĐIMURJE TEGR
- A D.D. – Koncesija za eksploataciju građevnog pijeska i šljunka (DOMA
- ŠINEC)\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4194
- 2358B17184307011848
+  pijeska i šljunka (DOMAŠINEC) · davatelj: MINISTARSTVO GOSPODARSTVA\, 
+ 4.590 €/god.\n• MEĐIMURJE TEGRA D.D. – Koncesija za površinu utvr
+ đenog eksploatacijskog polja neenergetskih mineralnih sirovina (DOMAŠINE
+ C) · davatelj: MINISTARSTVO GOSPODARSTVA\, 4.590 €/god.\n• MEĐIMURJE
+  TEGRA D.D. – Koncesija za eksploataciju građevnog pijeska i šljunka (
+ DOMAŠINEC) · davatelj: MINISTARSTVO GOSPODARSTVA\n\nProfil općine: http
+ s://koncesijski-sat.vercel.app/#opcina/41942358B17184307011848
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B17184307011848
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Domašinec
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-f4a19cffc6c554e6@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-98340c498b109212@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20471231
 DTEND;VALUE=DATE:20480101
 SUMMARY:Ističe 3 koncesije · Domašinec
 DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2047. Godišnja fiksna na
  knada: 5.112 €.\n\n• QUADRO D.O.O. – Koncesija za eksploataciju gra
- đevnog pijeska i šljunka (DOMAŠINEC)\, 2.556 €/god.\n• QUADRO D.O.O
- . – Koncesija za površinu utvrđenog eksploatacijskog polja neenergetsk
- ih mineralnih sirovina (DOMAŠINEC)\, 2.556 €/god.\n• QUADRO D.O.O. 
- – Koncesija za eksploataciju građevnog pijeska i šljunka (DOMAŠINEC)\
- n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B171
- 84307011848\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 
- 11. 2026.
+ đevnog pijeska i šljunka (DOMAŠINEC) · davatelj: MINISTARSTVO GOSPODAR
+ STVA\, 2.556 €/god.\n• QUADRO D.O.O. – Koncesija za površinu utvrđ
+ enog eksploatacijskog polja neenergetskih mineralnih sirovina (DOMAŠINEC)
+  · davatelj: MINISTARSTVO GOSPODARSTVA\, 2.556 €/god.\n• QUADRO D.O.O
+ . – Koncesija za eksploataciju građevnog pijeska i šljunka (DOMAŠINEC
+ ) · davatelj: MINISTARSTVO GOSPODARSTVA\n\nProfil općine: https://konces
+ ijski-sat.vercel.app/#opcina/41942358B17184307011848\nIzvor: Registar konc
+ esija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B17184307011848
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -122,42 +127,46 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-f4a19cffc6c554e6@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-98340c498b109212@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20470630
 DTEND;VALUE=DATE:20470701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Domašinec
 DESCRIPTION:31. 12. 2047. ističe 3 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• QUADRO D.O.O. – Koncesija za eksploataciju građevnog pijeska
-  i šljunka (DOMAŠINEC)\, 2.556 €/god.\n• QUADRO D.O.O. – Koncesija
-  za površinu utvrđenog eksploatacijskog polja neenergetskih mineralnih s
- irovina (DOMAŠINEC)\, 2.556 €/god.\n• QUADRO D.O.O. – Koncesija za 
- eksploataciju građevnog pijeska i šljunka (DOMAŠINEC)\n\nProfil općine
- : https://koncesijski-sat.vercel.app/#opcina/41942358B17184307011848
+  i šljunka (DOMAŠINEC) · davatelj: MINISTARSTVO GOSPODARSTVA\, 2.556 
+ €/god.\n• QUADRO D.O.O. – Koncesija za površinu utvrđenog eksploat
+ acijskog polja neenergetskih mineralnih sirovina (DOMAŠINEC) · davatelj:
+  MINISTARSTVO GOSPODARSTVA\, 2.556 €/god.\n• QUADRO D.O.O. – Koncesi
+ ja za eksploataciju građevnog pijeska i šljunka (DOMAŠINEC) · davatelj
+ : MINISTARSTVO GOSPODARSTVA\n\nProfil općine: https://koncesijski-sat.ver
+ cel.app/#opcina/41942358B17184307011848
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B17184307011848
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Domašinec
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-88f1e0cf9d9318b9@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-bc9be8d42af46404@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20501231
 DTEND;VALUE=DATE:20510101
 SUMMARY:Ističe 3 koncesije · Domašinec
 DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2050. Godišnja fiksna na
  knada: 5.112 €.\n\n• DAVID & COMPANY D.O.O. – Koncesija za eksploata
- ciju građevnog pijeska i šljunka (DOMAŠINEC)\, 2.556 €/god.\n• DAVI
- D & COMPANY D.O.O. – Koncesija za površinu utvrđenog eksploatacijskog 
- polja neenergetskih mineralnih sirovina (DOMAŠINEC)\, 2.556 €/god.\n•
-  DAVID & COMPANY\, D.O.O. – Koncesija za eksploataciju građevnog pijesk
- a i šljunka (DOMAŠINEC)\n\nProfil općine: https://koncesijski-sat.verce
- l.app/#opcina/41942358B17184307011848\nIzvor: Registar koncesija (FINA)\, 
- obrada Koncesijski sat 9. 11. 2026.
+ ciju građevnog pijeska i šljunka (DOMAŠINEC) · davatelj: MINISTARSTVO 
+ GOSPODARSTVA\, 2.556 €/god.\n• DAVID & COMPANY D.O.O. – Koncesija za
+  površinu utvrđenog eksploatacijskog polja neenergetskih mineralnih siro
+ vina (DOMAŠINEC) · davatelj: MINISTARSTVO GOSPODARSTVA\, 2.556 €/god.\
+ n• DAVID & COMPANY\, D.O.O. – Koncesija za eksploataciju građevnog pi
+ jeska i šljunka (DOMAŠINEC) · davatelj: MINISTARSTVO GOSPODARSTVA\n\nPr
+ ofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B17184307
+ 011848\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2
+ 026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B17184307011848
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -167,25 +176,26 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-88f1e0cf9d9318b9@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-bc9be8d42af46404@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20500630
 DTEND;VALUE=DATE:20500701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Domašinec
 DESCRIPTION:31. 12. 2050. ističe 3 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• DAVID & COMPANY D.O.O. – Koncesija za eksploataciju građevno
- g pijeska i šljunka (DOMAŠINEC)\, 2.556 €/god.\n• DAVID & COMPANY D.
- O.O. – Koncesija za površinu utvrđenog eksploatacijskog polja neenerge
- tskih mineralnih sirovina (DOMAŠINEC)\, 2.556 €/god.\n• DAVID & COMPA
- NY\, D.O.O. – Koncesija za eksploataciju građevnog pijeska i šljunka (
- DOMAŠINEC)\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/
- 41942358B17184307011848
+ g pijeska i šljunka (DOMAŠINEC) · davatelj: MINISTARSTVO GOSPODARSTVA\,
+  2.556 €/god.\n• DAVID & COMPANY D.O.O. – Koncesija za površinu utv
+ rđenog eksploatacijskog polja neenergetskih mineralnih sirovina (DOMAŠIN
+ EC) · davatelj: MINISTARSTVO GOSPODARSTVA\, 2.556 €/god.\n• DAVID & C
+ OMPANY\, D.O.O. – Koncesija za eksploataciju građevnog pijeska i šljun
+ ka (DOMAŠINEC) · davatelj: MINISTARSTVO GOSPODARSTVA\n\nProfil općine: 
+ https://koncesijski-sat.vercel.app/#opcina/41942358B17184307011848
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B17184307011848
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Domašinec
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT

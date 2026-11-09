@@ -4,27 +4,29 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Općina Suhopolje
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Suhopolje. Iz Re
- gistra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade po
- dataka. https://koncesijski-sat.vercel.app/#opcina/41942358B41528643481489
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Općina Suhopolje (pregl
+ ed\, svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježav
+ a se nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#opci
+ na/41942358B41528643481489
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-1391b6c4cb1ec6b8@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-1ae9c9163f2fdf1a@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
 SUMMARY:Ističe 3 koncesije · Suhopolje
 DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2026. Godišnja fiksna na
  knada: 1.118 €.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauze
- tu površinu odobrenog eksploatacijskog polja (SUHOPOLJE)\, 1.118 €/god.
- \n• INA D.D. – Dozvola za eksploataciju ugljikovodika (prema Zakonu o 
- ugljikovodicima) (SUHOPOLJE)\n• INA-INDUSTRIJA NAFTE  D.D. – Dozvola z
- a eksploataciju ugljikovodika (prema Zakonu o ugljikovodicima) (SUHOPOLJE)
- \n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B41
- 528643481489\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9.
-  11. 2026.
+ tu površinu odobrenog eksploatacijskog polja (SUHOPOLJE) · davatelj: MIN
+ ISTARSTVO GOSPODARSTVA\, 1.118 €/god.\n• INA D.D. – Dozvola za ekspl
+ oataciju ugljikovodika (prema Zakonu o ugljikovodicima) (SUHOPOLJE) · dav
+ atelj: MINISTARSTVO GOSPODARSTVA\n• INA-INDUSTRIJA NAFTE  D.D. – Dozvo
+ la za eksploataciju ugljikovodika (prema Zakonu o ugljikovodicima) (SUHOPO
+ LJE) · davatelj: MINISTARSTVO GOSPODARSTVA\n\nProfil općine: https://kon
+ cesijski-sat.vercel.app/#opcina/41942358B41528643481489\nIzvor: Registar k
+ oncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B41528643481489
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -34,16 +36,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-76ef6adcb770b05c@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-0673147d8b3cc864@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270628
 DTEND;VALUE=DATE:20270629
 SUMMARY:Ističe koncesija: INA\, D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 28. 6. 2027. Godišnja fiksna nakn
  ada: 8.257 €.\n\n• INA\, D.D. – Dozvola za istraživanje ugljikovodi
- ka (prema Zakonu o ugljikovodicima) (SUHOPOLJE)\, 8.257 €/god.\n\nProfil
-  općine: https://koncesijski-sat.vercel.app/#opcina/41942358B415286434814
- 89\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ ka (prema Zakonu o ugljikovodicima) (SUHOPOLJE) · davatelj: MINISTARSTVO 
+ GOSPODARSTVA\, 8.257 €/god.\n\nProfil općine: https://koncesijski-sat.v
+ ercel.app/#opcina/41942358B41528643481489\nIzvor: Registar koncesija (FINA
+ )\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B41528643481489
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -53,16 +56,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-76ef6adcb770b05c@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-0673147d8b3cc864@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20261228
 DTEND;VALUE=DATE:20261229
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA\, D.D.)
 DESCRIPTION:28. 6. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• INA\, D.D. – Dozvola za istraživanje ugljikovodika (prema Zako
- nu o ugljikovodicima) (SUHOPOLJE)\, 8.257 €/god.\n\nProfil općine: http
- s://koncesijski-sat.vercel.app/#opcina/41942358B41528643481489
+ nu o ugljikovodicima) (SUHOPOLJE) · davatelj: MINISTARSTVO GOSPODARSTVA\,
+  8.257 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opc
+ ina/41942358B41528643481489
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B41528643481489
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -72,16 +76,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-e1607fdaf33f4def@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-47f0bb7a24796cee@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20300227
 DTEND;VALUE=DATE:20300228
 SUMMARY:Ističe koncesija: ŽDREBAC D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 27. 2. 2030. Godišnja fiksna nakn
  ada: 1.500 €.\n\n• ŽDREBAC D.O.O. – Koncesija za obavljanje dimnja
- čarskih poslova (SUHOPOLJE)\, 1.500 €/god.\n\nProfil općine: https://k
- oncesijski-sat.vercel.app/#opcina/41942358B41528643481489\nIzvor: Registar
-  koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ čarskih poslova (SUHOPOLJE) · davatelj: OPĆINA SUHOPOLJE\, 1.500 €/go
+ d.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B
+ 41528643481489\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 
+ 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B41528643481489
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -91,16 +96,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-e1607fdaf33f4def@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-47f0bb7a24796cee@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20290827
 DTEND;VALUE=DATE:20290828
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ŽDREBAC D.O.O.)
 DESCRIPTION:27. 2. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• ŽDREBAC D.O.O. – Koncesija za obavljanje dimnjačarskih poslov
- a (SUHOPOLJE)\, 1.500 €/god.\n\nProfil općine: https://koncesijski-sat.
- vercel.app/#opcina/41942358B41528643481489
+ a (SUHOPOLJE) · davatelj: OPĆINA SUHOPOLJE\, 1.500 €/god.\n\nProfil op
+ ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B41528643481489
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B41528643481489
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -111,17 +116,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-6fc749f356ba12a6@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-8858ab71f04a0fe9@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20380611
 DTEND;VALUE=DATE:20380612
 SUMMARY:Ističe koncesija: DIBA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 11. 6. 2038. Godišnja fiksna nakn
  ada: 119.664 €.\n\n• DIBA D.O.O. – Koncesija za korištenje poljopri
- vrednog zemljišta u vlasništvu države (SUHOPOLJE)\, 119.664 €/god.\n\
- nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B41528
- 643481489\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11
- . 2026.
+ vrednog zemljišta u vlasništvu države (SUHOPOLJE) · davatelj: OPĆINA 
+ SUHOPOLJE\, 119.664 €/god.\n\nProfil općine: https://koncesijski-sat.ve
+ rcel.app/#opcina/41942358B41528643481489\nIzvor: Registar koncesija (FINA)
+ \, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B41528643481489
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -131,16 +136,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-6fc749f356ba12a6@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-8858ab71f04a0fe9@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20371211
 DTEND;VALUE=DATE:20371212
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DIBA D.O.O.)
 DESCRIPTION:11. 6. 2038. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• DIBA D.O.O. – Koncesija za korištenje poljoprivrednog zemljiš
- ta u vlasništvu države (SUHOPOLJE)\, 119.664 €/god.\n\nProfil općine:
-  https://koncesijski-sat.vercel.app/#opcina/41942358B41528643481489
+ ta u vlasništvu države (SUHOPOLJE) · davatelj: OPĆINA SUHOPOLJE\, 119.
+ 664 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina
+ /41942358B41528643481489
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B41528643481489
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -150,20 +156,21 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-beaff475b4f57574@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-90ee4ab33c056379@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20421231
 DTEND;VALUE=DATE:20430101
 SUMMARY:Ističe 3 koncesije · Suhopolje
 DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2042. Godišnja fiksna na
  knada: 6.702 €.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauze
- tu površinu odobrenog eksploatacijskog polja (SUHOPOLJE)\, 6.702 €/god.
- \n• INA-INDUSTRIJA NAFTE  D.D. – Dozvola za eksploataciju ugljikovodik
- a (prema Zakonu o ugljikovodicima) (SUHOPOLJE)\n• INA D.D. – Dozvola z
- a eksploataciju ugljikovodika (prema Zakonu o ugljikovodicima) (SUHOPOLJE)
- \n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B41
- 528643481489\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9.
-  11. 2026.
+ tu površinu odobrenog eksploatacijskog polja (SUHOPOLJE) · davatelj: MIN
+ ISTARSTVO GOSPODARSTVA\, 6.702 €/god.\n• INA-INDUSTRIJA NAFTE  D.D. 
+ – Dozvola za eksploataciju ugljikovodika (prema Zakonu o ugljikovodicima
+ ) (SUHOPOLJE) · davatelj: MINISTARSTVO GOSPODARSTVA\n• INA D.D. – Doz
+ vola za eksploataciju ugljikovodika (prema Zakonu o ugljikovodicima) (SUHO
+ POLJE) · davatelj: MINISTARSTVO GOSPODARSTVA\n\nProfil općine: https://k
+ oncesijski-sat.vercel.app/#opcina/41942358B41528643481489\nIzvor: Registar
+  koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B41528643481489
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -173,24 +180,26 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-beaff475b4f57574@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-90ee4ab33c056379@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20420630
 DTEND;VALUE=DATE:20420701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Suhopolje
 DESCRIPTION:31. 12. 2042. ističe 3 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauzetu površinu o
- dobrenog eksploatacijskog polja (SUHOPOLJE)\, 6.702 €/god.\n• INA-INDU
- STRIJA NAFTE  D.D. – Dozvola za eksploataciju ugljikovodika (prema Zakon
- u o ugljikovodicima) (SUHOPOLJE)\n• INA D.D. – Dozvola za eksploatacij
- u ugljikovodika (prema Zakonu o ugljikovodicima) (SUHOPOLJE)\n\nProfil op
- ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B41528643481489
+ dobrenog eksploatacijskog polja (SUHOPOLJE) · davatelj: MINISTARSTVO GOSP
+ ODARSTVA\, 6.702 €/god.\n• INA-INDUSTRIJA NAFTE  D.D. – Dozvola za e
+ ksploataciju ugljikovodika (prema Zakonu o ugljikovodicima) (SUHOPOLJE) ·
+  davatelj: MINISTARSTVO GOSPODARSTVA\n• INA D.D. – Dozvola za eksploat
+ aciju ugljikovodika (prema Zakonu o ugljikovodicima) (SUHOPOLJE) · davate
+ lj: MINISTARSTVO GOSPODARSTVA\n\nProfil općine: https://koncesijski-sat.v
+ ercel.app/#opcina/41942358B41528643481489
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B41528643481489
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Suhopolje
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT

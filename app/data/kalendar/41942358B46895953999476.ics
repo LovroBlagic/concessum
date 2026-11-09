@@ -4,24 +4,26 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Općina Zdenci
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Zdenci. Iz Regis
- tra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podat
- aka. https://koncesijski-sat.vercel.app/#opcina/41942358B46895953999476
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Općina Zdenci (pregled\
+ , svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježava s
+ e nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#opcina/
+ 41942358B46895953999476
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-4efa3bb5ce2a9c00@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-aaf8e83e945831d4@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
 SUMMARY:Ističe 2 koncesije · Zdenci
 DESCRIPTION:2 ugovora o koncesiji ističe 31. 12. 2026.\n\n• INA-INDUSTRI
  JA NAFTE  D.D. – Dozvola za eksploataciju ugljikovodika (prema Zakonu o 
- ugljikovodicima) (ZDENCI)\n• INA D.D. – Dozvola za eksploataciju uglji
- kovodika (prema Zakonu o ugljikovodicima) (ZDENCI)\n\nProfil općine: http
- s://koncesijski-sat.vercel.app/#opcina/41942358B46895953999476\nIzvor: Reg
- istar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ ugljikovodicima) (ZDENCI) · davatelj: MINISTARSTVO GOSPODARSTVA\n• INA 
+ D.D. – Dozvola za eksploataciju ugljikovodika (prema Zakonu o ugljikovod
+ icima) (ZDENCI) · davatelj: MINISTARSTVO GOSPODARSTVA\n\nProfil općine: 
+ https://koncesijski-sat.vercel.app/#opcina/41942358B46895953999476\nIzvor:
+  Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B46895953999476
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -31,16 +33,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-a789f66016902977@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-7974b930259eca11@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270628
 DTEND;VALUE=DATE:20270629
 SUMMARY:Ističe koncesija: INA\, D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 28. 6. 2027. Godišnja fiksna nakn
  ada: 2.573 €.\n\n• INA\, D.D. – Dozvola za istraživanje ugljikovodi
- ka (prema Zakonu o ugljikovodicima) (ZDENCI)\, 2.573 €/god.\n\nProfil op
- ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B46895953999476\
- nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ ka (prema Zakonu o ugljikovodicima) (ZDENCI) · davatelj: MINISTARSTVO GOS
+ PODARSTVA\, 2.573 €/god.\n\nProfil općine: https://koncesijski-sat.verc
+ el.app/#opcina/41942358B46895953999476\nIzvor: Registar koncesija (FINA)\,
+  obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B46895953999476
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -50,16 +53,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-a789f66016902977@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-7974b930259eca11@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20261228
 DTEND;VALUE=DATE:20261229
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA\, D.D.)
 DESCRIPTION:28. 6. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• INA\, D.D. – Dozvola za istraživanje ugljikovodika (prema Zako
- nu o ugljikovodicima) (ZDENCI)\, 2.573 €/god.\n\nProfil općine: https:/
- /koncesijski-sat.vercel.app/#opcina/41942358B46895953999476
+ nu o ugljikovodicima) (ZDENCI) · davatelj: MINISTARSTVO GOSPODARSTVA\, 2.
+ 573 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina
+ /41942358B46895953999476
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B46895953999476
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -69,17 +73,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-0e10e1a78b1c86da@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-1b6d05040d5723d3@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20301231
 DTEND;VALUE=DATE:20310101
 SUMMARY:Ističe koncesija: INA-INDUSTRIJA NAFTE  D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 31. 12. 2030. Godišnja fiksna nak
  nada: 11.387 €.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauze
- tu površinu odobrenog eksploatacijskog polja (ZDENCI)\, 11.387 €/god.\n
- \nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B4689
- 5953999476\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 1
- 1. 2026.
+ tu površinu odobrenog eksploatacijskog polja (ZDENCI) · davatelj: MINIST
+ ARSTVO GOSPODARSTVA\, 11.387 €/god.\n\nProfil općine: https://koncesijs
+ ki-sat.vercel.app/#opcina/41942358B46895953999476\nIzvor: Registar koncesi
+ ja (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B46895953999476
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -89,8 +93,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-0e10e1a78b1c86da@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-1b6d05040d5723d3@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20300630
 DTEND;VALUE=DATE:20300701
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA-INDUSTRIJA N
@@ -98,8 +102,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA-INDUSTRIJA N
 DESCRIPTION:31. 12. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauzetu površinu od
- obrenog eksploatacijskog polja (ZDENCI)\, 11.387 €/god.\n\nProfil općin
- e: https://koncesijski-sat.vercel.app/#opcina/41942358B46895953999476
+ obrenog eksploatacijskog polja (ZDENCI) · davatelj: MINISTARSTVO GOSPODAR
+ STVA\, 11.387 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.a
+ pp/#opcina/41942358B46895953999476
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B46895953999476
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -110,16 +115,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-6a6afc6387a530ff@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-ec7a18175542547d@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20340701
 DTEND;VALUE=DATE:20340702
 SUMMARY:Ističe koncesija: ZDENAČKA FARMA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 1. 7. 2034. Godišnja fiksna nakna
  da: 1.858 €.\n\n• ZDENAČKA FARMA D.O.O. – Koncesija za zahvaćanje 
- voda za tehnološke potrebe (ZDENCI)\, 1.858 €/god.\n\nProfil općine: h
- ttps://koncesijski-sat.vercel.app/#opcina/41942358B46895953999476\nIzvor: 
- Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ voda za tehnološke potrebe (ZDENCI) · davatelj: MINISTARSTVO ZAŠTITE OK
+ OLIŠA I ZELENE TRANZICIJE\, 1.858 €/god.\n\nProfil općine: https://kon
+ cesijski-sat.vercel.app/#opcina/41942358B46895953999476\nIzvor: Registar k
+ oncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B46895953999476
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -129,8 +135,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-6a6afc6387a530ff@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-ec7a18175542547d@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20340101
 DTEND;VALUE=DATE:20340102
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ZDENAČKA FARMA 
@@ -138,8 +144,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ZDENAČKA FARMA
 DESCRIPTION:1. 7. 2034. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• ZDENAČKA FARMA D.O.O. – Koncesija za zahvaćanje voda za tehnol
- oške potrebe (ZDENCI)\, 1.858 €/god.\n\nProfil općine: https://koncesi
- jski-sat.vercel.app/#opcina/41942358B46895953999476
+ oške potrebe (ZDENCI) · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠA I ZELEN
+ E TRANZICIJE\, 1.858 €/god.\n\nProfil općine: https://koncesijski-sat.v
+ ercel.app/#opcina/41942358B46895953999476
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B46895953999476
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -150,17 +157,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-2cea880e8c21c12f@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-7402177cba899b0b@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20350706
 DTEND;VALUE=DATE:20350707
 SUMMARY:Ističe koncesija: POLJOPRIVREDNO PODUZEĆE ORAHOVICA D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 6. 7. 2035. Godišnja fiksna nakna
  da: 2.668 €.\n\n• POLJOPRIVREDNO PODUZEĆE ORAHOVICA D.D. – Koncesij
- a za zahvaćanje voda za tehnološke potrebe (ZDENCI)\, 2.668 €/god.\n\n
- Profil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B468959
- 53999476\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11.
-  2026.
+ a za zahvaćanje voda za tehnološke potrebe (ZDENCI) · davatelj: MINISTA
+ RSTVO ZAŠTITE OKOLIŠA I ZELENE TRANZICIJE\, 2.668 €/god.\n\nProfil op
+ ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B46895953999476\
+ nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B46895953999476
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -170,8 +177,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-2cea880e8c21c12f@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-7402177cba899b0b@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20350106
 DTEND;VALUE=DATE:20350107
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (POLJOPRIVREDNO P
@@ -179,8 +186,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (POLJOPRIVREDNO P
 DESCRIPTION:6. 7. 2035. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• POLJOPRIVREDNO PODUZEĆE ORAHOVICA D.D. – Koncesija za zahvaćan
- je voda za tehnološke potrebe (ZDENCI)\, 2.668 €/god.\n\nProfil općine
- : https://koncesijski-sat.vercel.app/#opcina/41942358B46895953999476
+ je voda za tehnološke potrebe (ZDENCI) · davatelj: MINISTARSTVO ZAŠTITE
+  OKOLIŠA I ZELENE TRANZICIJE\, 2.668 €/god.\n\nProfil općine: https://
+ koncesijski-sat.vercel.app/#opcina/41942358B46895953999476
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B46895953999476
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -191,17 +199,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-7ba7ff223ac45ae4@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-79e6bd4f4ce5a6b9@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20381015
 DTEND;VALUE=DATE:20381016
 SUMMARY:Ističe koncesija: POLJOPRIVREDNO PODUZEĆE ORAHOVICA D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 15. 10. 2038. Godišnja fiksna nak
  nada: 44.515 €.\n\n• POLJOPRIVREDNO PODUZEĆE ORAHOVICA D.D. – Konce
  sija za korištenje poljoprivrednog zemljišta u vlasništvu države (ZDEN
- CI)\, 44.515 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.ap
- p/#opcina/41942358B46895953999476\nIzvor: Registar koncesija (FINA)\, obra
- da Koncesijski sat 9. 11. 2026.
+ CI) · davatelj: OPĆINA ZDENCI\, 44.515 €/god.\n\nProfil općine: https
+ ://koncesijski-sat.vercel.app/#opcina/41942358B46895953999476\nIzvor: Regi
+ star koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B46895953999476
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -211,8 +219,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-7ba7ff223ac45ae4@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-79e6bd4f4ce5a6b9@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20380415
 DTEND;VALUE=DATE:20380416
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (POLJOPRIVREDNO P
@@ -220,9 +228,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (POLJOPRIVREDNO P
 DESCRIPTION:15. 10. 2038. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• POLJOPRIVREDNO PODUZEĆE ORAHOVICA D.D. – Koncesija za korišt
- enje poljoprivrednog zemljišta u vlasništvu države (ZDENCI)\, 44.515 
- €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
- 42358B46895953999476
+ enje poljoprivrednog zemljišta u vlasništvu države (ZDENCI) · davatelj
+ : OPĆINA ZDENCI\, 44.515 €/god.\n\nProfil općine: https://koncesijski-
+ sat.vercel.app/#opcina/41942358B46895953999476
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B46895953999476
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -233,16 +241,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-54cd4fa6c53b3964@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-08f3b909954689d7@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20381231
 DTEND;VALUE=DATE:20390101
 SUMMARY:Ističe koncesija: INA-INDUSTRIJA NAFTE  D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 31. 12. 2038.\n\n• INA-INDUSTRIJ
  A NAFTE  D.D. – Dozvola za eksploataciju ugljikovodika (prema Zakonu o u
- gljikovodicima) (ZDENCI)\n\nProfil općine: https://koncesijski-sat.vercel
- .app/#opcina/41942358B46895953999476\nIzvor: Registar koncesija (FINA)\, o
- brada Koncesijski sat 9. 11. 2026.
+ gljikovodicima) (ZDENCI) · davatelj: MINISTARSTVO GOSPODARSTVA\n\nProfil 
+ općine: https://koncesijski-sat.vercel.app/#opcina/41942358B4689595399947
+ 6\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B46895953999476
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -252,8 +260,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-54cd4fa6c53b3964@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-08f3b909954689d7@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20380630
 DTEND;VALUE=DATE:20380701
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA-INDUSTRIJA N
@@ -261,8 +269,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA-INDUSTRIJA N
 DESCRIPTION:31. 12. 2038. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Dozvola za eksploataciju ugljikov
- odika (prema Zakonu o ugljikovodicima) (ZDENCI)\n\nProfil općine: https:/
- /koncesijski-sat.vercel.app/#opcina/41942358B46895953999476
+ odika (prema Zakonu o ugljikovodicima) (ZDENCI) · davatelj: MINISTARSTVO 
+ GOSPODARSTVA\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina
+ /41942358B46895953999476
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B46895953999476
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -273,17 +282,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-4f64805a0a8c4924@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-a8e07950351f777a@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20390204
 DTEND;VALUE=DATE:20390205
 SUMMARY:Ističe koncesija: POLJOPRIVREDNO PODUZEĆE ORAHOVICA  D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 4. 2. 2039. Godišnja fiksna nakna
  da: 25.243 €.\n\n• POLJOPRIVREDNO PODUZEĆE ORAHOVICA  D.D. – Konces
  ija za korištenje poljoprivrednog zemljišta u vlasništvu države (ZDENC
- I)\, 25.243 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app
- /#opcina/41942358B46895953999476\nIzvor: Registar koncesija (FINA)\, obrad
- a Koncesijski sat 9. 11. 2026.
+ I) · davatelj: OPĆINA ZDENCI\, 25.243 €/god.\n\nProfil općine: https:
+ //koncesijski-sat.vercel.app/#opcina/41942358B46895953999476\nIzvor: Regis
+ tar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B46895953999476
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -293,8 +302,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-4f64805a0a8c4924@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-a8e07950351f777a@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20380804
 DTEND;VALUE=DATE:20380805
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (POLJOPRIVREDNO P
@@ -302,9 +311,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (POLJOPRIVREDNO P
 DESCRIPTION:4. 2. 2039. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• POLJOPRIVREDNO PODUZEĆE ORAHOVICA  D.D. – Koncesija za korište
- nje poljoprivrednog zemljišta u vlasništvu države (ZDENCI)\, 25.243 €
- /god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419423
- 58B46895953999476
+ nje poljoprivrednog zemljišta u vlasništvu države (ZDENCI) · davatelj:
+  OPĆINA ZDENCI\, 25.243 €/god.\n\nProfil općine: https://koncesijski-s
+ at.vercel.app/#opcina/41942358B46895953999476
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B46895953999476
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -315,17 +324,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-41b0501e430dad75@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-96c1334e13463998@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20401231
 DTEND;VALUE=DATE:20410101
 SUMMARY:Ističe koncesija: INA-INDUSTRIJA NAFTE  D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 31. 12. 2040. Godišnja fiksna nak
  nada: 114 €.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauzetu 
- površinu odobrenog eksploatacijskog polja (ZDENCI)\, 114 €/god.\n\nProf
- il općine: https://koncesijski-sat.vercel.app/#opcina/41942358B4689595399
- 9476\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 202
- 6.
+ površinu odobrenog eksploatacijskog polja (ZDENCI) · davatelj: MINISTARS
+ TVO GOSPODARSTVA\, 114 €/god.\n\nProfil općine: https://koncesijski-sat
+ .vercel.app/#opcina/41942358B46895953999476\nIzvor: Registar koncesija (FI
+ NA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B46895953999476
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -335,8 +344,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-41b0501e430dad75@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-96c1334e13463998@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20400630
 DTEND;VALUE=DATE:20400701
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA-INDUSTRIJA N
@@ -344,8 +353,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA-INDUSTRIJA N
 DESCRIPTION:31. 12. 2040. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauzetu površinu od
- obrenog eksploatacijskog polja (ZDENCI)\, 114 €/god.\n\nProfil općine: 
- https://koncesijski-sat.vercel.app/#opcina/41942358B46895953999476
+ obrenog eksploatacijskog polja (ZDENCI) · davatelj: MINISTARSTVO GOSPODAR
+ STVA\, 114 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/
+ #opcina/41942358B46895953999476
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B46895953999476
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -356,18 +366,19 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-453f486334f8340b@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-a54bf0bd3faea95a@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20421231
 DTEND;VALUE=DATE:20430101
 SUMMARY:Ističe 2 koncesije · Zdenci
 DESCRIPTION:2 ugovora o koncesiji ističe 31. 12. 2042. Godišnja fiksna na
  knada: 15.142 €.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauz
- etu površinu odobrenog eksploatacijskog polja (ZDENCI)\, 7.571 €/god.\n
- • INA-INDUSTRIJA NAFTE  D.D. – Dozvola za eksploataciju ugljikovodika 
- (prema Zakonu o ugljikovodicima) (ZDENCI)\, 7.571 €/god.\n\nProfil opći
- ne: https://koncesijski-sat.vercel.app/#opcina/41942358B46895953999476\nIz
- vor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ etu površinu odobrenog eksploatacijskog polja (ZDENCI) · davatelj: MINIS
+ TARSTVO GOSPODARSTVA\, 7.571 €/god.\n• INA-INDUSTRIJA NAFTE  D.D. – 
+ Dozvola za eksploataciju ugljikovodika (prema Zakonu o ugljikovodicima) (Z
+ DENCI) · davatelj: MINISTARSTVO GOSPODARSTVA\, 7.571 €/god.\n\nProfil o
+ pćine: https://koncesijski-sat.vercel.app/#opcina/41942358B46895953999476
+ \nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B46895953999476
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -377,23 +388,24 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-453f486334f8340b@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-a54bf0bd3faea95a@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20420630
 DTEND;VALUE=DATE:20420701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Zdenci
 DESCRIPTION:31. 12. 2042. ističe 2 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauzetu površinu o
- dobrenog eksploatacijskog polja (ZDENCI)\, 7.571 €/god.\n• INA-INDUSTR
- IJA NAFTE  D.D. – Dozvola za eksploataciju ugljikovodika (prema Zakonu o
-  ugljikovodicima) (ZDENCI)\, 7.571 €/god.\n\nProfil općine: https://kon
- cesijski-sat.vercel.app/#opcina/41942358B46895953999476
+ dobrenog eksploatacijskog polja (ZDENCI) · davatelj: MINISTARSTVO GOSPODA
+ RSTVA\, 7.571 €/god.\n• INA-INDUSTRIJA NAFTE  D.D. – Dozvola za eksp
+ loataciju ugljikovodika (prema Zakonu o ugljikovodicima) (ZDENCI) · davat
+ elj: MINISTARSTVO GOSPODARSTVA\, 7.571 €/god.\n\nProfil općine: https:/
+ /koncesijski-sat.vercel.app/#opcina/41942358B46895953999476
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B46895953999476
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Zdenci
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT

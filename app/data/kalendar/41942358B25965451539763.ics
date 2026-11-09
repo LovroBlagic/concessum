@@ -4,24 +4,25 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Grad Ivanec
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Grad Ivanec. Iz Registra
-  koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podataka
- . https://koncesijski-sat.vercel.app/#opcina/41942358B25965451539763
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Grad Ivanec (pregled\, s
+ vi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježava se n
+ akon svake obrade podataka. https://koncesijski-sat.vercel.app/#opcina/419
+ 42358B25965451539763
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-f2ca0ea3d6a86a3c@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-a9775641ec51e098@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270901
 DTEND;VALUE=DATE:20270902
 SUMMARY:Ističe koncesija: DIMNJAČARSTVO VALJAK D.O.O.ZA DIMNJAČARSKE USL
  UGE
 DESCRIPTION:1 ugovor o koncesiji ističe 1. 9. 2027.\n\n• DIMNJAČARSTVO 
  VALJAK D.O.O.ZA DIMNJAČARSKE USLUGE – Koncesija za obavljanje dimnjača
- rskih poslova (IVANEC)\n\nProfil općine: https://koncesijski-sat.vercel.a
- pp/#opcina/41942358B25965451539763\nIzvor: Registar koncesija (FINA)\, obr
- ada Koncesijski sat 9. 11. 2026.
+ rskih poslova (IVANEC) · davatelj: GRAD IVANEC\n\nProfil općine: https:/
+ /koncesijski-sat.vercel.app/#opcina/41942358B25965451539763\nIzvor: Regist
+ ar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B25965451539763
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -32,8 +33,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-f2ca0ea3d6a86a3c@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-a9775641ec51e098@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270301
 DTEND;VALUE=DATE:20270302
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DIMNJAČARSTVO V
@@ -41,8 +42,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DIMNJAČARSTVO V
 DESCRIPTION:1. 9. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• DIMNJAČARSTVO VALJAK D.O.O.ZA DIMNJAČARSKE USLUGE – Koncesija 
- za obavljanje dimnjačarskih poslova (IVANEC)\n\nProfil općine: https://k
- oncesijski-sat.vercel.app/#opcina/41942358B25965451539763
+ za obavljanje dimnjačarskih poslova (IVANEC) · davatelj: GRAD IVANEC\n\n
+ Profil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B259654
+ 51539763
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B25965451539763
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -53,16 +55,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-16fe2e50e0db9e06@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-5ce25cc59039842c@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20291013
 DTEND;VALUE=DATE:20291014
 SUMMARY:Ističe koncesija: RADIO-MAX D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 13. 10. 2029. Godišnja fiksna nak
  nada: 66 €.\n\n• RADIO-MAX D.O.O. – Koncesija za obavljanje djelatno
- sti radija (IVANEC\, MARUŠEVEC\, VIDOVEC)\, 66 €/god.\n\nProfil općine
- : https://koncesijski-sat.vercel.app/#opcina/41942358B25965451539763\nIzvo
- r: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ sti radija (IVANEC\, MARUŠEVEC\, VIDOVEC) · davatelj: AGENCIJA ZA ELEKTR
+ ONIČKE MEDIJE\, 66 €/god.\n\nProfil općine: https://koncesijski-sat.ve
+ rcel.app/#opcina/41942358B25965451539763\nIzvor: Registar koncesija (FINA)
+ \, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B25965451539763
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -72,8 +75,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-16fe2e50e0db9e06@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-5ce25cc59039842c@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20290413
 DTEND;VALUE=DATE:20290414
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (RADIO-MAX D.O.O.
@@ -81,8 +84,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (RADIO-MAX D.O.O.
 DESCRIPTION:13. 10. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• RADIO-MAX D.O.O. – Koncesija za obavljanje djelatnosti radija 
- (IVANEC\, MARUŠEVEC\, VIDOVEC)\, 66 €/god.\n\nProfil općine: https://k
- oncesijski-sat.vercel.app/#opcina/41942358B25965451539763
+ (IVANEC\, MARUŠEVEC\, VIDOVEC) · davatelj: AGENCIJA ZA ELEKTRONIČKE MED
+ IJE\, 66 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#o
+ pcina/41942358B25965451539763
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B25965451539763
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -93,17 +97,18 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-65a109f8dbb89e99@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-2a153a3d60a16d38@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20390921
 DTEND;VALUE=DATE:20390922
 SUMMARY:Ističe koncesija: IVKOM-PLIN D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 21. 9. 2039. Godišnja fiksna nakn
  ada: 1.327 €.\n\n• IVKOM-PLIN D.O.O. – Koncesija za obavljanje distr
  ibucije plina na postojećem distribucijskom sustavu (IVANEC\, KLENOVNIK\,
-  KLENOVNIK\, NOVI MAROF\, NOVI MAROF)\, 1.327 €/god.\n\nProfil općine: 
- https://koncesijski-sat.vercel.app/#opcina/41942358B25965451539763\nIzvor:
-  Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+  KLENOVNIK\, NOVI MAROF\, NOVI MAROF) · davatelj: VARAŽDINSKA ŽUPANIJA\
+ , 1.327 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#op
+ cina/41942358B25965451539763\nIzvor: Registar koncesija (FINA)\, obrada Ko
+ ncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B25965451539763
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -113,8 +118,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-65a109f8dbb89e99@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-2a153a3d60a16d38@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20390321
 DTEND;VALUE=DATE:20390322
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (IVKOM-PLIN D.O.O
@@ -123,8 +128,9 @@ DESCRIPTION:21. 9. 2039. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• IVKOM-PLIN D.O.O. – Koncesija za obavljanje distribucije plina 
  na postojećem distribucijskom sustavu (IVANEC\, KLENOVNIK\, KLENOVNIK\, N
- OVI MAROF\, NOVI MAROF)\, 1.327 €/god.\n\nProfil općine: https://konces
- ijski-sat.vercel.app/#opcina/41942358B25965451539763
+ OVI MAROF\, NOVI MAROF) · davatelj: VARAŽDINSKA ŽUPANIJA\, 1.327 €/go
+ d.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B
+ 25965451539763
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B25965451539763
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -135,16 +141,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-3730d7d75f0c6ee2@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-82d316c2db4b3a24@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20451231
 DTEND;VALUE=DATE:20460101
 SUMMARY:Ističe koncesija: RADIO SFM J.D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 31. 12. 2045. Godišnja fiksna nak
  nada: 66 €.\n\n• RADIO SFM J.D.O.O. – Koncesija za obavljanje djelat
- nosti radija (IVANEC)\, 66 €/god.\n\nProfil općine: https://koncesijski
- -sat.vercel.app/#opcina/41942358B25965451539763\nIzvor: Registar koncesija
-  (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ nosti radija (IVANEC) · davatelj: AGENCIJA ZA ELEKTRONIČKE MEDIJE\, 66 
+ €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
+ 42358B25965451539763\nIzvor: Registar koncesija (FINA)\, obrada Koncesijsk
+ i sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B25965451539763
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -154,8 +161,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-3730d7d75f0c6ee2@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-82d316c2db4b3a24@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20450630
 DTEND;VALUE=DATE:20450701
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (RADIO SFM J.D.O.
@@ -163,8 +170,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (RADIO SFM J.D.O.
 DESCRIPTION:31. 12. 2045. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• RADIO SFM J.D.O.O. – Koncesija za obavljanje djelatnosti radij
- a (IVANEC)\, 66 €/god.\n\nProfil općine: https://koncesijski-sat.vercel
- .app/#opcina/41942358B25965451539763
+ a (IVANEC) · davatelj: AGENCIJA ZA ELEKTRONIČKE MEDIJE\, 66 €/god.\n\n
+ Profil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B259654
+ 51539763
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B25965451539763
 TRANSP:TRANSPARENT
 BEGIN:VALARM

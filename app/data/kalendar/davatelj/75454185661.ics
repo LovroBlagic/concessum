@@ -1,0 +1,56 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · OPĆINA BISTRA
+X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje OPĆINA BISTRA. Iz Registr
+ a koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podatak
+ a. https://koncesijski-sat.vercel.app/#sat
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-527fb6d7f6e05240@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20331231
+DTEND;VALUE=DATE:20340101
+SUMMARY:Ističe koncesija: HRVOJE POZAIĆ - DIMNJAČARSTVO POZAIĆ\, VL. HR
+ VOJE POZAIĆ
+DESCRIPTION:1 ugovor o koncesiji ističe 31. 12. 2033. Godišnja fiksna nak
+ nada: 2.100 €.\n\n• HRVOJE POZAIĆ - DIMNJAČARSTVO POZAIĆ\, VL. HRVO
+ JE POZAIĆ – Koncesija za obavljanje dimnjačarskih poslova (BISTRA\, Op
+ ćina Bistra)\, 2.100 €/god.\n\nŠto ističe: https://koncesijski-sat.ve
+ rcel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9
+ . 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: HRVOJE POZAIĆ - DIMNJAČARSTVO POZAIĆ\, VL
+ . HRVOJE POZAIĆ
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-527fb6d7f6e05240@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20330630
+DTEND;VALUE=DATE:20330701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVOJE POZAIĆ -
+  DIMNJAČARSTVO POZAIĆ\, VL. HRVOJE POZAIĆ)
+DESCRIPTION:31. 12. 2033. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• HRVOJE POZAIĆ - DIMNJAČARSTVO POZAIĆ\, VL. HRVOJE POZAIĆ –
+  Koncesija za obavljanje dimnjačarskih poslova (BISTRA\, Općina Bistra)\
+ , 2.100 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVOJE POZAI
+ Ć - DIMNJAČARSTVO POZAIĆ\, VL. HRVOJE POZAIĆ)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

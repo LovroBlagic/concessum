@@ -1,0 +1,252 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · OPĆINA TORDINCI
+X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje OPĆINA TORDINCI. Iz Regis
+ tra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podat
+ aka. https://koncesijski-sat.vercel.app/#sat
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-c5366b65b4addce1@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20271030
+DTEND;VALUE=DATE:20271031
+SUMMARY:Ističe koncesija: HRVOJE HORVAT\,DUO EKO-DIM\,USLUGE SA SELA
+DESCRIPTION:1 ugovor o koncesiji ističe 30. 10. 2027. Godišnja fiksna nak
+ nada: 796 €.\n\n• HRVOJE HORVAT\,DUO EKO-DIM\,USLUGE SA SELA – Konce
+ sija za obavljanje dimnjačarskih poslova (TORDINCI\, Općina Tordinci)\, 
+ 796 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzv
+ or: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: HRVOJE HORVAT\,DUO EKO-DIM\,USLUGE SA SELA
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-c5366b65b4addce1@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20270430
+DTEND;VALUE=DATE:20270501
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVOJE HORVAT\,D
+ UO EKO-DIM\,USLUGE SA SELA)
+DESCRIPTION:30. 10. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• HRVOJE HORVAT\,DUO EKO-DIM\,USLUGE SA SELA – Koncesija za obav
+ ljanje dimnjačarskih poslova (TORDINCI\, Općina Tordinci)\, 796 €/god.
+ \n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVOJE HORVA
+ T\,DUO EKO-DIM\,USLUGE SA SELA)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-59345af1417fba6a@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20321030
+DTEND;VALUE=DATE:20321031
+SUMMARY:Ističe koncesija: NEVKOŠ D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 30. 10. 2032. Godišnja fiksna nak
+ nada: 2.920 €.\n\n• NEVKOŠ D.O.O. – Koncesija za obavljanje komunal
+ nih djelatnosti (TORDINCI\, Općina Tordinci)\, 2.920 €/god.\n\nŠto ist
+ iče: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (
+ FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: NEVKOŠ D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-59345af1417fba6a@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20320430
+DTEND;VALUE=DATE:20320501
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (NEVKOŠ D.O.O.)
+DESCRIPTION:30. 10. 2032. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• NEVKOŠ D.O.O. – Koncesija za obavljanje komunalnih djelatnost
+ i (TORDINCI\, Općina Tordinci)\, 2.920 €/god.\n\nŠto ističe: https://
+ koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (NEVKOŠ D.O.
+ O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-ffd21f61d7a11046@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20350110
+DTEND;VALUE=DATE:20350111
+SUMMARY:Ističe koncesija: POLJOPRIVREDNA ZADRUGA KOROĐ
+DESCRIPTION:1 ugovor o koncesiji ističe 10. 1. 2035. Godišnja fiksna nakn
+ ada: 12.144 €.\n\n• POLJOPRIVREDNA ZADRUGA KOROĐ – Koncesija za kor
+ ištenje poljoprivrednog zemljišta u vlasništvu države (TORDINCI\, Opć
+ ina Tordinci)\, 12.144 €/god.\n\nŠto ističe: https://koncesijski-sat.v
+ ercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 
+ 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: POLJOPRIVREDNA ZADRUGA KOROĐ
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-ffd21f61d7a11046@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20340710
+DTEND;VALUE=DATE:20340711
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (POLJOPRIVREDNA Z
+ ADRUGA KOROĐ)
+DESCRIPTION:10. 1. 2035. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• POLJOPRIVREDNA ZADRUGA KOROĐ – Koncesija za korištenje poljop
+ rivrednog zemljišta u vlasništvu države (TORDINCI\, Općina Tordinci)\,
+  12.144 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (POLJOPRIVRED
+ NA ZADRUGA KOROĐ)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-cc3ce5d4e44c3f8f@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20350404
+DTEND;VALUE=DATE:20350405
+SUMMARY:Ističe koncesija: HEP-PLIN D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 4. 4. 2035.\n\n• HEP-PLIN D.O.O.
+  – Koncesija za izgradnju distribucijskog sustava plinovoda i pružanje 
+ usluga distribucijskim sustavom (TORDINCI\, Općina Tordinci)\n\nŠto isti
+ če: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (F
+ INA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: HEP-PLIN D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-cc3ce5d4e44c3f8f@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20341004
+DTEND;VALUE=DATE:20341005
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP-PLIN D.O.O.)
+DESCRIPTION:4. 4. 2035. ističe 1 ugovor o koncesiji. Novi postupak dodjele
+  treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
+ \n\n• HEP-PLIN D.O.O. – Koncesija za izgradnju distribucijskog sustava
+  plinovoda i pružanje usluga distribucijskim sustavom (TORDINCI\, Općina
+  Tordinci)\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP-PLIN D.O
+ .O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-41ad347280591516@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20360330
+DTEND;VALUE=DATE:20360331
+SUMMARY:Ističe koncesija: LANDIA  D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 30. 3. 2036. Godišnja fiksna nakn
+ ada: 5.797 €.\n\n• LANDIA  D.O.O. – Koncesija za korištenje poljopr
+ ivrednog zemljišta u vlasništvu države (TORDINCI\, Općina Tordinci)\, 
+ 5.797 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nI
+ zvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: LANDIA  D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-41ad347280591516@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20350930
+DTEND;VALUE=DATE:20351001
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (LANDIA  D.O.O.)
+DESCRIPTION:30. 3. 2036. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• LANDIA  D.O.O. – Koncesija za korištenje poljoprivrednog zemlj
+ išta u vlasništvu države (TORDINCI\, Općina Tordinci)\, 5.797 €/god.
+ \n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (LANDIA  D.O.
+ O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-28f40a9c415f5ffb@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20360413
+DTEND;VALUE=DATE:20360414
+SUMMARY:Ističe koncesija: POLJOPRIVREDNA ZADRUGA TORDA
+DESCRIPTION:1 ugovor o koncesiji ističe 13. 4. 2036. Godišnja fiksna nakn
+ ada: 7.252 €.\n\n• POLJOPRIVREDNA ZADRUGA TORDA – Koncesija za kori
+ štenje poljoprivrednog zemljišta u vlasništvu države (TORDINCI\, Opći
+ na Tordinci)\, 7.252 €/god.\n\nŠto ističe: https://koncesijski-sat.ver
+ cel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9.
+  11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: POLJOPRIVREDNA ZADRUGA TORDA
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-28f40a9c415f5ffb@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20351013
+DTEND;VALUE=DATE:20351014
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (POLJOPRIVREDNA Z
+ ADRUGA TORDA)
+DESCRIPTION:13. 4. 2036. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• POLJOPRIVREDNA ZADRUGA TORDA – Koncesija za korištenje poljopr
+ ivrednog zemljišta u vlasništvu države (TORDINCI\, Općina Tordinci)\, 
+ 7.252 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (POLJOPRIVRED
+ NA ZADRUGA TORDA)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

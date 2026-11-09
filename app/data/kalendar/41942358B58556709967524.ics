@@ -4,24 +4,26 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Općina Rogoznica
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Rogoznica. Iz Re
- gistra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade po
- dataka. https://koncesijski-sat.vercel.app/#opcina/41942358B58556709967524
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Općina Rogoznica (pregl
+ ed\, svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježav
+ a se nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#opci
+ na/41942358B58556709967524
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-ecc3594fa25773b5@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-6fc3149086cc6ab9@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270801
 DTEND;VALUE=DATE:20270802
 SUMMARY:Ističe 2 koncesije · Rogoznica
 DESCRIPTION:2 ugovora o koncesiji ističe 1. 8. 2027. Godišnja fiksna nakn
  ada: 1.150 €.\n\n• MARINEX & CO D.O.O. – Koncesija na pomorskom dobr
- u (ROGOZNICA)\, 575 €/god.\n• MARINEX & CO D.O.O. – Koncesija na pom
- orskom dobru (ROGOZNICA)\, 575 €/god.\n\nProfil općine: https://koncesi
- jski-sat.vercel.app/#opcina/41942358B58556709967524\nIzvor: Registar konce
- sija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ u (ROGOZNICA) · davatelj: ŠIBENSKO-KNINSKA ŽUPANIJA\, 575 €/god.\n•
+  MARINEX & CO D.O.O. – Koncesija na pomorskom dobru (ROGOZNICA) · davat
+ elj: ŠIBENSKO-KNINSKA ŽUPANIJA\, 575 €/god.\n\nProfil općine: https:/
+ /koncesijski-sat.vercel.app/#opcina/41942358B58556709967524\nIzvor: Regist
+ ar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B58556709967524
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -31,38 +33,39 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-ecc3594fa25773b5@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-6fc3149086cc6ab9@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270201
 DTEND;VALUE=DATE:20270202
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Rogoznica
 DESCRIPTION:1. 8. 2027. ističe 2 ugovora o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
- .\n\n• MARINEX & CO D.O.O. – Koncesija na pomorskom dobru (ROGOZNICA)\
- , 575 €/god.\n• MARINEX & CO D.O.O. – Koncesija na pomorskom dobru (
- ROGOZNICA)\, 575 €/god.\n\nProfil općine: https://koncesijski-sat.verce
- l.app/#opcina/41942358B58556709967524
+ .\n\n• MARINEX & CO D.O.O. – Koncesija na pomorskom dobru (ROGOZNICA) 
+ · davatelj: ŠIBENSKO-KNINSKA ŽUPANIJA\, 575 €/god.\n• MARINEX & CO 
+ D.O.O. – Koncesija na pomorskom dobru (ROGOZNICA) · davatelj: ŠIBENSKO
+ -KNINSKA ŽUPANIJA\, 575 €/god.\n\nProfil općine: https://koncesijski-s
+ at.vercel.app/#opcina/41942358B58556709967524
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B58556709967524
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Rogoznica
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-0f346215e4c86bab@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-cac7f742f33926dd@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20281221
 DTEND;VALUE=DATE:20281222
 SUMMARY:Ističe koncesija: ŽUPANIJSKA UPRAVA ZA CESTE NA PODRUČJU ŠIBENS
  KO-KNINSKE ŽUPANIJE
 DESCRIPTION:1 ugovor o koncesiji ističe 21. 12. 2028. Godišnja fiksna nak
  nada: 709 €.\n\n• ŽUPANIJSKA UPRAVA ZA CESTE NA PODRUČJU ŠIBENSKO-K
- NINSKE ŽUPANIJE – Posebna upotreba pomorskog dobra (ROGOZNICA)\, 709 
- €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
- 42358B58556709967524\nIzvor: Registar koncesija (FINA)\, obrada Koncesijsk
- i sat 9. 11. 2026.
+ NINSKE ŽUPANIJE – Posebna upotreba pomorskog dobra (ROGOZNICA) · davat
+ elj: ŠIBENSKO-KNINSKA ŽUPANIJA\, 709 €/god.\n\nProfil općine: https:/
+ /koncesijski-sat.vercel.app/#opcina/41942358B58556709967524\nIzvor: Regist
+ ar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B58556709967524
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -73,8 +76,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-0f346215e4c86bab@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-cac7f742f33926dd@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20280621
 DTEND;VALUE=DATE:20280622
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ŽUPANIJSKA UPRA
@@ -82,9 +85,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ŽUPANIJSKA UPRA
 DESCRIPTION:21. 12. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• ŽUPANIJSKA UPRAVA ZA CESTE NA PODRUČJU ŠIBENSKO-KNINSKE ŽUPA
- NIJE – Posebna upotreba pomorskog dobra (ROGOZNICA)\, 709 €/god.\n\nPr
- ofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B58556709
- 967524
+ NIJE – Posebna upotreba pomorskog dobra (ROGOZNICA) · davatelj: ŠIBENS
+ KO-KNINSKA ŽUPANIJA\, 709 €/god.\n\nProfil općine: https://koncesijski
+ -sat.vercel.app/#opcina/41942358B58556709967524
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B58556709967524
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -95,16 +98,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-eb4d120fc6468a91@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-a08efc4323bf8a91@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20300107
 DTEND;VALUE=DATE:20300108
 SUMMARY:Ističe koncesija: B & P D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 7. 1. 2030. Godišnja fiksna nakna
  da: 371 €.\n\n• B & P D.O.O. – Koncesija pomorskog dobra u svrhu gos
- podarskog korištenja luke (ROGOZNICA)\, 371 €/god.\n\nProfil općine: h
- ttps://koncesijski-sat.vercel.app/#opcina/41942358B58556709967524\nIzvor: 
- Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ podarskog korištenja luke (ROGOZNICA) · davatelj: MINISTARSTVO MORA\, PR
+ OMETA I INFRASTRUKTURE\, 371 €/god.\n\nProfil općine: https://koncesijs
+ ki-sat.vercel.app/#opcina/41942358B58556709967524\nIzvor: Registar koncesi
+ ja (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B58556709967524
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -114,16 +118,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-eb4d120fc6468a91@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-a08efc4323bf8a91@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20290707
 DTEND;VALUE=DATE:20290708
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (B & P D.O.O.)
 DESCRIPTION:7. 1. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• B & P D.O.O. – Koncesija pomorskog dobra u svrhu gospodarskog ko
- rištenja luke (ROGOZNICA)\, 371 €/god.\n\nProfil općine: https://konce
- sijski-sat.vercel.app/#opcina/41942358B58556709967524
+ rištenja luke (ROGOZNICA) · davatelj: MINISTARSTVO MORA\, PROMETA I INFR
+ ASTRUKTURE\, 371 €/god.\n\nProfil općine: https://koncesijski-sat.verce
+ l.app/#opcina/41942358B58556709967524
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B58556709967524
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -134,16 +139,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-4e35b108e4d4d607@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-50a8a58ba8ed43ec@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20300803
 DTEND;VALUE=DATE:20300804
 SUMMARY:Ističe koncesija: LAGUNA TRADE D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 3. 8. 2030. Godišnja fiksna nakna
  da: 8.756 €.\n\n• LAGUNA TRADE D.O.O. – Koncesija na pomorskom dobru
-  (ROGOZNICA)\, 8.756 €/god.\n\nProfil općine: https://koncesijski-sat.v
- ercel.app/#opcina/41942358B58556709967524\nIzvor: Registar koncesija (FINA
- )\, obrada Koncesijski sat 9. 11. 2026.
+  (ROGOZNICA) · davatelj: ŠIBENSKO-KNINSKA ŽUPANIJA\, 8.756 €/god.\n\n
+ Profil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B585567
+ 09967524\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11.
+  2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B58556709967524
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -153,17 +159,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-4e35b108e4d4d607@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-50a8a58ba8ed43ec@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20300203
 DTEND;VALUE=DATE:20300204
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (LAGUNA TRADE D.O
  .O.)
 DESCRIPTION:3. 8. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
- \n\n• LAGUNA TRADE D.O.O. – Koncesija na pomorskom dobru (ROGOZNICA)\,
-  8.756 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opc
- ina/41942358B58556709967524
+ \n\n• LAGUNA TRADE D.O.O. – Koncesija na pomorskom dobru (ROGOZNICA) 
+ · davatelj: ŠIBENSKO-KNINSKA ŽUPANIJA\, 8.756 €/god.\n\nProfil općin
+ e: https://koncesijski-sat.vercel.app/#opcina/41942358B58556709967524
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B58556709967524
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -174,18 +180,18 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-0b98c091eb8a8517@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-02cc689d69e35f89@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20361001
 DTEND;VALUE=DATE:20361002
 SUMMARY:Ističe koncesija: KLISMAR SPLIT D.O.O. ZA MORSKO RIBARSTVO I TRG.E
  XPORT-IMPORT
 DESCRIPTION:1 ugovor o koncesiji ističe 1. 10. 2036. Godišnja fiksna nakn
  ada: 5.480 €.\n\n• KLISMAR SPLIT D.O.O. ZA MORSKO RIBARSTVO I TRG.EXPO
- RT-IMPORT – Koncesija na pomorskom dobru (ROGOZNICA)\, 5.480 €/god.\n\
- nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B58556
- 709967524\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11
- . 2026.
+ RT-IMPORT – Koncesija na pomorskom dobru (ROGOZNICA) · davatelj: ŠIBEN
+ SKO-KNINSKA ŽUPANIJA\, 5.480 €/god.\n\nProfil općine: https://koncesij
+ ski-sat.vercel.app/#opcina/41942358B58556709967524\nIzvor: Registar konces
+ ija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B58556709967524
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -196,8 +202,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-0b98c091eb8a8517@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-02cc689d69e35f89@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20360401
 DTEND;VALUE=DATE:20360402
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (KLISMAR SPLIT D.
@@ -205,8 +211,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (KLISMAR SPLIT D.
 DESCRIPTION:1. 10. 2036. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• KLISMAR SPLIT D.O.O. ZA MORSKO RIBARSTVO I TRG.EXPORT-IMPORT – 
- Koncesija na pomorskom dobru (ROGOZNICA)\, 5.480 €/god.\n\nProfil općin
- e: https://koncesijski-sat.vercel.app/#opcina/41942358B58556709967524
+ Koncesija na pomorskom dobru (ROGOZNICA) · davatelj: ŠIBENSKO-KNINSKA Ž
+ UPANIJA\, 5.480 €/god.\n\nProfil općine: https://koncesijski-sat.vercel
+ .app/#opcina/41942358B58556709967524
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B58556709967524
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -217,16 +224,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-f5c3f76bc376e38b@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-867722d44ffad5da@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20370406
 DTEND;VALUE=DATE:20370407
 SUMMARY:Ističe koncesija: HEP-OPERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 6. 4. 2037. Godišnja fiksna nakna
  da: 84 €.\n\n• HEP-OPERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O. – Posebna
-  upotreba pomorskog dobra (ROGOZNICA)\, 84 €/god.\n\nProfil općine: htt
- ps://koncesijski-sat.vercel.app/#opcina/41942358B58556709967524\nIzvor: Re
- gistar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+  upotreba pomorskog dobra (ROGOZNICA) · davatelj: ŠIBENSKO-KNINSKA ŽUPA
+ NIJA\, 84 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#
+ opcina/41942358B58556709967524\nIzvor: Registar koncesija (FINA)\, obrada 
+ Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B58556709967524
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -236,8 +244,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-f5c3f76bc376e38b@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-867722d44ffad5da@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20361006
 DTEND;VALUE=DATE:20361007
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP-OPERATOR DIS
@@ -245,8 +253,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP-OPERATOR DIS
 DESCRIPTION:6. 4. 2037. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• HEP-OPERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O. – Posebna upotreba p
- omorskog dobra (ROGOZNICA)\, 84 €/god.\n\nProfil općine: https://konces
- ijski-sat.vercel.app/#opcina/41942358B58556709967524
+ omorskog dobra (ROGOZNICA) · davatelj: ŠIBENSKO-KNINSKA ŽUPANIJA\, 84 
+ €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
+ 42358B58556709967524
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B58556709967524
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -257,19 +266,20 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-c36aeb1a425bae5b@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-f45337fad28540c2@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20380612
 DTEND;VALUE=DATE:20380613
 SUMMARY:Ističe 2 koncesije · Rogoznica
 DESCRIPTION:2 ugovora o koncesiji ističe 12. 6. 2038. Godišnja fiksna nak
  nada: 50 €.\n\n• HEP-OPERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O. – Konce
  sija pomorskog dobra za posebnu upotrebu u svrhu gradnje kabelske veze (RO
- GOZNICA)\, 25 €/god.\n• HEP-OPERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O. 
- – Koncesija pomorskog dobra za posebnu upotrebu u svrhu gradnje kabelske
-  veze (ROGOZNICA)\, 25 €/god.\n\nProfil općine: https://koncesijski-sat
- .vercel.app/#opcina/41942358B58556709967524\nIzvor: Registar koncesija (FI
- NA)\, obrada Koncesijski sat 9. 11. 2026.
+ GOZNICA) · davatelj: ŠIBENSKO-KNINSKA ŽUPANIJA\, 25 €/god.\n• HEP-O
+ PERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O. – Koncesija pomorskog dobra za po
+ sebnu upotrebu u svrhu gradnje kabelske veze (ROGOZNICA) · davatelj: ŠIB
+ ENSKO-KNINSKA ŽUPANIJA\, 25 €/god.\n\nProfil općine: https://koncesijs
+ ki-sat.vercel.app/#opcina/41942358B58556709967524\nIzvor: Registar koncesi
+ ja (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B58556709967524
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -279,37 +289,82 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-c36aeb1a425bae5b@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-f45337fad28540c2@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20371212
 DTEND;VALUE=DATE:20371213
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Rogoznica
 DESCRIPTION:12. 6. 2038. ističe 2 ugovora o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• HEP-OPERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O. – Koncesija pomors
- kog dobra za posebnu upotrebu u svrhu gradnje kabelske veze (ROGOZNICA)\, 
- 25 €/god.\n• HEP-OPERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O. – Koncesija
-  pomorskog dobra za posebnu upotrebu u svrhu gradnje kabelske veze (ROGOZN
- ICA)\, 25 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#
- opcina/41942358B58556709967524
+ kog dobra za posebnu upotrebu u svrhu gradnje kabelske veze (ROGOZNICA) ·
+  davatelj: ŠIBENSKO-KNINSKA ŽUPANIJA\, 25 €/god.\n• HEP-OPERATOR DIS
+ TRIBUCIJSKOG SUSTAVA D.O.O. – Koncesija pomorskog dobra za posebnu upotr
+ ebu u svrhu gradnje kabelske veze (ROGOZNICA) · davatelj: ŠIBENSKO-KNINS
+ KA ŽUPANIJA\, 25 €/god.\n\nProfil općine: https://koncesijski-sat.verc
+ el.app/#opcina/41942358B58556709967524
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B58556709967524
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Rogoznica
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-824bcaf68c988143@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-07e9a74e7157a251@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20380906
 DTEND;VALUE=DATE:20380907
 SUMMARY:Ističe koncesija: HEP - OPERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 6. 9. 2038. Godišnja fiksna nakna
  da: 221 €.\n\n• HEP - OPERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O. – Konc
  esija pomorskog dobra za posebnu upotrebu u svrhu gradnje kabelske veze (R
- OGOZNICA)\, 221 €/god.\n\nProfil općine: https://koncesijski-sat.vercel
+ OGOZNICA) · davatelj: ŠIBENSKO-KNINSKA ŽUPANIJA\, 221 €/god.\n\nProfi
+ l općine: https://koncesijski-sat.vercel.app/#opcina/41942358B58556709967
+ 524\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026
+ .
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B58556709967524
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: HEP - OPERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O
+ .
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-07e9a74e7157a251@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20380306
+DTEND;VALUE=DATE:20380307
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP - OPERATOR D
+ ISTRIBUCIJSKOG SUSTAVA D.O.O.)
+DESCRIPTION:6. 9. 2038. ističe 1 ugovor o koncesiji. Novi postupak dodjele
+  treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
+ \n\n• HEP - OPERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O. – Koncesija pomors
+ kog dobra za posebnu upotrebu u svrhu gradnje kabelske veze (ROGOZNICA) ·
+  davatelj: ŠIBENSKO-KNINSKA ŽUPANIJA\, 221 €/god.\n\nProfil općine: h
+ ttps://koncesijski-sat.vercel.app/#opcina/41942358B58556709967524
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B58556709967524
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP - OPERAT
+ OR DISTRIBUCIJSKOG SUSTAVA D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-f416bf815ae91596@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20390412
+DTEND;VALUE=DATE:20390413
+SUMMARY:Ističe koncesija: HEP - OPERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 12. 4. 2039. Godišnja fiksna nakn
+ ada: 147 €.\n\n• HEP - OPERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O. – Pos
+ ebna upotreba pomorskog dobra (ROGOZNICA) · davatelj: ŠIBENSKO-KNINSKA 
+ ŽUPANIJA\, 147 €/god.\n\nProfil općine: https://koncesijski-sat.vercel
  .app/#opcina/41942358B58556709967524\nIzvor: Registar koncesija (FINA)\, o
  brada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B58556709967524
@@ -322,50 +377,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-824bcaf68c988143@koncesijski-sat
-DTSTAMP:20261109T134442Z
-DTSTART;VALUE=DATE:20380306
-DTEND;VALUE=DATE:20380307
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP - OPERATOR D
- ISTRIBUCIJSKOG SUSTAVA D.O.O.)
-DESCRIPTION:6. 9. 2038. ističe 1 ugovor o koncesiji. Novi postupak dodjele
-  treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
- \n\n• HEP - OPERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O. – Koncesija pomors
- kog dobra za posebnu upotrebu u svrhu gradnje kabelske veze (ROGOZNICA)\, 
- 221 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina
- /41942358B58556709967524
-URL:https://koncesijski-sat.vercel.app/#opcina/41942358B58556709967524
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP - OPERAT
- OR DISTRIBUCIJSKOG SUSTAVA D.O.O.)
-TRIGGER:-P7D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:istek-8e2bf4b536af0605@koncesijski-sat
-DTSTAMP:20261109T134442Z
-DTSTART;VALUE=DATE:20390412
-DTEND;VALUE=DATE:20390413
-SUMMARY:Ističe koncesija: HEP - OPERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O.
-DESCRIPTION:1 ugovor o koncesiji ističe 12. 4. 2039. Godišnja fiksna nakn
- ada: 147 €.\n\n• HEP - OPERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O. – Pos
- ebna upotreba pomorskog dobra (ROGOZNICA)\, 147 €/god.\n\nProfil općine
- : https://koncesijski-sat.vercel.app/#opcina/41942358B58556709967524\nIzvo
- r: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#opcina/41942358B58556709967524
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Ističe koncesija: HEP - OPERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O
- .
-TRIGGER:-P7D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:priprema-8e2bf4b536af0605@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-f416bf815ae91596@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20381012
 DTEND;VALUE=DATE:20381013
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP - OPERATOR D
@@ -373,8 +386,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP - OPERATOR D
 DESCRIPTION:12. 4. 2039. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• HEP - OPERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O. – Posebna upotreb
- a pomorskog dobra (ROGOZNICA)\, 147 €/god.\n\nProfil općine: https://ko
- ncesijski-sat.vercel.app/#opcina/41942358B58556709967524
+ a pomorskog dobra (ROGOZNICA) · davatelj: ŠIBENSKO-KNINSKA ŽUPANIJA\, 1
+ 47 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/
+ 41942358B58556709967524
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B58556709967524
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -385,17 +399,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-2c8cbdab9db59630@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-d9e0c109121f68c9@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20430310
 DTEND;VALUE=DATE:20430311
 SUMMARY:Ističe koncesija: HEP-OPERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 10. 3. 2043. Godišnja fiksna nakn
  ada: 428 €.\n\n• HEP-OPERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O. – Konce
  sija pomorskog dobra za posebnu upotrebu u svrhu gradnje kabelske veze (RO
- GOZNICA)\, 428 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.
- app/#opcina/41942358B58556709967524\nIzvor: Registar koncesija (FINA)\, ob
- rada Koncesijski sat 9. 11. 2026.
+ GOZNICA) · davatelj: ŠIBENSKO-KNINSKA ŽUPANIJA\, 428 €/god.\n\nProfil
+  općine: https://koncesijski-sat.vercel.app/#opcina/41942358B585567099675
+ 24\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B58556709967524
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -405,8 +419,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-2c8cbdab9db59630@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-d9e0c109121f68c9@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20420910
 DTEND;VALUE=DATE:20420911
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP-OPERATOR DIS
@@ -414,9 +428,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP-OPERATOR DIS
 DESCRIPTION:10. 3. 2043. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• HEP-OPERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O. – Koncesija pomorsk
- og dobra za posebnu upotrebu u svrhu gradnje kabelske veze (ROGOZNICA)\, 4
- 28 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/
- 41942358B58556709967524
+ og dobra za posebnu upotrebu u svrhu gradnje kabelske veze (ROGOZNICA) · 
+ davatelj: ŠIBENSKO-KNINSKA ŽUPANIJA\, 428 €/god.\n\nProfil općine: ht
+ tps://koncesijski-sat.vercel.app/#opcina/41942358B58556709967524
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B58556709967524
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -427,17 +441,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-2e5275f23808cb7c@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-96dc6ceedf25ae2b@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20540119
 DTEND;VALUE=DATE:20540120
 SUMMARY:Ističe koncesija: LAGUNA TRADE D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 19. 1. 2054. Godišnja fiksna nakn
  ada: 11.020 €.\n\n• LAGUNA TRADE D.O.O. – Koncesija pomorskog dobra 
- u svrhu gospodarskog korištenja luke (ROGOZNICA)\, 11.020 €/god.\n\nPro
- fil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B585567099
- 67524\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 20
- 26.
+ u svrhu gospodarskog korištenja luke (ROGOZNICA) · davatelj: MINISTARSTV
+ O MORA\, PROMETA I INFRASTRUKTURE\, 11.020 €/god.\n\nProfil općine: htt
+ ps://koncesijski-sat.vercel.app/#opcina/41942358B58556709967524\nIzvor: Re
+ gistar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B58556709967524
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -447,8 +461,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-2e5275f23808cb7c@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-96dc6ceedf25ae2b@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20530719
 DTEND;VALUE=DATE:20530720
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (LAGUNA TRADE D.O
@@ -456,8 +470,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (LAGUNA TRADE D.O
 DESCRIPTION:19. 1. 2054. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• LAGUNA TRADE D.O.O. – Koncesija pomorskog dobra u svrhu gospoda
- rskog korištenja luke (ROGOZNICA)\, 11.020 €/god.\n\nProfil općine: ht
- tps://koncesijski-sat.vercel.app/#opcina/41942358B58556709967524
+ rskog korištenja luke (ROGOZNICA) · davatelj: MINISTARSTVO MORA\, PROMET
+ A I INFRASTRUKTURE\, 11.020 €/god.\n\nProfil općine: https://koncesijsk
+ i-sat.vercel.app/#opcina/41942358B58556709967524
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B58556709967524
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -468,16 +483,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-8573362d52e2cc29@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-3efcb4daf100f2e7@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20601015
 DTEND;VALUE=DATE:20601016
 SUMMARY:Ističe koncesija: DRŽAVNI HIDROMETEOROLOŠKI ZAVOD
 DESCRIPTION:1 ugovor o koncesiji ističe 15. 10. 2060. Godišnja fiksna nak
  nada: 26 €.\n\n• DRŽAVNI HIDROMETEOROLOŠKI ZAVOD – Koncesija na po
- morskom dobru (ROGOZNICA)\, 26 €/god.\n\nProfil općine: https://koncesi
- jski-sat.vercel.app/#opcina/41942358B58556709967524\nIzvor: Registar konce
- sija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ morskom dobru (ROGOZNICA) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRA
+ STRUKTURE\, 26 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.
+ app/#opcina/41942358B58556709967524\nIzvor: Registar koncesija (FINA)\, ob
+ rada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B58556709967524
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -487,8 +503,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-8573362d52e2cc29@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-3efcb4daf100f2e7@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20600415
 DTEND;VALUE=DATE:20600416
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DRŽAVNI HIDROME
@@ -496,8 +512,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DRŽAVNI HIDROME
 DESCRIPTION:15. 10. 2060. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• DRŽAVNI HIDROMETEOROLOŠKI ZAVOD – Koncesija na pomorskom dob
- ru (ROGOZNICA)\, 26 €/god.\n\nProfil općine: https://koncesijski-sat.ve
- rcel.app/#opcina/41942358B58556709967524
+ ru (ROGOZNICA) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\,
+  26 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina
+ /41942358B58556709967524
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B58556709967524
 TRANSP:TRANSPARENT
 BEGIN:VALARM

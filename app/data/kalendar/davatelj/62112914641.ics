@@ -1,0 +1,59 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · GRAD KOPRIVNICA
+X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje GRAD KOPRIVNICA. Iz Regist
+ ra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podata
+ ka. https://koncesijski-sat.vercel.app/#sat
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-e9ab10619043b3fd@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20301101
+DTEND;VALUE=DATE:20301102
+SUMMARY:Ističe 3 koncesije · GRAD KOPRIVNICA
+DESCRIPTION:3 ugovora o koncesiji ističe 1. 11. 2030.\n\n• DIS\, OBRT ZA
+  DIMNJAČARSKE USLUGE\, VL. ANDRO ZEBEC – Koncesija za obavljanje dimnja
+ čarskih poslova (KOPRIVNICA\, Grad Koprivnica)\n• DIMNJAČARSKI OBRT TR
+ UBELJA\, VL. GORAN TRUBELJA – Koncesija za obavljanje dimnjačarskih pos
+ lova (KOPRIVNICA\, Grad Koprivnica)\n• MLD-USLUGE D.O.O. – Koncesija z
+ a obavljanje dimnjačarskih poslova (KOPRIVNICA\, Grad Koprivnica)\n\nŠto
+  ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesi
+ ja (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 3 koncesije · GRAD KOPRIVNICA
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-e9ab10619043b3fd@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20300501
+DTEND;VALUE=DATE:20300502
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · GRAD KOPRIVNIC
+ A
+DESCRIPTION:1. 11. 2030. ističe 3 ugovora o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• DIS\, OBRT ZA DIMNJAČARSKE USLUGE\, VL. ANDRO ZEBEC – Koncesi
+ ja za obavljanje dimnjačarskih poslova (KOPRIVNICA\, Grad Koprivnica)\n
+ • DIMNJAČARSKI OBRT TRUBELJA\, VL. GORAN TRUBELJA – Koncesija za obav
+ ljanje dimnjačarskih poslova (KOPRIVNICA\, Grad Koprivnica)\n• MLD-USLU
+ GE D.O.O. – Koncesija za obavljanje dimnjačarskih poslova (KOPRIVNICA\,
+  Grad Koprivnica)\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · GRAD KOPRI
+ VNICA
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

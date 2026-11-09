@@ -4,24 +4,25 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Grad Biograd na Moru
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Grad Biograd na Moru. Iz
-  Registra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade
-  podataka. https://koncesijski-sat.vercel.app/#opcina/41942358B61767786236
- 77
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Grad Biograd na Moru (pr
+ egled\, svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvje
+ žava se nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#
+ opcina/41942358B6176778623677
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-3e0186b222028ba5@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-44926a9b4b33ca69@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270810
 DTEND;VALUE=DATE:20270811
 SUMMARY:Ističe koncesija: CRVENA LUKA D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 10. 8. 2027. Godišnja fiksna nakn
  ada: 69.110 €.\n\n• CRVENA LUKA D.D. – Koncesija na pomorskom dobru 
- (BIOGRAD NA MORU)\, 69.110 €/god.\n\nProfil općine: https://koncesijski
- -sat.vercel.app/#opcina/41942358B6176778623677\nIzvor: Registar koncesija 
- (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ (BIOGRAD NA MORU) · davatelj: ZADARSKA ŽUPANIJA\, 69.110 €/god.\n\nPro
+ fil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B617677862
+ 3677\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 202
+ 6.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B6176778623677
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -31,8 +32,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-3e0186b222028ba5@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-44926a9b4b33ca69@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270210
 DTEND;VALUE=DATE:20270211
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (CRVENA LUKA D.D.
@@ -40,8 +41,8 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (CRVENA LUKA D.D.
 DESCRIPTION:10. 8. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• CRVENA LUKA D.D. – Koncesija na pomorskom dobru (BIOGRAD NA MOR
- U)\, 69.110 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app
- /#opcina/41942358B6176778623677
+ U) · davatelj: ZADARSKA ŽUPANIJA\, 69.110 €/god.\n\nProfil općine: ht
+ tps://koncesijski-sat.vercel.app/#opcina/41942358B6176778623677
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B6176778623677
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -52,18 +53,19 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-2d18d0e33da50cf6@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-6a1a50940dab9f47@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20280726
 DTEND;VALUE=DATE:20280727
 SUMMARY:Ističe 2 koncesije · Biograd na Moru
 DESCRIPTION:2 ugovora o koncesiji ističe 26. 7. 2028. Godišnja fiksna nak
  nada: 5.310 €.\n\n• PETROL D.O.O. ZA PRIJEVOZ NAFTE I NAFTNIH DERIVATA
-  – Koncesija za luku (BIOGRAD NA MORU)\, 2.655 €/god.\n• INA-INDUSTR
- IJA NAFTE  D.D. – Koncesija za luku (BIOGRAD NA MORU)\, 2.655 €/god.\n
- \nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B6176
- 778623677\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11
- . 2026.
+  – Koncesija za luku (BIOGRAD NA MORU) · davatelj: ŽUPANIJSKA LUČKA U
+ PRAVA ZADAR\, 2.655 €/god.\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija
+  za luku (BIOGRAD NA MORU) · davatelj: ŽUPANIJSKA LUČKA UPRAVA ZADAR\, 
+ 2.655 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opci
+ na/41942358B6176778623677\nIzvor: Registar koncesija (FINA)\, obrada Konce
+ sijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B6176778623677
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -73,37 +75,42 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-2d18d0e33da50cf6@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-6a1a50940dab9f47@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20280126
 DTEND;VALUE=DATE:20280127
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Biograd na Mor
+ u
 DESCRIPTION:26. 7. 2028. ističe 2 ugovora o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• PETROL D.O.O. ZA PRIJEVOZ NAFTE I NAFTNIH DERIVATA – Koncesija
-  za luku (BIOGRAD NA MORU)\, 2.655 €/god.\n• INA-INDUSTRIJA NAFTE  D.D
- . – Koncesija za luku (BIOGRAD NA MORU)\, 2.655 €/god.\n\nProfil opći
- ne: https://koncesijski-sat.vercel.app/#opcina/41942358B6176778623677
+  za luku (BIOGRAD NA MORU) · davatelj: ŽUPANIJSKA LUČKA UPRAVA ZADAR\, 
+ 2.655 €/god.\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za luku (BIOG
+ RAD NA MORU) · davatelj: ŽUPANIJSKA LUČKA UPRAVA ZADAR\, 2.655 €/god.
+ \n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B61
+ 76778623677
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B6176778623677
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Biograd na
+  Moru
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-ad3f16dcd98df5c8@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-71633b08b7faaaed@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20291220
 DTEND;VALUE=DATE:20291221
 SUMMARY:Ističe koncesija: VL. MATEA BLAŽEVIĆ\, MARKO&DOMINIK
 DESCRIPTION:1 ugovor o koncesiji ističe 20. 12. 2029. Godišnja fiksna nak
  nada: 6.036 €.\n\n• VL. MATEA BLAŽEVIĆ\, MARKO&DOMINIK – Koncesija
   pomorskog dobra u svrhu izgradnje i gospodarskog korištenja luke posebne
-  namjene (BIOGRAD NA MORU)\, 6.036 €/god.\n\nProfil općine: https://kon
- cesijski-sat.vercel.app/#opcina/41942358B6176778623677\nIzvor: Registar ko
- ncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+  namjene (BIOGRAD NA MORU) · davatelj: ZADARSKA ŽUPANIJA\, 6.036 €/god
+ .\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B6
+ 176778623677\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9.
+  11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B6176778623677
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -113,8 +120,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-ad3f16dcd98df5c8@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-71633b08b7faaaed@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20290620
 DTEND;VALUE=DATE:20290621
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VL. MATEA BLAŽE
@@ -123,8 +130,8 @@ DESCRIPTION:20. 12. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• VL. MATEA BLAŽEVIĆ\, MARKO&DOMINIK – Koncesija pomorskog dob
  ra u svrhu izgradnje i gospodarskog korištenja luke posebne namjene (BIOG
- RAD NA MORU)\, 6.036 €/god.\n\nProfil općine: https://koncesijski-sat.v
- ercel.app/#opcina/41942358B6176778623677
+ RAD NA MORU) · davatelj: ZADARSKA ŽUPANIJA\, 6.036 €/god.\n\nProfil op
+ ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B6176778623677
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B6176778623677
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -135,17 +142,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-ba6f31f5173bbb01@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-ee63137504722dd5@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20310113
 DTEND;VALUE=DATE:20310114
 SUMMARY:Ističe koncesija: ILIRIJA D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 13. 1. 2031. Godišnja fiksna nakn
  ada: 12.226 €.\n\n• ILIRIJA D.D. – Koncesija pomorskog dobra u svrhu
-  gospodarskog korištenja luke (BIOGRAD NA MORU)\, 12.226 €/god.\n\nProf
- il općine: https://koncesijski-sat.vercel.app/#opcina/41942358B6176778623
- 677\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026
- .
+  gospodarskog korištenja luke (BIOGRAD NA MORU) · davatelj: MINISTARSTVO
+  MORA\, PROMETA I INFRASTRUKTURE\, 12.226 €/god.\n\nProfil općine: http
+ s://koncesijski-sat.vercel.app/#opcina/41942358B6176778623677\nIzvor: Regi
+ star koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B6176778623677
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -155,16 +162,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-ba6f31f5173bbb01@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-ee63137504722dd5@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20300713
 DTEND;VALUE=DATE:20300714
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ILIRIJA D.D.)
 DESCRIPTION:13. 1. 2031. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• ILIRIJA D.D. – Koncesija pomorskog dobra u svrhu gospodarskog k
- orištenja luke (BIOGRAD NA MORU)\, 12.226 €/god.\n\nProfil općine: htt
- ps://koncesijski-sat.vercel.app/#opcina/41942358B6176778623677
+ orištenja luke (BIOGRAD NA MORU) · davatelj: MINISTARSTVO MORA\, PROMETA
+  I INFRASTRUKTURE\, 12.226 €/god.\n\nProfil općine: https://koncesijski
+ -sat.vercel.app/#opcina/41942358B6176778623677
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B6176778623677
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -175,16 +183,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-b6e9b4c6a19d4286@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-3952f1e6ee6785c2@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20310411
 DTEND;VALUE=DATE:20310412
 SUMMARY:Ističe koncesija: HRVATSKA ELEKTROPRIVREDA  D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 11. 4. 2031. Godišnja fiksna nakn
  ada: 1.546 €.\n\n• HRVATSKA ELEKTROPRIVREDA  D.D. – Koncesija na pom
- orskom dobru (BIOGRAD NA MORU)\, 1.546 €/god.\n\nProfil općine: https:/
- /koncesijski-sat.vercel.app/#opcina/41942358B6176778623677\nIzvor: Regista
- r koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ orskom dobru (BIOGRAD NA MORU) · davatelj: ZADARSKA ŽUPANIJA\, 1.546 €
+ /god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419423
+ 58B6176778623677\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sa
+ t 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B6176778623677
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -194,8 +203,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-b6e9b4c6a19d4286@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-3952f1e6ee6785c2@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20301011
 DTEND;VALUE=DATE:20301012
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKA ELEKTRO
@@ -203,8 +212,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKA ELEKTRO
 DESCRIPTION:11. 4. 2031. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• HRVATSKA ELEKTROPRIVREDA  D.D. – Koncesija na pomorskom dobru (
- BIOGRAD NA MORU)\, 1.546 €/god.\n\nProfil općine: https://koncesijski-s
- at.vercel.app/#opcina/41942358B6176778623677
+ BIOGRAD NA MORU) · davatelj: ZADARSKA ŽUPANIJA\, 1.546 €/god.\n\nProfi
+ l općine: https://koncesijski-sat.vercel.app/#opcina/41942358B61767786236
+ 77
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B6176778623677
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -215,16 +225,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-a9ad8ac2596eed88@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-d9fa4d70b85f8b60@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20310518
 DTEND;VALUE=DATE:20310519
 SUMMARY:Ističe koncesija: ILIRIJA D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 18. 5. 2031. Godišnja fiksna nakn
  ada: 60.565 €.\n\n• ILIRIJA D.D. – Koncesija na pomorskom dobru (BIO
- GRAD NA MORU)\, 60.565 €/god.\n\nProfil općine: https://koncesijski-sat
- .vercel.app/#opcina/41942358B6176778623677\nIzvor: Registar koncesija (FIN
- A)\, obrada Koncesijski sat 9. 11. 2026.
+ GRAD NA MORU) · davatelj: ZADARSKA ŽUPANIJA\, 60.565 €/god.\n\nProfil 
+ općine: https://koncesijski-sat.vercel.app/#opcina/41942358B6176778623677
+ \nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B6176778623677
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -234,16 +244,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-a9ad8ac2596eed88@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-d9fa4d70b85f8b60@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20301118
 DTEND;VALUE=DATE:20301119
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ILIRIJA D.D.)
 DESCRIPTION:18. 5. 2031. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
- .\n\n• ILIRIJA D.D. – Koncesija na pomorskom dobru (BIOGRAD NA MORU)\,
-  60.565 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#op
- cina/41942358B6176778623677
+ .\n\n• ILIRIJA D.D. – Koncesija na pomorskom dobru (BIOGRAD NA MORU) 
+ · davatelj: ZADARSKA ŽUPANIJA\, 60.565 €/god.\n\nProfil općine: https
+ ://koncesijski-sat.vercel.app/#opcina/41942358B6176778623677
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B6176778623677
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -254,17 +264,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-6765c802e07f68f9@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-b8c79a2695478661@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20380111
 DTEND;VALUE=DATE:20380112
 SUMMARY:Ističe koncesija: VRANA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 11. 1. 2038. Godišnja fiksna nakn
  ada: 27.208 €.\n\n• VRANA D.O.O. – Koncesija za korištenje poljopri
- vrednog zemljišta u vlasništvu države (BIOGRAD NA MORU)\, 27.208 €/go
- d.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B
- 6176778623677\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9
- . 11. 2026.
+ vrednog zemljišta u vlasništvu države (BIOGRAD NA MORU) · davatelj: GR
+ AD BIOGRAD NA MORU\, 27.208 €/god.\n\nProfil općine: https://koncesijsk
+ i-sat.vercel.app/#opcina/41942358B6176778623677\nIzvor: Registar koncesija
+  (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B6176778623677
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -274,16 +284,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-6765c802e07f68f9@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-b8c79a2695478661@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20370711
 DTEND;VALUE=DATE:20370712
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VRANA D.O.O.)
 DESCRIPTION:11. 1. 2038. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• VRANA D.O.O. – Koncesija za korištenje poljoprivrednog zemlji
- šta u vlasništvu države (BIOGRAD NA MORU)\, 27.208 €/god.\n\nProfil o
- pćine: https://koncesijski-sat.vercel.app/#opcina/41942358B6176778623677
+ šta u vlasništvu države (BIOGRAD NA MORU) · davatelj: GRAD BIOGRAD NA 
+ MORU\, 27.208 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.a
+ pp/#opcina/41942358B6176778623677
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B6176778623677
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -294,16 +305,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-81922ee4b9369a8a@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-9371398352f63d03@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20410525
 DTEND;VALUE=DATE:20410526
 SUMMARY:Ističe koncesija: VL. DARIJO KARABATIĆ\, KA-GRADNJA OBRT
 DESCRIPTION:1 ugovor o koncesiji ističe 25. 5. 2041. Godišnja fiksna nakn
  ada: 14.809 €.\n\n• VL. DARIJO KARABATIĆ\, KA-GRADNJA OBRT – Konces
- ija na pomorskom dobru (BIOGRAD NA MORU)\, 14.809 €/god.\n\nProfil opći
- ne: https://koncesijski-sat.vercel.app/#opcina/41942358B6176778623677\nIzv
- or: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ ija na pomorskom dobru (BIOGRAD NA MORU) · davatelj: ZADARSKA ŽUPANIJA\,
+  14.809 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#op
+ cina/41942358B6176778623677\nIzvor: Registar koncesija (FINA)\, obrada Kon
+ cesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B6176778623677
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -313,8 +325,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-81922ee4b9369a8a@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-9371398352f63d03@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20401125
 DTEND;VALUE=DATE:20401126
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VL. DARIJO KARAB
@@ -322,8 +334,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VL. DARIJO KARAB
 DESCRIPTION:25. 5. 2041. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• VL. DARIJO KARABATIĆ\, KA-GRADNJA OBRT – Koncesija na pomorsko
- m dobru (BIOGRAD NA MORU)\, 14.809 €/god.\n\nProfil općine: https://kon
- cesijski-sat.vercel.app/#opcina/41942358B6176778623677
+ m dobru (BIOGRAD NA MORU) · davatelj: ZADARSKA ŽUPANIJA\, 14.809 €/god
+ .\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B6
+ 176778623677
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B6176778623677
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -334,17 +347,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-579d96e0f734b991@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-20bb7cb576239401@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20451231
 DTEND;VALUE=DATE:20460101
 SUMMARY:Ističe koncesija: CROATA\, D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 31. 12. 2045. Godišnja fiksna nak
  nada: 66 €.\n\n• CROATA\, D.O.O. – Koncesija za obavljanje djelatnos
  ti radija (BIOGRAD NA MORU\, PAKOŠTANE\, PAŠMAN\, SVETI FILIP I JAKOV\, 
- TKON)\, 66 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/
- #opcina/41942358B6176778623677\nIzvor: Registar koncesija (FINA)\, obrada 
- Koncesijski sat 9. 11. 2026.
+ TKON) · davatelj: AGENCIJA ZA ELEKTRONIČKE MEDIJE\, 66 €/god.\n\nProfi
+ l općine: https://koncesijski-sat.vercel.app/#opcina/41942358B61767786236
+ 77\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B6176778623677
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -354,17 +367,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-579d96e0f734b991@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-20bb7cb576239401@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20450630
 DTEND;VALUE=DATE:20450701
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (CROATA\, D.O.O.)
 DESCRIPTION:31. 12. 2045. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• CROATA\, D.O.O. – Koncesija za obavljanje djelatnosti radija (
- BIOGRAD NA MORU\, PAKOŠTANE\, PAŠMAN\, SVETI FILIP I JAKOV\, TKON)\, 66 
- €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
- 42358B6176778623677
+ BIOGRAD NA MORU\, PAKOŠTANE\, PAŠMAN\, SVETI FILIP I JAKOV\, TKON) · da
+ vatelj: AGENCIJA ZA ELEKTRONIČKE MEDIJE\, 66 €/god.\n\nProfil općine: 
+ https://koncesijski-sat.vercel.app/#opcina/41942358B6176778623677
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B6176778623677
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -375,16 +388,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-f6cf3796a9f8b849@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-cc9b43bf2472a22d@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20460509
 DTEND;VALUE=DATE:20460510
 SUMMARY:Ističe koncesija: INA\, D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 9. 5. 2046. Godišnja fiksna nakna
  da: 10.834 €.\n\n• INA\, D.D. – Koncesija na pomorskom dobru (BIOGRA
- D NA MORU)\, 10.834 €/god.\n\nProfil općine: https://koncesijski-sat.ve
- rcel.app/#opcina/41942358B6176778623677\nIzvor: Registar koncesija (FINA)\
- , obrada Koncesijski sat 9. 11. 2026.
+ D NA MORU) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\, 10.
+ 834 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina
+ /41942358B6176778623677\nIzvor: Registar koncesija (FINA)\, obrada Koncesi
+ jski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B6176778623677
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -394,16 +408,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-f6cf3796a9f8b849@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-cc9b43bf2472a22d@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20451109
 DTEND;VALUE=DATE:20451110
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA\, D.D.)
 DESCRIPTION:9. 5. 2046. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
- \n\n• INA\, D.D. – Koncesija na pomorskom dobru (BIOGRAD NA MORU)\, 10
- .834 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcin
- a/41942358B6176778623677
+ \n\n• INA\, D.D. – Koncesija na pomorskom dobru (BIOGRAD NA MORU) · d
+ avatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\, 10.834 €/god.\n\
+ nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B61767
+ 78623677
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B6176778623677
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -413,16 +428,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-e7cd81d1bc3ab24b@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-11e0ada430a28107@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20601015
 DTEND;VALUE=DATE:20601016
 SUMMARY:Ističe koncesija: DRŽAVNI HIDROMETEOROLOŠKI ZAVOD
 DESCRIPTION:1 ugovor o koncesiji ističe 15. 10. 2060. Godišnja fiksna nak
  nada: 17 €.\n\n• DRŽAVNI HIDROMETEOROLOŠKI ZAVOD – Koncesija na po
- morskom dobru (BIOGRAD NA MORU)\, 17 €/god.\n\nProfil općine: https://k
- oncesijski-sat.vercel.app/#opcina/41942358B6176778623677\nIzvor: Registar 
- koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ morskom dobru (BIOGRAD NA MORU) · davatelj: MINISTARSTVO MORA\, PROMETA I
+  INFRASTRUKTURE\, 17 €/god.\n\nProfil općine: https://koncesijski-sat.v
+ ercel.app/#opcina/41942358B6176778623677\nIzvor: Registar koncesija (FINA)
+ \, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B6176778623677
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -432,8 +448,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-e7cd81d1bc3ab24b@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-11e0ada430a28107@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20600415
 DTEND;VALUE=DATE:20600416
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DRŽAVNI HIDROME
@@ -441,8 +457,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DRŽAVNI HIDROME
 DESCRIPTION:15. 10. 2060. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• DRŽAVNI HIDROMETEOROLOŠKI ZAVOD – Koncesija na pomorskom dob
- ru (BIOGRAD NA MORU)\, 17 €/god.\n\nProfil općine: https://koncesijski-
- sat.vercel.app/#opcina/41942358B6176778623677
+ ru (BIOGRAD NA MORU) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUK
+ TURE\, 17 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#
+ opcina/41942358B6176778623677
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B6176778623677
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -453,16 +470,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-73608e3e97a0e5d6@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-60b9c979205d00e1@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20760717
 DTEND;VALUE=DATE:20760718
 SUMMARY:Ističe koncesija: HRVATSKI TELEKOM D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 17. 7. 2076. Godišnja fiksna nakn
  ada: 780 €.\n\n• HRVATSKI TELEKOM D.D. – Posebna upotreba pomorskog 
- dobra (BIOGRAD NA MORU)\, 780 €/god.\n\nProfil općine: https://koncesij
- ski-sat.vercel.app/#opcina/41942358B6176778623677\nIzvor: Registar koncesi
- ja (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ dobra (BIOGRAD NA MORU) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRAST
+ RUKTURE\, 780 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.a
+ pp/#opcina/41942358B6176778623677\nIzvor: Registar koncesija (FINA)\, obra
+ da Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B6176778623677
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -472,8 +490,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-73608e3e97a0e5d6@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-60b9c979205d00e1@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20760117
 DTEND;VALUE=DATE:20760118
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKI TELEKOM
@@ -481,8 +499,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKI TELEKOM
 DESCRIPTION:17. 7. 2076. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• HRVATSKI TELEKOM D.D. – Posebna upotreba pomorskog dobra (BIOGR
- AD NA MORU)\, 780 €/god.\n\nProfil općine: https://koncesijski-sat.verc
- el.app/#opcina/41942358B6176778623677
+ AD NA MORU) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\, 78
+ 0 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4
+ 1942358B6176778623677
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B6176778623677
 TRANSP:TRANSPARENT
 BEGIN:VALARM

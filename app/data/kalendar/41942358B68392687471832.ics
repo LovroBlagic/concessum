@@ -4,23 +4,25 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Općina Bosiljevo
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Bosiljevo. Iz Re
- gistra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade po
- dataka. https://koncesijski-sat.vercel.app/#opcina/41942358B68392687471832
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Općina Bosiljevo (pregl
+ ed\, svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježav
+ a se nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#opci
+ na/41942358B68392687471832
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-c03c4517c4ebac58@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-671f290c4bb2daf6@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270801
 DTEND;VALUE=DATE:20270802
 SUMMARY:Ističe koncesija: EDI ALAGIĆ\, ENERGON DIMNJAČARSKI OBRT
 DESCRIPTION:1 ugovor o koncesiji ističe 1. 8. 2027. Godišnja fiksna nakna
  da: 16 €.\n\n• EDI ALAGIĆ\, ENERGON DIMNJAČARSKI OBRT – Koncesija 
- za obavljanje komunalnih djelatnosti (BOSILJEVO)\, 16 €/god.\n\nProfil o
- pćine: https://koncesijski-sat.vercel.app/#opcina/41942358B68392687471832
- \nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ za obavljanje komunalnih djelatnosti (BOSILJEVO) · davatelj: OPĆINA BOSI
+ LJEVO\, 16 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/
+ #opcina/41942358B68392687471832\nIzvor: Registar koncesija (FINA)\, obrada
+  Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B68392687471832
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -30,8 +32,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-c03c4517c4ebac58@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-671f290c4bb2daf6@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270201
 DTEND;VALUE=DATE:20270202
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (EDI ALAGIĆ\, EN
@@ -39,8 +41,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (EDI ALAGIĆ\, EN
 DESCRIPTION:1. 8. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• EDI ALAGIĆ\, ENERGON DIMNJAČARSKI OBRT – Koncesija za obavljan
- je komunalnih djelatnosti (BOSILJEVO)\, 16 €/god.\n\nProfil općine: htt
- ps://koncesijski-sat.vercel.app/#opcina/41942358B68392687471832
+ je komunalnih djelatnosti (BOSILJEVO) · davatelj: OPĆINA BOSILJEVO\, 16 
+ €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
+ 42358B68392687471832
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B68392687471832
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -51,19 +54,21 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-5e207e540ec92a2a@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-4572d915ec8ebc3a@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20401231
 DTEND;VALUE=DATE:20410101
 SUMMARY:Ističe 3 koncesije · Bosiljevo
 DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2040. Godišnja fiksna na
  knada: 9.512 €.\n\n• PARON D.O.O. – Koncesija za eksploataciju tehni
- čko-građevnog kamena (BOSILJEVO)\, 4.756 €/god.\n• PARON D.O.O. – 
- Koncesija za površinu utvrđenog eksploatacijskog polja neenergetskih min
- eralnih sirovina (BOSILJEVO)\, 4.756 €/god.\n• PARON D.O.O. – Konces
- ija za eksploataciju tehničko-građevnog kamena (BOSILJEVO)\n\nProfil op
- ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B68392687471832\
- nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ čko-građevnog kamena (BOSILJEVO) · davatelj: MINISTARSTVO GOSPODARSTVA\
+ , 4.756 €/god.\n• PARON D.O.O. – Koncesija za površinu utvrđenog e
+ ksploatacijskog polja neenergetskih mineralnih sirovina (BOSILJEVO) · dav
+ atelj: MINISTARSTVO GOSPODARSTVA\, 4.756 €/god.\n• PARON D.O.O. – Ko
+ ncesija za eksploataciju tehničko-građevnog kamena (BOSILJEVO) · davate
+ lj: MINISTARSTVO GOSPODARSTVA\n\nProfil općine: https://koncesijski-sat.v
+ ercel.app/#opcina/41942358B68392687471832\nIzvor: Registar koncesija (FINA
+ )\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B68392687471832
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -73,40 +78,42 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-5e207e540ec92a2a@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-4572d915ec8ebc3a@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20400630
 DTEND;VALUE=DATE:20400701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Bosiljevo
 DESCRIPTION:31. 12. 2040. ističe 3 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• PARON D.O.O. – Koncesija za eksploataciju tehničko-građevno
- g kamena (BOSILJEVO)\, 4.756 €/god.\n• PARON D.O.O. – Koncesija za p
- ovršinu utvrđenog eksploatacijskog polja neenergetskih mineralnih sirovi
- na (BOSILJEVO)\, 4.756 €/god.\n• PARON D.O.O. – Koncesija za eksploa
- taciju tehničko-građevnog kamena (BOSILJEVO)\n\nProfil općine: https://
- koncesijski-sat.vercel.app/#opcina/41942358B68392687471832
+ g kamena (BOSILJEVO) · davatelj: MINISTARSTVO GOSPODARSTVA\, 4.756 €/go
+ d.\n• PARON D.O.O. – Koncesija za površinu utvrđenog eksploatacijsko
+ g polja neenergetskih mineralnih sirovina (BOSILJEVO) · davatelj: MINISTA
+ RSTVO GOSPODARSTVA\, 4.756 €/god.\n• PARON D.O.O. – Koncesija za eks
+ ploataciju tehničko-građevnog kamena (BOSILJEVO) · davatelj: MINISTARST
+ VO GOSPODARSTVA\n\nProfil općine: https://koncesijski-sat.vercel.app/#opc
+ ina/41942358B68392687471832
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B68392687471832
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Bosiljevo
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-5e8b728c40303bba@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-7683a3588fd414e0@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20591209
 DTEND;VALUE=DATE:20591210
 SUMMARY:Ističe koncesija: HRVATSKA ELEKTROPRIVREDA  D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 9. 12. 2059. Godišnja fiksna nakn
  ada: 621.467 €.\n\n• HRVATSKA ELEKTROPRIVREDA  D.D. – Koncesija za k
  orištenje vodne snage radi proizvodnje električne energije (BOSILJEVO\, 
- GENERALSKI STOL\, GENERALSKI STOL\, OGULIN\, OGULIN)\, 621.467 €/god.\n\
- nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B68392
- 687471832\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11
- . 2026.
+ GENERALSKI STOL\, GENERALSKI STOL\, OGULIN\, OGULIN) · davatelj: MINISTAR
+ STVO ZAŠTITE OKOLIŠA I ZELENE TRANZICIJE\, 621.467 €/god.\n\nProfil op
+ ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B68392687471832\
+ nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B68392687471832
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -116,8 +123,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-5e8b728c40303bba@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-7683a3588fd414e0@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20590609
 DTEND;VALUE=DATE:20590610
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKA ELEKTRO
@@ -126,8 +133,9 @@ DESCRIPTION:9. 12. 2059. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• HRVATSKA ELEKTROPRIVREDA  D.D. – Koncesija za korištenje vodne
   snage radi proizvodnje električne energije (BOSILJEVO\, GENERALSKI STOL\
- , GENERALSKI STOL\, OGULIN\, OGULIN)\, 621.467 €/god.\n\nProfil općine:
-  https://koncesijski-sat.vercel.app/#opcina/41942358B68392687471832
+ , GENERALSKI STOL\, OGULIN\, OGULIN) · davatelj: MINISTARSTVO ZAŠTITE OK
+ OLIŠA I ZELENE TRANZICIJE\, 621.467 €/god.\n\nProfil općine: https://k
+ oncesijski-sat.vercel.app/#opcina/41942358B68392687471832
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B68392687471832
 TRANSP:TRANSPARENT
 BEGIN:VALARM

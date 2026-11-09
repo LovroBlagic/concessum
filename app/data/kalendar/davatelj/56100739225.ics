@@ -1,0 +1,59 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · OPĆINA PETLOVAC
+X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje OPĆINA PETLOVAC. Iz Regis
+ tra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podat
+ aka. https://koncesijski-sat.vercel.app/#sat
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-f5771117f010b19f@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20361207
+DTEND;VALUE=DATE:20361208
+SUMMARY:Ističe 2 koncesije · OPĆINA PETLOVAC
+DESCRIPTION:2 ugovora o koncesiji ističe 7. 12. 2036. Godišnja fiksna nak
+ nada: 427.444 €.\n\n• BELJE PLUS D.O.O. – Koncesija za korištenje p
+ oljoprivrednog zemljišta u vlasništvu države (PETLOVAC\, Općina Petlov
+ ac)\, 213.722 €/god.\n• BELJE PLUS D.O.O. ZA JAMČEVINU – Koncesija 
+ za korištenje poljoprivrednog zemljišta u vlasništvu države (PETLOVAC\
+ , Općina Petlovac)\, 213.722 €/god.\n\nŠto ističe: https://koncesijsk
+ i-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Koncesijs
+ ki sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 2 koncesije · OPĆINA PETLOVAC
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-f5771117f010b19f@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20360607
+DTEND;VALUE=DATE:20360608
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · OPĆINA PETLOV
+ AC
+DESCRIPTION:7. 12. 2036. ističe 2 ugovora o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• BELJE PLUS D.O.O. – Koncesija za korištenje poljoprivrednog z
+ emljišta u vlasništvu države (PETLOVAC\, Općina Petlovac)\, 213.722 
+ €/god.\n• BELJE PLUS D.O.O. ZA JAMČEVINU – Koncesija za korištenje
+  poljoprivrednog zemljišta u vlasništvu države (PETLOVAC\, Općina Petl
+ ovac)\, 213.722 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.a
+ pp/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije · OPĆINA PE
+ TLOVAC
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

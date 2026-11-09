@@ -1,0 +1,140 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · OPĆINA SEMELJCI
+X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje OPĆINA SEMELJCI. Iz Regis
+ tra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podat
+ aka. https://koncesijski-sat.vercel.app/#sat
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-22e8e8d9c41f16b9@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20310430
+DTEND;VALUE=DATE:20310501
+SUMMARY:Ističe 2 koncesije · OPĆINA SEMELJCI
+DESCRIPTION:2 ugovora o koncesiji ističe 30. 4. 2031.\n\n• HEP-PLIN  D.O
+ .O. – Koncesija za opskrbu potrošača prirodnim plinom (\, Općina Seme
+ ljci)\n• HEP - PLIN  D.O.O. – Koncesija za opskrbu potrošača prirodn
+ im plinom (SEMELJCI\, Općina Semeljci)\n\nŠto ističe: https://koncesijs
+ ki-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Koncesij
+ ski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 2 koncesije · OPĆINA SEMELJCI
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-22e8e8d9c41f16b9@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20301030
+DTEND;VALUE=DATE:20301031
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · OPĆINA SEMELJ
+ CI
+DESCRIPTION:30. 4. 2031. ističe 2 ugovora o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• HEP-PLIN  D.O.O. – Koncesija za opskrbu potrošača prirodnim 
+ plinom (\, Općina Semeljci)\n• HEP - PLIN  D.O.O. – Koncesija za opsk
+ rbu potrošača prirodnim plinom (SEMELJCI\, Općina Semeljci)\n\nŠto ist
+ iče: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije · OPĆINA SE
+ MELJCI
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-fc075427727790a1@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20370119
+DTEND;VALUE=DATE:20370120
+SUMMARY:Ističe 2 koncesije · OPĆINA SEMELJCI
+DESCRIPTION:2 ugovora o koncesiji ističe 19. 1. 2037. Godišnja fiksna nak
+ nada: 149.780 €.\n\n• BERAK D.O.O. – Koncesija za korištenje poljop
+ rivrednog zemljišta u vlasništvu države (SEMELJCI\, Općina Semeljci)\,
+  74.890 €/god.\n• BERAK D.O.O. – Koncesija za korištenje poljoprivr
+ ednog zemljišta u vlasništvu države (SEMELJCI\, Općina Semeljci)\, 74.
+ 890 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzv
+ or: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 2 koncesije · OPĆINA SEMELJCI
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-fc075427727790a1@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20360719
+DTEND;VALUE=DATE:20360720
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · OPĆINA SEMELJ
+ CI
+DESCRIPTION:19. 1. 2037. ističe 2 ugovora o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• BERAK D.O.O. – Koncesija za korištenje poljoprivrednog zemlji
+ šta u vlasništvu države (SEMELJCI\, Općina Semeljci)\, 74.890 €/god.
+ \n• BERAK D.O.O. – Koncesija za korištenje poljoprivrednog zemljišta
+  u vlasništvu države (SEMELJCI\, Općina Semeljci)\, 74.890 €/god.\n\n
+ Što ističe: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije · OPĆINA SE
+ MELJCI
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-9c6e96d6e7267b9d@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20370122
+DTEND;VALUE=DATE:20370123
+SUMMARY:Ističe koncesija: OSATINA GRUPA D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 22. 1. 2037. Godišnja fiksna nakn
+ ada: 47.667 €.\n\n• OSATINA GRUPA D.O.O. – Koncesija za korištenje 
+ poljoprivrednog zemljišta u vlasništvu države (SEMELJCI\, Općina Semel
+ jci)\, 47.667 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app
+ /#sat\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 20
+ 26.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: OSATINA GRUPA D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-9c6e96d6e7267b9d@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20360722
+DTEND;VALUE=DATE:20360723
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (OSATINA GRUPA D.
+ O.O.)
+DESCRIPTION:22. 1. 2037. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• OSATINA GRUPA D.O.O. – Koncesija za korištenje poljoprivrednog
+  zemljišta u vlasništvu države (SEMELJCI\, Općina Semeljci)\, 47.667 
+ €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (OSATINA GRUP
+ A D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

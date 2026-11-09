@@ -4,27 +4,29 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Grad Pakrac
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Grad Pakrac. Iz Registra
-  koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podataka
- . https://koncesijski-sat.vercel.app/#opcina/41942358B72735115431411
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Grad Pakrac (pregled\, s
+ vi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježava se n
+ akon svake obrade podataka. https://koncesijski-sat.vercel.app/#opcina/419
+ 42358B72735115431411
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-67b24fed8d78918e@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-40df0720b1c6fdd0@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20381231
 DTEND;VALUE=DATE:20390101
 SUMMARY:Ističe 3 koncesije · Pakrac
 DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2038. Godišnja fiksna na
  knada: 860 €.\n\n• KAMEN-PSUNJ D.O.O. – Koncesija za eksploataciju t
- ehničko-građevnog kamena (PAKRAC)\, 430 €/god.\n• KAMEN-PSUNJ D.O.O.
-  – Koncesija za površinu utvrđenog eksploatacijskog polja neenergetski
- h mineralnih sirovina (PAKRAC)\, 430 €/god.\n• KAMEN - PSUNJ D. O. O. 
- – Koncesija za eksploataciju tehničko-građevnog kamena (PAKRAC)\n\nPro
- fil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B727351154
- 31411\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 20
- 26.
+ ehničko-građevnog kamena (PAKRAC) · davatelj: MINISTARSTVO GOSPODARSTVA
+ \, 430 €/god.\n• KAMEN-PSUNJ D.O.O. – Koncesija za površinu utvrđe
+ nog eksploatacijskog polja neenergetskih mineralnih sirovina (PAKRAC) · d
+ avatelj: MINISTARSTVO GOSPODARSTVA\, 430 €/god.\n• KAMEN - PSUNJ D. O.
+  O. – Koncesija za eksploataciju tehničko-građevnog kamena (PAKRAC) ·
+  davatelj: MINISTARSTVO GOSPODARSTVA\n\nProfil općine: https://koncesijsk
+ i-sat.vercel.app/#opcina/41942358B72735115431411\nIzvor: Registar koncesij
+ a (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B72735115431411
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -34,39 +36,41 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-67b24fed8d78918e@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-40df0720b1c6fdd0@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20380630
 DTEND;VALUE=DATE:20380701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Pakrac
 DESCRIPTION:31. 12. 2038. ističe 3 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• KAMEN-PSUNJ D.O.O. – Koncesija za eksploataciju tehničko-gra
- đevnog kamena (PAKRAC)\, 430 €/god.\n• KAMEN-PSUNJ D.O.O. – Koncesi
- ja za površinu utvrđenog eksploatacijskog polja neenergetskih mineralnih
-  sirovina (PAKRAC)\, 430 €/god.\n• KAMEN - PSUNJ D. O. O. – Koncesij
- a za eksploataciju tehničko-građevnog kamena (PAKRAC)\n\nProfil općine:
-  https://koncesijski-sat.vercel.app/#opcina/41942358B72735115431411
+ đevnog kamena (PAKRAC) · davatelj: MINISTARSTVO GOSPODARSTVA\, 430 €/g
+ od.\n• KAMEN-PSUNJ D.O.O. – Koncesija za površinu utvrđenog eksploat
+ acijskog polja neenergetskih mineralnih sirovina (PAKRAC) · davatelj: MIN
+ ISTARSTVO GOSPODARSTVA\, 430 €/god.\n• KAMEN - PSUNJ D. O. O. – Konc
+ esija za eksploataciju tehničko-građevnog kamena (PAKRAC) · davatelj: M
+ INISTARSTVO GOSPODARSTVA\n\nProfil općine: https://koncesijski-sat.vercel
+ .app/#opcina/41942358B72735115431411
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B72735115431411
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Pakrac
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-89ab20636eabda5b@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-4eff63fa12b6a612@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20430717
 DTEND;VALUE=DATE:20430718
 SUMMARY:Ističe koncesija: PERANOVIĆ D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 17. 7. 2043. Godišnja fiksna nakn
  ada: 634 €.\n\n• PERANOVIĆ D.O.O. – Koncesija za korištenje vodne 
- snage radi proizvodnje električne energije (PAKRAC)\, 634 €/god.\n\nPro
- fil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B727351154
- 31411\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 20
- 26.
+ snage radi proizvodnje električne energije (PAKRAC) · davatelj: MINISTAR
+ STVO ZAŠTITE OKOLIŠA I ZELENE TRANZICIJE\, 634 €/god.\n\nProfil općin
+ e: https://koncesijski-sat.vercel.app/#opcina/41942358B72735115431411\nIzv
+ or: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B72735115431411
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -76,8 +80,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-89ab20636eabda5b@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-4eff63fa12b6a612@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20430117
 DTEND;VALUE=DATE:20430118
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PERANOVIĆ D.O.O
@@ -85,8 +89,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PERANOVIĆ D.O.O
 DESCRIPTION:17. 7. 2043. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• PERANOVIĆ D.O.O. – Koncesija za korištenje vodne snage radi p
- roizvodnje električne energije (PAKRAC)\, 634 €/god.\n\nProfil općine:
-  https://koncesijski-sat.vercel.app/#opcina/41942358B72735115431411
+ roizvodnje električne energije (PAKRAC) · davatelj: MINISTARSTVO ZAŠTIT
+ E OKOLIŠA I ZELENE TRANZICIJE\, 634 €/god.\n\nProfil općine: https://k
+ oncesijski-sat.vercel.app/#opcina/41942358B72735115431411
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B72735115431411
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -97,19 +102,21 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-b063600fbe0ebcdf@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-0d4161210c2e59b6@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20451231
 DTEND;VALUE=DATE:20460101
 SUMMARY:Ističe 3 koncesije · Pakrac
 DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2045. Godišnja fiksna na
  knada: 5.468 €.\n\n• SLAVONIJA D.O.O. – Koncesija za površinu utvr
- đenog eksploatacijskog polja neenergetskih mineralnih sirovina (PAKRAC)\,
-  5.468 €/god.\n• SLAVONIJA D.O.O. – Koncesija za eksploataciju tehni
- čko-građevnog kamena (PAKRAC)\n• SLAVONIJA D.O.O. – Koncesija za eks
- ploataciju tehničko-građevnog kamena (PAKRAC)\n\nProfil općine: https:/
- /koncesijski-sat.vercel.app/#opcina/41942358B72735115431411\nIzvor: Regist
- ar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ đenog eksploatacijskog polja neenergetskih mineralnih sirovina (PAKRAC) 
+ · davatelj: MINISTARSTVO GOSPODARSTVA\, 5.468 €/god.\n• SLAVONIJA D.O
+ .O. – Koncesija za eksploataciju tehničko-građevnog kamena (PAKRAC) ·
+  davatelj: MINISTARSTVO GOSPODARSTVA\n• SLAVONIJA D.O.O. – Koncesija z
+ a eksploataciju tehničko-građevnog kamena (PAKRAC) · davatelj: MINISTAR
+ STVO GOSPODARSTVA\n\nProfil općine: https://koncesijski-sat.vercel.app/#o
+ pcina/41942358B72735115431411\nIzvor: Registar koncesija (FINA)\, obrada K
+ oncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B72735115431411
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -119,39 +126,41 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-b063600fbe0ebcdf@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-0d4161210c2e59b6@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20450630
 DTEND;VALUE=DATE:20450701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Pakrac
 DESCRIPTION:31. 12. 2045. ističe 3 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• SLAVONIJA D.O.O. – Koncesija za površinu utvrđenog eksploat
- acijskog polja neenergetskih mineralnih sirovina (PAKRAC)\, 5.468 €/god.
- \n• SLAVONIJA D.O.O. – Koncesija za eksploataciju tehničko-građevnog
-  kamena (PAKRAC)\n• SLAVONIJA D.O.O. – Koncesija za eksploataciju tehn
- ičko-građevnog kamena (PAKRAC)\n\nProfil općine: https://koncesijski-sa
- t.vercel.app/#opcina/41942358B72735115431411
+ acijskog polja neenergetskih mineralnih sirovina (PAKRAC) · davatelj: MIN
+ ISTARSTVO GOSPODARSTVA\, 5.468 €/god.\n• SLAVONIJA D.O.O. – Koncesij
+ a za eksploataciju tehničko-građevnog kamena (PAKRAC) · davatelj: MINIS
+ TARSTVO GOSPODARSTVA\n• SLAVONIJA D.O.O. – Koncesija za eksploataciju 
+ tehničko-građevnog kamena (PAKRAC) · davatelj: MINISTARSTVO GOSPODARSTV
+ A\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B7
+ 2735115431411
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B72735115431411
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Pakrac
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-8b837df94e24109a@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-a26e7938220b3e02@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20550626
 DTEND;VALUE=DATE:20550627
 SUMMARY:Ističe koncesija: ASPECT CROATIA KFT. - PODRUŽNICA ZAGREB
 DESCRIPTION:1 ugovor o koncesiji ističe 26. 6. 2055. Godišnja fiksna nakn
  ada: 1.408 €.\n\n• ASPECT CROATIA KFT. - PODRUŽNICA ZAGREB – Dozvol
  a za istraživanje ugljikovodika (prema Zakonu o ugljikovodicima) (PAKRAC)
- \, 1.408 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#o
- pcina/41942358B72735115431411\nIzvor: Registar koncesija (FINA)\, obrada K
- oncesijski sat 9. 11. 2026.
+  · davatelj: MINISTARSTVO GOSPODARSTVA\, 1.408 €/god.\n\nProfil općine
+ : https://koncesijski-sat.vercel.app/#opcina/41942358B72735115431411\nIzvo
+ r: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B72735115431411
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -161,8 +170,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-8b837df94e24109a@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-a26e7938220b3e02@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20541226
 DTEND;VALUE=DATE:20541227
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ASPECT CROATIA K
@@ -170,9 +179,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ASPECT CROATIA K
 DESCRIPTION:26. 6. 2055. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• ASPECT CROATIA KFT. - PODRUŽNICA ZAGREB – Dozvola za istraživ
- anje ugljikovodika (prema Zakonu o ugljikovodicima) (PAKRAC)\, 1.408 €/g
- od.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358
- B72735115431411
+ anje ugljikovodika (prema Zakonu o ugljikovodicima) (PAKRAC) · davatelj: 
+ MINISTARSTVO GOSPODARSTVA\, 1.408 €/god.\n\nProfil općine: https://konc
+ esijski-sat.vercel.app/#opcina/41942358B72735115431411
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B72735115431411
 TRANSP:TRANSPARENT
 BEGIN:VALARM

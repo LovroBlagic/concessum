@@ -4,24 +4,25 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Grad Nova Gradiška
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Grad Nova Gradiška. Iz 
- Registra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade 
- podataka. https://koncesijski-sat.vercel.app/#opcina/41942358B807595598792
- 79
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Grad Nova Gradiška (pre
+ gled\, svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvjež
+ ava se nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#op
+ cina/41942358B80759559879279
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-5d1bc79cafc429fc@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-e104073c8693be69@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20300320
 DTEND;VALUE=DATE:20300321
 SUMMARY:Ističe koncesija: DIM- ING\, VL. JOSIP BAKOVIĆ
 DESCRIPTION:1 ugovor o koncesiji ističe 20. 3. 2030. Godišnja fiksna nakn
  ada: 1.000 €.\n\n• DIM- ING\, VL. JOSIP BAKOVIĆ – Koncesija za obav
- ljanje dimnjačarskih poslova (NOVA GRADIŠKA)\, 1.000 €/god.\n\nProfil 
- općine: https://koncesijski-sat.vercel.app/#opcina/41942358B8075955987927
- 9\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ ljanje dimnjačarskih poslova (NOVA GRADIŠKA) · davatelj: GRAD NOVA GRAD
+ IŠKA\, 1.000 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.a
+ pp/#opcina/41942358B80759559879279\nIzvor: Registar koncesija (FINA)\, obr
+ ada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B80759559879279
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -31,8 +32,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-5d1bc79cafc429fc@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-e104073c8693be69@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20290920
 DTEND;VALUE=DATE:20290921
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DIM- ING\, VL. J
@@ -40,8 +41,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DIM- ING\, VL. J
 DESCRIPTION:20. 3. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• DIM- ING\, VL. JOSIP BAKOVIĆ – Koncesija za obavljanje dimnja
- čarskih poslova (NOVA GRADIŠKA)\, 1.000 €/god.\n\nProfil općine: http
- s://koncesijski-sat.vercel.app/#opcina/41942358B80759559879279
+ čarskih poslova (NOVA GRADIŠKA) · davatelj: GRAD NOVA GRADIŠKA\, 1.000
+  €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41
+ 942358B80759559879279
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B80759559879279
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -52,16 +54,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-b26657bf7787cb78@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-b02d7d9f433c51f7@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20440617
 DTEND;VALUE=DATE:20440618
 SUMMARY:Ističe koncesija: RADIO PRKOS J.D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 17. 6. 2044. Godišnja fiksna nakn
  ada: 66 €.\n\n• RADIO PRKOS J.D.O.O. – Koncesija za obavljanje djela
- tnosti radija (NOVA GRADIŠKA)\, 66 €/god.\n\nProfil općine: https://ko
- ncesijski-sat.vercel.app/#opcina/41942358B80759559879279\nIzvor: Registar 
- koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ tnosti radija (NOVA GRADIŠKA) · davatelj: AGENCIJA ZA ELEKTRONIČKE MEDI
+ JE\, 66 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#op
+ cina/41942358B80759559879279\nIzvor: Registar koncesija (FINA)\, obrada Ko
+ ncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B80759559879279
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -71,8 +74,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-b26657bf7787cb78@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-b02d7d9f433c51f7@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20431217
 DTEND;VALUE=DATE:20431218
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (RADIO PRKOS J.D.
@@ -80,8 +83,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (RADIO PRKOS J.D.
 DESCRIPTION:17. 6. 2044. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• RADIO PRKOS J.D.O.O. – Koncesija za obavljanje djelatnosti radi
- ja (NOVA GRADIŠKA)\, 66 €/god.\n\nProfil općine: https://koncesijski-s
- at.vercel.app/#opcina/41942358B80759559879279
+ ja (NOVA GRADIŠKA) · davatelj: AGENCIJA ZA ELEKTRONIČKE MEDIJE\, 66 €
+ /god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419423
+ 58B80759559879279
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B80759559879279
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -92,17 +96,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-ecb213e4df8a99ea@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-6799d06d3142d119@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20450220
 DTEND;VALUE=DATE:20450221
 SUMMARY:Ističe koncesija: SLAVONIJA-SLAD D. O. O.
 DESCRIPTION:1 ugovor o koncesiji ističe 20. 2. 2045. Godišnja fiksna nakn
  ada: 11.720 €.\n\n• SLAVONIJA-SLAD D. O. O. – Koncesija za zahvaćan
- je voda za tehnološke potrebe (NOVA GRADIŠKA)\, 11.720 €/god.\n\nProfi
- l općine: https://koncesijski-sat.vercel.app/#opcina/41942358B80759559879
- 279\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026
- .
+ je voda za tehnološke potrebe (NOVA GRADIŠKA) · davatelj: MINISTARSTVO 
+ ZAŠTITE OKOLIŠA I ZELENE TRANZICIJE\, 11.720 €/god.\n\nProfil općine:
+  https://koncesijski-sat.vercel.app/#opcina/41942358B80759559879279\nIzvor
+ : Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B80759559879279
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -112,8 +116,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-ecb213e4df8a99ea@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-6799d06d3142d119@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20440820
 DTEND;VALUE=DATE:20440821
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (SLAVONIJA-SLAD D
@@ -121,8 +125,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (SLAVONIJA-SLAD D
 DESCRIPTION:20. 2. 2045. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• SLAVONIJA-SLAD D. O. O. – Koncesija za zahvaćanje voda za tehn
- ološke potrebe (NOVA GRADIŠKA)\, 11.720 €/god.\n\nProfil općine: http
- s://koncesijski-sat.vercel.app/#opcina/41942358B80759559879279
+ ološke potrebe (NOVA GRADIŠKA) · davatelj: MINISTARSTVO ZAŠTITE OKOLI
+ ŠA I ZELENE TRANZICIJE\, 11.720 €/god.\n\nProfil općine: https://konce
+ sijski-sat.vercel.app/#opcina/41942358B80759559879279
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B80759559879279
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -133,17 +138,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-c4ce67e43d617f1a@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-d191f86c61ffdcb3@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20550626
 DTEND;VALUE=DATE:20550627
 SUMMARY:Ističe koncesija: ASPECT CROATIA KFT. - PODRUŽNICA ZAGREB
 DESCRIPTION:1 ugovor o koncesiji ističe 26. 6. 2055. Godišnja fiksna nakn
  ada: 2.598 €.\n\n• ASPECT CROATIA KFT. - PODRUŽNICA ZAGREB – Dozvol
  a za istraživanje ugljikovodika (prema Zakonu o ugljikovodicima) (NOVA GR
- ADIŠKA)\, 2.598 €/god.\n\nProfil općine: https://koncesijski-sat.verce
- l.app/#opcina/41942358B80759559879279\nIzvor: Registar koncesija (FINA)\, 
- obrada Koncesijski sat 9. 11. 2026.
+ ADIŠKA) · davatelj: MINISTARSTVO GOSPODARSTVA\, 2.598 €/god.\n\nProfil
+  općine: https://koncesijski-sat.vercel.app/#opcina/41942358B807595598792
+ 79\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B80759559879279
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -153,8 +158,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-c4ce67e43d617f1a@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-d191f86c61ffdcb3@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20541226
 DTEND;VALUE=DATE:20541227
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ASPECT CROATIA K
@@ -162,9 +167,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ASPECT CROATIA K
 DESCRIPTION:26. 6. 2055. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• ASPECT CROATIA KFT. - PODRUŽNICA ZAGREB – Dozvola za istraživ
- anje ugljikovodika (prema Zakonu o ugljikovodicima) (NOVA GRADIŠKA)\, 2.5
- 98 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/
- 41942358B80759559879279
+ anje ugljikovodika (prema Zakonu o ugljikovodicima) (NOVA GRADIŠKA) · da
+ vatelj: MINISTARSTVO GOSPODARSTVA\, 2.598 €/god.\n\nProfil općine: http
+ s://koncesijski-sat.vercel.app/#opcina/41942358B80759559879279
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B80759559879279
 TRANSP:TRANSPARENT
 BEGIN:VALARM

@@ -4,25 +4,25 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Općina Sveti Petar Orehovec
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Sveti Petar Oreh
- ovec. Iz Registra koncesija (FINA\, data.gov.hr). Osvježava se nakon svak
- e obrade podataka. https://koncesijski-sat.vercel.app/#opcina/41942358B517
- 30819474103
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Općina Sveti Petar Oreh
+ ovec (pregled\, svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr)
+ . Osvježava se nakon svake obrade podataka. https://koncesijski-sat.verce
+ l.app/#opcina/41942358B51730819474103
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-a72c0f45ed9ab336@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-edcf2cd582c6e275@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20271113
 DTEND;VALUE=DATE:20271114
 SUMMARY:Ističe koncesija: ASPECT CROATIA KFT.
 DESCRIPTION:1 ugovor o koncesiji ističe 13. 11. 2027. Godišnja fiksna nak
  nada: 537 €.\n\n• ASPECT CROATIA KFT. – Dozvola za istraživanje ugl
- jikovodika (prema Zakonu o ugljikovodicima) (SVETI PETAR OREHOVEC)\, 537 
- €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
- 42358B51730819474103\nIzvor: Registar koncesija (FINA)\, obrada Koncesijsk
- i sat 9. 11. 2026.
+ jikovodika (prema Zakonu o ugljikovodicima) (SVETI PETAR OREHOVEC) · dava
+ telj: MINISTARSTVO GOSPODARSTVA\, 537 €/god.\n\nProfil općine: https://
+ koncesijski-sat.vercel.app/#opcina/41942358B51730819474103\nIzvor: Regista
+ r koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B51730819474103
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -32,8 +32,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-a72c0f45ed9ab336@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-edcf2cd582c6e275@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270513
 DTEND;VALUE=DATE:20270514
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ASPECT CROATIA K
@@ -41,9 +41,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ASPECT CROATIA K
 DESCRIPTION:13. 11. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• ASPECT CROATIA KFT. – Dozvola za istraživanje ugljikovodika (
- prema Zakonu o ugljikovodicima) (SVETI PETAR OREHOVEC)\, 537 €/god.\n\nP
- rofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B5173081
- 9474103
+ prema Zakonu o ugljikovodicima) (SVETI PETAR OREHOVEC) · davatelj: MINIST
+ ARSTVO GOSPODARSTVA\, 537 €/god.\n\nProfil općine: https://koncesijski-
+ sat.vercel.app/#opcina/41942358B51730819474103
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B51730819474103
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -54,20 +54,21 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-7f8ee22b4205f89b@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-e96925c066e9a501@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20271205
 DTEND;VALUE=DATE:20271206
 SUMMARY:Ističe 3 koncesije · Sveti Petar Orehovec
 DESCRIPTION:3 ugovora o koncesiji ističe 5. 12. 2027. Godišnja fiksna nak
  nada: 4.632 €.\n\n• RADNIK D.D. – Koncesija za eksploataciju ciglars
- ke gline (SVETI PETAR OREHOVEC)\, 2.316 €/god.\n• RADNIK D.D. – Konc
- esija za površinu utvrđenog eksploatacijskog polja neenergetskih mineral
- nih sirovina (SVETI PETAR OREHOVEC)\, 2.316 €/god.\n• RADNIK D.D. – 
- Koncesija za eksploataciju ciglarske gline (SVETI PETAR OREHOVEC)\n\nProfi
- l općine: https://koncesijski-sat.vercel.app/#opcina/41942358B51730819474
- 103\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026
- .
+ ke gline (SVETI PETAR OREHOVEC) · davatelj: MINISTARSTVO GOSPODARSTVA\, 2
+ .316 €/god.\n• RADNIK D.D. – Koncesija za površinu utvrđenog ekspl
+ oatacijskog polja neenergetskih mineralnih sirovina (SVETI PETAR OREHOVEC)
+  · davatelj: MINISTARSTVO GOSPODARSTVA\, 2.316 €/god.\n• RADNIK D.D. 
+ – Koncesija za eksploataciju ciglarske gline (SVETI PETAR OREHOVEC) · d
+ avatelj: MINISTARSTVO GOSPODARSTVA\n\nProfil općine: https://koncesijski-
+ sat.vercel.app/#opcina/41942358B51730819474103\nIzvor: Registar koncesija 
+ (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B51730819474103
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -77,39 +78,43 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-7f8ee22b4205f89b@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-e96925c066e9a501@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270605
 DTEND;VALUE=DATE:20270606
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Sveti Petar Or
+ ehovec
 DESCRIPTION:5. 12. 2027. ističe 3 ugovora o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• RADNIK D.D. – Koncesija za eksploataciju ciglarske gline (SVET
- I PETAR OREHOVEC)\, 2.316 €/god.\n• RADNIK D.D. – Koncesija za povr
- šinu utvrđenog eksploatacijskog polja neenergetskih mineralnih sirovina 
- (SVETI PETAR OREHOVEC)\, 2.316 €/god.\n• RADNIK D.D. – Koncesija za 
- eksploataciju ciglarske gline (SVETI PETAR OREHOVEC)\n\nProfil općine: ht
- tps://koncesijski-sat.vercel.app/#opcina/41942358B51730819474103
+ I PETAR OREHOVEC) · davatelj: MINISTARSTVO GOSPODARSTVA\, 2.316 €/god.\
+ n• RADNIK D.D. – Koncesija za površinu utvrđenog eksploatacijskog po
+ lja neenergetskih mineralnih sirovina (SVETI PETAR OREHOVEC) · davatelj: 
+ MINISTARSTVO GOSPODARSTVA\, 2.316 €/god.\n• RADNIK D.D. – Koncesija 
+ za eksploataciju ciglarske gline (SVETI PETAR OREHOVEC) · davatelj: MINIS
+ TARSTVO GOSPODARSTVA\n\nProfil općine: https://koncesijski-sat.vercel.app
+ /#opcina/41942358B51730819474103
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B51730819474103
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Sveti Peta
+ r Orehovec
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-1c4a25e6bb5de9fe@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-ebb33bee18866b5e@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20530704
 DTEND;VALUE=DATE:20530705
 SUMMARY:Ističe koncesija: ŠIRJAN D.O.O. PODRAČUN
 DESCRIPTION:1 ugovor o koncesiji ističe 4. 7. 2053. Godišnja fiksna nakna
  da: 1.600 €.\n\n• ŠIRJAN D.O.O. PODRAČUN – Koncesija za zahvaćanj
- e voda za tehnološke potrebe (SVETI PETAR OREHOVEC)\, 1.600 €/god.\n\nP
- rofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B5173081
- 9474103\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 
- 2026.
+ e voda za tehnološke potrebe (SVETI PETAR OREHOVEC) · davatelj: MINISTAR
+ STVO ZAŠTITE OKOLIŠA I ZELENE TRANZICIJE\, 1.600 €/god.\n\nProfil opć
+ ine: https://koncesijski-sat.vercel.app/#opcina/41942358B51730819474103\nI
+ zvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B51730819474103
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -119,8 +124,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-1c4a25e6bb5de9fe@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-ebb33bee18866b5e@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20530104
 DTEND;VALUE=DATE:20530105
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ŠIRJAN D.O.O. P
@@ -128,8 +133,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ŠIRJAN D.O.O. P
 DESCRIPTION:4. 7. 2053. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• ŠIRJAN D.O.O. PODRAČUN – Koncesija za zahvaćanje voda za tehn
- ološke potrebe (SVETI PETAR OREHOVEC)\, 1.600 €/god.\n\nProfil općine:
-  https://koncesijski-sat.vercel.app/#opcina/41942358B51730819474103
+ ološke potrebe (SVETI PETAR OREHOVEC) · davatelj: MINISTARSTVO ZAŠTITE 
+ OKOLIŠA I ZELENE TRANZICIJE\, 1.600 €/god.\n\nProfil općine: https://k
+ oncesijski-sat.vercel.app/#opcina/41942358B51730819474103
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B51730819474103
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -140,17 +146,18 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-f00e9440fc8c8fa3@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-a960e3969604fb9e@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20550626
 DTEND;VALUE=DATE:20550627
 SUMMARY:Ističe koncesija: ASPECT CROATIA KFT. - PODRUŽNICA ZAGREB
 DESCRIPTION:1 ugovor o koncesiji ističe 26. 6. 2055. Godišnja fiksna nakn
  ada: 1.323 €.\n\n• ASPECT CROATIA KFT. - PODRUŽNICA ZAGREB – Dozvol
  a za istraživanje ugljikovodika (prema Zakonu o ugljikovodicima) (SVETI P
- ETAR OREHOVEC)\, 1.323 €/god.\n\nProfil općine: https://koncesijski-sat
- .vercel.app/#opcina/41942358B51730819474103\nIzvor: Registar koncesija (FI
- NA)\, obrada Koncesijski sat 9. 11. 2026.
+ ETAR OREHOVEC) · davatelj: MINISTARSTVO GOSPODARSTVA\, 1.323 €/god.\n\n
+ Profil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B517308
+ 19474103\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11.
+  2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B51730819474103
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -160,8 +167,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-f00e9440fc8c8fa3@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-a960e3969604fb9e@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20541226
 DTEND;VALUE=DATE:20541227
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ASPECT CROATIA K
@@ -170,8 +177,8 @@ DESCRIPTION:26. 6. 2055. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• ASPECT CROATIA KFT. - PODRUŽNICA ZAGREB – Dozvola za istraživ
  anje ugljikovodika (prema Zakonu o ugljikovodicima) (SVETI PETAR OREHOVEC)
- \, 1.323 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#o
- pcina/41942358B51730819474103
+  · davatelj: MINISTARSTVO GOSPODARSTVA\, 1.323 €/god.\n\nProfil općine
+ : https://koncesijski-sat.vercel.app/#opcina/41942358B51730819474103
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B51730819474103
 TRANSP:TRANSPARENT
 BEGIN:VALARM

@@ -4,25 +4,26 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Općina Pučišća
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Pučišća. Iz R
- egistra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade p
- odataka. https://koncesijski-sat.vercel.app/#opcina/41942358B2519386297173
- 7
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Općina Pučišća (preg
+ led\, svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježa
+ va se nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#opc
+ ina/41942358B25193862971737
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-a5f6c288728e8cc8@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-7383419ba3965f92@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20280328
 DTEND;VALUE=DATE:20280329
 SUMMARY:Ističe koncesija: UGOSTITELJSKI OBRT\, ROJEN\, PUČIŠĆA
 DESCRIPTION:1 ugovor o koncesiji ističe 28. 3. 2028. Godišnja fiksna nakn
  ada: 10.205 €.\n\n• UGOSTITELJSKI OBRT\, ROJEN\, PUČIŠĆA – Konces
  ija pomorskog dobra u svrhu izgradnje i gospodarskog korištenja luke pose
- bne namjene (PUČIŠĆA)\, 10.205 €/god.\n\nProfil općine: https://konc
- esijski-sat.vercel.app/#opcina/41942358B25193862971737\nIzvor: Registar ko
- ncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ bne namjene (PUČIŠĆA) · davatelj: SPLITSKO-DALMATINSKA ŽUPANIJA\, 10.
+ 205 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina
+ /41942358B25193862971737\nIzvor: Registar koncesija (FINA)\, obrada Konces
+ ijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B25193862971737
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -32,8 +33,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-a5f6c288728e8cc8@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-7383419ba3965f92@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270928
 DTEND;VALUE=DATE:20270929
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (UGOSTITELJSKI OB
@@ -42,8 +43,9 @@ DESCRIPTION:28. 3. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• UGOSTITELJSKI OBRT\, ROJEN\, PUČIŠĆA – Koncesija pomorskog d
  obra u svrhu izgradnje i gospodarskog korištenja luke posebne namjene (PU
- ČIŠĆA)\, 10.205 €/god.\n\nProfil općine: https://koncesijski-sat.ver
- cel.app/#opcina/41942358B25193862971737
+ ČIŠĆA) · davatelj: SPLITSKO-DALMATINSKA ŽUPANIJA\, 10.205 €/god.\n\
+ nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B25193
+ 862971737
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B25193862971737
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -54,16 +56,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-5397e41699a0bd28@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-e5bc7d50d9298b99@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20291127
 DTEND;VALUE=DATE:20291128
 SUMMARY:Ističe koncesija: PIPO UGOSTITELJSKI OBRT PUČIŠĆA
 DESCRIPTION:1 ugovor o koncesiji ističe 27. 11. 2029. Godišnja fiksna nak
  nada: 7.331 €.\n\n• PIPO UGOSTITELJSKI OBRT PUČIŠĆA – Koncesija n
- a pomorskom dobru (PUČIŠĆA)\, 7.331 €/god.\n\nProfil općine: https:/
- /koncesijski-sat.vercel.app/#opcina/41942358B25193862971737\nIzvor: Regist
- ar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ a pomorskom dobru (PUČIŠĆA) · davatelj: SPLITSKO-DALMATINSKA ŽUPANIJA
+ \, 7.331 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#o
+ pcina/41942358B25193862971737\nIzvor: Registar koncesija (FINA)\, obrada K
+ oncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B25193862971737
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -73,8 +76,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-5397e41699a0bd28@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-e5bc7d50d9298b99@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20290527
 DTEND;VALUE=DATE:20290528
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PIPO UGOSTITELJS
@@ -82,8 +85,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PIPO UGOSTITELJS
 DESCRIPTION:27. 11. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• PIPO UGOSTITELJSKI OBRT PUČIŠĆA – Koncesija na pomorskom do
- bru (PUČIŠĆA)\, 7.331 €/god.\n\nProfil općine: https://koncesijski-s
- at.vercel.app/#opcina/41942358B25193862971737
+ bru (PUČIŠĆA) · davatelj: SPLITSKO-DALMATINSKA ŽUPANIJA\, 7.331 €/g
+ od.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358
+ B25193862971737
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B25193862971737
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -94,20 +98,22 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-1f951a1ff3e173b8@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-5ad4875c812c3ef8@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20321231
 DTEND;VALUE=DATE:20330101
 SUMMARY:Ističe 3 koncesije · Pučišća
 DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2032. Godišnja fiksna na
  knada: 23.658 €.\n\n• DUBOKA KAMEN D.O.O. – Koncesija za eksploataci
- ju arhitektonsko-građevnog kamena (PUČIŠĆA)\, 7.886 €/god.\n• DUBO
- KA KAMEN D.O.O. – Koncesija za eksploataciju arhitektonsko-građevnog ka
- mena (PUČIŠĆA)\, 7.886 €/god.\n• DUBOKA KAMEN D.O.O. – Koncesija 
- za površinu utvrđenog eksploatacijskog polja neenergetskih mineralnih si
- rovina (PUČIŠĆA)\, 7.886 €/god.\n\nProfil općine: https://koncesijsk
- i-sat.vercel.app/#opcina/41942358B25193862971737\nIzvor: Registar koncesij
- a (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ ju arhitektonsko-građevnog kamena (PUČIŠĆA) · davatelj: MINISTARSTVO 
+ GOSPODARSTVA\, 7.886 €/god.\n• DUBOKA KAMEN D.O.O. – Koncesija za ek
+ sploataciju arhitektonsko-građevnog kamena (PUČIŠĆA) · davatelj: MINI
+ STARSTVO GOSPODARSTVA\, 7.886 €/god.\n• DUBOKA KAMEN D.O.O. – Konces
+ ija za površinu utvrđenog eksploatacijskog polja neenergetskih mineralni
+ h sirovina (PUČIŠĆA) · davatelj: MINISTARSTVO GOSPODARSTVA\, 7.886 €
+ /god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419423
+ 58B25193862971737\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski s
+ at 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B25193862971737
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -117,43 +123,47 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-1f951a1ff3e173b8@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-5ad4875c812c3ef8@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20320630
 DTEND;VALUE=DATE:20320701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Pučišća
 DESCRIPTION:31. 12. 2032. ističe 3 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• DUBOKA KAMEN D.O.O. – Koncesija za eksploataciju arhitektonsk
- o-građevnog kamena (PUČIŠĆA)\, 7.886 €/god.\n• DUBOKA KAMEN D.O.O.
-  – Koncesija za eksploataciju arhitektonsko-građevnog kamena (PUČIŠĆ
- A)\, 7.886 €/god.\n• DUBOKA KAMEN D.O.O. – Koncesija za površinu ut
- vrđenog eksploatacijskog polja neenergetskih mineralnih sirovina (PUČIŠ
- ĆA)\, 7.886 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.ap
- p/#opcina/41942358B25193862971737
+ o-građevnog kamena (PUČIŠĆA) · davatelj: MINISTARSTVO GOSPODARSTVA\, 
+ 7.886 €/god.\n• DUBOKA KAMEN D.O.O. – Koncesija za eksploataciju arh
+ itektonsko-građevnog kamena (PUČIŠĆA) · davatelj: MINISTARSTVO GOSPOD
+ ARSTVA\, 7.886 €/god.\n• DUBOKA KAMEN D.O.O. – Koncesija za površin
+ u utvrđenog eksploatacijskog polja neenergetskih mineralnih sirovina (PU
+ ČIŠĆA) · davatelj: MINISTARSTVO GOSPODARSTVA\, 7.886 €/god.\n\nProfi
+ l općine: https://koncesijski-sat.vercel.app/#opcina/41942358B25193862971
+ 737
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B25193862971737
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Pučišća
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-ea41ab42f14d595c@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-ce68bfb367bf4880@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20401231
 DTEND;VALUE=DATE:20410101
 SUMMARY:Ističe 3 koncesije · Pučišća
 DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2040. Godišnja fiksna na
  knada: 1.896 €.\n\n• MARINELIĆ-BILI D.O.O. – Koncesija za eksploata
- ciju arhitektonsko-građevnog kamena (PUČIŠĆA)\, 632 €/god.\n• MARI
- NELIĆ-BILI D.O.O. – Koncesija za eksploataciju arhitektonsko-građevnog
-  kamena (PUČIŠĆA)\, 632 €/god.\n• MARINELIĆ-BILI D.O.O. – Konces
- ija za površinu utvrđenog eksploatacijskog polja neenergetskih mineralni
- h sirovina (PUČIŠĆA)\, 632 €/god.\n\nProfil općine: https://koncesij
- ski-sat.vercel.app/#opcina/41942358B25193862971737\nIzvor: Registar konces
- ija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ ciju arhitektonsko-građevnog kamena (PUČIŠĆA) · davatelj: MINISTARSTV
+ O GOSPODARSTVA\, 632 €/god.\n• MARINELIĆ-BILI D.O.O. – Koncesija za
+  eksploataciju arhitektonsko-građevnog kamena (PUČIŠĆA) · davatelj: M
+ INISTARSTVO GOSPODARSTVA\, 632 €/god.\n• MARINELIĆ-BILI D.O.O. – Ko
+ ncesija za površinu utvrđenog eksploatacijskog polja neenergetskih miner
+ alnih sirovina (PUČIŠĆA) · davatelj: MINISTARSTVO GOSPODARSTVA\, 632 
+ €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
+ 42358B25193862971737\nIzvor: Registar koncesija (FINA)\, obrada Koncesijsk
+ i sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B25193862971737
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -163,39 +173,42 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-ea41ab42f14d595c@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-ce68bfb367bf4880@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20400630
 DTEND;VALUE=DATE:20400701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Pučišća
 DESCRIPTION:31. 12. 2040. ističe 3 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• MARINELIĆ-BILI D.O.O. – Koncesija za eksploataciju arhitekto
- nsko-građevnog kamena (PUČIŠĆA)\, 632 €/god.\n• MARINELIĆ-BILI D.
- O.O. – Koncesija za eksploataciju arhitektonsko-građevnog kamena (PUČI
- ŠĆA)\, 632 €/god.\n• MARINELIĆ-BILI D.O.O. – Koncesija za površi
- nu utvrđenog eksploatacijskog polja neenergetskih mineralnih sirovina (PU
- ČIŠĆA)\, 632 €/god.\n\nProfil općine: https://koncesijski-sat.vercel
- .app/#opcina/41942358B25193862971737
+ nsko-građevnog kamena (PUČIŠĆA) · davatelj: MINISTARSTVO GOSPODARSTVA
+ \, 632 €/god.\n• MARINELIĆ-BILI D.O.O. – Koncesija za eksploataciju
+  arhitektonsko-građevnog kamena (PUČIŠĆA) · davatelj: MINISTARSTVO GO
+ SPODARSTVA\, 632 €/god.\n• MARINELIĆ-BILI D.O.O. – Koncesija za pov
+ ršinu utvrđenog eksploatacijskog polja neenergetskih mineralnih sirovina
+  (PUČIŠĆA) · davatelj: MINISTARSTVO GOSPODARSTVA\, 632 €/god.\n\nPro
+ fil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B251938629
+ 71737
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B25193862971737
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Pučišća
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-88b008fe7aa90449@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-d592f2e00a33c456@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20430614
 DTEND;VALUE=DATE:20430615
 SUMMARY:Ističe koncesija: JADRANKAMEN D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 14. 6. 2043. Godišnja fiksna nakn
  ada: 20.000 €.\n\n• JADRANKAMEN D.O.O. – Koncesija na pomorskom dobr
- u (PUČIŠĆA)\, 20.000 €/god.\n\nProfil općine: https://koncesijski-sa
- t.vercel.app/#opcina/41942358B25193862971737\nIzvor: Registar koncesija (F
- INA)\, obrada Koncesijski sat 9. 11. 2026.
+ u (PUČIŠĆA) · davatelj: SPLITSKO-DALMATINSKA ŽUPANIJA\, 20.000 €/go
+ d.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B
+ 25193862971737\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 
+ 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B25193862971737
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -205,17 +218,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-88b008fe7aa90449@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-d592f2e00a33c456@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20421214
 DTEND;VALUE=DATE:20421215
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (JADRANKAMEN D.O.
  O.)
 DESCRIPTION:14. 6. 2043. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
- .\n\n• JADRANKAMEN D.O.O. – Koncesija na pomorskom dobru (PUČIŠĆA)\
- , 20.000 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#o
- pcina/41942358B25193862971737
+ .\n\n• JADRANKAMEN D.O.O. – Koncesija na pomorskom dobru (PUČIŠĆA) 
+ · davatelj: SPLITSKO-DALMATINSKA ŽUPANIJA\, 20.000 €/god.\n\nProfil op
+ ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B25193862971737
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B25193862971737
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -226,20 +239,21 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-99936ef0160c2e59@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-f1e4d86f313a6296@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20431231
 DTEND;VALUE=DATE:20440101
 SUMMARY:Ističe 3 koncesije · Pučišća
 DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2043. Godišnja fiksna na
  knada: 20.750 €.\n\n• JADRANKAMEN D.O.O. – Koncesija za površinu ut
  vrđenog eksploatacijskog polja neenergetskih mineralnih sirovina (PUČIŠ
- ĆA)\, 20.750 €/god.\n• JADRANKAMEN D.O.O. – Koncesija za eksploatac
- iju arhitektonsko-građevnog kamena (PUČIŠĆA)\n• JADRANKAMEN D.O.O. 
- – Koncesija za eksploataciju arhitektonsko-građevnog kamena (PUČIŠĆA
- )\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B2
- 5193862971737\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9
- . 11. 2026.
+ ĆA) · davatelj: MINISTARSTVO GOSPODARSTVA\, 20.750 €/god.\n• JADRANK
+ AMEN D.O.O. – Koncesija za eksploataciju arhitektonsko-građevnog kamena
+  (PUČIŠĆA) · davatelj: MINISTARSTVO GOSPODARSTVA\n• JADRANKAMEN D.O.
+ O. – Koncesija za eksploataciju arhitektonsko-građevnog kamena (PUČIŠ
+ ĆA) · davatelj: MINISTARSTVO GOSPODARSTVA\n\nProfil općine: https://kon
+ cesijski-sat.vercel.app/#opcina/41942358B25193862971737\nIzvor: Registar k
+ oncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B25193862971737
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -249,43 +263,47 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-99936ef0160c2e59@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-f1e4d86f313a6296@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20430630
 DTEND;VALUE=DATE:20430701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Pučišća
 DESCRIPTION:31. 12. 2043. ističe 3 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• JADRANKAMEN D.O.O. – Koncesija za površinu utvrđenog eksplo
- atacijskog polja neenergetskih mineralnih sirovina (PUČIŠĆA)\, 20.750 
- €/god.\n• JADRANKAMEN D.O.O. – Koncesija za eksploataciju arhitekton
- sko-građevnog kamena (PUČIŠĆA)\n• JADRANKAMEN D.O.O. – Koncesija z
- a eksploataciju arhitektonsko-građevnog kamena (PUČIŠĆA)\n\nProfil op
- ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B25193862971737
+ atacijskog polja neenergetskih mineralnih sirovina (PUČIŠĆA) · davatel
+ j: MINISTARSTVO GOSPODARSTVA\, 20.750 €/god.\n• JADRANKAMEN D.O.O. –
+  Koncesija za eksploataciju arhitektonsko-građevnog kamena (PUČIŠĆA) 
+ · davatelj: MINISTARSTVO GOSPODARSTVA\n• JADRANKAMEN D.O.O. – Koncesi
+ ja za eksploataciju arhitektonsko-građevnog kamena (PUČIŠĆA) · davate
+ lj: MINISTARSTVO GOSPODARSTVA\n\nProfil općine: https://koncesijski-sat.v
+ ercel.app/#opcina/41942358B25193862971737
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B25193862971737
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Pučišća
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-7875e963cf71ad14@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-fccb3bc468b403c0@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20631231
 DTEND;VALUE=DATE:20640101
 SUMMARY:Ističe 3 koncesije · Pučišća
 DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2063. Godišnja fiksna na
  knada: 12.348 €.\n\n• HORUS KAMEN D.O.O. ZA PROIZVODNJU\, TRGOVINU I U
  SLUGE – Koncesija za površinu utvrđenog eksploatacijskog polja neenerg
- etskih mineralnih sirovina (PUČIŠĆA)\, 4.116 €/god.\n• HORUS KAMEN 
- D.O.O. ZA PROIZVODNJU\, TRGOVINU I USLUGE – Koncesija za eksploataciju a
- rhitektonsko-građevnog kamena (PUČIŠĆA)\, 4.116 €/god.\n• HORUS KA
- MEN D.O.O. ZA PROIZVODNJU\, TRGOVINU I USLUGE – Koncesija za eksploataci
- ju arhitektonsko-građevnog kamena (PUČIŠĆA)\, 4.116 €/god.\n\nProfil
-  općine: https://koncesijski-sat.vercel.app/#opcina/41942358B251938629717
- 37\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ etskih mineralnih sirovina (PUČIŠĆA) · davatelj: MINISTARSTVO GOSPODAR
+ STVA\, 4.116 €/god.\n• HORUS KAMEN D.O.O. ZA PROIZVODNJU\, TRGOVINU I 
+ USLUGE – Koncesija za eksploataciju arhitektonsko-građevnog kamena (PU
+ ČIŠĆA) · davatelj: MINISTARSTVO GOSPODARSTVA\, 4.116 €/god.\n• HOR
+ US KAMEN D.O.O. ZA PROIZVODNJU\, TRGOVINU I USLUGE – Koncesija za eksplo
+ ataciju arhitektonsko-građevnog kamena (PUČIŠĆA) · davatelj: MINISTAR
+ STVO GOSPODARSTVA\, 4.116 €/god.\n\nProfil općine: https://koncesijski-
+ sat.vercel.app/#opcina/41942358B25193862971737\nIzvor: Registar koncesija 
+ (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B25193862971737
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -295,26 +313,28 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-7875e963cf71ad14@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-fccb3bc468b403c0@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20630630
 DTEND;VALUE=DATE:20630701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Pučišća
 DESCRIPTION:31. 12. 2063. ističe 3 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• HORUS KAMEN D.O.O. ZA PROIZVODNJU\, TRGOVINU I USLUGE – Konce
  sija za površinu utvrđenog eksploatacijskog polja neenergetskih mineraln
- ih sirovina (PUČIŠĆA)\, 4.116 €/god.\n• HORUS KAMEN D.O.O. ZA PROIZ
- VODNJU\, TRGOVINU I USLUGE – Koncesija za eksploataciju arhitektonsko-gr
- ađevnog kamena (PUČIŠĆA)\, 4.116 €/god.\n• HORUS KAMEN D.O.O. ZA P
- ROIZVODNJU\, TRGOVINU I USLUGE – Koncesija za eksploataciju arhitektonsk
- o-građevnog kamena (PUČIŠĆA)\, 4.116 €/god.\n\nProfil općine: https
- ://koncesijski-sat.vercel.app/#opcina/41942358B25193862971737
+ ih sirovina (PUČIŠĆA) · davatelj: MINISTARSTVO GOSPODARSTVA\, 4.116 
+ €/god.\n• HORUS KAMEN D.O.O. ZA PROIZVODNJU\, TRGOVINU I USLUGE – Ko
+ ncesija za eksploataciju arhitektonsko-građevnog kamena (PUČIŠĆA) · d
+ avatelj: MINISTARSTVO GOSPODARSTVA\, 4.116 €/god.\n• HORUS KAMEN D.O.O
+ . ZA PROIZVODNJU\, TRGOVINU I USLUGE – Koncesija za eksploataciju arhite
+ ktonsko-građevnog kamena (PUČIŠĆA) · davatelj: MINISTARSTVO GOSPODARS
+ TVA\, 4.116 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app
+ /#opcina/41942358B25193862971737
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B25193862971737
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Pučišća
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT

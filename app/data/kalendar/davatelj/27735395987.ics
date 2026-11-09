@@ -1,0 +1,118 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · AGENCIJA ZA OBALNI LINIJSKI POMORSKI PROME
+ T
+X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje AGENCIJA ZA OBALNI LINIJSK
+ I POMORSKI PROMET. Iz Registra koncesija (FINA\, data.gov.hr). Osvježava 
+ se nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#sat
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-dc7465a40e278cab@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20271231
+DTEND;VALUE=DATE:20280101
+SUMMARY:Ističe 4 koncesije · AGENCIJA ZA OBALNI LINIJSKI POMORSKI PROMET
+DESCRIPTION:4 ugovora o koncesiji ističe 31. 12. 2027. Godišnja fiksna na
+ knada: 10.616 €.\n\n• RAPSKA PLOVIDBA D.D. – Koncesija za organizira
+ nje unutarnjeg linijskog prijevoza (RAB\, Grad Rab)\, 2.654 €/god.\n• 
+ JADROLINIJA\, DRUŠTVO ZA LINIJSKI POMORSKI PRIJEVOZ PUTNIKA I TERETA – 
+ Koncesija za organiziranje unutarnjeg linijskog prijevoza (KRK\, Otok Krk)
+ \, 2.654 €/god.\n• JADROLINIJA\, DRUŠTVO ZA LINIJSKI POMORSKI PRIJEVO
+ Z PUTNIKA I TERETA – Koncesija za organiziranje unutarnjeg linijskog pri
+ jevoza (CRES\, Otok Cres)\, 2.654 €/god.\n• JADROLINIJA\, DRUŠTVO ZA 
+ LINIJSKI POMORSKI PRIJEVOZ PUTNIKA I TERETA – Koncesija za organiziranje
+  unutarnjeg linijskog prijevoza (SPLIT\, Grad Split)\, 2.654 €/god.\n\n
+ Što ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar kon
+ cesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 4 koncesije · AGENCIJA ZA OBALNI LINIJSKI POMORSKI PRO
+ MET
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-dc7465a40e278cab@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20270630
+DTEND;VALUE=DATE:20270701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 4 koncesije · AGENCIJA ZA OB
+ ALNI LINIJSKI POMORSKI PROMET
+DESCRIPTION:31. 12. 2027. ističe 4 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• RAPSKA PLOVIDBA D.D. – Koncesija za organiziranje unutarnjeg 
+ linijskog prijevoza (RAB\, Grad Rab)\, 2.654 €/god.\n• JADROLINIJA\, D
+ RUŠTVO ZA LINIJSKI POMORSKI PRIJEVOZ PUTNIKA I TERETA – Koncesija za or
+ ganiziranje unutarnjeg linijskog prijevoza (KRK\, Otok Krk)\, 2.654 €/go
+ d.\n• JADROLINIJA\, DRUŠTVO ZA LINIJSKI POMORSKI PRIJEVOZ PUTNIKA I TER
+ ETA – Koncesija za organiziranje unutarnjeg linijskog prijevoza (CRES\, 
+ Otok Cres)\, 2.654 €/god.\n• JADROLINIJA\, DRUŠTVO ZA LINIJSKI POMORS
+ KI PRIJEVOZ PUTNIKA I TERETA – Koncesija za organiziranje unutarnjeg lin
+ ijskog prijevoza (SPLIT\, Grad Split)\, 2.654 €/god.\n\nŠto ističe: ht
+ tps://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 4 koncesije · AGENCIJA Z
+ A OBALNI LINIJSKI POMORSKI PROMET
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-5e1289bb2afed5f0@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20310203
+DTEND;VALUE=DATE:20310204
+SUMMARY:Ističe 3 koncesije · AGENCIJA ZA OBALNI LINIJSKI POMORSKI PROMET
+DESCRIPTION:3 ugovora o koncesiji ističe 3. 2. 2031. Godišnja fiksna nakn
+ ada: 15.000 €.\n\n• JADROLINIJA – Koncesija za obavljanje lokalnog l
+ inijskog prijevoza putnika (PREKO\, ZADAR\, ZADAR\, Općina Preko)\, 5.000
+  €/god.\n• JADROLINIJA – Koncesija za obavljanje lokalnog linijskog 
+ prijevoza putnika (KORČULA\, OREBIĆ\, OREBIĆ\, Grad Korčula)\, 5.000 
+ €/god.\n• JADROLINIJA – Koncesija za obavljanje lokalnog linijskog p
+ rijevoza putnika (PREKO\, ZADAR\, Općina Preko)\, 5.000 €/god.\n\nŠto 
+ ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesij
+ a (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 3 koncesije · AGENCIJA ZA OBALNI LINIJSKI POMORSKI PRO
+ MET
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-5e1289bb2afed5f0@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20300803
+DTEND;VALUE=DATE:20300804
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · AGENCIJA ZA OB
+ ALNI LINIJSKI POMORSKI PROMET
+DESCRIPTION:3. 2. 2031. ističe 3 ugovora o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• JADROLINIJA – Koncesija za obavljanje lokalnog linijskog prijev
+ oza putnika (PREKO\, ZADAR\, ZADAR\, Općina Preko)\, 5.000 €/god.\n• 
+ JADROLINIJA – Koncesija za obavljanje lokalnog linijskog prijevoza putni
+ ka (KORČULA\, OREBIĆ\, OREBIĆ\, Grad Korčula)\, 5.000 €/god.\n• JA
+ DROLINIJA – Koncesija za obavljanje lokalnog linijskog prijevoza putnika
+  (PREKO\, ZADAR\, Općina Preko)\, 5.000 €/god.\n\nŠto ističe: https:/
+ /koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · AGENCIJA Z
+ A OBALNI LINIJSKI POMORSKI PROMET
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

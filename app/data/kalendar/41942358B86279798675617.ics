@@ -4,27 +4,29 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Grad Benkovac
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Grad Benkovac. Iz Regist
- ra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podata
- ka. https://koncesijski-sat.vercel.app/#opcina/41942358B86279798675617
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Grad Benkovac (pregled\,
+  svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježava se
+  nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#opcina/4
+ 1942358B86279798675617
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-375d6554f84522ab@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-f056c3bb6c45eaaf@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
 SUMMARY:Ističe 3 koncesije · Benkovac
 DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2026. Godišnja fiksna na
  knada: 1.276 €.\n\n• LAPIS GRADNJA D.O.O. – Koncesija za površinu u
  tvrđenog eksploatacijskog polja neenergetskih mineralnih sirovina (BENKOV
- AC)\, 1.276 €/god.\n• LAPIS GRADNJA D.O.O. – Koncesija za eksploatac
- iju arhitektonsko-građevnog kamena (BENKOVAC)\n• LAPIS GRADNJA D.O.O. 
- – Koncesija za eksploataciju arhitektonsko-građevnog kamena (BENKOVAC)\
- n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B862
- 79798675617\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 
- 11. 2026.
+ AC) · davatelj: MINISTARSTVO GOSPODARSTVA\, 1.276 €/god.\n• LAPIS GRA
+ DNJA D.O.O. – Koncesija za eksploataciju arhitektonsko-građevnog kamena
+  (BENKOVAC) · davatelj: MINISTARSTVO GOSPODARSTVA\n• LAPIS GRADNJA D.O.
+ O. – Koncesija za eksploataciju arhitektonsko-građevnog kamena (BENKOVA
+ C) · davatelj: MINISTARSTVO GOSPODARSTVA\n\nProfil općine: https://konce
+ sijski-sat.vercel.app/#opcina/41942358B86279798675617\nIzvor: Registar kon
+ cesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B86279798675617
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -34,16 +36,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-9c17a7e5e6a5152f@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-f26fcfc857ad6a99@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20281111
 DTEND;VALUE=DATE:20281112
 SUMMARY:Ističe koncesija: RADIO BENKOVAC D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 11. 11. 2028. Godišnja fiksna nak
  nada: 66 €.\n\n• RADIO BENKOVAC D.O.O. – Koncesija za obavljanje dje
- latnosti radija (BENKOVAC\, POLAČA)\, 66 €/god.\n\nProfil općine: http
- s://koncesijski-sat.vercel.app/#opcina/41942358B86279798675617\nIzvor: Reg
- istar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ latnosti radija (BENKOVAC\, POLAČA) · davatelj: AGENCIJA ZA ELEKTRONIČK
+ E MEDIJE\, 66 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.a
+ pp/#opcina/41942358B86279798675617\nIzvor: Registar koncesija (FINA)\, obr
+ ada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B86279798675617
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -53,8 +56,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-9c17a7e5e6a5152f@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-f26fcfc857ad6a99@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20280511
 DTEND;VALUE=DATE:20280512
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (RADIO BENKOVAC D
@@ -62,8 +65,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (RADIO BENKOVAC D
 DESCRIPTION:11. 11. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• RADIO BENKOVAC D.O.O. – Koncesija za obavljanje djelatnosti ra
- dija (BENKOVAC\, POLAČA)\, 66 €/god.\n\nProfil općine: https://koncesi
- jski-sat.vercel.app/#opcina/41942358B86279798675617
+ dija (BENKOVAC\, POLAČA) · davatelj: AGENCIJA ZA ELEKTRONIČKE MEDIJE\, 
+ 66 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/
+ 41942358B86279798675617
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B86279798675617
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -74,20 +78,21 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-57e3625848c38dc9@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-3c0fdb70cfba4e8a@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20291231
 DTEND;VALUE=DATE:20300101
 SUMMARY:Ističe 3 koncesije · Benkovac
 DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2029. Godišnja fiksna na
  knada: 1.308 €.\n\n• NUEKS D.O.O. – Koncesija za eksploataciju arhit
- ektonsko-građevnog kamena (BENKOVAC)\, 436 €/god.\n• NUEKS D.O.O. –
-  Koncesija za eksploataciju arhitektonsko-građevnog kamena (BENKOVAC)\, 4
- 36 €/god.\n• NUEKS D.O.O. – Koncesija za površinu utvrđenog eksplo
- atacijskog polja neenergetskih mineralnih sirovina (BENKOVAC)\, 436 €/go
- d.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B
- 86279798675617\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 
- 9. 11. 2026.
+ ektonsko-građevnog kamena (BENKOVAC) · davatelj: MINISTARSTVO GOSPODARST
+ VA\, 436 €/god.\n• NUEKS D.O.O. – Koncesija za eksploataciju arhitek
+ tonsko-građevnog kamena (BENKOVAC) · davatelj: MINISTARSTVO GOSPODARSTVA
+ \, 436 €/god.\n• NUEKS D.O.O. – Koncesija za površinu utvrđenog ek
+ sploatacijskog polja neenergetskih mineralnih sirovina (BENKOVAC) · davat
+ elj: MINISTARSTVO GOSPODARSTVA\, 436 €/god.\n\nProfil općine: https://k
+ oncesijski-sat.vercel.app/#opcina/41942358B86279798675617\nIzvor: Registar
+  koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B86279798675617
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -97,41 +102,251 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-57e3625848c38dc9@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-3c0fdb70cfba4e8a@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20290630
 DTEND;VALUE=DATE:20290701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Benkovac
 DESCRIPTION:31. 12. 2029. ističe 3 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• NUEKS D.O.O. – Koncesija za eksploataciju arhitektonsko-građ
- evnog kamena (BENKOVAC)\, 436 €/god.\n• NUEKS D.O.O. – Koncesija za 
- eksploataciju arhitektonsko-građevnog kamena (BENKOVAC)\, 436 €/god.\n
- • NUEKS D.O.O. – Koncesija za površinu utvrđenog eksploatacijskog po
- lja neenergetskih mineralnih sirovina (BENKOVAC)\, 436 €/god.\n\nProfil 
- općine: https://koncesijski-sat.vercel.app/#opcina/41942358B8627979867561
- 7
+ evnog kamena (BENKOVAC) · davatelj: MINISTARSTVO GOSPODARSTVA\, 436 €/g
+ od.\n• NUEKS D.O.O. – Koncesija za eksploataciju arhitektonsko-građev
+ nog kamena (BENKOVAC) · davatelj: MINISTARSTVO GOSPODARSTVA\, 436 €/god
+ .\n• NUEKS D.O.O. – Koncesija za površinu utvrđenog eksploatacijskog
+  polja neenergetskih mineralnih sirovina (BENKOVAC) · davatelj: MINISTARS
+ TVO GOSPODARSTVA\, 436 €/god.\n\nProfil općine: https://koncesijski-sat
+ .vercel.app/#opcina/41942358B86279798675617
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B86279798675617
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Benkovac
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-1534e8811d8bfeaf@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-0016413caef7de8f@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20301231
 DTEND;VALUE=DATE:20310101
 SUMMARY:Ističe 3 koncesije · Benkovac
 DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2030. Godišnja fiksna na
  knada: 3.618 €.\n\n• HULA VL. DAJAN MITRIĆ – Koncesija za eksploata
- ciju arhitektonsko-građevnog kamena (BENKOVAC)\, 1.206 €/god.\n• HULA
-  VL. DAJAN MITRIĆ – Koncesija za eksploataciju arhitektonsko-građevnog
-  kamena (BENKOVAC)\, 1.206 €/god.\n• HULA VL. DAJAN MITRIĆ – Konces
- ija za površinu utvrđenog eksploatacijskog polja neenergetskih mineralni
- h sirovina (BENKOVAC)\, 1.206 €/god.\n\nProfil općine: https://koncesij
+ ciju arhitektonsko-građevnog kamena (BENKOVAC) · davatelj: MINISTARSTVO 
+ GOSPODARSTVA\, 1.206 €/god.\n• HULA VL. DAJAN MITRIĆ – Koncesija za
+  eksploataciju arhitektonsko-građevnog kamena (BENKOVAC) · davatelj: MIN
+ ISTARSTVO GOSPODARSTVA\, 1.206 €/god.\n• HULA VL. DAJAN MITRIĆ – Ko
+ ncesija za površinu utvrđenog eksploatacijskog polja neenergetskih miner
+ alnih sirovina (BENKOVAC) · davatelj: MINISTARSTVO GOSPODARSTVA\, 1.206 
+ €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
+ 42358B86279798675617\nIzvor: Registar koncesija (FINA)\, obrada Koncesijsk
+ i sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B86279798675617
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 3 koncesije · Benkovac
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-0016413caef7de8f@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20300630
+DTEND;VALUE=DATE:20300701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Benkovac
+DESCRIPTION:31. 12. 2030. ističe 3 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• HULA VL. DAJAN MITRIĆ – Koncesija za eksploataciju arhitekto
+ nsko-građevnog kamena (BENKOVAC) · davatelj: MINISTARSTVO GOSPODARSTVA\,
+  1.206 €/god.\n• HULA VL. DAJAN MITRIĆ – Koncesija za eksploataciju
+  arhitektonsko-građevnog kamena (BENKOVAC) · davatelj: MINISTARSTVO GOSP
+ ODARSTVA\, 1.206 €/god.\n• HULA VL. DAJAN MITRIĆ – Koncesija za pov
+ ršinu utvrđenog eksploatacijskog polja neenergetskih mineralnih sirovina
+  (BENKOVAC) · davatelj: MINISTARSTVO GOSPODARSTVA\, 1.206 €/god.\n\nPro
+ fil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B862797986
+ 75617
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B86279798675617
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Benkovac
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-c973baa73fe9ecb9@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20311231
+DTEND;VALUE=DATE:20320101
+SUMMARY:Ističe 3 koncesije · Benkovac
+DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2031. Godišnja fiksna na
+ knada: 1.944 €.\n\n• NUEKS D.O.O. – Koncesija za eksploataciju arhit
+ ektonsko-građevnog kamena (BENKOVAC) · davatelj: MINISTARSTVO GOSPODARST
+ VA\, 648 €/god.\n• NUEKS D.O.O. – Koncesija za eksploataciju arhitek
+ tonsko-građevnog kamena (BENKOVAC) · davatelj: MINISTARSTVO GOSPODARSTVA
+ \, 648 €/god.\n• NUEKS D.O.O. – Koncesija za površinu utvrđenog ek
+ sploatacijskog polja neenergetskih mineralnih sirovina (BENKOVAC) · davat
+ elj: MINISTARSTVO GOSPODARSTVA\, 648 €/god.\n\nProfil općine: https://k
+ oncesijski-sat.vercel.app/#opcina/41942358B86279798675617\nIzvor: Registar
+  koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B86279798675617
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 3 koncesije · Benkovac
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-c973baa73fe9ecb9@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20310630
+DTEND;VALUE=DATE:20310701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Benkovac
+DESCRIPTION:31. 12. 2031. ističe 3 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• NUEKS D.O.O. – Koncesija za eksploataciju arhitektonsko-građ
+ evnog kamena (BENKOVAC) · davatelj: MINISTARSTVO GOSPODARSTVA\, 648 €/g
+ od.\n• NUEKS D.O.O. – Koncesija za eksploataciju arhitektonsko-građev
+ nog kamena (BENKOVAC) · davatelj: MINISTARSTVO GOSPODARSTVA\, 648 €/god
+ .\n• NUEKS D.O.O. – Koncesija za površinu utvrđenog eksploatacijskog
+  polja neenergetskih mineralnih sirovina (BENKOVAC) · davatelj: MINISTARS
+ TVO GOSPODARSTVA\, 648 €/god.\n\nProfil općine: https://koncesijski-sat
+ .vercel.app/#opcina/41942358B86279798675617
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B86279798675617
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Benkovac
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-62f922ce5ef937c0@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20351231
+DTEND;VALUE=DATE:20360101
+SUMMARY:Ističe 6 koncesija · Benkovac
+DESCRIPTION:6 ugovora o koncesiji ističe 31. 12. 2035. Godišnja fiksna na
+ knada: 5.538 €.\n\n• DORIAN D.O.O. – Koncesija za eksploataciju arhi
+ tektonsko-građevnog kamena (BENKOVAC) · davatelj: MINISTARSTVO GOSPODARS
+ TVA\, 1.604 €/god.\n• DORIAN D.O.O. – Koncesija za eksploataciju arh
+ itektonsko-građevnog kamena (BENKOVAC) · davatelj: MINISTARSTVO GOSPODAR
+ STVA\, 1.604 €/god.\n• DORIAN D.O.O. – Koncesija za površinu utvrđ
+ enog eksploatacijskog polja neenergetskih mineralnih sirovina (BENKOVAC) 
+ · davatelj: MINISTARSTVO GOSPODARSTVA\, 1.604 €/god.\n• AMADEUS VL. R
+ UDOLF BLAŽAN – Koncesija za površinu utvrđenog eksploatacijskog polja
+  neenergetskih mineralnih sirovina (BENKOVAC) · davatelj: MINISTARSTVO GO
+ SPODARSTVA\, 726 €/god.\n• AMADEUS VL. RUDOLF BLAŽAN – Koncesija za
+  eksploataciju arhitektonsko-građevnog kamena (BENKOVAC) · davatelj: MIN
+ ISTARSTVO GOSPODARSTVA\n• AMADEUS VL. RUDOLF BLAŽAN – Koncesija za ek
+ sploataciju arhitektonsko-građevnog kamena (BENKOVAC) · davatelj: MINIST
+ ARSTVO GOSPODARSTVA\n\nProfil općine: https://koncesijski-sat.vercel.app/
+ #opcina/41942358B86279798675617\nIzvor: Registar koncesija (FINA)\, obrada
+  Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B86279798675617
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 6 koncesija · Benkovac
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-62f922ce5ef937c0@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20350630
+DTEND;VALUE=DATE:20350701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 6 koncesija · Benkovac
+DESCRIPTION:31. 12. 2035. ističe 6 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• DORIAN D.O.O. – Koncesija za eksploataciju arhitektonsko-gra
+ đevnog kamena (BENKOVAC) · davatelj: MINISTARSTVO GOSPODARSTVA\, 1.604 
+ €/god.\n• DORIAN D.O.O. – Koncesija za eksploataciju arhitektonsko-g
+ rađevnog kamena (BENKOVAC) · davatelj: MINISTARSTVO GOSPODARSTVA\, 1.604
+  €/god.\n• DORIAN D.O.O. – Koncesija za površinu utvrđenog eksploa
+ tacijskog polja neenergetskih mineralnih sirovina (BENKOVAC) · davatelj: 
+ MINISTARSTVO GOSPODARSTVA\, 1.604 €/god.\n• AMADEUS VL. RUDOLF BLAŽAN
+  – Koncesija za površinu utvrđenog eksploatacijskog polja neenergetski
+ h mineralnih sirovina (BENKOVAC) · davatelj: MINISTARSTVO GOSPODARSTVA\, 
+ 726 €/god.\n• AMADEUS VL. RUDOLF BLAŽAN – Koncesija za eksploatacij
+ u arhitektonsko-građevnog kamena (BENKOVAC) · davatelj: MINISTARSTVO GOS
+ PODARSTVA\n• AMADEUS VL. RUDOLF BLAŽAN – Koncesija za eksploataciju a
+ rhitektonsko-građevnog kamena (BENKOVAC) · davatelj: MINISTARSTVO GOSPOD
+ ARSTVA\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942
+ 358B86279798675617
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B86279798675617
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 6 koncesija · Benkovac
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-70e5087554bee4dd@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20370331
+DTEND;VALUE=DATE:20370401
+SUMMARY:Ističe 3 koncesije · Benkovac
+DESCRIPTION:3 ugovora o koncesiji ističe 31. 3. 2037. Godišnja fiksna nak
+ nada: 4.372 €.\n\n• SOMAR D.O.O. – Koncesija za eksploataciju tehni
+ čko-građevnog kamena (BENKOVAC) · davatelj: MINISTARSTVO GOSPODARSTVA\,
+  2.186 €/god.\n• SOMAR D.O.O. – Koncesija za površinu utvrđenog ek
+ sploatacijskog polja neenergetskih mineralnih sirovina (BENKOVAC) · davat
+ elj: MINISTARSTVO GOSPODARSTVA\, 2.186 €/god.\n• SOMAR D.O.O. – Konc
+ esija za eksploataciju tehničko-građevnog kamena (BENKOVAC) · davatelj:
+  MINISTARSTVO GOSPODARSTVA\n\nProfil općine: https://koncesijski-sat.verc
+ el.app/#opcina/41942358B86279798675617\nIzvor: Registar koncesija (FINA)\,
+  obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B86279798675617
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 3 koncesije · Benkovac
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-70e5087554bee4dd@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20360930
+DTEND;VALUE=DATE:20361001
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Benkovac
+DESCRIPTION:31. 3. 2037. ističe 3 ugovora o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• SOMAR D.O.O. – Koncesija za eksploataciju tehničko-građevnog
+  kamena (BENKOVAC) · davatelj: MINISTARSTVO GOSPODARSTVA\, 2.186 €/god.
+ \n• SOMAR D.O.O. – Koncesija za površinu utvrđenog eksploatacijskog 
+ polja neenergetskih mineralnih sirovina (BENKOVAC) · davatelj: MINISTARST
+ VO GOSPODARSTVA\, 2.186 €/god.\n• SOMAR D.O.O. – Koncesija za eksplo
+ ataciju tehničko-građevnog kamena (BENKOVAC) · davatelj: MINISTARSTVO G
+ OSPODARSTVA\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/
+ 41942358B86279798675617
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B86279798675617
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Benkovac
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-bacce593e8c78676@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20381231
+DTEND;VALUE=DATE:20390101
+SUMMARY:Ističe 3 koncesije · Benkovac
+DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2038. Godišnja fiksna na
+ knada: 800 €.\n\n• USKOK VL. IVAN USKOK – Koncesija za površinu utv
+ rđenog eksploatacijskog polja neenergetskih mineralnih sirovina (BENKOVAC
+ ) · davatelj: MINISTARSTVO GOSPODARSTVA\, 800 €/god.\n• USKOK VL. IVA
+ N USKOK – Koncesija za eksploataciju arhitektonsko-građevnog kamena (BE
+ NKOVAC) · davatelj: MINISTARSTVO GOSPODARSTVA\n• USKOK  VL. IVAN USKOK 
+ – Koncesija za eksploataciju arhitektonsko-građevnog kamena (BENKOVAC) 
+ · davatelj: MINISTARSTVO GOSPODARSTVA\n\nProfil općine: https://koncesij
  ski-sat.vercel.app/#opcina/41942358B86279798675617\nIzvor: Registar konces
  ija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B86279798675617
@@ -143,43 +358,45 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-1534e8811d8bfeaf@koncesijski-sat
-DTSTAMP:20261109T134442Z
-DTSTART;VALUE=DATE:20300630
-DTEND;VALUE=DATE:20300701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
-DESCRIPTION:31. 12. 2030. ističe 3 ugovora o koncesiji. Novi postupak dodj
+UID:priprema-bacce593e8c78676@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20380630
+DTEND;VALUE=DATE:20380701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Benkovac
+DESCRIPTION:31. 12. 2038. ističe 3 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
- ra.\n\n• HULA VL. DAJAN MITRIĆ – Koncesija za eksploataciju arhitekto
- nsko-građevnog kamena (BENKOVAC)\, 1.206 €/god.\n• HULA VL. DAJAN MIT
- RIĆ – Koncesija za eksploataciju arhitektonsko-građevnog kamena (BENKO
- VAC)\, 1.206 €/god.\n• HULA VL. DAJAN MITRIĆ – Koncesija za površi
- nu utvrđenog eksploatacijskog polja neenergetskih mineralnih sirovina (BE
- NKOVAC)\, 1.206 €/god.\n\nProfil općine: https://koncesijski-sat.vercel
- .app/#opcina/41942358B86279798675617
+ ra.\n\n• USKOK VL. IVAN USKOK – Koncesija za površinu utvrđenog eksp
+ loatacijskog polja neenergetskih mineralnih sirovina (BENKOVAC) · davatel
+ j: MINISTARSTVO GOSPODARSTVA\, 800 €/god.\n• USKOK VL. IVAN USKOK – 
+ Koncesija za eksploataciju arhitektonsko-građevnog kamena (BENKOVAC) · d
+ avatelj: MINISTARSTVO GOSPODARSTVA\n• USKOK  VL. IVAN USKOK – Koncesij
+ a za eksploataciju arhitektonsko-građevnog kamena (BENKOVAC) · davatelj:
+  MINISTARSTVO GOSPODARSTVA\n\nProfil općine: https://koncesijski-sat.verc
+ el.app/#opcina/41942358B86279798675617
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B86279798675617
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Benkovac
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-de5075822fbd424e@koncesijski-sat
-DTSTAMP:20261109T134442Z
-DTSTART;VALUE=DATE:20311231
-DTEND;VALUE=DATE:20320101
+UID:istek-82321b3445ec4097@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20430130
+DTEND;VALUE=DATE:20430131
 SUMMARY:Ističe 3 koncesije · Benkovac
-DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2031. Godišnja fiksna na
- knada: 1.944 €.\n\n• NUEKS D.O.O. – Koncesija za eksploataciju arhit
- ektonsko-građevnog kamena (BENKOVAC)\, 648 €/god.\n• NUEKS D.O.O. –
-  Koncesija za eksploataciju arhitektonsko-građevnog kamena (BENKOVAC)\, 6
- 48 €/god.\n• NUEKS D.O.O. – Koncesija za površinu utvrđenog eksplo
- atacijskog polja neenergetskih mineralnih sirovina (BENKOVAC)\, 648 €/go
- d.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B
- 86279798675617\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 
- 9. 11. 2026.
+DESCRIPTION:3 ugovora o koncesiji ističe 30. 1. 2043. Godišnja fiksna nak
+ nada: 3.200 €.\n\n• KAMENOLOM KAMEN D.O.O. – Koncesija za površinu 
+ utvrđenog eksploatacijskog polja neenergetskih mineralnih sirovina (BENKO
+ VAC) · davatelj: MINISTARSTVO GOSPODARSTVA\, 3.200 €/god.\n• KAMENOLO
+ M KAMEN D.O.O. – Koncesija za eksploataciju tehničko-građevnog kamena 
+ (BENKOVAC) · davatelj: MINISTARSTVO GOSPODARSTVA\n• KAMENOLOM KAMEN D.O
+ .O. – Koncesija za eksploataciju tehničko-građevnog kamena (BENKOVAC) 
+ · davatelj: MINISTARSTVO GOSPODARSTVA\n\nProfil općine: https://koncesij
+ ski-sat.vercel.app/#opcina/41942358B86279798675617\nIzvor: Registar konces
+ ija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B86279798675617
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -189,48 +406,248 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-de5075822fbd424e@koncesijski-sat
-DTSTAMP:20261109T134442Z
-DTSTART;VALUE=DATE:20310630
-DTEND;VALUE=DATE:20310701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
-DESCRIPTION:31. 12. 2031. ističe 3 ugovora o koncesiji. Novi postupak dodj
- ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
- ra.\n\n• NUEKS D.O.O. – Koncesija za eksploataciju arhitektonsko-građ
- evnog kamena (BENKOVAC)\, 648 €/god.\n• NUEKS D.O.O. – Koncesija za 
- eksploataciju arhitektonsko-građevnog kamena (BENKOVAC)\, 648 €/god.\n
- • NUEKS D.O.O. – Koncesija za površinu utvrđenog eksploatacijskog po
- lja neenergetskih mineralnih sirovina (BENKOVAC)\, 648 €/god.\n\nProfil 
- općine: https://koncesijski-sat.vercel.app/#opcina/41942358B8627979867561
- 7
+UID:priprema-82321b3445ec4097@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20420730
+DTEND;VALUE=DATE:20420731
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Benkovac
+DESCRIPTION:30. 1. 2043. ističe 3 ugovora o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• KAMENOLOM KAMEN D.O.O. – Koncesija za površinu utvrđenog eks
+ ploatacijskog polja neenergetskih mineralnih sirovina (BENKOVAC) · davate
+ lj: MINISTARSTVO GOSPODARSTVA\, 3.200 €/god.\n• KAMENOLOM KAMEN D.O.O.
+  – Koncesija za eksploataciju tehničko-građevnog kamena (BENKOVAC) · 
+ davatelj: MINISTARSTVO GOSPODARSTVA\n• KAMENOLOM KAMEN D.O.O. – Konces
+ ija za eksploataciju tehničko-građevnog kamena (BENKOVAC) · davatelj: M
+ INISTARSTVO GOSPODARSTVA\n\nProfil općine: https://koncesijski-sat.vercel
+ .app/#opcina/41942358B86279798675617
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B86279798675617
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Benkovac
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-9f1499a9865f354a@koncesijski-sat
-DTSTAMP:20261109T134442Z
-DTSTART;VALUE=DATE:20351231
-DTEND;VALUE=DATE:20360101
-SUMMARY:Ističe 6 koncesija · Benkovac
-DESCRIPTION:6 ugovora o koncesiji ističe 31. 12. 2035. Godišnja fiksna na
- knada: 5.538 €.\n\n• DORIAN D.O.O. – Koncesija za eksploataciju arhi
- tektonsko-građevnog kamena (BENKOVAC)\, 1.604 €/god.\n• DORIAN D.O.O.
-  – Koncesija za eksploataciju arhitektonsko-građevnog kamena (BENKOVAC)
- \, 1.604 €/god.\n• DORIAN D.O.O. – Koncesija za površinu utvrđenog
-  eksploatacijskog polja neenergetskih mineralnih sirovina (BENKOVAC)\, 1.6
- 04 €/god.\n• AMADEUS VL. RUDOLF BLAŽAN – Koncesija za površinu utv
- rđenog eksploatacijskog polja neenergetskih mineralnih sirovina (BENKOVAC
- )\, 726 €/god.\n• AMADEUS VL. RUDOLF BLAŽAN – Koncesija za eksploat
- aciju arhitektonsko-građevnog kamena (BENKOVAC)\n• AMADEUS VL. RUDOLF B
+UID:istek-bce328438239369a@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20451231
+DTEND;VALUE=DATE:20460101
+SUMMARY:Ističe 3 koncesije · Benkovac
+DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2045. Godišnja fiksna na
+ knada: 2.640 €.\n\n• DALMACIJA  VL.ZDENKO KALFIĆ – Koncesija za eks
+ ploataciju arhitektonsko-građevnog kamena (BENKOVAC) · davatelj: MINISTA
+ RSTVO GOSPODARSTVA\, 1.320 €/god.\n• DALMACIJA VL.ZDENKO KALFIĆ – K
+ oncesija za površinu utvrđenog eksploatacijskog polja neenergetskih mine
+ ralnih sirovina (BENKOVAC) · davatelj: MINISTARSTVO GOSPODARSTVA\, 1.320 
+ €/god.\n• DALMACIJA VL. ZDENKO KALFIĆ – Koncesija za eksploataciju 
+ arhitektonsko-građevnog kamena (BENKOVAC) · davatelj: MINISTARSTVO GOSPO
+ DARSTVA\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4194
+ 2358B86279798675617\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski
+  sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B86279798675617
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 3 koncesije · Benkovac
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-bce328438239369a@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20450630
+DTEND;VALUE=DATE:20450701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Benkovac
+DESCRIPTION:31. 12. 2045. ističe 3 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• DALMACIJA  VL.ZDENKO KALFIĆ – Koncesija za eksploataciju arh
+ itektonsko-građevnog kamena (BENKOVAC) · davatelj: MINISTARSTVO GOSPODAR
+ STVA\, 1.320 €/god.\n• DALMACIJA VL.ZDENKO KALFIĆ – Koncesija za po
+ vršinu utvrđenog eksploatacijskog polja neenergetskih mineralnih sirovin
+ a (BENKOVAC) · davatelj: MINISTARSTVO GOSPODARSTVA\, 1.320 €/god.\n• 
+ DALMACIJA VL. ZDENKO KALFIĆ – Koncesija za eksploataciju arhitektonsko-
+ građevnog kamena (BENKOVAC) · davatelj: MINISTARSTVO GOSPODARSTVA\n\nPro
+ fil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B862797986
+ 75617
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B86279798675617
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Benkovac
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-79e88388f359f78c@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20471231
+DTEND;VALUE=DATE:20480101
+SUMMARY:Ističe 3 koncesije · Benkovac
+DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2047. Godišnja fiksna na
+ knada: 4.000 €.\n\n• KRUŠEVO-PUT D.O.O. – Koncesija za eksploatacij
+ u tehničko-građevnog kamena (BENKOVAC) · davatelj: MINISTARSTVO GOSPODA
+ RSTVA\, 2.000 €/god.\n• KRUŠEVO-PUT D.O.O. – Koncesija za površinu
+  utvrđenog eksploatacijskog polja neenergetskih mineralnih sirovina (BENK
+ OVAC) · davatelj: MINISTARSTVO GOSPODARSTVA\, 2.000 €/god.\n• KRUŠEV
+ O-PUT D.O.O. – Koncesija za eksploataciju tehničko-građevnog kamena (B
+ ENKOVAC) · davatelj: MINISTARSTVO GOSPODARSTVA\n\nProfil općine: https:/
+ /koncesijski-sat.vercel.app/#opcina/41942358B86279798675617\nIzvor: Regist
+ ar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B86279798675617
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 3 koncesije · Benkovac
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-79e88388f359f78c@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20470630
+DTEND;VALUE=DATE:20470701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Benkovac
+DESCRIPTION:31. 12. 2047. ističe 3 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• KRUŠEVO-PUT D.O.O. – Koncesija za eksploataciju tehničko-gr
+ ađevnog kamena (BENKOVAC) · davatelj: MINISTARSTVO GOSPODARSTVA\, 2.000 
+ €/god.\n• KRUŠEVO-PUT D.O.O. – Koncesija za površinu utvrđenog ek
+ sploatacijskog polja neenergetskih mineralnih sirovina (BENKOVAC) · davat
+ elj: MINISTARSTVO GOSPODARSTVA\, 2.000 €/god.\n• KRUŠEVO-PUT D.O.O. 
+ – Koncesija za eksploataciju tehničko-građevnog kamena (BENKOVAC) · d
+ avatelj: MINISTARSTVO GOSPODARSTVA\n\nProfil općine: https://koncesijski-
+ sat.vercel.app/#opcina/41942358B86279798675617
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B86279798675617
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Benkovac
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-c3c1191f420722f7@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20481231
+DTEND;VALUE=DATE:20490101
+SUMMARY:Ističe 3 koncesije · Benkovac
+DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2048. Godišnja fiksna na
+ knada: 3.102 €.\n\n• AMADEUS VL. RUDOLF BLAŽAN – Koncesija za povr
+ šinu utvrđenog eksploatacijskog polja neenergetskih mineralnih sirovina 
+ (BENKOVAC) · davatelj: MINISTARSTVO GOSPODARSTVA\, 3.102 €/god.\n• AM
+ ADEUS VL. RUDOLF BLAŽAN – Koncesija za eksploataciju arhitektonsko-gra
+ đevnog kamena (BENKOVAC) · davatelj: MINISTARSTVO GOSPODARSTVA\n• AMAD
+ EUS VL. RUDOLF BLAŽAN – Koncesija za eksploataciju arhitektonsko-građe
+ vnog kamena (BENKOVAC) · davatelj: MINISTARSTVO GOSPODARSTVA\n\nProfil op
+ ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B86279798675617\
+ nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B86279798675617
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 3 koncesije · Benkovac
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-c3c1191f420722f7@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20480630
+DTEND;VALUE=DATE:20480701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Benkovac
+DESCRIPTION:31. 12. 2048. ističe 3 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• AMADEUS VL. RUDOLF BLAŽAN – Koncesija za površinu utvrđeno
+ g eksploatacijskog polja neenergetskih mineralnih sirovina (BENKOVAC) · d
+ avatelj: MINISTARSTVO GOSPODARSTVA\, 3.102 €/god.\n• AMADEUS VL. RUDOL
+ F BLAŽAN – Koncesija za eksploataciju arhitektonsko-građevnog kamena (
+ BENKOVAC) · davatelj: MINISTARSTVO GOSPODARSTVA\n• AMADEUS VL. RUDOLF B
  LAŽAN – Koncesija za eksploataciju arhitektonsko-građevnog kamena (BEN
- KOVAC)\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942
- 358B86279798675617\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski 
- sat 9. 11. 2026.
+ KOVAC) · davatelj: MINISTARSTVO GOSPODARSTVA\n\nProfil općine: https://k
+ oncesijski-sat.vercel.app/#opcina/41942358B86279798675617
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B86279798675617
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Benkovac
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-a18dc0272ff2fd1c@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20491231
+DTEND;VALUE=DATE:20500101
+SUMMARY:Ističe 3 koncesije · Benkovac
+DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2049. Godišnja fiksna na
+ knada: 7.026 €.\n\n• TGP KARLO VL. ZVONIMIR BAČIĆ – Koncesija za e
+ ksploataciju arhitektonsko-građevnog kamena (BENKOVAC) · davatelj: MINIS
+ TARSTVO GOSPODARSTVA\, 2.342 €/god.\n• TGP KARLO VL. ZVONIMIR BAČIĆ 
+ – Koncesija za eksploataciju arhitektonsko-građevnog kamena (BENKOVAC) 
+ · davatelj: MINISTARSTVO GOSPODARSTVA\, 2.342 €/god.\n• TGP KARLO VL.
+  ZVONIMIR BAČIĆ – Koncesija za površinu utvrđenog eksploatacijskog p
+ olja neenergetskih mineralnih sirovina (BENKOVAC) · davatelj: MINISTARSTV
+ O GOSPODARSTVA\, 2.342 €/god.\n\nProfil općine: https://koncesijski-sat
+ .vercel.app/#opcina/41942358B86279798675617\nIzvor: Registar koncesija (FI
+ NA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B86279798675617
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 3 koncesije · Benkovac
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-a18dc0272ff2fd1c@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20490630
+DTEND;VALUE=DATE:20490701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Benkovac
+DESCRIPTION:31. 12. 2049. ističe 3 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• TGP KARLO VL. ZVONIMIR BAČIĆ – Koncesija za eksploataciju a
+ rhitektonsko-građevnog kamena (BENKOVAC) · davatelj: MINISTARSTVO GOSPOD
+ ARSTVA\, 2.342 €/god.\n• TGP KARLO VL. ZVONIMIR BAČIĆ – Koncesija 
+ za eksploataciju arhitektonsko-građevnog kamena (BENKOVAC) · davatelj: M
+ INISTARSTVO GOSPODARSTVA\, 2.342 €/god.\n• TGP KARLO VL. ZVONIMIR BAČ
+ IĆ – Koncesija za površinu utvrđenog eksploatacijskog polja neenerget
+ skih mineralnih sirovina (BENKOVAC) · davatelj: MINISTARSTVO GOSPODARSTVA
+ \, 2.342 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#o
+ pcina/41942358B86279798675617
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B86279798675617
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Benkovac
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-81bcf94b6ddd778f@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20531231
+DTEND;VALUE=DATE:20540101
+SUMMARY:Ističe 6 koncesija · Benkovac
+DESCRIPTION:6 ugovora o koncesiji ističe 31. 12. 2053. Godišnja fiksna na
+ knada: 22.512 €.\n\n• DAJAKOVIĆ D.O.O. – Koncesija za eksploataciju
+  tehničko-građevnog kamena (BENKOVAC) · davatelj: MINISTARSTVO GOSPODAR
+ STVA\, 5.686 €/god.\n• DAJAKOVIĆ D.O.O. – Koncesija za eksploatacij
+ u tehničko-građevnog kamena (BENKOVAC) · davatelj: MINISTARSTVO GOSPODA
+ RSTVA\, 5.686 €/god.\n• DAJAKOVIĆ D.O.O. – Koncesija za površinu u
+ tvrđenog eksploatacijskog polja neenergetskih mineralnih sirovina (BENKOV
+ AC) · davatelj: MINISTARSTVO GOSPODARSTVA\, 5.686 €/god.\n• STONE BA
+ ČIĆ D.O.O. – Koncesija za eksploataciju arhitektonsko-građevnog kamen
+ a (BENKOVAC) · davatelj: MINISTARSTVO GOSPODARSTVA\, 1.818 €/god.\n• 
+ STONE BAČIĆ D.O.O. – Koncesija za eksploataciju arhitektonsko-građevn
+ og kamena (BENKOVAC) · davatelj: MINISTARSTVO GOSPODARSTVA\, 1.818 €/go
+ d.\n• STONE BAČIĆ D.O.O. – Koncesija za površinu utvrđenog eksploa
+ tacijskog polja neenergetskih mineralnih sirovina (BENKOVAC) · davatelj: 
+ MINISTARSTVO GOSPODARSTVA\, 1.818 €/god.\n\nProfil općine: https://konc
+ esijski-sat.vercel.app/#opcina/41942358B86279798675617\nIzvor: Registar ko
+ ncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B86279798675617
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -240,92 +657,114 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-9f1499a9865f354a@koncesijski-sat
-DTSTAMP:20261109T134442Z
-DTSTART;VALUE=DATE:20350630
-DTEND;VALUE=DATE:20350701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 6 koncesija
-DESCRIPTION:31. 12. 2035. ističe 6 ugovora o koncesiji. Novi postupak dodj
+UID:priprema-81bcf94b6ddd778f@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20530630
+DTEND;VALUE=DATE:20530701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 6 koncesija · Benkovac
+DESCRIPTION:31. 12. 2053. ističe 6 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
- ra.\n\n• DORIAN D.O.O. – Koncesija za eksploataciju arhitektonsko-gra
- đevnog kamena (BENKOVAC)\, 1.604 €/god.\n• DORIAN D.O.O. – Koncesij
- a za eksploataciju arhitektonsko-građevnog kamena (BENKOVAC)\, 1.604 €/
- god.\n• DORIAN D.O.O. – Koncesija za površinu utvrđenog eksploatacij
- skog polja neenergetskih mineralnih sirovina (BENKOVAC)\, 1.604 €/god.\n
- • AMADEUS VL. RUDOLF BLAŽAN – Koncesija za površinu utvrđenog ekspl
- oatacijskog polja neenergetskih mineralnih sirovina (BENKOVAC)\, 726 €/g
- od.\n• AMADEUS VL. RUDOLF BLAŽAN – Koncesija za eksploataciju arhitek
- tonsko-građevnog kamena (BENKOVAC)\n• AMADEUS VL. RUDOLF BLAŽAN – Ko
- ncesija za eksploataciju arhitektonsko-građevnog kamena (BENKOVAC)\n\nPro
+ ra.\n\n• DAJAKOVIĆ D.O.O. – Koncesija za eksploataciju tehničko-gra
+ đevnog kamena (BENKOVAC) · davatelj: MINISTARSTVO GOSPODARSTVA\, 5.686 
+ €/god.\n• DAJAKOVIĆ D.O.O. – Koncesija za eksploataciju tehničko-g
+ rađevnog kamena (BENKOVAC) · davatelj: MINISTARSTVO GOSPODARSTVA\, 5.686
+  €/god.\n• DAJAKOVIĆ D.O.O. – Koncesija za površinu utvrđenog eks
+ ploatacijskog polja neenergetskih mineralnih sirovina (BENKOVAC) · davate
+ lj: MINISTARSTVO GOSPODARSTVA\, 5.686 €/god.\n• STONE BAČIĆ D.O.O. 
+ – Koncesija za eksploataciju arhitektonsko-građevnog kamena (BENKOVAC) 
+ · davatelj: MINISTARSTVO GOSPODARSTVA\, 1.818 €/god.\n• STONE BAČIĆ
+  D.O.O. – Koncesija za eksploataciju arhitektonsko-građevnog kamena (BE
+ NKOVAC) · davatelj: MINISTARSTVO GOSPODARSTVA\, 1.818 €/god.\n• STONE
+  BAČIĆ D.O.O. – Koncesija za površinu utvrđenog eksploatacijskog pol
+ ja neenergetskih mineralnih sirovina (BENKOVAC) · davatelj: MINISTARSTVO 
+ GOSPODARSTVA\, 1.818 €/god.\n\nProfil općine: https://koncesijski-sat.v
+ ercel.app/#opcina/41942358B86279798675617
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B86279798675617
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 6 koncesija · Benkovac
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-4816080453c34d6d@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20541231
+DTEND;VALUE=DATE:20550101
+SUMMARY:Ističe 6 koncesija · Benkovac
+DESCRIPTION:6 ugovora o koncesiji ističe 31. 12. 2054. Godišnja fiksna na
+ knada: 10.956 €.\n\n• ZARAKOP  D.O.O. – Koncesija za površinu utvr
+ đenog eksploatacijskog polja neenergetskih mineralnih sirovina (BENKOVAC)
+  · davatelj: MINISTARSTVO GOSPODARSTVA\, 3.882 €/god.\n• KAMEN I MONT
+ AŽA D.O.O. – Koncesija za eksploataciju arhitektonsko-građevnog kamena
+  (BENKOVAC) · davatelj: MINISTARSTVO GOSPODARSTVA\, 2.358 €/god.\n• K
+ AMEN I MONTAŽA D.O.O. – Koncesija za eksploataciju arhitektonsko-građe
+ vnog kamena (BENKOVAC) · davatelj: MINISTARSTVO GOSPODARSTVA\, 2.358 €/
+ god.\n• KAMEN I MONTAŽA D.O.O. – Koncesija za površinu utvrđenog ek
+ sploatacijskog polja neenergetskih mineralnih sirovina (BENKOVAC) · davat
+ elj: MINISTARSTVO GOSPODARSTVA\, 2.358 €/god.\n• ZARAKOP D.O.O. – Ko
+ ncesija za eksploataciju tehničko-građevnog kamena (BENKOVAC) · davatel
+ j: MINISTARSTVO GOSPODARSTVA\n• ZARAKOP D.O.O. – Koncesija za eksploat
+ aciju tehničko-građevnog kamena (BENKOVAC) · davatelj: MINISTARSTVO GOS
+ PODARSTVA\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41
+ 942358B86279798675617\nIzvor: Registar koncesija (FINA)\, obrada Koncesijs
+ ki sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B86279798675617
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 6 koncesija · Benkovac
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-4816080453c34d6d@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20540630
+DTEND;VALUE=DATE:20540701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 6 koncesija · Benkovac
+DESCRIPTION:31. 12. 2054. ističe 6 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• ZARAKOP  D.O.O. – Koncesija za površinu utvrđenog eksploata
+ cijskog polja neenergetskih mineralnih sirovina (BENKOVAC) · davatelj: MI
+ NISTARSTVO GOSPODARSTVA\, 3.882 €/god.\n• KAMEN I MONTAŽA D.O.O. – 
+ Koncesija za eksploataciju arhitektonsko-građevnog kamena (BENKOVAC) · d
+ avatelj: MINISTARSTVO GOSPODARSTVA\, 2.358 €/god.\n• KAMEN I MONTAŽA 
+ D.O.O. – Koncesija za eksploataciju arhitektonsko-građevnog kamena (BEN
+ KOVAC) · davatelj: MINISTARSTVO GOSPODARSTVA\, 2.358 €/god.\n• KAMEN 
+ I MONTAŽA D.O.O. – Koncesija za površinu utvrđenog eksploatacijskog p
+ olja neenergetskih mineralnih sirovina (BENKOVAC) · davatelj: MINISTARSTV
+ O GOSPODARSTVA\, 2.358 €/god.\n• ZARAKOP D.O.O. – Koncesija za ekspl
+ oataciju tehničko-građevnog kamena (BENKOVAC) · davatelj: MINISTARSTVO 
+ GOSPODARSTVA\n• ZARAKOP D.O.O. – Koncesija za eksploataciju tehničko-
+ građevnog kamena (BENKOVAC) · davatelj: MINISTARSTVO GOSPODARSTVA\n\nPro
  fil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B862797986
  75617
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B86279798675617
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 6 koncesija
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 6 koncesija · Benkovac
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-d4e613967e1b8d65@koncesijski-sat
-DTSTAMP:20261109T134442Z
-DTSTART;VALUE=DATE:20370331
-DTEND;VALUE=DATE:20370401
+UID:istek-f5861c571c6efe03@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20551231
+DTEND;VALUE=DATE:20560101
 SUMMARY:Ističe 3 koncesije · Benkovac
-DESCRIPTION:3 ugovora o koncesiji ističe 31. 3. 2037. Godišnja fiksna nak
- nada: 4.372 €.\n\n• SOMAR D.O.O. – Koncesija za eksploataciju tehni
- čko-građevnog kamena (BENKOVAC)\, 2.186 €/god.\n• SOMAR D.O.O. – K
- oncesija za površinu utvrđenog eksploatacijskog polja neenergetskih mine
- ralnih sirovina (BENKOVAC)\, 2.186 €/god.\n• SOMAR D.O.O. – Koncesij
- a za eksploataciju tehničko-građevnog kamena (BENKOVAC)\n\nProfil općin
- e: https://koncesijski-sat.vercel.app/#opcina/41942358B86279798675617\nIzv
- or: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#opcina/41942358B86279798675617
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Ističe 3 koncesije · Benkovac
-TRIGGER:-P7D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:priprema-d4e613967e1b8d65@koncesijski-sat
-DTSTAMP:20261109T134442Z
-DTSTART;VALUE=DATE:20360930
-DTEND;VALUE=DATE:20361001
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
-DESCRIPTION:31. 3. 2037. ističe 3 ugovora o koncesiji. Novi postupak dodje
- le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
- a.\n\n• SOMAR D.O.O. – Koncesija za eksploataciju tehničko-građevnog
-  kamena (BENKOVAC)\, 2.186 €/god.\n• SOMAR D.O.O. – Koncesija za pov
+DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2055. Godišnja fiksna na
+ knada: 6.504 €.\n\n• USKOK VL. IVAN USKOK – Koncesija za eksploataci
+ ju arhitektonsko-građevnog kamena (BENKOVAC) · davatelj: MINISTARSTVO GO
+ SPODARSTVA\, 3.252 €/god.\n• USKOK VL. IVAN USKOK – Koncesija za pov
  ršinu utvrđenog eksploatacijskog polja neenergetskih mineralnih sirovina
-  (BENKOVAC)\, 2.186 €/god.\n• SOMAR D.O.O. – Koncesija za eksploatac
- iju tehničko-građevnog kamena (BENKOVAC)\n\nProfil općine: https://konc
- esijski-sat.vercel.app/#opcina/41942358B86279798675617
-URL:https://koncesijski-sat.vercel.app/#opcina/41942358B86279798675617
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
-TRIGGER:-P7D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:istek-0a3e160d9feb6710@koncesijski-sat
-DTSTAMP:20261109T134442Z
-DTSTART;VALUE=DATE:20381231
-DTEND;VALUE=DATE:20390101
-SUMMARY:Ističe 3 koncesije · Benkovac
-DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2038. Godišnja fiksna na
- knada: 800 €.\n\n• USKOK VL. IVAN USKOK – Koncesija za površinu utv
- rđenog eksploatacijskog polja neenergetskih mineralnih sirovina (BENKOVAC
- )\, 800 €/god.\n• USKOK VL. IVAN USKOK – Koncesija za eksploataciju 
- arhitektonsko-građevnog kamena (BENKOVAC)\n• USKOK  VL. IVAN USKOK – 
- Koncesija za eksploataciju arhitektonsko-građevnog kamena (BENKOVAC)\n\nP
- rofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B8627979
- 8675617\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 
- 2026.
+  (BENKOVAC) · davatelj: MINISTARSTVO GOSPODARSTVA\, 3.252 €/god.\n• U
+ SKOK VL. IVAN USKOK – Koncesija za eksploataciju arhitektonsko-građevno
+ g kamena (BENKOVAC) · davatelj: MINISTARSTVO GOSPODARSTVA\n\nProfil opći
+ ne: https://koncesijski-sat.vercel.app/#opcina/41942358B86279798675617\nIz
+ vor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B86279798675617
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -335,42 +774,46 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-0a3e160d9feb6710@koncesijski-sat
-DTSTAMP:20261109T134442Z
-DTSTART;VALUE=DATE:20380630
-DTEND;VALUE=DATE:20380701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
-DESCRIPTION:31. 12. 2038. ističe 3 ugovora o koncesiji. Novi postupak dodj
+UID:priprema-f5861c571c6efe03@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20550630
+DTEND;VALUE=DATE:20550701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Benkovac
+DESCRIPTION:31. 12. 2055. ističe 3 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
- ra.\n\n• USKOK VL. IVAN USKOK – Koncesija za površinu utvrđenog eksp
- loatacijskog polja neenergetskih mineralnih sirovina (BENKOVAC)\, 800 €/
- god.\n• USKOK VL. IVAN USKOK – Koncesija za eksploataciju arhitektonsk
- o-građevnog kamena (BENKOVAC)\n• USKOK  VL. IVAN USKOK – Koncesija za
-  eksploataciju arhitektonsko-građevnog kamena (BENKOVAC)\n\nProfil općin
- e: https://koncesijski-sat.vercel.app/#opcina/41942358B86279798675617
+ ra.\n\n• USKOK VL. IVAN USKOK – Koncesija za eksploataciju arhitektons
+ ko-građevnog kamena (BENKOVAC) · davatelj: MINISTARSTVO GOSPODARSTVA\, 3
+ .252 €/god.\n• USKOK VL. IVAN USKOK – Koncesija za površinu utvrđe
+ nog eksploatacijskog polja neenergetskih mineralnih sirovina (BENKOVAC) ·
+  davatelj: MINISTARSTVO GOSPODARSTVA\, 3.252 €/god.\n• USKOK VL. IVAN 
+ USKOK – Koncesija za eksploataciju arhitektonsko-građevnog kamena (BENK
+ OVAC) · davatelj: MINISTARSTVO GOSPODARSTVA\n\nProfil općine: https://ko
+ ncesijski-sat.vercel.app/#opcina/41942358B86279798675617
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B86279798675617
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Benkovac
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-7afe2337d8b37f23@koncesijski-sat
-DTSTAMP:20261109T134442Z
-DTSTART;VALUE=DATE:20430130
-DTEND;VALUE=DATE:20430131
+UID:istek-caf5af72ec3655ae@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20561231
+DTEND;VALUE=DATE:20570101
 SUMMARY:Ističe 3 koncesije · Benkovac
-DESCRIPTION:3 ugovora o koncesiji ističe 30. 1. 2043. Godišnja fiksna nak
- nada: 3.200 €.\n\n• KAMENOLOM KAMEN D.O.O. – Koncesija za površinu 
- utvrđenog eksploatacijskog polja neenergetskih mineralnih sirovina (BENKO
- VAC)\, 3.200 €/god.\n• KAMENOLOM KAMEN D.O.O. – Koncesija za eksploa
- taciju tehničko-građevnog kamena (BENKOVAC)\n• KAMENOLOM KAMEN D.O.O. 
- – Koncesija za eksploataciju tehničko-građevnog kamena (BENKOVAC)\n\nP
- rofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B8627979
- 8675617\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 
- 2026.
+DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2056. Godišnja fiksna na
+ knada: 6.534 €.\n\n• TIPKA BENKOVAC D.O.O. – Koncesija za eksploatac
+ iju tehničko-građevnog kamena (BENKOVAC) · davatelj: MINISTARSTVO GOSPO
+ DARSTVA\, 2.178 €/god.\n• TIPKA BENKOVAC D.O.O. – Koncesija za ekspl
+ oataciju tehničko-građevnog kamena (BENKOVAC) · davatelj: MINISTARSTVO 
+ GOSPODARSTVA\, 2.178 €/god.\n• TIPKA BENKOVAC D.O.O. – Koncesija za 
+ površinu utvrđenog eksploatacijskog polja neenergetskih mineralnih sirov
+ ina (BENKOVAC) · davatelj: MINISTARSTVO GOSPODARSTVA\, 2.178 €/god.\n\n
+ Profil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B862797
+ 98675617\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11.
+  2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B86279798675617
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -380,88 +823,46 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-7afe2337d8b37f23@koncesijski-sat
-DTSTAMP:20261109T134442Z
-DTSTART;VALUE=DATE:20420730
-DTEND;VALUE=DATE:20420731
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
-DESCRIPTION:30. 1. 2043. ističe 3 ugovora o koncesiji. Novi postupak dodje
- le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
- a.\n\n• KAMENOLOM KAMEN D.O.O. – Koncesija za površinu utvrđenog eks
- ploatacijskog polja neenergetskih mineralnih sirovina (BENKOVAC)\, 3.200 
- €/god.\n• KAMENOLOM KAMEN D.O.O. – Koncesija za eksploataciju tehni
- čko-građevnog kamena (BENKOVAC)\n• KAMENOLOM KAMEN D.O.O. – Koncesij
- a za eksploataciju tehničko-građevnog kamena (BENKOVAC)\n\nProfil općin
- e: https://koncesijski-sat.vercel.app/#opcina/41942358B86279798675617
-URL:https://koncesijski-sat.vercel.app/#opcina/41942358B86279798675617
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
-TRIGGER:-P7D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:istek-4ae27d71802aa596@koncesijski-sat
-DTSTAMP:20261109T134442Z
-DTSTART;VALUE=DATE:20451231
-DTEND;VALUE=DATE:20460101
-SUMMARY:Ističe 3 koncesije · Benkovac
-DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2045. Godišnja fiksna na
- knada: 2.640 €.\n\n• DALMACIJA  VL.ZDENKO KALFIĆ – Koncesija za eks
- ploataciju arhitektonsko-građevnog kamena (BENKOVAC)\, 1.320 €/god.\n
- • DALMACIJA VL.ZDENKO KALFIĆ – Koncesija za površinu utvrđenog eksp
- loatacijskog polja neenergetskih mineralnih sirovina (BENKOVAC)\, 1.320 
- €/god.\n• DALMACIJA VL. ZDENKO KALFIĆ – Koncesija za eksploataciju 
- arhitektonsko-građevnog kamena (BENKOVAC)\n\nProfil općine: https://konc
- esijski-sat.vercel.app/#opcina/41942358B86279798675617\nIzvor: Registar ko
- ncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#opcina/41942358B86279798675617
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Ističe 3 koncesije · Benkovac
-TRIGGER:-P7D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:priprema-4ae27d71802aa596@koncesijski-sat
-DTSTAMP:20261109T134442Z
-DTSTART;VALUE=DATE:20450630
-DTEND;VALUE=DATE:20450701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
-DESCRIPTION:31. 12. 2045. ističe 3 ugovora o koncesiji. Novi postupak dodj
+UID:priprema-caf5af72ec3655ae@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20560630
+DTEND;VALUE=DATE:20560701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Benkovac
+DESCRIPTION:31. 12. 2056. ističe 3 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
- ra.\n\n• DALMACIJA  VL.ZDENKO KALFIĆ – Koncesija za eksploataciju arh
- itektonsko-građevnog kamena (BENKOVAC)\, 1.320 €/god.\n• DALMACIJA VL
- .ZDENKO KALFIĆ – Koncesija za površinu utvrđenog eksploatacijskog pol
- ja neenergetskih mineralnih sirovina (BENKOVAC)\, 1.320 €/god.\n• DALM
- ACIJA VL. ZDENKO KALFIĆ – Koncesija za eksploataciju arhitektonsko-gra
- đevnog kamena (BENKOVAC)\n\nProfil općine: https://koncesijski-sat.verce
- l.app/#opcina/41942358B86279798675617
+ ra.\n\n• TIPKA BENKOVAC D.O.O. – Koncesija za eksploataciju tehničko-
+ građevnog kamena (BENKOVAC) · davatelj: MINISTARSTVO GOSPODARSTVA\, 2.17
+ 8 €/god.\n• TIPKA BENKOVAC D.O.O. – Koncesija za eksploataciju tehni
+ čko-građevnog kamena (BENKOVAC) · davatelj: MINISTARSTVO GOSPODARSTVA\,
+  2.178 €/god.\n• TIPKA BENKOVAC D.O.O. – Koncesija za površinu utvr
+ đenog eksploatacijskog polja neenergetskih mineralnih sirovina (BENKOVAC)
+  · davatelj: MINISTARSTVO GOSPODARSTVA\, 2.178 €/god.\n\nProfil općine
+ : https://koncesijski-sat.vercel.app/#opcina/41942358B86279798675617
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B86279798675617
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Benkovac
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-71dd5ae3218e5b1e@koncesijski-sat
-DTSTAMP:20261109T134442Z
-DTSTART;VALUE=DATE:20471231
-DTEND;VALUE=DATE:20480101
+UID:istek-6df7c0dbb06c0054@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20571231
+DTEND;VALUE=DATE:20580101
 SUMMARY:Ističe 3 koncesije · Benkovac
-DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2047. Godišnja fiksna na
- knada: 4.000 €.\n\n• KRUŠEVO-PUT D.O.O. – Koncesija za eksploatacij
- u tehničko-građevnog kamena (BENKOVAC)\, 2.000 €/god.\n• KRUŠEVO-PU
- T D.O.O. – Koncesija za površinu utvrđenog eksploatacijskog polja neen
- ergetskih mineralnih sirovina (BENKOVAC)\, 2.000 €/god.\n• KRUŠEVO-PU
- T D.O.O. – Koncesija za eksploataciju tehničko-građevnog kamena (BENKO
- VAC)\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4194235
- 8B86279798675617\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sa
- t 9. 11. 2026.
+DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2057. Godišnja fiksna na
+ knada: 4.584 €.\n\n• GLOBAL KAMEN D.O.O. – Koncesija za eksploatacij
+ u arhitektonsko-građevnog kamena (BENKOVAC) · davatelj: MINISTARSTVO GOS
+ PODARSTVA\, 1.528 €/god.\n• GLOBAL KAMEN D.O.O. – Koncesija za ekspl
+ oataciju arhitektonsko-građevnog kamena (BENKOVAC) · davatelj: MINISTARS
+ TVO GOSPODARSTVA\, 1.528 €/god.\n• GLOBAL KAMEN D.O.O. – Koncesija z
+ a površinu utvrđenog eksploatacijskog polja neenergetskih mineralnih sir
+ ovina (BENKOVAC) · davatelj: MINISTARSTVO GOSPODARSTVA\, 1.528 €/god.\n
+ \nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B8627
+ 9798675617\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 1
+ 1. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B86279798675617
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -471,87 +872,107 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-71dd5ae3218e5b1e@koncesijski-sat
-DTSTAMP:20261109T134442Z
-DTSTART;VALUE=DATE:20470630
-DTEND;VALUE=DATE:20470701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
-DESCRIPTION:31. 12. 2047. ističe 3 ugovora o koncesiji. Novi postupak dodj
+UID:priprema-6df7c0dbb06c0054@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20570630
+DTEND;VALUE=DATE:20570701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Benkovac
+DESCRIPTION:31. 12. 2057. ističe 3 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
- ra.\n\n• KRUŠEVO-PUT D.O.O. – Koncesija za eksploataciju tehničko-gr
- ađevnog kamena (BENKOVAC)\, 2.000 €/god.\n• KRUŠEVO-PUT D.O.O. – K
- oncesija za površinu utvrđenog eksploatacijskog polja neenergetskih mine
- ralnih sirovina (BENKOVAC)\, 2.000 €/god.\n• KRUŠEVO-PUT D.O.O. – K
- oncesija za eksploataciju tehničko-građevnog kamena (BENKOVAC)\n\nProfil
-  općine: https://koncesijski-sat.vercel.app/#opcina/41942358B862797986756
- 17
+ ra.\n\n• GLOBAL KAMEN D.O.O. – Koncesija za eksploataciju arhitektonsk
+ o-građevnog kamena (BENKOVAC) · davatelj: MINISTARSTVO GOSPODARSTVA\, 1.
+ 528 €/god.\n• GLOBAL KAMEN D.O.O. – Koncesija za eksploataciju arhit
+ ektonsko-građevnog kamena (BENKOVAC) · davatelj: MINISTARSTVO GOSPODARST
+ VA\, 1.528 €/god.\n• GLOBAL KAMEN D.O.O. – Koncesija za površinu ut
+ vrđenog eksploatacijskog polja neenergetskih mineralnih sirovina (BENKOVA
+ C) · davatelj: MINISTARSTVO GOSPODARSTVA\, 1.528 €/god.\n\nProfil opći
+ ne: https://koncesijski-sat.vercel.app/#opcina/41942358B86279798675617
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B86279798675617
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Benkovac
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-8ccfa48581260f7f@koncesijski-sat
-DTSTAMP:20261109T134442Z
-DTSTART;VALUE=DATE:20481231
-DTEND;VALUE=DATE:20490101
-SUMMARY:Ističe 3 koncesije · Benkovac
-DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2048. Godišnja fiksna na
- knada: 3.102 €.\n\n• AMADEUS VL. RUDOLF BLAŽAN – Koncesija za povr
- šinu utvrđenog eksploatacijskog polja neenergetskih mineralnih sirovina 
- (BENKOVAC)\, 3.102 €/god.\n• AMADEUS VL. RUDOLF BLAŽAN – Koncesija 
- za eksploataciju arhitektonsko-građevnog kamena (BENKOVAC)\n• AMADEUS V
- L. RUDOLF BLAŽAN – Koncesija za eksploataciju arhitektonsko-građevnog 
- kamena (BENKOVAC)\n\nProfil općine: https://koncesijski-sat.vercel.app/#o
- pcina/41942358B86279798675617\nIzvor: Registar koncesija (FINA)\, obrada K
- oncesijski sat 9. 11. 2026.
+UID:istek-ce6a04c8cdb3501c@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20581231
+DTEND;VALUE=DATE:20590101
+SUMMARY:Ističe 6 koncesija · Benkovac
+DESCRIPTION:6 ugovora o koncesiji ističe 31. 12. 2058. Godišnja fiksna na
+ knada: 16.218 €.\n\n• KLESARSTVO KATUŠA D.O.O. – Koncesija za ekspl
+ oataciju arhitektonsko-građevnog kamena (BENKOVAC) · davatelj: MINISTARS
+ TVO GOSPODARSTVA\, 4.040 €/god.\n• KLESARSTVO KATUŠA D.O.O. – Konce
+ sija za eksploataciju arhitektonsko-građevnog kamena (BENKOVAC) · davate
+ lj: MINISTARSTVO GOSPODARSTVA\, 4.040 €/god.\n• KLESARSTVO KATUŠA D.O
+ .O. – Koncesija za površinu utvrđenog eksploatacijskog polja neenerget
+ skih mineralnih sirovina (BENKOVAC) · davatelj: MINISTARSTVO GOSPODARSTVA
+ \, 4.040 €/god.\n• KLESARSTVO KATUŠA D.O.O. – Koncesija za eksploat
+ aciju arhitektonsko-građevnog kamena (BENKOVAC) · davatelj: MINISTARSTVO
+  GOSPODARSTVA\, 1.366 €/god.\n• KLESARSTVO KATUŠA D.O.O. – Koncesij
+ a za eksploataciju arhitektonsko-građevnog kamena (BENKOVAC) · davatelj:
+  MINISTARSTVO GOSPODARSTVA\, 1.366 €/god.\n• KLESARSTVO KATUŠA D.O.O.
+  – Koncesija za površinu utvrđenog eksploatacijskog polja neenergetski
+ h mineralnih sirovina (BENKOVAC) · davatelj: MINISTARSTVO GOSPODARSTVA\, 
+ 1.366 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opci
+ na/41942358B86279798675617\nIzvor: Registar koncesija (FINA)\, obrada Konc
+ esijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B86279798675617
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Ističe 3 koncesije · Benkovac
+DESCRIPTION:Ističe 6 koncesija · Benkovac
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-8ccfa48581260f7f@koncesijski-sat
-DTSTAMP:20261109T134442Z
-DTSTART;VALUE=DATE:20480630
-DTEND;VALUE=DATE:20480701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
-DESCRIPTION:31. 12. 2048. ističe 3 ugovora o koncesiji. Novi postupak dodj
+UID:priprema-ce6a04c8cdb3501c@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20580630
+DTEND;VALUE=DATE:20580701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 6 koncesija · Benkovac
+DESCRIPTION:31. 12. 2058. ističe 6 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
- ra.\n\n• AMADEUS VL. RUDOLF BLAŽAN – Koncesija za površinu utvrđeno
- g eksploatacijskog polja neenergetskih mineralnih sirovina (BENKOVAC)\, 3.
- 102 €/god.\n• AMADEUS VL. RUDOLF BLAŽAN – Koncesija za eksploatacij
- u arhitektonsko-građevnog kamena (BENKOVAC)\n• AMADEUS VL. RUDOLF BLAŽ
- AN – Koncesija za eksploataciju arhitektonsko-građevnog kamena (BENKOVA
- C)\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B
- 86279798675617
+ ra.\n\n• KLESARSTVO KATUŠA D.O.O. – Koncesija za eksploataciju arhite
+ ktonsko-građevnog kamena (BENKOVAC) · davatelj: MINISTARSTVO GOSPODARSTV
+ A\, 4.040 €/god.\n• KLESARSTVO KATUŠA D.O.O. – Koncesija za eksploa
+ taciju arhitektonsko-građevnog kamena (BENKOVAC) · davatelj: MINISTARSTV
+ O GOSPODARSTVA\, 4.040 €/god.\n• KLESARSTVO KATUŠA D.O.O. – Koncesi
+ ja za površinu utvrđenog eksploatacijskog polja neenergetskih mineralnih
+  sirovina (BENKOVAC) · davatelj: MINISTARSTVO GOSPODARSTVA\, 4.040 €/go
+ d.\n• KLESARSTVO KATUŠA D.O.O. – Koncesija za eksploataciju arhitekto
+ nsko-građevnog kamena (BENKOVAC) · davatelj: MINISTARSTVO GOSPODARSTVA\,
+  1.366 €/god.\n• KLESARSTVO KATUŠA D.O.O. – Koncesija za eksploatac
+ iju arhitektonsko-građevnog kamena (BENKOVAC) · davatelj: MINISTARSTVO G
+ OSPODARSTVA\, 1.366 €/god.\n• KLESARSTVO KATUŠA D.O.O. – Koncesija 
+ za površinu utvrđenog eksploatacijskog polja neenergetskih mineralnih si
+ rovina (BENKOVAC) · davatelj: MINISTARSTVO GOSPODARSTVA\, 1.366 €/god.\
+ n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B862
+ 79798675617
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B86279798675617
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 6 koncesija · Benkovac
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-78277540886e97d4@koncesijski-sat
-DTSTAMP:20261109T134442Z
-DTSTART;VALUE=DATE:20491231
-DTEND;VALUE=DATE:20500101
+UID:istek-9ee74781a156fac6@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20611231
+DTEND;VALUE=DATE:20620101
 SUMMARY:Ističe 3 koncesije · Benkovac
-DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2049. Godišnja fiksna na
- knada: 7.026 €.\n\n• TGP KARLO VL. ZVONIMIR BAČIĆ – Koncesija za e
- ksploataciju arhitektonsko-građevnog kamena (BENKOVAC)\, 2.342 €/god.\n
- • TGP KARLO VL. ZVONIMIR BAČIĆ – Koncesija za eksploataciju arhitekt
- onsko-građevnog kamena (BENKOVAC)\, 2.342 €/god.\n• TGP KARLO VL. ZVO
- NIMIR BAČIĆ – Koncesija za površinu utvrđenog eksploatacijskog polja
-  neenergetskih mineralnih sirovina (BENKOVAC)\, 2.342 €/god.\n\nProfil o
+DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2061. Godišnja fiksna na
+ knada: 1.098 €.\n\n• ZIO COMMERCE D.O.O. – Koncesija za površinu ut
+ vrđenog eksploatacijskog polja neenergetskih mineralnih sirovina (BENKOVA
+ C) · davatelj: MINISTARSTVO GOSPODARSTVA\, 1.098 €/god.\n• ZIO COMMER
+ CE D.O.O. – Koncesija za eksploataciju arhitektonsko-građevnog i tehni
+ čko-građevnog kamena (BENKOVAC) · davatelj: MINISTARSTVO GOSPODARSTVA\n
+ • ZIO COMMERCE D.O.O. – Koncesija za eksploataciju arhitektonsko-građ
+ evnog kamena (BENKOVAC) · davatelj: MINISTARSTVO GOSPODARSTVA\n\nProfil o
  pćine: https://koncesijski-sat.vercel.app/#opcina/41942358B86279798675617
  \nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B86279798675617
@@ -563,377 +984,26 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-78277540886e97d4@koncesijski-sat
-DTSTAMP:20261109T134442Z
-DTSTART;VALUE=DATE:20490630
-DTEND;VALUE=DATE:20490701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
-DESCRIPTION:31. 12. 2049. ističe 3 ugovora o koncesiji. Novi postupak dodj
- ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
- ra.\n\n• TGP KARLO VL. ZVONIMIR BAČIĆ – Koncesija za eksploataciju a
- rhitektonsko-građevnog kamena (BENKOVAC)\, 2.342 €/god.\n• TGP KARLO 
- VL. ZVONIMIR BAČIĆ – Koncesija za eksploataciju arhitektonsko-građevn
- og kamena (BENKOVAC)\, 2.342 €/god.\n• TGP KARLO VL. ZVONIMIR BAČIĆ 
- – Koncesija za površinu utvrđenog eksploatacijskog polja neenergetskih
-  mineralnih sirovina (BENKOVAC)\, 2.342 €/god.\n\nProfil općine: https:
- //koncesijski-sat.vercel.app/#opcina/41942358B86279798675617
-URL:https://koncesijski-sat.vercel.app/#opcina/41942358B86279798675617
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
-TRIGGER:-P7D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:istek-a8337e010d50a5cc@koncesijski-sat
-DTSTAMP:20261109T134442Z
-DTSTART;VALUE=DATE:20531231
-DTEND;VALUE=DATE:20540101
-SUMMARY:Ističe 6 koncesija · Benkovac
-DESCRIPTION:6 ugovora o koncesiji ističe 31. 12. 2053. Godišnja fiksna na
- knada: 22.512 €.\n\n• DAJAKOVIĆ D.O.O. – Koncesija za eksploataciju
-  tehničko-građevnog kamena (BENKOVAC)\, 5.686 €/god.\n• DAJAKOVIĆ D
- .O.O. – Koncesija za eksploataciju tehničko-građevnog kamena (BENKOVAC
- )\, 5.686 €/god.\n• DAJAKOVIĆ D.O.O. – Koncesija za površinu utvr
- đenog eksploatacijskog polja neenergetskih mineralnih sirovina (BENKOVAC)
- \, 5.686 €/god.\n• STONE BAČIĆ D.O.O. – Koncesija za eksploataciju
-  arhitektonsko-građevnog kamena (BENKOVAC)\, 1.818 €/god.\n• STONE BA
- ČIĆ D.O.O. – Koncesija za eksploataciju arhitektonsko-građevnog kamen
- a (BENKOVAC)\, 1.818 €/god.\n• STONE BAČIĆ D.O.O. – Koncesija za p
- ovršinu utvrđenog eksploatacijskog polja neenergetskih mineralnih sirovi
- na (BENKOVAC)\, 1.818 €/god.\n\nProfil općine: https://koncesijski-sat.
- vercel.app/#opcina/41942358B86279798675617\nIzvor: Registar koncesija (FIN
- A)\, obrada Koncesijski sat 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#opcina/41942358B86279798675617
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Ističe 6 koncesija · Benkovac
-TRIGGER:-P7D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:priprema-a8337e010d50a5cc@koncesijski-sat
-DTSTAMP:20261109T134442Z
-DTSTART;VALUE=DATE:20530630
-DTEND;VALUE=DATE:20530701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 6 koncesija
-DESCRIPTION:31. 12. 2053. ističe 6 ugovora o koncesiji. Novi postupak dodj
- ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
- ra.\n\n• DAJAKOVIĆ D.O.O. – Koncesija za eksploataciju tehničko-gra
- đevnog kamena (BENKOVAC)\, 5.686 €/god.\n• DAJAKOVIĆ D.O.O. – Konc
- esija za eksploataciju tehničko-građevnog kamena (BENKOVAC)\, 5.686 €/
- god.\n• DAJAKOVIĆ D.O.O. – Koncesija za površinu utvrđenog eksploat
- acijskog polja neenergetskih mineralnih sirovina (BENKOVAC)\, 5.686 €/go
- d.\n• STONE BAČIĆ D.O.O. – Koncesija za eksploataciju arhitektonsko-
- građevnog kamena (BENKOVAC)\, 1.818 €/god.\n• STONE BAČIĆ D.O.O. 
- – Koncesija za eksploataciju arhitektonsko-građevnog kamena (BENKOVAC)\
- , 1.818 €/god.\n• STONE BAČIĆ D.O.O. – Koncesija za površinu utvr
- đenog eksploatacijskog polja neenergetskih mineralnih sirovina (BENKOVAC)
- \, 1.818 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#o
- pcina/41942358B86279798675617
-URL:https://koncesijski-sat.vercel.app/#opcina/41942358B86279798675617
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 6 koncesija
-TRIGGER:-P7D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:istek-54efecec79ba682d@koncesijski-sat
-DTSTAMP:20261109T134442Z
-DTSTART;VALUE=DATE:20541231
-DTEND;VALUE=DATE:20550101
-SUMMARY:Ističe 6 koncesija · Benkovac
-DESCRIPTION:6 ugovora o koncesiji ističe 31. 12. 2054. Godišnja fiksna na
- knada: 10.956 €.\n\n• ZARAKOP  D.O.O. – Koncesija za površinu utvr
- đenog eksploatacijskog polja neenergetskih mineralnih sirovina (BENKOVAC)
- \, 3.882 €/god.\n• KAMEN I MONTAŽA D.O.O. – Koncesija za eksploatac
- iju arhitektonsko-građevnog kamena (BENKOVAC)\, 2.358 €/god.\n• KAMEN
-  I MONTAŽA D.O.O. – Koncesija za eksploataciju arhitektonsko-građevnog
-  kamena (BENKOVAC)\, 2.358 €/god.\n• KAMEN I MONTAŽA D.O.O. – Konce
- sija za površinu utvrđenog eksploatacijskog polja neenergetskih mineraln
- ih sirovina (BENKOVAC)\, 2.358 €/god.\n• ZARAKOP D.O.O. – Koncesija 
- za eksploataciju tehničko-građevnog kamena (BENKOVAC)\n• ZARAKOP D.O.O
- . – Koncesija za eksploataciju tehničko-građevnog kamena (BENKOVAC)\n\
- nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B86279
- 798675617\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11
- . 2026.
-URL:https://koncesijski-sat.vercel.app/#opcina/41942358B86279798675617
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Ističe 6 koncesija · Benkovac
-TRIGGER:-P7D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:priprema-54efecec79ba682d@koncesijski-sat
-DTSTAMP:20261109T134442Z
-DTSTART;VALUE=DATE:20540630
-DTEND;VALUE=DATE:20540701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 6 koncesija
-DESCRIPTION:31. 12. 2054. ističe 6 ugovora o koncesiji. Novi postupak dodj
- ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
- ra.\n\n• ZARAKOP  D.O.O. – Koncesija za površinu utvrđenog eksploata
- cijskog polja neenergetskih mineralnih sirovina (BENKOVAC)\, 3.882 €/god
- .\n• KAMEN I MONTAŽA D.O.O. – Koncesija za eksploataciju arhitektonsk
- o-građevnog kamena (BENKOVAC)\, 2.358 €/god.\n• KAMEN I MONTAŽA D.O.
- O. – Koncesija za eksploataciju arhitektonsko-građevnog kamena (BENKOVA
- C)\, 2.358 €/god.\n• KAMEN I MONTAŽA D.O.O. – Koncesija za površin
- u utvrđenog eksploatacijskog polja neenergetskih mineralnih sirovina (BEN
- KOVAC)\, 2.358 €/god.\n• ZARAKOP D.O.O. – Koncesija za eksploataciju
-  tehničko-građevnog kamena (BENKOVAC)\n• ZARAKOP D.O.O. – Koncesija 
- za eksploataciju tehničko-građevnog kamena (BENKOVAC)\n\nProfil općine:
-  https://koncesijski-sat.vercel.app/#opcina/41942358B86279798675617
-URL:https://koncesijski-sat.vercel.app/#opcina/41942358B86279798675617
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 6 koncesija
-TRIGGER:-P7D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:istek-bc37c1a85e89f37b@koncesijski-sat
-DTSTAMP:20261109T134442Z
-DTSTART;VALUE=DATE:20551231
-DTEND;VALUE=DATE:20560101
-SUMMARY:Ističe 3 koncesije · Benkovac
-DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2055. Godišnja fiksna na
- knada: 6.504 €.\n\n• USKOK VL. IVAN USKOK – Koncesija za eksploataci
- ju arhitektonsko-građevnog kamena (BENKOVAC)\, 3.252 €/god.\n• USKOK 
- VL. IVAN USKOK – Koncesija za površinu utvrđenog eksploatacijskog polj
- a neenergetskih mineralnih sirovina (BENKOVAC)\, 3.252 €/god.\n• USKOK
-  VL. IVAN USKOK – Koncesija za eksploataciju arhitektonsko-građevnog ka
- mena (BENKOVAC)\n\nProfil općine: https://koncesijski-sat.vercel.app/#opc
- ina/41942358B86279798675617\nIzvor: Registar koncesija (FINA)\, obrada Kon
- cesijski sat 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#opcina/41942358B86279798675617
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Ističe 3 koncesije · Benkovac
-TRIGGER:-P7D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:priprema-bc37c1a85e89f37b@koncesijski-sat
-DTSTAMP:20261109T134442Z
-DTSTART;VALUE=DATE:20550630
-DTEND;VALUE=DATE:20550701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
-DESCRIPTION:31. 12. 2055. ističe 3 ugovora o koncesiji. Novi postupak dodj
- ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
- ra.\n\n• USKOK VL. IVAN USKOK – Koncesija za eksploataciju arhitektons
- ko-građevnog kamena (BENKOVAC)\, 3.252 €/god.\n• USKOK VL. IVAN USKOK
-  – Koncesija za površinu utvrđenog eksploatacijskog polja neenergetski
- h mineralnih sirovina (BENKOVAC)\, 3.252 €/god.\n• USKOK VL. IVAN USKO
- K – Koncesija za eksploataciju arhitektonsko-građevnog kamena (BENKOVAC
- )\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B8
- 6279798675617
-URL:https://koncesijski-sat.vercel.app/#opcina/41942358B86279798675617
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
-TRIGGER:-P7D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:istek-61f7a150bd604fa8@koncesijski-sat
-DTSTAMP:20261109T134442Z
-DTSTART;VALUE=DATE:20561231
-DTEND;VALUE=DATE:20570101
-SUMMARY:Ističe 3 koncesije · Benkovac
-DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2056. Godišnja fiksna na
- knada: 6.534 €.\n\n• TIPKA BENKOVAC D.O.O. – Koncesija za eksploatac
- iju tehničko-građevnog kamena (BENKOVAC)\, 2.178 €/god.\n• TIPKA BEN
- KOVAC D.O.O. – Koncesija za eksploataciju tehničko-građevnog kamena (B
- ENKOVAC)\, 2.178 €/god.\n• TIPKA BENKOVAC D.O.O. – Koncesija za povr
- šinu utvrđenog eksploatacijskog polja neenergetskih mineralnih sirovina 
- (BENKOVAC)\, 2.178 €/god.\n\nProfil općine: https://koncesijski-sat.ver
- cel.app/#opcina/41942358B86279798675617\nIzvor: Registar koncesija (FINA)\
- , obrada Koncesijski sat 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#opcina/41942358B86279798675617
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Ističe 3 koncesije · Benkovac
-TRIGGER:-P7D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:priprema-61f7a150bd604fa8@koncesijski-sat
-DTSTAMP:20261109T134442Z
-DTSTART;VALUE=DATE:20560630
-DTEND;VALUE=DATE:20560701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
-DESCRIPTION:31. 12. 2056. ističe 3 ugovora o koncesiji. Novi postupak dodj
- ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
- ra.\n\n• TIPKA BENKOVAC D.O.O. – Koncesija za eksploataciju tehničko-
- građevnog kamena (BENKOVAC)\, 2.178 €/god.\n• TIPKA BENKOVAC D.O.O. 
- – Koncesija za eksploataciju tehničko-građevnog kamena (BENKOVAC)\, 2.
- 178 €/god.\n• TIPKA BENKOVAC D.O.O. – Koncesija za površinu utvrđe
- nog eksploatacijskog polja neenergetskih mineralnih sirovina (BENKOVAC)\, 
- 2.178 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opci
- na/41942358B86279798675617
-URL:https://koncesijski-sat.vercel.app/#opcina/41942358B86279798675617
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
-TRIGGER:-P7D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:istek-d5f5977083c87e9c@koncesijski-sat
-DTSTAMP:20261109T134442Z
-DTSTART;VALUE=DATE:20571231
-DTEND;VALUE=DATE:20580101
-SUMMARY:Ističe 3 koncesije · Benkovac
-DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2057. Godišnja fiksna na
- knada: 4.584 €.\n\n• GLOBAL KAMEN D.O.O. – Koncesija za eksploatacij
- u arhitektonsko-građevnog kamena (BENKOVAC)\, 1.528 €/god.\n• GLOBAL 
- KAMEN D.O.O. – Koncesija za eksploataciju arhitektonsko-građevnog kamen
- a (BENKOVAC)\, 1.528 €/god.\n• GLOBAL KAMEN D.O.O. – Koncesija za po
- vršinu utvrđenog eksploatacijskog polja neenergetskih mineralnih sirovin
- a (BENKOVAC)\, 1.528 €/god.\n\nProfil općine: https://koncesijski-sat.v
- ercel.app/#opcina/41942358B86279798675617\nIzvor: Registar koncesija (FINA
- )\, obrada Koncesijski sat 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#opcina/41942358B86279798675617
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Ističe 3 koncesije · Benkovac
-TRIGGER:-P7D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:priprema-d5f5977083c87e9c@koncesijski-sat
-DTSTAMP:20261109T134442Z
-DTSTART;VALUE=DATE:20570630
-DTEND;VALUE=DATE:20570701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
-DESCRIPTION:31. 12. 2057. ističe 3 ugovora o koncesiji. Novi postupak dodj
- ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
- ra.\n\n• GLOBAL KAMEN D.O.O. – Koncesija za eksploataciju arhitektonsk
- o-građevnog kamena (BENKOVAC)\, 1.528 €/god.\n• GLOBAL KAMEN D.O.O. 
- – Koncesija za eksploataciju arhitektonsko-građevnog kamena (BENKOVAC)\
- , 1.528 €/god.\n• GLOBAL KAMEN D.O.O. – Koncesija za površinu utvr
- đenog eksploatacijskog polja neenergetskih mineralnih sirovina (BENKOVAC)
- \, 1.528 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#o
- pcina/41942358B86279798675617
-URL:https://koncesijski-sat.vercel.app/#opcina/41942358B86279798675617
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
-TRIGGER:-P7D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:istek-40ad22200c6c9a00@koncesijski-sat
-DTSTAMP:20261109T134442Z
-DTSTART;VALUE=DATE:20581231
-DTEND;VALUE=DATE:20590101
-SUMMARY:Ističe 6 koncesija · Benkovac
-DESCRIPTION:6 ugovora o koncesiji ističe 31. 12. 2058. Godišnja fiksna na
- knada: 16.218 €.\n\n• KLESARSTVO KATUŠA D.O.O. – Koncesija za ekspl
- oataciju arhitektonsko-građevnog kamena (BENKOVAC)\, 4.040 €/god.\n• 
- KLESARSTVO KATUŠA D.O.O. – Koncesija za eksploataciju arhitektonsko-gra
- đevnog kamena (BENKOVAC)\, 4.040 €/god.\n• KLESARSTVO KATUŠA D.O.O. 
- – Koncesija za površinu utvrđenog eksploatacijskog polja neenergetskih
-  mineralnih sirovina (BENKOVAC)\, 4.040 €/god.\n• KLESARSTVO KATUŠA D
- .O.O. – Koncesija za eksploataciju arhitektonsko-građevnog kamena (BENK
- OVAC)\, 1.366 €/god.\n• KLESARSTVO KATUŠA D.O.O. – Koncesija za eks
- ploataciju arhitektonsko-građevnog kamena (BENKOVAC)\, 1.366 €/god.\n
- • KLESARSTVO KATUŠA D.O.O. – Koncesija za površinu utvrđenog eksplo
- atacijskog polja neenergetskih mineralnih sirovina (BENKOVAC)\, 1.366 €/
- god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4194235
- 8B86279798675617\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sa
- t 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#opcina/41942358B86279798675617
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Ističe 6 koncesija · Benkovac
-TRIGGER:-P7D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:priprema-40ad22200c6c9a00@koncesijski-sat
-DTSTAMP:20261109T134442Z
-DTSTART;VALUE=DATE:20580630
-DTEND;VALUE=DATE:20580701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 6 koncesija
-DESCRIPTION:31. 12. 2058. ističe 6 ugovora o koncesiji. Novi postupak dodj
- ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
- ra.\n\n• KLESARSTVO KATUŠA D.O.O. – Koncesija za eksploataciju arhite
- ktonsko-građevnog kamena (BENKOVAC)\, 4.040 €/god.\n• KLESARSTVO KATU
- ŠA D.O.O. – Koncesija za eksploataciju arhitektonsko-građevnog kamena 
- (BENKOVAC)\, 4.040 €/god.\n• KLESARSTVO KATUŠA D.O.O. – Koncesija z
- a površinu utvrđenog eksploatacijskog polja neenergetskih mineralnih sir
- ovina (BENKOVAC)\, 4.040 €/god.\n• KLESARSTVO KATUŠA D.O.O. – Konce
- sija za eksploataciju arhitektonsko-građevnog kamena (BENKOVAC)\, 1.366 
- €/god.\n• KLESARSTVO KATUŠA D.O.O. – Koncesija za eksploataciju arh
- itektonsko-građevnog kamena (BENKOVAC)\, 1.366 €/god.\n• KLESARSTVO K
- ATUŠA D.O.O. – Koncesija za površinu utvrđenog eksploatacijskog polja
-  neenergetskih mineralnih sirovina (BENKOVAC)\, 1.366 €/god.\n\nProfil o
- pćine: https://koncesijski-sat.vercel.app/#opcina/41942358B86279798675617
-URL:https://koncesijski-sat.vercel.app/#opcina/41942358B86279798675617
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 6 koncesija
-TRIGGER:-P7D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:istek-22cde614722e0ef0@koncesijski-sat
-DTSTAMP:20261109T134442Z
-DTSTART;VALUE=DATE:20611231
-DTEND;VALUE=DATE:20620101
-SUMMARY:Ističe 3 koncesije · Benkovac
-DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2061. Godišnja fiksna na
- knada: 1.098 €.\n\n• ZIO COMMERCE D.O.O. – Koncesija za površinu ut
- vrđenog eksploatacijskog polja neenergetskih mineralnih sirovina (BENKOVA
- C)\, 1.098 €/god.\n• ZIO COMMERCE D.O.O. – Koncesija za eksploatacij
- u arhitektonsko-građevnog i tehničko-građevnog kamena (BENKOVAC)\n• Z
- IO COMMERCE D.O.O. – Koncesija za eksploataciju arhitektonsko-građevnog
-  kamena (BENKOVAC)\n\nProfil općine: https://koncesijski-sat.vercel.app/#
- opcina/41942358B86279798675617\nIzvor: Registar koncesija (FINA)\, obrada 
- Koncesijski sat 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#opcina/41942358B86279798675617
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Ističe 3 koncesije · Benkovac
-TRIGGER:-P7D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:priprema-22cde614722e0ef0@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-9ee74781a156fac6@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20610630
 DTEND;VALUE=DATE:20610701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Benkovac
 DESCRIPTION:31. 12. 2061. ističe 3 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• ZIO COMMERCE D.O.O. – Koncesija za površinu utvrđenog ekspl
- oatacijskog polja neenergetskih mineralnih sirovina (BENKOVAC)\, 1.098 €
- /god.\n• ZIO COMMERCE D.O.O. – Koncesija za eksploataciju arhitektonsk
- o-građevnog i tehničko-građevnog kamena (BENKOVAC)\n• ZIO COMMERCE D.
- O.O. – Koncesija za eksploataciju arhitektonsko-građevnog kamena (BENKO
- VAC)\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4194235
- 8B86279798675617
+ oatacijskog polja neenergetskih mineralnih sirovina (BENKOVAC) · davatelj
+ : MINISTARSTVO GOSPODARSTVA\, 1.098 €/god.\n• ZIO COMMERCE D.O.O. – 
+ Koncesija za eksploataciju arhitektonsko-građevnog i tehničko-građevnog
+  kamena (BENKOVAC) · davatelj: MINISTARSTVO GOSPODARSTVA\n• ZIO COMMERC
+ E D.O.O. – Koncesija za eksploataciju arhitektonsko-građevnog kamena (B
+ ENKOVAC) · davatelj: MINISTARSTVO GOSPODARSTVA\n\nProfil općine: https:/
+ /koncesijski-sat.vercel.app/#opcina/41942358B86279798675617
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B86279798675617
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Benkovac
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT

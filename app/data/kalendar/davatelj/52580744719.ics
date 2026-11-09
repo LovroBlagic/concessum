@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · OPĆINA GVOZD
+X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje OPĆINA GVOZD. Iz Registra
+  koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podataka
+ . https://koncesijski-sat.vercel.app/#sat
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-b105c2960e1124b3@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:Ističe koncesija: TIHOMIR KUŠAN\, DIMNJAČARSKA RADNJA KUŠAN TIH
+ OMIR
+DESCRIPTION:1 ugovor o koncesiji ističe 31. 1. 2027. Godišnja fiksna nakn
+ ada: 239 €.\n\n• TIHOMIR KUŠAN\, DIMNJAČARSKA RADNJA KUŠAN TIHOMIR 
+ – Koncesija za obavljanje dimnjačarskih poslova (GVOZD\, Općina Gvozd)
+ \, 239 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\n
+ Izvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: TIHOMIR KUŠAN\, DIMNJAČARSKA RADNJA KUŠAN
+  TIHOMIR
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

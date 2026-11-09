@@ -4,24 +4,26 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Grad Ploče
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Grad Ploče. Iz Registra
-  koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podataka
- . https://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Grad Ploče (pregled\, s
+ vi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježava se n
+ akon svake obrade podataka. https://koncesijski-sat.vercel.app/#opcina/419
+ 42358B61718235725154
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-9dc836817fb50f9b@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-841f86bde0c19360@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:Ističe koncesija: OMNIS D.O.O. PODRUŽNICA RIJEKA - GLAVNA PODRUŽ
  NICA
 DESCRIPTION:1 ugovor o koncesiji ističe 2. 12. 2026. Godišnja fiksna nakn
  ada: 465 €.\n\n• OMNIS D.O.O. PODRUŽNICA RIJEKA - GLAVNA PODRUŽNICA 
- – Koncesija na pomorskom dobru (PLOČE)\, 465 €/god.\n\nProfil općine
- : https://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154\nIzvo
- r: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ – Koncesija na pomorskom dobru (PLOČE) · davatelj: LUČKA UPRAVA PLOČ
+ E\, 465 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#op
+ cina/41942358B61718235725154\nIzvor: Registar koncesija (FINA)\, obrada Ko
+ ncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -32,18 +34,19 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-2deaf505d3b743eb@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-e570ec91b7ffde45@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270105
 DTEND;VALUE=DATE:20270106
 SUMMARY:Ističe 2 koncesije · Ploče
 DESCRIPTION:2 ugovora o koncesiji ističe 5. 1. 2027. Godišnja fiksna nakn
  ada: 2.000 €.\n\n• MARINO AGENT D.O.O. ZA OTPREMNIŠTVO\,PROMET\,TRGOV
- INU I USLUGE – Koncesija na pomorskom dobru (PLOČE)\, 1.000 €/god.\n
- • ELDMARC  D. O. O. – Koncesija na pomorskom dobru (PLOČE)\, 1.000 
- €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
- 42358B61718235725154\nIzvor: Registar koncesija (FINA)\, obrada Koncesijsk
- i sat 9. 11. 2026.
+ INU I USLUGE – Koncesija na pomorskom dobru (PLOČE) · davatelj: LUČKA
+  UPRAVA PLOČE\, 1.000 €/god.\n• ELDMARC  D. O. O. – Koncesija na po
+ morskom dobru (PLOČE) · davatelj: LUČKA UPRAVA PLOČE\, 1.000 €/god.\
+ n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B617
+ 18235725154\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 
+ 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -53,17 +56,18 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-6b447a9a264aa8c6@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-8889193bf74b1b91@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270108
 DTEND;VALUE=DATE:20270109
 SUMMARY:Ističe 2 koncesije · Ploče
 DESCRIPTION:2 ugovora o koncesiji ističe 8. 1. 2027. Godišnja fiksna nakn
  ada: 2.000 €.\n\n• INTERLINER AGENCIES D.O.O. – Koncesija na pomorsk
- om dobru (PLOČE)\, 1.000 €/god.\n• TRANSAGENT D. O. O. – Koncesija 
- na pomorskom dobru (PLOČE)\, 1.000 €/god.\n\nProfil općine: https://ko
- ncesijski-sat.vercel.app/#opcina/41942358B61718235725154\nIzvor: Registar 
- koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ om dobru (PLOČE) · davatelj: LUČKA UPRAVA PLOČE\, 1.000 €/god.\n• 
+ TRANSAGENT D. O. O. – Koncesija na pomorskom dobru (PLOČE) · davatelj:
+  LUČKA UPRAVA PLOČE\, 1.000 €/god.\n\nProfil općine: https://koncesij
+ ski-sat.vercel.app/#opcina/41942358B61718235725154\nIzvor: Registar konces
+ ija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -73,19 +77,20 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-55ed26212532f4a2@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-0275cd64c24b1d4b@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270112
 DTEND;VALUE=DATE:20270113
 SUMMARY:Ističe 3 koncesije · Ploče
 DESCRIPTION:3 ugovora o koncesiji ističe 12. 1. 2027. Godišnja fiksna nak
  nada: 2.129 €.\n\n• INTEREUROPA D.O.O. – Koncesija na pomorskom dobr
- u (PLOČE)\, 1.000 €/god.\n• MSC CROATIA D. O. O. – Koncesija na pom
- orskom dobru (PLOČE)\, 664 €/god.\n• INSPECTORATE(CROATIA)LTD D.O.O.Z
- A KONTROLU KVALITETA I KVANT – Koncesija na pomorskom dobru (PLOČE)\, 4
- 65 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/
- 41942358B61718235725154\nIzvor: Registar koncesija (FINA)\, obrada Koncesi
- jski sat 9. 11. 2026.
+ u (PLOČE) · davatelj: LUČKA UPRAVA PLOČE\, 1.000 €/god.\n• MSC CRO
+ ATIA D. O. O. – Koncesija na pomorskom dobru (PLOČE) · davatelj: LUČK
+ A UPRAVA PLOČE\, 664 €/god.\n• INSPECTORATE(CROATIA)LTD D.O.O.ZA KONT
+ ROLU KVALITETA I KVANT – Koncesija na pomorskom dobru (PLOČE) · davate
+ lj: LUČKA UPRAVA PLOČE\, 465 €/god.\n\nProfil općine: https://koncesi
+ jski-sat.vercel.app/#opcina/41942358B61718235725154\nIzvor: Registar konce
+ sija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -95,18 +100,19 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-f758f566dfb1996f@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-38f4a2f33e8c9c12@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270115
 DTEND;VALUE=DATE:20270116
 SUMMARY:Ističe 2 koncesije · Ploče
 DESCRIPTION:2 ugovora o koncesiji ističe 15. 1. 2027. Godišnja fiksna nak
  nada: 930 €.\n\n• PETROL DRUŠTVO S OGRANIČENOM ODGOVORNOŠĆ U ZA TR
- GOVINU I PRIJEVOZ NAFT – Koncesija na pomorskom dobru (PLOČE)\, 465 €
- /god.\n• OILSPEC INTERNATIONAL D.O.O. – Koncesija na pomorskom dobru (
- PLOČE)\, 465 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.a
- pp/#opcina/41942358B61718235725154\nIzvor: Registar koncesija (FINA)\, obr
- ada Koncesijski sat 9. 11. 2026.
+ GOVINU I PRIJEVOZ NAFT – Koncesija na pomorskom dobru (PLOČE) · davate
+ lj: LUČKA UPRAVA PLOČE\, 465 €/god.\n• OILSPEC INTERNATIONAL D.O.O. 
+ – Koncesija na pomorskom dobru (PLOČE) · davatelj: LUČKA UPRAVA PLOČ
+ E\, 465 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#op
+ cina/41942358B61718235725154\nIzvor: Registar koncesija (FINA)\, obrada Ko
+ ncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -116,17 +122,18 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-26cbf5fc81283ed4@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-1eda9965132b6d75@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270118
 DTEND;VALUE=DATE:20270119
 SUMMARY:Ističe 2 koncesije · Ploče
 DESCRIPTION:2 ugovora o koncesiji ističe 18. 1. 2027. Godišnja fiksna nak
  nada: 1.465 €.\n\n• SCHENKER D.O.O. – Koncesija na pomorskom dobru (
- PLOČE)\, 1.000 €/god.\n• ZAVOD ZA ISPITIVANJE KVALITETE  D.O.O. – K
- oncesija na pomorskom dobru (PLOČE)\, 465 €/god.\n\nProfil općine: htt
- ps://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154\nIzvor: Re
- gistar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ PLOČE) · davatelj: LUČKA UPRAVA PLOČE\, 1.000 €/god.\n• ZAVOD ZA I
+ SPITIVANJE KVALITETE  D.O.O. – Koncesija na pomorskom dobru (PLOČE) · 
+ davatelj: LUČKA UPRAVA PLOČE\, 465 €/god.\n\nProfil općine: https://k
+ oncesijski-sat.vercel.app/#opcina/41942358B61718235725154\nIzvor: Registar
+  koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -136,16 +143,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-30df67aa8d6dc8ca@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-3fd0e1a1270e19dd@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270818
 DTEND;VALUE=DATE:20270819
 SUMMARY:Ističe koncesija: ENNA TRANSPORT D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 18. 8. 2027. Godišnja fiksna nakn
  ada: 20.000 €.\n\n• ENNA TRANSPORT D.O.O. – Koncesija za luku (PLOČ
- E)\, 20.000 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app
- /#opcina/41942358B61718235725154\nIzvor: Registar koncesija (FINA)\, obrad
- a Koncesijski sat 9. 11. 2026.
+ E) · davatelj: LUČKA UPRAVA PLOČE\, 20.000 €/god.\n\nProfil općine: 
+ https://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154\nIzvor:
+  Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -155,17 +162,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-30df67aa8d6dc8ca@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-3fd0e1a1270e19dd@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270218
 DTEND;VALUE=DATE:20270219
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ENNA TRANSPORT D
  .O.O.)
 DESCRIPTION:18. 8. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
- .\n\n• ENNA TRANSPORT D.O.O. – Koncesija za luku (PLOČE)\, 20.000 €
- /god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419423
- 58B61718235725154
+ .\n\n• ENNA TRANSPORT D.O.O. – Koncesija za luku (PLOČE) · davatelj:
+  LUČKA UPRAVA PLOČE\, 20.000 €/god.\n\nProfil općine: https://koncesi
+ jski-sat.vercel.app/#opcina/41942358B61718235725154
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -176,16 +183,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-aecf9a81faf8e35c@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-594d62a077ddd0d9@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270822
 DTEND;VALUE=DATE:20270823
 SUMMARY:Ističe koncesija: BEN SHIP SUPPLY D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 22. 8. 2027. Godišnja fiksna nakn
  ada: 465 €.\n\n• BEN SHIP SUPPLY D.O.O. – Koncesija na pomorskom dob
- ru (PLOČE)\, 465 €/god.\n\nProfil općine: https://koncesijski-sat.verc
- el.app/#opcina/41942358B61718235725154\nIzvor: Registar koncesija (FINA)\,
-  obrada Koncesijski sat 9. 11. 2026.
+ ru (PLOČE) · davatelj: LUČKA UPRAVA PLOČE\, 465 €/god.\n\nProfil op
+ ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154\
+ nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -195,17 +202,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-aecf9a81faf8e35c@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-594d62a077ddd0d9@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270222
 DTEND;VALUE=DATE:20270223
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BEN SHIP SUPPLY 
  D.O.O.)
 DESCRIPTION:22. 8. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
- .\n\n• BEN SHIP SUPPLY D.O.O. – Koncesija na pomorskom dobru (PLOČE)\
- , 465 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opci
- na/41942358B61718235725154
+ .\n\n• BEN SHIP SUPPLY D.O.O. – Koncesija na pomorskom dobru (PLOČE) 
+ · davatelj: LUČKA UPRAVA PLOČE\, 465 €/god.\n\nProfil općine: https:
+ //koncesijski-sat.vercel.app/#opcina/41942358B61718235725154
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -216,16 +223,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-6560e2157b5766a3@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-0daeb4b300686c9f@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270915
 DTEND;VALUE=DATE:20270916
 SUMMARY:Ističe koncesija: RADIO POSTAJA PLOČE D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 15. 9. 2027. Godišnja fiksna nakn
  ada: 66 €.\n\n• RADIO POSTAJA PLOČE D.O.O. – Koncesija za obavljanj
- e djelatnosti radija (PLOČE)\, 66 €/god.\n\nProfil općine: https://kon
- cesijski-sat.vercel.app/#opcina/41942358B61718235725154\nIzvor: Registar k
- oncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ e djelatnosti radija (PLOČE) · davatelj: AGENCIJA ZA ELEKTRONIČKE MEDIJ
+ E\, 66 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opc
+ ina/41942358B61718235725154\nIzvor: Registar koncesija (FINA)\, obrada Kon
+ cesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -235,8 +243,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-6560e2157b5766a3@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-0daeb4b300686c9f@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270315
 DTEND;VALUE=DATE:20270316
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (RADIO POSTAJA PL
@@ -244,8 +252,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (RADIO POSTAJA PL
 DESCRIPTION:15. 9. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• RADIO POSTAJA PLOČE D.O.O. – Koncesija za obavljanje djelatnos
- ti radija (PLOČE)\, 66 €/god.\n\nProfil općine: https://koncesijski-sa
- t.vercel.app/#opcina/41942358B61718235725154
+ ti radija (PLOČE) · davatelj: AGENCIJA ZA ELEKTRONIČKE MEDIJE\, 66 €/
+ god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4194235
+ 8B61718235725154
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -256,17 +265,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-b428f84b79605ad5@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-8e499e98f375147d@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20271115
 DTEND;VALUE=DATE:20271116
 SUMMARY:Ističe koncesija: BRU-FRA D.O.O. ZA DIMNJAČARSKE USLUGE
 DESCRIPTION:1 ugovor o koncesiji ističe 15. 11. 2027. Godišnja fiksna nak
  nada: 1.000 €.\n\n• BRU-FRA D.O.O. ZA DIMNJAČARSKE USLUGE – Koncesi
- ja za obavljanje dimnjačarskih poslova (PLOČE)\, 1.000 €/god.\n\nProfi
- l općine: https://koncesijski-sat.vercel.app/#opcina/41942358B61718235725
- 154\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026
- .
+ ja za obavljanje dimnjačarskih poslova (PLOČE) · davatelj: GRAD PLOČE\
+ , 1.000 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#op
+ cina/41942358B61718235725154\nIzvor: Registar koncesija (FINA)\, obrada Ko
+ ncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -276,8 +285,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-b428f84b79605ad5@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-8e499e98f375147d@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270515
 DTEND;VALUE=DATE:20270516
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BRU-FRA D.O.O. Z
@@ -285,8 +294,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BRU-FRA D.O.O. Z
 DESCRIPTION:15. 11. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• BRU-FRA D.O.O. ZA DIMNJAČARSKE USLUGE – Koncesija za obavljan
- je dimnjačarskih poslova (PLOČE)\, 1.000 €/god.\n\nProfil općine: htt
- ps://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154
+ je dimnjačarskih poslova (PLOČE) · davatelj: GRAD PLOČE\, 1.000 €/go
+ d.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B
+ 61718235725154
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -297,16 +307,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-9b234cb3a1b942ab@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-1920e59e20328223@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20280307
 DTEND;VALUE=DATE:20280308
 SUMMARY:Ističe koncesija: TRANS INTEGRAL D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 7. 3. 2028. Godišnja fiksna nakna
  da: 4.436 €.\n\n• TRANS INTEGRAL D.O.O. – Koncesija na pomorskom dob
- ru (PLOČE)\, 4.436 €/god.\n\nProfil općine: https://koncesijski-sat.ve
- rcel.app/#opcina/41942358B61718235725154\nIzvor: Registar koncesija (FINA)
- \, obrada Koncesijski sat 9. 11. 2026.
+ ru (PLOČE) · davatelj: LUČKA UPRAVA PLOČE\, 4.436 €/god.\n\nProfil o
+ pćine: https://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154
+ \nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -316,17 +326,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-9b234cb3a1b942ab@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-1920e59e20328223@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270907
 DTEND;VALUE=DATE:20270908
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (TRANS INTEGRAL D
  .O.O.)
 DESCRIPTION:7. 3. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
- \n\n• TRANS INTEGRAL D.O.O. – Koncesija na pomorskom dobru (PLOČE)\, 
- 4.436 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opci
- na/41942358B61718235725154
+ \n\n• TRANS INTEGRAL D.O.O. – Koncesija na pomorskom dobru (PLOČE) ·
+  davatelj: LUČKA UPRAVA PLOČE\, 4.436 €/god.\n\nProfil općine: https:
+ //koncesijski-sat.vercel.app/#opcina/41942358B61718235725154
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -337,16 +347,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-8640702d6190cacb@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-2766d774cb4886ec@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20280507
 DTEND;VALUE=DATE:20280508
 SUMMARY:Ističe koncesija: CIMA CONSULTING D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 7. 5. 2028. Godišnja fiksna nakna
  da: 465 €.\n\n• CIMA CONSULTING D.O.O. – Koncesija na pomorskom dobr
- u (PLOČE)\, 465 €/god.\n\nProfil općine: https://koncesijski-sat.verce
- l.app/#opcina/41942358B61718235725154\nIzvor: Registar koncesija (FINA)\, 
- obrada Koncesijski sat 9. 11. 2026.
+ u (PLOČE) · davatelj: LUČKA UPRAVA PLOČE\, 465 €/god.\n\nProfil opć
+ ine: https://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154\nI
+ zvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -356,17 +366,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-8640702d6190cacb@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-2766d774cb4886ec@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20271107
 DTEND;VALUE=DATE:20271108
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (CIMA CONSULTING 
  D.O.O.)
 DESCRIPTION:7. 5. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
- \n\n• CIMA CONSULTING D.O.O. – Koncesija na pomorskom dobru (PLOČE)\,
-  465 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcin
- a/41942358B61718235725154
+ \n\n• CIMA CONSULTING D.O.O. – Koncesija na pomorskom dobru (PLOČE) 
+ · davatelj: LUČKA UPRAVA PLOČE\, 465 €/god.\n\nProfil općine: https:
+ //koncesijski-sat.vercel.app/#opcina/41942358B61718235725154
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -377,16 +387,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-7185d25fe18892c7@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-7a17b97dfb97d39e@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20280829
 DTEND;VALUE=DATE:20280830
 SUMMARY:Ističe koncesija: NERETVANSKA KONTROLA PLOČE D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 29. 8. 2028. Godišnja fiksna nakn
  ada: 465 €.\n\n• NERETVANSKA KONTROLA PLOČE D.O.O. – Koncesija na p
- omorskom dobru (PLOČE)\, 465 €/god.\n\nProfil općine: https://koncesij
- ski-sat.vercel.app/#opcina/41942358B61718235725154\nIzvor: Registar konces
- ija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ omorskom dobru (PLOČE) · davatelj: LUČKA UPRAVA PLOČE\, 465 €/god.\n
+ \nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B6171
+ 8235725154\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 1
+ 1. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -396,8 +407,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-7185d25fe18892c7@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-7a17b97dfb97d39e@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20280229
 DTEND;VALUE=DATE:20280301
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (NERETVANSKA KONT
@@ -405,8 +416,8 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (NERETVANSKA KONT
 DESCRIPTION:29. 8. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• NERETVANSKA KONTROLA PLOČE D.O.O. – Koncesija na pomorskom dob
- ru (PLOČE)\, 465 €/god.\n\nProfil općine: https://koncesijski-sat.verc
- el.app/#opcina/41942358B61718235725154
+ ru (PLOČE) · davatelj: LUČKA UPRAVA PLOČE\, 465 €/god.\n\nProfil op
+ ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -417,16 +428,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-e483189dc25bd3f0@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-06fe4dfb5b65a4a3@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20281004
 DTEND;VALUE=DATE:20281005
 SUMMARY:Ističe koncesija: BRODOSPAS D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 4. 10. 2028. Godišnja fiksna nakn
  ada: 10.000 €.\n\n• BRODOSPAS D.D. – Koncesija na pomorskom dobru (P
- LOČE)\, 10.000 €/god.\n\nProfil općine: https://koncesijski-sat.vercel
- .app/#opcina/41942358B61718235725154\nIzvor: Registar koncesija (FINA)\, o
- brada Koncesijski sat 9. 11. 2026.
+ LOČE) · davatelj: LUČKA UPRAVA PLOČE\, 10.000 €/god.\n\nProfil opći
+ ne: https://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154\nIz
+ vor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -436,16 +447,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-e483189dc25bd3f0@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-06fe4dfb5b65a4a3@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20280404
 DTEND;VALUE=DATE:20280405
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BRODOSPAS D.D.)
 DESCRIPTION:4. 10. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
- .\n\n• BRODOSPAS D.D. – Koncesija na pomorskom dobru (PLOČE)\, 10.000
-  €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41
- 942358B61718235725154
+ .\n\n• BRODOSPAS D.D. – Koncesija na pomorskom dobru (PLOČE) · davat
+ elj: LUČKA UPRAVA PLOČE\, 10.000 €/god.\n\nProfil općine: https://kon
+ cesijski-sat.vercel.app/#opcina/41942358B61718235725154
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -456,16 +467,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-dbfc5c9bddf07104@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-1ca96ddff2ba4190@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20281230
 DTEND;VALUE=DATE:20281231
 SUMMARY:Ističe koncesija: CIAN D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 30. 12. 2028. Godišnja fiksna nak
- nada: 465 €.\n\n• CIAN D.O.O. – Koncesija za luku (PLOČE)\, 465 €
- /god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419423
- 58B61718235725154\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski s
- at 9. 11. 2026.
+ nada: 465 €.\n\n• CIAN D.O.O. – Koncesija za luku (PLOČE) · davate
+ lj: LUČKA UPRAVA PLOČE\, 465 €/god.\n\nProfil općine: https://koncesi
+ jski-sat.vercel.app/#opcina/41942358B61718235725154\nIzvor: Registar konce
+ sija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -475,16 +486,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-dbfc5c9bddf07104@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-1ca96ddff2ba4190@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20280630
 DTEND;VALUE=DATE:20280701
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (CIAN D.O.O.)
 DESCRIPTION:30. 12. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
- a.\n\n• CIAN D.O.O. – Koncesija za luku (PLOČE)\, 465 €/god.\n\nPro
- fil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B617182357
- 25154
+ a.\n\n• CIAN D.O.O. – Koncesija za luku (PLOČE) · davatelj: LUČKA U
+ PRAVA PLOČE\, 465 €/god.\n\nProfil općine: https://koncesijski-sat.ver
+ cel.app/#opcina/41942358B61718235725154
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -494,16 +505,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-e83529ed664f2475@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-1c98e5074492c15b@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20290105
 DTEND;VALUE=DATE:20290106
 SUMMARY:Ističe koncesija: INTERAGENT D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 5. 1. 2029. Godišnja fiksna nakna
  da: 1.000 €.\n\n• INTERAGENT D.O.O. – Koncesija na pomorskom dobru (
- PLOČE)\, 1.000 €/god.\n\nProfil općine: https://koncesijski-sat.vercel
- .app/#opcina/41942358B61718235725154\nIzvor: Registar koncesija (FINA)\, o
- brada Koncesijski sat 9. 11. 2026.
+ PLOČE) · davatelj: LUČKA UPRAVA PLOČE\, 1.000 €/god.\n\nProfil opći
+ ne: https://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154\nIz
+ vor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -513,17 +524,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-e83529ed664f2475@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-1c98e5074492c15b@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20280705
 DTEND;VALUE=DATE:20280706
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INTERAGENT D.O.O
  .)
 DESCRIPTION:5. 1. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
- \n\n• INTERAGENT D.O.O. – Koncesija na pomorskom dobru (PLOČE)\, 1.00
- 0 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4
- 1942358B61718235725154
+ \n\n• INTERAGENT D.O.O. – Koncesija na pomorskom dobru (PLOČE) · dav
+ atelj: LUČKA UPRAVA PLOČE\, 1.000 €/god.\n\nProfil općine: https://ko
+ ncesijski-sat.vercel.app/#opcina/41942358B61718235725154
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -534,25 +545,29 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-aa9c473e13e49a17@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-535dfc9bcce0600f@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20290108
 DTEND;VALUE=DATE:20290109
 SUMMARY:Ističe 7 koncesija · Ploče
 DESCRIPTION:7 ugovora o koncesiji ističe 8. 1. 2029. Godišnja fiksna nakn
  ada: 5.395 €.\n\n• JADROAGENT D.D. – Koncesija na pomorskom dobru (P
- LOČE)\, 1.000 €/god.\n• ĐUGUM D.O.O. – Koncesija na pomorskom dobr
- u (PLOČE)\, 1.000 €/god.\n• LUKA ŠPED D.O.O. – Koncesija na pomors
- kom dobru (PLOČE)\, 1.000 €/god.\n• CAPRIS CROATIA D. O. O. – Konce
- sija na pomorskom dobru (PLOČE)\, 1.000 €/god.\n• EURO INSPEKT KVALIT
- ET I KVANTITET JEDNOSTAVNO DRUŠTVO S OGRANIČENOM ODGOVORNOŠĆU ZA TEHNI
- ČKO ISPITIVANJE I ANALIZU – Dozvola za eksploataciju geotermalne vode z
- a energetske svrhe (prema Zakonu o ugljikovodicima) (PLOČE)\, 465 €/god
- .\n• AMSPEC D.O.O. – Koncesija na pomorskom dobru (PLOČE)\, 465 €/g
- od.\n• MARIS INSPECTIO D.O.O. ZA NEOVISNO TEHNIČKO ISPITIVANJE\, ANALIZ
- U I SAV – Koncesija na pomorskom dobru (PLOČE)\, 465 €/god.\n\nProfil
-  općine: https://koncesijski-sat.vercel.app/#opcina/41942358B617182357251
- 54\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ LOČE) · davatelj: LUČKA UPRAVA PLOČE\, 1.000 €/god.\n• ĐUGUM D.O.
+ O. – Koncesija na pomorskom dobru (PLOČE) · davatelj: LUČKA UPRAVA PL
+ OČE\, 1.000 €/god.\n• LUKA ŠPED D.O.O. – Koncesija na pomorskom do
+ bru (PLOČE) · davatelj: LUČKA UPRAVA PLOČE\, 1.000 €/god.\n• CAPRI
+ S CROATIA D. O. O. – Koncesija na pomorskom dobru (PLOČE) · davatelj: 
+ LUČKA UPRAVA PLOČE\, 1.000 €/god.\n• EURO INSPEKT KVALITET I KVANTIT
+ ET JEDNOSTAVNO DRUŠTVO S OGRANIČENOM ODGOVORNOŠĆU ZA TEHNIČKO ISPITIV
+ ANJE I ANALIZU – Dozvola za eksploataciju geotermalne vode za energetske
+  svrhe (prema Zakonu o ugljikovodicima) (PLOČE) · davatelj: LUČKA UPRAV
+ A PLOČE\, 465 €/god.\n• AMSPEC D.O.O. – Koncesija na pomorskom dobr
+ u (PLOČE) · davatelj: LUČKA UPRAVA PLOČE\, 465 €/god.\n• MARIS INS
+ PECTIO D.O.O. ZA NEOVISNO TEHNIČKO ISPITIVANJE\, ANALIZU I SAV – Konces
+ ija na pomorskom dobru (PLOČE) · davatelj: LUČKA UPRAVA PLOČE\, 465 
+ €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
+ 42358B61718235725154\nIzvor: Registar koncesija (FINA)\, obrada Koncesijsk
+ i sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -562,46 +577,50 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-aa9c473e13e49a17@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-535dfc9bcce0600f@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20280708
 DTEND;VALUE=DATE:20280709
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 7 koncesija
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 7 koncesija · Ploče
 DESCRIPTION:8. 1. 2029. ističe 7 ugovora o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
- .\n\n• JADROAGENT D.D. – Koncesija na pomorskom dobru (PLOČE)\, 1.000
-  €/god.\n• ĐUGUM D.O.O. – Koncesija na pomorskom dobru (PLOČE)\, 1
- .000 €/god.\n• LUKA ŠPED D.O.O. – Koncesija na pomorskom dobru (PLO
- ČE)\, 1.000 €/god.\n• CAPRIS CROATIA D. O. O. – Koncesija na pomors
- kom dobru (PLOČE)\, 1.000 €/god.\n• EURO INSPEKT KVALITET I KVANTITET
-  JEDNOSTAVNO DRUŠTVO S OGRANIČENOM ODGOVORNOŠĆU ZA TEHNIČKO ISPITIVAN
- JE I ANALIZU – Dozvola za eksploataciju geotermalne vode za energetske s
- vrhe (prema Zakonu o ugljikovodicima) (PLOČE)\, 465 €/god.\n• AMSPEC 
- D.O.O. – Koncesija na pomorskom dobru (PLOČE)\, 465 €/god.\n• MARIS
-  INSPECTIO D.O.O. ZA NEOVISNO TEHNIČKO ISPITIVANJE\, ANALIZU I SAV – Ko
- ncesija na pomorskom dobru (PLOČE)\, 465 €/god.\n\nProfil općine: http
- s://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154
+ .\n\n• JADROAGENT D.D. – Koncesija na pomorskom dobru (PLOČE) · dava
+ telj: LUČKA UPRAVA PLOČE\, 1.000 €/god.\n• ĐUGUM D.O.O. – Koncesi
+ ja na pomorskom dobru (PLOČE) · davatelj: LUČKA UPRAVA PLOČE\, 1.000 
+ €/god.\n• LUKA ŠPED D.O.O. – Koncesija na pomorskom dobru (PLOČE) 
+ · davatelj: LUČKA UPRAVA PLOČE\, 1.000 €/god.\n• CAPRIS CROATIA D. 
+ O. O. – Koncesija na pomorskom dobru (PLOČE) · davatelj: LUČKA UPRAVA
+  PLOČE\, 1.000 €/god.\n• EURO INSPEKT KVALITET I KVANTITET JEDNOSTAVN
+ O DRUŠTVO S OGRANIČENOM ODGOVORNOŠĆU ZA TEHNIČKO ISPITIVANJE I ANALIZ
+ U – Dozvola za eksploataciju geotermalne vode za energetske svrhe (prema
+  Zakonu o ugljikovodicima) (PLOČE) · davatelj: LUČKA UPRAVA PLOČE\, 46
+ 5 €/god.\n• AMSPEC D.O.O. – Koncesija na pomorskom dobru (PLOČE) ·
+  davatelj: LUČKA UPRAVA PLOČE\, 465 €/god.\n• MARIS INSPECTIO D.O.O.
+  ZA NEOVISNO TEHNIČKO ISPITIVANJE\, ANALIZU I SAV – Koncesija na pomors
+ kom dobru (PLOČE) · davatelj: LUČKA UPRAVA PLOČE\, 465 €/god.\n\nPro
+ fil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B617182357
+ 25154
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 7 koncesija
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 7 koncesija · Ploče
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-a50e11b3c2ff8701@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-fb8263a3fe5c4a1f@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20290112
 DTEND;VALUE=DATE:20290113
 SUMMARY:Ističe koncesija: PETRA MARINA D.O.O. ZA MEĐUNARODNO OTPREMNIŠTV
  O\, POMORSKA AGENCIJA
 DESCRIPTION:1 ugovor o koncesiji ističe 12. 1. 2029. Godišnja fiksna nakn
  ada: 1.000 €.\n\n• PETRA MARINA D.O.O. ZA MEĐUNARODNO OTPREMNIŠTVO\,
-  POMORSKA AGENCIJA – Koncesija na pomorskom dobru (PLOČE)\, 1.000 €/g
- od.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358
- B61718235725154\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat
-  9. 11. 2026.
+  POMORSKA AGENCIJA – Koncesija na pomorskom dobru (PLOČE) · davatelj: 
+ LUČKA UPRAVA PLOČE\, 1.000 €/god.\n\nProfil općine: https://koncesijs
+ ki-sat.vercel.app/#opcina/41942358B61718235725154\nIzvor: Registar koncesi
+ ja (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -612,8 +631,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-a50e11b3c2ff8701@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-fb8263a3fe5c4a1f@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20280712
 DTEND;VALUE=DATE:20280713
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PETRA MARINA D.O
@@ -621,9 +640,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PETRA MARINA D.O
 DESCRIPTION:12. 1. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• PETRA MARINA D.O.O. ZA MEĐUNARODNO OTPREMNIŠTVO\, POMORSKA AGEN
- CIJA – Koncesija na pomorskom dobru (PLOČE)\, 1.000 €/god.\n\nProfil 
- općine: https://koncesijski-sat.vercel.app/#opcina/41942358B6171823572515
- 4
+ CIJA – Koncesija na pomorskom dobru (PLOČE) · davatelj: LUČKA UPRAVA 
+ PLOČE\, 1.000 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.
+ app/#opcina/41942358B61718235725154
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -634,17 +653,18 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-8e6031300978ff7c@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-fe414ae7023b4457@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20290116
 DTEND;VALUE=DATE:20290117
 SUMMARY:Ističe 2 koncesije · Ploče
 DESCRIPTION:2 ugovora o koncesiji ističe 16. 1. 2029. Godišnja fiksna nak
  nada: 2.000 €.\n\n• PLOČE ŠPED D.O.O. – Koncesija na pomorskom dob
- ru (PLOČE)\, 1.000 €/god.\n• TRANSJUG D.O.O. – Koncesija na pomorsk
- om dobru (PLOČE)\, 1.000 €/god.\n\nProfil općine: https://koncesijski-
- sat.vercel.app/#opcina/41942358B61718235725154\nIzvor: Registar koncesija 
- (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ ru (PLOČE) · davatelj: LUČKA UPRAVA PLOČE\, 1.000 €/god.\n• TRANSJ
+ UG D.O.O. – Koncesija na pomorskom dobru (PLOČE) · davatelj: LUČKA UP
+ RAVA PLOČE\, 1.000 €/god.\n\nProfil općine: https://koncesijski-sat.ve
+ rcel.app/#opcina/41942358B61718235725154\nIzvor: Registar koncesija (FINA)
+ \, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -654,38 +674,41 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-8e6031300978ff7c@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-fe414ae7023b4457@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20280716
 DTEND;VALUE=DATE:20280717
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Ploče
 DESCRIPTION:16. 1. 2029. ističe 2 ugovora o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
- a.\n\n• PLOČE ŠPED D.O.O. – Koncesija na pomorskom dobru (PLOČE)\, 
- 1.000 €/god.\n• TRANSJUG D.O.O. – Koncesija na pomorskom dobru (PLO
- ČE)\, 1.000 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.ap
- p/#opcina/41942358B61718235725154
+ a.\n\n• PLOČE ŠPED D.O.O. – Koncesija na pomorskom dobru (PLOČE) ·
+  davatelj: LUČKA UPRAVA PLOČE\, 1.000 €/god.\n• TRANSJUG D.O.O. – 
+ Koncesija na pomorskom dobru (PLOČE) · davatelj: LUČKA UPRAVA PLOČE\, 
+ 1.000 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opci
+ na/41942358B61718235725154
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Ploče
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-6aed29f0cf31bbf9@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-57c9f91cca043285@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20290122
 DTEND;VALUE=DATE:20290123
 SUMMARY:Ističe 3 koncesije · Ploče
 DESCRIPTION:3 ugovora o koncesiji ističe 22. 1. 2029. Godišnja fiksna nak
  nada: 3.000 €.\n\n• ALIANCA D.O.O. RIJEKA – Koncesija na pomorskom d
- obru (PLOČE)\, 1.000 €/god.\n• TRANS INTEGRAL D.O.O. – Koncesija na
-  pomorskom dobru (PLOČE)\, 1.000 €/god.\n• PRIMACOŠPED D.O.O. – Ko
- ncesija na pomorskom dobru (PLOČE)\, 1.000 €/god.\n\nProfil općine: ht
- tps://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154\nIzvor: R
- egistar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ obru (PLOČE) · davatelj: LUČKA UPRAVA PLOČE\, 1.000 €/god.\n• TRAN
+ S INTEGRAL D.O.O. – Koncesija na pomorskom dobru (PLOČE) · davatelj: L
+ UČKA UPRAVA PLOČE\, 1.000 €/god.\n• PRIMACOŠPED D.O.O. – Koncesij
+ a na pomorskom dobru (PLOČE) · davatelj: LUČKA UPRAVA PLOČE\, 1.000 
+ €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
+ 42358B61718235725154\nIzvor: Registar koncesija (FINA)\, obrada Koncesijsk
+ i sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -695,39 +718,41 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-6aed29f0cf31bbf9@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-57c9f91cca043285@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20280722
 DTEND;VALUE=DATE:20280723
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Ploče
 DESCRIPTION:22. 1. 2029. ističe 3 ugovora o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
- a.\n\n• ALIANCA D.O.O. RIJEKA – Koncesija na pomorskom dobru (PLOČE)\
- , 1.000 €/god.\n• TRANS INTEGRAL D.O.O. – Koncesija na pomorskom dob
- ru (PLOČE)\, 1.000 €/god.\n• PRIMACOŠPED D.O.O. – Koncesija na pom
- orskom dobru (PLOČE)\, 1.000 €/god.\n\nProfil općine: https://koncesij
- ski-sat.vercel.app/#opcina/41942358B61718235725154
+ a.\n\n• ALIANCA D.O.O. RIJEKA – Koncesija na pomorskom dobru (PLOČE) 
+ · davatelj: LUČKA UPRAVA PLOČE\, 1.000 €/god.\n• TRANS INTEGRAL D.O
+ .O. – Koncesija na pomorskom dobru (PLOČE) · davatelj: LUČKA UPRAVA P
+ LOČE\, 1.000 €/god.\n• PRIMACOŠPED D.O.O. – Koncesija na pomorskom
+  dobru (PLOČE) · davatelj: LUČKA UPRAVA PLOČE\, 1.000 €/god.\n\nProf
+ il općine: https://koncesijski-sat.vercel.app/#opcina/41942358B6171823572
+ 5154
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Ploče
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-da587f3fd4001b04@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-1d5ad6b733a445ff@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20290124
 DTEND;VALUE=DATE:20290125
 SUMMARY:Ističe koncesija: SECURE VALUE ADDED LOGISTICS D.O.O. ZA MEĐUNARO
  DNO OTPREMNIŠTVO
 DESCRIPTION:1 ugovor o koncesiji ističe 24. 1. 2029. Godišnja fiksna nakn
  ada: 1.000 €.\n\n• SECURE VALUE ADDED LOGISTICS D.O.O. ZA MEĐUNARODNO
-  OTPREMNIŠTVO – Koncesija na pomorskom dobru (PLOČE)\, 1.000 €/god.\
- n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B617
- 18235725154\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 
- 11. 2026.
+  OTPREMNIŠTVO – Koncesija na pomorskom dobru (PLOČE) · davatelj: LUČ
+ KA UPRAVA PLOČE\, 1.000 €/god.\n\nProfil općine: https://koncesijski-s
+ at.vercel.app/#opcina/41942358B61718235725154\nIzvor: Registar koncesija (
+ FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -738,8 +763,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-da587f3fd4001b04@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-1d5ad6b733a445ff@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20280724
 DTEND;VALUE=DATE:20280725
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (SECURE VALUE ADD
@@ -747,8 +772,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (SECURE VALUE ADD
 DESCRIPTION:24. 1. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• SECURE VALUE ADDED LOGISTICS D.O.O. ZA MEĐUNARODNO OTPREMNIŠTVO
-  – Koncesija na pomorskom dobru (PLOČE)\, 1.000 €/god.\n\nProfil opć
- ine: https://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154
+  – Koncesija na pomorskom dobru (PLOČE) · davatelj: LUČKA UPRAVA PLO
+ ČE\, 1.000 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app
+ /#opcina/41942358B61718235725154
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -759,16 +785,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-02f721c9f2f5cd3b@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-eb8e5df68509afc4@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20290125
 DTEND;VALUE=DATE:20290126
 SUMMARY:Ističe koncesija: IND - EKO D. O. O.
 DESCRIPTION:1 ugovor o koncesiji ističe 25. 1. 2029. Godišnja fiksna nakn
  ada: 465 €.\n\n• IND - EKO D. O. O. – Koncesija na pomorskom dobru (
- PLOČE)\, 465 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.a
- pp/#opcina/41942358B61718235725154\nIzvor: Registar koncesija (FINA)\, obr
- ada Koncesijski sat 9. 11. 2026.
+ PLOČE) · davatelj: LUČKA UPRAVA PLOČE\, 465 €/god.\n\nProfil općine
+ : https://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154\nIzvo
+ r: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -778,17 +804,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-02f721c9f2f5cd3b@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-eb8e5df68509afc4@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20280725
 DTEND;VALUE=DATE:20280726
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (IND - EKO D. O. 
  O.)
 DESCRIPTION:25. 1. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
- .\n\n• IND - EKO D. O. O. – Koncesija na pomorskom dobru (PLOČE)\, 46
- 5 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4
- 1942358B61718235725154
+ .\n\n• IND - EKO D. O. O. – Koncesija na pomorskom dobru (PLOČE) · d
+ avatelj: LUČKA UPRAVA PLOČE\, 465 €/god.\n\nProfil općine: https://ko
+ ncesijski-sat.vercel.app/#opcina/41942358B61718235725154
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -799,18 +825,18 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-1060130ea53ff1f8@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-60a7caf108dba1c1@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20290410
 DTEND;VALUE=DATE:20290411
 SUMMARY:Ističe koncesija: CIAN DRUŠTVO S OGRANIČENOM ODGOVORNOŠĆU ZA S
  ANITARNU ZAŠTITU ČOVJEKOVE
 DESCRIPTION:1 ugovor o koncesiji ističe 10. 4. 2029. Godišnja fiksna nakn
  ada: 465 €.\n\n• CIAN DRUŠTVO S OGRANIČENOM ODGOVORNOŠĆU ZA SANITA
- RNU ZAŠTITU ČOVJEKOVE – Koncesija na pomorskom dobru (PLOČE)\, 465 
- €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
- 42358B61718235725154\nIzvor: Registar koncesija (FINA)\, obrada Koncesijsk
- i sat 9. 11. 2026.
+ RNU ZAŠTITU ČOVJEKOVE – Koncesija na pomorskom dobru (PLOČE) · davat
+ elj: LUČKA UPRAVA PLOČE\, 465 €/god.\n\nProfil općine: https://konces
+ ijski-sat.vercel.app/#opcina/41942358B61718235725154\nIzvor: Registar konc
+ esija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -821,8 +847,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-1060130ea53ff1f8@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-60a7caf108dba1c1@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20281010
 DTEND;VALUE=DATE:20281011
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (CIAN DRUŠTVO S 
@@ -830,9 +856,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (CIAN DRUŠTVO S
 DESCRIPTION:10. 4. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• CIAN DRUŠTVO S OGRANIČENOM ODGOVORNOŠĆU ZA SANITARNU ZAŠTITU
-  ČOVJEKOVE – Koncesija na pomorskom dobru (PLOČE)\, 465 €/god.\n\nPr
- ofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B61718235
- 725154
+  ČOVJEKOVE – Koncesija na pomorskom dobru (PLOČE) · davatelj: LUČKA 
+ UPRAVA PLOČE\, 465 €/god.\n\nProfil općine: https://koncesijski-sat.ve
+ rcel.app/#opcina/41942358B61718235725154
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -843,16 +869,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-6b6f0d99cbd345d8@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-952019d9075e6d53@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20290423
 DTEND;VALUE=DATE:20290424
 SUMMARY:Ističe koncesija: PRIMACOŠPED D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 23. 4. 2029. Godišnja fiksna nakn
  ada: 4.579 €.\n\n• PRIMACOŠPED D.O.O. – Koncesija na pomorskom dobr
- u (PLOČE)\, 4.579 €/god.\n\nProfil općine: https://koncesijski-sat.ver
- cel.app/#opcina/41942358B61718235725154\nIzvor: Registar koncesija (FINA)\
- , obrada Koncesijski sat 9. 11. 2026.
+ u (PLOČE) · davatelj: LUČKA UPRAVA PLOČE\, 4.579 €/god.\n\nProfil op
+ ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154\
+ nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -862,17 +888,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-6b6f0d99cbd345d8@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-952019d9075e6d53@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20281023
 DTEND;VALUE=DATE:20281024
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PRIMACOŠPED D.O
  .O.)
 DESCRIPTION:23. 4. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
- .\n\n• PRIMACOŠPED D.O.O. – Koncesija na pomorskom dobru (PLOČE)\, 4
- .579 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcin
- a/41942358B61718235725154
+ .\n\n• PRIMACOŠPED D.O.O. – Koncesija na pomorskom dobru (PLOČE) · 
+ davatelj: LUČKA UPRAVA PLOČE\, 4.579 €/god.\n\nProfil općine: https:/
+ /koncesijski-sat.vercel.app/#opcina/41942358B61718235725154
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -883,16 +909,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-4f526dbc12fec7a3@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-b241ed69e3e1482b@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20290812
 DTEND;VALUE=DATE:20290813
 SUMMARY:Ističe koncesija: LIBURNIA POMORSKA AGENCIJA D. O. O.
 DESCRIPTION:1 ugovor o koncesiji ističe 12. 8. 2029. Godišnja fiksna nakn
  ada: 1.000 €.\n\n• LIBURNIA POMORSKA AGENCIJA D. O. O. – Koncesija n
- a pomorskom dobru (PLOČE)\, 1.000 €/god.\n\nProfil općine: https://kon
- cesijski-sat.vercel.app/#opcina/41942358B61718235725154\nIzvor: Registar k
- oncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ a pomorskom dobru (PLOČE) · davatelj: LUČKA UPRAVA PLOČE\, 1.000 €/g
+ od.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358
+ B61718235725154\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat
+  9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -902,8 +929,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-4f526dbc12fec7a3@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-b241ed69e3e1482b@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20290212
 DTEND;VALUE=DATE:20290213
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (LIBURNIA POMORSK
@@ -911,8 +938,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (LIBURNIA POMORSK
 DESCRIPTION:12. 8. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• LIBURNIA POMORSKA AGENCIJA D. O. O. – Koncesija na pomorskom do
- bru (PLOČE)\, 1.000 €/god.\n\nProfil općine: https://koncesijski-sat.v
- ercel.app/#opcina/41942358B61718235725154
+ bru (PLOČE) · davatelj: LUČKA UPRAVA PLOČE\, 1.000 €/god.\n\nProfil 
+ općine: https://koncesijski-sat.vercel.app/#opcina/41942358B6171823572515
+ 4
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -923,16 +951,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-91ba0bb870089f06@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-ba84178021825e15@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20290822
 DTEND;VALUE=DATE:20290823
 SUMMARY:Ističe koncesija: ADRIA ALFA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 22. 8. 2029. Godišnja fiksna nakn
  ada: 465 €.\n\n• ADRIA ALFA D.O.O. – Koncesija na pomorskom dobru (P
- LOČE)\, 465 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.ap
- p/#opcina/41942358B61718235725154\nIzvor: Registar koncesija (FINA)\, obra
- da Koncesijski sat 9. 11. 2026.
+ LOČE) · davatelj: LUČKA UPRAVA PLOČE\, 465 €/god.\n\nProfil općine:
+  https://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154\nIzvor
+ : Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -942,17 +970,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-91ba0bb870089f06@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-ba84178021825e15@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20290222
 DTEND;VALUE=DATE:20290223
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ADRIA ALFA D.O.O
  .)
 DESCRIPTION:22. 8. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
- .\n\n• ADRIA ALFA D.O.O. – Koncesija na pomorskom dobru (PLOČE)\, 465
-  €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41
- 942358B61718235725154
+ .\n\n• ADRIA ALFA D.O.O. – Koncesija na pomorskom dobru (PLOČE) · da
+ vatelj: LUČKA UPRAVA PLOČE\, 465 €/god.\n\nProfil općine: https://kon
+ cesijski-sat.vercel.app/#opcina/41942358B61718235725154
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -963,17 +991,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-c7321f52a8960387@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-238516a3835f51ec@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20291008
 DTEND;VALUE=DATE:20291009
 SUMMARY:Ističe koncesija: ALTA MARE & LOGISTICS D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 8. 10. 2029. Godišnja fiksna nakn
  ada: 1.000 €.\n\n• ALTA MARE & LOGISTICS D.O.O. – Dozvola za eksploa
  taciju geotermalne vode za energetske svrhe (prema Zakonu o ugljikovodicim
- a) (PLOČE)\, 1.000 €/god.\n\nProfil općine: https://koncesijski-sat.ve
- rcel.app/#opcina/41942358B61718235725154\nIzvor: Registar koncesija (FINA)
- \, obrada Koncesijski sat 9. 11. 2026.
+ a) (PLOČE) · davatelj: LUČKA UPRAVA PLOČE\, 1.000 €/god.\n\nProfil o
+ pćine: https://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154
+ \nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -983,8 +1011,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-c7321f52a8960387@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-238516a3835f51ec@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20290408
 DTEND;VALUE=DATE:20290409
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ALTA MARE & LOGI
@@ -992,9 +1020,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ALTA MARE & LOGI
 DESCRIPTION:8. 10. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• ALTA MARE & LOGISTICS D.O.O. – Dozvola za eksploataciju geoterm
- alne vode za energetske svrhe (prema Zakonu o ugljikovodicima) (PLOČE)\, 
- 1.000 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opci
- na/41942358B61718235725154
+ alne vode za energetske svrhe (prema Zakonu o ugljikovodicima) (PLOČE) ·
+  davatelj: LUČKA UPRAVA PLOČE\, 1.000 €/god.\n\nProfil općine: https:
+ //koncesijski-sat.vercel.app/#opcina/41942358B61718235725154
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1005,17 +1033,18 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-a5d1f171a64049ff@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-201e503a2844f314@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20300110
 DTEND;VALUE=DATE:20300111
 SUMMARY:Ističe 2 koncesije · Ploče
 DESCRIPTION:2 ugovora o koncesiji ističe 10. 1. 2030. Godišnja fiksna nak
  nada: 13.894 €.\n\n• RHENUS LOGISTICS CROATIA D.O.O. – Koncesija na 
- pomorskom dobru (PLOČE)\, 6.947 €/god.\n• RHENUS LOGISTICS CROATIA D.
- O.O. – Koncesija na pomorskom dobru (PLOČE)\, 6.947 €/god.\n\nProfil 
- općine: https://koncesijski-sat.vercel.app/#opcina/41942358B6171823572515
- 4\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ pomorskom dobru (PLOČE) · davatelj: LUČKA UPRAVA PLOČE\, 6.947 €/god
+ .\n• RHENUS LOGISTICS CROATIA D.O.O. – Koncesija na pomorskom dobru (P
+ LOČE) · davatelj: LUČKA UPRAVA PLOČE\, 6.947 €/god.\n\nProfil općin
+ e: https://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154\nIzv
+ or: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1025,36 +1054,37 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-a5d1f171a64049ff@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-201e503a2844f314@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20290710
 DTEND;VALUE=DATE:20290711
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Ploče
 DESCRIPTION:10. 1. 2030. ističe 2 ugovora o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• RHENUS LOGISTICS CROATIA D.O.O. – Koncesija na pomorskom dobru
-  (PLOČE)\, 6.947 €/god.\n• RHENUS LOGISTICS CROATIA D.O.O. – Konces
- ija na pomorskom dobru (PLOČE)\, 6.947 €/god.\n\nProfil općine: https:
- //koncesijski-sat.vercel.app/#opcina/41942358B61718235725154
+  (PLOČE) · davatelj: LUČKA UPRAVA PLOČE\, 6.947 €/god.\n• RHENUS L
+ OGISTICS CROATIA D.O.O. – Koncesija na pomorskom dobru (PLOČE) · davat
+ elj: LUČKA UPRAVA PLOČE\, 6.947 €/god.\n\nProfil općine: https://konc
+ esijski-sat.vercel.app/#opcina/41942358B61718235725154
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Ploče
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-d7e7516a8a90b98c@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-3cb7c6012d76b783@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20300211
 DTEND;VALUE=DATE:20300212
 SUMMARY:Ističe koncesija: INA\, D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 11. 2. 2030. Godišnja fiksna nakn
  ada: 7.118 €.\n\n• INA\, D.D. – Koncesija na pomorskom dobru (PLOČE
- )\, 7.118 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#
- opcina/41942358B61718235725154\nIzvor: Registar koncesija (FINA)\, obrada 
- Koncesijski sat 9. 11. 2026.
+ ) · davatelj: LUČKA UPRAVA PLOČE\, 7.118 €/god.\n\nProfil općine: ht
+ tps://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154\nIzvor: R
+ egistar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1064,16 +1094,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-d7e7516a8a90b98c@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-3cb7c6012d76b783@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20290811
 DTEND;VALUE=DATE:20290812
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA\, D.D.)
 DESCRIPTION:11. 2. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
- .\n\n• INA\, D.D. – Koncesija na pomorskom dobru (PLOČE)\, 7.118 €/
- god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4194235
- 8B61718235725154
+ .\n\n• INA\, D.D. – Koncesija na pomorskom dobru (PLOČE) · davatelj:
+  LUČKA UPRAVA PLOČE\, 7.118 €/god.\n\nProfil općine: https://koncesij
+ ski-sat.vercel.app/#opcina/41942358B61718235725154
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1083,16 +1113,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-275b5c33dd2e5c88@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-24d2f70542c05015@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20300611
 DTEND;VALUE=DATE:20300612
 SUMMARY:Ističe koncesija: CARGO CONTROL D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 11. 6. 2030. Godišnja fiksna nakn
- ada: 465 €.\n\n• CARGO CONTROL D.O.O. – Koncesija za luku (PLOČE)\,
-  465 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcin
- a/41942358B61718235725154\nIzvor: Registar koncesija (FINA)\, obrada Konce
- sijski sat 9. 11. 2026.
+ ada: 465 €.\n\n• CARGO CONTROL D.O.O. – Koncesija za luku (PLOČE) 
+ · davatelj: LUČKA UPRAVA PLOČE\, 465 €/god.\n\nProfil općine: https:
+ //koncesijski-sat.vercel.app/#opcina/41942358B61718235725154\nIzvor: Regis
+ tar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1102,17 +1132,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-275b5c33dd2e5c88@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-24d2f70542c05015@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20291211
 DTEND;VALUE=DATE:20291212
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (CARGO CONTROL D.
  O.O.)
 DESCRIPTION:11. 6. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
- .\n\n• CARGO CONTROL D.O.O. – Koncesija za luku (PLOČE)\, 465 €/god
- .\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B6
- 1718235725154
+ .\n\n• CARGO CONTROL D.O.O. – Koncesija za luku (PLOČE) · davatelj: 
+ LUČKA UPRAVA PLOČE\, 465 €/god.\n\nProfil općine: https://koncesijski
+ -sat.vercel.app/#opcina/41942358B61718235725154
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1123,8 +1153,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-f9425a8b3760812d@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-3ab1c03878e7e496@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20300929
 DTEND;VALUE=DATE:20300930
 SUMMARY:Ističe koncesija: PETROL DRUŠTVO S OGRANIČENOM ODGOVORNOŠĆU ZA
@@ -1132,9 +1162,10 @@ SUMMARY:Ističe koncesija: PETROL DRUŠTVO S OGRANIČENOM ODGOVORNOŠĆU ZA
 DESCRIPTION:1 ugovor o koncesiji ističe 29. 9. 2030. Godišnja fiksna nakn
  ada: 100.823 €.\n\n• PETROL DRUŠTVO S OGRANIČENOM ODGOVORNOŠĆU ZA 
  TRGOVINU I PRIJEVOZ NAFTE I NAFTNIH DERIVATA – Koncesija na pomorskom do
- bru (PLOČE)\, 100.823 €/god.\n\nProfil općine: https://koncesijski-sat
- .vercel.app/#opcina/41942358B61718235725154\nIzvor: Registar koncesija (FI
- NA)\, obrada Koncesijski sat 9. 11. 2026.
+ bru (PLOČE) · davatelj: LUČKA UPRAVA PLOČE\, 100.823 €/god.\n\nProfi
+ l općine: https://koncesijski-sat.vercel.app/#opcina/41942358B61718235725
+ 154\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026
+ .
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1145,8 +1176,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-f9425a8b3760812d@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-3ab1c03878e7e496@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20300329
 DTEND;VALUE=DATE:20300330
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PETROL DRUŠTVO 
@@ -1155,9 +1186,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PETROL DRUŠTVO
 DESCRIPTION:29. 9. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• PETROL DRUŠTVO S OGRANIČENOM ODGOVORNOŠĆU ZA TRGOVINU I PRIJE
- VOZ NAFTE I NAFTNIH DERIVATA – Koncesija na pomorskom dobru (PLOČE)\, 1
- 00.823 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opc
- ina/41942358B61718235725154
+ VOZ NAFTE I NAFTNIH DERIVATA – Koncesija na pomorskom dobru (PLOČE) · 
+ davatelj: LUČKA UPRAVA PLOČE\, 100.823 €/god.\n\nProfil općine: https
+ ://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1169,16 +1200,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-43b0a460fe604829@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-cf74c1cb82d0da67@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20301120
 DTEND;VALUE=DATE:20301121
 SUMMARY:Ističe koncesija: NAVIS SUPPLEMENTUM D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 20. 11. 2030. Godišnja fiksna nak
  nada: 465 €.\n\n• NAVIS SUPPLEMENTUM D.O.O. – Koncesija za luku (PLO
- ČE)\, 465 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/
- #opcina/41942358B61718235725154\nIzvor: Registar koncesija (FINA)\, obrada
-  Koncesijski sat 9. 11. 2026.
+ ČE) · davatelj: LUČKA UPRAVA PLOČE\, 465 €/god.\n\nProfil općine: h
+ ttps://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154\nIzvor: 
+ Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1188,17 +1219,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-43b0a460fe604829@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-cf74c1cb82d0da67@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20300520
 DTEND;VALUE=DATE:20300521
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (NAVIS SUPPLEMENT
  UM D.O.O.)
 DESCRIPTION:20. 11. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
- a.\n\n• NAVIS SUPPLEMENTUM D.O.O. – Koncesija za luku (PLOČE)\, 465 
- €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
- 42358B61718235725154
+ a.\n\n• NAVIS SUPPLEMENTUM D.O.O. – Koncesija za luku (PLOČE) · dava
+ telj: LUČKA UPRAVA PLOČE\, 465 €/god.\n\nProfil općine: https://konce
+ sijski-sat.vercel.app/#opcina/41942358B61718235725154
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1209,17 +1240,18 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-4d92c3bf3daa8d8b@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-6dc8d5cd7aeb8034@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20301218
 DTEND;VALUE=DATE:20301219
 SUMMARY:Ističe 2 koncesije · Ploče
 DESCRIPTION:2 ugovora o koncesiji ističe 18. 12. 2030. Godišnja fiksna na
  knada: 930 €.\n\n• HERKON D.O.O. MOSTAR – Koncesija za luku (PLOČE)
- \, 465 €/god.\n• INSPEKT-RGH D.O.O. – Koncesija za luku (PLOČE)\, 4
- 65 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/
- 41942358B61718235725154\nIzvor: Registar koncesija (FINA)\, obrada Koncesi
- jski sat 9. 11. 2026.
+  · davatelj: LUČKA UPRAVA PLOČE\, 465 €/god.\n• INSPEKT-RGH D.O.O. 
+ – Koncesija za luku (PLOČE) · davatelj: LUČKA UPRAVA PLOČE\, 465 €
+ /god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419423
+ 58B61718235725154\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski s
+ at 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1229,36 +1261,37 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-4d92c3bf3daa8d8b@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-6dc8d5cd7aeb8034@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20300618
 DTEND;VALUE=DATE:20300619
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Ploče
 DESCRIPTION:18. 12. 2030. ističe 2 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
- ra.\n\n• HERKON D.O.O. MOSTAR – Koncesija za luku (PLOČE)\, 465 €/g
- od.\n• INSPEKT-RGH D.O.O. – Koncesija za luku (PLOČE)\, 465 €/god.\
- n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B617
- 18235725154
+ ra.\n\n• HERKON D.O.O. MOSTAR – Koncesija za luku (PLOČE) · davatelj
+ : LUČKA UPRAVA PLOČE\, 465 €/god.\n• INSPEKT-RGH D.O.O. – Koncesij
+ a za luku (PLOČE) · davatelj: LUČKA UPRAVA PLOČE\, 465 €/god.\n\nPro
+ fil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B617182357
+ 25154
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Ploče
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-b2c6781d1c56986a@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-f144732458665ba1@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20301229
 DTEND;VALUE=DATE:20301230
 SUMMARY:Ističe koncesija: AMEC OPSKRBA BRODOVA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 29. 12. 2030. Godišnja fiksna nak
  nada: 465 €.\n\n• AMEC OPSKRBA BRODOVA D.O.O. – Koncesija za luku (P
- LOČE)\, 465 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.ap
- p/#opcina/41942358B61718235725154\nIzvor: Registar koncesija (FINA)\, obra
- da Koncesijski sat 9. 11. 2026.
+ LOČE) · davatelj: LUČKA UPRAVA PLOČE\, 465 €/god.\n\nProfil općine:
+  https://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154\nIzvor
+ : Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1268,17 +1301,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-b2c6781d1c56986a@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-f144732458665ba1@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20300629
 DTEND;VALUE=DATE:20300630
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (AMEC OPSKRBA BRO
  DOVA D.O.O.)
 DESCRIPTION:29. 12. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
- a.\n\n• AMEC OPSKRBA BRODOVA D.O.O. – Koncesija za luku (PLOČE)\, 465
-  €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41
- 942358B61718235725154
+ a.\n\n• AMEC OPSKRBA BRODOVA D.O.O. – Koncesija za luku (PLOČE) · da
+ vatelj: LUČKA UPRAVA PLOČE\, 465 €/god.\n\nProfil općine: https://kon
+ cesijski-sat.vercel.app/#opcina/41942358B61718235725154
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1289,16 +1322,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-d3dd6bb3921e86f0@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-1801e7e379eaf6a0@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20310204
 DTEND;VALUE=DATE:20310205
 SUMMARY:Ističe koncesija: AGS HRVATSKA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 4. 2. 2031. Godišnja fiksna nakna
- da: 465 €.\n\n• AGS HRVATSKA D.O.O. – Koncesija za luku (PLOČE)\, 4
- 65 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/
- 41942358B61718235725154\nIzvor: Registar koncesija (FINA)\, obrada Koncesi
- jski sat 9. 11. 2026.
+ da: 465 €.\n\n• AGS HRVATSKA D.O.O. – Koncesija za luku (PLOČE) · 
+ davatelj: LUČKA UPRAVA PLOČE\, 465 €/god.\n\nProfil općine: https://k
+ oncesijski-sat.vercel.app/#opcina/41942358B61718235725154\nIzvor: Registar
+  koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1308,17 +1341,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-d3dd6bb3921e86f0@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-1801e7e379eaf6a0@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20300804
 DTEND;VALUE=DATE:20300805
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (AGS HRVATSKA D.O
  .O.)
 DESCRIPTION:4. 2. 2031. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
- \n\n• AGS HRVATSKA D.O.O. – Koncesija za luku (PLOČE)\, 465 €/god.\
- n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B617
- 18235725154
+ \n\n• AGS HRVATSKA D.O.O. – Koncesija za luku (PLOČE) · davatelj: LU
+ ČKA UPRAVA PLOČE\, 465 €/god.\n\nProfil općine: https://koncesijski-s
+ at.vercel.app/#opcina/41942358B61718235725154
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1329,16 +1362,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-1f696f7af94bdf90@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-70eb88c0f8ef8c49@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20310317
 DTEND;VALUE=DATE:20310318
 SUMMARY:Ističe koncesija: ADRIAINSPEKT  D. O. O.
 DESCRIPTION:1 ugovor o koncesiji ističe 17. 3. 2031. Godišnja fiksna nakn
  ada: 465 €.\n\n• ADRIAINSPEKT  D. O. O. – Koncesija za luku (PLOČE)
- \, 465 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opc
- ina/41942358B61718235725154\nIzvor: Registar koncesija (FINA)\, obrada Kon
- cesijski sat 9. 11. 2026.
+  · davatelj: LUČKA UPRAVA PLOČE\, 465 €/god.\n\nProfil općine: https
+ ://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154\nIzvor: Regi
+ star koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1348,17 +1381,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-1f696f7af94bdf90@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-70eb88c0f8ef8c49@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20300917
 DTEND;VALUE=DATE:20300918
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ADRIAINSPEKT  D.
   O. O.)
 DESCRIPTION:17. 3. 2031. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
- .\n\n• ADRIAINSPEKT  D. O. O. – Koncesija za luku (PLOČE)\, 465 €/g
- od.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358
- B61718235725154
+ .\n\n• ADRIAINSPEKT  D. O. O. – Koncesija za luku (PLOČE) · davatelj
+ : LUČKA UPRAVA PLOČE\, 465 €/god.\n\nProfil općine: https://koncesijs
+ ki-sat.vercel.app/#opcina/41942358B61718235725154
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1369,16 +1402,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-ab429c54b9b8a36c@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-ae8b7ad1e53f0f52@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20310318
 DTEND;VALUE=DATE:20310319
 SUMMARY:Ističe koncesija: INA-INDUSTRIJA NAFTE  D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 18. 3. 2031. Godišnja fiksna nakn
  ada: 465 €.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za luku (PLO
- ČE)\, 465 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/
- #opcina/41942358B61718235725154\nIzvor: Registar koncesija (FINA)\, obrada
-  Koncesijski sat 9. 11. 2026.
+ ČE) · davatelj: LUČKA UPRAVA PLOČE\, 465 €/god.\n\nProfil općine: h
+ ttps://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154\nIzvor: 
+ Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1388,17 +1421,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-ab429c54b9b8a36c@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-ae8b7ad1e53f0f52@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20300918
 DTEND;VALUE=DATE:20300919
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA-INDUSTRIJA N
  AFTE  D.D.)
 DESCRIPTION:18. 3. 2031. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
- .\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za luku (PLOČE)\, 465 
- €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
- 42358B61718235725154
+ .\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za luku (PLOČE) · dava
+ telj: LUČKA UPRAVA PLOČE\, 465 €/god.\n\nProfil općine: https://konce
+ sijski-sat.vercel.app/#opcina/41942358B61718235725154
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1409,16 +1442,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-94cc54ca6610f991@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-40accd65783c9008@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20310407
 DTEND;VALUE=DATE:20310408
 SUMMARY:Ističe koncesija: DEZINSEKCIJA\, D. O. O.
 DESCRIPTION:1 ugovor o koncesiji ističe 7. 4. 2031. Godišnja fiksna nakna
  da: 465 €.\n\n• DEZINSEKCIJA\, D. O. O. – Koncesija za luku (PLOČE)
- \, 465 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opc
- ina/41942358B61718235725154\nIzvor: Registar koncesija (FINA)\, obrada Kon
- cesijski sat 9. 11. 2026.
+  · davatelj: LUČKA UPRAVA PLOČE\, 465 €/god.\n\nProfil općine: https
+ ://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154\nIzvor: Regi
+ star koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1428,17 +1461,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-94cc54ca6610f991@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-40accd65783c9008@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20301007
 DTEND;VALUE=DATE:20301008
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DEZINSEKCIJA\, D
  . O. O.)
 DESCRIPTION:7. 4. 2031. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
- \n\n• DEZINSEKCIJA\, D. O. O. – Koncesija za luku (PLOČE)\, 465 €/g
- od.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358
- B61718235725154
+ \n\n• DEZINSEKCIJA\, D. O. O. – Koncesija za luku (PLOČE) · davatelj
+ : LUČKA UPRAVA PLOČE\, 465 €/god.\n\nProfil općine: https://koncesijs
+ ki-sat.vercel.app/#opcina/41942358B61718235725154
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1449,16 +1482,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-3349383506981db6@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-674a3307dceed98c@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20310414
 DTEND;VALUE=DATE:20310415
 SUMMARY:Ističe koncesija: RHENUS LOGISTICS CROATIA D.O.O. ZA OTPREMNIŠTVO
 DESCRIPTION:1 ugovor o koncesiji ističe 14. 4. 2031. Godišnja fiksna nakn
  ada: 4.579 €.\n\n• RHENUS LOGISTICS CROATIA D.O.O. ZA OTPREMNIŠTVO 
- – Koncesija za luku (PLOČE)\, 4.579 €/god.\n\nProfil općine: https:/
- /koncesijski-sat.vercel.app/#opcina/41942358B61718235725154\nIzvor: Regist
- ar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ – Koncesija za luku (PLOČE) · davatelj: LUČKA UPRAVA PLOČE\, 4.579 
+ €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
+ 42358B61718235725154\nIzvor: Registar koncesija (FINA)\, obrada Koncesijsk
+ i sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1469,8 +1503,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-3349383506981db6@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-674a3307dceed98c@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20301014
 DTEND;VALUE=DATE:20301015
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (RHENUS LOGISTICS
@@ -1478,8 +1512,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (RHENUS LOGISTICS
 DESCRIPTION:14. 4. 2031. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• RHENUS LOGISTICS CROATIA D.O.O. ZA OTPREMNIŠTVO – Koncesija za
-  luku (PLOČE)\, 4.579 €/god.\n\nProfil općine: https://koncesijski-sat
- .vercel.app/#opcina/41942358B61718235725154
+  luku (PLOČE) · davatelj: LUČKA UPRAVA PLOČE\, 4.579 €/god.\n\nProfi
+ l općine: https://koncesijski-sat.vercel.app/#opcina/41942358B61718235725
+ 154
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1490,16 +1525,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-65028fbd388a3d9d@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-e3c9621e5c20c0f5@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20320108
 DTEND;VALUE=DATE:20320109
 SUMMARY:Ističe koncesija: TIM\, VL. ANTONELA BARBIR
 DESCRIPTION:1 ugovor o koncesiji ističe 8. 1. 2032. Godišnja fiksna nakna
  da: 4.332 €.\n\n• TIM\, VL. ANTONELA BARBIR – Koncesija na pomorskom
-  dobru (PLOČE)\, 4.332 €/god.\n\nProfil općine: https://koncesijski-sa
- t.vercel.app/#opcina/41942358B61718235725154\nIzvor: Registar koncesija (F
- INA)\, obrada Koncesijski sat 9. 11. 2026.
+  dobru (PLOČE) · davatelj: LUČKA UPRAVA PLOČE\, 4.332 €/god.\n\nProf
+ il općine: https://koncesijski-sat.vercel.app/#opcina/41942358B6171823572
+ 5154\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 202
+ 6.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1509,8 +1545,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-65028fbd388a3d9d@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-e3c9621e5c20c0f5@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20310708
 DTEND;VALUE=DATE:20310709
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (TIM\, VL. ANTONE
@@ -1518,8 +1554,8 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (TIM\, VL. ANTONE
 DESCRIPTION:8. 1. 2032. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• TIM\, VL. ANTONELA BARBIR – Koncesija na pomorskom dobru (PLOČE
- )\, 4.332 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#
- opcina/41942358B61718235725154
+ ) · davatelj: LUČKA UPRAVA PLOČE\, 4.332 €/god.\n\nProfil općine: ht
+ tps://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1530,16 +1566,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-86fdcf831267bf53@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-bb7453bc3b6232a5@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20320605
 DTEND;VALUE=DATE:20320606
 SUMMARY:Ističe koncesija: INSPEKT-RGH D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 5. 6. 2032. Godišnja fiksna nakna
- da: 2.683 €.\n\n• INSPEKT-RGH D.O.O. – Koncesija za luku (PLOČE)\, 
- 2.683 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opci
- na/41942358B61718235725154\nIzvor: Registar koncesija (FINA)\, obrada Konc
- esijski sat 9. 11. 2026.
+ da: 2.683 €.\n\n• INSPEKT-RGH D.O.O. – Koncesija za luku (PLOČE) ·
+  davatelj: LUČKA UPRAVA PLOČE\, 2.683 €/god.\n\nProfil općine: https:
+ //koncesijski-sat.vercel.app/#opcina/41942358B61718235725154\nIzvor: Regis
+ tar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1549,17 +1585,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-86fdcf831267bf53@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-bb7453bc3b6232a5@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20311205
 DTEND;VALUE=DATE:20311206
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INSPEKT-RGH D.O.
  O.)
 DESCRIPTION:5. 6. 2032. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
- \n\n• INSPEKT-RGH D.O.O. – Koncesija za luku (PLOČE)\, 2.683 €/god.
- \n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B61
- 718235725154
+ \n\n• INSPEKT-RGH D.O.O. – Koncesija za luku (PLOČE) · davatelj: LU
+ ČKA UPRAVA PLOČE\, 2.683 €/god.\n\nProfil općine: https://koncesijski
+ -sat.vercel.app/#opcina/41942358B61718235725154
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1570,16 +1606,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-4c6758bc2ec842bc@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-9052872fcd7da6b3@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20320814
 DTEND;VALUE=DATE:20320815
 SUMMARY:Ističe koncesija: INSPEKT-RGH D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 14. 8. 2032. Godišnja fiksna nakn
- ada: 1.161 €.\n\n• INSPEKT-RGH D.O.O. – Koncesija za luku (PLOČE)\,
-  1.161 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opc
- ina/41942358B61718235725154\nIzvor: Registar koncesija (FINA)\, obrada Kon
- cesijski sat 9. 11. 2026.
+ ada: 1.161 €.\n\n• INSPEKT-RGH D.O.O. – Koncesija za luku (PLOČE) 
+ · davatelj: LUČKA UPRAVA PLOČE\, 1.161 €/god.\n\nProfil općine: http
+ s://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154\nIzvor: Reg
+ istar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1589,17 +1625,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-4c6758bc2ec842bc@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-9052872fcd7da6b3@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20320214
 DTEND;VALUE=DATE:20320215
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INSPEKT-RGH D.O.
  O.)
 DESCRIPTION:14. 8. 2032. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
- .\n\n• INSPEKT-RGH D.O.O. – Koncesija za luku (PLOČE)\, 1.161 €/god
- .\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B6
- 1718235725154
+ .\n\n• INSPEKT-RGH D.O.O. – Koncesija za luku (PLOČE) · davatelj: LU
+ ČKA UPRAVA PLOČE\, 1.161 €/god.\n\nProfil općine: https://koncesijski
+ -sat.vercel.app/#opcina/41942358B61718235725154
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1610,16 +1646,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-89d2aad84f3ff755@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-882d950ad8f8a20c@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20320820
 DTEND;VALUE=DATE:20320821
 SUMMARY:Ističe koncesija: SAYBOLT PAN ADRIATIKA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 20. 8. 2032. Godišnja fiksna nakn
  ada: 1.700 €.\n\n• SAYBOLT PAN ADRIATIKA D.O.O. – Koncesija za luku 
- (PLOČE)\, 1.700 €/god.\n\nProfil općine: https://koncesijski-sat.verce
- l.app/#opcina/41942358B61718235725154\nIzvor: Registar koncesija (FINA)\, 
- obrada Koncesijski sat 9. 11. 2026.
+ (PLOČE) · davatelj: LUČKA UPRAVA PLOČE\, 1.700 €/god.\n\nProfil opć
+ ine: https://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154\nI
+ zvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1629,17 +1665,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-89d2aad84f3ff755@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-882d950ad8f8a20c@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20320220
 DTEND;VALUE=DATE:20320221
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (SAYBOLT PAN ADRI
  ATIKA D.O.O.)
 DESCRIPTION:20. 8. 2032. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
- .\n\n• SAYBOLT PAN ADRIATIKA D.O.O. – Koncesija za luku (PLOČE)\, 1.7
- 00 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/
- 41942358B61718235725154
+ .\n\n• SAYBOLT PAN ADRIATIKA D.O.O. – Koncesija za luku (PLOČE) · da
+ vatelj: LUČKA UPRAVA PLOČE\, 1.700 €/god.\n\nProfil općine: https://k
+ oncesijski-sat.vercel.app/#opcina/41942358B61718235725154
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1650,16 +1686,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-86a80cce168c94fa@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-6ab2126c1ab6617f@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20321204
 DTEND;VALUE=DATE:20321205
 SUMMARY:Ističe koncesija: TOP LOGISTICS D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 4. 12. 2032. Godišnja fiksna nakn
  ada: 55.825 €.\n\n• TOP LOGISTICS D.O.O. – Koncesija za luku (PLOČE
- )\, 55.825 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/
- #opcina/41942358B61718235725154\nIzvor: Registar koncesija (FINA)\, obrada
-  Koncesijski sat 9. 11. 2026.
+ ) · davatelj: LUČKA UPRAVA PLOČE\, 55.825 €/god.\n\nProfil općine: h
+ ttps://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154\nIzvor: 
+ Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1669,17 +1705,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-86a80cce168c94fa@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-6ab2126c1ab6617f@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20320604
 DTEND;VALUE=DATE:20320605
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (TOP LOGISTICS D.
  O.O.)
 DESCRIPTION:4. 12. 2032. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
- .\n\n• TOP LOGISTICS D.O.O. – Koncesija za luku (PLOČE)\, 55.825 €/
- god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4194235
- 8B61718235725154
+ .\n\n• TOP LOGISTICS D.O.O. – Koncesija za luku (PLOČE) · davatelj: 
+ LUČKA UPRAVA PLOČE\, 55.825 €/god.\n\nProfil općine: https://koncesij
+ ski-sat.vercel.app/#opcina/41942358B61718235725154
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1690,17 +1726,18 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-aaa0ae66927268ed@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-1acf545d4b530500@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20321218
 DTEND;VALUE=DATE:20321219
 SUMMARY:Ističe 2 koncesije · Ploče
 DESCRIPTION:2 ugovora o koncesiji ističe 18. 12. 2032. Godišnja fiksna na
- knada: 5.560 €.\n\n• ZIK D.O.O. – Koncesija za luku (PLOČE)\, 3.780
-  €/god.\n• NERETVANSKA KONTROLA PLOČE D.O.O. – Koncesija za luku (P
- LOČE)\, 1.780 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.
- app/#opcina/41942358B61718235725154\nIzvor: Registar koncesija (FINA)\, ob
- rada Koncesijski sat 9. 11. 2026.
+ knada: 5.560 €.\n\n• ZIK D.O.O. – Koncesija za luku (PLOČE) · dava
+ telj: LUČKA UPRAVA PLOČE\, 3.780 €/god.\n• NERETVANSKA KONTROLA PLO
+ ČE D.O.O. – Koncesija za luku (PLOČE) · davatelj: LUČKA UPRAVA PLOČ
+ E\, 1.780 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#
+ opcina/41942358B61718235725154\nIzvor: Registar koncesija (FINA)\, obrada 
+ Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1710,36 +1747,37 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-aaa0ae66927268ed@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-1acf545d4b530500@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20320618
 DTEND;VALUE=DATE:20320619
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Ploče
 DESCRIPTION:18. 12. 2032. ističe 2 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
- ra.\n\n• ZIK D.O.O. – Koncesija za luku (PLOČE)\, 3.780 €/god.\n•
-  NERETVANSKA KONTROLA PLOČE D.O.O. – Koncesija za luku (PLOČE)\, 1.780
-  €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41
- 942358B61718235725154
+ ra.\n\n• ZIK D.O.O. – Koncesija za luku (PLOČE) · davatelj: LUČKA U
+ PRAVA PLOČE\, 3.780 €/god.\n• NERETVANSKA KONTROLA PLOČE D.O.O. – 
+ Koncesija za luku (PLOČE) · davatelj: LUČKA UPRAVA PLOČE\, 1.780 €/g
+ od.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358
+ B61718235725154
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Ploče
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-d37b86d24b3f83e5@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-0092de267b730668@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20330118
 DTEND;VALUE=DATE:20330119
 SUMMARY:Ističe koncesija: INA-INDUSTRIJA NAFTE  D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 18. 1. 2033. Godišnja fiksna nakn
  ada: 1.840 €.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za luku (P
- LOČE)\, 1.840 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.
- app/#opcina/41942358B61718235725154\nIzvor: Registar koncesija (FINA)\, ob
- rada Koncesijski sat 9. 11. 2026.
+ LOČE) · davatelj: LUČKA UPRAVA PLOČE\, 1.840 €/god.\n\nProfil općin
+ e: https://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154\nIzv
+ or: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1749,17 +1787,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-d37b86d24b3f83e5@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-0092de267b730668@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20320718
 DTEND;VALUE=DATE:20320719
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA-INDUSTRIJA N
  AFTE  D.D.)
 DESCRIPTION:18. 1. 2033. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
- .\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za luku (PLOČE)\, 1.840
-  €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41
- 942358B61718235725154
+ .\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za luku (PLOČE) · dava
+ telj: LUČKA UPRAVA PLOČE\, 1.840 €/god.\n\nProfil općine: https://kon
+ cesijski-sat.vercel.app/#opcina/41942358B61718235725154
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1770,16 +1808,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-e690e502e92fb124@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-7e842b925883a973@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20330922
 DTEND;VALUE=DATE:20330923
 SUMMARY:Ističe koncesija: RADEŽ D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 22. 9. 2033. Godišnja fiksna nakn
  ada: 15.000 €.\n\n• RADEŽ D.D. – Koncesija na pomorskom dobru (PLO
- ČE)\, 15.000 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.a
- pp/#opcina/41942358B61718235725154\nIzvor: Registar koncesija (FINA)\, obr
- ada Koncesijski sat 9. 11. 2026.
+ ČE) · davatelj: LUČKA UPRAVA PLOČE\, 15.000 €/god.\n\nProfil općine
+ : https://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154\nIzvo
+ r: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1789,16 +1827,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-e690e502e92fb124@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-7e842b925883a973@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20330322
 DTEND;VALUE=DATE:20330323
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (RADEŽ D.D.)
 DESCRIPTION:22. 9. 2033. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
- .\n\n• RADEŽ D.D. – Koncesija na pomorskom dobru (PLOČE)\, 15.000 
- €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
- 42358B61718235725154
+ .\n\n• RADEŽ D.D. – Koncesija na pomorskom dobru (PLOČE) · davatelj
+ : LUČKA UPRAVA PLOČE\, 15.000 €/god.\n\nProfil općine: https://konces
+ ijski-sat.vercel.app/#opcina/41942358B61718235725154
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1808,8 +1846,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-fda90fdc6356f2ce@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-c6b4d19f65ffe1d6@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20340906
 DTEND;VALUE=DATE:20340907
 SUMMARY:Ističe koncesija: TELEMACH HRVATSKA D.O.O. ZA TELEKOMUNIKACIJSKE U
@@ -1817,9 +1855,10 @@ SUMMARY:Ističe koncesija: TELEMACH HRVATSKA D.O.O. ZA TELEKOMUNIKACIJSKE U
 DESCRIPTION:1 ugovor o koncesiji ističe 6. 9. 2034. Godišnja fiksna nakna
  da: 7.175 €.\n\n• TELEMACH HRVATSKA D.O.O. ZA TELEKOMUNIKACIJSKE USLUG
  E – Koncesija pomorskog dobra za posebnu upotrebu u svrhu gradnje kabels
- ke veze (PLOČE)\, 7.175 €/god.\n\nProfil općine: https://koncesijski-s
- at.vercel.app/#opcina/41942358B61718235725154\nIzvor: Registar koncesija (
- FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ ke veze (PLOČE) · davatelj: LUČKA UPRAVA PLOČE\, 7.175 €/god.\n\nPro
+ fil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B617182357
+ 25154\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 20
+ 26.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1830,8 +1869,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-fda90fdc6356f2ce@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-c6b4d19f65ffe1d6@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20340306
 DTEND;VALUE=DATE:20340307
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (TELEMACH HRVATSK
@@ -1840,8 +1879,8 @@ DESCRIPTION:6. 9. 2034. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• TELEMACH HRVATSKA D.O.O. ZA TELEKOMUNIKACIJSKE USLUGE – Koncesij
  a pomorskog dobra za posebnu upotrebu u svrhu gradnje kabelske veze (PLOČ
- E)\, 7.175 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/
- #opcina/41942358B61718235725154
+ E) · davatelj: LUČKA UPRAVA PLOČE\, 7.175 €/god.\n\nProfil općine: h
+ ttps://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1852,20 +1891,21 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-b493161b07dcfb50@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-cd471152d5588d41@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20351231
 DTEND;VALUE=DATE:20360101
 SUMMARY:Ističe 3 koncesije · Ploče
 DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2035. Godišnja fiksna na
  knada: 2.814 €.\n\n• KAMENOLOM PLOČE D.O.O. – Koncesija za površin
  u utvrđenog eksploatacijskog polja neenergetskih mineralnih sirovina (PLO
- ČE)\, 2.814 €/god.\n• KAMENOLOM PLOČE D.O.O. – Koncesija za eksplo
- ataciju tehničko-građevnog kamena (PLOČE)\n• KAMENOLOM PLOČE D.O.O. 
- – Koncesija za eksploataciju tehničko-građevnog kamena (PLOČE)\n\nPro
- fil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B617182357
- 25154\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 20
- 26.
+ ČE) · davatelj: MINISTARSTVO GOSPODARSTVA\, 2.814 €/god.\n• KAMENOLO
+ M PLOČE D.O.O. – Koncesija za eksploataciju tehničko-građevnog kamena
+  (PLOČE) · davatelj: MINISTARSTVO GOSPODARSTVA\n• KAMENOLOM PLOČE D.O
+ .O. – Koncesija za eksploataciju tehničko-građevnog kamena (PLOČE) ·
+  davatelj: MINISTARSTVO GOSPODARSTVA\n\nProfil općine: https://koncesijsk
+ i-sat.vercel.app/#opcina/41942358B61718235725154\nIzvor: Registar koncesij
+ a (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1875,38 +1915,40 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-b493161b07dcfb50@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-cd471152d5588d41@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20350630
 DTEND;VALUE=DATE:20350701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Ploče
 DESCRIPTION:31. 12. 2035. ističe 3 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• KAMENOLOM PLOČE D.O.O. – Koncesija za površinu utvrđenog e
- ksploatacijskog polja neenergetskih mineralnih sirovina (PLOČE)\, 2.814 
- €/god.\n• KAMENOLOM PLOČE D.O.O. – Koncesija za eksploataciju tehni
- čko-građevnog kamena (PLOČE)\n• KAMENOLOM PLOČE D.O.O. – Koncesija
-  za eksploataciju tehničko-građevnog kamena (PLOČE)\n\nProfil općine: 
- https://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154
+ ksploatacijskog polja neenergetskih mineralnih sirovina (PLOČE) · davate
+ lj: MINISTARSTVO GOSPODARSTVA\, 2.814 €/god.\n• KAMENOLOM PLOČE D.O.O
+ . – Koncesija za eksploataciju tehničko-građevnog kamena (PLOČE) · d
+ avatelj: MINISTARSTVO GOSPODARSTVA\n• KAMENOLOM PLOČE D.O.O. – Konces
+ ija za eksploataciju tehničko-građevnog kamena (PLOČE) · davatelj: MIN
+ ISTARSTVO GOSPODARSTVA\n\nProfil općine: https://koncesijski-sat.vercel.a
+ pp/#opcina/41942358B61718235725154
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Ploče
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-d58d267e4b5003be@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-8916b6f38a62579c@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20360706
 DTEND;VALUE=DATE:20360707
 SUMMARY:Ističe koncesija: 
 DESCRIPTION:1 ugovor o koncesiji ističe 6. 7. 2036. Godišnja fiksna nakna
- da: 742 €.\n\n•  – Koncesija za luku (PLOČE)\, 742 €/god.\n\nProf
- il općine: https://koncesijski-sat.vercel.app/#opcina/41942358B6171823572
- 5154\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 202
- 6.
+ da: 742 €.\n\n•  – Koncesija za luku (PLOČE) · davatelj: LUČKA UP
+ RAVA PLOČE\, 742 €/god.\n\nProfil općine: https://koncesijski-sat.verc
+ el.app/#opcina/41942358B61718235725154\nIzvor: Registar koncesija (FINA)\,
+  obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1916,15 +1958,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-d58d267e4b5003be@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-8916b6f38a62579c@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20360106
 DTEND;VALUE=DATE:20360107
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija ()
 DESCRIPTION:6. 7. 2036. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
- \n\n•  – Koncesija za luku (PLOČE)\, 742 €/god.\n\nProfil općine: 
- https://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154
+ \n\n•  – Koncesija za luku (PLOČE) · davatelj: LUČKA UPRAVA PLOČE\
+ , 742 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opci
+ na/41942358B61718235725154
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1934,16 +1977,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-0a89b8f992327bdf@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-ba6b8b8f48d16813@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20370524
 DTEND;VALUE=DATE:20370525
 SUMMARY:Ističe koncesija: LUKA PLOČE D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 24. 5. 2037. Godišnja fiksna nakn
- ada: 115.936 €.\n\n• LUKA PLOČE D.D. – Koncesija za luku (PLOČE)\,
-  115.936 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#o
- pcina/41942358B61718235725154\nIzvor: Registar koncesija (FINA)\, obrada K
- oncesijski sat 9. 11. 2026.
+ ada: 115.936 €.\n\n• LUKA PLOČE D.D. – Koncesija za luku (PLOČE) 
+ · davatelj: LUČKA UPRAVA PLOČE\, 115.936 €/god.\n\nProfil općine: ht
+ tps://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154\nIzvor: R
+ egistar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1953,17 +1996,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-0a89b8f992327bdf@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-ba6b8b8f48d16813@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20361124
 DTEND;VALUE=DATE:20361125
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (LUKA PLOČE D.D.
  )
 DESCRIPTION:24. 5. 2037. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
- .\n\n• LUKA PLOČE D.D. – Koncesija za luku (PLOČE)\, 115.936 €/god
- .\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B6
- 1718235725154
+ .\n\n• LUKA PLOČE D.D. – Koncesija za luku (PLOČE) · davatelj: LUČ
+ KA UPRAVA PLOČE\, 115.936 €/god.\n\nProfil općine: https://koncesijski
+ -sat.vercel.app/#opcina/41942358B61718235725154
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1974,22 +2017,25 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-d816d6d3c1195a51@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-5b1646b89d0afb35@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20370813
 DTEND;VALUE=DATE:20370814
 SUMMARY:Ističe 6 koncesija · Ploče
 DESCRIPTION:6 ugovora o koncesiji ističe 13. 8. 2037. Godišnja fiksna nak
  nada: 7.002 €.\n\n• LUKA PLOČE GRADNJA D.O.O. – Koncesija za luku (
- PLOČE)\, 3.155 €/god.\n• ADRIATIC TANK TERMINALS D.O.O. – Koncesija
-  za luku (PLOČE)\, 2.271 €/god.\n• PLOČANSKA PLOVIDBA D.O.O. – Kon
- cesija za luku (PLOČE)\, 1.436 €/god.\n• POMORSKI SERVIS - LUKA PLOČ
- E D.O.O. – Koncesija za luku (PLOČE)\, 83 €/god.\n• BUMBIS\, OBRT Z
- A UGOSTITELJSTVO\, VL. VLATKO RODIN – Koncesija pomorskog dobra u svrhu 
- gospodarskog korištenja luke (PLOČE)\, 50 €/god.\n• PLOČANSKA PLOVI
- DBA D.O.O. – Koncesija za luku (PLOČE)\, 7 €/god.\n\nProfil općine: 
- https://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154\nIzvor:
-  Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ PLOČE) · davatelj: LUČKA UPRAVA PLOČE\, 3.155 €/god.\n• ADRIATIC T
+ ANK TERMINALS D.O.O. – Koncesija za luku (PLOČE) · davatelj: LUČKA UP
+ RAVA PLOČE\, 2.271 €/god.\n• PLOČANSKA PLOVIDBA D.O.O. – Koncesija
+  za luku (PLOČE) · davatelj: LUČKA UPRAVA PLOČE\, 1.436 €/god.\n• 
+ POMORSKI SERVIS - LUKA PLOČE D.O.O. – Koncesija za luku (PLOČE) · dav
+ atelj: LUČKA UPRAVA PLOČE\, 83 €/god.\n• BUMBIS\, OBRT ZA UGOSTITELJ
+ STVO\, VL. VLATKO RODIN – Koncesija pomorskog dobra u svrhu gospodarskog
+  korištenja luke (PLOČE) · davatelj: LUČKA UPRAVA PLOČE\, 50 €/god.
+ \n• PLOČANSKA PLOVIDBA D.O.O. – Koncesija za luku (PLOČE) · davatel
+ j: LUČKA UPRAVA PLOČE\, 7 €/god.\n\nProfil općine: https://koncesijsk
+ i-sat.vercel.app/#opcina/41942358B61718235725154\nIzvor: Registar koncesij
+ a (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1999,41 +2045,44 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-d816d6d3c1195a51@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-5b1646b89d0afb35@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20370213
 DTEND;VALUE=DATE:20370214
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 6 koncesija
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 6 koncesija · Ploče
 DESCRIPTION:13. 8. 2037. ističe 6 ugovora o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
- a.\n\n• LUKA PLOČE GRADNJA D.O.O. – Koncesija za luku (PLOČE)\, 3.15
- 5 €/god.\n• ADRIATIC TANK TERMINALS D.O.O. – Koncesija za luku (PLO
- ČE)\, 2.271 €/god.\n• PLOČANSKA PLOVIDBA D.O.O. – Koncesija za luk
- u (PLOČE)\, 1.436 €/god.\n• POMORSKI SERVIS - LUKA PLOČE D.O.O. – 
- Koncesija za luku (PLOČE)\, 83 €/god.\n• BUMBIS\, OBRT ZA UGOSTITELJS
- TVO\, VL. VLATKO RODIN – Koncesija pomorskog dobra u svrhu gospodarskog 
- korištenja luke (PLOČE)\, 50 €/god.\n• PLOČANSKA PLOVIDBA D.O.O. 
- – Koncesija za luku (PLOČE)\, 7 €/god.\n\nProfil općine: https://kon
- cesijski-sat.vercel.app/#opcina/41942358B61718235725154
+ a.\n\n• LUKA PLOČE GRADNJA D.O.O. – Koncesija za luku (PLOČE) · dav
+ atelj: LUČKA UPRAVA PLOČE\, 3.155 €/god.\n• ADRIATIC TANK TERMINALS 
+ D.O.O. – Koncesija za luku (PLOČE) · davatelj: LUČKA UPRAVA PLOČE\, 
+ 2.271 €/god.\n• PLOČANSKA PLOVIDBA D.O.O. – Koncesija za luku (PLO
+ ČE) · davatelj: LUČKA UPRAVA PLOČE\, 1.436 €/god.\n• POMORSKI SERV
+ IS - LUKA PLOČE D.O.O. – Koncesija za luku (PLOČE) · davatelj: LUČKA
+  UPRAVA PLOČE\, 83 €/god.\n• BUMBIS\, OBRT ZA UGOSTITELJSTVO\, VL. VL
+ ATKO RODIN – Koncesija pomorskog dobra u svrhu gospodarskog korištenja 
+ luke (PLOČE) · davatelj: LUČKA UPRAVA PLOČE\, 50 €/god.\n• PLOČAN
+ SKA PLOVIDBA D.O.O. – Koncesija za luku (PLOČE) · davatelj: LUČKA UPR
+ AVA PLOČE\, 7 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.
+ app/#opcina/41942358B61718235725154
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 6 koncesija
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 6 koncesija · Ploče
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-c0afdaaecd48b61a@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-584ad7e4ba455691@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20380320
 DTEND;VALUE=DATE:20380321
 SUMMARY:Ističe koncesija: LUKA PLOČE D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 20. 3. 2038. Godišnja fiksna nakn
  ada: 25.404 €.\n\n• LUKA PLOČE D.D. – Koncesija na pomorskom dobru 
- (PLOČE)\, 25.404 €/god.\n\nProfil općine: https://koncesijski-sat.verc
- el.app/#opcina/41942358B61718235725154\nIzvor: Registar koncesija (FINA)\,
-  obrada Koncesijski sat 9. 11. 2026.
+ (PLOČE) · davatelj: LUČKA UPRAVA PLOČE\, 25.404 €/god.\n\nProfil op
+ ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154\
+ nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -2043,17 +2092,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-c0afdaaecd48b61a@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-584ad7e4ba455691@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20370920
 DTEND;VALUE=DATE:20370921
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (LUKA PLOČE D.D.
  )
 DESCRIPTION:20. 3. 2038. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
- .\n\n• LUKA PLOČE D.D. – Koncesija na pomorskom dobru (PLOČE)\, 25.4
- 04 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/
- 41942358B61718235725154
+ .\n\n• LUKA PLOČE D.D. – Koncesija na pomorskom dobru (PLOČE) · dav
+ atelj: LUČKA UPRAVA PLOČE\, 25.404 €/god.\n\nProfil općine: https://k
+ oncesijski-sat.vercel.app/#opcina/41942358B61718235725154
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -2064,16 +2113,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-84ed48154db61439@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-11a2a10402fbaf4b@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20430201
 DTEND;VALUE=DATE:20430202
 SUMMARY:Ističe koncesija: LUKA PLOČE D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 1. 2. 2043. Godišnja fiksna nakna
- da: 59.432 €.\n\n• LUKA PLOČE D.D. – Koncesija za luku (PLOČE)\, 5
- 9.432 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opci
- na/41942358B61718235725154\nIzvor: Registar koncesija (FINA)\, obrada Konc
- esijski sat 9. 11. 2026.
+ da: 59.432 €.\n\n• LUKA PLOČE D.D. – Koncesija za luku (PLOČE) · 
+ davatelj: LUČKA UPRAVA PLOČE\, 59.432 €/god.\n\nProfil općine: https:
+ //koncesijski-sat.vercel.app/#opcina/41942358B61718235725154\nIzvor: Regis
+ tar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -2083,17 +2132,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-84ed48154db61439@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-11a2a10402fbaf4b@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20420801
 DTEND;VALUE=DATE:20420802
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (LUKA PLOČE D.D.
  )
 DESCRIPTION:1. 2. 2043. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
- \n\n• LUKA PLOČE D.D. – Koncesija za luku (PLOČE)\, 59.432 €/god.\
- n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B617
- 18235725154
+ \n\n• LUKA PLOČE D.D. – Koncesija za luku (PLOČE) · davatelj: LUČK
+ A UPRAVA PLOČE\, 59.432 €/god.\n\nProfil općine: https://koncesijski-s
+ at.vercel.app/#opcina/41942358B61718235725154
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -2104,17 +2153,18 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-0e166e07e5f9f986@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-abf30aaaeceef006@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20550813
 DTEND;VALUE=DATE:20550814
 SUMMARY:Ističe 2 koncesije · Ploče
 DESCRIPTION:2 ugovora o koncesiji ističe 13. 8. 2055. Godišnja fiksna nak
- nada: 139.663 €.\n\n• LUKA PLOČE D.D. – Koncesija za luku (PLOČE)\
- , 113.214 €/god.\n• ADRIATIC TANK TERMINALS D.O.O. – Koncesija za lu
- ku (PLOČE)\, 26.449 €/god.\n\nProfil općine: https://koncesijski-sat.v
- ercel.app/#opcina/41942358B61718235725154\nIzvor: Registar koncesija (FINA
- )\, obrada Koncesijski sat 9. 11. 2026.
+ nada: 139.663 €.\n\n• LUKA PLOČE D.D. – Koncesija za luku (PLOČE) 
+ · davatelj: LUČKA UPRAVA PLOČE\, 113.214 €/god.\n• ADRIATIC TANK TE
+ RMINALS D.O.O. – Koncesija za luku (PLOČE) · davatelj: LUČKA UPRAVA P
+ LOČE\, 26.449 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.
+ app/#opcina/41942358B61718235725154\nIzvor: Registar koncesija (FINA)\, ob
+ rada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -2124,37 +2174,39 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-0e166e07e5f9f986@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-abf30aaaeceef006@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20550213
 DTEND;VALUE=DATE:20550214
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Ploče
 DESCRIPTION:13. 8. 2055. ističe 2 ugovora o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
- a.\n\n• LUKA PLOČE D.D. – Koncesija za luku (PLOČE)\, 113.214 €/go
- d.\n• ADRIATIC TANK TERMINALS D.O.O. – Koncesija za luku (PLOČE)\, 26
- .449 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcin
- a/41942358B61718235725154
+ a.\n\n• LUKA PLOČE D.D. – Koncesija za luku (PLOČE) · davatelj: LU
+ ČKA UPRAVA PLOČE\, 113.214 €/god.\n• ADRIATIC TANK TERMINALS D.O.O. 
+ – Koncesija za luku (PLOČE) · davatelj: LUČKA UPRAVA PLOČE\, 26.449 
+ €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
+ 42358B61718235725154
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Ploče
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-c53b7ce09e3928d9@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-8dc122fc94444804@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20551021
 DTEND;VALUE=DATE:20551022
 SUMMARY:Ističe koncesija: YACHT LIFE D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 21. 10. 2055. Godišnja fiksna nak
  nada: 121.268 €.\n\n• YACHT LIFE D.O.O. – Koncesija pomorskog dobra 
  u svrhu izgradnje i gospodarskog korištenja luke posebne namjene (PLOČE)
- \, 121.268 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/
- #opcina/41942358B61718235725154\nIzvor: Registar koncesija (FINA)\, obrada
-  Koncesijski sat 9. 11. 2026.
+  · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\, 121.268 €/g
+ od.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358
+ B61718235725154\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat
+  9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -2164,8 +2216,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-c53b7ce09e3928d9@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-8dc122fc94444804@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20550421
 DTEND;VALUE=DATE:20550422
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (YACHT LIFE D.O.O
@@ -2173,9 +2225,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (YACHT LIFE D.O.O
 DESCRIPTION:21. 10. 2055. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• YACHT LIFE D.O.O. – Koncesija pomorskog dobra u svrhu izgradnj
- e i gospodarskog korištenja luke posebne namjene (PLOČE)\, 121.268 €/g
- od.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358
- B61718235725154
+ e i gospodarskog korištenja luke posebne namjene (PLOČE) · davatelj: MI
+ NISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\, 121.268 €/god.\n\nProfil op
+ ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -2186,16 +2238,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-5fa745bb35fc9db9@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-498dee429cd850b8@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20601015
 DTEND;VALUE=DATE:20601016
 SUMMARY:Ističe koncesija: DRŽAVNI HIDROMETEOROLOŠKI ZAVOD
 DESCRIPTION:1 ugovor o koncesiji ističe 15. 10. 2060. Godišnja fiksna nak
  nada: 32 €.\n\n• DRŽAVNI HIDROMETEOROLOŠKI ZAVOD – Koncesija na po
- morskom dobru (PLOČE)\, 32 €/god.\n\nProfil općine: https://koncesijsk
- i-sat.vercel.app/#opcina/41942358B61718235725154\nIzvor: Registar koncesij
- a (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ morskom dobru (PLOČE) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTR
+ UKTURE\, 32 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app
+ /#opcina/41942358B61718235725154\nIzvor: Registar koncesija (FINA)\, obrad
+ a Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -2205,8 +2258,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-5fa745bb35fc9db9@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-498dee429cd850b8@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20600415
 DTEND;VALUE=DATE:20600416
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DRŽAVNI HIDROME
@@ -2214,8 +2267,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DRŽAVNI HIDROME
 DESCRIPTION:15. 10. 2060. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• DRŽAVNI HIDROMETEOROLOŠKI ZAVOD – Koncesija na pomorskom dob
- ru (PLOČE)\, 32 €/god.\n\nProfil općine: https://koncesijski-sat.verce
- l.app/#opcina/41942358B61718235725154
+ ru (PLOČE) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\, 32
+  €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41
+ 942358B61718235725154
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -2226,16 +2280,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-54f9507d5706f28f@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-9aadf67faccf1233@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20760717
 DTEND;VALUE=DATE:20760718
 SUMMARY:Ističe koncesija: HRVATSKI TELEKOM D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 17. 7. 2076. Godišnja fiksna nakn
  ada: 3.401 €.\n\n• HRVATSKI TELEKOM D.D. – Posebna upotreba pomorsko
- g dobra (PLOČE)\, 3.401 €/god.\n\nProfil općine: https://koncesijski-s
- at.vercel.app/#opcina/41942358B61718235725154\nIzvor: Registar koncesija (
- FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ g dobra (PLOČE) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE
+ \, 3.401 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#o
+ pcina/41942358B61718235725154\nIzvor: Registar koncesija (FINA)\, obrada K
+ oncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -2245,8 +2300,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-54f9507d5706f28f@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-9aadf67faccf1233@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20760117
 DTEND;VALUE=DATE:20760118
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKI TELEKOM
@@ -2254,8 +2309,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKI TELEKOM
 DESCRIPTION:17. 7. 2076. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• HRVATSKI TELEKOM D.D. – Posebna upotreba pomorskog dobra (PLOČ
- E)\, 3.401 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/
- #opcina/41942358B61718235725154
+ E) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\, 3.401 €/g
+ od.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358
+ B61718235725154
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B61718235725154
 TRANSP:TRANSPARENT
 BEGIN:VALARM

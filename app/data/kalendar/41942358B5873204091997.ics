@@ -4,24 +4,26 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Grad Donja Stubica
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Grad Donja Stubica. Iz R
- egistra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade p
- odataka. https://koncesijski-sat.vercel.app/#opcina/41942358B5873204091997
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Grad Donja Stubica (preg
+ led\, svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježa
+ va se nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#opc
+ ina/41942358B5873204091997
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-0257f163fc1ce654@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-0e9de657c584ee8b@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
 SUMMARY:Ističe koncesija: RADIO STUBICA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 31. 12. 2026. Godišnja fiksna nak
  nada: 66 €.\n\n• RADIO STUBICA D.O.O. – Koncesija za obavljanje djel
  atnosti radija (DONJA STUBICA\, GORNJA STUBICA\, MARIJA BISTRICA\, OROSLAV
- JE\, STUBIČKE TOPLICE)\, 66 €/god.\n\nProfil općine: https://koncesijs
- ki-sat.vercel.app/#opcina/41942358B5873204091997\nIzvor: Registar koncesij
- a (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ JE\, STUBIČKE TOPLICE) · davatelj: AGENCIJA ZA ELEKTRONIČKE MEDIJE\, 66
+  €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41
+ 942358B5873204091997\nIzvor: Registar koncesija (FINA)\, obrada Koncesijsk
+ i sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B5873204091997
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -31,16 +33,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-9e50e2555904907d@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-8418a51085e439aa@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20290901
 DTEND;VALUE=DATE:20290902
 SUMMARY:Ističe koncesija: MULL-TRANS D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 1. 9. 2029.\n\n• MULL-TRANS D.O.
- O. – Koncesija za obavljanje komunalnih djelatnosti (DONJA STUBICA)\n\nP
- rofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B5873204
- 091997\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2
- 026.
+ O. – Koncesija za obavljanje komunalnih djelatnosti (DONJA STUBICA) · d
+ avatelj: GRAD DONJA STUBICA\n\nProfil općine: https://koncesijski-sat.ver
+ cel.app/#opcina/41942358B5873204091997\nIzvor: Registar koncesija (FINA)\,
+  obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B5873204091997
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -50,8 +52,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-9e50e2555904907d@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-8418a51085e439aa@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20290301
 DTEND;VALUE=DATE:20290302
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MULL-TRANS D.O.O
@@ -59,8 +61,8 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MULL-TRANS D.O.O
 DESCRIPTION:1. 9. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• MULL-TRANS D.O.O. – Koncesija za obavljanje komunalnih djelatnos
- ti (DONJA STUBICA)\n\nProfil općine: https://koncesijski-sat.vercel.app/#
- opcina/41942358B5873204091997
+ ti (DONJA STUBICA) · davatelj: GRAD DONJA STUBICA\n\nProfil općine: http
+ s://koncesijski-sat.vercel.app/#opcina/41942358B5873204091997
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B5873204091997
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -71,17 +73,18 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-06976dfb5478d046@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-940d72bda0223035@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20300121
 DTEND;VALUE=DATE:20300122
 SUMMARY:Ističe koncesija: TERME JEZERČICA D.O.O. VARAŽDIN-PODRUŽNICA JE
  ZERČICA
 DESCRIPTION:1 ugovor o koncesiji ističe 21. 1. 2030.\n\n• TERME JEZERČI
  CA D.O.O. VARAŽDIN-PODRUŽNICA JEZERČICA – Koncesija za crpljenje mine
- ralnih i termalnih voda (DONJA STUBICA)\n\nProfil općine: https://koncesi
- jski-sat.vercel.app/#opcina/41942358B5873204091997\nIzvor: Registar konces
- ija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ ralnih i termalnih voda (DONJA STUBICA) · davatelj: MINISTARSTVO ZAŠTITE
+  OKOLIŠA I ZELENE TRANZICIJE\n\nProfil općine: https://koncesijski-sat.v
+ ercel.app/#opcina/41942358B5873204091997\nIzvor: Registar koncesija (FINA)
+ \, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B5873204091997
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -92,8 +95,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-06976dfb5478d046@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-940d72bda0223035@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20290721
 DTEND;VALUE=DATE:20290722
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (TERME JEZERČICA
@@ -101,8 +104,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (TERME JEZERČICA
 DESCRIPTION:21. 1. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• TERME JEZERČICA D.O.O. VARAŽDIN-PODRUŽNICA JEZERČICA – Konc
- esija za crpljenje mineralnih i termalnih voda (DONJA STUBICA)\n\nProfil o
- pćine: https://koncesijski-sat.vercel.app/#opcina/41942358B5873204091997
+ esija za crpljenje mineralnih i termalnih voda (DONJA STUBICA) · davatelj
+ : MINISTARSTVO ZAŠTITE OKOLIŠA I ZELENE TRANZICIJE\n\nProfil općine: ht
+ tps://koncesijski-sat.vercel.app/#opcina/41942358B5873204091997
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B5873204091997
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -113,16 +117,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-27bfe5645cd3706c@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-5f84710f59bba086@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20301023
 DTEND;VALUE=DATE:20301024
 SUMMARY:Ističe koncesija: LEUŠTEK J.D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 23. 10. 2030. Godišnja fiksna nak
  nada: 4.700 €.\n\n• LEUŠTEK J.D.O.O. – Koncesija za obavljanje dimn
- jačarskih poslova (DONJA STUBICA)\, 4.700 €/god.\n\nProfil općine: htt
- ps://koncesijski-sat.vercel.app/#opcina/41942358B5873204091997\nIzvor: Reg
- istar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ jačarskih poslova (DONJA STUBICA) · davatelj: GRAD DONJA STUBICA\, 4.700
+  €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41
+ 942358B5873204091997\nIzvor: Registar koncesija (FINA)\, obrada Koncesijsk
+ i sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B5873204091997
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -132,8 +137,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-27bfe5645cd3706c@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-5f84710f59bba086@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20300423
 DTEND;VALUE=DATE:20300424
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (LEUŠTEK J.D.O.O
@@ -141,8 +146,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (LEUŠTEK J.D.O.O
 DESCRIPTION:23. 10. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• LEUŠTEK J.D.O.O. – Koncesija za obavljanje dimnjačarskih pos
- lova (DONJA STUBICA)\, 4.700 €/god.\n\nProfil općine: https://koncesijs
- ki-sat.vercel.app/#opcina/41942358B5873204091997
+ lova (DONJA STUBICA) · davatelj: GRAD DONJA STUBICA\, 4.700 €/god.\n\nP
+ rofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B5873204
+ 091997
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B5873204091997
 TRANSP:TRANSPARENT
 BEGIN:VALARM

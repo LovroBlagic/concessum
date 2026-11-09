@@ -4,23 +4,25 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Općina Podstrana
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Podstrana. Iz Re
- gistra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade po
- dataka. https://koncesijski-sat.vercel.app/#opcina/41942358B84751729107979
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Općina Podstrana (pregl
+ ed\, svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježav
+ a se nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#opci
+ na/41942358B84751729107979
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-71f0df07219f9414@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-b9092874141735e1@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20290414
 DTEND;VALUE=DATE:20290415
 SUMMARY:Ističe koncesija: GRAND HOTEL LAV D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 14. 4. 2029. Godišnja fiksna nakn
  ada: 43.840 €.\n\n• GRAND HOTEL LAV D.O.O. – Koncesija na pomorskom 
- dobru (PODSTRANA)\, 43.840 €/god.\n\nProfil općine: https://koncesijski
- -sat.vercel.app/#opcina/41942358B84751729107979\nIzvor: Registar koncesija
-  (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ dobru (PODSTRANA) · davatelj: SPLITSKO-DALMATINSKA ŽUPANIJA\, 43.840 €
+ /god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419423
+ 58B84751729107979\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski s
+ at 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B84751729107979
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -30,8 +32,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-71f0df07219f9414@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-b9092874141735e1@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20281014
 DTEND;VALUE=DATE:20281015
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (GRAND HOTEL LAV 
@@ -39,8 +41,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (GRAND HOTEL LAV
 DESCRIPTION:14. 4. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• GRAND HOTEL LAV D.O.O. – Koncesija na pomorskom dobru (PODSTRAN
- A)\, 43.840 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app
- /#opcina/41942358B84751729107979
+ A) · davatelj: SPLITSKO-DALMATINSKA ŽUPANIJA\, 43.840 €/god.\n\nProfil
+  općine: https://koncesijski-sat.vercel.app/#opcina/41942358B847517291079
+ 79
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B84751729107979
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -51,16 +54,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-0d9242eb5f0fcf90@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-efdf56b3ae3fe57f@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20360904
 DTEND;VALUE=DATE:20360905
 SUMMARY:Ističe koncesija: VODOVOD I KANALIZACIJA  D.O.O.-USLUGE
 DESCRIPTION:1 ugovor o koncesiji ističe 4. 9. 2036. Godišnja fiksna nakna
  da: 830 €.\n\n• VODOVOD I KANALIZACIJA  D.O.O.-USLUGE – Koncesija na
-  pomorskom dobru (PODSTRANA)\, 830 €/god.\n\nProfil općine: https://kon
- cesijski-sat.vercel.app/#opcina/41942358B84751729107979\nIzvor: Registar k
- oncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+  pomorskom dobru (PODSTRANA) · davatelj: SPLITSKO-DALMATINSKA ŽUPANIJA\,
+  830 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcin
+ a/41942358B84751729107979\nIzvor: Registar koncesija (FINA)\, obrada Konce
+ sijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B84751729107979
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -70,8 +74,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-0d9242eb5f0fcf90@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-efdf56b3ae3fe57f@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20360304
 DTEND;VALUE=DATE:20360305
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VODOVOD I KANALI
@@ -79,8 +83,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VODOVOD I KANALI
 DESCRIPTION:4. 9. 2036. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• VODOVOD I KANALIZACIJA  D.O.O.-USLUGE – Koncesija na pomorskom d
- obru (PODSTRANA)\, 830 €/god.\n\nProfil općine: https://koncesijski-sat
- .vercel.app/#opcina/41942358B84751729107979
+ obru (PODSTRANA) · davatelj: SPLITSKO-DALMATINSKA ŽUPANIJA\, 830 €/god
+ .\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B8
+ 4751729107979
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B84751729107979
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -91,8 +96,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-0f11c254a2c4fd0b@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-eb551b994adfadb3@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20420828
 DTEND;VALUE=DATE:20420829
 SUMMARY:Ističe koncesija: VODOVOD I KANALIZACIJA D.O.O. ZA VODOOPSKRBU\, O
@@ -100,9 +105,10 @@ SUMMARY:Ističe koncesija: VODOVOD I KANALIZACIJA D.O.O. ZA VODOOPSKRBU\, O
 DESCRIPTION:1 ugovor o koncesiji ističe 28. 8. 2042. Godišnja fiksna nakn
  ada: 2.775 €.\n\n• VODOVOD I KANALIZACIJA D.O.O. ZA VODOOPSKRBU\, ODVO
  DNJU I PROČIŠĆAVANJE OTPADNIH VODA – Koncesija na pomorskom dobru (PO
- DSTRANA)\, 2.775 €/god.\n\nProfil općine: https://koncesijski-sat.verce
- l.app/#opcina/41942358B84751729107979\nIzvor: Registar koncesija (FINA)\, 
- obrada Koncesijski sat 9. 11. 2026.
+ DSTRANA) · davatelj: SPLITSKO-DALMATINSKA ŽUPANIJA\, 2.775 €/god.\n\nP
+ rofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B8475172
+ 9107979\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 
+ 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B84751729107979
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -113,8 +119,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-0f11c254a2c4fd0b@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-eb551b994adfadb3@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20420228
 DTEND;VALUE=DATE:20420301
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VODOVOD I KANALI
@@ -122,9 +128,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VODOVOD I KANALI
 DESCRIPTION:28. 8. 2042. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• VODOVOD I KANALIZACIJA D.O.O. ZA VODOOPSKRBU\, ODVODNJU I PROČI
- ŠĆAVANJE OTPADNIH VODA – Koncesija na pomorskom dobru (PODSTRANA)\, 2.
- 775 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina
- /41942358B84751729107979
+ ŠĆAVANJE OTPADNIH VODA – Koncesija na pomorskom dobru (PODSTRANA) · d
+ avatelj: SPLITSKO-DALMATINSKA ŽUPANIJA\, 2.775 €/god.\n\nProfil općine
+ : https://koncesijski-sat.vercel.app/#opcina/41942358B84751729107979
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B84751729107979
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -136,8 +142,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-cca0e4cdea90d4c8@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-2295e43b1a668735@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20450309
 DTEND;VALUE=DATE:20450310
 SUMMARY:Ističe koncesija: VODOVOD I KANALIZACIJA D.O.O. ZA VODOOPS KRBU\, 
@@ -145,9 +151,9 @@ SUMMARY:Ističe koncesija: VODOVOD I KANALIZACIJA D.O.O. ZA VODOOPS KRBU\,
 DESCRIPTION:1 ugovor o koncesiji ističe 9. 3. 2045. Godišnja fiksna nakna
  da: 650 €.\n\n• VODOVOD I KANALIZACIJA D.O.O. ZA VODOOPS KRBU\, ODVODN
  JU I PROČIŠĆAVANJE OTPADNIH – Koncesija na pomorskom dobru (PODSTRANA
- )\, 650 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#op
- cina/41942358B84751729107979\nIzvor: Registar koncesija (FINA)\, obrada Ko
- ncesijski sat 9. 11. 2026.
+ ) · davatelj: SPLITSKO-DALMATINSKA ŽUPANIJA\, 650 €/god.\n\nProfil op
+ ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B84751729107979\
+ nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B84751729107979
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -158,8 +164,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-cca0e4cdea90d4c8@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-2295e43b1a668735@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20440909
 DTEND;VALUE=DATE:20440910
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VODOVOD I KANALI
@@ -167,9 +173,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VODOVOD I KANALI
 DESCRIPTION:9. 3. 2045. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• VODOVOD I KANALIZACIJA D.O.O. ZA VODOOPS KRBU\, ODVODNJU I PROČI
- ŠĆAVANJE OTPADNIH – Koncesija na pomorskom dobru (PODSTRANA)\, 650 €
- /god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419423
- 58B84751729107979
+ ŠĆAVANJE OTPADNIH – Koncesija na pomorskom dobru (PODSTRANA) · davate
+ lj: SPLITSKO-DALMATINSKA ŽUPANIJA\, 650 €/god.\n\nProfil općine: https
+ ://koncesijski-sat.vercel.app/#opcina/41942358B84751729107979
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B84751729107979
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -180,16 +186,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-d899c0a266ce47be@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-44f2c22508217812@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20760717
 DTEND;VALUE=DATE:20760718
 SUMMARY:Ističe koncesija: HRVATSKI TELEKOM D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 17. 7. 2076. Godišnja fiksna nakn
  ada: 3.772 €.\n\n• HRVATSKI TELEKOM D.D. – Posebna upotreba pomorsko
- g dobra (PODSTRANA)\, 3.772 €/god.\n\nProfil općine: https://koncesijsk
- i-sat.vercel.app/#opcina/41942358B84751729107979\nIzvor: Registar koncesij
- a (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ g dobra (PODSTRANA) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKT
+ URE\, 3.772 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app
+ /#opcina/41942358B84751729107979\nIzvor: Registar koncesija (FINA)\, obrad
+ a Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B84751729107979
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -199,8 +206,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-d899c0a266ce47be@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-44f2c22508217812@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20760117
 DTEND;VALUE=DATE:20760118
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKI TELEKOM
@@ -208,8 +215,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKI TELEKOM
 DESCRIPTION:17. 7. 2076. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• HRVATSKI TELEKOM D.D. – Posebna upotreba pomorskog dobra (PODST
- RANA)\, 3.772 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.a
- pp/#opcina/41942358B84751729107979
+ RANA) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\, 3.772 
+ €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
+ 42358B84751729107979
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B84751729107979
 TRANSP:TRANSPARENT
 BEGIN:VALARM

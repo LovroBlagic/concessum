@@ -1,0 +1,99 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · GRAD VARAŽDIN
+X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje GRAD VARAŽDIN. Iz Registr
+ a koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podatak
+ a. https://koncesijski-sat.vercel.app/#sat
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-b91005809fe0d251@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20280101
+DTEND;VALUE=DATE:20280102
+SUMMARY:Ističe koncesija: ZAJEDNICA PONUDITELJA DIMAX D.O.O.\, NOSITELJ PO
+ NUDE\, CAMINUS J.D.O.O.\, ČLAN ZAJEDNICE
+DESCRIPTION:1 ugovor o koncesiji ističe 1. 1. 2028. Godišnja fiksna nakna
+ da: 21.599 €.\n\n• ZAJEDNICA PONUDITELJA DIMAX D.O.O.\, NOSITELJ PONUD
+ E\, CAMINUS J.D.O.O.\, ČLAN ZAJEDNICE – Koncesija za obavljanje dimnja
+ čarskih poslova (VARAŽDIN\, Grad Varaždin)\, 21.599 €/god.\n\nŠto is
+ tiče: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija 
+ (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: ZAJEDNICA PONUDITELJA DIMAX D.O.O.\, NOSITEL
+ J PONUDE\, CAMINUS J.D.O.O.\, ČLAN ZAJEDNICE
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-b91005809fe0d251@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20270701
+DTEND;VALUE=DATE:20270702
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ZAJEDNICA PONUDI
+ TELJA DIMAX D.O.O.\, NOSITELJ PONUDE\, CAMINUS J.D.O.O.\, ČLAN ZAJEDNICE)
+DESCRIPTION:1. 1. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodjele
+  treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
+ \n\n• ZAJEDNICA PONUDITELJA DIMAX D.O.O.\, NOSITELJ PONUDE\, CAMINUS J.D
+ .O.O.\, ČLAN ZAJEDNICE – Koncesija za obavljanje dimnjačarskih poslova
+  (VARAŽDIN\, Grad Varaždin)\, 21.599 €/god.\n\nŠto ističe: https://k
+ oncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ZAJEDNICA PO
+ NUDITELJA DIMAX D.O.O.\, NOSITELJ PONUDE\, CAMINUS J.D.O.O.\, ČLAN ZAJEDN
+ ICE)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-58190a13b7c1f6b3@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20371221
+DTEND;VALUE=DATE:20371222
+SUMMARY:Ističe koncesija: BEST IN PARKING - KOM D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 21. 12. 2037. Godišnja fiksna nak
+ nada: 23.160 €.\n\n• BEST IN PARKING - KOM D.O.O. – Koncesija za oba
+ vljanje poslova organizacije i naplate parkiranja (VARAŽDIN\, Grad Varaž
+ din)\, 23.160 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app
+ /#sat\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 20
+ 26.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: BEST IN PARKING - KOM D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-58190a13b7c1f6b3@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20370621
+DTEND;VALUE=DATE:20370622
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BEST IN PARKING 
+ - KOM D.O.O.)
+DESCRIPTION:21. 12. 2037. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• BEST IN PARKING - KOM D.O.O. – Koncesija za obavljanje poslova
+  organizacije i naplate parkiranja (VARAŽDIN\, Grad Varaždin)\, 23.160 
+ €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BEST IN PARK
+ ING - KOM D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

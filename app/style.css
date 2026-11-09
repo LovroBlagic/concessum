@@ -152,11 +152,21 @@ body:not([data-ruta="karta"]) .upute { display: none; }
 
 .gumb-puni { background: var(--naglasak); color: var(--povrsina); border-color: var(--naglasak); }
 .gumb-puni:hover { background: color-mix(in srgb, var(--naglasak) 85%, var(--tekst)); }
-.dijalog { width: min(560px, calc(100vw - 32px)); border: 1px solid var(--rub); border-radius: 12px; padding: 20px 22px; background: var(--povrsina); color: var(--tekst); box-shadow: 0 10px 40px rgba(0,0,0,.25); }
+.dijalog { width: min(560px, calc(100vw - 32px)); max-height: calc(100vh - 32px); overflow-y: auto; border: 1px solid var(--rub); border-radius: 12px; padding: 20px 22px; background: var(--povrsina); color: var(--tekst); box-shadow: 0 10px 40px rgba(0,0,0,.25); }
 .dijalog::backdrop { background: rgba(0,0,0,.4); }
 .dijalog h2 { margin: 0; font-size: 19px; }
 .dijalog-opcina { margin: 2px 0 12px; color: var(--naglasak); font-weight: 600; }
 .dijalog p { margin: 0 0 12px; }
+.pretplata-izbor { border: 0; padding: 0; margin: 0 0 14px; }
+.pretplata-izbor legend { font-size: 13px; font-weight: 600; color: var(--tekst-2); padding: 0; margin-bottom: 6px; }
+#pretplata-opcije { max-height: 220px; overflow-y: auto; border: 1px solid var(--rub); border-radius: 8px; }
+.pretplata-opcija { flex-direction: row; align-items: flex-start; gap: 10px; padding: 8px 12px; border-bottom: 1px solid var(--rub); cursor: pointer; color: var(--tekst); font-size: 14px; font-weight: 400; }
+.pretplata-opcija:last-child { border-bottom: 0; }
+.pretplata-opcija:hover { background: var(--bg); }
+.pretplata-opcija:has(input:checked) { background: color-mix(in srgb, var(--naglasak) 10%, transparent); }
+.pretplata-opcija input { margin-top: 3px; accent-color: var(--naglasak); }
+.pretplata-opcija b { font-weight: 600; display: block; }
+.pretplata-opcija small { color: var(--tekst-2); font-size: 12px; }
 .pretplata-veze { list-style: none; padding: 0; margin: 0 0 16px; display: grid; gap: 8px; }
 .pretplata-veze a { display: block; padding: 9px 12px; border: 1px solid var(--rub); border-radius: 8px; text-decoration: none; font-weight: 500; }
 .pretplata-veze a:hover { background: color-mix(in srgb, var(--naglasak) 10%, transparent); border-color: var(--naglasak); }

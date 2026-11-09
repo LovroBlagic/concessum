@@ -4,25 +4,27 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Općina Petrijevci
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Petrijevci. Iz R
- egistra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade p
- odataka. https://koncesijski-sat.vercel.app/#opcina/41942358B7992413155148
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Općina Petrijevci (preg
+ led\, svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježa
+ va se nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#opc
+ ina/41942358B7992413155148
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-fcde5a116315f54c@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-6d08d580b6e338c3@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20271231
 DTEND;VALUE=DATE:20280101
 SUMMARY:Ističe 2 koncesije · Petrijevci
 DESCRIPTION:2 ugovora o koncesiji ističe 31. 12. 2027. Godišnja fiksna na
  knada: 1.194 €.\n\n• DRAIVA PLUS D.O.O. – Koncesija za obavljanje po
- grebnih poslova (PETRIJEVCI)\, 796 €/god.\n• SAMOSTAL.DIMNJAČARSKA RA
- DNJA TIBORJANCI – Koncesija za obavljanje dimnjačarskih poslova (PETRIJ
- EVCI)\, 398 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app
- /#opcina/41942358B7992413155148\nIzvor: Registar koncesija (FINA)\, obrada
-  Koncesijski sat 9. 11. 2026.
+ grebnih poslova (PETRIJEVCI) · davatelj: OPĆINA PETRIJEVCI\, 796 €/god
+ .\n• SAMOSTAL.DIMNJAČARSKA RADNJA TIBORJANCI – Koncesija za obavljanj
+ e dimnjačarskih poslova (PETRIJEVCI) · davatelj: OPĆINA PETRIJEVCI\, 39
+ 8 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4
+ 1942358B7992413155148\nIzvor: Registar koncesija (FINA)\, obrada Koncesijs
+ ki sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B7992413155148
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -32,37 +34,38 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-fcde5a116315f54c@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-6d08d580b6e338c3@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270630
 DTEND;VALUE=DATE:20270701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Petrijevci
 DESCRIPTION:31. 12. 2027. ističe 2 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• DRAIVA PLUS D.O.O. – Koncesija za obavljanje pogrebnih poslov
- a (PETRIJEVCI)\, 796 €/god.\n• SAMOSTAL.DIMNJAČARSKA RADNJA TIBORJANC
- I – Koncesija za obavljanje dimnjačarskih poslova (PETRIJEVCI)\, 398 
- €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
- 42358B7992413155148
+ a (PETRIJEVCI) · davatelj: OPĆINA PETRIJEVCI\, 796 €/god.\n• SAMOSTA
+ L.DIMNJAČARSKA RADNJA TIBORJANCI – Koncesija za obavljanje dimnjačarsk
+ ih poslova (PETRIJEVCI) · davatelj: OPĆINA PETRIJEVCI\, 398 €/god.\n\n
+ Profil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B799241
+ 3155148
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B7992413155148
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Petrijevci
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-5f5c9137d9d61b7c@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-9f8fd1cb1d462b84@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20330807
 DTEND;VALUE=DATE:20330808
 SUMMARY:Ističe koncesija: HEP - PLIN  D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 7. 8. 2033.\n\n• HEP - PLIN  D.O
- .O. – Koncesija za opskrbu potrošača prirodnim plinom (PETRIJEVCI)\n\n
- Profil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B799241
- 3155148\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 
- 2026.
+ .O. – Koncesija za opskrbu potrošača prirodnim plinom (PETRIJEVCI) · 
+ davatelj: OPĆINA PETRIJEVCI\n\nProfil općine: https://koncesijski-sat.ve
+ rcel.app/#opcina/41942358B7992413155148\nIzvor: Registar koncesija (FINA)\
+ , obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B7992413155148
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -72,8 +75,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-5f5c9137d9d61b7c@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-9f8fd1cb1d462b84@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20330207
 DTEND;VALUE=DATE:20330208
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP - PLIN  D.O.
@@ -81,8 +84,8 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP - PLIN  D.O.
 DESCRIPTION:7. 8. 2033. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• HEP - PLIN  D.O.O. – Koncesija za opskrbu potrošača prirodnim 
- plinom (PETRIJEVCI)\n\nProfil općine: https://koncesijski-sat.vercel.app/
- #opcina/41942358B7992413155148
+ plinom (PETRIJEVCI) · davatelj: OPĆINA PETRIJEVCI\n\nProfil općine: htt
+ ps://koncesijski-sat.vercel.app/#opcina/41942358B7992413155148
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B7992413155148
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -93,17 +96,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-6d6fb2cc4c30dd57@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-99c51544b81e5dbf@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20351231
 DTEND;VALUE=DATE:20360101
 SUMMARY:Ističe koncesija: INA-INDUSTRIJA NAFTE  D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 31. 12. 2035. Godišnja fiksna nak
  nada: 42 €.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauzetu p
- ovršinu odobrenog eksploatacijskog polja (PETRIJEVCI)\, 42 €/god.\n\nPr
- ofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B79924131
- 55148\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 20
- 26.
+ ovršinu odobrenog eksploatacijskog polja (PETRIJEVCI) · davatelj: MINIST
+ ARSTVO GOSPODARSTVA\, 42 €/god.\n\nProfil općine: https://koncesijski-s
+ at.vercel.app/#opcina/41942358B7992413155148\nIzvor: Registar koncesija (F
+ INA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B7992413155148
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -113,8 +116,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-6d6fb2cc4c30dd57@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-99c51544b81e5dbf@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20350630
 DTEND;VALUE=DATE:20350701
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA-INDUSTRIJA N
@@ -122,8 +125,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA-INDUSTRIJA N
 DESCRIPTION:31. 12. 2035. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauzetu površinu od
- obrenog eksploatacijskog polja (PETRIJEVCI)\, 42 €/god.\n\nProfil općin
- e: https://koncesijski-sat.vercel.app/#opcina/41942358B7992413155148
+ obrenog eksploatacijskog polja (PETRIJEVCI) · davatelj: MINISTARSTVO GOSP
+ ODARSTVA\, 42 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.a
+ pp/#opcina/41942358B7992413155148
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B7992413155148
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -134,17 +138,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-93d5303f67fdc819@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-b9bf7acb1b30b1c2@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20370112
 DTEND;VALUE=DATE:20370113
 SUMMARY:Ističe koncesija: PPK VALPOVO  D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 12. 1. 2037. Godišnja fiksna nakn
  ada: 28.050 €.\n\n• PPK VALPOVO  D.D. – Koncesija za korištenje pol
- joprivrednog zemljišta u vlasništvu države (PETRIJEVCI)\, 28.050 €/go
- d.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B
- 7992413155148\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9
- . 11. 2026.
+ joprivrednog zemljišta u vlasništvu države (PETRIJEVCI) · davatelj: OP
+ ĆINA PETRIJEVCI\, 28.050 €/god.\n\nProfil općine: https://koncesijski-
+ sat.vercel.app/#opcina/41942358B7992413155148\nIzvor: Registar koncesija (
+ FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B7992413155148
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -154,8 +158,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-93d5303f67fdc819@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-b9bf7acb1b30b1c2@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20360712
 DTEND;VALUE=DATE:20360713
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PPK VALPOVO  D.D
@@ -163,8 +167,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PPK VALPOVO  D.D
 DESCRIPTION:12. 1. 2037. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• PPK VALPOVO  D.D. – Koncesija za korištenje poljoprivrednog ze
- mljišta u vlasništvu države (PETRIJEVCI)\, 28.050 €/god.\n\nProfil op
- ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B7992413155148
+ mljišta u vlasništvu države (PETRIJEVCI) · davatelj: OPĆINA PETRIJEVC
+ I\, 28.050 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/
+ #opcina/41942358B7992413155148
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B7992413155148
 TRANSP:TRANSPARENT
 BEGIN:VALARM

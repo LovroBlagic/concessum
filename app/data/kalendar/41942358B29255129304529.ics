@@ -4,24 +4,25 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Općina Bilje
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Bilje. Iz Regist
- ra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podata
- ka. https://koncesijski-sat.vercel.app/#opcina/41942358B29255129304529
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Općina Bilje (pregled\,
+  svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježava se
+  nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#opcina/4
+ 1942358B29255129304529
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-ea17cce1cf4bb2ab@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-dc29021fd7add43d@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20360822
 DTEND;VALUE=DATE:20360823
 SUMMARY:Ističe koncesija: BELJE PLUS D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 22. 8. 2036. Godišnja fiksna nakn
  ada: 82.498 €.\n\n• BELJE PLUS D.O.O. – Koncesija za korištenje pol
- joprivrednog zemljišta u vlasništvu države (BILJE)\, 82.498 €/god.\n\
- nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B29255
- 129304529\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11
- . 2026.
+ joprivrednog zemljišta u vlasništvu države (BILJE) · davatelj: OPĆINA
+  BILJE\, 82.498 €/god.\n\nProfil općine: https://koncesijski-sat.vercel
+ .app/#opcina/41942358B29255129304529\nIzvor: Registar koncesija (FINA)\, o
+ brada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B29255129304529
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -31,8 +32,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-ea17cce1cf4bb2ab@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-dc29021fd7add43d@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20360222
 DTEND;VALUE=DATE:20360223
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BELJE PLUS D.O.O
@@ -40,8 +41,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BELJE PLUS D.O.O
 DESCRIPTION:22. 8. 2036. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• BELJE PLUS D.O.O. – Koncesija za korištenje poljoprivrednog ze
- mljišta u vlasništvu države (BILJE)\, 82.498 €/god.\n\nProfil općine
- : https://koncesijski-sat.vercel.app/#opcina/41942358B29255129304529
+ mljišta u vlasništvu države (BILJE) · davatelj: OPĆINA BILJE\, 82.498
+  €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41
+ 942358B29255129304529
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B29255129304529
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -52,16 +54,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-fc314c46e6dcd01e@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-7fb4df9c072c20e3@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20441231
 DTEND;VALUE=DATE:20450101
 SUMMARY:Ističe koncesija: OPG BALOG\, VL. MATIJA BALOG
 DESCRIPTION:1 ugovor o koncesiji ističe 31. 12. 2044. Godišnja fiksna nak
  nada: 41 €.\n\n• OPG BALOG\, VL. MATIJA BALOG – Koncesija za zahvać
- anje voda za melioracijsko navodnjavanje (BILJE)\, 41 €/god.\n\nProfil o
- pćine: https://koncesijski-sat.vercel.app/#opcina/41942358B29255129304529
- \nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ anje voda za melioracijsko navodnjavanje (BILJE) · davatelj: MINISTARSTVO
+  ZAŠTITE OKOLIŠA I ZELENE TRANZICIJE\, 41 €/god.\n\nProfil općine: ht
+ tps://koncesijski-sat.vercel.app/#opcina/41942358B29255129304529\nIzvor: R
+ egistar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B29255129304529
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -71,8 +74,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-fc314c46e6dcd01e@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-7fb4df9c072c20e3@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20440630
 DTEND;VALUE=DATE:20440701
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (OPG BALOG\, VL. 
@@ -80,8 +83,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (OPG BALOG\, VL.
 DESCRIPTION:31. 12. 2044. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• OPG BALOG\, VL. MATIJA BALOG – Koncesija za zahvaćanje voda z
- a melioracijsko navodnjavanje (BILJE)\, 41 €/god.\n\nProfil općine: htt
- ps://koncesijski-sat.vercel.app/#opcina/41942358B29255129304529
+ a melioracijsko navodnjavanje (BILJE) · davatelj: MINISTARSTVO ZAŠTITE O
+ KOLIŠA I ZELENE TRANZICIJE\, 41 €/god.\n\nProfil općine: https://konce
+ sijski-sat.vercel.app/#opcina/41942358B29255129304529
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B29255129304529
 TRANSP:TRANSPARENT
 BEGIN:VALARM

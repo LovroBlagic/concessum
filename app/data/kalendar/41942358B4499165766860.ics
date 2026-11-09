@@ -4,23 +4,25 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Općina Posedarje
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Posedarje. Iz Re
- gistra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade po
- dataka. https://koncesijski-sat.vercel.app/#opcina/41942358B4499165766860
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Općina Posedarje (pregl
+ ed\, svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježav
+ a se nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#opci
+ na/41942358B4499165766860
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-6002470da22093b1@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-3cfeda512d5700c7@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20760717
 DTEND;VALUE=DATE:20760718
 SUMMARY:Ističe koncesija: HRVATSKI TELEKOM D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 17. 7. 2076. Godišnja fiksna nakn
  ada: 550 €.\n\n• HRVATSKI TELEKOM D.D. – Posebna upotreba pomorskog 
- dobra (POSEDARJE)\, 550 €/god.\n\nProfil općine: https://koncesijski-sa
- t.vercel.app/#opcina/41942358B4499165766860\nIzvor: Registar koncesija (FI
- NA)\, obrada Koncesijski sat 9. 11. 2026.
+ dobra (POSEDARJE) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTUR
+ E\, 550 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#op
+ cina/41942358B4499165766860\nIzvor: Registar koncesija (FINA)\, obrada Kon
+ cesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B4499165766860
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -30,8 +32,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-6002470da22093b1@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-3cfeda512d5700c7@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20760117
 DTEND;VALUE=DATE:20760118
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKI TELEKOM
@@ -39,8 +41,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKI TELEKOM
 DESCRIPTION:17. 7. 2076. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• HRVATSKI TELEKOM D.D. – Posebna upotreba pomorskog dobra (POSED
- ARJE)\, 550 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app
- /#opcina/41942358B4499165766860
+ ARJE) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\, 550 €/
+ god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4194235
+ 8B4499165766860
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B4499165766860
 TRANSP:TRANSPARENT
 BEGIN:VALARM

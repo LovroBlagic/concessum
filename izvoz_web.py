@@ -94,12 +94,21 @@ for r in uk:
     ])
 vrste_sektor = [sektor(v) for v in tablice["vrsta"]]
 
+# stabilni ključ davatelja za adresu kalendara: OIB (davatelji su javna tijela), inače sažetak naziva.
+# Indeks u tablici se mijenja pri svakoj obradi, a adresa pretplate mora ostati ista.
+import hashlib
+dav_oib = {}
+for r in uk:
+    dav_oib.setdefault(indeksi["davatelj"].get(r["davatelj"] or ""), (r.get("oib_davatelja") or "").strip())
+dav_kljuc = [dav_oib.get(i) if re.fullmatch(r"\d{11}", dav_oib.get(i) or "") else "n" + hashlib.sha1(n.encode()).hexdigest()[:10]
+             for i, n in enumerate(tablice["davatelj"])]
+
 podaci = dict(
     generirano=date.today().isoformat(),
     sektori=[[k, n] for k, n, _ in SEKTORI],
     vrste=tablice["vrsta"], vrsteSektor=vrste_sektor,
     davatelji=tablice["davatelj"], koncesionari=tablice["koncesionar"],
-    opcine=tablice["opcina"],
+    opcine=tablice["opcina"], davateljiKal=dav_kljuc,
     stupci=["davatelj", "koncesionar", "vrsta", "opcina", "od", "do", "nastavak", "lokacija", "naknada"],
     ugovori=redci,
 )
@@ -127,7 +136,8 @@ with open(os.path.join(OUT, "koncesije.csv"), "w", encoding="utf-8-sig", newline
 # Službenik se jednom pretplati (webcal://…/data/kalendar/<shapeID>.ics); kalendar sam povlači nove rokove
 # nakon svake obrade. Ugovori koji ističu istog dana grupiraju se u jedan događaj, a 6 mjeseci prije svakog
 # datuma dodaje se događaj „pripremiti postupak“ (Google kalendar u pretplatama ne prenosi podsjetnike).
-import calendar, hashlib, shutil
+import calendar, shutil
+from collections import Counter
 from datetime import datetime, timezone
 WEB = "https://koncesijski-sat.vercel.app"
 KAL = os.path.join(OUT, "kalendar")
@@ -171,50 +181,68 @@ def dogadaj(uid, dan, naslov, opis, url):
             "END:VEVENT"]
 
 from datetime import timedelta
-po_opc_dat = {}
-for x in redci:
-    if x[3] < 0:
-        continue
-    do = date.fromisoformat(x[5])
-    if do < DANAS:
-        continue
-    po_opc_dat.setdefault(tablice["opcina"][x[3]], {}).setdefault(do, []).append(x)
+UKUPNO = {"kalendara": 0, "dogadaja": 0}
 
-kalendara = dogadaja = 0
-for oid, po_dat in po_opc_dat.items():
-    naziv = naziv_opc.get(oid, oid)
-    url = f"{WEB}/#opcina/{oid}"
+def zapisi_kalendar(put, naziv, opis_kal, po_dat, url, url_opis, kratko, stavka):
+    """Jedan feed: ugovori istog datuma grupirani u događaj + „pripremiti postupak“ 6 mj. ranije."""
     redovi = ["BEGIN:VCALENDAR", "VERSION:2.0", "PRODID:-//Koncesijski sat//HR", "CALSCALE:GREGORIAN", "METHOD:PUBLISH",
               f"X-WR-CALNAME:{ics_tekst('Rokovi koncesija · ' + naziv)}",
-              f"X-WR-CALDESC:{ics_tekst('Rokovi isteka ugovora o koncesiji – ' + naziv + '. Iz Registra koncesija (FINA, data.gov.hr). Osvježava se nakon svake obrade podataka. ' + url)}",
+              f"X-WR-CALDESC:{ics_tekst(opis_kal + ' Iz Registra koncesija (FINA, data.gov.hr). Osvježava se nakon svake obrade podataka. ' + url)}",
               "X-WR-TIMEZONE:Europe/Zagreb", "REFRESH-INTERVAL;VALUE=DURATION:P1D", "X-PUBLISHED-TTL:P1D"]
     for dan, lista in sorted(po_dat.items()):
         lista.sort(key=lambda x: -(x[8] or 0))
         n, nak = len(lista), sum(x[8] or 0 for x in lista)
-        stavke = [f"• {tablice['koncesionar'][x[1]]} – {tablice['vrsta'][x[2]]} ({x[7]})" + (f", {eur(x[8])}/god." if x[8] else "")
-                  for x in lista[:40]]
+        stavke = [stavka(x) + (f", {eur(x[8])}/god." if x[8] else "") for x in lista[:40]]
         if n > 40:
             stavke.append(f"… i još {n - 40} (cijeli popis u aplikaciji)")
-        kljuc = hashlib.sha1(f"{oid}|{dan}".encode()).hexdigest()[:16]
+        kljuc = hashlib.sha1(f"{put}|{dan}".encode()).hexdigest()[:16]
         prvi = tablice["koncesionar"][lista[0][1]]
-        naslov = f"Ističe koncesija: {prvi}" if n == 1 else f"Ističe {n} {kon(n)} · {naziv.replace('Grad ', '').replace('Općina ', '')}"
+        naslov = f"Ističe koncesija: {prvi}" if n == 1 else f"Ističe {n} {kon(n)} · {kratko}"
         opis = (f"{n} {ugo(n)} o koncesiji ističe {dan.day}. {dan.month}. {dan.year}." +
                 (f" Godišnja fiksna naknada: {eur(nak)}." if nak else "") + "\n\n" + "\n".join(stavke) +
-                f"\n\nProfil općine: {url}\nIzvor: Registar koncesija (FINA), obrada Koncesijski sat {DANAS.day}. {DANAS.month}. {DANAS.year}.")
-        redovi += dogadaj("istek-" + kljuc, dan, naslov, opis, url); dogadaja += 1
+                f"\n\n{url_opis}: {url}\nIzvor: Registar koncesija (FINA), obrada Koncesijski sat {DANAS.day}. {DANAS.month}. {DANAS.year}.")
+        redovi += dogadaj("istek-" + kljuc, dan, naslov, opis, url); UKUPNO["dogadaja"] += 1
         prip = minus_mj(dan, 6)
         if prip >= DANAS:
             redovi += dogadaj("priprema-" + kljuc, prip,
-                              f"Pripremiti postupak: za 6 mj. ističe {n} {kon(n)}" + (f" ({prvi})" if n == 1 else ""),
+                              f"Pripremiti postupak: za 6 mj. ističe {n} {kon(n)}" + (f" ({prvi})" if n == 1 else f" · {kratko}"),
                               f"{dan.day}. {dan.month}. {dan.year}. ističe {n} {ugo(n)} o koncesiji. "
                               "Novi postupak dodjele treba pokrenuti na vrijeme, da prostor ili usluga ne ostanu bez ugovora.\n\n" +
-                              "\n".join(stavke) + f"\n\nProfil općine: {url}", url)
-            dogadaja += 1
+                              "\n".join(stavke) + f"\n\n{url_opis}: {url}", url)
+            UKUPNO["dogadaja"] += 1
     redovi.append("END:VCALENDAR")
-    with open(os.path.join(KAL, oid + ".ics"), "w", encoding="utf-8", newline="") as f:
+    os.makedirs(os.path.dirname(put), exist_ok=True)
+    with open(put, "w", encoding="utf-8", newline="") as f:
         f.write("\r\n".join(presavij(r) for r in redovi) + "\r\n")
-    kalendara += 1
-print(f"kalendara: {kalendara}, događaja: {dogadaja}")
+    UKUPNO["kalendara"] += 1
+
+buduci = [x for x in redci if date.fromisoformat(x[5]) >= DANAS]
+kon_ = lambda x: tablice["koncesionar"][x[1]]
+vrs_ = lambda x: tablice["vrsta"][x[2]]
+
+# 1) po općini – pregled svih ugovora na području, s davateljem uz svaki
+po_opc = {}
+for x in buduci:
+    if x[3] >= 0:
+        po_opc.setdefault(tablice["opcina"][x[3]], {}).setdefault(date.fromisoformat(x[5]), []).append(x)
+for oid, po_dat in po_opc.items():
+    naziv = naziv_opc.get(oid, oid)
+    zapisi_kalendar(os.path.join(KAL, oid + ".ics"), naziv, f"Svi ugovori o koncesiji na području: {naziv} (pregled, svi davatelji).",
+                    po_dat, f"{WEB}/#opcina/{oid}", "Profil općine", naziv.replace("Grad ", "").replace("Općina ", ""),
+                    lambda x: f"• {kon_(x)} – {vrs_(x)} ({x[7]}) · davatelj: {tablice['davatelj'][x[0]]}")
+n_opc = UKUPNO["kalendara"]
+
+# 2) po davatelju – „moji ugovori“: sve što davatelj dodjeljuje, na svim lokacijama
+po_dav = {}
+for x in buduci:
+    po_dav.setdefault(dav_kljuc[x[0]], {}).setdefault(date.fromisoformat(x[5]), []).append(x)
+for kl, po_dat in po_dav.items():
+    imena = Counter(tablice["davatelj"][x[0]] for l in po_dat.values() for x in l)
+    naziv = imena.most_common(1)[0][0]
+    zapisi_kalendar(os.path.join(KAL, "davatelj", kl + ".ics"), naziv, f"Ugovori o koncesiji koje dodjeljuje {naziv}.",
+                    po_dat, f"{WEB}/#sat", "Što ističe", naziv,
+                    lambda x: f"• {kon_(x)} – {vrs_(x)} ({x[7]}{', ' + naziv_opc[tablice['opcina'][x[3]]] if x[3] >= 0 and tablice['opcina'][x[3]] in naziv_opc else ''})")
+print(f"kalendara: {n_opc} po općini + {UKUPNO['kalendara'] - n_opc} po davatelju, događaja: {UKUPNO['dogadaja']}")
 
 # ---------- granice ----------
 def dp(pts, tol):

@@ -1,0 +1,100 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · OPĆINA VELIKA KOPANICA
+X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje OPĆINA VELIKA KOPANICA. I
+ z Registra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrad
+ e podataka. https://koncesijski-sat.vercel.app/#sat
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-b6c36e193b2d4c9d@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20321231
+DTEND;VALUE=DATE:20330101
+SUMMARY:Ističe koncesija: MULL-TRANS D.O.O. ZA PRIJEVOZ\, ŠPEDICIJU\, TRG
+ OVINU I ZASTUPANJE
+DESCRIPTION:1 ugovor o koncesiji ističe 31. 12. 2032. Godišnja fiksna nak
+ nada: 4.247 €.\n\n• MULL-TRANS D.O.O. ZA PRIJEVOZ\, ŠPEDICIJU\, TRGOV
+ INU I ZASTUPANJE – Koncesija za obavljanje komunalne djelatnosti skuplja
+ nja\, odvoza\, obrade\, održavanje čistoće i odlaganje komunal. i indus
+ trijskog otpada (VELIKA KOPANICA\, Općina Velika Kopanica)\, 4.247 €/go
+ d.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Regist
+ ar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: MULL-TRANS D.O.O. ZA PRIJEVOZ\, ŠPEDICIJU\,
+  TRGOVINU I ZASTUPANJE
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-b6c36e193b2d4c9d@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20320630
+DTEND;VALUE=DATE:20320701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MULL-TRANS D.O.O
+ . ZA PRIJEVOZ\, ŠPEDICIJU\, TRGOVINU I ZASTUPANJE)
+DESCRIPTION:31. 12. 2032. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• MULL-TRANS D.O.O. ZA PRIJEVOZ\, ŠPEDICIJU\, TRGOVINU I ZASTUPAN
+ JE – Koncesija za obavljanje komunalne djelatnosti skupljanja\, odvoza\,
+  obrade\, održavanje čistoće i odlaganje komunal. i industrijskog otpad
+ a (VELIKA KOPANICA\, Općina Velika Kopanica)\, 4.247 €/god.\n\nŠto ist
+ iče: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MULL-TRANS D
+ .O.O. ZA PRIJEVOZ\, ŠPEDICIJU\, TRGOVINU I ZASTUPANJE)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-e8769ac315757e5d@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20390312
+DTEND;VALUE=DATE:20390313
+SUMMARY:Ističe koncesija: AGRO - KADIĆ DOO
+DESCRIPTION:1 ugovor o koncesiji ističe 12. 3. 2039. Godišnja fiksna nakn
+ ada: 883 €.\n\n• AGRO - KADIĆ DOO – Koncesija za korištenje poljop
+ rivrednog zemljišta u vlasništvu države (VELIKA KOPANICA\, Općina Veli
+ ka Kopanica)\, 883 €/god.\n\nŠto ističe: https://koncesijski-sat.verce
+ l.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 1
+ 1. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: AGRO - KADIĆ DOO
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-e8769ac315757e5d@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20380912
+DTEND;VALUE=DATE:20380913
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (AGRO - KADIĆ DO
+ O)
+DESCRIPTION:12. 3. 2039. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• AGRO - KADIĆ DOO – Koncesija za korištenje poljoprivrednog ze
+ mljišta u vlasništvu države (VELIKA KOPANICA\, Općina Velika Kopanica)
+ \, 883 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (AGRO - KADI
+ Ć DOO)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

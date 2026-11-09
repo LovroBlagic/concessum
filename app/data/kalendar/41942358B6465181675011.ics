@@ -4,24 +4,25 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Općina Brodski Stupnik
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Brodski Stupnik.
-  Iz Registra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obr
- ade podataka. https://koncesijski-sat.vercel.app/#opcina/41942358B64651816
- 75011
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Općina Brodski Stupnik 
+ (pregled\, svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osv
+ ježava se nakon svake obrade podataka. https://koncesijski-sat.vercel.app
+ /#opcina/41942358B6465181675011
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-4a709975c16f22d8@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-4143265de1aa64d3@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20290801
 DTEND;VALUE=DATE:20290802
 SUMMARY:Ističe koncesija: ITELYUM INTEGRA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 1. 8. 2029. Godišnja fiksna nakna
  da: 2.000 €.\n\n• ITELYUM INTEGRA D.O.O. – Koncesija skupljanja i od
- voza komunalnog otpada (BRODSKI STUPNIK)\, 2.000 €/god.\n\nProfil općin
- e: https://koncesijski-sat.vercel.app/#opcina/41942358B6465181675011\nIzvo
- r: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ voza komunalnog otpada (BRODSKI STUPNIK) · davatelj: OPĆINA BRODSKI STUP
+ NIK\, 2.000 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app
+ /#opcina/41942358B6465181675011\nIzvor: Registar koncesija (FINA)\, obrada
+  Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B6465181675011
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -31,8 +32,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-4a709975c16f22d8@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-4143265de1aa64d3@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20290201
 DTEND;VALUE=DATE:20290202
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ITELYUM INTEGRA 
@@ -40,8 +41,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ITELYUM INTEGRA
 DESCRIPTION:1. 8. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• ITELYUM INTEGRA D.O.O. – Koncesija skupljanja i odvoza komunalno
- g otpada (BRODSKI STUPNIK)\, 2.000 €/god.\n\nProfil općine: https://kon
- cesijski-sat.vercel.app/#opcina/41942358B6465181675011
+ g otpada (BRODSKI STUPNIK) · davatelj: OPĆINA BRODSKI STUPNIK\, 2.000 
+ €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
+ 42358B6465181675011
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B6465181675011
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -52,17 +54,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-36b62a97df848c9a@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-34cf14bacfb20c9e@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20360905
 DTEND;VALUE=DATE:20360906
 SUMMARY:Ističe koncesija: EURO-TIM D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 5. 9. 2036. Godišnja fiksna nakna
  da: 35.336 €.\n\n• EURO-TIM D.O.O. – Koncesija za korištenje poljop
- rivrednog zemljišta u vlasništvu države (BRODSKI STUPNIK)\, 35.336 €/
- god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4194235
- 8B6465181675011\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat
-  9. 11. 2026.
+ rivrednog zemljišta u vlasništvu države (BRODSKI STUPNIK) · davatelj: 
+ OPĆINA BRODSKI STUPNIK\, 35.336 €/god.\n\nProfil općine: https://konce
+ sijski-sat.vercel.app/#opcina/41942358B6465181675011\nIzvor: Registar konc
+ esija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B6465181675011
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -72,16 +74,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-36b62a97df848c9a@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-34cf14bacfb20c9e@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20360305
 DTEND;VALUE=DATE:20360306
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (EURO-TIM D.O.O.)
 DESCRIPTION:5. 9. 2036. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• EURO-TIM D.O.O. – Koncesija za korištenje poljoprivrednog zemlj
- išta u vlasništvu države (BRODSKI STUPNIK)\, 35.336 €/god.\n\nProfil 
- općine: https://koncesijski-sat.vercel.app/#opcina/41942358B6465181675011
+ išta u vlasništvu države (BRODSKI STUPNIK) · davatelj: OPĆINA BRODSKI
+  STUPNIK\, 35.336 €/god.\n\nProfil općine: https://koncesijski-sat.verc
+ el.app/#opcina/41942358B6465181675011
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B6465181675011
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -92,17 +95,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-5e631955344fa531@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-1c244f2174a12c84@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20550626
 DTEND;VALUE=DATE:20550627
 SUMMARY:Ističe koncesija: ASPECT CROATIA KFT. - PODRUŽNICA ZAGREB
 DESCRIPTION:1 ugovor o koncesiji ističe 26. 6. 2055. Godišnja fiksna nakn
  ada: 3.073 €.\n\n• ASPECT CROATIA KFT. - PODRUŽNICA ZAGREB – Dozvol
  a za istraživanje ugljikovodika (prema Zakonu o ugljikovodicima) (BRODSKI
-  STUPNIK)\, 3.073 €/god.\n\nProfil općine: https://koncesijski-sat.verc
- el.app/#opcina/41942358B6465181675011\nIzvor: Registar koncesija (FINA)\, 
- obrada Koncesijski sat 9. 11. 2026.
+  STUPNIK) · davatelj: MINISTARSTVO GOSPODARSTVA\, 3.073 €/god.\n\nProfi
+ l općine: https://koncesijski-sat.vercel.app/#opcina/41942358B64651816750
+ 11\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B6465181675011
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -112,8 +115,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-5e631955344fa531@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-1c244f2174a12c84@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20541226
 DTEND;VALUE=DATE:20541227
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ASPECT CROATIA K
@@ -121,9 +124,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ASPECT CROATIA K
 DESCRIPTION:26. 6. 2055. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• ASPECT CROATIA KFT. - PODRUŽNICA ZAGREB – Dozvola za istraživ
- anje ugljikovodika (prema Zakonu o ugljikovodicima) (BRODSKI STUPNIK)\, 3.
- 073 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina
- /41942358B6465181675011
+ anje ugljikovodika (prema Zakonu o ugljikovodicima) (BRODSKI STUPNIK) · d
+ avatelj: MINISTARSTVO GOSPODARSTVA\, 3.073 €/god.\n\nProfil općine: htt
+ ps://koncesijski-sat.vercel.app/#opcina/41942358B6465181675011
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B6465181675011
 TRANSP:TRANSPARENT
 BEGIN:VALARM

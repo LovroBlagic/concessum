@@ -1,0 +1,162 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · ŽUPANIJSKA LUČKA UPRAVA BAKAR-KRALJEVICA
+ -KOSTRENA
+X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje ŽUPANIJSKA LUČKA UPRAVA 
+ BAKAR-KRALJEVICA-KOSTRENA. Iz Registra koncesija (FINA\, data.gov.hr). Osv
+ ježava se nakon svake obrade podataka. https://koncesijski-sat.vercel.app
+ /#sat
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-be80ceaf7ebdc95f@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20270118
+DTEND;VALUE=DATE:20270119
+SUMMARY:Ističe koncesija: A.ŽEŽELIĆ\, UGOSTITELJSKI OBRT SIDRO
+DESCRIPTION:1 ugovor o koncesiji ističe 18. 1. 2027. Godišnja fiksna nakn
+ ada: 4.655 €.\n\n• A.ŽEŽELIĆ\, UGOSTITELJSKI OBRT SIDRO – Koncesi
+ ja za luku (KRALJEVICA\, Grad Kraljevica)\, 4.655 €/god.\n\nŠto ističe
+ : https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA
+ )\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: A.ŽEŽELIĆ\, UGOSTITELJSKI OBRT SIDRO
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-4e53048f4bd33c8c@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20271014
+DTEND;VALUE=DATE:20271015
+SUMMARY:Ističe 2 koncesije · ŽUPANIJSKA LUČKA UPRAVA BAKAR-KRALJEVICA-K
+ OSTRENA
+DESCRIPTION:2 ugovora o koncesiji ističe 14. 10. 2027. Godišnja fiksna na
+ knada: 530 €.\n\n• DEZINSEKCIJA\, D. O. O. – Koncesija pomorskog dob
+ ra u svrhu gospodarskog korištenja luke (BAKAR\, Grad Bakar)\, 265 €/go
+ d.\n• DEZINSEKCIJA\, D. O. O. – Koncesija pomorskog dobra u svrhu gosp
+ odarskog korištenja luke (BAKAR\, Grad Bakar)\, 265 €/god.\n\nŠto isti
+ če: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (F
+ INA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 2 koncesije · ŽUPANIJSKA LUČKA UPRAVA BAKAR-KRALJEVI
+ CA-KOSTRENA
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-4e53048f4bd33c8c@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20270414
+DTEND;VALUE=DATE:20270415
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · ŽUPANIJSKA LU
+ ČKA UPRAVA BAKAR-KRALJEVICA-KOSTRENA
+DESCRIPTION:14. 10. 2027. ističe 2 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• DEZINSEKCIJA\, D. O. O. – Koncesija pomorskog dobra u svrhu g
+ ospodarskog korištenja luke (BAKAR\, Grad Bakar)\, 265 €/god.\n• DEZI
+ NSEKCIJA\, D. O. O. – Koncesija pomorskog dobra u svrhu gospodarskog kor
+ ištenja luke (BAKAR\, Grad Bakar)\, 265 €/god.\n\nŠto ističe: https:/
+ /koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije · ŽUPANIJSK
+ A LUČKA UPRAVA BAKAR-KRALJEVICA-KOSTRENA
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-fea93e87b81e4811@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20290101
+DTEND;VALUE=DATE:20290102
+SUMMARY:Ističe koncesija: UGOSTITELJSKI OBRT VAL\, VL. IVAN ZEC
+DESCRIPTION:1 ugovor o koncesiji ističe 1. 1. 2029. Godišnja fiksna nakna
+ da: 2.256 €.\n\n• UGOSTITELJSKI OBRT VAL\, VL. IVAN ZEC – Koncesija 
+ za obavljanje ugostiteljske djelatnosti na lučkom području (KOSTRENA\, O
+ pćina Kostrena)\, 2.256 €/god.\n\nŠto ističe: https://koncesijski-sat
+ .vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sa
+ t 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: UGOSTITELJSKI OBRT VAL\, VL. IVAN ZEC
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-fea93e87b81e4811@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20280701
+DTEND;VALUE=DATE:20280702
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (UGOSTITELJSKI OB
+ RT VAL\, VL. IVAN ZEC)
+DESCRIPTION:1. 1. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjele
+  treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
+ \n\n• UGOSTITELJSKI OBRT VAL\, VL. IVAN ZEC – Koncesija za obavljanje 
+ ugostiteljske djelatnosti na lučkom području (KOSTRENA\, Općina Kostren
+ a)\, 2.256 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#s
+ at
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (UGOSTITELJSK
+ I OBRT VAL\, VL. IVAN ZEC)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-ba53d842f55b4592@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20421024
+DTEND;VALUE=DATE:20421025
+SUMMARY:Ističe koncesija: SKYDEAL MARIN D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 24. 10. 2042. Godišnja fiksna nak
+ nada: 8.344 €.\n\n• SKYDEAL MARIN D.O.O. – Koncesija za luku (KRALJE
+ VICA\, Grad Kraljevica)\, 8.344 €/god.\n\nŠto ističe: https://koncesij
+ ski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Koncesi
+ jski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: SKYDEAL MARIN D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-ba53d842f55b4592@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20420424
+DTEND;VALUE=DATE:20420425
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (SKYDEAL MARIN D.
+ O.O.)
+DESCRIPTION:24. 10. 2042. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• SKYDEAL MARIN D.O.O. – Koncesija za luku (KRALJEVICA\, Grad Kr
+ aljevica)\, 8.344 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel
+ .app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (SKYDEAL MARI
+ N D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

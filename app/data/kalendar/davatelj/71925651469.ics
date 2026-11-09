@@ -1,0 +1,101 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · ŽUPANIJSKA LUČKA UPRAVA POREČ - AUTORIT
+ A PORTUALE REGIONALE DI PARENZO
+X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje ŽUPANIJSKA LUČKA UPRAVA 
+ POREČ - AUTORITA PORTUALE REGIONALE DI PARENZO. Iz Registra koncesija (FI
+ NA\, data.gov.hr). Osvježava se nakon svake obrade podataka. https://konc
+ esijski-sat.vercel.app/#sat
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-ff3ff7d9b483252d@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20360102
+DTEND;VALUE=DATE:20360103
+SUMMARY:Ističe koncesija: INA-INDUSTRIJA NAFTE  D.D.
+DESCRIPTION:1 ugovor o koncesiji ističe 2. 1. 2036. Godišnja fiksna nakna
+ da: 3.000 €.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija na pomorsko
+ m dobru (POREČ - PARENZO\, Grad Poreč)\, 3.000 €/god.\n\nŠto ističe:
+  https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)
+ \, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: INA-INDUSTRIJA NAFTE  D.D.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-ff3ff7d9b483252d@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20350702
+DTEND;VALUE=DATE:20350703
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA-INDUSTRIJA N
+ AFTE  D.D.)
+DESCRIPTION:2. 1. 2036. ističe 1 ugovor o koncesiji. Novi postupak dodjele
+  treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
+ \n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija na pomorskom dobru (PORE
+ Č - PARENZO\, Grad Poreč)\, 3.000 €/god.\n\nŠto ističe: https://konc
+ esijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA-INDUSTRI
+ JA NAFTE  D.D.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-93b97d69a4700111@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20360623
+DTEND;VALUE=DATE:20360624
+SUMMARY:Ističe koncesija: PETROL DRUŠTVO S OGRANIČENOM ODGOVORNOŠĆU ZA
+  TRGOVINU I PRIJEVOZ NAFTE I NAFTNIH DERIVATA
+DESCRIPTION:1 ugovor o koncesiji ističe 23. 6. 2036. Godišnja fiksna nakn
+ ada: 3.500 €.\n\n• PETROL DRUŠTVO S OGRANIČENOM ODGOVORNOŠĆU ZA TR
+ GOVINU I PRIJEVOZ NAFTE I NAFTNIH DERIVATA – Koncesija na pomorskom dobr
+ u (VRSAR - ORSERA\, Općina Vrsar)\, 3.500 €/god.\n\nŠto ističe: https
+ ://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obr
+ ada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: PETROL DRUŠTVO S OGRANIČENOM ODGOVORNOŠĆ
+ U ZA TRGOVINU I PRIJEVOZ NAFTE I NAFTNIH DERIVATA
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-93b97d69a4700111@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20351223
+DTEND;VALUE=DATE:20351224
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PETROL DRUŠTVO 
+ S OGRANIČENOM ODGOVORNOŠĆU ZA TRGOVINU I PRIJEVOZ NAFTE I NAFTNIH DERIV
+ ATA)
+DESCRIPTION:23. 6. 2036. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• PETROL DRUŠTVO S OGRANIČENOM ODGOVORNOŠĆU ZA TRGOVINU I PRIJE
+ VOZ NAFTE I NAFTNIH DERIVATA – Koncesija na pomorskom dobru (VRSAR - ORS
+ ERA\, Općina Vrsar)\, 3.500 €/god.\n\nŠto ističe: https://koncesijski
+ -sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PETROL DRUŠ
+ TVO S OGRANIČENOM ODGOVORNOŠĆU ZA TRGOVINU I PRIJEVOZ NAFTE I NAFTNIH D
+ ERIVATA)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

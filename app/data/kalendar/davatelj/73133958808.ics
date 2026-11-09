@@ -1,0 +1,95 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · OPĆINA PRIVLAKA
+X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje OPĆINA PRIVLAKA. Iz Regis
+ tra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podat
+ aka. https://koncesijski-sat.vercel.app/#sat
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-f042ad51b7a4e2d9@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20280210
+DTEND;VALUE=DATE:20280211
+SUMMARY:Ističe koncesija: NEVKOŠ D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 10. 2. 2028. Godišnja fiksna nakn
+ ada: 3.500 €.\n\n• NEVKOŠ D.O.O. – Koncesija skupljanja i odvoza ko
+ munalnog otpada (PRIVLAKA\, Općina Privlaka)\, 3.500 €/god.\n\nŠto ist
+ iče: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (
+ FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: NEVKOŠ D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-f042ad51b7a4e2d9@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20270810
+DTEND;VALUE=DATE:20270811
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (NEVKOŠ D.O.O.)
+DESCRIPTION:10. 2. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• NEVKOŠ D.O.O. – Koncesija skupljanja i odvoza komunalnog otpad
+ a (PRIVLAKA\, Općina Privlaka)\, 3.500 €/god.\n\nŠto ističe: https://
+ koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (NEVKOŠ D.O.
+ O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-c35e631fb4b66346@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20300316
+DTEND;VALUE=DATE:20300317
+SUMMARY:Ističe koncesija: DIMNJAČARSKO-USLUŽNI OBRT EKO-DIM\, VL. HRVOJE
+  HORVAT
+DESCRIPTION:1 ugovor o koncesiji ističe 16. 3. 2030. Godišnja fiksna nakn
+ ada: 600 €.\n\n• DIMNJAČARSKO-USLUŽNI OBRT EKO-DIM\, VL. HRVOJE HORV
+ AT – Koncesija za obavljanje dimnjačarskih poslova (PRIVLAKA\, Općina 
+ Privlaka)\, 600 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.a
+ pp/#sat\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 
+ 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: DIMNJAČARSKO-USLUŽNI OBRT EKO-DIM\, VL. HR
+ VOJE HORVAT
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-c35e631fb4b66346@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20290916
+DTEND;VALUE=DATE:20290917
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DIMNJAČARSKO-US
+ LUŽNI OBRT EKO-DIM\, VL. HRVOJE HORVAT)
+DESCRIPTION:16. 3. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• DIMNJAČARSKO-USLUŽNI OBRT EKO-DIM\, VL. HRVOJE HORVAT – Konce
+ sija za obavljanje dimnjačarskih poslova (PRIVLAKA\, Općina Privlaka)\, 
+ 600 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DIMNJAČARSK
+ O-USLUŽNI OBRT EKO-DIM\, VL. HRVOJE HORVAT)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

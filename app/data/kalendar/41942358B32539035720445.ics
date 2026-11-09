@@ -4,24 +4,26 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Grad Supetar
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Grad Supetar. Iz Registr
- a koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podatak
- a. https://koncesijski-sat.vercel.app/#opcina/41942358B32539035720445
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Grad Supetar (pregled\, 
+ svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježava se 
+ nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#opcina/41
+ 942358B32539035720445
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-7fc279c786aaf8ef@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-99843a45b6fe4332@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270531
 DTEND;VALUE=DATE:20270601
 SUMMARY:Ističe 2 koncesije · Supetar
 DESCRIPTION:2 ugovora o koncesiji ističe 31. 5. 2027. Godišnja fiksna nak
- nada: 1.000 €.\n\n• KD GRAD D.O.O. – Koncesija za luku (SUPETAR)\, 5
- 00 €/god.\n• KD GRAD D.O.O. – Koncesija za luku (SUPETAR)\, 500 €/
- god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4194235
- 8B32539035720445\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sa
- t 9. 11. 2026.
+ nada: 1.000 €.\n\n• KD GRAD D.O.O. – Koncesija za luku (SUPETAR) · 
+ davatelj: LUČKA UPRAVA SPLITSKO-DALMATINSKE ŽUPANIJE\, 500 €/god.\n•
+  KD GRAD D.O.O. – Koncesija za luku (SUPETAR) · davatelj: LUČKA UPRAVA
+  SPLITSKO-DALMATINSKE ŽUPANIJE\, 500 €/god.\n\nProfil općine: https://
+ koncesijski-sat.vercel.app/#opcina/41942358B32539035720445\nIzvor: Regista
+ r koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B32539035720445
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -31,39 +33,42 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-7fc279c786aaf8ef@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-99843a45b6fe4332@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Supetar
 DESCRIPTION:31. 5. 2027. ističe 2 ugovora o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
- a.\n\n• KD GRAD D.O.O. – Koncesija za luku (SUPETAR)\, 500 €/god.\n
- • KD GRAD D.O.O. – Koncesija za luku (SUPETAR)\, 500 €/god.\n\nProfi
- l općine: https://koncesijski-sat.vercel.app/#opcina/41942358B32539035720
- 445
+ a.\n\n• KD GRAD D.O.O. – Koncesija za luku (SUPETAR) · davatelj: LUČ
+ KA UPRAVA SPLITSKO-DALMATINSKE ŽUPANIJE\, 500 €/god.\n• KD GRAD D.O.O
+ . – Koncesija za luku (SUPETAR) · davatelj: LUČKA UPRAVA SPLITSKO-DALM
+ ATINSKE ŽUPANIJE\, 500 €/god.\n\nProfil općine: https://koncesijski-sa
+ t.vercel.app/#opcina/41942358B32539035720445
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B32539035720445
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Supetar
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-64efcf1fb725fc09@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-c8d2d69cea3f3b0a@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20431231
 DTEND;VALUE=DATE:20440101
 SUMMARY:Ističe 3 koncesije · Supetar
 DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2043. Godišnja fiksna na
  knada: 2.772 €.\n\n• JADRANKAMEN D.O.O. – Koncesija za površinu utv
  rđenog eksploatacijskog polja neenergetskih mineralnih sirovina (SUPETAR)
- \, 2.772 €/god.\n• JADRANKAMEN D.O.O. – Koncesija za eksploataciju a
- rhitektonsko-građevnog kamena (SUPETAR)\n• JADRANKAMEN D.O.O. – Konce
- sija za eksploataciju arhitektonsko-građevnog kamena (SUPETAR)\n\nProfil 
- općine: https://koncesijski-sat.vercel.app/#opcina/41942358B3253903572044
- 5\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+  · davatelj: MINISTARSTVO GOSPODARSTVA\, 2.772 €/god.\n• JADRANKAMEN 
+ D.O.O. – Koncesija za eksploataciju arhitektonsko-građevnog kamena (SUP
+ ETAR) · davatelj: MINISTARSTVO GOSPODARSTVA\n• JADRANKAMEN D.O.O. – K
+ oncesija za eksploataciju arhitektonsko-građevnog kamena (SUPETAR) · dav
+ atelj: MINISTARSTVO GOSPODARSTVA\n\nProfil općine: https://koncesijski-sa
+ t.vercel.app/#opcina/41942358B32539035720445\nIzvor: Registar koncesija (F
+ INA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B32539035720445
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -73,38 +78,41 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-64efcf1fb725fc09@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-c8d2d69cea3f3b0a@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20430630
 DTEND;VALUE=DATE:20430701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Supetar
 DESCRIPTION:31. 12. 2043. ističe 3 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• JADRANKAMEN D.O.O. – Koncesija za površinu utvrđenog eksplo
- atacijskog polja neenergetskih mineralnih sirovina (SUPETAR)\, 2.772 €/g
- od.\n• JADRANKAMEN D.O.O. – Koncesija za eksploataciju arhitektonsko-g
- rađevnog kamena (SUPETAR)\n• JADRANKAMEN D.O.O. – Koncesija za eksplo
- ataciju arhitektonsko-građevnog kamena (SUPETAR)\n\nProfil općine: https
- ://koncesijski-sat.vercel.app/#opcina/41942358B32539035720445
+ atacijskog polja neenergetskih mineralnih sirovina (SUPETAR) · davatelj: 
+ MINISTARSTVO GOSPODARSTVA\, 2.772 €/god.\n• JADRANKAMEN D.O.O. – Kon
+ cesija za eksploataciju arhitektonsko-građevnog kamena (SUPETAR) · davat
+ elj: MINISTARSTVO GOSPODARSTVA\n• JADRANKAMEN D.O.O. – Koncesija za ek
+ sploataciju arhitektonsko-građevnog kamena (SUPETAR) · davatelj: MINISTA
+ RSTVO GOSPODARSTVA\n\nProfil općine: https://koncesijski-sat.vercel.app/#
+ opcina/41942358B32539035720445
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B32539035720445
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Supetar
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-1479558c8596cdff@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-8b555accf9904a40@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20760717
 DTEND;VALUE=DATE:20760718
 SUMMARY:Ističe koncesija: HRVATSKI TELEKOM D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 17. 7. 2076. Godišnja fiksna nakn
  ada: 3.772 €.\n\n• HRVATSKI TELEKOM D.D. – Posebna upotreba pomorsko
- g dobra (SUPETAR)\, 3.772 €/god.\n\nProfil općine: https://koncesijski-
- sat.vercel.app/#opcina/41942358B32539035720445\nIzvor: Registar koncesija 
- (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ g dobra (SUPETAR) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTUR
+ E\, 3.772 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#
+ opcina/41942358B32539035720445\nIzvor: Registar koncesija (FINA)\, obrada 
+ Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B32539035720445
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -114,8 +122,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-1479558c8596cdff@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-8b555accf9904a40@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20760117
 DTEND;VALUE=DATE:20760118
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKI TELEKOM
@@ -123,8 +131,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKI TELEKOM
 DESCRIPTION:17. 7. 2076. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• HRVATSKI TELEKOM D.D. – Posebna upotreba pomorskog dobra (SUPET
- AR)\, 3.772 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app
- /#opcina/41942358B32539035720445
+ AR) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\, 3.772 €/
+ god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4194235
+ 8B32539035720445
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B32539035720445
 TRANSP:TRANSPARENT
 BEGIN:VALARM

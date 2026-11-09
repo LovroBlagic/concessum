@@ -1,0 +1,134 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · GRAD VUKOVAR
+X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje GRAD VUKOVAR. Iz Registra 
+ koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podataka.
+  https://koncesijski-sat.vercel.app/#sat
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-76b1dad70a278ba8@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20281019
+DTEND;VALUE=DATE:20281020
+SUMMARY:Ističe koncesija: ČAZMATRANS VUKOVAR D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 19. 10. 2028.\n\n• ČAZMATRANS V
+ UKOVAR D.O.O. – Koncesija za obavljanje djelatnosti javnog gradskog prij
+ evoza putnika (VUKOVAR\, Grad Vukovar)\n\nŠto ističe: https://koncesijsk
+ i-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Koncesijs
+ ki sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: ČAZMATRANS VUKOVAR D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-76b1dad70a278ba8@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20280419
+DTEND;VALUE=DATE:20280420
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ČAZMATRANS VUKO
+ VAR D.O.O.)
+DESCRIPTION:19. 10. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• ČAZMATRANS VUKOVAR D.O.O. – Koncesija za obavljanje djelatnos
+ ti javnog gradskog prijevoza putnika (VUKOVAR\, Grad Vukovar)\n\nŠto isti
+ če: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ČAZMATRANS 
+ VUKOVAR D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-5ac1bf3c29e5de00@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20310420
+DTEND;VALUE=DATE:20310421
+SUMMARY:Ističe koncesija: HEP-PLIN D.O.O. ZA DISTRIBUCIJU I OPSKRBU PLINOM
+DESCRIPTION:1 ugovor o koncesiji ističe 20. 4. 2031.\n\n• HEP-PLIN D.O.O
+ . ZA DISTRIBUCIJU I OPSKRBU PLINOM – Koncesija za opskrbu potrošača pr
+ irodnim plinom (VUKOVAR\, Grad Vukovar)\n\nŠto ističe: https://koncesijs
+ ki-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Koncesij
+ ski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: HEP-PLIN D.O.O. ZA DISTRIBUCIJU I OPSKRBU PL
+ INOM
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-5ac1bf3c29e5de00@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20301020
+DTEND;VALUE=DATE:20301021
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP-PLIN D.O.O. 
+ ZA DISTRIBUCIJU I OPSKRBU PLINOM)
+DESCRIPTION:20. 4. 2031. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• HEP-PLIN D.O.O. ZA DISTRIBUCIJU I OPSKRBU PLINOM – Koncesija za
+  opskrbu potrošača prirodnim plinom (VUKOVAR\, Grad Vukovar)\n\nŠto ist
+ iče: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP-PLIN D.O
+ .O. ZA DISTRIBUCIJU I OPSKRBU PLINOM)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-e112baef39c64ef8@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20360725
+DTEND;VALUE=DATE:20360726
+SUMMARY:Ističe koncesija: TEHNOSTAN  D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 25. 7. 2036. Godišnja fiksna nakn
+ ada: 4.778 €.\n\n• TEHNOSTAN  D.O.O. – Koncesija za obavljanje komun
+ alne djelatnosti opskrbe toplinskom energijom (VUKOVAR\, Grad Vukovar)\, 4
+ .778 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIz
+ vor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: TEHNOSTAN  D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-e112baef39c64ef8@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20360125
+DTEND;VALUE=DATE:20360126
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (TEHNOSTAN  D.O.O
+ .)
+DESCRIPTION:25. 7. 2036. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• TEHNOSTAN  D.O.O. – Koncesija za obavljanje komunalne djelatnos
+ ti opskrbe toplinskom energijom (VUKOVAR\, Grad Vukovar)\, 4.778 €/god.\
+ n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (TEHNOSTAN  D
+ .O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

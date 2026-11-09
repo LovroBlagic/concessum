@@ -4,25 +4,28 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Općina Milna
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Milna. Iz Regist
- ra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podata
- ka. https://koncesijski-sat.vercel.app/#opcina/41942358B41584880694978
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Općina Milna (pregled\,
+  svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježava se
+  nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#opcina/4
+ 1942358B41584880694978
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-939caab0c3980b3d@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-a7dc829b33af7e61@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270531
 DTEND;VALUE=DATE:20270601
 SUMMARY:Ističe 3 koncesije · Milna
 DESCRIPTION:3 ugovora o koncesiji ističe 31. 5. 2027. Godišnja fiksna nak
- nada: 1.505 €.\n\n• INFESTO D.O.O. – Koncesija za luku (MILNA)\, 505
-  €/god.\n• MEŠTRALUN D.O.O. – Koncesija za luku (MILNA)\, 500 €/g
- od.\n• MEŠTRALUN D.O.O. – Koncesija za luku (MILNA)\, 500 €/god.\n\
- nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B41584
- 880694978\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11
- . 2026.
+ nada: 1.505 €.\n\n• INFESTO D.O.O. – Koncesija za luku (MILNA) · da
+ vatelj: LUČKA UPRAVA SPLITSKO-DALMATINSKE ŽUPANIJE\, 505 €/god.\n• M
+ EŠTRALUN D.O.O. – Koncesija za luku (MILNA) · davatelj: LUČKA UPRAVA 
+ SPLITSKO-DALMATINSKE ŽUPANIJE\, 500 €/god.\n• MEŠTRALUN D.O.O. – K
+ oncesija za luku (MILNA) · davatelj: LUČKA UPRAVA SPLITSKO-DALMATINSKE 
+ ŽUPANIJE\, 500 €/god.\n\nProfil općine: https://koncesijski-sat.vercel
+ .app/#opcina/41942358B41584880694978\nIzvor: Registar koncesija (FINA)\, o
+ brada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B41584880694978
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -32,36 +35,40 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-939caab0c3980b3d@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-a7dc829b33af7e61@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Milna
 DESCRIPTION:31. 5. 2027. ističe 3 ugovora o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
- a.\n\n• INFESTO D.O.O. – Koncesija za luku (MILNA)\, 505 €/god.\n•
-  MEŠTRALUN D.O.O. – Koncesija za luku (MILNA)\, 500 €/god.\n• MEŠT
- RALUN D.O.O. – Koncesija za luku (MILNA)\, 500 €/god.\n\nProfil općin
- e: https://koncesijski-sat.vercel.app/#opcina/41942358B41584880694978
+ a.\n\n• INFESTO D.O.O. – Koncesija za luku (MILNA) · davatelj: LUČKA
+  UPRAVA SPLITSKO-DALMATINSKE ŽUPANIJE\, 505 €/god.\n• MEŠTRALUN D.O.
+ O. – Koncesija za luku (MILNA) · davatelj: LUČKA UPRAVA SPLITSKO-DALMA
+ TINSKE ŽUPANIJE\, 500 €/god.\n• MEŠTRALUN D.O.O. – Koncesija za lu
+ ku (MILNA) · davatelj: LUČKA UPRAVA SPLITSKO-DALMATINSKE ŽUPANIJE\, 500
+  €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41
+ 942358B41584880694978
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B41584880694978
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Milna
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-b9f6c982f0386b8c@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-25bf358df369c652@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20301231
 DTEND;VALUE=DATE:20310101
 SUMMARY:Ističe koncesija: ACI D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 31. 12. 2030. Godišnja fiksna nak
  nada: 3.087 €.\n\n• ACI D.D. – Koncesija pomorskog dobra u svrhu gos
- podarskog korištenja luke (MILNA)\, 3.087 €/god.\n\nProfil općine: htt
- ps://koncesijski-sat.vercel.app/#opcina/41942358B41584880694978\nIzvor: Re
- gistar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ podarskog korištenja luke (MILNA) · davatelj: MINISTARSTVO MORA\, PROMET
+ A I INFRASTRUKTURE\, 3.087 €/god.\n\nProfil općine: https://koncesijski
+ -sat.vercel.app/#opcina/41942358B41584880694978\nIzvor: Registar koncesija
+  (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B41584880694978
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -71,16 +78,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-b9f6c982f0386b8c@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-25bf358df369c652@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20300630
 DTEND;VALUE=DATE:20300701
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ACI D.D.)
 DESCRIPTION:31. 12. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• ACI D.D. – Koncesija pomorskog dobra u svrhu gospodarskog kori
- štenja luke (MILNA)\, 3.087 €/god.\n\nProfil općine: https://koncesijs
- ki-sat.vercel.app/#opcina/41942358B41584880694978
+ štenja luke (MILNA) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUK
+ TURE\, 3.087 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.ap
+ p/#opcina/41942358B41584880694978
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B41584880694978
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -90,18 +98,18 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-97a1ff4eb192fd75@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-60326fd915694bb1@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20340523
 DTEND;VALUE=DATE:20340524
 SUMMARY:Ističe koncesija: KARABIN J.D.O.O. ZA USLUGE U NAUTIČKOM TURIZMU\
  , TURISTIČKA AGENCIJA
 DESCRIPTION:1 ugovor o koncesiji ističe 23. 5. 2034. Godišnja fiksna nakn
  ada: 11.812 €.\n\n• KARABIN J.D.O.O. ZA USLUGE U NAUTIČKOM TURIZMU\, 
- TURISTIČKA AGENCIJA – Koncesija na pomorskom dobru (MILNA)\, 11.812 €
- /god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419423
- 58B41584880694978\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski s
- at 9. 11. 2026.
+ TURISTIČKA AGENCIJA – Koncesija na pomorskom dobru (MILNA) · davatelj:
+  SPLITSKO-DALMATINSKA ŽUPANIJA\, 11.812 €/god.\n\nProfil općine: https
+ ://koncesijski-sat.vercel.app/#opcina/41942358B41584880694978\nIzvor: Regi
+ star koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B41584880694978
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -112,8 +120,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-97a1ff4eb192fd75@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-60326fd915694bb1@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20331123
 DTEND;VALUE=DATE:20331124
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (KARABIN J.D.O.O.
@@ -121,9 +129,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (KARABIN J.D.O.O.
 DESCRIPTION:23. 5. 2034. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• KARABIN J.D.O.O. ZA USLUGE U NAUTIČKOM TURIZMU\, TURISTIČKA AGE
- NCIJA – Koncesija na pomorskom dobru (MILNA)\, 11.812 €/god.\n\nProfil
-  općine: https://koncesijski-sat.vercel.app/#opcina/41942358B415848806949
- 78
+ NCIJA – Koncesija na pomorskom dobru (MILNA) · davatelj: SPLITSKO-DALMA
+ TINSKA ŽUPANIJA\, 11.812 €/god.\n\nProfil općine: https://koncesijski-
+ sat.vercel.app/#opcina/41942358B41584880694978
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B41584880694978
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -134,16 +142,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-1726b8d39a6bb4e1@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-2e5d0c8d66ce8715@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20341231
 DTEND;VALUE=DATE:20350101
 SUMMARY:Ističe koncesija: SARDINA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 31. 12. 2034. Godišnja fiksna nak
  nada: 7.346 €.\n\n• SARDINA D.O.O. – Koncesija na pomorskom dobru (M
- ILNA)\, 7.346 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.a
- pp/#opcina/41942358B41584880694978\nIzvor: Registar koncesija (FINA)\, obr
- ada Koncesijski sat 9. 11. 2026.
+ ILNA) · davatelj: SPLITSKO-DALMATINSKA ŽUPANIJA\, 7.346 €/god.\n\nProf
+ il općine: https://koncesijski-sat.vercel.app/#opcina/41942358B4158488069
+ 4978\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 202
+ 6.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B41584880694978
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -153,16 +162,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-1726b8d39a6bb4e1@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-2e5d0c8d66ce8715@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20340630
 DTEND;VALUE=DATE:20340701
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (SARDINA D.O.O.)
 DESCRIPTION:31. 12. 2034. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
- a.\n\n• SARDINA D.O.O. – Koncesija na pomorskom dobru (MILNA)\, 7.346 
- €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
- 42358B41584880694978
+ a.\n\n• SARDINA D.O.O. – Koncesija na pomorskom dobru (MILNA) · davat
+ elj: SPLITSKO-DALMATINSKA ŽUPANIJA\, 7.346 €/god.\n\nProfil općine: ht
+ tps://koncesijski-sat.vercel.app/#opcina/41942358B41584880694978
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B41584880694978
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -173,16 +182,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-06b27c6625ff2cd4@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-d7b25c3a516573f8@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20360612
 DTEND;VALUE=DATE:20360613
 SUMMARY:Ističe koncesija: HRVATSKI OPERATOR PRIJENOSNOG SUSTAVA D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 12. 6. 2036. Godišnja fiksna nakn
  ada: 1.129 €.\n\n• HRVATSKI OPERATOR PRIJENOSNOG SUSTAVA D.D. – Konc
- esija na pomorskom dobru (MILNA)\, 1.129 €/god.\n\nProfil općine: https
- ://koncesijski-sat.vercel.app/#opcina/41942358B41584880694978\nIzvor: Regi
- star koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ esija na pomorskom dobru (MILNA) · davatelj: MINISTARSTVO MORA\, PROMETA 
+ I INFRASTRUKTURE\, 1.129 €/god.\n\nProfil općine: https://koncesijski-s
+ at.vercel.app/#opcina/41942358B41584880694978\nIzvor: Registar koncesija (
+ FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B41584880694978
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -192,8 +202,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-06b27c6625ff2cd4@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-d7b25c3a516573f8@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20351212
 DTEND;VALUE=DATE:20351213
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKI OPERATO
@@ -201,8 +211,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKI OPERATO
 DESCRIPTION:12. 6. 2036. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• HRVATSKI OPERATOR PRIJENOSNOG SUSTAVA D.D. – Koncesija na pomor
- skom dobru (MILNA)\, 1.129 €/god.\n\nProfil općine: https://koncesijski
- -sat.vercel.app/#opcina/41942358B41584880694978
+ skom dobru (MILNA) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTU
+ RE\, 1.129 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/
+ #opcina/41942358B41584880694978
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B41584880694978
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -213,8 +224,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-b77686b83615b9dd@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-dc0fdd778df75a57@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20421016
 DTEND;VALUE=DATE:20421017
 SUMMARY:Ističe koncesija: VODOVOD I KANALIZACIJA D.O.O. ZA VODOOPSKRBU\, O
@@ -222,9 +233,10 @@ SUMMARY:Ističe koncesija: VODOVOD I KANALIZACIJA D.O.O. ZA VODOOPSKRBU\, O
 DESCRIPTION:1 ugovor o koncesiji ističe 16. 10. 2042. Godišnja fiksna nak
  nada: 2.337 €.\n\n• VODOVOD I KANALIZACIJA D.O.O. ZA VODOOPSKRBU\, ODV
  ODNJU I PROČIŠĆAVANJE OTPADNIH VODA – Koncesija na pomorskom dobru (M
- ILNA)\, 2.337 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.a
- pp/#opcina/41942358B41584880694978\nIzvor: Registar koncesija (FINA)\, obr
- ada Koncesijski sat 9. 11. 2026.
+ ILNA) · davatelj: SPLITSKO-DALMATINSKA ŽUPANIJA\, 2.337 €/god.\n\nProf
+ il općine: https://koncesijski-sat.vercel.app/#opcina/41942358B4158488069
+ 4978\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 202
+ 6.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B41584880694978
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -235,8 +247,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-b77686b83615b9dd@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-dc0fdd778df75a57@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20420416
 DTEND;VALUE=DATE:20420417
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VODOVOD I KANALI
@@ -244,9 +256,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VODOVOD I KANALI
 DESCRIPTION:16. 10. 2042. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• VODOVOD I KANALIZACIJA D.O.O. ZA VODOOPSKRBU\, ODVODNJU I PROČI
- ŠĆAVANJE OTPADNIH VODA – Koncesija na pomorskom dobru (MILNA)\, 2.337 
- €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
- 42358B41584880694978
+ ŠĆAVANJE OTPADNIH VODA – Koncesija na pomorskom dobru (MILNA) · davat
+ elj: SPLITSKO-DALMATINSKA ŽUPANIJA\, 2.337 €/god.\n\nProfil općine: ht
+ tps://koncesijski-sat.vercel.app/#opcina/41942358B41584880694978
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B41584880694978
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -258,16 +270,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-e21dc4eeb4ba4618@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-b9073103654981d2@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20460726
 DTEND;VALUE=DATE:20460727
 SUMMARY:Ističe koncesija: VODOVOD I ODVODNJA BRAČA I HVARA D.O.O
 DESCRIPTION:1 ugovor o koncesiji ističe 26. 7. 2046. Godišnja fiksna nakn
  ada: 8 €.\n\n• VODOVOD I ODVODNJA BRAČA I HVARA D.O.O – Koncesija n
- a pomorskom dobru (MILNA)\, 8 €/god.\n\nProfil općine: https://koncesij
- ski-sat.vercel.app/#opcina/41942358B41584880694978\nIzvor: Registar konces
- ija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ a pomorskom dobru (MILNA) · davatelj: SPLITSKO-DALMATINSKA ŽUPANIJA\, 8 
+ €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
+ 42358B41584880694978\nIzvor: Registar koncesija (FINA)\, obrada Koncesijsk
+ i sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B41584880694978
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -277,8 +290,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-e21dc4eeb4ba4618@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-b9073103654981d2@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20460126
 DTEND;VALUE=DATE:20460127
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VODOVOD I ODVODN
@@ -286,8 +299,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VODOVOD I ODVODN
 DESCRIPTION:26. 7. 2046. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• VODOVOD I ODVODNJA BRAČA I HVARA D.O.O – Koncesija na pomorsko
- m dobru (MILNA)\, 8 €/god.\n\nProfil općine: https://koncesijski-sat.ve
- rcel.app/#opcina/41942358B41584880694978
+ m dobru (MILNA) · davatelj: SPLITSKO-DALMATINSKA ŽUPANIJA\, 8 €/god.\n
+ \nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B4158
+ 4880694978
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B41584880694978
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -298,16 +312,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-043325f800c951ed@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-42a83b127a9f864e@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20760717
 DTEND;VALUE=DATE:20760718
 SUMMARY:Ističe koncesija: HRVATSKI TELEKOM D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 17. 7. 2076. Godišnja fiksna nakn
  ada: 5.070 €.\n\n• HRVATSKI TELEKOM D.D. – Posebna upotreba pomorsko
- g dobra (MILNA)\, 5.070 €/god.\n\nProfil općine: https://koncesijski-sa
- t.vercel.app/#opcina/41942358B41584880694978\nIzvor: Registar koncesija (F
- INA)\, obrada Koncesijski sat 9. 11. 2026.
+ g dobra (MILNA) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\
+ , 5.070 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#op
+ cina/41942358B41584880694978\nIzvor: Registar koncesija (FINA)\, obrada Ko
+ ncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B41584880694978
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -317,8 +332,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-043325f800c951ed@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-42a83b127a9f864e@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20760117
 DTEND;VALUE=DATE:20760118
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKI TELEKOM
@@ -326,8 +341,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKI TELEKOM
 DESCRIPTION:17. 7. 2076. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• HRVATSKI TELEKOM D.D. – Posebna upotreba pomorskog dobra (MILNA
- )\, 5.070 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#
- opcina/41942358B41584880694978
+ ) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\, 5.070 €/go
+ d.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B
+ 41584880694978
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B41584880694978
 TRANSP:TRANSPARENT
 BEGIN:VALARM

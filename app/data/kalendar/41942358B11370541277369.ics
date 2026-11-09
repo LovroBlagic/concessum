@@ -4,24 +4,25 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Općina Maruševec
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Maruševec. Iz R
- egistra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade p
- odataka. https://koncesijski-sat.vercel.app/#opcina/41942358B1137054127736
- 9
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Općina Maruševec (preg
+ led\, svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježa
+ va se nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#opc
+ ina/41942358B11370541277369
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-4ad020b8c6433b45@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-86f0bb3f81f939a4@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20300928
 DTEND;VALUE=DATE:20300929
 SUMMARY:Ističe koncesija: DIMAX D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 28. 9. 2030. Godišnja fiksna nakn
  ada: 810 €.\n\n• DIMAX D.O.O. – Koncesija za obavljanje dimnjačarsk
- ih poslova (MARUŠEVEC)\, 810 €/god.\n\nProfil općine: https://koncesij
- ski-sat.vercel.app/#opcina/41942358B11370541277369\nIzvor: Registar konces
- ija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ ih poslova (MARUŠEVEC) · davatelj: OPĆINA MARUŠEVEC\, 810 €/god.\n\n
+ Profil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B113705
+ 41277369\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11.
+  2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B11370541277369
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -31,16 +32,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-4ad020b8c6433b45@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-86f0bb3f81f939a4@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20300328
 DTEND;VALUE=DATE:20300329
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DIMAX D.O.O.)
 DESCRIPTION:28. 9. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• DIMAX D.O.O. – Koncesija za obavljanje dimnjačarskih poslova (
- MARUŠEVEC)\, 810 €/god.\n\nProfil općine: https://koncesijski-sat.verc
- el.app/#opcina/41942358B11370541277369
+ MARUŠEVEC) · davatelj: OPĆINA MARUŠEVEC\, 810 €/god.\n\nProfil opći
+ ne: https://koncesijski-sat.vercel.app/#opcina/41942358B11370541277369
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B11370541277369
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -51,20 +52,21 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-4fe3351937d3d9fe@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-0b14407c2e0cf83e@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20401231
 DTEND;VALUE=DATE:20410101
 SUMMARY:Ističe 3 koncesije · Maruševec
 DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2040. Godišnja fiksna na
  knada: 23.344 €.\n\n• CIGLANA CERJE TUŽNO D.O.O. – Koncesija za eks
- ploataciju ciglarske gline (MARUŠEVEC)\, 11.672 €/god.\n• CIGLANA CER
- JE TUŽNO D.O.O. – Koncesija za površinu utvrđenog eksploatacijskog po
- lja neenergetskih mineralnih sirovina (MARUŠEVEC)\, 11.672 €/god.\n• 
- CIGLANA CERJE TUŽNO D.O.O. – Koncesija za eksploataciju ciglarske gline
-  (MARUŠEVEC)\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcin
- a/41942358B11370541277369\nIzvor: Registar koncesija (FINA)\, obrada Konce
- sijski sat 9. 11. 2026.
+ ploataciju ciglarske gline (MARUŠEVEC) · davatelj: MINISTARSTVO GOSPODAR
+ STVA\, 11.672 €/god.\n• CIGLANA CERJE TUŽNO D.O.O. – Koncesija za p
+ ovršinu utvrđenog eksploatacijskog polja neenergetskih mineralnih sirovi
+ na (MARUŠEVEC) · davatelj: MINISTARSTVO GOSPODARSTVA\, 11.672 €/god.\n
+ • CIGLANA CERJE TUŽNO D.O.O. – Koncesija za eksploataciju ciglarske g
+ line (MARUŠEVEC) · davatelj: MINISTARSTVO GOSPODARSTVA\n\nProfil općine
+ : https://koncesijski-sat.vercel.app/#opcina/41942358B11370541277369\nIzvo
+ r: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B11370541277369
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -74,40 +76,42 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-4fe3351937d3d9fe@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-0b14407c2e0cf83e@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20400630
 DTEND;VALUE=DATE:20400701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Maruševec
 DESCRIPTION:31. 12. 2040. ističe 3 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• CIGLANA CERJE TUŽNO D.O.O. – Koncesija za eksploataciju cigl
- arske gline (MARUŠEVEC)\, 11.672 €/god.\n• CIGLANA CERJE TUŽNO D.O.O
- . – Koncesija za površinu utvrđenog eksploatacijskog polja neenergetsk
- ih mineralnih sirovina (MARUŠEVEC)\, 11.672 €/god.\n• CIGLANA CERJE T
- UŽNO D.O.O. – Koncesija za eksploataciju ciglarske gline (MARUŠEVEC)\n
- \nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B1137
- 0541277369
+ arske gline (MARUŠEVEC) · davatelj: MINISTARSTVO GOSPODARSTVA\, 11.672 
+ €/god.\n• CIGLANA CERJE TUŽNO D.O.O. – Koncesija za površinu utvr
+ đenog eksploatacijskog polja neenergetskih mineralnih sirovina (MARUŠEVE
+ C) · davatelj: MINISTARSTVO GOSPODARSTVA\, 11.672 €/god.\n• CIGLANA C
+ ERJE TUŽNO D.O.O. – Koncesija za eksploataciju ciglarske gline (MARUŠE
+ VEC) · davatelj: MINISTARSTVO GOSPODARSTVA\n\nProfil općine: https://kon
+ cesijski-sat.vercel.app/#opcina/41942358B11370541277369
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B11370541277369
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Maruševec
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-83ae232618bed04f@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-ce4558ed130050ec@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20431211
 DTEND;VALUE=DATE:20431212
 SUMMARY:Ističe koncesija: UDRUGA RADIO MARIJA
 DESCRIPTION:1 ugovor o koncesiji ističe 11. 12. 2043. Godišnja fiksna nak
  nada: 66 €.\n\n• UDRUGA RADIO MARIJA – Koncesija za obavljanje djela
  tnosti radija (MARUŠEVEC\, SRAČINEC\, TRNOVEC BARTOLOVEČKI\, VARAŽDIN\
- , VIDOVEC)\, 66 €/god.\n\nProfil općine: https://koncesijski-sat.vercel
- .app/#opcina/41942358B11370541277369\nIzvor: Registar koncesija (FINA)\, o
- brada Koncesijski sat 9. 11. 2026.
+ , VIDOVEC) · davatelj: AGENCIJA ZA ELEKTRONIČKE MEDIJE\, 66 €/god.\n\n
+ Profil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B113705
+ 41277369\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11.
+  2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B11370541277369
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -117,8 +121,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-83ae232618bed04f@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-ce4558ed130050ec@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20430611
 DTEND;VALUE=DATE:20430612
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (UDRUGA RADIO MAR
@@ -126,9 +130,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (UDRUGA RADIO MAR
 DESCRIPTION:11. 12. 2043. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• UDRUGA RADIO MARIJA – Koncesija za obavljanje djelatnosti radi
- ja (MARUŠEVEC\, SRAČINEC\, TRNOVEC BARTOLOVEČKI\, VARAŽDIN\, VIDOVEC)\
- , 66 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcin
- a/41942358B11370541277369
+ ja (MARUŠEVEC\, SRAČINEC\, TRNOVEC BARTOLOVEČKI\, VARAŽDIN\, VIDOVEC) 
+ · davatelj: AGENCIJA ZA ELEKTRONIČKE MEDIJE\, 66 €/god.\n\nProfil opć
+ ine: https://koncesijski-sat.vercel.app/#opcina/41942358B11370541277369
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B11370541277369
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -139,8 +143,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-e2fd402e877aef21@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-b1ddc5514ccf89dc@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20440620
 DTEND;VALUE=DATE:20440621
 SUMMARY:Ističe koncesija: HORTIKULTURA\, OBRT ZA UREĐENJE I ODRŽAVANJE Z
@@ -148,9 +152,10 @@ SUMMARY:Ističe koncesija: HORTIKULTURA\, OBRT ZA UREĐENJE I ODRŽAVANJE Z
 DESCRIPTION:1 ugovor o koncesiji ističe 20. 6. 2044. Godišnja fiksna nakn
  ada: 8 €.\n\n• HORTIKULTURA\, OBRT ZA UREĐENJE I ODRŽAVANJE ZELENIH 
  POVRŠINA – Koncesija za zahvaćanje voda za melioracijsko navodnjavanje
-  (MARUŠEVEC)\, 8 €/god.\n\nProfil općine: https://koncesijski-sat.verc
- el.app/#opcina/41942358B11370541277369\nIzvor: Registar koncesija (FINA)\,
-  obrada Koncesijski sat 9. 11. 2026.
+  (MARUŠEVEC) · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠA I ZELENE TRANZIC
+ IJE\, 8 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#op
+ cina/41942358B11370541277369\nIzvor: Registar koncesija (FINA)\, obrada Ko
+ ncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B11370541277369
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -161,8 +166,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-e2fd402e877aef21@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-b1ddc5514ccf89dc@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20431220
 DTEND;VALUE=DATE:20431221
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HORTIKULTURA\, O
@@ -171,8 +176,9 @@ DESCRIPTION:20. 6. 2044. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• HORTIKULTURA\, OBRT ZA UREĐENJE I ODRŽAVANJE ZELENIH POVRŠINA 
  – Koncesija za zahvaćanje voda za melioracijsko navodnjavanje (MARUŠEV
- EC)\, 8 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#op
- cina/41942358B11370541277369
+ EC) · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠA I ZELENE TRANZICIJE\, 8 
+ €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
+ 42358B11370541277369
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B11370541277369
 TRANSP:TRANSPARENT
 BEGIN:VALARM

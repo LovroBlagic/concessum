@@ -4,24 +4,25 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Općina Vođinci
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Vođinci. Iz Reg
- istra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade pod
- ataka. https://koncesijski-sat.vercel.app/#opcina/41942358B32410067293519
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Općina Vođinci (pregle
+ d\, svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježava
+  se nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#opcin
+ a/41942358B32410067293519
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-f928a404f92d9237@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-20ad37e95d91c69f@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20280831
 DTEND;VALUE=DATE:20280901
 SUMMARY:Ističe koncesija: OBRT ZA ODVOZ SMEĆA UTVAJ\, VL. ANTUN PRLJEVIĆ
 DESCRIPTION:1 ugovor o koncesiji ističe 31. 8. 2028. Godišnja fiksna nakn
  ada: 2.933 €.\n\n• OBRT ZA ODVOZ SMEĆA UTVAJ\, VL. ANTUN PRLJEVIĆ 
- – Koncesija skupljanja i odvoza komunalnog otpada (VOĐINCI)\, 2.933 €
- /god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419423
- 58B32410067293519\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski s
- at 9. 11. 2026.
+ – Koncesija skupljanja i odvoza komunalnog otpada (VOĐINCI) · davatelj
+ : OPĆINA VOĐINCI\, 2.933 €/god.\n\nProfil općine: https://koncesijski
+ -sat.vercel.app/#opcina/41942358B32410067293519\nIzvor: Registar koncesija
+  (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B32410067293519
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -32,8 +33,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-f928a404f92d9237@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-20ad37e95d91c69f@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20280229
 DTEND;VALUE=DATE:20280301
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (OBRT ZA ODVOZ SM
@@ -41,9 +42,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (OBRT ZA ODVOZ SM
 DESCRIPTION:31. 8. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• OBRT ZA ODVOZ SMEĆA UTVAJ\, VL. ANTUN PRLJEVIĆ – Koncesija sk
- upljanja i odvoza komunalnog otpada (VOĐINCI)\, 2.933 €/god.\n\nProfil 
- općine: https://koncesijski-sat.vercel.app/#opcina/41942358B3241006729351
- 9
+ upljanja i odvoza komunalnog otpada (VOĐINCI) · davatelj: OPĆINA VOĐIN
+ CI\, 2.933 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/
+ #opcina/41942358B32410067293519
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B32410067293519
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -54,16 +55,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-cdafc853137bf3d1@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-6a08070d44b28ba3@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20280901
 DTEND;VALUE=DATE:20280902
 SUMMARY:Ističe koncesija: 'UTVAJ'VL ANTUN PRLJEVIĆ
 DESCRIPTION:1 ugovor o koncesiji ističe 1. 9. 2028. Godišnja fiksna nakna
  da: 2.933 €.\n\n• 'UTVAJ'VL ANTUN PRLJEVIĆ – Koncesija skupljanja i
-  odvoza komunalnog otpada (VOĐINCI)\, 2.933 €/god.\n\nProfil općine: h
- ttps://koncesijski-sat.vercel.app/#opcina/41942358B32410067293519\nIzvor: 
- Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+  odvoza komunalnog otpada (VOĐINCI) · davatelj: OPĆINA VOĐINCI\, 2.933
+  €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41
+ 942358B32410067293519\nIzvor: Registar koncesija (FINA)\, obrada Koncesijs
+ ki sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B32410067293519
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -73,8 +75,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-cdafc853137bf3d1@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-6a08070d44b28ba3@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20280301
 DTEND;VALUE=DATE:20280302
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija ('UTVAJ'VL ANTUN 
@@ -82,8 +84,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija ('UTVAJ'VL ANTUN
 DESCRIPTION:1. 9. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• 'UTVAJ'VL ANTUN PRLJEVIĆ – Koncesija skupljanja i odvoza komuna
- lnog otpada (VOĐINCI)\, 2.933 €/god.\n\nProfil općine: https://koncesi
- jski-sat.vercel.app/#opcina/41942358B32410067293519
+ lnog otpada (VOĐINCI) · davatelj: OPĆINA VOĐINCI\, 2.933 €/god.\n\nP
+ rofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B3241006
+ 7293519
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B32410067293519
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -94,17 +97,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-fd09bde3b32ad4f9@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-a026fa30177850ec@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20320214
 DTEND;VALUE=DATE:20320215
 SUMMARY:Ističe koncesija: HRVOJE HORVAT\,DUO EKO-DIM\,USLUGE SA SELA
 DESCRIPTION:1 ugovor o koncesiji ističe 14. 2. 2032. Godišnja fiksna nakn
  ada: 544 €.\n\n• HRVOJE HORVAT\,DUO EKO-DIM\,USLUGE SA SELA – Konces
- ija za obavljanje dimnjačarskih poslova (VOĐINCI)\, 544 €/god.\n\nProf
- il općine: https://koncesijski-sat.vercel.app/#opcina/41942358B3241006729
- 3519\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 202
- 6.
+ ija za obavljanje dimnjačarskih poslova (VOĐINCI) · davatelj: OPĆINA V
+ OĐINCI\, 544 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.a
+ pp/#opcina/41942358B32410067293519\nIzvor: Registar koncesija (FINA)\, obr
+ ada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B32410067293519
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -114,8 +117,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-fd09bde3b32ad4f9@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-a026fa30177850ec@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20310814
 DTEND;VALUE=DATE:20310815
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVOJE HORVAT\,D
@@ -123,8 +126,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVOJE HORVAT\,D
 DESCRIPTION:14. 2. 2032. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• HRVOJE HORVAT\,DUO EKO-DIM\,USLUGE SA SELA – Koncesija za obavl
- janje dimnjačarskih poslova (VOĐINCI)\, 544 €/god.\n\nProfil općine: 
- https://koncesijski-sat.vercel.app/#opcina/41942358B32410067293519
+ janje dimnjačarskih poslova (VOĐINCI) · davatelj: OPĆINA VOĐINCI\, 54
+ 4 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4
+ 1942358B32410067293519
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B32410067293519
 TRANSP:TRANSPARENT
 BEGIN:VALARM

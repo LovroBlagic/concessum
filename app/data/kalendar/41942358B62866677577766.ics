@@ -4,16 +4,16 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Općina Baška Voda
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Baška Voda. Iz 
- Registra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade 
- podataka. https://koncesijski-sat.vercel.app/#opcina/41942358B628666775777
- 66
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Općina Baška Voda (pre
+ gled\, svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvjež
+ ava se nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#op
+ cina/41942358B62866677577766
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-9e1b4d57d1d8aa24@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-1babfccdf7a9fbe7@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20320301
 DTEND;VALUE=DATE:20320302
 SUMMARY:Ističe koncesija: ŽUPANIJSKA LIGA PROTIV RAKA - SPLIT
@@ -21,9 +21,9 @@ DESCRIPTION:1 ugovor o koncesiji ističe 1. 3. 2032. Godišnja fiksna nakna
  da: 199 €.\n\n• ŽUPANIJSKA LIGA PROTIV RAKA - SPLIT – Koncesija za 
  obavljanje djelatnosti radija (BAŠKA VODA\, BRELA\, DUGI RAT\, KAŠTELA\,
   MAKARSKA\, OMIŠ\, PODSTRANA\, POSTIRA\, SOLIN\, SPLIT\, SUPETAR\, TUČEP
- I)\, 199 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#o
- pcina/41942358B62866677577766\nIzvor: Registar koncesija (FINA)\, obrada K
- oncesijski sat 9. 11. 2026.
+ I) · davatelj: AGENCIJA ZA ELEKTRONIČKE MEDIJE\, 199 €/god.\n\nProfil 
+ općine: https://koncesijski-sat.vercel.app/#opcina/41942358B6286667757776
+ 6\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B62866677577766
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -33,8 +33,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-9e1b4d57d1d8aa24@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-1babfccdf7a9fbe7@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20310901
 DTEND;VALUE=DATE:20310902
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ŽUPANIJSKA LIGA
@@ -43,9 +43,9 @@ DESCRIPTION:1. 3. 2032. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• ŽUPANIJSKA LIGA PROTIV RAKA - SPLIT – Koncesija za obavljanje d
  jelatnosti radija (BAŠKA VODA\, BRELA\, DUGI RAT\, KAŠTELA\, MAKARSKA\, 
- OMIŠ\, PODSTRANA\, POSTIRA\, SOLIN\, SPLIT\, SUPETAR\, TUČEPI)\, 199 €
- /god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419423
- 58B62866677577766
+ OMIŠ\, PODSTRANA\, POSTIRA\, SOLIN\, SPLIT\, SUPETAR\, TUČEPI) · davate
+ lj: AGENCIJA ZA ELEKTRONIČKE MEDIJE\, 199 €/god.\n\nProfil općine: htt
+ ps://koncesijski-sat.vercel.app/#opcina/41942358B62866677577766
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B62866677577766
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -56,17 +56,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-e66a750457656e0a@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-38343ff49d723c25@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20451231
 DTEND;VALUE=DATE:20460101
 SUMMARY:Ističe koncesija: RADIO MAKARSKA RIVIJERA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 31. 12. 2045. Godišnja fiksna nak
  nada: 66 €.\n\n• RADIO MAKARSKA RIVIJERA D.O.O. – Koncesija za obavl
- janje djelatnosti radija (BAŠKA VODA\, MAKARSKA\, PODGORA\, TUČEPI)\, 66
-  €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41
- 942358B62866677577766\nIzvor: Registar koncesija (FINA)\, obrada Koncesijs
- ki sat 9. 11. 2026.
+ janje djelatnosti radija (BAŠKA VODA\, MAKARSKA\, PODGORA\, TUČEPI) · d
+ avatelj: AGENCIJA ZA ELEKTRONIČKE MEDIJE\, 66 €/god.\n\nProfil općine:
+  https://koncesijski-sat.vercel.app/#opcina/41942358B62866677577766\nIzvor
+ : Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B62866677577766
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -76,8 +76,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-e66a750457656e0a@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-38343ff49d723c25@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20450630
 DTEND;VALUE=DATE:20450701
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (RADIO MAKARSKA R
@@ -85,9 +85,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (RADIO MAKARSKA R
 DESCRIPTION:31. 12. 2045. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• RADIO MAKARSKA RIVIJERA D.O.O. – Koncesija za obavljanje djela
- tnosti radija (BAŠKA VODA\, MAKARSKA\, PODGORA\, TUČEPI)\, 66 €/god.\n
- \nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B6286
- 6677577766
+ tnosti radija (BAŠKA VODA\, MAKARSKA\, PODGORA\, TUČEPI) · davatelj: AG
+ ENCIJA ZA ELEKTRONIČKE MEDIJE\, 66 €/god.\n\nProfil općine: https://ko
+ ncesijski-sat.vercel.app/#opcina/41942358B62866677577766
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B62866677577766
 TRANSP:TRANSPARENT
 BEGIN:VALARM

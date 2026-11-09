@@ -4,24 +4,25 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Općina Dugopolje
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Dugopolje. Iz Re
- gistra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade po
- dataka. https://koncesijski-sat.vercel.app/#opcina/41942358B64219746721264
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Općina Dugopolje (pregl
+ ed\, svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježav
+ a se nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#opci
+ na/41942358B64219746721264
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-5bc8c910e0d03d4d@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-d736165bbda44c3b@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20300630
 DTEND;VALUE=DATE:20300701
 SUMMARY:Ističe koncesija: KOPRIVNO KAMEN D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 30. 6. 2030. Godišnja fiksna nakn
  ada: 6.860 €.\n\n• KOPRIVNO KAMEN D.O.O. – Koncesija za površinu ut
  vrđenog eksploatacijskog polja neenergetskih mineralnih sirovina (DUGOPOL
- JE)\, 6.860 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app
- /#opcina/41942358B64219746721264\nIzvor: Registar koncesija (FINA)\, obrad
- a Koncesijski sat 9. 11. 2026.
+ JE) · davatelj: MINISTARSTVO GOSPODARSTVA\, 6.860 €/god.\n\nProfil opć
+ ine: https://koncesijski-sat.vercel.app/#opcina/41942358B64219746721264\nI
+ zvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B64219746721264
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -31,8 +32,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-5bc8c910e0d03d4d@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-d736165bbda44c3b@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20291230
 DTEND;VALUE=DATE:20291231
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (KOPRIVNO KAMEN D
@@ -40,9 +41,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (KOPRIVNO KAMEN D
 DESCRIPTION:30. 6. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• KOPRIVNO KAMEN D.O.O. – Koncesija za površinu utvrđenog ekspl
- oatacijskog polja neenergetskih mineralnih sirovina (DUGOPOLJE)\, 6.860 
- €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
- 42358B64219746721264
+ oatacijskog polja neenergetskih mineralnih sirovina (DUGOPOLJE) · davatel
+ j: MINISTARSTVO GOSPODARSTVA\, 6.860 €/god.\n\nProfil općine: https://k
+ oncesijski-sat.vercel.app/#opcina/41942358B64219746721264
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B64219746721264
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -53,17 +54,18 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-cb17e3f2f8fa46da@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-5c00fc4ac6ac6a50@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20301231
 DTEND;VALUE=DATE:20310101
 SUMMARY:Ističe 2 koncesije · Dugopolje
 DESCRIPTION:2 ugovora o koncesiji ističe 31. 12. 2030.\n\n• KOPRIVNO KAM
  EN D.O.O. – Koncesija za eksploataciju tehničko-građevnog kamena (DUGO
- POLJE)\n• KOPRIVNO KAMEN D.O.O. – Koncesija za eksploataciju tehničko
- -građevnog kamena (DUGOPOLJE)\n\nProfil općine: https://koncesijski-sat.
- vercel.app/#opcina/41942358B64219746721264\nIzvor: Registar koncesija (FIN
- A)\, obrada Koncesijski sat 9. 11. 2026.
+ POLJE) · davatelj: MINISTARSTVO GOSPODARSTVA\n• KOPRIVNO KAMEN D.O.O. 
+ – Koncesija za eksploataciju tehničko-građevnog kamena (DUGOPOLJE) · 
+ davatelj: MINISTARSTVO GOSPODARSTVA\n\nProfil općine: https://koncesijski
+ -sat.vercel.app/#opcina/41942358B64219746721264\nIzvor: Registar koncesija
+  (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B64219746721264
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -73,39 +75,42 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-cb17e3f2f8fa46da@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-5c00fc4ac6ac6a50@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20300630
 DTEND;VALUE=DATE:20300701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Dugopolje
 DESCRIPTION:31. 12. 2030. ističe 2 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• KOPRIVNO KAMEN D.O.O. – Koncesija za eksploataciju tehničko-
- građevnog kamena (DUGOPOLJE)\n• KOPRIVNO KAMEN D.O.O. – Koncesija za 
- eksploataciju tehničko-građevnog kamena (DUGOPOLJE)\n\nProfil općine: h
- ttps://koncesijski-sat.vercel.app/#opcina/41942358B64219746721264
+ građevnog kamena (DUGOPOLJE) · davatelj: MINISTARSTVO GOSPODARSTVA\n• 
+ KOPRIVNO KAMEN D.O.O. – Koncesija za eksploataciju tehničko-građevnog 
+ kamena (DUGOPOLJE) · davatelj: MINISTARSTVO GOSPODARSTVA\n\nProfil općin
+ e: https://koncesijski-sat.vercel.app/#opcina/41942358B64219746721264
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B64219746721264
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Dugopolje
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-765ff80ff34a3d58@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-6708944bc0fe44a1@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20331231
 DTEND;VALUE=DATE:20340101
 SUMMARY:Ističe 3 koncesije · Dugopolje
 DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2033. Godišnja fiksna na
  knada: 2.598 €.\n\n• STRABAG D.O.O. – Koncesija za površinu utvrđe
- nog eksploatacijskog polja neenergetskih mineralnih sirovina (DUGOPOLJE)\,
-  2.598 €/god.\n• STRABAG  D.O.O. – Koncesija za eksploataciju tehni
- čko-građevnog kamena (DUGOPOLJE)\n• STRABAG D.O.O. – Koncesija za ek
- sploataciju tehničko-građevnog kamena (DUGOPOLJE)\n\nProfil općine: htt
- ps://koncesijski-sat.vercel.app/#opcina/41942358B64219746721264\nIzvor: Re
- gistar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ nog eksploatacijskog polja neenergetskih mineralnih sirovina (DUGOPOLJE) 
+ · davatelj: MINISTARSTVO GOSPODARSTVA\, 2.598 €/god.\n• STRABAG  D.O.
+ O. – Koncesija za eksploataciju tehničko-građevnog kamena (DUGOPOLJE) 
+ · davatelj: MINISTARSTVO GOSPODARSTVA\n• STRABAG D.O.O. – Koncesija z
+ a eksploataciju tehničko-građevnog kamena (DUGOPOLJE) · davatelj: MINIS
+ TARSTVO GOSPODARSTVA\n\nProfil općine: https://koncesijski-sat.vercel.app
+ /#opcina/41942358B64219746721264\nIzvor: Registar koncesija (FINA)\, obrad
+ a Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B64219746721264
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -115,24 +120,26 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-765ff80ff34a3d58@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-6708944bc0fe44a1@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20330630
 DTEND;VALUE=DATE:20330701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Dugopolje
 DESCRIPTION:31. 12. 2033. ističe 3 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• STRABAG D.O.O. – Koncesija za površinu utvrđenog eksploatac
- ijskog polja neenergetskih mineralnih sirovina (DUGOPOLJE)\, 2.598 €/god
- .\n• STRABAG  D.O.O. – Koncesija za eksploataciju tehničko-građevnog
-  kamena (DUGOPOLJE)\n• STRABAG D.O.O. – Koncesija za eksploataciju teh
- ničko-građevnog kamena (DUGOPOLJE)\n\nProfil općine: https://koncesijsk
- i-sat.vercel.app/#opcina/41942358B64219746721264
+ ijskog polja neenergetskih mineralnih sirovina (DUGOPOLJE) · davatelj: MI
+ NISTARSTVO GOSPODARSTVA\, 2.598 €/god.\n• STRABAG  D.O.O. – Koncesij
+ a za eksploataciju tehničko-građevnog kamena (DUGOPOLJE) · davatelj: MI
+ NISTARSTVO GOSPODARSTVA\n• STRABAG D.O.O. – Koncesija za eksploataciju
+  tehničko-građevnog kamena (DUGOPOLJE) · davatelj: MINISTARSTVO GOSPODA
+ RSTVA\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419423
+ 58B64219746721264
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B64219746721264
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Dugopolje
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT

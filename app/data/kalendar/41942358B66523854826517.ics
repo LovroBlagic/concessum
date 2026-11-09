@@ -4,24 +4,25 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Općina Lovas
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Lovas. Iz Regist
- ra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podata
- ka. https://koncesijski-sat.vercel.app/#opcina/41942358B66523854826517
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Općina Lovas (pregled\,
+  svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježava se
+  nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#opcina/4
+ 1942358B66523854826517
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-f540bfda0e82f2da@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-f395e979b303a54e@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20291001
 DTEND;VALUE=DATE:20291002
 SUMMARY:Ističe koncesija: EKO-FLOR PLUS D.O.O. ZA KOMUNALNE USLUGE I TRGOV
  INU
 DESCRIPTION:1 ugovor o koncesiji ističe 1. 10. 2029.\n\n• EKO-FLOR PLUS 
  D.O.O. ZA KOMUNALNE USLUGE I TRGOVINU – Koncesija skupljanja i odvoza ko
- munalnog otpada (LOVAS)\n\nProfil općine: https://koncesijski-sat.vercel.
- app/#opcina/41942358B66523854826517\nIzvor: Registar koncesija (FINA)\, ob
- rada Koncesijski sat 9. 11. 2026.
+ munalnog otpada (LOVAS) · davatelj: OPĆINA LOVAS\n\nProfil općine: http
+ s://koncesijski-sat.vercel.app/#opcina/41942358B66523854826517\nIzvor: Reg
+ istar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B66523854826517
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -32,8 +33,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-f540bfda0e82f2da@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-f395e979b303a54e@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20290401
 DTEND;VALUE=DATE:20290402
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (EKO-FLOR PLUS D.
@@ -41,8 +42,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (EKO-FLOR PLUS D.
 DESCRIPTION:1. 10. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• EKO-FLOR PLUS D.O.O. ZA KOMUNALNE USLUGE I TRGOVINU – Koncesija
-  skupljanja i odvoza komunalnog otpada (LOVAS)\n\nProfil općine: https://
- koncesijski-sat.vercel.app/#opcina/41942358B66523854826517
+  skupljanja i odvoza komunalnog otpada (LOVAS) · davatelj: OPĆINA LOVAS\
+ n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B665
+ 23854826517
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B66523854826517
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -53,17 +55,18 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-a31c52a59180b7e4@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-daa881ea28af3f59@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20520309
 DTEND;VALUE=DATE:20520310
 SUMMARY:Ističe koncesija: ARATOR D.O.O. ZA PROIZVODNJU\, TRGOVINU I USLUGE
 DESCRIPTION:1 ugovor o koncesiji ističe 9. 3. 2052. Godišnja fiksna nakna
  da: 1.433 €.\n\n• ARATOR D.O.O. ZA PROIZVODNJU\, TRGOVINU I USLUGE –
-  Koncesija za zahvaćanje voda za tehnološke potrebe (LOVAS)\, 1.433 €/
- god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4194235
- 8B66523854826517\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sa
- t 9. 11. 2026.
+  Koncesija za zahvaćanje voda za tehnološke potrebe (LOVAS) · davatelj:
+  MINISTARSTVO ZAŠTITE OKOLIŠA I ZELENE TRANZICIJE\, 1.433 €/god.\n\nPr
+ ofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B66523854
+ 826517\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2
+ 026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B66523854826517
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -74,8 +77,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-a31c52a59180b7e4@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-daa881ea28af3f59@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20510909
 DTEND;VALUE=DATE:20510910
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ARATOR D.O.O. ZA
@@ -83,9 +86,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ARATOR D.O.O. ZA
 DESCRIPTION:9. 3. 2052. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• ARATOR D.O.O. ZA PROIZVODNJU\, TRGOVINU I USLUGE – Koncesija za 
- zahvaćanje voda za tehnološke potrebe (LOVAS)\, 1.433 €/god.\n\nProfil
-  općine: https://koncesijski-sat.vercel.app/#opcina/41942358B665238548265
- 17
+ zahvaćanje voda za tehnološke potrebe (LOVAS) · davatelj: MINISTARSTVO 
+ ZAŠTITE OKOLIŠA I ZELENE TRANZICIJE\, 1.433 €/god.\n\nProfil općine: 
+ https://koncesijski-sat.vercel.app/#opcina/41942358B66523854826517
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B66523854826517
 TRANSP:TRANSPARENT
 BEGIN:VALARM

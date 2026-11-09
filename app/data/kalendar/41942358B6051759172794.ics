@@ -4,24 +4,26 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Općina Nijemci
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Nijemci. Iz Regi
- stra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade poda
- taka. https://koncesijski-sat.vercel.app/#opcina/41942358B6051759172794
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Općina Nijemci (pregled
+ \, svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježava 
+ se nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#opcina
+ /41942358B6051759172794
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-60292710405fdf47@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-f4bbab6661116bc2@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270731
 DTEND;VALUE=DATE:20270801
 SUMMARY:Ističe 2 koncesije · Nijemci
 DESCRIPTION:2 ugovora o koncesiji ističe 31. 7. 2027.\n\n• INA D.D. – 
  Dozvola za eksploataciju ugljikovodika (prema Zakonu o ugljikovodicima) (N
- IJEMCI)\n• INA-INDUSTRIJA NAFTE  D.D. – Dozvola za eksploataciju uglji
- kovodika (prema Zakonu o ugljikovodicima) (NIJEMCI)\n\nProfil općine: htt
- ps://koncesijski-sat.vercel.app/#opcina/41942358B6051759172794\nIzvor: Reg
- istar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ IJEMCI) · davatelj: MINISTARSTVO GOSPODARSTVA\n• INA-INDUSTRIJA NAFTE  
+ D.D. – Dozvola za eksploataciju ugljikovodika (prema Zakonu o ugljikovod
+ icima) (NIJEMCI) · davatelj: MINISTARSTVO GOSPODARSTVA\n\nProfil općine:
+  https://koncesijski-sat.vercel.app/#opcina/41942358B6051759172794\nIzvor:
+  Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B6051759172794
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -31,37 +33,39 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-60292710405fdf47@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-f4bbab6661116bc2@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270131
 DTEND;VALUE=DATE:20270201
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Nijemci
 DESCRIPTION:31. 7. 2027. ističe 2 ugovora o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• INA D.D. – Dozvola za eksploataciju ugljikovodika (prema Zakon
- u o ugljikovodicima) (NIJEMCI)\n• INA-INDUSTRIJA NAFTE  D.D. – Dozvola
-  za eksploataciju ugljikovodika (prema Zakonu o ugljikovodicima) (NIJEMCI)
- \n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B60
- 51759172794
+ u o ugljikovodicima) (NIJEMCI) · davatelj: MINISTARSTVO GOSPODARSTVA\n•
+  INA-INDUSTRIJA NAFTE  D.D. – Dozvola za eksploataciju ugljikovodika (pr
+ ema Zakonu o ugljikovodicima) (NIJEMCI) · davatelj: MINISTARSTVO GOSPODAR
+ STVA\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4194235
+ 8B6051759172794
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B6051759172794
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Nijemci
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-e08b98ea3cb26a00@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-6e91e8adf291bc4d@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20291130
 DTEND;VALUE=DATE:20291201
 SUMMARY:Ističe koncesija: MULL-TRANS D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 30. 11. 2029. Godišnja fiksna nak
  nada: 2.190 €.\n\n• MULL-TRANS D.O.O. – Koncesija skupljanja i odvoz
- a komunalnog otpada (NIJEMCI)\, 2.190 €/god.\n\nProfil općine: https://
- koncesijski-sat.vercel.app/#opcina/41942358B6051759172794\nIzvor: Registar
-  koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ a komunalnog otpada (NIJEMCI) · davatelj: OPĆINA NIJEMCI\, 2.190 €/god
+ .\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B6
+ 051759172794\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9.
+  11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B6051759172794
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -71,8 +75,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-e08b98ea3cb26a00@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-6e91e8adf291bc4d@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20290530
 DTEND;VALUE=DATE:20290531
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MULL-TRANS D.O.O
@@ -80,8 +84,8 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MULL-TRANS D.O.O
 DESCRIPTION:30. 11. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• MULL-TRANS D.O.O. – Koncesija skupljanja i odvoza komunalnog o
- tpada (NIJEMCI)\, 2.190 €/god.\n\nProfil općine: https://koncesijski-sa
- t.vercel.app/#opcina/41942358B6051759172794
+ tpada (NIJEMCI) · davatelj: OPĆINA NIJEMCI\, 2.190 €/god.\n\nProfil op
+ ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B6051759172794
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B6051759172794
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -92,17 +96,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-4fc4690ec2fdb42a@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-ee30e193e7d17b58@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20300615
 DTEND;VALUE=DATE:20300616
 SUMMARY:Ističe koncesija: HRVOJE HORVAT\,DUO EKO-DIM\,USLUGE SA SELA
 DESCRIPTION:1 ugovor o koncesiji ističe 15. 6. 2030. Godišnja fiksna nakn
  ada: 1.400 €.\n\n• HRVOJE HORVAT\,DUO EKO-DIM\,USLUGE SA SELA – Konc
- esija za obavljanje dimnjačarskih poslova (NIJEMCI)\, 1.400 €/god.\n\nP
- rofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B6051759
- 172794\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2
- 026.
+ esija za obavljanje dimnjačarskih poslova (NIJEMCI) · davatelj: OPĆINA 
+ NIJEMCI\, 1.400 €/god.\n\nProfil općine: https://koncesijski-sat.vercel
+ .app/#opcina/41942358B6051759172794\nIzvor: Registar koncesija (FINA)\, ob
+ rada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B6051759172794
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -112,8 +116,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-4fc4690ec2fdb42a@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-ee30e193e7d17b58@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20291215
 DTEND;VALUE=DATE:20291216
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVOJE HORVAT\,D
@@ -121,8 +125,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVOJE HORVAT\,D
 DESCRIPTION:15. 6. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• HRVOJE HORVAT\,DUO EKO-DIM\,USLUGE SA SELA – Koncesija za obavl
- janje dimnjačarskih poslova (NIJEMCI)\, 1.400 €/god.\n\nProfil općine:
-  https://koncesijski-sat.vercel.app/#opcina/41942358B6051759172794
+ janje dimnjačarskih poslova (NIJEMCI) · davatelj: OPĆINA NIJEMCI\, 1.40
+ 0 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4
+ 1942358B6051759172794
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B6051759172794
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -133,16 +138,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-37161dc622072056@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-f3ddadbce9185504@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20351204
 DTEND;VALUE=DATE:20351205
 SUMMARY:Ističe koncesija: HEP-PLIN  D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 4. 12. 2035.\n\n• HEP-PLIN  D.O.
  O. – Koncesija za obavljanje distribucije plina na postojećem distribuc
- ijskom sustavu (NIJEMCI)\n\nProfil općine: https://koncesijski-sat.vercel
- .app/#opcina/41942358B6051759172794\nIzvor: Registar koncesija (FINA)\, ob
- rada Koncesijski sat 9. 11. 2026.
+ ijskom sustavu (NIJEMCI) · davatelj: OPĆINA NIJEMCI\n\nProfil općine: h
+ ttps://koncesijski-sat.vercel.app/#opcina/41942358B6051759172794\nIzvor: R
+ egistar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B6051759172794
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -152,8 +157,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-37161dc622072056@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-f3ddadbce9185504@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20350604
 DTEND;VALUE=DATE:20350605
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP-PLIN  D.O.O.
@@ -161,8 +166,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP-PLIN  D.O.O.
 DESCRIPTION:4. 12. 2035. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• HEP-PLIN  D.O.O. – Koncesija za obavljanje distribucije plina n
- a postojećem distribucijskom sustavu (NIJEMCI)\n\nProfil općine: https:/
- /koncesijski-sat.vercel.app/#opcina/41942358B6051759172794
+ a postojećem distribucijskom sustavu (NIJEMCI) · davatelj: OPĆINA NIJEM
+ CI\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B
+ 6051759172794
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B6051759172794
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -173,18 +179,19 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-b348a90b82a00891@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-ab716aab66a5581f@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20371130
 DTEND;VALUE=DATE:20371201
 SUMMARY:Ističe 2 koncesije · Nijemci
 DESCRIPTION:2 ugovora o koncesiji ističe 30. 11. 2037. Godišnja fiksna na
  knada: 10.532 €.\n\n• CEZAREJA D.O.O. – Koncesija za korištenje pol
- joprivrednog zemljišta u vlasništvu države (NIJEMCI)\, 10.464 €/god.\
- n• CEZAREJA D.O.O. – Koncesija za zahvaćanje voda za melioracijsko na
- vodnjavanje (NIJEMCI)\, 68 €/god.\n\nProfil općine: https://koncesijski
- -sat.vercel.app/#opcina/41942358B6051759172794\nIzvor: Registar koncesija 
- (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ joprivrednog zemljišta u vlasništvu države (NIJEMCI) · davatelj: OPĆI
+ NA NIJEMCI\, 10.464 €/god.\n• CEZAREJA D.O.O. – Koncesija za zahvać
+ anje voda za melioracijsko navodnjavanje (NIJEMCI) · davatelj: MINISTARST
+ VO ZAŠTITE OKOLIŠA I ZELENE TRANZICIJE\, 68 €/god.\n\nProfil općine: 
+ https://koncesijski-sat.vercel.app/#opcina/41942358B6051759172794\nIzvor: 
+ Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B6051759172794
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -194,38 +201,39 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-b348a90b82a00891@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-ab716aab66a5581f@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20370530
 DTEND;VALUE=DATE:20370531
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Nijemci
 DESCRIPTION:30. 11. 2037. ističe 2 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• CEZAREJA D.O.O. – Koncesija za korištenje poljoprivrednog ze
- mljišta u vlasništvu države (NIJEMCI)\, 10.464 €/god.\n• CEZAREJA D
- .O.O. – Koncesija za zahvaćanje voda za melioracijsko navodnjavanje (NI
- JEMCI)\, 68 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app
- /#opcina/41942358B6051759172794
+ mljišta u vlasništvu države (NIJEMCI) · davatelj: OPĆINA NIJEMCI\, 10
+ .464 €/god.\n• CEZAREJA D.O.O. – Koncesija za zahvaćanje voda za me
+ lioracijsko navodnjavanje (NIJEMCI) · davatelj: MINISTARSTVO ZAŠTITE OKO
+ LIŠA I ZELENE TRANZICIJE\, 68 €/god.\n\nProfil općine: https://koncesi
+ jski-sat.vercel.app/#opcina/41942358B6051759172794
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B6051759172794
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Nijemci
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-a1cf5a9e1a46b356@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-684711d35755fe94@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20380423
 DTEND;VALUE=DATE:20380424
 SUMMARY:Ističe koncesija: SOLANUM D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 23. 4. 2038. Godišnja fiksna nakn
  ada: 18.840 €.\n\n• SOLANUM D.O.O. – Koncesija za korištenje poljop
- rivrednog zemljišta u vlasništvu države (NIJEMCI)\, 18.840 €/god.\n\n
- Profil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B605175
- 9172794\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 
- 2026.
+ rivrednog zemljišta u vlasništvu države (NIJEMCI) · davatelj: OPĆINA 
+ NIJEMCI\, 18.840 €/god.\n\nProfil općine: https://koncesijski-sat.verce
+ l.app/#opcina/41942358B6051759172794\nIzvor: Registar koncesija (FINA)\, o
+ brada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B6051759172794
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -235,16 +243,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-a1cf5a9e1a46b356@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-684711d35755fe94@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20371023
 DTEND;VALUE=DATE:20371024
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (SOLANUM D.O.O.)
 DESCRIPTION:23. 4. 2038. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• SOLANUM D.O.O. – Koncesija za korištenje poljoprivrednog zemlj
- išta u vlasništvu države (NIJEMCI)\, 18.840 €/god.\n\nProfil općine:
-  https://koncesijski-sat.vercel.app/#opcina/41942358B6051759172794
+ išta u vlasništvu države (NIJEMCI) · davatelj: OPĆINA NIJEMCI\, 18.84
+ 0 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4
+ 1942358B6051759172794
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B6051759172794
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -255,17 +264,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-d2e977c4c5808e02@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-91c9dd3df258b25b@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20401231
 DTEND;VALUE=DATE:20410101
 SUMMARY:Ističe koncesija: INA-INDUSTRIJA NAFTE  D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 31. 12. 2040. Godišnja fiksna nak
  nada: 9.580 €.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauzet
- u površinu odobrenog eksploatacijskog polja (NIJEMCI)\, 9.580 €/god.\n\
- nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B60517
- 59172794\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11.
-  2026.
+ u površinu odobrenog eksploatacijskog polja (NIJEMCI) · davatelj: MINIST
+ ARSTVO GOSPODARSTVA\, 9.580 €/god.\n\nProfil općine: https://koncesijsk
+ i-sat.vercel.app/#opcina/41942358B6051759172794\nIzvor: Registar koncesija
+  (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B6051759172794
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -275,8 +284,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-d2e977c4c5808e02@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-91c9dd3df258b25b@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20400630
 DTEND;VALUE=DATE:20400701
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA-INDUSTRIJA N
@@ -284,8 +293,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA-INDUSTRIJA N
 DESCRIPTION:31. 12. 2040. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauzetu površinu od
- obrenog eksploatacijskog polja (NIJEMCI)\, 9.580 €/god.\n\nProfil općin
- e: https://koncesijski-sat.vercel.app/#opcina/41942358B6051759172794
+ obrenog eksploatacijskog polja (NIJEMCI) · davatelj: MINISTARSTVO GOSPODA
+ RSTVA\, 9.580 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.a
+ pp/#opcina/41942358B6051759172794
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B6051759172794
 TRANSP:TRANSPARENT
 BEGIN:VALARM

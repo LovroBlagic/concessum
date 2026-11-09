@@ -1,0 +1,72 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · GRAD SOLIN
+X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje GRAD SOLIN. Iz Registra ko
+ ncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podataka. h
+ ttps://koncesijski-sat.vercel.app/#sat
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-aab621ddce104ed9@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+SUMMARY:Ističe koncesija: ANA MARUŠIĆ\, ANA-M
+DESCRIPTION:1 ugovor o koncesiji ističe 16. 1. 2027. Godišnja fiksna nakn
+ ada: 1.062 €.\n\n• ANA MARUŠIĆ\, ANA-M – Koncesija na kulturnom do
+ bru (SOLIN\, Grad Solin)\, 1.062 €/god.\n\nŠto ističe: https://koncesi
+ jski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Konces
+ ijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: ANA MARUŠIĆ\, ANA-M
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-72884de911f4573f@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20300515
+DTEND;VALUE=DATE:20300516
+SUMMARY:Ističe koncesija: DIMNJAČARSTVO KAMIN J.D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 15. 5. 2030. Godišnja fiksna nakn
+ ada: 600 €.\n\n• DIMNJAČARSTVO KAMIN J.D.O.O. – Koncesija za obavlj
+ anje dimnjačarskih poslova (SOLIN\, Grad Solin)\, 600 €/god.\n\nŠto is
+ tiče: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija 
+ (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: DIMNJAČARSTVO KAMIN J.D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-72884de911f4573f@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20291115
+DTEND;VALUE=DATE:20291116
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DIMNJAČARSTVO K
+ AMIN J.D.O.O.)
+DESCRIPTION:15. 5. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• DIMNJAČARSTVO KAMIN J.D.O.O. – Koncesija za obavljanje dimnja
+ čarskih poslova (SOLIN\, Grad Solin)\, 600 €/god.\n\nŠto ističe: http
+ s://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DIMNJAČARST
+ VO KAMIN J.D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

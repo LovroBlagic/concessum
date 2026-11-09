@@ -4,23 +4,25 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Općina Gračac
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Gračac. Iz Regi
- stra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade poda
- taka. https://koncesijski-sat.vercel.app/#opcina/41942358B27131449987537
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Općina Gračac (pregled
+ \, svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježava 
+ se nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#opcina
+ /41942358B27131449987537
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-8cafb0f7f3a5409c@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-bc7fcf76fe67a557@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20281230
 DTEND;VALUE=DATE:20281231
 SUMMARY:Ističe koncesija: NOCLERIUS D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 30. 12. 2028. Godišnja fiksna nak
  nada: 1.062 €.\n\n• NOCLERIUS D.O.O. – Koncesija za zahvaćanje voda
-  za tehnološke potrebe (GRAČAC)\, 1.062 €/god.\n\nProfil općine: http
- s://koncesijski-sat.vercel.app/#opcina/41942358B27131449987537\nIzvor: Reg
- istar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+  za tehnološke potrebe (GRAČAC) · davatelj: MINISTARSTVO ZAŠTITE OKOLI
+ ŠA I ZELENE TRANZICIJE\, 1.062 €/god.\n\nProfil općine: https://konces
+ ijski-sat.vercel.app/#opcina/41942358B27131449987537\nIzvor: Registar konc
+ esija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B27131449987537
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -30,8 +32,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-8cafb0f7f3a5409c@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-bc7fcf76fe67a557@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20280630
 DTEND;VALUE=DATE:20280701
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (NOCLERIUS D.O.O.
@@ -39,8 +41,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (NOCLERIUS D.O.O.
 DESCRIPTION:30. 12. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• NOCLERIUS D.O.O. – Koncesija za zahvaćanje voda za tehnološk
- e potrebe (GRAČAC)\, 1.062 €/god.\n\nProfil općine: https://koncesijsk
- i-sat.vercel.app/#opcina/41942358B27131449987537
+ e potrebe (GRAČAC) · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠA I ZELENE T
+ RANZICIJE\, 1.062 €/god.\n\nProfil općine: https://koncesijski-sat.verc
+ el.app/#opcina/41942358B27131449987537
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B27131449987537
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -51,19 +54,21 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-af718888da8341db@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-bbf66660c64b7d19@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20491231
 DTEND;VALUE=DATE:20500101
 SUMMARY:Ističe 3 koncesije · Gračac
 DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2049. Godišnja fiksna na
  knada: 1.640 €.\n\n• GOLA GLAVA D.O.O. – Koncesija za površinu utvr
- đenog eksploatacijskog polja neenergetskih mineralnih sirovina (GRAČAC)\
- , 1.640 €/god.\n• GOLA GLAVA D.O.O. – Koncesija za eksploataciju teh
- ničko-građevnog kamena (GRAČAC)\n• GOLA GLAVA D.O.O. – Koncesija za
-  eksploataciju tehničko-građevnog kamena (GRAČAC)\n\nProfil općine: ht
- tps://koncesijski-sat.vercel.app/#opcina/41942358B27131449987537\nIzvor: R
- egistar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ đenog eksploatacijskog polja neenergetskih mineralnih sirovina (GRAČAC) 
+ · davatelj: MINISTARSTVO GOSPODARSTVA\, 1.640 €/god.\n• GOLA GLAVA D.
+ O.O. – Koncesija za eksploataciju tehničko-građevnog kamena (GRAČAC) 
+ · davatelj: MINISTARSTVO GOSPODARSTVA\n• GOLA GLAVA D.O.O. – Koncesij
+ a za eksploataciju tehničko-građevnog kamena (GRAČAC) · davatelj: MINI
+ STARSTVO GOSPODARSTVA\n\nProfil općine: https://koncesijski-sat.vercel.ap
+ p/#opcina/41942358B27131449987537\nIzvor: Registar koncesija (FINA)\, obra
+ da Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B27131449987537
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -73,24 +78,26 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-af718888da8341db@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-bbf66660c64b7d19@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20490630
 DTEND;VALUE=DATE:20490701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Gračac
 DESCRIPTION:31. 12. 2049. ističe 3 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• GOLA GLAVA D.O.O. – Koncesija za površinu utvrđenog eksploa
- tacijskog polja neenergetskih mineralnih sirovina (GRAČAC)\, 1.640 €/go
- d.\n• GOLA GLAVA D.O.O. – Koncesija za eksploataciju tehničko-građev
- nog kamena (GRAČAC)\n• GOLA GLAVA D.O.O. – Koncesija za eksploataciju
-  tehničko-građevnog kamena (GRAČAC)\n\nProfil općine: https://koncesij
- ski-sat.vercel.app/#opcina/41942358B27131449987537
+ tacijskog polja neenergetskih mineralnih sirovina (GRAČAC) · davatelj: M
+ INISTARSTVO GOSPODARSTVA\, 1.640 €/god.\n• GOLA GLAVA D.O.O. – Konce
+ sija za eksploataciju tehničko-građevnog kamena (GRAČAC) · davatelj: M
+ INISTARSTVO GOSPODARSTVA\n• GOLA GLAVA D.O.O. – Koncesija za eksploata
+ ciju tehničko-građevnog kamena (GRAČAC) · davatelj: MINISTARSTVO GOSPO
+ DARSTVA\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4194
+ 2358B27131449987537
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B27131449987537
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Gračac
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT

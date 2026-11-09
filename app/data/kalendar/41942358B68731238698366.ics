@@ -4,23 +4,24 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Grad Pleternica
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Grad Pleternica. Iz Regi
- stra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade poda
- taka. https://koncesijski-sat.vercel.app/#opcina/41942358B68731238698366
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Grad Pleternica (pregled
+ \, svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježava 
+ se nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#opcina
+ /41942358B68731238698366
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-83b9a82abd5e91c1@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-33e1a166f4ceda92@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20290731
 DTEND;VALUE=DATE:20290801
 SUMMARY:Ističe koncesija: MONTCOGIM-PLINARA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 31. 7. 2029.\n\n• MONTCOGIM-PLIN
  ARA D.O.O. – Koncesija za opskrbu potrošača prirodnim plinom (PLETERNI
- CA)\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358
- B68731238698366\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat
-  9. 11. 2026.
+ CA) · davatelj: GRAD PLETERNICA\n\nProfil općine: https://koncesijski-sa
+ t.vercel.app/#opcina/41942358B68731238698366\nIzvor: Registar koncesija (F
+ INA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B68731238698366
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -30,8 +31,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-83b9a82abd5e91c1@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-33e1a166f4ceda92@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20290131
 DTEND;VALUE=DATE:20290201
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MONTCOGIM-PLINAR
@@ -39,8 +40,8 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MONTCOGIM-PLINAR
 DESCRIPTION:31. 7. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• MONTCOGIM-PLINARA D.O.O. – Koncesija za opskrbu potrošača pri
- rodnim plinom (PLETERNICA)\n\nProfil općine: https://koncesijski-sat.verc
- el.app/#opcina/41942358B68731238698366
+ rodnim plinom (PLETERNICA) · davatelj: GRAD PLETERNICA\n\nProfil općine:
+  https://koncesijski-sat.vercel.app/#opcina/41942358B68731238698366
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B68731238698366
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -51,20 +52,22 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-b33b4cf075e403a9@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-f186f450e3e43546@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20381231
 DTEND;VALUE=DATE:20390101
 SUMMARY:Ističe 3 koncesije · Pleternica
 DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2038. Godišnja fiksna na
  knada: 2.832 €.\n\n• HRVATSKE ŠUME D.O.O. – Koncesija za eksploatac
- iju tehničko-građevnog kamena (PLETERNICA)\, 944 €/god.\n• HRVATSKE 
- ŠUME D.O.O. – Koncesija za eksploataciju tehničko-građevnog kamena (P
- LETERNICA)\, 944 €/god.\n• HRVATSKE ŠUME D.O.O. – Koncesija za povr
- šinu utvrđenog eksploatacijskog polja neenergetskih mineralnih sirovina 
- (PLETERNICA)\, 944 €/god.\n\nProfil općine: https://koncesijski-sat.ver
- cel.app/#opcina/41942358B68731238698366\nIzvor: Registar koncesija (FINA)\
- , obrada Koncesijski sat 9. 11. 2026.
+ iju tehničko-građevnog kamena (PLETERNICA) · davatelj: MINISTARSTVO GOS
+ PODARSTVA\, 944 €/god.\n• HRVATSKE ŠUME D.O.O. – Koncesija za ekspl
+ oataciju tehničko-građevnog kamena (PLETERNICA) · davatelj: MINISTARSTV
+ O GOSPODARSTVA\, 944 €/god.\n• HRVATSKE ŠUME D.O.O. – Koncesija za 
+ površinu utvrđenog eksploatacijskog polja neenergetskih mineralnih sirov
+ ina (PLETERNICA) · davatelj: MINISTARSTVO GOSPODARSTVA\, 944 €/god.\n\n
+ Profil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B687312
+ 38698366\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11.
+  2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B68731238698366
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -74,40 +77,42 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-b33b4cf075e403a9@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-f186f450e3e43546@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20380630
 DTEND;VALUE=DATE:20380701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Pleternica
 DESCRIPTION:31. 12. 2038. ističe 3 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• HRVATSKE ŠUME D.O.O. – Koncesija za eksploataciju tehničko-
- građevnog kamena (PLETERNICA)\, 944 €/god.\n• HRVATSKE ŠUME D.O.O. 
- – Koncesija za eksploataciju tehničko-građevnog kamena (PLETERNICA)\, 
- 944 €/god.\n• HRVATSKE ŠUME D.O.O. – Koncesija za površinu utvrđe
- nog eksploatacijskog polja neenergetskih mineralnih sirovina (PLETERNICA)\
- , 944 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opci
- na/41942358B68731238698366
+ građevnog kamena (PLETERNICA) · davatelj: MINISTARSTVO GOSPODARSTVA\, 94
+ 4 €/god.\n• HRVATSKE ŠUME D.O.O. – Koncesija za eksploataciju tehni
+ čko-građevnog kamena (PLETERNICA) · davatelj: MINISTARSTVO GOSPODARSTVA
+ \, 944 €/god.\n• HRVATSKE ŠUME D.O.O. – Koncesija za površinu utvr
+ đenog eksploatacijskog polja neenergetskih mineralnih sirovina (PLETERNIC
+ A) · davatelj: MINISTARSTVO GOSPODARSTVA\, 944 €/god.\n\nProfil općine
+ : https://koncesijski-sat.vercel.app/#opcina/41942358B68731238698366
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B68731238698366
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Pleternica
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-ea7e87a654e93009@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-b42e02fd91f99e94@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20420724
 DTEND;VALUE=DATE:20420725
 SUMMARY:Ističe koncesija: PLETERNIČKI KOMUNALAC D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 24. 7. 2042. Godišnja fiksna nakn
  ada: 1.611 €.\n\n• PLETERNIČKI KOMUNALAC D.O.O. – Koncesija za kori
- štenje vodne snage radi proizvodnje električne energije (PLETERNICA)\, 1
- .611 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcin
- a/41942358B68731238698366\nIzvor: Registar koncesija (FINA)\, obrada Konce
- sijski sat 9. 11. 2026.
+ štenje vodne snage radi proizvodnje električne energije (PLETERNICA) · 
+ davatelj: MINISTARSTVO ZAŠTITE OKOLIŠA I ZELENE TRANZICIJE\, 1.611 €/g
+ od.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358
+ B68731238698366\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat
+  9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B68731238698366
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -117,8 +122,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-ea7e87a654e93009@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-b42e02fd91f99e94@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20420124
 DTEND;VALUE=DATE:20420125
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PLETERNIČKI KOM
@@ -126,9 +131,10 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PLETERNIČKI KOM
 DESCRIPTION:24. 7. 2042. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• PLETERNIČKI KOMUNALAC D.O.O. – Koncesija za korištenje vodne 
- snage radi proizvodnje električne energije (PLETERNICA)\, 1.611 €/god.\
- n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B687
- 31238698366
+ snage radi proizvodnje električne energije (PLETERNICA) · davatelj: MINI
+ STARSTVO ZAŠTITE OKOLIŠA I ZELENE TRANZICIJE\, 1.611 €/god.\n\nProfil 
+ općine: https://koncesijski-sat.vercel.app/#opcina/41942358B6873123869836
+ 6
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B68731238698366
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -139,17 +145,18 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-1692d6f9b91d455b@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-fd5fff0ce1eca93b@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20450925
 DTEND;VALUE=DATE:20450926
 SUMMARY:Ističe koncesija: MAHE HIDROELEKTRANA J.D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 25. 9. 2045. Godišnja fiksna nakn
  ada: 896 €.\n\n• MAHE HIDROELEKTRANA J.D.O.O. – Koncesija za korišt
- enje vodne snage radi proizvodnje električne energije (PLETERNICA)\, 896 
- €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
- 42358B68731238698366\nIzvor: Registar koncesija (FINA)\, obrada Koncesijsk
- i sat 9. 11. 2026.
+ enje vodne snage radi proizvodnje električne energije (PLETERNICA) · dav
+ atelj: MINISTARSTVO ZAŠTITE OKOLIŠA I ZELENE TRANZICIJE\, 896 €/god.\n
+ \nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B6873
+ 1238698366\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 1
+ 1. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B68731238698366
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -159,8 +166,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-1692d6f9b91d455b@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-fd5fff0ce1eca93b@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20450325
 DTEND;VALUE=DATE:20450326
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MAHE HIDROELEKTR
@@ -168,9 +175,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MAHE HIDROELEKTR
 DESCRIPTION:25. 9. 2045. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• MAHE HIDROELEKTRANA J.D.O.O. – Koncesija za korištenje vodne s
- nage radi proizvodnje električne energije (PLETERNICA)\, 896 €/god.\n\n
- Profil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B687312
- 38698366
+ nage radi proizvodnje električne energije (PLETERNICA) · davatelj: MINIS
+ TARSTVO ZAŠTITE OKOLIŠA I ZELENE TRANZICIJE\, 896 €/god.\n\nProfil op
+ ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B68731238698366
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B68731238698366
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -181,16 +188,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-fd4f30cd96d90150@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-18bf244fd62bf23e@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20480601
 DTEND;VALUE=DATE:20480602
 SUMMARY:Ističe koncesija: KUTJEVO D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 1. 6. 2048. Godišnja fiksna nakna
  da: 7 €.\n\n• KUTJEVO D.D. – Koncesija za zahvaćanje voda za melior
- acijsko navodnjavanje (PLETERNICA)\, 7 €/god.\n\nProfil općine: https:/
- /koncesijski-sat.vercel.app/#opcina/41942358B68731238698366\nIzvor: Regist
- ar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ acijsko navodnjavanje (PLETERNICA) · davatelj: MINISTARSTVO ZAŠTITE OKOL
+ IŠA I ZELENE TRANZICIJE\, 7 €/god.\n\nProfil općine: https://koncesijs
+ ki-sat.vercel.app/#opcina/41942358B68731238698366\nIzvor: Registar koncesi
+ ja (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B68731238698366
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -200,16 +208,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-fd4f30cd96d90150@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-18bf244fd62bf23e@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20471201
 DTEND;VALUE=DATE:20471202
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (KUTJEVO D.D.)
 DESCRIPTION:1. 6. 2048. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• KUTJEVO D.D. – Koncesija za zahvaćanje voda za melioracijsko na
- vodnjavanje (PLETERNICA)\, 7 €/god.\n\nProfil općine: https://koncesijs
- ki-sat.vercel.app/#opcina/41942358B68731238698366
+ vodnjavanje (PLETERNICA) · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠA I ZEL
+ ENE TRANZICIJE\, 7 €/god.\n\nProfil općine: https://koncesijski-sat.ver
+ cel.app/#opcina/41942358B68731238698366
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B68731238698366
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -220,17 +229,18 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-064f7922c819facc@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-ba0f4c6c140b66b3@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20500626
 DTEND;VALUE=DATE:20500627
 SUMMARY:Ističe koncesija: MALA HIDROELEKTRANA PLETERNICA DOO
 DESCRIPTION:1 ugovor o koncesiji ističe 26. 6. 2050. Godišnja fiksna nakn
  ada: 164 €.\n\n• MALA HIDROELEKTRANA PLETERNICA DOO – Koncesija za k
- orištenje vodne snage radi proizvodnje električne energije (PLETERNICA)\
- , 164 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opci
- na/41942358B68731238698366\nIzvor: Registar koncesija (FINA)\, obrada Konc
- esijski sat 9. 11. 2026.
+ orištenje vodne snage radi proizvodnje električne energije (PLETERNICA) 
+ · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠA I ZELENE TRANZICIJE\, 164 €/
+ god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4194235
+ 8B68731238698366\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sa
+ t 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B68731238698366
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -240,8 +250,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-064f7922c819facc@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-ba0f4c6c140b66b3@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20491226
 DTEND;VALUE=DATE:20491227
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MALA HIDROELEKTR
@@ -249,9 +259,10 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MALA HIDROELEKTR
 DESCRIPTION:26. 6. 2050. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• MALA HIDROELEKTRANA PLETERNICA DOO – Koncesija za korištenje v
- odne snage radi proizvodnje električne energije (PLETERNICA)\, 164 €/go
- d.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B
- 68731238698366
+ odne snage radi proizvodnje električne energije (PLETERNICA) · davatelj:
+  MINISTARSTVO ZAŠTITE OKOLIŠA I ZELENE TRANZICIJE\, 164 €/god.\n\nProf
+ il općine: https://koncesijski-sat.vercel.app/#opcina/41942358B6873123869
+ 8366
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B68731238698366
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -262,8 +273,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-60b7d132ac706979@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-3a48d9759fbde79c@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20510610
 DTEND;VALUE=DATE:20510611
 SUMMARY:Ističe koncesija: ORLJAVA-OBNOVLJIVI IZVORI ENERGIJE D.O.O. ZA PRO
@@ -271,9 +282,10 @@ SUMMARY:Ističe koncesija: ORLJAVA-OBNOVLJIVI IZVORI ENERGIJE D.O.O. ZA PRO
 DESCRIPTION:1 ugovor o koncesiji ističe 10. 6. 2051. Godišnja fiksna nakn
  ada: 465 €.\n\n• ORLJAVA-OBNOVLJIVI IZVORI ENERGIJE D.O.O. ZA PROIZVOD
  NJU\, TRGOVINU I USLUGE – Koncesija za korištenje vodne snage radi proi
- zvodnje električne energije (PLETERNICA)\, 465 €/god.\n\nProfil općine
- : https://koncesijski-sat.vercel.app/#opcina/41942358B68731238698366\nIzvo
- r: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ zvodnje električne energije (PLETERNICA) · davatelj: MINISTARSTVO ZAŠTI
+ TE OKOLIŠA I ZELENE TRANZICIJE\, 465 €/god.\n\nProfil općine: https://
+ koncesijski-sat.vercel.app/#opcina/41942358B68731238698366\nIzvor: Regista
+ r koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B68731238698366
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -284,8 +296,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-60b7d132ac706979@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-3a48d9759fbde79c@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20501210
 DTEND;VALUE=DATE:20501211
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ORLJAVA-OBNOVLJI
@@ -294,8 +306,9 @@ DESCRIPTION:10. 6. 2051. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• ORLJAVA-OBNOVLJIVI IZVORI ENERGIJE D.O.O. ZA PROIZVODNJU\, TRGOVI
  NU I USLUGE – Koncesija za korištenje vodne snage radi proizvodnje elek
- trične energije (PLETERNICA)\, 465 €/god.\n\nProfil općine: https://ko
- ncesijski-sat.vercel.app/#opcina/41942358B68731238698366
+ trične energije (PLETERNICA) · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠA 
+ I ZELENE TRANZICIJE\, 465 €/god.\n\nProfil općine: https://koncesijski-
+ sat.vercel.app/#opcina/41942358B68731238698366
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B68731238698366
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -306,17 +319,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-a2e43d4796edfea6@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-20af09725f7f3daf@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20550626
 DTEND;VALUE=DATE:20550627
 SUMMARY:Ističe koncesija: ASPECT CROATIA KFT. - PODRUŽNICA ZAGREB
 DESCRIPTION:1 ugovor o koncesiji ističe 26. 6. 2055. Godišnja fiksna nakn
  ada: 8.358 €.\n\n• ASPECT CROATIA KFT. - PODRUŽNICA ZAGREB – Dozvol
  a za istraživanje ugljikovodika (prema Zakonu o ugljikovodicima) (PLETERN
- ICA)\, 8.358 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.ap
- p/#opcina/41942358B68731238698366\nIzvor: Registar koncesija (FINA)\, obra
- da Koncesijski sat 9. 11. 2026.
+ ICA) · davatelj: MINISTARSTVO GOSPODARSTVA\, 8.358 €/god.\n\nProfil op
+ ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B68731238698366\
+ nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B68731238698366
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -326,8 +339,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-a2e43d4796edfea6@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-20af09725f7f3daf@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20541226
 DTEND;VALUE=DATE:20541227
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ASPECT CROATIA K
@@ -335,9 +348,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ASPECT CROATIA K
 DESCRIPTION:26. 6. 2055. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• ASPECT CROATIA KFT. - PODRUŽNICA ZAGREB – Dozvola za istraživ
- anje ugljikovodika (prema Zakonu o ugljikovodicima) (PLETERNICA)\, 8.358 
- €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
- 42358B68731238698366
+ anje ugljikovodika (prema Zakonu o ugljikovodicima) (PLETERNICA) · davate
+ lj: MINISTARSTVO GOSPODARSTVA\, 8.358 €/god.\n\nProfil općine: https://
+ koncesijski-sat.vercel.app/#opcina/41942358B68731238698366
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B68731238698366
 TRANSP:TRANSPARENT
 BEGIN:VALARM

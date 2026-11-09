@@ -4,23 +4,25 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Grad Samobor
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Grad Samobor. Iz Registr
- a koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podatak
- a. https://koncesijski-sat.vercel.app/#opcina/41942358B81263259444247
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Grad Samobor (pregled\, 
+ svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježava se 
+ nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#opcina/41
+ 942358B81263259444247
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-980dde1577a695d9@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-e0b0dd3984c3c680@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270721
 DTEND;VALUE=DATE:20270722
 SUMMARY:Ističe koncesija: MATIS D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 21. 7. 2027. Godišnja fiksna nakn
  ada: 133 €.\n\n• MATIS D.O.O. – Koncesija za obavljanje djelatnosti 
- radija (SAMOBOR)\, 133 €/god.\n\nProfil općine: https://koncesijski-sat
- .vercel.app/#opcina/41942358B81263259444247\nIzvor: Registar koncesija (FI
- NA)\, obrada Koncesijski sat 9. 11. 2026.
+ radija (SAMOBOR) · davatelj: AGENCIJA ZA ELEKTRONIČKE MEDIJE\, 133 €/g
+ od.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358
+ B81263259444247\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat
+  9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B81263259444247
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -30,16 +32,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-980dde1577a695d9@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-e0b0dd3984c3c680@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270121
 DTEND;VALUE=DATE:20270122
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MATIS D.O.O.)
 DESCRIPTION:21. 7. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• MATIS D.O.O. – Koncesija za obavljanje djelatnosti radija (SAMO
- BOR)\, 133 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/
- #opcina/41942358B81263259444247
+ BOR) · davatelj: AGENCIJA ZA ELEKTRONIČKE MEDIJE\, 133 €/god.\n\nProfi
+ l općine: https://koncesijski-sat.vercel.app/#opcina/41942358B81263259444
+ 247
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B81263259444247
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -50,18 +53,18 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-5b45956ba02d740f@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-945125bee0842b1f@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270818
 DTEND;VALUE=DATE:20270819
 SUMMARY:Ističe koncesija: BISERNA MLADICA OBRT ZA RIBARSTVO\, TRGOVINU I U
  SLUGE\, VL.JADRANKA MARENIĆ
 DESCRIPTION:1 ugovor o koncesiji ističe 18. 8. 2027.\n\n• BISERNA MLADIC
  A OBRT ZA RIBARSTVO\, TRGOVINU I USLUGE\, VL.JADRANKA MARENIĆ – Koncesi
- ja za korištenje voda za uzgoj riba u zatvorenim vodama (SAMOBOR)\n\nProf
- il općine: https://koncesijski-sat.vercel.app/#opcina/41942358B8126325944
- 4247\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 202
- 6.
+ ja za korištenje voda za uzgoj riba u zatvorenim vodama (SAMOBOR) · dava
+ telj: MINISTARSTVO ZAŠTITE OKOLIŠA I ZELENE TRANZICIJE\n\nProfil općine
+ : https://koncesijski-sat.vercel.app/#opcina/41942358B81263259444247\nIzvo
+ r: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B81263259444247
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -72,8 +75,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-5b45956ba02d740f@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-945125bee0842b1f@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270218
 DTEND;VALUE=DATE:20270219
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BISERNA MLADICA 
@@ -82,8 +85,9 @@ DESCRIPTION:18. 8. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• BISERNA MLADICA OBRT ZA RIBARSTVO\, TRGOVINU I USLUGE\, VL.JADRAN
  KA MARENIĆ – Koncesija za korištenje voda za uzgoj riba u zatvorenim v
- odama (SAMOBOR)\n\nProfil općine: https://koncesijski-sat.vercel.app/#opc
- ina/41942358B81263259444247
+ odama (SAMOBOR) · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠA I ZELENE TRANZ
+ ICIJE\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419423
+ 58B81263259444247
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B81263259444247
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -94,17 +98,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-d716af67c0c8d4d5@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-4b0c2564f6ad4062@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20271231
 DTEND;VALUE=DATE:20280101
 SUMMARY:Ističe koncesija: SAMOBORKA D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 31. 12. 2027. Godišnja fiksna nak
  nada: 3.682 €.\n\n• SAMOBORKA D.D. – Koncesija za površinu utvrđen
- og eksploatacijskog polja neenergetskih mineralnih sirovina (SAMOBOR)\, 3.
- 682 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina
- /41942358B81263259444247\nIzvor: Registar koncesija (FINA)\, obrada Konces
- ijski sat 9. 11. 2026.
+ og eksploatacijskog polja neenergetskih mineralnih sirovina (SAMOBOR) · d
+ avatelj: MINISTARSTVO GOSPODARSTVA\, 3.682 €/god.\n\nProfil općine: htt
+ ps://koncesijski-sat.vercel.app/#opcina/41942358B81263259444247\nIzvor: Re
+ gistar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B81263259444247
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -114,17 +118,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-d716af67c0c8d4d5@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-4b0c2564f6ad4062@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270630
 DTEND;VALUE=DATE:20270701
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (SAMOBORKA D.D.)
 DESCRIPTION:31. 12. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• SAMOBORKA D.D. – Koncesija za površinu utvrđenog eksploataci
- jskog polja neenergetskih mineralnih sirovina (SAMOBOR)\, 3.682 €/god.\n
- \nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B8126
- 3259444247
+ jskog polja neenergetskih mineralnih sirovina (SAMOBOR) · davatelj: MINIS
+ TARSTVO GOSPODARSTVA\, 3.682 €/god.\n\nProfil općine: https://koncesijs
+ ki-sat.vercel.app/#opcina/41942358B81263259444247
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B81263259444247
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -135,20 +139,21 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-ffca41dad922c67e@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-ccc4cc03230a0e60@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20281231
 DTEND;VALUE=DATE:20290101
 SUMMARY:Ističe 3 koncesije · Samobor
 DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2028. Godišnja fiksna na
  knada: 5.120 €.\n\n• SAMOBORKA SAMOBOR D.O.O. – Koncesija za površi
  nu utvrđenog eksploatacijskog polja neenergetskih mineralnih sirovina (SA
- MOBOR)\, 5.120 €/god.\n• SAMOBORKA SAMOBOR D.O.O. – Koncesija za eks
- ploataciju tehničko-građevnog kamena (SAMOBOR)\n• SAMOBORKA SAMOBOR D.
- O.O. – Koncesija za eksploataciju tehničko-građevnog kamena (SAMOBOR)\
- n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B812
- 63259444247\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 
- 11. 2026.
+ MOBOR) · davatelj: MINISTARSTVO GOSPODARSTVA\, 5.120 €/god.\n• SAMOBO
+ RKA SAMOBOR D.O.O. – Koncesija za eksploataciju tehničko-građevnog kam
+ ena (SAMOBOR) · davatelj: MINISTARSTVO GOSPODARSTVA\n• SAMOBORKA SAMOBO
+ R D.O.O. – Koncesija za eksploataciju tehničko-građevnog kamena (SAMOB
+ OR) · davatelj: MINISTARSTVO GOSPODARSTVA\n\nProfil općine: https://konc
+ esijski-sat.vercel.app/#opcina/41942358B81263259444247\nIzvor: Registar ko
+ ncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B81263259444247
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -158,39 +163,41 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-ffca41dad922c67e@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-ccc4cc03230a0e60@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20280630
 DTEND;VALUE=DATE:20280701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Samobor
 DESCRIPTION:31. 12. 2028. ističe 3 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• SAMOBORKA SAMOBOR D.O.O. – Koncesija za površinu utvrđenog 
- eksploatacijskog polja neenergetskih mineralnih sirovina (SAMOBOR)\, 5.120
-  €/god.\n• SAMOBORKA SAMOBOR D.O.O. – Koncesija za eksploataciju teh
- ničko-građevnog kamena (SAMOBOR)\n• SAMOBORKA SAMOBOR D.O.O. – Konce
- sija za eksploataciju tehničko-građevnog kamena (SAMOBOR)\n\nProfil opć
- ine: https://koncesijski-sat.vercel.app/#opcina/41942358B81263259444247
+ eksploatacijskog polja neenergetskih mineralnih sirovina (SAMOBOR) · dava
+ telj: MINISTARSTVO GOSPODARSTVA\, 5.120 €/god.\n• SAMOBORKA SAMOBOR D.
+ O.O. – Koncesija za eksploataciju tehničko-građevnog kamena (SAMOBOR) 
+ · davatelj: MINISTARSTVO GOSPODARSTVA\n• SAMOBORKA SAMOBOR D.O.O. – K
+ oncesija za eksploataciju tehničko-građevnog kamena (SAMOBOR) · davatel
+ j: MINISTARSTVO GOSPODARSTVA\n\nProfil općine: https://koncesijski-sat.ve
+ rcel.app/#opcina/41942358B81263259444247
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B81263259444247
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Samobor
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-37c553e65d6dedf4@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-1b57e2fc7f2adb3d@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20290108
 DTEND;VALUE=DATE:20290109
 SUMMARY:Ističe koncesija: ENERGO  METAN  D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 8. 1. 2029. Godišnja fiksna nakna
  da: 1.327 €.\n\n• ENERGO  METAN  D.O.O. – Koncesija za obavljanje di
- stribucije plina na postojećem distribucijskom sustavu (SAMOBOR)\, 1.327 
- €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
- 42358B81263259444247\nIzvor: Registar koncesija (FINA)\, obrada Koncesijsk
- i sat 9. 11. 2026.
+ stribucije plina na postojećem distribucijskom sustavu (SAMOBOR) · davat
+ elj: ZAGREBAČKA ŽUPANIJA\, 1.327 €/god.\n\nProfil općine: https://kon
+ cesijski-sat.vercel.app/#opcina/41942358B81263259444247\nIzvor: Registar k
+ oncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B81263259444247
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -200,8 +207,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-37c553e65d6dedf4@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-1b57e2fc7f2adb3d@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20280708
 DTEND;VALUE=DATE:20280709
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ENERGO  METAN  D
@@ -209,9 +216,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ENERGO  METAN  D
 DESCRIPTION:8. 1. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• ENERGO  METAN  D.O.O. – Koncesija za obavljanje distribucije pli
- na na postojećem distribucijskom sustavu (SAMOBOR)\, 1.327 €/god.\n\nPr
- ofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B81263259
- 444247
+ na na postojećem distribucijskom sustavu (SAMOBOR) · davatelj: ZAGREBAČ
+ KA ŽUPANIJA\, 1.327 €/god.\n\nProfil općine: https://koncesijski-sat.v
+ ercel.app/#opcina/41942358B81263259444247
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B81263259444247
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -222,16 +229,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-a94fd0d0845b56b6@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-406e09bb3f060cc7@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20300126
 DTEND;VALUE=DATE:20300127
 SUMMARY:Ističe koncesija: AUTOTURIST SAMOBOR D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 26. 1. 2030.\n\n• AUTOTURIST SAM
  OBOR D.O.O. – Koncesija za obavljanje djelatnosti javnog gradskog prijev
- oza putnika (SAMOBOR)\n\nProfil općine: https://koncesijski-sat.vercel.ap
- p/#opcina/41942358B81263259444247\nIzvor: Registar koncesija (FINA)\, obra
- da Koncesijski sat 9. 11. 2026.
+ oza putnika (SAMOBOR) · davatelj: GRAD SAMOBOR\n\nProfil općine: https:/
+ /koncesijski-sat.vercel.app/#opcina/41942358B81263259444247\nIzvor: Regist
+ ar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B81263259444247
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -241,8 +248,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-a94fd0d0845b56b6@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-406e09bb3f060cc7@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20290726
 DTEND;VALUE=DATE:20290727
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (AUTOTURIST SAMOB
@@ -250,8 +257,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (AUTOTURIST SAMOB
 DESCRIPTION:26. 1. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• AUTOTURIST SAMOBOR D.O.O. – Koncesija za obavljanje djelatnosti
-  javnog gradskog prijevoza putnika (SAMOBOR)\n\nProfil općine: https://ko
- ncesijski-sat.vercel.app/#opcina/41942358B81263259444247
+  javnog gradskog prijevoza putnika (SAMOBOR) · davatelj: GRAD SAMOBOR\n\n
+ Profil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B812632
+ 59444247
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B81263259444247
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -262,21 +270,23 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-5ebc8b1554becbe9@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-a612a8a5ae04ea2d@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20301231
 DTEND;VALUE=DATE:20310101
 SUMMARY:Ističe 3 koncesije · Samobor
 DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2030. Godišnja fiksna na
  knada: 3.456 €.\n\n• OBRT AUTOPRIJEVOZNIK I VAĐENJE ŠLJUNKA I PIJESK
  A\, VL. DAMIR HORVAT – Koncesija za površinu utvrđenog eksploatacijsko
- g polja neenergetskih mineralnih sirovina (SAMOBOR)\, 3.456 €/god.\n• 
- OBRT AUTOPRIJEVOZNIK I VAĐENJE ŠLJUNKA I PIJESKA VL. DAMIR HORVAT – Ko
- ncesija za eksploataciju građevnog pijeska i šljunka (SAMOBOR)\n• OBRT
-  AUTOPRIJEVOZNIK I VAĐENJE ŠLJUNKA I PIJESKA\, VL. DAMIR HORVAT – Konc
- esija za eksploataciju građevnog pijeska i šljunka (SAMOBOR)\n\nProfil o
- pćine: https://koncesijski-sat.vercel.app/#opcina/41942358B81263259444247
- \nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ g polja neenergetskih mineralnih sirovina (SAMOBOR) · davatelj: MINISTARS
+ TVO GOSPODARSTVA\, 3.456 €/god.\n• OBRT AUTOPRIJEVOZNIK I VAĐENJE ŠL
+ JUNKA I PIJESKA VL. DAMIR HORVAT – Koncesija za eksploataciju građevnog
+  pijeska i šljunka (SAMOBOR) · davatelj: MINISTARSTVO GOSPODARSTVA\n• 
+ OBRT AUTOPRIJEVOZNIK I VAĐENJE ŠLJUNKA I PIJESKA\, VL. DAMIR HORVAT – 
+ Koncesija za eksploataciju građevnog pijeska i šljunka (SAMOBOR) · dava
+ telj: MINISTARSTVO GOSPODARSTVA\n\nProfil općine: https://koncesijski-sat
+ .vercel.app/#opcina/41942358B81263259444247\nIzvor: Registar koncesija (FI
+ NA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B81263259444247
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -286,44 +296,48 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-5ebc8b1554becbe9@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-a612a8a5ae04ea2d@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20300630
 DTEND;VALUE=DATE:20300701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Samobor
 DESCRIPTION:31. 12. 2030. ističe 3 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• OBRT AUTOPRIJEVOZNIK I VAĐENJE ŠLJUNKA I PIJESKA\, VL. DAMIR 
  HORVAT – Koncesija za površinu utvrđenog eksploatacijskog polja neener
- getskih mineralnih sirovina (SAMOBOR)\, 3.456 €/god.\n• OBRT AUTOPRIJE
- VOZNIK I VAĐENJE ŠLJUNKA I PIJESKA VL. DAMIR HORVAT – Koncesija za eks
- ploataciju građevnog pijeska i šljunka (SAMOBOR)\n• OBRT AUTOPRIJEVOZN
- IK I VAĐENJE ŠLJUNKA I PIJESKA\, VL. DAMIR HORVAT – Koncesija za ekspl
- oataciju građevnog pijeska i šljunka (SAMOBOR)\n\nProfil općine: https:
- //koncesijski-sat.vercel.app/#opcina/41942358B81263259444247
+ getskih mineralnih sirovina (SAMOBOR) · davatelj: MINISTARSTVO GOSPODARST
+ VA\, 3.456 €/god.\n• OBRT AUTOPRIJEVOZNIK I VAĐENJE ŠLJUNKA I PIJESK
+ A VL. DAMIR HORVAT – Koncesija za eksploataciju građevnog pijeska i šl
+ junka (SAMOBOR) · davatelj: MINISTARSTVO GOSPODARSTVA\n• OBRT AUTOPRIJE
+ VOZNIK I VAĐENJE ŠLJUNKA I PIJESKA\, VL. DAMIR HORVAT – Koncesija za e
+ ksploataciju građevnog pijeska i šljunka (SAMOBOR) · davatelj: MINISTAR
+ STVO GOSPODARSTVA\n\nProfil općine: https://koncesijski-sat.vercel.app/#o
+ pcina/41942358B81263259444247
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B81263259444247
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Samobor
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-59c77e197903eb8c@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-6d408864e952b7b3@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20321231
 DTEND;VALUE=DATE:20330101
 SUMMARY:Ističe 3 koncesije · Samobor
 DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2032. Godišnja fiksna na
  knada: 3.084 €.\n\n• OBRT DRACLIN\, VL. DARKO DRACLIN – Koncesija za
   površinu utvrđenog eksploatacijskog polja neenergetskih mineralnih siro
- vina (SAMOBOR)\, 3.084 €/god.\n• OBRT DRACLIN\, VL. DARKO DRACLIN – 
- Koncesija za eksploataciju građevnog pijeska i šljunka (SAMOBOR)\n• OB
- RT DRACLIN\, VL. DARKO DRACLIN – Koncesija za eksploataciju građevnog p
- ijeska i šljunka (SAMOBOR)\n\nProfil općine: https://koncesijski-sat.ver
- cel.app/#opcina/41942358B81263259444247\nIzvor: Registar koncesija (FINA)\
- , obrada Koncesijski sat 9. 11. 2026.
+ vina (SAMOBOR) · davatelj: MINISTARSTVO GOSPODARSTVA\, 3.084 €/god.\n
+ • OBRT DRACLIN\, VL. DARKO DRACLIN – Koncesija za eksploataciju građe
+ vnog pijeska i šljunka (SAMOBOR) · davatelj: MINISTARSTVO GOSPODARSTVA\n
+ • OBRT DRACLIN\, VL. DARKO DRACLIN – Koncesija za eksploataciju građe
+ vnog pijeska i šljunka (SAMOBOR) · davatelj: MINISTARSTVO GOSPODARSTVA\n
+ \nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B8126
+ 3259444247\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 1
+ 1. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B81263259444247
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -333,39 +347,40 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-59c77e197903eb8c@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-6d408864e952b7b3@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20320630
 DTEND;VALUE=DATE:20320701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Samobor
 DESCRIPTION:31. 12. 2032. ističe 3 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• OBRT DRACLIN\, VL. DARKO DRACLIN – Koncesija za površinu utv
  rđenog eksploatacijskog polja neenergetskih mineralnih sirovina (SAMOBOR)
- \, 3.084 €/god.\n• OBRT DRACLIN\, VL. DARKO DRACLIN – Koncesija za e
- ksploataciju građevnog pijeska i šljunka (SAMOBOR)\n• OBRT DRACLIN\, V
- L. DARKO DRACLIN – Koncesija za eksploataciju građevnog pijeska i šlju
- nka (SAMOBOR)\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcin
- a/41942358B81263259444247
+  · davatelj: MINISTARSTVO GOSPODARSTVA\, 3.084 €/god.\n• OBRT DRACLIN
+ \, VL. DARKO DRACLIN – Koncesija za eksploataciju građevnog pijeska i 
+ šljunka (SAMOBOR) · davatelj: MINISTARSTVO GOSPODARSTVA\n• OBRT DRACLI
+ N\, VL. DARKO DRACLIN – Koncesija za eksploataciju građevnog pijeska i 
+ šljunka (SAMOBOR) · davatelj: MINISTARSTVO GOSPODARSTVA\n\nProfil općin
+ e: https://koncesijski-sat.vercel.app/#opcina/41942358B81263259444247
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B81263259444247
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Samobor
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-a07c4072652159b7@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-589dfd3927b9cd38@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20361212
 DTEND;VALUE=DATE:20361213
 SUMMARY:Ističe koncesija: HEP-TOPLINARSTVO  D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 12. 12. 2036.\n\n• HEP-TOPLINARS
  TVO  D.O.O. – Koncesija za obavljanje komunalne djelatnosti opskrbe topl
- inskom energijom (SAMOBOR)\n\nProfil općine: https://koncesijski-sat.verc
- el.app/#opcina/41942358B81263259444247\nIzvor: Registar koncesija (FINA)\,
-  obrada Koncesijski sat 9. 11. 2026.
+ inskom energijom (SAMOBOR) · davatelj: GRAD SAMOBOR\n\nProfil općine: ht
+ tps://koncesijski-sat.vercel.app/#opcina/41942358B81263259444247\nIzvor: R
+ egistar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B81263259444247
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -375,8 +390,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-a07c4072652159b7@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-589dfd3927b9cd38@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20360612
 DTEND;VALUE=DATE:20360613
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP-TOPLINARSTVO
@@ -384,8 +399,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP-TOPLINARSTVO
 DESCRIPTION:12. 12. 2036. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• HEP-TOPLINARSTVO  D.O.O. – Koncesija za obavljanje komunalne d
- jelatnosti opskrbe toplinskom energijom (SAMOBOR)\n\nProfil općine: https
- ://koncesijski-sat.vercel.app/#opcina/41942358B81263259444247
+ jelatnosti opskrbe toplinskom energijom (SAMOBOR) · davatelj: GRAD SAMOBO
+ R\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B8
+ 1263259444247
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B81263259444247
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -396,8 +412,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-fe19976023da20d6@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-311d83695cc6556f@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20421219
 DTEND;VALUE=DATE:20421220
 SUMMARY:Ističe koncesija: H.S.M.\, OBRT ZA RIJEČNI TRANSPORT\, VL. IVAN V
@@ -405,9 +421,9 @@ SUMMARY:Ističe koncesija: H.S.M.\, OBRT ZA RIJEČNI TRANSPORT\, VL. IVAN V
 DESCRIPTION:1 ugovor o koncesiji ističe 19. 12. 2042. Godišnja fiksna nak
  nada: 100 €.\n\n• H.S.M.\, OBRT ZA RIJEČNI TRANSPORT\, VL. IVAN VRAN
  ČIĆ – Obavljanje djelatnosti riječnog prijevoza osoba i tereta (SAMOB
- OR)\, 100 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#
- opcina/41942358B81263259444247\nIzvor: Registar koncesija (FINA)\, obrada 
- Koncesijski sat 9. 11. 2026.
+ OR) · davatelj: GRAD SAMOBOR\, 100 €/god.\n\nProfil općine: https://ko
+ ncesijski-sat.vercel.app/#opcina/41942358B81263259444247\nIzvor: Registar 
+ koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B81263259444247
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -418,8 +434,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-fe19976023da20d6@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-311d83695cc6556f@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20420619
 DTEND;VALUE=DATE:20420620
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (H.S.M.\, OBRT ZA
@@ -427,9 +443,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (H.S.M.\, OBRT ZA
 DESCRIPTION:19. 12. 2042. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• H.S.M.\, OBRT ZA RIJEČNI TRANSPORT\, VL. IVAN VRANČIĆ – Oba
- vljanje djelatnosti riječnog prijevoza osoba i tereta (SAMOBOR)\, 100 €
- /god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419423
- 58B81263259444247
+ vljanje djelatnosti riječnog prijevoza osoba i tereta (SAMOBOR) · davate
+ lj: GRAD SAMOBOR\, 100 €/god.\n\nProfil općine: https://koncesijski-sat
+ .vercel.app/#opcina/41942358B81263259444247
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B81263259444247
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -440,17 +456,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-a979b813fd06543e@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-97888aec1631a7b7@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20550626
 DTEND;VALUE=DATE:20550627
 SUMMARY:Ističe koncesija: ASPECT CROATIA KFT. - PODRUŽNICA ZAGREB
 DESCRIPTION:1 ugovor o koncesiji ističe 26. 6. 2055. Godišnja fiksna nakn
  ada: 536 €.\n\n• ASPECT CROATIA KFT. - PODRUŽNICA ZAGREB – Dozvola 
- za istraživanje ugljikovodika (prema Zakonu o ugljikovodicima) (SAMOBOR)\
- , 536 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opci
- na/41942358B81263259444247\nIzvor: Registar koncesija (FINA)\, obrada Konc
- esijski sat 9. 11. 2026.
+ za istraživanje ugljikovodika (prema Zakonu o ugljikovodicima) (SAMOBOR) 
+ · davatelj: MINISTARSTVO GOSPODARSTVA\, 536 €/god.\n\nProfil općine: h
+ ttps://koncesijski-sat.vercel.app/#opcina/41942358B81263259444247\nIzvor: 
+ Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B81263259444247
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -460,8 +476,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-a979b813fd06543e@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-97888aec1631a7b7@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20541226
 DTEND;VALUE=DATE:20541227
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ASPECT CROATIA K
@@ -469,9 +485,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ASPECT CROATIA K
 DESCRIPTION:26. 6. 2055. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• ASPECT CROATIA KFT. - PODRUŽNICA ZAGREB – Dozvola za istraživ
- anje ugljikovodika (prema Zakonu o ugljikovodicima) (SAMOBOR)\, 536 €/go
- d.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B
- 81263259444247
+ anje ugljikovodika (prema Zakonu o ugljikovodicima) (SAMOBOR) · davatelj:
+  MINISTARSTVO GOSPODARSTVA\, 536 €/god.\n\nProfil općine: https://konce
+ sijski-sat.vercel.app/#opcina/41942358B81263259444247
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B81263259444247
 TRANSP:TRANSPARENT
 BEGIN:VALARM

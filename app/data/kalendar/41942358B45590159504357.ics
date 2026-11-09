@@ -4,24 +4,25 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Grad Glina
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Grad Glina. Iz Registra 
- koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podataka.
-  https://koncesijski-sat.vercel.app/#opcina/41942358B45590159504357
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Grad Glina (pregled\, sv
+ i davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježava se na
+ kon svake obrade podataka. https://koncesijski-sat.vercel.app/#opcina/4194
+ 2358B45590159504357
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-9d19f74f04c07cad@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-62db9fb10456ede7@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20271005
 DTEND;VALUE=DATE:20271006
 SUMMARY:Ističe koncesija: RADIO BANOVINA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 5. 10. 2027. Godišnja fiksna nakn
  ada: 66 €.\n\n• RADIO BANOVINA D.O.O. – Koncesija za obavljanje djel
- atnosti radija (GLINA\, GVOZD\, KRAVARSKO\, POKUPSKO\, TOPUSKO\, VOJNIĆ)\
- , 66 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcin
- a/41942358B45590159504357\nIzvor: Registar koncesija (FINA)\, obrada Konce
- sijski sat 9. 11. 2026.
+ atnosti radija (GLINA\, GVOZD\, KRAVARSKO\, POKUPSKO\, TOPUSKO\, VOJNIĆ) 
+ · davatelj: AGENCIJA ZA ELEKTRONIČKE MEDIJE\, 66 €/god.\n\nProfil opć
+ ine: https://koncesijski-sat.vercel.app/#opcina/41942358B45590159504357\nI
+ zvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45590159504357
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -31,8 +32,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-9d19f74f04c07cad@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-62db9fb10456ede7@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270405
 DTEND;VALUE=DATE:20270406
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (RADIO BANOVINA D
@@ -40,9 +41,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (RADIO BANOVINA D
 DESCRIPTION:5. 10. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• RADIO BANOVINA D.O.O. – Koncesija za obavljanje djelatnosti rad
- ija (GLINA\, GVOZD\, KRAVARSKO\, POKUPSKO\, TOPUSKO\, VOJNIĆ)\, 66 €/go
- d.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B
- 45590159504357
+ ija (GLINA\, GVOZD\, KRAVARSKO\, POKUPSKO\, TOPUSKO\, VOJNIĆ) · davatelj
+ : AGENCIJA ZA ELEKTRONIČKE MEDIJE\, 66 €/god.\n\nProfil općine: https:
+ //koncesijski-sat.vercel.app/#opcina/41942358B45590159504357
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45590159504357
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -53,16 +54,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-d3c21eb60215da10@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-f47017e9fc3a856b@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20281231
 DTEND;VALUE=DATE:20290101
 SUMMARY:Ističe koncesija: ELDIM\, MARIO GJURETIĆ
 DESCRIPTION:1 ugovor o koncesiji ističe 31. 12. 2028. Godišnja fiksna nak
  nada: 1.460 €.\n\n• ELDIM\, MARIO GJURETIĆ – Koncesija za obavljanj
- e dimnjačarskih poslova (GLINA)\, 1.460 €/god.\n\nProfil općine: https
- ://koncesijski-sat.vercel.app/#opcina/41942358B45590159504357\nIzvor: Regi
- star koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ e dimnjačarskih poslova (GLINA) · davatelj: GRAD GLINA\, 1.460 €/god.\
+ n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B455
+ 90159504357\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 
+ 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45590159504357
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -72,8 +74,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-d3c21eb60215da10@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-f47017e9fc3a856b@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20280630
 DTEND;VALUE=DATE:20280701
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ELDIM\, MARIO GJ
@@ -81,8 +83,8 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ELDIM\, MARIO GJ
 DESCRIPTION:31. 12. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• ELDIM\, MARIO GJURETIĆ – Koncesija za obavljanje dimnjačarsk
- ih poslova (GLINA)\, 1.460 €/god.\n\nProfil općine: https://koncesijski
- -sat.vercel.app/#opcina/41942358B45590159504357
+ ih poslova (GLINA) · davatelj: GRAD GLINA\, 1.460 €/god.\n\nProfil opć
+ ine: https://koncesijski-sat.vercel.app/#opcina/41942358B45590159504357
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45590159504357
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -93,19 +95,21 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-297adb3851f2cf9d@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-eb4ba4d106e95c04@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20311231
 DTEND;VALUE=DATE:20320101
 SUMMARY:Ističe 3 koncesije · Glina
 DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2031. Godišnja fiksna na
  knada: 4.564 €.\n\n• KAMENOLOM BOJNA D.O.O. – Koncesija za površinu
   utvrđenog eksploatacijskog polja neenergetskih mineralnih sirovina (GLIN
- A)\, 4.564 €/god.\n• KAMENOLOM BOJNA D.O.O. – Koncesija za eksploata
- ciju tehničko-građevnog kamena (GLINA)\n• KAMENOLOM BOJNA D.O.O. – K
- oncesija za eksploataciju tehničko-građevnog kamena (GLINA)\n\nProfil op
- ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B45590159504357\
- nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ A) · davatelj: MINISTARSTVO GOSPODARSTVA\, 4.564 €/god.\n• KAMENOLOM 
+ BOJNA D.O.O. – Koncesija za eksploataciju tehničko-građevnog kamena (G
+ LINA) · davatelj: MINISTARSTVO GOSPODARSTVA\n• KAMENOLOM BOJNA D.O.O. 
+ – Koncesija za eksploataciju tehničko-građevnog kamena (GLINA) · dava
+ telj: MINISTARSTVO GOSPODARSTVA\n\nProfil općine: https://koncesijski-sat
+ .vercel.app/#opcina/41942358B45590159504357\nIzvor: Registar koncesija (FI
+ NA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45590159504357
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -115,42 +119,45 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-297adb3851f2cf9d@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-eb4ba4d106e95c04@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20310630
 DTEND;VALUE=DATE:20310701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Glina
 DESCRIPTION:31. 12. 2031. ističe 3 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• KAMENOLOM BOJNA D.O.O. – Koncesija za površinu utvrđenog ek
- sploatacijskog polja neenergetskih mineralnih sirovina (GLINA)\, 4.564 €
- /god.\n• KAMENOLOM BOJNA D.O.O. – Koncesija za eksploataciju tehničko
- -građevnog kamena (GLINA)\n• KAMENOLOM BOJNA D.O.O. – Koncesija za ek
- sploataciju tehničko-građevnog kamena (GLINA)\n\nProfil općine: https:/
- /koncesijski-sat.vercel.app/#opcina/41942358B45590159504357
+ sploatacijskog polja neenergetskih mineralnih sirovina (GLINA) · davatelj
+ : MINISTARSTVO GOSPODARSTVA\, 4.564 €/god.\n• KAMENOLOM BOJNA D.O.O. 
+ – Koncesija za eksploataciju tehničko-građevnog kamena (GLINA) · dava
+ telj: MINISTARSTVO GOSPODARSTVA\n• KAMENOLOM BOJNA D.O.O. – Koncesija 
+ za eksploataciju tehničko-građevnog kamena (GLINA) · davatelj: MINISTAR
+ STVO GOSPODARSTVA\n\nProfil općine: https://koncesijski-sat.vercel.app/#o
+ pcina/41942358B45590159504357
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45590159504357
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Glina
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-2f233cdabe537913@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-38038017d79d5e72@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20361231
 DTEND;VALUE=DATE:20370101
 SUMMARY:Ističe 3 koncesije · Glina
 DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2036. Godišnja fiksna na
  knada: 7.035 €.\n\n• TURKOVIĆ D.O.O. – Koncesija za eksploataciju t
- ehničko-građevnog kamena (GLINA)\, 2.345 €/god.\n• TURKOVIĆ D.O.O. 
- – Koncesija za eksploataciju tehničko-građevnog kamena (GLINA)\, 2.345
-  €/god.\n• TURKOVIĆ D.O.O. – Koncesija za površinu utvrđenog eksp
- loatacijskog polja neenergetskih mineralnih sirovina (GLINA)\, 2.345 €/g
- od.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358
- B45590159504357\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat
-  9. 11. 2026.
+ ehničko-građevnog kamena (GLINA) · davatelj: MINISTARSTVO GOSPODARSTVA\
+ , 2.345 €/god.\n• TURKOVIĆ D.O.O. – Koncesija za eksploataciju tehn
+ ičko-građevnog kamena (GLINA) · davatelj: MINISTARSTVO GOSPODARSTVA\, 2
+ .345 €/god.\n• TURKOVIĆ D.O.O. – Koncesija za površinu utvrđenog 
+ eksploatacijskog polja neenergetskih mineralnih sirovina (GLINA) · davate
+ lj: MINISTARSTVO GOSPODARSTVA\, 2.345 €/god.\n\nProfil općine: https://
+ koncesijski-sat.vercel.app/#opcina/41942358B45590159504357\nIzvor: Regista
+ r koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45590159504357
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -160,43 +167,45 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-2f233cdabe537913@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-38038017d79d5e72@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20360630
 DTEND;VALUE=DATE:20360701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Glina
 DESCRIPTION:31. 12. 2036. ističe 3 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• TURKOVIĆ D.O.O. – Koncesija za eksploataciju tehničko-građ
- evnog kamena (GLINA)\, 2.345 €/god.\n• TURKOVIĆ D.O.O. – Koncesija 
- za eksploataciju tehničko-građevnog kamena (GLINA)\, 2.345 €/god.\n•
-  TURKOVIĆ D.O.O. – Koncesija za površinu utvrđenog eksploatacijskog p
- olja neenergetskih mineralnih sirovina (GLINA)\, 2.345 €/god.\n\nProfil 
- općine: https://koncesijski-sat.vercel.app/#opcina/41942358B4559015950435
- 7
+ evnog kamena (GLINA) · davatelj: MINISTARSTVO GOSPODARSTVA\, 2.345 €/go
+ d.\n• TURKOVIĆ D.O.O. – Koncesija za eksploataciju tehničko-građevn
+ og kamena (GLINA) · davatelj: MINISTARSTVO GOSPODARSTVA\, 2.345 €/god.\
+ n• TURKOVIĆ D.O.O. – Koncesija za površinu utvrđenog eksploatacijsk
+ og polja neenergetskih mineralnih sirovina (GLINA) · davatelj: MINISTARST
+ VO GOSPODARSTVA\, 2.345 €/god.\n\nProfil općine: https://koncesijski-sa
+ t.vercel.app/#opcina/41942358B45590159504357
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45590159504357
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Glina
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-81bfe83dd69b2790@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-11ae107945f7c054@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20431231
 DTEND;VALUE=DATE:20440101
 SUMMARY:Ističe 3 koncesije · Glina
 DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2043. Godišnja fiksna na
  knada: 9.864 €.\n\n• TANKA CRTA D.O.O. – Koncesija za eksploataciju 
- tehničko-građevnog kamena (GLINA)\, 3.288 €/god.\n• TANKA CRTA D.O.O
- . – Koncesija za eksploataciju tehničko-građevnog kamena (GLINA)\, 3.2
- 88 €/god.\n• TANKA CRTA D.O.O. – Koncesija za površinu utvrđenog e
- ksploatacijskog polja neenergetskih mineralnih sirovina (GLINA)\, 3.288 
- €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
- 42358B45590159504357\nIzvor: Registar koncesija (FINA)\, obrada Koncesijsk
- i sat 9. 11. 2026.
+ tehničko-građevnog kamena (GLINA) · davatelj: MINISTARSTVO GOSPODARSTVA
+ \, 3.288 €/god.\n• TANKA CRTA D.O.O. – Koncesija za eksploataciju te
+ hničko-građevnog kamena (GLINA) · davatelj: MINISTARSTVO GOSPODARSTVA\,
+  3.288 €/god.\n• TANKA CRTA D.O.O. – Koncesija za površinu utvrđen
+ og eksploatacijskog polja neenergetskih mineralnih sirovina (GLINA) · dav
+ atelj: MINISTARSTVO GOSPODARSTVA\, 3.288 €/god.\n\nProfil općine: https
+ ://koncesijski-sat.vercel.app/#opcina/41942358B45590159504357\nIzvor: Regi
+ star koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45590159504357
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -206,40 +215,42 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-81bfe83dd69b2790@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-11ae107945f7c054@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20430630
 DTEND;VALUE=DATE:20430701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Glina
 DESCRIPTION:31. 12. 2043. ističe 3 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• TANKA CRTA D.O.O. – Koncesija za eksploataciju tehničko-gra
- đevnog kamena (GLINA)\, 3.288 €/god.\n• TANKA CRTA D.O.O. – Koncesi
- ja za eksploataciju tehničko-građevnog kamena (GLINA)\, 3.288 €/god.\n
- • TANKA CRTA D.O.O. – Koncesija za površinu utvrđenog eksploatacijsk
- og polja neenergetskih mineralnih sirovina (GLINA)\, 3.288 €/god.\n\nPro
- fil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B455901595
- 04357
+ đevnog kamena (GLINA) · davatelj: MINISTARSTVO GOSPODARSTVA\, 3.288 €/
+ god.\n• TANKA CRTA D.O.O. – Koncesija za eksploataciju tehničko-građ
+ evnog kamena (GLINA) · davatelj: MINISTARSTVO GOSPODARSTVA\, 3.288 €/go
+ d.\n• TANKA CRTA D.O.O. – Koncesija za površinu utvrđenog eksploatac
+ ijskog polja neenergetskih mineralnih sirovina (GLINA) · davatelj: MINIST
+ ARSTVO GOSPODARSTVA\, 3.288 €/god.\n\nProfil općine: https://koncesijsk
+ i-sat.vercel.app/#opcina/41942358B45590159504357
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45590159504357
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Glina
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-2e394ecf2deaaf31@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-afafe3d51a136ad2@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20441009
 DTEND;VALUE=DATE:20441010
 SUMMARY:Ističe koncesija: EKO ENERGIJA JOSIP CERJAK D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 9. 10. 2044. Godišnja fiksna nakn
  ada: 2.537 €.\n\n• EKO ENERGIJA JOSIP CERJAK D.O.O. – Koncesija za k
- orištenje vodne snage radi proizvodnje električne energije (GLINA)\, 2.5
- 37 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/
- 41942358B45590159504357\nIzvor: Registar koncesija (FINA)\, obrada Koncesi
- jski sat 9. 11. 2026.
+ orištenje vodne snage radi proizvodnje električne energije (GLINA) · da
+ vatelj: MINISTARSTVO ZAŠTITE OKOLIŠA I ZELENE TRANZICIJE\, 2.537 €/god
+ .\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B4
+ 5590159504357\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9
+ . 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45590159504357
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -249,8 +260,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-2e394ecf2deaaf31@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-afafe3d51a136ad2@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20440409
 DTEND;VALUE=DATE:20440410
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (EKO ENERGIJA JOS
@@ -258,9 +269,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (EKO ENERGIJA JOS
 DESCRIPTION:9. 10. 2044. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• EKO ENERGIJA JOSIP CERJAK D.O.O. – Koncesija za korištenje vod
- ne snage radi proizvodnje električne energije (GLINA)\, 2.537 €/god.\n\
- nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B45590
- 159504357
+ ne snage radi proizvodnje električne energije (GLINA) · davatelj: MINIST
+ ARSTVO ZAŠTITE OKOLIŠA I ZELENE TRANZICIJE\, 2.537 €/god.\n\nProfil op
+ ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B45590159504357
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45590159504357
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -271,17 +282,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-5357f27bfc8464db@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-662412162eca4831@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20550626
 DTEND;VALUE=DATE:20550627
 SUMMARY:Ističe koncesija: ASPECT CROATIA KFT. - PODRUŽNICA ZAGREB
 DESCRIPTION:1 ugovor o koncesiji ističe 26. 6. 2055. Godišnja fiksna nakn
  ada: 19.825 €.\n\n• ASPECT CROATIA KFT. - PODRUŽNICA ZAGREB – Dozvo
  la za istraživanje ugljikovodika (prema Zakonu o ugljikovodicima) (GLINA)
- \, 19.825 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#
- opcina/41942358B45590159504357\nIzvor: Registar koncesija (FINA)\, obrada 
- Koncesijski sat 9. 11. 2026.
+  · davatelj: MINISTARSTVO GOSPODARSTVA\, 19.825 €/god.\n\nProfil općin
+ e: https://koncesijski-sat.vercel.app/#opcina/41942358B45590159504357\nIzv
+ or: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45590159504357
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -291,8 +302,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-5357f27bfc8464db@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-662412162eca4831@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20541226
 DTEND;VALUE=DATE:20541227
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ASPECT CROATIA K
@@ -300,9 +311,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ASPECT CROATIA K
 DESCRIPTION:26. 6. 2055. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• ASPECT CROATIA KFT. - PODRUŽNICA ZAGREB – Dozvola za istraživ
- anje ugljikovodika (prema Zakonu o ugljikovodicima) (GLINA)\, 19.825 €/g
- od.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358
- B45590159504357
+ anje ugljikovodika (prema Zakonu o ugljikovodicima) (GLINA) · davatelj: M
+ INISTARSTVO GOSPODARSTVA\, 19.825 €/god.\n\nProfil općine: https://konc
+ esijski-sat.vercel.app/#opcina/41942358B45590159504357
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45590159504357
 TRANSP:TRANSPARENT
 BEGIN:VALARM

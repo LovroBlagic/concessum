@@ -4,28 +4,30 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Grad Velika Gorica
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Grad Velika Gorica. Iz R
- egistra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade p
- odataka. https://koncesijski-sat.vercel.app/#opcina/41942358B4236471677468
- 9
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Grad Velika Gorica (preg
+ led\, svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježa
+ va se nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#opc
+ ina/41942358B42364716774689
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-623113822d164a18@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-db6ea9b77797fb77@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
 SUMMARY:Ističe 3 koncesije · Velika Gorica
 DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2026. Godišnja fiksna na
  knada: 1.868 €.\n\n• ŽIVA PRIRODA D.O.O. – Koncesija za eksploataci
- ju građevnog pijeska i šljunka (VELIKA GORICA)\, 934 €/god.\n• ŽIVA
-  PRIRODA D.O.O. – Koncesija za površinu utvrđenog eksploatacijskog pol
- ja neenergetskih mineralnih sirovina (VELIKA GORICA)\, 934 €/god.\n• 
- ŽIVA PRIRODA D.O.O. – Koncesija za eksploataciju građevnog pijeska i 
- šljunka (VELIKA GORICA)\n\nProfil općine: https://koncesijski-sat.vercel
- .app/#opcina/41942358B42364716774689\nIzvor: Registar koncesija (FINA)\, o
- brada Koncesijski sat 9. 11. 2026.
+ ju građevnog pijeska i šljunka (VELIKA GORICA) · davatelj: MINISTARSTVO
+  GOSPODARSTVA\, 934 €/god.\n• ŽIVA PRIRODA D.O.O. – Koncesija za po
+ vršinu utvrđenog eksploatacijskog polja neenergetskih mineralnih sirovin
+ a (VELIKA GORICA) · davatelj: MINISTARSTVO GOSPODARSTVA\, 934 €/god.\n
+ • ŽIVA PRIRODA D.O.O. – Koncesija za eksploataciju građevnog pijeska
+  i šljunka (VELIKA GORICA) · davatelj: MINISTARSTVO GOSPODARSTVA\n\nProf
+ il općine: https://koncesijski-sat.vercel.app/#opcina/41942358B4236471677
+ 4689\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 202
+ 6.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B42364716774689
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -35,17 +37,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-2a2145b48e1836de@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-2f25616062c1e90b@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20271113
 DTEND;VALUE=DATE:20271114
 SUMMARY:Ističe koncesija: ASPECT CROATIA KFT.
 DESCRIPTION:1 ugovor o koncesiji ističe 13. 11. 2027. Godišnja fiksna nak
  nada: 12.333 €.\n\n• ASPECT CROATIA KFT. – Dozvola za istraživanje 
- ugljikovodika (prema Zakonu o ugljikovodicima) (VELIKA GORICA)\, 12.333 
- €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
- 42358B42364716774689\nIzvor: Registar koncesija (FINA)\, obrada Koncesijsk
- i sat 9. 11. 2026.
+ ugljikovodika (prema Zakonu o ugljikovodicima) (VELIKA GORICA) · davatelj
+ : MINISTARSTVO GOSPODARSTVA\, 12.333 €/god.\n\nProfil općine: https://k
+ oncesijski-sat.vercel.app/#opcina/41942358B42364716774689\nIzvor: Registar
+  koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B42364716774689
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -55,8 +57,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-2a2145b48e1836de@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-2f25616062c1e90b@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270513
 DTEND;VALUE=DATE:20270514
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ASPECT CROATIA K
@@ -64,9 +66,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ASPECT CROATIA K
 DESCRIPTION:13. 11. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• ASPECT CROATIA KFT. – Dozvola za istraživanje ugljikovodika (
- prema Zakonu o ugljikovodicima) (VELIKA GORICA)\, 12.333 €/god.\n\nProfi
- l općine: https://koncesijski-sat.vercel.app/#opcina/41942358B42364716774
- 689
+ prema Zakonu o ugljikovodicima) (VELIKA GORICA) · davatelj: MINISTARSTVO 
+ GOSPODARSTVA\, 12.333 €/god.\n\nProfil općine: https://koncesijski-sat.
+ vercel.app/#opcina/41942358B42364716774689
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B42364716774689
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -77,20 +79,21 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-2be95bf03567be19@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-4f01d443dd689325@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20341231
 DTEND;VALUE=DATE:20350101
 SUMMARY:Ističe 3 koncesije · Velika Gorica
 DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2034. Godišnja fiksna na
  knada: 27.676 €.\n\n• HIDREL D.O.O. – Koncesija za eksploataciju gra
- đevnog pijeska i šljunka (VELIKA GORICA)\, 13.838 €/god.\n• HIDREL D
- .O.O. – Koncesija za površinu utvrđenog eksploatacijskog polja neenerg
- etskih mineralnih sirovina (VELIKA GORICA)\, 13.838 €/god.\n• HIDREL D
- .O.O. – Koncesija za eksploataciju građevnog pijeska i šljunka (VELIKA
-  GORICA)\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
- 42358B42364716774689\nIzvor: Registar koncesija (FINA)\, obrada Koncesijsk
- i sat 9. 11. 2026.
+ đevnog pijeska i šljunka (VELIKA GORICA) · davatelj: MINISTARSTVO GOSPO
+ DARSTVA\, 13.838 €/god.\n• HIDREL D.O.O. – Koncesija za površinu ut
+ vrđenog eksploatacijskog polja neenergetskih mineralnih sirovina (VELIKA 
+ GORICA) · davatelj: MINISTARSTVO GOSPODARSTVA\, 13.838 €/god.\n• HIDR
+ EL D.O.O. – Koncesija za eksploataciju građevnog pijeska i šljunka (VE
+ LIKA GORICA) · davatelj: MINISTARSTVO GOSPODARSTVA\n\nProfil općine: htt
+ ps://koncesijski-sat.vercel.app/#opcina/41942358B42364716774689\nIzvor: Re
+ gistar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B42364716774689
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -100,31 +103,33 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-2be95bf03567be19@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-4f01d443dd689325@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20340630
 DTEND;VALUE=DATE:20340701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Velika Gorica
 DESCRIPTION:31. 12. 2034. ističe 3 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• HIDREL D.O.O. – Koncesija za eksploataciju građevnog pijeska
-  i šljunka (VELIKA GORICA)\, 13.838 €/god.\n• HIDREL D.O.O. – Konce
- sija za površinu utvrđenog eksploatacijskog polja neenergetskih mineraln
- ih sirovina (VELIKA GORICA)\, 13.838 €/god.\n• HIDREL D.O.O. – Konce
- sija za eksploataciju građevnog pijeska i šljunka (VELIKA GORICA)\n\nPro
- fil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B423647167
- 74689
+  i šljunka (VELIKA GORICA) · davatelj: MINISTARSTVO GOSPODARSTVA\, 13.83
+ 8 €/god.\n• HIDREL D.O.O. – Koncesija za površinu utvrđenog eksplo
+ atacijskog polja neenergetskih mineralnih sirovina (VELIKA GORICA) · dava
+ telj: MINISTARSTVO GOSPODARSTVA\, 13.838 €/god.\n• HIDREL D.O.O. – K
+ oncesija za eksploataciju građevnog pijeska i šljunka (VELIKA GORICA) ·
+  davatelj: MINISTARSTVO GOSPODARSTVA\n\nProfil općine: https://koncesijsk
+ i-sat.vercel.app/#opcina/41942358B42364716774689
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B42364716774689
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Velika Gor
+ ica
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-c1a34c7591a9e54f@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-8f904e3c876ff59f@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20410713
 DTEND;VALUE=DATE:20410714
 SUMMARY:Ističe koncesija: VODOOPSKRBA I ODVODNJA ZAGREBAČKE ŽUPANIJE D.O
@@ -132,9 +137,10 @@ SUMMARY:Ističe koncesija: VODOOPSKRBA I ODVODNJA ZAGREBAČKE ŽUPANIJE D.O
 DESCRIPTION:1 ugovor o koncesiji ističe 13. 7. 2041. Godišnja fiksna nakn
  ada: 30.136 €.\n\n• VODOOPSKRBA I ODVODNJA ZAGREBAČKE ŽUPANIJE D.O.O
  . – Koncesija za zahvaćanje voda za potrebe javne vodoopskrbe (VELIKA G
- ORICA)\, 30.136 €/god.\n\nProfil općine: https://koncesijski-sat.vercel
- .app/#opcina/41942358B42364716774689\nIzvor: Registar koncesija (FINA)\, o
- brada Koncesijski sat 9. 11. 2026.
+ ORICA) · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠA I ZELENE TRANZICIJE\, 3
+ 0.136 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opci
+ na/41942358B42364716774689\nIzvor: Registar koncesija (FINA)\, obrada Konc
+ esijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B42364716774689
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -145,8 +151,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-c1a34c7591a9e54f@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-8f904e3c876ff59f@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20410113
 DTEND;VALUE=DATE:20410114
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VODOOPSKRBA I OD
@@ -154,9 +160,10 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VODOOPSKRBA I OD
 DESCRIPTION:13. 7. 2041. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• VODOOPSKRBA I ODVODNJA ZAGREBAČKE ŽUPANIJE D.O.O. – Koncesija
-  za zahvaćanje voda za potrebe javne vodoopskrbe (VELIKA GORICA)\, 30.136
-  €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41
- 942358B42364716774689
+  za zahvaćanje voda za potrebe javne vodoopskrbe (VELIKA GORICA) · davat
+ elj: MINISTARSTVO ZAŠTITE OKOLIŠA I ZELENE TRANZICIJE\, 30.136 €/god.\
+ n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B423
+ 64716774689
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B42364716774689
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -167,16 +174,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-6c63c77d6ee8833c@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-604e6043ef04d36d@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20420411
 DTEND;VALUE=DATE:20420412
 SUMMARY:Ističe koncesija: MEĐUNARODNA ZRAČNA LUKA ZAGREB D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 11. 4. 2042. Godišnja fiksna nakn
  ada: 1.990.842 €.\n\n• MEĐUNARODNA ZRAČNA LUKA ZAGREB D.D. – Konce
- sija za zračne luke (VELIKA GORICA)\, 1.990.842 €/god.\n\nProfil općin
- e: https://koncesijski-sat.vercel.app/#opcina/41942358B42364716774689\nIzv
- or: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ sija za zračne luke (VELIKA GORICA) · davatelj: MINISTARSTVO MORA\, PROM
+ ETA I INFRASTRUKTURE\, 1.990.842 €/god.\n\nProfil općine: https://konce
+ sijski-sat.vercel.app/#opcina/41942358B42364716774689\nIzvor: Registar kon
+ cesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B42364716774689
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -186,8 +194,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-6c63c77d6ee8833c@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-604e6043ef04d36d@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20411011
 DTEND;VALUE=DATE:20411012
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MEĐUNARODNA ZRA
@@ -195,8 +203,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MEĐUNARODNA ZRA
 DESCRIPTION:11. 4. 2042. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• MEĐUNARODNA ZRAČNA LUKA ZAGREB D.D. – Koncesija za zračne lu
- ke (VELIKA GORICA)\, 1.990.842 €/god.\n\nProfil općine: https://koncesi
- jski-sat.vercel.app/#opcina/41942358B42364716774689
+ ke (VELIKA GORICA) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTU
+ RE\, 1.990.842 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.
+ app/#opcina/41942358B42364716774689
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B42364716774689
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -207,17 +216,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-db9dd40037815fca@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-d9917e5ac9ba1a19@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20460115
 DTEND;VALUE=DATE:20460116
 SUMMARY:Ističe koncesija: OXY TECHNICAL GASES D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 15. 1. 2046. Godišnja fiksna nakn
  ada: 10.604 €.\n\n• OXY TECHNICAL GASES D.O.O. – Koncesija za zahva
- ćanje voda za tehnološke potrebe (VELIKA GORICA)\, 10.604 €/god.\n\nPr
- ofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B42364716
- 774689\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2
- 026.
+ ćanje voda za tehnološke potrebe (VELIKA GORICA) · davatelj: MINISTARST
+ VO ZAŠTITE OKOLIŠA I ZELENE TRANZICIJE\, 10.604 €/god.\n\nProfil opći
+ ne: https://koncesijski-sat.vercel.app/#opcina/41942358B42364716774689\nIz
+ vor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B42364716774689
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -227,8 +236,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-db9dd40037815fca@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-d9917e5ac9ba1a19@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20450715
 DTEND;VALUE=DATE:20450716
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (OXY TECHNICAL GA
@@ -236,8 +245,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (OXY TECHNICAL GA
 DESCRIPTION:15. 1. 2046. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• OXY TECHNICAL GASES D.O.O. – Koncesija za zahvaćanje voda za t
- ehnološke potrebe (VELIKA GORICA)\, 10.604 €/god.\n\nProfil općine: ht
- tps://koncesijski-sat.vercel.app/#opcina/41942358B42364716774689
+ ehnološke potrebe (VELIKA GORICA) · davatelj: MINISTARSTVO ZAŠTITE OKOL
+ IŠA I ZELENE TRANZICIJE\, 10.604 €/god.\n\nProfil općine: https://konc
+ esijski-sat.vercel.app/#opcina/41942358B42364716774689
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B42364716774689
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -248,20 +258,21 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-d5ca654e2c14d301@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-1169e7955ea2f2a6@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20541231
 DTEND;VALUE=DATE:20550101
 SUMMARY:Ističe 3 koncesije · Velika Gorica
 DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2054. Godišnja fiksna na
  knada: 18.988 €.\n\n• KAMENOLOM GORJAK D.O.O. – Koncesija za eksploa
- taciju ciglarske gline (VELIKA GORICA)\, 9.494 €/god.\n• KAMENOLOM GOR
- JAK  D.O.O. – Koncesija za površinu utvrđenog eksploatacijskog polja n
- eenergetskih mineralnih sirovina (VELIKA GORICA)\, 9.494 €/god.\n• KAM
- ENOLOM GORJAK D.O.O. – Koncesija za eksploataciju ciglarske gline (VELIK
- A GORICA)\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41
- 942358B42364716774689\nIzvor: Registar koncesija (FINA)\, obrada Koncesijs
- ki sat 9. 11. 2026.
+ taciju ciglarske gline (VELIKA GORICA) · davatelj: MINISTARSTVO GOSPODARS
+ TVA\, 9.494 €/god.\n• KAMENOLOM GORJAK  D.O.O. – Koncesija za površ
+ inu utvrđenog eksploatacijskog polja neenergetskih mineralnih sirovina (V
+ ELIKA GORICA) · davatelj: MINISTARSTVO GOSPODARSTVA\, 9.494 €/god.\n•
+  KAMENOLOM GORJAK D.O.O. – Koncesija za eksploataciju ciglarske gline (V
+ ELIKA GORICA) · davatelj: MINISTARSTVO GOSPODARSTVA\n\nProfil općine: ht
+ tps://koncesijski-sat.vercel.app/#opcina/41942358B42364716774689\nIzvor: R
+ egistar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B42364716774689
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -271,40 +282,42 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-d5ca654e2c14d301@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-1169e7955ea2f2a6@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20540630
 DTEND;VALUE=DATE:20540701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Velika Gorica
 DESCRIPTION:31. 12. 2054. ističe 3 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• KAMENOLOM GORJAK D.O.O. – Koncesija za eksploataciju ciglarsk
- e gline (VELIKA GORICA)\, 9.494 €/god.\n• KAMENOLOM GORJAK  D.O.O. –
-  Koncesija za površinu utvrđenog eksploatacijskog polja neenergetskih mi
- neralnih sirovina (VELIKA GORICA)\, 9.494 €/god.\n• KAMENOLOM GORJAK D
- .O.O. – Koncesija za eksploataciju ciglarske gline (VELIKA GORICA)\n\nPr
- ofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B42364716
- 774689
+ e gline (VELIKA GORICA) · davatelj: MINISTARSTVO GOSPODARSTVA\, 9.494 €
+ /god.\n• KAMENOLOM GORJAK  D.O.O. – Koncesija za površinu utvrđenog 
+ eksploatacijskog polja neenergetskih mineralnih sirovina (VELIKA GORICA) 
+ · davatelj: MINISTARSTVO GOSPODARSTVA\, 9.494 €/god.\n• KAMENOLOM GOR
+ JAK D.O.O. – Koncesija za eksploataciju ciglarske gline (VELIKA GORICA) 
+ · davatelj: MINISTARSTVO GOSPODARSTVA\n\nProfil općine: https://koncesij
+ ski-sat.vercel.app/#opcina/41942358B42364716774689
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B42364716774689
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Velika Gor
+ ica
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-91073f1fac13d096@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-2f3b6cbbac0eb595@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20550626
 DTEND;VALUE=DATE:20550627
 SUMMARY:Ističe koncesija: ASPECT CROATIA KFT. - PODRUŽNICA ZAGREB
 DESCRIPTION:1 ugovor o koncesiji ističe 26. 6. 2055. Godišnja fiksna nakn
  ada: 4.578 €.\n\n• ASPECT CROATIA KFT. - PODRUŽNICA ZAGREB – Dozvol
  a za istraživanje ugljikovodika (prema Zakonu o ugljikovodicima) (VELIKA 
- GORICA)\, 4.578 €/god.\n\nProfil općine: https://koncesijski-sat.vercel
- .app/#opcina/41942358B42364716774689\nIzvor: Registar koncesija (FINA)\, o
- brada Koncesijski sat 9. 11. 2026.
+ GORICA) · davatelj: MINISTARSTVO GOSPODARSTVA\, 4.578 €/god.\n\nProfil 
+ općine: https://koncesijski-sat.vercel.app/#opcina/41942358B4236471677468
+ 9\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B42364716774689
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -314,8 +327,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-91073f1fac13d096@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-2f3b6cbbac0eb595@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20541226
 DTEND;VALUE=DATE:20541227
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ASPECT CROATIA K
@@ -323,9 +336,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ASPECT CROATIA K
 DESCRIPTION:26. 6. 2055. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• ASPECT CROATIA KFT. - PODRUŽNICA ZAGREB – Dozvola za istraživ
- anje ugljikovodika (prema Zakonu o ugljikovodicima) (VELIKA GORICA)\, 4.57
- 8 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4
- 1942358B42364716774689
+ anje ugljikovodika (prema Zakonu o ugljikovodicima) (VELIKA GORICA) · dav
+ atelj: MINISTARSTVO GOSPODARSTVA\, 4.578 €/god.\n\nProfil općine: https
+ ://koncesijski-sat.vercel.app/#opcina/41942358B42364716774689
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B42364716774689
 TRANSP:TRANSPARENT
 BEGIN:VALARM

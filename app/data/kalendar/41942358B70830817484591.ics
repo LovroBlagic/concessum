@@ -4,24 +4,25 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Općina Sveti Juraj na Bregu
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Sveti Juraj na B
- regu. Iz Registra koncesija (FINA\, data.gov.hr). Osvježava se nakon svak
- e obrade podataka. https://koncesijski-sat.vercel.app/#opcina/41942358B708
- 30817484591
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Općina Sveti Juraj na B
+ regu (pregled\, svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr)
+ . Osvježava se nakon svake obrade podataka. https://koncesijski-sat.verce
+ l.app/#opcina/41942358B70830817484591
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-631a2f8b1c153c62@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-0bfd12fba94dcc0b@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270630
 DTEND;VALUE=DATE:20270701
 SUMMARY:Ističe koncesija: INA-INDUSTRIJA NAFTE  D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 30. 6. 2027.\n\n• INA-INDUSTRIJA
   NAFTE  D.D. – Dozvola za eksploataciju ugljikovodika (prema Zakonu o ug
- ljikovodicima) (SVETI JURAJ NA BREGU)\n\nProfil općine: https://koncesijs
- ki-sat.vercel.app/#opcina/41942358B70830817484591\nIzvor: Registar koncesi
- ja (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ ljikovodicima) (SVETI JURAJ NA BREGU) · davatelj: MINISTARSTVO GOSPODARST
+ VA\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B
+ 70830817484591\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 
+ 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B70830817484591
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -31,8 +32,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-631a2f8b1c153c62@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-0bfd12fba94dcc0b@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20261230
 DTEND;VALUE=DATE:20261231
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA-INDUSTRIJA N
@@ -40,8 +41,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA-INDUSTRIJA N
 DESCRIPTION:30. 6. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• INA-INDUSTRIJA NAFTE  D.D. – Dozvola za eksploataciju ugljikovo
- dika (prema Zakonu o ugljikovodicima) (SVETI JURAJ NA BREGU)\n\nProfil op
- ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B70830817484591
+ dika (prema Zakonu o ugljikovodicima) (SVETI JURAJ NA BREGU) · davatelj: 
+ MINISTARSTVO GOSPODARSTVA\n\nProfil općine: https://koncesijski-sat.verce
+ l.app/#opcina/41942358B70830817484591
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B70830817484591
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -52,19 +54,20 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-900e02e7dab43fd9@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-73302b5e24a800a1@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20271231
 DTEND;VALUE=DATE:20280101
 SUMMARY:Ističe 2 koncesije · Sveti Juraj na Bregu
 DESCRIPTION:2 ugovora o koncesiji ističe 31. 12. 2027. Godišnja fiksna na
  knada: 3.174 €.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Dozvola za eksploa
  taciju ugljikovodika (prema Zakonu o ugljikovodicima) (SVETI JURAJ NA BREG
- U)\, 1.587 €/god.\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauze
- tu površinu odobrenog eksploatacijskog polja (SVETI JURAJ NA BREGU)\, 1.5
- 87 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/
- 41942358B70830817484591\nIzvor: Registar koncesija (FINA)\, obrada Koncesi
- jski sat 9. 11. 2026.
+ U) · davatelj: MINISTARSTVO GOSPODARSTVA\, 1.587 €/god.\n• INA-INDUST
+ RIJA NAFTE  D.D. – Koncesija za zauzetu površinu odobrenog eksploatacij
+ skog polja (SVETI JURAJ NA BREGU) · davatelj: MINISTARSTVO GOSPODARSTVA\,
+  1.587 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opc
+ ina/41942358B70830817484591\nIzvor: Registar koncesija (FINA)\, obrada Kon
+ cesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B70830817484591
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -74,38 +77,41 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-900e02e7dab43fd9@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-73302b5e24a800a1@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270630
 DTEND;VALUE=DATE:20270701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Sveti Juraj na
+  Bregu
 DESCRIPTION:31. 12. 2027. ističe 2 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Dozvola za eksploataciju ugljiko
- vodika (prema Zakonu o ugljikovodicima) (SVETI JURAJ NA BREGU)\, 1.587 €
- /god.\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauzetu površinu o
- dobrenog eksploatacijskog polja (SVETI JURAJ NA BREGU)\, 1.587 €/god.\n\
- nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B70830
- 817484591
+ vodika (prema Zakonu o ugljikovodicima) (SVETI JURAJ NA BREGU) · davatelj
+ : MINISTARSTVO GOSPODARSTVA\, 1.587 €/god.\n• INA-INDUSTRIJA NAFTE  D.
+ D. – Koncesija za zauzetu površinu odobrenog eksploatacijskog polja (SV
+ ETI JURAJ NA BREGU) · davatelj: MINISTARSTVO GOSPODARSTVA\, 1.587 €/god
+ .\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B7
+ 0830817484591
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B70830817484591
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Sveti Jura
+ j na Bregu
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-88123a19a4c2cc5f@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-27f998d0c5ba1b6d@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20310701
 DTEND;VALUE=DATE:20310702
 SUMMARY:Ističe koncesija: MULL-TRANS D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 1. 7. 2031.\n\n• MULL-TRANS D.O.
  O. – Koncesija za obavljanje komunalnih djelatnosti (SVETI JURAJ NA BREG
- U)\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B
- 70830817484591\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 
- 9. 11. 2026.
+ U) · davatelj: OPĆINA SVETI JURAJ NA BREGU\n\nProfil općine: https://ko
+ ncesijski-sat.vercel.app/#opcina/41942358B70830817484591\nIzvor: Registar 
+ koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B70830817484591
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -115,8 +121,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-88123a19a4c2cc5f@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-27f998d0c5ba1b6d@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20310101
 DTEND;VALUE=DATE:20310102
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MULL-TRANS D.O.O
@@ -124,8 +130,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MULL-TRANS D.O.O
 DESCRIPTION:1. 7. 2031. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• MULL-TRANS D.O.O. – Koncesija za obavljanje komunalnih djelatnos
- ti (SVETI JURAJ NA BREGU)\n\nProfil općine: https://koncesijski-sat.verce
- l.app/#opcina/41942358B70830817484591
+ ti (SVETI JURAJ NA BREGU) · davatelj: OPĆINA SVETI JURAJ NA BREGU\n\nPro
+ fil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B708308174
+ 84591
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B70830817484591
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -136,17 +143,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-f7bb79342db2bf50@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-a07aeb72e7fbc550@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20330702
 DTEND;VALUE=DATE:20330703
 SUMMARY:Ističe koncesija: DIMNJAČARSKI OBRT IVAN ZVER\, ČAKOVEC
 DESCRIPTION:1 ugovor o koncesiji ističe 2. 7. 2033. Godišnja fiksna nakna
  da: 803 €.\n\n• DIMNJAČARSKI OBRT IVAN ZVER\, ČAKOVEC – Koncesija 
- za obavljanje dimnjačarskih poslova (SVETI JURAJ NA BREGU)\, 803 €/god.
- \n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B70
- 830817484591\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9.
-  11. 2026.
+ za obavljanje dimnjačarskih poslova (SVETI JURAJ NA BREGU) · davatelj: O
+ PĆINA SVETI JURAJ NA BREGU\, 803 €/god.\n\nProfil općine: https://konc
+ esijski-sat.vercel.app/#opcina/41942358B70830817484591\nIzvor: Registar ko
+ ncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B70830817484591
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -156,8 +163,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-f7bb79342db2bf50@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-a07aeb72e7fbc550@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20330102
 DTEND;VALUE=DATE:20330103
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DIMNJAČARSKI OB
@@ -165,8 +172,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DIMNJAČARSKI OB
 DESCRIPTION:2. 7. 2033. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• DIMNJAČARSKI OBRT IVAN ZVER\, ČAKOVEC – Koncesija za obavljanj
- e dimnjačarskih poslova (SVETI JURAJ NA BREGU)\, 803 €/god.\n\nProfil o
- pćine: https://koncesijski-sat.vercel.app/#opcina/41942358B70830817484591
+ e dimnjačarskih poslova (SVETI JURAJ NA BREGU) · davatelj: OPĆINA SVETI
+  JURAJ NA BREGU\, 803 €/god.\n\nProfil općine: https://koncesijski-sat.
+ vercel.app/#opcina/41942358B70830817484591
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B70830817484591
 TRANSP:TRANSPARENT
 BEGIN:VALARM

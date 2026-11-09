@@ -1,0 +1,55 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · OPĆINA KRAŠIĆ
+X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje OPĆINA KRAŠIĆ. Iz Regis
+ tra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podat
+ aka. https://koncesijski-sat.vercel.app/#sat
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-e0cd7c9db732f160@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20280229
+DTEND;VALUE=DATE:20280301
+SUMMARY:Ističe koncesija: EKO-FLOR PLUS D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 29. 2. 2028. Godišnja fiksna nakn
+ ada: 8.099 €.\n\n• EKO-FLOR PLUS D.O.O. – Koncesija djelatnosti prem
+ ještanja i uklanjanja nepropisno parkiranih i napuštenih vozila (KRAŠI
+ Ć\, Općina Krašić)\, 8.099 €/god.\n\nŠto ističe: https://koncesijs
+ ki-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Koncesij
+ ski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: EKO-FLOR PLUS D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-e0cd7c9db732f160@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20270829
+DTEND;VALUE=DATE:20270830
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (EKO-FLOR PLUS D.
+ O.O.)
+DESCRIPTION:29. 2. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• EKO-FLOR PLUS D.O.O. – Koncesija djelatnosti premještanja i uk
+ lanjanja nepropisno parkiranih i napuštenih vozila (KRAŠIĆ\, Općina Kr
+ ašić)\, 8.099 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.a
+ pp/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (EKO-FLOR PLU
+ S D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

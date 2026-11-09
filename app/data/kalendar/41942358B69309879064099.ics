@@ -4,24 +4,25 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Grad Stari Grad
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Grad Stari Grad. Iz Regi
- stra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade poda
- taka. https://koncesijski-sat.vercel.app/#opcina/41942358B69309879064099
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Grad Stari Grad (pregled
+ \, svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježava 
+ se nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#opcina
+ /41942358B69309879064099
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-61fc122d14f6b24c@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-0084a0d1ee2d1d70@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
 SUMMARY:Ističe koncesija: VELE MARE D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 24. 11. 2026. Godišnja fiksna nak
  nada: 3.982 €.\n\n• VELE MARE D.O.O. – Koncesija na pomorskom dobru 
- u svrhu uzgoja morske ribe i školjkaša (STARI GRAD)\, 3.982 €/god.\n\n
- Profil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B693098
- 79064099\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11.
-  2026.
+ u svrhu uzgoja morske ribe i školjkaša (STARI GRAD) · davatelj: ZADARSK
+ A ŽUPANIJA\, 3.982 €/god.\n\nProfil općine: https://koncesijski-sat.ve
+ rcel.app/#opcina/41942358B69309879064099\nIzvor: Registar koncesija (FINA)
+ \, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B69309879064099
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -31,17 +32,19 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-01006ff642d9d30e@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-d88e879631e49107@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270531
 DTEND;VALUE=DATE:20270601
 SUMMARY:Ističe 2 koncesije · Stari Grad
 DESCRIPTION:2 ugovora o koncesiji ističe 31. 5. 2027. Godišnja fiksna nak
  nada: 10.000 €.\n\n• KOMUNALNO STARI GRAD D.O.O. – Koncesija za luku
-  (STARI GRAD)\, 5.000 €/god.\n• KOMUNALNO STARI GRAD D.O.O. – Konces
- ija za luku (STARI GRAD)\, 5.000 €/god.\n\nProfil općine: https://konce
- sijski-sat.vercel.app/#opcina/41942358B69309879064099\nIzvor: Registar kon
- cesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+  (STARI GRAD) · davatelj: LUČKA UPRAVA SPLITSKO-DALMATINSKE ŽUPANIJE\, 
+ 5.000 €/god.\n• KOMUNALNO STARI GRAD D.O.O. – Koncesija za luku (STA
+ RI GRAD) · davatelj: LUČKA UPRAVA SPLITSKO-DALMATINSKE ŽUPANIJE\, 5.000
+  €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41
+ 942358B69309879064099\nIzvor: Registar koncesija (FINA)\, obrada Koncesijs
+ ki sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B69309879064099
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -51,28 +54,30 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-01006ff642d9d30e@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-d88e879631e49107@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Stari Grad
 DESCRIPTION:31. 5. 2027. ističe 2 ugovora o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
- a.\n\n• KOMUNALNO STARI GRAD D.O.O. – Koncesija za luku (STARI GRAD)\,
-  5.000 €/god.\n• KOMUNALNO STARI GRAD D.O.O. – Koncesija za luku (ST
- ARI GRAD)\, 5.000 €/god.\n\nProfil općine: https://koncesijski-sat.verc
- el.app/#opcina/41942358B69309879064099
+ a.\n\n• KOMUNALNO STARI GRAD D.O.O. – Koncesija za luku (STARI GRAD) 
+ · davatelj: LUČKA UPRAVA SPLITSKO-DALMATINSKE ŽUPANIJE\, 5.000 €/god.
+ \n• KOMUNALNO STARI GRAD D.O.O. – Koncesija za luku (STARI GRAD) · da
+ vatelj: LUČKA UPRAVA SPLITSKO-DALMATINSKE ŽUPANIJE\, 5.000 €/god.\n\nP
+ rofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B6930987
+ 9064099
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B69309879064099
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Stari Grad
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-0ce4a9a2cb3d75db@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-c422b02691e01012@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20280601
 DTEND;VALUE=DATE:20280602
 SUMMARY:Ističe koncesija: PIDOĆA MORSKA MRIJESTILIŠTA I RIBNJACI\, VL. I
@@ -80,9 +85,10 @@ SUMMARY:Ističe koncesija: PIDOĆA MORSKA MRIJESTILIŠTA I RIBNJACI\, VL. I
 DESCRIPTION:1 ugovor o koncesiji ističe 1. 6. 2028. Godišnja fiksna nakna
  da: 1.168 €.\n\n• PIDOĆA MORSKA MRIJESTILIŠTA I RIBNJACI\, VL. IVA 
  ŠARLIJA BRKLJAČA – Koncesija na pomorskom dobru u svrhu uzgoja morske 
- ribe i školjkaša (STARI GRAD)\, 1.168 €/god.\n\nProfil općine: https:
- //koncesijski-sat.vercel.app/#opcina/41942358B69309879064099\nIzvor: Regis
- tar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ ribe i školjkaša (STARI GRAD) · davatelj: ZADARSKA ŽUPANIJA\, 1.168 
+ €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
+ 42358B69309879064099\nIzvor: Registar koncesija (FINA)\, obrada Koncesijsk
+ i sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B69309879064099
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -93,8 +99,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-0ce4a9a2cb3d75db@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-c422b02691e01012@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20271201
 DTEND;VALUE=DATE:20271202
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PIDOĆA MORSKA M
@@ -103,8 +109,9 @@ DESCRIPTION:1. 6. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• PIDOĆA MORSKA MRIJESTILIŠTA I RIBNJACI\, VL. IVA ŠARLIJA BRKLJA
  ČA – Koncesija na pomorskom dobru u svrhu uzgoja morske ribe i školjka
- ša (STARI GRAD)\, 1.168 €/god.\n\nProfil općine: https://koncesijski-s
- at.vercel.app/#opcina/41942358B69309879064099
+ ša (STARI GRAD) · davatelj: ZADARSKA ŽUPANIJA\, 1.168 €/god.\n\nProfi
+ l općine: https://koncesijski-sat.vercel.app/#opcina/41942358B69309879064
+ 099
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B69309879064099
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -115,16 +122,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-1341dd4a29bf5466@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-4abc050161611065@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20291212
 DTEND;VALUE=DATE:20291213
 SUMMARY:Ističe koncesija: SUNCE HOTELI D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 12. 12. 2029. Godišnja fiksna nak
  nada: 18.067 €.\n\n• SUNCE HOTELI D.D. – Koncesija za plažu (STARI 
- GRAD)\, 18.067 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.
- app/#opcina/41942358B69309879064099\nIzvor: Registar koncesija (FINA)\, ob
- rada Koncesijski sat 9. 11. 2026.
+ GRAD) · davatelj: ZADARSKA ŽUPANIJA\, 18.067 €/god.\n\nProfil općine:
+  https://koncesijski-sat.vercel.app/#opcina/41942358B69309879064099\nIzvor
+ : Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B69309879064099
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -134,17 +141,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-1341dd4a29bf5466@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-4abc050161611065@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20290612
 DTEND;VALUE=DATE:20290613
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (SUNCE HOTELI D.D
  .)
 DESCRIPTION:12. 12. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
- a.\n\n• SUNCE HOTELI D.D. – Koncesija za plažu (STARI GRAD)\, 18.067 
- €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
- 42358B69309879064099
+ a.\n\n• SUNCE HOTELI D.D. – Koncesija za plažu (STARI GRAD) · davate
+ lj: ZADARSKA ŽUPANIJA\, 18.067 €/god.\n\nProfil općine: https://konces
+ ijski-sat.vercel.app/#opcina/41942358B69309879064099
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B69309879064099
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -155,16 +162,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-314d72b20c06cce0@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-4cefa015085eeec1@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20330430
 DTEND;VALUE=DATE:20330501
 SUMMARY:Ističe koncesija: VODOVOD I ODVODNJA BRAČA I HVARA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 30. 4. 2033. Godišnja fiksna nakn
  ada: 3.895 €.\n\n• VODOVOD I ODVODNJA BRAČA I HVARA D.O.O. – Konces
- ija na pomorskom dobru (STARI GRAD)\, 3.895 €/god.\n\nProfil općine: ht
- tps://koncesijski-sat.vercel.app/#opcina/41942358B69309879064099\nIzvor: R
- egistar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ ija na pomorskom dobru (STARI GRAD) · davatelj: SPLITSKO-DALMATINSKA ŽUP
+ ANIJA\, 3.895 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.a
+ pp/#opcina/41942358B69309879064099\nIzvor: Registar koncesija (FINA)\, obr
+ ada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B69309879064099
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -174,8 +182,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-314d72b20c06cce0@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-4cefa015085eeec1@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20321030
 DTEND;VALUE=DATE:20321031
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VODOVOD I ODVODN
@@ -183,8 +191,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VODOVOD I ODVODN
 DESCRIPTION:30. 4. 2033. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• VODOVOD I ODVODNJA BRAČA I HVARA D.O.O. – Koncesija na pomorsk
- om dobru (STARI GRAD)\, 3.895 €/god.\n\nProfil općine: https://koncesij
- ski-sat.vercel.app/#opcina/41942358B69309879064099
+ om dobru (STARI GRAD) · davatelj: SPLITSKO-DALMATINSKA ŽUPANIJA\, 3.895 
+ €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
+ 42358B69309879064099
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B69309879064099
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -195,16 +204,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-039e7a8713d91c46@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-d399941dae70d679@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20340307
 DTEND;VALUE=DATE:20340308
 SUMMARY:Ističe koncesija: HELIOS FAROS D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 7. 3. 2034. Godišnja fiksna nakna
  da: 16.000 €.\n\n• HELIOS FAROS D.D. – Koncesija na pomorskom dobru 
- (STARI GRAD)\, 16.000 €/god.\n\nProfil općine: https://koncesijski-sat.
- vercel.app/#opcina/41942358B69309879064099\nIzvor: Registar koncesija (FIN
- A)\, obrada Koncesijski sat 9. 11. 2026.
+ (STARI GRAD) · davatelj: SPLITSKO-DALMATINSKA ŽUPANIJA\, 16.000 €/god.
+ \n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B69
+ 309879064099\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9.
+  11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B69309879064099
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -214,17 +224,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-039e7a8713d91c46@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-d399941dae70d679@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20330907
 DTEND;VALUE=DATE:20330908
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HELIOS FAROS D.D
  .)
 DESCRIPTION:7. 3. 2034. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
- \n\n• HELIOS FAROS D.D. – Koncesija na pomorskom dobru (STARI GRAD)\, 
- 16.000 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opc
- ina/41942358B69309879064099
+ \n\n• HELIOS FAROS D.D. – Koncesija na pomorskom dobru (STARI GRAD) ·
+  davatelj: SPLITSKO-DALMATINSKA ŽUPANIJA\, 16.000 €/god.\n\nProfil opć
+ ine: https://koncesijski-sat.vercel.app/#opcina/41942358B69309879064099
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B69309879064099
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -235,16 +245,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-9b36f8f34324c4dd@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-311cbaa1fca0cf1b@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20391218
 DTEND;VALUE=DATE:20391219
 SUMMARY:Ističe koncesija: HRVATSKI OPERATOR PRIJENOSNOG SUSTAVA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 18. 12. 2039. Godišnja fiksna nak
  nada: 1.553 €.\n\n• HRVATSKI OPERATOR PRIJENOSNOG SUSTAVA D.O.O. – P
- osebna upotreba pomorskog dobra (STARI GRAD)\, 1.553 €/god.\n\nProfil op
- ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B69309879064099\
- nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ osebna upotreba pomorskog dobra (STARI GRAD) · davatelj: SPLITSKO-DALMATI
+ NSKA ŽUPANIJA\, 1.553 €/god.\n\nProfil općine: https://koncesijski-sat
+ .vercel.app/#opcina/41942358B69309879064099\nIzvor: Registar koncesija (FI
+ NA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B69309879064099
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -254,8 +265,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-9b36f8f34324c4dd@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-311cbaa1fca0cf1b@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20390618
 DTEND;VALUE=DATE:20390619
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKI OPERATO
@@ -263,8 +274,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKI OPERATO
 DESCRIPTION:18. 12. 2039. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• HRVATSKI OPERATOR PRIJENOSNOG SUSTAVA D.O.O. – Posebna upotreb
- a pomorskog dobra (STARI GRAD)\, 1.553 €/god.\n\nProfil općine: https:/
- /koncesijski-sat.vercel.app/#opcina/41942358B69309879064099
+ a pomorskog dobra (STARI GRAD) · davatelj: SPLITSKO-DALMATINSKA ŽUPANIJA
+ \, 1.553 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#o
+ pcina/41942358B69309879064099
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B69309879064099
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -275,17 +287,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-5d02e8ab2fbfc587@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-7850ada59b4be3eb@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20401221
 DTEND;VALUE=DATE:20401222
 SUMMARY:Ističe koncesija: ADRIATIC DEVELOPMENT D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 21. 12. 2040. Godišnja fiksna nak
  nada: 8.580 €.\n\n• ADRIATIC DEVELOPMENT D.O.O. – Koncesija na pomor
- skom dobru u svrhu uzgoja morske ribe i školjkaša (STARI GRAD)\, 8.580 
- €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
- 42358B69309879064099\nIzvor: Registar koncesija (FINA)\, obrada Koncesijsk
- i sat 9. 11. 2026.
+ skom dobru u svrhu uzgoja morske ribe i školjkaša (STARI GRAD) · davate
+ lj: ZADARSKA ŽUPANIJA\, 8.580 €/god.\n\nProfil općine: https://koncesi
+ jski-sat.vercel.app/#opcina/41942358B69309879064099\nIzvor: Registar konce
+ sija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B69309879064099
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -295,8 +307,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-5d02e8ab2fbfc587@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-7850ada59b4be3eb@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20400621
 DTEND;VALUE=DATE:20400622
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ADRIATIC DEVELOP
@@ -304,9 +316,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ADRIATIC DEVELOP
 DESCRIPTION:21. 12. 2040. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• ADRIATIC DEVELOPMENT D.O.O. – Koncesija na pomorskom dobru u s
- vrhu uzgoja morske ribe i školjkaša (STARI GRAD)\, 8.580 €/god.\n\nPro
- fil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B693098790
- 64099
+ vrhu uzgoja morske ribe i školjkaša (STARI GRAD) · davatelj: ZADARSKA 
+ ŽUPANIJA\, 8.580 €/god.\n\nProfil općine: https://koncesijski-sat.verc
+ el.app/#opcina/41942358B69309879064099
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B69309879064099
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -317,17 +329,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-1410e28339a754de@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-877747a60df7bb08@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20410421
 DTEND;VALUE=DATE:20410422
 SUMMARY:Ističe koncesija: CORTINA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 21. 4. 2041. Godišnja fiksna nakn
  ada: 1.327 €.\n\n• CORTINA D.O.O. – Koncesija na pomorskom dobru u s
- vrhu uzgoja morske ribe i školjkaša (STARI GRAD)\, 1.327 €/god.\n\nPro
- fil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B693098790
- 64099\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 20
- 26.
+ vrhu uzgoja morske ribe i školjkaša (STARI GRAD) · davatelj: ZADARSKA 
+ ŽUPANIJA\, 1.327 €/god.\n\nProfil općine: https://koncesijski-sat.verc
+ el.app/#opcina/41942358B69309879064099\nIzvor: Registar koncesija (FINA)\,
+  obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B69309879064099
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -337,16 +349,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-1410e28339a754de@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-877747a60df7bb08@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20401021
 DTEND;VALUE=DATE:20401022
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (CORTINA D.O.O.)
 DESCRIPTION:21. 4. 2041. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• CORTINA D.O.O. – Koncesija na pomorskom dobru u svrhu uzgoja mo
- rske ribe i školjkaša (STARI GRAD)\, 1.327 €/god.\n\nProfil općine: h
- ttps://koncesijski-sat.vercel.app/#opcina/41942358B69309879064099
+ rske ribe i školjkaša (STARI GRAD) · davatelj: ZADARSKA ŽUPANIJA\, 1.3
+ 27 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/
+ 41942358B69309879064099
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B69309879064099
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -357,8 +370,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-ee4ddea61cc8d6e3@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-a7fbe488baec2b79@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20410503
 DTEND;VALUE=DATE:20410504
 SUMMARY:Ističe koncesija: BRANITELJSKO RIBARSKA ZADRUGA DAGNJA ZA RIBARSTV
@@ -366,9 +379,10 @@ SUMMARY:Ističe koncesija: BRANITELJSKO RIBARSKA ZADRUGA DAGNJA ZA RIBARSTV
 DESCRIPTION:1 ugovor o koncesiji ističe 3. 5. 2041. Godišnja fiksna nakna
  da: 4.778 €.\n\n• BRANITELJSKO RIBARSKA ZADRUGA DAGNJA ZA RIBARSTVO I 
  MORSKU AKVAKULTURU – Koncesija na pomorskom dobru u svrhu uzgoja morske 
- ribe i školjkaša (STARI GRAD)\, 4.778 €/god.\n\nProfil općine: https:
- //koncesijski-sat.vercel.app/#opcina/41942358B69309879064099\nIzvor: Regis
- tar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ ribe i školjkaša (STARI GRAD) · davatelj: ZADARSKA ŽUPANIJA\, 4.778 
+ €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
+ 42358B69309879064099\nIzvor: Registar koncesija (FINA)\, obrada Koncesijsk
+ i sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B69309879064099
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -379,8 +393,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-ee4ddea61cc8d6e3@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-a7fbe488baec2b79@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20401103
 DTEND;VALUE=DATE:20401104
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BRANITELJSKO RIB
@@ -389,8 +403,9 @@ DESCRIPTION:3. 5. 2041. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• BRANITELJSKO RIBARSKA ZADRUGA DAGNJA ZA RIBARSTVO I MORSKU AKVAKUL
  TURU – Koncesija na pomorskom dobru u svrhu uzgoja morske ribe i školjk
- aša (STARI GRAD)\, 4.778 €/god.\n\nProfil općine: https://koncesijski-
- sat.vercel.app/#opcina/41942358B69309879064099
+ aša (STARI GRAD) · davatelj: ZADARSKA ŽUPANIJA\, 4.778 €/god.\n\nProf
+ il općine: https://koncesijski-sat.vercel.app/#opcina/41942358B6930987906
+ 4099
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B69309879064099
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -401,18 +416,18 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-96bcadefef3dcada@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-0686fd26f763979f@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20430621
 DTEND;VALUE=DATE:20430622
 SUMMARY:Ističe koncesija: VODOVOD D.O.O. - IZGRAD. I REKON. VOD. NA PODRU
  ČJU ZADARSKE ŽUPANIJE
 DESCRIPTION:1 ugovor o koncesiji ističe 21. 6. 2043. Godišnja fiksna nakn
  ada: 111 €.\n\n• VODOVOD D.O.O. - IZGRAD. I REKON. VOD. NA PODRUČJU Z
- ADARSKE ŽUPANIJE – Posebna upotreba pomorskog dobra (STARI GRAD)\, 111 
- €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
- 42358B69309879064099\nIzvor: Registar koncesija (FINA)\, obrada Koncesijsk
- i sat 9. 11. 2026.
+ ADARSKE ŽUPANIJE – Posebna upotreba pomorskog dobra (STARI GRAD) · dav
+ atelj: ZADARSKA ŽUPANIJA\, 111 €/god.\n\nProfil općine: https://konces
+ ijski-sat.vercel.app/#opcina/41942358B69309879064099\nIzvor: Registar konc
+ esija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B69309879064099
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -423,8 +438,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-96bcadefef3dcada@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-0686fd26f763979f@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20421221
 DTEND;VALUE=DATE:20421222
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VODOVOD D.O.O. -
@@ -432,9 +447,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VODOVOD D.O.O. -
 DESCRIPTION:21. 6. 2043. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• VODOVOD D.O.O. - IZGRAD. I REKON. VOD. NA PODRUČJU ZADARSKE ŽUP
- ANIJE – Posebna upotreba pomorskog dobra (STARI GRAD)\, 111 €/god.\n\n
- Profil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B693098
- 79064099
+ ANIJE – Posebna upotreba pomorskog dobra (STARI GRAD) · davatelj: ZADAR
+ SKA ŽUPANIJA\, 111 €/god.\n\nProfil općine: https://koncesijski-sat.ve
+ rcel.app/#opcina/41942358B69309879064099
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B69309879064099
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -445,8 +460,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-7f5c2641e7aa367e@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-2710147ba3684910@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20451014
 DTEND;VALUE=DATE:20451015
 SUMMARY:Ističe koncesija: ORGANIZACIJA PROIZVOĐAČA PODVELEBITSKA DAGNJA 
@@ -454,9 +469,10 @@ SUMMARY:Ističe koncesija: ORGANIZACIJA PROIZVOĐAČA PODVELEBITSKA DAGNJA
 DESCRIPTION:1 ugovor o koncesiji ističe 14. 10. 2045. Godišnja fiksna nak
  nada: 4.620 €.\n\n• ORGANIZACIJA PROIZVOĐAČA PODVELEBITSKA DAGNJA D.
  O.O. ZA UZGOJ MORSKIH ORGANIZAMA – Koncesija na pomorskom dobru u svrhu 
- uzgoja morske ribe i školjkaša (STARI GRAD)\, 4.620 €/god.\n\nProfil o
- pćine: https://koncesijski-sat.vercel.app/#opcina/41942358B69309879064099
- \nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ uzgoja morske ribe i školjkaša (STARI GRAD) · davatelj: ZADARSKA ŽUPAN
+ IJA\, 4.620 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app
+ /#opcina/41942358B69309879064099\nIzvor: Registar koncesija (FINA)\, obrad
+ a Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B69309879064099
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -467,8 +483,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-7f5c2641e7aa367e@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-2710147ba3684910@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20450414
 DTEND;VALUE=DATE:20450415
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ORGANIZACIJA PRO
@@ -477,8 +493,9 @@ DESCRIPTION:14. 10. 2045. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• ORGANIZACIJA PROIZVOĐAČA PODVELEBITSKA DAGNJA D.O.O. ZA UZGOJ 
  MORSKIH ORGANIZAMA – Koncesija na pomorskom dobru u svrhu uzgoja morske 
- ribe i školjkaša (STARI GRAD)\, 4.620 €/god.\n\nProfil općine: https:
- //koncesijski-sat.vercel.app/#opcina/41942358B69309879064099
+ ribe i školjkaša (STARI GRAD) · davatelj: ZADARSKA ŽUPANIJA\, 4.620 
+ €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
+ 42358B69309879064099
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B69309879064099
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -489,16 +506,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-b76d727d670d8805@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-48d7138928d85946@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20460101
 DTEND;VALUE=DATE:20460102
 SUMMARY:Ističe koncesija: VELE MARE D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 1. 1. 2046. Godišnja fiksna nakna
  da: 1.920 €.\n\n• VELE MARE D.O.O. – Koncesija na pomorskom dobru (S
- TARI GRAD)\, 1.920 €/god.\n\nProfil općine: https://koncesijski-sat.ver
- cel.app/#opcina/41942358B69309879064099\nIzvor: Registar koncesija (FINA)\
- , obrada Koncesijski sat 9. 11. 2026.
+ TARI GRAD) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\, 1.9
+ 20 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/
+ 41942358B69309879064099\nIzvor: Registar koncesija (FINA)\, obrada Koncesi
+ jski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B69309879064099
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -508,17 +526,18 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-b76d727d670d8805@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-48d7138928d85946@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20450701
 DTEND;VALUE=DATE:20450702
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VELE MARE D.O.O.
  )
 DESCRIPTION:1. 1. 2046. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
- \n\n• VELE MARE D.O.O. – Koncesija na pomorskom dobru (STARI GRAD)\, 1
- .920 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcin
- a/41942358B69309879064099
+ \n\n• VELE MARE D.O.O. – Koncesija na pomorskom dobru (STARI GRAD) · 
+ davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\, 1.920 €/god.\n\
+ nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B69309
+ 879064099
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B69309879064099
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -529,16 +548,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-1b3eb2b8f333d58b@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-2f3e530470ab31a3@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20601015
 DTEND;VALUE=DATE:20601016
 SUMMARY:Ističe koncesija: DRŽAVNI HIDROMETEOROLOŠKI ZAVOD
 DESCRIPTION:1 ugovor o koncesiji ističe 15. 10. 2060. Godišnja fiksna nak
  nada: 12 €.\n\n• DRŽAVNI HIDROMETEOROLOŠKI ZAVOD – Koncesija na po
- morskom dobru (STARI GRAD)\, 12 €/god.\n\nProfil općine: https://konces
- ijski-sat.vercel.app/#opcina/41942358B69309879064099\nIzvor: Registar konc
- esija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ morskom dobru (STARI GRAD) · davatelj: MINISTARSTVO MORA\, PROMETA I INFR
+ ASTRUKTURE\, 12 €/god.\n\nProfil općine: https://koncesijski-sat.vercel
+ .app/#opcina/41942358B69309879064099\nIzvor: Registar koncesija (FINA)\, o
+ brada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B69309879064099
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -548,8 +568,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-1b3eb2b8f333d58b@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-2f3e530470ab31a3@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20600415
 DTEND;VALUE=DATE:20600416
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DRŽAVNI HIDROME
@@ -557,8 +577,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DRŽAVNI HIDROME
 DESCRIPTION:15. 10. 2060. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• DRŽAVNI HIDROMETEOROLOŠKI ZAVOD – Koncesija na pomorskom dob
- ru (STARI GRAD)\, 12 €/god.\n\nProfil općine: https://koncesijski-sat.v
- ercel.app/#opcina/41942358B69309879064099
+ ru (STARI GRAD) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\
+ , 12 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcin
+ a/41942358B69309879064099
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B69309879064099
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -569,17 +590,19 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-2b51261ab64b3df9@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-dca4e03fd0b2ea03@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20760717
 DTEND;VALUE=DATE:20760718
 SUMMARY:Ističe 2 koncesije · Stari Grad
 DESCRIPTION:2 ugovora o koncesiji ističe 17. 7. 2076. Godišnja fiksna nak
  nada: 4.050 €.\n\n• HRVATSKI TELEKOM D.D. – Posebna upotreba pomorsk
- og dobra (STARI GRAD)\, 2.025 €/god.\n• HRVATSKI TELEKOM D.D. – Pose
- bna upotreba pomorskog dobra (STARI GRAD)\, 2.025 €/god.\n\nProfil opći
- ne: https://koncesijski-sat.vercel.app/#opcina/41942358B69309879064099\nIz
- vor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ og dobra (STARI GRAD) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRU
+ KTURE\, 2.025 €/god.\n• HRVATSKI TELEKOM D.D. – Posebna upotreba pom
+ orskog dobra (STARI GRAD) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRA
+ STRUKTURE\, 2.025 €/god.\n\nProfil općine: https://koncesijski-sat.verc
+ el.app/#opcina/41942358B69309879064099\nIzvor: Registar koncesija (FINA)\,
+  obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B69309879064099
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -589,22 +612,24 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-2b51261ab64b3df9@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-dca4e03fd0b2ea03@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20760117
 DTEND;VALUE=DATE:20760118
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Stari Grad
 DESCRIPTION:17. 7. 2076. ističe 2 ugovora o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• HRVATSKI TELEKOM D.D. – Posebna upotreba pomorskog dobra (STAR
- I GRAD)\, 2.025 €/god.\n• HRVATSKI TELEKOM D.D. – Posebna upotreba p
- omorskog dobra (STARI GRAD)\, 2.025 €/god.\n\nProfil općine: https://ko
- ncesijski-sat.vercel.app/#opcina/41942358B69309879064099
+ I GRAD) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\, 2.025 
+ €/god.\n• HRVATSKI TELEKOM D.D. – Posebna upotreba pomorskog dobra (
+ STARI GRAD) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\, 2.
+ 025 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina
+ /41942358B69309879064099
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B69309879064099
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Stari Grad
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT

@@ -4,25 +4,27 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Grad Čakovec
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Grad Čakovec. Iz Regist
- ra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podata
- ka. https://koncesijski-sat.vercel.app/#opcina/41942358B93167508493012
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Grad Čakovec (pregled\,
+  svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježava se
+  nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#opcina/4
+ 1942358B93167508493012
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-a984c5dcf900f223@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-ee9c6f90863fcb68@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20271231
 DTEND;VALUE=DATE:20280101
 SUMMARY:Ističe 2 koncesije · Čakovec
 DESCRIPTION:2 ugovora o koncesiji ističe 31. 12. 2027. Godišnja fiksna na
  knada: 3.769 €.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauze
- tu površinu odobrenog eksploatacijskog polja (ČAKOVEC)\, 3.769 €/god.\
- n• INA-INDUSTRIJA NAFTE  D.D. – Dozvola za eksploataciju ugljikovodika
-  (prema Zakonu o ugljikovodicima) (ČAKOVEC)\n\nProfil općine: https://ko
- ncesijski-sat.vercel.app/#opcina/41942358B93167508493012\nIzvor: Registar 
- koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ tu površinu odobrenog eksploatacijskog polja (ČAKOVEC) · davatelj: MINI
+ STARSTVO GOSPODARSTVA\, 3.769 €/god.\n• INA-INDUSTRIJA NAFTE  D.D. –
+  Dozvola za eksploataciju ugljikovodika (prema Zakonu o ugljikovodicima) (
+ ČAKOVEC) · davatelj: MINISTARSTVO GOSPODARSTVA\n\nProfil općine: https:
+ //koncesijski-sat.vercel.app/#opcina/41942358B93167508493012\nIzvor: Regis
+ tar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B93167508493012
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -32,41 +34,44 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-a984c5dcf900f223@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-ee9c6f90863fcb68@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270630
 DTEND;VALUE=DATE:20270701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Čakovec
 DESCRIPTION:31. 12. 2027. ističe 2 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauzetu površinu o
- dobrenog eksploatacijskog polja (ČAKOVEC)\, 3.769 €/god.\n• INA-INDUS
- TRIJA NAFTE  D.D. – Dozvola za eksploataciju ugljikovodika (prema Zakonu
-  o ugljikovodicima) (ČAKOVEC)\n\nProfil općine: https://koncesijski-sat.
- vercel.app/#opcina/41942358B93167508493012
+ dobrenog eksploatacijskog polja (ČAKOVEC) · davatelj: MINISTARSTVO GOSPO
+ DARSTVA\, 3.769 €/god.\n• INA-INDUSTRIJA NAFTE  D.D. – Dozvola za ek
+ sploataciju ugljikovodika (prema Zakonu o ugljikovodicima) (ČAKOVEC) · d
+ avatelj: MINISTARSTVO GOSPODARSTVA\n\nProfil općine: https://koncesijski-
+ sat.vercel.app/#opcina/41942358B93167508493012
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B93167508493012
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Čakovec
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-478fdfba2c35a878@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-7a2b5d88c8389574@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20311231
 DTEND;VALUE=DATE:20320101
 SUMMARY:Ističe 3 koncesije · Čakovec
 DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2031. Godišnja fiksna na
  knada: 4.828 €.\n\n• HOLCIM (HRVATSKA) D. O. O. – Koncesija za povr
  šinu utvrđenog eksploatacijskog polja neenergetskih mineralnih sirovina 
- (ČAKOVEC)\, 2.414 €/god.\n• HOLCIM (HRVATSKA) D. O. O. – Koncesija 
- za eksploataciju građevnog pijeska i šljunka (ČAKOVEC)\, 2.414 €/god.
- \n• HOLCIM (HRVATSKA) D.O.O. – Koncesija za eksploataciju građevnog p
- ijeska i šljunka (ČAKOVEC)\n\nProfil općine: https://koncesijski-sat.ve
- rcel.app/#opcina/41942358B93167508493012\nIzvor: Registar koncesija (FINA)
- \, obrada Koncesijski sat 9. 11. 2026.
+ (ČAKOVEC) · davatelj: MINISTARSTVO GOSPODARSTVA\, 2.414 €/god.\n• HO
+ LCIM (HRVATSKA) D. O. O. – Koncesija za eksploataciju građevnog pijeska
+  i šljunka (ČAKOVEC) · davatelj: MINISTARSTVO GOSPODARSTVA\, 2.414 €/
+ god.\n• HOLCIM (HRVATSKA) D.O.O. – Koncesija za eksploataciju građevn
+ og pijeska i šljunka (ČAKOVEC) · davatelj: MINISTARSTVO GOSPODARSTVA\n\
+ nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B93167
+ 508493012\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11
+ . 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B93167508493012
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -76,39 +81,41 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-478fdfba2c35a878@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-7a2b5d88c8389574@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20310630
 DTEND;VALUE=DATE:20310701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Čakovec
 DESCRIPTION:31. 12. 2031. ističe 3 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• HOLCIM (HRVATSKA) D. O. O. – Koncesija za površinu utvrđeno
- g eksploatacijskog polja neenergetskih mineralnih sirovina (ČAKOVEC)\, 2.
- 414 €/god.\n• HOLCIM (HRVATSKA) D. O. O. – Koncesija za eksploatacij
- u građevnog pijeska i šljunka (ČAKOVEC)\, 2.414 €/god.\n• HOLCIM (H
- RVATSKA) D.O.O. – Koncesija za eksploataciju građevnog pijeska i šljun
- ka (ČAKOVEC)\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcin
- a/41942358B93167508493012
+ g eksploatacijskog polja neenergetskih mineralnih sirovina (ČAKOVEC) · d
+ avatelj: MINISTARSTVO GOSPODARSTVA\, 2.414 €/god.\n• HOLCIM (HRVATSKA)
+  D. O. O. – Koncesija za eksploataciju građevnog pijeska i šljunka (Č
+ AKOVEC) · davatelj: MINISTARSTVO GOSPODARSTVA\, 2.414 €/god.\n• HOLCI
+ M (HRVATSKA) D.O.O. – Koncesija za eksploataciju građevnog pijeska i š
+ ljunka (ČAKOVEC) · davatelj: MINISTARSTVO GOSPODARSTVA\n\nProfil općine
+ : https://koncesijski-sat.vercel.app/#opcina/41942358B93167508493012
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B93167508493012
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Čakovec
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-ec6380fe87e87367@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-d9ca38efb0d70902@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20320318
 DTEND;VALUE=DATE:20320319
 SUMMARY:Ističe koncesija: HRVATSKA ELEKTROPRIVREDA  D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 18. 3. 2032.\n\n• HRVATSKA ELEKT
  ROPRIVREDA  D.D. – Koncesija za korištenje vodne snage radi proizvodnje
-  električne energije (ČAKOVEC)\n\nProfil općine: https://koncesijski-sa
- t.vercel.app/#opcina/41942358B93167508493012\nIzvor: Registar koncesija (F
- INA)\, obrada Koncesijski sat 9. 11. 2026.
+  električne energije (ČAKOVEC) · davatelj: MINISTARSTVO ZAŠTITE OKOLI
+ ŠA I ZELENE TRANZICIJE\n\nProfil općine: https://koncesijski-sat.vercel.
+ app/#opcina/41942358B93167508493012\nIzvor: Registar koncesija (FINA)\, ob
+ rada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B93167508493012
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -118,8 +125,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-ec6380fe87e87367@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-d9ca38efb0d70902@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20310918
 DTEND;VALUE=DATE:20310919
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKA ELEKTRO
@@ -127,8 +134,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKA ELEKTRO
 DESCRIPTION:18. 3. 2032. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• HRVATSKA ELEKTROPRIVREDA  D.D. – Koncesija za korištenje vodne
-  snage radi proizvodnje električne energije (ČAKOVEC)\n\nProfil općine:
-  https://koncesijski-sat.vercel.app/#opcina/41942358B93167508493012
+  snage radi proizvodnje električne energije (ČAKOVEC) · davatelj: MINIS
+ TARSTVO ZAŠTITE OKOLIŠA I ZELENE TRANZICIJE\n\nProfil općine: https://k
+ oncesijski-sat.vercel.app/#opcina/41942358B93167508493012
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B93167508493012
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -139,24 +147,28 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-7bfaf4606ead5072@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-8ec1ac15978a9f41@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20351231
 DTEND;VALUE=DATE:20360101
 SUMMARY:Ističe 6 koncesija · Čakovec
 DESCRIPTION:6 ugovora o koncesiji ističe 31. 12. 2035. Godišnja fiksna na
  knada: 6.586 €.\n\n• CAROVIĆ PLUS D.O.O. – Koncesija za površinu u
  tvrđenog eksploatacijskog polja neenergetskih mineralnih sirovina (ČAKOV
- EC)\, 2.702 €/god.\n• MEĐIMURJE TEGRA D.D. – Koncesija za eksploata
- ciju građevnog pijeska i šljunka (ČAKOVEC)\, 1.942 €/god.\n• MEĐIM
- URJE TEGRA D.D. – Koncesija za površinu utvrđenog eksploatacijskog pol
- ja neenergetskih mineralnih sirovina (ČAKOVEC)\, 1.942 €/god.\n• MEĐ
- IMURJE TEGRA D.D. – Koncesija za eksploataciju građevnog pijeska i šlj
- unka (ČAKOVEC)\n• CAROVIĆ PLUS D.O.O. – Koncesija za eksploataciju g
- rađevnog pijeska i šljunka (ČAKOVEC)\n• CAROVIĆ PLUS D.O.O. – Konc
- esija za eksploataciju građevnog pijeska i šljunka (ČAKOVEC)\n\nProfil 
- općine: https://koncesijski-sat.vercel.app/#opcina/41942358B9316750849301
- 2\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ EC) · davatelj: MINISTARSTVO GOSPODARSTVA\, 2.702 €/god.\n• MEĐIMURJ
+ E TEGRA D.D. – Koncesija za eksploataciju građevnog pijeska i šljunka 
+ (ČAKOVEC) · davatelj: MINISTARSTVO GOSPODARSTVA\, 1.942 €/god.\n• ME
+ ĐIMURJE TEGRA D.D. – Koncesija za površinu utvrđenog eksploatacijskog
+  polja neenergetskih mineralnih sirovina (ČAKOVEC) · davatelj: MINISTARS
+ TVO GOSPODARSTVA\, 1.942 €/god.\n• MEĐIMURJE TEGRA D.D. – Koncesija
+  za eksploataciju građevnog pijeska i šljunka (ČAKOVEC) · davatelj: MI
+ NISTARSTVO GOSPODARSTVA\n• CAROVIĆ PLUS D.O.O. – Koncesija za eksploa
+ taciju građevnog pijeska i šljunka (ČAKOVEC) · davatelj: MINISTARSTVO 
+ GOSPODARSTVA\n• CAROVIĆ PLUS D.O.O. – Koncesija za eksploataciju gra
+ đevnog pijeska i šljunka (ČAKOVEC) · davatelj: MINISTARSTVO GOSPODARST
+ VA\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B
+ 93167508493012\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 
+ 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B93167508493012
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -166,45 +178,49 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-7bfaf4606ead5072@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-8ec1ac15978a9f41@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20350630
 DTEND;VALUE=DATE:20350701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 6 koncesija
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 6 koncesija · Čakovec
 DESCRIPTION:31. 12. 2035. ističe 6 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• CAROVIĆ PLUS D.O.O. – Koncesija za površinu utvrđenog eksp
- loatacijskog polja neenergetskih mineralnih sirovina (ČAKOVEC)\, 2.702 
- €/god.\n• MEĐIMURJE TEGRA D.D. – Koncesija za eksploataciju građev
- nog pijeska i šljunka (ČAKOVEC)\, 1.942 €/god.\n• MEĐIMURJE TEGRA D
- .D. – Koncesija za površinu utvrđenog eksploatacijskog polja neenerget
- skih mineralnih sirovina (ČAKOVEC)\, 1.942 €/god.\n• MEĐIMURJE TEGRA
-  D.D. – Koncesija za eksploataciju građevnog pijeska i šljunka (ČAKOV
- EC)\n• CAROVIĆ PLUS D.O.O. – Koncesija za eksploataciju građevnog pi
- jeska i šljunka (ČAKOVEC)\n• CAROVIĆ PLUS D.O.O. – Koncesija za eks
- ploataciju građevnog pijeska i šljunka (ČAKOVEC)\n\nProfil općine: htt
- ps://koncesijski-sat.vercel.app/#opcina/41942358B93167508493012
+ loatacijskog polja neenergetskih mineralnih sirovina (ČAKOVEC) · davatel
+ j: MINISTARSTVO GOSPODARSTVA\, 2.702 €/god.\n• MEĐIMURJE TEGRA D.D. 
+ – Koncesija za eksploataciju građevnog pijeska i šljunka (ČAKOVEC) ·
+  davatelj: MINISTARSTVO GOSPODARSTVA\, 1.942 €/god.\n• MEĐIMURJE TEGR
+ A D.D. – Koncesija za površinu utvrđenog eksploatacijskog polja neener
+ getskih mineralnih sirovina (ČAKOVEC) · davatelj: MINISTARSTVO GOSPODARS
+ TVA\, 1.942 €/god.\n• MEĐIMURJE TEGRA D.D. – Koncesija za eksploata
+ ciju građevnog pijeska i šljunka (ČAKOVEC) · davatelj: MINISTARSTVO GO
+ SPODARSTVA\n• CAROVIĆ PLUS D.O.O. – Koncesija za eksploataciju građe
+ vnog pijeska i šljunka (ČAKOVEC) · davatelj: MINISTARSTVO GOSPODARSTVA\
+ n• CAROVIĆ PLUS D.O.O. – Koncesija za eksploataciju građevnog pijesk
+ a i šljunka (ČAKOVEC) · davatelj: MINISTARSTVO GOSPODARSTVA\n\nProfil o
+ pćine: https://koncesijski-sat.vercel.app/#opcina/41942358B93167508493012
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B93167508493012
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 6 koncesija
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 6 koncesija · Čakovec
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-d64fe0b8c5ce6c7c@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-ad91e5c6385a52ed@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20410831
 DTEND;VALUE=DATE:20410901
 SUMMARY:Ističe 2 koncesije · Čakovec
 DESCRIPTION:2 ugovora o koncesiji ističe 31. 8. 2041. Godišnja fiksna nak
  nada: 13.870 €.\n\n• ROBERT ZVER\, DIMOS\,OBRT – Koncesija za obavlj
- anje dimnjačarskih poslova (ČAKOVEC)\, 10.273 €/god.\n• DIMNJAČARSK
- I OBRT IVAN ZVER – Koncesija za obavljanje dimnjačarskih poslova (ČAKO
- VEC)\, 3.597 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.ap
- p/#opcina/41942358B93167508493012\nIzvor: Registar koncesija (FINA)\, obra
- da Koncesijski sat 9. 11. 2026.
+ anje dimnjačarskih poslova (ČAKOVEC) · davatelj: GRAD ČAKOVEC\, 10.273
+  €/god.\n• DIMNJAČARSKI OBRT IVAN ZVER – Koncesija za obavljanje di
+ mnjačarskih poslova (ČAKOVEC) · davatelj: GRAD ČAKOVEC\, 3.597 €/god
+ .\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B9
+ 3167508493012\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9
+ . 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B93167508493012
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -214,37 +230,38 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-d64fe0b8c5ce6c7c@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-ad91e5c6385a52ed@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20410228
 DTEND;VALUE=DATE:20410301
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Čakovec
 DESCRIPTION:31. 8. 2041. ističe 2 ugovora o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• ROBERT ZVER\, DIMOS\,OBRT – Koncesija za obavljanje dimnjačar
- skih poslova (ČAKOVEC)\, 10.273 €/god.\n• DIMNJAČARSKI OBRT IVAN ZVE
- R – Koncesija za obavljanje dimnjačarskih poslova (ČAKOVEC)\, 3.597 
- €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
- 42358B93167508493012
+ skih poslova (ČAKOVEC) · davatelj: GRAD ČAKOVEC\, 10.273 €/god.\n• 
+ DIMNJAČARSKI OBRT IVAN ZVER – Koncesija za obavljanje dimnjačarskih po
+ slova (ČAKOVEC) · davatelj: GRAD ČAKOVEC\, 3.597 €/god.\n\nProfil op
+ ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B93167508493012
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B93167508493012
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Čakovec
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-bb2a03ad16aa88df@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-cd6d04f5deb99576@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20470513
 DTEND;VALUE=DATE:20470514
 SUMMARY:Ističe koncesija: CWS-BOCO D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 13. 5. 2047. Godišnja fiksna nakn
  ada: 7.963 €.\n\n• CWS-BOCO D.O.O. – Koncesija za zahvaćanje voda z
- a tehnološke potrebe (ČAKOVEC)\, 7.963 €/god.\n\nProfil općine: https
- ://koncesijski-sat.vercel.app/#opcina/41942358B93167508493012\nIzvor: Regi
- star koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ a tehnološke potrebe (ČAKOVEC) · davatelj: MINISTARSTVO ZAŠTITE OKOLI
+ ŠA I ZELENE TRANZICIJE\, 7.963 €/god.\n\nProfil općine: https://konces
+ ijski-sat.vercel.app/#opcina/41942358B93167508493012\nIzvor: Registar konc
+ esija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B93167508493012
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -254,16 +271,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-bb2a03ad16aa88df@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-cd6d04f5deb99576@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20461113
 DTEND;VALUE=DATE:20461114
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (CWS-BOCO D.O.O.)
 DESCRIPTION:13. 5. 2047. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• CWS-BOCO D.O.O. – Koncesija za zahvaćanje voda za tehnološke 
- potrebe (ČAKOVEC)\, 7.963 €/god.\n\nProfil općine: https://koncesijski
- -sat.vercel.app/#opcina/41942358B93167508493012
+ potrebe (ČAKOVEC) · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠA I ZELENE TR
+ ANZICIJE\, 7.963 €/god.\n\nProfil općine: https://koncesijski-sat.verce
+ l.app/#opcina/41942358B93167508493012
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B93167508493012
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -274,16 +292,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-8918658b67d80297@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-f163aef951f55cc0@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20500324
 DTEND;VALUE=DATE:20500325
 SUMMARY:Ističe koncesija: ČATEKS D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 24. 3. 2050. Godišnja fiksna nakn
  ada: 6.371 €.\n\n• ČATEKS D.D. – Koncesija za zahvaćanje voda za t
- ehnološke potrebe (ČAKOVEC)\, 6.371 €/god.\n\nProfil općine: https://
- koncesijski-sat.vercel.app/#opcina/41942358B93167508493012\nIzvor: Regista
- r koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ ehnološke potrebe (ČAKOVEC) · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠA 
+ I ZELENE TRANZICIJE\, 6.371 €/god.\n\nProfil općine: https://koncesijsk
+ i-sat.vercel.app/#opcina/41942358B93167508493012\nIzvor: Registar koncesij
+ a (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B93167508493012
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -293,16 +312,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-8918658b67d80297@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-f163aef951f55cc0@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20490924
 DTEND;VALUE=DATE:20490925
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ČATEKS D.D.)
 DESCRIPTION:24. 3. 2050. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• ČATEKS D.D. – Koncesija za zahvaćanje voda za tehnološke pot
- rebe (ČAKOVEC)\, 6.371 €/god.\n\nProfil općine: https://koncesijski-sa
- t.vercel.app/#opcina/41942358B93167508493012
+ rebe (ČAKOVEC) · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠA I ZELENE TRANZ
+ ICIJE\, 6.371 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.a
+ pp/#opcina/41942358B93167508493012
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B93167508493012
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -313,16 +333,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-67efa8d94d759b05@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-c4e3d952fe3ae2da@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20500417
 DTEND;VALUE=DATE:20500418
 SUMMARY:Ističe koncesija: VAJDA D. D. ČAKOVEC
 DESCRIPTION:1 ugovor o koncesiji ističe 17. 4. 2050. Godišnja fiksna nakn
  ada: 4.313 €.\n\n• VAJDA D. D. ČAKOVEC – Koncesija za zahvaćanje v
- oda za tehnološke potrebe (ČAKOVEC)\, 4.313 €/god.\n\nProfil općine: 
- https://koncesijski-sat.vercel.app/#opcina/41942358B93167508493012\nIzvor:
-  Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ oda za tehnološke potrebe (ČAKOVEC) · davatelj: MINISTARSTVO ZAŠTITE O
+ KOLIŠA I ZELENE TRANZICIJE\, 4.313 €/god.\n\nProfil općine: https://ko
+ ncesijski-sat.vercel.app/#opcina/41942358B93167508493012\nIzvor: Registar 
+ koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B93167508493012
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -332,8 +353,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-67efa8d94d759b05@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-c4e3d952fe3ae2da@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20491017
 DTEND;VALUE=DATE:20491018
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VAJDA D. D. ČAK
@@ -341,8 +362,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VAJDA D. D. ČAK
 DESCRIPTION:17. 4. 2050. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• VAJDA D. D. ČAKOVEC – Koncesija za zahvaćanje voda za tehnolo
- ške potrebe (ČAKOVEC)\, 4.313 €/god.\n\nProfil općine: https://konces
- ijski-sat.vercel.app/#opcina/41942358B93167508493012
+ ške potrebe (ČAKOVEC) · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠA I ZELE
+ NE TRANZICIJE\, 4.313 €/god.\n\nProfil općine: https://koncesijski-sat.
+ vercel.app/#opcina/41942358B93167508493012
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B93167508493012
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -353,17 +375,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-890fd88447a777cb@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-dcf981f0d46824bd@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20501104
 DTEND;VALUE=DATE:20501105
 SUMMARY:Ističe koncesija: AGROMEĐIMURJE RATARSTVO D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 4. 11. 2050. Godišnja fiksna nakn
  ada: 2.654 €.\n\n• AGROMEĐIMURJE RATARSTVO D.O.O. – Koncesija za za
- hvaćanje voda za tehnološke potrebe (ČAKOVEC)\, 2.654 €/god.\n\nProfi
- l općine: https://koncesijski-sat.vercel.app/#opcina/41942358B93167508493
- 012\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026
- .
+ hvaćanje voda za tehnološke potrebe (ČAKOVEC) · davatelj: MINISTARSTVO
+  ZAŠTITE OKOLIŠA I ZELENE TRANZICIJE\, 2.654 €/god.\n\nProfil općine:
+  https://koncesijski-sat.vercel.app/#opcina/41942358B93167508493012\nIzvor
+ : Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B93167508493012
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -373,8 +395,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-890fd88447a777cb@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-dcf981f0d46824bd@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20500504
 DTEND;VALUE=DATE:20500505
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (AGROMEĐIMURJE R
@@ -382,8 +404,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (AGROMEĐIMURJE R
 DESCRIPTION:4. 11. 2050. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• AGROMEĐIMURJE RATARSTVO D.O.O. – Koncesija za zahvaćanje voda
-  za tehnološke potrebe (ČAKOVEC)\, 2.654 €/god.\n\nProfil općine: htt
- ps://koncesijski-sat.vercel.app/#opcina/41942358B93167508493012
+  za tehnološke potrebe (ČAKOVEC) · davatelj: MINISTARSTVO ZAŠTITE OKOL
+ IŠA I ZELENE TRANZICIJE\, 2.654 €/god.\n\nProfil općine: https://konce
+ sijski-sat.vercel.app/#opcina/41942358B93167508493012
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B93167508493012
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -394,16 +417,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-04ec1445b9eac2fd@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-185d537592708696@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20510910
 DTEND;VALUE=DATE:20510911
 SUMMARY:Ističe koncesija: PERUTNINA PTUJ-PIPO D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 10. 9. 2051. Godišnja fiksna nakn
  ada: 8.494 €.\n\n• PERUTNINA PTUJ-PIPO D.O.O. – Koncesija za zahvać
- anje voda za tehnološke potrebe (ČAKOVEC)\, 8.494 €/god.\n\nProfil op
- ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B93167508493012\
- nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ anje voda za tehnološke potrebe (ČAKOVEC) · davatelj: MINISTARSTVO ZAŠ
+ TITE OKOLIŠA I ZELENE TRANZICIJE\, 8.494 €/god.\n\nProfil općine: http
+ s://koncesijski-sat.vercel.app/#opcina/41942358B93167508493012\nIzvor: Reg
+ istar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B93167508493012
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -413,8 +437,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-04ec1445b9eac2fd@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-185d537592708696@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20510310
 DTEND;VALUE=DATE:20510311
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PERUTNINA PTUJ-P
@@ -422,8 +446,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PERUTNINA PTUJ-P
 DESCRIPTION:10. 9. 2051. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• PERUTNINA PTUJ-PIPO D.O.O. – Koncesija za zahvaćanje voda za t
- ehnološke potrebe (ČAKOVEC)\, 8.494 €/god.\n\nProfil općine: https://
- koncesijski-sat.vercel.app/#opcina/41942358B93167508493012
+ ehnološke potrebe (ČAKOVEC) · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠA 
+ I ZELENE TRANZICIJE\, 8.494 €/god.\n\nProfil općine: https://koncesijsk
+ i-sat.vercel.app/#opcina/41942358B93167508493012
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B93167508493012
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -434,16 +459,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-62889f797ff0c449@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-bcb9e05e6dc3575b@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20530427
 DTEND;VALUE=DATE:20530428
 SUMMARY:Ističe koncesija: TUBLA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 27. 4. 2053. Godišnja fiksna nakn
  ada: 2.655 €.\n\n• TUBLA D.O.O. – Koncesija za zahvaćanje voda za t
- ehnološke potrebe (ČAKOVEC)\, 2.655 €/god.\n\nProfil općine: https://
- koncesijski-sat.vercel.app/#opcina/41942358B93167508493012\nIzvor: Regista
- r koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ ehnološke potrebe (ČAKOVEC) · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠA 
+ I ZELENE TRANZICIJE\, 2.655 €/god.\n\nProfil općine: https://koncesijsk
+ i-sat.vercel.app/#opcina/41942358B93167508493012\nIzvor: Registar koncesij
+ a (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B93167508493012
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -453,16 +479,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-62889f797ff0c449@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-bcb9e05e6dc3575b@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20521027
 DTEND;VALUE=DATE:20521028
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (TUBLA D.O.O.)
 DESCRIPTION:27. 4. 2053. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• TUBLA D.O.O. – Koncesija za zahvaćanje voda za tehnološke pot
- rebe (ČAKOVEC)\, 2.655 €/god.\n\nProfil općine: https://koncesijski-sa
- t.vercel.app/#opcina/41942358B93167508493012
+ rebe (ČAKOVEC) · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠA I ZELENE TRANZ
+ ICIJE\, 2.655 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.a
+ pp/#opcina/41942358B93167508493012
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B93167508493012
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -473,17 +500,18 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-3815cc18caad5a90@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-a1b8b38930a0e55b@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20540118
 DTEND;VALUE=DATE:20540119
 SUMMARY:Ističe koncesija: MESNA INDUSTRIJA-VAJDA D.D. ČAKOVEC
 DESCRIPTION:1 ugovor o koncesiji ističe 18. 1. 2054. Godišnja fiksna nakn
  ada: 9.622 €.\n\n• MESNA INDUSTRIJA-VAJDA D.D. ČAKOVEC – Koncesija 
- za zahvaćanje voda radi korištenja u proizvodnom postupku (ČAKOVEC)\, 9
- .622 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcin
- a/41942358B93167508493012\nIzvor: Registar koncesija (FINA)\, obrada Konce
- sijski sat 9. 11. 2026.
+ za zahvaćanje voda radi korištenja u proizvodnom postupku (ČAKOVEC) · 
+ davatelj: MINISTARSTVO ZAŠTITE OKOLIŠA I ZELENE TRANZICIJE\, 9.622 €/g
+ od.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358
+ B93167508493012\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat
+  9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B93167508493012
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -493,8 +521,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-3815cc18caad5a90@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-a1b8b38930a0e55b@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20530718
 DTEND;VALUE=DATE:20530719
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MESNA INDUSTRIJA
@@ -502,9 +530,10 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MESNA INDUSTRIJA
 DESCRIPTION:18. 1. 2054. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• MESNA INDUSTRIJA-VAJDA D.D. ČAKOVEC – Koncesija za zahvaćanje
-  voda radi korištenja u proizvodnom postupku (ČAKOVEC)\, 9.622 €/god.\
- n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B931
- 67508493012
+  voda radi korištenja u proizvodnom postupku (ČAKOVEC) · davatelj: MINI
+ STARSTVO ZAŠTITE OKOLIŠA I ZELENE TRANZICIJE\, 9.622 €/god.\n\nProfil 
+ općine: https://koncesijski-sat.vercel.app/#opcina/41942358B9316750849301
+ 2
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B93167508493012
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -515,20 +544,21 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-c02df1ae24d3f96f@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-ff9e2a01c27e54b3@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20551231
 DTEND;VALUE=DATE:20560101
 SUMMARY:Ističe 3 koncesije · Čakovec
 DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2055. Godišnja fiksna na
  knada: 29.528 €.\n\n• TEGRA D.O.O. – Koncesija za eksploataciju gra
- đevnog pijeska i šljunka (ČAKOVEC)\, 14.764 €/god.\n• TEGRA D.O.O. 
- – Koncesija za površinu utvrđenog eksploatacijskog polja neenergetskih
-  mineralnih sirovina (ČAKOVEC)\, 14.764 €/god.\n• TEGRA D.O.O. – Ko
- ncesija za eksploataciju građevnog pijeska i šljunka (ČAKOVEC)\n\nProfi
- l općine: https://koncesijski-sat.vercel.app/#opcina/41942358B93167508493
- 012\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026
- .
+ đevnog pijeska i šljunka (ČAKOVEC) · davatelj: MINISTARSTVO GOSPODARST
+ VA\, 14.764 €/god.\n• TEGRA D.O.O. – Koncesija za površinu utvrđen
+ og eksploatacijskog polja neenergetskih mineralnih sirovina (ČAKOVEC) · 
+ davatelj: MINISTARSTVO GOSPODARSTVA\, 14.764 €/god.\n• TEGRA D.O.O. 
+ – Koncesija za eksploataciju građevnog pijeska i šljunka (ČAKOVEC) ·
+  davatelj: MINISTARSTVO GOSPODARSTVA\n\nProfil općine: https://koncesijsk
+ i-sat.vercel.app/#opcina/41942358B93167508493012\nIzvor: Registar koncesij
+ a (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B93167508493012
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -538,24 +568,26 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-c02df1ae24d3f96f@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-ff9e2a01c27e54b3@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20550630
 DTEND;VALUE=DATE:20550701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Čakovec
 DESCRIPTION:31. 12. 2055. ističe 3 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• TEGRA D.O.O. – Koncesija za eksploataciju građevnog pijeska 
- i šljunka (ČAKOVEC)\, 14.764 €/god.\n• TEGRA D.O.O. – Koncesija za
-  površinu utvrđenog eksploatacijskog polja neenergetskih mineralnih siro
- vina (ČAKOVEC)\, 14.764 €/god.\n• TEGRA D.O.O. – Koncesija za ekspl
- oataciju građevnog pijeska i šljunka (ČAKOVEC)\n\nProfil općine: https
- ://koncesijski-sat.vercel.app/#opcina/41942358B93167508493012
+ i šljunka (ČAKOVEC) · davatelj: MINISTARSTVO GOSPODARSTVA\, 14.764 €/
+ god.\n• TEGRA D.O.O. – Koncesija za površinu utvrđenog eksploatacijs
+ kog polja neenergetskih mineralnih sirovina (ČAKOVEC) · davatelj: MINIST
+ ARSTVO GOSPODARSTVA\, 14.764 €/god.\n• TEGRA D.O.O. – Koncesija za e
+ ksploataciju građevnog pijeska i šljunka (ČAKOVEC) · davatelj: MINISTA
+ RSTVO GOSPODARSTVA\n\nProfil općine: https://koncesijski-sat.vercel.app/#
+ opcina/41942358B93167508493012
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B93167508493012
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Čakovec
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT

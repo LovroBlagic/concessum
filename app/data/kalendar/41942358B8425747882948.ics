@@ -4,23 +4,25 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Grad Crikvenica
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Grad Crikvenica. Iz Regi
- stra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade poda
- taka. https://koncesijski-sat.vercel.app/#opcina/41942358B8425747882948
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Grad Crikvenica (pregled
+ \, svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježava 
+ se nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#opcina
+ /41942358B8425747882948
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-330a503e0e3bb22d@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-aeaa06113d012d67@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
 SUMMARY:Ističe koncesija: AUTOTRANS D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 16. 11. 2026. Godišnja fiksna nak
  nada: 8.587 €.\n\n• AUTOTRANS D.D. – Koncesija za obavljanje prijevo
- za putnika u javnom prometu (CRIKVENICA)\, 8.587 €/god.\n\nProfil općin
- e: https://koncesijski-sat.vercel.app/#opcina/41942358B8425747882948\nIzvo
- r: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ za putnika u javnom prometu (CRIKVENICA) · davatelj: GRAD CRIKVENICA\, 8.
+ 587 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina
+ /41942358B8425747882948\nIzvor: Registar koncesija (FINA)\, obrada Koncesi
+ jski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B8425747882948
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -30,16 +32,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-db79179d0bc1ed9c@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-68c6bfe4028a5bc4@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20261216
 DTEND;VALUE=DATE:20261217
 SUMMARY:Ističe koncesija: DIMO-PROMET D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 16. 12. 2026. Godišnja fiksna nak
  nada: 6.371 €.\n\n• DIMO-PROMET D.O.O. – Koncesija za obavljanje dim
- njačarskih poslova (CRIKVENICA)\, 6.371 €/god.\n\nProfil općine: https
- ://koncesijski-sat.vercel.app/#opcina/41942358B8425747882948\nIzvor: Regis
- tar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ njačarskih poslova (CRIKVENICA) · davatelj: GRAD CRIKVENICA\, 6.371 €/
+ god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4194235
+ 8B8425747882948\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat
+  9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B8425747882948
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -49,16 +52,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-0246ad59b5d84c83@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-b72895361981ae5d@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270301
 DTEND;VALUE=DATE:20270302
 SUMMARY:Ističe koncesija: B ČETIRI SPORT D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 1. 3. 2027. Godišnja fiksna nakna
  da: 12.031 €.\n\n• B ČETIRI SPORT D.O.O. – Koncesija na pomorskom d
- obru (CRIKVENICA)\, 12.031 €/god.\n\nProfil općine: https://koncesijski
- -sat.vercel.app/#opcina/41942358B8425747882948\nIzvor: Registar koncesija 
- (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ obru (CRIKVENICA) · davatelj: PRIMORSKO GORANSKA ŽUPANIJA\, 12.031 €/g
+ od.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358
+ B8425747882948\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 
+ 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B8425747882948
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -68,26 +72,30 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-38e9a9de548f3e9e@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-be8083412b906f0e@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270518
 DTEND;VALUE=DATE:20270519
 SUMMARY:Ističe 6 koncesija · Crikvenica
 DESCRIPTION:6 ugovora o koncesiji ističe 18. 5. 2027. Godišnja fiksna nak
  nada: 1.272 €.\n\n• TAXI MALENA\, VL. ALEN KLASNETIĆ – Koncesija po
- morskog dobra u svrhu gospodarskog korištenja luke (CRIKVENICA)\, 212 €
- /god.\n• PRIJEVOZ PUTNIKA MOREM ROBERTA\, CRIKVENICA – Koncesija pomor
- skog dobra u svrhu gospodarskog korištenja luke (CRIKVENICA)\, 212 €/go
- d.\n• ŠARE TOURS \, IGOR TOMLJANOVIĆ – Koncesija pomorskog dobra u s
- vrhu gospodarskog korištenja luke (CRIKVENICA)\, 212 €/god.\n• MARIO 
- BOŠNJAK - TAXI MARINO\, MARIO BOŠNJAK – Koncesija pomorskog dobra u sv
- rhu gospodarskog korištenja luke (CRIKVENICA)\, 212 €/god.\n• GRAMAR\
- , VL BARBARA ILIJANIĆ – Koncesija pomorskog dobra u svrhu gospodarskog 
- korištenja luke (CRIKVENICA)\, 212 €/god.\n• TAXI PLIMA\, VL. GORDAN 
- MANESTAR – Koncesija pomorskog dobra u svrhu gospodarskog korištenja lu
- ke (CRIKVENICA)\, 212 €/god.\n\nProfil općine: https://koncesijski-sat.
- vercel.app/#opcina/41942358B8425747882948\nIzvor: Registar koncesija (FINA
- )\, obrada Koncesijski sat 9. 11. 2026.
+ morskog dobra u svrhu gospodarskog korištenja luke (CRIKVENICA) · davate
+ lj: ŽUPANIJSKA LUČKA UPRAVA CRIKVENICA\, 212 €/god.\n• PRIJEVOZ PUTN
+ IKA MOREM ROBERTA\, CRIKVENICA – Koncesija pomorskog dobra u svrhu gospo
+ darskog korištenja luke (CRIKVENICA) · davatelj: ŽUPANIJSKA LUČKA UPRA
+ VA CRIKVENICA\, 212 €/god.\n• ŠARE TOURS \, IGOR TOMLJANOVIĆ – Kon
+ cesija pomorskog dobra u svrhu gospodarskog korištenja luke (CRIKVENICA) 
+ · davatelj: ŽUPANIJSKA LUČKA UPRAVA CRIKVENICA\, 212 €/god.\n• MARI
+ O BOŠNJAK - TAXI MARINO\, MARIO BOŠNJAK – Koncesija pomorskog dobra u 
+ svrhu gospodarskog korištenja luke (CRIKVENICA) · davatelj: ŽUPANIJSKA 
+ LUČKA UPRAVA CRIKVENICA\, 212 €/god.\n• GRAMAR\, VL BARBARA ILIJANIĆ
+  – Koncesija pomorskog dobra u svrhu gospodarskog korištenja luke (CRIK
+ VENICA) · davatelj: ŽUPANIJSKA LUČKA UPRAVA CRIKVENICA\, 212 €/god.\n
+ • TAXI PLIMA\, VL. GORDAN MANESTAR – Koncesija pomorskog dobra u svrhu
+  gospodarskog korištenja luke (CRIKVENICA) · davatelj: ŽUPANIJSKA LUČK
+ A UPRAVA CRIKVENICA\, 212 €/god.\n\nProfil općine: https://koncesijski-
+ sat.vercel.app/#opcina/41942358B8425747882948\nIzvor: Registar koncesija (
+ FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B8425747882948
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -97,45 +105,50 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-38e9a9de548f3e9e@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-be8083412b906f0e@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 6 koncesija
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 6 koncesija · Crikvenica
 DESCRIPTION:18. 5. 2027. ističe 6 ugovora o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• TAXI MALENA\, VL. ALEN KLASNETIĆ – Koncesija pomorskog dobra 
- u svrhu gospodarskog korištenja luke (CRIKVENICA)\, 212 €/god.\n• PRI
- JEVOZ PUTNIKA MOREM ROBERTA\, CRIKVENICA – Koncesija pomorskog dobra u s
- vrhu gospodarskog korištenja luke (CRIKVENICA)\, 212 €/god.\n• ŠARE 
- TOURS \, IGOR TOMLJANOVIĆ – Koncesija pomorskog dobra u svrhu gospodars
- kog korištenja luke (CRIKVENICA)\, 212 €/god.\n• MARIO BOŠNJAK - TAX
- I MARINO\, MARIO BOŠNJAK – Koncesija pomorskog dobra u svrhu gospodarsk
- og korištenja luke (CRIKVENICA)\, 212 €/god.\n• GRAMAR\, VL BARBARA I
- LIJANIĆ – Koncesija pomorskog dobra u svrhu gospodarskog korištenja lu
- ke (CRIKVENICA)\, 212 €/god.\n• TAXI PLIMA\, VL. GORDAN MANESTAR – K
- oncesija pomorskog dobra u svrhu gospodarskog korištenja luke (CRIKVENICA
- )\, 212 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#op
- cina/41942358B8425747882948
+ u svrhu gospodarskog korištenja luke (CRIKVENICA) · davatelj: ŽUPANIJSK
+ A LUČKA UPRAVA CRIKVENICA\, 212 €/god.\n• PRIJEVOZ PUTNIKA MOREM ROBE
+ RTA\, CRIKVENICA – Koncesija pomorskog dobra u svrhu gospodarskog koriš
+ tenja luke (CRIKVENICA) · davatelj: ŽUPANIJSKA LUČKA UPRAVA CRIKVENICA\
+ , 212 €/god.\n• ŠARE TOURS \, IGOR TOMLJANOVIĆ – Koncesija pomorsk
+ og dobra u svrhu gospodarskog korištenja luke (CRIKVENICA) · davatelj: 
+ ŽUPANIJSKA LUČKA UPRAVA CRIKVENICA\, 212 €/god.\n• MARIO BOŠNJAK - 
+ TAXI MARINO\, MARIO BOŠNJAK – Koncesija pomorskog dobra u svrhu gospoda
+ rskog korištenja luke (CRIKVENICA) · davatelj: ŽUPANIJSKA LUČKA UPRAVA
+  CRIKVENICA\, 212 €/god.\n• GRAMAR\, VL BARBARA ILIJANIĆ – Koncesij
+ a pomorskog dobra u svrhu gospodarskog korištenja luke (CRIKVENICA) · da
+ vatelj: ŽUPANIJSKA LUČKA UPRAVA CRIKVENICA\, 212 €/god.\n• TAXI PLIM
+ A\, VL. GORDAN MANESTAR – Koncesija pomorskog dobra u svrhu gospodarskog
+  korištenja luke (CRIKVENICA) · davatelj: ŽUPANIJSKA LUČKA UPRAVA CRIK
+ VENICA\, 212 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.ap
+ p/#opcina/41942358B8425747882948
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B8425747882948
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 6 koncesija
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 6 koncesija · Crikvenica
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-e138e5ba7eb271c9@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-458f7d0ba63f8f7e@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270828
 DTEND;VALUE=DATE:20270829
 SUMMARY:Ističe koncesija: USLUŽNI OBRT LONČARIĆ VL.IGOR LONČARIĆ
 DESCRIPTION:1 ugovor o koncesiji ističe 28. 8. 2027. Godišnja fiksna nakn
  ada: 2.256 €.\n\n• USLUŽNI OBRT LONČARIĆ VL.IGOR LONČARIĆ – Kon
- cesija za luku (CRIKVENICA)\, 2.256 €/god.\n\nProfil općine: https://ko
- ncesijski-sat.vercel.app/#opcina/41942358B8425747882948\nIzvor: Registar k
- oncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ cesija za luku (CRIKVENICA) · davatelj: ŽUPANIJSKA LUČKA UPRAVA CRIKVEN
+ ICA\, 2.256 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app
+ /#opcina/41942358B8425747882948\nIzvor: Registar koncesija (FINA)\, obrada
+  Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B8425747882948
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -145,8 +158,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-e138e5ba7eb271c9@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-458f7d0ba63f8f7e@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270228
 DTEND;VALUE=DATE:20270301
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (USLUŽNI OBRT LO
@@ -154,8 +167,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (USLUŽNI OBRT LO
 DESCRIPTION:28. 8. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• USLUŽNI OBRT LONČARIĆ VL.IGOR LONČARIĆ – Koncesija za luku
-  (CRIKVENICA)\, 2.256 €/god.\n\nProfil općine: https://koncesijski-sat.
- vercel.app/#opcina/41942358B8425747882948
+  (CRIKVENICA) · davatelj: ŽUPANIJSKA LUČKA UPRAVA CRIKVENICA\, 2.256 
+ €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
+ 42358B8425747882948
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B8425747882948
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -166,16 +180,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-b9910207d8a279de@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-34aa126cb1ac2eb6@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270902
 DTEND;VALUE=DATE:20270903
 SUMMARY:Ističe koncesija: DEZINSEKCIJA D. O. O.
 DESCRIPTION:1 ugovor o koncesiji ističe 2. 9. 2027. Godišnja fiksna nakna
  da: 265 €.\n\n• DEZINSEKCIJA D. O. O. – Koncesija pomorskog dobra u 
- svrhu gospodarskog korištenja luke (CRIKVENICA)\, 265 €/god.\n\nProfil 
- općine: https://koncesijski-sat.vercel.app/#opcina/41942358B8425747882948
- \nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ svrhu gospodarskog korištenja luke (CRIKVENICA) · davatelj: ŽUPANIJSKA 
+ LUČKA UPRAVA CRIKVENICA\, 265 €/god.\n\nProfil općine: https://koncesi
+ jski-sat.vercel.app/#opcina/41942358B8425747882948\nIzvor: Registar konces
+ ija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B8425747882948
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -185,8 +200,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-b9910207d8a279de@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-34aa126cb1ac2eb6@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270302
 DTEND;VALUE=DATE:20270303
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DEZINSEKCIJA D. 
@@ -194,8 +209,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DEZINSEKCIJA D.
 DESCRIPTION:2. 9. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• DEZINSEKCIJA D. O. O. – Koncesija pomorskog dobra u svrhu gospod
- arskog korištenja luke (CRIKVENICA)\, 265 €/god.\n\nProfil općine: htt
- ps://koncesijski-sat.vercel.app/#opcina/41942358B8425747882948
+ arskog korištenja luke (CRIKVENICA) · davatelj: ŽUPANIJSKA LUČKA UPRAV
+ A CRIKVENICA\, 265 €/god.\n\nProfil općine: https://koncesijski-sat.ver
+ cel.app/#opcina/41942358B8425747882948
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B8425747882948
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -206,17 +222,18 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-ae4a78ff283ffa00@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-f42ccbe4f481eef7@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20280120
 DTEND;VALUE=DATE:20280121
 SUMMARY:Ističe koncesija: MARIO BOŠNJAK - TAXI MARINO\, MARIO BOŠNJAK
 DESCRIPTION:1 ugovor o koncesiji ističe 20. 1. 2028. Godišnja fiksna nakn
  ada: 4.406 €.\n\n• MARIO BOŠNJAK - TAXI MARINO\, MARIO BOŠNJAK – K
  oncesija pomorskog dobra u svrhu gospodarskog korištenja luke (CRIKVENICA
- )\, 4.406 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#
- opcina/41942358B8425747882948\nIzvor: Registar koncesija (FINA)\, obrada K
- oncesijski sat 9. 11. 2026.
+ ) · davatelj: ŽUPANIJSKA LUČKA UPRAVA CRIKVENICA\, 4.406 €/god.\n\nPr
+ ofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B84257478
+ 82948\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 20
+ 26.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B8425747882948
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -227,8 +244,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-ae4a78ff283ffa00@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-f42ccbe4f481eef7@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270720
 DTEND;VALUE=DATE:20270721
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MARIO BOŠNJAK -
@@ -236,9 +253,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MARIO BOŠNJAK -
 DESCRIPTION:20. 1. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• MARIO BOŠNJAK - TAXI MARINO\, MARIO BOŠNJAK – Koncesija pomor
- skog dobra u svrhu gospodarskog korištenja luke (CRIKVENICA)\, 4.406 €/
- god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4194235
- 8B8425747882948
+ skog dobra u svrhu gospodarskog korištenja luke (CRIKVENICA) · davatelj:
+  ŽUPANIJSKA LUČKA UPRAVA CRIKVENICA\, 4.406 €/god.\n\nProfil općine: 
+ https://koncesijski-sat.vercel.app/#opcina/41942358B8425747882948
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B8425747882948
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -249,16 +266,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-e0105d821a4e1a65@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-8977a8e6e8d11d60@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20280711
 DTEND;VALUE=DATE:20280712
 SUMMARY:Ističe koncesija: JADRAN D.D. CRIKVENICA
 DESCRIPTION:1 ugovor o koncesiji ističe 11. 7. 2028. Godišnja fiksna nakn
  ada: 13.831 €.\n\n• JADRAN D.D. CRIKVENICA – Koncesija na pomorskom 
- dobru (CRIKVENICA)\, 13.831 €/god.\n\nProfil općine: https://koncesijsk
- i-sat.vercel.app/#opcina/41942358B8425747882948\nIzvor: Registar koncesija
-  (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ dobru (CRIKVENICA) · davatelj: PRIMORSKO GORANSKA ŽUPANIJA\, 13.831 €/
+ god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4194235
+ 8B8425747882948\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat
+  9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B8425747882948
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -268,8 +286,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-e0105d821a4e1a65@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-8977a8e6e8d11d60@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20280111
 DTEND;VALUE=DATE:20280112
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (JADRAN D.D. CRIK
@@ -277,8 +295,8 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (JADRAN D.D. CRIK
 DESCRIPTION:11. 7. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• JADRAN D.D. CRIKVENICA – Koncesija na pomorskom dobru (CRIKVENI
- CA)\, 13.831 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.ap
- p/#opcina/41942358B8425747882948
+ CA) · davatelj: PRIMORSKO GORANSKA ŽUPANIJA\, 13.831 €/god.\n\nProfil 
+ općine: https://koncesijski-sat.vercel.app/#opcina/41942358B8425747882948
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B8425747882948
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -289,15 +307,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-985d4a358e1fb548@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-a2caedf2ee92e66c@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20281112
 DTEND;VALUE=DATE:20281113
 SUMMARY:Ističe koncesija: THALASSOTHERAPIA - CRIKVENICA
 DESCRIPTION:1 ugovor o koncesiji ističe 12. 11. 2028.\n\n• THALASSOTHERA
- PIA - CRIKVENICA – Koncesija na pomorskom dobru (CRIKVENICA)\n\nProfil o
- pćine: https://koncesijski-sat.vercel.app/#opcina/41942358B8425747882948\
- nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ PIA - CRIKVENICA – Koncesija na pomorskom dobru (CRIKVENICA) · davatelj
+ : GRAD CRIKVENICA\n\nProfil općine: https://koncesijski-sat.vercel.app/#o
+ pcina/41942358B8425747882948\nIzvor: Registar koncesija (FINA)\, obrada Ko
+ ncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B8425747882948
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -307,8 +326,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-985d4a358e1fb548@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-a2caedf2ee92e66c@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20280512
 DTEND;VALUE=DATE:20280513
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (THALASSOTHERAPIA
@@ -316,8 +335,8 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (THALASSOTHERAPIA
 DESCRIPTION:12. 11. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• THALASSOTHERAPIA - CRIKVENICA – Koncesija na pomorskom dobru (
- CRIKVENICA)\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/
- 41942358B8425747882948
+ CRIKVENICA) · davatelj: GRAD CRIKVENICA\n\nProfil općine: https://konces
+ ijski-sat.vercel.app/#opcina/41942358B8425747882948
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B8425747882948
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -328,16 +347,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-5d8e369c1c0f12cd@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-b976ac29bb413cf4@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20290128
 DTEND;VALUE=DATE:20290129
 SUMMARY:Ističe koncesija: NIKOLA 1965 D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 28. 1. 2029. Godišnja fiksna nakn
  ada: 7.300 €.\n\n• NIKOLA 1965 D.O.O. – Koncesija za luku (CRIKVENIC
- A)\, 7.300 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/
- #opcina/41942358B8425747882948\nIzvor: Registar koncesija (FINA)\, obrada 
- Koncesijski sat 9. 11. 2026.
+ A) · davatelj: ŽUPANIJSKA LUČKA UPRAVA CRIKVENICA\, 7.300 €/god.\n\nP
+ rofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B8425747
+ 882948\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2
+ 026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B8425747882948
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -347,17 +367,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-5d8e369c1c0f12cd@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-b976ac29bb413cf4@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20280728
 DTEND;VALUE=DATE:20280729
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (NIKOLA 1965 D.O.
  O.)
 DESCRIPTION:28. 1. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
- .\n\n• NIKOLA 1965 D.O.O. – Koncesija za luku (CRIKVENICA)\, 7.300 €
- /god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419423
- 58B8425747882948
+ .\n\n• NIKOLA 1965 D.O.O. – Koncesija za luku (CRIKVENICA) · davatelj
+ : ŽUPANIJSKA LUČKA UPRAVA CRIKVENICA\, 7.300 €/god.\n\nProfil općine:
+  https://koncesijski-sat.vercel.app/#opcina/41942358B8425747882948
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B8425747882948
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -368,17 +388,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-0ef3ba32798a6525@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-2a4a3d98e6c71cc6@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20290704
 DTEND;VALUE=DATE:20290705
 SUMMARY:Ističe koncesija: VELA PALADA D. O. O.
 DESCRIPTION:1 ugovor o koncesiji ističe 4. 7. 2029. Godišnja fiksna nakna
  da: 5.309 €.\n\n• VELA PALADA D. O. O. – Koncesija pomorskog dobra u
-  svrhu gospodarskog korištenja luke (CRIKVENICA)\, 5.309 €/god.\n\nProf
- il općine: https://koncesijski-sat.vercel.app/#opcina/41942358B8425747882
- 948\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026
- .
+  svrhu gospodarskog korištenja luke (CRIKVENICA) · davatelj: ŽUPANIJSKA
+  LUČKA UPRAVA CRIKVENICA\, 5.309 €/god.\n\nProfil općine: https://konc
+ esijski-sat.vercel.app/#opcina/41942358B8425747882948\nIzvor: Registar kon
+ cesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B8425747882948
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -388,8 +408,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-0ef3ba32798a6525@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-2a4a3d98e6c71cc6@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20290104
 DTEND;VALUE=DATE:20290105
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VELA PALADA D. O
@@ -397,8 +417,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VELA PALADA D. O
 DESCRIPTION:4. 7. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• VELA PALADA D. O. O. – Koncesija pomorskog dobra u svrhu gospoda
- rskog korištenja luke (CRIKVENICA)\, 5.309 €/god.\n\nProfil općine: ht
- tps://koncesijski-sat.vercel.app/#opcina/41942358B8425747882948
+ rskog korištenja luke (CRIKVENICA) · davatelj: ŽUPANIJSKA LUČKA UPRAVA
+  CRIKVENICA\, 5.309 €/god.\n\nProfil općine: https://koncesijski-sat.ve
+ rcel.app/#opcina/41942358B8425747882948
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B8425747882948
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -409,16 +430,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-e46a43ffd0028591@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-f7a6b4b65a20aa99@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20290905
 DTEND;VALUE=DATE:20290906
 SUMMARY:Ističe koncesija: INA\, D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 5. 9. 2029. Godišnja fiksna nakna
  da: 8.585 €.\n\n• INA\, D.D. – Koncesija na pomorskom dobru (CRIKVEN
- ICA)\, 8.585 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.ap
- p/#opcina/41942358B8425747882948\nIzvor: Registar koncesija (FINA)\, obrad
- a Koncesijski sat 9. 11. 2026.
+ ICA) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\, 8.585 €
+ /god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419423
+ 58B8425747882948\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sa
+ t 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B8425747882948
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -428,16 +450,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-e46a43ffd0028591@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-f7a6b4b65a20aa99@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20290305
 DTEND;VALUE=DATE:20290306
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA\, D.D.)
 DESCRIPTION:5. 9. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
- \n\n• INA\, D.D. – Koncesija na pomorskom dobru (CRIKVENICA)\, 8.585 
- €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
- 42358B8425747882948
+ \n\n• INA\, D.D. – Koncesija na pomorskom dobru (CRIKVENICA) · davate
+ lj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\, 8.585 €/god.\n\nProfi
+ l općine: https://koncesijski-sat.vercel.app/#opcina/41942358B84257478829
+ 48
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B8425747882948
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -447,18 +470,20 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-02782ac1823bb104@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-01622c5ea75d7877@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20300813
 DTEND;VALUE=DATE:20300814
 SUMMARY:Ističe 2 koncesije · Crikvenica
 DESCRIPTION:2 ugovora o koncesiji ističe 13. 8. 2030. Godišnja fiksna nak
  nada: 3.674 €.\n\n• HOTEL KVARNER PALACE D.O.O. – Koncesija pomorsko
- g dobra u svrhu gospodarskog korištenja luke (CRIKVENICA)\, 3.212 €/god
- .\n• TRAMONTO D. O. O. – Koncesija pomorskog dobra u svrhu gospodarsko
- g korištenja luke (CRIKVENICA)\, 462 €/god.\n\nProfil općine: https://
- koncesijski-sat.vercel.app/#opcina/41942358B8425747882948\nIzvor: Registar
-  koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ g dobra u svrhu gospodarskog korištenja luke (CRIKVENICA) · davatelj: Ž
+ UPANIJSKA LUČKA UPRAVA CRIKVENICA\, 3.212 €/god.\n• TRAMONTO D. O. O.
+  – Koncesija pomorskog dobra u svrhu gospodarskog korištenja luke (CRIK
+ VENICA) · davatelj: ŽUPANIJSKA LUČKA UPRAVA CRIKVENICA\, 462 €/god.\n
+ \nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B8425
+ 747882948\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11
+ . 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B8425747882948
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -468,40 +493,43 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-02782ac1823bb104@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-01622c5ea75d7877@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20300213
 DTEND;VALUE=DATE:20300214
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Crikvenica
 DESCRIPTION:13. 8. 2030. ističe 2 ugovora o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• HOTEL KVARNER PALACE D.O.O. – Koncesija pomorskog dobra u svrh
- u gospodarskog korištenja luke (CRIKVENICA)\, 3.212 €/god.\n• TRAMONT
- O D. O. O. – Koncesija pomorskog dobra u svrhu gospodarskog korištenja 
- luke (CRIKVENICA)\, 462 €/god.\n\nProfil općine: https://koncesijski-sa
- t.vercel.app/#opcina/41942358B8425747882948
+ u gospodarskog korištenja luke (CRIKVENICA) · davatelj: ŽUPANIJSKA LUČ
+ KA UPRAVA CRIKVENICA\, 3.212 €/god.\n• TRAMONTO D. O. O. – Koncesija
+  pomorskog dobra u svrhu gospodarskog korištenja luke (CRIKVENICA) · dav
+ atelj: ŽUPANIJSKA LUČKA UPRAVA CRIKVENICA\, 462 €/god.\n\nProfil opći
+ ne: https://koncesijski-sat.vercel.app/#opcina/41942358B8425747882948
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B8425747882948
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Crikvenica
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-773ff1606ca307de@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-f6e86171ecbe2fe4@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20310617
 DTEND;VALUE=DATE:20310618
 SUMMARY:Ističe 3 koncesije · Crikvenica
 DESCRIPTION:3 ugovora o koncesiji ističe 17. 6. 2031. Godišnja fiksna nak
  nada: 9.773 €.\n\n• VARDAR-TRGOVINA D.O.O. – Koncesija na pomorskom 
- dobru (CRIKVENICA)\, 4.285 €/god.\n• COCKTAIL STAR BAR J.D.O.O. – Ko
- ncesija na pomorskom dobru (CRIKVENICA)\, 3.007 €/god.\n• LA BON UGOST
- ITELJSTVO J.D.O.O. – Koncesija na pomorskom dobru (CRIKVENICA)\, 2.481 
- €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
- 42358B8425747882948\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski
-  sat 9. 11. 2026.
+ dobru (CRIKVENICA) · davatelj: ŽUPANIJSKA LUČKA UPRAVA CRIKVENICA\, 4.2
+ 85 €/god.\n• COCKTAIL STAR BAR J.D.O.O. – Koncesija na pomorskom dob
+ ru (CRIKVENICA) · davatelj: ŽUPANIJSKA LUČKA UPRAVA CRIKVENICA\, 3.007 
+ €/god.\n• LA BON UGOSTITELJSTVO J.D.O.O. – Koncesija na pomorskom do
+ bru (CRIKVENICA) · davatelj: ŽUPANIJSKA LUČKA UPRAVA CRIKVENICA\, 2.481
+  €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41
+ 942358B8425747882948\nIzvor: Registar koncesija (FINA)\, obrada Koncesijsk
+ i sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B8425747882948
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -511,40 +539,44 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-773ff1606ca307de@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-f6e86171ecbe2fe4@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20301217
 DTEND;VALUE=DATE:20301218
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Crikvenica
 DESCRIPTION:17. 6. 2031. ističe 3 ugovora o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• VARDAR-TRGOVINA D.O.O. – Koncesija na pomorskom dobru (CRIKVEN
- ICA)\, 4.285 €/god.\n• COCKTAIL STAR BAR J.D.O.O. – Koncesija na pom
- orskom dobru (CRIKVENICA)\, 3.007 €/god.\n• LA BON UGOSTITELJSTVO J.D.
- O.O. – Koncesija na pomorskom dobru (CRIKVENICA)\, 2.481 €/god.\n\nPro
- fil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B842574788
- 2948
+ ICA) · davatelj: ŽUPANIJSKA LUČKA UPRAVA CRIKVENICA\, 4.285 €/god.\n
+ • COCKTAIL STAR BAR J.D.O.O. – Koncesija na pomorskom dobru (CRIKVENIC
+ A) · davatelj: ŽUPANIJSKA LUČKA UPRAVA CRIKVENICA\, 3.007 €/god.\n•
+  LA BON UGOSTITELJSTVO J.D.O.O. – Koncesija na pomorskom dobru (CRIKVENI
+ CA) · davatelj: ŽUPANIJSKA LUČKA UPRAVA CRIKVENICA\, 2.481 €/god.\n\n
+ Profil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B842574
+ 7882948
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B8425747882948
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Crikvenica
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-59817c196382b044@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-9088264934937656@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20310822
 DTEND;VALUE=DATE:20310823
 SUMMARY:Ističe 3 koncesije · Crikvenica
 DESCRIPTION:3 ugovora o koncesiji ističe 22. 8. 2031. Godišnja fiksna nak
  nada: 14.779 €.\n\n• LUKA MAĐAR\, ANKA\, OBRT ZA  UGOSTITELJSTVO  I  
- USLUGE\, VL. LUKA MAĐAR – Koncesija na pomorskom dobru (CRIKVENICA)\, 5
- .523 €/god.\n• DANOR KATULIĆ\, GAMBAR\, VL. DANOR KATULIĆ – Konces
- ija na pomorskom dobru (CRIKVENICA)\, 4.852 €/god.\n• ŠEHAP BEKTEŠI\
- , DONNA\, OBRT ZA UGOSTITELJSTVO\, SUVL. ŠEHAP BEKTEŠI I QEFLI JUSUFI 
- – Koncesija na pomorskom dobru (CRIKVENICA)\, 4.404 €/god.\n\nProfil o
+ USLUGE\, VL. LUKA MAĐAR – Koncesija na pomorskom dobru (CRIKVENICA) · 
+ davatelj: ŽUPANIJSKA LUČKA UPRAVA CRIKVENICA\, 5.523 €/god.\n• DANOR
+  KATULIĆ\, GAMBAR\, VL. DANOR KATULIĆ – Koncesija na pomorskom dobru (
+ CRIKVENICA) · davatelj: ŽUPANIJSKA LUČKA UPRAVA CRIKVENICA\, 4.852 €/
+ god.\n• ŠEHAP BEKTEŠI\, DONNA\, OBRT ZA UGOSTITELJSTVO\, SUVL. ŠEHAP 
+ BEKTEŠI I QEFLI JUSUFI – Koncesija na pomorskom dobru (CRIKVENICA) · d
+ avatelj: ŽUPANIJSKA LUČKA UPRAVA CRIKVENICA\, 4.404 €/god.\n\nProfil o
  pćine: https://koncesijski-sat.vercel.app/#opcina/41942358B8425747882948\
  nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B8425747882948
@@ -556,39 +588,42 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-59817c196382b044@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-9088264934937656@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20310222
 DTEND;VALUE=DATE:20310223
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Crikvenica
 DESCRIPTION:22. 8. 2031. ističe 3 ugovora o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• LUKA MAĐAR\, ANKA\, OBRT ZA  UGOSTITELJSTVO  I  USLUGE\, VL. LU
- KA MAĐAR – Koncesija na pomorskom dobru (CRIKVENICA)\, 5.523 €/god.\n
- • DANOR KATULIĆ\, GAMBAR\, VL. DANOR KATULIĆ – Koncesija na pomorsko
- m dobru (CRIKVENICA)\, 4.852 €/god.\n• ŠEHAP BEKTEŠI\, DONNA\, OBRT 
- ZA UGOSTITELJSTVO\, SUVL. ŠEHAP BEKTEŠI I QEFLI JUSUFI – Koncesija na 
- pomorskom dobru (CRIKVENICA)\, 4.404 €/god.\n\nProfil općine: https://k
- oncesijski-sat.vercel.app/#opcina/41942358B8425747882948
+ KA MAĐAR – Koncesija na pomorskom dobru (CRIKVENICA) · davatelj: ŽUPA
+ NIJSKA LUČKA UPRAVA CRIKVENICA\, 5.523 €/god.\n• DANOR KATULIĆ\, GAM
+ BAR\, VL. DANOR KATULIĆ – Koncesija na pomorskom dobru (CRIKVENICA) · 
+ davatelj: ŽUPANIJSKA LUČKA UPRAVA CRIKVENICA\, 4.852 €/god.\n• ŠEHA
+ P BEKTEŠI\, DONNA\, OBRT ZA UGOSTITELJSTVO\, SUVL. ŠEHAP BEKTEŠI I QEFL
+ I JUSUFI – Koncesija na pomorskom dobru (CRIKVENICA) · davatelj: ŽUPAN
+ IJSKA LUČKA UPRAVA CRIKVENICA\, 4.404 €/god.\n\nProfil općine: https:/
+ /koncesijski-sat.vercel.app/#opcina/41942358B8425747882948
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B8425747882948
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Crikvenica
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-695ffd7f76e71cce@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-a9bb1662d2b8c617@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20330620
 DTEND;VALUE=DATE:20330621
 SUMMARY:Ističe koncesija: BRODOMEHANIKA\, VL. ROBERT GAŠPAROVIĆ
 DESCRIPTION:1 ugovor o koncesiji ističe 20. 6. 2033. Godišnja fiksna nakn
  ada: 2.132 €.\n\n• BRODOMEHANIKA\, VL. ROBERT GAŠPAROVIĆ – Koncesi
- ja na pomorskom dobru (CRIKVENICA)\, 2.132 €/god.\n\nProfil općine: htt
- ps://koncesijski-sat.vercel.app/#opcina/41942358B8425747882948\nIzvor: Reg
- istar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ ja na pomorskom dobru (CRIKVENICA) · davatelj: PRIMORSKO GORANSKA ŽUPANI
+ JA\, 2.132 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/
+ #opcina/41942358B8425747882948\nIzvor: Registar koncesija (FINA)\, obrada 
+ Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B8425747882948
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -598,8 +633,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-695ffd7f76e71cce@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-a9bb1662d2b8c617@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20321220
 DTEND;VALUE=DATE:20321221
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BRODOMEHANIKA\, 
@@ -607,8 +642,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BRODOMEHANIKA\,
 DESCRIPTION:20. 6. 2033. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• BRODOMEHANIKA\, VL. ROBERT GAŠPAROVIĆ – Koncesija na pomorsko
- m dobru (CRIKVENICA)\, 2.132 €/god.\n\nProfil općine: https://koncesijs
- ki-sat.vercel.app/#opcina/41942358B8425747882948
+ m dobru (CRIKVENICA) · davatelj: PRIMORSKO GORANSKA ŽUPANIJA\, 2.132 €
+ /god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419423
+ 58B8425747882948
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B8425747882948
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -619,18 +655,18 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-0e892c48e1145e3d@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-1a71ea487272acbc@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20370306
 DTEND;VALUE=DATE:20370307
 SUMMARY:Ističe koncesija: VIO ŽRNOVNICA CRIKVENICA VINODOL D.O.O.- NAPLAT
  A VODE ZA PRIVREDU
 DESCRIPTION:1 ugovor o koncesiji ističe 6. 3. 2037. Godišnja fiksna nakna
  da: 14 €.\n\n• VIO ŽRNOVNICA CRIKVENICA VINODOL D.O.O.- NAPLATA VODE 
- ZA PRIVREDU – Koncesija na pomorskom dobru (CRIKVENICA)\, 14 €/god.\n\
- nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B84257
- 47882948\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11.
-  2026.
+ ZA PRIVREDU – Koncesija na pomorskom dobru (CRIKVENICA) · davatelj: GRA
+ D CRIKVENICA\, 14 €/god.\n\nProfil općine: https://koncesijski-sat.verc
+ el.app/#opcina/41942358B8425747882948\nIzvor: Registar koncesija (FINA)\, 
+ obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B8425747882948
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -641,8 +677,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-0e892c48e1145e3d@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-1a71ea487272acbc@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20360906
 DTEND;VALUE=DATE:20360907
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VIO ŽRNOVNICA C
@@ -650,8 +686,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VIO ŽRNOVNICA C
 DESCRIPTION:6. 3. 2037. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• VIO ŽRNOVNICA CRIKVENICA VINODOL D.O.O.- NAPLATA VODE ZA PRIVREDU
-  – Koncesija na pomorskom dobru (CRIKVENICA)\, 14 €/god.\n\nProfil op
- ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B8425747882948
+  – Koncesija na pomorskom dobru (CRIKVENICA) · davatelj: GRAD CRIKVENIC
+ A\, 14 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opc
+ ina/41942358B8425747882948
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B8425747882948
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -662,18 +699,18 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-659d3aa246aa6c50@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-85604c35a655cf87@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20370510
 DTEND;VALUE=DATE:20370511
 SUMMARY:Ističe koncesija: VIO ŽRNOVNICA CRIKVENICA VINODOL D.O.O.- NAPLAT
  A VODE ZA PRIVREDU
 DESCRIPTION:1 ugovor o koncesiji ističe 10. 5. 2037. Godišnja fiksna nakn
  ada: 863 €.\n\n• VIO ŽRNOVNICA CRIKVENICA VINODOL D.O.O.- NAPLATA VOD
- E ZA PRIVREDU – Koncesija na pomorskom dobru (CRIKVENICA)\, 863 €/god.
- \n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B84
- 25747882948\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 
- 11. 2026.
+ E ZA PRIVREDU – Koncesija na pomorskom dobru (CRIKVENICA) · davatelj: G
+ RAD CRIKVENICA\, 863 €/god.\n\nProfil općine: https://koncesijski-sat.v
+ ercel.app/#opcina/41942358B8425747882948\nIzvor: Registar koncesija (FINA)
+ \, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B8425747882948
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -684,8 +721,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-659d3aa246aa6c50@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-85604c35a655cf87@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20361110
 DTEND;VALUE=DATE:20361111
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VIO ŽRNOVNICA C
@@ -693,8 +730,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VIO ŽRNOVNICA C
 DESCRIPTION:10. 5. 2037. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• VIO ŽRNOVNICA CRIKVENICA VINODOL D.O.O.- NAPLATA VODE ZA PRIVRED
- U – Koncesija na pomorskom dobru (CRIKVENICA)\, 863 €/god.\n\nProfil o
- pćine: https://koncesijski-sat.vercel.app/#opcina/41942358B8425747882948
+ U – Koncesija na pomorskom dobru (CRIKVENICA) · davatelj: GRAD CRIKVENI
+ CA\, 863 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#o
+ pcina/41942358B8425747882948
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B8425747882948
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -705,21 +743,22 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-32bf7efe8260d944@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-deed459ea37dbd51@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20380416
 DTEND;VALUE=DATE:20380417
 SUMMARY:Ističe 4 koncesije · Crikvenica
 DESCRIPTION:4 ugovora o koncesiji ističe 16. 4. 2038. Godišnja fiksna nak
  nada: 140 €.\n\n• VIO ŽRNOVNICA CRIKVENICA VINODOL D.O.O. – Koncesi
- ja na pomorskom dobru (CRIKVENICA)\, 35 €/god.\n• VIO ŽRNOVNICA CRIKV
- ENICA VINODOL D.O.O. – Koncesija na pomorskom dobru (CRIKVENICA)\, 35 
- €/god.\n• VIO ŽRNOVNICA CRIKVENICA VINODOL D.O.O. – Koncesija na po
- morskom dobru (CRIKVENICA)\, 35 €/god.\n• VIO ŽRNOVNICA CRIKVENICA VI
- NODOL D.O.O. – Koncesija na pomorskom dobru (CRIKVENICA)\, 35 €/god.\n
- \nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B8425
- 747882948\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11
- . 2026.
+ ja na pomorskom dobru (CRIKVENICA) · davatelj: GRAD CRIKVENICA\, 35 €/g
+ od.\n• VIO ŽRNOVNICA CRIKVENICA VINODOL D.O.O. – Koncesija na pomorsk
+ om dobru (CRIKVENICA) · davatelj: GRAD CRIKVENICA\, 35 €/god.\n• VIO 
+ ŽRNOVNICA CRIKVENICA VINODOL D.O.O. – Koncesija na pomorskom dobru (CRI
+ KVENICA) · davatelj: GRAD CRIKVENICA\, 35 €/god.\n• VIO ŽRNOVNICA CR
+ IKVENICA VINODOL D.O.O. – Koncesija na pomorskom dobru (CRIKVENICA) · d
+ avatelj: GRAD CRIKVENICA\, 35 €/god.\n\nProfil općine: https://koncesij
+ ski-sat.vercel.app/#opcina/41942358B8425747882948\nIzvor: Registar koncesi
+ ja (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B8425747882948
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -729,39 +768,42 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-32bf7efe8260d944@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-deed459ea37dbd51@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20371016
 DTEND;VALUE=DATE:20371017
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 4 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 4 koncesije · Crikvenica
 DESCRIPTION:16. 4. 2038. ističe 4 ugovora o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• VIO ŽRNOVNICA CRIKVENICA VINODOL D.O.O. – Koncesija na pomors
- kom dobru (CRIKVENICA)\, 35 €/god.\n• VIO ŽRNOVNICA CRIKVENICA VINODO
- L D.O.O. – Koncesija na pomorskom dobru (CRIKVENICA)\, 35 €/god.\n• 
- VIO ŽRNOVNICA CRIKVENICA VINODOL D.O.O. – Koncesija na pomorskom dobru 
- (CRIKVENICA)\, 35 €/god.\n• VIO ŽRNOVNICA CRIKVENICA VINODOL D.O.O. 
- – Koncesija na pomorskom dobru (CRIKVENICA)\, 35 €/god.\n\nProfil opć
- ine: https://koncesijski-sat.vercel.app/#opcina/41942358B8425747882948
+ kom dobru (CRIKVENICA) · davatelj: GRAD CRIKVENICA\, 35 €/god.\n• VIO
+  ŽRNOVNICA CRIKVENICA VINODOL D.O.O. – Koncesija na pomorskom dobru (CR
+ IKVENICA) · davatelj: GRAD CRIKVENICA\, 35 €/god.\n• VIO ŽRNOVNICA C
+ RIKVENICA VINODOL D.O.O. – Koncesija na pomorskom dobru (CRIKVENICA) · 
+ davatelj: GRAD CRIKVENICA\, 35 €/god.\n• VIO ŽRNOVNICA CRIKVENICA VIN
+ ODOL D.O.O. – Koncesija na pomorskom dobru (CRIKVENICA) · davatelj: GRA
+ D CRIKVENICA\, 35 €/god.\n\nProfil općine: https://koncesijski-sat.verc
+ el.app/#opcina/41942358B8425747882948
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B8425747882948
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 4 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 4 koncesije · Crikvenica
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-478c0844573ee88c@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-7673a54ed1f35f27@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20380720
 DTEND;VALUE=DATE:20380721
 SUMMARY:Ističe koncesija: HRVATSKI OPERATOR PRIJENOSNOG SUSTAVA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 20. 7. 2038. Godišnja fiksna nakn
  ada: 819 €.\n\n• HRVATSKI OPERATOR PRIJENOSNOG SUSTAVA D.O.O. – Konc
- esija na pomorskom dobru (CRIKVENICA)\, 819 €/god.\n\nProfil općine: ht
- tps://koncesijski-sat.vercel.app/#opcina/41942358B8425747882948\nIzvor: Re
- gistar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ esija na pomorskom dobru (CRIKVENICA) · davatelj: PRIMORSKO GORANSKA ŽUP
+ ANIJA\, 819 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app
+ /#opcina/41942358B8425747882948\nIzvor: Registar koncesija (FINA)\, obrada
+  Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B8425747882948
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -771,8 +813,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-478c0844573ee88c@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-7673a54ed1f35f27@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20380120
 DTEND;VALUE=DATE:20380121
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKI OPERATO
@@ -780,8 +822,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKI OPERATO
 DESCRIPTION:20. 7. 2038. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• HRVATSKI OPERATOR PRIJENOSNOG SUSTAVA D.O.O. – Koncesija na pom
- orskom dobru (CRIKVENICA)\, 819 €/god.\n\nProfil općine: https://konces
- ijski-sat.vercel.app/#opcina/41942358B8425747882948
+ orskom dobru (CRIKVENICA) · davatelj: PRIMORSKO GORANSKA ŽUPANIJA\, 819 
+ €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
+ 42358B8425747882948
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B8425747882948
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -792,15 +835,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-945a47ac79630dc4@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-8501bebd66e9e341@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20381112
 DTEND;VALUE=DATE:20381113
 SUMMARY:Ističe koncesija: MUZEJ GRADA CRIKVENICE
 DESCRIPTION:1 ugovor o koncesiji ističe 12. 11. 2038.\n\n• MUZEJ GRADA C
- RIKVENICE – Koncesija na pomorskom dobru (CRIKVENICA)\n\nProfil općine:
-  https://koncesijski-sat.vercel.app/#opcina/41942358B8425747882948\nIzvor:
-  Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ RIKVENICE – Koncesija na pomorskom dobru (CRIKVENICA) · davatelj: GRAD 
+ CRIKVENICA\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4
+ 1942358B8425747882948\nIzvor: Registar koncesija (FINA)\, obrada Koncesijs
+ ki sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B8425747882948
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -810,8 +854,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-945a47ac79630dc4@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-8501bebd66e9e341@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20380512
 DTEND;VALUE=DATE:20380513
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MUZEJ GRADA CRIK
@@ -819,8 +863,8 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MUZEJ GRADA CRIK
 DESCRIPTION:12. 11. 2038. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• MUZEJ GRADA CRIKVENICE – Koncesija na pomorskom dobru (CRIKVEN
- ICA)\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4194235
- 8B8425747882948
+ ICA) · davatelj: GRAD CRIKVENICA\n\nProfil općine: https://koncesijski-s
+ at.vercel.app/#opcina/41942358B8425747882948
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B8425747882948
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -831,16 +875,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-ede74e9a954cd3ca@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-e55feb5a225f7e37@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20431215
 DTEND;VALUE=DATE:20431216
 SUMMARY:Ističe koncesija: THALASSOTHERAPIA - CRIKVENICA
 DESCRIPTION:1 ugovor o koncesiji ističe 15. 12. 2043. Godišnja fiksna nak
  nada: 885 €.\n\n• THALASSOTHERAPIA - CRIKVENICA – Koncesija na pomor
- skom dobru (CRIKVENICA)\, 885 €/god.\n\nProfil općine: https://koncesij
- ski-sat.vercel.app/#opcina/41942358B8425747882948\nIzvor: Registar koncesi
- ja (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ skom dobru (CRIKVENICA) · davatelj: PRIMORSKO GORANSKA ŽUPANIJA\, 885 
+ €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
+ 42358B8425747882948\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski
+  sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B8425747882948
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -850,8 +895,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-ede74e9a954cd3ca@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-e55feb5a225f7e37@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20430615
 DTEND;VALUE=DATE:20430616
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (THALASSOTHERAPIA
@@ -859,8 +904,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (THALASSOTHERAPIA
 DESCRIPTION:15. 12. 2043. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• THALASSOTHERAPIA - CRIKVENICA – Koncesija na pomorskom dobru (
- CRIKVENICA)\, 885 €/god.\n\nProfil općine: https://koncesijski-sat.verc
- el.app/#opcina/41942358B8425747882948
+ CRIKVENICA) · davatelj: PRIMORSKO GORANSKA ŽUPANIJA\, 885 €/god.\n\nPr
+ ofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B84257478
+ 82948
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B8425747882948
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -871,16 +917,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-6961059a122b03db@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-95c7ac4e0900e0bf@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20441118
 DTEND;VALUE=DATE:20441119
 SUMMARY:Ističe koncesija: BSK COMMERCE D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 18. 11. 2044. Godišnja fiksna nak
  nada: 7.755 €.\n\n• BSK COMMERCE D.O.O. – Koncesija na pomorskom dob
- ru (CRIKVENICA)\, 7.755 €/god.\n\nProfil općine: https://koncesijski-sa
- t.vercel.app/#opcina/41942358B8425747882948\nIzvor: Registar koncesija (FI
- NA)\, obrada Koncesijski sat 9. 11. 2026.
+ ru (CRIKVENICA) · davatelj: ŽUPANIJSKA LUČKA UPRAVA CRIKVENICA\, 7.755 
+ €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
+ 42358B8425747882948\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski
+  sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B8425747882948
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -890,8 +937,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-6961059a122b03db@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-95c7ac4e0900e0bf@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20440518
 DTEND;VALUE=DATE:20440519
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BSK COMMERCE D.O
@@ -899,8 +946,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BSK COMMERCE D.O
 DESCRIPTION:18. 11. 2044. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• BSK COMMERCE D.O.O. – Koncesija na pomorskom dobru (CRIKVENICA
- )\, 7.755 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#
- opcina/41942358B8425747882948
+ ) · davatelj: ŽUPANIJSKA LUČKA UPRAVA CRIKVENICA\, 7.755 €/god.\n\nPr
+ ofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B84257478
+ 82948
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B8425747882948
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -911,21 +959,24 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-d752543206ccf9a9@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-ed43649677243256@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20450514
 DTEND;VALUE=DATE:20450515
 SUMMARY:Ističe 4 koncesije · Crikvenica
 DESCRIPTION:4 ugovora o koncesiji ističe 14. 5. 2045. Godišnja fiksna nak
  nada: 932 €.\n\n• VIO ŽRNOVNICA CRIKVENICA VINODOL D.O.O. - NPOO PROJ
- EKTI – Koncesija na pomorskom dobru (CRIKVENICA)\, 233 €/god.\n• VIO
-  ŽRNOVNICA CRIKVENICA VINODOL D.O.O. – Koncesija na pomorskom dobru (CR
- IKVENICA)\, 233 €/god.\n• VIO ŽRNOVNICA CRIKVENICA VINODOL D.O.O. - N
- POO PROJEKTI – Koncesija na pomorskom dobru (CRIKVENICA)\, 233 €/god.\
- n• VIO ŽRNOVNICA CRIKVENICA VINODOL D.O.O. - NPOO PROJEKTI – Koncesij
- a na pomorskom dobru (CRIKVENICA)\, 233 €/god.\n\nProfil općine: https:
- //koncesijski-sat.vercel.app/#opcina/41942358B8425747882948\nIzvor: Regist
- ar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ EKTI – Koncesija na pomorskom dobru (CRIKVENICA) · davatelj: PRIMORSKO 
+ GORANSKA ŽUPANIJA\, 233 €/god.\n• VIO ŽRNOVNICA CRIKVENICA VINODOL D
+ .O.O. – Koncesija na pomorskom dobru (CRIKVENICA) · davatelj: PRIMORSKO
+  GORANSKA ŽUPANIJA\, 233 €/god.\n• VIO ŽRNOVNICA CRIKVENICA VINODOL 
+ D.O.O. - NPOO PROJEKTI – Koncesija na pomorskom dobru (CRIKVENICA) · da
+ vatelj: PRIMORSKO GORANSKA ŽUPANIJA\, 233 €/god.\n• VIO ŽRNOVNICA CR
+ IKVENICA VINODOL D.O.O. - NPOO PROJEKTI – Koncesija na pomorskom dobru (
+ CRIKVENICA) · davatelj: PRIMORSKO GORANSKA ŽUPANIJA\, 233 €/god.\n\nPr
+ ofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B84257478
+ 82948\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 20
+ 26.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B8425747882948
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -935,40 +986,43 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-d752543206ccf9a9@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-ed43649677243256@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20441114
 DTEND;VALUE=DATE:20441115
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 4 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 4 koncesije · Crikvenica
 DESCRIPTION:14. 5. 2045. ističe 4 ugovora o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• VIO ŽRNOVNICA CRIKVENICA VINODOL D.O.O. - NPOO PROJEKTI – Kon
- cesija na pomorskom dobru (CRIKVENICA)\, 233 €/god.\n• VIO ŽRNOVNICA 
- CRIKVENICA VINODOL D.O.O. – Koncesija na pomorskom dobru (CRIKVENICA)\, 
- 233 €/god.\n• VIO ŽRNOVNICA CRIKVENICA VINODOL D.O.O. - NPOO PROJEKTI
-  – Koncesija na pomorskom dobru (CRIKVENICA)\, 233 €/god.\n• VIO ŽR
- NOVNICA CRIKVENICA VINODOL D.O.O. - NPOO PROJEKTI – Koncesija na pomorsk
- om dobru (CRIKVENICA)\, 233 €/god.\n\nProfil općine: https://koncesijsk
- i-sat.vercel.app/#opcina/41942358B8425747882948
+ cesija na pomorskom dobru (CRIKVENICA) · davatelj: PRIMORSKO GORANSKA ŽU
+ PANIJA\, 233 €/god.\n• VIO ŽRNOVNICA CRIKVENICA VINODOL D.O.O. – Ko
+ ncesija na pomorskom dobru (CRIKVENICA) · davatelj: PRIMORSKO GORANSKA Ž
+ UPANIJA\, 233 €/god.\n• VIO ŽRNOVNICA CRIKVENICA VINODOL D.O.O. - NPO
+ O PROJEKTI – Koncesija na pomorskom dobru (CRIKVENICA) · davatelj: PRIM
+ ORSKO GORANSKA ŽUPANIJA\, 233 €/god.\n• VIO ŽRNOVNICA CRIKVENICA VIN
+ ODOL D.O.O. - NPOO PROJEKTI – Koncesija na pomorskom dobru (CRIKVENICA) 
+ · davatelj: PRIMORSKO GORANSKA ŽUPANIJA\, 233 €/god.\n\nProfil općine
+ : https://koncesijski-sat.vercel.app/#opcina/41942358B8425747882948
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B8425747882948
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 4 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 4 koncesije · Crikvenica
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-1b5f69e5148ffae8@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-e63aad74adfc2866@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20601015
 DTEND;VALUE=DATE:20601016
 SUMMARY:Ističe koncesija: DRŽAVNI HIDROMETEOROLOŠKI ZAVOD
 DESCRIPTION:1 ugovor o koncesiji ističe 15. 10. 2060. Godišnja fiksna nak
  nada: 17 €.\n\n• DRŽAVNI HIDROMETEOROLOŠKI ZAVOD – Koncesija na po
- morskom dobru (CRIKVENICA)\, 17 €/god.\n\nProfil općine: https://konces
- ijski-sat.vercel.app/#opcina/41942358B8425747882948\nIzvor: Registar konce
- sija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ morskom dobru (CRIKVENICA) · davatelj: MINISTARSTVO MORA\, PROMETA I INFR
+ ASTRUKTURE\, 17 €/god.\n\nProfil općine: https://koncesijski-sat.vercel
+ .app/#opcina/41942358B8425747882948\nIzvor: Registar koncesija (FINA)\, ob
+ rada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B8425747882948
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -978,8 +1032,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-1b5f69e5148ffae8@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-e63aad74adfc2866@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20600415
 DTEND;VALUE=DATE:20600416
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DRŽAVNI HIDROME
@@ -987,8 +1041,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DRŽAVNI HIDROME
 DESCRIPTION:15. 10. 2060. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• DRŽAVNI HIDROMETEOROLOŠKI ZAVOD – Koncesija na pomorskom dob
- ru (CRIKVENICA)\, 17 €/god.\n\nProfil općine: https://koncesijski-sat.v
- ercel.app/#opcina/41942358B8425747882948
+ ru (CRIKVENICA) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\
+ , 17 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcin
+ a/41942358B8425747882948
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B8425747882948
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -999,16 +1054,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-1ce361dc6b54c7c6@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-2f730662a51d5a15@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20760717
 DTEND;VALUE=DATE:20760718
 SUMMARY:Ističe koncesija: HRVATSKI TELEKOM D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 17. 7. 2076. Godišnja fiksna nakn
  ada: 885 €.\n\n• HRVATSKI TELEKOM D.D. – Posebna upotreba pomorskog 
- dobra (CRIKVENICA)\, 885 €/god.\n\nProfil općine: https://koncesijski-s
- at.vercel.app/#opcina/41942358B8425747882948\nIzvor: Registar koncesija (F
- INA)\, obrada Koncesijski sat 9. 11. 2026.
+ dobra (CRIKVENICA) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTU
+ RE\, 885 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#o
+ pcina/41942358B8425747882948\nIzvor: Registar koncesija (FINA)\, obrada Ko
+ ncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B8425747882948
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1018,8 +1074,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-1ce361dc6b54c7c6@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-2f730662a51d5a15@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20760117
 DTEND;VALUE=DATE:20760118
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKI TELEKOM
@@ -1027,8 +1083,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKI TELEKOM
 DESCRIPTION:17. 7. 2076. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• HRVATSKI TELEKOM D.D. – Posebna upotreba pomorskog dobra (CRIKV
- ENICA)\, 885 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.ap
- p/#opcina/41942358B8425747882948
+ ENICA) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\, 885 €
+ /god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419423
+ 58B8425747882948
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B8425747882948
 TRANSP:TRANSPARENT
 BEGIN:VALARM

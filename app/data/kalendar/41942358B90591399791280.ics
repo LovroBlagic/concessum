@@ -4,27 +4,29 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Općina Unešić
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Unešić. Iz Reg
- istra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade pod
- ataka. https://koncesijski-sat.vercel.app/#opcina/41942358B90591399791280
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Općina Unešić (pregle
+ d\, svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježava
+  se nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#opcin
+ a/41942358B90591399791280
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-5747bdaf7ed72662@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-ba748e23e04219a5@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20331231
 DTEND;VALUE=DATE:20340101
 SUMMARY:Ističe 3 koncesije · Unešić
 DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2033. Godišnja fiksna na
  knada: 800 €.\n\n• ARHITEKTONSKI KAMEN D.O.O. – Koncesija za površi
  nu utvrđenog eksploatacijskog polja neenergetskih mineralnih sirovina (UN
- EŠIĆ)\, 800 €/god.\n• ARHITEKTONSKI KAMEN D.O.O. – Koncesija za ek
- sploataciju arhitektonsko-građevnog kamena (UNEŠIĆ)\n• ARHITEKTONSKI 
- KAMEN D.O.O. – Koncesija za eksploataciju arhitektonsko-građevnog kamen
- a (UNEŠIĆ)\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina
- /41942358B90591399791280\nIzvor: Registar koncesija (FINA)\, obrada Konces
- ijski sat 9. 11. 2026.
+ EŠIĆ) · davatelj: MINISTARSTVO GOSPODARSTVA\, 800 €/god.\n• ARHITEK
+ TONSKI KAMEN D.O.O. – Koncesija za eksploataciju arhitektonsko-građevno
+ g kamena (UNEŠIĆ) · davatelj: MINISTARSTVO GOSPODARSTVA\n• ARHITEKTON
+ SKI KAMEN D.O.O. – Koncesija za eksploataciju arhitektonsko-građevnog k
+ amena (UNEŠIĆ) · davatelj: MINISTARSTVO GOSPODARSTVA\n\nProfil općine:
+  https://koncesijski-sat.vercel.app/#opcina/41942358B90591399791280\nIzvor
+ : Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B90591399791280
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -34,43 +36,45 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-5747bdaf7ed72662@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-ba748e23e04219a5@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20330630
 DTEND;VALUE=DATE:20330701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Unešić
 DESCRIPTION:31. 12. 2033. ističe 3 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• ARHITEKTONSKI KAMEN D.O.O. – Koncesija za površinu utvrđeno
- g eksploatacijskog polja neenergetskih mineralnih sirovina (UNEŠIĆ)\, 80
- 0 €/god.\n• ARHITEKTONSKI KAMEN D.O.O. – Koncesija za eksploataciju 
- arhitektonsko-građevnog kamena (UNEŠIĆ)\n• ARHITEKTONSKI KAMEN D.O.O.
-  – Koncesija za eksploataciju arhitektonsko-građevnog kamena (UNEŠIĆ)
- \n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B90
- 591399791280
+ g eksploatacijskog polja neenergetskih mineralnih sirovina (UNEŠIĆ) · d
+ avatelj: MINISTARSTVO GOSPODARSTVA\, 800 €/god.\n• ARHITEKTONSKI KAMEN
+  D.O.O. – Koncesija za eksploataciju arhitektonsko-građevnog kamena (UN
+ EŠIĆ) · davatelj: MINISTARSTVO GOSPODARSTVA\n• ARHITEKTONSKI KAMEN D.
+ O.O. – Koncesija za eksploataciju arhitektonsko-građevnog kamena (UNEŠ
+ IĆ) · davatelj: MINISTARSTVO GOSPODARSTVA\n\nProfil općine: https://kon
+ cesijski-sat.vercel.app/#opcina/41942358B90591399791280
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B90591399791280
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Unešić
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-29acd18d362df2e7@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-4190e676d93f1ec9@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20431231
 DTEND;VALUE=DATE:20440101
 SUMMARY:Ističe 3 koncesije · Unešić
 DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2043. Godišnja fiksna na
  knada: 2.920 €.\n\n• CAVA NADA D.O.O. – Koncesija za površinu utvr
  đenog eksploatacijskog polja neenergetskih mineralnih sirovina (UNEŠIĆ)
- \, 1.460 €/god.\n• CAVA NADA D.O.O. – Koncesija za eksploataciju arh
- itektonsko-građevnog kamena (UNEŠIĆ)\, 1.460 €/god.\n• CAVA NADA D.
+  · davatelj: MINISTARSTVO GOSPODARSTVA\, 1.460 €/god.\n• CAVA NADA D.
  O.O. – Koncesija za eksploataciju arhitektonsko-građevnog kamena (UNEŠ
- IĆ)\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4194235
- 8B90591399791280\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sa
- t 9. 11. 2026.
+ IĆ) · davatelj: MINISTARSTVO GOSPODARSTVA\, 1.460 €/god.\n• CAVA NAD
+ A D.O.O. – Koncesija za eksploataciju arhitektonsko-građevnog kamena (U
+ NEŠIĆ) · davatelj: MINISTARSTVO GOSPODARSTVA\n\nProfil općine: https:/
+ /koncesijski-sat.vercel.app/#opcina/41942358B90591399791280\nIzvor: Regist
+ ar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B90591399791280
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -80,43 +84,45 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-29acd18d362df2e7@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-4190e676d93f1ec9@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20430630
 DTEND;VALUE=DATE:20430701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Unešić
 DESCRIPTION:31. 12. 2043. ističe 3 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• CAVA NADA D.O.O. – Koncesija za površinu utvrđenog eksploat
- acijskog polja neenergetskih mineralnih sirovina (UNEŠIĆ)\, 1.460 €/go
- d.\n• CAVA NADA D.O.O. – Koncesija za eksploataciju arhitektonsko-gra
- đevnog kamena (UNEŠIĆ)\, 1.460 €/god.\n• CAVA NADA D.O.O. – Konce
- sija za eksploataciju arhitektonsko-građevnog kamena (UNEŠIĆ)\n\nProfil
-  općine: https://koncesijski-sat.vercel.app/#opcina/41942358B905913997912
- 80
+ acijskog polja neenergetskih mineralnih sirovina (UNEŠIĆ) · davatelj: M
+ INISTARSTVO GOSPODARSTVA\, 1.460 €/god.\n• CAVA NADA D.O.O. – Konces
+ ija za eksploataciju arhitektonsko-građevnog kamena (UNEŠIĆ) · davatel
+ j: MINISTARSTVO GOSPODARSTVA\, 1.460 €/god.\n• CAVA NADA D.O.O. – Ko
+ ncesija za eksploataciju arhitektonsko-građevnog kamena (UNEŠIĆ) · dav
+ atelj: MINISTARSTVO GOSPODARSTVA\n\nProfil općine: https://koncesijski-sa
+ t.vercel.app/#opcina/41942358B90591399791280
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B90591399791280
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Unešić
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-67c28443a33f9289@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-ceecf4e0e6ec837f@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20451231
 DTEND;VALUE=DATE:20460101
 SUMMARY:Ističe 3 koncesije · Unešić
 DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2045. Godišnja fiksna na
  knada: 7.878 €.\n\n• TINO D. O. O. – Koncesija za površinu utvrđen
- og eksploatacijskog polja neenergetskih mineralnih sirovina (UNEŠIĆ)\, 2
- .626 €/god.\n• TINO D. O. O. – Koncesija za eksploataciju arhitekton
- sko-građevnog kamena (UNEŠIĆ)\, 2.626 €/god.\n• TINO D. O. O. – K
- oncesija za eksploataciju arhitektonsko-građevnog kamena (UNEŠIĆ)\, 2.6
- 26 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/
- 41942358B90591399791280\nIzvor: Registar koncesija (FINA)\, obrada Koncesi
- jski sat 9. 11. 2026.
+ og eksploatacijskog polja neenergetskih mineralnih sirovina (UNEŠIĆ) · 
+ davatelj: MINISTARSTVO GOSPODARSTVA\, 2.626 €/god.\n• TINO D. O. O. 
+ – Koncesija za eksploataciju arhitektonsko-građevnog kamena (UNEŠIĆ) 
+ · davatelj: MINISTARSTVO GOSPODARSTVA\, 2.626 €/god.\n• TINO D. O. O.
+  – Koncesija za eksploataciju arhitektonsko-građevnog kamena (UNEŠIĆ)
+  · davatelj: MINISTARSTVO GOSPODARSTVA\, 2.626 €/god.\n\nProfil općine
+ : https://koncesijski-sat.vercel.app/#opcina/41942358B90591399791280\nIzvo
+ r: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B90591399791280
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -126,45 +132,48 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-67c28443a33f9289@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-ceecf4e0e6ec837f@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20450630
 DTEND;VALUE=DATE:20450701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Unešić
 DESCRIPTION:31. 12. 2045. ističe 3 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• TINO D. O. O. – Koncesija za površinu utvrđenog eksploataci
- jskog polja neenergetskih mineralnih sirovina (UNEŠIĆ)\, 2.626 €/god.\
- n• TINO D. O. O. – Koncesija za eksploataciju arhitektonsko-građevnog
-  kamena (UNEŠIĆ)\, 2.626 €/god.\n• TINO D. O. O. – Koncesija za ek
- sploataciju arhitektonsko-građevnog kamena (UNEŠIĆ)\, 2.626 €/god.\n\
- nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B90591
- 399791280
+ jskog polja neenergetskih mineralnih sirovina (UNEŠIĆ) · davatelj: MINI
+ STARSTVO GOSPODARSTVA\, 2.626 €/god.\n• TINO D. O. O. – Koncesija za
+  eksploataciju arhitektonsko-građevnog kamena (UNEŠIĆ) · davatelj: MIN
+ ISTARSTVO GOSPODARSTVA\, 2.626 €/god.\n• TINO D. O. O. – Koncesija z
+ a eksploataciju arhitektonsko-građevnog kamena (UNEŠIĆ) · davatelj: MI
+ NISTARSTVO GOSPODARSTVA\, 2.626 €/god.\n\nProfil općine: https://konces
+ ijski-sat.vercel.app/#opcina/41942358B90591399791280
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B90591399791280
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Unešić
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-fdad1b7537bdc7da@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-929fc9d0c545ff8f@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20571231
 DTEND;VALUE=DATE:20580101
 SUMMARY:Ističe 4 koncesije · Unešić
 DESCRIPTION:4 ugovora o koncesiji ističe 31. 12. 2057. Godišnja fiksna na
  knada: 1.708 €.\n\n• ARHITEKTONSKI KAMEN D.O.O. – Koncesija za povr
  šinu utvrđenog eksploatacijskog polja neenergetskih mineralnih sirovina 
- (UNEŠIĆ)\, 854 €/god.\n• ARHITEKTONSKI KAMEN D.O.O. – Koncesija za
-  površinu utvrđenog eksploatacijskog polja neenergetskih mineralnih siro
- vina (UNEŠIĆ)\, 854 €/god.\n• ARHITEKTONSKI KAMEN D.O.O. – Koncesi
- ja za eksploataciju arhitektonsko-građevnog kamena (UNEŠIĆ)\n• ARHITE
- KTONSKI KAMEN D.O.O. – Koncesija za eksploataciju arhitektonsko-građevn
- og kamena (UNEŠIĆ)\n\nProfil općine: https://koncesijski-sat.vercel.app
- /#opcina/41942358B90591399791280\nIzvor: Registar koncesija (FINA)\, obrad
- a Koncesijski sat 9. 11. 2026.
+ (UNEŠIĆ) · davatelj: MINISTARSTVO GOSPODARSTVA\, 854 €/god.\n• ARHI
+ TEKTONSKI KAMEN D.O.O. – Koncesija za površinu utvrđenog eksploatacijs
+ kog polja neenergetskih mineralnih sirovina (UNEŠIĆ) · davatelj: MINIST
+ ARSTVO GOSPODARSTVA\, 854 €/god.\n• ARHITEKTONSKI KAMEN D.O.O. – Kon
+ cesija za eksploataciju arhitektonsko-građevnog kamena (UNEŠIĆ) · dava
+ telj: MINISTARSTVO GOSPODARSTVA\n• ARHITEKTONSKI KAMEN D.O.O. – Konces
+ ija za eksploataciju arhitektonsko-građevnog kamena (UNEŠIĆ) · davatel
+ j: MINISTARSTVO GOSPODARSTVA\n\nProfil općine: https://koncesijski-sat.ve
+ rcel.app/#opcina/41942358B90591399791280\nIzvor: Registar koncesija (FINA)
+ \, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B90591399791280
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -174,27 +183,29 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-fdad1b7537bdc7da@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-929fc9d0c545ff8f@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20570630
 DTEND;VALUE=DATE:20570701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 4 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 4 koncesije · Unešić
 DESCRIPTION:31. 12. 2057. ističe 4 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• ARHITEKTONSKI KAMEN D.O.O. – Koncesija za površinu utvrđeno
- g eksploatacijskog polja neenergetskih mineralnih sirovina (UNEŠIĆ)\, 85
- 4 €/god.\n• ARHITEKTONSKI KAMEN D.O.O. – Koncesija za površinu utvr
- đenog eksploatacijskog polja neenergetskih mineralnih sirovina (UNEŠIĆ)
- \, 854 €/god.\n• ARHITEKTONSKI KAMEN D.O.O. – Koncesija za eksploata
- ciju arhitektonsko-građevnog kamena (UNEŠIĆ)\n• ARHITEKTONSKI KAMEN D
- .O.O. – Koncesija za eksploataciju arhitektonsko-građevnog kamena (UNE
- ŠIĆ)\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942
- 358B90591399791280
+ g eksploatacijskog polja neenergetskih mineralnih sirovina (UNEŠIĆ) · d
+ avatelj: MINISTARSTVO GOSPODARSTVA\, 854 €/god.\n• ARHITEKTONSKI KAMEN
+  D.O.O. – Koncesija za površinu utvrđenog eksploatacijskog polja neene
+ rgetskih mineralnih sirovina (UNEŠIĆ) · davatelj: MINISTARSTVO GOSPODAR
+ STVA\, 854 €/god.\n• ARHITEKTONSKI KAMEN D.O.O. – Koncesija za ekspl
+ oataciju arhitektonsko-građevnog kamena (UNEŠIĆ) · davatelj: MINISTARS
+ TVO GOSPODARSTVA\n• ARHITEKTONSKI KAMEN D.O.O. – Koncesija za eksploat
+ aciju arhitektonsko-građevnog kamena (UNEŠIĆ) · davatelj: MINISTARSTVO
+  GOSPODARSTVA\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcin
+ a/41942358B90591399791280
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B90591399791280
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 4 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 4 koncesije · Unešić
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT

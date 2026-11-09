@@ -4,24 +4,25 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Općina Bogdanovci
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Bogdanovci. Iz R
- egistra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade p
- odataka. https://koncesijski-sat.vercel.app/#opcina/41942358B1596597151485
- 3
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Općina Bogdanovci (preg
+ led\, svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježa
+ va se nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#opc
+ ina/41942358B15965971514853
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-99e41edce5848350@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-b4fc7ccd46589bfa@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20281211
 DTEND;VALUE=DATE:20281212
 SUMMARY:Ističe koncesija: KOMUNALAC D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 11. 12. 2028. Godišnja fiksna nak
  nada: 4.200 €.\n\n• KOMUNALAC D.O.O. – Koncesija skupljanja i odvoza
-  komunalnog otpada (BOGDANOVCI)\, 4.200 €/god.\n\nProfil općine: https:
- //koncesijski-sat.vercel.app/#opcina/41942358B15965971514853\nIzvor: Regis
- tar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+  komunalnog otpada (BOGDANOVCI) · davatelj: OPĆINA BOGDANOVCI\, 4.200 
+ €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
+ 42358B15965971514853\nIzvor: Registar koncesija (FINA)\, obrada Koncesijsk
+ i sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B15965971514853
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -31,8 +32,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-99e41edce5848350@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-b4fc7ccd46589bfa@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20280611
 DTEND;VALUE=DATE:20280612
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (KOMUNALAC D.O.O.
@@ -40,8 +41,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (KOMUNALAC D.O.O.
 DESCRIPTION:11. 12. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• KOMUNALAC D.O.O. – Koncesija skupljanja i odvoza komunalnog ot
- pada (BOGDANOVCI)\, 4.200 €/god.\n\nProfil općine: https://koncesijski-
- sat.vercel.app/#opcina/41942358B15965971514853
+ pada (BOGDANOVCI) · davatelj: OPĆINA BOGDANOVCI\, 4.200 €/god.\n\nProf
+ il općine: https://koncesijski-sat.vercel.app/#opcina/41942358B1596597151
+ 4853
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B15965971514853
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -52,19 +54,20 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-d53853f042a964e7@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-9d82cc0df74a098d@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20291011
 DTEND;VALUE=DATE:20291012
 SUMMARY:Ističe 2 koncesije · Bogdanovci
 DESCRIPTION:2 ugovora o koncesiji ističe 11. 10. 2029. Godišnja fiksna na
  knada: 3.450 €.\n\n• VERMILION ZAGREB EXPLORATION D.O.O. – Dozvola z
  a eksploataciju ugljikovodika (prema Zakonu o ugljikovodicima) (BOGDANOVCI
- )\, 1.725 €/god.\n• VERMILION ZAGREB EXPLORATION D.O.O. – Dozvola za
-  eksploataciju ugljikovodika (prema Zakonu o ugljikovodicima) (BOGDANOVCI)
- \, 1.725 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#o
- pcina/41942358B15965971514853\nIzvor: Registar koncesija (FINA)\, obrada K
- oncesijski sat 9. 11. 2026.
+ ) · davatelj: MINISTARSTVO GOSPODARSTVA\, 1.725 €/god.\n• VERMILION Z
+ AGREB EXPLORATION D.O.O. – Dozvola za eksploataciju ugljikovodika (prema
+  Zakonu o ugljikovodicima) (BOGDANOVCI) · davatelj: MINISTARSTVO GOSPODAR
+ STVA\, 1.725 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.ap
+ p/#opcina/41942358B15965971514853\nIzvor: Registar koncesija (FINA)\, obra
+ da Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B15965971514853
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -74,40 +77,42 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-d53853f042a964e7@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-9d82cc0df74a098d@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20290411
 DTEND;VALUE=DATE:20290412
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Bogdanovci
 DESCRIPTION:11. 10. 2029. ističe 2 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• VERMILION ZAGREB EXPLORATION D.O.O. – Dozvola za eksploatacij
- u ugljikovodika (prema Zakonu o ugljikovodicima) (BOGDANOVCI)\, 1.725 €/
- god.\n• VERMILION ZAGREB EXPLORATION D.O.O. – Dozvola za eksploataciju
-  ugljikovodika (prema Zakonu o ugljikovodicima) (BOGDANOVCI)\, 1.725 €/g
- od.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358
- B15965971514853
+ u ugljikovodika (prema Zakonu o ugljikovodicima) (BOGDANOVCI) · davatelj:
+  MINISTARSTVO GOSPODARSTVA\, 1.725 €/god.\n• VERMILION ZAGREB EXPLORAT
+ ION D.O.O. – Dozvola za eksploataciju ugljikovodika (prema Zakonu o uglj
+ ikovodicima) (BOGDANOVCI) · davatelj: MINISTARSTVO GOSPODARSTVA\, 1.725 
+ €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
+ 42358B15965971514853
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B15965971514853
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Bogdanovci
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-fb6d1928b6e4841f@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-4fcff30ec75ed2c1@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20291231
 DTEND;VALUE=DATE:20300101
 SUMMARY:Ističe 2 koncesije · Bogdanovci
 DESCRIPTION:2 ugovora o koncesiji ističe 31. 12. 2029.\n\n• VERMILION ZA
  GREB EXPLORATION D.O.O. – Dozvola za eksploataciju ugljikovodika (prema 
- Zakonu o ugljikovodicima) (BOGDANOVCI)\n• VERMILION ZAGREB EXPLORATION D
- .O.O. – Dozvola za eksploataciju ugljikovodika (prema Zakonu o ugljikovo
- dicima) (BOGDANOVCI)\n\nProfil općine: https://koncesijski-sat.vercel.app
- /#opcina/41942358B15965971514853\nIzvor: Registar koncesija (FINA)\, obrad
- a Koncesijski sat 9. 11. 2026.
+ Zakonu o ugljikovodicima) (BOGDANOVCI) · davatelj: MINISTARSTVO GOSPODARS
+ TVA\n• VERMILION ZAGREB EXPLORATION D.O.O. – Dozvola za eksploataciju 
+ ugljikovodika (prema Zakonu o ugljikovodicima) (BOGDANOVCI) · davatelj: M
+ INISTARSTVO GOSPODARSTVA\n\nProfil općine: https://koncesijski-sat.vercel
+ .app/#opcina/41942358B15965971514853\nIzvor: Registar koncesija (FINA)\, o
+ brada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B15965971514853
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -117,37 +122,38 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-fb6d1928b6e4841f@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-4fcff30ec75ed2c1@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20290630
 DTEND;VALUE=DATE:20290701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Bogdanovci
 DESCRIPTION:31. 12. 2029. ističe 2 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• VERMILION ZAGREB EXPLORATION D.O.O. – Dozvola za eksploatacij
- u ugljikovodika (prema Zakonu o ugljikovodicima) (BOGDANOVCI)\n• VERMILI
- ON ZAGREB EXPLORATION D.O.O. – Dozvola za eksploataciju ugljikovodika (p
- rema Zakonu o ugljikovodicima) (BOGDANOVCI)\n\nProfil općine: https://kon
- cesijski-sat.vercel.app/#opcina/41942358B15965971514853
+ u ugljikovodika (prema Zakonu o ugljikovodicima) (BOGDANOVCI) · davatelj:
+  MINISTARSTVO GOSPODARSTVA\n• VERMILION ZAGREB EXPLORATION D.O.O. – Do
+ zvola za eksploataciju ugljikovodika (prema Zakonu o ugljikovodicima) (BOG
+ DANOVCI) · davatelj: MINISTARSTVO GOSPODARSTVA\n\nProfil općine: https:/
+ /koncesijski-sat.vercel.app/#opcina/41942358B15965971514853
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B15965971514853
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Bogdanovci
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-fc58f74396f8fc35@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-bfa996e40a7375e4@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20310419
 DTEND;VALUE=DATE:20310420
 SUMMARY:Ističe koncesija: HEP-PLIN  D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 19. 4. 2031.\n\n• HEP-PLIN  D.O.
  O. – Koncesija za obavljanje distribucije plina na postojećem distribuc
- ijskom sustavu (BOGDANOVCI)\n\nProfil općine: https://koncesijski-sat.ver
- cel.app/#opcina/41942358B15965971514853\nIzvor: Registar koncesija (FINA)\
- , obrada Koncesijski sat 9. 11. 2026.
+ ijskom sustavu (BOGDANOVCI) · davatelj: OPĆINA BOGDANOVCI\n\nProfil opć
+ ine: https://koncesijski-sat.vercel.app/#opcina/41942358B15965971514853\nI
+ zvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B15965971514853
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -157,8 +163,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-fc58f74396f8fc35@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-bfa996e40a7375e4@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20301019
 DTEND;VALUE=DATE:20301020
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP-PLIN  D.O.O.
@@ -166,8 +172,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP-PLIN  D.O.O.
 DESCRIPTION:19. 4. 2031. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• HEP-PLIN  D.O.O. – Koncesija za obavljanje distribucije plina n
- a postojećem distribucijskom sustavu (BOGDANOVCI)\n\nProfil općine: http
- s://koncesijski-sat.vercel.app/#opcina/41942358B15965971514853
+ a postojećem distribucijskom sustavu (BOGDANOVCI) · davatelj: OPĆINA BO
+ GDANOVCI\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
+ 42358B15965971514853
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B15965971514853
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -178,18 +185,19 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-352adc4e4266558a@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-7841767d2f9e3a26@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20310728
 DTEND;VALUE=DATE:20310729
 SUMMARY:Ističe 2 koncesije · Bogdanovci
 DESCRIPTION:2 ugovora o koncesiji ističe 28. 7. 2031. Godišnja fiksna nak
  nada: 1.400 €.\n\n• HRVOJE HORVAT\,DUO EKO-DIM\,USLUGE SA SELA – Kon
- cesija za obavljanje dimnjačarskih poslova (BOGDANOVCI)\, 700 €/god.\n
- • HRVOJE HORVAT\,DUO EKO-DIM\,USLUGE SA SELA – Koncesija za obavljanje
-  dimnjačarskih poslova (BOGDANOVCI)\, 700 €/god.\n\nProfil općine: htt
- ps://koncesijski-sat.vercel.app/#opcina/41942358B15965971514853\nIzvor: Re
- gistar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ cesija za obavljanje dimnjačarskih poslova (BOGDANOVCI) · davatelj: OPĆ
+ INA BOGDANOVCI\, 700 €/god.\n• HRVOJE HORVAT\,DUO EKO-DIM\,USLUGE SA S
+ ELA – Koncesija za obavljanje dimnjačarskih poslova (BOGDANOVCI) · dav
+ atelj: OPĆINA BOGDANOVCI\, 700 €/god.\n\nProfil općine: https://konces
+ ijski-sat.vercel.app/#opcina/41942358B15965971514853\nIzvor: Registar konc
+ esija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B15965971514853
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -199,23 +207,24 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-352adc4e4266558a@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-7841767d2f9e3a26@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20310128
 DTEND;VALUE=DATE:20310129
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Bogdanovci
 DESCRIPTION:28. 7. 2031. ističe 2 ugovora o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• HRVOJE HORVAT\,DUO EKO-DIM\,USLUGE SA SELA – Koncesija za obav
- ljanje dimnjačarskih poslova (BOGDANOVCI)\, 700 €/god.\n• HRVOJE HORV
- AT\,DUO EKO-DIM\,USLUGE SA SELA – Koncesija za obavljanje dimnjačarskih
-  poslova (BOGDANOVCI)\, 700 €/god.\n\nProfil općine: https://koncesijsk
- i-sat.vercel.app/#opcina/41942358B15965971514853
+ ljanje dimnjačarskih poslova (BOGDANOVCI) · davatelj: OPĆINA BOGDANOVCI
+ \, 700 €/god.\n• HRVOJE HORVAT\,DUO EKO-DIM\,USLUGE SA SELA – Konces
+ ija za obavljanje dimnjačarskih poslova (BOGDANOVCI) · davatelj: OPĆINA
+  BOGDANOVCI\, 700 €/god.\n\nProfil općine: https://koncesijski-sat.verc
+ el.app/#opcina/41942358B15965971514853
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B15965971514853
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Bogdanovci
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT

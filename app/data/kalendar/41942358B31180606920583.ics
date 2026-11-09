@@ -4,28 +4,31 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Općina Brdovec
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Brdovec. Iz Regi
- stra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade poda
- taka. https://koncesijski-sat.vercel.app/#opcina/41942358B31180606920583
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Općina Brdovec (pregled
+ \, svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježava 
+ se nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#opcina
+ /41942358B31180606920583
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-8415377911394325@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-3457f11934f53e6a@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20301231
 DTEND;VALUE=DATE:20310101
 SUMMARY:Ističe 3 koncesije · Brdovec
 DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2030. Godišnja fiksna na
  knada: 1.002 €.\n\n• OBRT AUTOPRIJEVOZNIK I VAĐENJE ŠLJUNKA I PIJESK
  A VL. DAMIR HORVAT – Koncesija za površinu utvrđenog eksploatacijskog 
- polja neenergetskih mineralnih sirovina (BRDOVEC)\, 1.002 €/god.\n• OB
- RT AUTOPRIJEVOZNIK I VAĐENJE ŠLJUNKA I PIJESKA\, VL. DAMIR HORVAT – Ko
- ncesija za eksploataciju građevnog pijeska i šljunka (BRDOVEC)\n• OBRT
-  AUTOPRIJEVOZNIK I VAĐENJE ŠLJUNKA I PIJESKA VL. DAMIR HORVAT – Konces
- ija za eksploataciju građevnog pijeska i šljunka (BRDOVEC)\n\nProfil op
- ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B31180606920583\
- nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ polja neenergetskih mineralnih sirovina (BRDOVEC) · davatelj: MINISTARSTV
+ O GOSPODARSTVA\, 1.002 €/god.\n• OBRT AUTOPRIJEVOZNIK I VAĐENJE ŠLJU
+ NKA I PIJESKA\, VL. DAMIR HORVAT – Koncesija za eksploataciju građevnog
+  pijeska i šljunka (BRDOVEC) · davatelj: MINISTARSTVO GOSPODARSTVA\n• 
+ OBRT AUTOPRIJEVOZNIK I VAĐENJE ŠLJUNKA I PIJESKA VL. DAMIR HORVAT – Ko
+ ncesija za eksploataciju građevnog pijeska i šljunka (BRDOVEC) · davate
+ lj: MINISTARSTVO GOSPODARSTVA\n\nProfil općine: https://koncesijski-sat.v
+ ercel.app/#opcina/41942358B31180606920583\nIzvor: Registar koncesija (FINA
+ )\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B31180606920583
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -35,41 +38,43 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-8415377911394325@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-3457f11934f53e6a@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20300630
 DTEND;VALUE=DATE:20300701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Brdovec
 DESCRIPTION:31. 12. 2030. ističe 3 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• OBRT AUTOPRIJEVOZNIK I VAĐENJE ŠLJUNKA I PIJESKA VL. DAMIR HO
  RVAT – Koncesija za površinu utvrđenog eksploatacijskog polja neenerge
- tskih mineralnih sirovina (BRDOVEC)\, 1.002 €/god.\n• OBRT AUTOPRIJEVO
- ZNIK I VAĐENJE ŠLJUNKA I PIJESKA\, VL. DAMIR HORVAT – Koncesija za eks
- ploataciju građevnog pijeska i šljunka (BRDOVEC)\n• OBRT AUTOPRIJEVOZN
- IK I VAĐENJE ŠLJUNKA I PIJESKA VL. DAMIR HORVAT – Koncesija za eksploa
- taciju građevnog pijeska i šljunka (BRDOVEC)\n\nProfil općine: https://
- koncesijski-sat.vercel.app/#opcina/41942358B31180606920583
+ tskih mineralnih sirovina (BRDOVEC) · davatelj: MINISTARSTVO GOSPODARSTVA
+ \, 1.002 €/god.\n• OBRT AUTOPRIJEVOZNIK I VAĐENJE ŠLJUNKA I PIJESKA\
+ , VL. DAMIR HORVAT – Koncesija za eksploataciju građevnog pijeska i šl
+ junka (BRDOVEC) · davatelj: MINISTARSTVO GOSPODARSTVA\n• OBRT AUTOPRIJE
+ VOZNIK I VAĐENJE ŠLJUNKA I PIJESKA VL. DAMIR HORVAT – Koncesija za eks
+ ploataciju građevnog pijeska i šljunka (BRDOVEC) · davatelj: MINISTARST
+ VO GOSPODARSTVA\n\nProfil općine: https://koncesijski-sat.vercel.app/#opc
+ ina/41942358B31180606920583
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B31180606920583
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Brdovec
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-172b5c8e5275c6bb@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-68549bd22f3aa831@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20311112
 DTEND;VALUE=DATE:20311113
 SUMMARY:Ističe koncesija: INFORMATIVNI CENTAR ZAPREŠIĆ D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 12. 11. 2031. Godišnja fiksna nak
  nada: 398 €.\n\n• INFORMATIVNI CENTAR ZAPREŠIĆ D.O.O. – Koncesija 
  za obavljanje djelatnosti radija (BRDOVEC\, PUŠČA\, ZAGREB\, ZAPREŠIĆ)
- \, 398 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opc
- ina/41942358B31180606920583\nIzvor: Registar koncesija (FINA)\, obrada Kon
- cesijski sat 9. 11. 2026.
+  · davatelj: AGENCIJA ZA ELEKTRONIČKE MEDIJE\, 398 €/god.\n\nProfil op
+ ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B31180606920583\
+ nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B31180606920583
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -79,8 +84,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-172b5c8e5275c6bb@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-68549bd22f3aa831@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20310512
 DTEND;VALUE=DATE:20310513
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INFORMATIVNI CEN
@@ -88,9 +93,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INFORMATIVNI CEN
 DESCRIPTION:12. 11. 2031. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• INFORMATIVNI CENTAR ZAPREŠIĆ D.O.O. – Koncesija za obavljanj
- e djelatnosti radija (BRDOVEC\, PUŠČA\, ZAGREB\, ZAPREŠIĆ)\, 398 €/g
- od.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358
- B31180606920583
+ e djelatnosti radija (BRDOVEC\, PUŠČA\, ZAGREB\, ZAPREŠIĆ) · davatelj
+ : AGENCIJA ZA ELEKTRONIČKE MEDIJE\, 398 €/god.\n\nProfil općine: https
+ ://koncesijski-sat.vercel.app/#opcina/41942358B31180606920583
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B31180606920583
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -101,8 +106,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-7267b324edde271f@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-7a922cc63203a1ef@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20441031
 DTEND;VALUE=DATE:20441101
 SUMMARY:Ističe koncesija: EXTRA FM ZAGREB D.O.O.
@@ -110,9 +115,10 @@ DESCRIPTION:1 ugovor o koncesiji ističe 31. 10. 2044. Godišnja fiksna nak
  nada: 1.195 €.\n\n• EXTRA FM ZAGREB D.O.O. – Koncesija za obavljanje
   djelatnosti radija (BRDOVEC\, GRAD ZAGREB\, GRAD ZAGREB\, RUGVICA\, RUGVI
  CA\, STUPNIK\, STUPNIK\, SVETA NEDELJA\, SVETA NEDELJA\, VELIKA GORICA\, V
- ELIKA GORICA\, ZAPREŠIĆ\, ZAPREŠIĆ)\, 1.195 €/god.\n\nProfil općine
- : https://koncesijski-sat.vercel.app/#opcina/41942358B31180606920583\nIzvo
- r: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ ELIKA GORICA\, ZAPREŠIĆ\, ZAPREŠIĆ) · davatelj: AGENCIJA ZA ELEKTRONI
+ ČKE MEDIJE\, 1.195 €/god.\n\nProfil općine: https://koncesijski-sat.ve
+ rcel.app/#opcina/41942358B31180606920583\nIzvor: Registar koncesija (FINA)
+ \, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B31180606920583
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -122,8 +128,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-7267b324edde271f@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-7a922cc63203a1ef@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20440430
 DTEND;VALUE=DATE:20440501
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (EXTRA FM ZAGREB 
@@ -133,8 +139,9 @@ DESCRIPTION:31. 10. 2044. ističe 1 ugovor o koncesiji. Novi postupak dodje
  a.\n\n• EXTRA FM ZAGREB D.O.O. – Koncesija za obavljanje djelatnosti r
  adija (BRDOVEC\, GRAD ZAGREB\, GRAD ZAGREB\, RUGVICA\, RUGVICA\, STUPNIK\,
   STUPNIK\, SVETA NEDELJA\, SVETA NEDELJA\, VELIKA GORICA\, VELIKA GORICA\,
-  ZAPREŠIĆ\, ZAPREŠIĆ)\, 1.195 €/god.\n\nProfil općine: https://konc
- esijski-sat.vercel.app/#opcina/41942358B31180606920583
+  ZAPREŠIĆ\, ZAPREŠIĆ) · davatelj: AGENCIJA ZA ELEKTRONIČKE MEDIJE\, 
+ 1.195 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opci
+ na/41942358B31180606920583
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B31180606920583
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -145,17 +152,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-c032083b33dfe104@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-8b4e4b69678e2a8e@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20500110
 DTEND;VALUE=DATE:20500111
 SUMMARY:Ističe koncesija: TAPI CROATIA INDUSTRIES D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 10. 1. 2050. Godišnja fiksna nakn
  ada: 21.249 €.\n\n• TAPI CROATIA INDUSTRIES D.O.O. – Koncesija za za
- hvaćanje voda za tehnološke potrebe (BRDOVEC)\, 21.249 €/god.\n\nProfi
- l općine: https://koncesijski-sat.vercel.app/#opcina/41942358B31180606920
- 583\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026
- .
+ hvaćanje voda za tehnološke potrebe (BRDOVEC) · davatelj: MINISTARSTVO 
+ ZAŠTITE OKOLIŠA I ZELENE TRANZICIJE\, 21.249 €/god.\n\nProfil općine:
+  https://koncesijski-sat.vercel.app/#opcina/41942358B31180606920583\nIzvor
+ : Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B31180606920583
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -165,8 +172,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-c032083b33dfe104@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-8b4e4b69678e2a8e@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20490710
 DTEND;VALUE=DATE:20490711
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (TAPI CROATIA IND
@@ -174,8 +181,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (TAPI CROATIA IND
 DESCRIPTION:10. 1. 2050. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• TAPI CROATIA INDUSTRIES D.O.O. – Koncesija za zahvaćanje voda 
- za tehnološke potrebe (BRDOVEC)\, 21.249 €/god.\n\nProfil općine: http
- s://koncesijski-sat.vercel.app/#opcina/41942358B31180606920583
+ za tehnološke potrebe (BRDOVEC) · davatelj: MINISTARSTVO ZAŠTITE OKOLI
+ ŠA I ZELENE TRANZICIJE\, 21.249 €/god.\n\nProfil općine: https://konce
+ sijski-sat.vercel.app/#opcina/41942358B31180606920583
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B31180606920583
 TRANSP:TRANSPARENT
 BEGIN:VALARM

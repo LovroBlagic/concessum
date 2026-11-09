@@ -4,23 +4,24 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Grad Rab
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Grad Rab. Iz Registra ko
- ncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podataka. h
- ttps://koncesijski-sat.vercel.app/#opcina/41942358B47782710704848
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Grad Rab (pregled\, svi 
+ davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježava se nako
+ n svake obrade podataka. https://koncesijski-sat.vercel.app/#opcina/419423
+ 58B47782710704848
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-e5aa0bb0a3adf580@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-df1ed3bb23b846db@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270101
 DTEND;VALUE=DATE:20270102
 SUMMARY:Ističe koncesija: VRELO D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 1. 1. 2027. Godišnja fiksna nakna
- da: 159 €.\n\n• VRELO D.O.O. – Koncesija na pomorskom dobru (RAB)\, 
- 159 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina
- /41942358B47782710704848\nIzvor: Registar koncesija (FINA)\, obrada Konces
- ijski sat 9. 11. 2026.
+ da: 159 €.\n\n• VRELO D.O.O. – Koncesija na pomorskom dobru (RAB) ·
+  davatelj: GRAD RAB\, 159 €/god.\n\nProfil općine: https://koncesijski-
+ sat.vercel.app/#opcina/41942358B47782710704848\nIzvor: Registar koncesija 
+ (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B47782710704848
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -30,16 +31,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-70c6f40c4b6af730@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-7ac4f7d49b00284b@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20271201
 DTEND;VALUE=DATE:20271202
 SUMMARY:Ističe koncesija: MDM D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 1. 12. 2027. Godišnja fiksna nakn
- ada: 7.300 €.\n\n• MDM D.O.O. – Koncesija za luku (RAB)\, 7.300 €/
- god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4194235
- 8B47782710704848\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sa
- t 9. 11. 2026.
+ ada: 7.300 €.\n\n• MDM D.O.O. – Koncesija za luku (RAB) · davatelj:
+  ŽUPANIJSKA LUČKA UPRAVA RAB\, 7.300 €/god.\n\nProfil općine: https:/
+ /koncesijski-sat.vercel.app/#opcina/41942358B47782710704848\nIzvor: Regist
+ ar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B47782710704848
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -49,16 +50,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-70c6f40c4b6af730@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-7ac4f7d49b00284b@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270601
 DTEND;VALUE=DATE:20270602
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MDM D.O.O.)
 DESCRIPTION:1. 12. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
- .\n\n• MDM D.O.O. – Koncesija za luku (RAB)\, 7.300 €/god.\n\nProfil
-  općine: https://koncesijski-sat.vercel.app/#opcina/41942358B477827107048
- 48
+ .\n\n• MDM D.O.O. – Koncesija za luku (RAB) · davatelj: ŽUPANIJSKA L
+ UČKA UPRAVA RAB\, 7.300 €/god.\n\nProfil općine: https://koncesijski-s
+ at.vercel.app/#opcina/41942358B47782710704848
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B47782710704848
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -68,18 +69,20 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-b9c6f4bc87ea68dd@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-4a5db464730182be@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20271231
 DTEND;VALUE=DATE:20280101
 SUMMARY:Ističe 3 koncesije · Rab
 DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2027. Godišnja fiksna na
  knada: 140.654 €.\n\n• RAPSKA PLOVIDBA D.D. – Koncesija na pomorskom
-  dobru (RAB)\, 138.000 €/god.\n• RAPSKA PLOVIDBA D.D. – Koncesija za
-  organiziranje unutarnjeg linijskog prijevoza (RAB)\, 2.654 €/god.\n• 
- OBRT – Koncesija za luku (RAB)\n\nProfil općine: https://koncesijski-sa
- t.vercel.app/#opcina/41942358B47782710704848\nIzvor: Registar koncesija (F
- INA)\, obrada Koncesijski sat 9. 11. 2026.
+  dobru (RAB) · davatelj: ŽUPANIJSKA LUČKA UPRAVA RAB\, 138.000 €/god.
+ \n• RAPSKA PLOVIDBA D.D. – Koncesija za organiziranje unutarnjeg linij
+ skog prijevoza (RAB) · davatelj: AGENCIJA ZA OBALNI LINIJSKI POMORSKI PRO
+ MET\, 2.654 €/god.\n• OBRT – Koncesija za luku (RAB) · davatelj: LU
+ ČKA UPRAVA SENJ\n\nProfil općine: https://koncesijski-sat.vercel.app/#op
+ cina/41942358B47782710704848\nIzvor: Registar koncesija (FINA)\, obrada Ko
+ ncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B47782710704848
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -89,39 +92,41 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-b9c6f4bc87ea68dd@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-4a5db464730182be@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270630
 DTEND;VALUE=DATE:20270701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Rab
 DESCRIPTION:31. 12. 2027. ističe 3 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
- ra.\n\n• RAPSKA PLOVIDBA D.D. – Koncesija na pomorskom dobru (RAB)\, 1
- 38.000 €/god.\n• RAPSKA PLOVIDBA D.D. – Koncesija za organiziranje u
- nutarnjeg linijskog prijevoza (RAB)\, 2.654 €/god.\n• OBRT – Koncesi
- ja za luku (RAB)\n\nProfil općine: https://koncesijski-sat.vercel.app/#op
- cina/41942358B47782710704848
+ ra.\n\n• RAPSKA PLOVIDBA D.D. – Koncesija na pomorskom dobru (RAB) · 
+ davatelj: ŽUPANIJSKA LUČKA UPRAVA RAB\, 138.000 €/god.\n• RAPSKA PLO
+ VIDBA D.D. – Koncesija za organiziranje unutarnjeg linijskog prijevoza (
+ RAB) · davatelj: AGENCIJA ZA OBALNI LINIJSKI POMORSKI PROMET\, 2.654 €/
+ god.\n• OBRT – Koncesija za luku (RAB) · davatelj: LUČKA UPRAVA SENJ
+ \n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B47
+ 782710704848
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B47782710704848
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Rab
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-5984684efe861768@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-f71fb4806a4c6772@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20280427
 DTEND;VALUE=DATE:20280428
 SUMMARY:Ističe koncesija: RADIO RAB D.O.O. ZA RADIJSKU I TELEVIZIJSKU DJEL
  ATNOST
 DESCRIPTION:1 ugovor o koncesiji ističe 27. 4. 2028. Godišnja fiksna nakn
  ada: 66 €.\n\n• RADIO RAB D.O.O. ZA RADIJSKU I TELEVIZIJSKU DJELATNOST
-  – Koncesija za obavljanje djelatnosti radija (RAB)\, 66 €/god.\n\nPro
- fil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B477827107
- 04848\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 20
- 26.
+  – Koncesija za obavljanje djelatnosti radija (RAB) · davatelj: AGENCIJ
+ A ZA ELEKTRONIČKE MEDIJE\, 66 €/god.\n\nProfil općine: https://koncesi
+ jski-sat.vercel.app/#opcina/41942358B47782710704848\nIzvor: Registar konce
+ sija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B47782710704848
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -132,8 +137,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-5984684efe861768@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-f71fb4806a4c6772@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20271027
 DTEND;VALUE=DATE:20271028
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (RADIO RAB D.O.O.
@@ -141,8 +146,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (RADIO RAB D.O.O.
 DESCRIPTION:27. 4. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• RADIO RAB D.O.O. ZA RADIJSKU I TELEVIZIJSKU DJELATNOST – Konces
- ija za obavljanje djelatnosti radija (RAB)\, 66 €/god.\n\nProfil općine
- : https://koncesijski-sat.vercel.app/#opcina/41942358B47782710704848
+ ija za obavljanje djelatnosti radija (RAB) · davatelj: AGENCIJA ZA ELEKTR
+ ONIČKE MEDIJE\, 66 €/god.\n\nProfil općine: https://koncesijski-sat.ve
+ rcel.app/#opcina/41942358B47782710704848
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B47782710704848
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -153,16 +159,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-20d523c91b63ac78@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-082b6883a0977aa4@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20280501
 DTEND;VALUE=DATE:20280502
 SUMMARY:Ističe koncesija: VRELO D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 1. 5. 2028. Godišnja fiksna nakna
- da: 159 €.\n\n• VRELO D.O.O. – Koncesija na pomorskom dobru (RAB)\, 
- 159 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina
- /41942358B47782710704848\nIzvor: Registar koncesija (FINA)\, obrada Konces
- ijski sat 9. 11. 2026.
+ da: 159 €.\n\n• VRELO D.O.O. – Koncesija na pomorskom dobru (RAB) ·
+  davatelj: GRAD RAB\, 159 €/god.\n\nProfil općine: https://koncesijski-
+ sat.vercel.app/#opcina/41942358B47782710704848\nIzvor: Registar koncesija 
+ (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B47782710704848
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -172,16 +178,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-20d523c91b63ac78@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-082b6883a0977aa4@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20271101
 DTEND;VALUE=DATE:20271102
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VRELO D.O.O.)
 DESCRIPTION:1. 5. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
- \n\n• VRELO D.O.O. – Koncesija na pomorskom dobru (RAB)\, 159 €/god.
- \n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B47
- 782710704848
+ \n\n• VRELO D.O.O. – Koncesija na pomorskom dobru (RAB) · davatelj: G
+ RAD RAB\, 159 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.a
+ pp/#opcina/41942358B47782710704848
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B47782710704848
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -192,16 +198,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-56290e4558df4e94@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-75a9dfcb2c6ba9ca@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20280621
 DTEND;VALUE=DATE:20280622
 SUMMARY:Ističe koncesija: ANDREAS KRON D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 21. 6. 2028. Godišnja fiksna nakn
  ada: 3.152 €.\n\n• ANDREAS KRON D.O.O. – Koncesija pomorskog dobra u
-  svrhu gospodarskog korištenja luke (RAB)\, 3.152 €/god.\n\nProfil opć
- ine: https://koncesijski-sat.vercel.app/#opcina/41942358B47782710704848\nI
- zvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+  svrhu gospodarskog korištenja luke (RAB) · davatelj: ŽUPANIJSKA LUČKA
+  UPRAVA RAB\, 3.152 €/god.\n\nProfil općine: https://koncesijski-sat.ve
+ rcel.app/#opcina/41942358B47782710704848\nIzvor: Registar koncesija (FINA)
+ \, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B47782710704848
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -211,8 +218,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-56290e4558df4e94@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-75a9dfcb2c6ba9ca@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20271221
 DTEND;VALUE=DATE:20271222
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ANDREAS KRON D.O
@@ -220,8 +227,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ANDREAS KRON D.O
 DESCRIPTION:21. 6. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• ANDREAS KRON D.O.O. – Koncesija pomorskog dobra u svrhu gospoda
- rskog korištenja luke (RAB)\, 3.152 €/god.\n\nProfil općine: https://k
- oncesijski-sat.vercel.app/#opcina/41942358B47782710704848
+ rskog korištenja luke (RAB) · davatelj: ŽUPANIJSKA LUČKA UPRAVA RAB\, 
+ 3.152 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opci
+ na/41942358B47782710704848
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B47782710704848
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -232,16 +240,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-84f51fd9cf8ed22a@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-00eaa343255df64d@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20281120
 DTEND;VALUE=DATE:20281121
 SUMMARY:Ističe koncesija: VRELO D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 20. 11. 2028. Godišnja fiksna nak
- nada: 159 €.\n\n• VRELO D.O.O. – Koncesija na pomorskom dobru (RAB)\
- , 159 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opci
- na/41942358B47782710704848\nIzvor: Registar koncesija (FINA)\, obrada Konc
- esijski sat 9. 11. 2026.
+ nada: 159 €.\n\n• VRELO D.O.O. – Koncesija na pomorskom dobru (RAB) 
+ · davatelj: GRAD RAB\, 159 €/god.\n\nProfil općine: https://koncesijsk
+ i-sat.vercel.app/#opcina/41942358B47782710704848\nIzvor: Registar koncesij
+ a (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B47782710704848
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -251,16 +259,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-84f51fd9cf8ed22a@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-00eaa343255df64d@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20280520
 DTEND;VALUE=DATE:20280521
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VRELO D.O.O.)
 DESCRIPTION:20. 11. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
- a.\n\n• VRELO D.O.O. – Koncesija na pomorskom dobru (RAB)\, 159 €/go
- d.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B
- 47782710704848
+ a.\n\n• VRELO D.O.O. – Koncesija na pomorskom dobru (RAB) · davatelj:
+  GRAD RAB\, 159 €/god.\n\nProfil općine: https://koncesijski-sat.vercel
+ .app/#opcina/41942358B47782710704848
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B47782710704848
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -271,17 +279,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-454e2cc5cb1956d1@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-d28dc73e9570c69e@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20290101
 DTEND;VALUE=DATE:20290102
 SUMMARY:Ističe koncesija: MATEO BRNABIĆ\, PUDARICA\, VL. MATEO BRNABIĆ
 DESCRIPTION:1 ugovor o koncesiji ističe 1. 1. 2029. Godišnja fiksna nakna
  da: 5.574 €.\n\n• MATEO BRNABIĆ\, PUDARICA\, VL. MATEO BRNABIĆ – K
- oncesija pomorskog dobra u svrhu gospodarskog korištenja luke (RAB)\, 5.5
- 74 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/
- 41942358B47782710704848\nIzvor: Registar koncesija (FINA)\, obrada Koncesi
- jski sat 9. 11. 2026.
+ oncesija pomorskog dobra u svrhu gospodarskog korištenja luke (RAB) · da
+ vatelj: ŽUPANIJSKA LUČKA UPRAVA RAB\, 5.574 €/god.\n\nProfil općine: 
+ https://koncesijski-sat.vercel.app/#opcina/41942358B47782710704848\nIzvor:
+  Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B47782710704848
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -292,8 +300,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-454e2cc5cb1956d1@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-d28dc73e9570c69e@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20280701
 DTEND;VALUE=DATE:20280702
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MATEO BRNABIĆ\,
@@ -301,9 +309,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MATEO BRNABIĆ\,
 DESCRIPTION:1. 1. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• MATEO BRNABIĆ\, PUDARICA\, VL. MATEO BRNABIĆ – Koncesija pomor
- skog dobra u svrhu gospodarskog korištenja luke (RAB)\, 5.574 €/god.\n\
- nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B47782
- 710704848
+ skog dobra u svrhu gospodarskog korištenja luke (RAB) · davatelj: ŽUPAN
+ IJSKA LUČKA UPRAVA RAB\, 5.574 €/god.\n\nProfil općine: https://konces
+ ijski-sat.vercel.app/#opcina/41942358B47782710704848
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B47782710704848
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -314,16 +322,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-43437521ba76e4c0@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-a9dad67954954448@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20291231
 DTEND;VALUE=DATE:20300101
 SUMMARY:Ističe koncesija: INA\, D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 31. 12. 2029. Godišnja fiksna nak
  nada: 29.820 €.\n\n• INA\, D.D. – Koncesija pomorskog dobra u svrhu 
- gospodarskog korištenja luke (RAB)\, 29.820 €/god.\n\nProfil općine: h
- ttps://koncesijski-sat.vercel.app/#opcina/41942358B47782710704848\nIzvor: 
- Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ gospodarskog korištenja luke (RAB) · davatelj: ŽUPANIJSKA LUČKA UPRAVA
+  RAB\, 29.820 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.a
+ pp/#opcina/41942358B47782710704848\nIzvor: Registar koncesija (FINA)\, obr
+ ada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B47782710704848
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -333,16 +342,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-43437521ba76e4c0@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-a9dad67954954448@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20290630
 DTEND;VALUE=DATE:20290701
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA\, D.D.)
 DESCRIPTION:31. 12. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• INA\, D.D. – Koncesija pomorskog dobra u svrhu gospodarskog ko
- rištenja luke (RAB)\, 29.820 €/god.\n\nProfil općine: https://koncesij
- ski-sat.vercel.app/#opcina/41942358B47782710704848
+ rištenja luke (RAB) · davatelj: ŽUPANIJSKA LUČKA UPRAVA RAB\, 29.820 
+ €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
+ 42358B47782710704848
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B47782710704848
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -352,16 +362,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-5a1c7a6b3b496389@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-ca1fc4152df6b01f@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20300426
 DTEND;VALUE=DATE:20300427
 SUMMARY:Ističe koncesija: IVO MATIĆ PULJAR\,
 DESCRIPTION:1 ugovor o koncesiji ističe 26. 4. 2030. Godišnja fiksna nakn
  ada: 2.787 €.\n\n• IVO MATIĆ PULJAR\, – Koncesija pomorskog dobra u
-  svrhu gospodarskog korištenja luke (RAB)\, 2.787 €/god.\n\nProfil opć
- ine: https://koncesijski-sat.vercel.app/#opcina/41942358B47782710704848\nI
- zvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+  svrhu gospodarskog korištenja luke (RAB) · davatelj: ŽUPANIJSKA LUČKA
+  UPRAVA RAB\, 2.787 €/god.\n\nProfil općine: https://koncesijski-sat.ve
+ rcel.app/#opcina/41942358B47782710704848\nIzvor: Registar koncesija (FINA)
+ \, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B47782710704848
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -371,8 +382,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-5a1c7a6b3b496389@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-ca1fc4152df6b01f@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20291026
 DTEND;VALUE=DATE:20291027
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (IVO MATIĆ PULJA
@@ -380,8 +391,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (IVO MATIĆ PULJA
 DESCRIPTION:26. 4. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• IVO MATIĆ PULJAR\, – Koncesija pomorskog dobra u svrhu gospoda
- rskog korištenja luke (RAB)\, 2.787 €/god.\n\nProfil općine: https://k
- oncesijski-sat.vercel.app/#opcina/41942358B47782710704848
+ rskog korištenja luke (RAB) · davatelj: ŽUPANIJSKA LUČKA UPRAVA RAB\, 
+ 2.787 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opci
+ na/41942358B47782710704848
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B47782710704848
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -392,16 +404,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-3a1e3c4593d8b912@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-2dd284f259a234de@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20300904
 DTEND;VALUE=DATE:20300905
 SUMMARY:Ističe koncesija: RODOGRADNJA Z. PIČULJAN - VL. ZDRAVKO PIČULJAN
 DESCRIPTION:1 ugovor o koncesiji ističe 4. 9. 2030. Godišnja fiksna nakna
  da: 949 €.\n\n• RODOGRADNJA Z. PIČULJAN - VL. ZDRAVKO PIČULJAN – K
- oncesija na pomorskom dobru (RAB)\, 949 €/god.\n\nProfil općine: https:
- //koncesijski-sat.vercel.app/#opcina/41942358B47782710704848\nIzvor: Regis
- tar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ oncesija na pomorskom dobru (RAB) · davatelj: PRIMORSKO GORANSKA ŽUPANIJ
+ A\, 949 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#op
+ cina/41942358B47782710704848\nIzvor: Registar koncesija (FINA)\, obrada Ko
+ ncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B47782710704848
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -412,8 +425,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-3a1e3c4593d8b912@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-2dd284f259a234de@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20300304
 DTEND;VALUE=DATE:20300305
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (RODOGRADNJA Z. P
@@ -421,8 +434,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (RODOGRADNJA Z. P
 DESCRIPTION:4. 9. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• RODOGRADNJA Z. PIČULJAN - VL. ZDRAVKO PIČULJAN – Koncesija na 
- pomorskom dobru (RAB)\, 949 €/god.\n\nProfil općine: https://koncesijsk
- i-sat.vercel.app/#opcina/41942358B47782710704848
+ pomorskom dobru (RAB) · davatelj: PRIMORSKO GORANSKA ŽUPANIJA\, 949 €/
+ god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4194235
+ 8B47782710704848
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B47782710704848
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -433,17 +447,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-3410f083aac79875@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-135186b922dc0a5b@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20301015
 DTEND;VALUE=DATE:20301016
 SUMMARY:Ističe koncesija: LUČICA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 15. 10. 2030. Godišnja fiksna nak
  nada: 8.275 €.\n\n• LUČICA D.O.O. – Koncesija pomorskog dobra u svr
- hu izgradnje i gospodarskog korištenja luke posebne namjene (RAB)\, 8.275
-  €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41
- 942358B47782710704848\nIzvor: Registar koncesija (FINA)\, obrada Koncesijs
- ki sat 9. 11. 2026.
+ hu izgradnje i gospodarskog korištenja luke posebne namjene (RAB) · dava
+ telj: PRIMORSKO GORANSKA ŽUPANIJA\, 8.275 €/god.\n\nProfil općine: htt
+ ps://koncesijski-sat.vercel.app/#opcina/41942358B47782710704848\nIzvor: Re
+ gistar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B47782710704848
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -453,17 +467,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-3410f083aac79875@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-135186b922dc0a5b@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20300415
 DTEND;VALUE=DATE:20300416
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (LUČICA D.O.O.)
 DESCRIPTION:15. 10. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• LUČICA D.O.O. – Koncesija pomorskog dobra u svrhu izgradnje i
-  gospodarskog korištenja luke posebne namjene (RAB)\, 8.275 €/god.\n\nP
- rofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B4778271
- 0704848
+  gospodarskog korištenja luke posebne namjene (RAB) · davatelj: PRIMORSK
+ O GORANSKA ŽUPANIJA\, 8.275 €/god.\n\nProfil općine: https://koncesijs
+ ki-sat.vercel.app/#opcina/41942358B47782710704848
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B47782710704848
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -474,16 +488,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-312f48ff16e019ef@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-f81934a08a76ec65@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20301110
 DTEND;VALUE=DATE:20301111
 SUMMARY:Ističe koncesija: ACI D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 10. 11. 2030. Godišnja fiksna nak
  nada: 6.464 €.\n\n• ACI D.D. – Koncesija pomorskog dobra u svrhu gos
- podarskog korištenja luke (RAB)\, 6.464 €/god.\n\nProfil općine: https
- ://koncesijski-sat.vercel.app/#opcina/41942358B47782710704848\nIzvor: Regi
- star koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ podarskog korištenja luke (RAB) · davatelj: MINISTARSTVO MORA\, PROMETA 
+ I INFRASTRUKTURE\, 6.464 €/god.\n\nProfil općine: https://koncesijski-s
+ at.vercel.app/#opcina/41942358B47782710704848\nIzvor: Registar koncesija (
+ FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B47782710704848
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -493,16 +508,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-312f48ff16e019ef@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-f81934a08a76ec65@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20300510
 DTEND;VALUE=DATE:20300511
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ACI D.D.)
 DESCRIPTION:10. 11. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• ACI D.D. – Koncesija pomorskog dobra u svrhu gospodarskog kori
- štenja luke (RAB)\, 6.464 €/god.\n\nProfil općine: https://koncesijski
- -sat.vercel.app/#opcina/41942358B47782710704848
+ štenja luke (RAB) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTU
+ RE\, 6.464 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/
+ #opcina/41942358B47782710704848
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B47782710704848
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -512,16 +528,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-2f15bc2ecc7278ab@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-c19781894bf36ffd@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20301231
 DTEND;VALUE=DATE:20310101
 SUMMARY:Ističe koncesija: ACI D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 31. 12. 2030. Godišnja fiksna nak
  nada: 1.557 €.\n\n• ACI D.D. – Koncesija za luku nautičkog turizma 
- (RAB)\, 1.557 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.a
- pp/#opcina/41942358B47782710704848\nIzvor: Registar koncesija (FINA)\, obr
- ada Koncesijski sat 9. 11. 2026.
+ (RAB) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\, 1.557 
+ €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
+ 42358B47782710704848\nIzvor: Registar koncesija (FINA)\, obrada Koncesijsk
+ i sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B47782710704848
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -531,16 +548,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-2f15bc2ecc7278ab@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-c19781894bf36ffd@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20300630
 DTEND;VALUE=DATE:20300701
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ACI D.D.)
 DESCRIPTION:31. 12. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
- a.\n\n• ACI D.D. – Koncesija za luku nautičkog turizma (RAB)\, 1.557 
- €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
- 42358B47782710704848
+ a.\n\n• ACI D.D. – Koncesija za luku nautičkog turizma (RAB) · davat
+ elj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\, 1.557 €/god.\n\nProf
+ il općine: https://koncesijski-sat.vercel.app/#opcina/41942358B4778271070
+ 4848
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B47782710704848
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -550,17 +568,18 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-1f6ac5d519ee9eb7@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-d5bfe1d8576966e2@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20310322
 DTEND;VALUE=DATE:20310323
 SUMMARY:Ističe koncesija: VL.PETAR ŠPANJOL BRODOGRADITELJ
 DESCRIPTION:1 ugovor o koncesiji ističe 22. 3. 2031. Godišnja fiksna nakn
  ada: 2.900 €.\n\n• VL.PETAR ŠPANJOL BRODOGRADITELJ – Koncesija pomo
  rskog dobra u svrhu izgradnje i gospodarskog korištenja luke posebne namj
- ene (RAB)\, 2.900 €/god.\n\nProfil općine: https://koncesijski-sat.verc
- el.app/#opcina/41942358B47782710704848\nIzvor: Registar koncesija (FINA)\,
-  obrada Koncesijski sat 9. 11. 2026.
+ ene (RAB) · davatelj: PRIMORSKO GORANSKA ŽUPANIJA\, 2.900 €/god.\n\nPr
+ ofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B47782710
+ 704848\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2
+ 026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B47782710704848
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -570,8 +589,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-1f6ac5d519ee9eb7@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-d5bfe1d8576966e2@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20300922
 DTEND;VALUE=DATE:20300923
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VL.PETAR ŠPANJO
@@ -579,9 +598,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VL.PETAR ŠPANJO
 DESCRIPTION:22. 3. 2031. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• VL.PETAR ŠPANJOL BRODOGRADITELJ – Koncesija pomorskog dobra u 
- svrhu izgradnje i gospodarskog korištenja luke posebne namjene (RAB)\, 2.
- 900 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina
- /41942358B47782710704848
+ svrhu izgradnje i gospodarskog korištenja luke posebne namjene (RAB) · d
+ avatelj: PRIMORSKO GORANSKA ŽUPANIJA\, 2.900 €/god.\n\nProfil općine: 
+ https://koncesijski-sat.vercel.app/#opcina/41942358B47782710704848
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B47782710704848
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -592,16 +611,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-f1e67714a52830c8@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-b85ab8143b0a8d67@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20310323
 DTEND;VALUE=DATE:20310324
 SUMMARY:Ističe koncesija: OBRT BRODOGRADITELJ\, VL. PETAR ŠPANJOL
 DESCRIPTION:1 ugovor o koncesiji ističe 23. 3. 2031. Godišnja fiksna nakn
  ada: 3.562 €.\n\n• OBRT BRODOGRADITELJ\, VL. PETAR ŠPANJOL – Konces
- ija na pomorskom dobru (RAB)\, 3.562 €/god.\n\nProfil općine: https://k
- oncesijski-sat.vercel.app/#opcina/41942358B47782710704848\nIzvor: Registar
-  koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ ija na pomorskom dobru (RAB) · davatelj: PRIMORSKO GORANSKA ŽUPANIJA\, 3
+ .562 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcin
+ a/41942358B47782710704848\nIzvor: Registar koncesija (FINA)\, obrada Konce
+ sijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B47782710704848
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -611,8 +631,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-f1e67714a52830c8@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-b85ab8143b0a8d67@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20300923
 DTEND;VALUE=DATE:20300924
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (OBRT BRODOGRADIT
@@ -620,8 +640,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (OBRT BRODOGRADIT
 DESCRIPTION:23. 3. 2031. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• OBRT BRODOGRADITELJ\, VL. PETAR ŠPANJOL – Koncesija na pomorsk
- om dobru (RAB)\, 3.562 €/god.\n\nProfil općine: https://koncesijski-sat
- .vercel.app/#opcina/41942358B47782710704848
+ om dobru (RAB) · davatelj: PRIMORSKO GORANSKA ŽUPANIJA\, 3.562 €/god.\
+ n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B477
+ 82710704848
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B47782710704848
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -632,16 +653,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-b0ba115c69f90fd3@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-679c1c6a384c7c3f@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20310525
 DTEND;VALUE=DATE:20310526
 SUMMARY:Ističe koncesija: BOJA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 25. 5. 2031. Godišnja fiksna nakn
  ada: 14.300 €.\n\n• BOJA D.O.O. – Koncesija na pomorskom dobru (RAB)
- \, 14.300 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#
- opcina/41942358B47782710704848\nIzvor: Registar koncesija (FINA)\, obrada 
- Koncesijski sat 9. 11. 2026.
+  · davatelj: PRIMORSKO GORANSKA ŽUPANIJA\, 14.300 €/god.\n\nProfil op
+ ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B47782710704848\
+ nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B47782710704848
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -651,16 +672,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-b0ba115c69f90fd3@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-679c1c6a384c7c3f@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20301125
 DTEND;VALUE=DATE:20301126
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BOJA D.O.O.)
 DESCRIPTION:25. 5. 2031. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
- .\n\n• BOJA D.O.O. – Koncesija na pomorskom dobru (RAB)\, 14.300 €/g
- od.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358
- B47782710704848
+ .\n\n• BOJA D.O.O. – Koncesija na pomorskom dobru (RAB) · davatelj: P
+ RIMORSKO GORANSKA ŽUPANIJA\, 14.300 €/god.\n\nProfil općine: https://k
+ oncesijski-sat.vercel.app/#opcina/41942358B47782710704848
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B47782710704848
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -670,16 +691,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-2aedf4770d6c2931@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-0a4dc3c15690555f@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20310917
 DTEND;VALUE=DATE:20310918
 SUMMARY:Ističe koncesija: BRODOGRADNJA PIČULJAN D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 17. 9. 2031. Godišnja fiksna nakn
  ada: 8.500 €.\n\n• BRODOGRADNJA PIČULJAN D.O.O. – Koncesija na pomo
- rskom dobru (RAB)\, 8.500 €/god.\n\nProfil općine: https://koncesijski-
- sat.vercel.app/#opcina/41942358B47782710704848\nIzvor: Registar koncesija 
- (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ rskom dobru (RAB) · davatelj: PRIMORSKO GORANSKA ŽUPANIJA\, 8.500 €/go
+ d.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B
+ 47782710704848\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 
+ 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B47782710704848
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -689,8 +711,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-2aedf4770d6c2931@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-0a4dc3c15690555f@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20310317
 DTEND;VALUE=DATE:20310318
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BRODOGRADNJA PI
@@ -698,8 +720,8 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BRODOGRADNJA PI
 DESCRIPTION:17. 9. 2031. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• BRODOGRADNJA PIČULJAN D.O.O. – Koncesija na pomorskom dobru (R
- AB)\, 8.500 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app
- /#opcina/41942358B47782710704848
+ AB) · davatelj: PRIMORSKO GORANSKA ŽUPANIJA\, 8.500 €/god.\n\nProfil o
+ pćine: https://koncesijski-sat.vercel.app/#opcina/41942358B47782710704848
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B47782710704848
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -710,17 +732,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-04b093936b8110aa@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-ac9e6e974276a5ba@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20330430
 DTEND;VALUE=DATE:20330501
 SUMMARY:Ističe koncesija: PORAT GOLI OTOK\,VL.IGOR TOMIČIĆ
 DESCRIPTION:1 ugovor o koncesiji ističe 30. 4. 2033. Godišnja fiksna nakn
  ada: 8.034 €.\n\n• PORAT GOLI OTOK\,VL.IGOR TOMIČIĆ – Koncesija po
- morskog dobra u svrhu gospodarskog korištenja luke (RAB)\, 8.034 €/god.
- \n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B47
- 782710704848\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9.
-  11. 2026.
+ morskog dobra u svrhu gospodarskog korištenja luke (RAB) · davatelj: ŽU
+ PANIJSKA LUČKA UPRAVA RAB\, 8.034 €/god.\n\nProfil općine: https://kon
+ cesijski-sat.vercel.app/#opcina/41942358B47782710704848\nIzvor: Registar k
+ oncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B47782710704848
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -730,8 +752,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-04b093936b8110aa@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-ac9e6e974276a5ba@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20321030
 DTEND;VALUE=DATE:20321031
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PORAT GOLI OTOK\
@@ -739,8 +761,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PORAT GOLI OTOK\
 DESCRIPTION:30. 4. 2033. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• PORAT GOLI OTOK\,VL.IGOR TOMIČIĆ – Koncesija pomorskog dobra 
- u svrhu gospodarskog korištenja luke (RAB)\, 8.034 €/god.\n\nProfil op
- ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B47782710704848
+ u svrhu gospodarskog korištenja luke (RAB) · davatelj: ŽUPANIJSKA LUČK
+ A UPRAVA RAB\, 8.034 €/god.\n\nProfil općine: https://koncesijski-sat.v
+ ercel.app/#opcina/41942358B47782710704848
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B47782710704848
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -751,18 +774,20 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-2569f531c4260c5a@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-b7ba0bdb108ae6fd@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20341231
 DTEND;VALUE=DATE:20350101
 SUMMARY:Ističe 2 koncesije · Rab
 DESCRIPTION:2 ugovora o koncesiji ističe 31. 12. 2034. Godišnja fiksna na
  knada: 4.548 €.\n\n• JOSIP KORDIĆ\, – Dozvola za eksploataciju geot
- ermalne vode za energetske svrhe (prema Zakonu o ugljikovodicima) (RAB)\, 
- 4.548 €/god.\n• OBRT PRIJEVOZ PUTNIKA MOREM VL. JOSIP KORDIĆ – Konc
- esija za eksploataciju građevnog pijeska i šljunka (RAB)\n\nProfil opći
- ne: https://koncesijski-sat.vercel.app/#opcina/41942358B47782710704848\nIz
- vor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ ermalne vode za energetske svrhe (prema Zakonu o ugljikovodicima) (RAB) ·
+  davatelj: PRIMORSKO GORANSKA ŽUPANIJA\, 4.548 €/god.\n• OBRT PRIJEVO
+ Z PUTNIKA MOREM VL. JOSIP KORDIĆ – Koncesija za eksploataciju građevno
+ g pijeska i šljunka (RAB) · davatelj: MINISTARSTVO GOSPODARSTVA\n\nProfi
+ l općine: https://koncesijski-sat.vercel.app/#opcina/41942358B47782710704
+ 848\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026
+ .
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B47782710704848
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -772,37 +797,39 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-2569f531c4260c5a@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-b7ba0bdb108ae6fd@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20340630
 DTEND;VALUE=DATE:20340701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Rab
 DESCRIPTION:31. 12. 2034. ističe 2 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• JOSIP KORDIĆ\, – Dozvola za eksploataciju geotermalne vode z
- a energetske svrhe (prema Zakonu o ugljikovodicima) (RAB)\, 4.548 €/god.
- \n• OBRT PRIJEVOZ PUTNIKA MOREM VL. JOSIP KORDIĆ – Koncesija za ekspl
- oataciju građevnog pijeska i šljunka (RAB)\n\nProfil općine: https://ko
- ncesijski-sat.vercel.app/#opcina/41942358B47782710704848
+ a energetske svrhe (prema Zakonu o ugljikovodicima) (RAB) · davatelj: PRI
+ MORSKO GORANSKA ŽUPANIJA\, 4.548 €/god.\n• OBRT PRIJEVOZ PUTNIKA MORE
+ M VL. JOSIP KORDIĆ – Koncesija za eksploataciju građevnog pijeska i š
+ ljunka (RAB) · davatelj: MINISTARSTVO GOSPODARSTVA\n\nProfil općine: htt
+ ps://koncesijski-sat.vercel.app/#opcina/41942358B47782710704848
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B47782710704848
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Rab
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-801430e03b312e08@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-d642ff221828f3c1@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20360612
 DTEND;VALUE=DATE:20360613
 SUMMARY:Ističe koncesija: HRVATSKI OPERATOR PRIJENOSNOG SUSTAVA D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 12. 6. 2036. Godišnja fiksna nakn
  ada: 4.401 €.\n\n• HRVATSKI OPERATOR PRIJENOSNOG SUSTAVA D.D. – Konc
- esija na pomorskom dobru (RAB)\, 4.401 €/god.\n\nProfil općine: https:/
- /koncesijski-sat.vercel.app/#opcina/41942358B47782710704848\nIzvor: Regist
- ar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ esija na pomorskom dobru (RAB) · davatelj: MINISTARSTVO MORA\, PROMETA I 
+ INFRASTRUKTURE\, 4.401 €/god.\n\nProfil općine: https://koncesijski-sat
+ .vercel.app/#opcina/41942358B47782710704848\nIzvor: Registar koncesija (FI
+ NA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B47782710704848
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -812,8 +839,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-801430e03b312e08@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-d642ff221828f3c1@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20351212
 DTEND;VALUE=DATE:20351213
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKI OPERATO
@@ -821,8 +848,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKI OPERATO
 DESCRIPTION:12. 6. 2036. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• HRVATSKI OPERATOR PRIJENOSNOG SUSTAVA D.D. – Koncesija na pomor
- skom dobru (RAB)\, 4.401 €/god.\n\nProfil općine: https://koncesijski-s
- at.vercel.app/#opcina/41942358B47782710704848
+ skom dobru (RAB) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE
+ \, 4.401 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#o
+ pcina/41942358B47782710704848
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B47782710704848
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -833,16 +861,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-e7f8ab6883ac6f52@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-363a17c3882ccd6d@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20361020
 DTEND;VALUE=DATE:20361021
 SUMMARY:Ističe koncesija: PS D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 20. 10. 2036. Godišnja fiksna nak
- nada: 3.584 €.\n\n• PS D.O.O. – Koncesija za luku (RAB)\, 3.584 €/
- god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4194235
- 8B47782710704848\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sa
- t 9. 11. 2026.
+ nada: 3.584 €.\n\n• PS D.O.O. – Koncesija za luku (RAB) · davatelj:
+  ŽUPANIJSKA LUČKA UPRAVA RAB\, 3.584 €/god.\n\nProfil općine: https:/
+ /koncesijski-sat.vercel.app/#opcina/41942358B47782710704848\nIzvor: Regist
+ ar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B47782710704848
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -852,16 +880,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-e7f8ab6883ac6f52@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-363a17c3882ccd6d@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20360420
 DTEND;VALUE=DATE:20360421
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PS D.O.O.)
 DESCRIPTION:20. 10. 2036. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
- a.\n\n• PS D.O.O. – Koncesija za luku (RAB)\, 3.584 €/god.\n\nProfil
-  općine: https://koncesijski-sat.vercel.app/#opcina/41942358B477827107048
- 48
+ a.\n\n• PS D.O.O. – Koncesija za luku (RAB) · davatelj: ŽUPANIJSKA L
+ UČKA UPRAVA RAB\, 3.584 €/god.\n\nProfil općine: https://koncesijski-s
+ at.vercel.app/#opcina/41942358B47782710704848
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B47782710704848
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -871,16 +899,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-52a2fa310eae2895@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-fc0a7942728efb58@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20361102
 DTEND;VALUE=DATE:20361103
 SUMMARY:Ističe koncesija: HEP-OPERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 2. 11. 2036. Godišnja fiksna nakn
  ada: 324 €.\n\n• HEP-OPERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O. – Konce
- sija na pomorskom dobru (RAB)\, 324 €/god.\n\nProfil općine: https://ko
- ncesijski-sat.vercel.app/#opcina/41942358B47782710704848\nIzvor: Registar 
- koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ sija na pomorskom dobru (RAB) · davatelj: PRIMORSKO GORANSKA ŽUPANIJA\, 
+ 324 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina
+ /41942358B47782710704848\nIzvor: Registar koncesija (FINA)\, obrada Konces
+ ijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B47782710704848
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -890,8 +919,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-52a2fa310eae2895@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-fc0a7942728efb58@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20360502
 DTEND;VALUE=DATE:20360503
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP-OPERATOR DIS
@@ -899,8 +928,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP-OPERATOR DIS
 DESCRIPTION:2. 11. 2036. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• HEP-OPERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O. – Koncesija na pomo
- rskom dobru (RAB)\, 324 €/god.\n\nProfil općine: https://koncesijski-sa
- t.vercel.app/#opcina/41942358B47782710704848
+ rskom dobru (RAB) · davatelj: PRIMORSKO GORANSKA ŽUPANIJA\, 324 €/god.
+ \n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B47
+ 782710704848
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B47782710704848
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -911,16 +941,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-1ba3130ccb4cd503@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-d3dd3fd943f76f44@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20390220
 DTEND;VALUE=DATE:20390221
 SUMMARY:Ističe koncesija: VRELO D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 20. 2. 2039. Godišnja fiksna nakn
  ada: 5.227 €.\n\n• VRELO D.O.O. – Koncesija pomorskog dobra u svrhu 
- izgradnje i gospodarskog korištenja (RAB)\, 5.227 €/god.\n\nProfil opć
- ine: https://koncesijski-sat.vercel.app/#opcina/41942358B47782710704848\nI
- zvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ izgradnje i gospodarskog korištenja (RAB) · davatelj: MINISTARSTVO MORA\
+ , PROMETA I INFRASTRUKTURE\, 5.227 €/god.\n\nProfil općine: https://kon
+ cesijski-sat.vercel.app/#opcina/41942358B47782710704848\nIzvor: Registar k
+ oncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B47782710704848
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -930,16 +961,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-1ba3130ccb4cd503@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-d3dd3fd943f76f44@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20380820
 DTEND;VALUE=DATE:20380821
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VRELO D.O.O.)
 DESCRIPTION:20. 2. 2039. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• VRELO D.O.O. – Koncesija pomorskog dobra u svrhu izgradnje i go
- spodarskog korištenja (RAB)\, 5.227 €/god.\n\nProfil općine: https://k
- oncesijski-sat.vercel.app/#opcina/41942358B47782710704848
+ spodarskog korištenja (RAB) · davatelj: MINISTARSTVO MORA\, PROMETA I IN
+ FRASTRUKTURE\, 5.227 €/god.\n\nProfil općine: https://koncesijski-sat.v
+ ercel.app/#opcina/41942358B47782710704848
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B47782710704848
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -950,16 +982,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-88c261aab84af526@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-ae8795cd9a6cd97a@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20400731
 DTEND;VALUE=DATE:20400801
 SUMMARY:Ističe koncesija: VODOVOD HRVATSKO PRIMORJE
 DESCRIPTION:1 ugovor o koncesiji ističe 31. 7. 2040. Godišnja fiksna nakn
  ada: 179 €.\n\n• VODOVOD HRVATSKO PRIMORJE – Koncesija na pomorskom 
- dobru (RAB)\, 179 €/god.\n\nProfil općine: https://koncesijski-sat.verc
- el.app/#opcina/41942358B47782710704848\nIzvor: Registar koncesija (FINA)\,
-  obrada Koncesijski sat 9. 11. 2026.
+ dobru (RAB) · davatelj: PRIMORSKO GORANSKA ŽUPANIJA\, 179 €/god.\n\nPr
+ ofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B47782710
+ 704848\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2
+ 026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B47782710704848
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -969,17 +1002,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-88c261aab84af526@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-ae8795cd9a6cd97a@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20400131
 DTEND;VALUE=DATE:20400201
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VODOVOD HRVATSKO
   PRIMORJE)
 DESCRIPTION:31. 7. 2040. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
- .\n\n• VODOVOD HRVATSKO PRIMORJE – Koncesija na pomorskom dobru (RAB)\
- , 179 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opci
- na/41942358B47782710704848
+ .\n\n• VODOVOD HRVATSKO PRIMORJE – Koncesija na pomorskom dobru (RAB) 
+ · davatelj: PRIMORSKO GORANSKA ŽUPANIJA\, 179 €/god.\n\nProfil općine
+ : https://koncesijski-sat.vercel.app/#opcina/41942358B47782710704848
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B47782710704848
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -990,16 +1023,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-526181d8efc79574@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-1c6a3647e37a9b46@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20401119
 DTEND;VALUE=DATE:20401120
 SUMMARY:Ističe koncesija: VRELO D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 19. 11. 2040. Godišnja fiksna nak
  nada: 92 €.\n\n• VRELO D.O.O. – Koncesija pomorskog dobra u svrhu iz
- gradnje i gospodarskog korištenja (RAB)\, 92 €/god.\n\nProfil općine: 
- https://koncesijski-sat.vercel.app/#opcina/41942358B47782710704848\nIzvor:
-  Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ gradnje i gospodarskog korištenja (RAB) · davatelj: ŽUPANIJSKA LUČKA U
+ PRAVA RAB\, 92 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.
+ app/#opcina/41942358B47782710704848\nIzvor: Registar koncesija (FINA)\, ob
+ rada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B47782710704848
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1009,16 +1043,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-526181d8efc79574@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-1c6a3647e37a9b46@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20400519
 DTEND;VALUE=DATE:20400520
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VRELO D.O.O.)
 DESCRIPTION:19. 11. 2040. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• VRELO D.O.O. – Koncesija pomorskog dobra u svrhu izgradnje i g
- ospodarskog korištenja (RAB)\, 92 €/god.\n\nProfil općine: https://kon
- cesijski-sat.vercel.app/#opcina/41942358B47782710704848
+ ospodarskog korištenja (RAB) · davatelj: ŽUPANIJSKA LUČKA UPRAVA RAB\,
+  92 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina
+ /41942358B47782710704848
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B47782710704848
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1029,17 +1064,18 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-ee77eec3eaaf845b@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-55f7a1fe9447195f@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20410420
 DTEND;VALUE=DATE:20410421
 SUMMARY:Ističe koncesija: LEUT\, OBRT ZA USLUGE I IZNAJMLJIVANJE PLOVILA\,
   VL. FRANJO JUREŠA
 DESCRIPTION:1 ugovor o koncesiji ističe 20. 4. 2041. Godišnja fiksna nakn
  ada: 2.654 €.\n\n• LEUT\, OBRT ZA USLUGE I IZNAJMLJIVANJE PLOVILA\, VL
- . FRANJO JUREŠA – Koncesija za luku (RAB)\, 2.654 €/god.\n\nProfil op
- ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B47782710704848\
- nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ . FRANJO JUREŠA – Koncesija za luku (RAB) · davatelj: ŽUPANIJSKA LUČ
+ KA UPRAVA RAB\, 2.654 €/god.\n\nProfil općine: https://koncesijski-sat.
+ vercel.app/#opcina/41942358B47782710704848\nIzvor: Registar koncesija (FIN
+ A)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B47782710704848
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1050,8 +1086,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-ee77eec3eaaf845b@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-55f7a1fe9447195f@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20401020
 DTEND;VALUE=DATE:20401021
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (LEUT\, OBRT ZA U
@@ -1059,8 +1095,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (LEUT\, OBRT ZA U
 DESCRIPTION:20. 4. 2041. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• LEUT\, OBRT ZA USLUGE I IZNAJMLJIVANJE PLOVILA\, VL. FRANJO JURE
- ŠA – Koncesija za luku (RAB)\, 2.654 €/god.\n\nProfil općine: https:
- //koncesijski-sat.vercel.app/#opcina/41942358B47782710704848
+ ŠA – Koncesija za luku (RAB) · davatelj: ŽUPANIJSKA LUČKA UPRAVA RAB
+ \, 2.654 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#o
+ pcina/41942358B47782710704848
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B47782710704848
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1071,14 +1108,136 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-d3d3b8b700123902@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-c64c34e6d0e3655f@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20410830
 DTEND;VALUE=DATE:20410831
 SUMMARY:Ističe koncesija: IMPERIAL RIVIERA D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 30. 8. 2041. Godišnja fiksna nakn
  ada: 17.618 €.\n\n• IMPERIAL RIVIERA D.D. – Koncesija pomorskog dobr
- a u svrhu izgradnje i gospodarskog korištenja (RAB)\, 17.618 €/god.\n\n
+ a u svrhu izgradnje i gospodarskog korištenja (RAB) · davatelj: PRIMORSK
+ O GORANSKA ŽUPANIJA\, 17.618 €/god.\n\nProfil općine: https://koncesij
+ ski-sat.vercel.app/#opcina/41942358B47782710704848\nIzvor: Registar konces
+ ija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B47782710704848
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: IMPERIAL RIVIERA D.D.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-c64c34e6d0e3655f@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20410228
+DTEND;VALUE=DATE:20410301
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (IMPERIAL RIVIERA
+  D.D.)
+DESCRIPTION:30. 8. 2041. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• IMPERIAL RIVIERA D.D. – Koncesija pomorskog dobra u svrhu izgra
+ dnje i gospodarskog korištenja (RAB) · davatelj: PRIMORSKO GORANSKA ŽUP
+ ANIJA\, 17.618 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.
+ app/#opcina/41942358B47782710704848
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B47782710704848
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (IMPERIAL RIV
+ IERA D.D.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-03773c50e28fdceb@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20430601
+DTEND;VALUE=DATE:20430602
+SUMMARY:Ističe koncesija: LUČICA D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 1. 6. 2043. Godišnja fiksna nakna
+ da: 6.636 €.\n\n• LUČICA D.O.O. – Koncesija pomorskog dobra u svrhu
+  gospodarskog korištenja luke (RAB) · davatelj: ŽUPANIJSKA LUČKA UPRAV
+ A RAB\, 6.636 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.a
+ pp/#opcina/41942358B47782710704848\nIzvor: Registar koncesija (FINA)\, obr
+ ada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B47782710704848
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: LUČICA D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-03773c50e28fdceb@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20421201
+DTEND;VALUE=DATE:20421202
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (LUČICA D.O.O.)
+DESCRIPTION:1. 6. 2043. ističe 1 ugovor o koncesiji. Novi postupak dodjele
+  treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
+ \n\n• LUČICA D.O.O. – Koncesija pomorskog dobra u svrhu gospodarskog 
+ korištenja luke (RAB) · davatelj: ŽUPANIJSKA LUČKA UPRAVA RAB\, 6.636 
+ €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
+ 42358B47782710704848
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B47782710704848
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (LUČICA D.O.
+ O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-efd733775b5dd629@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20441231
+DTEND;VALUE=DATE:20450101
+SUMMARY:Ističe koncesija: DRAGAN PERKIĆ
+DESCRIPTION:1 ugovor o koncesiji ističe 31. 12. 2044. Godišnja fiksna nak
+ nada: 133 €.\n\n• DRAGAN PERKIĆ – Koncesija za luku (RAB) · davate
+ lj: ŽUPANIJSKA LUČKA UPRAVA RAB\, 133 €/god.\n\nProfil općine: https:
+ //koncesijski-sat.vercel.app/#opcina/41942358B47782710704848\nIzvor: Regis
+ tar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B47782710704848
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: DRAGAN PERKIĆ
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-efd733775b5dd629@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20440630
+DTEND;VALUE=DATE:20440701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DRAGAN PERKIĆ)
+DESCRIPTION:31. 12. 2044. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• DRAGAN PERKIĆ – Koncesija za luku (RAB) · davatelj: ŽUPANIJ
+ SKA LUČKA UPRAVA RAB\, 133 €/god.\n\nProfil općine: https://koncesijsk
+ i-sat.vercel.app/#opcina/41942358B47782710704848
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B47782710704848
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DRAGAN PERKI
+ Ć)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-be8e28dc0c1f8ef4@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20450324
+DTEND;VALUE=DATE:20450325
+SUMMARY:Ističe koncesija: IMPERIAL RIVIERA D.D.
+DESCRIPTION:1 ugovor o koncesiji ističe 24. 3. 2045. Godišnja fiksna nakn
+ ada: 96.549 €.\n\n• IMPERIAL RIVIERA D.D. – Koncesija na pomorskom d
+ obru (RAB) · davatelj: PRIMORSKO GORANSKA ŽUPANIJA\, 96.549 €/god.\n\n
  Profil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B477827
  10704848\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11.
   2026.
@@ -1091,16 +1250,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-d3d3b8b700123902@koncesijski-sat
-DTSTAMP:20261109T134442Z
-DTSTART;VALUE=DATE:20410228
-DTEND;VALUE=DATE:20410301
+UID:priprema-be8e28dc0c1f8ef4@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20440924
+DTEND;VALUE=DATE:20440925
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (IMPERIAL RIVIERA
   D.D.)
-DESCRIPTION:30. 8. 2041. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+DESCRIPTION:24. 3. 2045. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
- .\n\n• IMPERIAL RIVIERA D.D. – Koncesija pomorskog dobra u svrhu izgra
- dnje i gospodarskog korištenja (RAB)\, 17.618 €/god.\n\nProfil općine:
+ .\n\n• IMPERIAL RIVIERA D.D. – Koncesija na pomorskom dobru (RAB) · d
+ avatelj: PRIMORSKO GORANSKA ŽUPANIJA\, 96.549 €/god.\n\nProfil općine:
   https://koncesijski-sat.vercel.app/#opcina/41942358B47782710704848
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B47782710704848
 TRANSP:TRANSPARENT
@@ -1112,134 +1271,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-f0eb52a27d5153c2@koncesijski-sat
-DTSTAMP:20261109T134442Z
-DTSTART;VALUE=DATE:20430601
-DTEND;VALUE=DATE:20430602
-SUMMARY:Ističe koncesija: LUČICA D.O.O.
-DESCRIPTION:1 ugovor o koncesiji ističe 1. 6. 2043. Godišnja fiksna nakna
- da: 6.636 €.\n\n• LUČICA D.O.O. – Koncesija pomorskog dobra u svrhu
-  gospodarskog korištenja luke (RAB)\, 6.636 €/god.\n\nProfil općine: h
- ttps://koncesijski-sat.vercel.app/#opcina/41942358B47782710704848\nIzvor: 
- Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#opcina/41942358B47782710704848
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Ističe koncesija: LUČICA D.O.O.
-TRIGGER:-P7D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:priprema-f0eb52a27d5153c2@koncesijski-sat
-DTSTAMP:20261109T134442Z
-DTSTART;VALUE=DATE:20421201
-DTEND;VALUE=DATE:20421202
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (LUČICA D.O.O.)
-DESCRIPTION:1. 6. 2043. ističe 1 ugovor o koncesiji. Novi postupak dodjele
-  treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
- \n\n• LUČICA D.O.O. – Koncesija pomorskog dobra u svrhu gospodarskog 
- korištenja luke (RAB)\, 6.636 €/god.\n\nProfil općine: https://koncesi
- jski-sat.vercel.app/#opcina/41942358B47782710704848
-URL:https://koncesijski-sat.vercel.app/#opcina/41942358B47782710704848
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (LUČICA D.O.
- O.)
-TRIGGER:-P7D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:istek-9e24aa1fec6ebe1d@koncesijski-sat
-DTSTAMP:20261109T134442Z
-DTSTART;VALUE=DATE:20441231
-DTEND;VALUE=DATE:20450101
-SUMMARY:Ističe koncesija: DRAGAN PERKIĆ
-DESCRIPTION:1 ugovor o koncesiji ističe 31. 12. 2044. Godišnja fiksna nak
- nada: 133 €.\n\n• DRAGAN PERKIĆ – Koncesija za luku (RAB)\, 133 €
- /god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419423
- 58B47782710704848\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski s
- at 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#opcina/41942358B47782710704848
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Ističe koncesija: DRAGAN PERKIĆ
-TRIGGER:-P7D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:priprema-9e24aa1fec6ebe1d@koncesijski-sat
-DTSTAMP:20261109T134442Z
-DTSTART;VALUE=DATE:20440630
-DTEND;VALUE=DATE:20440701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DRAGAN PERKIĆ)
-DESCRIPTION:31. 12. 2044. ističe 1 ugovor o koncesiji. Novi postupak dodje
- le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
- a.\n\n• DRAGAN PERKIĆ – Koncesija za luku (RAB)\, 133 €/god.\n\nPro
- fil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B477827107
- 04848
-URL:https://koncesijski-sat.vercel.app/#opcina/41942358B47782710704848
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DRAGAN PERKI
- Ć)
-TRIGGER:-P7D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:istek-6325bfb131f54968@koncesijski-sat
-DTSTAMP:20261109T134442Z
-DTSTART;VALUE=DATE:20450324
-DTEND;VALUE=DATE:20450325
-SUMMARY:Ističe koncesija: IMPERIAL RIVIERA D.D.
-DESCRIPTION:1 ugovor o koncesiji ističe 24. 3. 2045. Godišnja fiksna nakn
- ada: 96.549 €.\n\n• IMPERIAL RIVIERA D.D. – Koncesija na pomorskom d
- obru (RAB)\, 96.549 €/god.\n\nProfil općine: https://koncesijski-sat.ve
- rcel.app/#opcina/41942358B47782710704848\nIzvor: Registar koncesija (FINA)
- \, obrada Koncesijski sat 9. 11. 2026.
-URL:https://koncesijski-sat.vercel.app/#opcina/41942358B47782710704848
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Ističe koncesija: IMPERIAL RIVIERA D.D.
-TRIGGER:-P7D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:priprema-6325bfb131f54968@koncesijski-sat
-DTSTAMP:20261109T134442Z
-DTSTART;VALUE=DATE:20440924
-DTEND;VALUE=DATE:20440925
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (IMPERIAL RIVIERA
-  D.D.)
-DESCRIPTION:24. 3. 2045. ističe 1 ugovor o koncesiji. Novi postupak dodjel
- e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
- .\n\n• IMPERIAL RIVIERA D.D. – Koncesija na pomorskom dobru (RAB)\, 96
- .549 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcin
- a/41942358B47782710704848
-URL:https://koncesijski-sat.vercel.app/#opcina/41942358B47782710704848
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (IMPERIAL RIV
- IERA D.D.)
-TRIGGER:-P7D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:istek-b8b942bd2ac8d8c6@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-63e851c7a0047b01@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20601015
 DTEND;VALUE=DATE:20601016
 SUMMARY:Ističe koncesija: DRŽAVNI HIDROMETEOROLOŠKI ZAVOD
 DESCRIPTION:1 ugovor o koncesiji ističe 15. 10. 2060. Godišnja fiksna nak
  nada: 12 €.\n\n• DRŽAVNI HIDROMETEOROLOŠKI ZAVOD – Koncesija na po
- morskom dobru (RAB)\, 12 €/god.\n\nProfil općine: https://koncesijski-s
- at.vercel.app/#opcina/41942358B47782710704848\nIzvor: Registar koncesija (
- FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ morskom dobru (RAB) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKT
+ URE\, 12 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#o
+ pcina/41942358B47782710704848\nIzvor: Registar koncesija (FINA)\, obrada K
+ oncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B47782710704848
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1249,8 +1291,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-b8b942bd2ac8d8c6@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-63e851c7a0047b01@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20600415
 DTEND;VALUE=DATE:20600416
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DRŽAVNI HIDROME
@@ -1258,8 +1300,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DRŽAVNI HIDROME
 DESCRIPTION:15. 10. 2060. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• DRŽAVNI HIDROMETEOROLOŠKI ZAVOD – Koncesija na pomorskom dob
- ru (RAB)\, 12 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.a
- pp/#opcina/41942358B47782710704848
+ ru (RAB) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\, 12 
+ €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
+ 42358B47782710704848
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B47782710704848
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1270,16 +1313,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-e355e142c2fd6328@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-78d5d14ccccdbc10@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20760717
 DTEND;VALUE=DATE:20760718
 SUMMARY:Ističe koncesija: HRVATSKI TELEKOM D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 17. 7. 2076. Godišnja fiksna nakn
  ada: 3.468 €.\n\n• HRVATSKI TELEKOM D.D. – Posebna upotreba pomorsko
- g dobra (RAB)\, 3.468 €/god.\n\nProfil općine: https://koncesijski-sat.
- vercel.app/#opcina/41942358B47782710704848\nIzvor: Registar koncesija (FIN
- A)\, obrada Koncesijski sat 9. 11. 2026.
+ g dobra (RAB) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\, 
+ 3.468 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opci
+ na/41942358B47782710704848\nIzvor: Registar koncesija (FINA)\, obrada Konc
+ esijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B47782710704848
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1289,17 +1333,18 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-e355e142c2fd6328@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-78d5d14ccccdbc10@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20760117
 DTEND;VALUE=DATE:20760118
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKI TELEKOM
   D.D.)
 DESCRIPTION:17. 7. 2076. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
- .\n\n• HRVATSKI TELEKOM D.D. – Posebna upotreba pomorskog dobra (RAB)\
- , 3.468 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#op
- cina/41942358B47782710704848
+ .\n\n• HRVATSKI TELEKOM D.D. – Posebna upotreba pomorskog dobra (RAB) 
+ · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\, 3.468 €/god.
+ \n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B47
+ 782710704848
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B47782710704848
 TRANSP:TRANSPARENT
 BEGIN:VALARM

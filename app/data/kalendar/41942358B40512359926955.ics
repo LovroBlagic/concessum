@@ -4,23 +4,24 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Grad Čazma
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Grad Čazma. Iz Registra
-  koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podataka
- . https://koncesijski-sat.vercel.app/#opcina/41942358B40512359926955
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Grad Čazma (pregled\, s
+ vi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježava se n
+ akon svake obrade podataka. https://koncesijski-sat.vercel.app/#opcina/419
+ 42358B40512359926955
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-80707e8e1f1c2d7b@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-60c159d726637db3@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
 SUMMARY:Ističe koncesija: INA-INDUSTRIJA NAFTE  D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 31. 12. 2026.\n\n• INA-INDUSTRIJ
  A NAFTE  D.D. – Dozvola za eksploataciju ugljikovodika (prema Zakonu o u
- gljikovodicima) (ČAZMA)\n\nProfil općine: https://koncesijski-sat.vercel
- .app/#opcina/41942358B40512359926955\nIzvor: Registar koncesija (FINA)\, o
- brada Koncesijski sat 9. 11. 2026.
+ gljikovodicima) (ČAZMA) · davatelj: MINISTARSTVO GOSPODARSTVA\n\nProfil 
+ općine: https://koncesijski-sat.vercel.app/#opcina/41942358B4051235992695
+ 5\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B40512359926955
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -30,17 +31,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-dd93b2a55f91fbed@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-3ed74c54495acbef@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20271113
 DTEND;VALUE=DATE:20271114
 SUMMARY:Ističe koncesija: ASPECT CROATIA KFT.
 DESCRIPTION:1 ugovor o koncesiji ističe 13. 11. 2027. Godišnja fiksna nak
  nada: 12.656 €.\n\n• ASPECT CROATIA KFT. – Dozvola za istraživanje 
- ugljikovodika (prema Zakonu o ugljikovodicima) (ČAZMA)\, 12.656 €/god.\
- n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B405
- 12359926955\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 
- 11. 2026.
+ ugljikovodika (prema Zakonu o ugljikovodicima) (ČAZMA) · davatelj: MINIS
+ TARSTVO GOSPODARSTVA\, 12.656 €/god.\n\nProfil općine: https://koncesij
+ ski-sat.vercel.app/#opcina/41942358B40512359926955\nIzvor: Registar konces
+ ija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B40512359926955
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -50,8 +51,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-dd93b2a55f91fbed@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-3ed74c54495acbef@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270513
 DTEND;VALUE=DATE:20270514
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ASPECT CROATIA K
@@ -59,8 +60,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ASPECT CROATIA K
 DESCRIPTION:13. 11. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• ASPECT CROATIA KFT. – Dozvola za istraživanje ugljikovodika (
- prema Zakonu o ugljikovodicima) (ČAZMA)\, 12.656 €/god.\n\nProfil opći
- ne: https://koncesijski-sat.vercel.app/#opcina/41942358B40512359926955
+ prema Zakonu o ugljikovodicima) (ČAZMA) · davatelj: MINISTARSTVO GOSPODA
+ RSTVA\, 12.656 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.
+ app/#opcina/41942358B40512359926955
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B40512359926955
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -71,19 +73,21 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-0232ba0a63ad83a7@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-34271d32ad161e68@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20281231
 DTEND;VALUE=DATE:20290101
 SUMMARY:Ističe 3 koncesije · Čazma
 DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2028. Godišnja fiksna na
  knada: 932 €.\n\n• GARJEVICAKAMEN D.O.O. – Koncesija za površinu ut
  vrđenog eksploatacijskog polja neenergetskih mineralnih sirovina (ČAZMA)
- \, 932 €/god.\n• GARJEVICAKAMEN D.O.O. – Koncesija za eksploataciju 
- tehničko-građevnog kamena (ČAZMA)\n• GARJEVICAKAMEN D.O.O. – Konces
- ija za eksploataciju tehničko-građevnog kamena (ČAZMA)\n\nProfil općin
- e: https://koncesijski-sat.vercel.app/#opcina/41942358B40512359926955\nIzv
- or: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+  · davatelj: MINISTARSTVO GOSPODARSTVA\, 932 €/god.\n• GARJEVICAKAMEN
+  D.O.O. – Koncesija za eksploataciju tehničko-građevnog kamena (ČAZMA
+ ) · davatelj: MINISTARSTVO GOSPODARSTVA\n• GARJEVICAKAMEN D.O.O. – Ko
+ ncesija za eksploataciju tehničko-građevnog kamena (ČAZMA) · davatelj:
+  MINISTARSTVO GOSPODARSTVA\n\nProfil općine: https://koncesijski-sat.verc
+ el.app/#opcina/41942358B40512359926955\nIzvor: Registar koncesija (FINA)\,
+  obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B40512359926955
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -93,38 +97,41 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-0232ba0a63ad83a7@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-34271d32ad161e68@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20280630
 DTEND;VALUE=DATE:20280701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Čazma
 DESCRIPTION:31. 12. 2028. ističe 3 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• GARJEVICAKAMEN D.O.O. – Koncesija za površinu utvrđenog eks
- ploatacijskog polja neenergetskih mineralnih sirovina (ČAZMA)\, 932 €/g
- od.\n• GARJEVICAKAMEN D.O.O. – Koncesija za eksploataciju tehničko-gr
- ađevnog kamena (ČAZMA)\n• GARJEVICAKAMEN D.O.O. – Koncesija za ekspl
- oataciju tehničko-građevnog kamena (ČAZMA)\n\nProfil općine: https://k
- oncesijski-sat.vercel.app/#opcina/41942358B40512359926955
+ ploatacijskog polja neenergetskih mineralnih sirovina (ČAZMA) · davatelj
+ : MINISTARSTVO GOSPODARSTVA\, 932 €/god.\n• GARJEVICAKAMEN D.O.O. – 
+ Koncesija za eksploataciju tehničko-građevnog kamena (ČAZMA) · davatel
+ j: MINISTARSTVO GOSPODARSTVA\n• GARJEVICAKAMEN D.O.O. – Koncesija za e
+ ksploataciju tehničko-građevnog kamena (ČAZMA) · davatelj: MINISTARSTV
+ O GOSPODARSTVA\n\nProfil općine: https://koncesijski-sat.vercel.app/#opci
+ na/41942358B40512359926955
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B40512359926955
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Čazma
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-eb1537704de5573c@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-0f852caf6c5b86c1@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20300524
 DTEND;VALUE=DATE:20300525
 SUMMARY:Ističe koncesija: ČAPLIN D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 24. 5. 2030.\n\n• ČAPLIN D.O.O.
   – Koncesija za obavljanje distribucije plina na postojećem distribucij
- skom sustavu (ČAZMA)\n\nProfil općine: https://koncesijski-sat.vercel.ap
- p/#opcina/41942358B40512359926955\nIzvor: Registar koncesija (FINA)\, obra
- da Koncesijski sat 9. 11. 2026.
+ skom sustavu (ČAZMA) · davatelj: BJELOVARSKO-BILOGORSKA ŽUPANIJA\n\nPro
+ fil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B405123599
+ 26955\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 20
+ 26.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B40512359926955
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -134,16 +141,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-eb1537704de5573c@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-0f852caf6c5b86c1@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20291124
 DTEND;VALUE=DATE:20291125
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ČAPLIN D.O.O.)
 DESCRIPTION:24. 5. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• ČAPLIN D.O.O. – Koncesija za obavljanje distribucije plina na 
- postojećem distribucijskom sustavu (ČAZMA)\n\nProfil općine: https://ko
- ncesijski-sat.vercel.app/#opcina/41942358B40512359926955
+ postojećem distribucijskom sustavu (ČAZMA) · davatelj: BJELOVARSKO-BILO
+ GORSKA ŽUPANIJA\n\nProfil općine: https://koncesijski-sat.vercel.app/#op
+ cina/41942358B40512359926955
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B40512359926955
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -154,20 +162,22 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-81f205a2214823ce@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-ce0e7268d090ac9a@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20371231
 DTEND;VALUE=DATE:20380101
 SUMMARY:Ističe 3 koncesije · Čazma
 DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2037. Godišnja fiksna na
  knada: 17.415 €.\n\n• ZG MINERALNE SIROVINE D.O.O. – Koncesija za ek
- sploataciju tehničko-građevnog kamena (ČAZMA)\, 5.805 €/god.\n• ZG 
- MINERALNE SIROVINE  D.O.O. – Koncesija za eksploataciju tehničko-građe
- vnog kamena (ČAZMA)\, 5.805 €/god.\n• ZG MINERALNE SIROVINE D.O.O. 
- – Koncesija za površinu utvrđenog eksploatacijskog polja neenergetskih
-  mineralnih sirovina (ČAZMA)\, 5.805 €/god.\n\nProfil općine: https://
- koncesijski-sat.vercel.app/#opcina/41942358B40512359926955\nIzvor: Regista
- r koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ sploataciju tehničko-građevnog kamena (ČAZMA) · davatelj: MINISTARSTVO
+  GOSPODARSTVA\, 5.805 €/god.\n• ZG MINERALNE SIROVINE  D.O.O. – Konc
+ esija za eksploataciju tehničko-građevnog kamena (ČAZMA) · davatelj: M
+ INISTARSTVO GOSPODARSTVA\, 5.805 €/god.\n• ZG MINERALNE SIROVINE D.O.O
+ . – Koncesija za površinu utvrđenog eksploatacijskog polja neenergetsk
+ ih mineralnih sirovina (ČAZMA) · davatelj: MINISTARSTVO GOSPODARSTVA\, 5
+ .805 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcin
+ a/41942358B40512359926955\nIzvor: Registar koncesija (FINA)\, obrada Konce
+ sijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B40512359926955
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -177,40 +187,42 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-81f205a2214823ce@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-ce0e7268d090ac9a@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20370630
 DTEND;VALUE=DATE:20370701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Čazma
 DESCRIPTION:31. 12. 2037. ističe 3 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• ZG MINERALNE SIROVINE D.O.O. – Koncesija za eksploataciju teh
- ničko-građevnog kamena (ČAZMA)\, 5.805 €/god.\n• ZG MINERALNE SIROV
- INE  D.O.O. – Koncesija za eksploataciju tehničko-građevnog kamena (Č
- AZMA)\, 5.805 €/god.\n• ZG MINERALNE SIROVINE D.O.O. – Koncesija za 
- površinu utvrđenog eksploatacijskog polja neenergetskih mineralnih sirov
- ina (ČAZMA)\, 5.805 €/god.\n\nProfil općine: https://koncesijski-sat.v
- ercel.app/#opcina/41942358B40512359926955
+ ničko-građevnog kamena (ČAZMA) · davatelj: MINISTARSTVO GOSPODARSTVA\,
+  5.805 €/god.\n• ZG MINERALNE SIROVINE  D.O.O. – Koncesija za eksplo
+ ataciju tehničko-građevnog kamena (ČAZMA) · davatelj: MINISTARSTVO GOS
+ PODARSTVA\, 5.805 €/god.\n• ZG MINERALNE SIROVINE D.O.O. – Koncesija
+  za površinu utvrđenog eksploatacijskog polja neenergetskih mineralnih s
+ irovina (ČAZMA) · davatelj: MINISTARSTVO GOSPODARSTVA\, 5.805 €/god.\n
+ \nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B4051
+ 2359926955
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B40512359926955
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Čazma
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-bac75f98f984efad@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-f3a1878f6b94586a@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20411108
 DTEND;VALUE=DATE:20411109
 SUMMARY:Ističe koncesija: AGRARIA-GLINOKOP D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 8. 11. 2041. Godišnja fiksna nakn
  ada: 3.190 €.\n\n• AGRARIA-GLINOKOP D.O.O. – Koncesija za površinu 
  utvrđenog eksploatacijskog polja neenergetskih mineralnih sirovina (ČAZM
- A)\, 3.190 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/
- #opcina/41942358B40512359926955\nIzvor: Registar koncesija (FINA)\, obrada
-  Koncesijski sat 9. 11. 2026.
+ A) · davatelj: MINISTARSTVO GOSPODARSTVA\, 3.190 €/god.\n\nProfil opći
+ ne: https://koncesijski-sat.vercel.app/#opcina/41942358B40512359926955\nIz
+ vor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B40512359926955
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -220,8 +232,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-bac75f98f984efad@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-f3a1878f6b94586a@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20410508
 DTEND;VALUE=DATE:20410509
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (AGRARIA-GLINOKOP
@@ -229,9 +241,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (AGRARIA-GLINOKOP
 DESCRIPTION:8. 11. 2041. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• AGRARIA-GLINOKOP D.O.O. – Koncesija za površinu utvrđenog eks
- ploatacijskog polja neenergetskih mineralnih sirovina (ČAZMA)\, 3.190 €
- /god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419423
- 58B40512359926955
+ ploatacijskog polja neenergetskih mineralnih sirovina (ČAZMA) · davatelj
+ : MINISTARSTVO GOSPODARSTVA\, 3.190 €/god.\n\nProfil općine: https://ko
+ ncesijski-sat.vercel.app/#opcina/41942358B40512359926955
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B40512359926955
 TRANSP:TRANSPARENT
 BEGIN:VALARM

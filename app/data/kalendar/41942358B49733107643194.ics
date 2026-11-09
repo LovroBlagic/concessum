@@ -4,25 +4,26 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Općina Slivno
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Slivno. Iz Regis
- tra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podat
- aka. https://koncesijski-sat.vercel.app/#opcina/41942358B49733107643194
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Općina Slivno (pregled\
+ , svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježava s
+ e nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#opcina/
+ 41942358B49733107643194
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-d5c994d7c3458b22@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-2ad30004357d80f3@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20280930
 DTEND;VALUE=DATE:20281001
 SUMMARY:Ističe koncesija: URBAN JUNGLE\, OBRT ZA UGOSTITELJSTVO I TURIZAM\
  , VL. MIRELA GOLUŽA
 DESCRIPTION:1 ugovor o koncesiji ističe 30. 9. 2028. Godišnja fiksna nakn
  ada: 4.464 €.\n\n• URBAN JUNGLE\, OBRT ZA UGOSTITELJSTVO I TURIZAM\, V
- L. MIRELA GOLUŽA – Koncesija na pomorskom dobru (SLIVNO)\, 4.464 €/go
- d.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B
- 49733107643194\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 
- 9. 11. 2026.
+ L. MIRELA GOLUŽA – Koncesija na pomorskom dobru (SLIVNO) · davatelj: D
+ UBROVAČKO-NERETVANSKA ŽUPANIJA\, 4.464 €/god.\n\nProfil općine: https
+ ://koncesijski-sat.vercel.app/#opcina/41942358B49733107643194\nIzvor: Regi
+ star koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B49733107643194
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -33,8 +34,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-d5c994d7c3458b22@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-2ad30004357d80f3@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20280330
 DTEND;VALUE=DATE:20280331
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (URBAN JUNGLE\, O
@@ -42,8 +43,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (URBAN JUNGLE\, O
 DESCRIPTION:30. 9. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• URBAN JUNGLE\, OBRT ZA UGOSTITELJSTVO I TURIZAM\, VL. MIRELA GOLU
- ŽA – Koncesija na pomorskom dobru (SLIVNO)\, 4.464 €/god.\n\nProfil o
- pćine: https://koncesijski-sat.vercel.app/#opcina/41942358B49733107643194
+ ŽA – Koncesija na pomorskom dobru (SLIVNO) · davatelj: DUBROVAČKO-NER
+ ETVANSKA ŽUPANIJA\, 4.464 €/god.\n\nProfil općine: https://koncesijski
+ -sat.vercel.app/#opcina/41942358B49733107643194
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B49733107643194
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -54,18 +56,18 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-3038b808a609588f@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-e9b729ee2f3b4d33@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20290531
 DTEND;VALUE=DATE:20290601
 SUMMARY:Ističe koncesija: BARTULOVIĆ\, OBRT ZA MORSKU AKVAKULTURU\, VL. I
  VAN BARTULOVIĆ
 DESCRIPTION:1 ugovor o koncesiji ističe 31. 5. 2029. Godišnja fiksna nakn
  ada: 664 €.\n\n• BARTULOVIĆ\, OBRT ZA MORSKU AKVAKULTURU\, VL. IVAN B
- ARTULOVIĆ – Koncesija na pomorskom dobru (SLIVNO)\, 664 €/god.\n\nPro
- fil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B497331076
- 43194\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 20
- 26.
+ ARTULOVIĆ – Koncesija na pomorskom dobru (SLIVNO) · davatelj: DUBROVA
+ ČKO-NERETVANSKA ŽUPANIJA\, 664 €/god.\n\nProfil općine: https://konce
+ sijski-sat.vercel.app/#opcina/41942358B49733107643194\nIzvor: Registar kon
+ cesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B49733107643194
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -76,8 +78,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-3038b808a609588f@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-e9b729ee2f3b4d33@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20281130
 DTEND;VALUE=DATE:20281201
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BARTULOVIĆ\, OB
@@ -85,8 +87,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BARTULOVIĆ\, OB
 DESCRIPTION:31. 5. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• BARTULOVIĆ\, OBRT ZA MORSKU AKVAKULTURU\, VL. IVAN BARTULOVIĆ 
- – Koncesija na pomorskom dobru (SLIVNO)\, 664 €/god.\n\nProfil općine
- : https://koncesijski-sat.vercel.app/#opcina/41942358B49733107643194
+ – Koncesija na pomorskom dobru (SLIVNO) · davatelj: DUBROVAČKO-NERETVA
+ NSKA ŽUPANIJA\, 664 €/god.\n\nProfil općine: https://koncesijski-sat.v
+ ercel.app/#opcina/41942358B49733107643194
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B49733107643194
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -97,18 +100,19 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-fd613d0638dabfd6@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-6c7d93d86f09da35@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20321101
 DTEND;VALUE=DATE:20321102
 SUMMARY:Ističe 2 koncesije · Slivno
 DESCRIPTION:2 ugovora o koncesiji ističe 1. 11. 2032. Godišnja fiksna nak
  nada: 1.394 €.\n\n• PROIZVODNO USLUŽNA ZADRUGA SVETI IVAN – Koncesi
- ja na pomorskom dobru (SLIVNO)\, 730 €/god.\n• IMM\, ŠKOLJKARSKI OBRT
- \, VL. ZORANA MEDIĆ – Koncesija na pomorskom dobru (SLIVNO)\, 664 €/g
- od.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358
- B49733107643194\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat
-  9. 11. 2026.
+ ja na pomorskom dobru (SLIVNO) · davatelj: DUBROVAČKO-NERETVANSKA ŽUPAN
+ IJA\, 730 €/god.\n• IMM\, ŠKOLJKARSKI OBRT\, VL. ZORANA MEDIĆ – Ko
+ ncesija na pomorskom dobru (SLIVNO) · davatelj: DUBROVAČKO-NERETVANSKA 
+ ŽUPANIJA\, 664 €/god.\n\nProfil općine: https://koncesijski-sat.vercel
+ .app/#opcina/41942358B49733107643194\nIzvor: Registar koncesija (FINA)\, o
+ brada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B49733107643194
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -118,37 +122,39 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-fd613d0638dabfd6@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-6c7d93d86f09da35@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20320501
 DTEND;VALUE=DATE:20320502
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Slivno
 DESCRIPTION:1. 11. 2032. ističe 2 ugovora o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• PROIZVODNO USLUŽNA ZADRUGA SVETI IVAN – Koncesija na pomorsko
- m dobru (SLIVNO)\, 730 €/god.\n• IMM\, ŠKOLJKARSKI OBRT\, VL. ZORANA 
- MEDIĆ – Koncesija na pomorskom dobru (SLIVNO)\, 664 €/god.\n\nProfil 
- općine: https://koncesijski-sat.vercel.app/#opcina/41942358B4973310764319
- 4
+ m dobru (SLIVNO) · davatelj: DUBROVAČKO-NERETVANSKA ŽUPANIJA\, 730 €/
+ god.\n• IMM\, ŠKOLJKARSKI OBRT\, VL. ZORANA MEDIĆ – Koncesija na pom
+ orskom dobru (SLIVNO) · davatelj: DUBROVAČKO-NERETVANSKA ŽUPANIJA\, 664
+  €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41
+ 942358B49733107643194
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B49733107643194
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Slivno
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-21b7e29362301120@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-82ce9ca3912e830f@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20350515
 DTEND;VALUE=DATE:20350516
 SUMMARY:Ističe koncesija: UVALA\, KOMARNA\, VL. MARINA VUICA
 DESCRIPTION:1 ugovor o koncesiji ističe 15. 5. 2035. Godišnja fiksna nakn
  ada: 6.100 €.\n\n• UVALA\, KOMARNA\, VL. MARINA VUICA – Koncesija na
-  pomorskom dobru (SLIVNO)\, 6.100 €/god.\n\nProfil općine: https://konc
- esijski-sat.vercel.app/#opcina/41942358B49733107643194\nIzvor: Registar ko
- ncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+  pomorskom dobru (SLIVNO) · davatelj: DUBROVAČKO-NERETVANSKA ŽUPANIJA\,
+  6.100 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opc
+ ina/41942358B49733107643194\nIzvor: Registar koncesija (FINA)\, obrada Kon
+ cesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B49733107643194
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -158,8 +164,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-21b7e29362301120@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-82ce9ca3912e830f@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20341115
 DTEND;VALUE=DATE:20341116
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (UVALA\, KOMARNA\
@@ -167,8 +173,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (UVALA\, KOMARNA\
 DESCRIPTION:15. 5. 2035. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• UVALA\, KOMARNA\, VL. MARINA VUICA – Koncesija na pomorskom dob
- ru (SLIVNO)\, 6.100 €/god.\n\nProfil općine: https://koncesijski-sat.ve
- rcel.app/#opcina/41942358B49733107643194
+ ru (SLIVNO) · davatelj: DUBROVAČKO-NERETVANSKA ŽUPANIJA\, 6.100 €/god
+ .\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B4
+ 9733107643194
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B49733107643194
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -179,19 +186,21 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-4a34dc2cdbbf86bc@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-37c93c21ebdf2edd@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20481231
 DTEND;VALUE=DATE:20490101
 SUMMARY:Ističe 3 koncesije · Slivno
 DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2048. Godišnja fiksna na
  knada: 8.748 €.\n\n• KREMENA D.O.O. – Koncesija za eksploataciju teh
- ničko-građevnog kamena (SLIVNO)\, 4.374 €/god.\n• KREMENA D.O.O. –
-  Koncesija za površinu utvrđenog eksploatacijskog polja neenergetskih mi
- neralnih sirovina (SLIVNO)\, 4.374 €/god.\n• KREMENA D.O.O. – Konces
- ija za eksploataciju tehničko-građevnog kamena (SLIVNO)\n\nProfil općin
- e: https://koncesijski-sat.vercel.app/#opcina/41942358B49733107643194\nIzv
- or: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ ničko-građevnog kamena (SLIVNO) · davatelj: MINISTARSTVO GOSPODARSTVA\,
+  4.374 €/god.\n• KREMENA D.O.O. – Koncesija za površinu utvrđenog 
+ eksploatacijskog polja neenergetskih mineralnih sirovina (SLIVNO) · davat
+ elj: MINISTARSTVO GOSPODARSTVA\, 4.374 €/god.\n• KREMENA D.O.O. – Ko
+ ncesija za eksploataciju tehničko-građevnog kamena (SLIVNO) · davatelj:
+  MINISTARSTVO GOSPODARSTVA\n\nProfil općine: https://koncesijski-sat.verc
+ el.app/#opcina/41942358B49733107643194\nIzvor: Registar koncesija (FINA)\,
+  obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B49733107643194
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -201,38 +210,41 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-4a34dc2cdbbf86bc@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-37c93c21ebdf2edd@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20480630
 DTEND;VALUE=DATE:20480701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Slivno
 DESCRIPTION:31. 12. 2048. ističe 3 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• KREMENA D.O.O. – Koncesija za eksploataciju tehničko-građev
- nog kamena (SLIVNO)\, 4.374 €/god.\n• KREMENA D.O.O. – Koncesija za 
- površinu utvrđenog eksploatacijskog polja neenergetskih mineralnih sirov
- ina (SLIVNO)\, 4.374 €/god.\n• KREMENA D.O.O. – Koncesija za eksploa
- taciju tehničko-građevnog kamena (SLIVNO)\n\nProfil općine: https://kon
- cesijski-sat.vercel.app/#opcina/41942358B49733107643194
+ nog kamena (SLIVNO) · davatelj: MINISTARSTVO GOSPODARSTVA\, 4.374 €/god
+ .\n• KREMENA D.O.O. – Koncesija za površinu utvrđenog eksploatacijsk
+ og polja neenergetskih mineralnih sirovina (SLIVNO) · davatelj: MINISTARS
+ TVO GOSPODARSTVA\, 4.374 €/god.\n• KREMENA D.O.O. – Koncesija za eks
+ ploataciju tehničko-građevnog kamena (SLIVNO) · davatelj: MINISTARSTVO 
+ GOSPODARSTVA\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina
+ /41942358B49733107643194
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B49733107643194
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Slivno
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-ced334d664ac0f62@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-2ce4cc8cecdac854@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20680723
 DTEND;VALUE=DATE:20680724
 SUMMARY:Ističe koncesija: HRVATSKE CESTE D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 23. 7. 2068. Godišnja fiksna nakn
  ada: 1.466 €.\n\n• HRVATSKE CESTE D.O.O. – Koncesija na pomorskom do
- bru (SLIVNO)\, 1.466 €/god.\n\nProfil općine: https://koncesijski-sat.v
- ercel.app/#opcina/41942358B49733107643194\nIzvor: Registar koncesija (FINA
- )\, obrada Koncesijski sat 9. 11. 2026.
+ bru (SLIVNO) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\, 1
+ .466 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcin
+ a/41942358B49733107643194\nIzvor: Registar koncesija (FINA)\, obrada Konce
+ sijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B49733107643194
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -242,17 +254,18 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-ced334d664ac0f62@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-2ce4cc8cecdac854@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20680123
 DTEND;VALUE=DATE:20680124
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKE CESTE D
  .O.O.)
 DESCRIPTION:23. 7. 2068. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
- .\n\n• HRVATSKE CESTE D.O.O. – Koncesija na pomorskom dobru (SLIVNO)\,
-  1.466 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opc
- ina/41942358B49733107643194
+ .\n\n• HRVATSKE CESTE D.O.O. – Koncesija na pomorskom dobru (SLIVNO) 
+ · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\, 1.466 €/god.
+ \n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B49
+ 733107643194
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B49733107643194
 TRANSP:TRANSPARENT
 BEGIN:VALARM

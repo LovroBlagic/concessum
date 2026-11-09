@@ -4,23 +4,25 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Općina Lopar
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Lopar. Iz Regist
- ra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podata
- ka. https://koncesijski-sat.vercel.app/#opcina/41942358B14914879185307
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Općina Lopar (pregled\,
+  svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježava se
+  nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#opcina/4
+ 1942358B14914879185307
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-047a672a1045282b@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-4b9ad7f9ae575d2e@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270915
 DTEND;VALUE=DATE:20270916
 SUMMARY:Ističe koncesija: UGOSTITELJSKI OBRT ARTA\, VL. MARINO PIRIĆ
 DESCRIPTION:1 ugovor o koncesiji ističe 15. 9. 2027. Godišnja fiksna nakn
  ada: 6.742 €.\n\n• UGOSTITELJSKI OBRT ARTA\, VL. MARINO PIRIĆ – Kon
- cesija na pomorskom dobru (LOPAR)\, 6.742 €/god.\n\nProfil općine: http
- s://koncesijski-sat.vercel.app/#opcina/41942358B14914879185307\nIzvor: Reg
- istar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ cesija na pomorskom dobru (LOPAR) · davatelj: PRIMORSKO GORANSKA ŽUPANIJ
+ A\, 6.742 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#
+ opcina/41942358B14914879185307\nIzvor: Registar koncesija (FINA)\, obrada 
+ Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B14914879185307
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -30,8 +32,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-047a672a1045282b@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-4b9ad7f9ae575d2e@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270315
 DTEND;VALUE=DATE:20270316
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (UGOSTITELJSKI OB
@@ -39,8 +41,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (UGOSTITELJSKI OB
 DESCRIPTION:15. 9. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• UGOSTITELJSKI OBRT ARTA\, VL. MARINO PIRIĆ – Koncesija na pomo
- rskom dobru (LOPAR)\, 6.742 €/god.\n\nProfil općine: https://koncesijsk
- i-sat.vercel.app/#opcina/41942358B14914879185307
+ rskom dobru (LOPAR) · davatelj: PRIMORSKO GORANSKA ŽUPANIJA\, 6.742 €/
+ god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4194235
+ 8B14914879185307
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B14914879185307
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -51,17 +54,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-596876b652821f58@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-d7b4df1cafda789f@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20281231
 DTEND;VALUE=DATE:20290101
 SUMMARY:Ističe koncesija: MOBY-DICK VL.MLADEN ŠKAPUL
 DESCRIPTION:1 ugovor o koncesiji ističe 31. 12. 2028. Godišnja fiksna nak
  nada: 2.024 €.\n\n• MOBY-DICK VL.MLADEN ŠKAPUL – Koncesija za obavl
- janje prijevoza putnika cestovnim vlakom (LOPAR)\, 2.024 €/god.\n\nProfi
- l općine: https://koncesijski-sat.vercel.app/#opcina/41942358B14914879185
- 307\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026
- .
+ janje prijevoza putnika cestovnim vlakom (LOPAR) · davatelj: OPĆINA LOPA
+ R\, 2.024 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#
+ opcina/41942358B14914879185307\nIzvor: Registar koncesija (FINA)\, obrada 
+ Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B14914879185307
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -71,8 +74,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-596876b652821f58@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-d7b4df1cafda789f@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20280630
 DTEND;VALUE=DATE:20280701
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MOBY-DICK VL.MLA
@@ -80,8 +83,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MOBY-DICK VL.MLA
 DESCRIPTION:31. 12. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• MOBY-DICK VL.MLADEN ŠKAPUL – Koncesija za obavljanje prijevoz
- a putnika cestovnim vlakom (LOPAR)\, 2.024 €/god.\n\nProfil općine: htt
- ps://koncesijski-sat.vercel.app/#opcina/41942358B14914879185307
+ a putnika cestovnim vlakom (LOPAR) · davatelj: OPĆINA LOPAR\, 2.024 €/
+ god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4194235
+ 8B14914879185307
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B14914879185307
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -92,16 +96,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-7527b798317f0652@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-19aafa9043f1ea76@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20290415
 DTEND;VALUE=DATE:20290416
 SUMMARY:Ističe koncesija: ZIP-LINE J.D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 15. 4. 2029. Godišnja fiksna nakn
  ada: 10.676 €.\n\n• ZIP-LINE J.D.O.O. – Koncesija na pomorskom dobru
-  (LOPAR)\, 10.676 €/god.\n\nProfil općine: https://koncesijski-sat.verc
- el.app/#opcina/41942358B14914879185307\nIzvor: Registar koncesija (FINA)\,
-  obrada Koncesijski sat 9. 11. 2026.
+  (LOPAR) · davatelj: PRIMORSKO GORANSKA ŽUPANIJA\, 10.676 €/god.\n\nPr
+ ofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B14914879
+ 185307\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2
+ 026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B14914879185307
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -111,17 +116,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-7527b798317f0652@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-19aafa9043f1ea76@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20281015
 DTEND;VALUE=DATE:20281016
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ZIP-LINE J.D.O.O
  .)
 DESCRIPTION:15. 4. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
- .\n\n• ZIP-LINE J.D.O.O. – Koncesija na pomorskom dobru (LOPAR)\, 10.6
- 76 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/
- 41942358B14914879185307
+ .\n\n• ZIP-LINE J.D.O.O. – Koncesija na pomorskom dobru (LOPAR) · dav
+ atelj: PRIMORSKO GORANSKA ŽUPANIJA\, 10.676 €/god.\n\nProfil općine: h
+ ttps://koncesijski-sat.vercel.app/#opcina/41942358B14914879185307
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B14914879185307
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -132,16 +137,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-73819504937d09d2@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-6a8e29774e8e2863@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20320909
 DTEND;VALUE=DATE:20320910
 SUMMARY:Ističe koncesija: IMPERIAL RIVIERA D. D.
 DESCRIPTION:1 ugovor o koncesiji ističe 9. 9. 2032. Godišnja fiksna nakna
  da: 21.344 €.\n\n• IMPERIAL RIVIERA D. D. – Koncesija na pomorskom d
- obru (LOPAR)\, 21.344 €/god.\n\nProfil općine: https://koncesijski-sat.
- vercel.app/#opcina/41942358B14914879185307\nIzvor: Registar koncesija (FIN
- A)\, obrada Koncesijski sat 9. 11. 2026.
+ obru (LOPAR) · davatelj: PRIMORSKO GORANSKA ŽUPANIJA\, 21.344 €/god.\n
+ \nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B1491
+ 4879185307\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 1
+ 1. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B14914879185307
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -151,17 +157,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-73819504937d09d2@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-6a8e29774e8e2863@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20320309
 DTEND;VALUE=DATE:20320310
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (IMPERIAL RIVIERA
   D. D.)
 DESCRIPTION:9. 9. 2032. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
- \n\n• IMPERIAL RIVIERA D. D. – Koncesija na pomorskom dobru (LOPAR)\, 
- 21.344 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opc
- ina/41942358B14914879185307
+ \n\n• IMPERIAL RIVIERA D. D. – Koncesija na pomorskom dobru (LOPAR) ·
+  davatelj: PRIMORSKO GORANSKA ŽUPANIJA\, 21.344 €/god.\n\nProfil općin
+ e: https://koncesijski-sat.vercel.app/#opcina/41942358B14914879185307
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B14914879185307
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -172,16 +178,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-4fb85c57b94f842e@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-f792ec3976993214@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20330623
 DTEND;VALUE=DATE:20330624
 SUMMARY:Ističe koncesija: IMPERIAL RIVIERA D. D.
 DESCRIPTION:1 ugovor o koncesiji ističe 23. 6. 2033. Godišnja fiksna nakn
  ada: 19.557 €.\n\n• IMPERIAL RIVIERA D. D. – Koncesija na pomorskom 
- dobru (LOPAR)\, 19.557 €/god.\n\nProfil općine: https://koncesijski-sat
- .vercel.app/#opcina/41942358B14914879185307\nIzvor: Registar koncesija (FI
- NA)\, obrada Koncesijski sat 9. 11. 2026.
+ dobru (LOPAR) · davatelj: PRIMORSKO GORANSKA ŽUPANIJA\, 19.557 €/god.\
+ n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B149
+ 14879185307\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 
+ 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B14914879185307
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -191,17 +198,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-4fb85c57b94f842e@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-f792ec3976993214@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20321223
 DTEND;VALUE=DATE:20321224
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (IMPERIAL RIVIERA
   D. D.)
 DESCRIPTION:23. 6. 2033. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
- .\n\n• IMPERIAL RIVIERA D. D. – Koncesija na pomorskom dobru (LOPAR)\,
-  19.557 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#op
- cina/41942358B14914879185307
+ .\n\n• IMPERIAL RIVIERA D. D. – Koncesija na pomorskom dobru (LOPAR) 
+ · davatelj: PRIMORSKO GORANSKA ŽUPANIJA\, 19.557 €/god.\n\nProfil opć
+ ine: https://koncesijski-sat.vercel.app/#opcina/41942358B14914879185307
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B14914879185307
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -212,17 +219,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-ecbcf900c2004997@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-6ad2a1d5ea61de46@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20440610
 DTEND;VALUE=DATE:20440611
 SUMMARY:Ističe koncesija: NIK LEKAJ\, LEK11\, VL.NIK LEKAJ
 DESCRIPTION:1 ugovor o koncesiji ističe 10. 6. 2044. Godišnja fiksna nakn
  ada: 17.500 €.\n\n• NIK LEKAJ\, LEK11\, VL.NIK LEKAJ – Koncesija za 
- obavljanje ugostiteljske djelatnosti na lučkom području (LOPAR)\, 17.500
-  €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41
- 942358B14914879185307\nIzvor: Registar koncesija (FINA)\, obrada Koncesijs
- ki sat 9. 11. 2026.
+ obavljanje ugostiteljske djelatnosti na lučkom području (LOPAR) · davat
+ elj: ŽUPANIJSKA LUČKA UPRAVA RAB\, 17.500 €/god.\n\nProfil općine: ht
+ tps://koncesijski-sat.vercel.app/#opcina/41942358B14914879185307\nIzvor: R
+ egistar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B14914879185307
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -232,8 +239,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-ecbcf900c2004997@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-6ad2a1d5ea61de46@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20431210
 DTEND;VALUE=DATE:20431211
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (NIK LEKAJ\, LEK1
@@ -241,9 +248,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (NIK LEKAJ\, LEK1
 DESCRIPTION:10. 6. 2044. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• NIK LEKAJ\, LEK11\, VL.NIK LEKAJ – Koncesija za obavljanje ugos
- titeljske djelatnosti na lučkom području (LOPAR)\, 17.500 €/god.\n\nPr
- ofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B14914879
- 185307
+ titeljske djelatnosti na lučkom području (LOPAR) · davatelj: ŽUPANIJSK
+ A LUČKA UPRAVA RAB\, 17.500 €/god.\n\nProfil općine: https://koncesijs
+ ki-sat.vercel.app/#opcina/41942358B14914879185307
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B14914879185307
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -254,17 +261,18 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-a9d47bc522072700@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-e080e7cc2895226f@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20600605
 DTEND;VALUE=DATE:20600606
 SUMMARY:Ističe koncesija: HEP-OPERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 5. 6. 2060. Godišnja fiksna nakna
  da: 1.577 €.\n\n• HEP-OPERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O. – Konc
  esija pomorskog dobra za posebnu upotrebu u svrhu gradnje kabelske veze (L
- OPAR)\, 1.577 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.a
- pp/#opcina/41942358B14914879185307\nIzvor: Registar koncesija (FINA)\, obr
- ada Koncesijski sat 9. 11. 2026.
+ OPAR) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\, 1.577 
+ €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
+ 42358B14914879185307\nIzvor: Registar koncesija (FINA)\, obrada Koncesijsk
+ i sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B14914879185307
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -274,8 +282,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-a9d47bc522072700@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-e080e7cc2895226f@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20591205
 DTEND;VALUE=DATE:20591206
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP-OPERATOR DIS
@@ -283,9 +291,10 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP-OPERATOR DIS
 DESCRIPTION:5. 6. 2060. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• HEP-OPERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O. – Koncesija pomorsko
- g dobra za posebnu upotrebu u svrhu gradnje kabelske veze (LOPAR)\, 1.577 
- €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
- 42358B14914879185307
+ g dobra za posebnu upotrebu u svrhu gradnje kabelske veze (LOPAR) · davat
+ elj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\, 1.577 €/god.\n\nProf
+ il općine: https://koncesijski-sat.vercel.app/#opcina/41942358B1491487918
+ 5307
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B14914879185307
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -296,16 +305,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-c6ea03da59dc81e5@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-f0eaa580243fe175@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20760717
 DTEND;VALUE=DATE:20760718
 SUMMARY:Ističe koncesija: HRVATSKI TELEKOM D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 17. 7. 2076. Godišnja fiksna nakn
  ada: 4.739 €.\n\n• HRVATSKI TELEKOM D.D. – Posebna upotreba pomorsko
- g dobra (LOPAR)\, 4.739 €/god.\n\nProfil općine: https://koncesijski-sa
- t.vercel.app/#opcina/41942358B14914879185307\nIzvor: Registar koncesija (F
- INA)\, obrada Koncesijski sat 9. 11. 2026.
+ g dobra (LOPAR) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\
+ , 4.739 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#op
+ cina/41942358B14914879185307\nIzvor: Registar koncesija (FINA)\, obrada Ko
+ ncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B14914879185307
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -315,8 +325,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-c6ea03da59dc81e5@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-f0eaa580243fe175@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20760117
 DTEND;VALUE=DATE:20760118
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKI TELEKOM
@@ -324,8 +334,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKI TELEKOM
 DESCRIPTION:17. 7. 2076. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• HRVATSKI TELEKOM D.D. – Posebna upotreba pomorskog dobra (LOPAR
- )\, 4.739 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#
- opcina/41942358B14914879185307
+ ) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\, 4.739 €/go
+ d.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B
+ 14914879185307
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B14914879185307
 TRANSP:TRANSPARENT
 BEGIN:VALARM

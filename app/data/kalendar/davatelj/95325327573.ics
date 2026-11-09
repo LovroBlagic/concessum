@@ -1,0 +1,130 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · OPĆINA VILJEVO
+X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje OPĆINA VILJEVO. Iz Regist
+ ra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podata
+ ka. https://koncesijski-sat.vercel.app/#sat
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-0d39182e94a76e9c@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20290801
+DTEND;VALUE=DATE:20290802
+SUMMARY:Ističe koncesija: HEP - PLIN  D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 1. 8. 2029.\n\n• HEP - PLIN  D.O
+ .O. – Koncesija za opskrbu potrošača prirodnim plinom (VILJEVO\, Opći
+ na Viljevo)\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzvo
+ r: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: HEP - PLIN  D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-0d39182e94a76e9c@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20290201
+DTEND;VALUE=DATE:20290202
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP - PLIN  D.O.
+ O.)
+DESCRIPTION:1. 8. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjele
+  treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
+ \n\n• HEP - PLIN  D.O.O. – Koncesija za opskrbu potrošača prirodnim 
+ plinom (VILJEVO\, Općina Viljevo)\n\nŠto ističe: https://koncesijski-sa
+ t.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP - PLIN  
+ D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-31f33a9904393d36@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20360620
+DTEND;VALUE=DATE:20360621
+SUMMARY:Ističe koncesija: ŽITAR D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 20. 6. 2036. Godišnja fiksna nakn
+ ada: 65.637 €.\n\n• ŽITAR D.O.O. – Koncesija za korištenje poljopr
+ ivrednog zemljišta u vlasništvu države (VILJEVO\, Općina Viljevo)\, 65
+ .637 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIz
+ vor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: ŽITAR D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-31f33a9904393d36@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20351220
+DTEND;VALUE=DATE:20351221
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ŽITAR D.O.O.)
+DESCRIPTION:20. 6. 2036. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• ŽITAR D.O.O. – Koncesija za korištenje poljoprivrednog zemlji
+ šta u vlasništvu države (VILJEVO\, Općina Viljevo)\, 65.637 €/god.\n
+ \nŠto ističe: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ŽITAR D.O.O
+ .)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-183fe8c60ef500d0@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20361206
+DTEND;VALUE=DATE:20361207
+SUMMARY:Ističe koncesija: ŽITAR D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 6. 12. 2036. Godišnja fiksna nakn
+ ada: 29.275 €.\n\n• ŽITAR D.O.O. – Koncesija za korištenje poljopr
+ ivrednog zemljišta u vlasništvu države (VILJEVO\, Općina Viljevo)\, 29
+ .275 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIz
+ vor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: ŽITAR D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-183fe8c60ef500d0@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20360606
+DTEND;VALUE=DATE:20360607
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ŽITAR D.O.O.)
+DESCRIPTION:6. 12. 2036. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• ŽITAR D.O.O. – Koncesija za korištenje poljoprivrednog zemlji
+ šta u vlasništvu države (VILJEVO\, Općina Viljevo)\, 29.275 €/god.\n
+ \nŠto ističe: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ŽITAR D.O.O
+ .)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

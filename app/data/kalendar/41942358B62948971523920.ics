@@ -4,23 +4,25 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Grad Hvar
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Grad Hvar. Iz Registra k
- oncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podataka. 
- https://koncesijski-sat.vercel.app/#opcina/41942358B62948971523920
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Grad Hvar (pregled\, svi
+  davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježava se nak
+ on svake obrade podataka. https://koncesijski-sat.vercel.app/#opcina/41942
+ 358B62948971523920
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-3b49fd4993e07576@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-89e79ae4dd7ab61b@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
 SUMMARY:Ističe koncesija: UGO\, OBRT ZA USLUGE\, VL. IVAN MILIČIĆ
 DESCRIPTION:1 ugovor o koncesiji ističe 31. 12. 2026. Godišnja fiksna nak
  nada: 1.000 €.\n\n• UGO\, OBRT ZA USLUGE\, VL. IVAN MILIČIĆ – Konc
- esija za luku (HVAR)\, 1.000 €/god.\n\nProfil općine: https://koncesijs
- ki-sat.vercel.app/#opcina/41942358B62948971523920\nIzvor: Registar koncesi
- ja (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ esija za luku (HVAR) · davatelj: LUČKA UPRAVA SPLITSKO-DALMATINSKE ŽUPA
+ NIJE\, 1.000 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.ap
+ p/#opcina/41942358B62948971523920\nIzvor: Registar koncesija (FINA)\, obra
+ da Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B62948971523920
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -30,19 +32,23 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-391ecdea613b2dba@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-2ecdd2224157fb88@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270531
 DTEND;VALUE=DATE:20270601
 SUMMARY:Ističe 4 koncesije · Hvar
 DESCRIPTION:4 ugovora o koncesiji ističe 31. 5. 2027. Godišnja fiksna nak
  nada: 160.000 €.\n\n• NAUTIČKI CENTAR HVAR\, D.O.O. – Koncesija za 
- luku (HVAR)\, 40.000 €/god.\n• NAUTIČKI CENTAR HVAR\, D.O.O. – Konc
- esija za luku (HVAR)\, 40.000 €/god.\n• NAUTIČKI CENTAR HVAR\, D.O.O.
-  – Koncesija za luku (HVAR)\, 40.000 €/god.\n• NAUTIČKI CENTAR HVAR
- \, D.O.O. – Koncesija za luku (HVAR)\, 40.000 €/god.\n\nProfil općine
- : https://koncesijski-sat.vercel.app/#opcina/41942358B62948971523920\nIzvo
- r: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ luku (HVAR) · davatelj: LUČKA UPRAVA SPLITSKO-DALMATINSKE ŽUPANIJE\, 40
+ .000 €/god.\n• NAUTIČKI CENTAR HVAR\, D.O.O. – Koncesija za luku (H
+ VAR) · davatelj: LUČKA UPRAVA SPLITSKO-DALMATINSKE ŽUPANIJE\, 40.000 
+ €/god.\n• NAUTIČKI CENTAR HVAR\, D.O.O. – Koncesija za luku (HVAR) 
+ · davatelj: LUČKA UPRAVA SPLITSKO-DALMATINSKE ŽUPANIJE\, 40.000 €/god
+ .\n• NAUTIČKI CENTAR HVAR\, D.O.O. – Koncesija za luku (HVAR) · dava
+ telj: LUČKA UPRAVA SPLITSKO-DALMATINSKE ŽUPANIJE\, 40.000 €/god.\n\nPr
+ ofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B62948971
+ 523920\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2
+ 026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B62948971523920
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -52,38 +58,42 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-391ecdea613b2dba@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-2ecdd2224157fb88@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 4 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 4 koncesije · Hvar
 DESCRIPTION:31. 5. 2027. ističe 4 ugovora o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
- a.\n\n• NAUTIČKI CENTAR HVAR\, D.O.O. – Koncesija za luku (HVAR)\, 40
- .000 €/god.\n• NAUTIČKI CENTAR HVAR\, D.O.O. – Koncesija za luku (H
- VAR)\, 40.000 €/god.\n• NAUTIČKI CENTAR HVAR\, D.O.O. – Koncesija z
- a luku (HVAR)\, 40.000 €/god.\n• NAUTIČKI CENTAR HVAR\, D.O.O. – Ko
- ncesija za luku (HVAR)\, 40.000 €/god.\n\nProfil općine: https://konces
- ijski-sat.vercel.app/#opcina/41942358B62948971523920
+ a.\n\n• NAUTIČKI CENTAR HVAR\, D.O.O. – Koncesija za luku (HVAR) · d
+ avatelj: LUČKA UPRAVA SPLITSKO-DALMATINSKE ŽUPANIJE\, 40.000 €/god.\n
+ • NAUTIČKI CENTAR HVAR\, D.O.O. – Koncesija za luku (HVAR) · davatel
+ j: LUČKA UPRAVA SPLITSKO-DALMATINSKE ŽUPANIJE\, 40.000 €/god.\n• NAU
+ TIČKI CENTAR HVAR\, D.O.O. – Koncesija za luku (HVAR) · davatelj: LUČ
+ KA UPRAVA SPLITSKO-DALMATINSKE ŽUPANIJE\, 40.000 €/god.\n• NAUTIČKI 
+ CENTAR HVAR\, D.O.O. – Koncesija za luku (HVAR) · davatelj: LUČKA UPRA
+ VA SPLITSKO-DALMATINSKE ŽUPANIJE\, 40.000 €/god.\n\nProfil općine: htt
+ ps://koncesijski-sat.vercel.app/#opcina/41942358B62948971523920
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B62948971523920
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 4 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 4 koncesije · Hvar
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-aef85801a1323824@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-7626e21e8e234aa2@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20271022
 DTEND;VALUE=DATE:20271023
 SUMMARY:Ističe koncesija: ČIČAK HVAR D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 22. 10. 2027. Godišnja fiksna nak
  nada: 3.000 €.\n\n• ČIČAK HVAR D.O.O. – Koncesija za luku (HVAR\, 
- JELSA\, STARI GRAD)\, 3.000 €/god.\n\nProfil općine: https://koncesijsk
- i-sat.vercel.app/#opcina/41942358B62948971523920\nIzvor: Registar koncesij
- a (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ JELSA\, STARI GRAD) · davatelj: LUČKA UPRAVA SPLITSKO-DALMATINSKE ŽUPAN
+ IJE\, 3.000 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app
+ /#opcina/41942358B62948971523920\nIzvor: Registar koncesija (FINA)\, obrad
+ a Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B62948971523920
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -93,8 +103,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-aef85801a1323824@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-7626e21e8e234aa2@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270422
 DTEND;VALUE=DATE:20270423
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ČIČAK HVAR D.O
@@ -102,8 +112,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ČIČAK HVAR D.O
 DESCRIPTION:22. 10. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• ČIČAK HVAR D.O.O. – Koncesija za luku (HVAR\, JELSA\, STARI 
- GRAD)\, 3.000 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.a
- pp/#opcina/41942358B62948971523920
+ GRAD) · davatelj: LUČKA UPRAVA SPLITSKO-DALMATINSKE ŽUPANIJE\, 3.000 
+ €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
+ 42358B62948971523920
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B62948971523920
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -114,16 +125,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-bbd6485ef161d551@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-a621c8b2bf9a465c@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20300101
 DTEND;VALUE=DATE:20300102
 SUMMARY:Ističe koncesija: KOMUNALNO HVAR D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 1. 1. 2030. Godišnja fiksna nakna
  da: 3 €.\n\n• KOMUNALNO HVAR D.O.O. – Koncesija pomorskog dobra u sv
- rhu izgradnje i gospodarskog korištenja (HVAR)\, 3 €/god.\n\nProfil op
- ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B62948971523920\
- nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ rhu izgradnje i gospodarskog korištenja (HVAR) · davatelj: GRAD HVAR\, 3
+  €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41
+ 942358B62948971523920\nIzvor: Registar koncesija (FINA)\, obrada Koncesijs
+ ki sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B62948971523920
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -133,8 +145,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-bbd6485ef161d551@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-a621c8b2bf9a465c@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20290701
 DTEND;VALUE=DATE:20290702
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (KOMUNALNO HVAR D
@@ -142,8 +154,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (KOMUNALNO HVAR D
 DESCRIPTION:1. 1. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• KOMUNALNO HVAR D.O.O. – Koncesija pomorskog dobra u svrhu izgrad
- nje i gospodarskog korištenja (HVAR)\, 3 €/god.\n\nProfil općine: http
- s://koncesijski-sat.vercel.app/#opcina/41942358B62948971523920
+ nje i gospodarskog korištenja (HVAR) · davatelj: GRAD HVAR\, 3 €/god.\
+ n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B629
+ 48971523920
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B62948971523920
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -154,16 +167,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-8ec844f49de95af4@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-d309f2cefccb8e1b@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20300606
 DTEND;VALUE=DATE:20300607
 SUMMARY:Ističe koncesija: INA\, D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 6. 6. 2030. Godišnja fiksna nakna
- da: 9.665 €.\n\n• INA\, D.D. – Koncesija na pomorskom dobru (HVAR)\,
-  9.665 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opc
- ina/41942358B62948971523920\nIzvor: Registar koncesija (FINA)\, obrada Kon
- cesijski sat 9. 11. 2026.
+ da: 9.665 €.\n\n• INA\, D.D. – Koncesija na pomorskom dobru (HVAR) 
+ · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\, 9.665 €/god.
+ \n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B62
+ 948971523920\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9.
+  11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B62948971523920
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -173,16 +187,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-8ec844f49de95af4@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-d309f2cefccb8e1b@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20291206
 DTEND;VALUE=DATE:20291207
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA\, D.D.)
 DESCRIPTION:6. 6. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
- \n\n• INA\, D.D. – Koncesija na pomorskom dobru (HVAR)\, 9.665 €/god
- .\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B6
- 2948971523920
+ \n\n• INA\, D.D. – Koncesija na pomorskom dobru (HVAR) · davatelj: MI
+ NISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\, 9.665 €/god.\n\nProfil opć
+ ine: https://koncesijski-sat.vercel.app/#opcina/41942358B62948971523920
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B62948971523920
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -192,17 +206,19 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-42ee1e982970ed4f@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-76835842608bb004@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20301231
 DTEND;VALUE=DATE:20310101
 SUMMARY:Ističe 2 koncesije · Hvar
 DESCRIPTION:2 ugovora o koncesiji ističe 31. 12. 2030. Godišnja fiksna na
  knada: 47.122 €.\n\n• ACI D.D. – Koncesija za luku nautičkog turizm
- a (HVAR)\, 23.561 €/god.\n• ACI D.D. – Koncesija pomorskog dobra u s
- vrhu gospodarskog korištenja luke (HVAR)\, 23.561 €/god.\n\nProfil opć
- ine: https://koncesijski-sat.vercel.app/#opcina/41942358B62948971523920\nI
- zvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ a (HVAR) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\, 23.56
+ 1 €/god.\n• ACI D.D. – Koncesija pomorskog dobra u svrhu gospodarsko
+ g korištenja luke (HVAR) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRA
+ STRUKTURE\, 23.561 €/god.\n\nProfil općine: https://koncesijski-sat.ver
+ cel.app/#opcina/41942358B62948971523920\nIzvor: Registar koncesija (FINA)\
+ , obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B62948971523920
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -212,37 +228,40 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-42ee1e982970ed4f@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-76835842608bb004@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20300630
 DTEND;VALUE=DATE:20300701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Hvar
 DESCRIPTION:31. 12. 2030. ističe 2 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
- ra.\n\n• ACI D.D. – Koncesija za luku nautičkog turizma (HVAR)\, 23.5
- 61 €/god.\n• ACI D.D. – Koncesija pomorskog dobra u svrhu gospodarsk
- og korištenja luke (HVAR)\, 23.561 €/god.\n\nProfil općine: https://ko
- ncesijski-sat.vercel.app/#opcina/41942358B62948971523920
+ ra.\n\n• ACI D.D. – Koncesija za luku nautičkog turizma (HVAR) · dav
+ atelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\, 23.561 €/god.\n•
+  ACI D.D. – Koncesija pomorskog dobra u svrhu gospodarskog korištenja l
+ uke (HVAR) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\, 23.
+ 561 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina
+ /41942358B62948971523920
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B62948971523920
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Hvar
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-d20876a1ce36041c@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-995d3236400db960@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20321019
 DTEND;VALUE=DATE:20321020
 SUMMARY:Ističe 2 koncesije · Hvar
 DESCRIPTION:2 ugovora o koncesiji ističe 19. 10. 2032. Godišnja fiksna na
  knada: 172.540 €.\n\n• TOPAZ ŠIPIĆ D.O.O. – Koncesija na pomorskom
-  dobru (HVAR)\, 86.270 €/god.\n• TOPAZ ŠIPIĆ D.O.O. – Koncesija na
-  pomorskom dobru (HVAR)\, 86.270 €/god.\n\nProfil općine: https://konce
- sijski-sat.vercel.app/#opcina/41942358B62948971523920\nIzvor: Registar kon
- cesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+  dobru (HVAR) · davatelj: SPLITSKO-DALMATINSKA ŽUPANIJA\, 86.270 €/god
+ .\n• TOPAZ ŠIPIĆ D.O.O. – Koncesija na pomorskom dobru (HVAR) · dav
+ atelj: SPLITSKO-DALMATINSKA ŽUPANIJA\, 86.270 €/god.\n\nProfil općine:
+  https://koncesijski-sat.vercel.app/#opcina/41942358B62948971523920\nIzvor
+ : Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B62948971523920
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -252,36 +271,38 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-d20876a1ce36041c@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-995d3236400db960@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20320419
 DTEND;VALUE=DATE:20320420
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Hvar
 DESCRIPTION:19. 10. 2032. ističe 2 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
- ra.\n\n• TOPAZ ŠIPIĆ D.O.O. – Koncesija na pomorskom dobru (HVAR)\, 
- 86.270 €/god.\n• TOPAZ ŠIPIĆ D.O.O. – Koncesija na pomorskom dobru
-  (HVAR)\, 86.270 €/god.\n\nProfil općine: https://koncesijski-sat.verce
- l.app/#opcina/41942358B62948971523920
+ ra.\n\n• TOPAZ ŠIPIĆ D.O.O. – Koncesija na pomorskom dobru (HVAR) ·
+  davatelj: SPLITSKO-DALMATINSKA ŽUPANIJA\, 86.270 €/god.\n• TOPAZ ŠI
+ PIĆ D.O.O. – Koncesija na pomorskom dobru (HVAR) · davatelj: SPLITSKO-
+ DALMATINSKA ŽUPANIJA\, 86.270 €/god.\n\nProfil općine: https://koncesi
+ jski-sat.vercel.app/#opcina/41942358B62948971523920
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B62948971523920
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Hvar
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-838688ce188f080c@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-ab4ef80cfffaf679@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20331226
 DTEND;VALUE=DATE:20331227
 SUMMARY:Ističe koncesija: ŠEGO\, USLUŽNI OBRT\, VL. ŠEGO DUŠAN
 DESCRIPTION:1 ugovor o koncesiji ističe 26. 12. 2033. Godišnja fiksna nak
  nada: 13.300 €.\n\n• ŠEGO\, USLUŽNI OBRT\, VL. ŠEGO DUŠAN – Konc
- esija na pomorskom dobru (HVAR)\, 13.300 €/god.\n\nProfil općine: https
- ://koncesijski-sat.vercel.app/#opcina/41942358B62948971523920\nIzvor: Regi
- star koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ esija na pomorskom dobru (HVAR) · davatelj: SPLITSKO-DALMATINSKA ŽUPANIJ
+ A\, 13.300 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/
+ #opcina/41942358B62948971523920\nIzvor: Registar koncesija (FINA)\, obrada
+  Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B62948971523920
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -291,8 +312,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-838688ce188f080c@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-ab4ef80cfffaf679@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20330626
 DTEND;VALUE=DATE:20330627
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ŠEGO\, USLUŽNI
@@ -300,8 +321,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ŠEGO\, USLUŽNI
 DESCRIPTION:26. 12. 2033. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• ŠEGO\, USLUŽNI OBRT\, VL. ŠEGO DUŠAN – Koncesija na pomors
- kom dobru (HVAR)\, 13.300 €/god.\n\nProfil općine: https://koncesijski-
- sat.vercel.app/#opcina/41942358B62948971523920
+ kom dobru (HVAR) · davatelj: SPLITSKO-DALMATINSKA ŽUPANIJA\, 13.300 €/
+ god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4194235
+ 8B62948971523920
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B62948971523920
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -312,16 +334,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-f82d006fbda99987@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-cf9a589ceb0b5251@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20341231
 DTEND;VALUE=DATE:20350101
 SUMMARY:Ističe koncesija: ZLATAN OTOK D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 31. 12. 2034. Godišnja fiksna nak
  nada: 21.762 €.\n\n• ZLATAN OTOK D.O.O. – Koncesija na pomorskom dob
- ru (HVAR)\, 21.762 €/god.\n\nProfil općine: https://koncesijski-sat.ver
- cel.app/#opcina/41942358B62948971523920\nIzvor: Registar koncesija (FINA)\
- , obrada Koncesijski sat 9. 11. 2026.
+ ru (HVAR) · davatelj: SPLITSKO-DALMATINSKA ŽUPANIJA\, 21.762 €/god.\n\
+ nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B62948
+ 971523920\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11
+ . 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B62948971523920
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -331,17 +354,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-f82d006fbda99987@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-cf9a589ceb0b5251@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20340630
 DTEND;VALUE=DATE:20340701
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ZLATAN OTOK D.O.
  O.)
 DESCRIPTION:31. 12. 2034. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
- a.\n\n• ZLATAN OTOK D.O.O. – Koncesija na pomorskom dobru (HVAR)\, 21.
- 762 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina
- /41942358B62948971523920
+ a.\n\n• ZLATAN OTOK D.O.O. – Koncesija na pomorskom dobru (HVAR) · da
+ vatelj: SPLITSKO-DALMATINSKA ŽUPANIJA\, 21.762 €/god.\n\nProfil općine
+ : https://koncesijski-sat.vercel.app/#opcina/41942358B62948971523920
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B62948971523920
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -352,16 +375,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-ffa4f1db91e6dfd4@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-fbe612d52451c725@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20360612
 DTEND;VALUE=DATE:20360613
 SUMMARY:Ističe koncesija: HRVATSKI OPERATOR PRIJENOSNOG SUSTAVA D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 12. 6. 2036. Godišnja fiksna nakn
  ada: 6.956 €.\n\n• HRVATSKI OPERATOR PRIJENOSNOG SUSTAVA D.D. – Konc
- esija na pomorskom dobru (HVAR)\, 6.956 €/god.\n\nProfil općine: https:
- //koncesijski-sat.vercel.app/#opcina/41942358B62948971523920\nIzvor: Regis
- tar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ esija na pomorskom dobru (HVAR) · davatelj: MINISTARSTVO MORA\, PROMETA I
+  INFRASTRUKTURE\, 6.956 €/god.\n\nProfil općine: https://koncesijski-sa
+ t.vercel.app/#opcina/41942358B62948971523920\nIzvor: Registar koncesija (F
+ INA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B62948971523920
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -371,8 +395,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-ffa4f1db91e6dfd4@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-fbe612d52451c725@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20351212
 DTEND;VALUE=DATE:20351213
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKI OPERATO
@@ -380,8 +404,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKI OPERATO
 DESCRIPTION:12. 6. 2036. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• HRVATSKI OPERATOR PRIJENOSNOG SUSTAVA D.D. – Koncesija na pomor
- skom dobru (HVAR)\, 6.956 €/god.\n\nProfil općine: https://koncesijski-
- sat.vercel.app/#opcina/41942358B62948971523920
+ skom dobru (HVAR) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTUR
+ E\, 6.956 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#
+ opcina/41942358B62948971523920
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B62948971523920
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -392,15 +417,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-9358100e6d082944@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-485d4612047ecf9a@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20451123
 DTEND;VALUE=DATE:20451124
 SUMMARY:Ističe koncesija: ODVODNJA HVAR D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 23. 11. 2045.\n\n• ODVODNJA HVAR
-  D.O.O. – Posebna upotreba pomorskog dobra (HVAR)\n\nProfil općine: htt
- ps://koncesijski-sat.vercel.app/#opcina/41942358B62948971523920\nIzvor: Re
- gistar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+  D.O.O. – Posebna upotreba pomorskog dobra (HVAR) · davatelj: SPLITSKO-
+ DALMATINSKA ŽUPANIJA\n\nProfil općine: https://koncesijski-sat.vercel.ap
+ p/#opcina/41942358B62948971523920\nIzvor: Registar koncesija (FINA)\, obra
+ da Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B62948971523920
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -410,8 +436,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-9358100e6d082944@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-485d4612047ecf9a@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20450523
 DTEND;VALUE=DATE:20450524
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ODVODNJA HVAR D.
@@ -419,8 +445,8 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ODVODNJA HVAR D.
 DESCRIPTION:23. 11. 2045. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• ODVODNJA HVAR D.O.O. – Posebna upotreba pomorskog dobra (HVAR)
- \n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B62
- 948971523920
+  · davatelj: SPLITSKO-DALMATINSKA ŽUPANIJA\n\nProfil općine: https://ko
+ ncesijski-sat.vercel.app/#opcina/41942358B62948971523920
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B62948971523920
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -431,16 +457,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-52f4bedc11ad26d0@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-075c9daf40f36306@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20451231
 DTEND;VALUE=DATE:20460101
 SUMMARY:Ističe koncesija: MEGAMIX D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 31. 12. 2045. Godišnja fiksna nak
  nada: 66 €.\n\n• MEGAMIX D.O.O. – Koncesija za obavljanje djelatnost
- i radija (HVAR)\, 66 €/god.\n\nProfil općine: https://koncesijski-sat.v
- ercel.app/#opcina/41942358B62948971523920\nIzvor: Registar koncesija (FINA
- )\, obrada Koncesijski sat 9. 11. 2026.
+ i radija (HVAR) · davatelj: AGENCIJA ZA ELEKTRONIČKE MEDIJE\, 66 €/god
+ .\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B6
+ 2948971523920\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9
+ . 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B62948971523920
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -450,16 +477,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-52f4bedc11ad26d0@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-075c9daf40f36306@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20450630
 DTEND;VALUE=DATE:20450701
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MEGAMIX D.O.O.)
 DESCRIPTION:31. 12. 2045. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• MEGAMIX D.O.O. – Koncesija za obavljanje djelatnosti radija (H
- VAR)\, 66 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#
- opcina/41942358B62948971523920
+ VAR) · davatelj: AGENCIJA ZA ELEKTRONIČKE MEDIJE\, 66 €/god.\n\nProfil
+  općine: https://koncesijski-sat.vercel.app/#opcina/41942358B629489715239
+ 20
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B62948971523920
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -470,16 +498,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-ba263b3b3d28d821@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-0111ce125a4b2588@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20601015
 DTEND;VALUE=DATE:20601016
 SUMMARY:Ističe koncesija: DRŽAVNI HIDROMETEOROLOŠKI ZAVOD
 DESCRIPTION:1 ugovor o koncesiji ističe 15. 10. 2060. Godišnja fiksna nak
  nada: 32 €.\n\n• DRŽAVNI HIDROMETEOROLOŠKI ZAVOD – Koncesija na po
- morskom dobru (HVAR)\, 32 €/god.\n\nProfil općine: https://koncesijski-
- sat.vercel.app/#opcina/41942358B62948971523920\nIzvor: Registar koncesija 
- (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ morskom dobru (HVAR) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUK
+ TURE\, 32 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#
+ opcina/41942358B62948971523920\nIzvor: Registar koncesija (FINA)\, obrada 
+ Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B62948971523920
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -489,8 +518,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-ba263b3b3d28d821@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-0111ce125a4b2588@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20600415
 DTEND;VALUE=DATE:20600416
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DRŽAVNI HIDROME
@@ -498,8 +527,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DRŽAVNI HIDROME
 DESCRIPTION:15. 10. 2060. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• DRŽAVNI HIDROMETEOROLOŠKI ZAVOD – Koncesija na pomorskom dob
- ru (HVAR)\, 32 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.
- app/#opcina/41942358B62948971523920
+ ru (HVAR) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\, 32 
+ €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
+ 42358B62948971523920
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B62948971523920
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -510,16 +540,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-fa9577db11b3ad60@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-f1a32375481dbfa4@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20760717
 DTEND;VALUE=DATE:20760718
 SUMMARY:Ističe koncesija: HRVATSKI TELEKOM D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 17. 7. 2076. Godišnja fiksna nakn
  ada: 20.603 €.\n\n• HRVATSKI TELEKOM D.D. – Posebna upotreba pomorsk
- og dobra (HVAR)\, 20.603 €/god.\n\nProfil općine: https://koncesijski-s
- at.vercel.app/#opcina/41942358B62948971523920\nIzvor: Registar koncesija (
- FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ og dobra (HVAR) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\
+ , 20.603 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#o
+ pcina/41942358B62948971523920\nIzvor: Registar koncesija (FINA)\, obrada K
+ oncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B62948971523920
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -529,8 +560,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-fa9577db11b3ad60@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-f1a32375481dbfa4@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20760117
 DTEND;VALUE=DATE:20760118
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKI TELEKOM
@@ -538,8 +569,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKI TELEKOM
 DESCRIPTION:17. 7. 2076. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• HRVATSKI TELEKOM D.D. – Posebna upotreba pomorskog dobra (HVAR)
- \, 20.603 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#
- opcina/41942358B62948971523920
+  · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\, 20.603 €/go
+ d.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B
+ 62948971523920
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B62948971523920
 TRANSP:TRANSPARENT
 BEGIN:VALARM

@@ -1,0 +1,137 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · GRAD SAMOBOR
+X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje GRAD SAMOBOR. Iz Registra 
+ koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podataka.
+  https://koncesijski-sat.vercel.app/#sat
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-48c480c2cbfc1461@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20300126
+DTEND;VALUE=DATE:20300127
+SUMMARY:Ističe koncesija: AUTOTURIST SAMOBOR D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 26. 1. 2030.\n\n• AUTOTURIST SAM
+ OBOR D.O.O. – Koncesija za obavljanje djelatnosti javnog gradskog prijev
+ oza putnika (SAMOBOR\, Grad Samobor)\n\nŠto ističe: https://koncesijski-
+ sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski
+  sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: AUTOTURIST SAMOBOR D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-48c480c2cbfc1461@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20290726
+DTEND;VALUE=DATE:20290727
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (AUTOTURIST SAMOB
+ OR D.O.O.)
+DESCRIPTION:26. 1. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• AUTOTURIST SAMOBOR D.O.O. – Koncesija za obavljanje djelatnosti
+  javnog gradskog prijevoza putnika (SAMOBOR\, Grad Samobor)\n\nŠto istič
+ e: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (AUTOTURIST S
+ AMOBOR D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-c613493efef82a27@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20361212
+DTEND;VALUE=DATE:20361213
+SUMMARY:Ističe koncesija: HEP-TOPLINARSTVO  D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 12. 12. 2036.\n\n• HEP-TOPLINARS
+ TVO  D.O.O. – Koncesija za obavljanje komunalne djelatnosti opskrbe topl
+ inskom energijom (SAMOBOR\, Grad Samobor)\n\nŠto ističe: https://koncesi
+ jski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Konces
+ ijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: HEP-TOPLINARSTVO  D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-c613493efef82a27@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20360612
+DTEND;VALUE=DATE:20360613
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP-TOPLINARSTVO
+   D.O.O.)
+DESCRIPTION:12. 12. 2036. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• HEP-TOPLINARSTVO  D.O.O. – Koncesija za obavljanje komunalne d
+ jelatnosti opskrbe toplinskom energijom (SAMOBOR\, Grad Samobor)\n\nŠto i
+ stiče: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP-TOPLINAR
+ STVO  D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-f3bc10ce2521140a@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20421219
+DTEND;VALUE=DATE:20421220
+SUMMARY:Ističe koncesija: H.S.M.\, OBRT ZA RIJEČNI TRANSPORT\, VL. IVAN V
+ RANČIĆ
+DESCRIPTION:1 ugovor o koncesiji ističe 19. 12. 2042. Godišnja fiksna nak
+ nada: 100 €.\n\n• H.S.M.\, OBRT ZA RIJEČNI TRANSPORT\, VL. IVAN VRAN
+ ČIĆ – Obavljanje djelatnosti riječnog prijevoza osoba i tereta (SAMOB
+ OR\, Grad Samobor)\, 100 €/god.\n\nŠto ističe: https://koncesijski-sat
+ .vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sa
+ t 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: H.S.M.\, OBRT ZA RIJEČNI TRANSPORT\, VL. IV
+ AN VRANČIĆ
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-f3bc10ce2521140a@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20420619
+DTEND;VALUE=DATE:20420620
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (H.S.M.\, OBRT ZA
+  RIJEČNI TRANSPORT\, VL. IVAN VRANČIĆ)
+DESCRIPTION:19. 12. 2042. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• H.S.M.\, OBRT ZA RIJEČNI TRANSPORT\, VL. IVAN VRANČIĆ – Oba
+ vljanje djelatnosti riječnog prijevoza osoba i tereta (SAMOBOR\, Grad Sam
+ obor)\, 100 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#
+ sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (H.S.M.\, OBR
+ T ZA RIJEČNI TRANSPORT\, VL. IVAN VRANČIĆ)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

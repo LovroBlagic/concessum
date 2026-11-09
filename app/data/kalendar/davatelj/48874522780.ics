@@ -1,0 +1,56 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · OPĆINA BEDNJA
+X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje OPĆINA BEDNJA. Iz Registr
+ a koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podatak
+ a. https://koncesijski-sat.vercel.app/#sat
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-69b9ff802d0090db@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20301221
+DTEND;VALUE=DATE:20301222
+SUMMARY:Ističe 2 koncesije · OPĆINA BEDNJA
+DESCRIPTION:2 ugovora o koncesiji ističe 21. 12. 2030. Godišnja fiksna na
+ knada: 1.400 €.\n\n• DIMNJAČARSTVO VALJAK D.O.O. – Koncesija za oba
+ vljanje dimnjačarskih poslova (BEDNJA\, Općina Bednja)\, 700 €/god.\n
+ • DIMNJAČARSTVO VALJAK D.O.O. – Koncesija za obavljanje dimnjačarski
+ h poslova (BEDNJA\, Općina Bednja)\, 700 €/god.\n\nŠto ističe: https:
+ //koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obra
+ da Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 2 koncesije · OPĆINA BEDNJA
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-69b9ff802d0090db@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20300621
+DTEND;VALUE=DATE:20300622
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · OPĆINA BEDNJA
+DESCRIPTION:21. 12. 2030. ističe 2 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• DIMNJAČARSTVO VALJAK D.O.O. – Koncesija za obavljanje dimnja
+ čarskih poslova (BEDNJA\, Općina Bednja)\, 700 €/god.\n• DIMNJAČARS
+ TVO VALJAK D.O.O. – Koncesija za obavljanje dimnjačarskih poslova (BEDN
+ JA\, Općina Bednja)\, 700 €/god.\n\nŠto ističe: https://koncesijski-s
+ at.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije · OPĆINA BE
+ DNJA
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

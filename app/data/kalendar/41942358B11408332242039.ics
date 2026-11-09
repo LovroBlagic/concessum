@@ -4,25 +4,26 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Grad Korčula
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Grad Korčula. Iz Regist
- ra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podata
- ka. https://koncesijski-sat.vercel.app/#opcina/41942358B11408332242039
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Grad Korčula (pregled\,
+  svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježava se
+  nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#opcina/4
+ 1942358B11408332242039
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-7ce81e1e23953f10@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-52306b85f9498537@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270426
 DTEND;VALUE=DATE:20270427
 SUMMARY:Ističe koncesija: RADIO KORČULA J.T.D. ZA PROIZ.I EMIT.RADIJSKOG 
  PROGRAMA
 DESCRIPTION:1 ugovor o koncesiji ističe 26. 4. 2027. Godišnja fiksna nakn
  ada: 66 €.\n\n• RADIO KORČULA J.T.D. ZA PROIZ.I EMIT.RADIJSKOG PROGRA
- MA – Koncesija za obavljanje djelatnosti radija (KORČULA)\, 66 €/god.
- \n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B11
- 408332242039\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9.
-  11. 2026.
+ MA – Koncesija za obavljanje djelatnosti radija (KORČULA) · davatelj: 
+ AGENCIJA ZA ELEKTRONIČKE MEDIJE\, 66 €/god.\n\nProfil općine: https://
+ koncesijski-sat.vercel.app/#opcina/41942358B11408332242039\nIzvor: Regista
+ r koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B11408332242039
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -33,16 +34,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-03b52d546e52230c@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-449f09fc483c22ec@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20280930
 DTEND;VALUE=DATE:20281001
 SUMMARY:Ističe koncesija: AMINESS D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 30. 9. 2028. Godišnja fiksna nakn
  ada: 14.600 €.\n\n• AMINESS D.D. – Koncesija na pomorskom dobru (KOR
- ČULA)\, 14.600 €/god.\n\nProfil općine: https://koncesijski-sat.vercel
- .app/#opcina/41942358B11408332242039\nIzvor: Registar koncesija (FINA)\, o
- brada Koncesijski sat 9. 11. 2026.
+ ČULA) · davatelj: DUBROVAČKO-NERETVANSKA ŽUPANIJA\, 14.600 €/god.\n\
+ nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B11408
+ 332242039\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11
+ . 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B11408332242039
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -52,16 +54,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-03b52d546e52230c@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-449f09fc483c22ec@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20280330
 DTEND;VALUE=DATE:20280331
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (AMINESS D.D.)
 DESCRIPTION:30. 9. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
- .\n\n• AMINESS D.D. – Koncesija na pomorskom dobru (KORČULA)\, 14.600
-  €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41
- 942358B11408332242039
+ .\n\n• AMINESS D.D. – Koncesija na pomorskom dobru (KORČULA) · davat
+ elj: DUBROVAČKO-NERETVANSKA ŽUPANIJA\, 14.600 €/god.\n\nProfil općine
+ : https://koncesijski-sat.vercel.app/#opcina/41942358B11408332242039
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B11408332242039
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -72,16 +74,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-26b60469f4ceb43d@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-9543193435a72a49@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20290905
 DTEND;VALUE=DATE:20290906
 SUMMARY:Ističe koncesija: INA\, D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 5. 9. 2029. Godišnja fiksna nakna
  da: 36.595 €.\n\n• INA\, D.D. – Koncesija na pomorskom dobru (KORČU
- LA)\, 36.595 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.ap
- p/#opcina/41942358B11408332242039\nIzvor: Registar koncesija (FINA)\, obra
- da Koncesijski sat 9. 11. 2026.
+ LA) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\, 36.595 €
+ /god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419423
+ 58B11408332242039\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski s
+ at 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B11408332242039
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -91,16 +94,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-26b60469f4ceb43d@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-9543193435a72a49@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20290305
 DTEND;VALUE=DATE:20290306
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA\, D.D.)
 DESCRIPTION:5. 9. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
- \n\n• INA\, D.D. – Koncesija na pomorskom dobru (KORČULA)\, 36.595 
- €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
- 42358B11408332242039
+ \n\n• INA\, D.D. – Koncesija na pomorskom dobru (KORČULA) · davatelj
+ : MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\, 36.595 €/god.\n\nProfil
+  općine: https://koncesijski-sat.vercel.app/#opcina/41942358B114083322420
+ 39
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B11408332242039
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -110,18 +114,19 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-1560f9988a7cf596@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-a37f47311d241a4c@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20301231
 DTEND;VALUE=DATE:20310101
 SUMMARY:Ističe 2 koncesije · Korčula
 DESCRIPTION:2 ugovora o koncesiji ističe 31. 12. 2030. Godišnja fiksna na
  knada: 19.716 €.\n\n• HEP-OPERATOR PRIJENOSNOG SUSTAVA D.O.O. SPLIT 
- – Koncesija na pomorskom dobru (KORČULA)\, 16.922 €/god.\n• ACI D.D
- . – Koncesija pomorskog dobra u svrhu gospodarskog korištenja luke (KOR
- ČULA)\, 2.794 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.
- app/#opcina/41942358B11408332242039\nIzvor: Registar koncesija (FINA)\, ob
- rada Koncesijski sat 9. 11. 2026.
+ – Koncesija na pomorskom dobru (KORČULA) · davatelj: DUBROVAČKO-NERET
+ VANSKA ŽUPANIJA\, 16.922 €/god.\n• ACI D.D. – Koncesija pomorskog d
+ obra u svrhu gospodarskog korištenja luke (KORČULA) · davatelj: MINISTA
+ RSTVO MORA\, PROMETA I INFRASTRUKTURE\, 2.794 €/god.\n\nProfil općine: 
+ https://koncesijski-sat.vercel.app/#opcina/41942358B11408332242039\nIzvor:
+  Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B11408332242039
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -131,38 +136,39 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-1560f9988a7cf596@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-a37f47311d241a4c@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20300630
 DTEND;VALUE=DATE:20300701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Korčula
 DESCRIPTION:31. 12. 2030. ističe 2 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• HEP-OPERATOR PRIJENOSNOG SUSTAVA D.O.O. SPLIT – Koncesija na 
- pomorskom dobru (KORČULA)\, 16.922 €/god.\n• ACI D.D. – Koncesija p
- omorskog dobra u svrhu gospodarskog korištenja luke (KORČULA)\, 2.794 
- €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
- 42358B11408332242039
+ pomorskom dobru (KORČULA) · davatelj: DUBROVAČKO-NERETVANSKA ŽUPANIJA\
+ , 16.922 €/god.\n• ACI D.D. – Koncesija pomorskog dobra u svrhu gosp
+ odarskog korištenja luke (KORČULA) · davatelj: MINISTARSTVO MORA\, PROM
+ ETA I INFRASTRUKTURE\, 2.794 €/god.\n\nProfil općine: https://koncesijs
+ ki-sat.vercel.app/#opcina/41942358B11408332242039
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B11408332242039
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Korčula
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-f6c0875e446ab77b@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-a84c3f0072a6eeda@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20310203
 DTEND;VALUE=DATE:20310204
 SUMMARY:Ističe koncesija: JADROLINIJA
 DESCRIPTION:1 ugovor o koncesiji ističe 3. 2. 2031. Godišnja fiksna nakna
  da: 5.000 €.\n\n• JADROLINIJA – Koncesija za obavljanje lokalnog lin
- ijskog prijevoza putnika (KORČULA\, OREBIĆ\, OREBIĆ)\, 5.000 €/god.\n
- \nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B1140
- 8332242039\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 1
- 1. 2026.
+ ijskog prijevoza putnika (KORČULA\, OREBIĆ\, OREBIĆ) · davatelj: AGENC
+ IJA ZA OBALNI LINIJSKI POMORSKI PROMET\, 5.000 €/god.\n\nProfil općine:
+  https://koncesijski-sat.vercel.app/#opcina/41942358B11408332242039\nIzvor
+ : Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B11408332242039
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -172,16 +178,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-f6c0875e446ab77b@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-a84c3f0072a6eeda@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20300803
 DTEND;VALUE=DATE:20300804
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (JADROLINIJA)
 DESCRIPTION:3. 2. 2031. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• JADROLINIJA – Koncesija za obavljanje lokalnog linijskog prijevo
- za putnika (KORČULA\, OREBIĆ\, OREBIĆ)\, 5.000 €/god.\n\nProfil opći
- ne: https://koncesijski-sat.vercel.app/#opcina/41942358B11408332242039
+ za putnika (KORČULA\, OREBIĆ\, OREBIĆ) · davatelj: AGENCIJA ZA OBALNI 
+ LINIJSKI POMORSKI PROMET\, 5.000 €/god.\n\nProfil općine: https://konce
+ sijski-sat.vercel.app/#opcina/41942358B11408332242039
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B11408332242039
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -191,16 +198,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-158ba418d5f32218@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-16699dbc5a4a56cd@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20310531
 DTEND;VALUE=DATE:20310601
 SUMMARY:Ističe koncesija: BRODSKA MEHANIKA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 31. 5. 2031. Godišnja fiksna nakn
  ada: 400 €.\n\n• BRODSKA MEHANIKA D.O.O. – Koncesija na pomorskom do
- bru (KORČULA)\, 400 €/god.\n\nProfil općine: https://koncesijski-sat.v
- ercel.app/#opcina/41942358B11408332242039\nIzvor: Registar koncesija (FINA
- )\, obrada Koncesijski sat 9. 11. 2026.
+ bru (KORČULA) · davatelj: ŽUPANIJSKA LUČKA UPRAVA KORČULA\, 400 €/g
+ od.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358
+ B11408332242039\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat
+  9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B11408332242039
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -210,8 +218,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-158ba418d5f32218@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-16699dbc5a4a56cd@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20301130
 DTEND;VALUE=DATE:20301201
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BRODSKA MEHANIKA
@@ -219,8 +227,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BRODSKA MEHANIKA
 DESCRIPTION:31. 5. 2031. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• BRODSKA MEHANIKA D.O.O. – Koncesija na pomorskom dobru (KORČUL
- A)\, 400 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#o
- pcina/41942358B11408332242039
+ A) · davatelj: ŽUPANIJSKA LUČKA UPRAVA KORČULA\, 400 €/god.\n\nProfi
+ l općine: https://koncesijski-sat.vercel.app/#opcina/41942358B11408332242
+ 039
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B11408332242039
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -231,16 +240,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-b12f6407aefed843@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-9a36bca1d771d2e8@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20320331
 DTEND;VALUE=DATE:20320401
 SUMMARY:Ističe koncesija: KORČULA HILL D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 31. 3. 2032. Godišnja fiksna nakn
  ada: 5.508 €.\n\n• KORČULA HILL D.O.O. – Koncesija na pomorskom dob
- ru (KORČULA)\, 5.508 €/god.\n\nProfil općine: https://koncesijski-sat.
- vercel.app/#opcina/41942358B11408332242039\nIzvor: Registar koncesija (FIN
- A)\, obrada Koncesijski sat 9. 11. 2026.
+ ru (KORČULA) · davatelj: DUBROVAČKO-NERETVANSKA ŽUPANIJA\, 5.508 €/g
+ od.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358
+ B11408332242039\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat
+  9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B11408332242039
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -250,17 +260,18 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-b12f6407aefed843@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-9a36bca1d771d2e8@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20310930
 DTEND;VALUE=DATE:20311001
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (KORČULA HILL D.
  O.O.)
 DESCRIPTION:31. 3. 2032. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
- .\n\n• KORČULA HILL D.O.O. – Koncesija na pomorskom dobru (KORČULA)\
- , 5.508 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#op
- cina/41942358B11408332242039
+ .\n\n• KORČULA HILL D.O.O. – Koncesija na pomorskom dobru (KORČULA) 
+ · davatelj: DUBROVAČKO-NERETVANSKA ŽUPANIJA\, 5.508 €/god.\n\nProfil 
+ općine: https://koncesijski-sat.vercel.app/#opcina/41942358B1140833224203
+ 9
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B11408332242039
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -271,16 +282,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-7bf74612b722d7db@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-09850e920da218d1@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20351017
 DTEND;VALUE=DATE:20351018
 SUMMARY:Ističe koncesija: KTD HOBER\, D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 17. 10. 2035. Godišnja fiksna nak
  nada: 21.000 €.\n\n• KTD HOBER\, D.O.O. – Koncesija na pomorskom dob
- ru (KORČULA)\, 21.000 €/god.\n\nProfil općine: https://koncesijski-sat
- .vercel.app/#opcina/41942358B11408332242039\nIzvor: Registar koncesija (FI
- NA)\, obrada Koncesijski sat 9. 11. 2026.
+ ru (KORČULA) · davatelj: ŽUPANIJSKA LUČKA UPRAVA KORČULA\, 21.000 €
+ /god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419423
+ 58B11408332242039\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski s
+ at 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B11408332242039
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -290,17 +302,18 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-7bf74612b722d7db@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-09850e920da218d1@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20350417
 DTEND;VALUE=DATE:20350418
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (KTD HOBER\, D.O.
  O.)
 DESCRIPTION:17. 10. 2035. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
- a.\n\n• KTD HOBER\, D.O.O. – Koncesija na pomorskom dobru (KORČULA)\,
-  21.000 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#op
- cina/41942358B11408332242039
+ a.\n\n• KTD HOBER\, D.O.O. – Koncesija na pomorskom dobru (KORČULA) 
+ · davatelj: ŽUPANIJSKA LUČKA UPRAVA KORČULA\, 21.000 €/god.\n\nProfi
+ l općine: https://koncesijski-sat.vercel.app/#opcina/41942358B11408332242
+ 039
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B11408332242039
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -311,16 +324,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-c11b786126feb375@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-e94560f93065e8d8@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20360612
 DTEND;VALUE=DATE:20360613
 SUMMARY:Ističe koncesija: HRVATSKI OPERATOR PRIJENOSNOG SUSTAVA D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 12. 6. 2036. Godišnja fiksna nakn
  ada: 5.250 €.\n\n• HRVATSKI OPERATOR PRIJENOSNOG SUSTAVA D.D. – Konc
- esija na pomorskom dobru (KORČULA)\, 5.250 €/god.\n\nProfil općine: ht
- tps://koncesijski-sat.vercel.app/#opcina/41942358B11408332242039\nIzvor: R
- egistar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ esija na pomorskom dobru (KORČULA) · davatelj: MINISTARSTVO MORA\, PROME
+ TA I INFRASTRUKTURE\, 5.250 €/god.\n\nProfil općine: https://koncesijsk
+ i-sat.vercel.app/#opcina/41942358B11408332242039\nIzvor: Registar koncesij
+ a (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B11408332242039
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -330,8 +344,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-c11b786126feb375@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-e94560f93065e8d8@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20351212
 DTEND;VALUE=DATE:20351213
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKI OPERATO
@@ -339,8 +353,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKI OPERATO
 DESCRIPTION:12. 6. 2036. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• HRVATSKI OPERATOR PRIJENOSNOG SUSTAVA D.D. – Koncesija na pomor
- skom dobru (KORČULA)\, 5.250 €/god.\n\nProfil općine: https://koncesij
- ski-sat.vercel.app/#opcina/41942358B11408332242039
+ skom dobru (KORČULA) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRU
+ KTURE\, 5.250 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.a
+ pp/#opcina/41942358B11408332242039
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B11408332242039
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -351,18 +366,18 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-8c5f92bb0a398c8a@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-82bb13c871320285@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20381121
 DTEND;VALUE=DATE:20381122
 SUMMARY:Ističe koncesija: ŽUPANIJSKA UPRAVA ZA CESTE NA PODRUČJU ŽUPANI
  JE DUBROVAČKO NERETVANSKE
 DESCRIPTION:1 ugovor o koncesiji ističe 21. 11. 2038. Godišnja fiksna nak
  nada: 13 €.\n\n• ŽUPANIJSKA UPRAVA ZA CESTE NA PODRUČJU ŽUPANIJE DU
- BROVAČKO NERETVANSKE – Posebna upotreba pomorskog dobra (KORČULA)\, 13
-  €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41
- 942358B11408332242039\nIzvor: Registar koncesija (FINA)\, obrada Koncesijs
- ki sat 9. 11. 2026.
+ BROVAČKO NERETVANSKE – Posebna upotreba pomorskog dobra (KORČULA) · d
+ avatelj: DUBROVAČKO-NERETVANSKA ŽUPANIJA\, 13 €/god.\n\nProfil općine
+ : https://koncesijski-sat.vercel.app/#opcina/41942358B11408332242039\nIzvo
+ r: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B11408332242039
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -373,8 +388,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-8c5f92bb0a398c8a@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-82bb13c871320285@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20380521
 DTEND;VALUE=DATE:20380522
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ŽUPANIJSKA UPRA
@@ -382,9 +397,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ŽUPANIJSKA UPRA
 DESCRIPTION:21. 11. 2038. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• ŽUPANIJSKA UPRAVA ZA CESTE NA PODRUČJU ŽUPANIJE DUBROVAČKO N
- ERETVANSKE – Posebna upotreba pomorskog dobra (KORČULA)\, 13 €/god.\n
- \nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B1140
- 8332242039
+ ERETVANSKE – Posebna upotreba pomorskog dobra (KORČULA) · davatelj: DU
+ BROVAČKO-NERETVANSKA ŽUPANIJA\, 13 €/god.\n\nProfil općine: https://k
+ oncesijski-sat.vercel.app/#opcina/41942358B11408332242039
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B11408332242039
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -395,21 +410,24 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-46fbba568220de27@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-a5d4b1b49d4413fd@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20411010
 DTEND;VALUE=DATE:20411011
 SUMMARY:Ističe 4 koncesije · Korčula
 DESCRIPTION:4 ugovora o koncesiji ističe 10. 10. 2041. Godišnja fiksna na
  knada: 124.256 €.\n\n• LEDA D.O.O. U STEČAJU – Koncesija pomorskog 
- dobra u svrhu gospodarskog korištenja luke (KORČULA)\, 31.064 €/god.\n
- • LEDA D.O.O. – Koncesija pomorskog dobra u svrhu gospodarskog korišt
- enja luke (KORČULA)\, 31.064 €/god.\n• LEDA D.O.O. U STEČAJU – Kon
- cesija na pomorskom dobru (KORČULA)\, 31.064 €/god.\n• LEDA D.O.O. 
+ dobra u svrhu gospodarskog korištenja luke (KORČULA) · davatelj: MINIST
+ ARSTVO MORA\, PROMETA I INFRASTRUKTURE\, 31.064 €/god.\n• LEDA D.O.O. 
  – Koncesija pomorskog dobra u svrhu gospodarskog korištenja luke (KORČ
- ULA)\, 31.064 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.a
- pp/#opcina/41942358B11408332242039\nIzvor: Registar koncesija (FINA)\, obr
- ada Koncesijski sat 9. 11. 2026.
+ ULA) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\, 31.064 
+ €/god.\n• LEDA D.O.O. U STEČAJU – Koncesija na pomorskom dobru (KOR
+ ČULA) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\, 31.064 
+ €/god.\n• LEDA D.O.O. – Koncesija pomorskog dobra u svrhu gospodarsk
+ og korištenja luke (KORČULA) · davatelj: MINISTARSTVO MORA\, PROMETA I 
+ INFRASTRUKTURE\, 31.064 €/god.\n\nProfil općine: https://koncesijski-sa
+ t.vercel.app/#opcina/41942358B11408332242039\nIzvor: Registar koncesija (F
+ INA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B11408332242039
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -419,32 +437,35 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-46fbba568220de27@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-a5d4b1b49d4413fd@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20410410
 DTEND;VALUE=DATE:20410411
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 4 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 4 koncesije · Korčula
 DESCRIPTION:10. 10. 2041. ističe 4 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• LEDA D.O.O. U STEČAJU – Koncesija pomorskog dobra u svrhu go
- spodarskog korištenja luke (KORČULA)\, 31.064 €/god.\n• LEDA D.O.O. 
- – Koncesija pomorskog dobra u svrhu gospodarskog korištenja luke (KORČ
- ULA)\, 31.064 €/god.\n• LEDA D.O.O. U STEČAJU – Koncesija na pomors
- kom dobru (KORČULA)\, 31.064 €/god.\n• LEDA D.O.O. – Koncesija pomo
- rskog dobra u svrhu gospodarskog korištenja luke (KORČULA)\, 31.064 €/
- god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4194235
- 8B11408332242039
+ spodarskog korištenja luke (KORČULA) · davatelj: MINISTARSTVO MORA\, PR
+ OMETA I INFRASTRUKTURE\, 31.064 €/god.\n• LEDA D.O.O. – Koncesija po
+ morskog dobra u svrhu gospodarskog korištenja luke (KORČULA) · davatelj
+ : MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\, 31.064 €/god.\n• LEDA
+  D.O.O. U STEČAJU – Koncesija na pomorskom dobru (KORČULA) · davatelj
+ : MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\, 31.064 €/god.\n• LEDA
+  D.O.O. – Koncesija pomorskog dobra u svrhu gospodarskog korištenja luk
+ e (KORČULA) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\, 3
+ 1.064 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opci
+ na/41942358B11408332242039
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B11408332242039
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 4 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 4 koncesije · Korčula
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-c9afd7b5eb367e46@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-5cf2d9c3370ee00d@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20440314
 DTEND;VALUE=DATE:20440315
 SUMMARY:Ističe koncesija: HEP-OPERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O.\, DP
@@ -452,9 +473,10 @@ SUMMARY:Ističe koncesija: HEP-OPERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O.\, DP
 DESCRIPTION:1 ugovor o koncesiji ističe 14. 3. 2044. Godišnja fiksna nakn
  ada: 1.786 €.\n\n• HEP-OPERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O.\, DP EL
  EKTROJUG DUBROVNIK – Koncesija pomorskog dobra za posebnu upotrebu u svr
- hu gradnje kabelske veze (KORČULA)\, 1.786 €/god.\n\nProfil općine: ht
- tps://koncesijski-sat.vercel.app/#opcina/41942358B11408332242039\nIzvor: R
- egistar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ hu gradnje kabelske veze (KORČULA) · davatelj: DUBROVAČKO-NERETVANSKA 
+ ŽUPANIJA\, 1.786 €/god.\n\nProfil općine: https://koncesijski-sat.verc
+ el.app/#opcina/41942358B11408332242039\nIzvor: Registar koncesija (FINA)\,
+  obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B11408332242039
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -465,8 +487,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-c9afd7b5eb367e46@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-5cf2d9c3370ee00d@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20430914
 DTEND;VALUE=DATE:20430915
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP-OPERATOR DIS
@@ -475,8 +497,9 @@ DESCRIPTION:14. 3. 2044. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• HEP-OPERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O.\, DP ELEKTROJUG DUBRO
  VNIK – Koncesija pomorskog dobra za posebnu upotrebu u svrhu gradnje kab
- elske veze (KORČULA)\, 1.786 €/god.\n\nProfil općine: https://koncesij
- ski-sat.vercel.app/#opcina/41942358B11408332242039
+ elske veze (KORČULA) · davatelj: DUBROVAČKO-NERETVANSKA ŽUPANIJA\, 1.7
+ 86 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/
+ 41942358B11408332242039
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B11408332242039
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -487,16 +510,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-55ca21cc57b22014@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-52794ee43d8c4a04@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20601015
 DTEND;VALUE=DATE:20601016
 SUMMARY:Ističe koncesija: DRŽAVNI HIDROMETEOROLOŠKI ZAVOD
 DESCRIPTION:1 ugovor o koncesiji ističe 15. 10. 2060. Godišnja fiksna nak
  nada: 12 €.\n\n• DRŽAVNI HIDROMETEOROLOŠKI ZAVOD – Koncesija na po
- morskom dobru (KORČULA)\, 12 €/god.\n\nProfil općine: https://koncesij
- ski-sat.vercel.app/#opcina/41942358B11408332242039\nIzvor: Registar konces
- ija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ morskom dobru (KORČULA) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRAS
+ TRUKTURE\, 12 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.a
+ pp/#opcina/41942358B11408332242039\nIzvor: Registar koncesija (FINA)\, obr
+ ada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B11408332242039
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -506,8 +530,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-55ca21cc57b22014@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-52794ee43d8c4a04@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20600415
 DTEND;VALUE=DATE:20600416
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DRŽAVNI HIDROME
@@ -515,8 +539,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DRŽAVNI HIDROME
 DESCRIPTION:15. 10. 2060. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• DRŽAVNI HIDROMETEOROLOŠKI ZAVOD – Koncesija na pomorskom dob
- ru (KORČULA)\, 12 €/god.\n\nProfil općine: https://koncesijski-sat.ver
- cel.app/#opcina/41942358B11408332242039
+ ru (KORČULA) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\, 
+ 12 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/
+ 41942358B11408332242039
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B11408332242039
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -527,16 +552,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-824ae23f51766306@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-4da0b9fdc7a20c13@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20760717
 DTEND;VALUE=DATE:20760718
 SUMMARY:Ističe koncesija: HRVATSKI TELEKOM D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 17. 7. 2076. Godišnja fiksna nakn
  ada: 790 €.\n\n• HRVATSKI TELEKOM D.D. – Posebna upotreba pomorskog 
- dobra (KORČULA)\, 790 €/god.\n\nProfil općine: https://koncesijski-sat
- .vercel.app/#opcina/41942358B11408332242039\nIzvor: Registar koncesija (FI
- NA)\, obrada Koncesijski sat 9. 11. 2026.
+ dobra (KORČULA) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE
+ \, 790 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opc
+ ina/41942358B11408332242039\nIzvor: Registar koncesija (FINA)\, obrada Kon
+ cesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B11408332242039
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -546,8 +572,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-824ae23f51766306@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-4da0b9fdc7a20c13@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20760117
 DTEND;VALUE=DATE:20760118
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKI TELEKOM
@@ -555,8 +581,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKI TELEKOM
 DESCRIPTION:17. 7. 2076. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• HRVATSKI TELEKOM D.D. – Posebna upotreba pomorskog dobra (KORČ
- ULA)\, 790 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/
- #opcina/41942358B11408332242039
+ ULA) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\, 790 €/g
+ od.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358
+ B11408332242039
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B11408332242039
 TRANSP:TRANSPARENT
 BEGIN:VALARM

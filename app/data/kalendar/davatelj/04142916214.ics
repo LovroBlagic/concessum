@@ -1,0 +1,132 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · LUČKA UPRAVA UMAG-NOVIGRAD
+X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje LUČKA UPRAVA UMAG-NOVIGRA
+ D. Iz Registra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake o
+ brade podataka. https://koncesijski-sat.vercel.app/#sat
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-52b4ec98000790bd@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20280301
+DTEND;VALUE=DATE:20280302
+SUMMARY:Ističe koncesija: PAOLETIĆ IVAN  J.D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 1. 3. 2028. Godišnja fiksna nakna
+ da: 2.357 €.\n\n• PAOLETIĆ IVAN  J.D.O.O. – Koncesija za luku (UMAG
+  - UMAGO\, Grad Umag)\, 2.357 €/god.\n\nŠto ističe: https://koncesijsk
+ i-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Koncesijs
+ ki sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: PAOLETIĆ IVAN  J.D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-52b4ec98000790bd@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20270901
+DTEND;VALUE=DATE:20270902
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PAOLETIĆ IVAN  
+ J.D.O.O.)
+DESCRIPTION:1. 3. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodjele
+  treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
+ \n\n• PAOLETIĆ IVAN  J.D.O.O. – Koncesija za luku (UMAG - UMAGO\, Gra
+ d Umag)\, 2.357 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.a
+ pp/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PAOLETIĆ IV
+ AN  J.D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-6a4201219ec8d3e2@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20280510
+DTEND;VALUE=DATE:20280511
+SUMMARY:Ističe koncesija: MARSERVIS D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 10. 5. 2028. Godišnja fiksna nakn
+ ada: 2.180 €.\n\n• MARSERVIS D.O.O. – Koncesija za luku (NOVIGRAD\, 
+ Grad Novigrad)\, 2.180 €/god.\n\nŠto ističe: https://koncesijski-sat.v
+ ercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 
+ 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: MARSERVIS D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-6a4201219ec8d3e2@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20271110
+DTEND;VALUE=DATE:20271111
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MARSERVIS D.O.O.
+ )
+DESCRIPTION:10. 5. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• MARSERVIS D.O.O. – Koncesija za luku (NOVIGRAD\, Grad Novigrad)
+ \, 2.180 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MARSERVIS D.
+ O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-23b604e8bc6febb1@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20360331
+DTEND;VALUE=DATE:20360401
+SUMMARY:Ističe koncesija: INA-INDUSTRIJA NAFTE  D.D.
+DESCRIPTION:1 ugovor o koncesiji ističe 31. 3. 2036. Godišnja fiksna nakn
+ ada: 11.376 €.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija na pomors
+ kom dobru (UMAG - UMAGO\, Grad Umag)\, 11.376 €/god.\n\nŠto ističe: ht
+ tps://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, 
+ obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: INA-INDUSTRIJA NAFTE  D.D.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-23b604e8bc6febb1@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20350930
+DTEND;VALUE=DATE:20351001
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA-INDUSTRIJA N
+ AFTE  D.D.)
+DESCRIPTION:31. 3. 2036. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija na pomorskom dobru (UMAG
+  - UMAGO\, Grad Umag)\, 11.376 €/god.\n\nŠto ističe: https://koncesijs
+ ki-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA-INDUSTRI
+ JA NAFTE  D.D.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

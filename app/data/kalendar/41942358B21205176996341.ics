@@ -4,25 +4,26 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Općina Jakovlje
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Jakovlje. Iz Reg
- istra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade pod
- ataka. https://koncesijski-sat.vercel.app/#opcina/41942358B21205176996341
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Općina Jakovlje (pregle
+ d\, svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježava
+  se nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#opcin
+ a/41942358B21205176996341
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-7ab9acceccb06eb4@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-984ebc495a4d79cc@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20310731
 DTEND;VALUE=DATE:20310801
 SUMMARY:Ističe koncesija: MULL-TRANS D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 31. 7. 2031. Godišnja fiksna nakn
  ada: 2.389 €.\n\n• MULL-TRANS D.O.O. – Koncesija za obavljanje komun
  alne djelatnosti skupljanja\, odvoza\, obrade\, održavanje čistoće i od
- laganje komunal. i industrijskog otpada (JAKOVLJE)\, 2.389 €/god.\n\nPro
- fil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B212051769
- 96341\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 20
- 26.
+ laganje komunal. i industrijskog otpada (JAKOVLJE) · davatelj: OPĆINA JA
+ KOVLJE\, 2.389 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.
+ app/#opcina/41942358B21205176996341\nIzvor: Registar koncesija (FINA)\, ob
+ rada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B21205176996341
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -32,8 +33,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-7ab9acceccb06eb4@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-984ebc495a4d79cc@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20310131
 DTEND;VALUE=DATE:20310201
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MULL-TRANS D.O.O
@@ -42,8 +43,9 @@ DESCRIPTION:31. 7. 2031. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• MULL-TRANS D.O.O. – Koncesija za obavljanje komunalne djelatnos
  ti skupljanja\, odvoza\, obrade\, održavanje čistoće i odlaganje komuna
- l. i industrijskog otpada (JAKOVLJE)\, 2.389 €/god.\n\nProfil općine: h
- ttps://koncesijski-sat.vercel.app/#opcina/41942358B21205176996341
+ l. i industrijskog otpada (JAKOVLJE) · davatelj: OPĆINA JAKOVLJE\, 2.389
+  €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41
+ 942358B21205176996341
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B21205176996341
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -54,16 +56,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-fc6add73352058bf@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-6e6b16b7de89eb11@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20340711
 DTEND;VALUE=DATE:20340712
 SUMMARY:Ističe koncesija: MA-EN SPORT D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 11. 7. 2034. Godišnja fiksna nakn
  ada: 2.070 €.\n\n• MA-EN SPORT D.O.O. – Koncesija za uređenje i upr
- avljanje sportskim terenima (JAKOVLJE)\, 2.070 €/god.\n\nProfil općine:
-  https://koncesijski-sat.vercel.app/#opcina/41942358B21205176996341\nIzvor
- : Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ avljanje sportskim terenima (JAKOVLJE) · davatelj: OPĆINA JAKOVLJE\, 2.0
+ 70 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/
+ 41942358B21205176996341\nIzvor: Registar koncesija (FINA)\, obrada Koncesi
+ jski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B21205176996341
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -73,8 +76,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-fc6add73352058bf@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-6e6b16b7de89eb11@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20340111
 DTEND;VALUE=DATE:20340112
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MA-EN SPORT D.O.
@@ -82,8 +85,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MA-EN SPORT D.O.
 DESCRIPTION:11. 7. 2034. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• MA-EN SPORT D.O.O. – Koncesija za uređenje i upravljanje sport
- skim terenima (JAKOVLJE)\, 2.070 €/god.\n\nProfil općine: https://konce
- sijski-sat.vercel.app/#opcina/41942358B21205176996341
+ skim terenima (JAKOVLJE) · davatelj: OPĆINA JAKOVLJE\, 2.070 €/god.\n\
+ nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B21205
+ 176996341
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B21205176996341
 TRANSP:TRANSPARENT
 BEGIN:VALARM

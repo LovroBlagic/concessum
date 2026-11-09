@@ -4,25 +4,27 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Općina Bednja
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Bednja. Iz Regis
- tra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podat
- aka. https://koncesijski-sat.vercel.app/#opcina/41942358B79405714793984
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Općina Bednja (pregled\
+ , svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježava s
+ e nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#opcina/
+ 41942358B79405714793984
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-92ad8378bc7a60f7@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-c4256bf676f2fe3b@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20301221
 DTEND;VALUE=DATE:20301222
 SUMMARY:Ističe 2 koncesije · Bednja
 DESCRIPTION:2 ugovora o koncesiji ističe 21. 12. 2030. Godišnja fiksna na
  knada: 1.400 €.\n\n• DIMNJAČARSTVO VALJAK D.O.O. – Koncesija za oba
- vljanje dimnjačarskih poslova (BEDNJA)\, 700 €/god.\n• DIMNJAČARSTVO
-  VALJAK D.O.O. – Koncesija za obavljanje dimnjačarskih poslova (BEDNJA)
- \, 700 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opc
- ina/41942358B79405714793984\nIzvor: Registar koncesija (FINA)\, obrada Kon
- cesijski sat 9. 11. 2026.
+ vljanje dimnjačarskih poslova (BEDNJA) · davatelj: OPĆINA BEDNJA\, 700 
+ €/god.\n• DIMNJAČARSTVO VALJAK D.O.O. – Koncesija za obavljanje dim
+ njačarskih poslova (BEDNJA) · davatelj: OPĆINA BEDNJA\, 700 €/god.\n\
+ nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B79405
+ 714793984\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11
+ . 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B79405714793984
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -32,23 +34,23 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-92ad8378bc7a60f7@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-c4256bf676f2fe3b@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20300621
 DTEND;VALUE=DATE:20300622
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Bednja
 DESCRIPTION:21. 12. 2030. ističe 2 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• DIMNJAČARSTVO VALJAK D.O.O. – Koncesija za obavljanje dimnja
- čarskih poslova (BEDNJA)\, 700 €/god.\n• DIMNJAČARSTVO VALJAK D.O.O.
-  – Koncesija za obavljanje dimnjačarskih poslova (BEDNJA)\, 700 €/god
- .\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B7
- 9405714793984
+ čarskih poslova (BEDNJA) · davatelj: OPĆINA BEDNJA\, 700 €/god.\n• 
+ DIMNJAČARSTVO VALJAK D.O.O. – Koncesija za obavljanje dimnjačarskih po
+ slova (BEDNJA) · davatelj: OPĆINA BEDNJA\, 700 €/god.\n\nProfil općin
+ e: https://koncesijski-sat.vercel.app/#opcina/41942358B79405714793984
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B79405714793984
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Bednja
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT

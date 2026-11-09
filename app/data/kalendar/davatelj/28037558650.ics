@@ -1,0 +1,57 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · OPĆINA DONJI ANDRIJEVCI
+X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje OPĆINA DONJI ANDRIJEVCI. 
+ Iz Registra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obra
+ de podataka. https://koncesijski-sat.vercel.app/#sat
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-0d4c49f2d36ae999@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20330301
+DTEND;VALUE=DATE:20330302
+SUMMARY:Ističe koncesija: EKO-FLOR PLUS D.O.O. ZA KOMUNALNE USLUGE I TRGOV
+ INU
+DESCRIPTION:1 ugovor o koncesiji ističe 1. 3. 2033. Godišnja fiksna nakna
+ da: 3.632 €.\n\n• EKO-FLOR PLUS D.O.O. ZA KOMUNALNE USLUGE I TRGOVINU 
+ – Koncesija skupljanja i odvoza komunalnog otpada (DONJI ANDRIJEVCI\, Op
+ ćina Donji Andrijevci)\, 3.632 €/god.\n\nŠto ističe: https://koncesij
+ ski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Koncesi
+ jski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: EKO-FLOR PLUS D.O.O. ZA KOMUNALNE USLUGE I T
+ RGOVINU
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-0d4c49f2d36ae999@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20320901
+DTEND;VALUE=DATE:20320902
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (EKO-FLOR PLUS D.
+ O.O. ZA KOMUNALNE USLUGE I TRGOVINU)
+DESCRIPTION:1. 3. 2033. ističe 1 ugovor o koncesiji. Novi postupak dodjele
+  treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
+ \n\n• EKO-FLOR PLUS D.O.O. ZA KOMUNALNE USLUGE I TRGOVINU – Koncesija 
+ skupljanja i odvoza komunalnog otpada (DONJI ANDRIJEVCI\, Općina Donji An
+ drijevci)\, 3.632 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel
+ .app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (EKO-FLOR PLU
+ S D.O.O. ZA KOMUNALNE USLUGE I TRGOVINU)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

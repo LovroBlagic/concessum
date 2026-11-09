@@ -1,0 +1,54 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · OPĆINA GORJANI
+X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje OPĆINA GORJANI. Iz Regist
+ ra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podata
+ ka. https://koncesijski-sat.vercel.app/#sat
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-b58c6aa1101e9d68@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20381118
+DTEND;VALUE=DATE:20381119
+SUMMARY:Ističe koncesija: GOSPODARSTVO GORJANI D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 18. 11. 2038. Godišnja fiksna nak
+ nada: 47.881 €.\n\n• GOSPODARSTVO GORJANI D.O.O. – Koncesija za kori
+ štenje poljoprivrednog zemljišta u vlasništvu države (GORJANI\, Općin
+ a Gorjani)\, 47.881 €/god.\n\nŠto ističe: https://koncesijski-sat.verc
+ el.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 
+ 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: GOSPODARSTVO GORJANI D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-b58c6aa1101e9d68@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20380518
+DTEND;VALUE=DATE:20380519
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (GOSPODARSTVO GOR
+ JANI D.O.O.)
+DESCRIPTION:18. 11. 2038. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• GOSPODARSTVO GORJANI D.O.O. – Koncesija za korištenje poljopr
+ ivrednog zemljišta u vlasništvu države (GORJANI\, Općina Gorjani)\, 47
+ .881 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (GOSPODARSTVO
+  GORJANI D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

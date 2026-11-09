@@ -4,25 +4,25 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Općina Kraljevec na Sutli
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Kraljevec na Sut
- li. Iz Registra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake 
- obrade podataka. https://koncesijski-sat.vercel.app/#opcina/41942358B14841
- 32319361
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Općina Kraljevec na Sut
+ li (pregled\, svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). 
+ Osvježava se nakon svake obrade podataka. https://koncesijski-sat.vercel.
+ app/#opcina/41942358B1484132319361
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-45bef15a9c926c1d@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-67e277e01812c6eb@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20300926
 DTEND;VALUE=DATE:20300927
 SUMMARY:Ističe koncesija: DIMNJAČAR\, USLUŽNI OBRT\, VL. MARKO POGAČIĆ
 DESCRIPTION:1 ugovor o koncesiji ističe 26. 9. 2030. Godišnja fiksna nakn
  ada: 280 €.\n\n• DIMNJAČAR\, USLUŽNI OBRT\, VL. MARKO POGAČIĆ – 
- Koncesija za obavljanje dimnjačarskih poslova (KRALJEVEC NA SUTLI)\, 280 
- €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
- 42358B1484132319361\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski
-  sat 9. 11. 2026.
+ Koncesija za obavljanje dimnjačarskih poslova (KRALJEVEC NA SUTLI) · dav
+ atelj: OPĆINA KRALJEVEC NA SUTLI\, 280 €/god.\n\nProfil općine: https:
+ //koncesijski-sat.vercel.app/#opcina/41942358B1484132319361\nIzvor: Regist
+ ar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B1484132319361
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -33,8 +33,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-45bef15a9c926c1d@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-67e277e01812c6eb@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20300326
 DTEND;VALUE=DATE:20300327
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DIMNJAČAR\, USL
@@ -42,9 +42,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DIMNJAČAR\, USL
 DESCRIPTION:26. 9. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• DIMNJAČAR\, USLUŽNI OBRT\, VL. MARKO POGAČIĆ – Koncesija za
-  obavljanje dimnjačarskih poslova (KRALJEVEC NA SUTLI)\, 280 €/god.\n\n
- Profil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B148413
- 2319361
+  obavljanje dimnjačarskih poslova (KRALJEVEC NA SUTLI) · davatelj: OPĆI
+ NA KRALJEVEC NA SUTLI\, 280 €/god.\n\nProfil općine: https://koncesijsk
+ i-sat.vercel.app/#opcina/41942358B1484132319361
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B1484132319361
 TRANSP:TRANSPARENT
 BEGIN:VALARM

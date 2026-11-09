@@ -4,23 +4,25 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Općina Rešetari
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Rešetari. Iz Re
- gistra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade po
- dataka. https://koncesijski-sat.vercel.app/#opcina/41942358B36448464890668
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Općina Rešetari (pregl
+ ed\, svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježav
+ a se nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#opci
+ na/41942358B36448464890668
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-173eb24d32b57e46@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-d50d33b20e40af76@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20460321
 DTEND;VALUE=DATE:20460322
 SUMMARY:Ističe koncesija: PSUNJ D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 21. 3. 2046. Godišnja fiksna nakn
  ada: 9.821 €.\n\n• PSUNJ D.D. – Koncesija za zahvaćanje voda za teh
- nološke potrebe (REŠETARI)\, 9.821 €/god.\n\nProfil općine: https://k
- oncesijski-sat.vercel.app/#opcina/41942358B36448464890668\nIzvor: Registar
-  koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ nološke potrebe (REŠETARI) · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠA I
+  ZELENE TRANZICIJE\, 9.821 €/god.\n\nProfil općine: https://koncesijski
+ -sat.vercel.app/#opcina/41942358B36448464890668\nIzvor: Registar koncesija
+  (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B36448464890668
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -30,16 +32,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-173eb24d32b57e46@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-d50d33b20e40af76@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20450921
 DTEND;VALUE=DATE:20450922
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PSUNJ D.D.)
 DESCRIPTION:21. 3. 2046. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• PSUNJ D.D. – Koncesija za zahvaćanje voda za tehnološke potre
- be (REŠETARI)\, 9.821 €/god.\n\nProfil općine: https://koncesijski-sat
- .vercel.app/#opcina/41942358B36448464890668
+ be (REŠETARI) · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠA I ZELENE TRANZI
+ CIJE\, 9.821 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.ap
+ p/#opcina/41942358B36448464890668
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B36448464890668
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -49,17 +52,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-fc998032f8c5b00d@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-5cdd02aabc5c7705@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20550626
 DTEND;VALUE=DATE:20550627
 SUMMARY:Ističe koncesija: ASPECT CROATIA KFT. - PODRUŽNICA ZAGREB
 DESCRIPTION:1 ugovor o koncesiji ističe 26. 6. 2055. Godišnja fiksna nakn
  ada: 3.144 €.\n\n• ASPECT CROATIA KFT. - PODRUŽNICA ZAGREB – Dozvol
  a za istraživanje ugljikovodika (prema Zakonu o ugljikovodicima) (REŠETA
- RI)\, 3.144 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app
- /#opcina/41942358B36448464890668\nIzvor: Registar koncesija (FINA)\, obrad
- a Koncesijski sat 9. 11. 2026.
+ RI) · davatelj: MINISTARSTVO GOSPODARSTVA\, 3.144 €/god.\n\nProfil opć
+ ine: https://koncesijski-sat.vercel.app/#opcina/41942358B36448464890668\nI
+ zvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B36448464890668
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -69,8 +72,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-fc998032f8c5b00d@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-5cdd02aabc5c7705@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20541226
 DTEND;VALUE=DATE:20541227
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ASPECT CROATIA K
@@ -78,9 +81,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ASPECT CROATIA K
 DESCRIPTION:26. 6. 2055. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• ASPECT CROATIA KFT. - PODRUŽNICA ZAGREB – Dozvola za istraživ
- anje ugljikovodika (prema Zakonu o ugljikovodicima) (REŠETARI)\, 3.144 
- €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
- 42358B36448464890668
+ anje ugljikovodika (prema Zakonu o ugljikovodicima) (REŠETARI) · davatel
+ j: MINISTARSTVO GOSPODARSTVA\, 3.144 €/god.\n\nProfil općine: https://k
+ oncesijski-sat.vercel.app/#opcina/41942358B36448464890668
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B36448464890668
 TRANSP:TRANSPARENT
 BEGIN:VALARM

@@ -4,27 +4,28 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Općina Župa dubrovačka
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Župa dubrovačk
- a. Iz Registra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake o
- brade podataka. https://koncesijski-sat.vercel.app/#opcina/41942358B376754
- 39121682
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Općina Župa dubrovačk
+ a (pregled\, svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). O
+ svježava se nakon svake obrade podataka. https://koncesijski-sat.vercel.a
+ pp/#opcina/41942358B37675439121682
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-fadec309eb9369c0@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-bc884d559599fe86@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20280501
 DTEND;VALUE=DATE:20280502
 SUMMARY:Ističe 3 koncesije · Župa dubrovačka
 DESCRIPTION:3 ugovora o koncesiji ističe 1. 5. 2028. Godišnja fiksna nakn
  ada: 27.087 €.\n\n• HUP-ZAGREB D.D. – Koncesija na pomorskom dobru (
- ŽUPA DUBROVAČKA)\, 9.960 €/god.\n• HUP-ZAGREB D.D. – Koncesija na 
- pomorskom dobru (ŽUPA DUBROVAČKA)\, 9.960 €/god.\n• PIMARO D.O.O. 
- – Koncesija na pomorskom dobru (ŽUPA DUBROVAČKA)\, 7.167 €/god.\n\nP
- rofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B3767543
- 9121682\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 
- 2026.
+ ŽUPA DUBROVAČKA) · davatelj: DUBROVAČKO-NERETVANSKA ŽUPANIJA\, 9.960 
+ €/god.\n• HUP-ZAGREB D.D. – Koncesija na pomorskom dobru (ŽUPA DUBR
+ OVAČKA) · davatelj: DUBROVAČKO-NERETVANSKA ŽUPANIJA\, 9.960 €/god.\n
+ • PIMARO D.O.O. – Koncesija na pomorskom dobru (ŽUPA DUBROVAČKA) · 
+ davatelj: DUBROVAČKO-NERETVANSKA ŽUPANIJA\, 7.167 €/god.\n\nProfil op
+ ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B37675439121682\
+ nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B37675439121682
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -34,39 +35,44 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-fadec309eb9369c0@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-bc884d559599fe86@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20271101
 DTEND;VALUE=DATE:20271102
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Župa dubrova
+ čka
 DESCRIPTION:1. 5. 2028. ističe 3 ugovora o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• HUP-ZAGREB D.D. – Koncesija na pomorskom dobru (ŽUPA DUBROVAČ
- KA)\, 9.960 €/god.\n• HUP-ZAGREB D.D. – Koncesija na pomorskom dobru
-  (ŽUPA DUBROVAČKA)\, 9.960 €/god.\n• PIMARO D.O.O. – Koncesija na 
- pomorskom dobru (ŽUPA DUBROVAČKA)\, 7.167 €/god.\n\nProfil općine: ht
- tps://koncesijski-sat.vercel.app/#opcina/41942358B37675439121682
+ KA) · davatelj: DUBROVAČKO-NERETVANSKA ŽUPANIJA\, 9.960 €/god.\n• H
+ UP-ZAGREB D.D. – Koncesija na pomorskom dobru (ŽUPA DUBROVAČKA) · dav
+ atelj: DUBROVAČKO-NERETVANSKA ŽUPANIJA\, 9.960 €/god.\n• PIMARO D.O.
+ O. – Koncesija na pomorskom dobru (ŽUPA DUBROVAČKA) · davatelj: DUBRO
+ VAČKO-NERETVANSKA ŽUPANIJA\, 7.167 €/god.\n\nProfil općine: https://k
+ oncesijski-sat.vercel.app/#opcina/41942358B37675439121682
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B37675439121682
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Župa dubr
+ ovačka
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-b32ccae986a975a6@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-5c00b8277a8d0ab6@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20290701
 DTEND;VALUE=DATE:20290702
 SUMMARY:Ističe 2 koncesije · Župa dubrovačka
 DESCRIPTION:2 ugovora o koncesiji ističe 1. 7. 2029. Godišnja fiksna nakn
  ada: 1.381 €.\n\n• UGOSTITELJSKI OBRT HOGAR\, VL. ĐIVO MASAR – Konc
- esija za luku (ŽUPA DUBROVAČKA)\, 850 €/god.\n• UGOSTITELJSKI OBRT L
- ANTERNA\, VL. IVO MASAR – Koncesija za luku (ŽUPA DUBROVAČKA)\, 531 
- €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
- 42358B37675439121682\nIzvor: Registar koncesija (FINA)\, obrada Koncesijsk
- i sat 9. 11. 2026.
+ esija za luku (ŽUPA DUBROVAČKA) · davatelj: LUČKA UPRAVA DUBROVAČKO-N
+ ERETVANSKE ŽUPANIJE\, 850 €/god.\n• UGOSTITELJSKI OBRT LANTERNA\, VL.
+  IVO MASAR – Koncesija za luku (ŽUPA DUBROVAČKA) · davatelj: LUČKA U
+ PRAVA DUBROVAČKO-NERETVANSKE ŽUPANIJE\, 531 €/god.\n\nProfil općine: 
+ https://koncesijski-sat.vercel.app/#opcina/41942358B37675439121682\nIzvor:
+  Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B37675439121682
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -76,29 +82,32 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-b32ccae986a975a6@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-5c00b8277a8d0ab6@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20290101
 DTEND;VALUE=DATE:20290102
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Župa dubrova
+ čka
 DESCRIPTION:1. 7. 2029. ističe 2 ugovora o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• UGOSTITELJSKI OBRT HOGAR\, VL. ĐIVO MASAR – Koncesija za luku 
- (ŽUPA DUBROVAČKA)\, 850 €/god.\n• UGOSTITELJSKI OBRT LANTERNA\, VL. 
- IVO MASAR – Koncesija za luku (ŽUPA DUBROVAČKA)\, 531 €/god.\n\nProf
- il općine: https://koncesijski-sat.vercel.app/#opcina/41942358B3767543912
- 1682
+ (ŽUPA DUBROVAČKA) · davatelj: LUČKA UPRAVA DUBROVAČKO-NERETVANSKE ŽU
+ PANIJE\, 850 €/god.\n• UGOSTITELJSKI OBRT LANTERNA\, VL. IVO MASAR –
+  Koncesija za luku (ŽUPA DUBROVAČKA) · davatelj: LUČKA UPRAVA DUBROVA
+ ČKO-NERETVANSKE ŽUPANIJE\, 531 €/god.\n\nProfil općine: https://konce
+ sijski-sat.vercel.app/#opcina/41942358B37675439121682
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B37675439121682
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Župa dubr
+ ovačka
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-619fb0f25ee4b5b8@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-4941abd5e72d5804@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20330619
 DTEND;VALUE=DATE:20330620
 SUMMARY:Ističe koncesija: NAKNADA ZA KONCESIJU  LUČKE UPRAVE ŽUPANIJE DU
@@ -106,9 +115,10 @@ SUMMARY:Ističe koncesija: NAKNADA ZA KONCESIJU  LUČKE UPRAVE ŽUPANIJE DU
 DESCRIPTION:1 ugovor o koncesiji ističe 19. 6. 2033. Godišnja fiksna nakn
  ada: 4.659 €.\n\n• NAKNADA ZA KONCESIJU  LUČKE UPRAVE ŽUPANIJE DUBRO
  VAČKO-NERETVANSKE – Koncesija pomorskog dobra u svrhu gospodarskog kori
- štenja luke (ŽUPA DUBROVAČKA)\, 4.659 €/god.\n\nProfil općine: https
- ://koncesijski-sat.vercel.app/#opcina/41942358B37675439121682\nIzvor: Regi
- star koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ štenja luke (ŽUPA DUBROVAČKA) · davatelj: LUČKA UPRAVA DUBROVAČKO-NE
+ RETVANSKE ŽUPANIJE\, 4.659 €/god.\n\nProfil općine: https://koncesijsk
+ i-sat.vercel.app/#opcina/41942358B37675439121682\nIzvor: Registar koncesij
+ a (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B37675439121682
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -119,8 +129,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-619fb0f25ee4b5b8@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-4941abd5e72d5804@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20321219
 DTEND;VALUE=DATE:20321220
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (NAKNADA ZA KONCE
@@ -129,8 +139,9 @@ DESCRIPTION:19. 6. 2033. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• NAKNADA ZA KONCESIJU  LUČKE UPRAVE ŽUPANIJE DUBROVAČKO-NERETVA
  NSKE – Koncesija pomorskog dobra u svrhu gospodarskog korištenja luke (
- ŽUPA DUBROVAČKA)\, 4.659 €/god.\n\nProfil općine: https://koncesijski
- -sat.vercel.app/#opcina/41942358B37675439121682
+ ŽUPA DUBROVAČKA) · davatelj: LUČKA UPRAVA DUBROVAČKO-NERETVANSKE ŽUP
+ ANIJE\, 4.659 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.a
+ pp/#opcina/41942358B37675439121682
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B37675439121682
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -141,20 +152,21 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-7e0c6ca51cd1ec67@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-3fb4928247e4c6fe@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20341231
 DTEND;VALUE=DATE:20350101
 SUMMARY:Ističe 3 koncesije · Župa dubrovačka
 DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2034. Godišnja fiksna na
  knada: 7.040 €.\n\n• PGM RAGUSA D.D. – Koncesija za površinu utvrđ
  enog eksploatacijskog polja neenergetskih mineralnih sirovina (ŽUPA DUBRO
- VAČKA)\, 7.040 €/god.\n• PGM RAGUSA D.D. – Koncesija za eksploataci
- ju tehničko-građevnog kamena (ŽUPA DUBROVAČKA)\n• PGM RAGUSA D.D. 
- – Koncesija za eksploataciju tehničko-građevnog kamena (ŽUPA DUBROVA
- ČKA)\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419423
- 58B37675439121682\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski s
- at 9. 11. 2026.
+ VAČKA) · davatelj: MINISTARSTVO GOSPODARSTVA\, 7.040 €/god.\n• PGM R
+ AGUSA D.D. – Koncesija za eksploataciju tehničko-građevnog kamena (ŽU
+ PA DUBROVAČKA) · davatelj: MINISTARSTVO GOSPODARSTVA\n• PGM RAGUSA D.D
+ . – Koncesija za eksploataciju tehničko-građevnog kamena (ŽUPA DUBROV
+ AČKA) · davatelj: MINISTARSTVO GOSPODARSTVA\n\nProfil općine: https://k
+ oncesijski-sat.vercel.app/#opcina/41942358B37675439121682\nIzvor: Registar
+  koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B37675439121682
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -164,38 +176,43 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-7e0c6ca51cd1ec67@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-3fb4928247e4c6fe@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20340630
 DTEND;VALUE=DATE:20340701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Župa dubrova
+ čka
 DESCRIPTION:31. 12. 2034. ističe 3 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• PGM RAGUSA D.D. – Koncesija za površinu utvrđenog eksploata
- cijskog polja neenergetskih mineralnih sirovina (ŽUPA DUBROVAČKA)\, 7.04
- 0 €/god.\n• PGM RAGUSA D.D. – Koncesija za eksploataciju tehničko-g
- rađevnog kamena (ŽUPA DUBROVAČKA)\n• PGM RAGUSA D.D. – Koncesija za
-  eksploataciju tehničko-građevnog kamena (ŽUPA DUBROVAČKA)\n\nProfil o
- pćine: https://koncesijski-sat.vercel.app/#opcina/41942358B37675439121682
+ cijskog polja neenergetskih mineralnih sirovina (ŽUPA DUBROVAČKA) · dav
+ atelj: MINISTARSTVO GOSPODARSTVA\, 7.040 €/god.\n• PGM RAGUSA D.D. –
+  Koncesija za eksploataciju tehničko-građevnog kamena (ŽUPA DUBROVAČKA
+ ) · davatelj: MINISTARSTVO GOSPODARSTVA\n• PGM RAGUSA D.D. – Koncesij
+ a za eksploataciju tehničko-građevnog kamena (ŽUPA DUBROVAČKA) · dava
+ telj: MINISTARSTVO GOSPODARSTVA\n\nProfil općine: https://koncesijski-sat
+ .vercel.app/#opcina/41942358B37675439121682
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B37675439121682
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Župa dubr
+ ovačka
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-18d645417323053b@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-5284b97a6baa67d4@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20350425
 DTEND;VALUE=DATE:20350426
 SUMMARY:Ističe koncesija: PGM  RAGUSA D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 25. 4. 2035.\n\n• PGM  RAGUSA D.
  D. – Koncesija za zauzetu površinu odobrenog eksploatacijskog polja (Ž
- UPA DUBROVAČKA)\n\nProfil općine: https://koncesijski-sat.vercel.app/#op
- cina/41942358B37675439121682\nIzvor: Registar koncesija (FINA)\, obrada Ko
- ncesijski sat 9. 11. 2026.
+ UPA DUBROVAČKA) · davatelj: URED DRŽAVNE UPRAVE DUBROVAČKO-NERETVANSKE
+  ŽUPANIJE\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4
+ 1942358B37675439121682\nIzvor: Registar koncesija (FINA)\, obrada Koncesij
+ ski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B37675439121682
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -205,8 +222,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-18d645417323053b@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-5284b97a6baa67d4@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20341025
 DTEND;VALUE=DATE:20341026
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PGM  RAGUSA D.D.
@@ -214,8 +231,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PGM  RAGUSA D.D.
 DESCRIPTION:25. 4. 2035. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• PGM  RAGUSA D.D. – Koncesija za zauzetu površinu odobrenog eks
- ploatacijskog polja (ŽUPA DUBROVAČKA)\n\nProfil općine: https://koncesi
- jski-sat.vercel.app/#opcina/41942358B37675439121682
+ ploatacijskog polja (ŽUPA DUBROVAČKA) · davatelj: URED DRŽAVNE UPRAVE 
+ DUBROVAČKO-NERETVANSKE ŽUPANIJE\n\nProfil općine: https://koncesijski-s
+ at.vercel.app/#opcina/41942358B37675439121682
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B37675439121682
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -226,16 +244,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-ab6cf2674fcdb67b@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-bf02651a4092933a@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20450501
 DTEND;VALUE=DATE:20450502
 SUMMARY:Ističe koncesija: KUPARI LUXURY HOTELS D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 1. 5. 2045. Godišnja fiksna nakna
  da: 48 €.\n\n• KUPARI LUXURY HOTELS D.O.O. – Koncesija na pomorskom 
- dobru (ŽUPA DUBROVAČKA)\, 48 €/god.\n\nProfil općine: https://koncesi
- jski-sat.vercel.app/#opcina/41942358B37675439121682\nIzvor: Registar konce
- sija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ dobru (ŽUPA DUBROVAČKA) · davatelj: DUBROVAČKO-NERETVANSKA ŽUPANIJA\,
+  48 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina
+ /41942358B37675439121682\nIzvor: Registar koncesija (FINA)\, obrada Konces
+ ijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B37675439121682
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -245,8 +264,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-ab6cf2674fcdb67b@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-bf02651a4092933a@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20441101
 DTEND;VALUE=DATE:20441102
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (KUPARI LUXURY HO
@@ -254,8 +273,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (KUPARI LUXURY HO
 DESCRIPTION:1. 5. 2045. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• KUPARI LUXURY HOTELS D.O.O. – Koncesija na pomorskom dobru (ŽUP
- A DUBROVAČKA)\, 48 €/god.\n\nProfil općine: https://koncesijski-sat.ve
- rcel.app/#opcina/41942358B37675439121682
+ A DUBROVAČKA) · davatelj: DUBROVAČKO-NERETVANSKA ŽUPANIJA\, 48 €/god
+ .\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B3
+ 7675439121682
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B37675439121682
 TRANSP:TRANSPARENT
 BEGIN:VALARM

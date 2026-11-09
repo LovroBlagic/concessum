@@ -4,28 +4,29 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Općina Satnica Đakovačka
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Satnica Đakova
- čka. Iz Registra koncesija (FINA\, data.gov.hr). Osvježava se nakon svak
- e obrade podataka. https://koncesijski-sat.vercel.app/#opcina/41942358B419
- 64845768137
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Općina Satnica Đakova
+ čka (pregled\, svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr)
+ . Osvježava se nakon svake obrade podataka. https://koncesijski-sat.verce
+ l.app/#opcina/41942358B41964845768137
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-e015349202210197@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-26efb29a18bccdc3@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20401231
 DTEND;VALUE=DATE:20410101
 SUMMARY:Ističe 3 koncesije · Satnica Đakovačka
 DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2040. Godišnja fiksna na
  knada: 1.584 €.\n\n• WIENERBERGER D.O.O. – Koncesija za eksploatacij
- u ciglarske gline (SATNICA ĐAKOVAČKA)\, 792 €/god.\n• WIENERBERGER D
- .O.O. – Koncesija za površinu utvrđenog eksploatacijskog polja neenerg
- etskih mineralnih sirovina (SATNICA ĐAKOVAČKA)\, 792 €/god.\n• WIENE
- RBERGER D.O.O. – Koncesija za eksploataciju ciglarske gline (SATNICA ĐA
- KOVAČKA)\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41
- 942358B41964845768137\nIzvor: Registar koncesija (FINA)\, obrada Koncesijs
- ki sat 9. 11. 2026.
+ u ciglarske gline (SATNICA ĐAKOVAČKA) · davatelj: MINISTARSTVO GOSPODAR
+ STVA\, 792 €/god.\n• WIENERBERGER D.O.O. – Koncesija za površinu ut
+ vrđenog eksploatacijskog polja neenergetskih mineralnih sirovina (SATNICA
+  ĐAKOVAČKA) · davatelj: MINISTARSTVO GOSPODARSTVA\, 792 €/god.\n• W
+ IENERBERGER D.O.O. – Koncesija za eksploataciju ciglarske gline (SATNICA
+  ĐAKOVAČKA) · davatelj: MINISTARSTVO GOSPODARSTVA\n\nProfil općine: ht
+ tps://koncesijski-sat.vercel.app/#opcina/41942358B41964845768137\nIzvor: R
+ egistar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B41964845768137
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -35,25 +36,28 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-e015349202210197@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-26efb29a18bccdc3@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20400630
 DTEND;VALUE=DATE:20400701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Satnica Đakov
+ ačka
 DESCRIPTION:31. 12. 2040. ističe 3 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• WIENERBERGER D.O.O. – Koncesija za eksploataciju ciglarske gl
- ine (SATNICA ĐAKOVAČKA)\, 792 €/god.\n• WIENERBERGER D.O.O. – Konc
- esija za površinu utvrđenog eksploatacijskog polja neenergetskih mineral
- nih sirovina (SATNICA ĐAKOVAČKA)\, 792 €/god.\n• WIENERBERGER D.O.O.
-  – Koncesija za eksploataciju ciglarske gline (SATNICA ĐAKOVAČKA)\n\nP
- rofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B4196484
- 5768137
+ ine (SATNICA ĐAKOVAČKA) · davatelj: MINISTARSTVO GOSPODARSTVA\, 792 €
+ /god.\n• WIENERBERGER D.O.O. – Koncesija za površinu utvrđenog ekspl
+ oatacijskog polja neenergetskih mineralnih sirovina (SATNICA ĐAKOVAČKA) 
+ · davatelj: MINISTARSTVO GOSPODARSTVA\, 792 €/god.\n• WIENERBERGER D.
+ O.O. – Koncesija za eksploataciju ciglarske gline (SATNICA ĐAKOVAČKA) 
+ · davatelj: MINISTARSTVO GOSPODARSTVA\n\nProfil općine: https://koncesij
+ ski-sat.vercel.app/#opcina/41942358B41964845768137
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B41964845768137
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Satnica Đ
+ akovačka
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT

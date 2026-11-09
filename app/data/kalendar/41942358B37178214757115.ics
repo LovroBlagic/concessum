@@ -4,24 +4,25 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Općina Novo Virje
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Novo Virje. Iz R
- egistra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade p
- odataka. https://koncesijski-sat.vercel.app/#opcina/41942358B3717821475711
- 5
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Općina Novo Virje (preg
+ led\, svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježa
+ va se nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#opc
+ ina/41942358B37178214757115
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-a2fbfa1db9c1a2f2@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-c9c807263422d7f5@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:Ističe koncesija: INA\, D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 30. 11. 2026. Godišnja fiksna nak
  nada: 854 €.\n\n• INA\, D.D. – Dozvola za istraživanje ugljikovodik
- a (prema Zakonu o ugljikovodicima) (NOVO VIRJE)\, 854 €/god.\n\nProfil o
- pćine: https://koncesijski-sat.vercel.app/#opcina/41942358B37178214757115
- \nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ a (prema Zakonu o ugljikovodicima) (NOVO VIRJE) · davatelj: MINISTARSTVO 
+ GOSPODARSTVA\, 854 €/god.\n\nProfil općine: https://koncesijski-sat.ver
+ cel.app/#opcina/41942358B37178214757115\nIzvor: Registar koncesija (FINA)\
+ , obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B37178214757115
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -31,16 +32,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-81c44e8d43a83932@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-a362581db0deac35@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20310709
 DTEND;VALUE=DATE:20310710
 SUMMARY:Ističe koncesija: DIVEKS J.D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 9. 7. 2031. Godišnja fiksna nakna
  da: 511 €.\n\n• DIVEKS J.D.O.O. – Koncesija za obavljanje dimnjačar
- skih poslova (NOVO VIRJE)\, 511 €/god.\n\nProfil općine: https://konces
- ijski-sat.vercel.app/#opcina/41942358B37178214757115\nIzvor: Registar konc
- esija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ skih poslova (NOVO VIRJE) · davatelj: OPĆINA NOVO VIRJE\, 511 €/god.\n
+ \nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B3717
+ 8214757115\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 1
+ 1. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B37178214757115
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -50,16 +52,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-81c44e8d43a83932@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-a362581db0deac35@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20310109
 DTEND;VALUE=DATE:20310110
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DIVEKS J.D.O.O.)
 DESCRIPTION:9. 7. 2031. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• DIVEKS J.D.O.O. – Koncesija za obavljanje dimnjačarskih poslova
-  (NOVO VIRJE)\, 511 €/god.\n\nProfil općine: https://koncesijski-sat.ve
- rcel.app/#opcina/41942358B37178214757115
+  (NOVO VIRJE) · davatelj: OPĆINA NOVO VIRJE\, 511 €/god.\n\nProfil op
+ ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B37178214757115
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B37178214757115
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -70,20 +72,21 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-821a50a01ebb6458@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-037b18bbebc26130@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20371231
 DTEND;VALUE=DATE:20380101
 SUMMARY:Ističe 3 koncesije · Novo Virje
 DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2037. Godišnja fiksna na
  knada: 6.207 €.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauze
- tu površinu odobrenog eksploatacijskog polja (NOVO VIRJE)\, 6.207 €/god
- .\n• INA D.D. – Dozvola za eksploataciju ugljikovodika (prema Zakonu o
-  ugljikovodicima) (NOVO VIRJE)\n• INA-INDUSTRIJA NAFTE  D.D. – Dozvola
-  za eksploataciju ugljikovodika (prema Zakonu o ugljikovodicima) (NOVO VIR
- JE)\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358
- B37178214757115\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat
-  9. 11. 2026.
+ tu površinu odobrenog eksploatacijskog polja (NOVO VIRJE) · davatelj: MI
+ NISTARSTVO GOSPODARSTVA\, 6.207 €/god.\n• INA D.D. – Dozvola za eksp
+ loataciju ugljikovodika (prema Zakonu o ugljikovodicima) (NOVO VIRJE) · d
+ avatelj: MINISTARSTVO GOSPODARSTVA\n• INA-INDUSTRIJA NAFTE  D.D. – Doz
+ vola za eksploataciju ugljikovodika (prema Zakonu o ugljikovodicima) (NOVO
+  VIRJE) · davatelj: MINISTARSTVO GOSPODARSTVA\n\nProfil općine: https://
+ koncesijski-sat.vercel.app/#opcina/41942358B37178214757115\nIzvor: Regista
+ r koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B37178214757115
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -93,43 +96,45 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-821a50a01ebb6458@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-037b18bbebc26130@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20370630
 DTEND;VALUE=DATE:20370701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Novo Virje
 DESCRIPTION:31. 12. 2037. ističe 3 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauzetu površinu o
- dobrenog eksploatacijskog polja (NOVO VIRJE)\, 6.207 €/god.\n• INA D.D
- . – Dozvola za eksploataciju ugljikovodika (prema Zakonu o ugljikovodici
- ma) (NOVO VIRJE)\n• INA-INDUSTRIJA NAFTE  D.D. – Dozvola za eksploatac
- iju ugljikovodika (prema Zakonu o ugljikovodicima) (NOVO VIRJE)\n\nProfil 
- općine: https://koncesijski-sat.vercel.app/#opcina/41942358B3717821475711
- 5
+ dobrenog eksploatacijskog polja (NOVO VIRJE) · davatelj: MINISTARSTVO GOS
+ PODARSTVA\, 6.207 €/god.\n• INA D.D. – Dozvola za eksploataciju uglj
+ ikovodika (prema Zakonu o ugljikovodicima) (NOVO VIRJE) · davatelj: MINIS
+ TARSTVO GOSPODARSTVA\n• INA-INDUSTRIJA NAFTE  D.D. – Dozvola za eksplo
+ ataciju ugljikovodika (prema Zakonu o ugljikovodicima) (NOVO VIRJE) · dav
+ atelj: MINISTARSTVO GOSPODARSTVA\n\nProfil općine: https://koncesijski-sa
+ t.vercel.app/#opcina/41942358B37178214757115
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B37178214757115
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Novo Virje
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-6288679ab5b2415f@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-efdc4d4927f86838@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20401231
 DTEND;VALUE=DATE:20410101
 SUMMARY:Ističe 3 koncesije · Novo Virje
 DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2040. Godišnja fiksna na
  knada: 2.449 €.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauze
- tu površinu odobrenog eksploatacijskog polja (NOVO VIRJE)\, 2.449 €/god
- .\n• INA-INDUSTRIJA NAFTE  D.D. – Dozvola za eksploataciju ugljikovodi
- ka (prema Zakonu o ugljikovodicima) (NOVO VIRJE)\n• INA D.D. – Dozvola
-  za eksploataciju ugljikovodika (prema Zakonu o ugljikovodicima) (NOVO VIR
- JE)\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358
- B37178214757115\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat
-  9. 11. 2026.
+ tu površinu odobrenog eksploatacijskog polja (NOVO VIRJE) · davatelj: MI
+ NISTARSTVO GOSPODARSTVA\, 2.449 €/god.\n• INA-INDUSTRIJA NAFTE  D.D. 
+ – Dozvola za eksploataciju ugljikovodika (prema Zakonu o ugljikovodicima
+ ) (NOVO VIRJE) · davatelj: MINISTARSTVO GOSPODARSTVA\n• INA D.D. – Do
+ zvola za eksploataciju ugljikovodika (prema Zakonu o ugljikovodicima) (NOV
+ O VIRJE) · davatelj: MINISTARSTVO GOSPODARSTVA\n\nProfil općine: https:/
+ /koncesijski-sat.vercel.app/#opcina/41942358B37178214757115\nIzvor: Regist
+ ar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B37178214757115
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -139,25 +144,26 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-6288679ab5b2415f@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-efdc4d4927f86838@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20400630
 DTEND;VALUE=DATE:20400701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Novo Virje
 DESCRIPTION:31. 12. 2040. ističe 3 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauzetu površinu o
- dobrenog eksploatacijskog polja (NOVO VIRJE)\, 2.449 €/god.\n• INA-IND
- USTRIJA NAFTE  D.D. – Dozvola za eksploataciju ugljikovodika (prema Zako
- nu o ugljikovodicima) (NOVO VIRJE)\n• INA D.D. – Dozvola za eksploatac
- iju ugljikovodika (prema Zakonu o ugljikovodicima) (NOVO VIRJE)\n\nProfil 
- općine: https://koncesijski-sat.vercel.app/#opcina/41942358B3717821475711
- 5
+ dobrenog eksploatacijskog polja (NOVO VIRJE) · davatelj: MINISTARSTVO GOS
+ PODARSTVA\, 2.449 €/god.\n• INA-INDUSTRIJA NAFTE  D.D. – Dozvola za 
+ eksploataciju ugljikovodika (prema Zakonu o ugljikovodicima) (NOVO VIRJE) 
+ · davatelj: MINISTARSTVO GOSPODARSTVA\n• INA D.D. – Dozvola za eksplo
+ ataciju ugljikovodika (prema Zakonu o ugljikovodicima) (NOVO VIRJE) · dav
+ atelj: MINISTARSTVO GOSPODARSTVA\n\nProfil općine: https://koncesijski-sa
+ t.vercel.app/#opcina/41942358B37178214757115
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B37178214757115
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Novo Virje
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT

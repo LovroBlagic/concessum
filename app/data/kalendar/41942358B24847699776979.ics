@@ -4,25 +4,26 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Grad Kaštela
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Grad Kaštela. Iz Regist
- ra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podata
- ka. https://koncesijski-sat.vercel.app/#opcina/41942358B24847699776979
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Grad Kaštela (pregled\,
+  svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježava se
+  nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#opcina/4
+ 1942358B24847699776979
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-cd901ebbe8fa5b0e@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-83d86352ef86af80@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270505
 DTEND;VALUE=DATE:20270506
 SUMMARY:Ističe koncesija: ZAJEDNIČKI UGOSTITELJSKI OBJEKT TSUNAMI\, VL. M
  ARINKO MILKOVIĆ I ZDENKA MILKOVIĆ
 DESCRIPTION:1 ugovor o koncesiji ističe 5. 5. 2027. Godišnja fiksna nakna
  da: 2.012 €.\n\n• ZAJEDNIČKI UGOSTITELJSKI OBJEKT TSUNAMI\, VL. MARIN
- KO MILKOVIĆ I ZDENKA MILKOVIĆ – Koncesija za luku (KAŠTELA)\, 2.012 
- €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
- 42358B24847699776979\nIzvor: Registar koncesija (FINA)\, obrada Koncesijsk
- i sat 9. 11. 2026.
+ KO MILKOVIĆ I ZDENKA MILKOVIĆ – Koncesija za luku (KAŠTELA) · davate
+ lj: LUČKA UPRAVA SPLIT\, 2.012 €/god.\n\nProfil općine: https://konces
+ ijski-sat.vercel.app/#opcina/41942358B24847699776979\nIzvor: Registar konc
+ esija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B24847699776979
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -33,16 +34,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-ec88d7579d838fcb@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-63173eb6d3abfeeb@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20310514
 DTEND;VALUE=DATE:20310515
 SUMMARY:Ističe koncesija: DIMNJAČARSTVO KAMIN J.D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 14. 5. 2031. Godišnja fiksna nakn
  ada: 500 €.\n\n• DIMNJAČARSTVO KAMIN J.D.O.O. – Koncesija za obavlj
- anje dimnjačarskih poslova (KAŠTELA)\, 500 €/god.\n\nProfil općine: h
- ttps://koncesijski-sat.vercel.app/#opcina/41942358B24847699776979\nIzvor: 
- Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ anje dimnjačarskih poslova (KAŠTELA) · davatelj: GRAD KAŠTELA\, 500 
+ €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
+ 42358B24847699776979\nIzvor: Registar koncesija (FINA)\, obrada Koncesijsk
+ i sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B24847699776979
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -52,8 +54,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-ec88d7579d838fcb@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-63173eb6d3abfeeb@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20301114
 DTEND;VALUE=DATE:20301115
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DIMNJAČARSTVO K
@@ -61,8 +63,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DIMNJAČARSTVO K
 DESCRIPTION:14. 5. 2031. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• DIMNJAČARSTVO KAMIN J.D.O.O. – Koncesija za obavljanje dimnja
- čarskih poslova (KAŠTELA)\, 500 €/god.\n\nProfil općine: https://konc
- esijski-sat.vercel.app/#opcina/41942358B24847699776979
+ čarskih poslova (KAŠTELA) · davatelj: GRAD KAŠTELA\, 500 €/god.\n\nP
+ rofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B2484769
+ 9776979
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B24847699776979
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -73,16 +76,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-73bf375f4aeaebba@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-fd7f3cdc3b77af72@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20311031
 DTEND;VALUE=DATE:20311101
 SUMMARY:Ističe koncesija: HRVATSKA ELEKTROPRIVREDA  D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 31. 10. 2031. Godišnja fiksna nak
  nada: 1.179 €.\n\n• HRVATSKA ELEKTROPRIVREDA  D.D. – Koncesija na po
- morskom dobru (KAŠTELA)\, 1.179 €/god.\n\nProfil općine: https://konce
- sijski-sat.vercel.app/#opcina/41942358B24847699776979\nIzvor: Registar kon
- cesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ morskom dobru (KAŠTELA) · davatelj: GRAD KAŠTELA\, 1.179 €/god.\n\nPr
+ ofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B24847699
+ 776979\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2
+ 026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B24847699776979
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -92,8 +96,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-73bf375f4aeaebba@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-fd7f3cdc3b77af72@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20310430
 DTEND;VALUE=DATE:20310501
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKA ELEKTRO
@@ -101,8 +105,8 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKA ELEKTRO
 DESCRIPTION:31. 10. 2031. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• HRVATSKA ELEKTROPRIVREDA  D.D. – Koncesija na pomorskom dobru 
- (KAŠTELA)\, 1.179 €/god.\n\nProfil općine: https://koncesijski-sat.ver
- cel.app/#opcina/41942358B24847699776979
+ (KAŠTELA) · davatelj: GRAD KAŠTELA\, 1.179 €/god.\n\nProfil općine: 
+ https://koncesijski-sat.vercel.app/#opcina/41942358B24847699776979
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B24847699776979
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -113,16 +117,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-d8673919aed21af5@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-f16a4db683392f4d@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20330724
 DTEND;VALUE=DATE:20330725
 SUMMARY:Ističe koncesija: CEMEX HRVATSKA D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 24. 7. 2033. Godišnja fiksna nakn
  ada: 4.749 €.\n\n• CEMEX HRVATSKA D.D. – Koncesija za luku (KAŠTELA
- )\, 4.749 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#
- opcina/41942358B24847699776979\nIzvor: Registar koncesija (FINA)\, obrada 
- Koncesijski sat 9. 11. 2026.
+ ) · davatelj: LUČKA UPRAVA SPLIT\, 4.749 €/god.\n\nProfil općine: htt
+ ps://koncesijski-sat.vercel.app/#opcina/41942358B24847699776979\nIzvor: Re
+ gistar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B24847699776979
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -132,17 +136,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-d8673919aed21af5@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-f16a4db683392f4d@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20330124
 DTEND;VALUE=DATE:20330125
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (CEMEX HRVATSKA D
  .D.)
 DESCRIPTION:24. 7. 2033. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
- .\n\n• CEMEX HRVATSKA D.D. – Koncesija za luku (KAŠTELA)\, 4.749 €/
- god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4194235
- 8B24847699776979
+ .\n\n• CEMEX HRVATSKA D.D. – Koncesija za luku (KAŠTELA) · davatelj:
+  LUČKA UPRAVA SPLIT\, 4.749 €/god.\n\nProfil općine: https://koncesijs
+ ki-sat.vercel.app/#opcina/41942358B24847699776979
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B24847699776979
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -153,16 +157,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-24f1b538825bbfc4@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-42397f303e724ecd@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20360103
 DTEND;VALUE=DATE:20360104
 SUMMARY:Ističe koncesija: WAKE PROJECT D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 3. 1. 2036. Godišnja fiksna nakna
  da: 13.224 €.\n\n• WAKE PROJECT D.O.O. – Koncesija na pomorskom dobr
- u (KAŠTELA)\, 13.224 €/god.\n\nProfil općine: https://koncesijski-sat.
- vercel.app/#opcina/41942358B24847699776979\nIzvor: Registar koncesija (FIN
- A)\, obrada Koncesijski sat 9. 11. 2026.
+ u (KAŠTELA) · davatelj: SPLITSKO-DALMATINSKA ŽUPANIJA\, 13.224 €/god.
+ \n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B24
+ 847699776979\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9.
+  11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B24847699776979
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -172,17 +177,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-24f1b538825bbfc4@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-42397f303e724ecd@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20350703
 DTEND;VALUE=DATE:20350704
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (WAKE PROJECT D.O
  .O.)
 DESCRIPTION:3. 1. 2036. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
- \n\n• WAKE PROJECT D.O.O. – Koncesija na pomorskom dobru (KAŠTELA)\, 
- 13.224 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opc
- ina/41942358B24847699776979
+ \n\n• WAKE PROJECT D.O.O. – Koncesija na pomorskom dobru (KAŠTELA) ·
+  davatelj: SPLITSKO-DALMATINSKA ŽUPANIJA\, 13.224 €/god.\n\nProfil opć
+ ine: https://koncesijski-sat.vercel.app/#opcina/41942358B24847699776979
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B24847699776979
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -193,16 +198,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-bbe62678019c7107@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-d3404f7b758b2b64@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20360904
 DTEND;VALUE=DATE:20360905
 SUMMARY:Ističe koncesija: VODOVOD I KANALIZACIJA  D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 4. 9. 2036. Godišnja fiksna nakna
  da: 357 €.\n\n• VODOVOD I KANALIZACIJA  D.O.O. – Koncesija na pomors
- kom dobru (KAŠTELA)\, 357 €/god.\n\nProfil općine: https://koncesijski
- -sat.vercel.app/#opcina/41942358B24847699776979\nIzvor: Registar koncesija
-  (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ kom dobru (KAŠTELA) · davatelj: SPLITSKO-DALMATINSKA ŽUPANIJA\, 357 €
+ /god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419423
+ 58B24847699776979\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski s
+ at 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B24847699776979
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -212,8 +218,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-bbe62678019c7107@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-d3404f7b758b2b64@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20360304
 DTEND;VALUE=DATE:20360305
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VODOVOD I KANALI
@@ -221,8 +227,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VODOVOD I KANALI
 DESCRIPTION:4. 9. 2036. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• VODOVOD I KANALIZACIJA  D.O.O. – Koncesija na pomorskom dobru (K
- AŠTELA)\, 357 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.
- app/#opcina/41942358B24847699776979
+ AŠTELA) · davatelj: SPLITSKO-DALMATINSKA ŽUPANIJA\, 357 €/god.\n\nPro
+ fil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B248476997
+ 76979
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B24847699776979
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -233,16 +240,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-ff7e71e1c69ad950@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-79bc8adb3b0a6730@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20371122
 DTEND;VALUE=DATE:20371123
 SUMMARY:Ističe koncesija: VODOVOD I KANALIZACIJA  D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 22. 11. 2037. Godišnja fiksna nak
  nada: 175 €.\n\n• VODOVOD I KANALIZACIJA  D.O.O. – Koncesija na pomo
- rskom dobru (KAŠTELA)\, 175 €/god.\n\nProfil općine: https://koncesijs
- ki-sat.vercel.app/#opcina/41942358B24847699776979\nIzvor: Registar koncesi
- ja (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ rskom dobru (KAŠTELA) · davatelj: SPLITSKO-DALMATINSKA ŽUPANIJA\, 175 
+ €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
+ 42358B24847699776979\nIzvor: Registar koncesija (FINA)\, obrada Koncesijsk
+ i sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B24847699776979
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -252,8 +260,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-ff7e71e1c69ad950@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-79bc8adb3b0a6730@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20370522
 DTEND;VALUE=DATE:20370523
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VODOVOD I KANALI
@@ -261,8 +269,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VODOVOD I KANALI
 DESCRIPTION:22. 11. 2037. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• VODOVOD I KANALIZACIJA  D.O.O. – Koncesija na pomorskom dobru 
- (KAŠTELA)\, 175 €/god.\n\nProfil općine: https://koncesijski-sat.verce
- l.app/#opcina/41942358B24847699776979
+ (KAŠTELA) · davatelj: SPLITSKO-DALMATINSKA ŽUPANIJA\, 175 €/god.\n\nP
+ rofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B2484769
+ 9776979
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B24847699776979
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -273,17 +282,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-24bd441f44ab5efa@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-4c2226aa4af7175d@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20380705
 DTEND;VALUE=DATE:20380706
 SUMMARY:Ističe koncesija: PSD
 DESCRIPTION:1 ugovor o koncesiji ističe 5. 7. 2038. Godišnja fiksna nakna
  da: 4.312 €.\n\n• PSD – Koncesija pomorskog dobra u svrhu izgradnje 
- i gospodarskog korištenja luke posebne namjene (KAŠTELA)\, 4.312 €/god
- .\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B2
- 4847699776979\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9
- . 11. 2026.
+ i gospodarskog korištenja luke posebne namjene (KAŠTELA) · davatelj: SP
+ LITSKO-DALMATINSKA ŽUPANIJA\, 4.312 €/god.\n\nProfil općine: https://k
+ oncesijski-sat.vercel.app/#opcina/41942358B24847699776979\nIzvor: Registar
+  koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B24847699776979
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -293,16 +302,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-24bd441f44ab5efa@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-4c2226aa4af7175d@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20380105
 DTEND;VALUE=DATE:20380106
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PSD)
 DESCRIPTION:5. 7. 2038. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• PSD – Koncesija pomorskog dobra u svrhu izgradnje i gospodarskog
-  korištenja luke posebne namjene (KAŠTELA)\, 4.312 €/god.\n\nProfil op
- ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B24847699776979
+  korištenja luke posebne namjene (KAŠTELA) · davatelj: SPLITSKO-DALMATI
+ NSKA ŽUPANIJA\, 4.312 €/god.\n\nProfil općine: https://koncesijski-sat
+ .vercel.app/#opcina/41942358B24847699776979
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B24847699776979
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -312,16 +322,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-e06ee8f3eff1a300@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-1d90f7c543851248@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20431223
 DTEND;VALUE=DATE:20431224
 SUMMARY:Ističe koncesija: MARINE KAŠTELA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 23. 12. 2043. Godišnja fiksna nak
  nada: 94.790 €.\n\n• MARINE KAŠTELA D.O.O. – Koncesija na pomorskom
-  dobru (KAŠTELA)\, 94.790 €/god.\n\nProfil općine: https://koncesijski
- -sat.vercel.app/#opcina/41942358B24847699776979\nIzvor: Registar koncesija
-  (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+  dobru (KAŠTELA) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTUR
+ E\, 94.790 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/
+ #opcina/41942358B24847699776979\nIzvor: Registar koncesija (FINA)\, obrada
+  Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B24847699776979
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -331,8 +342,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-e06ee8f3eff1a300@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-1d90f7c543851248@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20430623
 DTEND;VALUE=DATE:20430624
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MARINE KAŠTELA 
@@ -340,8 +351,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MARINE KAŠTELA
 DESCRIPTION:23. 12. 2043. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• MARINE KAŠTELA D.O.O. – Koncesija na pomorskom dobru (KAŠTEL
- A)\, 94.790 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app
- /#opcina/41942358B24847699776979
+ A) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\, 94.790 €/
+ god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4194235
+ 8B24847699776979
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B24847699776979
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -352,16 +364,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-f75ae43d31ad57a6@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-8a9dac8451533395@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20460927
 DTEND;VALUE=DATE:20460928
 SUMMARY:Ističe koncesija: VODOVOD I KANALIZ.DOO-KK2021-2027-FAZA2AKT
 DESCRIPTION:1 ugovor o koncesiji ističe 27. 9. 2046. Godišnja fiksna nakn
  ada: 19 €.\n\n• VODOVOD I KANALIZ.DOO-KK2021-2027-FAZA2AKT – Posebna
-  upotreba pomorskog dobra (KAŠTELA)\, 19 €/god.\n\nProfil općine: http
- s://koncesijski-sat.vercel.app/#opcina/41942358B24847699776979\nIzvor: Reg
- istar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+  upotreba pomorskog dobra (KAŠTELA) · davatelj: SPLITSKO-DALMATINSKA ŽU
+ PANIJA\, 19 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app
+ /#opcina/41942358B24847699776979\nIzvor: Registar koncesija (FINA)\, obrad
+ a Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B24847699776979
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -371,8 +384,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-f75ae43d31ad57a6@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-8a9dac8451533395@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20460327
 DTEND;VALUE=DATE:20460328
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VODOVOD I KANALI
@@ -380,8 +393,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VODOVOD I KANALI
 DESCRIPTION:27. 9. 2046. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• VODOVOD I KANALIZ.DOO-KK2021-2027-FAZA2AKT – Posebna upotreba p
- omorskog dobra (KAŠTELA)\, 19 €/god.\n\nProfil općine: https://koncesi
- jski-sat.vercel.app/#opcina/41942358B24847699776979
+ omorskog dobra (KAŠTELA) · davatelj: SPLITSKO-DALMATINSKA ŽUPANIJA\, 19
+  €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41
+ 942358B24847699776979
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B24847699776979
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -392,16 +406,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-cd8e849449cba70b@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-2140bfdecfe62fef@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20480528
 DTEND;VALUE=DATE:20480529
 SUMMARY:Ističe koncesija: CEMEX HRVATSKA D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 28. 5. 2048. Godišnja fiksna nakn
  ada: 3.507 €.\n\n• CEMEX HRVATSKA D.D. – Koncesija za zahvaćanje vo
- da za tehnološke potrebe (KAŠTELA)\, 3.507 €/god.\n\nProfil općine: h
- ttps://koncesijski-sat.vercel.app/#opcina/41942358B24847699776979\nIzvor: 
- Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ da za tehnološke potrebe (KAŠTELA) · davatelj: MINISTARSTVO ZAŠTITE OK
+ OLIŠA I ZELENE TRANZICIJE\, 3.507 €/god.\n\nProfil općine: https://kon
+ cesijski-sat.vercel.app/#opcina/41942358B24847699776979\nIzvor: Registar k
+ oncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B24847699776979
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -411,8 +426,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-cd8e849449cba70b@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-2140bfdecfe62fef@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20471128
 DTEND;VALUE=DATE:20471129
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (CEMEX HRVATSKA D
@@ -420,8 +435,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (CEMEX HRVATSKA D
 DESCRIPTION:28. 5. 2048. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• CEMEX HRVATSKA D.D. – Koncesija za zahvaćanje voda za tehnolo
- ške potrebe (KAŠTELA)\, 3.507 €/god.\n\nProfil općine: https://konces
- ijski-sat.vercel.app/#opcina/41942358B24847699776979
+ ške potrebe (KAŠTELA) · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠA I ZELE
+ NE TRANZICIJE\, 3.507 €/god.\n\nProfil općine: https://koncesijski-sat.
+ vercel.app/#opcina/41942358B24847699776979
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B24847699776979
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -432,20 +448,21 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-5b07086098ea6615@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-cf894726fb37643f@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20491231
 DTEND;VALUE=DATE:20500101
 SUMMARY:Ističe 3 koncesije · Kaštela
 DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2049. Godišnja fiksna na
  knada: 2.448 €.\n\n• DISK MONT D.O.O. – Koncesija za eksploataciju a
- rhitektonsko-građevnog kamena (KAŠTELA)\, 816 €/god.\n• DISK MONT  D
- .O.O. – Koncesija za eksploataciju arhitektonsko-građevnog kamena (KAŠ
- TELA)\, 816 €/god.\n• DISK MONT D.O.O. – Koncesija za površinu utvr
- đenog eksploatacijskog polja neenergetskih mineralnih sirovina (KAŠTELA)
- \, 816 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opc
- ina/41942358B24847699776979\nIzvor: Registar koncesija (FINA)\, obrada Kon
- cesijski sat 9. 11. 2026.
+ rhitektonsko-građevnog kamena (KAŠTELA) · davatelj: MINISTARSTVO GOSPOD
+ ARSTVA\, 816 €/god.\n• DISK MONT  D.O.O. – Koncesija za eksploatacij
+ u arhitektonsko-građevnog kamena (KAŠTELA) · davatelj: MINISTARSTVO GOS
+ PODARSTVA\, 816 €/god.\n• DISK MONT D.O.O. – Koncesija za površinu 
+ utvrđenog eksploatacijskog polja neenergetskih mineralnih sirovina (KAŠT
+ ELA) · davatelj: MINISTARSTVO GOSPODARSTVA\, 816 €/god.\n\nProfil opći
+ ne: https://koncesijski-sat.vercel.app/#opcina/41942358B24847699776979\nIz
+ vor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B24847699776979
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -455,43 +472,46 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-5b07086098ea6615@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-cf894726fb37643f@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20490630
 DTEND;VALUE=DATE:20490701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Kaštela
 DESCRIPTION:31. 12. 2049. ističe 3 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• DISK MONT D.O.O. – Koncesija za eksploataciju arhitektonsko-g
- rađevnog kamena (KAŠTELA)\, 816 €/god.\n• DISK MONT  D.O.O. – Konc
- esija za eksploataciju arhitektonsko-građevnog kamena (KAŠTELA)\, 816 
- €/god.\n• DISK MONT D.O.O. – Koncesija za površinu utvrđenog ekspl
- oatacijskog polja neenergetskih mineralnih sirovina (KAŠTELA)\, 816 €/g
- od.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358
- B24847699776979
+ rađevnog kamena (KAŠTELA) · davatelj: MINISTARSTVO GOSPODARSTVA\, 816 
+ €/god.\n• DISK MONT  D.O.O. – Koncesija za eksploataciju arhitektons
+ ko-građevnog kamena (KAŠTELA) · davatelj: MINISTARSTVO GOSPODARSTVA\, 8
+ 16 €/god.\n• DISK MONT D.O.O. – Koncesija za površinu utvrđenog ek
+ sploatacijskog polja neenergetskih mineralnih sirovina (KAŠTELA) · davat
+ elj: MINISTARSTVO GOSPODARSTVA\, 816 €/god.\n\nProfil općine: https://k
+ oncesijski-sat.vercel.app/#opcina/41942358B24847699776979
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B24847699776979
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Kaštela
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-edc70b4c70c2b1cb@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-f2f640c41f86f0ae@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20501231
 DTEND;VALUE=DATE:20510101
 SUMMARY:Ističe 3 koncesije · Kaštela
 DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2050. Godišnja fiksna na
  knada: 4.044 €.\n\n• ADRIAKAMEN D.O.O. – Koncesija za eksploataciju 
- arhitektonsko-građevnog kamena (KAŠTELA)\, 1.348 €/god.\n• ADRIAKAME
- N D.O.O. – Koncesija za eksploataciju arhitektonsko-građevnog kamena (K
- AŠTELA)\, 1.348 €/god.\n• ADRIAKAMEN D.O.O. – Koncesija za površin
- u utvrđenog eksploatacijskog polja neenergetskih mineralnih sirovina (KA
- ŠTELA)\, 1.348 €/god.\n\nProfil općine: https://koncesijski-sat.vercel
- .app/#opcina/41942358B24847699776979\nIzvor: Registar koncesija (FINA)\, o
- brada Koncesijski sat 9. 11. 2026.
+ arhitektonsko-građevnog kamena (KAŠTELA) · davatelj: MINISTARSTVO GOSPO
+ DARSTVA\, 1.348 €/god.\n• ADRIAKAMEN D.O.O. – Koncesija za eksploata
+ ciju arhitektonsko-građevnog kamena (KAŠTELA) · davatelj: MINISTARSTVO 
+ GOSPODARSTVA\, 1.348 €/god.\n• ADRIAKAMEN D.O.O. – Koncesija za povr
+ šinu utvrđenog eksploatacijskog polja neenergetskih mineralnih sirovina 
+ (KAŠTELA) · davatelj: MINISTARSTVO GOSPODARSTVA\, 1.348 €/god.\n\nProf
+ il općine: https://koncesijski-sat.vercel.app/#opcina/41942358B2484769977
+ 6979\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 202
+ 6.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B24847699776979
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -501,43 +521,45 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-edc70b4c70c2b1cb@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-f2f640c41f86f0ae@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20500630
 DTEND;VALUE=DATE:20500701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Kaštela
 DESCRIPTION:31. 12. 2050. ističe 3 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• ADRIAKAMEN D.O.O. – Koncesija za eksploataciju arhitektonsko-
- građevnog kamena (KAŠTELA)\, 1.348 €/god.\n• ADRIAKAMEN D.O.O. – K
- oncesija za eksploataciju arhitektonsko-građevnog kamena (KAŠTELA)\, 1.3
- 48 €/god.\n• ADRIAKAMEN D.O.O. – Koncesija za površinu utvrđenog e
- ksploatacijskog polja neenergetskih mineralnih sirovina (KAŠTELA)\, 1.348
-  €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41
- 942358B24847699776979
+ građevnog kamena (KAŠTELA) · davatelj: MINISTARSTVO GOSPODARSTVA\, 1.34
+ 8 €/god.\n• ADRIAKAMEN D.O.O. – Koncesija za eksploataciju arhitekto
+ nsko-građevnog kamena (KAŠTELA) · davatelj: MINISTARSTVO GOSPODARSTVA\,
+  1.348 €/god.\n• ADRIAKAMEN D.O.O. – Koncesija za površinu utvrđen
+ og eksploatacijskog polja neenergetskih mineralnih sirovina (KAŠTELA) · 
+ davatelj: MINISTARSTVO GOSPODARSTVA\, 1.348 €/god.\n\nProfil općine: ht
+ tps://koncesijski-sat.vercel.app/#opcina/41942358B24847699776979
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B24847699776979
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Kaštela
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-4a8a7224f2304020@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-39197f754d0f0d88@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20520731
 DTEND;VALUE=DATE:20520801
 SUMMARY:Ističe 3 koncesije · Kaštela
 DESCRIPTION:3 ugovora o koncesiji ističe 31. 7. 2052. Godišnja fiksna nak
  nada: 256 €.\n\n• ADRIAKAMEN D.O.O. – Koncesija za eksploataciju arh
- itektonsko-građevnog kamena (KAŠTELA)\, 128 €/god.\n• ADRIAKAMEN D.O
- .O. – Koncesija za površinu utvrđenog eksploatacijskog polja neenerget
- skih mineralnih sirovina (KAŠTELA)\, 128 €/god.\n• ADRIAKAMEN D.O.O. 
- – Koncesija za eksploataciju arhitektonsko-građevnog kamena (KAŠTELA)\
- n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B248
- 47699776979\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 
- 11. 2026.
+ itektonsko-građevnog kamena (KAŠTELA) · davatelj: MINISTARSTVO GOSPODAR
+ STVA\, 128 €/god.\n• ADRIAKAMEN D.O.O. – Koncesija za površinu utvr
+ đenog eksploatacijskog polja neenergetskih mineralnih sirovina (KAŠTELA)
+  · davatelj: MINISTARSTVO GOSPODARSTVA\, 128 €/god.\n• ADRIAKAMEN D.O
+ .O. – Koncesija za eksploataciju arhitektonsko-građevnog kamena (KAŠTE
+ LA) · davatelj: MINISTARSTVO GOSPODARSTVA\n\nProfil općine: https://konc
+ esijski-sat.vercel.app/#opcina/41942358B24847699776979\nIzvor: Registar ko
+ ncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B24847699776979
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -547,39 +569,41 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-4a8a7224f2304020@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-39197f754d0f0d88@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20520131
 DTEND;VALUE=DATE:20520201
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Kaštela
 DESCRIPTION:31. 7. 2052. ističe 3 ugovora o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• ADRIAKAMEN D.O.O. – Koncesija za eksploataciju arhitektonsko-g
- rađevnog kamena (KAŠTELA)\, 128 €/god.\n• ADRIAKAMEN D.O.O. – Konc
- esija za površinu utvrđenog eksploatacijskog polja neenergetskih mineral
- nih sirovina (KAŠTELA)\, 128 €/god.\n• ADRIAKAMEN D.O.O. – Koncesij
- a za eksploataciju arhitektonsko-građevnog kamena (KAŠTELA)\n\nProfil op
- ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B24847699776979
+ rađevnog kamena (KAŠTELA) · davatelj: MINISTARSTVO GOSPODARSTVA\, 128 
+ €/god.\n• ADRIAKAMEN D.O.O. – Koncesija za površinu utvrđenog eksp
+ loatacijskog polja neenergetskih mineralnih sirovina (KAŠTELA) · davatel
+ j: MINISTARSTVO GOSPODARSTVA\, 128 €/god.\n• ADRIAKAMEN D.O.O. – Kon
+ cesija za eksploataciju arhitektonsko-građevnog kamena (KAŠTELA) · dava
+ telj: MINISTARSTVO GOSPODARSTVA\n\nProfil općine: https://koncesijski-sat
+ .vercel.app/#opcina/41942358B24847699776979
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B24847699776979
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Kaštela
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-99413a4eac18ee14@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-a95b1e9df3819e43@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20530531
 DTEND;VALUE=DATE:20530601
 SUMMARY:Ističe koncesija: CEMEX HRVATSKA D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 31. 5. 2053. Godišnja fiksna nakn
  ada: 18.438 €.\n\n• CEMEX HRVATSKA D.D. – Koncesija za površinu utv
  rđenog eksploatacijskog polja neenergetskih mineralnih sirovina (KAŠTELA
- )\, 18.438 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/
- #opcina/41942358B24847699776979\nIzvor: Registar koncesija (FINA)\, obrada
-  Koncesijski sat 9. 11. 2026.
+ ) · davatelj: MINISTARSTVO GOSPODARSTVA\, 18.438 €/god.\n\nProfil opći
+ ne: https://koncesijski-sat.vercel.app/#opcina/41942358B24847699776979\nIz
+ vor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B24847699776979
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -589,8 +613,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-99413a4eac18ee14@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-a95b1e9df3819e43@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20521130
 DTEND;VALUE=DATE:20521201
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (CEMEX HRVATSKA D
@@ -598,9 +622,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (CEMEX HRVATSKA D
 DESCRIPTION:31. 5. 2053. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• CEMEX HRVATSKA D.D. – Koncesija za površinu utvrđenog eksploa
- tacijskog polja neenergetskih mineralnih sirovina (KAŠTELA)\, 18.438 €/
- god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4194235
- 8B24847699776979
+ tacijskog polja neenergetskih mineralnih sirovina (KAŠTELA) · davatelj: 
+ MINISTARSTVO GOSPODARSTVA\, 18.438 €/god.\n\nProfil općine: https://kon
+ cesijski-sat.vercel.app/#opcina/41942358B24847699776979
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B24847699776979
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -611,27 +635,32 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-713fab2e3c3ceb4a@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-d2c737c0bab92293@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20531231
 DTEND;VALUE=DATE:20540101
 SUMMARY:Ističe 8 koncesija · Kaštela
 DESCRIPTION:8 ugovora o koncesiji ističe 31. 12. 2053. Godišnja fiksna na
  knada: 4.074 €.\n\n• CAVA PLANIT D.O.O. – Koncesija za površinu utv
  rđenog eksploatacijskog polja neenergetskih mineralnih sirovina (KAŠTELA
- )\, 1.586 €/god.\n• PLANO LITHOS D.O.O. – Koncesija za površinu utv
- rđenog eksploatacijskog polja neenergetskih mineralnih sirovina (KAŠTELA
- )\, 1.244 €/god.\n• PLANO LITHOS D.O.O. – Koncesija za eksploataciju
-  arhitektonsko-građevnog kamena (KAŠTELA)\, 1.244 €/god.\n• CAVA PLA
- NIT D.O.O. – Koncesija za eksploataciju arhitektonsko-građevnog kamena 
- (KAŠTELA)\n• CAVA PLANIT D.O.O. – Koncesija za eksploataciju arhitekt
- onsko-građevnog kamena (KAŠTELA)\n• CEMEX HRVATSKA D.D. – Koncesija 
- za eksploataciju mineralne sirovine za proizvodnju cementa (KAŠTELA)\n•
-  CEMEX HRVATSKA D.D. – Koncesija za eksploataciju mineralne sirovine za 
- proizvodnju cementa (KAŠTELA)\n• PLANO LITHOS  D.O.O. – Koncesija za 
- eksploataciju arhitektonsko-građevnog kamena (KAŠTELA)\n\nProfil općine
- : https://koncesijski-sat.vercel.app/#opcina/41942358B24847699776979\nIzvo
- r: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ ) · davatelj: MINISTARSTVO GOSPODARSTVA\, 1.586 €/god.\n• PLANO LITHO
+ S D.O.O. – Koncesija za površinu utvrđenog eksploatacijskog polja neen
+ ergetskih mineralnih sirovina (KAŠTELA) · davatelj: MINISTARSTVO GOSPODA
+ RSTVA\, 1.244 €/god.\n• PLANO LITHOS D.O.O. – Koncesija za eksploata
+ ciju arhitektonsko-građevnog kamena (KAŠTELA) · davatelj: MINISTARSTVO 
+ GOSPODARSTVA\, 1.244 €/god.\n• CAVA PLANIT D.O.O. – Koncesija za eks
+ ploataciju arhitektonsko-građevnog kamena (KAŠTELA) · davatelj: MINISTA
+ RSTVO GOSPODARSTVA\n• CAVA PLANIT D.O.O. – Koncesija za eksploataciju 
+ arhitektonsko-građevnog kamena (KAŠTELA) · davatelj: MINISTARSTVO GOSPO
+ DARSTVA\n• CEMEX HRVATSKA D.D. – Koncesija za eksploataciju mineralne 
+ sirovine za proizvodnju cementa (KAŠTELA) · davatelj: MINISTARSTVO GOSPO
+ DARSTVA\n• CEMEX HRVATSKA D.D. – Koncesija za eksploataciju mineralne 
+ sirovine za proizvodnju cementa (KAŠTELA) · davatelj: MINISTARSTVO GOSPO
+ DARSTVA\n• PLANO LITHOS  D.O.O. – Koncesija za eksploataciju arhitekto
+ nsko-građevnog kamena (KAŠTELA) · davatelj: MINISTARSTVO GOSPODARSTVA\n
+ \nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B2484
+ 7699776979\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 1
+ 1. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B24847699776979
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -641,47 +670,52 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-713fab2e3c3ceb4a@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-d2c737c0bab92293@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20530630
 DTEND;VALUE=DATE:20530701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 8 koncesija
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 8 koncesija · Kaštela
 DESCRIPTION:31. 12. 2053. ističe 8 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• CAVA PLANIT D.O.O. – Koncesija za površinu utvrđenog eksplo
- atacijskog polja neenergetskih mineralnih sirovina (KAŠTELA)\, 1.586 €/
- god.\n• PLANO LITHOS D.O.O. – Koncesija za površinu utvrđenog eksplo
- atacijskog polja neenergetskih mineralnih sirovina (KAŠTELA)\, 1.244 €/
- god.\n• PLANO LITHOS D.O.O. – Koncesija za eksploataciju arhitektonsko
- -građevnog kamena (KAŠTELA)\, 1.244 €/god.\n• CAVA PLANIT D.O.O. –
-  Koncesija za eksploataciju arhitektonsko-građevnog kamena (KAŠTELA)\n
- • CAVA PLANIT D.O.O. – Koncesija za eksploataciju arhitektonsko-građe
- vnog kamena (KAŠTELA)\n• CEMEX HRVATSKA D.D. – Koncesija za eksploata
- ciju mineralne sirovine za proizvodnju cementa (KAŠTELA)\n• CEMEX HRVAT
- SKA D.D. – Koncesija za eksploataciju mineralne sirovine za proizvodnju 
- cementa (KAŠTELA)\n• PLANO LITHOS  D.O.O. – Koncesija za eksploatacij
- u arhitektonsko-građevnog kamena (KAŠTELA)\n\nProfil općine: https://ko
- ncesijski-sat.vercel.app/#opcina/41942358B24847699776979
+ atacijskog polja neenergetskih mineralnih sirovina (KAŠTELA) · davatelj:
+  MINISTARSTVO GOSPODARSTVA\, 1.586 €/god.\n• PLANO LITHOS D.O.O. – K
+ oncesija za površinu utvrđenog eksploatacijskog polja neenergetskih mine
+ ralnih sirovina (KAŠTELA) · davatelj: MINISTARSTVO GOSPODARSTVA\, 1.244 
+ €/god.\n• PLANO LITHOS D.O.O. – Koncesija za eksploataciju arhitekto
+ nsko-građevnog kamena (KAŠTELA) · davatelj: MINISTARSTVO GOSPODARSTVA\,
+  1.244 €/god.\n• CAVA PLANIT D.O.O. – Koncesija za eksploataciju arh
+ itektonsko-građevnog kamena (KAŠTELA) · davatelj: MINISTARSTVO GOSPODAR
+ STVA\n• CAVA PLANIT D.O.O. – Koncesija za eksploataciju arhitektonsko-
+ građevnog kamena (KAŠTELA) · davatelj: MINISTARSTVO GOSPODARSTVA\n• C
+ EMEX HRVATSKA D.D. – Koncesija za eksploataciju mineralne sirovine za pr
+ oizvodnju cementa (KAŠTELA) · davatelj: MINISTARSTVO GOSPODARSTVA\n• C
+ EMEX HRVATSKA D.D. – Koncesija za eksploataciju mineralne sirovine za pr
+ oizvodnju cementa (KAŠTELA) · davatelj: MINISTARSTVO GOSPODARSTVA\n• P
+ LANO LITHOS  D.O.O. – Koncesija za eksploataciju arhitektonsko-građevno
+ g kamena (KAŠTELA) · davatelj: MINISTARSTVO GOSPODARSTVA\n\nProfil opći
+ ne: https://koncesijski-sat.vercel.app/#opcina/41942358B24847699776979
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B24847699776979
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 8 koncesija
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 8 koncesija · Kaštela
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-54dd104e70b44a1d@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-b36b23aa6316df8f@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20581112
 DTEND;VALUE=DATE:20581113
 SUMMARY:Ističe koncesija: VODOVOD I KANALIZACIJA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 12. 11. 2058. Godišnja fiksna nak
  nada: 7.229 €.\n\n• VODOVOD I KANALIZACIJA D.O.O. – Koncesija pomors
- kog dobra u svrhu izgradnje i gospodarskog korištenja (KAŠTELA)\, 7.229 
- €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
- 42358B24847699776979\nIzvor: Registar koncesija (FINA)\, obrada Koncesijsk
- i sat 9. 11. 2026.
+ kog dobra u svrhu izgradnje i gospodarskog korištenja (KAŠTELA) · davat
+ elj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\, 7.229 €/god.\n\nProf
+ il općine: https://koncesijski-sat.vercel.app/#opcina/41942358B2484769977
+ 6979\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 202
+ 6.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B24847699776979
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -691,8 +725,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-54dd104e70b44a1d@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-b36b23aa6316df8f@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20580512
 DTEND;VALUE=DATE:20580513
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VODOVOD I KANALI
@@ -700,9 +734,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VODOVOD I KANALI
 DESCRIPTION:12. 11. 2058. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• VODOVOD I KANALIZACIJA D.O.O. – Koncesija pomorskog dobra u sv
- rhu izgradnje i gospodarskog korištenja (KAŠTELA)\, 7.229 €/god.\n\nPr
- ofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B24847699
- 776979
+ rhu izgradnje i gospodarskog korištenja (KAŠTELA) · davatelj: MINISTARS
+ TVO MORA\, PROMETA I INFRASTRUKTURE\, 7.229 €/god.\n\nProfil općine: ht
+ tps://koncesijski-sat.vercel.app/#opcina/41942358B24847699776979
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B24847699776979
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -713,19 +747,21 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-76f27b082661eac3@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-893a7afa10a3c55a@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20591231
 DTEND;VALUE=DATE:20600101
 SUMMARY:Ističe 3 koncesije · Kaštela
 DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2059. Godišnja fiksna na
  knada: 3.452 €.\n\n• ZA DOM D.O.O. – Koncesija za površinu utvrđen
- og eksploatacijskog polja neenergetskih mineralnih sirovina (KAŠTELA)\, 3
- .452 €/god.\n• ZA DOM D.O.O. – Koncesija za eksploataciju tehničko-
- građevnog kamena (KAŠTELA)\n• ZA DOM D.O.O. – Koncesija za eksploata
- ciju tehničko-građevnog kamena (KAŠTELA)\n\nProfil općine: https://kon
- cesijski-sat.vercel.app/#opcina/41942358B24847699776979\nIzvor: Registar k
- oncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ og eksploatacijskog polja neenergetskih mineralnih sirovina (KAŠTELA) · 
+ davatelj: MINISTARSTVO GOSPODARSTVA\, 3.452 €/god.\n• ZA DOM D.O.O. 
+ – Koncesija za eksploataciju tehničko-građevnog kamena (KAŠTELA) · d
+ avatelj: MINISTARSTVO GOSPODARSTVA\n• ZA DOM D.O.O. – Koncesija za eks
+ ploataciju tehničko-građevnog kamena (KAŠTELA) · davatelj: MINISTARSTV
+ O GOSPODARSTVA\n\nProfil općine: https://koncesijski-sat.vercel.app/#opci
+ na/41942358B24847699776979\nIzvor: Registar koncesija (FINA)\, obrada Konc
+ esijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B24847699776979
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -735,39 +771,42 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-76f27b082661eac3@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-893a7afa10a3c55a@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20590630
 DTEND;VALUE=DATE:20590701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Kaštela
 DESCRIPTION:31. 12. 2059. ističe 3 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• ZA DOM D.O.O. – Koncesija za površinu utvrđenog eksploataci
- jskog polja neenergetskih mineralnih sirovina (KAŠTELA)\, 3.452 €/god.\
- n• ZA DOM D.O.O. – Koncesija za eksploataciju tehničko-građevnog kam
- ena (KAŠTELA)\n• ZA DOM D.O.O. – Koncesija za eksploataciju tehničko
- -građevnog kamena (KAŠTELA)\n\nProfil općine: https://koncesijski-sat.v
- ercel.app/#opcina/41942358B24847699776979
+ jskog polja neenergetskih mineralnih sirovina (KAŠTELA) · davatelj: MINI
+ STARSTVO GOSPODARSTVA\, 3.452 €/god.\n• ZA DOM D.O.O. – Koncesija za
+  eksploataciju tehničko-građevnog kamena (KAŠTELA) · davatelj: MINISTA
+ RSTVO GOSPODARSTVA\n• ZA DOM D.O.O. – Koncesija za eksploataciju tehni
+ čko-građevnog kamena (KAŠTELA) · davatelj: MINISTARSTVO GOSPODARSTVA\n
+ \nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B2484
+ 7699776979
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B24847699776979
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Kaštela
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-d9600962fff3bcc2@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-0c774cb4ba5f36d8@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20650905
 DTEND;VALUE=DATE:20650906
 SUMMARY:Ističe koncesija: HRVATSKI OPERATOR PRIJENOSNOG SUSTAVA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 5. 9. 2065. Godišnja fiksna nakna
  da: 4.313 €.\n\n• HRVATSKI OPERATOR PRIJENOSNOG SUSTAVA D.O.O. – Kon
  cesija pomorskog dobra za posebnu upotrebu u svrhu gradnje kabelske veze (
- KAŠTELA)\, 4.313 €/god.\n\nProfil općine: https://koncesijski-sat.verc
- el.app/#opcina/41942358B24847699776979\nIzvor: Registar koncesija (FINA)\,
-  obrada Koncesijski sat 9. 11. 2026.
+ KAŠTELA) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\, 4.31
+ 3 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4
+ 1942358B24847699776979\nIzvor: Registar koncesija (FINA)\, obrada Koncesij
+ ski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B24847699776979
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -777,8 +816,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-d9600962fff3bcc2@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-0c774cb4ba5f36d8@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20650305
 DTEND;VALUE=DATE:20650306
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKI OPERATO
@@ -786,9 +825,10 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKI OPERATO
 DESCRIPTION:5. 9. 2065. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• HRVATSKI OPERATOR PRIJENOSNOG SUSTAVA D.O.O. – Koncesija pomorsk
- og dobra za posebnu upotrebu u svrhu gradnje kabelske veze (KAŠTELA)\, 4.
- 313 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina
- /41942358B24847699776979
+ og dobra za posebnu upotrebu u svrhu gradnje kabelske veze (KAŠTELA) · d
+ avatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\, 4.313 €/god.\n\n
+ Profil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B248476
+ 99776979
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B24847699776979
 TRANSP:TRANSPARENT
 BEGIN:VALARM

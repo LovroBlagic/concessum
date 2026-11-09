@@ -1,0 +1,93 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · OPĆINA MRKOPALJ
+X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje OPĆINA MRKOPALJ. Iz Regis
+ tra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podat
+ aka. https://koncesijski-sat.vercel.app/#sat
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-9719aa844aa99435@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20290313
+DTEND;VALUE=DATE:20290314
+SUMMARY:Ističe koncesija: DIMNJAČARSTVO VALJAK D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 13. 3. 2029. Godišnja fiksna nakn
+ ada: 200 €.\n\n• DIMNJAČARSTVO VALJAK D.O.O. – Koncesija za obavlja
+ nje dimnjačarskih poslova (MRKOPALJ\, Općina Mrkopalj)\, 200 €/god.\n\
+ nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar ko
+ ncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: DIMNJAČARSTVO VALJAK D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-9719aa844aa99435@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20280913
+DTEND;VALUE=DATE:20280914
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DIMNJAČARSTVO V
+ ALJAK D.O.O.)
+DESCRIPTION:13. 3. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• DIMNJAČARSTVO VALJAK D.O.O. – Koncesija za obavljanje dimnjač
+ arskih poslova (MRKOPALJ\, Općina Mrkopalj)\, 200 €/god.\n\nŠto istič
+ e: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DIMNJAČARST
+ VO VALJAK D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-0b176a6a34becfec@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20290331
+DTEND;VALUE=DATE:20290401
+SUMMARY:Ističe koncesija: DIMNJAČARSTVO VALJAK D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 31. 3. 2029. Godišnja fiksna nakn
+ ada: 200 €.\n\n• DIMNJAČARSTVO VALJAK D.O.O. – Koncesija za obavlja
+ nje dimnjačarskih poslova (MRKOPALJ\, Općina Mrkopalj)\, 200 €/god.\n\
+ nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar ko
+ ncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: DIMNJAČARSTVO VALJAK D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-0b176a6a34becfec@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20280930
+DTEND;VALUE=DATE:20281001
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DIMNJAČARSTVO V
+ ALJAK D.O.O.)
+DESCRIPTION:31. 3. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• DIMNJAČARSTVO VALJAK D.O.O. – Koncesija za obavljanje dimnjač
+ arskih poslova (MRKOPALJ\, Općina Mrkopalj)\, 200 €/god.\n\nŠto istič
+ e: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DIMNJAČARST
+ VO VALJAK D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

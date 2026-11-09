@@ -4,25 +4,26 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Općina Ernestinovo
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Ernestinovo. Iz 
- Registra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade 
- podataka. https://koncesijski-sat.vercel.app/#opcina/41942358B648300755208
- 03
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Općina Ernestinovo (pre
+ gled\, svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvjež
+ ava se nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#op
+ cina/41942358B64830075520803
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-1d44dead06526458@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-874926f200bfc569@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20351128
 DTEND;VALUE=DATE:20351129
 SUMMARY:Ističe koncesija: HEP - PLIN  D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 28. 11. 2035. Godišnja fiksna nak
  nada: 265 €.\n\n• HEP - PLIN  D.O.O. – Koncesija za izgradnju distri
  bucijskog sustava plinovoda i pružanje usluga distribucijskim sustavom (E
- RNESTINOVO)\, 265 €/god.\n\nProfil općine: https://koncesijski-sat.verc
- el.app/#opcina/41942358B64830075520803\nIzvor: Registar koncesija (FINA)\,
-  obrada Koncesijski sat 9. 11. 2026.
+ RNESTINOVO) · davatelj: OSJEČKO-BARANJSKA ŽUPANIJA\, 265 €/god.\n\nPr
+ ofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B64830075
+ 520803\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2
+ 026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B64830075520803
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -32,8 +33,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-1d44dead06526458@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-874926f200bfc569@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20350528
 DTEND;VALUE=DATE:20350529
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP - PLIN  D.O.
@@ -41,9 +42,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP - PLIN  D.O.
 DESCRIPTION:28. 11. 2035. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• HEP - PLIN  D.O.O. – Koncesija za izgradnju distribucijskog su
- stava plinovoda i pružanje usluga distribucijskim sustavom (ERNESTINOVO)\
- , 265 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opci
- na/41942358B64830075520803
+ stava plinovoda i pružanje usluga distribucijskim sustavom (ERNESTINOVO) 
+ · davatelj: OSJEČKO-BARANJSKA ŽUPANIJA\, 265 €/god.\n\nProfil općine
+ : https://koncesijski-sat.vercel.app/#opcina/41942358B64830075520803
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B64830075520803
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -54,17 +55,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-c8c987f5d2bb6b68@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-11374ed2bafc49e9@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20370530
 DTEND;VALUE=DATE:20370531
 SUMMARY:Ističe koncesija: NOVI AGRAR D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 30. 5. 2037. Godišnja fiksna nakn
  ada: 11.103 €.\n\n• NOVI AGRAR D.O.O. – Koncesija za korištenje pol
- joprivrednog zemljišta u vlasništvu države (ERNESTINOVO)\, 11.103 €/g
- od.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358
- B64830075520803\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat
-  9. 11. 2026.
+ joprivrednog zemljišta u vlasništvu države (ERNESTINOVO) · davatelj: O
+ PĆINA ERNESTINOVO\, 11.103 €/god.\n\nProfil općine: https://koncesijsk
+ i-sat.vercel.app/#opcina/41942358B64830075520803\nIzvor: Registar koncesij
+ a (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B64830075520803
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -74,8 +75,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-c8c987f5d2bb6b68@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-11374ed2bafc49e9@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20361130
 DTEND;VALUE=DATE:20361201
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (NOVI AGRAR D.O.O
@@ -83,8 +84,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (NOVI AGRAR D.O.O
 DESCRIPTION:30. 5. 2037. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• NOVI AGRAR D.O.O. – Koncesija za korištenje poljoprivrednog ze
- mljišta u vlasništvu države (ERNESTINOVO)\, 11.103 €/god.\n\nProfil o
- pćine: https://koncesijski-sat.vercel.app/#opcina/41942358B64830075520803
+ mljišta u vlasništvu države (ERNESTINOVO) · davatelj: OPĆINA ERNESTIN
+ OVO\, 11.103 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.ap
+ p/#opcina/41942358B64830075520803
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B64830075520803
 TRANSP:TRANSPARENT
 BEGIN:VALARM

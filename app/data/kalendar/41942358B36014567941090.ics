@@ -4,26 +4,29 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Općina Kanfanar
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Kanfanar. Iz Reg
- istra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade pod
- ataka. https://koncesijski-sat.vercel.app/#opcina/41942358B36014567941090
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Općina Kanfanar (pregle
+ d\, svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježava
+  se nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#opcin
+ a/41942358B36014567941090
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-5f70d5fc9547d141@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-f38131e565bc70bb@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20271231
 DTEND;VALUE=DATE:20280101
 SUMMARY:Ističe 3 koncesije · Kanfanar
 DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2027. Godišnja fiksna na
  knada: 21.085 €.\n\n• KAMEN D.D. – Koncesija za eksploataciju arhite
- ktonsko-građevnog kamena (KANFANAR)\, 15.811 €/god.\n• KAMEN  D.D. 
- – Koncesija za površinu utvrđenog eksploatacijskog polja neenergetskih
-  mineralnih sirovina (KANFANAR)\, 5.274 €/god.\n• KAMEN D.D. – Konce
- sija za eksploataciju arhitektonsko-građevnog kamena (KANFANAR)\n\nProfil
-  općine: https://koncesijski-sat.vercel.app/#opcina/41942358B360145679410
- 90\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ ktonsko-građevnog kamena (KANFANAR) · davatelj: MINISTARSTVO GOSPODARSTV
+ A\, 15.811 €/god.\n• KAMEN  D.D. – Koncesija za površinu utvrđenog
+  eksploatacijskog polja neenergetskih mineralnih sirovina (KANFANAR) · da
+ vatelj: MINISTARSTVO GOSPODARSTVA\, 5.274 €/god.\n• KAMEN D.D. – Kon
+ cesija za eksploataciju arhitektonsko-građevnog kamena (KANFANAR) · dava
+ telj: MINISTARSTVO GOSPODARSTVA\n\nProfil općine: https://koncesijski-sat
+ .vercel.app/#opcina/41942358B36014567941090\nIzvor: Registar koncesija (FI
+ NA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B36014567941090
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -33,43 +36,47 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-5f70d5fc9547d141@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-f38131e565bc70bb@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270630
 DTEND;VALUE=DATE:20270701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Kanfanar
 DESCRIPTION:31. 12. 2027. ističe 3 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• KAMEN D.D. – Koncesija za eksploataciju arhitektonsko-građev
- nog kamena (KANFANAR)\, 15.811 €/god.\n• KAMEN  D.D. – Koncesija za 
- površinu utvrđenog eksploatacijskog polja neenergetskih mineralnih sirov
- ina (KANFANAR)\, 5.274 €/god.\n• KAMEN D.D. – Koncesija za eksploata
- ciju arhitektonsko-građevnog kamena (KANFANAR)\n\nProfil općine: https:/
- /koncesijski-sat.vercel.app/#opcina/41942358B36014567941090
+ nog kamena (KANFANAR) · davatelj: MINISTARSTVO GOSPODARSTVA\, 15.811 €/
+ god.\n• KAMEN  D.D. – Koncesija za površinu utvrđenog eksploatacijsk
+ og polja neenergetskih mineralnih sirovina (KANFANAR) · davatelj: MINISTA
+ RSTVO GOSPODARSTVA\, 5.274 €/god.\n• KAMEN D.D. – Koncesija za ekspl
+ oataciju arhitektonsko-građevnog kamena (KANFANAR) · davatelj: MINISTARS
+ TVO GOSPODARSTVA\n\nProfil općine: https://koncesijski-sat.vercel.app/#op
+ cina/41942358B36014567941090
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B36014567941090
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Kanfanar
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-f0b171a2918efffc@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-9769f2642117e2f3@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20291231
 DTEND;VALUE=DATE:20300101
 SUMMARY:Ističe 4 koncesije · Kanfanar
 DESCRIPTION:4 ugovora o koncesiji ističe 31. 12. 2029. Godišnja fiksna na
  knada: 50.854 €.\n\n• KAMEN D.D. – Koncesija za eksploataciju arhite
- ktonsko-građevnog kamena (KANFANAR)\, 24.803 €/god.\n• KAMEN D.D. –
-  Koncesija za površinu utvrđenog eksploatacijskog polja neenergetskih mi
- neralnih sirovina (KANFANAR)\, 16.538 €/god.\n• KAMEN D.D. – Koncesi
- ja za eksploataciju arhitektonsko-građevnog kamena (KANFANAR)\, 9.513 €
- /god.\n• KAMEN D.D. – Koncesija za eksploataciju arhitektonsko-građev
- nog kamena (KANFANAR)\n\nProfil općine: https://koncesijski-sat.vercel.ap
- p/#opcina/41942358B36014567941090\nIzvor: Registar koncesija (FINA)\, obra
- da Koncesijski sat 9. 11. 2026.
+ ktonsko-građevnog kamena (KANFANAR) · davatelj: MINISTARSTVO GOSPODARSTV
+ A\, 24.803 €/god.\n• KAMEN D.D. – Koncesija za površinu utvrđenog 
+ eksploatacijskog polja neenergetskih mineralnih sirovina (KANFANAR) · dav
+ atelj: MINISTARSTVO GOSPODARSTVA\, 16.538 €/god.\n• KAMEN D.D. – Kon
+ cesija za eksploataciju arhitektonsko-građevnog kamena (KANFANAR) · dava
+ telj: MINISTARSTVO GOSPODARSTVA\, 9.513 €/god.\n• KAMEN D.D. – Konce
+ sija za eksploataciju arhitektonsko-građevnog kamena (KANFANAR) · davate
+ lj: MINISTARSTVO GOSPODARSTVA\n\nProfil općine: https://koncesijski-sat.v
+ ercel.app/#opcina/41942358B36014567941090\nIzvor: Registar koncesija (FINA
+ )\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B36014567941090
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -79,45 +86,48 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-f0b171a2918efffc@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-9769f2642117e2f3@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20290630
 DTEND;VALUE=DATE:20290701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 4 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 4 koncesije · Kanfanar
 DESCRIPTION:31. 12. 2029. ističe 4 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• KAMEN D.D. – Koncesija za eksploataciju arhitektonsko-građev
- nog kamena (KANFANAR)\, 24.803 €/god.\n• KAMEN D.D. – Koncesija za p
- ovršinu utvrđenog eksploatacijskog polja neenergetskih mineralnih sirovi
- na (KANFANAR)\, 16.538 €/god.\n• KAMEN D.D. – Koncesija za eksploata
- ciju arhitektonsko-građevnog kamena (KANFANAR)\, 9.513 €/god.\n• KAME
- N D.D. – Koncesija za eksploataciju arhitektonsko-građevnog kamena (KAN
- FANAR)\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942
- 358B36014567941090
+ nog kamena (KANFANAR) · davatelj: MINISTARSTVO GOSPODARSTVA\, 24.803 €/
+ god.\n• KAMEN D.D. – Koncesija za površinu utvrđenog eksploatacijsko
+ g polja neenergetskih mineralnih sirovina (KANFANAR) · davatelj: MINISTAR
+ STVO GOSPODARSTVA\, 16.538 €/god.\n• KAMEN D.D. – Koncesija za ekspl
+ oataciju arhitektonsko-građevnog kamena (KANFANAR) · davatelj: MINISTARS
+ TVO GOSPODARSTVA\, 9.513 €/god.\n• KAMEN D.D. – Koncesija za eksploa
+ taciju arhitektonsko-građevnog kamena (KANFANAR) · davatelj: MINISTARSTV
+ O GOSPODARSTVA\n\nProfil općine: https://koncesijski-sat.vercel.app/#opci
+ na/41942358B36014567941090
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B36014567941090
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 4 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 4 koncesije · Kanfanar
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-3e414990fd279688@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-905d7b5cc3ba260e@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20301231
 DTEND;VALUE=DATE:20310101
 SUMMARY:Ističe 3 koncesije · Kanfanar
 DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2030. Godišnja fiksna na
  knada: 1.950 €.\n\n• OBRT KAMENOLOM MAKLAUN VL. IVAN ČEKIĆ – Konce
- sija za eksploataciju tehničko-građevnog kamena (KANFANAR)\, 650 €/god
- .\n• OBRT KAMENOLOM MAKLAUN VL. IVAN ČEKIĆ – Koncesija za eksploatac
- iju tehničko-građevnog kamena (KANFANAR)\, 650 €/god.\n• OBRT KAMENO
- LOM MAKLAUN VL. IVAN ČEKIĆ – Koncesija za površinu utvrđenog eksploa
- tacijskog polja neenergetskih mineralnih sirovina (KANFANAR)\, 650 €/god
- .\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B3
- 6014567941090\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9
- . 11. 2026.
+ sija za eksploataciju tehničko-građevnog kamena (KANFANAR) · davatelj: 
+ MINISTARSTVO GOSPODARSTVA\, 650 €/god.\n• OBRT KAMENOLOM MAKLAUN VL. I
+ VAN ČEKIĆ – Koncesija za eksploataciju tehničko-građevnog kamena (KA
+ NFANAR) · davatelj: MINISTARSTVO GOSPODARSTVA\, 650 €/god.\n• OBRT KA
+ MENOLOM MAKLAUN VL. IVAN ČEKIĆ – Koncesija za površinu utvrđenog eks
+ ploatacijskog polja neenergetskih mineralnih sirovina (KANFANAR) · davate
+ lj: MINISTARSTVO GOSPODARSTVA\, 650 €/god.\n\nProfil općine: https://ko
+ ncesijski-sat.vercel.app/#opcina/41942358B36014567941090\nIzvor: Registar 
+ koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B36014567941090
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -127,42 +137,46 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-3e414990fd279688@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-905d7b5cc3ba260e@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20300630
 DTEND;VALUE=DATE:20300701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Kanfanar
 DESCRIPTION:31. 12. 2030. ističe 3 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• OBRT KAMENOLOM MAKLAUN VL. IVAN ČEKIĆ – Koncesija za eksplo
- ataciju tehničko-građevnog kamena (KANFANAR)\, 650 €/god.\n• OBRT KA
- MENOLOM MAKLAUN VL. IVAN ČEKIĆ – Koncesija za eksploataciju tehničko-
- građevnog kamena (KANFANAR)\, 650 €/god.\n• OBRT KAMENOLOM MAKLAUN VL
- . IVAN ČEKIĆ – Koncesija za površinu utvrđenog eksploatacijskog polj
- a neenergetskih mineralnih sirovina (KANFANAR)\, 650 €/god.\n\nProfil op
- ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B36014567941090
+ ataciju tehničko-građevnog kamena (KANFANAR) · davatelj: MINISTARSTVO G
+ OSPODARSTVA\, 650 €/god.\n• OBRT KAMENOLOM MAKLAUN VL. IVAN ČEKIĆ 
+ – Koncesija za eksploataciju tehničko-građevnog kamena (KANFANAR) · d
+ avatelj: MINISTARSTVO GOSPODARSTVA\, 650 €/god.\n• OBRT KAMENOLOM MAKL
+ AUN VL. IVAN ČEKIĆ – Koncesija za površinu utvrđenog eksploatacijsko
+ g polja neenergetskih mineralnih sirovina (KANFANAR) · davatelj: MINISTAR
+ STVO GOSPODARSTVA\, 650 €/god.\n\nProfil općine: https://koncesijski-sa
+ t.vercel.app/#opcina/41942358B36014567941090
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B36014567941090
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Kanfanar
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-c45db767561af510@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-f03cef44d8690d64@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20361207
 DTEND;VALUE=DATE:20361208
 SUMMARY:Ističe 3 koncesije · Kanfanar
 DESCRIPTION:3 ugovora o koncesiji ističe 7. 12. 2036. Godišnja fiksna nak
  nada: 25.176 €.\n\n• KAMEN D.D. – Koncesija za površinu utvrđenog 
- eksploatacijskog polja neenergetskih mineralnih sirovina (KANFANAR)\, 14.9
- 28 €/god.\n• KAMEN D.D. – Koncesija za eksploataciju arhitektonsko-g
- rađevnog kamena (KANFANAR)\, 10.248 €/god.\n• KAMEN D.D. – Koncesij
- a za eksploataciju arhitektonsko-građevnog kamena (KANFANAR)\n\nProfil op
- ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B36014567941090\
- nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ eksploatacijskog polja neenergetskih mineralnih sirovina (KANFANAR) · dav
+ atelj: MINISTARSTVO GOSPODARSTVA\, 14.928 €/god.\n• KAMEN D.D. – Kon
+ cesija za eksploataciju arhitektonsko-građevnog kamena (KANFANAR) · dava
+ telj: MINISTARSTVO GOSPODARSTVA\, 10.248 €/god.\n• KAMEN D.D. – Konc
+ esija za eksploataciju arhitektonsko-građevnog kamena (KANFANAR) · davat
+ elj: MINISTARSTVO GOSPODARSTVA\n\nProfil općine: https://koncesijski-sat.
+ vercel.app/#opcina/41942358B36014567941090\nIzvor: Registar koncesija (FIN
+ A)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B36014567941090
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -172,42 +186,45 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-c45db767561af510@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-f03cef44d8690d64@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20360607
 DTEND;VALUE=DATE:20360608
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Kanfanar
 DESCRIPTION:7. 12. 2036. ističe 3 ugovora o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• KAMEN D.D. – Koncesija za površinu utvrđenog eksploatacijsko
- g polja neenergetskih mineralnih sirovina (KANFANAR)\, 14.928 €/god.\n
- • KAMEN D.D. – Koncesija za eksploataciju arhitektonsko-građevnog kam
- ena (KANFANAR)\, 10.248 €/god.\n• KAMEN D.D. – Koncesija za eksploat
- aciju arhitektonsko-građevnog kamena (KANFANAR)\n\nProfil općine: https:
- //koncesijski-sat.vercel.app/#opcina/41942358B36014567941090
+ g polja neenergetskih mineralnih sirovina (KANFANAR) · davatelj: MINISTAR
+ STVO GOSPODARSTVA\, 14.928 €/god.\n• KAMEN D.D. – Koncesija za ekspl
+ oataciju arhitektonsko-građevnog kamena (KANFANAR) · davatelj: MINISTARS
+ TVO GOSPODARSTVA\, 10.248 €/god.\n• KAMEN D.D. – Koncesija za eksplo
+ ataciju arhitektonsko-građevnog kamena (KANFANAR) · davatelj: MINISTARST
+ VO GOSPODARSTVA\n\nProfil općine: https://koncesijski-sat.vercel.app/#opc
+ ina/41942358B36014567941090
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B36014567941090
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Kanfanar
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-4bc8f6a21409e57a@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-501e047b90dc3e44@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20421231
 DTEND;VALUE=DATE:20430101
 SUMMARY:Ističe 3 koncesije · Kanfanar
 DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2042. Godišnja fiksna na
  knada: 2.788 €.\n\n• SANDAREVO D.O.O. – Koncesija za površinu utvr
  đenog eksploatacijskog polja neenergetskih mineralnih sirovina (KANFANAR)
- \, 1.394 €/god.\n• SANDAREVO D.O.O. – Koncesija za eksploataciju teh
- ničko-građevnog kamena (KANFANAR)\, 1.394 €/god.\n• SANDAREVO D.O.O.
-  – Koncesija za eksploataciju tehničko-građevnog kamena (KANFANAR)\n\n
- Profil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B360145
- 67941090\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11.
-  2026.
+  · davatelj: MINISTARSTVO GOSPODARSTVA\, 1.394 €/god.\n• SANDAREVO D.
+ O.O. – Koncesija za eksploataciju tehničko-građevnog kamena (KANFANAR)
+  · davatelj: MINISTARSTVO GOSPODARSTVA\, 1.394 €/god.\n• SANDAREVO D.
+ O.O. – Koncesija za eksploataciju tehničko-građevnog kamena (KANFANAR)
+  · davatelj: MINISTARSTVO GOSPODARSTVA\n\nProfil općine: https://koncesi
+ jski-sat.vercel.app/#opcina/41942358B36014567941090\nIzvor: Registar konce
+ sija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B36014567941090
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -217,24 +234,26 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-4bc8f6a21409e57a@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-501e047b90dc3e44@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20420630
 DTEND;VALUE=DATE:20420701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Kanfanar
 DESCRIPTION:31. 12. 2042. ističe 3 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• SANDAREVO D.O.O. – Koncesija za površinu utvrđenog eksploat
- acijskog polja neenergetskih mineralnih sirovina (KANFANAR)\, 1.394 €/go
- d.\n• SANDAREVO D.O.O. – Koncesija za eksploataciju tehničko-građevn
- og kamena (KANFANAR)\, 1.394 €/god.\n• SANDAREVO D.O.O. – Koncesija 
- za eksploataciju tehničko-građevnog kamena (KANFANAR)\n\nProfil općine:
-  https://koncesijski-sat.vercel.app/#opcina/41942358B36014567941090
+ acijskog polja neenergetskih mineralnih sirovina (KANFANAR) · davatelj: M
+ INISTARSTVO GOSPODARSTVA\, 1.394 €/god.\n• SANDAREVO D.O.O. – Konces
+ ija za eksploataciju tehničko-građevnog kamena (KANFANAR) · davatelj: M
+ INISTARSTVO GOSPODARSTVA\, 1.394 €/god.\n• SANDAREVO D.O.O. – Konces
+ ija za eksploataciju tehničko-građevnog kamena (KANFANAR) · davatelj: M
+ INISTARSTVO GOSPODARSTVA\n\nProfil općine: https://koncesijski-sat.vercel
+ .app/#opcina/41942358B36014567941090
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B36014567941090
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Kanfanar
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT

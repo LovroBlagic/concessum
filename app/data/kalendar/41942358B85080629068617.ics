@@ -4,28 +4,29 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Općina Gornji Kneginec
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Gornji Kneginec.
-  Iz Registra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obr
- ade podataka. https://koncesijski-sat.vercel.app/#opcina/41942358B85080629
- 068617
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Općina Gornji Kneginec 
+ (pregled\, svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osv
+ ježava se nakon svake obrade podataka. https://koncesijski-sat.vercel.app
+ /#opcina/41942358B85080629068617
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-9eae4f84490fe7e9@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-158bbe3dbd9bfa22@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20351231
 DTEND;VALUE=DATE:20360101
 SUMMARY:Ističe 3 koncesije · Gornji Kneginec
 DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2035. Godišnja fiksna na
  knada: 2.960 €.\n\n• LEIER-LEITL D.O.O. – Koncesija za eksploataciju
-  ciglarske gline (GORNJI KNEGINEC)\, 1.480 €/god.\n• LEIER-LEITL D.O.O
- . – Koncesija za površinu utvrđenog eksploatacijskog polja neenergetsk
- ih mineralnih sirovina (GORNJI KNEGINEC)\, 1.480 €/god.\n• LEIER-LEITL
-  D.O.O. – Koncesija za eksploataciju ciglarske gline (GORNJI KNEGINEC)\n
- \nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B8508
- 0629068617\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 1
- 1. 2026.
+  ciglarske gline (GORNJI KNEGINEC) · davatelj: MINISTARSTVO GOSPODARSTVA\
+ , 1.480 €/god.\n• LEIER-LEITL D.O.O. – Koncesija za površinu utvrđ
+ enog eksploatacijskog polja neenergetskih mineralnih sirovina (GORNJI KNEG
+ INEC) · davatelj: MINISTARSTVO GOSPODARSTVA\, 1.480 €/god.\n• LEIER-L
+ EITL D.O.O. – Koncesija za eksploataciju ciglarske gline (GORNJI KNEGINE
+ C) · davatelj: MINISTARSTVO GOSPODARSTVA\n\nProfil općine: https://konce
+ sijski-sat.vercel.app/#opcina/41942358B85080629068617\nIzvor: Registar kon
+ cesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B85080629068617
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -35,38 +36,43 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-9eae4f84490fe7e9@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-158bbe3dbd9bfa22@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20350630
 DTEND;VALUE=DATE:20350701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Gornji Knegine
+ c
 DESCRIPTION:31. 12. 2035. ističe 3 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• LEIER-LEITL D.O.O. – Koncesija za eksploataciju ciglarske gli
- ne (GORNJI KNEGINEC)\, 1.480 €/god.\n• LEIER-LEITL D.O.O. – Koncesij
- a za površinu utvrđenog eksploatacijskog polja neenergetskih mineralnih 
- sirovina (GORNJI KNEGINEC)\, 1.480 €/god.\n• LEIER-LEITL D.O.O. – Ko
- ncesija za eksploataciju ciglarske gline (GORNJI KNEGINEC)\n\nProfil opći
- ne: https://koncesijski-sat.vercel.app/#opcina/41942358B85080629068617
+ ne (GORNJI KNEGINEC) · davatelj: MINISTARSTVO GOSPODARSTVA\, 1.480 €/go
+ d.\n• LEIER-LEITL D.O.O. – Koncesija za površinu utvrđenog eksploata
+ cijskog polja neenergetskih mineralnih sirovina (GORNJI KNEGINEC) · davat
+ elj: MINISTARSTVO GOSPODARSTVA\, 1.480 €/god.\n• LEIER-LEITL D.O.O. 
+ – Koncesija za eksploataciju ciglarske gline (GORNJI KNEGINEC) · davate
+ lj: MINISTARSTVO GOSPODARSTVA\n\nProfil općine: https://koncesijski-sat.v
+ ercel.app/#opcina/41942358B85080629068617
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B85080629068617
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Gornji Kne
+ ginec
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-f6b2572bb356da01@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-4a63c6f3297759d9@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20451231
 DTEND;VALUE=DATE:20460101
 SUMMARY:Ističe koncesija: YTRES D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 31. 12. 2045. Godišnja fiksna nak
  nada: 42.471 €.\n\n• YTRES D.O.O. – Koncesija za zahvaćanje voda za
-  tehnološke potrebe (GORNJI KNEGINEC)\, 42.471 €/god.\n\nProfil općine
- : https://koncesijski-sat.vercel.app/#opcina/41942358B85080629068617\nIzvo
- r: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+  tehnološke potrebe (GORNJI KNEGINEC) · davatelj: MINISTARSTVO ZAŠTITE 
+ OKOLIŠA I ZELENE TRANZICIJE\, 42.471 €/god.\n\nProfil općine: https://
+ koncesijski-sat.vercel.app/#opcina/41942358B85080629068617\nIzvor: Regista
+ r koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B85080629068617
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -76,16 +82,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-f6b2572bb356da01@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-4a63c6f3297759d9@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20450630
 DTEND;VALUE=DATE:20450701
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (YTRES D.O.O.)
 DESCRIPTION:31. 12. 2045. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• YTRES D.O.O. – Koncesija za zahvaćanje voda za tehnološke po
- trebe (GORNJI KNEGINEC)\, 42.471 €/god.\n\nProfil općine: https://konce
- sijski-sat.vercel.app/#opcina/41942358B85080629068617
+ trebe (GORNJI KNEGINEC) · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠA I ZELE
+ NE TRANZICIJE\, 42.471 €/god.\n\nProfil općine: https://koncesijski-sat
+ .vercel.app/#opcina/41942358B85080629068617
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B85080629068617
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -96,16 +103,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-522afe82a71681dd@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-503b72d50ec9ae5e@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20550812
 DTEND;VALUE=DATE:20550813
 SUMMARY:Ističe koncesija: YTRES D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 12. 8. 2055. Godišnja fiksna nakn
  ada: 1.275 €.\n\n• YTRES D.O.O. – Koncesija za zahvaćanje voda za t
- ehnološke potrebe (GORNJI KNEGINEC)\, 1.275 €/god.\n\nProfil općine: h
- ttps://koncesijski-sat.vercel.app/#opcina/41942358B85080629068617\nIzvor: 
- Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ ehnološke potrebe (GORNJI KNEGINEC) · davatelj: MINISTARSTVO ZAŠTITE OK
+ OLIŠA I ZELENE TRANZICIJE\, 1.275 €/god.\n\nProfil općine: https://kon
+ cesijski-sat.vercel.app/#opcina/41942358B85080629068617\nIzvor: Registar k
+ oncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B85080629068617
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -115,16 +123,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-522afe82a71681dd@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-503b72d50ec9ae5e@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20550212
 DTEND;VALUE=DATE:20550213
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (YTRES D.O.O.)
 DESCRIPTION:12. 8. 2055. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• YTRES D.O.O. – Koncesija za zahvaćanje voda za tehnološke pot
- rebe (GORNJI KNEGINEC)\, 1.275 €/god.\n\nProfil općine: https://koncesi
- jski-sat.vercel.app/#opcina/41942358B85080629068617
+ rebe (GORNJI KNEGINEC) · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠA I ZELEN
+ E TRANZICIJE\, 1.275 €/god.\n\nProfil općine: https://koncesijski-sat.v
+ ercel.app/#opcina/41942358B85080629068617
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B85080629068617
 TRANSP:TRANSPARENT
 BEGIN:VALARM

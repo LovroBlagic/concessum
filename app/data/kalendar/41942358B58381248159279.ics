@@ -4,15 +4,16 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Grad Pazin
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Grad Pazin. Iz Registra 
- koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podataka.
-  https://koncesijski-sat.vercel.app/#opcina/41942358B58381248159279
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Grad Pazin (pregled\, sv
+ i davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježava se na
+ kon svake obrade podataka. https://koncesijski-sat.vercel.app/#opcina/4194
+ 2358B58381248159279
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-7d87de7d5f747231@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-2f03c144cd76411c@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270901
 DTEND;VALUE=DATE:20270902
 SUMMARY:Ističe koncesija: ALTUS DRUŠTVO S OGRANIČENOM ODGOVORNOŠĆU ZA 
@@ -20,9 +21,9 @@ SUMMARY:Ističe koncesija: ALTUS DRUŠTVO S OGRANIČENOM ODGOVORNOŠĆU ZA
 DESCRIPTION:1 ugovor o koncesiji ističe 1. 9. 2027. Godišnja fiksna nakna
  da: 2.657 €.\n\n• ALTUS DRUŠTVO S OGRANIČENOM ODGOVORNOŠĆU ZA RADO
  VE NA VISOKIM I TEŠKO PRISTUPAČN – Koncesija za obavljanje dimnjačars
- kih poslova (PAZIN)\, 2.657 €/god.\n\nProfil općine: https://koncesijsk
- i-sat.vercel.app/#opcina/41942358B58381248159279\nIzvor: Registar koncesij
- a (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ kih poslova (PAZIN) · davatelj: GRAD PAZIN\, 2.657 €/god.\n\nProfil op
+ ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B58381248159279\
+ nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B58381248159279
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -33,8 +34,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-7d87de7d5f747231@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-2f03c144cd76411c@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270301
 DTEND;VALUE=DATE:20270302
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ALTUS DRUŠTVO S
@@ -43,8 +44,8 @@ DESCRIPTION:1. 9. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• ALTUS DRUŠTVO S OGRANIČENOM ODGOVORNOŠĆU ZA RADOVE NA VISOKIM 
  I TEŠKO PRISTUPAČN – Koncesija za obavljanje dimnjačarskih poslova (P
- AZIN)\, 2.657 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.a
- pp/#opcina/41942358B58381248159279
+ AZIN) · davatelj: GRAD PAZIN\, 2.657 €/god.\n\nProfil općine: https://
+ koncesijski-sat.vercel.app/#opcina/41942358B58381248159279
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B58381248159279
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -56,19 +57,21 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-3bd893eb903f882d@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-95791881bc520275@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20351231
 DTEND;VALUE=DATE:20360101
 SUMMARY:Ističe 3 koncesije · Pazin
 DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2035. Godišnja fiksna na
  knada: 9.688 €.\n\n• CESTA D.O.O. – Koncesija za eksploataciju tehni
- čko-građevnog kamena (PAZIN)\, 4.844 €/god.\n• CESTA D.O.O. – Konc
- esija za površinu utvrđenog eksploatacijskog polja neenergetskih mineral
- nih sirovina (PAZIN)\, 4.844 €/god.\n• CESTA D.O.O. – Koncesija za e
- ksploataciju tehničko-građevnog kamena (PAZIN)\n\nProfil općine: https:
- //koncesijski-sat.vercel.app/#opcina/41942358B58381248159279\nIzvor: Regis
- tar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ čko-građevnog kamena (PAZIN) · davatelj: MINISTARSTVO GOSPODARSTVA\, 4.
+ 844 €/god.\n• CESTA D.O.O. – Koncesija za površinu utvrđenog ekspl
+ oatacijskog polja neenergetskih mineralnih sirovina (PAZIN) · davatelj: M
+ INISTARSTVO GOSPODARSTVA\, 4.844 €/god.\n• CESTA D.O.O. – Koncesija 
+ za eksploataciju tehničko-građevnog kamena (PAZIN) · davatelj: MINISTAR
+ STVO GOSPODARSTVA\n\nProfil općine: https://koncesijski-sat.vercel.app/#o
+ pcina/41942358B58381248159279\nIzvor: Registar koncesija (FINA)\, obrada K
+ oncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B58381248159279
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -78,24 +81,26 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-3bd893eb903f882d@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-95791881bc520275@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20350630
 DTEND;VALUE=DATE:20350701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Pazin
 DESCRIPTION:31. 12. 2035. ističe 3 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• CESTA D.O.O. – Koncesija za eksploataciju tehničko-građevno
- g kamena (PAZIN)\, 4.844 €/god.\n• CESTA D.O.O. – Koncesija za povr
- šinu utvrđenog eksploatacijskog polja neenergetskih mineralnih sirovina 
- (PAZIN)\, 4.844 €/god.\n• CESTA D.O.O. – Koncesija za eksploataciju 
- tehničko-građevnog kamena (PAZIN)\n\nProfil općine: https://koncesijski
- -sat.vercel.app/#opcina/41942358B58381248159279
+ g kamena (PAZIN) · davatelj: MINISTARSTVO GOSPODARSTVA\, 4.844 €/god.\n
+ • CESTA D.O.O. – Koncesija za površinu utvrđenog eksploatacijskog po
+ lja neenergetskih mineralnih sirovina (PAZIN) · davatelj: MINISTARSTVO GO
+ SPODARSTVA\, 4.844 €/god.\n• CESTA D.O.O. – Koncesija za eksploataci
+ ju tehničko-građevnog kamena (PAZIN) · davatelj: MINISTARSTVO GOSPODARS
+ TVA\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358
+ B58381248159279
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B58381248159279
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Pazin
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT

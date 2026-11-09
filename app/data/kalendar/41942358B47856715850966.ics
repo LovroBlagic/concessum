@@ -4,23 +4,24 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Općina Kolan
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Kolan. Iz Regist
- ra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podata
- ka. https://koncesijski-sat.vercel.app/#opcina/41942358B47856715850966
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Općina Kolan (pregled\,
+  svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježava se
+  nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#opcina/4
+ 1942358B47856715850966
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-d989036dcfef615a@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-b719969cdbb96c70@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20280422
 DTEND;VALUE=DATE:20280423
 SUMMARY:Ističe koncesija: NOA GRUPA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 22. 4. 2028. Godišnja fiksna nakn
  ada: 18.874 €.\n\n• NOA GRUPA D.O.O. – Koncesija na pomorskom dobru 
- (KOLAN)\, 18.874 €/god.\n\nProfil općine: https://koncesijski-sat.verce
- l.app/#opcina/41942358B47856715850966\nIzvor: Registar koncesija (FINA)\, 
- obrada Koncesijski sat 9. 11. 2026.
+ (KOLAN) · davatelj: ZADARSKA ŽUPANIJA\, 18.874 €/god.\n\nProfil općin
+ e: https://koncesijski-sat.vercel.app/#opcina/41942358B47856715850966\nIzv
+ or: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B47856715850966
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -30,17 +31,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-d989036dcfef615a@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-b719969cdbb96c70@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20271022
 DTEND;VALUE=DATE:20271023
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (NOA GRUPA D.O.O.
  )
 DESCRIPTION:22. 4. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
- .\n\n• NOA GRUPA D.O.O. – Koncesija na pomorskom dobru (KOLAN)\, 18.87
- 4 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4
- 1942358B47856715850966
+ .\n\n• NOA GRUPA D.O.O. – Koncesija na pomorskom dobru (KOLAN) · dava
+ telj: ZADARSKA ŽUPANIJA\, 18.874 €/god.\n\nProfil općine: https://konc
+ esijski-sat.vercel.app/#opcina/41942358B47856715850966
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B47856715850966
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -51,16 +52,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-ae905bcf9a516b98@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-cbce5cce67eca186@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20291122
 DTEND;VALUE=DATE:20291123
 SUMMARY:Ističe koncesija: VL. PETAR ŠUPRAHA\, ČISTA 2001
 DESCRIPTION:1 ugovor o koncesiji ističe 22. 11. 2029. Godišnja fiksna nak
  nada: 1.235 €.\n\n• VL. PETAR ŠUPRAHA\, ČISTA 2001 – Koncesija za 
- plažu (KOLAN)\, 1.235 €/god.\n\nProfil općine: https://koncesijski-sat
- .vercel.app/#opcina/41942358B47856715850966\nIzvor: Registar koncesija (FI
- NA)\, obrada Koncesijski sat 9. 11. 2026.
+ plažu (KOLAN) · davatelj: ZADARSKA ŽUPANIJA\, 1.235 €/god.\n\nProfil 
+ općine: https://koncesijski-sat.vercel.app/#opcina/41942358B4785671585096
+ 6\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B47856715850966
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -70,8 +71,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-ae905bcf9a516b98@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-cbce5cce67eca186@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20290522
 DTEND;VALUE=DATE:20290523
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VL. PETAR ŠUPRA
@@ -79,8 +80,8 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VL. PETAR ŠUPRA
 DESCRIPTION:22. 11. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• VL. PETAR ŠUPRAHA\, ČISTA 2001 – Koncesija za plažu (KOLAN)
- \, 1.235 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#o
- pcina/41942358B47856715850966
+  · davatelj: ZADARSKA ŽUPANIJA\, 1.235 €/god.\n\nProfil općine: https
+ ://koncesijski-sat.vercel.app/#opcina/41942358B47856715850966
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B47856715850966
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -91,16 +92,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-2ef1e7e8308d4447@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-9bfac0df91d302a0@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20291216
 DTEND;VALUE=DATE:20291217
 SUMMARY:Ističe koncesija: LITUS CISSA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 16. 12. 2029. Godišnja fiksna nak
  nada: 1.349 €.\n\n• LITUS CISSA D.O.O. – Koncesija za plažu (KOLAN)
- \, 1.349 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#o
- pcina/41942358B47856715850966\nIzvor: Registar koncesija (FINA)\, obrada K
- oncesijski sat 9. 11. 2026.
+  · davatelj: ZADARSKA ŽUPANIJA\, 1.349 €/god.\n\nProfil općine: https
+ ://koncesijski-sat.vercel.app/#opcina/41942358B47856715850966\nIzvor: Regi
+ star koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B47856715850966
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -110,17 +111,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-2ef1e7e8308d4447@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-9bfac0df91d302a0@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20290616
 DTEND;VALUE=DATE:20290617
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (LITUS CISSA D.O.
  O.)
 DESCRIPTION:16. 12. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
- a.\n\n• LITUS CISSA D.O.O. – Koncesija za plažu (KOLAN)\, 1.349 €/g
- od.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358
- B47856715850966
+ a.\n\n• LITUS CISSA D.O.O. – Koncesija za plažu (KOLAN) · davatelj: 
+ ZADARSKA ŽUPANIJA\, 1.349 €/god.\n\nProfil općine: https://koncesijski
+ -sat.vercel.app/#opcina/41942358B47856715850966
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B47856715850966
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -131,17 +132,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-65a2bf88b0bd9ba5@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-f724518d9a72d149@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20300408
 DTEND;VALUE=DATE:20300409
 SUMMARY:Ističe koncesija: ČISTOĆA I ODRŽAVANJE KOLAN D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 8. 4. 2030. Godišnja fiksna nakna
  da: 6.689 €.\n\n• ČISTOĆA I ODRŽAVANJE KOLAN D.O.O. – Koncesija p
  omorskog dobra u svrhu izgradnje i gospodarskog korištenja luke posebne n
- amjene (KOLAN)\, 6.689 €/god.\n\nProfil općine: https://koncesijski-sat
- .vercel.app/#opcina/41942358B47856715850966\nIzvor: Registar koncesija (FI
- NA)\, obrada Koncesijski sat 9. 11. 2026.
+ amjene (KOLAN) · davatelj: ZADARSKA ŽUPANIJA\, 6.689 €/god.\n\nProfil 
+ općine: https://koncesijski-sat.vercel.app/#opcina/41942358B4785671585096
+ 6\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B47856715850966
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -151,8 +152,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-65a2bf88b0bd9ba5@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-f724518d9a72d149@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20291008
 DTEND;VALUE=DATE:20291009
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ČISTOĆA I ODR
@@ -161,8 +162,8 @@ DESCRIPTION:8. 4. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• ČISTOĆA I ODRŽAVANJE KOLAN D.O.O. – Koncesija pomorskog dobra
   u svrhu izgradnje i gospodarskog korištenja luke posebne namjene (KOLAN)
- \, 6.689 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#o
- pcina/41942358B47856715850966
+  · davatelj: ZADARSKA ŽUPANIJA\, 6.689 €/god.\n\nProfil općine: https
+ ://koncesijski-sat.vercel.app/#opcina/41942358B47856715850966
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B47856715850966
 TRANSP:TRANSPARENT
 BEGIN:VALARM

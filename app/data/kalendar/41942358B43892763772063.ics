@@ -4,24 +4,26 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Općina Bilice
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Bilice. Iz Regis
- tra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podat
- aka. https://koncesijski-sat.vercel.app/#opcina/41942358B43892763772063
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Općina Bilice (pregled\
+ , svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježava s
+ e nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#opcina/
+ 41942358B43892763772063
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-7c99d2cb9a2377dc@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-78775bb3d6970bf9@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20600529
 DTEND;VALUE=DATE:20600530
 SUMMARY:Ističe koncesija: EVN CROATIA PLIN D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 29. 5. 2060.\n\n• EVN CROATIA PL
  IN D.O.O. – Koncesija za izgradnju distribucijskog sustava plinovoda i p
  ružanje usluga distribucijskim sustavom (BILICE\, DRNIŠ\, KNIN\, MURTER 
- - KORNATI\, PIROVAC\, TISNO\, TRIBUNJ\, VODICE\, ŠIBENIK)\n\nProfil opći
- ne: https://koncesijski-sat.vercel.app/#opcina/41942358B43892763772063\nIz
- vor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ - KORNATI\, PIROVAC\, TISNO\, TRIBUNJ\, VODICE\, ŠIBENIK) · davatelj: Š
+ IBENSKO-KNINSKA ŽUPANIJA\n\nProfil općine: https://koncesijski-sat.verce
+ l.app/#opcina/41942358B43892763772063\nIzvor: Registar koncesija (FINA)\, 
+ obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B43892763772063
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -31,8 +33,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-7c99d2cb9a2377dc@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-78775bb3d6970bf9@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20591129
 DTEND;VALUE=DATE:20591130
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (EVN CROATIA PLIN
@@ -42,8 +44,8 @@ DESCRIPTION:29. 5. 2060. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  .\n\n• EVN CROATIA PLIN D.O.O. – Koncesija za izgradnju distribucijsko
  g sustava plinovoda i pružanje usluga distribucijskim sustavom (BILICE\, 
  DRNIŠ\, KNIN\, MURTER - KORNATI\, PIROVAC\, TISNO\, TRIBUNJ\, VODICE\, Š
- IBENIK)\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4194
- 2358B43892763772063
+ IBENIK) · davatelj: ŠIBENSKO-KNINSKA ŽUPANIJA\n\nProfil općine: https:
+ //koncesijski-sat.vercel.app/#opcina/41942358B43892763772063
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B43892763772063
 TRANSP:TRANSPARENT
 BEGIN:VALARM

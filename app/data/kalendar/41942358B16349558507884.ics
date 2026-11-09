@@ -4,28 +4,29 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Općina Donja Dubrava
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Donja Dubrava. I
- z Registra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrad
- e podataka. https://koncesijski-sat.vercel.app/#opcina/41942358B1634955850
- 7884
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Općina Donja Dubrava (p
+ regled\, svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvje
+ žava se nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#
+ opcina/41942358B16349558507884
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-45033d4e20e4708a@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-257cf9f1342c824d@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20341231
 DTEND;VALUE=DATE:20350101
 SUMMARY:Ističe 3 koncesije · Donja Dubrava
 DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2034. Godišnja fiksna na
  knada: 1.855 €.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauze
- tu površinu odobrenog eksploatacijskog polja (DONJA DUBRAVA)\, 1.855 €/
- god.\n• INA-INDUSTRIJA NAFTE  D.D. – Dozvola za eksploataciju ugljikov
- odika (prema Zakonu o ugljikovodicima) (DONJA DUBRAVA)\n• INA D.D. – D
- ozvola za eksploataciju ugljikovodika (prema Zakonu o ugljikovodicima) (DO
- NJA DUBRAVA)\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina
- /41942358B16349558507884\nIzvor: Registar koncesija (FINA)\, obrada Konces
- ijski sat 9. 11. 2026.
+ tu površinu odobrenog eksploatacijskog polja (DONJA DUBRAVA) · davatelj:
+  MINISTARSTVO GOSPODARSTVA\, 1.855 €/god.\n• INA-INDUSTRIJA NAFTE  D.D
+ . – Dozvola za eksploataciju ugljikovodika (prema Zakonu o ugljikovodici
+ ma) (DONJA DUBRAVA) · davatelj: MINISTARSTVO GOSPODARSTVA\n• INA D.D. 
+ – Dozvola za eksploataciju ugljikovodika (prema Zakonu o ugljikovodicima
+ ) (DONJA DUBRAVA) · davatelj: MINISTARSTVO GOSPODARSTVA\n\nProfil općine
+ : https://koncesijski-sat.vercel.app/#opcina/41942358B16349558507884\nIzvo
+ r: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B16349558507884
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -35,39 +36,42 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-45033d4e20e4708a@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-257cf9f1342c824d@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20340630
 DTEND;VALUE=DATE:20340701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Donja Dubrava
 DESCRIPTION:31. 12. 2034. ističe 3 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauzetu površinu o
- dobrenog eksploatacijskog polja (DONJA DUBRAVA)\, 1.855 €/god.\n• INA-
- INDUSTRIJA NAFTE  D.D. – Dozvola za eksploataciju ugljikovodika (prema Z
- akonu o ugljikovodicima) (DONJA DUBRAVA)\n• INA D.D. – Dozvola za eksp
- loataciju ugljikovodika (prema Zakonu o ugljikovodicima) (DONJA DUBRAVA)\n
- \nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B1634
- 9558507884
+ dobrenog eksploatacijskog polja (DONJA DUBRAVA) · davatelj: MINISTARSTVO 
+ GOSPODARSTVA\, 1.855 €/god.\n• INA-INDUSTRIJA NAFTE  D.D. – Dozvola 
+ za eksploataciju ugljikovodika (prema Zakonu o ugljikovodicima) (DONJA DUB
+ RAVA) · davatelj: MINISTARSTVO GOSPODARSTVA\n• INA D.D. – Dozvola za 
+ eksploataciju ugljikovodika (prema Zakonu o ugljikovodicima) (DONJA DUBRAV
+ A) · davatelj: MINISTARSTVO GOSPODARSTVA\n\nProfil općine: https://konce
+ sijski-sat.vercel.app/#opcina/41942358B16349558507884
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B16349558507884
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Donja Dubr
+ ava
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-d90bfa95d600055e@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-296c3c07bb01a8f0@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20440321
 DTEND;VALUE=DATE:20440322
 SUMMARY:Ističe koncesija: KIS PIĆA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 21. 3. 2044. Godišnja fiksna nakn
  ada: 2.000 €.\n\n• KIS PIĆA D.O.O. – Koncesija za zahvaćanje voda 
- za tehnološke potrebe (DONJA DUBRAVA)\, 2.000 €/god.\n\nProfil općine:
-  https://koncesijski-sat.vercel.app/#opcina/41942358B16349558507884\nIzvor
- : Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ za tehnološke potrebe (DONJA DUBRAVA) · davatelj: MINISTARSTVO ZAŠTITE 
+ OKOLIŠA I ZELENE TRANZICIJE\, 2.000 €/god.\n\nProfil općine: https://k
+ oncesijski-sat.vercel.app/#opcina/41942358B16349558507884\nIzvor: Registar
+  koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B16349558507884
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -77,8 +81,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-d90bfa95d600055e@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-296c3c07bb01a8f0@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20430921
 DTEND;VALUE=DATE:20430922
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (KIS PIĆA D.O.O.
@@ -86,8 +90,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (KIS PIĆA D.O.O.
 DESCRIPTION:21. 3. 2044. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• KIS PIĆA D.O.O. – Koncesija za zahvaćanje voda za tehnološke
-  potrebe (DONJA DUBRAVA)\, 2.000 €/god.\n\nProfil općine: https://konce
- sijski-sat.vercel.app/#opcina/41942358B16349558507884
+  potrebe (DONJA DUBRAVA) · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠA I ZEL
+ ENE TRANZICIJE\, 2.000 €/god.\n\nProfil općine: https://koncesijski-sat
+ .vercel.app/#opcina/41942358B16349558507884
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B16349558507884
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -98,17 +103,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-8fa134c5f041104e@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-22931e66915c88ff@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20500212
 DTEND;VALUE=DATE:20500213
 SUMMARY:Ističe koncesija: BUKOTERMAL D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 12. 2. 2050. Godišnja fiksna nakn
  ada: 78 €.\n\n• BUKOTERMAL D.O.O. – Dozvola za eksploataciju geoterm
  alne vode za energetske svrhe (prema Zakonu o ugljikovodicima) (DONJA DUBR
- AVA)\, 78 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#
- opcina/41942358B16349558507884\nIzvor: Registar koncesija (FINA)\, obrada 
- Koncesijski sat 9. 11. 2026.
+ AVA) · davatelj: MINISTARSTVO GOSPODARSTVA\, 78 €/god.\n\nProfil općin
+ e: https://koncesijski-sat.vercel.app/#opcina/41942358B16349558507884\nIzv
+ or: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B16349558507884
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -118,8 +123,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-8fa134c5f041104e@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-22931e66915c88ff@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20490812
 DTEND;VALUE=DATE:20490813
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BUKOTERMAL D.O.O
@@ -127,9 +132,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BUKOTERMAL D.O.O
 DESCRIPTION:12. 2. 2050. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• BUKOTERMAL D.O.O. – Dozvola za eksploataciju geotermalne vode z
- a energetske svrhe (prema Zakonu o ugljikovodicima) (DONJA DUBRAVA)\, 78 
- €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
- 42358B16349558507884
+ a energetske svrhe (prema Zakonu o ugljikovodicima) (DONJA DUBRAVA) · dav
+ atelj: MINISTARSTVO GOSPODARSTVA\, 78 €/god.\n\nProfil općine: https://
+ koncesijski-sat.vercel.app/#opcina/41942358B16349558507884
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B16349558507884
 TRANSP:TRANSPARENT
 BEGIN:VALARM

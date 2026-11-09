@@ -4,23 +4,25 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Općina Dekanovec
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Dekanovec. Iz Re
- gistra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade po
- dataka. https://koncesijski-sat.vercel.app/#opcina/41942358B60776691719392
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Općina Dekanovec (pregl
+ ed\, svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježav
+ a se nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#opci
+ na/41942358B60776691719392
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-ad3dfd2165f3bcb7@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-e2244dc18e696739@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20300123
 DTEND;VALUE=DATE:20300124
 SUMMARY:Ističe koncesija: DIMNJAČARSKI OBRT ZDRAVKO ZVER
 DESCRIPTION:1 ugovor o koncesiji ističe 23. 1. 2030. Godišnja fiksna nakn
  ada: 664 €.\n\n• DIMNJAČARSKI OBRT ZDRAVKO ZVER – Koncesija za obav
- ljanje dimnjačarskih poslova (DEKANOVEC)\, 664 €/god.\n\nProfil općine
- : https://koncesijski-sat.vercel.app/#opcina/41942358B60776691719392\nIzvo
- r: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ ljanje dimnjačarskih poslova (DEKANOVEC) · davatelj: OPĆINA DEKANOVEC\,
+  664 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcin
+ a/41942358B60776691719392\nIzvor: Registar koncesija (FINA)\, obrada Konce
+ sijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B60776691719392
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -30,8 +32,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-ad3dfd2165f3bcb7@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-e2244dc18e696739@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20290723
 DTEND;VALUE=DATE:20290724
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DIMNJAČARSKI OB
@@ -39,8 +41,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DIMNJAČARSKI OB
 DESCRIPTION:23. 1. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• DIMNJAČARSKI OBRT ZDRAVKO ZVER – Koncesija za obavljanje dimnj
- ačarskih poslova (DEKANOVEC)\, 664 €/god.\n\nProfil općine: https://ko
- ncesijski-sat.vercel.app/#opcina/41942358B60776691719392
+ ačarskih poslova (DEKANOVEC) · davatelj: OPĆINA DEKANOVEC\, 664 €/god
+ .\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B6
+ 0776691719392
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B60776691719392
 TRANSP:TRANSPARENT
 BEGIN:VALARM

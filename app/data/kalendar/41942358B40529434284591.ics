@@ -4,26 +4,29 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Grad Prelog
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Grad Prelog. Iz Registra
-  koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podataka
- . https://koncesijski-sat.vercel.app/#opcina/41942358B40529434284591
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Grad Prelog (pregled\, s
+ vi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježava se n
+ akon svake obrade podataka. https://koncesijski-sat.vercel.app/#opcina/419
+ 42358B40529434284591
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-8cd3841628e17083@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-a3594086f02ee717@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20281231
 DTEND;VALUE=DATE:20290101
 SUMMARY:Ističe 3 koncesije · Prelog
 DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2028. Godišnja fiksna na
  knada: 11.716 €.\n\n• EUROBETON D.D. – Koncesija za eksploataciju gr
- ađevnog pijeska i šljunka (PRELOG)\, 5.858 €/god.\n• EUROBETON D.D. 
- – Koncesija za površinu utvrđenog eksploatacijskog polja neenergetskih
-  mineralnih sirovina (PRELOG)\, 5.858 €/god.\n• EUROBETON D.D. – Kon
- cesija za eksploataciju građevnog pijeska i šljunka (PRELOG)\n\nProfil o
- pćine: https://koncesijski-sat.vercel.app/#opcina/41942358B40529434284591
- \nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ ađevnog pijeska i šljunka (PRELOG) · davatelj: MINISTARSTVO GOSPODARSTV
+ A\, 5.858 €/god.\n• EUROBETON D.D. – Koncesija za površinu utvrđen
+ og eksploatacijskog polja neenergetskih mineralnih sirovina (PRELOG) · da
+ vatelj: MINISTARSTVO GOSPODARSTVA\, 5.858 €/god.\n• EUROBETON D.D. –
+  Koncesija za eksploataciju građevnog pijeska i šljunka (PRELOG) · dava
+ telj: MINISTARSTVO GOSPODARSTVA\n\nProfil općine: https://koncesijski-sat
+ .vercel.app/#opcina/41942358B40529434284591\nIzvor: Registar koncesija (FI
+ NA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B40529434284591
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -33,38 +36,41 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-8cd3841628e17083@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-a3594086f02ee717@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20280630
 DTEND;VALUE=DATE:20280701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Prelog
 DESCRIPTION:31. 12. 2028. ističe 3 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• EUROBETON D.D. – Koncesija za eksploataciju građevnog pijesk
- a i šljunka (PRELOG)\, 5.858 €/god.\n• EUROBETON D.D. – Koncesija z
- a površinu utvrđenog eksploatacijskog polja neenergetskih mineralnih sir
- ovina (PRELOG)\, 5.858 €/god.\n• EUROBETON D.D. – Koncesija za ekspl
- oataciju građevnog pijeska i šljunka (PRELOG)\n\nProfil općine: https:/
- /koncesijski-sat.vercel.app/#opcina/41942358B40529434284591
+ a i šljunka (PRELOG) · davatelj: MINISTARSTVO GOSPODARSTVA\, 5.858 €/g
+ od.\n• EUROBETON D.D. – Koncesija za površinu utvrđenog eksploatacij
+ skog polja neenergetskih mineralnih sirovina (PRELOG) · davatelj: MINISTA
+ RSTVO GOSPODARSTVA\, 5.858 €/god.\n• EUROBETON D.D. – Koncesija za e
+ ksploataciju građevnog pijeska i šljunka (PRELOG) · davatelj: MINISTARS
+ TVO GOSPODARSTVA\n\nProfil općine: https://koncesijski-sat.vercel.app/#op
+ cina/41942358B40529434284591
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B40529434284591
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Prelog
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-115468ba543f8b7f@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-faa386654282d785@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20460901
 DTEND;VALUE=DATE:20460902
 SUMMARY:Ističe koncesija: EUROBETON D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 1. 9. 2046. Godišnja fiksna nakna
  da: 2.721 €.\n\n• EUROBETON D.D. – Koncesija za zahvaćanje voda za 
- tehnološke potrebe (PRELOG)\, 2.721 €/god.\n\nProfil općine: https://k
- oncesijski-sat.vercel.app/#opcina/41942358B40529434284591\nIzvor: Registar
-  koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ tehnološke potrebe (PRELOG) · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠA I
+  ZELENE TRANZICIJE\, 2.721 €/god.\n\nProfil općine: https://koncesijski
+ -sat.vercel.app/#opcina/41942358B40529434284591\nIzvor: Registar koncesija
+  (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B40529434284591
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -74,16 +80,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-115468ba543f8b7f@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-faa386654282d785@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20460301
 DTEND;VALUE=DATE:20460302
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (EUROBETON D.D.)
 DESCRIPTION:1. 9. 2046. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• EUROBETON D.D. – Koncesija za zahvaćanje voda za tehnološke po
- trebe (PRELOG)\, 2.721 €/god.\n\nProfil općine: https://koncesijski-sat
- .vercel.app/#opcina/41942358B40529434284591
+ trebe (PRELOG) · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠA I ZELENE TRANZI
+ CIJE\, 2.721 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.ap
+ p/#opcina/41942358B40529434284591
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B40529434284591
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -94,18 +101,19 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-63ad0bc382271705@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-8619b4818fdefd9a@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20470130
 DTEND;VALUE=DATE:20470131
 SUMMARY:Ističe 2 koncesije · Prelog
 DESCRIPTION:2 ugovora o koncesiji ističe 30. 1. 2047. Godišnja fiksna nak
  nada: 4.286 €.\n\n• AGROMEĐIMURJE D.D. – Koncesija za korištenje p
- oljoprivrednog zemljišta u vlasništvu države (PRELOG)\, 2.143 €/god.\
- n• AGROMEĐIMURJE D.D. – Koncesija za korištenje poljoprivrednog zeml
- jišta u vlasništvu države (PRELOG)\, 2.143 €/god.\n\nProfil općine: 
- https://koncesijski-sat.vercel.app/#opcina/41942358B40529434284591\nIzvor:
-  Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ oljoprivrednog zemljišta u vlasništvu države (PRELOG) · davatelj: GRAD
+  PRELOG\, 2.143 €/god.\n• AGROMEĐIMURJE D.D. – Koncesija za korišt
+ enje poljoprivrednog zemljišta u vlasništvu države (PRELOG) · davatelj
+ : GRAD PRELOG\, 2.143 €/god.\n\nProfil općine: https://koncesijski-sat.
+ vercel.app/#opcina/41942358B40529434284591\nIzvor: Registar koncesija (FIN
+ A)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B40529434284591
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -115,41 +123,44 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-63ad0bc382271705@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-8619b4818fdefd9a@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20460730
 DTEND;VALUE=DATE:20460731
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Prelog
 DESCRIPTION:30. 1. 2047. ističe 2 ugovora o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• AGROMEĐIMURJE D.D. – Koncesija za korištenje poljoprivrednog
-  zemljišta u vlasništvu države (PRELOG)\, 2.143 €/god.\n• AGROMEĐI
- MURJE D.D. – Koncesija za korištenje poljoprivrednog zemljišta u vlasn
- ištvu države (PRELOG)\, 2.143 €/god.\n\nProfil općine: https://konces
- ijski-sat.vercel.app/#opcina/41942358B40529434284591
+  zemljišta u vlasništvu države (PRELOG) · davatelj: GRAD PRELOG\, 2.14
+ 3 €/god.\n• AGROMEĐIMURJE D.D. – Koncesija za korištenje poljopriv
+ rednog zemljišta u vlasništvu države (PRELOG) · davatelj: GRAD PRELOG\
+ , 2.143 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#op
+ cina/41942358B40529434284591
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B40529434284591
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Prelog
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-a8bacfd2d6b8ebcd@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-8b3c4a2d08a3e6d3@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20481231
 DTEND;VALUE=DATE:20490101
 SUMMARY:Ističe 3 koncesije · Prelog
 DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2048. Godišnja fiksna na
  knada: 133.593 €.\n\n• AAT GEOTHERMAE D.O.O. – Dozvola za eksploatac
  iju geotermalne vode za energetske svrhe (prema Zakonu o ugljikovodicima) 
- (PRELOG)\, 44.531 €/god.\n• AAT GEOTHERMAE D.O.O. – Dozvola za ekspl
- oataciju geotermalne vode za energetske svrhe (prema Zakonu o ugljikovodic
- ima) (PRELOG)\, 44.531 €/god.\n• AAT GEOTHERMAE D.O.O. – Koncesija z
- a eksploataciju mineralnih sirovina (PRELOG)\, 44.531 €/god.\n\nProfil o
- pćine: https://koncesijski-sat.vercel.app/#opcina/41942358B40529434284591
- \nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ (PRELOG) · davatelj: MINISTARSTVO GOSPODARSTVA\, 44.531 €/god.\n• AAT
+  GEOTHERMAE D.O.O. – Dozvola za eksploataciju geotermalne vode za energe
+ tske svrhe (prema Zakonu o ugljikovodicima) (PRELOG) · davatelj: MINISTAR
+ STVO GOSPODARSTVA\, 44.531 €/god.\n• AAT GEOTHERMAE D.O.O. – Koncesi
+ ja za eksploataciju mineralnih sirovina (PRELOG) · davatelj: MINISTARSTVO
+  GOSPODARSTVA\, 44.531 €/god.\n\nProfil općine: https://koncesijski-sat
+ .vercel.app/#opcina/41942358B40529434284591\nIzvor: Registar koncesija (FI
+ NA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B40529434284591
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -159,42 +170,46 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-a8bacfd2d6b8ebcd@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-8b3c4a2d08a3e6d3@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20480630
 DTEND;VALUE=DATE:20480701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Prelog
 DESCRIPTION:31. 12. 2048. ističe 3 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• AAT GEOTHERMAE D.O.O. – Dozvola za eksploataciju geotermalne 
- vode za energetske svrhe (prema Zakonu o ugljikovodicima) (PRELOG)\, 44.53
- 1 €/god.\n• AAT GEOTHERMAE D.O.O. – Dozvola za eksploataciju geoterm
- alne vode za energetske svrhe (prema Zakonu o ugljikovodicima) (PRELOG)\, 
- 44.531 €/god.\n• AAT GEOTHERMAE D.O.O. – Koncesija za eksploataciju 
- mineralnih sirovina (PRELOG)\, 44.531 €/god.\n\nProfil općine: https://
- koncesijski-sat.vercel.app/#opcina/41942358B40529434284591
+ vode za energetske svrhe (prema Zakonu o ugljikovodicima) (PRELOG) · dava
+ telj: MINISTARSTVO GOSPODARSTVA\, 44.531 €/god.\n• AAT GEOTHERMAE D.O.
+ O. – Dozvola za eksploataciju geotermalne vode za energetske svrhe (prem
+ a Zakonu o ugljikovodicima) (PRELOG) · davatelj: MINISTARSTVO GOSPODARSTV
+ A\, 44.531 €/god.\n• AAT GEOTHERMAE D.O.O. – Koncesija za eksploatac
+ iju mineralnih sirovina (PRELOG) · davatelj: MINISTARSTVO GOSPODARSTVA\, 
+ 44.531 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opc
+ ina/41942358B40529434284591
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B40529434284591
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Prelog
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-0ae86f950e0597d1@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-d77283f229e36ad9@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20511231
 DTEND;VALUE=DATE:20520101
 SUMMARY:Ističe 3 koncesije · Prelog
 DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2051. Godišnja fiksna na
  knada: 18.056 €.\n\n• TEGRA  D.O.O. – Koncesija za eksploataciju gra
- đevnog pijeska i šljunka (PRELOG)\, 9.028 €/god.\n• TEGRA D.O.O. –
-  Koncesija za površinu utvrđenog eksploatacijskog polja neenergetskih mi
- neralnih sirovina (PRELOG)\, 9.028 €/god.\n• TEGRA D.O.O. – Koncesij
- a za eksploataciju građevnog pijeska i šljunka (PRELOG)\n\nProfil općin
- e: https://koncesijski-sat.vercel.app/#opcina/41942358B40529434284591\nIzv
- or: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ đevnog pijeska i šljunka (PRELOG) · davatelj: MINISTARSTVO GOSPODARSTVA
+ \, 9.028 €/god.\n• TEGRA D.O.O. – Koncesija za površinu utvrđenog 
+ eksploatacijskog polja neenergetskih mineralnih sirovina (PRELOG) · davat
+ elj: MINISTARSTVO GOSPODARSTVA\, 9.028 €/god.\n• TEGRA D.O.O. – Konc
+ esija za eksploataciju građevnog pijeska i šljunka (PRELOG) · davatelj:
+  MINISTARSTVO GOSPODARSTVA\n\nProfil općine: https://koncesijski-sat.verc
+ el.app/#opcina/41942358B40529434284591\nIzvor: Registar koncesija (FINA)\,
+  obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B40529434284591
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -204,24 +219,26 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-0ae86f950e0597d1@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-d77283f229e36ad9@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20510630
 DTEND;VALUE=DATE:20510701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Prelog
 DESCRIPTION:31. 12. 2051. ističe 3 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• TEGRA  D.O.O. – Koncesija za eksploataciju građevnog pijeska
-  i šljunka (PRELOG)\, 9.028 €/god.\n• TEGRA D.O.O. – Koncesija za p
- ovršinu utvrđenog eksploatacijskog polja neenergetskih mineralnih sirovi
- na (PRELOG)\, 9.028 €/god.\n• TEGRA D.O.O. – Koncesija za eksploatac
- iju građevnog pijeska i šljunka (PRELOG)\n\nProfil općine: https://konc
- esijski-sat.vercel.app/#opcina/41942358B40529434284591
+  i šljunka (PRELOG) · davatelj: MINISTARSTVO GOSPODARSTVA\, 9.028 €/go
+ d.\n• TEGRA D.O.O. – Koncesija za površinu utvrđenog eksploatacijsko
+ g polja neenergetskih mineralnih sirovina (PRELOG) · davatelj: MINISTARST
+ VO GOSPODARSTVA\, 9.028 €/god.\n• TEGRA D.O.O. – Koncesija za eksplo
+ ataciju građevnog pijeska i šljunka (PRELOG) · davatelj: MINISTARSTVO G
+ OSPODARSTVA\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/
+ 41942358B40529434284591
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B40529434284591
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Prelog
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT

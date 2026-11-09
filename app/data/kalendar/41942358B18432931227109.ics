@@ -4,24 +4,25 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Općina Sveti Ilija
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Sveti Ilija. Iz 
- Registra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade 
- podataka. https://koncesijski-sat.vercel.app/#opcina/41942358B184329312271
- 09
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Općina Sveti Ilija (pre
+ gled\, svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvjež
+ ava se nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#op
+ cina/41942358B18432931227109
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-1b950da99fc74317@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-6661c9618d5cfc16@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20310630
 DTEND;VALUE=DATE:20310701
 SUMMARY:Ističe koncesija: DIMNJAČARSTVO VALJAK D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 30. 6. 2031. Godišnja fiksna nakn
  ada: 1.000 €.\n\n• DIMNJAČARSTVO VALJAK D.O.O. – Koncesija za obavl
- janje dimnjačarskih poslova (SVETI ILIJA)\, 1.000 €/god.\n\nProfil opć
- ine: https://koncesijski-sat.vercel.app/#opcina/41942358B18432931227109\nI
- zvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ janje dimnjačarskih poslova (SVETI ILIJA) · davatelj: OPĆINA SVETI ILIJ
+ A\, 1.000 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#
+ opcina/41942358B18432931227109\nIzvor: Registar koncesija (FINA)\, obrada 
+ Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B18432931227109
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -31,8 +32,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-1b950da99fc74317@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-6661c9618d5cfc16@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20301230
 DTEND;VALUE=DATE:20301231
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DIMNJAČARSTVO V
@@ -40,8 +41,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DIMNJAČARSTVO V
 DESCRIPTION:30. 6. 2031. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• DIMNJAČARSTVO VALJAK D.O.O. – Koncesija za obavljanje dimnjač
- arskih poslova (SVETI ILIJA)\, 1.000 €/god.\n\nProfil općine: https://k
- oncesijski-sat.vercel.app/#opcina/41942358B18432931227109
+ arskih poslova (SVETI ILIJA) · davatelj: OPĆINA SVETI ILIJA\, 1.000 €/
+ god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4194235
+ 8B18432931227109
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B18432931227109
 TRANSP:TRANSPARENT
 BEGIN:VALARM

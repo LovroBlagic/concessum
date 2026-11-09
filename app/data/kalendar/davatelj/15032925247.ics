@@ -1,0 +1,102 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · OPĆINA GUNDINCI
+X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje OPĆINA GUNDINCI. Iz Regis
+ tra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podat
+ aka. https://koncesijski-sat.vercel.app/#sat
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-5521a2a706e6460c@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20271001
+DTEND;VALUE=DATE:20271002
+SUMMARY:Ističe koncesija: MULL-TRANS D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 1. 10. 2027. Godišnja fiksna nakn
+ ada: 7.300 €.\n\n• MULL-TRANS D.O.O. – Koncesija skupljanja i odvoza
+  komunalnog otpada (GUNDINCI\, Općina Gundinci)\, 7.300 €/god.\n\nŠto 
+ ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesij
+ a (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: MULL-TRANS D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-5521a2a706e6460c@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20270401
+DTEND;VALUE=DATE:20270402
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MULL-TRANS D.O.O
+ .)
+DESCRIPTION:1. 10. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• MULL-TRANS D.O.O. – Koncesija skupljanja i odvoza komunalnog ot
+ pada (GUNDINCI\, Općina Gundinci)\, 7.300 €/god.\n\nŠto ističe: https
+ ://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MULL-TRANS D
+ .O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-59e6ceaaf37d57cb@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20390312
+DTEND;VALUE=DATE:20390313
+SUMMARY:Ističe 3 koncesije · OPĆINA GUNDINCI
+DESCRIPTION:3 ugovora o koncesiji ističe 12. 3. 2039. Godišnja fiksna nak
+ nada: 31.364 €.\n\n• AGRO-KADIĆ D.O.O. – Koncesija za korištenje p
+ oljoprivrednog zemljišta u vlasništvu države (GUNDINCI\, Općina Gundin
+ ci)\, 11.481 €/god.\n• ORKIĆ D.O.O. – Koncesija za korištenje polj
+ oprivrednog zemljišta u vlasništvu države (GUNDINCI\, Općina Gundinci)
+ \, 10.650 €/god.\n• KARAVIDOVIĆ D.O.O. – Koncesija za korištenje p
+ oljoprivrednog zemljišta u vlasništvu države (GUNDINCI\, Općina Gundin
+ ci)\, 9.233 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#
+ sat\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026
+ .
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 3 koncesije · OPĆINA GUNDINCI
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-59e6ceaaf37d57cb@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20380912
+DTEND;VALUE=DATE:20380913
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · OPĆINA GUNDIN
+ CI
+DESCRIPTION:12. 3. 2039. ističe 3 ugovora o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• AGRO-KADIĆ D.O.O. – Koncesija za korištenje poljoprivrednog 
+ zemljišta u vlasništvu države (GUNDINCI\, Općina Gundinci)\, 11.481 
+ €/god.\n• ORKIĆ D.O.O. – Koncesija za korištenje poljoprivrednog z
+ emljišta u vlasništvu države (GUNDINCI\, Općina Gundinci)\, 10.650 €
+ /god.\n• KARAVIDOVIĆ D.O.O. – Koncesija za korištenje poljoprivredno
+ g zemljišta u vlasništvu države (GUNDINCI\, Općina Gundinci)\, 9.233 
+ €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · OPĆINA GU
+ NDINCI
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

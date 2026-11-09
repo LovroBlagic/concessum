@@ -4,23 +4,25 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Općina Petlovac
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Petlovac. Iz Reg
- istra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade pod
- ataka. https://koncesijski-sat.vercel.app/#opcina/41942358B48811452522993
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Općina Petlovac (pregle
+ d\, svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježava
+  se nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#opcin
+ a/41942358B48811452522993
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-50c045360be94186@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-288a70a9abe7f2a7@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270628
 DTEND;VALUE=DATE:20270629
 SUMMARY:Ističe koncesija: INA\, D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 28. 6. 2027. Godišnja fiksna nakn
  ada: 743 €.\n\n• INA\, D.D. – Dozvola za istraživanje ugljikovodika
-  (prema Zakonu o ugljikovodicima) (PETLOVAC)\, 743 €/god.\n\nProfil opć
- ine: https://koncesijski-sat.vercel.app/#opcina/41942358B48811452522993\nI
- zvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+  (prema Zakonu o ugljikovodicima) (PETLOVAC) · davatelj: MINISTARSTVO GOS
+ PODARSTVA\, 743 €/god.\n\nProfil općine: https://koncesijski-sat.vercel
+ .app/#opcina/41942358B48811452522993\nIzvor: Registar koncesija (FINA)\, o
+ brada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B48811452522993
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -30,16 +32,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-50c045360be94186@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-288a70a9abe7f2a7@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20261228
 DTEND;VALUE=DATE:20261229
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA\, D.D.)
 DESCRIPTION:28. 6. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• INA\, D.D. – Dozvola za istraživanje ugljikovodika (prema Zako
- nu o ugljikovodicima) (PETLOVAC)\, 743 €/god.\n\nProfil općine: https:/
- /koncesijski-sat.vercel.app/#opcina/41942358B48811452522993
+ nu o ugljikovodicima) (PETLOVAC) · davatelj: MINISTARSTVO GOSPODARSTVA\, 
+ 743 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina
+ /41942358B48811452522993
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B48811452522993
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -49,19 +52,19 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-265fc5dec509e7a8@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-b256fa022d2a6776@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20361207
 DTEND;VALUE=DATE:20361208
 SUMMARY:Ističe 2 koncesije · Petlovac
 DESCRIPTION:2 ugovora o koncesiji ističe 7. 12. 2036. Godišnja fiksna nak
  nada: 427.444 €.\n\n• BELJE PLUS D.O.O. – Koncesija za korištenje p
- oljoprivrednog zemljišta u vlasništvu države (PETLOVAC)\, 213.722 €/g
- od.\n• BELJE PLUS D.O.O. ZA JAMČEVINU – Koncesija za korištenje polj
- oprivrednog zemljišta u vlasništvu države (PETLOVAC)\, 213.722 €/god.
- \n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B48
- 811452522993\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9.
-  11. 2026.
+ oljoprivrednog zemljišta u vlasništvu države (PETLOVAC) · davatelj: OP
+ ĆINA PETLOVAC\, 213.722 €/god.\n• BELJE PLUS D.O.O. ZA JAMČEVINU –
+  Koncesija za korištenje poljoprivrednog zemljišta u vlasništvu države
+  (PETLOVAC) · davatelj: OPĆINA PETLOVAC\, 213.722 €/god.\n\nProfil op
+ ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B48811452522993\
+ nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B48811452522993
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -71,23 +74,24 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-265fc5dec509e7a8@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-b256fa022d2a6776@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20360607
 DTEND;VALUE=DATE:20360608
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Petlovac
 DESCRIPTION:7. 12. 2036. ističe 2 ugovora o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• BELJE PLUS D.O.O. – Koncesija za korištenje poljoprivrednog z
- emljišta u vlasništvu države (PETLOVAC)\, 213.722 €/god.\n• BELJE P
- LUS D.O.O. ZA JAMČEVINU – Koncesija za korištenje poljoprivrednog zeml
- jišta u vlasništvu države (PETLOVAC)\, 213.722 €/god.\n\nProfil opći
- ne: https://koncesijski-sat.vercel.app/#opcina/41942358B48811452522993
+ emljišta u vlasništvu države (PETLOVAC) · davatelj: OPĆINA PETLOVAC\,
+  213.722 €/god.\n• BELJE PLUS D.O.O. ZA JAMČEVINU – Koncesija za ko
+ rištenje poljoprivrednog zemljišta u vlasništvu države (PETLOVAC) · d
+ avatelj: OPĆINA PETLOVAC\, 213.722 €/god.\n\nProfil općine: https://ko
+ ncesijski-sat.vercel.app/#opcina/41942358B48811452522993
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B48811452522993
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Petlovac
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT

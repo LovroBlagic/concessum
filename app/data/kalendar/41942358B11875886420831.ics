@@ -4,23 +4,24 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Grad Novigrad
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Grad Novigrad. Iz Regist
- ra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podata
- ka. https://koncesijski-sat.vercel.app/#opcina/41942358B11875886420831
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Grad Novigrad (pregled\,
+  svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježava se
+  nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#opcina/4
+ 1942358B11875886420831
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-be997f6b14fe14e0@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-bb2c849f66f1728f@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20280510
 DTEND;VALUE=DATE:20280511
 SUMMARY:Ističe koncesija: MARSERVIS D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 10. 5. 2028. Godišnja fiksna nakn
- ada: 2.180 €.\n\n• MARSERVIS D.O.O. – Koncesija za luku (NOVIGRAD)\,
-  2.180 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opc
- ina/41942358B11875886420831\nIzvor: Registar koncesija (FINA)\, obrada Kon
- cesijski sat 9. 11. 2026.
+ ada: 2.180 €.\n\n• MARSERVIS D.O.O. – Koncesija za luku (NOVIGRAD) 
+ · davatelj: LUČKA UPRAVA UMAG-NOVIGRAD\, 2.180 €/god.\n\nProfil općin
+ e: https://koncesijski-sat.vercel.app/#opcina/41942358B11875886420831\nIzv
+ or: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B11875886420831
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -30,17 +31,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-be997f6b14fe14e0@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-bb2c849f66f1728f@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20271110
 DTEND;VALUE=DATE:20271111
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MARSERVIS D.O.O.
  )
 DESCRIPTION:10. 5. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
- .\n\n• MARSERVIS D.O.O. – Koncesija za luku (NOVIGRAD)\, 2.180 €/god
- .\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B1
- 1875886420831
+ .\n\n• MARSERVIS D.O.O. – Koncesija za luku (NOVIGRAD) · davatelj: LU
+ ČKA UPRAVA UMAG-NOVIGRAD\, 2.180 €/god.\n\nProfil općine: https://konc
+ esijski-sat.vercel.app/#opcina/41942358B11875886420831
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B11875886420831
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -51,17 +52,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-d52a009459b50915@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-15cf076378232f14@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20281231
 DTEND;VALUE=DATE:20290101
 SUMMARY:Ističe koncesija: ANTENAL D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 31. 12. 2028. Godišnja fiksna nak
  nada: 5.892 €.\n\n• ANTENAL D.O.O. – Koncesija za površinu utvrđen
- og eksploatacijskog polja neenergetskih mineralnih sirovina (NOVIGRAD)\, 5
- .892 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcin
- a/41942358B11875886420831\nIzvor: Registar koncesija (FINA)\, obrada Konce
- sijski sat 9. 11. 2026.
+ og eksploatacijskog polja neenergetskih mineralnih sirovina (NOVIGRAD) · 
+ davatelj: MINISTARSTVO GOSPODARSTVA\, 5.892 €/god.\n\nProfil općine: ht
+ tps://koncesijski-sat.vercel.app/#opcina/41942358B11875886420831\nIzvor: R
+ egistar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B11875886420831
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -71,17 +72,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-d52a009459b50915@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-15cf076378232f14@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20280630
 DTEND;VALUE=DATE:20280701
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ANTENAL D.O.O.)
 DESCRIPTION:31. 12. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• ANTENAL D.O.O. – Koncesija za površinu utvrđenog eksploataci
- jskog polja neenergetskih mineralnih sirovina (NOVIGRAD)\, 5.892 €/god.\
- n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B118
- 75886420831
+ jskog polja neenergetskih mineralnih sirovina (NOVIGRAD) · davatelj: MINI
+ STARSTVO GOSPODARSTVA\, 5.892 €/god.\n\nProfil općine: https://koncesij
+ ski-sat.vercel.app/#opcina/41942358B11875886420831
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B11875886420831
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -92,17 +93,18 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-48ffa597d76f6ca6@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-cd9c30d8e18f2d1d@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20321018
 DTEND;VALUE=DATE:20321019
 SUMMARY:Ističe koncesija: SIGMA POSLOVODSTVO D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 18. 10. 2032. Godišnja fiksna nak
  nada: 15.322 €.\n\n• SIGMA POSLOVODSTVO D.O.O. – Koncesija pomorskog
   dobra u svrhu izgradnje i gospodarskog korištenja luke posebne namjene (
- NOVIGRAD - CITTANOVA)\, 15.322 €/god.\n\nProfil općine: https://koncesi
- jski-sat.vercel.app/#opcina/41942358B11875886420831\nIzvor: Registar konce
- sija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ NOVIGRAD - CITTANOVA) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRU
+ KTURE\, 15.322 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.
+ app/#opcina/41942358B11875886420831\nIzvor: Registar koncesija (FINA)\, ob
+ rada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B11875886420831
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -112,8 +114,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-48ffa597d76f6ca6@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-cd9c30d8e18f2d1d@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20320418
 DTEND;VALUE=DATE:20320419
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (SIGMA POSLOVODST
@@ -122,8 +124,9 @@ DESCRIPTION:18. 10. 2032. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• SIGMA POSLOVODSTVO D.O.O. – Koncesija pomorskog dobra u svrhu 
  izgradnje i gospodarskog korištenja luke posebne namjene (NOVIGRAD - CITT
- ANOVA)\, 15.322 €/god.\n\nProfil općine: https://koncesijski-sat.vercel
- .app/#opcina/41942358B11875886420831
+ ANOVA) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\, 15.322 
+ €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
+ 42358B11875886420831
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B11875886420831
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -134,18 +137,18 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-b933b73b31c49be2@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-4677554f901a83fa@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20330422
 DTEND;VALUE=DATE:20330423
 SUMMARY:Ističe koncesija: AMINESS DIONIČKO DRUŠTVO ZA HOTELIJERSTVO I TU
  RIZAM
 DESCRIPTION:1 ugovor o koncesiji ističe 22. 4. 2033. Godišnja fiksna nakn
  ada: 15.065 €.\n\n• AMINESS DIONIČKO DRUŠTVO ZA HOTELIJERSTVO I TURI
- ZAM – Koncesija na pomorskom dobru (NOVIGRAD)\, 15.065 €/god.\n\nProfi
- l općine: https://koncesijski-sat.vercel.app/#opcina/41942358B11875886420
- 831\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026
- .
+ ZAM – Koncesija na pomorskom dobru (NOVIGRAD) · davatelj: ISTARSKA ŽUP
+ ANIJA\, 15.065 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.
+ app/#opcina/41942358B11875886420831\nIzvor: Registar koncesija (FINA)\, ob
+ rada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B11875886420831
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -156,8 +159,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-b933b73b31c49be2@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-4677554f901a83fa@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20321022
 DTEND;VALUE=DATE:20321023
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (AMINESS DIONIČK
@@ -165,8 +168,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (AMINESS DIONIČK
 DESCRIPTION:22. 4. 2033. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• AMINESS DIONIČKO DRUŠTVO ZA HOTELIJERSTVO I TURIZAM – Koncesi
- ja na pomorskom dobru (NOVIGRAD)\, 15.065 €/god.\n\nProfil općine: http
- s://koncesijski-sat.vercel.app/#opcina/41942358B11875886420831
+ ja na pomorskom dobru (NOVIGRAD) · davatelj: ISTARSKA ŽUPANIJA\, 15.065 
+ €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
+ 42358B11875886420831
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B11875886420831
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -177,16 +181,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-bb27ca504c720563@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-ee35b59c196006b7@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20350321
 DTEND;VALUE=DATE:20350322
 SUMMARY:Ističe koncesija: SURGO NOVI J.D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 21. 3. 2035. Godišnja fiksna nakn
  ada: 1.136 €.\n\n• SURGO NOVI J.D.O.O. – Koncesija za plažu (NOVIGR
- AD)\, 1.136 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app
- /#opcina/41942358B11875886420831\nIzvor: Registar koncesija (FINA)\, obrad
- a Koncesijski sat 9. 11. 2026.
+ AD) · davatelj: ZADARSKA ŽUPANIJA\, 1.136 €/god.\n\nProfil općine: ht
+ tps://koncesijski-sat.vercel.app/#opcina/41942358B11875886420831\nIzvor: R
+ egistar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B11875886420831
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -196,17 +200,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-bb27ca504c720563@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-ee35b59c196006b7@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20340921
 DTEND;VALUE=DATE:20340922
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (SURGO NOVI J.D.O
  .O.)
 DESCRIPTION:21. 3. 2035. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
- .\n\n• SURGO NOVI J.D.O.O. – Koncesija za plažu (NOVIGRAD)\, 1.136 
- €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
- 42358B11875886420831
+ .\n\n• SURGO NOVI J.D.O.O. – Koncesija za plažu (NOVIGRAD) · davatel
+ j: ZADARSKA ŽUPANIJA\, 1.136 €/god.\n\nProfil općine: https://koncesij
+ ski-sat.vercel.app/#opcina/41942358B11875886420831
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B11875886420831
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -217,8 +221,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-93ae41318915ee16@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-63e5f33baabb5b81@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20410909
 DTEND;VALUE=DATE:20410910
 SUMMARY:Ističe koncesija: PECTEN D.O.O. ZA ULOV I UZGOJ  RIBE\, TE OSTALIH
@@ -226,9 +230,10 @@ SUMMARY:Ističe koncesija: PECTEN D.O.O. ZA ULOV I UZGOJ  RIBE\, TE OSTALIH
 DESCRIPTION:1 ugovor o koncesiji ističe 9. 9. 2041. Godišnja fiksna nakna
  da: 747 €.\n\n• PECTEN D.O.O. ZA ULOV I UZGOJ  RIBE\, TE OSTALIH MORSK
  IH ORGANIZAMA – Koncesija na pomorskom dobru u svrhu uzgoja morske ribe 
- i školjkaša (NOVIGRAD)\, 747 €/god.\n\nProfil općine: https://koncesi
- jski-sat.vercel.app/#opcina/41942358B11875886420831\nIzvor: Registar konce
- sija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ i školjkaša (NOVIGRAD) · davatelj: ZADARSKA ŽUPANIJA\, 747 €/god.\n\
+ nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B11875
+ 886420831\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11
+ . 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B11875886420831
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -239,8 +244,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-93ae41318915ee16@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-63e5f33baabb5b81@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20410309
 DTEND;VALUE=DATE:20410310
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PECTEN D.O.O. ZA
@@ -249,8 +254,8 @@ DESCRIPTION:9. 9. 2041. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• PECTEN D.O.O. ZA ULOV I UZGOJ  RIBE\, TE OSTALIH MORSKIH ORGANIZAM
  A – Koncesija na pomorskom dobru u svrhu uzgoja morske ribe i školjkaš
- a (NOVIGRAD)\, 747 €/god.\n\nProfil općine: https://koncesijski-sat.ver
- cel.app/#opcina/41942358B11875886420831
+ a (NOVIGRAD) · davatelj: ZADARSKA ŽUPANIJA\, 747 €/god.\n\nProfil opć
+ ine: https://koncesijski-sat.vercel.app/#opcina/41942358B11875886420831
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B11875886420831
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -261,16 +266,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-097b24832664928c@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-f3adc5f71a92cc67@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20450107
 DTEND;VALUE=DATE:20450108
 SUMMARY:Ističe koncesija: HRVATSKA ELEKTROPRIVREDA  D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 7. 1. 2045. Godišnja fiksna nakna
  da: 225 €.\n\n• HRVATSKA ELEKTROPRIVREDA  D.D. – Posebna upotreba po
- morskog dobra (NOVIGRAD)\, 225 €/god.\n\nProfil općine: https://koncesi
- jski-sat.vercel.app/#opcina/41942358B11875886420831\nIzvor: Registar konce
- sija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ morskog dobra (NOVIGRAD) · davatelj: ISTARSKA ŽUPANIJA\, 225 €/god.\n\
+ nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B11875
+ 886420831\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11
+ . 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B11875886420831
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -280,8 +286,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-097b24832664928c@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-f3adc5f71a92cc67@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20440707
 DTEND;VALUE=DATE:20440708
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKA ELEKTRO
@@ -289,8 +295,8 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKA ELEKTRO
 DESCRIPTION:7. 1. 2045. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• HRVATSKA ELEKTROPRIVREDA  D.D. – Posebna upotreba pomorskog dobr
- a (NOVIGRAD)\, 225 €/god.\n\nProfil općine: https://koncesijski-sat.ver
- cel.app/#opcina/41942358B11875886420831
+ a (NOVIGRAD) · davatelj: ISTARSKA ŽUPANIJA\, 225 €/god.\n\nProfil opć
+ ine: https://koncesijski-sat.vercel.app/#opcina/41942358B11875886420831
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B11875886420831
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -301,19 +307,21 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-29ec331b1c81ffdc@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-db23eb402c8908b0@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20471231
 DTEND;VALUE=DATE:20480101
 SUMMARY:Ističe 3 koncesije · Novigrad
 DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2047. Godišnja fiksna na
  knada: 1.152 €.\n\n• GEOFON D.O.O. – Koncesija za površinu utvrđen
- og eksploatacijskog polja neenergetskih mineralnih sirovina (NOVIGRAD)\, 1
- .152 €/god.\n• GEOFON D.O.O. – Koncesija za eksploataciju arhitekton
- sko-građevnog kamena (NOVIGRAD)\n• GEOFON D.O.O. – Koncesija za ekspl
- oataciju arhitektonsko-građevnog kamena (NOVIGRAD)\n\nProfil općine: htt
- ps://koncesijski-sat.vercel.app/#opcina/41942358B11875886420831\nIzvor: Re
- gistar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ og eksploatacijskog polja neenergetskih mineralnih sirovina (NOVIGRAD) · 
+ davatelj: MINISTARSTVO GOSPODARSTVA\, 1.152 €/god.\n• GEOFON D.O.O. 
+ – Koncesija za eksploataciju arhitektonsko-građevnog kamena (NOVIGRAD) 
+ · davatelj: MINISTARSTVO GOSPODARSTVA\n• GEOFON D.O.O. – Koncesija za
+  eksploataciju arhitektonsko-građevnog kamena (NOVIGRAD) · davatelj: MIN
+ ISTARSTVO GOSPODARSTVA\n\nProfil općine: https://koncesijski-sat.vercel.a
+ pp/#opcina/41942358B11875886420831\nIzvor: Registar koncesija (FINA)\, obr
+ ada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B11875886420831
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -323,42 +331,45 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-29ec331b1c81ffdc@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-db23eb402c8908b0@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20470630
 DTEND;VALUE=DATE:20470701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Novigrad
 DESCRIPTION:31. 12. 2047. ističe 3 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• GEOFON D.O.O. – Koncesija za površinu utvrđenog eksploataci
- jskog polja neenergetskih mineralnih sirovina (NOVIGRAD)\, 1.152 €/god.\
- n• GEOFON D.O.O. – Koncesija za eksploataciju arhitektonsko-građevnog
-  kamena (NOVIGRAD)\n• GEOFON D.O.O. – Koncesija za eksploataciju arhit
- ektonsko-građevnog kamena (NOVIGRAD)\n\nProfil općine: https://koncesijs
- ki-sat.vercel.app/#opcina/41942358B11875886420831
+ jskog polja neenergetskih mineralnih sirovina (NOVIGRAD) · davatelj: MINI
+ STARSTVO GOSPODARSTVA\, 1.152 €/god.\n• GEOFON D.O.O. – Koncesija za
+  eksploataciju arhitektonsko-građevnog kamena (NOVIGRAD) · davatelj: MIN
+ ISTARSTVO GOSPODARSTVA\n• GEOFON D.O.O. – Koncesija za eksploataciju a
+ rhitektonsko-građevnog kamena (NOVIGRAD) · davatelj: MINISTARSTVO GOSPOD
+ ARSTVA\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942
+ 358B11875886420831
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B11875886420831
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Novigrad
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-5307da5de2fac1af@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-242031dc9c4afbf6@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20501231
 DTEND;VALUE=DATE:20510101
 SUMMARY:Ističe 3 koncesije · Novigrad
 DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2050. Godišnja fiksna na
  knada: 6.472 €.\n\n• FASADNI KAMEN ZADRUGA – Koncesija za eksploatac
- iju arhitektonsko-građevnog kamena (NOVIGRAD)\, 3.236 €/god.\n• FASAD
- NI KAMEN ZADRUGA – Koncesija za površinu utvrđenog eksploatacijskog po
- lja neenergetskih mineralnih sirovina (NOVIGRAD)\, 3.236 €/god.\n• FAS
- ADNI KAMEN ZADRUGA – Koncesija za eksploataciju arhitektonsko-građevnog
-  kamena (NOVIGRAD)\n\nProfil općine: https://koncesijski-sat.vercel.app/#
- opcina/41942358B11875886420831\nIzvor: Registar koncesija (FINA)\, obrada 
- Koncesijski sat 9. 11. 2026.
+ iju arhitektonsko-građevnog kamena (NOVIGRAD) · davatelj: MINISTARSTVO G
+ OSPODARSTVA\, 3.236 €/god.\n• FASADNI KAMEN ZADRUGA – Koncesija za p
+ ovršinu utvrđenog eksploatacijskog polja neenergetskih mineralnih sirovi
+ na (NOVIGRAD) · davatelj: MINISTARSTVO GOSPODARSTVA\, 3.236 €/god.\n•
+  FASADNI KAMEN ZADRUGA – Koncesija za eksploataciju arhitektonsko-građe
+ vnog kamena (NOVIGRAD) · davatelj: MINISTARSTVO GOSPODARSTVA\n\nProfil op
+ ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B11875886420831\
+ nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B11875886420831
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -368,43 +379,45 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-5307da5de2fac1af@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-242031dc9c4afbf6@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20500630
 DTEND;VALUE=DATE:20500701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Novigrad
 DESCRIPTION:31. 12. 2050. ističe 3 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• FASADNI KAMEN ZADRUGA – Koncesija za eksploataciju arhitekton
- sko-građevnog kamena (NOVIGRAD)\, 3.236 €/god.\n• FASADNI KAMEN ZADRU
- GA – Koncesija za površinu utvrđenog eksploatacijskog polja neenergets
- kih mineralnih sirovina (NOVIGRAD)\, 3.236 €/god.\n• FASADNI KAMEN ZAD
- RUGA – Koncesija za eksploataciju arhitektonsko-građevnog kamena (NOVIG
- RAD)\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4194235
- 8B11875886420831
+ sko-građevnog kamena (NOVIGRAD) · davatelj: MINISTARSTVO GOSPODARSTVA\, 
+ 3.236 €/god.\n• FASADNI KAMEN ZADRUGA – Koncesija za površinu utvr
+ đenog eksploatacijskog polja neenergetskih mineralnih sirovina (NOVIGRAD)
+  · davatelj: MINISTARSTVO GOSPODARSTVA\, 3.236 €/god.\n• FASADNI KAME
+ N ZADRUGA – Koncesija za eksploataciju arhitektonsko-građevnog kamena (
+ NOVIGRAD) · davatelj: MINISTARSTVO GOSPODARSTVA\n\nProfil općine: https:
+ //koncesijski-sat.vercel.app/#opcina/41942358B11875886420831
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B11875886420831
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Novigrad
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-f8b8c6d37e4e37d8@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-5467c7abbc38bed6@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20581231
 DTEND;VALUE=DATE:20590101
 SUMMARY:Ističe 3 koncesije · Novigrad
 DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2058. Godišnja fiksna na
  knada: 2.198 €.\n\n• KAMENOLOM PRIDRAGA D.O.O. – Koncesija za površ
  inu utvrđenog eksploatacijskog polja neenergetskih mineralnih sirovina (N
- OVIGRAD)\, 2.198 €/god.\n• KAMENOLOM PRIDRAGA D.O.O. – Koncesija za 
- eksploataciju tehničko-građevnog kamena (NOVIGRAD)\n• KAMENOLOM PRIDRA
- GA D.O.O. – Koncesija za eksploataciju tehničko-građevnog kamena (NOVI
- GRAD)\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419423
- 58B11875886420831\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski s
- at 9. 11. 2026.
+ OVIGRAD) · davatelj: MINISTARSTVO GOSPODARSTVA\, 2.198 €/god.\n• KAME
+ NOLOM PRIDRAGA D.O.O. – Koncesija za eksploataciju tehničko-građevnog 
+ kamena (NOVIGRAD) · davatelj: MINISTARSTVO GOSPODARSTVA\n• KAMENOLOM PR
+ IDRAGA D.O.O. – Koncesija za eksploataciju tehničko-građevnog kamena (
+ NOVIGRAD) · davatelj: MINISTARSTVO GOSPODARSTVA\n\nProfil općine: https:
+ //koncesijski-sat.vercel.app/#opcina/41942358B11875886420831\nIzvor: Regis
+ tar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B11875886420831
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -414,39 +427,41 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-f8b8c6d37e4e37d8@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-5467c7abbc38bed6@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20580630
 DTEND;VALUE=DATE:20580701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Novigrad
 DESCRIPTION:31. 12. 2058. ističe 3 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• KAMENOLOM PRIDRAGA D.O.O. – Koncesija za površinu utvrđenog
-  eksploatacijskog polja neenergetskih mineralnih sirovina (NOVIGRAD)\, 2.1
- 98 €/god.\n• KAMENOLOM PRIDRAGA D.O.O. – Koncesija za eksploataciju 
- tehničko-građevnog kamena (NOVIGRAD)\n• KAMENOLOM PRIDRAGA D.O.O. – 
- Koncesija za eksploataciju tehničko-građevnog kamena (NOVIGRAD)\n\nProfi
- l općine: https://koncesijski-sat.vercel.app/#opcina/41942358B11875886420
- 831
+  eksploatacijskog polja neenergetskih mineralnih sirovina (NOVIGRAD) · da
+ vatelj: MINISTARSTVO GOSPODARSTVA\, 2.198 €/god.\n• KAMENOLOM PRIDRAGA
+  D.O.O. – Koncesija za eksploataciju tehničko-građevnog kamena (NOVIGR
+ AD) · davatelj: MINISTARSTVO GOSPODARSTVA\n• KAMENOLOM PRIDRAGA D.O.O. 
+ – Koncesija za eksploataciju tehničko-građevnog kamena (NOVIGRAD) · d
+ avatelj: MINISTARSTVO GOSPODARSTVA\n\nProfil općine: https://koncesijski-
+ sat.vercel.app/#opcina/41942358B11875886420831
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B11875886420831
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Novigrad
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-73b54a34d0712863@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-d010bcf15020c5fe@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20601015
 DTEND;VALUE=DATE:20601016
 SUMMARY:Ističe koncesija: DRŽAVNI HIDROMETEOROLOŠKI ZAVOD
 DESCRIPTION:1 ugovor o koncesiji ističe 15. 10. 2060. Godišnja fiksna nak
  nada: 20 €.\n\n• DRŽAVNI HIDROMETEOROLOŠKI ZAVOD – Koncesija na po
- morskom dobru (NOVIGRAD)\, 20 €/god.\n\nProfil općine: https://koncesij
- ski-sat.vercel.app/#opcina/41942358B11875886420831\nIzvor: Registar konces
- ija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ morskom dobru (NOVIGRAD) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRAS
+ TRUKTURE\, 20 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.a
+ pp/#opcina/41942358B11875886420831\nIzvor: Registar koncesija (FINA)\, obr
+ ada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B11875886420831
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -456,8 +471,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-73b54a34d0712863@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-d010bcf15020c5fe@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20600415
 DTEND;VALUE=DATE:20600416
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DRŽAVNI HIDROME
@@ -465,8 +480,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DRŽAVNI HIDROME
 DESCRIPTION:15. 10. 2060. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• DRŽAVNI HIDROMETEOROLOŠKI ZAVOD – Koncesija na pomorskom dob
- ru (NOVIGRAD)\, 20 €/god.\n\nProfil općine: https://koncesijski-sat.ver
- cel.app/#opcina/41942358B11875886420831
+ ru (NOVIGRAD) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\, 
+ 20 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/
+ 41942358B11875886420831
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B11875886420831
 TRANSP:TRANSPARENT
 BEGIN:VALARM

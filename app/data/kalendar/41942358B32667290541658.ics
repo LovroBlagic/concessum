@@ -4,24 +4,25 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Grad Ozalj
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Grad Ozalj. Iz Registra 
- koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podataka.
-  https://koncesijski-sat.vercel.app/#opcina/41942358B32667290541658
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Grad Ozalj (pregled\, sv
+ i davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježava se na
+ kon svake obrade podataka. https://koncesijski-sat.vercel.app/#opcina/4194
+ 2358B32667290541658
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-fc748fbd09a96d9f@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-cafe9288cad71dee@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20430819
 DTEND;VALUE=DATE:20430820
 SUMMARY:Ističe koncesija: TEKONET D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 19. 8. 2043. Godišnja fiksna nakn
  ada: 8.980 €.\n\n• TEKONET D.O.O. – Koncesija za korištenje vodne s
- nage radi proizvodnje električne energije (OZALJ)\, 8.980 €/god.\n\nPro
- fil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B326672905
- 41658\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 20
- 26.
+ nage radi proizvodnje električne energije (OZALJ) · davatelj: MINISTARST
+ VO ZAŠTITE OKOLIŠA I ZELENE TRANZICIJE\, 8.980 €/god.\n\nProfil općin
+ e: https://koncesijski-sat.vercel.app/#opcina/41942358B32667290541658\nIzv
+ or: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B32667290541658
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -31,16 +32,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-fc748fbd09a96d9f@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-cafe9288cad71dee@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20430219
 DTEND;VALUE=DATE:20430220
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (TEKONET D.O.O.)
 DESCRIPTION:19. 8. 2043. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• TEKONET D.O.O. – Koncesija za korištenje vodne snage radi proi
- zvodnje električne energije (OZALJ)\, 8.980 €/god.\n\nProfil općine: h
- ttps://koncesijski-sat.vercel.app/#opcina/41942358B32667290541658
+ zvodnje električne energije (OZALJ) · davatelj: MINISTARSTVO ZAŠTITE OK
+ OLIŠA I ZELENE TRANZICIJE\, 8.980 €/god.\n\nProfil općine: https://kon
+ cesijski-sat.vercel.app/#opcina/41942358B32667290541658
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B32667290541658
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -51,17 +53,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-55967a61ac34e1ab@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-f526d570e3679695@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20550626
 DTEND;VALUE=DATE:20550627
 SUMMARY:Ističe koncesija: ASPECT CROATIA KFT. - PODRUŽNICA ZAGREB
 DESCRIPTION:1 ugovor o koncesiji ističe 26. 6. 2055. Godišnja fiksna nakn
  ada: 2.540 €.\n\n• ASPECT CROATIA KFT. - PODRUŽNICA ZAGREB – Dozvol
- a za istraživanje ugljikovodika (prema Zakonu o ugljikovodicima) (OZALJ)\
- , 2.540 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#op
- cina/41942358B32667290541658\nIzvor: Registar koncesija (FINA)\, obrada Ko
- ncesijski sat 9. 11. 2026.
+ a za istraživanje ugljikovodika (prema Zakonu o ugljikovodicima) (OZALJ) 
+ · davatelj: MINISTARSTVO GOSPODARSTVA\, 2.540 €/god.\n\nProfil općine:
+  https://koncesijski-sat.vercel.app/#opcina/41942358B32667290541658\nIzvor
+ : Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B32667290541658
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -71,8 +73,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-55967a61ac34e1ab@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-f526d570e3679695@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20541226
 DTEND;VALUE=DATE:20541227
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ASPECT CROATIA K
@@ -80,9 +82,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ASPECT CROATIA K
 DESCRIPTION:26. 6. 2055. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• ASPECT CROATIA KFT. - PODRUŽNICA ZAGREB – Dozvola za istraživ
- anje ugljikovodika (prema Zakonu o ugljikovodicima) (OZALJ)\, 2.540 €/go
- d.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B
- 32667290541658
+ anje ugljikovodika (prema Zakonu o ugljikovodicima) (OZALJ) · davatelj: M
+ INISTARSTVO GOSPODARSTVA\, 2.540 €/god.\n\nProfil općine: https://konce
+ sijski-sat.vercel.app/#opcina/41942358B32667290541658
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B32667290541658
 TRANSP:TRANSPARENT
 BEGIN:VALARM

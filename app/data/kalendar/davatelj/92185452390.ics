@@ -1,0 +1,93 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · OPĆINA SELNICA
+X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje OPĆINA SELNICA. Iz Regist
+ ra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podata
+ ka. https://koncesijski-sat.vercel.app/#sat
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-51b9e6b54709d2d1@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20290214
+DTEND;VALUE=DATE:20290215
+SUMMARY:Ističe koncesija: ROBERT ZVER\, DIMOS\, OBRT
+DESCRIPTION:1 ugovor o koncesiji ističe 14. 2. 2029. Godišnja fiksna nakn
+ ada: 1.075 €.\n\n• ROBERT ZVER\, DIMOS\, OBRT – Koncesija za obavlja
+ nje dimnjačarskih poslova (SELNICA\, Općina Selnica)\, 1.075 €/god.\n\
+ nŠto ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar ko
+ ncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: ROBERT ZVER\, DIMOS\, OBRT
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-51b9e6b54709d2d1@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20280814
+DTEND;VALUE=DATE:20280815
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ROBERT ZVER\, DI
+ MOS\, OBRT)
+DESCRIPTION:14. 2. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• ROBERT ZVER\, DIMOS\, OBRT – Koncesija za obavljanje dimnjačar
+ skih poslova (SELNICA\, Općina Selnica)\, 1.075 €/god.\n\nŠto ističe:
+  https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ROBERT ZVER\
+ , DIMOS\, OBRT)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-660cae605d37b776@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20290215
+DTEND;VALUE=DATE:20290216
+SUMMARY:Ističe koncesija: ROBERT ZVER\, DIMOS\,OBRT
+DESCRIPTION:1 ugovor o koncesiji ističe 15. 2. 2029. Godišnja fiksna nakn
+ ada: 1.075 €.\n\n• ROBERT ZVER\, DIMOS\,OBRT – Koncesija za obavljan
+ je dimnjačarskih poslova (SELNICA\, Općina Selnica)\, 1.075 €/god.\n\n
+ Što ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar kon
+ cesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: ROBERT ZVER\, DIMOS\,OBRT
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-660cae605d37b776@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20280815
+DTEND;VALUE=DATE:20280816
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ROBERT ZVER\, DI
+ MOS\,OBRT)
+DESCRIPTION:15. 2. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• ROBERT ZVER\, DIMOS\,OBRT – Koncesija za obavljanje dimnjačars
+ kih poslova (SELNICA\, Općina Selnica)\, 1.075 €/god.\n\nŠto ističe: 
+ https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ROBERT ZVER\
+ , DIMOS\,OBRT)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

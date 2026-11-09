@@ -4,28 +4,30 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Općina Sveti Lovreč
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Sveti Lovreč. I
- z Registra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrad
- e podataka. https://koncesijski-sat.vercel.app/#opcina/41942358B9607252563
- 6377
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Općina Sveti Lovreč (p
+ regled\, svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvje
+ žava se nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#
+ opcina/41942358B96072525636377
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-2e2daacfba777238@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-639cacb4c4db6521@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20391231
 DTEND;VALUE=DATE:20400101
 SUMMARY:Ističe 3 koncesije · Sveti Lovreč
 DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2039. Godišnja fiksna na
  knada: 1.500 €.\n\n• OBRT GODA VL. EDO MATOŠEVIĆ – Koncesija za ek
- sploataciju tehničko-građevnog kamena (SVETI LOVREČ)\, 750 €/god.\n
- • OBRT GODA VL. EDO MATOŠEVIĆ – Koncesija za površinu utvrđenog ek
- sploatacijskog polja neenergetskih mineralnih sirovina (SVETI LOVREČ)\, 7
- 50 €/god.\n• OBRT GODA VL. EDO MATOŠEVIĆ – Koncesija za eksploatac
- iju tehničko-građevnog kamena (SVETI LOVREČ)\n\nProfil općine: https:/
- /koncesijski-sat.vercel.app/#opcina/41942358B96072525636377\nIzvor: Regist
- ar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ sploataciju tehničko-građevnog kamena (SVETI LOVREČ) · davatelj: MINIS
+ TARSTVO GOSPODARSTVA\, 750 €/god.\n• OBRT GODA VL. EDO MATOŠEVIĆ –
+  Koncesija za površinu utvrđenog eksploatacijskog polja neenergetskih mi
+ neralnih sirovina (SVETI LOVREČ) · davatelj: MINISTARSTVO GOSPODARSTVA\,
+  750 €/god.\n• OBRT GODA VL. EDO MATOŠEVIĆ – Koncesija za eksploat
+ aciju tehničko-građevnog kamena (SVETI LOVREČ) · davatelj: MINISTARSTV
+ O GOSPODARSTVA\n\nProfil općine: https://koncesijski-sat.vercel.app/#opci
+ na/41942358B96072525636377\nIzvor: Registar koncesija (FINA)\, obrada Konc
+ esijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B96072525636377
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -35,43 +37,47 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-2e2daacfba777238@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-639cacb4c4db6521@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20390630
 DTEND;VALUE=DATE:20390701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Sveti Lovreč
 DESCRIPTION:31. 12. 2039. ističe 3 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• OBRT GODA VL. EDO MATOŠEVIĆ – Koncesija za eksploataciju te
- hničko-građevnog kamena (SVETI LOVREČ)\, 750 €/god.\n• OBRT GODA VL
- . EDO MATOŠEVIĆ – Koncesija za površinu utvrđenog eksploatacijskog p
- olja neenergetskih mineralnih sirovina (SVETI LOVREČ)\, 750 €/god.\n•
-  OBRT GODA VL. EDO MATOŠEVIĆ – Koncesija za eksploataciju tehničko-gr
- ađevnog kamena (SVETI LOVREČ)\n\nProfil općine: https://koncesijski-sat
- .vercel.app/#opcina/41942358B96072525636377
+ hničko-građevnog kamena (SVETI LOVREČ) · davatelj: MINISTARSTVO GOSPOD
+ ARSTVA\, 750 €/god.\n• OBRT GODA VL. EDO MATOŠEVIĆ – Koncesija za 
+ površinu utvrđenog eksploatacijskog polja neenergetskih mineralnih sirov
+ ina (SVETI LOVREČ) · davatelj: MINISTARSTVO GOSPODARSTVA\, 750 €/god.\
+ n• OBRT GODA VL. EDO MATOŠEVIĆ – Koncesija za eksploataciju tehničk
+ o-građevnog kamena (SVETI LOVREČ) · davatelj: MINISTARSTVO GOSPODARSTVA
+ \n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B96
+ 072525636377
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B96072525636377
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Sveti Lovr
+ eč
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-acf677bddd9a17ab@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-2a3dc30fb45d3545@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20401231
 DTEND;VALUE=DATE:20410101
 SUMMARY:Ističe 3 koncesije · Sveti Lovreč
 DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2040. Godišnja fiksna na
  knada: 1.462 €.\n\n• KAMEN D.D. – Koncesija za površinu utvrđenog 
- eksploatacijskog polja neenergetskih mineralnih sirovina (SVETI LOVREČ)\,
-  1.458 €/god.\n• KAMEN D.D. – Koncesija za eksploataciju arhitektons
- ko-građevnog kamena (SVETI LOVREČ)\, 4 €/god.\n• KAMEN D.D. – Konc
- esija za eksploataciju arhitektonsko-građevnog kamena (SVETI LOVREČ)\n\n
- Profil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B960725
- 25636377\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11.
-  2026.
+ eksploatacijskog polja neenergetskih mineralnih sirovina (SVETI LOVREČ) 
+ · davatelj: MINISTARSTVO GOSPODARSTVA\, 1.458 €/god.\n• KAMEN D.D. 
+ – Koncesija za eksploataciju arhitektonsko-građevnog kamena (SVETI LOVR
+ EČ) · davatelj: MINISTARSTVO GOSPODARSTVA\, 4 €/god.\n• KAMEN D.D. 
+ – Koncesija za eksploataciju arhitektonsko-građevnog kamena (SVETI LOVR
+ EČ) · davatelj: MINISTARSTVO GOSPODARSTVA\n\nProfil općine: https://kon
+ cesijski-sat.vercel.app/#opcina/41942358B96072525636377\nIzvor: Registar k
+ oncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B96072525636377
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -81,24 +87,27 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-acf677bddd9a17ab@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-2a3dc30fb45d3545@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20400630
 DTEND;VALUE=DATE:20400701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Sveti Lovreč
 DESCRIPTION:31. 12. 2040. ističe 3 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• KAMEN D.D. – Koncesija za površinu utvrđenog eksploatacijsk
- og polja neenergetskih mineralnih sirovina (SVETI LOVREČ)\, 1.458 €/god
- .\n• KAMEN D.D. – Koncesija za eksploataciju arhitektonsko-građevnog 
- kamena (SVETI LOVREČ)\, 4 €/god.\n• KAMEN D.D. – Koncesija za ekspl
- oataciju arhitektonsko-građevnog kamena (SVETI LOVREČ)\n\nProfil općine
- : https://koncesijski-sat.vercel.app/#opcina/41942358B96072525636377
+ og polja neenergetskih mineralnih sirovina (SVETI LOVREČ) · davatelj: MI
+ NISTARSTVO GOSPODARSTVA\, 1.458 €/god.\n• KAMEN D.D. – Koncesija za 
+ eksploataciju arhitektonsko-građevnog kamena (SVETI LOVREČ) · davatelj:
+  MINISTARSTVO GOSPODARSTVA\, 4 €/god.\n• KAMEN D.D. – Koncesija za e
+ ksploataciju arhitektonsko-građevnog kamena (SVETI LOVREČ) · davatelj: 
+ MINISTARSTVO GOSPODARSTVA\n\nProfil općine: https://koncesijski-sat.verce
+ l.app/#opcina/41942358B96072525636377
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B96072525636377
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Sveti Lovr
+ eč
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT

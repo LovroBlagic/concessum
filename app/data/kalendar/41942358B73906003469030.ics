@@ -4,25 +4,26 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Općina Postira
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Postira. Iz Regi
- stra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade poda
- taka. https://koncesijski-sat.vercel.app/#opcina/41942358B73906003469030
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Općina Postira (pregled
+ \, svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježava 
+ se nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#opcina
+ /41942358B73906003469030
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-672b2db93ac79ae8@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-a846570a5003f156@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20290301
 DTEND;VALUE=DATE:20290302
 SUMMARY:Ističe koncesija: MICHIELI-TOMIĆ D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 1. 3. 2029. Godišnja fiksna nakna
  da: 1.593 €.\n\n• MICHIELI-TOMIĆ D.O.O. – Koncesija za obavljanje k
  omunalne djelatnosti skupljanja\, odvoza\, obrade\, održavanje čistoće 
- i odlaganje komunal. i industrijskog otpada (POSTIRA)\, 1.593 €/god.\n\n
- Profil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B739060
- 03469030\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11.
-  2026.
+ i odlaganje komunal. i industrijskog otpada (POSTIRA) · davatelj: OPĆINA
+  POSTIRA\, 1.593 €/god.\n\nProfil općine: https://koncesijski-sat.verce
+ l.app/#opcina/41942358B73906003469030\nIzvor: Registar koncesija (FINA)\, 
+ obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B73906003469030
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -32,8 +33,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-672b2db93ac79ae8@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-a846570a5003f156@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20280901
 DTEND;VALUE=DATE:20280902
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MICHIELI-TOMIĆ 
@@ -42,8 +43,9 @@ DESCRIPTION:1. 3. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• MICHIELI-TOMIĆ D.O.O. – Koncesija za obavljanje komunalne djela
  tnosti skupljanja\, odvoza\, obrade\, održavanje čistoće i odlaganje ko
- munal. i industrijskog otpada (POSTIRA)\, 1.593 €/god.\n\nProfil općine
- : https://koncesijski-sat.vercel.app/#opcina/41942358B73906003469030
+ munal. i industrijskog otpada (POSTIRA) · davatelj: OPĆINA POSTIRA\, 1.5
+ 93 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/
+ 41942358B73906003469030
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B73906003469030
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -54,16 +56,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-8090dd8198d79fa3@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-445418f11c1d6e10@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20360612
 DTEND;VALUE=DATE:20360613
 SUMMARY:Ističe koncesija: HRVATSKI OPERATOR PRIJENOSNOG SUSTAVA D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 12. 6. 2036. Godišnja fiksna nakn
  ada: 2.863 €.\n\n• HRVATSKI OPERATOR PRIJENOSNOG SUSTAVA D.D. – Konc
- esija na pomorskom dobru (POSTIRA)\, 2.863 €/god.\n\nProfil općine: htt
- ps://koncesijski-sat.vercel.app/#opcina/41942358B73906003469030\nIzvor: Re
- gistar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ esija na pomorskom dobru (POSTIRA) · davatelj: MINISTARSTVO MORA\, PROMET
+ A I INFRASTRUKTURE\, 2.863 €/god.\n\nProfil općine: https://koncesijski
+ -sat.vercel.app/#opcina/41942358B73906003469030\nIzvor: Registar koncesija
+  (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B73906003469030
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -73,8 +76,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-8090dd8198d79fa3@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-445418f11c1d6e10@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20351212
 DTEND;VALUE=DATE:20351213
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKI OPERATO
@@ -82,8 +85,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKI OPERATO
 DESCRIPTION:12. 6. 2036. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• HRVATSKI OPERATOR PRIJENOSNOG SUSTAVA D.D. – Koncesija na pomor
- skom dobru (POSTIRA)\, 2.863 €/god.\n\nProfil općine: https://koncesijs
- ki-sat.vercel.app/#opcina/41942358B73906003469030
+ skom dobru (POSTIRA) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUK
+ TURE\, 2.863 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.ap
+ p/#opcina/41942358B73906003469030
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B73906003469030
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -94,16 +98,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-46c5878b6d6054d9@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-9588e1f8b4a1d98b@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20370724
 DTEND;VALUE=DATE:20370725
 SUMMARY:Ističe koncesija: ADRIA COAST TURIZAM D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 24. 7. 2037. Godišnja fiksna nakn
  ada: 20.629 €.\n\n• ADRIA COAST TURIZAM D.O.O. – Koncesija na pomors
- kom dobru (POSTIRA)\, 20.629 €/god.\n\nProfil općine: https://koncesijs
- ki-sat.vercel.app/#opcina/41942358B73906003469030\nIzvor: Registar koncesi
- ja (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ kom dobru (POSTIRA) · davatelj: SPLITSKO-DALMATINSKA ŽUPANIJA\, 20.629 
+ €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
+ 42358B73906003469030\nIzvor: Registar koncesija (FINA)\, obrada Koncesijsk
+ i sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B73906003469030
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -113,8 +118,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-46c5878b6d6054d9@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-9588e1f8b4a1d98b@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20370124
 DTEND;VALUE=DATE:20370125
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ADRIA COAST TURI
@@ -122,8 +127,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ADRIA COAST TURI
 DESCRIPTION:24. 7. 2037. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• ADRIA COAST TURIZAM D.O.O. – Koncesija na pomorskom dobru (POST
- IRA)\, 20.629 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.a
- pp/#opcina/41942358B73906003469030
+ IRA) · davatelj: SPLITSKO-DALMATINSKA ŽUPANIJA\, 20.629 €/god.\n\nProf
+ il općine: https://koncesijski-sat.vercel.app/#opcina/41942358B7390600346
+ 9030
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B73906003469030
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -134,16 +140,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-368075a880844807@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-1fdad846987545c6@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20420606
 DTEND;VALUE=DATE:20420607
 SUMMARY:Ističe koncesija: HOPS D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 6. 6. 2042. Godišnja fiksna nakna
  da: 2.427 €.\n\n• HOPS D.D. – Koncesija na pomorskom dobru (POSTIRA)
- \, 2.427 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#o
- pcina/41942358B73906003469030\nIzvor: Registar koncesija (FINA)\, obrada K
- oncesijski sat 9. 11. 2026.
+  · davatelj: SPLITSKO-DALMATINSKA ŽUPANIJA\, 2.427 €/god.\n\nProfil op
+ ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B73906003469030\
+ nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B73906003469030
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -153,16 +159,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-368075a880844807@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-1fdad846987545c6@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20411206
 DTEND;VALUE=DATE:20411207
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HOPS D.D.)
 DESCRIPTION:6. 6. 2042. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
- \n\n• HOPS D.D. – Koncesija na pomorskom dobru (POSTIRA)\, 2.427 €/g
- od.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358
- B73906003469030
+ \n\n• HOPS D.D. – Koncesija na pomorskom dobru (POSTIRA) · davatelj: 
+ SPLITSKO-DALMATINSKA ŽUPANIJA\, 2.427 €/god.\n\nProfil općine: https:/
+ /koncesijski-sat.vercel.app/#opcina/41942358B73906003469030
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B73906003469030
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -172,16 +178,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-b97503177dfcfcb6@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-6f567489fc6c7ec5@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20440215
 DTEND;VALUE=DATE:20440216
 SUMMARY:Ističe koncesija: VODOVOD BRAČ\, D.O.O. - RAČUN NPOO SELCA
 DESCRIPTION:1 ugovor o koncesiji ističe 15. 2. 2044. Godišnja fiksna nakn
  ada: 5.387 €.\n\n• VODOVOD BRAČ\, D.O.O. - RAČUN NPOO SELCA – Konc
- esija na pomorskom dobru (POSTIRA)\, 5.387 €/god.\n\nProfil općine: htt
- ps://koncesijski-sat.vercel.app/#opcina/41942358B73906003469030\nIzvor: Re
- gistar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ esija na pomorskom dobru (POSTIRA) · davatelj: SPLITSKO-DALMATINSKA ŽUPA
+ NIJA\, 5.387 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.ap
+ p/#opcina/41942358B73906003469030\nIzvor: Registar koncesija (FINA)\, obra
+ da Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B73906003469030
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -191,8 +198,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-b97503177dfcfcb6@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-6f567489fc6c7ec5@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20430815
 DTEND;VALUE=DATE:20430816
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VODOVOD BRAČ\, 
@@ -200,8 +207,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VODOVOD BRAČ\,
 DESCRIPTION:15. 2. 2044. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• VODOVOD BRAČ\, D.O.O. - RAČUN NPOO SELCA – Koncesija na pomor
- skom dobru (POSTIRA)\, 5.387 €/god.\n\nProfil općine: https://koncesijs
- ki-sat.vercel.app/#opcina/41942358B73906003469030
+ skom dobru (POSTIRA) · davatelj: SPLITSKO-DALMATINSKA ŽUPANIJA\, 5.387 
+ €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
+ 42358B73906003469030
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B73906003469030
 TRANSP:TRANSPARENT
 BEGIN:VALARM

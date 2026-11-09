@@ -4,24 +4,25 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Općina Jagodnjak
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Jagodnjak. Iz Re
- gistra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade po
- dataka. https://koncesijski-sat.vercel.app/#opcina/41942358B84675166182844
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Općina Jagodnjak (pregl
+ ed\, svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježav
+ a se nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#opci
+ na/41942358B84675166182844
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-ff71f093f963608d@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-85d8fa38402b0b71@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20300322
 DTEND;VALUE=DATE:20300323
 SUMMARY:Ističe koncesija: BELJE PLUS D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 22. 3. 2030. Godišnja fiksna nakn
  ada: 7.432 €.\n\n• BELJE PLUS D.O.O. – Koncesija za zahvaćanje voda
-  radi korištenja u proizvodnom postupku (JAGODNJAK)\, 7.432 €/god.\n\nP
- rofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B8467516
- 6182844\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 
- 2026.
+  radi korištenja u proizvodnom postupku (JAGODNJAK) · davatelj: MINISTAR
+ STVO ZAŠTITE OKOLIŠA I ZELENE TRANZICIJE\, 7.432 €/god.\n\nProfil opć
+ ine: https://koncesijski-sat.vercel.app/#opcina/41942358B84675166182844\nI
+ zvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B84675166182844
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -31,8 +32,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-ff71f093f963608d@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-85d8fa38402b0b71@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20290922
 DTEND;VALUE=DATE:20290923
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BELJE PLUS D.O.O
@@ -40,8 +41,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BELJE PLUS D.O.O
 DESCRIPTION:22. 3. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• BELJE PLUS D.O.O. – Koncesija za zahvaćanje voda radi korište
- nja u proizvodnom postupku (JAGODNJAK)\, 7.432 €/god.\n\nProfil općine:
-  https://koncesijski-sat.vercel.app/#opcina/41942358B84675166182844
+ nja u proizvodnom postupku (JAGODNJAK) · davatelj: MINISTARSTVO ZAŠTITE 
+ OKOLIŠA I ZELENE TRANZICIJE\, 7.432 €/god.\n\nProfil općine: https://k
+ oncesijski-sat.vercel.app/#opcina/41942358B84675166182844
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B84675166182844
 TRANSP:TRANSPARENT
 BEGIN:VALARM

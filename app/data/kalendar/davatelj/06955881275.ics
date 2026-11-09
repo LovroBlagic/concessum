@@ -1,0 +1,53 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · OPĆINA TRNOVEC BARTOLOVEČKI
+X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje OPĆINA TRNOVEC BARTOLOVE
+ ČKI. Iz Registra koncesija (FINA\, data.gov.hr). Osvježava se nakon svak
+ e obrade podataka. https://koncesijski-sat.vercel.app/#sat
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-93a1ff10c0a7f896@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20310410
+DTEND;VALUE=DATE:20310411
+SUMMARY:Ističe koncesija: CAMINUS J.D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 10. 4. 2031. Godišnja fiksna nakn
+ ada: 1.200 €.\n\n• CAMINUS J.D.O.O. – Koncesija za obavljanje dimnja
+ čarskih poslova (TRNOVEC BARTOLOVEČKI\, Općina Trnovec Bartolovečki)\,
+  1.200 €/god.\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat\n
+ Izvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: CAMINUS J.D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-93a1ff10c0a7f896@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20301010
+DTEND;VALUE=DATE:20301011
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (CAMINUS J.D.O.O.
+ )
+DESCRIPTION:10. 4. 2031. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• CAMINUS J.D.O.O. – Koncesija za obavljanje dimnjačarskih poslo
+ va (TRNOVEC BARTOLOVEČKI\, Općina Trnovec Bartolovečki)\, 1.200 €/god
+ .\n\nŠto ističe: https://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (CAMINUS J.D.
+ O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

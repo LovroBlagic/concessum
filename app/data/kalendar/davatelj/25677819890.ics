@@ -1,0 +1,165 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · GRAD ROVINJ-ROVIGNO
+X-WR-CALDESC:Ugovori o koncesiji koje dodjeljuje GRAD ROVINJ-ROVIGNO. Iz Re
+ gistra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade po
+ dataka. https://koncesijski-sat.vercel.app/#sat
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-d07075c5363f7406@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20270201
+DTEND;VALUE=DATE:20270202
+SUMMARY:Ističe koncesija: MLD-USLUGE D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 1. 2. 2027. Godišnja fiksna nakna
+ da: 5.574 €.\n\n• MLD-USLUGE D.O.O. – Koncesija za obavljanje dimnja
+ čarskih poslova (ROVINJ - ROVIGNO\, Grad Rovinj)\, 5.574 €/god.\n\nŠto
+  ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesi
+ ja (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: MLD-USLUGE D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-9ec7b0c909ffc13d@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20280522
+DTEND;VALUE=DATE:20280523
+SUMMARY:Ističe 4 koncesije · GRAD ROVINJ-ROVIGNO
+DESCRIPTION:4 ugovora o koncesiji ističe 22. 5. 2028. Godišnja fiksna nak
+ nada: 3.003 €.\n\n• AUTOTRANS D.D. – Koncesija za obavljanje javnog 
+ gradskog i prigradskog prijevoza u cestovnom prometu (ROVINJ - ROVIGNO\, G
+ rad Rovinj)\, 801 €/god.\n• AUTOTRANS D.D. – Koncesija za obavljanje
+  javnog gradskog i prigradskog prijevoza u cestovnom prometu (ROVINJ - ROV
+ IGNO\, Grad Rovinj)\, 801 €/god.\n• AUTOTRANS D.D. – Koncesija za ob
+ avljanje djelatnosti javnog gradskog prijevoza putnika (ROVINJ - ROVIGNO\,
+  Grad Rovinj)\, 801 €/god.\n• ADIL JUKIĆ\, VL. OBRTA ZA CESTOVNI PRIJ
+ EVOZ PUTNIKA AS-ER – Koncesija za obavljanje djelatnosti javnog gradskog
+  prijevoza putnika (ROVINJ - ROVIGNO\, Grad Rovinj)\, 600 €/god.\n\nŠto
+  ističe: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesi
+ ja (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 4 koncesije · GRAD ROVINJ-ROVIGNO
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-9ec7b0c909ffc13d@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20271122
+DTEND;VALUE=DATE:20271123
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 4 koncesije · GRAD ROVINJ-RO
+ VIGNO
+DESCRIPTION:22. 5. 2028. ističe 4 ugovora o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• AUTOTRANS D.D. – Koncesija za obavljanje javnog gradskog i pri
+ gradskog prijevoza u cestovnom prometu (ROVINJ - ROVIGNO\, Grad Rovinj)\, 
+ 801 €/god.\n• AUTOTRANS D.D. – Koncesija za obavljanje javnog gradsk
+ og i prigradskog prijevoza u cestovnom prometu (ROVINJ - ROVIGNO\, Grad Ro
+ vinj)\, 801 €/god.\n• AUTOTRANS D.D. – Koncesija za obavljanje djela
+ tnosti javnog gradskog prijevoza putnika (ROVINJ - ROVIGNO\, Grad Rovinj)\
+ , 801 €/god.\n• ADIL JUKIĆ\, VL. OBRTA ZA CESTOVNI PRIJEVOZ PUTNIKA A
+ S-ER – Koncesija za obavljanje djelatnosti javnog gradskog prijevoza put
+ nika (ROVINJ - ROVIGNO\, Grad Rovinj)\, 600 €/god.\n\nŠto ističe: http
+ s://koncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 4 koncesije · GRAD ROVIN
+ J-ROVIGNO
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-47d780d20fd397ae@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20361214
+DTEND;VALUE=DATE:20361215
+SUMMARY:Ističe koncesija: ODVODNJA ROVINJ-ROVIGNO D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 14. 12. 2036. Godišnja fiksna nak
+ nada: 141 €.\n\n• ODVODNJA ROVINJ-ROVIGNO D.O.O. – Koncesija na pomo
+ rskom dobru (ROVINJ - ROVIGNO\, Grad Rovinj)\, 141 €/god.\n\nŠto istič
+ e: https://koncesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FIN
+ A)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: ODVODNJA ROVINJ-ROVIGNO D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-47d780d20fd397ae@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20360614
+DTEND;VALUE=DATE:20360615
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ODVODNJA ROVINJ-
+ ROVIGNO D.O.O.)
+DESCRIPTION:14. 12. 2036. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• ODVODNJA ROVINJ-ROVIGNO D.O.O. – Koncesija na pomorskom dobru 
+ (ROVINJ - ROVIGNO\, Grad Rovinj)\, 141 €/god.\n\nŠto ističe: https://k
+ oncesijski-sat.vercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ODVODNJA ROV
+ INJ-ROVIGNO D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-e98be30a2e23b740@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20440131
+DTEND;VALUE=DATE:20440201
+SUMMARY:Ističe koncesija: MAISTRA D.D.
+DESCRIPTION:1 ugovor o koncesiji ističe 31. 1. 2044. Godišnja fiksna nakn
+ ada: 1.349 €.\n\n• MAISTRA D.D. – Koncesija u području turizma (ROV
+ INJ - ROVIGNO\, Grad Rovinj)\, 1.349 €/god.\n\nŠto ističe: https://kon
+ cesijski-sat.vercel.app/#sat\nIzvor: Registar koncesija (FINA)\, obrada Ko
+ ncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: MAISTRA D.D.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-e98be30a2e23b740@koncesijski-sat
+DTSTAMP:20261109T135541Z
+DTSTART;VALUE=DATE:20430731
+DTEND;VALUE=DATE:20430801
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MAISTRA D.D.)
+DESCRIPTION:31. 1. 2044. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• MAISTRA D.D. – Koncesija u području turizma (ROVINJ - ROVIGNO\
+ , Grad Rovinj)\, 1.349 €/god.\n\nŠto ističe: https://koncesijski-sat.v
+ ercel.app/#sat
+URL:https://koncesijski-sat.vercel.app/#sat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MAISTRA D.D.
+ )
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

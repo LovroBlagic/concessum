@@ -4,23 +4,25 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Općina Vrbanja
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Vrbanja. Iz Regi
- stra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade poda
- taka. https://koncesijski-sat.vercel.app/#opcina/41942358B61227700521917
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Općina Vrbanja (pregled
+ \, svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježava 
+ se nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#opcina
+ /41942358B61227700521917
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-42f773a5321b55f9@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-aa97828956001db7@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20280417
 DTEND;VALUE=DATE:20280418
 SUMMARY:Ističe koncesija: GUNJANSKA ČISTOĆA D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 17. 4. 2028. Godišnja fiksna nakn
  ada: 500 €.\n\n• GUNJANSKA ČISTOĆA D.O.O. – Koncesija za obavljanj
- e dimnjačarskih poslova (VRBANJA)\, 500 €/god.\n\nProfil općine: https
- ://koncesijski-sat.vercel.app/#opcina/41942358B61227700521917\nIzvor: Regi
- star koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ e dimnjačarskih poslova (VRBANJA) · davatelj: OPĆINA VRBANJA\, 500 €/
+ god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4194235
+ 8B61227700521917\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sa
+ t 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B61227700521917
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -30,8 +32,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-42f773a5321b55f9@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-aa97828956001db7@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20271017
 DTEND;VALUE=DATE:20271018
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (GUNJANSKA ČISTO
@@ -39,8 +41,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (GUNJANSKA ČISTO
 DESCRIPTION:17. 4. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• GUNJANSKA ČISTOĆA D.O.O. – Koncesija za obavljanje dimnjačar
- skih poslova (VRBANJA)\, 500 €/god.\n\nProfil općine: https://koncesijs
- ki-sat.vercel.app/#opcina/41942358B61227700521917
+ skih poslova (VRBANJA) · davatelj: OPĆINA VRBANJA\, 500 €/god.\n\nProf
+ il općine: https://koncesijski-sat.vercel.app/#opcina/41942358B6122770052
+ 1917
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B61227700521917
 TRANSP:TRANSPARENT
 BEGIN:VALARM

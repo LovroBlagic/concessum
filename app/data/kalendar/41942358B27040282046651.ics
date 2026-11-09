@@ -4,23 +4,24 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Grad Solin
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Grad Solin. Iz Registra 
- koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podataka.
-  https://koncesijski-sat.vercel.app/#opcina/41942358B27040282046651
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Grad Solin (pregled\, sv
+ i davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježava se na
+ kon svake obrade podataka. https://koncesijski-sat.vercel.app/#opcina/4194
+ 2358B27040282046651
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-bdb15a98fafeb384@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-c10d10be27481559@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270116
 DTEND;VALUE=DATE:20270117
 SUMMARY:Ističe koncesija: ANA MARUŠIĆ\, ANA-M
 DESCRIPTION:1 ugovor o koncesiji ističe 16. 1. 2027. Godišnja fiksna nakn
  ada: 1.062 €.\n\n• ANA MARUŠIĆ\, ANA-M – Koncesija na kulturnom do
- bru (SOLIN)\, 1.062 €/god.\n\nProfil općine: https://koncesijski-sat.ve
- rcel.app/#opcina/41942358B27040282046651\nIzvor: Registar koncesija (FINA)
- \, obrada Koncesijski sat 9. 11. 2026.
+ bru (SOLIN) · davatelj: GRAD SOLIN\, 1.062 €/god.\n\nProfil općine: ht
+ tps://koncesijski-sat.vercel.app/#opcina/41942358B27040282046651\nIzvor: R
+ egistar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B27040282046651
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -30,16 +31,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-8ebca658186b3db8@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-771fe54a20b9fbcc@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20300515
 DTEND;VALUE=DATE:20300516
 SUMMARY:Ističe koncesija: DIMNJAČARSTVO KAMIN J.D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 15. 5. 2030. Godišnja fiksna nakn
  ada: 600 €.\n\n• DIMNJAČARSTVO KAMIN J.D.O.O. – Koncesija za obavlj
- anje dimnjačarskih poslova (SOLIN)\, 600 €/god.\n\nProfil općine: http
- s://koncesijski-sat.vercel.app/#opcina/41942358B27040282046651\nIzvor: Reg
- istar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ anje dimnjačarskih poslova (SOLIN) · davatelj: GRAD SOLIN\, 600 €/god.
+ \n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B27
+ 040282046651\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9.
+  11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B27040282046651
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -49,8 +51,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-8ebca658186b3db8@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-771fe54a20b9fbcc@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20291115
 DTEND;VALUE=DATE:20291116
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DIMNJAČARSTVO K
@@ -58,8 +60,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DIMNJAČARSTVO K
 DESCRIPTION:15. 5. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• DIMNJAČARSTVO KAMIN J.D.O.O. – Koncesija za obavljanje dimnja
- čarskih poslova (SOLIN)\, 600 €/god.\n\nProfil općine: https://koncesi
- jski-sat.vercel.app/#opcina/41942358B27040282046651
+ čarskih poslova (SOLIN) · davatelj: GRAD SOLIN\, 600 €/god.\n\nProfil 
+ općine: https://koncesijski-sat.vercel.app/#opcina/41942358B2704028204665
+ 1
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B27040282046651
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -70,17 +73,18 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-3177e7d1dd5e3308@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-74066dfc2c925ed9@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20310202
 DTEND;VALUE=DATE:20310203
 SUMMARY:Ističe koncesija: FOND ZA ZAŠTITU OKOLIŠA I ENERGETSKU UČINKOVI
  TOST
 DESCRIPTION:1 ugovor o koncesiji ističe 2. 2. 2031. Godišnja fiksna nakna
  da: 5.388 €.\n\n• FOND ZA ZAŠTITU OKOLIŠA I ENERGETSKU UČINKOVITOST
-  – Koncesija na pomorskom dobru (SOLIN)\, 5.388 €/god.\n\nProfil opći
- ne: https://koncesijski-sat.vercel.app/#opcina/41942358B27040282046651\nIz
- vor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+  – Koncesija na pomorskom dobru (SOLIN) · davatelj: MINISTARSTVO MORA\,
+  PROMETA I INFRASTRUKTURE\, 5.388 €/god.\n\nProfil općine: https://konc
+ esijski-sat.vercel.app/#opcina/41942358B27040282046651\nIzvor: Registar ko
+ ncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B27040282046651
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -91,8 +95,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-3177e7d1dd5e3308@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-74066dfc2c925ed9@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20300802
 DTEND;VALUE=DATE:20300803
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (FOND ZA ZAŠTITU
@@ -100,8 +104,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (FOND ZA ZAŠTITU
 DESCRIPTION:2. 2. 2031. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• FOND ZA ZAŠTITU OKOLIŠA I ENERGETSKU UČINKOVITOST – Koncesija
-  na pomorskom dobru (SOLIN)\, 5.388 €/god.\n\nProfil općine: https://ko
- ncesijski-sat.vercel.app/#opcina/41942358B27040282046651
+  na pomorskom dobru (SOLIN) · davatelj: MINISTARSTVO MORA\, PROMETA I INF
+ RASTRUKTURE\, 5.388 €/god.\n\nProfil općine: https://koncesijski-sat.ve
+ rcel.app/#opcina/41942358B27040282046651
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B27040282046651
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -112,16 +117,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-de601ee5fdfe2067@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-6809bdf826550ac2@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20360319
 DTEND;VALUE=DATE:20360320
 SUMMARY:Ističe koncesija: SVEUČILIŠTE U SPLITU\, POMORSKI FAKULTET
 DESCRIPTION:1 ugovor o koncesiji ističe 19. 3. 2036. Godišnja fiksna nakn
  ada: 9 €.\n\n• SVEUČILIŠTE U SPLITU\, POMORSKI FAKULTET – Posebna 
- upotreba pomorskog dobra (SOLIN)\, 9 €/god.\n\nProfil općine: https://k
- oncesijski-sat.vercel.app/#opcina/41942358B27040282046651\nIzvor: Registar
-  koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ upotreba pomorskog dobra (SOLIN) · davatelj: LUČKA UPRAVA SPLIT\, 9 €/
+ god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4194235
+ 8B27040282046651\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sa
+ t 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B27040282046651
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -131,8 +137,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-de601ee5fdfe2067@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-6809bdf826550ac2@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20350919
 DTEND;VALUE=DATE:20350920
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (SVEUČILIŠTE U 
@@ -140,8 +146,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (SVEUČILIŠTE U
 DESCRIPTION:19. 3. 2036. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• SVEUČILIŠTE U SPLITU\, POMORSKI FAKULTET – Posebna upotreba p
- omorskog dobra (SOLIN)\, 9 €/god.\n\nProfil općine: https://koncesijski
- -sat.vercel.app/#opcina/41942358B27040282046651
+ omorskog dobra (SOLIN) · davatelj: LUČKA UPRAVA SPLIT\, 9 €/god.\n\nPr
+ ofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B27040282
+ 046651
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B27040282046651
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -152,16 +159,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-83e2d27234b824f9@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-fa2a4fc7c6c91c0d@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20361028
 DTEND;VALUE=DATE:20361029
 SUMMARY:Ističe koncesija: MUČIĆ D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 28. 10. 2036. Godišnja fiksna nak
- nada: 58.800 €.\n\n• MUČIĆ D.O.O. – Koncesija za luku (SOLIN)\, 58
- .800 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcin
- a/41942358B27040282046651\nIzvor: Registar koncesija (FINA)\, obrada Konce
- sijski sat 9. 11. 2026.
+ nada: 58.800 €.\n\n• MUČIĆ D.O.O. – Koncesija za luku (SOLIN) · d
+ avatelj: LUČKA UPRAVA SPLIT\, 58.800 €/god.\n\nProfil općine: https://
+ koncesijski-sat.vercel.app/#opcina/41942358B27040282046651\nIzvor: Regista
+ r koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B27040282046651
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -171,16 +178,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-83e2d27234b824f9@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-fa2a4fc7c6c91c0d@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20360428
 DTEND;VALUE=DATE:20360429
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MUČIĆ D.O.O.)
 DESCRIPTION:28. 10. 2036. ističe 1 ugovor o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
- a.\n\n• MUČIĆ D.O.O. – Koncesija za luku (SOLIN)\, 58.800 €/god.\n
- \nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B2704
- 0282046651
+ a.\n\n• MUČIĆ D.O.O. – Koncesija za luku (SOLIN) · davatelj: LUČKA
+  UPRAVA SPLIT\, 58.800 €/god.\n\nProfil općine: https://koncesijski-sat
+ .vercel.app/#opcina/41942358B27040282046651
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B27040282046651
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -191,16 +198,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-400c4d35ba982bac@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-6ca77b007a8724e9@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20460621
 DTEND;VALUE=DATE:20460622
 SUMMARY:Ističe koncesija: CEMEX HRVATSKA D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 21. 6. 2046. Godišnja fiksna nakn
  ada: 841 €.\n\n• CEMEX HRVATSKA D.D. – Koncesija za zahvaćanje voda
-  za tehnološke potrebe (SOLIN)\, 841 €/god.\n\nProfil općine: https://
- koncesijski-sat.vercel.app/#opcina/41942358B27040282046651\nIzvor: Regista
- r koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+  za tehnološke potrebe (SOLIN) · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠ
+ A I ZELENE TRANZICIJE\, 841 €/god.\n\nProfil općine: https://koncesijsk
+ i-sat.vercel.app/#opcina/41942358B27040282046651\nIzvor: Registar koncesij
+ a (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B27040282046651
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -210,8 +218,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-400c4d35ba982bac@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-6ca77b007a8724e9@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20451221
 DTEND;VALUE=DATE:20451222
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (CEMEX HRVATSKA D
@@ -219,8 +227,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (CEMEX HRVATSKA D
 DESCRIPTION:21. 6. 2046. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• CEMEX HRVATSKA D.D. – Koncesija za zahvaćanje voda za tehnolo
- ške potrebe (SOLIN)\, 841 €/god.\n\nProfil općine: https://koncesijski
- -sat.vercel.app/#opcina/41942358B27040282046651
+ ške potrebe (SOLIN) · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠA I ZELENE 
+ TRANZICIJE\, 841 €/god.\n\nProfil općine: https://koncesijski-sat.verce
+ l.app/#opcina/41942358B27040282046651
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B27040282046651
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -231,16 +240,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-e31f713d34253ec8@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-a59a15043c953d80@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20470705
 DTEND;VALUE=DATE:20470706
 SUMMARY:Ističe koncesija: CEMEX HRVATSKA D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 5. 7. 2047. Godišnja fiksna nakna
  da: 1.725 €.\n\n• CEMEX HRVATSKA D.D. – Koncesija za zahvaćanje vod
- a za tehnološke potrebe (SOLIN)\, 1.725 €/god.\n\nProfil općine: https
- ://koncesijski-sat.vercel.app/#opcina/41942358B27040282046651\nIzvor: Regi
- star koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ a za tehnološke potrebe (SOLIN) · davatelj: MINISTARSTVO ZAŠTITE OKOLI
+ ŠA I ZELENE TRANZICIJE\, 1.725 €/god.\n\nProfil općine: https://konces
+ ijski-sat.vercel.app/#opcina/41942358B27040282046651\nIzvor: Registar konc
+ esija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B27040282046651
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -250,8 +260,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-e31f713d34253ec8@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-a59a15043c953d80@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20470105
 DTEND;VALUE=DATE:20470106
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (CEMEX HRVATSKA D
@@ -259,8 +269,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (CEMEX HRVATSKA D
 DESCRIPTION:5. 7. 2047. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• CEMEX HRVATSKA D.D. – Koncesija za zahvaćanje voda za tehnološ
- ke potrebe (SOLIN)\, 1.725 €/god.\n\nProfil općine: https://koncesijski
- -sat.vercel.app/#opcina/41942358B27040282046651
+ ke potrebe (SOLIN) · davatelj: MINISTARSTVO ZAŠTITE OKOLIŠA I ZELENE TR
+ ANZICIJE\, 1.725 €/god.\n\nProfil općine: https://koncesijski-sat.verce
+ l.app/#opcina/41942358B27040282046651
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B27040282046651
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -271,19 +282,21 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-cde2b01d3b400fd1@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-25dc17496da4ed61@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20510528
 DTEND;VALUE=DATE:20510529
 SUMMARY:Ističe 2 koncesije · Solin
 DESCRIPTION:2 ugovora o koncesiji ističe 28. 5. 2051. Godišnja fiksna nak
  nada: 193.192 €.\n\n• YACHT CLUB VRANJIC D.O.O. – Koncesija pomorsko
  g dobra u svrhu izgradnje i gospodarskog korištenja luke posebne namjene 
- (SOLIN)\, 96.596 €/god.\n• YACHT CLUB VRANJIC D.O.O. – Koncesija pom
- orskog dobra u svrhu izgradnje i gospodarskog korištenja luke posebne nam
- jene (SOLIN)\, 96.596 €/god.\n\nProfil općine: https://koncesijski-sat.
- vercel.app/#opcina/41942358B27040282046651\nIzvor: Registar koncesija (FIN
- A)\, obrada Koncesijski sat 9. 11. 2026.
+ (SOLIN) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\, 96.596
+  €/god.\n• YACHT CLUB VRANJIC D.O.O. – Koncesija pomorskog dobra u s
+ vrhu izgradnje i gospodarskog korištenja luke posebne namjene (SOLIN) · 
+ davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\, 96.596 €/god.\n
+ \nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B2704
+ 0282046651\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 1
+ 1. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B27040282046651
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -293,39 +306,40 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-cde2b01d3b400fd1@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-25dc17496da4ed61@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20501128
 DTEND;VALUE=DATE:20501129
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Solin
 DESCRIPTION:28. 5. 2051. ističe 2 ugovora o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
  a.\n\n• YACHT CLUB VRANJIC D.O.O. – Koncesija pomorskog dobra u svrhu 
- izgradnje i gospodarskog korištenja luke posebne namjene (SOLIN)\, 96.596
-  €/god.\n• YACHT CLUB VRANJIC D.O.O. – Koncesija pomorskog dobra u s
- vrhu izgradnje i gospodarskog korištenja luke posebne namjene (SOLIN)\, 9
- 6.596 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opci
- na/41942358B27040282046651
+ izgradnje i gospodarskog korištenja luke posebne namjene (SOLIN) · davat
+ elj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\, 96.596 €/god.\n• Y
+ ACHT CLUB VRANJIC D.O.O. – Koncesija pomorskog dobra u svrhu izgradnje i
+  gospodarskog korištenja luke posebne namjene (SOLIN) · davatelj: MINIST
+ ARSTVO MORA\, PROMETA I INFRASTRUKTURE\, 96.596 €/god.\n\nProfil općine
+ : https://koncesijski-sat.vercel.app/#opcina/41942358B27040282046651
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B27040282046651
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Solin
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-7694bb80e3977d8f@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-8908253ddf059417@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20530531
 DTEND;VALUE=DATE:20530601
 SUMMARY:Ističe koncesija: CEMEX HRVATSKA D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 31. 5. 2053. Godišnja fiksna nakn
  ada: 24.732 €.\n\n• CEMEX HRVATSKA D.D. – Koncesija za površinu utv
- rđenog eksploatacijskog polja neenergetskih mineralnih sirovina (SOLIN)\,
-  24.732 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#op
- cina/41942358B27040282046651\nIzvor: Registar koncesija (FINA)\, obrada Ko
- ncesijski sat 9. 11. 2026.
+ rđenog eksploatacijskog polja neenergetskih mineralnih sirovina (SOLIN) 
+ · davatelj: MINISTARSTVO GOSPODARSTVA\, 24.732 €/god.\n\nProfil općine
+ : https://koncesijski-sat.vercel.app/#opcina/41942358B27040282046651\nIzvo
+ r: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B27040282046651
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -335,8 +349,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-7694bb80e3977d8f@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-8908253ddf059417@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20521130
 DTEND;VALUE=DATE:20521201
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (CEMEX HRVATSKA D
@@ -344,9 +358,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (CEMEX HRVATSKA D
 DESCRIPTION:31. 5. 2053. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• CEMEX HRVATSKA D.D. – Koncesija za površinu utvrđenog eksploa
- tacijskog polja neenergetskih mineralnih sirovina (SOLIN)\, 24.732 €/god
- .\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B2
- 7040282046651
+ tacijskog polja neenergetskih mineralnih sirovina (SOLIN) · davatelj: MIN
+ ISTARSTVO GOSPODARSTVA\, 24.732 €/god.\n\nProfil općine: https://konces
+ ijski-sat.vercel.app/#opcina/41942358B27040282046651
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B27040282046651
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -357,17 +371,18 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-8a617aa747af3cf2@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-51cbdb4db8976b94@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20531231
 DTEND;VALUE=DATE:20540101
 SUMMARY:Ističe 2 koncesije · Solin
 DESCRIPTION:2 ugovora o koncesiji ističe 31. 12. 2053.\n\n• CEMEX HRVATS
  KA D.D. – Koncesija za eksploataciju mineralne sirovine za proizvodnju c
- ementa (SOLIN)\n• CEMEX HRVATSKA D.D. – Koncesija za eksploataciju min
- eralne sirovine za proizvodnju cementa (SOLIN)\n\nProfil općine: https://
- koncesijski-sat.vercel.app/#opcina/41942358B27040282046651\nIzvor: Regista
- r koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ ementa (SOLIN) · davatelj: MINISTARSTVO GOSPODARSTVA\n• CEMEX HRVATSKA 
+ D.D. – Koncesija za eksploataciju mineralne sirovine za proizvodnju ceme
+ nta (SOLIN) · davatelj: MINISTARSTVO GOSPODARSTVA\n\nProfil općine: http
+ s://koncesijski-sat.vercel.app/#opcina/41942358B27040282046651\nIzvor: Reg
+ istar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B27040282046651
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -377,40 +392,43 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-8a617aa747af3cf2@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-51cbdb4db8976b94@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20530630
 DTEND;VALUE=DATE:20530701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Solin
 DESCRIPTION:31. 12. 2053. ističe 2 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• CEMEX HRVATSKA D.D. – Koncesija za eksploataciju mineralne si
- rovine za proizvodnju cementa (SOLIN)\n• CEMEX HRVATSKA D.D. – Koncesi
- ja za eksploataciju mineralne sirovine za proizvodnju cementa (SOLIN)\n\nP
- rofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B2704028
- 2046651
+ rovine za proizvodnju cementa (SOLIN) · davatelj: MINISTARSTVO GOSPODARST
+ VA\n• CEMEX HRVATSKA D.D. – Koncesija za eksploataciju mineralne sirov
+ ine za proizvodnju cementa (SOLIN) · davatelj: MINISTARSTVO GOSPODARSTVA\
+ n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B270
+ 40282046651
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B27040282046651
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Solin
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-deec8f887e7fa324@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-b77155e954827346@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20541231
 DTEND;VALUE=DATE:20550101
 SUMMARY:Ističe 3 koncesije · Solin
 DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2054. Godišnja fiksna na
  knada: 3.580 €.\n\n• CEMEX HRVATSKA D.D. – Koncesija za površinu ut
- vrđenog eksploatacijskog polja neenergetskih mineralnih sirovina (SOLIN)\
- , 3.580 €/god.\n• CEMEX HRVATSKA D.D. – Koncesija za eksploataciju t
- ehničko-građevnog kamena (SOLIN)\n• CEMEX HRVATSKA D.D. – Koncesija 
- za eksploataciju tehničko-građevnog kamena (SOLIN)\n\nProfil općine: ht
- tps://koncesijski-sat.vercel.app/#opcina/41942358B27040282046651\nIzvor: R
- egistar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ vrđenog eksploatacijskog polja neenergetskih mineralnih sirovina (SOLIN) 
+ · davatelj: MINISTARSTVO GOSPODARSTVA\, 3.580 €/god.\n• CEMEX HRVATSK
+ A D.D. – Koncesija za eksploataciju tehničko-građevnog kamena (SOLIN) 
+ · davatelj: MINISTARSTVO GOSPODARSTVA\n• CEMEX HRVATSKA D.D. – Konces
+ ija za eksploataciju tehničko-građevnog kamena (SOLIN) · davatelj: MINI
+ STARSTVO GOSPODARSTVA\n\nProfil općine: https://koncesijski-sat.vercel.ap
+ p/#opcina/41942358B27040282046651\nIzvor: Registar koncesija (FINA)\, obra
+ da Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B27040282046651
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -420,24 +438,26 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-deec8f887e7fa324@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-b77155e954827346@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20540630
 DTEND;VALUE=DATE:20540701
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Solin
 DESCRIPTION:31. 12. 2054. ističe 3 ugovora o koncesiji. Novi postupak dodj
  ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
  ra.\n\n• CEMEX HRVATSKA D.D. – Koncesija za površinu utvrđenog ekspl
- oatacijskog polja neenergetskih mineralnih sirovina (SOLIN)\, 3.580 €/go
- d.\n• CEMEX HRVATSKA D.D. – Koncesija za eksploataciju tehničko-građ
- evnog kamena (SOLIN)\n• CEMEX HRVATSKA D.D. – Koncesija za eksploataci
- ju tehničko-građevnog kamena (SOLIN)\n\nProfil općine: https://koncesij
- ski-sat.vercel.app/#opcina/41942358B27040282046651
+ oatacijskog polja neenergetskih mineralnih sirovina (SOLIN) · davatelj: M
+ INISTARSTVO GOSPODARSTVA\, 3.580 €/god.\n• CEMEX HRVATSKA D.D. – Kon
+ cesija za eksploataciju tehničko-građevnog kamena (SOLIN) · davatelj: M
+ INISTARSTVO GOSPODARSTVA\n• CEMEX HRVATSKA D.D. – Koncesija za eksploa
+ taciju tehničko-građevnog kamena (SOLIN) · davatelj: MINISTARSTVO GOSPO
+ DARSTVA\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4194
+ 2358B27040282046651
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B27040282046651
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije · Solin
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT

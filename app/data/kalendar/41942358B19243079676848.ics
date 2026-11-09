@@ -4,24 +4,26 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Grad Vis
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Grad Vis. Iz Registra ko
- ncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podataka. h
- ttps://koncesijski-sat.vercel.app/#opcina/41942358B19243079676848
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Grad Vis (pregled\, svi 
+ davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježava se nako
+ n svake obrade podataka. https://koncesijski-sat.vercel.app/#opcina/419423
+ 58B19243079676848
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-24793aa43252c952@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-3809e7691f1cbec0@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270531
 DTEND;VALUE=DATE:20270601
 SUMMARY:Ističe 2 koncesije · Vis
 DESCRIPTION:2 ugovora o koncesiji ističe 31. 5. 2027. Godišnja fiksna nak
- nada: 2.000 €.\n\n• GRADINA VIS D.O.O. – Koncesija za luku (VIS)\, 1
- .000 €/god.\n• GRADINA VIS D.O.O. – Koncesija za luku (VIS)\, 1.000 
- €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
- 42358B19243079676848\nIzvor: Registar koncesija (FINA)\, obrada Koncesijsk
- i sat 9. 11. 2026.
+ nada: 2.000 €.\n\n• GRADINA VIS D.O.O. – Koncesija za luku (VIS) · 
+ davatelj: LUČKA UPRAVA SPLITSKO-DALMATINSKE ŽUPANIJE\, 1.000 €/god.\n
+ • GRADINA VIS D.O.O. – Koncesija za luku (VIS) · davatelj: LUČKA UPR
+ AVA SPLITSKO-DALMATINSKE ŽUPANIJE\, 1.000 €/god.\n\nProfil općine: htt
+ ps://koncesijski-sat.vercel.app/#opcina/41942358B19243079676848\nIzvor: Re
+ gistar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B19243079676848
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -31,36 +33,38 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-24793aa43252c952@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-3809e7691f1cbec0@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
-SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Vis
 DESCRIPTION:31. 5. 2027. ističe 2 ugovora o koncesiji. Novi postupak dodje
  le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
- a.\n\n• GRADINA VIS D.O.O. – Koncesija za luku (VIS)\, 1.000 €/god.\
- n• GRADINA VIS D.O.O. – Koncesija za luku (VIS)\, 1.000 €/god.\n\nPr
- ofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B19243079
- 676848
+ a.\n\n• GRADINA VIS D.O.O. – Koncesija za luku (VIS) · davatelj: LUČ
+ KA UPRAVA SPLITSKO-DALMATINSKE ŽUPANIJE\, 1.000 €/god.\n• GRADINA VIS
+  D.O.O. – Koncesija za luku (VIS) · davatelj: LUČKA UPRAVA SPLITSKO-DA
+ LMATINSKE ŽUPANIJE\, 1.000 €/god.\n\nProfil općine: https://koncesijsk
+ i-sat.vercel.app/#opcina/41942358B19243079676848
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B19243079676848
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije · Vis
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-00be17bd6763a963@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-d43432450a16c613@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20270622
 DTEND;VALUE=DATE:20270623
 SUMMARY:Ističe koncesija: GRADINA VIS D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 22. 6. 2027. Godišnja fiksna nakn
  ada: 15.093 €.\n\n• GRADINA VIS D.O.O. – Koncesija na pomorskom dobr
- u (VIS)\, 15.093 €/god.\n\nProfil općine: https://koncesijski-sat.verce
- l.app/#opcina/41942358B19243079676848\nIzvor: Registar koncesija (FINA)\, 
- obrada Koncesijski sat 9. 11. 2026.
+ u (VIS) · davatelj: SPLITSKO-DALMATINSKA ŽUPANIJA\, 15.093 €/god.\n\nP
+ rofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B1924307
+ 9676848\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 
+ 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B19243079676848
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -70,17 +74,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-00be17bd6763a963@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-d43432450a16c613@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20261222
 DTEND;VALUE=DATE:20261223
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (GRADINA VIS D.O.
  O.)
 DESCRIPTION:22. 6. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
- .\n\n• GRADINA VIS D.O.O. – Koncesija na pomorskom dobru (VIS)\, 15.09
- 3 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4
- 1942358B19243079676848
+ .\n\n• GRADINA VIS D.O.O. – Koncesija na pomorskom dobru (VIS) · dava
+ telj: SPLITSKO-DALMATINSKA ŽUPANIJA\, 15.093 €/god.\n\nProfil općine: 
+ https://koncesijski-sat.vercel.app/#opcina/41942358B19243079676848
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B19243079676848
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -91,16 +95,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-d65b36d655fe8115@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-d6c04d4946a46ee0@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20300606
 DTEND;VALUE=DATE:20300607
 SUMMARY:Ističe koncesija: INA\, D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 6. 6. 2030. Godišnja fiksna nakna
- da: 5.370 €.\n\n• INA\, D.D. – Koncesija na pomorskom dobru (VIS)\, 
- 5.370 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opci
- na/41942358B19243079676848\nIzvor: Registar koncesija (FINA)\, obrada Konc
- esijski sat 9. 11. 2026.
+ da: 5.370 €.\n\n• INA\, D.D. – Koncesija na pomorskom dobru (VIS) ·
+  davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\, 5.370 €/god.\n
+ \nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B1924
+ 3079676848\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 1
+ 1. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B19243079676848
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -110,16 +115,16 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-d65b36d655fe8115@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-d6c04d4946a46ee0@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20291206
 DTEND;VALUE=DATE:20291207
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA\, D.D.)
 DESCRIPTION:6. 6. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
- \n\n• INA\, D.D. – Koncesija na pomorskom dobru (VIS)\, 5.370 €/god.
- \n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B19
- 243079676848
+ \n\n• INA\, D.D. – Koncesija na pomorskom dobru (VIS) · davatelj: MIN
+ ISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\, 5.370 €/god.\n\nProfil opći
+ ne: https://koncesijski-sat.vercel.app/#opcina/41942358B19243079676848
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B19243079676848
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -129,17 +134,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-71832e6fa3752f6b@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-5427c8208d9f685a@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20320210
 DTEND;VALUE=DATE:20320211
 SUMMARY:Ističe koncesija: GRADINA VIS D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 10. 2. 2032. Godišnja fiksna nakn
  ada: 20.719 €.\n\n• GRADINA VIS D.O.O. – Koncesija pomorskog dobra u
-  svrhu izgradnje i gospodarskog korištenja luke posebne namjene (VIS)\, 2
- 0.719 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opci
- na/41942358B19243079676848\nIzvor: Registar koncesija (FINA)\, obrada Konc
- esijski sat 9. 11. 2026.
+  svrhu izgradnje i gospodarskog korištenja luke posebne namjene (VIS) · 
+ davatelj: SPLITSKO-DALMATINSKA ŽUPANIJA\, 20.719 €/god.\n\nProfil opći
+ ne: https://koncesijski-sat.vercel.app/#opcina/41942358B19243079676848\nIz
+ vor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B19243079676848
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -149,8 +154,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-71832e6fa3752f6b@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-5427c8208d9f685a@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20310810
 DTEND;VALUE=DATE:20310811
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (GRADINA VIS D.O.
@@ -158,9 +163,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (GRADINA VIS D.O.
 DESCRIPTION:10. 2. 2032. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• GRADINA VIS D.O.O. – Koncesija pomorskog dobra u svrhu izgradnj
- e i gospodarskog korištenja luke posebne namjene (VIS)\, 20.719 €/god.\
- n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B192
- 43079676848
+ e i gospodarskog korištenja luke posebne namjene (VIS) · davatelj: SPLIT
+ SKO-DALMATINSKA ŽUPANIJA\, 20.719 €/god.\n\nProfil općine: https://kon
+ cesijski-sat.vercel.app/#opcina/41942358B19243079676848
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B19243079676848
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -171,16 +176,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-0643369444815ee6@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-2e715f1c9231dd6e@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20360612
 DTEND;VALUE=DATE:20360613
 SUMMARY:Ističe koncesija: HRVATSKI OPERATOR PRIJENOSNOG SUSTAVA D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 12. 6. 2036. Godišnja fiksna nakn
  ada: 6.956 €.\n\n• HRVATSKI OPERATOR PRIJENOSNOG SUSTAVA D.D. – Konc
- esija na pomorskom dobru (VIS)\, 6.956 €/god.\n\nProfil općine: https:/
- /koncesijski-sat.vercel.app/#opcina/41942358B19243079676848\nIzvor: Regist
- ar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ esija na pomorskom dobru (VIS) · davatelj: MINISTARSTVO MORA\, PROMETA I 
+ INFRASTRUKTURE\, 6.956 €/god.\n\nProfil općine: https://koncesijski-sat
+ .vercel.app/#opcina/41942358B19243079676848\nIzvor: Registar koncesija (FI
+ NA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B19243079676848
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -190,8 +196,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-0643369444815ee6@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-2e715f1c9231dd6e@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20351212
 DTEND;VALUE=DATE:20351213
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKI OPERATO
@@ -199,8 +205,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKI OPERATO
 DESCRIPTION:12. 6. 2036. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• HRVATSKI OPERATOR PRIJENOSNOG SUSTAVA D.D. – Koncesija na pomor
- skom dobru (VIS)\, 6.956 €/god.\n\nProfil općine: https://koncesijski-s
- at.vercel.app/#opcina/41942358B19243079676848
+ skom dobru (VIS) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE
+ \, 6.956 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#o
+ pcina/41942358B19243079676848
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B19243079676848
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -211,18 +218,18 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-dea2502dd41b88a9@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-0a4d65180dc6f72d@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20460830
 DTEND;VALUE=DATE:20460831
 SUMMARY:Ističe koncesija: HEP-OPERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O. ELEK
  TRA KRIŽ
 DESCRIPTION:1 ugovor o koncesiji ističe 30. 8. 2046. Godišnja fiksna nakn
  ada: 11.850 €.\n\n• HEP-OPERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O. ELEKTR
- A KRIŽ – Posebna upotreba pomorskog dobra (VIS)\, 11.850 €/god.\n\nPr
- ofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B19243079
- 676848\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2
- 026.
+ A KRIŽ – Posebna upotreba pomorskog dobra (VIS) · davatelj: SPLITSKO-D
+ ALMATINSKA ŽUPANIJA\, 11.850 €/god.\n\nProfil općine: https://koncesij
+ ski-sat.vercel.app/#opcina/41942358B19243079676848\nIzvor: Registar konces
+ ija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B19243079676848
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -233,8 +240,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-dea2502dd41b88a9@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-0a4d65180dc6f72d@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20460228
 DTEND;VALUE=DATE:20460301
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP-OPERATOR DIS
@@ -242,8 +249,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP-OPERATOR DIS
 DESCRIPTION:30. 8. 2046. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• HEP-OPERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O. ELEKTRA KRIŽ – Pos
- ebna upotreba pomorskog dobra (VIS)\, 11.850 €/god.\n\nProfil općine: h
- ttps://koncesijski-sat.vercel.app/#opcina/41942358B19243079676848
+ ebna upotreba pomorskog dobra (VIS) · davatelj: SPLITSKO-DALMATINSKA ŽUP
+ ANIJA\, 11.850 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.
+ app/#opcina/41942358B19243079676848
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B19243079676848
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -254,16 +262,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-f073d1fef3ebb630@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-d98b5dee6713b0a8@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20760717
 DTEND;VALUE=DATE:20760718
 SUMMARY:Ističe koncesija: HRVATSKI TELEKOM D.D.
 DESCRIPTION:1 ugovor o koncesiji ističe 17. 7. 2076. Godišnja fiksna nakn
  ada: 8.371 €.\n\n• HRVATSKI TELEKOM D.D. – Posebna upotreba pomorsko
- g dobra (VIS)\, 8.371 €/god.\n\nProfil općine: https://koncesijski-sat.
- vercel.app/#opcina/41942358B19243079676848\nIzvor: Registar koncesija (FIN
- A)\, obrada Koncesijski sat 9. 11. 2026.
+ g dobra (VIS) · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\, 
+ 8.371 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opci
+ na/41942358B19243079676848\nIzvor: Registar koncesija (FINA)\, obrada Konc
+ esijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B19243079676848
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -273,17 +282,18 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-f073d1fef3ebb630@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-d98b5dee6713b0a8@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20760117
 DTEND;VALUE=DATE:20760118
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKI TELEKOM
   D.D.)
 DESCRIPTION:17. 7. 2076. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
- .\n\n• HRVATSKI TELEKOM D.D. – Posebna upotreba pomorskog dobra (VIS)\
- , 8.371 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#op
- cina/41942358B19243079676848
+ .\n\n• HRVATSKI TELEKOM D.D. – Posebna upotreba pomorskog dobra (VIS) 
+ · davatelj: MINISTARSTVO MORA\, PROMETA I INFRASTRUKTURE\, 8.371 €/god.
+ \n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B19
+ 243079676848
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B19243079676848
 TRANSP:TRANSPARENT
 BEGIN:VALARM

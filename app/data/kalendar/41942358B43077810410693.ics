@@ -4,16 +4,16 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Općina Velika Kopanica
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Velika Kopanica.
-  Iz Registra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obr
- ade podataka. https://koncesijski-sat.vercel.app/#opcina/41942358B43077810
- 410693
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Općina Velika Kopanica 
+ (pregled\, svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osv
+ ježava se nakon svake obrade podataka. https://koncesijski-sat.vercel.app
+ /#opcina/41942358B43077810410693
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-0e22779705391f72@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-ac8f902bf52753ca@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20321231
 DTEND;VALUE=DATE:20330101
 SUMMARY:Ističe koncesija: MULL-TRANS D.O.O. ZA PRIJEVOZ\, ŠPEDICIJU\, TRG
@@ -22,9 +22,10 @@ DESCRIPTION:1 ugovor o koncesiji ističe 31. 12. 2032. Godišnja fiksna nak
  nada: 4.247 €.\n\n• MULL-TRANS D.O.O. ZA PRIJEVOZ\, ŠPEDICIJU\, TRGOV
  INU I ZASTUPANJE – Koncesija za obavljanje komunalne djelatnosti skuplja
  nja\, odvoza\, obrade\, održavanje čistoće i odlaganje komunal. i indus
- trijskog otpada (VELIKA KOPANICA)\, 4.247 €/god.\n\nProfil općine: http
- s://koncesijski-sat.vercel.app/#opcina/41942358B43077810410693\nIzvor: Reg
- istar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ trijskog otpada (VELIKA KOPANICA) · davatelj: OPĆINA VELIKA KOPANICA\, 4
+ .247 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcin
+ a/41942358B43077810410693\nIzvor: Registar koncesija (FINA)\, obrada Konce
+ sijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B43077810410693
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -35,8 +36,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-0e22779705391f72@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-ac8f902bf52753ca@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20320630
 DTEND;VALUE=DATE:20320701
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MULL-TRANS D.O.O
@@ -46,8 +47,9 @@ DESCRIPTION:31. 12. 2032. ističe 1 ugovor o koncesiji. Novi postupak dodje
  a.\n\n• MULL-TRANS D.O.O. ZA PRIJEVOZ\, ŠPEDICIJU\, TRGOVINU I ZASTUPAN
  JE – Koncesija za obavljanje komunalne djelatnosti skupljanja\, odvoza\,
   obrade\, održavanje čistoće i odlaganje komunal. i industrijskog otpad
- a (VELIKA KOPANICA)\, 4.247 €/god.\n\nProfil općine: https://koncesijsk
- i-sat.vercel.app/#opcina/41942358B43077810410693
+ a (VELIKA KOPANICA) · davatelj: OPĆINA VELIKA KOPANICA\, 4.247 €/god.\
+ n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B430
+ 77810410693
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B43077810410693
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -58,17 +60,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-eb7662d8fef826c9@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-e40a79d7bae5f283@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20390312
 DTEND;VALUE=DATE:20390313
 SUMMARY:Ističe koncesija: AGRO - KADIĆ DOO
 DESCRIPTION:1 ugovor o koncesiji ističe 12. 3. 2039. Godišnja fiksna nakn
  ada: 883 €.\n\n• AGRO - KADIĆ DOO – Koncesija za korištenje poljop
- rivrednog zemljišta u vlasništvu države (VELIKA KOPANICA)\, 883 €/god
- .\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B4
- 3077810410693\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9
- . 11. 2026.
+ rivrednog zemljišta u vlasništvu države (VELIKA KOPANICA) · davatelj: 
+ OPĆINA VELIKA KOPANICA\, 883 €/god.\n\nProfil općine: https://koncesij
+ ski-sat.vercel.app/#opcina/41942358B43077810410693\nIzvor: Registar konces
+ ija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B43077810410693
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -78,8 +80,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-eb7662d8fef826c9@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-e40a79d7bae5f283@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20380912
 DTEND;VALUE=DATE:20380913
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (AGRO - KADIĆ DO
@@ -87,9 +89,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (AGRO - KADIĆ DO
 DESCRIPTION:12. 3. 2039. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• AGRO - KADIĆ DOO – Koncesija za korištenje poljoprivrednog ze
- mljišta u vlasništvu države (VELIKA KOPANICA)\, 883 €/god.\n\nProfil 
- općine: https://koncesijski-sat.vercel.app/#opcina/41942358B4307781041069
- 3
+ mljišta u vlasništvu države (VELIKA KOPANICA) · davatelj: OPĆINA VELI
+ KA KOPANICA\, 883 €/god.\n\nProfil općine: https://koncesijski-sat.verc
+ el.app/#opcina/41942358B43077810410693
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B43077810410693
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -100,17 +102,18 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:istek-89de86e6ab03096f@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-8b5b3e7f3ba46600@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20550626
 DTEND;VALUE=DATE:20550627
 SUMMARY:Ističe koncesija: ASPECT CROATIA KFT. - PODRUŽNICA ZAGREB
 DESCRIPTION:1 ugovor o koncesiji ističe 26. 6. 2055. Godišnja fiksna nakn
  ada: 3.798 €.\n\n• ASPECT CROATIA KFT. - PODRUŽNICA ZAGREB – Dozvol
  a za istraživanje ugljikovodika (prema Zakonu o ugljikovodicima) (VELIKA 
- KOPANICA)\, 3.798 €/god.\n\nProfil općine: https://koncesijski-sat.verc
- el.app/#opcina/41942358B43077810410693\nIzvor: Registar koncesija (FINA)\,
-  obrada Koncesijski sat 9. 11. 2026.
+ KOPANICA) · davatelj: MINISTARSTVO GOSPODARSTVA\, 3.798 €/god.\n\nProfi
+ l općine: https://koncesijski-sat.vercel.app/#opcina/41942358B43077810410
+ 693\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026
+ .
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B43077810410693
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -120,8 +123,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-89de86e6ab03096f@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-8b5b3e7f3ba46600@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20541226
 DTEND;VALUE=DATE:20541227
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ASPECT CROATIA K
@@ -129,9 +132,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ASPECT CROATIA K
 DESCRIPTION:26. 6. 2055. ističe 1 ugovor o koncesiji. Novi postupak dodjel
  e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
  .\n\n• ASPECT CROATIA KFT. - PODRUŽNICA ZAGREB – Dozvola za istraživ
- anje ugljikovodika (prema Zakonu o ugljikovodicima) (VELIKA KOPANICA)\, 3.
- 798 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina
- /41942358B43077810410693
+ anje ugljikovodika (prema Zakonu o ugljikovodicima) (VELIKA KOPANICA) · d
+ avatelj: MINISTARSTVO GOSPODARSTVA\, 3.798 €/god.\n\nProfil općine: htt
+ ps://koncesijski-sat.vercel.app/#opcina/41942358B43077810410693
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B43077810410693
 TRANSP:TRANSPARENT
 BEGIN:VALARM

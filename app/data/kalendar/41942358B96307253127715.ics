@@ -4,24 +4,25 @@ PRODID:-//Koncesijski sat//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rokovi koncesija · Općina Ravna Gora
-X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Ravna Gora. Iz R
- egistra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade p
- odataka. https://koncesijski-sat.vercel.app/#opcina/41942358B9630725312771
- 5
+X-WR-CALDESC:Svi ugovori o koncesiji na području: Općina Ravna Gora (preg
+ led\, svi davatelji). Iz Registra koncesija (FINA\, data.gov.hr). Osvježa
+ va se nakon svake obrade podataka. https://koncesijski-sat.vercel.app/#opc
+ ina/41942358B96307253127715
 X-WR-TIMEZONE:Europe/Zagreb
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:istek-742dd6e64165e207@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:istek-bec62d7202220a72@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20310706
 DTEND;VALUE=DATE:20310707
 SUMMARY:Ističe koncesija: G.I.G.- MAX J.D.O.O.
 DESCRIPTION:1 ugovor o koncesiji ističe 6. 7. 2031. Godišnja fiksna nakna
  da: 621 €.\n\n• G.I.G.- MAX J.D.O.O. – Koncesija za obavljanje dimnj
- ačarskih poslova (RAVNA GORA)\, 621 €/god.\n\nProfil općine: https://k
- oncesijski-sat.vercel.app/#opcina/41942358B96307253127715\nIzvor: Registar
-  koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+ ačarskih poslova (RAVNA GORA) · davatelj: OPĆINA RAVNA GORA\, 621 €/g
+ od.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358
+ B96307253127715\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat
+  9. 11. 2026.
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B96307253127715
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -31,8 +32,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:priprema-742dd6e64165e207@koncesijski-sat
-DTSTAMP:20261109T134442Z
+UID:priprema-bec62d7202220a72@koncesijski-sat
+DTSTAMP:20261109T135541Z
 DTSTART;VALUE=DATE:20310106
 DTEND;VALUE=DATE:20310107
 SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (G.I.G.- MAX J.D.
@@ -40,8 +41,9 @@ SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (G.I.G.- MAX J.D.
 DESCRIPTION:6. 7. 2031. ističe 1 ugovor o koncesiji. Novi postupak dodjele
   treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
  \n\n• G.I.G.- MAX J.D.O.O. – Koncesija za obavljanje dimnjačarskih po
- slova (RAVNA GORA)\, 621 €/god.\n\nProfil općine: https://koncesijski-s
- at.vercel.app/#opcina/41942358B96307253127715
+ slova (RAVNA GORA) · davatelj: OPĆINA RAVNA GORA\, 621 €/god.\n\nProfi
+ l općine: https://koncesijski-sat.vercel.app/#opcina/41942358B96307253127
+ 715
 URL:https://koncesijski-sat.vercel.app/#opcina/41942358B96307253127715
 TRANSP:TRANSPARENT
 BEGIN:VALARM
