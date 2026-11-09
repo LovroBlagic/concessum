@@ -1,0 +1,99 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · Općina Kapela
+X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Kapela. Iz Regis
+ tra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podat
+ aka. https://koncesijski-sat.vercel.app/#opcina/41942358B1611585125577
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-168fc03c68c757cb@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20270630
+DTEND;VALUE=DATE:20270701
+SUMMARY:Ističe 2 koncesije · Kapela
+DESCRIPTION:2 ugovora o koncesiji ističe 30. 6. 2027.\n\n• INA D.D. – 
+ Dozvola za eksploataciju ugljikovodika (prema Zakonu o ugljikovodicima) (K
+ APELA)\n• INA-INDUSTRIJA NAFTE D.D. – Dozvola za eksploataciju ugljiko
+ vodika (prema Zakonu o ugljikovodicima) (KAPELA)\n\nProfil općine: https:
+ //koncesijski-sat.vercel.app/#opcina/41942358B1611585125577\nIzvor: Regist
+ ar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B1611585125577
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 2 koncesije · Kapela
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-168fc03c68c757cb@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261231
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:30. 6. 2027. ističe 2 ugovora o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• INA D.D. – Dozvola za eksploataciju ugljikovodika (prema Zakon
+ u o ugljikovodicima) (KAPELA)\n• INA-INDUSTRIJA NAFTE D.D. – Dozvola z
+ a eksploataciju ugljikovodika (prema Zakonu o ugljikovodicima) (KAPELA)\n\
+ nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B16115
+ 85125577
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B1611585125577
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-49dca16f7055f03e@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20391231
+DTEND;VALUE=DATE:20400101
+SUMMARY:Ističe 3 koncesije · Kapela
+DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2039. Godišnja fiksna na
+ knada: 13.718 €.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauz
+ etu površinu odobrenog eksploatacijskog polja (KAPELA)\, 13.718 €/god.\
+ n• INA D.D. – Dozvola za eksploataciju ugljikovodika (prema Zakonu o u
+ gljikovodicima) (KAPELA)\n• INA-INDUSTRIJA NAFTE  D.D. – Dozvola za ek
+ sploataciju ugljikovodika (prema Zakonu o ugljikovodicima) (KAPELA)\n\nPro
+ fil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B161158512
+ 5577\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 202
+ 6.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B1611585125577
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 3 koncesije · Kapela
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-49dca16f7055f03e@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20390630
+DTEND;VALUE=DATE:20390701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:31. 12. 2039. ističe 3 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauzetu površinu o
+ dobrenog eksploatacijskog polja (KAPELA)\, 13.718 €/god.\n• INA D.D. 
+ – Dozvola za eksploataciju ugljikovodika (prema Zakonu o ugljikovodicima
+ ) (KAPELA)\n• INA-INDUSTRIJA NAFTE  D.D. – Dozvola za eksploataciju ug
+ ljikovodika (prema Zakonu o ugljikovodicima) (KAPELA)\n\nProfil općine: h
+ ttps://koncesijski-sat.vercel.app/#opcina/41942358B1611585125577
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B1611585125577
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

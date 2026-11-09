@@ -123,6 +123,99 @@ with open(os.path.join(OUT, "koncesije.csv"), "w", encoding="utf-8-sig", newline
                     sekt_naziv[vrste_sektor[x[2]]], oid, naziv_opc.get(oid, ""), x[7], x[4], x[5],
                     NAST_TXT[x[6]], "" if x[8] is None else x[8]])
 
+# ---------- kalendari za pretplatu (iCalendar, RFC 5545), jedan po općini ----------
+# Službenik se jednom pretplati (webcal://…/data/kalendar/<shapeID>.ics); kalendar sam povlači nove rokove
+# nakon svake obrade. Ugovori koji ističu istog dana grupiraju se u jedan događaj, a 6 mjeseci prije svakog
+# datuma dodaje se događaj „pripremiti postupak“ (Google kalendar u pretplatama ne prenosi podsjetnike).
+import calendar, hashlib, shutil
+from datetime import datetime, timezone
+WEB = "https://koncesijski-sat.vercel.app"
+KAL = os.path.join(OUT, "kalendar")
+shutil.rmtree(KAL, ignore_errors=True); os.makedirs(KAL)
+DANAS = date.today()
+STAMP = datetime.now(timezone.utc).strftime("%Y%m%dT%H%M%SZ")
+
+def minus_mj(d, m):
+    y, mm = divmod(d.month - 1 - m, 12)
+    return date(d.year + y, mm + 1, min(d.day, calendar.monthrange(d.year + y, mm + 1)[1]))
+
+def ics_tekst(t):
+    return t.replace("\\", "\\\\").replace(";", "\\;").replace(",", "\\,").replace("\n", "\\n")
+
+def presavij(linija):
+    """Retci najviše 75 okteta; nastavak počinje razmakom (RFC 5545, 3.1)."""
+    b = linija.encode("utf-8"); out = []
+    while len(b) > (75 if not out else 74):      # nastavak ima vodeći razmak, pa 74 + 1
+        i = 75 if not out else 74
+        while (b[i] & 0xC0) == 0x80:      # ne rezati usred UTF-8 znaka
+            i -= 1
+        out.append(b[:i]); b = b[i:]
+    out.append(b)
+    return "\r\n ".join(x.decode("utf-8") for x in out)
+
+def kon(n):      # 1 koncesija, 2–4 koncesije, 5+ koncesija
+    return "koncesije" if n % 10 in (2, 3, 4) and n % 100 not in (12, 13, 14) else "koncesija"
+
+def ugo(n):      # 1 ugovor, 2+ ugovora
+    return "ugovor" if n % 10 == 1 and n % 100 != 11 else "ugovora"
+
+def eur(x):
+    return f"{x:,.0f}".replace(",", ".") + " €"
+
+def dogadaj(uid, dan, naslov, opis, url):
+    return ["BEGIN:VEVENT", f"UID:{uid}@koncesijski-sat", f"DTSTAMP:{STAMP}",
+            f"DTSTART;VALUE=DATE:{dan:%Y%m%d}", f"DTEND;VALUE=DATE:{dan + timedelta(days=1):%Y%m%d}",
+            f"SUMMARY:{ics_tekst(naslov)}", f"DESCRIPTION:{ics_tekst(opis)}", f"URL:{url}",
+            "TRANSP:TRANSPARENT",
+            "BEGIN:VALARM", "ACTION:DISPLAY", f"DESCRIPTION:{ics_tekst(naslov)}", "TRIGGER:-P7D", "END:VALARM",
+            "END:VEVENT"]
+
+from datetime import timedelta
+po_opc_dat = {}
+for x in redci:
+    if x[3] < 0:
+        continue
+    do = date.fromisoformat(x[5])
+    if do < DANAS:
+        continue
+    po_opc_dat.setdefault(tablice["opcina"][x[3]], {}).setdefault(do, []).append(x)
+
+kalendara = dogadaja = 0
+for oid, po_dat in po_opc_dat.items():
+    naziv = naziv_opc.get(oid, oid)
+    url = f"{WEB}/#opcina/{oid}"
+    redovi = ["BEGIN:VCALENDAR", "VERSION:2.0", "PRODID:-//Koncesijski sat//HR", "CALSCALE:GREGORIAN", "METHOD:PUBLISH",
+              f"X-WR-CALNAME:{ics_tekst('Rokovi koncesija · ' + naziv)}",
+              f"X-WR-CALDESC:{ics_tekst('Rokovi isteka ugovora o koncesiji – ' + naziv + '. Iz Registra koncesija (FINA, data.gov.hr). Osvježava se nakon svake obrade podataka. ' + url)}",
+              "X-WR-TIMEZONE:Europe/Zagreb", "REFRESH-INTERVAL;VALUE=DURATION:P1D", "X-PUBLISHED-TTL:P1D"]
+    for dan, lista in sorted(po_dat.items()):
+        lista.sort(key=lambda x: -(x[8] or 0))
+        n, nak = len(lista), sum(x[8] or 0 for x in lista)
+        stavke = [f"• {tablice['koncesionar'][x[1]]} – {tablice['vrsta'][x[2]]} ({x[7]})" + (f", {eur(x[8])}/god." if x[8] else "")
+                  for x in lista[:40]]
+        if n > 40:
+            stavke.append(f"… i još {n - 40} (cijeli popis u aplikaciji)")
+        kljuc = hashlib.sha1(f"{oid}|{dan}".encode()).hexdigest()[:16]
+        prvi = tablice["koncesionar"][lista[0][1]]
+        naslov = f"Ističe koncesija: {prvi}" if n == 1 else f"Ističe {n} {kon(n)} · {naziv.replace('Grad ', '').replace('Općina ', '')}"
+        opis = (f"{n} {ugo(n)} o koncesiji ističe {dan.day}. {dan.month}. {dan.year}." +
+                (f" Godišnja fiksna naknada: {eur(nak)}." if nak else "") + "\n\n" + "\n".join(stavke) +
+                f"\n\nProfil općine: {url}\nIzvor: Registar koncesija (FINA), obrada Koncesijski sat {DANAS.day}. {DANAS.month}. {DANAS.year}.")
+        redovi += dogadaj("istek-" + kljuc, dan, naslov, opis, url); dogadaja += 1
+        prip = minus_mj(dan, 6)
+        if prip >= DANAS:
+            redovi += dogadaj("priprema-" + kljuc, prip,
+                              f"Pripremiti postupak: za 6 mj. ističe {n} {kon(n)}" + (f" ({prvi})" if n == 1 else ""),
+                              f"{dan.day}. {dan.month}. {dan.year}. ističe {n} {ugo(n)} o koncesiji. "
+                              "Novi postupak dodjele treba pokrenuti na vrijeme, da prostor ili usluga ne ostanu bez ugovora.\n\n" +
+                              "\n".join(stavke) + f"\n\nProfil općine: {url}", url)
+            dogadaja += 1
+    redovi.append("END:VCALENDAR")
+    with open(os.path.join(KAL, oid + ".ics"), "w", encoding="utf-8", newline="") as f:
+        f.write("\r\n".join(presavij(r) for r in redovi) + "\r\n")
+    kalendara += 1
+print(f"kalendara: {kalendara}, događaja: {dogadaja}")
+
 # ---------- granice ----------
 def dp(pts, tol):
     """Douglas-Peucker, iterativno."""

@@ -1,0 +1,370 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · Grad Novska
+X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Grad Novska. Iz Registra
+  koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podataka
+ . https://koncesijski-sat.vercel.app/#opcina/41942358B46819111733019
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-56dc2c6a1f5a6beb@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20270426
+DTEND;VALUE=DATE:20270427
+SUMMARY:Ističe koncesija: RADIO POSTAJA NOVSKA D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 26. 4. 2027. Godišnja fiksna nakn
+ ada: 66 €.\n\n• RADIO POSTAJA NOVSKA D.O.O. – Koncesija za obavljanj
+ e djelatnosti radija (NOVSKA)\, 66 €/god.\n\nProfil općine: https://kon
+ cesijski-sat.vercel.app/#opcina/41942358B46819111733019\nIzvor: Registar k
+ oncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B46819111733019
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: RADIO POSTAJA NOVSKA D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-2c98e2a55dcd6d39@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20270630
+DTEND;VALUE=DATE:20270701
+SUMMARY:Ističe 2 koncesije · Novska
+DESCRIPTION:2 ugovora o koncesiji ističe 30. 6. 2027.\n\n• INA D.D. – 
+ Dozvola za eksploataciju ugljikovodika (prema Zakonu o ugljikovodicima) (N
+ OVSKA)\n• INA-INDUSTRIJA NAFTE  D.D. – Dozvola za eksploataciju ugljik
+ ovodika (prema Zakonu o ugljikovodicima) (NOVSKA)\n\nProfil općine: https
+ ://koncesijski-sat.vercel.app/#opcina/41942358B46819111733019\nIzvor: Regi
+ star koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B46819111733019
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 2 koncesije · Novska
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-2c98e2a55dcd6d39@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261231
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:30. 6. 2027. ističe 2 ugovora o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• INA D.D. – Dozvola za eksploataciju ugljikovodika (prema Zakon
+ u o ugljikovodicima) (NOVSKA)\n• INA-INDUSTRIJA NAFTE  D.D. – Dozvola 
+ za eksploataciju ugljikovodika (prema Zakonu o ugljikovodicima) (NOVSKA)\n
+ \nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B4681
+ 9111733019
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B46819111733019
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-8d75e6b2ef6bf9a8@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20300630
+DTEND;VALUE=DATE:20300701
+SUMMARY:Ističe koncesija: KORINA PROIZVODNJA D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 30. 6. 2030. Godišnja fiksna nakn
+ ada: 871 €.\n\n• KORINA PROIZVODNJA D.O.O. – Koncesija za zahvaćanj
+ e voda za tehnološke potrebe (NOVSKA)\, 871 €/god.\n\nProfil općine: h
+ ttps://koncesijski-sat.vercel.app/#opcina/41942358B46819111733019\nIzvor: 
+ Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B46819111733019
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: KORINA PROIZVODNJA D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-8d75e6b2ef6bf9a8@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20291230
+DTEND;VALUE=DATE:20291231
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (KORINA PROIZVODN
+ JA D.O.O.)
+DESCRIPTION:30. 6. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• KORINA PROIZVODNJA D.O.O. – Koncesija za zahvaćanje voda za te
+ hnološke potrebe (NOVSKA)\, 871 €/god.\n\nProfil općine: https://konce
+ sijski-sat.vercel.app/#opcina/41942358B46819111733019
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B46819111733019
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (KORINA PROIZ
+ VODNJA D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-48b157a79ba34d01@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20311010
+DTEND;VALUE=DATE:20311011
+SUMMARY:Ističe koncesija: E.ON DISTRIBUCIJA PLINA D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 10. 10. 2031.\n\n• E.ON DISTRIBU
+ CIJA PLINA D.O.O. – Koncesija za opskrbu potrošača prirodnim plinom (N
+ OVSKA)\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942
+ 358B46819111733019\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski 
+ sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B46819111733019
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: E.ON DISTRIBUCIJA PLINA D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-48b157a79ba34d01@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20310410
+DTEND;VALUE=DATE:20310411
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (E.ON DISTRIBUCIJ
+ A PLINA D.O.O.)
+DESCRIPTION:10. 10. 2031. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• E.ON DISTRIBUCIJA PLINA D.O.O. – Koncesija za opskrbu potroša
+ ča prirodnim plinom (NOVSKA)\n\nProfil općine: https://koncesijski-sat.v
+ ercel.app/#opcina/41942358B46819111733019
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B46819111733019
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (E.ON DISTRIB
+ UCIJA PLINA D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-858cf2c9e23146f8@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20341231
+DTEND;VALUE=DATE:20350101
+SUMMARY:Ističe 3 koncesije · Novska
+DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2034. Godišnja fiksna na
+ knada: 3.127 €.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauze
+ tu površinu odobrenog eksploatacijskog polja (NOVSKA)\, 3.127 €/god.\n
+ • INA-INDUSTRIJA NAFTE  D.D. – Dozvola za eksploataciju ugljikovodika 
+ (prema Zakonu o ugljikovodicima) (NOVSKA)\n• INA D.D. – Dozvola za eks
+ ploataciju ugljikovodika (prema Zakonu o ugljikovodicima) (NOVSKA)\n\nProf
+ il općine: https://koncesijski-sat.vercel.app/#opcina/41942358B4681911173
+ 3019\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 202
+ 6.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B46819111733019
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 3 koncesije · Novska
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-858cf2c9e23146f8@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20340630
+DTEND;VALUE=DATE:20340701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:31. 12. 2034. ističe 3 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauzetu površinu o
+ dobrenog eksploatacijskog polja (NOVSKA)\, 3.127 €/god.\n• INA-INDUSTR
+ IJA NAFTE  D.D. – Dozvola za eksploataciju ugljikovodika (prema Zakonu o
+  ugljikovodicima) (NOVSKA)\n• INA D.D. – Dozvola za eksploataciju uglj
+ ikovodika (prema Zakonu o ugljikovodicima) (NOVSKA)\n\nProfil općine: htt
+ ps://koncesijski-sat.vercel.app/#opcina/41942358B46819111733019
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B46819111733019
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-5488c79689af4f47@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20381015
+DTEND;VALUE=DATE:20381016
+SUMMARY:Ističe 2 koncesije · Novska
+DESCRIPTION:2 ugovora o koncesiji ističe 15. 10. 2038. Godišnja fiksna na
+ knada: 59.125 €.\n\n• KORINA PROIZVODNJA D.O.O. – Koncesija za kori
+ štenje poljoprivrednog zemljišta u vlasništvu države (NOVSKA)\, 53.246
+  €/god.\n• POLJOPRIVREDNA  ZADRUGA BRANITELJA EKO OGRC – Koncesija z
+ a korištenje poljoprivrednog zemljišta u vlasništvu države (NOVSKA)\, 
+ 5.879 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opci
+ na/41942358B46819111733019\nIzvor: Registar koncesija (FINA)\, obrada Konc
+ esijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B46819111733019
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 2 koncesije · Novska
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-5488c79689af4f47@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20380415
+DTEND;VALUE=DATE:20380416
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:15. 10. 2038. ističe 2 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• KORINA PROIZVODNJA D.O.O. – Koncesija za korištenje poljopri
+ vrednog zemljišta u vlasništvu države (NOVSKA)\, 53.246 €/god.\n• P
+ OLJOPRIVREDNA  ZADRUGA BRANITELJA EKO OGRC – Koncesija za korištenje po
+ ljoprivrednog zemljišta u vlasništvu države (NOVSKA)\, 5.879 €/god.\n
+ \nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B4681
+ 9111733019
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B46819111733019
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-a76351a9465dc8b1@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20401231
+DTEND;VALUE=DATE:20410101
+SUMMARY:Ističe koncesija: INA-INDUSTRIJA NAFTE  D.D.
+DESCRIPTION:1 ugovor o koncesiji ističe 31. 12. 2040. Godišnja fiksna nak
+ nada: 5.621 €.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauzet
+ u površinu odobrenog eksploatacijskog polja (NOVSKA)\, 5.621 €/god.\n\n
+ Profil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B468191
+ 11733019\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11.
+  2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B46819111733019
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: INA-INDUSTRIJA NAFTE  D.D.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-a76351a9465dc8b1@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20400630
+DTEND;VALUE=DATE:20400701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA-INDUSTRIJA N
+ AFTE  D.D.)
+DESCRIPTION:31. 12. 2040. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauzetu površinu od
+ obrenog eksploatacijskog polja (NOVSKA)\, 5.621 €/god.\n\nProfil općine
+ : https://koncesijski-sat.vercel.app/#opcina/41942358B46819111733019
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B46819111733019
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA-INDUSTRI
+ JA NAFTE  D.D.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-369de4f783f14fa7@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20451231
+DTEND;VALUE=DATE:20460101
+SUMMARY:Ističe 3 koncesije · Novska
+DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2045. Godišnja fiksna na
+ knada: 10.846 €.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauz
+ etu površinu odobrenog eksploatacijskog polja (NOVSKA)\, 10.846 €/god.\
+ n• INA-INDUSTRIJA NAFTE  D.D. – Dozvola za eksploataciju ugljikovodika
+  (prema Zakonu o ugljikovodicima) (NOVSKA)\n• INA D.D. – Dozvola za ek
+ sploataciju ugljikovodika (prema Zakonu o ugljikovodicima) (NOVSKA)\n\nPro
+ fil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B468191117
+ 33019\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 20
+ 26.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B46819111733019
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 3 koncesije · Novska
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-369de4f783f14fa7@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20450630
+DTEND;VALUE=DATE:20450701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:31. 12. 2045. ističe 3 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauzetu površinu o
+ dobrenog eksploatacijskog polja (NOVSKA)\, 10.846 €/god.\n• INA-INDUST
+ RIJA NAFTE  D.D. – Dozvola za eksploataciju ugljikovodika (prema Zakonu 
+ o ugljikovodicima) (NOVSKA)\n• INA D.D. – Dozvola za eksploataciju ugl
+ jikovodika (prema Zakonu o ugljikovodicima) (NOVSKA)\n\nProfil općine: ht
+ tps://koncesijski-sat.vercel.app/#opcina/41942358B46819111733019
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B46819111733019
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-0f166a08a8eb1824@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20550626
+DTEND;VALUE=DATE:20550627
+SUMMARY:Ističe koncesija: ASPECT CROATIA KFT. - PODRUŽNICA ZAGREB
+DESCRIPTION:1 ugovor o koncesiji ističe 26. 6. 2055. Godišnja fiksna nakn
+ ada: 3.366 €.\n\n• ASPECT CROATIA KFT. - PODRUŽNICA ZAGREB – Dozvol
+ a za istraživanje ugljikovodika (prema Zakonu o ugljikovodicima) (NOVSKA)
+ \, 3.366 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#o
+ pcina/41942358B46819111733019\nIzvor: Registar koncesija (FINA)\, obrada K
+ oncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B46819111733019
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: ASPECT CROATIA KFT. - PODRUŽNICA ZAGREB
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-0f166a08a8eb1824@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20541226
+DTEND;VALUE=DATE:20541227
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ASPECT CROATIA K
+ FT. - PODRUŽNICA ZAGREB)
+DESCRIPTION:26. 6. 2055. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• ASPECT CROATIA KFT. - PODRUŽNICA ZAGREB – Dozvola za istraživ
+ anje ugljikovodika (prema Zakonu o ugljikovodicima) (NOVSKA)\, 3.366 €/g
+ od.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358
+ B46819111733019
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B46819111733019
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ASPECT CROAT
+ IA KFT. - PODRUŽNICA ZAGREB)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

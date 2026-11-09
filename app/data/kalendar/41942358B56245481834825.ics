@@ -1,0 +1,96 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · Općina Slavonski Šamac
+X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Slavonski Šamac
+ . Iz Registra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake ob
+ rade podataka. https://koncesijski-sat.vercel.app/#opcina/41942358B5624548
+ 1834825
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-3e0fb75f6cfdfba6@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20300525
+DTEND;VALUE=DATE:20300526
+SUMMARY:Ističe koncesija: ITELYUM INTEGRA D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 25. 5. 2030.\n\n• ITELYUM INTEGR
+ A D.O.O. – Koncesija za obavljanje komunalnih djelatnosti (SLAVONSKI ŠA
+ MAC)\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4194235
+ 8B56245481834825\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sa
+ t 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B56245481834825
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: ITELYUM INTEGRA D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-3e0fb75f6cfdfba6@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20291125
+DTEND;VALUE=DATE:20291126
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ITELYUM INTEGRA 
+ D.O.O.)
+DESCRIPTION:25. 5. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• ITELYUM INTEGRA D.O.O. – Koncesija za obavljanje komunalnih dje
+ latnosti (SLAVONSKI ŠAMAC)\n\nProfil općine: https://koncesijski-sat.ver
+ cel.app/#opcina/41942358B56245481834825
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B56245481834825
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ITELYUM INTE
+ GRA D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-e0c1c96270ba421d@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20550626
+DTEND;VALUE=DATE:20550627
+SUMMARY:Ističe koncesija: ASPECT CROATIA KFT. - PODRUŽNICA ZAGREB
+DESCRIPTION:1 ugovor o koncesiji ističe 26. 6. 2055. Godišnja fiksna nakn
+ ada: 254 €.\n\n• ASPECT CROATIA KFT. - PODRUŽNICA ZAGREB – Dozvola 
+ za istraživanje ugljikovodika (prema Zakonu o ugljikovodicima) (SLAVONSKI
+  ŠAMAC)\, 254 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.
+ app/#opcina/41942358B56245481834825\nIzvor: Registar koncesija (FINA)\, ob
+ rada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B56245481834825
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: ASPECT CROATIA KFT. - PODRUŽNICA ZAGREB
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-e0c1c96270ba421d@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20541226
+DTEND;VALUE=DATE:20541227
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ASPECT CROATIA K
+ FT. - PODRUŽNICA ZAGREB)
+DESCRIPTION:26. 6. 2055. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• ASPECT CROATIA KFT. - PODRUŽNICA ZAGREB – Dozvola za istraživ
+ anje ugljikovodika (prema Zakonu o ugljikovodicima) (SLAVONSKI ŠAMAC)\, 2
+ 54 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/
+ 41942358B56245481834825
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B56245481834825
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ASPECT CROAT
+ IA KFT. - PODRUŽNICA ZAGREB)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

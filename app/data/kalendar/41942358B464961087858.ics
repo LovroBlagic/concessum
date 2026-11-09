@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · Općina Udbina
+X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Udbina. Iz Regis
+ tra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podat
+ aka. https://koncesijski-sat.vercel.app/#opcina/41942358B464961087858
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-2b1f2761e59cec80@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20270215
+DTEND;VALUE=DATE:20270216
+SUMMARY:Ističe koncesija: DIVEKS J.D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 15. 2. 2027. Godišnja fiksna nakn
+ ada: 147 €.\n\n• DIVEKS J.D.O.O. – Koncesija za obavljanje dimnjača
+ rskih poslova (UDBINA)\, 147 €/god.\n\nProfil općine: https://koncesijs
+ ki-sat.vercel.app/#opcina/41942358B464961087858\nIzvor: Registar koncesija
+  (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B464961087858
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: DIVEKS J.D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,178 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · Općina Funtana
+X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Funtana. Iz Regi
+ stra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade poda
+ taka. https://koncesijski-sat.vercel.app/#opcina/41942358B4044939312269
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-cf4f06b25c512267@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20311129
+DTEND;VALUE=DATE:20311130
+SUMMARY:Ističe koncesija: ODVODNJA POREČ D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 29. 11. 2031. Godišnja fiksna nak
+ nada: 207 €.\n\n• ODVODNJA POREČ D.O.O. – Koncesija na pomorskom do
+ bru (FUNTANA - FONTANE)\, 207 €/god.\n\nProfil općine: https://koncesij
+ ski-sat.vercel.app/#opcina/41942358B4044939312269\nIzvor: Registar koncesi
+ ja (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B4044939312269
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: ODVODNJA POREČ D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-cf4f06b25c512267@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20310529
+DTEND;VALUE=DATE:20310530
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ODVODNJA POREČ 
+ D.O.O.)
+DESCRIPTION:29. 11. 2031. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• ODVODNJA POREČ D.O.O. – Koncesija na pomorskom dobru (FUNTANA
+  - FONTANE)\, 207 €/god.\n\nProfil općine: https://koncesijski-sat.verc
+ el.app/#opcina/41942358B4044939312269
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B4044939312269
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ODVODNJA POR
+ EČ D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-a7caf242e3924749@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20330418
+DTEND;VALUE=DATE:20330419
+SUMMARY:Ističe 2 koncesije · Funtana
+DESCRIPTION:2 ugovora o koncesiji ističe 18. 4. 2033. Godišnja fiksna nak
+ nada: 52.175 €.\n\n• VALAMAR RIVIERA D.D. – Koncesija na pomorskom d
+ obru (FUNTANA - FONTANE)\, 47.033 €/god.\n• MAISTRA D.D. – Koncesija
+  na pomorskom dobru (FUNTANA - FONTANE)\, 5.142 €/god.\n\nProfil općine
+ : https://koncesijski-sat.vercel.app/#opcina/41942358B4044939312269\nIzvor
+ : Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B4044939312269
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 2 koncesije · Funtana
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-a7caf242e3924749@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20321018
+DTEND;VALUE=DATE:20321019
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:18. 4. 2033. ističe 2 ugovora o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• VALAMAR RIVIERA D.D. – Koncesija na pomorskom dobru (FUNTANA -
+  FONTANE)\, 47.033 €/god.\n• MAISTRA D.D. – Koncesija na pomorskom d
+ obru (FUNTANA - FONTANE)\, 5.142 €/god.\n\nProfil općine: https://konce
+ sijski-sat.vercel.app/#opcina/41942358B4044939312269
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B4044939312269
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-9393a611cb5d6086@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20331231
+DTEND;VALUE=DATE:20340101
+SUMMARY:Ističe koncesija: PLAVA LAGUNA D.D.
+DESCRIPTION:1 ugovor o koncesiji ističe 31. 12. 2033. Godišnja fiksna nak
+ nada: 56.987 €.\n\n• PLAVA LAGUNA D.D. – Koncesija na pomorskom dobr
+ u (FUNTANA - FONTANE)\, 56.987 €/god.\n\nProfil općine: https://koncesi
+ jski-sat.vercel.app/#opcina/41942358B4044939312269\nIzvor: Registar konces
+ ija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B4044939312269
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: PLAVA LAGUNA D.D.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-9393a611cb5d6086@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20330630
+DTEND;VALUE=DATE:20330701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PLAVA LAGUNA D.D
+ .)
+DESCRIPTION:31. 12. 2033. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• PLAVA LAGUNA D.D. – Koncesija na pomorskom dobru (FUNTANA - FO
+ NTANE)\, 56.987 €/god.\n\nProfil općine: https://koncesijski-sat.vercel
+ .app/#opcina/41942358B4044939312269
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B4044939312269
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PLAVA LAGUNA
+  D.D.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-fadfbd4510bef775@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20451231
+DTEND;VALUE=DATE:20460101
+SUMMARY:Ističe koncesija: RADIO CENTAR-STUDIO POREČ D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 31. 12. 2045. Godišnja fiksna nak
+ nada: 66 €.\n\n• RADIO CENTAR-STUDIO POREČ D.O.O. – Koncesija za ob
+ avljanje djelatnosti radija (FUNTANA - FONTANE\, KAŠTELIR - LABINCI - CAS
+ TELLIERE-S.DOMENICA\, POREČ - PARENZO\, SVETI LOVREČ\, TAR-VABRIGA - TOR
+ RE - ABREGA\, VIŠNJAN - VISIGNANO\, VRSAR - ORSERA)\, 66 €/god.\n\nProf
+ il općine: https://koncesijski-sat.vercel.app/#opcina/41942358B4044939312
+ 269\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026
+ .
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B4044939312269
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: RADIO CENTAR-STUDIO POREČ D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-fadfbd4510bef775@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20450630
+DTEND;VALUE=DATE:20450701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (RADIO CENTAR-STU
+ DIO POREČ D.O.O.)
+DESCRIPTION:31. 12. 2045. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• RADIO CENTAR-STUDIO POREČ D.O.O. – Koncesija za obavljanje dj
+ elatnosti radija (FUNTANA - FONTANE\, KAŠTELIR - LABINCI - CASTELLIERE-S.
+ DOMENICA\, POREČ - PARENZO\, SVETI LOVREČ\, TAR-VABRIGA - TORRE - ABREGA
+ \, VIŠNJAN - VISIGNANO\, VRSAR - ORSERA)\, 66 €/god.\n\nProfil općine:
+  https://koncesijski-sat.vercel.app/#opcina/41942358B4044939312269
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B4044939312269
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (RADIO CENTAR
+ -STUDIO POREČ D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

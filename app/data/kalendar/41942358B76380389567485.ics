@@ -1,0 +1,139 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · Općina Kaptol
+X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Kaptol. Iz Regis
+ tra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podat
+ aka. https://koncesijski-sat.vercel.app/#opcina/41942358B76380389567485
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-1cd7c0b6484e9aca@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20351231
+DTEND;VALUE=DATE:20360101
+SUMMARY:Ističe 3 koncesije · Kaptol
+DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2035. Godišnja fiksna na
+ knada: 1.158 €.\n\n• VELIČKI KAMEN D.O.O. – Koncesija za površinu 
+ utvrđenog eksploatacijskog polja neenergetskih mineralnih sirovina (KAPTO
+ L)\, 1.158 €/god.\n• VELIČKI KAMEN D.O.O. – Koncesija za eksploatac
+ iju tehničko-građevnog kamena (KAPTOL)\n• VELIČKI KAMEN D.O.O. – Ko
+ ncesija za eksploataciju tehničko-građevnog kamena (KAPTOL)\n\nProfil op
+ ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B76380389567485\
+ nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B76380389567485
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 3 koncesije · Kaptol
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-1cd7c0b6484e9aca@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20350630
+DTEND;VALUE=DATE:20350701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:31. 12. 2035. ističe 3 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• VELIČKI KAMEN D.O.O. – Koncesija za površinu utvrđenog eks
+ ploatacijskog polja neenergetskih mineralnih sirovina (KAPTOL)\, 1.158 €
+ /god.\n• VELIČKI KAMEN D.O.O. – Koncesija za eksploataciju tehničko-
+ građevnog kamena (KAPTOL)\n• VELIČKI KAMEN D.O.O. – Koncesija za eks
+ ploataciju tehničko-građevnog kamena (KAPTOL)\n\nProfil općine: https:/
+ /koncesijski-sat.vercel.app/#opcina/41942358B76380389567485
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B76380389567485
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-390005397e522520@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20360222
+DTEND;VALUE=DATE:20360223
+SUMMARY:Ističe koncesija: KUTJEVO  D.D.
+DESCRIPTION:1 ugovor o koncesiji ističe 22. 2. 2036. Godišnja fiksna nakn
+ ada: 8.627 €.\n\n• KUTJEVO  D.D. – Koncesija za korištenje poljopri
+ vrednog zemljišta u vlasništvu države (KAPTOL)\, 8.627 €/god.\n\nProf
+ il općine: https://koncesijski-sat.vercel.app/#opcina/41942358B7638038956
+ 7485\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 202
+ 6.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B76380389567485
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: KUTJEVO  D.D.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-390005397e522520@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20350822
+DTEND;VALUE=DATE:20350823
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (KUTJEVO  D.D.)
+DESCRIPTION:22. 2. 2036. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• KUTJEVO  D.D. – Koncesija za korištenje poljoprivrednog zemlji
+ šta u vlasništvu države (KAPTOL)\, 8.627 €/god.\n\nProfil općine: ht
+ tps://koncesijski-sat.vercel.app/#opcina/41942358B76380389567485
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B76380389567485
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (KUTJEVO  D.D
+ .)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-5f8c920d208efb3a@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20380612
+DTEND;VALUE=DATE:20380613
+SUMMARY:Ističe koncesija: HEP - PLIN  D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 12. 6. 2038. Godišnja fiksna nakn
+ ada: 1.327 €.\n\n• HEP - PLIN  D.O.O. – Koncesija za izgradnju distr
+ ibucijskog sustava plinovoda i pružanje usluga distribucijskim sustavom (
+ KAPTOL\, VELIKA\, VELIKA)\, 1.327 €/god.\n\nProfil općine: https://konc
+ esijski-sat.vercel.app/#opcina/41942358B76380389567485\nIzvor: Registar ko
+ ncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B76380389567485
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: HEP - PLIN  D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-5f8c920d208efb3a@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20371212
+DTEND;VALUE=DATE:20371213
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP - PLIN  D.O.
+ O.)
+DESCRIPTION:12. 6. 2038. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• HEP - PLIN  D.O.O. – Koncesija za izgradnju distribucijskog sus
+ tava plinovoda i pružanje usluga distribucijskim sustavom (KAPTOL\, VELIK
+ A\, VELIKA)\, 1.327 €/god.\n\nProfil općine: https://koncesijski-sat.ve
+ rcel.app/#opcina/41942358B76380389567485
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B76380389567485
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP - PLIN  
+ D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

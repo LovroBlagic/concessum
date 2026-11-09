@@ -1,0 +1,96 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · Općina Kalinovac
+X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Kalinovac. Iz Re
+ gistra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade po
+ dataka. https://koncesijski-sat.vercel.app/#opcina/41942358B63952753399274
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-56a104932d98b0e5@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:Ističe koncesija: INA\, D.D.
+DESCRIPTION:1 ugovor o koncesiji ističe 30. 11. 2026. Godišnja fiksna nak
+ nada: 2 €.\n\n• INA\, D.D. – Dozvola za istraživanje ugljikovodika 
+ (prema Zakonu o ugljikovodicima) (KALINOVAC)\, 2 €/god.\n\nProfil općin
+ e: https://koncesijski-sat.vercel.app/#opcina/41942358B63952753399274\nIzv
+ or: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B63952753399274
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: INA\, D.D.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-2a1d8b8aa076a76f@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20270505
+DTEND;VALUE=DATE:20270506
+SUMMARY:Ističe koncesija: DIVEKS J.D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 5. 5. 2027. Godišnja fiksna nakna
+ da: 472 €.\n\n• DIVEKS J.D.O.O. – Koncesija za obavljanje dimnjačar
+ skih poslova (KALINOVAC)\, 472 €/god.\n\nProfil općine: https://koncesi
+ jski-sat.vercel.app/#opcina/41942358B63952753399274\nIzvor: Registar konce
+ sija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B63952753399274
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: DIVEKS J.D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-da56469694711b22@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20451231
+DTEND;VALUE=DATE:20460101
+SUMMARY:Ističe 3 koncesije · Kalinovac
+DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2045. Godišnja fiksna na
+ knada: 18.241 €.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauz
+ etu površinu odobrenog eksploatacijskog polja (KALINOVAC)\, 18.241 €/go
+ d.\n• INA-INDUSTRIJA NAFTE  D.D. – Dozvola za eksploataciju ugljikovod
+ ika (prema Zakonu o ugljikovodicima) (KALINOVAC)\n• INA D.D. – Dozvola
+  za eksploataciju ugljikovodika (prema Zakonu o ugljikovodicima) (KALINOVA
+ C)\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B
+ 63952753399274\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 
+ 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B63952753399274
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 3 koncesije · Kalinovac
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-da56469694711b22@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20450630
+DTEND;VALUE=DATE:20450701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:31. 12. 2045. ističe 3 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauzetu površinu o
+ dobrenog eksploatacijskog polja (KALINOVAC)\, 18.241 €/god.\n• INA-IND
+ USTRIJA NAFTE  D.D. – Dozvola za eksploataciju ugljikovodika (prema Zako
+ nu o ugljikovodicima) (KALINOVAC)\n• INA D.D. – Dozvola za eksploataci
+ ju ugljikovodika (prema Zakonu o ugljikovodicima) (KALINOVAC)\n\nProfil op
+ ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B63952753399274
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B63952753399274
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

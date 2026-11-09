@@ -1,0 +1,60 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · Općina Pribislavec
+X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Pribislavec. Iz 
+ Registra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade 
+ podataka. https://koncesijski-sat.vercel.app/#opcina/41942358B721010546210
+ 20
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-f9cd2cfd41563749@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20271231
+DTEND;VALUE=DATE:20280101
+SUMMARY:Ističe 3 koncesije · Pribislavec
+DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2027. Godišnja fiksna na
+ knada: 2.559 €.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauze
+ tu površinu odobrenog eksploatacijskog polja (PRIBISLAVEC)\, 2.559 €/go
+ d.\n• INA-INDUSTRIJA NAFTE  D.D. – Dozvola za eksploataciju ugljikovod
+ ika (prema Zakonu o ugljikovodicima) (PRIBISLAVEC)\n• INA D.D. – Dozvo
+ la za eksploataciju ugljikovodika (prema Zakonu o ugljikovodicima) (PRIBIS
+ LAVEC)\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942
+ 358B72101054621020\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski 
+ sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B72101054621020
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 3 koncesije · Pribislavec
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-f9cd2cfd41563749@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20270630
+DTEND;VALUE=DATE:20270701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:31. 12. 2027. ističe 3 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauzetu površinu o
+ dobrenog eksploatacijskog polja (PRIBISLAVEC)\, 2.559 €/god.\n• INA-IN
+ DUSTRIJA NAFTE  D.D. – Dozvola za eksploataciju ugljikovodika (prema Zak
+ onu o ugljikovodicima) (PRIBISLAVEC)\n• INA D.D. – Dozvola za eksploat
+ aciju ugljikovodika (prema Zakonu o ugljikovodicima) (PRIBISLAVEC)\n\nProf
+ il općine: https://koncesijski-sat.vercel.app/#opcina/41942358B7210105462
+ 1020
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B72101054621020
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

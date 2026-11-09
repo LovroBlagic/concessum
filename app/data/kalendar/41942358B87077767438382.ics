@@ -1,0 +1,137 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · Općina Štefanje
+X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Štefanje. Iz Re
+ gistra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade po
+ dataka. https://koncesijski-sat.vercel.app/#opcina/41942358B87077767438382
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-baad20a762b7dffa@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20271113
+DTEND;VALUE=DATE:20271114
+SUMMARY:Ističe koncesija: ASPECT CROATIA KFT.
+DESCRIPTION:1 ugovor o koncesiji ističe 13. 11. 2027. Godišnja fiksna nak
+ nada: 2.916 €.\n\n• ASPECT CROATIA KFT. – Dozvola za istraživanje u
+ gljikovodika (prema Zakonu o ugljikovodicima) (ŠTEFANJE)\, 2.916 €/god.
+ \n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B87
+ 077767438382\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9.
+  11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B87077767438382
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: ASPECT CROATIA KFT.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-baad20a762b7dffa@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20270513
+DTEND;VALUE=DATE:20270514
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ASPECT CROATIA K
+ FT.)
+DESCRIPTION:13. 11. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• ASPECT CROATIA KFT. – Dozvola za istraživanje ugljikovodika (
+ prema Zakonu o ugljikovodicima) (ŠTEFANJE)\, 2.916 €/god.\n\nProfil op
+ ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B87077767438382
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B87077767438382
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ASPECT CROAT
+ IA KFT.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-cfafa6165fab70de@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20320630
+DTEND;VALUE=DATE:20320701
+SUMMARY:Ističe koncesija: EKO-FLOR PLUS D.O.O.-PODRAČUN-INVESTICIJE
+DESCRIPTION:1 ugovor o koncesiji ističe 30. 6. 2032. Godišnja fiksna nakn
+ ada: 2.920 €.\n\n• EKO-FLOR PLUS D.O.O.-PODRAČUN-INVESTICIJE – Konc
+ esija skupljanja i odvoza komunalnog otpada (ŠTEFANJE)\, 2.920 €/god.\n
+ \nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B8707
+ 7767438382\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 1
+ 1. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B87077767438382
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: EKO-FLOR PLUS D.O.O.-PODRAČUN-INVESTICIJE
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-cfafa6165fab70de@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20311230
+DTEND;VALUE=DATE:20311231
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (EKO-FLOR PLUS D.
+ O.O.-PODRAČUN-INVESTICIJE)
+DESCRIPTION:30. 6. 2032. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• EKO-FLOR PLUS D.O.O.-PODRAČUN-INVESTICIJE – Koncesija skupljan
+ ja i odvoza komunalnog otpada (ŠTEFANJE)\, 2.920 €/god.\n\nProfil opći
+ ne: https://koncesijski-sat.vercel.app/#opcina/41942358B87077767438382
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B87077767438382
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (EKO-FLOR PLU
+ S D.O.O.-PODRAČUN-INVESTICIJE)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-5c902a27e3793501@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20550626
+DTEND;VALUE=DATE:20550627
+SUMMARY:Ističe koncesija: ASPECT CROATIA KFT. - PODRUŽNICA ZAGREB
+DESCRIPTION:1 ugovor o koncesiji ističe 26. 6. 2055. Godišnja fiksna nakn
+ ada: 684 €.\n\n• ASPECT CROATIA KFT. - PODRUŽNICA ZAGREB – Dozvola 
+ za istraživanje ugljikovodika (prema Zakonu o ugljikovodicima) (ŠTEFANJE
+ )\, 684 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#op
+ cina/41942358B87077767438382\nIzvor: Registar koncesija (FINA)\, obrada Ko
+ ncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B87077767438382
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: ASPECT CROATIA KFT. - PODRUŽNICA ZAGREB
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-5c902a27e3793501@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20541226
+DTEND;VALUE=DATE:20541227
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ASPECT CROATIA K
+ FT. - PODRUŽNICA ZAGREB)
+DESCRIPTION:26. 6. 2055. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• ASPECT CROATIA KFT. - PODRUŽNICA ZAGREB – Dozvola za istraživ
+ anje ugljikovodika (prema Zakonu o ugljikovodicima) (ŠTEFANJE)\, 684 €/
+ god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4194235
+ 8B87077767438382
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B87077767438382
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ASPECT CROAT
+ IA KFT. - PODRUŽNICA ZAGREB)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

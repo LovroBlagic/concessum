@@ -1,0 +1,227 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · Općina Okućani
+X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Okućani. Iz Reg
+ istra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade pod
+ ataka. https://koncesijski-sat.vercel.app/#opcina/41942358B63893464410920
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-4c4cd3d85ff2ad11@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20271005
+DTEND;VALUE=DATE:20271006
+SUMMARY:Ističe koncesija: RADIO BLJESAK D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 5. 10. 2027. Godišnja fiksna nakn
+ ada: 66 €.\n\n• RADIO BLJESAK D.O.O. – Koncesija za obavljanje djela
+ tnosti radija (OKUČANI)\, 66 €/god.\n\nProfil općine: https://koncesij
+ ski-sat.vercel.app/#opcina/41942358B63893464410920\nIzvor: Registar konces
+ ija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B63893464410920
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: RADIO BLJESAK D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-4c4cd3d85ff2ad11@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20270405
+DTEND;VALUE=DATE:20270406
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (RADIO BLJESAK D.
+ O.O.)
+DESCRIPTION:5. 10. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• RADIO BLJESAK D.O.O. – Koncesija za obavljanje djelatnosti radi
+ ja (OKUČANI)\, 66 €/god.\n\nProfil općine: https://koncesijski-sat.ver
+ cel.app/#opcina/41942358B63893464410920
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B63893464410920
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (RADIO BLJESA
+ K D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-2cb6568c4775b088@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20311024
+DTEND;VALUE=DATE:20311025
+SUMMARY:Ističe koncesija: DIMNJAČARSKI SERVIS J.D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 24. 10. 2031. Godišnja fiksna nak
+ nada: 730 €.\n\n• DIMNJAČARSKI SERVIS J.D.O.O. – Koncesija za obavl
+ janje dimnjačarskih poslova (OKUČANI)\, 730 €/god.\n\nProfil općine: 
+ https://koncesijski-sat.vercel.app/#opcina/41942358B63893464410920\nIzvor:
+  Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B63893464410920
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: DIMNJAČARSKI SERVIS J.D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-2cb6568c4775b088@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20310424
+DTEND;VALUE=DATE:20310425
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DIMNJAČARSKI SE
+ RVIS J.D.O.O.)
+DESCRIPTION:24. 10. 2031. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• DIMNJAČARSKI SERVIS J.D.O.O. – Koncesija za obavljanje dimnja
+ čarskih poslova (OKUČANI)\, 730 €/god.\n\nProfil općine: https://konc
+ esijski-sat.vercel.app/#opcina/41942358B63893464410920
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B63893464410920
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DIMNJAČARSK
+ I SERVIS J.D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-3dc021155569b443@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20321231
+DTEND;VALUE=DATE:20330101
+SUMMARY:Ističe 3 koncesije · Okućani
+DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2032. Godišnja fiksna na
+ knada: 2.624 €.\n\n• HRVATSKE ŠUME D.O.O. – Koncesija za površinu 
+ utvrđenog eksploatacijskog polja neenergetskih mineralnih sirovina (OKUČ
+ ANI)\, 1.312 €/god.\n• HRVATSKE ŠUME D.O.O. – Koncesija za eksploat
+ aciju tehničko-građevnog kamena (OKUČANI)\, 1.312 €/god.\n• HRVATSK
+ E ŠUME D.O.O. – Koncesija za eksploataciju tehničko-građevnog kamena 
+ (OKUČANI)\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4
+ 1942358B63893464410920\nIzvor: Registar koncesija (FINA)\, obrada Koncesij
+ ski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B63893464410920
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 3 koncesije · Okućani
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-3dc021155569b443@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20320630
+DTEND;VALUE=DATE:20320701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:31. 12. 2032. ističe 3 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• HRVATSKE ŠUME D.O.O. – Koncesija za površinu utvrđenog eks
+ ploatacijskog polja neenergetskih mineralnih sirovina (OKUČANI)\, 1.312 
+ €/god.\n• HRVATSKE ŠUME D.O.O. – Koncesija za eksploataciju tehnič
+ ko-građevnog kamena (OKUČANI)\, 1.312 €/god.\n• HRVATSKE ŠUME D.O.O
+ . – Koncesija za eksploataciju tehničko-građevnog kamena (OKUČANI)\n\
+ nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B63893
+ 464410920
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B63893464410920
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-ccfc7d503da023f1@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20381231
+DTEND;VALUE=DATE:20390101
+SUMMARY:Ističe 3 koncesije · Okućani
+DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2038. Godišnja fiksna na
+ knada: 10.288 €.\n\n• KAMEN-PSUNJ D.O.O. – Koncesija za eksploatacij
+ u tehničko-građevnog kamena (OKUČANI)\, 5.144 €/god.\n• KAMEN-PSUNJ
+  D.O.O. – Koncesija za površinu utvrđenog eksploatacijskog polja neene
+ rgetskih mineralnih sirovina (OKUČANI)\, 5.144 €/god.\n• KAMEN - PSUN
+ J D. O. O. – Koncesija za eksploataciju tehničko-građevnog kamena (OKU
+ ČANI)\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942
+ 358B63893464410920\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski 
+ sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B63893464410920
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 3 koncesije · Okućani
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-ccfc7d503da023f1@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20380630
+DTEND;VALUE=DATE:20380701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:31. 12. 2038. ističe 3 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• KAMEN-PSUNJ D.O.O. – Koncesija za eksploataciju tehničko-gra
+ đevnog kamena (OKUČANI)\, 5.144 €/god.\n• KAMEN-PSUNJ D.O.O. – Kon
+ cesija za površinu utvrđenog eksploatacijskog polja neenergetskih minera
+ lnih sirovina (OKUČANI)\, 5.144 €/god.\n• KAMEN - PSUNJ D. O. O. – 
+ Koncesija za eksploataciju tehničko-građevnog kamena (OKUČANI)\n\nProfi
+ l općine: https://koncesijski-sat.vercel.app/#opcina/41942358B63893464410
+ 920
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B63893464410920
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-22b74fbbe9af0933@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20550626
+DTEND;VALUE=DATE:20550627
+SUMMARY:Ističe koncesija: ASPECT CROATIA KFT. - PODRUŽNICA ZAGREB
+DESCRIPTION:1 ugovor o koncesiji ističe 26. 6. 2055. Godišnja fiksna nakn
+ ada: 7.194 €.\n\n• ASPECT CROATIA KFT. - PODRUŽNICA ZAGREB – Dozvol
+ a za istraživanje ugljikovodika (prema Zakonu o ugljikovodicima) (OKUČAN
+ I)\, 7.194 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/
+ #opcina/41942358B63893464410920\nIzvor: Registar koncesija (FINA)\, obrada
+  Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B63893464410920
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: ASPECT CROATIA KFT. - PODRUŽNICA ZAGREB
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-22b74fbbe9af0933@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20541226
+DTEND;VALUE=DATE:20541227
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ASPECT CROATIA K
+ FT. - PODRUŽNICA ZAGREB)
+DESCRIPTION:26. 6. 2055. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• ASPECT CROATIA KFT. - PODRUŽNICA ZAGREB – Dozvola za istraživ
+ anje ugljikovodika (prema Zakonu o ugljikovodicima) (OKUČANI)\, 7.194 €
+ /god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419423
+ 58B63893464410920
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B63893464410920
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ASPECT CROAT
+ IA KFT. - PODRUŽNICA ZAGREB)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

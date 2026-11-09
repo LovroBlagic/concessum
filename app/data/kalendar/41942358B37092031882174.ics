@@ -1,0 +1,95 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · Općina Donja Voća
+X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Donja Voća. Iz 
+ Registra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade 
+ podataka. https://koncesijski-sat.vercel.app/#opcina/41942358B370920318821
+ 74
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-e830bb3ec04ec4a9@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20270609
+DTEND;VALUE=DATE:20270610
+SUMMARY:Ističe koncesija: CAMINUS J.D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 9. 6. 2027. Godišnja fiksna nakna
+ da: 531 €.\n\n• CAMINUS J.D.O.O. – Koncesija za obavljanje dimnjača
+ rskih poslova (DONJA VOĆA)\, 531 €/god.\n\nProfil općine: https://konc
+ esijski-sat.vercel.app/#opcina/41942358B37092031882174\nIzvor: Registar ko
+ ncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B37092031882174
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: CAMINUS J.D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-e830bb3ec04ec4a9@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (CAMINUS J.D.O.O.
+ )
+DESCRIPTION:9. 6. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodjele
+  treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
+ \n\n• CAMINUS J.D.O.O. – Koncesija za obavljanje dimnjačarskih poslov
+ a (DONJA VOĆA)\, 531 €/god.\n\nProfil općine: https://koncesijski-sat.
+ vercel.app/#opcina/41942358B37092031882174
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B37092031882174
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (CAMINUS J.D.
+ O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-d4c723a7c471d2a3@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20390921
+DTEND;VALUE=DATE:20390922
+SUMMARY:Ističe koncesija: IVKOM PLIN D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 21. 9. 2039.\n\n• IVKOM PLIN D.O
+ .O. – Koncesija za izgradnju distribucijskog sustava plinovoda i pružan
+ je usluga distribucijskim sustavom (DONJA VOĆA)\n\nProfil općine: https:
+ //koncesijski-sat.vercel.app/#opcina/41942358B37092031882174\nIzvor: Regis
+ tar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B37092031882174
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: IVKOM PLIN D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-d4c723a7c471d2a3@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20390321
+DTEND;VALUE=DATE:20390322
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (IVKOM PLIN D.O.O
+ .)
+DESCRIPTION:21. 9. 2039. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• IVKOM PLIN D.O.O. – Koncesija za izgradnju distribucijskog sust
+ ava plinovoda i pružanje usluga distribucijskim sustavom (DONJA VOĆA)\n\
+ nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B37092
+ 031882174
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B37092031882174
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (IVKOM PLIN D
+ .O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,100 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · Općina Nedelišće
+X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Nedelišće. Iz 
+ Registra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade 
+ podataka. https://koncesijski-sat.vercel.app/#opcina/41942358B979019517417
+ 8
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-e61541f60417c40c@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20280930
+DTEND;VALUE=DATE:20281001
+SUMMARY:Ističe koncesija: ROBERT ZVER\, DIMOS\,OBRT
+DESCRIPTION:1 ugovor o koncesiji ističe 30. 9. 2028.\n\n• ROBERT ZVER\, 
+ DIMOS\,OBRT – Koncesija za obavljanje dimnjačarskih poslova (NEDELIŠĆ
+ E)\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B
+ 9790195174178\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9
+ . 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B9790195174178
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: ROBERT ZVER\, DIMOS\,OBRT
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-e61541f60417c40c@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20280330
+DTEND;VALUE=DATE:20280331
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ROBERT ZVER\, DI
+ MOS\,OBRT)
+DESCRIPTION:30. 9. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• ROBERT ZVER\, DIMOS\,OBRT – Koncesija za obavljanje dimnjačars
+ kih poslova (NEDELIŠĆE)\n\nProfil općine: https://koncesijski-sat.verce
+ l.app/#opcina/41942358B9790195174178
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B9790195174178
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ROBERT ZVER\
+ , DIMOS\,OBRT)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-174ca8f66a53d740@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20351231
+DTEND;VALUE=DATE:20360101
+SUMMARY:Ističe 3 koncesije · Nedelišće
+DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2035. Godišnja fiksna na
+ knada: 1.532 €.\n\n• MEĐIMURJE TEGRA D.D. – Koncesija za eksploatac
+ iju građevnog pijeska i šljunka (NEDELIŠĆE)\, 766 €/god.\n• MEĐIM
+ URJE TEGRA D.D. – Koncesija za površinu utvrđenog eksploatacijskog pol
+ ja neenergetskih mineralnih sirovina (NEDELIŠĆE)\, 766 €/god.\n• ME
+ ĐIMURJE TEGRA D.D. – Koncesija za eksploataciju građevnog pijeska i š
+ ljunka (NEDELIŠĆE)\n\nProfil općine: https://koncesijski-sat.vercel.app
+ /#opcina/41942358B9790195174178\nIzvor: Registar koncesija (FINA)\, obrada
+  Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B9790195174178
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 3 koncesije · Nedelišće
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-174ca8f66a53d740@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20350630
+DTEND;VALUE=DATE:20350701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:31. 12. 2035. ističe 3 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• MEĐIMURJE TEGRA D.D. – Koncesija za eksploataciju građevnog
+  pijeska i šljunka (NEDELIŠĆE)\, 766 €/god.\n• MEĐIMURJE TEGRA D.D
+ . – Koncesija za površinu utvrđenog eksploatacijskog polja neenergetsk
+ ih mineralnih sirovina (NEDELIŠĆE)\, 766 €/god.\n• MEĐIMURJE TEGRA 
+ D.D. – Koncesija za eksploataciju građevnog pijeska i šljunka (NEDELI
+ ŠĆE)\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942
+ 358B9790195174178
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B9790195174178
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

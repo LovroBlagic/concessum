@@ -1,0 +1,76 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · Općina Sveti Križ Začretje
+X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Sveti Križ Zač
+ retje. Iz Registra koncesija (FINA\, data.gov.hr). Osvježava se nakon sva
+ ke obrade podataka. https://koncesijski-sat.vercel.app/#opcina/41942358B93
+ 187405092894
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-f20486524ebcdd73@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:Ističe koncesija: EKO-FLOR PLUS D.O.O. ZA KOMUNALNE USLUGE I TRGOV
+ INU
+DESCRIPTION:1 ugovor o koncesiji ističe 31. 1. 2027. Godišnja fiksna nakn
+ ada: 6.702 €.\n\n• EKO-FLOR PLUS D.O.O. ZA KOMUNALNE USLUGE I TRGOVINU
+  – Koncesija skupljanja i odvoza komunalnog otpada (SVETI KRIŽ ZAČRETJ
+ E)\, 6.702 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/
+ #opcina/41942358B93187405092894\nIzvor: Registar koncesija (FINA)\, obrada
+  Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B93187405092894
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: EKO-FLOR PLUS D.O.O. ZA KOMUNALNE USLUGE I T
+ RGOVINU
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-bf6371394ebc5eb8@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20300701
+DTEND;VALUE=DATE:20300702
+SUMMARY:Ističe koncesija: LEUŠTEK J.D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 1. 7. 2030. Godišnja fiksna nakna
+ da: 2.200 €.\n\n• LEUŠTEK J.D.O.O. – Koncesija za obavljanje dimnja
+ čarskih poslova (SVETI KRIŽ ZAČRETJE)\, 2.200 €/god.\n\nProfil općin
+ e: https://koncesijski-sat.vercel.app/#opcina/41942358B93187405092894\nIzv
+ or: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B93187405092894
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: LEUŠTEK J.D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-bf6371394ebc5eb8@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20300101
+DTEND;VALUE=DATE:20300102
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (LEUŠTEK J.D.O.O
+ .)
+DESCRIPTION:1. 7. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodjele
+  treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
+ \n\n• LEUŠTEK J.D.O.O. – Koncesija za obavljanje dimnjačarskih poslo
+ va (SVETI KRIŽ ZAČRETJE)\, 2.200 €/god.\n\nProfil općine: https://kon
+ cesijski-sat.vercel.app/#opcina/41942358B93187405092894
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B93187405092894
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (LEUŠTEK J.D
+ .O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,178 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · Općina Šenkovec
+X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Šenkovec. Iz Re
+ gistra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade po
+ dataka. https://koncesijski-sat.vercel.app/#opcina/41942358B15837732806851
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-c076fdc285e71d95@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20271016
+DTEND;VALUE=DATE:20271017
+SUMMARY:Ističe koncesija: RIBNJACI D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 16. 10. 2027. Godišnja fiksna nak
+ nada: 398 €.\n\n• RIBNJACI D.O.O. – Koncesija za korištenje voda za
+  uzgoj riba u zatvorenim vodama (ŠENKOVEC)\, 398 €/god.\n\nProfil opći
+ ne: https://koncesijski-sat.vercel.app/#opcina/41942358B15837732806851\nIz
+ vor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B15837732806851
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: RIBNJACI D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-c076fdc285e71d95@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20270416
+DTEND;VALUE=DATE:20270417
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (RIBNJACI D.O.O.)
+DESCRIPTION:16. 10. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• RIBNJACI D.O.O. – Koncesija za korištenje voda za uzgoj riba 
+ u zatvorenim vodama (ŠENKOVEC)\, 398 €/god.\n\nProfil općine: https://
+ koncesijski-sat.vercel.app/#opcina/41942358B15837732806851
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B15837732806851
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (RIBNJACI D.O
+ .O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-0d510a20c7f32815@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20271231
+DTEND;VALUE=DATE:20280101
+SUMMARY:Ističe 2 koncesije · Šenkovec
+DESCRIPTION:2 ugovora o koncesiji ističe 31. 12. 2027. Godišnja fiksna na
+ knada: 42 €.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Dozvola za eksploatac
+ iju ugljikovodika (prema Zakonu o ugljikovodicima) (ŠENKOVEC)\, 21 €/go
+ d.\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauzetu površinu odob
+ renog eksploatacijskog polja (ŠENKOVEC)\, 21 €/god.\n\nProfil općine: 
+ https://koncesijski-sat.vercel.app/#opcina/41942358B15837732806851\nIzvor:
+  Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B15837732806851
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 2 koncesije · Šenkovec
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-0d510a20c7f32815@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20270630
+DTEND;VALUE=DATE:20270701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:31. 12. 2027. ističe 2 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Dozvola za eksploataciju ugljiko
+ vodika (prema Zakonu o ugljikovodicima) (ŠENKOVEC)\, 21 €/god.\n• INA
+ -INDUSTRIJA NAFTE  D.D. – Koncesija za zauzetu površinu odobrenog ekspl
+ oatacijskog polja (ŠENKOVEC)\, 21 €/god.\n\nProfil općine: https://kon
+ cesijski-sat.vercel.app/#opcina/41942358B15837732806851
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B15837732806851
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-84621243e956e8f5@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20320725
+DTEND;VALUE=DATE:20320726
+SUMMARY:Ističe koncesija: DIMNJAČAR RADOVAN ZVER D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 25. 7. 2032. Godišnja fiksna nakn
+ ada: 2.535 €.\n\n• DIMNJAČAR RADOVAN ZVER D.O.O. – Koncesija za oba
+ vljanje dimnjačarskih poslova (ŠENKOVEC)\, 2.535 €/god.\n\nProfil opć
+ ine: https://koncesijski-sat.vercel.app/#opcina/41942358B15837732806851\nI
+ zvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B15837732806851
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: DIMNJAČAR RADOVAN ZVER D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-84621243e956e8f5@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20320125
+DTEND;VALUE=DATE:20320126
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DIMNJAČAR RADOV
+ AN ZVER D.O.O.)
+DESCRIPTION:25. 7. 2032. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• DIMNJAČAR RADOVAN ZVER D.O.O. – Koncesija za obavljanje dimnja
+ čarskih poslova (ŠENKOVEC)\, 2.535 €/god.\n\nProfil općine: https://k
+ oncesijski-sat.vercel.app/#opcina/41942358B15837732806851
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B15837732806851
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DIMNJAČAR R
+ ADOVAN ZVER D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-a7fb98b69c6b8883@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20341231
+DTEND;VALUE=DATE:20350101
+SUMMARY:Ističe 3 koncesije · Šenkovec
+DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2034. Godišnja fiksna na
+ knada: 7.568 €.\n\n• EKO MEĐIMURJE D.D. – Koncesija za površinu ut
+ vrđenog eksploatacijskog polja neenergetskih mineralnih sirovina (ŠENKOV
+ EC)\, 3.784 €/god.\n• EKO MEĐIMURJE D.D. – Koncesija za eksploataci
+ ju ciglarske gline (ŠENKOVEC)\, 3.784 €/god.\n• EKO MEĐIMURJE D.D. 
+ – Koncesija za eksploataciju ciglarske gline (ŠENKOVEC)\n\nProfil opći
+ ne: https://koncesijski-sat.vercel.app/#opcina/41942358B15837732806851\nIz
+ vor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B15837732806851
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 3 koncesije · Šenkovec
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-a7fb98b69c6b8883@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20340630
+DTEND;VALUE=DATE:20340701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:31. 12. 2034. ističe 3 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• EKO MEĐIMURJE D.D. – Koncesija za površinu utvrđenog ekspl
+ oatacijskog polja neenergetskih mineralnih sirovina (ŠENKOVEC)\, 3.784 
+ €/god.\n• EKO MEĐIMURJE D.D. – Koncesija za eksploataciju ciglarske
+  gline (ŠENKOVEC)\, 3.784 €/god.\n• EKO MEĐIMURJE D.D. – Koncesija
+  za eksploataciju ciglarske gline (ŠENKOVEC)\n\nProfil općine: https://k
+ oncesijski-sat.vercel.app/#opcina/41942358B15837732806851
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B15837732806851
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

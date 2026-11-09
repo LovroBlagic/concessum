@@ -1,0 +1,92 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · Općina Vidovec
+X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Vidovec. Iz Regi
+ stra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade poda
+ taka. https://koncesijski-sat.vercel.app/#opcina/41942358B68698174579367
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-292545018a5a1d38@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20301015
+DTEND;VALUE=DATE:20301016
+SUMMARY:Ističe koncesija: DIMAX D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 15. 10. 2030. Godišnja fiksna nak
+ nada: 1.008 €.\n\n• DIMAX D.O.O. – Koncesija za obavljanje komunalni
+ h djelatnosti (VIDOVEC)\, 1.008 €/god.\n\nProfil općine: https://konces
+ ijski-sat.vercel.app/#opcina/41942358B68698174579367\nIzvor: Registar konc
+ esija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B68698174579367
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: DIMAX D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-292545018a5a1d38@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20300415
+DTEND;VALUE=DATE:20300416
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DIMAX D.O.O.)
+DESCRIPTION:15. 10. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• DIMAX D.O.O. – Koncesija za obavljanje komunalnih djelatnosti 
+ (VIDOVEC)\, 1.008 €/god.\n\nProfil općine: https://koncesijski-sat.verc
+ el.app/#opcina/41942358B68698174579367
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B68698174579367
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DIMAX D.O.O.
+ )
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-57061b620417cb32@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20330331
+DTEND;VALUE=DATE:20330401
+SUMMARY:Ističe koncesija: BERNARDA NOVA D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 31. 3. 2033. Godišnja fiksna nakn
+ ada: 1.725 €.\n\n• BERNARDA NOVA D.O.O. – Koncesija za crpljenje min
+ eralnih i termalnih voda (VIDOVEC)\, 1.725 €/god.\n\nProfil općine: htt
+ ps://koncesijski-sat.vercel.app/#opcina/41942358B68698174579367\nIzvor: Re
+ gistar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B68698174579367
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: BERNARDA NOVA D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-57061b620417cb32@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20320930
+DTEND;VALUE=DATE:20321001
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BERNARDA NOVA D.
+ O.O.)
+DESCRIPTION:31. 3. 2033. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• BERNARDA NOVA D.O.O. – Koncesija za crpljenje mineralnih i term
+ alnih voda (VIDOVEC)\, 1.725 €/god.\n\nProfil općine: https://koncesijs
+ ki-sat.vercel.app/#opcina/41942358B68698174579367
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B68698174579367
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BERNARDA NOV
+ A D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

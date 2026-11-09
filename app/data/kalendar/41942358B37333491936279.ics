@@ -1,0 +1,681 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · Grad Omiš
+X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Grad Omiš. Iz Registra 
+ koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podataka.
+  https://koncesijski-sat.vercel.app/#opcina/41942358B37333491936279
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-9dd0594249924648@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:Ističe koncesija: OMIŠ SUB\, OBRT ZA USLUGE\, VL. JAKOV KAŠTELAN
+DESCRIPTION:1 ugovor o koncesiji ističe 31. 12. 2026. Godišnja fiksna nak
+ nada: 700 €.\n\n• OMIŠ SUB\, OBRT ZA USLUGE\, VL. JAKOV KAŠTELAN –
+  Koncesija za luku (OMIŠ)\, 700 €/god.\n\nProfil općine: https://konce
+ sijski-sat.vercel.app/#opcina/41942358B37333491936279\nIzvor: Registar kon
+ cesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B37333491936279
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: OMIŠ SUB\, OBRT ZA USLUGE\, VL. JAKOV KAŠT
+ ELAN
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-7e9d57d7b5200b70@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20270531
+DTEND;VALUE=DATE:20270601
+SUMMARY:Ističe 3 koncesije · Omiš
+DESCRIPTION:3 ugovora o koncesiji ističe 31. 5. 2027. Godišnja fiksna nak
+ nada: 2.500 €.\n\n• ŠVOJA\, OBRT ZA MORSKI RIBOLOV I PODVODNE GRAĐEV
+ INSKE RADOVE\, VL. DEAN GINOSKI – Koncesija za luku (OMIŠ)\, 1.000 €/
+ god.\n• PEOVICA D.O.O. – Koncesija za luku (OMIŠ)\, 1.000 €/god.\n
+ • SUB-MERUS D.O.O. – Koncesija za luku (OMIŠ)\, 500 €/god.\n\nProfi
+ l općine: https://koncesijski-sat.vercel.app/#opcina/41942358B37333491936
+ 279\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026
+ .
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B37333491936279
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 3 koncesije · Omiš
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-7e9d57d7b5200b70@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:31. 5. 2027. ističe 3 ugovora o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• ŠVOJA\, OBRT ZA MORSKI RIBOLOV I PODVODNE GRAĐEVINSKE RADOVE\,
+  VL. DEAN GINOSKI – Koncesija za luku (OMIŠ)\, 1.000 €/god.\n• PEOV
+ ICA D.O.O. – Koncesija za luku (OMIŠ)\, 1.000 €/god.\n• SUB-MERUS D
+ .O.O. – Koncesija za luku (OMIŠ)\, 500 €/god.\n\nProfil općine: http
+ s://koncesijski-sat.vercel.app/#opcina/41942358B37333491936279
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B37333491936279
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-1b430643925bc2de@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20290402
+DTEND;VALUE=DATE:20290403
+SUMMARY:Ističe koncesija: PEDALINA D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 2. 4. 2029. Godišnja fiksna nakna
+ da: 15.093 €.\n\n• PEDALINA D.O.O. – Koncesija na pomorskom dobru (O
+ MIŠ)\, 15.093 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.
+ app/#opcina/41942358B37333491936279\nIzvor: Registar koncesija (FINA)\, ob
+ rada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B37333491936279
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: PEDALINA D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-1b430643925bc2de@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20281002
+DTEND;VALUE=DATE:20281003
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PEDALINA D.O.O.)
+DESCRIPTION:2. 4. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjele
+  treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
+ \n\n• PEDALINA D.O.O. – Koncesija na pomorskom dobru (OMIŠ)\, 15.093 
+ €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
+ 42358B37333491936279
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B37333491936279
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PEDALINA D.O
+ .O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-bf2c52c694e9ba06@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20340513
+DTEND;VALUE=DATE:20340514
+SUMMARY:Ističe 2 koncesije · Omiš
+DESCRIPTION:2 ugovora o koncesiji ističe 13. 5. 2034. Godišnja fiksna nak
+ nada: 51.000 €.\n\n• DAL MARE\, OBRT ZA UGOSTITELJSTVO I TURIZAM\, VL.
+  VLADIMIR KEKEZ – Koncesija na pomorskom dobru (OMIŠ)\, 49.000 €/god.
+ \n• SPORTSKO NAUTIČKO RIBOLOVNO DRUŠTVO OMIŠ – Koncesija na pomorsk
+ om dobru (OMIŠ)\, 2.000 €/god.\n\nProfil općine: https://koncesijski-s
+ at.vercel.app/#opcina/41942358B37333491936279\nIzvor: Registar koncesija (
+ FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B37333491936279
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 2 koncesije · Omiš
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-bf2c52c694e9ba06@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20331113
+DTEND;VALUE=DATE:20331114
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:13. 5. 2034. ističe 2 ugovora o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• DAL MARE\, OBRT ZA UGOSTITELJSTVO I TURIZAM\, VL. VLADIMIR KEKEZ
+  – Koncesija na pomorskom dobru (OMIŠ)\, 49.000 €/god.\n• SPORTSKO 
+ NAUTIČKO RIBOLOVNO DRUŠTVO OMIŠ – Koncesija na pomorskom dobru (OMIŠ
+ )\, 2.000 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#
+ opcina/41942358B37333491936279
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B37333491936279
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-7e2f77dc848bc3fa@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20350626
+DTEND;VALUE=DATE:20350627
+SUMMARY:Ističe koncesija: ADRIA CRUISES D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 26. 6. 2035. Godišnja fiksna nakn
+ ada: 33.500 €.\n\n• ADRIA CRUISES D.O.O. – Koncesija na pomorskom do
+ bru (OMIŠ)\, 33.500 €/god.\n\nProfil općine: https://koncesijski-sat.v
+ ercel.app/#opcina/41942358B37333491936279\nIzvor: Registar koncesija (FINA
+ )\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B37333491936279
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: ADRIA CRUISES D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-7e2f77dc848bc3fa@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20341226
+DTEND;VALUE=DATE:20341227
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ADRIA CRUISES D.
+ O.O.)
+DESCRIPTION:26. 6. 2035. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• ADRIA CRUISES D.O.O. – Koncesija na pomorskom dobru (OMIŠ)\, 3
+ 3.500 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opci
+ na/41942358B37333491936279
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B37333491936279
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ADRIA CRUISE
+ S D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-8955f7078c862977@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20351231
+DTEND;VALUE=DATE:20360101
+SUMMARY:Ističe 3 koncesije · Omiš
+DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2035. Godišnja fiksna na
+ knada: 328 €.\n\n• IGRIŠĆE D.O.O. – Koncesija za površinu utvrđe
+ nog eksploatacijskog polja neenergetskih mineralnih sirovina (OMIŠ)\, 328
+  €/god.\n• IGRIŠĆE D.O.O. – Koncesija za eksploataciju arhitektons
+ ko-građevnog kamena (OMIŠ)\n• IGRIŠĆE D.O.O. – Koncesija za eksplo
+ ataciju arhitektonsko-građevnog kamena (OMIŠ)\n\nProfil općine: https:/
+ /koncesijski-sat.vercel.app/#opcina/41942358B37333491936279\nIzvor: Regist
+ ar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B37333491936279
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 3 koncesije · Omiš
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-8955f7078c862977@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20350630
+DTEND;VALUE=DATE:20350701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:31. 12. 2035. ističe 3 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• IGRIŠĆE D.O.O. – Koncesija za površinu utvrđenog eksploat
+ acijskog polja neenergetskih mineralnih sirovina (OMIŠ)\, 328 €/god.\n
+ • IGRIŠĆE D.O.O. – Koncesija za eksploataciju arhitektonsko-građevn
+ og kamena (OMIŠ)\n• IGRIŠĆE D.O.O. – Koncesija za eksploataciju arh
+ itektonsko-građevnog kamena (OMIŠ)\n\nProfil općine: https://koncesijsk
+ i-sat.vercel.app/#opcina/41942358B37333491936279
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B37333491936279
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-c7696953e2b56f3a@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20381231
+DTEND;VALUE=DATE:20390101
+SUMMARY:Ističe 3 koncesije · Omiš
+DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2038. Godišnja fiksna na
+ knada: 5.478 €.\n\n• DAJAKOVIĆ D.O.O. – Koncesija za eksploataciju 
+ tehničko-građevnog kamena (OMIŠ)\, 1.826 €/god.\n• DAJAKOVIĆ D.O.O
+ . – Koncesija za eksploataciju tehničko-građevnog kamena (OMIŠ)\, 1.8
+ 26 €/god.\n• DAJAKOVIĆ D.O.O. – Koncesija za površinu utvrđenog e
+ ksploatacijskog polja neenergetskih mineralnih sirovina (OMIŠ)\, 1.826 
+ €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
+ 42358B37333491936279\nIzvor: Registar koncesija (FINA)\, obrada Koncesijsk
+ i sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B37333491936279
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 3 koncesije · Omiš
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-c7696953e2b56f3a@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20380630
+DTEND;VALUE=DATE:20380701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:31. 12. 2038. ističe 3 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• DAJAKOVIĆ D.O.O. – Koncesija za eksploataciju tehničko-gra
+ đevnog kamena (OMIŠ)\, 1.826 €/god.\n• DAJAKOVIĆ D.O.O. – Koncesi
+ ja za eksploataciju tehničko-građevnog kamena (OMIŠ)\, 1.826 €/god.\n
+ • DAJAKOVIĆ D.O.O. – Koncesija za površinu utvrđenog eksploatacijsk
+ og polja neenergetskih mineralnih sirovina (OMIŠ)\, 1.826 €/god.\n\nPro
+ fil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B373334919
+ 36279
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B37333491936279
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-65dcc07140385e0e@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20430903
+DTEND;VALUE=DATE:20430904
+SUMMARY:Ističe koncesija: TURISTIČKI CVIJET D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 3. 9. 2043. Godišnja fiksna nakna
+ da: 43.000 €.\n\n• TURISTIČKI CVIJET D.O.O. – Koncesija na pomorsko
+ m dobru (OMIŠ)\, 43.000 €/god.\n\nProfil općine: https://koncesijski-s
+ at.vercel.app/#opcina/41942358B37333491936279\nIzvor: Registar koncesija (
+ FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B37333491936279
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: TURISTIČKI CVIJET D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-65dcc07140385e0e@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20430303
+DTEND;VALUE=DATE:20430304
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (TURISTIČKI CVIJ
+ ET D.O.O.)
+DESCRIPTION:3. 9. 2043. ističe 1 ugovor o koncesiji. Novi postupak dodjele
+  treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
+ \n\n• TURISTIČKI CVIJET D.O.O. – Koncesija na pomorskom dobru (OMIŠ)
+ \, 43.000 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#
+ opcina/41942358B37333491936279
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B37333491936279
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (TURISTIČKI 
+ CVIJET D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-987c9673fd04fea3@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20431231
+DTEND;VALUE=DATE:20440101
+SUMMARY:Ističe 3 koncesije · Omiš
+DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2043. Godišnja fiksna na
+ knada: 1.754 €.\n\n• JADRANKAMEN D.O.O. – Koncesija za površinu utv
+ rđenog eksploatacijskog polja neenergetskih mineralnih sirovina (OMIŠ)\,
+  1.754 €/god.\n• JADRANKAMEN D.O.O. – Koncesija za eksploataciju arh
+ itektonsko-građevnog kamena (OMIŠ)\n• JADRANKAMEN D.O.O. – Koncesija
+  za eksploataciju arhitektonsko-građevnog kamena (OMIŠ)\n\nProfil općin
+ e: https://koncesijski-sat.vercel.app/#opcina/41942358B37333491936279\nIzv
+ or: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B37333491936279
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 3 koncesije · Omiš
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-987c9673fd04fea3@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20430630
+DTEND;VALUE=DATE:20430701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:31. 12. 2043. ističe 3 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• JADRANKAMEN D.O.O. – Koncesija za površinu utvrđenog eksplo
+ atacijskog polja neenergetskih mineralnih sirovina (OMIŠ)\, 1.754 €/god
+ .\n• JADRANKAMEN D.O.O. – Koncesija za eksploataciju arhitektonsko-gra
+ đevnog kamena (OMIŠ)\n• JADRANKAMEN D.O.O. – Koncesija za eksploatac
+ iju arhitektonsko-građevnog kamena (OMIŠ)\n\nProfil općine: https://kon
+ cesijski-sat.vercel.app/#opcina/41942358B37333491936279
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B37333491936279
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-c8b17927cfb62413@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20440215
+DTEND;VALUE=DATE:20440216
+SUMMARY:Ističe koncesija: VODOVOD BRAČ\, D.O.O. - RAČUN NPOO SELCA
+DESCRIPTION:1 ugovor o koncesiji ističe 15. 2. 2044. Godišnja fiksna nakn
+ ada: 5.387 €.\n\n• VODOVOD BRAČ\, D.O.O. - RAČUN NPOO SELCA – Konc
+ esija na pomorskom dobru (OMIŠ)\, 5.387 €/god.\n\nProfil općine: https
+ ://koncesijski-sat.vercel.app/#opcina/41942358B37333491936279\nIzvor: Regi
+ star koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B37333491936279
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: VODOVOD BRAČ\, D.O.O. - RAČUN NPOO SELCA
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-c8b17927cfb62413@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20430815
+DTEND;VALUE=DATE:20430816
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VODOVOD BRAČ\, 
+ D.O.O. - RAČUN NPOO SELCA)
+DESCRIPTION:15. 2. 2044. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• VODOVOD BRAČ\, D.O.O. - RAČUN NPOO SELCA – Koncesija na pomor
+ skom dobru (OMIŠ)\, 5.387 €/god.\n\nProfil općine: https://koncesijski
+ -sat.vercel.app/#opcina/41942358B37333491936279
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B37333491936279
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VODOVOD BRA
+ Č\, D.O.O. - RAČUN NPOO SELCA)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-b544f6baeb7a0e9f@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20470323
+DTEND;VALUE=DATE:20470324
+SUMMARY:Ističe koncesija: HEP-PROIZVODNJA D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 23. 3. 2047. Godišnja fiksna nakn
+ ada: 1.873 €.\n\n• HEP-PROIZVODNJA D.O.O. – Koncesija za korištenje
+  vodne snage radi proizvodnje električne energije (OMIŠ)\, 1.873 €/god
+ .\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B3
+ 7333491936279\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9
+ . 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B37333491936279
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: HEP-PROIZVODNJA D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-b544f6baeb7a0e9f@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20460923
+DTEND;VALUE=DATE:20460924
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP-PROIZVODNJA 
+ D.O.O.)
+DESCRIPTION:23. 3. 2047. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• HEP-PROIZVODNJA D.O.O. – Koncesija za korištenje vodne snage r
+ adi proizvodnje električne energije (OMIŠ)\, 1.873 €/god.\n\nProfil op
+ ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B37333491936279
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B37333491936279
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP-PROIZVOD
+ NJA D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-bf98738bcb19fa26@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20481231
+DTEND;VALUE=DATE:20490101
+SUMMARY:Ističe 3 koncesije · Omiš
+DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2048. Godišnja fiksna na
+ knada: 3.822 €.\n\n• LAUTUMIAE D.O.O. – Koncesija za eksploataciju a
+ rhitektonsko-građevnog kamena (OMIŠ)\, 1.274 €/god.\n• LAUTUMIAE D.O
+ .O. – Koncesija za eksploataciju arhitektonsko-građevnog kamena (OMIŠ)
+ \, 1.274 €/god.\n• LAUTUMIAE D.O.O. – Koncesija za površinu utvrđe
+ nog eksploatacijskog polja neenergetskih mineralnih sirovina (OMIŠ)\, 1.2
+ 74 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/
+ 41942358B37333491936279\nIzvor: Registar koncesija (FINA)\, obrada Koncesi
+ jski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B37333491936279
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 3 koncesije · Omiš
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-bf98738bcb19fa26@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20480630
+DTEND;VALUE=DATE:20480701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:31. 12. 2048. ističe 3 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• LAUTUMIAE D.O.O. – Koncesija za eksploataciju arhitektonsko-g
+ rađevnog kamena (OMIŠ)\, 1.274 €/god.\n• LAUTUMIAE D.O.O. – Konces
+ ija za eksploataciju arhitektonsko-građevnog kamena (OMIŠ)\, 1.274 €/g
+ od.\n• LAUTUMIAE D.O.O. – Koncesija za površinu utvrđenog eksploatac
+ ijskog polja neenergetskih mineralnih sirovina (OMIŠ)\, 1.274 €/god.\n\
+ nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B37333
+ 491936279
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B37333491936279
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-4c961fc2d4c54f92@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20501231
+DTEND;VALUE=DATE:20510101
+SUMMARY:Ističe 3 koncesije · Omiš
+DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2050. Godišnja fiksna na
+ knada: 3.520 €.\n\n• DALMALIT D.O.O. – Koncesija za površinu utvrđ
+ enog eksploatacijskog polja neenergetskih mineralnih sirovina (OMIŠ)\, 1.
+ 760 €/god.\n• DALMALIT D.O.O. – Koncesija za eksploataciju arhitekto
+ nsko-građevnog kamena (OMIŠ)\, 1.760 €/god.\n• DALMALIT D.O.O. – K
+ oncesija za eksploataciju arhitektonsko-građevnog kamena (OMIŠ)\n\nProfi
+ l općine: https://koncesijski-sat.vercel.app/#opcina/41942358B37333491936
+ 279\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026
+ .
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B37333491936279
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 3 koncesije · Omiš
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-4c961fc2d4c54f92@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20500630
+DTEND;VALUE=DATE:20500701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:31. 12. 2050. ističe 3 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• DALMALIT D.O.O. – Koncesija za površinu utvrđenog eksploata
+ cijskog polja neenergetskih mineralnih sirovina (OMIŠ)\, 1.760 €/god.\n
+ • DALMALIT D.O.O. – Koncesija za eksploataciju arhitektonsko-građevno
+ g kamena (OMIŠ)\, 1.760 €/god.\n• DALMALIT D.O.O. – Koncesija za ek
+ sploataciju arhitektonsko-građevnog kamena (OMIŠ)\n\nProfil općine: htt
+ ps://koncesijski-sat.vercel.app/#opcina/41942358B37333491936279
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B37333491936279
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-cb2da921368c2d0e@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20561231
+DTEND;VALUE=DATE:20570101
+SUMMARY:Ističe 3 koncesije · Omiš
+DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2056. Godišnja fiksna na
+ knada: 944 €.\n\n• IGRIŠĆE D.O.O. – Koncesija za površinu utvrđe
+ nog eksploatacijskog polja neenergetskih mineralnih sirovina (OMIŠ)\, 944
+  €/god.\n• IGRIŠĆE D.O.O. – Koncesija za eksploataciju arhitektons
+ ko-građevnog kamena (OMIŠ)\n• IGRIŠĆE D.O.O. – Koncesija za eksplo
+ ataciju arhitektonsko-građevnog kamena (OMIŠ)\n\nProfil općine: https:/
+ /koncesijski-sat.vercel.app/#opcina/41942358B37333491936279\nIzvor: Regist
+ ar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B37333491936279
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 3 koncesije · Omiš
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-cb2da921368c2d0e@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20560630
+DTEND;VALUE=DATE:20560701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:31. 12. 2056. ističe 3 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• IGRIŠĆE D.O.O. – Koncesija za površinu utvrđenog eksploat
+ acijskog polja neenergetskih mineralnih sirovina (OMIŠ)\, 944 €/god.\n
+ • IGRIŠĆE D.O.O. – Koncesija za eksploataciju arhitektonsko-građevn
+ og kamena (OMIŠ)\n• IGRIŠĆE D.O.O. – Koncesija za eksploataciju arh
+ itektonsko-građevnog kamena (OMIŠ)\n\nProfil općine: https://koncesijsk
+ i-sat.vercel.app/#opcina/41942358B37333491936279
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B37333491936279
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-1178319f024c0f98@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20591231
+DTEND;VALUE=DATE:20600101
+SUMMARY:Ističe 3 koncesije · Omiš
+DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2059. Godišnja fiksna na
+ knada: 6.006 €.\n\n• MARASOVIĆ D.O.O. – Koncesija za eksploataciju 
+ arhitektonsko-građevnog kamena (OMIŠ)\, 2.002 €/god.\n• MARASOVIĆ D
+ .O.O. – Koncesija za eksploataciju arhitektonsko-građevnog kamena (OMI
+ Š)\, 2.002 €/god.\n• MARASOVIĆ D.O.O. – Koncesija za površinu utv
+ rđenog eksploatacijskog polja neenergetskih mineralnih sirovina (OMIŠ)\,
+  2.002 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opc
+ ina/41942358B37333491936279\nIzvor: Registar koncesija (FINA)\, obrada Kon
+ cesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B37333491936279
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 3 koncesije · Omiš
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-1178319f024c0f98@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20590630
+DTEND;VALUE=DATE:20590701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:31. 12. 2059. ističe 3 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• MARASOVIĆ D.O.O. – Koncesija za eksploataciju arhitektonsko-
+ građevnog kamena (OMIŠ)\, 2.002 €/god.\n• MARASOVIĆ D.O.O. – Konc
+ esija za eksploataciju arhitektonsko-građevnog kamena (OMIŠ)\, 2.002 €
+ /god.\n• MARASOVIĆ D.O.O. – Koncesija za površinu utvrđenog eksploa
+ tacijskog polja neenergetskih mineralnih sirovina (OMIŠ)\, 2.002 €/god.
+ \n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B37
+ 333491936279
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B37333491936279
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-f2819db75da878d0@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20641231
+DTEND;VALUE=DATE:20650101
+SUMMARY:Ističe 3 koncesije · Omiš
+DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2064. Godišnja fiksna na
+ knada: 3.612 €.\n\n• DELTA-DRAGUN\, D.O.O. ZA TRGOVINU I GRADITELJSTVO
+  – Koncesija za eksploataciju arhitektonsko-građevnog kamena (OMIŠ)\, 
+ 1.204 €/god.\n• DELTA-DRAGUN\, D.O.O. ZA TRGOVINU I GRADITELJSTVO – 
+ Koncesija za površinu utvrđenog eksploatacijskog polja neenergetskih min
+ eralnih sirovina (OMIŠ)\, 1.204 €/god.\n• DELTA-DRAGUN\, D.O.O. ZA TR
+ GOVINU I GRADITELJSTVO – Koncesija za eksploataciju arhitektonsko-građe
+ vnog kamena (OMIŠ)\, 1.204 €/god.\n\nProfil općine: https://koncesijsk
+ i-sat.vercel.app/#opcina/41942358B37333491936279\nIzvor: Registar koncesij
+ a (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B37333491936279
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 3 koncesije · Omiš
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-f2819db75da878d0@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20640630
+DTEND;VALUE=DATE:20640701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:31. 12. 2064. ističe 3 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• DELTA-DRAGUN\, D.O.O. ZA TRGOVINU I GRADITELJSTVO – Koncesija
+  za eksploataciju arhitektonsko-građevnog kamena (OMIŠ)\, 1.204 €/god.
+ \n• DELTA-DRAGUN\, D.O.O. ZA TRGOVINU I GRADITELJSTVO – Koncesija za p
+ ovršinu utvrđenog eksploatacijskog polja neenergetskih mineralnih sirovi
+ na (OMIŠ)\, 1.204 €/god.\n• DELTA-DRAGUN\, D.O.O. ZA TRGOVINU I GRADI
+ TELJSTVO – Koncesija za eksploataciju arhitektonsko-građevnog kamena (O
+ MIŠ)\, 1.204 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.a
+ pp/#opcina/41942358B37333491936279
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B37333491936279
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

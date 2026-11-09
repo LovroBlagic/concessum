@@ -1,0 +1,137 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · Općina Molve
+X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Molve. Iz Regist
+ ra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podata
+ ka. https://koncesijski-sat.vercel.app/#opcina/41942358B82555501204175
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-e700858ce40a9952@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:Ističe koncesija: DIVEKS J.D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 23. 11. 2026. Godišnja fiksna nak
+ nada: 737 €.\n\n• DIVEKS J.D.O.O. – Koncesija za obavljanje dimnjač
+ arskih poslova (MOLVE)\, 737 €/god.\n\nProfil općine: https://koncesijs
+ ki-sat.vercel.app/#opcina/41942358B82555501204175\nIzvor: Registar koncesi
+ ja (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B82555501204175
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: DIVEKS J.D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-1a99d99a9d2f09ab@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:Ističe koncesija: INA\, D.D.
+DESCRIPTION:1 ugovor o koncesiji ističe 30. 11. 2026. Godišnja fiksna nak
+ nada: 14 €.\n\n• INA\, D.D. – Dozvola za istraživanje ugljikovodika
+  (prema Zakonu o ugljikovodicima) (MOLVE)\, 14 €/god.\n\nProfil općine:
+  https://koncesijski-sat.vercel.app/#opcina/41942358B82555501204175\nIzvor
+ : Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B82555501204175
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: INA\, D.D.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-80d4bc68e9e045e5@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20291231
+DTEND;VALUE=DATE:20300101
+SUMMARY:Ističe 2 koncesije · Molve
+DESCRIPTION:2 ugovora o koncesiji ističe 31. 12. 2029. Godišnja fiksna na
+ knada: 922 €.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Dozvola za eksploata
+ ciju ugljikovodika (prema Zakonu o ugljikovodicima) (MOLVE)\, 461 €/god.
+ \n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauzetu površinu odobre
+ nog eksploatacijskog polja (MOLVE)\, 461 €/god.\n\nProfil općine: https
+ ://koncesijski-sat.vercel.app/#opcina/41942358B82555501204175\nIzvor: Regi
+ star koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B82555501204175
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 2 koncesije · Molve
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-80d4bc68e9e045e5@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20290630
+DTEND;VALUE=DATE:20290701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:31. 12. 2029. ističe 2 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Dozvola za eksploataciju ugljiko
+ vodika (prema Zakonu o ugljikovodicima) (MOLVE)\, 461 €/god.\n• INA-IN
+ DUSTRIJA NAFTE  D.D. – Koncesija za zauzetu površinu odobrenog eksploat
+ acijskog polja (MOLVE)\, 461 €/god.\n\nProfil općine: https://koncesijs
+ ki-sat.vercel.app/#opcina/41942358B82555501204175
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B82555501204175
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-efb2e47c92a5f645@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20401231
+DTEND;VALUE=DATE:20410101
+SUMMARY:Ističe 3 koncesije · Molve
+DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2040. Godišnja fiksna na
+ knada: 16.496 €.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauz
+ etu površinu odobrenog eksploatacijskog polja (MOLVE)\, 16.496 €/god.\n
+ • INA-INDUSTRIJA NAFTE  D.D. – Dozvola za eksploataciju ugljikovodika 
+ (prema Zakonu o ugljikovodicima) (MOLVE)\n• INA D.D. – Dozvola za eksp
+ loataciju ugljikovodika (prema Zakonu o ugljikovodicima) (MOLVE)\n\nProfil
+  općine: https://koncesijski-sat.vercel.app/#opcina/41942358B825555012041
+ 75\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B82555501204175
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 3 koncesije · Molve
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-efb2e47c92a5f645@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20400630
+DTEND;VALUE=DATE:20400701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:31. 12. 2040. ističe 3 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauzetu površinu o
+ dobrenog eksploatacijskog polja (MOLVE)\, 16.496 €/god.\n• INA-INDUSTR
+ IJA NAFTE  D.D. – Dozvola za eksploataciju ugljikovodika (prema Zakonu o
+  ugljikovodicima) (MOLVE)\n• INA D.D. – Dozvola za eksploataciju uglji
+ kovodika (prema Zakonu o ugljikovodicima) (MOLVE)\n\nProfil općine: https
+ ://koncesijski-sat.vercel.app/#opcina/41942358B82555501204175
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B82555501204175
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

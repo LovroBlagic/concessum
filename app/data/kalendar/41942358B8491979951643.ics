@@ -1,0 +1,240 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · Općina Kali
+X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Kali. Iz Registr
+ a koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podatak
+ a. https://koncesijski-sat.vercel.app/#opcina/41942358B8491979951643
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-3e5f5f05b65f8194@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270301
+SUMMARY:Ističe koncesija: KALI TUNA D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 28. 2. 2027. Godišnja fiksna nakn
+ ada: 33.181 €.\n\n• KALI TUNA D.O.O. – Koncesija na pomorskom dobru 
+ (KALI)\, 33.181 €/god.\n\nProfil općine: https://koncesijski-sat.vercel
+ .app/#opcina/41942358B8491979951643\nIzvor: Registar koncesija (FINA)\, ob
+ rada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B8491979951643
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: KALI TUNA D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-c7ce10664e431273@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20290314
+DTEND;VALUE=DATE:20290315
+SUMMARY:Ističe koncesija: LUCIAN OBRT ZA RIBARSTVO VL. MILENI KONČURAT
+DESCRIPTION:1 ugovor o koncesiji ističe 14. 3. 2029. Godišnja fiksna nakn
+ ada: 7.382 €.\n\n• LUCIAN OBRT ZA RIBARSTVO VL. MILENI KONČURAT – K
+ oncesija pomorskog dobra u svrhu izgradnje i gospodarskog korištenja luke
+  posebne namjene (KALI)\, 7.382 €/god.\n\nProfil općine: https://konces
+ ijski-sat.vercel.app/#opcina/41942358B8491979951643\nIzvor: Registar konce
+ sija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B8491979951643
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: LUCIAN OBRT ZA RIBARSTVO VL. MILENI KONČURA
+ T
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-c7ce10664e431273@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20280914
+DTEND;VALUE=DATE:20280915
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (LUCIAN OBRT ZA R
+ IBARSTVO VL. MILENI KONČURAT)
+DESCRIPTION:14. 3. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• LUCIAN OBRT ZA RIBARSTVO VL. MILENI KONČURAT – Koncesija pomor
+ skog dobra u svrhu izgradnje i gospodarskog korištenja luke posebne namje
+ ne (KALI)\, 7.382 €/god.\n\nProfil općine: https://koncesijski-sat.verc
+ el.app/#opcina/41942358B8491979951643
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B8491979951643
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (LUCIAN OBRT 
+ ZA RIBARSTVO VL. MILENI KONČURAT)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-03afe52e84828cc4@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20311021
+DTEND;VALUE=DATE:20311022
+SUMMARY:Ističe koncesija: NAUTA LAMJANA D.O.O. ZA PROIZVODNJU I POPRAVAK B
+ RODOVA
+DESCRIPTION:1 ugovor o koncesiji ističe 21. 10. 2031. Godišnja fiksna nak
+ nada: 8.910 €.\n\n• NAUTA LAMJANA D.O.O. ZA PROIZVODNJU I POPRAVAK BRO
+ DOVA – Koncesija pomorskog dobra u svrhu gospodarskog korištenja luke (
+ KALI)\, 8.910 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.a
+ pp/#opcina/41942358B8491979951643\nIzvor: Registar koncesija (FINA)\, obra
+ da Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B8491979951643
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: NAUTA LAMJANA D.O.O. ZA PROIZVODNJU I POPRAV
+ AK BRODOVA
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-03afe52e84828cc4@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20310421
+DTEND;VALUE=DATE:20310422
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (NAUTA LAMJANA D.
+ O.O. ZA PROIZVODNJU I POPRAVAK BRODOVA)
+DESCRIPTION:21. 10. 2031. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• NAUTA LAMJANA D.O.O. ZA PROIZVODNJU I POPRAVAK BRODOVA – Konce
+ sija pomorskog dobra u svrhu gospodarskog korištenja luke (KALI)\, 8.910 
+ €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
+ 42358B8491979951643
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B8491979951643
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (NAUTA LAMJAN
+ A D.O.O. ZA PROIZVODNJU I POPRAVAK BRODOVA)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-e8611ddc88274799@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20400304
+DTEND;VALUE=DATE:20400305
+SUMMARY:Ističe 2 koncesije · Kali
+DESCRIPTION:2 ugovora o koncesiji ističe 4. 3. 2040. Godišnja fiksna nakn
+ ada: 11.266 €.\n\n• CROMARIS D.D. – Koncesija na pomorskom dobru u s
+ vrhu uzgoja morske ribe i školjkaša (KALI)\, 5.633 €/god.\n• CROMARI
+ S D.D. – Koncesija na pomorskom dobru u svrhu uzgoja morske ribe i škol
+ jkaša (KALI)\, 5.633 €/god.\n\nProfil općine: https://koncesijski-sat.
+ vercel.app/#opcina/41942358B8491979951643\nIzvor: Registar koncesija (FINA
+ )\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B8491979951643
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 2 koncesije · Kali
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-e8611ddc88274799@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20390904
+DTEND;VALUE=DATE:20390905
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:4. 3. 2040. ističe 2 ugovora o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• CROMARIS D.D. – Koncesija na pomorskom dobru u svrhu uzgoja mor
+ ske ribe i školjkaša (KALI)\, 5.633 €/god.\n• CROMARIS D.D. – Konc
+ esija na pomorskom dobru u svrhu uzgoja morske ribe i školjkaša (KALI)\,
+  5.633 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opc
+ ina/41942358B8491979951643
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B8491979951643
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-3b02647d05c76979@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20410621
+DTEND;VALUE=DATE:20410622
+SUMMARY:Ističe koncesija: KALI TUNA D.O.O. KALI
+DESCRIPTION:1 ugovor o koncesiji ističe 21. 6. 2041. Godišnja fiksna nakn
+ ada: 28.151 €.\n\n• KALI TUNA D.O.O. KALI – Koncesija na pomorskom d
+ obru (KALI)\, 28.151 €/god.\n\nProfil općine: https://koncesijski-sat.v
+ ercel.app/#opcina/41942358B8491979951643\nIzvor: Registar koncesija (FINA)
+ \, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B8491979951643
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: KALI TUNA D.O.O. KALI
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-3b02647d05c76979@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20401221
+DTEND;VALUE=DATE:20401222
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (KALI TUNA D.O.O.
+  KALI)
+DESCRIPTION:21. 6. 2041. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• KALI TUNA D.O.O. KALI – Koncesija na pomorskom dobru (KALI)\, 2
+ 8.151 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opci
+ na/41942358B8491979951643
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B8491979951643
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (KALI TUNA D.
+ O.O. KALI)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-89072191130710d5@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20451105
+DTEND;VALUE=DATE:20451106
+SUMMARY:Ističe koncesija: CROMARIS D.D.
+DESCRIPTION:1 ugovor o koncesiji ističe 5. 11. 2045. Godišnja fiksna nakn
+ ada: 7.321 €.\n\n• CROMARIS D.D. – Koncesija na pomorskom dobru (KAL
+ I)\, 7.321 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/
+ #opcina/41942358B8491979951643\nIzvor: Registar koncesija (FINA)\, obrada 
+ Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B8491979951643
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: CROMARIS D.D.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-89072191130710d5@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20450505
+DTEND;VALUE=DATE:20450506
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (CROMARIS D.D.)
+DESCRIPTION:5. 11. 2045. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• CROMARIS D.D. – Koncesija na pomorskom dobru (KALI)\, 7.321 €
+ /god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419423
+ 58B8491979951643
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B8491979951643
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (CROMARIS D.D
+ .)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

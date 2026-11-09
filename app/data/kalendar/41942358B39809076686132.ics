@@ -1,0 +1,150 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · Općina Podravske Sesvete
+X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Podravske Sesvet
+ e. Iz Registra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake o
+ brade podataka. https://koncesijski-sat.vercel.app/#opcina/41942358B398090
+ 76686132
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-8fbee217d2a06a8b@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20301231
+DTEND;VALUE=DATE:20310101
+SUMMARY:Ističe 3 koncesije · Podravske Sesvete
+DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2030. Godišnja fiksna na
+ knada: 4.518 €.\n\n• GRANULATI-DRAVA D.O.O. – Koncesija za površinu
+  utvrđenog eksploatacijskog polja neenergetskih mineralnih sirovina (PODR
+ AVSKE SESVETE)\, 1.506 €/god.\n• GRANULATI-DRAVA D.O.O. – Koncesija 
+ za eksploataciju građevnog pijeska i šljunka (PODRAVSKE SESVETE)\, 1.506
+  €/god.\n• GRANULATI-DRAVA D.O.O. – Koncesija za eksploataciju građ
+ evnog pijeska i šljunka (PODRAVSKE SESVETE)\, 1.506 €/god.\n\nProfil op
+ ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B39809076686132\
+ nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B39809076686132
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 3 koncesije · Podravske Sesvete
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-8fbee217d2a06a8b@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20300630
+DTEND;VALUE=DATE:20300701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:31. 12. 2030. ističe 3 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• GRANULATI-DRAVA D.O.O. – Koncesija za površinu utvrđenog ek
+ sploatacijskog polja neenergetskih mineralnih sirovina (PODRAVSKE SESVETE)
+ \, 1.506 €/god.\n• GRANULATI-DRAVA D.O.O. – Koncesija za eksploataci
+ ju građevnog pijeska i šljunka (PODRAVSKE SESVETE)\, 1.506 €/god.\n•
+  GRANULATI-DRAVA D.O.O. – Koncesija za eksploataciju građevnog pijeska 
+ i šljunka (PODRAVSKE SESVETE)\, 1.506 €/god.\n\nProfil općine: https:/
+ /koncesijski-sat.vercel.app/#opcina/41942358B39809076686132
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B39809076686132
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-1d8dea3fea87f307@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20401231
+DTEND;VALUE=DATE:20410101
+SUMMARY:Ističe 2 koncesije · Podravske Sesvete
+DESCRIPTION:2 ugovora o koncesiji ističe 31. 12. 2040. Godišnja fiksna na
+ knada: 6.736 €.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauze
+ tu površinu odobrenog eksploatacijskog polja (PODRAVSKE SESVETE)\, 3.368 
+ €/god.\n• INA-INDUSTRIJA NAFTE  D.D. – Dozvola za eksploataciju uglj
+ ikovodika (prema Zakonu o ugljikovodicima) (PODRAVSKE SESVETE)\, 3.368 €
+ /god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419423
+ 58B39809076686132\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski s
+ at 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B39809076686132
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 2 koncesije · Podravske Sesvete
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-1d8dea3fea87f307@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20400630
+DTEND;VALUE=DATE:20400701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:31. 12. 2040. ističe 2 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauzetu površinu o
+ dobrenog eksploatacijskog polja (PODRAVSKE SESVETE)\, 3.368 €/god.\n• 
+ INA-INDUSTRIJA NAFTE  D.D. – Dozvola za eksploataciju ugljikovodika (pre
+ ma Zakonu o ugljikovodicima) (PODRAVSKE SESVETE)\, 3.368 €/god.\n\nProfi
+ l općine: https://koncesijski-sat.vercel.app/#opcina/41942358B39809076686
+ 132
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B39809076686132
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-099eb1d7ee152db4@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20451231
+DTEND;VALUE=DATE:20460101
+SUMMARY:Ističe 3 koncesije · Podravske Sesvete
+DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2045. Godišnja fiksna na
+ knada: 11.862 €.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauz
+ etu površinu odobrenog eksploatacijskog polja (PODRAVSKE SESVETE)\, 11.86
+ 2 €/god.\n• INA-INDUSTRIJA NAFTE  D.D. – Dozvola za eksploataciju ug
+ ljikovodika (prema Zakonu o ugljikovodicima) (PODRAVSKE SESVETE)\n• INA 
+ D.D. – Dozvola za eksploataciju ugljikovodika (prema Zakonu o ugljikovod
+ icima) (PODRAVSKE SESVETE)\n\nProfil općine: https://koncesijski-sat.verc
+ el.app/#opcina/41942358B39809076686132\nIzvor: Registar koncesija (FINA)\,
+  obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B39809076686132
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 3 koncesije · Podravske Sesvete
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-099eb1d7ee152db4@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20450630
+DTEND;VALUE=DATE:20450701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:31. 12. 2045. ističe 3 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauzetu površinu o
+ dobrenog eksploatacijskog polja (PODRAVSKE SESVETE)\, 11.862 €/god.\n•
+  INA-INDUSTRIJA NAFTE  D.D. – Dozvola za eksploataciju ugljikovodika (pr
+ ema Zakonu o ugljikovodicima) (PODRAVSKE SESVETE)\n• INA D.D. – Dozvol
+ a za eksploataciju ugljikovodika (prema Zakonu o ugljikovodicima) (PODRAVS
+ KE SESVETE)\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/
+ 41942358B39809076686132
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B39809076686132
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

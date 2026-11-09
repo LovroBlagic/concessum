@@ -1,0 +1,215 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · Općina Podgorač
+X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Podgorač. Iz Re
+ gistra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade po
+ dataka. https://koncesijski-sat.vercel.app/#opcina/41942358B30030645114958
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-a82069870fe66f4e@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20270628
+DTEND;VALUE=DATE:20270629
+SUMMARY:Ističe koncesija: INA\, D.D.
+DESCRIPTION:1 ugovor o koncesiji ističe 28. 6. 2027. Godišnja fiksna nakn
+ ada: 121 €.\n\n• INA\, D.D. – Dozvola za istraživanje ugljikovodika
+  (prema Zakonu o ugljikovodicima) (PODGORAČ)\, 121 €/god.\n\nProfil op
+ ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B30030645114958\
+ nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B30030645114958
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: INA\, D.D.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-a82069870fe66f4e@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20261228
+DTEND;VALUE=DATE:20261229
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA\, D.D.)
+DESCRIPTION:28. 6. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• INA\, D.D. – Dozvola za istraživanje ugljikovodika (prema Zako
+ nu o ugljikovodicima) (PODGORAČ)\, 121 €/god.\n\nProfil općine: https:
+ //koncesijski-sat.vercel.app/#opcina/41942358B30030645114958
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B30030645114958
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA\, D.D.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-a9ef2039ad0d6e20@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20290328
+DTEND;VALUE=DATE:20290329
+SUMMARY:Ističe koncesija: VATRO-DIM J.D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 28. 3. 2029. Godišnja fiksna nakn
+ ada: 511 €.\n\n• VATRO-DIM J.D.O.O. – Koncesija za obavljanje dimnja
+ čarskih poslova (PODGORAČ)\, 511 €/god.\n\nProfil općine: https://kon
+ cesijski-sat.vercel.app/#opcina/41942358B30030645114958\nIzvor: Registar k
+ oncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B30030645114958
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: VATRO-DIM J.D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-a9ef2039ad0d6e20@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20280928
+DTEND;VALUE=DATE:20280929
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VATRO-DIM J.D.O.
+ O.)
+DESCRIPTION:28. 3. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• VATRO-DIM J.D.O.O. – Koncesija za obavljanje dimnjačarskih pos
+ lova (PODGORAČ)\, 511 €/god.\n\nProfil općine: https://koncesijski-sat
+ .vercel.app/#opcina/41942358B30030645114958
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B30030645114958
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VATRO-DIM J.
+ D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-5593d5f14298f063@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20340225
+DTEND;VALUE=DATE:20340226
+SUMMARY:Ističe koncesija: HANA-VUKA D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 25. 2. 2034. Godišnja fiksna nakn
+ ada: 12.609 €.\n\n• HANA-VUKA D.O.O. – Koncesija za korištenje polj
+ oprivrednog zemljišta u vlasništvu države (PODGORAČ)\, 12.609 €/god.
+ \n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B30
+ 030645114958\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9.
+  11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B30030645114958
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: HANA-VUKA D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-5593d5f14298f063@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20330825
+DTEND;VALUE=DATE:20330826
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HANA-VUKA D.O.O.
+ )
+DESCRIPTION:25. 2. 2034. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• HANA-VUKA D.O.O. – Koncesija za korištenje poljoprivrednog zem
+ ljišta u vlasništvu države (PODGORAČ)\, 12.609 €/god.\n\nProfil opć
+ ine: https://koncesijski-sat.vercel.app/#opcina/41942358B30030645114958
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B30030645114958
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HANA-VUKA D.
+ O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-5c3a2edb32e88b3b@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20351128
+DTEND;VALUE=DATE:20351129
+SUMMARY:Ističe koncesija: HEP - PLIN  D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 28. 11. 2035. Godišnja fiksna nak
+ nada: 66 €.\n\n• HEP - PLIN  D.O.O. – Koncesija za izgradnju distrib
+ ucijskog sustava plinovoda i pružanje usluga distribucijskim sustavom (PO
+ DGORAČ)\, 66 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.a
+ pp/#opcina/41942358B30030645114958\nIzvor: Registar koncesija (FINA)\, obr
+ ada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B30030645114958
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: HEP - PLIN  D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-5c3a2edb32e88b3b@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20350528
+DTEND;VALUE=DATE:20350529
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP - PLIN  D.O.
+ O.)
+DESCRIPTION:28. 11. 2035. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• HEP - PLIN  D.O.O. – Koncesija za izgradnju distribucijskog su
+ stava plinovoda i pružanje usluga distribucijskim sustavom (PODGORAČ)\, 
+ 66 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/
+ 41942358B30030645114958
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B30030645114958
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP - PLIN  
+ D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-2a8f7d3bb23fefeb@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20390121
+DTEND;VALUE=DATE:20390122
+SUMMARY:Ističe koncesija: HANA-VUKA D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 21. 1. 2039. Godišnja fiksna nakn
+ ada: 32.517 €.\n\n• HANA-VUKA D.O.O. – Koncesija za korištenje polj
+ oprivrednog zemljišta u vlasništvu države (PODGORAČ)\, 32.517 €/god.
+ \n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B30
+ 030645114958\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9.
+  11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B30030645114958
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: HANA-VUKA D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-2a8f7d3bb23fefeb@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20380721
+DTEND;VALUE=DATE:20380722
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HANA-VUKA D.O.O.
+ )
+DESCRIPTION:21. 1. 2039. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• HANA-VUKA D.O.O. – Koncesija za korištenje poljoprivrednog zem
+ ljišta u vlasništvu države (PODGORAČ)\, 32.517 €/god.\n\nProfil opć
+ ine: https://koncesijski-sat.vercel.app/#opcina/41942358B30030645114958
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B30030645114958
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HANA-VUKA D.
+ O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

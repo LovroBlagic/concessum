@@ -1,0 +1,98 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · Općina Sračinec
+X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Sračinec. Iz Re
+ gistra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade po
+ dataka. https://koncesijski-sat.vercel.app/#opcina/41942358B65728796130854
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-656fa3a6176e99a6@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20320520
+DTEND;VALUE=DATE:20320521
+SUMMARY:Ističe koncesija: DIMAX D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 20. 5. 2032. Godišnja fiksna nakn
+ ada: 703 €.\n\n• DIMAX D.O.O. – Koncesija za obavljanje dimnjačarsk
+ ih poslova (SRAČINEC)\, 703 €/god.\n\nProfil općine: https://koncesijs
+ ki-sat.vercel.app/#opcina/41942358B65728796130854\nIzvor: Registar koncesi
+ ja (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B65728796130854
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: DIMAX D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-656fa3a6176e99a6@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20311120
+DTEND;VALUE=DATE:20311121
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DIMAX D.O.O.)
+DESCRIPTION:20. 5. 2032. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• DIMAX D.O.O. – Koncesija za obavljanje dimnjačarskih poslova (
+ SRAČINEC)\, 703 €/god.\n\nProfil općine: https://koncesijski-sat.verce
+ l.app/#opcina/41942358B65728796130854
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B65728796130854
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DIMAX D.O.O.
+ )
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-7e972acc67154c4a@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20391231
+DTEND;VALUE=DATE:20400101
+SUMMARY:Ističe 3 koncesije · Sračinec
+DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2039. Godišnja fiksna na
+ knada: 5.076 €.\n\n• GALDI MINERAL D.O.O. – Koncesija za eksploataci
+ ju građevnog pijeska i šljunka (SRAČINEC)\, 2.538 €/god.\n• GALDI M
+ INERAL D.O.O. – Koncesija za površinu utvrđenog eksploatacijskog polja
+  neenergetskih mineralnih sirovina (SRAČINEC)\, 2.538 €/god.\n• GALDI
+  MINERAL D.O.O. – Koncesija za eksploataciju građevnog pijeska i šljun
+ ka (SRAČINEC)\n\nProfil općine: https://koncesijski-sat.vercel.app/#opci
+ na/41942358B65728796130854\nIzvor: Registar koncesija (FINA)\, obrada Konc
+ esijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B65728796130854
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 3 koncesije · Sračinec
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-7e972acc67154c4a@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20390630
+DTEND;VALUE=DATE:20390701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:31. 12. 2039. ističe 3 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• GALDI MINERAL D.O.O. – Koncesija za eksploataciju građevnog 
+ pijeska i šljunka (SRAČINEC)\, 2.538 €/god.\n• GALDI MINERAL D.O.O. 
+ – Koncesija za površinu utvrđenog eksploatacijskog polja neenergetskih
+  mineralnih sirovina (SRAČINEC)\, 2.538 €/god.\n• GALDI MINERAL D.O.O
+ . – Koncesija za eksploataciju građevnog pijeska i šljunka (SRAČINEC)
+ \n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B65
+ 728796130854
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B65728796130854
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

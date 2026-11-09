@@ -1,0 +1,59 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · Općina Jesenje
+X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Jesenje. Iz Regi
+ stra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade poda
+ taka. https://koncesijski-sat.vercel.app/#opcina/41942358B8809011880235
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-91c63ebd663fe791@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20351231
+DTEND;VALUE=DATE:20360101
+SUMMARY:Ističe 3 koncesije · Jesenje
+DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2035. Godišnja fiksna na
+ knada: 79.958 €.\n\n• KAMENOLOM GORJAK D.O.O. – Koncesija za eksploa
+ taciju tehničko-građevnog kamena (JESENJE)\, 39.979 €/god.\n• KAMENO
+ LOM GORJAK D.O.O. – Koncesija za površinu utvrđenog eksploatacijskog p
+ olja neenergetskih mineralnih sirovina (JESENJE)\, 39.979 €/god.\n• KA
+ MENOLOM GORJAK D.O.O. – Koncesija za eksploataciju tehničko-građevnog 
+ kamena (JESENJE)\n\nProfil općine: https://koncesijski-sat.vercel.app/#op
+ cina/41942358B8809011880235\nIzvor: Registar koncesija (FINA)\, obrada Kon
+ cesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B8809011880235
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 3 koncesije · Jesenje
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-91c63ebd663fe791@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20350630
+DTEND;VALUE=DATE:20350701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:31. 12. 2035. ističe 3 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• KAMENOLOM GORJAK D.O.O. – Koncesija za eksploataciju tehničk
+ o-građevnog kamena (JESENJE)\, 39.979 €/god.\n• KAMENOLOM GORJAK D.O.
+ O. – Koncesija za površinu utvrđenog eksploatacijskog polja neenergets
+ kih mineralnih sirovina (JESENJE)\, 39.979 €/god.\n• KAMENOLOM GORJAK 
+ D.O.O. – Koncesija za eksploataciju tehničko-građevnog kamena (JESENJE
+ )\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B8
+ 809011880235
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B8809011880235
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

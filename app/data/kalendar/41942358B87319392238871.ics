@@ -1,0 +1,93 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · Grad Oroslavje
+X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Grad Oroslavje. Iz Regis
+ tra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podat
+ aka. https://koncesijski-sat.vercel.app/#opcina/41942358B87319392238871
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-e10951d6d181c355@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20290630
+DTEND;VALUE=DATE:20290701
+SUMMARY:Ističe koncesija: MULL-TRANS D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 30. 6. 2029.\n\n• MULL-TRANS D.O
+ .O. – Koncesija za obavljanje komunalnih djelatnosti (OROSLAVJE)\n\nProf
+ il općine: https://koncesijski-sat.vercel.app/#opcina/41942358B8731939223
+ 8871\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 202
+ 6.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B87319392238871
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: MULL-TRANS D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-e10951d6d181c355@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20281230
+DTEND;VALUE=DATE:20281231
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MULL-TRANS D.O.O
+ .)
+DESCRIPTION:30. 6. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• MULL-TRANS D.O.O. – Koncesija za obavljanje komunalnih djelatno
+ sti (OROSLAVJE)\n\nProfil općine: https://koncesijski-sat.vercel.app/#opc
+ ina/41942358B87319392238871
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B87319392238871
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MULL-TRANS D
+ .O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-973e0c7b7d3a6b6c@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20300630
+DTEND;VALUE=DATE:20300701
+SUMMARY:Ističe koncesija: LEUŠTEK J.D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 30. 6. 2030. Godišnja fiksna nakn
+ ada: 10.001 €.\n\n• LEUŠTEK J.D.O.O. – Koncesija za obavljanje dimn
+ jačarskih poslova (OROSLAVJE)\, 10.001 €/god.\n\nProfil općine: https:
+ //koncesijski-sat.vercel.app/#opcina/41942358B87319392238871\nIzvor: Regis
+ tar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B87319392238871
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: LEUŠTEK J.D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-973e0c7b7d3a6b6c@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20291230
+DTEND;VALUE=DATE:20291231
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (LEUŠTEK J.D.O.O
+ .)
+DESCRIPTION:30. 6. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• LEUŠTEK J.D.O.O. – Koncesija za obavljanje dimnjačarskih posl
+ ova (OROSLAVJE)\, 10.001 €/god.\n\nProfil općine: https://koncesijski-s
+ at.vercel.app/#opcina/41942358B87319392238871
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B87319392238871
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (LEUŠTEK J.D
+ .O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

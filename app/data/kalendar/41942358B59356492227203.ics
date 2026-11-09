@@ -1,0 +1,93 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · Općina Nova Bukovica
+X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Nova Bukovica. I
+ z Registra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrad
+ e podataka. https://koncesijski-sat.vercel.app/#opcina/41942358B5935649222
+ 7203
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-040d872b09873092@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20270628
+DTEND;VALUE=DATE:20270629
+SUMMARY:Ističe koncesija: INA\, D.D.
+DESCRIPTION:1 ugovor o koncesiji ističe 28. 6. 2027. Godišnja fiksna nakn
+ ada: 3.979 €.\n\n• INA\, D.D. – Dozvola za istraživanje ugljikovodi
+ ka (prema Zakonu o ugljikovodicima) (NOVA BUKOVICA)\, 3.979 €/god.\n\nPr
+ ofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B59356492
+ 227203\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2
+ 026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B59356492227203
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: INA\, D.D.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-040d872b09873092@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20261228
+DTEND;VALUE=DATE:20261229
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA\, D.D.)
+DESCRIPTION:28. 6. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• INA\, D.D. – Dozvola za istraživanje ugljikovodika (prema Zako
+ nu o ugljikovodicima) (NOVA BUKOVICA)\, 3.979 €/god.\n\nProfil općine: 
+ https://koncesijski-sat.vercel.app/#opcina/41942358B59356492227203
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B59356492227203
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA\, D.D.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-28d542820e09a676@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20300726
+DTEND;VALUE=DATE:20300727
+SUMMARY:Ističe koncesija: HEP - PLIN  D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 26. 7. 2030.\n\n• HEP - PLIN  D.
+ O.O. – Koncesija za opskrbu potrošača prirodnim plinom (NOVA BUKOVICA\
+ , SLATINA)\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4
+ 1942358B59356492227203\nIzvor: Registar koncesija (FINA)\, obrada Koncesij
+ ski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B59356492227203
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: HEP - PLIN  D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-28d542820e09a676@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20300126
+DTEND;VALUE=DATE:20300127
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP - PLIN  D.O.
+ O.)
+DESCRIPTION:26. 7. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• HEP - PLIN  D.O.O. – Koncesija za opskrbu potrošača prirodnim
+  plinom (NOVA BUKOVICA\, SLATINA)\n\nProfil općine: https://koncesijski-s
+ at.vercel.app/#opcina/41942358B59356492227203
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B59356492227203
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP - PLIN  
+ D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

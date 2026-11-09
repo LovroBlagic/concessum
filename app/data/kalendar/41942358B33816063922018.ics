@@ -1,0 +1,103 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · Općina Netretić
+X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Netretić. Iz Re
+ gistra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade po
+ dataka. https://koncesijski-sat.vercel.app/#opcina/41942358B33816063922018
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-728fa7d4a36c15cf@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20381231
+DTEND;VALUE=DATE:20390101
+SUMMARY:Ističe 3 koncesije · Netretić
+DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2038. Godišnja fiksna na
+ knada: 5.208 €.\n\n• MINERAL KAMEN D.O.O. – Koncesija za površinu u
+ tvrđenog eksploatacijskog polja neenergetskih mineralnih sirovina (NETRET
+ IĆ)\, 2.604 €/god.\n• MINERAL KAMEN D.O.O. – Koncesija za eksploata
+ ciju tehničko-građevnog kamena (NETRETIĆ)\, 2.604 €/god.\n• MINERAL
+  KAMEN D.O.O. – Koncesija za eksploataciju tehničko-građevnog kamena (
+ NETRETIĆ)\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4
+ 1942358B33816063922018\nIzvor: Registar koncesija (FINA)\, obrada Koncesij
+ ski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B33816063922018
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 3 koncesije · Netretić
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-728fa7d4a36c15cf@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20380630
+DTEND;VALUE=DATE:20380701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:31. 12. 2038. ističe 3 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• MINERAL KAMEN D.O.O. – Koncesija za površinu utvrđenog eksp
+ loatacijskog polja neenergetskih mineralnih sirovina (NETRETIĆ)\, 2.604 
+ €/god.\n• MINERAL KAMEN D.O.O. – Koncesija za eksploataciju tehničk
+ o-građevnog kamena (NETRETIĆ)\, 2.604 €/god.\n• MINERAL KAMEN D.O.O.
+  – Koncesija za eksploataciju tehničko-građevnog kamena (NETRETIĆ)\n\
+ nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B33816
+ 063922018
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B33816063922018
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-ea49a5e8e9f7ce40@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20421231
+DTEND;VALUE=DATE:20430101
+SUMMARY:Ističe 3 koncesije · Netretić
+DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2042. Godišnja fiksna na
+ knada: 6.162 €.\n\n• DOLOMIT – Koncesija za eksploataciju tehničko-
+ građevnog kamena (NETRETIĆ)\, 2.054 €/god.\n• DOLOMIT – Koncesija 
+ za eksploataciju tehničko-građevnog kamena (NETRETIĆ)\, 2.054 €/god.\
+ n• DOLOMIT – Koncesija za površinu utvrđenog eksploatacijskog polja 
+ neenergetskih mineralnih sirovina (NETRETIĆ)\, 2.054 €/god.\n\nProfil o
+ pćine: https://koncesijski-sat.vercel.app/#opcina/41942358B33816063922018
+ \nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B33816063922018
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 3 koncesije · Netretić
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-ea49a5e8e9f7ce40@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20420630
+DTEND;VALUE=DATE:20420701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:31. 12. 2042. ističe 3 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• DOLOMIT – Koncesija za eksploataciju tehničko-građevnog kam
+ ena (NETRETIĆ)\, 2.054 €/god.\n• DOLOMIT – Koncesija za eksploataci
+ ju tehničko-građevnog kamena (NETRETIĆ)\, 2.054 €/god.\n• DOLOMIT 
+ – Koncesija za površinu utvrđenog eksploatacijskog polja neenergetskih
+  mineralnih sirovina (NETRETIĆ)\, 2.054 €/god.\n\nProfil općine: https
+ ://koncesijski-sat.vercel.app/#opcina/41942358B33816063922018
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B33816063922018
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

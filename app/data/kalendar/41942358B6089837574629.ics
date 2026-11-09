@@ -1,0 +1,57 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · Grad Kastav
+X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Grad Kastav. Iz Registra
+  koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podataka
+ . https://koncesijski-sat.vercel.app/#opcina/41942358B6089837574629
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-565f539518eadc05@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20270521
+DTEND;VALUE=DATE:20270522
+SUMMARY:Ističe koncesija: UDRUGA ZA PROMICANJE MEDIJSKE KULTURE I AUDIOVIZ
+ UALNIH DJELATNOSTI "CASTUA"
+DESCRIPTION:1 ugovor o koncesiji ističe 21. 5. 2027. Godišnja fiksna nakn
+ ada: 66 €.\n\n• UDRUGA ZA PROMICANJE MEDIJSKE KULTURE I AUDIOVIZUALNIH
+  DJELATNOSTI "CASTUA" – Koncesija za obavljanje djelatnosti radija (KAST
+ AV)\, 66 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#o
+ pcina/41942358B6089837574629\nIzvor: Registar koncesija (FINA)\, obrada Ko
+ ncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B6089837574629
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: UDRUGA ZA PROMICANJE MEDIJSKE KULTURE I AUDI
+ OVIZUALNIH DJELATNOSTI "CASTUA"
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-565f539518eadc05@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (UDRUGA ZA PROMIC
+ ANJE MEDIJSKE KULTURE I AUDIOVIZUALNIH DJELATNOSTI "CASTUA")
+DESCRIPTION:21. 5. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• UDRUGA ZA PROMICANJE MEDIJSKE KULTURE I AUDIOVIZUALNIH DJELATNOST
+ I "CASTUA" – Koncesija za obavljanje djelatnosti radija (KASTAV)\, 66 
+ €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
+ 42358B6089837574629
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B6089837574629
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (UDRUGA ZA PR
+ OMICANJE MEDIJSKE KULTURE I AUDIOVIZUALNIH DJELATNOSTI "CASTUA")
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

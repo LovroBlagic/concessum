@@ -1,0 +1,583 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · Općina Sali
+X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Sali. Iz Registr
+ a koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podatak
+ a. https://koncesijski-sat.vercel.app/#opcina/41942358B70775371213679
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-edefd83e70c9646e@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:Ističe koncesija: KALI TUNA D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 13. 12. 2026. Godišnja fiksna nak
+ nada: 9.476 €.\n\n• KALI TUNA D.O.O. – Koncesija na pomorskom dobru 
+ (SALI)\, 9.476 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.
+ app/#opcina/41942358B70775371213679\nIzvor: Registar koncesija (FINA)\, ob
+ rada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B70775371213679
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: KALI TUNA D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-570e984ee30f874d@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+SUMMARY:Ističe 2 koncesije · Sali
+DESCRIPTION:2 ugovora o koncesiji ističe 2. 5. 2027. Godišnja fiksna nakn
+ ada: 11.267 €.\n\n• ULJARSKA ZADRUGA TORKUL – Koncesija pomorskog do
+ bra u svrhu izgradnje i gospodarskog korištenja luke posebne namjene (SAL
+ I)\, 10.784 €/god.\n• PARK PRIRODE TELAŠĆICA JAVNA USTANOVA – Konc
+ esija na pomorskom dobru (SALI)\, 483 €/god.\n\nProfil općine: https://
+ koncesijski-sat.vercel.app/#opcina/41942358B70775371213679\nIzvor: Regista
+ r koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B70775371213679
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 2 koncesije · Sali
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-fa3449145d22bbc0@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20280502
+DTEND;VALUE=DATE:20280503
+SUMMARY:Ističe koncesija: MARIN VRSALJKO - LANTERNA OBRT ZA TURIZAM
+DESCRIPTION:1 ugovor o koncesiji ističe 2. 5. 2028. Godišnja fiksna nakna
+ da: 5.349 €.\n\n• MARIN VRSALJKO - LANTERNA OBRT ZA TURIZAM – Konces
+ ija pomorskog dobra u svrhu izgradnje i gospodarskog korištenja luke pose
+ bne namjene (SALI)\, 5.349 €/god.\n\nProfil općine: https://koncesijski
+ -sat.vercel.app/#opcina/41942358B70775371213679\nIzvor: Registar koncesija
+  (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B70775371213679
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: MARIN VRSALJKO - LANTERNA OBRT ZA TURIZAM
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-fa3449145d22bbc0@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20271102
+DTEND;VALUE=DATE:20271103
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MARIN VRSALJKO -
+  LANTERNA OBRT ZA TURIZAM)
+DESCRIPTION:2. 5. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodjele
+  treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
+ \n\n• MARIN VRSALJKO - LANTERNA OBRT ZA TURIZAM – Koncesija pomorskog 
+ dobra u svrhu izgradnje i gospodarskog korištenja luke posebne namjene (S
+ ALI)\, 5.349 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.ap
+ p/#opcina/41942358B70775371213679
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B70775371213679
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MARIN VRSALJ
+ KO - LANTERNA OBRT ZA TURIZAM)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-1cdf0a849d48b769@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20281213
+DTEND;VALUE=DATE:20281214
+SUMMARY:Ističe koncesija: VATES D.O.O. ZA UGOSTITELJSTVO\, TRGOVINU\, USLU
+ GE I TURIZAM
+DESCRIPTION:1 ugovor o koncesiji ističe 13. 12. 2028. Godišnja fiksna nak
+ nada: 3.424 €.\n\n• VATES D.O.O. ZA UGOSTITELJSTVO\, TRGOVINU\, USLUGE
+  I TURIZAM – Koncesija pomorskog dobra u svrhu izgradnje i gospodarskog 
+ korištenja luke posebne namjene (SALI)\, 3.424 €/god.\n\nProfil općine
+ : https://koncesijski-sat.vercel.app/#opcina/41942358B70775371213679\nIzvo
+ r: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B70775371213679
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: VATES D.O.O. ZA UGOSTITELJSTVO\, TRGOVINU\, 
+ USLUGE I TURIZAM
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-1cdf0a849d48b769@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20280613
+DTEND;VALUE=DATE:20280614
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VATES D.O.O. ZA 
+ UGOSTITELJSTVO\, TRGOVINU\, USLUGE I TURIZAM)
+DESCRIPTION:13. 12. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• VATES D.O.O. ZA UGOSTITELJSTVO\, TRGOVINU\, USLUGE I TURIZAM –
+  Koncesija pomorskog dobra u svrhu izgradnje i gospodarskog korištenja lu
+ ke posebne namjene (SALI)\, 3.424 €/god.\n\nProfil općine: https://konc
+ esijski-sat.vercel.app/#opcina/41942358B70775371213679
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B70775371213679
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VATES D.O.O.
+  ZA UGOSTITELJSTVO\, TRGOVINU\, USLUGE I TURIZAM)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-613ca27fbed2929c@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20290401
+DTEND;VALUE=DATE:20290402
+SUMMARY:Ističe koncesija: MARIN VRSALJKO
+DESCRIPTION:1 ugovor o koncesiji ističe 1. 4. 2029. Godišnja fiksna nakna
+ da: 4.785 €.\n\n• MARIN VRSALJKO – Koncesija pomorskog dobra u svrhu
+  izgradnje i gospodarskog korištenja luke posebne namjene (SALI)\, 4.785 
+ €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
+ 42358B70775371213679\nIzvor: Registar koncesija (FINA)\, obrada Koncesijsk
+ i sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B70775371213679
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: MARIN VRSALJKO
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-613ca27fbed2929c@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20281001
+DTEND;VALUE=DATE:20281002
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MARIN VRSALJKO)
+DESCRIPTION:1. 4. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjele
+  treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
+ \n\n• MARIN VRSALJKO – Koncesija pomorskog dobra u svrhu izgradnje i g
+ ospodarskog korištenja luke posebne namjene (SALI)\, 4.785 €/god.\n\nPr
+ ofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B70775371
+ 213679
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B70775371213679
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MARIN VRSALJ
+ KO)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-b660c71a074e837b@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20300220
+DTEND;VALUE=DATE:20300221
+SUMMARY:Ističe koncesija: NAUTIKA VELI RAT D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 20. 2. 2030. Godišnja fiksna nakn
+ ada: 14.622 €.\n\n• NAUTIKA VELI RAT D.O.O. – Koncesija pomorskog do
+ bra u svrhu izgradnje i gospodarskog korištenja luke posebne namjene (SAL
+ I)\, 14.622 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app
+ /#opcina/41942358B70775371213679\nIzvor: Registar koncesija (FINA)\, obrad
+ a Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B70775371213679
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: NAUTIKA VELI RAT D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-b660c71a074e837b@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20290820
+DTEND;VALUE=DATE:20290821
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (NAUTIKA VELI RAT
+  D.O.O.)
+DESCRIPTION:20. 2. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• NAUTIKA VELI RAT D.O.O. – Koncesija pomorskog dobra u svrhu izg
+ radnje i gospodarskog korištenja luke posebne namjene (SALI)\, 14.622 €
+ /god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419423
+ 58B70775371213679
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B70775371213679
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (NAUTIKA VELI
+  RAT D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-75e55affab1a11aa@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20301105
+DTEND;VALUE=DATE:20301106
+SUMMARY:Ističe koncesija: MULIĆ D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 5. 11. 2030. Godišnja fiksna nakn
+ ada: 1.062 €.\n\n• MULIĆ D.O.O. – Koncesija za obavljanje komunalni
+ h djelatnosti (SALI)\, 1.062 €/god.\n\nProfil općine: https://koncesijs
+ ki-sat.vercel.app/#opcina/41942358B70775371213679\nIzvor: Registar koncesi
+ ja (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B70775371213679
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: MULIĆ D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-75e55affab1a11aa@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20300505
+DTEND;VALUE=DATE:20300506
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MULIĆ D.O.O.)
+DESCRIPTION:5. 11. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• MULIĆ D.O.O. – Koncesija za obavljanje komunalnih djelatnosti 
+ (SALI)\, 1.062 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.
+ app/#opcina/41942358B70775371213679
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B70775371213679
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MULIĆ D.O.O
+ .)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-bd7d066492b8a94e@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20320423
+DTEND;VALUE=DATE:20320424
+SUMMARY:Ističe 4 koncesije · Sali
+DESCRIPTION:4 ugovora o koncesiji ističe 23. 4. 2032. Godišnja fiksna nak
+ nada: 53.089 €.\n\n• CROMARIS D.D. ZA MARIKULTURU – Koncesija na pom
+ orskom dobru (SALI)\, 13.936 €/god.\n• CROMARIS D.D. – Koncesija na 
+ pomorskom dobru (SALI)\, 13.936 €/god.\n• CROMARIS D.D. – Koncesija 
+ na pomorskom dobru (SALI)\, 13.936 €/god.\n• KALI TUNA D.O.O. – Konc
+ esija na pomorskom dobru (SALI)\, 11.281 €/god.\n\nProfil općine: https
+ ://koncesijski-sat.vercel.app/#opcina/41942358B70775371213679\nIzvor: Regi
+ star koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B70775371213679
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 4 koncesije · Sali
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-bd7d066492b8a94e@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20311023
+DTEND;VALUE=DATE:20311024
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 4 koncesije
+DESCRIPTION:23. 4. 2032. ističe 4 ugovora o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• CROMARIS D.D. ZA MARIKULTURU – Koncesija na pomorskom dobru (S
+ ALI)\, 13.936 €/god.\n• CROMARIS D.D. – Koncesija na pomorskom dobru
+  (SALI)\, 13.936 €/god.\n• CROMARIS D.D. – Koncesija na pomorskom do
+ bru (SALI)\, 13.936 €/god.\n• KALI TUNA D.O.O. – Koncesija na pomors
+ kom dobru (SALI)\, 11.281 €/god.\n\nProfil općine: https://koncesijski-
+ sat.vercel.app/#opcina/41942358B70775371213679
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B70775371213679
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 4 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-44b3fe17cc68ce37@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20340918
+DTEND;VALUE=DATE:20340919
+SUMMARY:Ističe koncesija: ADRIA OIL D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 18. 9. 2034. Godišnja fiksna nakn
+ ada: 26.546 €.\n\n• ADRIA OIL D.O.O. – Koncesija na pomorskom dobru 
+ (SALI)\, 26.546 €/god.\n\nProfil općine: https://koncesijski-sat.vercel
+ .app/#opcina/41942358B70775371213679\nIzvor: Registar koncesija (FINA)\, o
+ brada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B70775371213679
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: ADRIA OIL D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-44b3fe17cc68ce37@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20340318
+DTEND;VALUE=DATE:20340319
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ADRIA OIL D.O.O.
+ )
+DESCRIPTION:18. 9. 2034. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• ADRIA OIL D.O.O. – Koncesija na pomorskom dobru (SALI)\, 26.546
+  €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41
+ 942358B70775371213679
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B70775371213679
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ADRIA OIL D.
+ O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-f863bcd69b6f6958@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20360501
+DTEND;VALUE=DATE:20360502
+SUMMARY:Ističe koncesija: CROMARIS D.D.
+DESCRIPTION:1 ugovor o koncesiji ističe 1. 5. 2036. Godišnja fiksna nakna
+ da: 1.314 €.\n\n• CROMARIS D.D. – Koncesija na pomorskom dobru (SALI
+ )\, 1.314 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#
+ opcina/41942358B70775371213679\nIzvor: Registar koncesija (FINA)\, obrada 
+ Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B70775371213679
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: CROMARIS D.D.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-f863bcd69b6f6958@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20351101
+DTEND;VALUE=DATE:20351102
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (CROMARIS D.D.)
+DESCRIPTION:1. 5. 2036. ističe 1 ugovor o koncesiji. Novi postupak dodjele
+  treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
+ \n\n• CROMARIS D.D. – Koncesija na pomorskom dobru (SALI)\, 1.314 €/
+ god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4194235
+ 8B70775371213679
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B70775371213679
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (CROMARIS D.D
+ .)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-6c25ef7e9488c9bb@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20360612
+DTEND;VALUE=DATE:20360613
+SUMMARY:Ističe koncesija: HRVATSKI OPERATOR PRIJENOSNOG SUSTAVA D.D.
+DESCRIPTION:1 ugovor o koncesiji ističe 12. 6. 2036. Godišnja fiksna nakn
+ ada: 4.145 €.\n\n• HRVATSKI OPERATOR PRIJENOSNOG SUSTAVA D.D. – Konc
+ esija na pomorskom dobru (SALI)\, 4.145 €/god.\n\nProfil općine: https:
+ //koncesijski-sat.vercel.app/#opcina/41942358B70775371213679\nIzvor: Regis
+ tar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B70775371213679
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: HRVATSKI OPERATOR PRIJENOSNOG SUSTAVA D.D.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-6c25ef7e9488c9bb@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20351212
+DTEND;VALUE=DATE:20351213
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKI OPERATO
+ R PRIJENOSNOG SUSTAVA D.D.)
+DESCRIPTION:12. 6. 2036. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• HRVATSKI OPERATOR PRIJENOSNOG SUSTAVA D.D. – Koncesija na pomor
+ skom dobru (SALI)\, 4.145 €/god.\n\nProfil općine: https://koncesijski-
+ sat.vercel.app/#opcina/41942358B70775371213679
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B70775371213679
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKI OPE
+ RATOR PRIJENOSNOG SUSTAVA D.D.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-8eff26df74a7d348@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20360819
+DTEND;VALUE=DATE:20360820
+SUMMARY:Ističe koncesija: VODOVOD D.O.O. ZA USLUGE OPSKRBE PITKOM VODOM
+DESCRIPTION:1 ugovor o koncesiji ističe 19. 8. 2036. Godišnja fiksna nakn
+ ada: 94 €.\n\n• VODOVOD D.O.O. ZA USLUGE OPSKRBE PITKOM VODOM – Pose
+ bna upotreba pomorskog dobra (SALI)\, 94 €/god.\n\nProfil općine: https
+ ://koncesijski-sat.vercel.app/#opcina/41942358B70775371213679\nIzvor: Regi
+ star koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B70775371213679
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: VODOVOD D.O.O. ZA USLUGE OPSKRBE PITKOM VODO
+ M
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-8eff26df74a7d348@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20360219
+DTEND;VALUE=DATE:20360220
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VODOVOD D.O.O. Z
+ A USLUGE OPSKRBE PITKOM VODOM)
+DESCRIPTION:19. 8. 2036. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• VODOVOD D.O.O. ZA USLUGE OPSKRBE PITKOM VODOM – Posebna upotreb
+ a pomorskog dobra (SALI)\, 94 €/god.\n\nProfil općine: https://koncesij
+ ski-sat.vercel.app/#opcina/41942358B70775371213679
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B70775371213679
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VODOVOD D.O.
+ O. ZA USLUGE OPSKRBE PITKOM VODOM)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-e1d7ba0b99c325b4@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20381001
+DTEND;VALUE=DATE:20381002
+SUMMARY:Ističe koncesija: CROMARIS D.D.
+DESCRIPTION:1 ugovor o koncesiji ističe 1. 10. 2038. Godišnja fiksna nakn
+ ada: 33.487 €.\n\n• CROMARIS D.D. – Koncesija pomorskog dobra u svrh
+ u gospodarskog korištenja luke (SALI)\, 33.487 €/god.\n\nProfil općine
+ : https://koncesijski-sat.vercel.app/#opcina/41942358B70775371213679\nIzvo
+ r: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B70775371213679
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: CROMARIS D.D.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-e1d7ba0b99c325b4@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20380401
+DTEND;VALUE=DATE:20380402
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (CROMARIS D.D.)
+DESCRIPTION:1. 10. 2038. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• CROMARIS D.D. – Koncesija pomorskog dobra u svrhu gospodarskog 
+ korištenja luke (SALI)\, 33.487 €/god.\n\nProfil općine: https://konce
+ sijski-sat.vercel.app/#opcina/41942358B70775371213679
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B70775371213679
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (CROMARIS D.D
+ .)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-d66cb6eb185b7609@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20460909
+DTEND;VALUE=DATE:20460910
+SUMMARY:Ističe koncesija: CROMARIS D.D.
+DESCRIPTION:1 ugovor o koncesiji ističe 9. 9. 2046. Godišnja fiksna nakna
+ da: 64.121 €.\n\n• CROMARIS D.D. – Koncesija na pomorskom dobru (SAL
+ I)\, 64.121 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app
+ /#opcina/41942358B70775371213679\nIzvor: Registar koncesija (FINA)\, obrad
+ a Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B70775371213679
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: CROMARIS D.D.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-d66cb6eb185b7609@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20460309
+DTEND;VALUE=DATE:20460310
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (CROMARIS D.D.)
+DESCRIPTION:9. 9. 2046. ističe 1 ugovor o koncesiji. Novi postupak dodjele
+  treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
+ \n\n• CROMARIS D.D. – Koncesija na pomorskom dobru (SALI)\, 64.121 €
+ /god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419423
+ 58B70775371213679
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B70775371213679
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (CROMARIS D.D
+ .)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-24c13820287cfcb8@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20601015
+DTEND;VALUE=DATE:20601016
+SUMMARY:Ističe koncesija: DRŽAVNI HIDROMETEOROLOŠKI ZAVOD
+DESCRIPTION:1 ugovor o koncesiji ističe 15. 10. 2060. Godišnja fiksna nak
+ nada: 22 €.\n\n• DRŽAVNI HIDROMETEOROLOŠKI ZAVOD – Koncesija na po
+ morskom dobru (SALI)\, 22 €/god.\n\nProfil općine: https://koncesijski-
+ sat.vercel.app/#opcina/41942358B70775371213679\nIzvor: Registar koncesija 
+ (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B70775371213679
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: DRŽAVNI HIDROMETEOROLOŠKI ZAVOD
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-24c13820287cfcb8@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20600415
+DTEND;VALUE=DATE:20600416
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DRŽAVNI HIDROME
+ TEOROLOŠKI ZAVOD)
+DESCRIPTION:15. 10. 2060. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• DRŽAVNI HIDROMETEOROLOŠKI ZAVOD – Koncesija na pomorskom dob
+ ru (SALI)\, 22 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.
+ app/#opcina/41942358B70775371213679
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B70775371213679
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DRŽAVNI HID
+ ROMETEOROLOŠKI ZAVOD)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

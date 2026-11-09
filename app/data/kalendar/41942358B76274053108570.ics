@@ -1,0 +1,312 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · Općina Erdut
+X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Erdut. Iz Regist
+ ra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podata
+ ka. https://koncesijski-sat.vercel.app/#opcina/41942358B76274053108570
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-49ba05b701eeb8e9@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20341231
+DTEND;VALUE=DATE:20350101
+SUMMARY:Ističe 3 koncesije · Erdut
+DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2034. Godišnja fiksna na
+ knada: 17.024 €.\n\n• OPEKA D.O.O. – Koncesija za eksploataciju cigl
+ arske gline (ERDUT)\, 8.512 €/god.\n• OPEKA D.O.O. – Koncesija za po
+ vršinu utvrđenog eksploatacijskog polja neenergetskih mineralnih sirovin
+ a (ERDUT)\, 8.512 €/god.\n• OPEKA D.O.O. – Koncesija za eksploatacij
+ u ciglarske gline (ERDUT)\n\nProfil općine: https://koncesijski-sat.verce
+ l.app/#opcina/41942358B76274053108570\nIzvor: Registar koncesija (FINA)\, 
+ obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B76274053108570
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 3 koncesije · Erdut
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-49ba05b701eeb8e9@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20340630
+DTEND;VALUE=DATE:20340701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:31. 12. 2034. ističe 3 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• OPEKA D.O.O. – Koncesija za eksploataciju ciglarske gline (ER
+ DUT)\, 8.512 €/god.\n• OPEKA D.O.O. – Koncesija za površinu utvrđe
+ nog eksploatacijskog polja neenergetskih mineralnih sirovina (ERDUT)\, 8.5
+ 12 €/god.\n• OPEKA D.O.O. – Koncesija za eksploataciju ciglarske gli
+ ne (ERDUT)\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4
+ 1942358B76274053108570
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B76274053108570
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-66ed59fd925e38f6@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20360707
+DTEND;VALUE=DATE:20360708
+SUMMARY:Ističe koncesija: NOVI AGRAR D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 7. 7. 2036. Godišnja fiksna nakna
+ da: 19.382 €.\n\n• NOVI AGRAR D.O.O. – Koncesija za korištenje polj
+ oprivrednog zemljišta u vlasništvu države (ERDUT)\, 19.382 €/god.\n\n
+ Profil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B762740
+ 53108570\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11.
+  2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B76274053108570
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: NOVI AGRAR D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-66ed59fd925e38f6@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20360107
+DTEND;VALUE=DATE:20360108
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (NOVI AGRAR D.O.O
+ .)
+DESCRIPTION:7. 7. 2036. ističe 1 ugovor o koncesiji. Novi postupak dodjele
+  treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
+ \n\n• NOVI AGRAR D.O.O. – Koncesija za korištenje poljoprivrednog zem
+ ljišta u vlasništvu države (ERDUT)\, 19.382 €/god.\n\nProfil općine:
+  https://koncesijski-sat.vercel.app/#opcina/41942358B76274053108570
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B76274053108570
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (NOVI AGRAR D
+ .O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-afd74566ae84a05b@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20360710
+DTEND;VALUE=DATE:20360711
+SUMMARY:Ističe koncesija: NOVI AGRAR D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 10. 7. 2036. Godišnja fiksna nakn
+ ada: 155.717 €.\n\n• NOVI AGRAR D.O.O. – Koncesija za korištenje po
+ ljoprivrednog zemljišta u vlasništvu države (ERDUT)\, 155.717 €/god.\
+ n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B762
+ 74053108570\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 
+ 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B76274053108570
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: NOVI AGRAR D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-afd74566ae84a05b@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20360110
+DTEND;VALUE=DATE:20360111
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (NOVI AGRAR D.O.O
+ .)
+DESCRIPTION:10. 7. 2036. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• NOVI AGRAR D.O.O. – Koncesija za korištenje poljoprivrednog ze
+ mljišta u vlasništvu države (ERDUT)\, 155.717 €/god.\n\nProfil općin
+ e: https://koncesijski-sat.vercel.app/#opcina/41942358B76274053108570
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B76274053108570
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (NOVI AGRAR D
+ .O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-77faf922dfb8e9e0@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20390128
+DTEND;VALUE=DATE:20390129
+SUMMARY:Ističe koncesija: NOVI AGRAR D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 28. 1. 2039. Godišnja fiksna nakn
+ ada: 5.779 €.\n\n• NOVI AGRAR D.O.O. – Koncesija za korištenje polj
+ oprivrednog zemljišta u vlasništvu države (ERDUT)\, 5.779 €/god.\n\nP
+ rofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B7627405
+ 3108570\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 
+ 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B76274053108570
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: NOVI AGRAR D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-77faf922dfb8e9e0@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20380728
+DTEND;VALUE=DATE:20380729
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (NOVI AGRAR D.O.O
+ .)
+DESCRIPTION:28. 1. 2039. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• NOVI AGRAR D.O.O. – Koncesija za korištenje poljoprivrednog ze
+ mljišta u vlasništvu države (ERDUT)\, 5.779 €/god.\n\nProfil općine:
+  https://koncesijski-sat.vercel.app/#opcina/41942358B76274053108570
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B76274053108570
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (NOVI AGRAR D
+ .O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-831de6beab509839@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20450306
+DTEND;VALUE=DATE:20450307
+SUMMARY:Ističe koncesija: NOVI AGRAR D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 6. 3. 2045. Godišnja fiksna nakna
+ da: 2.137 €.\n\n• NOVI AGRAR D.O.O. – Koncesija za zahvaćanje voda 
+ za tehnološke potrebe (ERDUT)\, 2.137 €/god.\n\nProfil općine: https:/
+ /koncesijski-sat.vercel.app/#opcina/41942358B76274053108570\nIzvor: Regist
+ ar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B76274053108570
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: NOVI AGRAR D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-831de6beab509839@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20440906
+DTEND;VALUE=DATE:20440907
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (NOVI AGRAR D.O.O
+ .)
+DESCRIPTION:6. 3. 2045. ističe 1 ugovor o koncesiji. Novi postupak dodjele
+  treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
+ \n\n• NOVI AGRAR D.O.O. – Koncesija za zahvaćanje voda za tehnološke
+  potrebe (ERDUT)\, 2.137 €/god.\n\nProfil općine: https://koncesijski-s
+ at.vercel.app/#opcina/41942358B76274053108570
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B76274053108570
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (NOVI AGRAR D
+ .O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-75fcb5108fd79909@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20460224
+DTEND;VALUE=DATE:20460225
+SUMMARY:Ističe 4 koncesije · Erdut
+DESCRIPTION:4 ugovora o koncesiji ističe 24. 2. 2046. Godišnja fiksna nak
+ nada: 18.572 €.\n\n• ERDUTSKI VINOGRADI D.O.O. – Koncesija za koriš
+ tenje poljoprivrednog zemljišta u vlasništvu države (ERDUT)\, 4.643 €
+ /god.\n• ERDUTSKI VINOGRADI D.O.O. – Koncesija za korištenje poljopri
+ vrednog zemljišta u vlasništvu države (ERDUT)\, 4.643 €/god.\n• ERD
+ UTSKI VINOGRADI D.O.O. – Koncesija za korištenje poljoprivrednog zemlji
+ šta u vlasništvu države (ERDUT)\, 4.643 €/god.\n• ERDUTSKI VINOGRAD
+ I D.O.O. – Koncesija za korištenje poljoprivrednog zemljišta u vlasni
+ štvu države (ERDUT)\, 4.643 €/god.\n\nProfil općine: https://koncesij
+ ski-sat.vercel.app/#opcina/41942358B76274053108570\nIzvor: Registar konces
+ ija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B76274053108570
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 4 koncesije · Erdut
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-75fcb5108fd79909@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20450824
+DTEND;VALUE=DATE:20450825
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 4 koncesije
+DESCRIPTION:24. 2. 2046. ističe 4 ugovora o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• ERDUTSKI VINOGRADI D.O.O. – Koncesija za korištenje poljopriv
+ rednog zemljišta u vlasništvu države (ERDUT)\, 4.643 €/god.\n• ERDU
+ TSKI VINOGRADI D.O.O. – Koncesija za korištenje poljoprivrednog zemlji
+ šta u vlasništvu države (ERDUT)\, 4.643 €/god.\n• ERDUTSKI VINOGRAD
+ I D.O.O. – Koncesija za korištenje poljoprivrednog zemljišta u vlasni
+ štvu države (ERDUT)\, 4.643 €/god.\n• ERDUTSKI VINOGRADI D.O.O. – 
+ Koncesija za korištenje poljoprivrednog zemljišta u vlasništvu države 
+ (ERDUT)\, 4.643 €/god.\n\nProfil općine: https://koncesijski-sat.vercel
+ .app/#opcina/41942358B76274053108570
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B76274053108570
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 4 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-f9b27262e77cff2c@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20690628
+DTEND;VALUE=DATE:20690629
+SUMMARY:Ističe koncesija: HEP-PLIN D.O.O. ZA DISTRIBUCIJU I OPSKRBU PLINOM
+DESCRIPTION:1 ugovor o koncesiji ističe 28. 6. 2069.\n\n• HEP-PLIN D.O.O
+ . ZA DISTRIBUCIJU I OPSKRBU PLINOM – Koncesija za obavljanje distribucij
+ e plina na postojećem distribucijskom sustavu (ERDUT)\n\nProfil općine: 
+ https://koncesijski-sat.vercel.app/#opcina/41942358B76274053108570\nIzvor:
+  Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B76274053108570
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: HEP-PLIN D.O.O. ZA DISTRIBUCIJU I OPSKRBU PL
+ INOM
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-f9b27262e77cff2c@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20681228
+DTEND;VALUE=DATE:20681229
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP-PLIN D.O.O. 
+ ZA DISTRIBUCIJU I OPSKRBU PLINOM)
+DESCRIPTION:28. 6. 2069. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• HEP-PLIN D.O.O. ZA DISTRIBUCIJU I OPSKRBU PLINOM – Koncesija za
+  obavljanje distribucije plina na postojećem distribucijskom sustavu (ERD
+ UT)\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358
+ B76274053108570
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B76274053108570
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP-PLIN D.O
+ .O. ZA DISTRIBUCIJU I OPSKRBU PLINOM)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,59 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · Općina Promina
+X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Promina. Iz Regi
+ stra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade poda
+ taka. https://koncesijski-sat.vercel.app/#opcina/41942358B37296056589464
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-61e1365141a90349@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20581231
+DTEND;VALUE=DATE:20590101
+SUMMARY:Ističe 3 koncesije · Promina
+DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2058. Godišnja fiksna na
+ knada: 5.130 €.\n\n• CALCIT BILA STRANA D.O.O. – Koncesija za površ
+ inu utvrđenog eksploatacijskog polja neenergetskih mineralnih sirovina (P
+ ROMINA)\, 5.130 €/god.\n• CALCIT BILA STRANA D.O.O. – Koncesija za e
+ ksploataciju karbonatne mineralne sirovine za industrijsku preradbu (PROMI
+ NA)\n• CALCIT BILA STRANA D.O.O. – Koncesija za eksploataciju karbonat
+ ne mineralne sirovine za industrijsku preradbu (PROMINA)\n\nProfil općine
+ : https://koncesijski-sat.vercel.app/#opcina/41942358B37296056589464\nIzvo
+ r: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B37296056589464
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 3 koncesije · Promina
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-61e1365141a90349@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20580630
+DTEND;VALUE=DATE:20580701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:31. 12. 2058. ističe 3 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• CALCIT BILA STRANA D.O.O. – Koncesija za površinu utvrđenog
+  eksploatacijskog polja neenergetskih mineralnih sirovina (PROMINA)\, 5.13
+ 0 €/god.\n• CALCIT BILA STRANA D.O.O. – Koncesija za eksploataciju k
+ arbonatne mineralne sirovine za industrijsku preradbu (PROMINA)\n• CALCI
+ T BILA STRANA D.O.O. – Koncesija za eksploataciju karbonatne mineralne s
+ irovine za industrijsku preradbu (PROMINA)\n\nProfil općine: https://konc
+ esijski-sat.vercel.app/#opcina/41942358B37296056589464
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B37296056589464
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

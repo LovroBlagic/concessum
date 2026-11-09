@@ -1,0 +1,99 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · Grad Imotski
+X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Grad Imotski. Iz Registr
+ a koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podatak
+ a. https://koncesijski-sat.vercel.app/#opcina/41942358B54061913174641
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-c0c2a5f81ec83d6c@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20280721
+DTEND;VALUE=DATE:20280722
+SUMMARY:Ističe koncesija: HILARIS D.O.O.ZA TRGOVINU I USLUGE
+DESCRIPTION:1 ugovor o koncesiji ističe 21. 7. 2028. Godišnja fiksna nakn
+ ada: 66 €.\n\n• HILARIS D.O.O.ZA TRGOVINU I USLUGE – Koncesija za ob
+ avljanje djelatnosti radija (IMOTSKI\, LOKVIČIĆI\, PODBABLJE\, PROLOŽAC
+ \, RUNOVIĆI\, ZMIJAVCI)\, 66 €/god.\n\nProfil općine: https://koncesij
+ ski-sat.vercel.app/#opcina/41942358B54061913174641\nIzvor: Registar konces
+ ija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B54061913174641
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: HILARIS D.O.O.ZA TRGOVINU I USLUGE
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-c0c2a5f81ec83d6c@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20280121
+DTEND;VALUE=DATE:20280122
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HILARIS D.O.O.ZA
+  TRGOVINU I USLUGE)
+DESCRIPTION:21. 7. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• HILARIS D.O.O.ZA TRGOVINU I USLUGE – Koncesija za obavljanje dj
+ elatnosti radija (IMOTSKI\, LOKVIČIĆI\, PODBABLJE\, PROLOŽAC\, RUNOVIĆ
+ I\, ZMIJAVCI)\, 66 €/god.\n\nProfil općine: https://koncesijski-sat.ver
+ cel.app/#opcina/41942358B54061913174641
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B54061913174641
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HILARIS D.O.
+ O.ZA TRGOVINU I USLUGE)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-b7200f95dd3fa2ac@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20351231
+DTEND;VALUE=DATE:20360101
+SUMMARY:Ističe 3 koncesije · Imotski
+DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2035. Godišnja fiksna na
+ knada: 4.284 €.\n\n• MARITIM BETONI D.O.O. – Koncesija za površinu 
+ utvrđenog eksploatacijskog polja neenergetskih mineralnih sirovina (IMOTS
+ KI)\, 4.284 €/god.\n• MARITIM BETONI D.O.O. – Koncesija za eksploata
+ ciju tehničko-građevnog kamena (IMOTSKI)\n• MARITIM BETONI D.O.O. – 
+ Koncesija za eksploataciju tehničko-građevnog kamena (IMOTSKI)\n\nProfil
+  općine: https://koncesijski-sat.vercel.app/#opcina/41942358B540619131746
+ 41\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B54061913174641
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 3 koncesije · Imotski
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-b7200f95dd3fa2ac@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20350630
+DTEND;VALUE=DATE:20350701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:31. 12. 2035. ističe 3 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• MARITIM BETONI D.O.O. – Koncesija za površinu utvrđenog eks
+ ploatacijskog polja neenergetskih mineralnih sirovina (IMOTSKI)\, 4.284 
+ €/god.\n• MARITIM BETONI D.O.O. – Koncesija za eksploataciju tehnič
+ ko-građevnog kamena (IMOTSKI)\n• MARITIM BETONI D.O.O. – Koncesija za
+  eksploataciju tehničko-građevnog kamena (IMOTSKI)\n\nProfil općine: ht
+ tps://koncesijski-sat.vercel.app/#opcina/41942358B54061913174641
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B54061913174641
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

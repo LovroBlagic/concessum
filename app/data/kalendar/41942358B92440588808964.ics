@@ -1,0 +1,252 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · Općina Đulovac
+X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Đulovac. Iz Reg
+ istra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade pod
+ ataka. https://koncesijski-sat.vercel.app/#opcina/41942358B92440588808964
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-bfc365788476321a@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:Ističe 3 koncesije · Đulovac
+DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2026. Godišnja fiksna na
+ knada: 726 €.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauzetu
+  površinu odobrenog eksploatacijskog polja (ĐULOVAC)\, 726 €/god.\n•
+  INA D.D. – Dozvola za eksploataciju ugljikovodika (prema Zakonu o uglji
+ kovodicima) (ĐULOVAC)\n• INA-INDUSTRIJA NAFTE  D.D. – Dozvola za eksp
+ loataciju ugljikovodika (prema Zakonu o ugljikovodicima) (ĐULOVAC)\n\nPro
+ fil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B924405888
+ 08964\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 20
+ 26.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B92440588808964
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 3 koncesije · Đulovac
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-8687a55906898775@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20270628
+DTEND;VALUE=DATE:20270629
+SUMMARY:Ističe koncesija: INA\, D.D.
+DESCRIPTION:1 ugovor o koncesiji ističe 28. 6. 2027. Godišnja fiksna nakn
+ ada: 3.910 €.\n\n• INA\, D.D. – Dozvola za istraživanje ugljikovodi
+ ka (prema Zakonu o ugljikovodicima) (ĐULOVAC)\, 3.910 €/god.\n\nProfil 
+ općine: https://koncesijski-sat.vercel.app/#opcina/41942358B9244058880896
+ 4\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B92440588808964
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: INA\, D.D.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-8687a55906898775@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20261228
+DTEND;VALUE=DATE:20261229
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA\, D.D.)
+DESCRIPTION:28. 6. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• INA\, D.D. – Dozvola za istraživanje ugljikovodika (prema Zako
+ nu o ugljikovodicima) (ĐULOVAC)\, 3.910 €/god.\n\nProfil općine: https
+ ://koncesijski-sat.vercel.app/#opcina/41942358B92440588808964
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B92440588808964
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA\, D.D.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-a46612bcde257498@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20311231
+DTEND;VALUE=DATE:20320101
+SUMMARY:Ističe 3 koncesije · Đulovac
+DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2031. Godišnja fiksna na
+ knada: 3.180 €.\n\n• HRVATSKE ŠUME D.O.O. – Koncesija za eksploatac
+ iju tehničko-građevnog kamena (ĐULOVAC)\, 1.590 €/god.\n• HRVATSKE 
+ ŠUME D.O.O. – Koncesija za površinu utvrđenog eksploatacijskog polja 
+ neenergetskih mineralnih sirovina (ĐULOVAC)\, 1.590 €/god.\n• HRVATSK
+ E ŠUME D.O.O. – Koncesija za eksploataciju tehničko-građevnog kamena 
+ (ĐULOVAC)\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4
+ 1942358B92440588808964\nIzvor: Registar koncesija (FINA)\, obrada Koncesij
+ ski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B92440588808964
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 3 koncesije · Đulovac
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-a46612bcde257498@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20310630
+DTEND;VALUE=DATE:20310701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:31. 12. 2031. ističe 3 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• HRVATSKE ŠUME D.O.O. – Koncesija za eksploataciju tehničko-
+ građevnog kamena (ĐULOVAC)\, 1.590 €/god.\n• HRVATSKE ŠUME D.O.O. 
+ – Koncesija za površinu utvrđenog eksploatacijskog polja neenergetskih
+  mineralnih sirovina (ĐULOVAC)\, 1.590 €/god.\n• HRVATSKE ŠUME D.O.O
+ . – Koncesija za eksploataciju tehničko-građevnog kamena (ĐULOVAC)\n\
+ nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B92440
+ 588808964
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B92440588808964
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-3c29c9f3c0b4e06f@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20421231
+DTEND;VALUE=DATE:20430101
+SUMMARY:Ističe koncesija: INA-INDUSTRIJA NAFTE  D.D.
+DESCRIPTION:1 ugovor o koncesiji ističe 31. 12. 2042.\n\n• INA-INDUSTRIJ
+ A NAFTE  D.D. – Dozvola za eksploataciju ugljikovodika (prema Zakonu o u
+ gljikovodicima) (ĐULOVAC)\n\nProfil općine: https://koncesijski-sat.verc
+ el.app/#opcina/41942358B92440588808964\nIzvor: Registar koncesija (FINA)\,
+  obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B92440588808964
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: INA-INDUSTRIJA NAFTE  D.D.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-3c29c9f3c0b4e06f@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20420630
+DTEND;VALUE=DATE:20420701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA-INDUSTRIJA N
+ AFTE  D.D.)
+DESCRIPTION:31. 12. 2042. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Dozvola za eksploataciju ugljikov
+ odika (prema Zakonu o ugljikovodicima) (ĐULOVAC)\n\nProfil općine: https
+ ://koncesijski-sat.vercel.app/#opcina/41942358B92440588808964
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B92440588808964
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA-INDUSTRI
+ JA NAFTE  D.D.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-7d66ccfc5c7ef69e@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20501010
+DTEND;VALUE=DATE:20501011
+SUMMARY:Ističe 3 koncesije · Đulovac
+DESCRIPTION:3 ugovora o koncesiji ističe 10. 10. 2050. Godišnja fiksna na
+ knada: 12.347 €.\n\n• INTER-PROMET D.O.O. – Koncesija za eksploataci
+ ju tehničko-građevnog kamena (ĐULOVAC)\, 8.149 €/god.\n• INTER-PROM
+ ET D.O.O. – Koncesija za površinu utvrđenog eksploatacijskog polja nee
+ nergetskih mineralnih sirovina (ĐULOVAC)\, 4.198 €/god.\n• INTER-PROM
+ ET D.O.O. – Koncesija za eksploataciju tehničko-građevnog kamena (ĐUL
+ OVAC)\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419423
+ 58B92440588808964\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski s
+ at 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B92440588808964
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 3 koncesije · Đulovac
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-7d66ccfc5c7ef69e@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20500410
+DTEND;VALUE=DATE:20500411
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:10. 10. 2050. ističe 3 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• INTER-PROMET D.O.O. – Koncesija za eksploataciju tehničko-gr
+ ađevnog kamena (ĐULOVAC)\, 8.149 €/god.\n• INTER-PROMET D.O.O. – K
+ oncesija za površinu utvrđenog eksploatacijskog polja neenergetskih mine
+ ralnih sirovina (ĐULOVAC)\, 4.198 €/god.\n• INTER-PROMET D.O.O. – K
+ oncesija za eksploataciju tehničko-građevnog kamena (ĐULOVAC)\n\nProfil
+  općine: https://koncesijski-sat.vercel.app/#opcina/41942358B924405888089
+ 64
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B92440588808964
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-97031b3f95f6a742@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20591231
+DTEND;VALUE=DATE:20600101
+SUMMARY:Ističe 3 koncesije · Đulovac
+DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2059. Godišnja fiksna na
+ knada: 20.988 €.\n\n• KAMENOLOM ŠANDROVAC D.O.O. – Koncesija za eks
+ ploataciju tehničko-građevnog kamena (ĐULOVAC)\, 6.996 €/god.\n• KA
+ MENOLOM ŠANDROVAC D.O.O. – Koncesija za eksploataciju tehničko-građev
+ nog kamena (ĐULOVAC)\, 6.996 €/god.\n• KAMENOLOM ŠANDROVAC D.O.O. 
+ – Koncesija za površinu utvrđenog eksploatacijskog polja neenergetskih
+  mineralnih sirovina (ĐULOVAC)\, 6.996 €/god.\n\nProfil općine: https:
+ //koncesijski-sat.vercel.app/#opcina/41942358B92440588808964\nIzvor: Regis
+ tar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B92440588808964
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 3 koncesije · Đulovac
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-97031b3f95f6a742@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20590630
+DTEND;VALUE=DATE:20590701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:31. 12. 2059. ističe 3 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• KAMENOLOM ŠANDROVAC D.O.O. – Koncesija za eksploataciju tehn
+ ičko-građevnog kamena (ĐULOVAC)\, 6.996 €/god.\n• KAMENOLOM ŠANDRO
+ VAC D.O.O. – Koncesija za eksploataciju tehničko-građevnog kamena (ĐU
+ LOVAC)\, 6.996 €/god.\n• KAMENOLOM ŠANDROVAC D.O.O. – Koncesija za 
+ površinu utvrđenog eksploatacijskog polja neenergetskih mineralnih sirov
+ ina (ĐULOVAC)\, 6.996 €/god.\n\nProfil općine: https://koncesijski-sat
+ .vercel.app/#opcina/41942358B92440588808964
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B92440588808964
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

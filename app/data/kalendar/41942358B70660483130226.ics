@@ -1,0 +1,186 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · Općina Janjina
+X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Janjina. Iz Regi
+ stra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade poda
+ taka. https://koncesijski-sat.vercel.app/#opcina/41942358B70660483130226
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-9a95b619003dc945@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20280630
+DTEND;VALUE=DATE:20280701
+SUMMARY:Ističe koncesija: EDIVO D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 30. 6. 2028. Godišnja fiksna nakn
+ ada: 193 €.\n\n• EDIVO D.O.O. – Koncesija na pomorskom dobru (JANJIN
+ A)\, 193 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#o
+ pcina/41942358B70660483130226\nIzvor: Registar koncesija (FINA)\, obrada K
+ oncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B70660483130226
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: EDIVO D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-9a95b619003dc945@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20271230
+DTEND;VALUE=DATE:20271231
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (EDIVO D.O.O.)
+DESCRIPTION:30. 6. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• EDIVO D.O.O. – Koncesija na pomorskom dobru (JANJINA)\, 193 €
+ /god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419423
+ 58B70660483130226
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B70660483130226
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (EDIVO D.O.O.
+ )
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-99ce8a0b7b3b6c08@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20340930
+DTEND;VALUE=DATE:20341001
+SUMMARY:Ističe 6 koncesija · Janjina
+DESCRIPTION:6 ugovora o koncesiji ističe 30. 9. 2034. Godišnja fiksna nak
+ nada: 2.341 €.\n\n• PETAR\, RIBARSKI OBRT\, VL. PETAR NOŽICA – Konc
+ esija na pomorskom dobru (JANJINA)\, 1.050 €/god.\n• ŠTICA\, OBRT ZA 
+ UZGOJ ŠKOLJAKA\, VL. IVO BAUTOVIĆ – Koncesija na pomorskom dobru (JANJ
+ INA)\, 450 €/god.\n• VICKO I ZDRAVKO LAZIĆ\, ŠKOLJKARSTVO I RIBOLOV 
+ BRAĆA LAZIĆ – Koncesija na pomorskom dobru (JANJINA)\, 298 €/god.\n
+ • MARIJA LAZIĆ – Koncesija na pomorskom dobru (JANJINA)\, 255 €/god
+ .\n• MARIJA LAZIĆ – Koncesija na pomorskom dobru (JANJINA)\, 255 €/
+ god.\n• PONTA KABO\, OBRT ZA UZGOJ ŠKOLJAKA\, VL. IVICA BAČINA – Kon
+ cesija na pomorskom dobru (JANJINA)\, 33 €/god.\n\nProfil općine: https
+ ://koncesijski-sat.vercel.app/#opcina/41942358B70660483130226\nIzvor: Regi
+ star koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B70660483130226
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 6 koncesija · Janjina
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-99ce8a0b7b3b6c08@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20340330
+DTEND;VALUE=DATE:20340331
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 6 koncesija
+DESCRIPTION:30. 9. 2034. ističe 6 ugovora o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• PETAR\, RIBARSKI OBRT\, VL. PETAR NOŽICA – Koncesija na pomor
+ skom dobru (JANJINA)\, 1.050 €/god.\n• ŠTICA\, OBRT ZA UZGOJ ŠKOLJAK
+ A\, VL. IVO BAUTOVIĆ – Koncesija na pomorskom dobru (JANJINA)\, 450 €
+ /god.\n• VICKO I ZDRAVKO LAZIĆ\, ŠKOLJKARSTVO I RIBOLOV BRAĆA LAZIĆ 
+ – Koncesija na pomorskom dobru (JANJINA)\, 298 €/god.\n• MARIJA LAZI
+ Ć – Koncesija na pomorskom dobru (JANJINA)\, 255 €/god.\n• MARIJA L
+ AZIĆ – Koncesija na pomorskom dobru (JANJINA)\, 255 €/god.\n• PONTA
+  KABO\, OBRT ZA UZGOJ ŠKOLJAKA\, VL. IVICA BAČINA – Koncesija na pomor
+ skom dobru (JANJINA)\, 33 €/god.\n\nProfil općine: https://koncesijski-
+ sat.vercel.app/#opcina/41942358B70660483130226
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B70660483130226
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 6 koncesija
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-082b7070050227e0@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20350914
+DTEND;VALUE=DATE:20350915
+SUMMARY:Ističe 2 koncesije · Janjina
+DESCRIPTION:2 ugovora o koncesiji ističe 14. 9. 2035. Godišnja fiksna nak
+ nada: 2.786 €.\n\n• PETAR\, RIBARSKI OBRT\, VL. PETAR NOŽICA – Konc
+ esija na pomorskom dobru (JANJINA)\, 1.393 €/god.\n• PETAR\, RIBARSKI 
+ OBRT\, VL. PETAR NOŽICA – Koncesija na pomorskom dobru (JANJINA)\, 1.39
+ 3 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4
+ 1942358B70660483130226\nIzvor: Registar koncesija (FINA)\, obrada Koncesij
+ ski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B70660483130226
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 2 koncesije · Janjina
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-082b7070050227e0@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20350314
+DTEND;VALUE=DATE:20350315
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:14. 9. 2035. ističe 2 ugovora o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• PETAR\, RIBARSKI OBRT\, VL. PETAR NOŽICA – Koncesija na pomor
+ skom dobru (JANJINA)\, 1.393 €/god.\n• PETAR\, RIBARSKI OBRT\, VL. PET
+ AR NOŽICA – Koncesija na pomorskom dobru (JANJINA)\, 1.393 €/god.\n\n
+ Profil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B706604
+ 83130226
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B70660483130226
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-59f04cf8ec3d835b@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20760717
+DTEND;VALUE=DATE:20760718
+SUMMARY:Ističe koncesija: HRVATSKI TELEKOM D.D.
+DESCRIPTION:1 ugovor o koncesiji ističe 17. 7. 2076. Godišnja fiksna nakn
+ ada: 3.401 €.\n\n• HRVATSKI TELEKOM D.D. – Posebna upotreba pomorsko
+ g dobra (JANJINA)\, 3.401 €/god.\n\nProfil općine: https://koncesijski-
+ sat.vercel.app/#opcina/41942358B70660483130226\nIzvor: Registar koncesija 
+ (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B70660483130226
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: HRVATSKI TELEKOM D.D.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-59f04cf8ec3d835b@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20760117
+DTEND;VALUE=DATE:20760118
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKI TELEKOM
+  D.D.)
+DESCRIPTION:17. 7. 2076. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• HRVATSKI TELEKOM D.D. – Posebna upotreba pomorskog dobra (JANJI
+ NA)\, 3.401 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app
+ /#opcina/41942358B70660483130226
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B70660483130226
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKI TEL
+ EKOM D.D.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

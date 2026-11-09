@@ -1,0 +1,93 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · Općina Gradište
+X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Gradište. Iz Re
+ gistra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade po
+ dataka. https://koncesijski-sat.vercel.app/#opcina/41942358B38008088244386
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-6f689e9ad0b74b36@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20310127
+DTEND;VALUE=DATE:20310128
+SUMMARY:Ističe koncesija: ČAĐO PRODUKT D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 27. 1. 2031. Godišnja fiksna nakn
+ ada: 700 €.\n\n• ČAĐO PRODUKT D.O.O. – Koncesija za obavljanje dim
+ njačarskih poslova (GRADIŠTE)\, 700 €/god.\n\nProfil općine: https://
+ koncesijski-sat.vercel.app/#opcina/41942358B38008088244386\nIzvor: Regista
+ r koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B38008088244386
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: ČAĐO PRODUKT D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-6f689e9ad0b74b36@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20300727
+DTEND;VALUE=DATE:20300728
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ČAĐO PRODUKT D
+ .O.O.)
+DESCRIPTION:27. 1. 2031. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• ČAĐO PRODUKT D.O.O. – Koncesija za obavljanje dimnjačarskih 
+ poslova (GRADIŠTE)\, 700 €/god.\n\nProfil općine: https://koncesijski-
+ sat.vercel.app/#opcina/41942358B38008088244386
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B38008088244386
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ČAĐO PRODU
+ KT D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-cdc9e7f683dd2bdf@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20431231
+DTEND;VALUE=DATE:20440101
+SUMMARY:Ističe koncesija: EKO-STOČAR D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 31. 12. 2043. Godišnja fiksna nak
+ nada: 8 €.\n\n• EKO-STOČAR D.O.O. – Koncesija za zahvaćanje voda z
+ a melioracijsko navodnjavanje (GRADIŠTE)\, 8 €/god.\n\nProfil općine: 
+ https://koncesijski-sat.vercel.app/#opcina/41942358B38008088244386\nIzvor:
+  Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B38008088244386
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: EKO-STOČAR D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-cdc9e7f683dd2bdf@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20430630
+DTEND;VALUE=DATE:20430701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (EKO-STOČAR D.O.
+ O.)
+DESCRIPTION:31. 12. 2043. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• EKO-STOČAR D.O.O. – Koncesija za zahvaćanje voda za meliorac
+ ijsko navodnjavanje (GRADIŠTE)\, 8 €/god.\n\nProfil općine: https://ko
+ ncesijski-sat.vercel.app/#opcina/41942358B38008088244386
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B38008088244386
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (EKO-STOČAR 
+ D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

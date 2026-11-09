@@ -1,0 +1,124 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · Općina Kloštar Podravski
+X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Kloštar Podravs
+ ki. Iz Registra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake 
+ obrade podataka. https://koncesijski-sat.vercel.app/#opcina/41942358B16092
+ 68830463
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-ae37da9e15d06f8a@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:Ističe 2 koncesije · Kloštar Podravski
+DESCRIPTION:2 ugovora o koncesiji ističe 31. 12. 2026.\n\n• INA D.D. –
+  Dozvola za eksploataciju ugljikovodika (prema Zakonu o ugljikovodicima) (
+ KLOŠTAR PODRAVSKI)\n• INA-INDUSTRIJA NAFTE  D.D. – Dozvola za eksploa
+ taciju ugljikovodika (prema Zakonu o ugljikovodicima) (KLOŠTAR PODRAVSKI)
+ \n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B16
+ 09268830463\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 
+ 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B1609268830463
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 2 koncesije · Kloštar Podravski
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-0410ab282581ef14@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20291013
+DTEND;VALUE=DATE:20291014
+SUMMARY:Ističe koncesija: RADIO PITOMAČA D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 13. 10. 2029. Godišnja fiksna nak
+ nada: 66 €.\n\n• RADIO PITOMAČA D.O.O. – Koncesija za obavljanje dj
+ elatnosti radija (KLOŠTAR PODRAVSKI\, PITOMAČA\, PODRAVSKE SESVETE\, ŠP
+ IŠIĆ BUKOVICA)\, 66 €/god.\n\nProfil općine: https://koncesijski-sat.
+ vercel.app/#opcina/41942358B1609268830463\nIzvor: Registar koncesija (FINA
+ )\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B1609268830463
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: RADIO PITOMAČA D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-0410ab282581ef14@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20290413
+DTEND;VALUE=DATE:20290414
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (RADIO PITOMAČA 
+ D.O.O.)
+DESCRIPTION:13. 10. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• RADIO PITOMAČA D.O.O. – Koncesija za obavljanje djelatnosti r
+ adija (KLOŠTAR PODRAVSKI\, PITOMAČA\, PODRAVSKE SESVETE\, ŠPIŠIĆ BUKO
+ VICA)\, 66 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/
+ #opcina/41942358B1609268830463
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B1609268830463
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (RADIO PITOMA
+ ČA D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-b9ee00d0abe449d8@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20451231
+DTEND;VALUE=DATE:20460101
+SUMMARY:Ističe 3 koncesije · Kloštar Podravski
+DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2045. Godišnja fiksna na
+ knada: 6.024 €.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Dozvola za zauzetu
+  površinu utvrđenog eksploatacijskog polja ugljikovodika (prema Zakonu o
+  ugljikovodicima) (KLOŠTAR PODRAVSKI)\, 6.024 €/god.\n• INA-INDUSTRIJ
+ A NAFTE  D.D. – Dozvola za eksploataciju ugljikovodika (prema Zakonu o u
+ gljikovodicima) (KLOŠTAR PODRAVSKI)\n• INA D.D. – Dozvola za eksploat
+ aciju ugljikovodika (prema Zakonu o ugljikovodicima) (KLOŠTAR PODRAVSKI)\
+ n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B160
+ 9268830463\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 1
+ 1. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B1609268830463
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 3 koncesije · Kloštar Podravski
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-b9ee00d0abe449d8@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20450630
+DTEND;VALUE=DATE:20450701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:31. 12. 2045. ističe 3 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Dozvola za zauzetu površinu utv
+ rđenog eksploatacijskog polja ugljikovodika (prema Zakonu o ugljikovodici
+ ma) (KLOŠTAR PODRAVSKI)\, 6.024 €/god.\n• INA-INDUSTRIJA NAFTE  D.D. 
+ – Dozvola za eksploataciju ugljikovodika (prema Zakonu o ugljikovodicima
+ ) (KLOŠTAR PODRAVSKI)\n• INA D.D. – Dozvola za eksploataciju ugljikov
+ odika (prema Zakonu o ugljikovodicima) (KLOŠTAR PODRAVSKI)\n\nProfil opć
+ ine: https://koncesijski-sat.vercel.app/#opcina/41942358B1609268830463
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B1609268830463
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

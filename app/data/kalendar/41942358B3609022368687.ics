@@ -1,0 +1,105 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · Općina Žminj
+X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Žminj. Iz Regis
+ tra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podat
+ aka. https://koncesijski-sat.vercel.app/#opcina/41942358B3609022368687
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-ffb6bcd6030d885d@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20311231
+DTEND;VALUE=DATE:20320101
+SUMMARY:Ističe 3 koncesije · Žminj
+DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2031. Godišnja fiksna na
+ knada: 3.488 €.\n\n• CESTA D.O.O. – Koncesija za eksploataciju tehni
+ čko-građevnog kamena (ŽMINJ)\, 1.744 €/god.\n• CESTA D.O.O. – Kon
+ cesija za površinu utvrđenog eksploatacijskog polja neenergetskih minera
+ lnih sirovina (ŽMINJ)\, 1.744 €/god.\n• CESTA D.O.O. – Koncesija za
+  eksploataciju tehničko-građevnog kamena (ŽMINJ)\n\nProfil općine: htt
+ ps://koncesijski-sat.vercel.app/#opcina/41942358B3609022368687\nIzvor: Reg
+ istar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B3609022368687
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 3 koncesije · Žminj
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-ffb6bcd6030d885d@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20310630
+DTEND;VALUE=DATE:20310701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:31. 12. 2031. ističe 3 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• CESTA D.O.O. – Koncesija za eksploataciju tehničko-građevno
+ g kamena (ŽMINJ)\, 1.744 €/god.\n• CESTA D.O.O. – Koncesija za povr
+ šinu utvrđenog eksploatacijskog polja neenergetskih mineralnih sirovina 
+ (ŽMINJ)\, 1.744 €/god.\n• CESTA D.O.O. – Koncesija za eksploataciju
+  tehničko-građevnog kamena (ŽMINJ)\n\nProfil općine: https://koncesijs
+ ki-sat.vercel.app/#opcina/41942358B3609022368687
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B3609022368687
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-4061bc472ed8013f@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20371231
+DTEND;VALUE=DATE:20380101
+SUMMARY:Ističe 3 koncesije · Žminj
+DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2037. Godišnja fiksna na
+ knada: 7.240 €.\n\n• OBRT BETON TOMIŠIĆ VL. IGOR TOMIŠIĆ I MLADEN 
+ TOMIŠIĆ – Koncesija za eksploataciju tehničko-građevnog kamena (ŽMI
+ NJ)\, 3.620 €/god.\n• OBRT BETON TOMIŠIĆ VL. IGOR TOMIŠIĆ I MLADEN
+  TOMIŠIĆ – Koncesija za površinu utvrđenog eksploatacijskog polja ne
+ energetskih mineralnih sirovina (ŽMINJ)\, 3.620 €/god.\n• OBRT BETON 
+ TOMIŠIĆ\, VL. IGOR TOMIŠIĆ I MLADEN TOMIŠIĆ – Koncesija za eksploa
+ taciju tehničko-građevnog kamena (ŽMINJ)\n\nProfil općine: https://kon
+ cesijski-sat.vercel.app/#opcina/41942358B3609022368687\nIzvor: Registar ko
+ ncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B3609022368687
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 3 koncesije · Žminj
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-4061bc472ed8013f@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20370630
+DTEND;VALUE=DATE:20370701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:31. 12. 2037. ističe 3 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• OBRT BETON TOMIŠIĆ VL. IGOR TOMIŠIĆ I MLADEN TOMIŠIĆ – 
+ Koncesija za eksploataciju tehničko-građevnog kamena (ŽMINJ)\, 3.620 
+ €/god.\n• OBRT BETON TOMIŠIĆ VL. IGOR TOMIŠIĆ I MLADEN TOMIŠIĆ 
+ – Koncesija za površinu utvrđenog eksploatacijskog polja neenergetskih
+  mineralnih sirovina (ŽMINJ)\, 3.620 €/god.\n• OBRT BETON TOMIŠIĆ\,
+  VL. IGOR TOMIŠIĆ I MLADEN TOMIŠIĆ – Koncesija za eksploataciju tehn
+ ičko-građevnog kamena (ŽMINJ)\n\nProfil općine: https://koncesijski-sa
+ t.vercel.app/#opcina/41942358B3609022368687
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B3609022368687
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

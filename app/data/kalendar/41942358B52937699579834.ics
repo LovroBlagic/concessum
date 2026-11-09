@@ -1,0 +1,306 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · Općina Tovarnik
+X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Tovarnik. Iz Reg
+ istra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade pod
+ ataka. https://koncesijski-sat.vercel.app/#opcina/41942358B52937699579834
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-4728996dfbbac617@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20270728
+DTEND;VALUE=DATE:20270729
+SUMMARY:Ističe koncesija: MULL-TRANS D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 28. 7. 2027.\n\n• MULL-TRANS D.O
+ .O. – Koncesija za zbrinjavanje komunalnog otpada i održavanje zelenih 
+ i javnih površina (TOVARNIK)\n\nProfil općine: https://koncesijski-sat.v
+ ercel.app/#opcina/41942358B52937699579834\nIzvor: Registar koncesija (FINA
+ )\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B52937699579834
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: MULL-TRANS D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-4728996dfbbac617@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20270128
+DTEND;VALUE=DATE:20270129
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MULL-TRANS D.O.O
+ .)
+DESCRIPTION:28. 7. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• MULL-TRANS D.O.O. – Koncesija za zbrinjavanje komunalnog otpada
+  i održavanje zelenih i javnih površina (TOVARNIK)\n\nProfil općine: ht
+ tps://koncesijski-sat.vercel.app/#opcina/41942358B52937699579834
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B52937699579834
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MULL-TRANS D
+ .O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-f1e3dc824e631f25@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20270731
+DTEND;VALUE=DATE:20270801
+SUMMARY:Ističe 2 koncesije · Tovarnik
+DESCRIPTION:2 ugovora o koncesiji ističe 31. 7. 2027.\n\n• INA D.D. – 
+ Dozvola za eksploataciju ugljikovodika (prema Zakonu o ugljikovodicima) (T
+ OVARNIK)\n• INA-INDUSTRIJA NAFTE  D.D. – Dozvola za eksploataciju uglj
+ ikovodika (prema Zakonu o ugljikovodicima) (TOVARNIK)\n\nProfil općine: h
+ ttps://koncesijski-sat.vercel.app/#opcina/41942358B52937699579834\nIzvor: 
+ Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B52937699579834
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 2 koncesije · Tovarnik
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-f1e3dc824e631f25@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:31. 7. 2027. ističe 2 ugovora o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• INA D.D. – Dozvola za eksploataciju ugljikovodika (prema Zakon
+ u o ugljikovodicima) (TOVARNIK)\n• INA-INDUSTRIJA NAFTE  D.D. – Dozvol
+ a za eksploataciju ugljikovodika (prema Zakonu o ugljikovodicima) (TOVARNI
+ K)\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B
+ 52937699579834
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B52937699579834
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-665a3178e72d41d3@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20300417
+DTEND;VALUE=DATE:20300418
+SUMMARY:Ističe koncesija: DIMNJAČARSKO USLUŽNI OBRT EKO DIM VINKOVCI\, V
+ L. HRVOJE HORVAT
+DESCRIPTION:1 ugovor o koncesiji ističe 17. 4. 2030. Godišnja fiksna nakn
+ ada: 500 €.\n\n• DIMNJAČARSKO USLUŽNI OBRT EKO DIM VINKOVCI\, VL. HR
+ VOJE HORVAT – Koncesija za obavljanje dimnjačarskih poslova (TOVARNIK)\
+ , 500 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opci
+ na/41942358B52937699579834\nIzvor: Registar koncesija (FINA)\, obrada Konc
+ esijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B52937699579834
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: DIMNJAČARSKO USLUŽNI OBRT EKO DIM VINKOVCI
+ \, VL. HRVOJE HORVAT
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-665a3178e72d41d3@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20291017
+DTEND;VALUE=DATE:20291018
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DIMNJAČARSKO US
+ LUŽNI OBRT EKO DIM VINKOVCI\, VL. HRVOJE HORVAT)
+DESCRIPTION:17. 4. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• DIMNJAČARSKO USLUŽNI OBRT EKO DIM VINKOVCI\, VL. HRVOJE HORVAT 
+ – Koncesija za obavljanje dimnjačarskih poslova (TOVARNIK)\, 500 €/go
+ d.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B
+ 52937699579834
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B52937699579834
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DIMNJAČARSK
+ O USLUŽNI OBRT EKO DIM VINKOVCI\, VL. HRVOJE HORVAT)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-77dffa12d7cada27@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20350920
+DTEND;VALUE=DATE:20350921
+SUMMARY:Ističe koncesija: HEP-PLIN  D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 20. 9. 2035.\n\n• HEP-PLIN  D.O.
+ O. – Koncesija za obavljanje distribucije plina na postojećem distribuc
+ ijskom sustavu (TOVARNIK)\n\nProfil općine: https://koncesijski-sat.verce
+ l.app/#opcina/41942358B52937699579834\nIzvor: Registar koncesija (FINA)\, 
+ obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B52937699579834
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: HEP-PLIN  D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-77dffa12d7cada27@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20350320
+DTEND;VALUE=DATE:20350321
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP-PLIN  D.O.O.
+ )
+DESCRIPTION:20. 9. 2035. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• HEP-PLIN  D.O.O. – Koncesija za obavljanje distribucije plina n
+ a postojećem distribucijskom sustavu (TOVARNIK)\n\nProfil općine: https:
+ //koncesijski-sat.vercel.app/#opcina/41942358B52937699579834
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B52937699579834
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP-PLIN  D.
+ O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-e78c8c22598a2beb@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20371231
+DTEND;VALUE=DATE:20380101
+SUMMARY:Ističe 3 koncesije · Tovarnik
+DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2037. Godišnja fiksna na
+ knada: 2.480 €.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauze
+ tu površinu odobrenog eksploatacijskog polja (TOVARNIK)\, 2.480 €/god.\
+ n• INA-INDUSTRIJA NAFTE  D.D. – Dozvola za eksploataciju ugljikovodika
+  (prema Zakonu o ugljikovodicima) (TOVARNIK)\n• INA D.D. – Dozvola za 
+ eksploataciju ugljikovodika (prema Zakonu o ugljikovodicima) (TOVARNIK)\n\
+ nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B52937
+ 699579834\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11
+ . 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B52937699579834
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 3 koncesije · Tovarnik
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-e78c8c22598a2beb@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20370630
+DTEND;VALUE=DATE:20370701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:31. 12. 2037. ističe 3 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauzetu površinu o
+ dobrenog eksploatacijskog polja (TOVARNIK)\, 2.480 €/god.\n• INA-INDUS
+ TRIJA NAFTE  D.D. – Dozvola za eksploataciju ugljikovodika (prema Zakonu
+  o ugljikovodicima) (TOVARNIK)\n• INA D.D. – Dozvola za eksploataciju 
+ ugljikovodika (prema Zakonu o ugljikovodicima) (TOVARNIK)\n\nProfil općin
+ e: https://koncesijski-sat.vercel.app/#opcina/41942358B52937699579834
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B52937699579834
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-66bd8f81e68308f1@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20381015
+DTEND;VALUE=DATE:20381016
+SUMMARY:Ističe koncesija: AGRO-TOVARNIK  D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 15. 10. 2038. Godišnja fiksna nak
+ nada: 210.621 €.\n\n• AGRO-TOVARNIK  D.O.O. – Koncesija za korišten
+ je poljoprivrednog zemljišta u vlasništvu države (TOVARNIK)\, 210.621 
+ €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
+ 42358B52937699579834\nIzvor: Registar koncesija (FINA)\, obrada Koncesijsk
+ i sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B52937699579834
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: AGRO-TOVARNIK  D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-66bd8f81e68308f1@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20380415
+DTEND;VALUE=DATE:20380416
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (AGRO-TOVARNIK  D
+ .O.O.)
+DESCRIPTION:15. 10. 2038. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• AGRO-TOVARNIK  D.O.O. – Koncesija za korištenje poljoprivredn
+ og zemljišta u vlasništvu države (TOVARNIK)\, 210.621 €/god.\n\nProfi
+ l općine: https://koncesijski-sat.vercel.app/#opcina/41942358B52937699579
+ 834
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B52937699579834
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (AGRO-TOVARNI
+ K  D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-d0d5b70e60310d72@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20401231
+DTEND;VALUE=DATE:20410101
+SUMMARY:Ističe koncesija: INA-INDUSTRIJA NAFTE  D.D.
+DESCRIPTION:1 ugovor o koncesiji ističe 31. 12. 2040. Godišnja fiksna nak
+ nada: 3.680 €.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauzet
+ u površinu odobrenog eksploatacijskog polja (TOVARNIK)\, 3.680 €/god.\n
+ \nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B5293
+ 7699579834\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 1
+ 1. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B52937699579834
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: INA-INDUSTRIJA NAFTE  D.D.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-d0d5b70e60310d72@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20400630
+DTEND;VALUE=DATE:20400701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA-INDUSTRIJA N
+ AFTE  D.D.)
+DESCRIPTION:31. 12. 2040. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauzetu površinu od
+ obrenog eksploatacijskog polja (TOVARNIK)\, 3.680 €/god.\n\nProfil opći
+ ne: https://koncesijski-sat.vercel.app/#opcina/41942358B52937699579834
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B52937699579834
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA-INDUSTRI
+ JA NAFTE  D.D.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

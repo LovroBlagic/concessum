@@ -1,0 +1,102 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · Općina Berek
+X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Berek. Iz Regist
+ ra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podata
+ ka. https://koncesijski-sat.vercel.app/#opcina/41942358B92225299849481
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-e075667903c01992@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20271113
+DTEND;VALUE=DATE:20271114
+SUMMARY:Ističe koncesija: ASPECT CROATIA KFT.
+DESCRIPTION:1 ugovor o koncesiji ističe 13. 11. 2027. Godišnja fiksna nak
+ nada: 150 €.\n\n• ASPECT CROATIA KFT. – Dozvola za istraživanje ugl
+ jikovodika (prema Zakonu o ugljikovodicima) (BEREK)\, 150 €/god.\n\nProf
+ il općine: https://koncesijski-sat.vercel.app/#opcina/41942358B9222529984
+ 9481\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 202
+ 6.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B92225299849481
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: ASPECT CROATIA KFT.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-e075667903c01992@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20270513
+DTEND;VALUE=DATE:20270514
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ASPECT CROATIA K
+ FT.)
+DESCRIPTION:13. 11. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• ASPECT CROATIA KFT. – Dozvola za istraživanje ugljikovodika (
+ prema Zakonu o ugljikovodicima) (BEREK)\, 150 €/god.\n\nProfil općine: 
+ https://koncesijski-sat.vercel.app/#opcina/41942358B92225299849481
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B92225299849481
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ASPECT CROAT
+ IA KFT.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-23e1e29cbeaed690@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20300420
+DTEND;VALUE=DATE:20300421
+SUMMARY:Ističe koncesija: ELEKTROMETAL-DISTRIBUCIJA PLINA D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 20. 4. 2030. Godišnja fiksna nakn
+ ada: 1.327 €.\n\n• ELEKTROMETAL-DISTRIBUCIJA PLINA D.O.O. – Koncesij
+ a za obavljanje distribucije plina na postojećem distribucijskom sustavu 
+ (BEREK\, BJELOVAR\, BJELOVAR\, IVANSKA\, IVANSKA\, KAPELA\, KAPELA\, NOVA 
+ RAČA\, NOVA RAČA\, ROVIŠĆE\, ROVIŠĆE\, SEVERIN\, SEVERIN\, VELIKA PI
+ SANICA\, VELIKA PISANICA\, VELIKI GRĐEVAC\, VELIKI GRĐEVAC\, ŠTEFANJE\,
+  ŠTEFANJE)\, 1.327 €/god.\n\nProfil općine: https://koncesijski-sat.ve
+ rcel.app/#opcina/41942358B92225299849481\nIzvor: Registar koncesija (FINA)
+ \, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B92225299849481
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: ELEKTROMETAL-DISTRIBUCIJA PLINA D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-23e1e29cbeaed690@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20291020
+DTEND;VALUE=DATE:20291021
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ELEKTROMETAL-DIS
+ TRIBUCIJA PLINA D.O.O.)
+DESCRIPTION:20. 4. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• ELEKTROMETAL-DISTRIBUCIJA PLINA D.O.O. – Koncesija za obavljanj
+ e distribucije plina na postojećem distribucijskom sustavu (BEREK\, BJELO
+ VAR\, BJELOVAR\, IVANSKA\, IVANSKA\, KAPELA\, KAPELA\, NOVA RAČA\, NOVA R
+ AČA\, ROVIŠĆE\, ROVIŠĆE\, SEVERIN\, SEVERIN\, VELIKA PISANICA\, VELIK
+ A PISANICA\, VELIKI GRĐEVAC\, VELIKI GRĐEVAC\, ŠTEFANJE\, ŠTEFANJE)\, 
+ 1.327 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opci
+ na/41942358B92225299849481
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B92225299849481
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ELEKTROMETAL
+ -DISTRIBUCIJA PLINA D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

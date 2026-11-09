@@ -1,0 +1,72 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · Grad Klanjec
+X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Grad Klanjec. Iz Registr
+ a koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podatak
+ a. https://koncesijski-sat.vercel.app/#opcina/41942358B11577968549196
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-ea9f16eeb3626b7f@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20270301
+DTEND;VALUE=DATE:20270302
+SUMMARY:Ističe koncesija: LEUŠTEK J.D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 1. 3. 2027. Godišnja fiksna nakna
+ da: 1.340 €.\n\n• LEUŠTEK J.D.O.O. – Koncesija za obavljanje dimnja
+ čarskih poslova (KLANJEC)\, 1.340 €/god.\n\nProfil općine: https://kon
+ cesijski-sat.vercel.app/#opcina/41942358B11577968549196\nIzvor: Registar k
+ oncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B11577968549196
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: LEUŠTEK J.D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-991a68cdb89cf778@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20280430
+DTEND;VALUE=DATE:20280501
+SUMMARY:Ističe koncesija: PREDIONICA KLANJEC D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 30. 4. 2028. Godišnja fiksna nakn
+ ada: 5.840 €.\n\n• PREDIONICA KLANJEC D.O.O. – Koncesija za zahvaća
+ nje voda za tehnološke potrebe (KLANJEC)\, 5.840 €/god.\n\nProfil opći
+ ne: https://koncesijski-sat.vercel.app/#opcina/41942358B11577968549196\nIz
+ vor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B11577968549196
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: PREDIONICA KLANJEC D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-991a68cdb89cf778@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20271030
+DTEND;VALUE=DATE:20271031
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PREDIONICA KLANJ
+ EC D.O.O.)
+DESCRIPTION:30. 4. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• PREDIONICA KLANJEC D.O.O. – Koncesija za zahvaćanje voda za te
+ hnološke potrebe (KLANJEC)\, 5.840 €/god.\n\nProfil općine: https://ko
+ ncesijski-sat.vercel.app/#opcina/41942358B11577968549196
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B11577968549196
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PREDIONICA K
+ LANJEC D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

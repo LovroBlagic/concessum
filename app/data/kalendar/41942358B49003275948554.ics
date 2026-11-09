@@ -1,0 +1,175 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · Općina Gradina
+X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Gradina. Iz Regi
+ stra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade poda
+ taka. https://koncesijski-sat.vercel.app/#opcina/41942358B49003275948554
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-d9236e2abc85b4c6@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20350331
+DTEND;VALUE=DATE:20350401
+SUMMARY:Ističe koncesija: POLJOPRIVREDNO DOBRO D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 31. 3. 2035. Godišnja fiksna nakn
+ ada: 28.894 €.\n\n• POLJOPRIVREDNO DOBRO D.O.O. – Koncesija za kori
+ štenje poljoprivrednog zemljišta u vlasništvu države (GRADINA)\, 28.89
+ 4 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4
+ 1942358B49003275948554\nIzvor: Registar koncesija (FINA)\, obrada Koncesij
+ ski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B49003275948554
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: POLJOPRIVREDNO DOBRO D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-d9236e2abc85b4c6@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20340930
+DTEND;VALUE=DATE:20341001
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (POLJOPRIVREDNO D
+ OBRO D.O.O.)
+DESCRIPTION:31. 3. 2035. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• POLJOPRIVREDNO DOBRO D.O.O. – Koncesija za korištenje poljopri
+ vrednog zemljišta u vlasništvu države (GRADINA)\, 28.894 €/god.\n\nPr
+ ofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B49003275
+ 948554
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B49003275948554
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (POLJOPRIVRED
+ NO DOBRO D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-7a4994a8d1aeb86d@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20390206
+DTEND;VALUE=DATE:20390207
+SUMMARY:Ističe koncesija: ZADRUGA BRANITELJA DRAGOVOLJAC GRADINA
+DESCRIPTION:1 ugovor o koncesiji ističe 6. 2. 2039. Godišnja fiksna nakna
+ da: 664 €.\n\n• ZADRUGA BRANITELJA DRAGOVOLJAC GRADINA – Koncesija z
+ a korištenje poljoprivrednog zemljišta u vlasništvu države (GRADINA)\,
+  664 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcin
+ a/41942358B49003275948554\nIzvor: Registar koncesija (FINA)\, obrada Konce
+ sijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B49003275948554
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: ZADRUGA BRANITELJA DRAGOVOLJAC GRADINA
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-7a4994a8d1aeb86d@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20380806
+DTEND;VALUE=DATE:20380807
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ZADRUGA BRANITEL
+ JA DRAGOVOLJAC GRADINA)
+DESCRIPTION:6. 2. 2039. ističe 1 ugovor o koncesiji. Novi postupak dodjele
+  treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
+ \n\n• ZADRUGA BRANITELJA DRAGOVOLJAC GRADINA – Koncesija za korištenj
+ e poljoprivrednog zemljišta u vlasništvu države (GRADINA)\, 664 €/god
+ .\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B4
+ 9003275948554
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B49003275948554
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ZADRUGA BRAN
+ ITELJA DRAGOVOLJAC GRADINA)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-d7f5f8dc13beeae0@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20401004
+DTEND;VALUE=DATE:20401005
+SUMMARY:Ističe koncesija: CROMARIS D.D.
+DESCRIPTION:1 ugovor o koncesiji ističe 4. 10. 2040. Godišnja fiksna nakn
+ ada: 20.926 €.\n\n• CROMARIS D.D. – Koncesija na pomorskom dobru (GR
+ ADINA\, ROVINJ - ROVIGNO\, ROVINJ - ROVIGNO)\, 20.926 €/god.\n\nProfil o
+ pćine: https://koncesijski-sat.vercel.app/#opcina/41942358B49003275948554
+ \nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B49003275948554
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: CROMARIS D.D.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-d7f5f8dc13beeae0@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20400404
+DTEND;VALUE=DATE:20400405
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (CROMARIS D.D.)
+DESCRIPTION:4. 10. 2040. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• CROMARIS D.D. – Koncesija na pomorskom dobru (GRADINA\, ROVINJ 
+ - ROVIGNO\, ROVINJ - ROVIGNO)\, 20.926 €/god.\n\nProfil općine: https:/
+ /koncesijski-sat.vercel.app/#opcina/41942358B49003275948554
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B49003275948554
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (CROMARIS D.D
+ .)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-9704600c1866075a@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20440305
+DTEND;VALUE=DATE:20440306
+SUMMARY:Ističe koncesija: HEP-PLIN D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 5. 3. 2044.\n\n• HEP-PLIN D.O.O.
+  – Koncesija za obavljanje distribucije plina na postojećem distribucij
+ skom sustavu (GRADINA)\n\nProfil općine: https://koncesijski-sat.vercel.a
+ pp/#opcina/41942358B49003275948554\nIzvor: Registar koncesija (FINA)\, obr
+ ada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B49003275948554
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: HEP-PLIN D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-9704600c1866075a@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20430905
+DTEND;VALUE=DATE:20430906
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP-PLIN D.O.O.)
+DESCRIPTION:5. 3. 2044. ističe 1 ugovor o koncesiji. Novi postupak dodjele
+  treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
+ \n\n• HEP-PLIN D.O.O. – Koncesija za obavljanje distribucije plina na 
+ postojećem distribucijskom sustavu (GRADINA)\n\nProfil općine: https://k
+ oncesijski-sat.vercel.app/#opcina/41942358B49003275948554
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B49003275948554
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP-PLIN D.O
+ .O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

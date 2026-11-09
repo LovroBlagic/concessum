@@ -1,0 +1,464 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · Grad Karlovac
+X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Grad Karlovac. Iz Regist
+ ra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podata
+ ka. https://koncesijski-sat.vercel.app/#opcina/41942358B65976264535285
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-267ff84f696ed487@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20270829
+DTEND;VALUE=DATE:20270830
+SUMMARY:Ističe koncesija: ODETA D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 29. 8. 2027. Godišnja fiksna nakn
+ ada: 2.197 €.\n\n• ODETA D.O.O. – Koncesija za korištenje vodne sna
+ ge radi proizvodnje električne energije (KARLOVAC)\, 2.197 €/god.\n\nPr
+ ofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B65976264
+ 535285\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2
+ 026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B65976264535285
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: ODETA D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-267ff84f696ed487@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270301
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ODETA D.O.O.)
+DESCRIPTION:29. 8. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• ODETA D.O.O. – Koncesija za korištenje vodne snage radi proizv
+ odnje električne energije (KARLOVAC)\, 2.197 €/god.\n\nProfil općine: 
+ https://koncesijski-sat.vercel.app/#opcina/41942358B65976264535285
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B65976264535285
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ODETA D.O.O.
+ )
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-d8d8e75e7941db58@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20360725
+DTEND;VALUE=DATE:20360726
+SUMMARY:Ističe koncesija: GRADSKA TOPLANA D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 25. 7. 2036.\n\n• GRADSKA TOPLAN
+ A D.O.O. – Koncesija za obavljanje komunalne djelatnosti opskrbe toplins
+ kom energijom (KARLOVAC)\n\nProfil općine: https://koncesijski-sat.vercel
+ .app/#opcina/41942358B65976264535285\nIzvor: Registar koncesija (FINA)\, o
+ brada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B65976264535285
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: GRADSKA TOPLANA D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-d8d8e75e7941db58@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20360125
+DTEND;VALUE=DATE:20360126
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (GRADSKA TOPLANA 
+ D.O.O.)
+DESCRIPTION:25. 7. 2036. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• GRADSKA TOPLANA D.O.O. – Koncesija za obavljanje komunalne djel
+ atnosti opskrbe toplinskom energijom (KARLOVAC)\n\nProfil općine: https:/
+ /koncesijski-sat.vercel.app/#opcina/41942358B65976264535285
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B65976264535285
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (GRADSKA TOPL
+ ANA D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-a556af92679c348b@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20371231
+DTEND;VALUE=DATE:20380101
+SUMMARY:Ističe 3 koncesije · Karlovac
+DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2037. Godišnja fiksna na
+ knada: 12.590 €.\n\n• WIENERBERGER D.O.O. – Koncesija za površinu u
+ tvrđenog eksploatacijskog polja neenergetskih mineralnih sirovina (KARLOV
+ AC)\, 12.590 €/god.\n• WIENERBERGER D.O.O. – Koncesija za eksploatac
+ iju ciglarske gline (KARLOVAC)\n• WIENERBERGER D.O.O. – Koncesija za e
+ ksploataciju ciglarske gline (KARLOVAC)\n\nProfil općine: https://koncesi
+ jski-sat.vercel.app/#opcina/41942358B65976264535285\nIzvor: Registar konce
+ sija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B65976264535285
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 3 koncesije · Karlovac
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-a556af92679c348b@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20370630
+DTEND;VALUE=DATE:20370701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:31. 12. 2037. ističe 3 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• WIENERBERGER D.O.O. – Koncesija za površinu utvrđenog ekspl
+ oatacijskog polja neenergetskih mineralnih sirovina (KARLOVAC)\, 12.590 
+ €/god.\n• WIENERBERGER D.O.O. – Koncesija za eksploataciju ciglarske
+  gline (KARLOVAC)\n• WIENERBERGER D.O.O. – Koncesija za eksploataciju 
+ ciglarske gline (KARLOVAC)\n\nProfil općine: https://koncesijski-sat.verc
+ el.app/#opcina/41942358B65976264535285
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B65976264535285
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-e2a2b4b3407619f7@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20421231
+DTEND;VALUE=DATE:20430101
+SUMMARY:Ističe 3 koncesije · Karlovac
+DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2042. Godišnja fiksna na
+ knada: 4.416 €.\n\n• WIENERBERGER D.O.O. – Koncesija za površinu ut
+ vrđenog eksploatacijskog polja neenergetskih mineralnih sirovina (KARLOVA
+ C)\, 4.416 €/god.\n• WIENERBERGER D.O.O. – Koncesija za eksploatacij
+ u građevnog pijeska i šljunka (KARLOVAC)\n• WIENERBERGER D.O.O. – Ko
+ ncesija za eksploataciju građevnog pijeska i šljunka (KARLOVAC)\n\nProfi
+ l općine: https://koncesijski-sat.vercel.app/#opcina/41942358B65976264535
+ 285\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026
+ .
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B65976264535285
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 3 koncesije · Karlovac
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-e2a2b4b3407619f7@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20420630
+DTEND;VALUE=DATE:20420701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:31. 12. 2042. ističe 3 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• WIENERBERGER D.O.O. – Koncesija za površinu utvrđenog ekspl
+ oatacijskog polja neenergetskih mineralnih sirovina (KARLOVAC)\, 4.416 €
+ /god.\n• WIENERBERGER D.O.O. – Koncesija za eksploataciju građevnog p
+ ijeska i šljunka (KARLOVAC)\n• WIENERBERGER D.O.O. – Koncesija za eks
+ ploataciju građevnog pijeska i šljunka (KARLOVAC)\n\nProfil općine: htt
+ ps://koncesijski-sat.vercel.app/#opcina/41942358B65976264535285
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B65976264535285
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-02d616bff4136e78@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20441128
+DTEND;VALUE=DATE:20441129
+SUMMARY:Ističe koncesija: EKOLOŠKI SISTEMI D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 28. 11. 2044. Godišnja fiksna nak
+ nada: 2.892 €.\n\n• EKOLOŠKI SISTEMI D.O.O. – Koncesija za korište
+ nje vodne snage radi proizvodnje električne energije (KARLOVAC)\, 2.892 
+ €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
+ 42358B65976264535285\nIzvor: Registar koncesija (FINA)\, obrada Koncesijsk
+ i sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B65976264535285
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: EKOLOŠKI SISTEMI D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-02d616bff4136e78@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20440528
+DTEND;VALUE=DATE:20440529
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (EKOLOŠKI SISTEM
+ I D.O.O.)
+DESCRIPTION:28. 11. 2044. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• EKOLOŠKI SISTEMI D.O.O. – Koncesija za korištenje vodne snag
+ e radi proizvodnje električne energije (KARLOVAC)\, 2.892 €/god.\n\nPro
+ fil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B659762645
+ 35285
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B65976264535285
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (EKOLOŠKI SI
+ STEMI D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-e8485173b0323b4b@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20451020
+DTEND;VALUE=DATE:20451021
+SUMMARY:Ističe koncesija: FEAL HRVATSKA D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 20. 10. 2045. Godišnja fiksna nak
+ nada: 3.000 €.\n\n• FEAL HRVATSKA D.O.O. – Koncesija za zahvaćanje 
+ voda za tehnološke potrebe (KARLOVAC)\, 3.000 €/god.\n\nProfil općine:
+  https://koncesijski-sat.vercel.app/#opcina/41942358B65976264535285\nIzvor
+ : Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B65976264535285
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: FEAL HRVATSKA D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-e8485173b0323b4b@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20450420
+DTEND;VALUE=DATE:20450421
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (FEAL HRVATSKA D.
+ O.O.)
+DESCRIPTION:20. 10. 2045. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• FEAL HRVATSKA D.O.O. – Koncesija za zahvaćanje voda za tehnol
+ oške potrebe (KARLOVAC)\, 3.000 €/god.\n\nProfil općine: https://konce
+ sijski-sat.vercel.app/#opcina/41942358B65976264535285
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B65976264535285
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (FEAL HRVATSK
+ A D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-ab66ee604891605d@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20451027
+DTEND;VALUE=DATE:20451028
+SUMMARY:Ističe koncesija: DANERO D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 27. 10. 2045. Godišnja fiksna nak
+ nada: 27 €.\n\n• DANERO D.O.O. – Koncesija za zahvaćanje voda za me
+ lioracijsko navodnjavanje (KARLOVAC)\, 27 €/god.\n\nProfil općine: http
+ s://koncesijski-sat.vercel.app/#opcina/41942358B65976264535285\nIzvor: Reg
+ istar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B65976264535285
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: DANERO D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-ab66ee604891605d@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20450427
+DTEND;VALUE=DATE:20450428
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DANERO D.O.O.)
+DESCRIPTION:27. 10. 2045. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• DANERO D.O.O. – Koncesija za zahvaćanje voda za melioracijsko
+  navodnjavanje (KARLOVAC)\, 27 €/god.\n\nProfil općine: https://koncesi
+ jski-sat.vercel.app/#opcina/41942358B65976264535285
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B65976264535285
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DANERO D.O.O
+ .)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-7b9c7d47d8158bc8@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20470719
+DTEND;VALUE=DATE:20470720
+SUMMARY:Ističe koncesija: ODETA D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 19. 7. 2047. Godišnja fiksna nakn
+ ada: 3.996 €.\n\n• ODETA D.O.O. – Koncesija za korištenje vodne sna
+ ge radi proizvodnje električne energije (KARLOVAC)\, 3.996 €/god.\n\nPr
+ ofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B65976264
+ 535285\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2
+ 026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B65976264535285
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: ODETA D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-7b9c7d47d8158bc8@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20470119
+DTEND;VALUE=DATE:20470120
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ODETA D.O.O.)
+DESCRIPTION:19. 7. 2047. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• ODETA D.O.O. – Koncesija za korištenje vodne snage radi proizv
+ odnje električne energije (KARLOVAC)\, 3.996 €/god.\n\nProfil općine: 
+ https://koncesijski-sat.vercel.app/#opcina/41942358B65976264535285
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B65976264535285
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ODETA D.O.O.
+ )
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-ec506fa58741a3c7@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20500427
+DTEND;VALUE=DATE:20500428
+SUMMARY:Ističe koncesija: P P K D.D.
+DESCRIPTION:1 ugovor o koncesiji ističe 27. 4. 2050. Godišnja fiksna nakn
+ ada: 1.075 €.\n\n• P P K D.D. – Koncesija za zahvaćanje voda za teh
+ nološke potrebe (KARLOVAC)\, 1.075 €/god.\n\nProfil općine: https://ko
+ ncesijski-sat.vercel.app/#opcina/41942358B65976264535285\nIzvor: Registar 
+ koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B65976264535285
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: P P K D.D.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-ec506fa58741a3c7@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20491027
+DTEND;VALUE=DATE:20491028
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (P P K D.D.)
+DESCRIPTION:27. 4. 2050. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• P P K D.D. – Koncesija za zahvaćanje voda za tehnološke potre
+ be (KARLOVAC)\, 1.075 €/god.\n\nProfil općine: https://koncesijski-sat.
+ vercel.app/#opcina/41942358B65976264535285
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B65976264535285
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (P P K D.D.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-aa182fc438e62265@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20540228
+DTEND;VALUE=DATE:20540301
+SUMMARY:Ističe koncesija: MESNA INDUSTRIJA BRAĆA PIVAC D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 28. 2. 2054. Godišnja fiksna nakn
+ ada: 2.220 €.\n\n• MESNA INDUSTRIJA BRAĆA PIVAC D.O.O. – Koncesija 
+ za zahvaćanje voda za tehnološke potrebe (KARLOVAC)\, 2.220 €/god.\n\n
+ Profil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B659762
+ 64535285\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11.
+  2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B65976264535285
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: MESNA INDUSTRIJA BRAĆA PIVAC D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-aa182fc438e62265@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20530828
+DTEND;VALUE=DATE:20530829
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MESNA INDUSTRIJA
+  BRAĆA PIVAC D.O.O.)
+DESCRIPTION:28. 2. 2054. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• MESNA INDUSTRIJA BRAĆA PIVAC D.O.O. – Koncesija za zahvaćanje
+  voda za tehnološke potrebe (KARLOVAC)\, 2.220 €/god.\n\nProfil općine
+ : https://koncesijski-sat.vercel.app/#opcina/41942358B65976264535285
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B65976264535285
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MESNA INDUST
+ RIJA BRAĆA PIVAC D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-da314464007712d7@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20550626
+DTEND;VALUE=DATE:20550627
+SUMMARY:Ističe koncesija: ASPECT CROATIA KFT. - PODRUŽNICA ZAGREB
+DESCRIPTION:1 ugovor o koncesiji ističe 26. 6. 2055. Godišnja fiksna nakn
+ ada: 17.853 €.\n\n• ASPECT CROATIA KFT. - PODRUŽNICA ZAGREB – Dozvo
+ la za istraživanje ugljikovodika (prema Zakonu o ugljikovodicima) (KARLOV
+ AC)\, 17.853 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.ap
+ p/#opcina/41942358B65976264535285\nIzvor: Registar koncesija (FINA)\, obra
+ da Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B65976264535285
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: ASPECT CROATIA KFT. - PODRUŽNICA ZAGREB
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-da314464007712d7@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20541226
+DTEND;VALUE=DATE:20541227
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ASPECT CROATIA K
+ FT. - PODRUŽNICA ZAGREB)
+DESCRIPTION:26. 6. 2055. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• ASPECT CROATIA KFT. - PODRUŽNICA ZAGREB – Dozvola za istraživ
+ anje ugljikovodika (prema Zakonu o ugljikovodicima) (KARLOVAC)\, 17.853 
+ €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
+ 42358B65976264535285
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B65976264535285
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ASPECT CROAT
+ IA KFT. - PODRUŽNICA ZAGREB)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

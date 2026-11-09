@@ -1,0 +1,538 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · Općina Preko
+X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Preko. Iz Regist
+ ra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podata
+ ka. https://koncesijski-sat.vercel.app/#opcina/41942358B28076069343861
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-475e068ad1aa0dbf@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20270725
+DTEND;VALUE=DATE:20270726
+SUMMARY:Ističe koncesija: MARINA PREKO D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 25. 7. 2027. Godišnja fiksna nakn
+ ada: 9.111 €.\n\n• MARINA PREKO D.O.O. – Koncesija na pomorskom dobr
+ u (PREKO)\, 9.111 €/god.\n\nProfil općine: https://koncesijski-sat.verc
+ el.app/#opcina/41942358B28076069343861\nIzvor: Registar koncesija (FINA)\,
+  obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B28076069343861
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: MARINA PREKO D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-475e068ad1aa0dbf@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20270125
+DTEND;VALUE=DATE:20270126
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MARINA PREKO D.O
+ .O.)
+DESCRIPTION:25. 7. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• MARINA PREKO D.O.O. – Koncesija na pomorskom dobru (PREKO)\, 9.
+ 111 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina
+ /41942358B28076069343861
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B28076069343861
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MARINA PREKO
+  D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-f84a01d6d652f78e@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20271215
+DTEND;VALUE=DATE:20271216
+SUMMARY:Ističe koncesija: ZAGREBAČKA BANKA D.D.
+DESCRIPTION:1 ugovor o koncesiji ističe 15. 12. 2027. Godišnja fiksna nak
+ nada: 3.982 €.\n\n• ZAGREBAČKA BANKA D.D. – Koncesija za luku (PREK
+ O)\, 3.982 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/
+ #opcina/41942358B28076069343861\nIzvor: Registar koncesija (FINA)\, obrada
+  Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B28076069343861
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: ZAGREBAČKA BANKA D.D.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-f84a01d6d652f78e@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20270615
+DTEND;VALUE=DATE:20270616
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ZAGREBAČKA BANK
+ A D.D.)
+DESCRIPTION:15. 12. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• ZAGREBAČKA BANKA D.D. – Koncesija za luku (PREKO)\, 3.982 €
+ /god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419423
+ 58B28076069343861
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B28076069343861
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ZAGREBAČKA 
+ BANKA D.D.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-cc350415aab480f7@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20280810
+DTEND;VALUE=DATE:20280811
+SUMMARY:Ističe koncesija: TRAJEKT OBRT VL. IVANA JEROLIMOV
+DESCRIPTION:1 ugovor o koncesiji ističe 10. 8. 2028. Godišnja fiksna nakn
+ ada: 400 €.\n\n• TRAJEKT OBRT VL. IVANA JEROLIMOV – Koncesija za luk
+ u (PREKO)\, 400 €/god.\n\nProfil općine: https://koncesijski-sat.vercel
+ .app/#opcina/41942358B28076069343861\nIzvor: Registar koncesija (FINA)\, o
+ brada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B28076069343861
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: TRAJEKT OBRT VL. IVANA JEROLIMOV
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-cc350415aab480f7@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20280210
+DTEND;VALUE=DATE:20280211
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (TRAJEKT OBRT VL.
+  IVANA JEROLIMOV)
+DESCRIPTION:10. 8. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• TRAJEKT OBRT VL. IVANA JEROLIMOV – Koncesija za luku (PREKO)\, 
+ 400 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina
+ /41942358B28076069343861
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B28076069343861
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (TRAJEKT OBRT
+  VL. IVANA JEROLIMOV)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-37010038e80b43e6@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20290409
+DTEND;VALUE=DATE:20290410
+SUMMARY:Ističe koncesija: JADROLINIJA PODRN
+DESCRIPTION:1 ugovor o koncesiji ističe 9. 4. 2029. Godišnja fiksna nakna
+ da: 9.600 €.\n\n• JADROLINIJA PODRN – Koncesija za luku (PREKO)\, 9.
+ 600 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina
+ /41942358B28076069343861\nIzvor: Registar koncesija (FINA)\, obrada Konces
+ ijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B28076069343861
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: JADROLINIJA PODRN
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-37010038e80b43e6@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20281009
+DTEND;VALUE=DATE:20281010
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (JADROLINIJA PODR
+ N)
+DESCRIPTION:9. 4. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjele
+  treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
+ \n\n• JADROLINIJA PODRN – Koncesija za luku (PREKO)\, 9.600 €/god.\n
+ \nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B2807
+ 6069343861
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B28076069343861
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (JADROLINIJA 
+ PODRN)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-bd8bae3e21a3b20c@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20310203
+DTEND;VALUE=DATE:20310204
+SUMMARY:Ističe 2 koncesije · Preko
+DESCRIPTION:2 ugovora o koncesiji ističe 3. 2. 2031. Godišnja fiksna nakn
+ ada: 10.000 €.\n\n• JADROLINIJA – Koncesija za obavljanje lokalnog l
+ inijskog prijevoza putnika (PREKO\, ZADAR\, ZADAR)\, 5.000 €/god.\n• J
+ ADROLINIJA – Koncesija za obavljanje lokalnog linijskog prijevoza putnik
+ a (PREKO\, ZADAR)\, 5.000 €/god.\n\nProfil općine: https://koncesijski-
+ sat.vercel.app/#opcina/41942358B28076069343861\nIzvor: Registar koncesija 
+ (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B28076069343861
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 2 koncesije · Preko
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-bd8bae3e21a3b20c@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20300803
+DTEND;VALUE=DATE:20300804
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:3. 2. 2031. ističe 2 ugovora o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• JADROLINIJA – Koncesija za obavljanje lokalnog linijskog prijev
+ oza putnika (PREKO\, ZADAR\, ZADAR)\, 5.000 €/god.\n• JADROLINIJA – 
+ Koncesija za obavljanje lokalnog linijskog prijevoza putnika (PREKO\, ZADA
+ R)\, 5.000 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/
+ #opcina/41942358B28076069343861
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B28076069343861
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-f2ae4743523356c9@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20361001
+DTEND;VALUE=DATE:20361002
+SUMMARY:Ističe koncesija: MARINA SIGNUM D.D.
+DESCRIPTION:1 ugovor o koncesiji ističe 1. 10. 2036. Godišnja fiksna nakn
+ ada: 29.608 €.\n\n• MARINA SIGNUM D.D. – Koncesija pomorskog dobra u
+  svrhu izgradnje i gospodarskog korištenja luke posebne namjene (PREKO)\,
+  29.608 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#op
+ cina/41942358B28076069343861\nIzvor: Registar koncesija (FINA)\, obrada Ko
+ ncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B28076069343861
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: MARINA SIGNUM D.D.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-f2ae4743523356c9@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20360401
+DTEND;VALUE=DATE:20360402
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MARINA SIGNUM D.
+ D.)
+DESCRIPTION:1. 10. 2036. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• MARINA SIGNUM D.D. – Koncesija pomorskog dobra u svrhu izgradnj
+ e i gospodarskog korištenja luke posebne namjene (PREKO)\, 29.608 €/god
+ .\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B2
+ 8076069343861
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B28076069343861
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MARINA SIGNU
+ M D.D.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-519c285dc7204577@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20370709
+DTEND;VALUE=DATE:20370710
+SUMMARY:Ističe koncesija: EMONA D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 9. 7. 2037. Godišnja fiksna nakna
+ da: 2.650 €.\n\n• EMONA D.O.O. – Koncesija pomorskog dobra u svrhu i
+ zgradnje i gospodarskog korištenja (PREKO)\, 2.650 €/god.\n\nProfil op
+ ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B28076069343861\
+ nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B28076069343861
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: EMONA D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-519c285dc7204577@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20370109
+DTEND;VALUE=DATE:20370110
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (EMONA D.O.O.)
+DESCRIPTION:9. 7. 2037. ističe 1 ugovor o koncesiji. Novi postupak dodjele
+  treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
+ \n\n• EMONA D.O.O. – Koncesija pomorskog dobra u svrhu izgradnje i gos
+ podarskog korištenja (PREKO)\, 2.650 €/god.\n\nProfil općine: https://
+ koncesijski-sat.vercel.app/#opcina/41942358B28076069343861
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B28076069343861
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (EMONA D.O.O.
+ )
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-37518df2089b56a5@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20390830
+DTEND;VALUE=DATE:20390831
+SUMMARY:Ističe koncesija: OTOK UGLJAN D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 30. 8. 2039. Godišnja fiksna nakn
+ ada: 1.350 €.\n\n• OTOK UGLJAN D.O.O. – Posebna upotreba pomorskog d
+ obra (PREKO)\, 1.350 €/god.\n\nProfil općine: https://koncesijski-sat.v
+ ercel.app/#opcina/41942358B28076069343861\nIzvor: Registar koncesija (FINA
+ )\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B28076069343861
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: OTOK UGLJAN D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-37518df2089b56a5@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20390228
+DTEND;VALUE=DATE:20390301
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (OTOK UGLJAN D.O.
+ O.)
+DESCRIPTION:30. 8. 2039. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• OTOK UGLJAN D.O.O. – Posebna upotreba pomorskog dobra (PREKO)\,
+  1.350 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opc
+ ina/41942358B28076069343861
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B28076069343861
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (OTOK UGLJAN 
+ D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-7884a43faffc60a0@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20421121
+DTEND;VALUE=DATE:20421122
+SUMMARY:Ističe koncesija: HEP-OPERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O.-DP E
+ LEKTRA ZADAR
+DESCRIPTION:1 ugovor o koncesiji ističe 21. 11. 2042. Godišnja fiksna nak
+ nada: 1.551 €.\n\n• HEP-OPERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O.-DP ELE
+ KTRA ZADAR – Posebna upotreba pomorskog dobra (PREKO)\, 1.551 €/god.\n
+ \nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B2807
+ 6069343861\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 1
+ 1. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B28076069343861
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: HEP-OPERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O.-
+ DP ELEKTRA ZADAR
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-7884a43faffc60a0@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20420521
+DTEND;VALUE=DATE:20420522
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP-OPERATOR DIS
+ TRIBUCIJSKOG SUSTAVA D.O.O.-DP ELEKTRA ZADAR)
+DESCRIPTION:21. 11. 2042. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• HEP-OPERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O.-DP ELEKTRA ZADAR –
+  Posebna upotreba pomorskog dobra (PREKO)\, 1.551 €/god.\n\nProfil opći
+ ne: https://koncesijski-sat.vercel.app/#opcina/41942358B28076069343861
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B28076069343861
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP-OPERATOR
+  DISTRIBUCIJSKOG SUSTAVA D.O.O.-DP ELEKTRA ZADAR)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-e66d5db17c108652@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20430613
+DTEND;VALUE=DATE:20430614
+SUMMARY:Ističe koncesija: LUKORAN RESORT D.O.O. ZA POSLOVNE USLUGE
+DESCRIPTION:1 ugovor o koncesiji ističe 13. 6. 2043. Godišnja fiksna nakn
+ ada: 528 €.\n\n• LUKORAN RESORT D.O.O. ZA POSLOVNE USLUGE – Posebna 
+ upotreba pomorskog dobra (PREKO)\, 528 €/god.\n\nProfil općine: https:/
+ /koncesijski-sat.vercel.app/#opcina/41942358B28076069343861\nIzvor: Regist
+ ar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B28076069343861
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: LUKORAN RESORT D.O.O. ZA POSLOVNE USLUGE
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-e66d5db17c108652@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20421213
+DTEND;VALUE=DATE:20421214
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (LUKORAN RESORT D
+ .O.O. ZA POSLOVNE USLUGE)
+DESCRIPTION:13. 6. 2043. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• LUKORAN RESORT D.O.O. ZA POSLOVNE USLUGE – Posebna upotreba pom
+ orskog dobra (PREKO)\, 528 €/god.\n\nProfil općine: https://koncesijski
+ -sat.vercel.app/#opcina/41942358B28076069343861
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B28076069343861
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (LUKORAN RESO
+ RT D.O.O. ZA POSLOVNE USLUGE)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-69b07cb6e43f777f@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20460320
+DTEND;VALUE=DATE:20460321
+SUMMARY:Ističe koncesija: LIOQA RESORT D.O.O. ZA POSLOVANJE NEKRETNINAMA
+DESCRIPTION:1 ugovor o koncesiji ističe 20. 3. 2046. Godišnja fiksna nakn
+ ada: 41.325 €.\n\n• LIOQA RESORT D.O.O. ZA POSLOVANJE NEKRETNINAMA –
+  Koncesija na pomorskom dobru (PREKO)\, 41.325 €/god.\n\nProfil općine:
+  https://koncesijski-sat.vercel.app/#opcina/41942358B28076069343861\nIzvor
+ : Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B28076069343861
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: LIOQA RESORT D.O.O. ZA POSLOVANJE NEKRETNINA
+ MA
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-69b07cb6e43f777f@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20450920
+DTEND;VALUE=DATE:20450921
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (LIOQA RESORT D.O
+ .O. ZA POSLOVANJE NEKRETNINAMA)
+DESCRIPTION:20. 3. 2046. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• LIOQA RESORT D.O.O. ZA POSLOVANJE NEKRETNINAMA – Koncesija na p
+ omorskom dobru (PREKO)\, 41.325 €/god.\n\nProfil općine: https://konces
+ ijski-sat.vercel.app/#opcina/41942358B28076069343861
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B28076069343861
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (LIOQA RESORT
+  D.O.O. ZA POSLOVANJE NEKRETNINAMA)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-e02ad6280de9bece@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20460509
+DTEND;VALUE=DATE:20460510
+SUMMARY:Ističe koncesija: INA\, D.D.
+DESCRIPTION:1 ugovor o koncesiji ističe 9. 5. 2046. Godišnja fiksna nakna
+ da: 12.098 €.\n\n• INA\, D.D. – Koncesija na pomorskom dobru (PREKO)
+ \, 12.098 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#
+ opcina/41942358B28076069343861\nIzvor: Registar koncesija (FINA)\, obrada 
+ Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B28076069343861
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: INA\, D.D.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-e02ad6280de9bece@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20451109
+DTEND;VALUE=DATE:20451110
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA\, D.D.)
+DESCRIPTION:9. 5. 2046. ističe 1 ugovor o koncesiji. Novi postupak dodjele
+  treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
+ \n\n• INA\, D.D. – Koncesija na pomorskom dobru (PREKO)\, 12.098 €/g
+ od.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358
+ B28076069343861
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B28076069343861
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA\, D.D.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-2ed52f4dbda7a3fe@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20760717
+DTEND;VALUE=DATE:20760718
+SUMMARY:Ističe koncesija: HRVATSKI TELEKOM D.D.
+DESCRIPTION:1 ugovor o koncesiji ističe 17. 7. 2076. Godišnja fiksna nakn
+ ada: 1.445 €.\n\n• HRVATSKI TELEKOM D.D. – Posebna upotreba pomorsko
+ g dobra (PREKO)\, 1.445 €/god.\n\nProfil općine: https://koncesijski-sa
+ t.vercel.app/#opcina/41942358B28076069343861\nIzvor: Registar koncesija (F
+ INA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B28076069343861
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: HRVATSKI TELEKOM D.D.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-2ed52f4dbda7a3fe@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20760117
+DTEND;VALUE=DATE:20760118
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKI TELEKOM
+  D.D.)
+DESCRIPTION:17. 7. 2076. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• HRVATSKI TELEKOM D.D. – Posebna upotreba pomorskog dobra (PREKO
+ )\, 1.445 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#
+ opcina/41942358B28076069343861
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B28076069343861
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKI TEL
+ EKOM D.D.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

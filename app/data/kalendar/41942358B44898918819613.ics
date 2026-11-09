@@ -1,0 +1,197 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · Općina Oriovac
+X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Oriovac. Iz Regi
+ stra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade poda
+ taka. https://koncesijski-sat.vercel.app/#opcina/41942358B44898918819613
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-58f6399d7deb4e02@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:Ističe koncesija: JOSIP BAKOVIĆ - DIM- ING\, VL. JOSIP BAKOVIĆ
+DESCRIPTION:1 ugovor o koncesiji ističe 10. 1. 2027. Godišnja fiksna nakn
+ ada: 199 €.\n\n• JOSIP BAKOVIĆ - DIM- ING\, VL. JOSIP BAKOVIĆ – Ko
+ ncesija djelatnosti premještanja i uklanjanja nepropisno parkiranih i nap
+ uštenih vozila ()\, 199 €/god.\n\nProfil općine: https://koncesijski-s
+ at.vercel.app/#opcina/41942358B44898918819613\nIzvor: Registar koncesija (
+ FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B44898918819613
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: JOSIP BAKOVIĆ - DIM- ING\, VL. JOSIP BAKOVI
+ Ć
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-f088df372a8296b9@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20290504
+DTEND;VALUE=DATE:20290505
+SUMMARY:Ističe koncesija: ŽITO  D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 4. 5. 2029. Godišnja fiksna nakna
+ da: 10.618 €.\n\n• ŽITO  D.O.O. – Koncesija za zahvaćanje voda za 
+ tehnološke potrebe (ORIOVAC)\, 10.618 €/god.\n\nProfil općine: https:/
+ /koncesijski-sat.vercel.app/#opcina/41942358B44898918819613\nIzvor: Regist
+ ar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B44898918819613
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: ŽITO  D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-f088df372a8296b9@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20281104
+DTEND;VALUE=DATE:20281105
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ŽITO  D.O.O.)
+DESCRIPTION:4. 5. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjele
+  treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
+ \n\n• ŽITO  D.O.O. – Koncesija za zahvaćanje voda za tehnološke pot
+ rebe (ORIOVAC)\, 10.618 €/god.\n\nProfil općine: https://koncesijski-sa
+ t.vercel.app/#opcina/41942358B44898918819613
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B44898918819613
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ŽITO  D.O.O
+ .)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-334a85c8492ab3af@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20290701
+DTEND;VALUE=DATE:20290702
+SUMMARY:Ističe koncesija: ITELYUM INTEGRA D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 1. 7. 2029. Godišnja fiksna nakna
+ da: 14.000 €.\n\n• ITELYUM INTEGRA D.O.O. – Koncesija skupljanja i o
+ dvoza komunalnog otpada (ORIOVAC)\, 14.000 €/god.\n\nProfil općine: htt
+ ps://koncesijski-sat.vercel.app/#opcina/41942358B44898918819613\nIzvor: Re
+ gistar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B44898918819613
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: ITELYUM INTEGRA D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-334a85c8492ab3af@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20290101
+DTEND;VALUE=DATE:20290102
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ITELYUM INTEGRA 
+ D.O.O.)
+DESCRIPTION:1. 7. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjele
+  treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
+ \n\n• ITELYUM INTEGRA D.O.O. – Koncesija skupljanja i odvoza komunalno
+ g otpada (ORIOVAC)\, 14.000 €/god.\n\nProfil općine: https://koncesijsk
+ i-sat.vercel.app/#opcina/41942358B44898918819613
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B44898918819613
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ITELYUM INTE
+ GRA D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-15323f5eac9e89fc@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20300114
+DTEND;VALUE=DATE:20300115
+SUMMARY:Ističe koncesija: JOSIP BAKOVIĆ - DIM- ING\, VL. JOSIP BAKOVIĆ
+DESCRIPTION:1 ugovor o koncesiji ističe 14. 1. 2030. Godišnja fiksna nakn
+ ada: 100 €.\n\n• JOSIP BAKOVIĆ - DIM- ING\, VL. JOSIP BAKOVIĆ – Ko
+ ncesija za obavljanje dimnjačarskih poslova (ORIOVAC)\, 100 €/god.\n\nP
+ rofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B4489891
+ 8819613\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 
+ 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B44898918819613
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: JOSIP BAKOVIĆ - DIM- ING\, VL. JOSIP BAKOVI
+ Ć
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-15323f5eac9e89fc@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20290714
+DTEND;VALUE=DATE:20290715
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (JOSIP BAKOVIĆ -
+  DIM- ING\, VL. JOSIP BAKOVIĆ)
+DESCRIPTION:14. 1. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• JOSIP BAKOVIĆ - DIM- ING\, VL. JOSIP BAKOVIĆ – Koncesija za o
+ bavljanje dimnjačarskih poslova (ORIOVAC)\, 100 €/god.\n\nProfil općin
+ e: https://koncesijski-sat.vercel.app/#opcina/41942358B44898918819613
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B44898918819613
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (JOSIP BAKOVI
+ Ć - DIM- ING\, VL. JOSIP BAKOVIĆ)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-1b1499bdc9c6b8de@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20550626
+DTEND;VALUE=DATE:20550627
+SUMMARY:Ističe koncesija: ASPECT CROATIA KFT. - PODRUŽNICA ZAGREB
+DESCRIPTION:1 ugovor o koncesiji ističe 26. 6. 2055. Godišnja fiksna nakn
+ ada: 4.952 €.\n\n• ASPECT CROATIA KFT. - PODRUŽNICA ZAGREB – Dozvol
+ a za istraživanje ugljikovodika (prema Zakonu o ugljikovodicima) (ORIOVAC
+ )\, 4.952 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#
+ opcina/41942358B44898918819613\nIzvor: Registar koncesija (FINA)\, obrada 
+ Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B44898918819613
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: ASPECT CROATIA KFT. - PODRUŽNICA ZAGREB
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-1b1499bdc9c6b8de@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20541226
+DTEND;VALUE=DATE:20541227
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ASPECT CROATIA K
+ FT. - PODRUŽNICA ZAGREB)
+DESCRIPTION:26. 6. 2055. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• ASPECT CROATIA KFT. - PODRUŽNICA ZAGREB – Dozvola za istraživ
+ anje ugljikovodika (prema Zakonu o ugljikovodicima) (ORIOVAC)\, 4.952 €/
+ god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4194235
+ 8B44898918819613
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B44898918819613
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ASPECT CROAT
+ IA KFT. - PODRUŽNICA ZAGREB)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

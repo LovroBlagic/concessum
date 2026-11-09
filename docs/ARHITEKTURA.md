@@ -33,7 +33,7 @@ flowchart LR
 |---|---|---|
 | `izvori.py` | Python, CKAN Action API | Za svaki izvor dohvaća metapodatke s Portala (izdavatelj, dozvola, datum izmjene, resursi). Upozorava ako je lokalna kopija zastarjela. |
 | `obrada.py` | Python, pandas, RapidFuzz | Učitava CSV, uklanja duplikate i parsira datume. Ugovor smješta na općinu iz polja LOKACIJA ili naziva davatelja, uz normalizaciju i usporedbu sličnosti (≥ 88 %). Za svaki ugovor istekao prije više od 12 mjeseci određuje ishod: obnovljena, zamjena ili bez nastavka. |
-| `izvoz_web.py` | Python (standardna biblioteka) | Grupira oko 150 vrsta koncesija u 11 sektora i spaja ugovorenu godišnju fiksnu naknadu. Pojednostavljuje granice (Douglas-Peucker, ~100 m, 19 MB → 0,84 MB). Zapisuje kompaktne podatke (2 MB) i otvoreni CSV. |
+| `izvoz_web.py` | Python (standardna biblioteka) | Grupira oko 150 vrsta koncesija u 11 sektora i spaja ugovorenu godišnju fiksnu naknadu. Pojednostavljuje granice (Douglas-Peucker, ~100 m, 19 MB → 0,84 MB). Zapisuje kompaktne podatke (2 MB), otvoreni CSV i kalendar za pretplatu za svaku općinu s aktivnim ugovorima (477 datoteka `.ics`). |
 | `app/` | HTML, CSS, JavaScript bez build koraka, Apache ECharts | Četiri ekrana (karta, što ističe, profil općine, metodologija) i usmjeravanje preko `#hash`, pa se svaki prikaz može podijeliti poveznicom. Status ugovora računa se u pregledniku prema današnjem datumu. |
 | `mcp/server.py` | Python (standardna biblioteka), MCP preko JSON-RPC 2.0 / stdio | Četiri alata nad istim podacima, za AI asistente. |
 | Hosting | Vercel (statični CDN), GitHub | Svaki push na `main` objavljuje `app/`. |
@@ -56,7 +56,7 @@ Jedan ugovor ima ova polja: davatelj, koncesionar, vrsta → sektor, općina (ge
 | CKAN Action API (DCAT metapodaci Portala) | Provjera izvora (`izvori.py`) |
 | GeoJSON (RFC 7946), WGS 84 | Granice općina |
 | CSV (RFC 4180), UTF-8 | Otvoreni izvoz `koncesije.csv`, izvoz tablica iz aplikacije |
-| iCalendar (RFC 5545) | „Dodaj u kalendar“: rokovi s podsjetnicima (Outlook, Google, Apple) |
+| iCalendar (RFC 5545), webcal | Pretplata na rokove po općini (statični feed, `REFRESH-INTERVAL` 1 dan) i jednokratno preuzimanje rokova (Outlook, Google, Apple) |
 | Model Context Protocol / JSON-RPC 2.0 | AI asistenti |
 | ISO 8601 datumi, OIB kao ključ subjekta | Svi izlazi |
 | WCAG 2.1 (smjernice) | Kontrast, fokus, `aria` opisi grafova, tablični prikaz istih podataka |
@@ -69,7 +69,7 @@ Uz manje prilagodbe rješenje se može povezati s postojećim javnim sustavima:
 2. **Portal otvorenih podataka.** `koncesije.csv` (obogaćen općinom, sektorom, ishodom i naknadom) može se objaviti kao izvedeni skup ili primjer ponovne uporabe.
 3. **Elektronički oglasnik javne nabave (EOJN RH).** Spajanje po davatelju i vrsti pokazalo bi je li za ugovor koji uskoro ističe natječaj već objavljen.
 4. **Sudski registar i Registar obveznika (OIB).** Status koncesionara, npr. tvrtka u likvidaciji koja još drži koncesiju.
-5. **Sustavi općina (pisarnica, kalendari).** Već sada preko iCalendar i CSV izvoza, bez ikakve integracije na strani općine.
+5. **Sustavi općina (pisarnica, kalendari).** Već sada preko pretplate na kalendar (Microsoft 365, Google Workspace) i CSV izvoza, bez ikakve integracije na strani općine. Kalendar je i najjednostavniji kanal obavijesti: ne traži bazu korisnika ni e-adrese.
 6. **AI asistenti u upravi.** Preko MCP-a: službenik pita običnim jezikom i dobije odgovor s izvorom.
 
 ## Preduvjeti

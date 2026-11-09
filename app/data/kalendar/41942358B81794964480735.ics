@@ -1,0 +1,98 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · Općina Oprtalj
+X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Oprtalj. Iz Regi
+ stra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade poda
+ taka. https://koncesijski-sat.vercel.app/#opcina/41942358B81794964480735
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-35f1decd57f1dd0e@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20301231
+DTEND;VALUE=DATE:20310101
+SUMMARY:Ističe 3 koncesije · Oprtalj
+DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2030. Godišnja fiksna na
+ knada: 2.000 €.\n\n• KAMEN D.D. – Koncesija za površinu utvrđenog 
+ eksploatacijskog polja neenergetskih mineralnih sirovina (OPRTALJ - PORTOL
+ E)\, 2.000 €/god.\n• KAMEN D.D. – Koncesija za eksploataciju arhitek
+ tonsko-građevnog kamena (OPRTALJ - PORTOLE)\n• KAMEN D.D. – Koncesija
+  za eksploataciju arhitektonsko-građevnog kamena (OPRTALJ - PORTOLE)\n\nP
+ rofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B8179496
+ 4480735\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 
+ 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B81794964480735
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 3 koncesije · Oprtalj
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-35f1decd57f1dd0e@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20300630
+DTEND;VALUE=DATE:20300701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:31. 12. 2030. ističe 3 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• KAMEN D.D. – Koncesija za površinu utvrđenog eksploatacijsk
+ og polja neenergetskih mineralnih sirovina (OPRTALJ - PORTOLE)\, 2.000 €
+ /god.\n• KAMEN D.D. – Koncesija za eksploataciju arhitektonsko-građev
+ nog kamena (OPRTALJ - PORTOLE)\n• KAMEN D.D. – Koncesija za eksploatac
+ iju arhitektonsko-građevnog kamena (OPRTALJ - PORTOLE)\n\nProfil općine:
+  https://koncesijski-sat.vercel.app/#opcina/41942358B81794964480735
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B81794964480735
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-99b94710764bf07a@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20310705
+DTEND;VALUE=DATE:20310706
+SUMMARY:Ističe koncesija: LJEČILIŠTE ISTARSKE TOPLICE U STEČAJU
+DESCRIPTION:1 ugovor o koncesiji ističe 5. 7. 2031.\n\n• LJEČILIŠTE IS
+ TARSKE TOPLICE U STEČAJU – Koncesija za crpljenje mineralnih i termalni
+ h voda (OPRTALJ - PORTOLE)\n\nProfil općine: https://koncesijski-sat.verc
+ el.app/#opcina/41942358B81794964480735\nIzvor: Registar koncesija (FINA)\,
+  obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B81794964480735
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: LJEČILIŠTE ISTARSKE TOPLICE U STEČAJU
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-99b94710764bf07a@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20310105
+DTEND;VALUE=DATE:20310106
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (LJEČILIŠTE IST
+ ARSKE TOPLICE U STEČAJU)
+DESCRIPTION:5. 7. 2031. ističe 1 ugovor o koncesiji. Novi postupak dodjele
+  treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
+ \n\n• LJEČILIŠTE ISTARSKE TOPLICE U STEČAJU – Koncesija za crpljenj
+ e mineralnih i termalnih voda (OPRTALJ - PORTOLE)\n\nProfil općine: https
+ ://koncesijski-sat.vercel.app/#opcina/41942358B81794964480735
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B81794964480735
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (LJEČILIŠTE
+  ISTARSKE TOPLICE U STEČAJU)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

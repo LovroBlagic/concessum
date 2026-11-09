@@ -1,0 +1,140 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · Grad Buzet
+X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Grad Buzet. Iz Registra 
+ koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podataka.
+  https://koncesijski-sat.vercel.app/#opcina/41942358B64929327524461
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-0ee1f409f463752e@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20290709
+DTEND;VALUE=DATE:20290710
+SUMMARY:Ističe koncesija: CAMINUS J.D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 9. 7. 2029.\n\n• CAMINUS J.D.O.O
+ . – Koncesija za obavljanje dimnjačarskih poslova (BUZET)\n\nProfil op
+ ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B64929327524461\
+ nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B64929327524461
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: CAMINUS J.D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-0ee1f409f463752e@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20290109
+DTEND;VALUE=DATE:20290110
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (CAMINUS J.D.O.O.
+ )
+DESCRIPTION:9. 7. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjele
+  treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
+ \n\n• CAMINUS J.D.O.O. – Koncesija za obavljanje dimnjačarskih poslov
+ a (BUZET)\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41
+ 942358B64929327524461
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B64929327524461
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (CAMINUS J.D.
+ O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-e016e21ffc34df02@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20311231
+DTEND;VALUE=DATE:20320101
+SUMMARY:Ističe 3 koncesije · Buzet
+DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2031. Godišnja fiksna na
+ knada: 5.948 €.\n\n• GEOPROJEKT D.D. – Koncesija za eksploataciju te
+ hničko-građevnog kamena (BUZET)\, 2.974 €/god.\n• GEOPROJEKT D. D. 
+ – Koncesija za površinu utvrđenog eksploatacijskog polja neenergetskih
+  mineralnih sirovina (BUZET)\, 2.974 €/god.\n• GEOPROJEKT D. D. – Ko
+ ncesija za eksploataciju tehničko-građevnog kamena (BUZET)\n\nProfil op
+ ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B64929327524461\
+ nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B64929327524461
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 3 koncesije · Buzet
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-e016e21ffc34df02@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20310630
+DTEND;VALUE=DATE:20310701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:31. 12. 2031. ističe 3 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• GEOPROJEKT D.D. – Koncesija za eksploataciju tehničko-građe
+ vnog kamena (BUZET)\, 2.974 €/god.\n• GEOPROJEKT D. D. – Koncesija z
+ a površinu utvrđenog eksploatacijskog polja neenergetskih mineralnih sir
+ ovina (BUZET)\, 2.974 €/god.\n• GEOPROJEKT D. D. – Koncesija za eksp
+ loataciju tehničko-građevnog kamena (BUZET)\n\nProfil općine: https://k
+ oncesijski-sat.vercel.app/#opcina/41942358B64929327524461
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B64929327524461
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-c005b680b7f0eee2@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20331231
+DTEND;VALUE=DATE:20340101
+SUMMARY:Ističe 3 koncesije · Buzet
+DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2033. Godišnja fiksna na
+ knada: 4.692 €.\n\n• GEOPROJEKT D.D. – Koncesija za eksploataciju te
+ hničko-građevnog kamena (BUZET)\, 2.346 €/god.\n• GEOPROJEKT D.D. 
+ – Koncesija za površinu utvrđenog eksploatacijskog polja neenergetskih
+  mineralnih sirovina (BUZET)\, 2.346 €/god.\n• GEOPROJEKT D. D. – Ko
+ ncesija za eksploataciju tehničko-građevnog kamena (BUZET)\n\nProfil op
+ ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B64929327524461\
+ nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B64929327524461
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 3 koncesije · Buzet
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-c005b680b7f0eee2@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20330630
+DTEND;VALUE=DATE:20330701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:31. 12. 2033. ističe 3 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• GEOPROJEKT D.D. – Koncesija za eksploataciju tehničko-građe
+ vnog kamena (BUZET)\, 2.346 €/god.\n• GEOPROJEKT D.D. – Koncesija za
+  površinu utvrđenog eksploatacijskog polja neenergetskih mineralnih siro
+ vina (BUZET)\, 2.346 €/god.\n• GEOPROJEKT D. D. – Koncesija za ekspl
+ oataciju tehničko-građevnog kamena (BUZET)\n\nProfil općine: https://ko
+ ncesijski-sat.vercel.app/#opcina/41942358B64929327524461
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B64929327524461
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

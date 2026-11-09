@@ -1,0 +1,94 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · Općina Punitovci
+X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Punitovci. Iz Re
+ gistra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade po
+ dataka. https://koncesijski-sat.vercel.app/#opcina/41942358B89475493983587
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-92ddc59fa0bedf3c@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20381223
+DTEND;VALUE=DATE:20381224
+SUMMARY:Ističe 2 koncesije · Punitovci
+DESCRIPTION:2 ugovora o koncesiji ističe 23. 12. 2038. Godišnja fiksna na
+ knada: 27.398 €.\n\n• KRNDIJA D.O.O. – Koncesija za korištenje polj
+ oprivrednog zemljišta u vlasništvu države (PUNITOVCI)\, 22.563 €/god.
+ \n• GRUBE D.O.O. – Koncesija za korištenje poljoprivrednog zemljišta
+  u vlasništvu države (PUNITOVCI)\, 4.835 €/god.\n\nProfil općine: htt
+ ps://koncesijski-sat.vercel.app/#opcina/41942358B89475493983587\nIzvor: Re
+ gistar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B89475493983587
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 2 koncesije · Punitovci
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-92ddc59fa0bedf3c@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20380623
+DTEND;VALUE=DATE:20380624
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:23. 12. 2038. ističe 2 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• KRNDIJA D.O.O. – Koncesija za korištenje poljoprivrednog zem
+ ljišta u vlasništvu države (PUNITOVCI)\, 22.563 €/god.\n• GRUBE D.O
+ .O. – Koncesija za korištenje poljoprivrednog zemljišta u vlasništvu 
+ države (PUNITOVCI)\, 4.835 €/god.\n\nProfil općine: https://koncesijsk
+ i-sat.vercel.app/#opcina/41942358B89475493983587
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B89475493983587
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-8018e5666592752e@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20491004
+DTEND;VALUE=DATE:20491005
+SUMMARY:Ističe koncesija: KRNDIJA D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 4. 10. 2049. Godišnja fiksna nakn
+ ada: 4.791 €.\n\n• KRNDIJA D.O.O. – Koncesija za zahvaćanje voda za
+  tehnološke potrebe (PUNITOVCI)\, 4.791 €/god.\n\nProfil općine: https
+ ://koncesijski-sat.vercel.app/#opcina/41942358B89475493983587\nIzvor: Regi
+ star koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B89475493983587
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: KRNDIJA D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-8018e5666592752e@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20490404
+DTEND;VALUE=DATE:20490405
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (KRNDIJA D.O.O.)
+DESCRIPTION:4. 10. 2049. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• KRNDIJA D.O.O. – Koncesija za zahvaćanje voda za tehnološke p
+ otrebe (PUNITOVCI)\, 4.791 €/god.\n\nProfil općine: https://koncesijski
+ -sat.vercel.app/#opcina/41942358B89475493983587
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B89475493983587
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (KRNDIJA D.O.
+ O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

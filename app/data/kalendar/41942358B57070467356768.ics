@@ -1,0 +1,53 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · Općina Brela
+X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Brela. Iz Regist
+ ra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podata
+ ka. https://koncesijski-sat.vercel.app/#opcina/41942358B57070467356768
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-26f07c98ee1a62bf@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20760717
+DTEND;VALUE=DATE:20760718
+SUMMARY:Ističe koncesija: HRVATSKI TELEKOM D.D.
+DESCRIPTION:1 ugovor o koncesiji ističe 17. 7. 2076. Godišnja fiksna nakn
+ ada: 2.568 €.\n\n• HRVATSKI TELEKOM D.D. – Posebna upotreba pomorsko
+ g dobra (BRELA)\, 2.568 €/god.\n\nProfil općine: https://koncesijski-sa
+ t.vercel.app/#opcina/41942358B57070467356768\nIzvor: Registar koncesija (F
+ INA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B57070467356768
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: HRVATSKI TELEKOM D.D.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-26f07c98ee1a62bf@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20760117
+DTEND;VALUE=DATE:20760118
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKI TELEKOM
+  D.D.)
+DESCRIPTION:17. 7. 2076. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• HRVATSKI TELEKOM D.D. – Posebna upotreba pomorskog dobra (BRELA
+ )\, 2.568 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#
+ opcina/41942358B57070467356768
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B57070467356768
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKI TEL
+ EKOM D.D.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

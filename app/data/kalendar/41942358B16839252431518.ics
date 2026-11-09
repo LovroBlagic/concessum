@@ -1,0 +1,622 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · Općina Magdenovac
+X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Magdenovac. Iz R
+ egistra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade p
+ odataka. https://koncesijski-sat.vercel.app/#opcina/41942358B1683925243151
+ 8
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-679a99db3a64ada8@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:Ističe 2 koncesije · Magdenovac
+DESCRIPTION:2 ugovora o koncesiji ističe 31. 12. 2026.\n\n• INA D.D. –
+  Dozvola za eksploataciju ugljikovodika (prema Zakonu o ugljikovodicima) (
+ MAGADENOVAC)\n• INA-INDUSTRIJA NAFTE  D.D. – Dozvola za eksploataciju 
+ ugljikovodika (prema Zakonu o ugljikovodicima) (MAGADENOVAC)\n\nProfil op
+ ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B16839252431518\
+ nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B16839252431518
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 2 koncesije · Magdenovac
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-a6b8e13e0311b970@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20270615
+DTEND;VALUE=DATE:20270616
+SUMMARY:Ističe koncesija: INA-INDUSTRIJA NAFTE  D.D.
+DESCRIPTION:1 ugovor o koncesiji ističe 15. 6. 2027.\n\n• INA-INDUSTRIJA
+  NAFTE  D.D. – Dozvola za eksploataciju ugljikovodika (prema Zakonu o ug
+ ljikovodicima) (MAGADENOVAC)\n\nProfil općine: https://koncesijski-sat.ve
+ rcel.app/#opcina/41942358B16839252431518\nIzvor: Registar koncesija (FINA)
+ \, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B16839252431518
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: INA-INDUSTRIJA NAFTE  D.D.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-a6b8e13e0311b970@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA-INDUSTRIJA N
+ AFTE  D.D.)
+DESCRIPTION:15. 6. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• INA-INDUSTRIJA NAFTE  D.D. – Dozvola za eksploataciju ugljikovo
+ dika (prema Zakonu o ugljikovodicima) (MAGADENOVAC)\n\nProfil općine: htt
+ ps://koncesijski-sat.vercel.app/#opcina/41942358B16839252431518
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B16839252431518
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA-INDUSTRI
+ JA NAFTE  D.D.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-26df930f65078045@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20270628
+DTEND;VALUE=DATE:20270629
+SUMMARY:Ističe koncesija: INA\, D.D.
+DESCRIPTION:1 ugovor o koncesiji ističe 28. 6. 2027. Godišnja fiksna nakn
+ ada: 860 €.\n\n• INA\, D.D. – Dozvola za istraživanje ugljikovodika
+  (prema Zakonu o ugljikovodicima) (MAGADENOVAC)\, 860 €/god.\n\nProfil o
+ pćine: https://koncesijski-sat.vercel.app/#opcina/41942358B16839252431518
+ \nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B16839252431518
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: INA\, D.D.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-26df930f65078045@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20261228
+DTEND;VALUE=DATE:20261229
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA\, D.D.)
+DESCRIPTION:28. 6. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• INA\, D.D. – Dozvola za istraživanje ugljikovodika (prema Zako
+ nu o ugljikovodicima) (MAGADENOVAC)\, 860 €/god.\n\nProfil općine: http
+ s://koncesijski-sat.vercel.app/#opcina/41942358B16839252431518
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B16839252431518
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA\, D.D.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-8223a8d0ca32a462@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20300807
+DTEND;VALUE=DATE:20300808
+SUMMARY:Ističe koncesija: DIVEKS J.D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 7. 8. 2030. Godišnja fiksna nakna
+ da: 1.910 €.\n\n• DIVEKS J.D.O.O. – Koncesija za obavljanje dimnjač
+ arskih poslova (MAGADENOVAC)\, 1.910 €/god.\n\nProfil općine: https://k
+ oncesijski-sat.vercel.app/#opcina/41942358B16839252431518\nIzvor: Registar
+  koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B16839252431518
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: DIVEKS J.D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-8223a8d0ca32a462@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20300207
+DTEND;VALUE=DATE:20300208
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DIVEKS J.D.O.O.)
+DESCRIPTION:7. 8. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodjele
+  treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
+ \n\n• DIVEKS J.D.O.O. – Koncesija za obavljanje dimnjačarskih poslova
+  (MAGADENOVAC)\, 1.910 €/god.\n\nProfil općine: https://koncesijski-sat
+ .vercel.app/#opcina/41942358B16839252431518
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B16839252431518
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DIVEKS J.D.O
+ .O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-66a0a77b31214a10@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20301231
+DTEND;VALUE=DATE:20310101
+SUMMARY:Ističe koncesija: INA-INDUSTRIJA NAFTE  D.D.
+DESCRIPTION:1 ugovor o koncesiji ističe 31. 12. 2030. Godišnja fiksna nak
+ nada: 5.206 €.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauzet
+ u površinu odobrenog eksploatacijskog polja (MAGADENOVAC)\, 5.206 €/god
+ .\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B1
+ 6839252431518\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9
+ . 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B16839252431518
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: INA-INDUSTRIJA NAFTE  D.D.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-66a0a77b31214a10@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20300630
+DTEND;VALUE=DATE:20300701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA-INDUSTRIJA N
+ AFTE  D.D.)
+DESCRIPTION:31. 12. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauzetu površinu od
+ obrenog eksploatacijskog polja (MAGADENOVAC)\, 5.206 €/god.\n\nProfil op
+ ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B16839252431518
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B16839252431518
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA-INDUSTRI
+ JA NAFTE  D.D.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-c94fea7635ee4eaa@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20360817
+DTEND;VALUE=DATE:20360818
+SUMMARY:Ističe koncesija: BLATA D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 17. 8. 2036. Godišnja fiksna nakn
+ ada: 97.388 €.\n\n• BLATA D.O.O. – Koncesija za korištenje poljopri
+ vrednog zemljišta u vlasništvu države (MAGADENOVAC)\, 97.388 €/god.\n
+ \nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B1683
+ 9252431518\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 1
+ 1. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B16839252431518
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: BLATA D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-c94fea7635ee4eaa@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20360217
+DTEND;VALUE=DATE:20360218
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BLATA D.O.O.)
+DESCRIPTION:17. 8. 2036. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• BLATA D.O.O. – Koncesija za korištenje poljoprivrednog zemlji
+ šta u vlasništvu države (MAGADENOVAC)\, 97.388 €/god.\n\nProfil opći
+ ne: https://koncesijski-sat.vercel.app/#opcina/41942358B16839252431518
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B16839252431518
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BLATA D.O.O.
+ )
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-1ab5c4ac98f21780@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20360822
+DTEND;VALUE=DATE:20360823
+SUMMARY:Ističe 2 koncesije · Magdenovac
+DESCRIPTION:2 ugovora o koncesiji ističe 22. 8. 2036. Godišnja fiksna nak
+ nada: 15.602 €.\n\n• ŽITO D.O.O. – Koncesija za korištenje poljopr
+ ivrednog zemljišta u vlasništvu države (MAGADENOVAC)\, 7.801 €/god.\n
+ • ŽITO D.O.O. – Koncesija za korištenje poljoprivrednog zemljišta u
+  vlasništvu države (MAGADENOVAC)\, 7.801 €/god.\n\nProfil općine: htt
+ ps://koncesijski-sat.vercel.app/#opcina/41942358B16839252431518\nIzvor: Re
+ gistar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B16839252431518
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 2 koncesije · Magdenovac
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-1ab5c4ac98f21780@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20360222
+DTEND;VALUE=DATE:20360223
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:22. 8. 2036. ističe 2 ugovora o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• ŽITO D.O.O. – Koncesija za korištenje poljoprivrednog zemlji
+ šta u vlasništvu države (MAGADENOVAC)\, 7.801 €/god.\n• ŽITO D.O.O
+ . – Koncesija za korištenje poljoprivrednog zemljišta u vlasništvu dr
+ žave (MAGADENOVAC)\, 7.801 €/god.\n\nProfil općine: https://koncesijsk
+ i-sat.vercel.app/#opcina/41942358B16839252431518
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B16839252431518
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-8b339295bf61408a@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20381231
+DTEND;VALUE=DATE:20390101
+SUMMARY:Ističe 3 koncesije · Magdenovac
+DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2038.\n\n• INA-INDUSTRI
+ JA NAFTE  D.D. – Dozvola za eksploataciju ugljikovodika (prema Zakonu o 
+ ugljikovodicima) (MAGADENOVAC)\n• INA-INDUSTRIJA NAFTE  D.D. – Dozvola
+  za eksploataciju ugljikovodika (prema Zakonu o ugljikovodicima) (MAGADENO
+ VAC)\n• INA D.D. – Dozvola za eksploataciju ugljikovodika (prema Zakon
+ u o ugljikovodicima) (MAGADENOVAC)\n\nProfil općine: https://koncesijski-
+ sat.vercel.app/#opcina/41942358B16839252431518\nIzvor: Registar koncesija 
+ (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B16839252431518
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 3 koncesije · Magdenovac
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-8b339295bf61408a@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20380630
+DTEND;VALUE=DATE:20380701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:31. 12. 2038. ističe 3 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Dozvola za eksploataciju ugljiko
+ vodika (prema Zakonu o ugljikovodicima) (MAGADENOVAC)\n• INA-INDUSTRIJA 
+ NAFTE  D.D. – Dozvola za eksploataciju ugljikovodika (prema Zakonu o ugl
+ jikovodicima) (MAGADENOVAC)\n• INA D.D. – Dozvola za eksploataciju ugl
+ jikovodika (prema Zakonu o ugljikovodicima) (MAGADENOVAC)\n\nProfil općin
+ e: https://koncesijski-sat.vercel.app/#opcina/41942358B16839252431518
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B16839252431518
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-409294e81e43bfc1@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20401231
+DTEND;VALUE=DATE:20410101
+SUMMARY:Ističe 4 koncesije · Magdenovac
+DESCRIPTION:4 ugovora o koncesiji ističe 31. 12. 2040. Godišnja fiksna na
+ knada: 21.358 €.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauz
+ etu površinu odobrenog eksploatacijskog polja (MAGADENOVAC)\, 10.679 €/
+ god.\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauzetu površinu od
+ obrenog eksploatacijskog polja (MAGADENOVAC)\, 10.679 €/god.\n• INA-IN
+ DUSTRIJA NAFTE  D.D. – Dozvola za eksploataciju ugljikovodika (prema Zak
+ onu o ugljikovodicima) (MAGADENOVAC)\n• INA D.D. – Dozvola za eksploat
+ aciju ugljikovodika (prema Zakonu o ugljikovodicima) (MAGADENOVAC)\n\nProf
+ il općine: https://koncesijski-sat.vercel.app/#opcina/41942358B1683925243
+ 1518\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 202
+ 6.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B16839252431518
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 4 koncesije · Magdenovac
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-409294e81e43bfc1@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20400630
+DTEND;VALUE=DATE:20400701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 4 koncesije
+DESCRIPTION:31. 12. 2040. ističe 4 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauzetu površinu o
+ dobrenog eksploatacijskog polja (MAGADENOVAC)\, 10.679 €/god.\n• INA-I
+ NDUSTRIJA NAFTE  D.D. – Koncesija za zauzetu površinu odobrenog eksploa
+ tacijskog polja (MAGADENOVAC)\, 10.679 €/god.\n• INA-INDUSTRIJA NAFTE 
+  D.D. – Dozvola za eksploataciju ugljikovodika (prema Zakonu o ugljikovo
+ dicima) (MAGADENOVAC)\n• INA D.D. – Dozvola za eksploataciju ugljikovo
+ dika (prema Zakonu o ugljikovodicima) (MAGADENOVAC)\n\nProfil općine: htt
+ ps://koncesijski-sat.vercel.app/#opcina/41942358B16839252431518
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B16839252431518
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 4 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-c6ac742193a4d8a6@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20421231
+DTEND;VALUE=DATE:20430101
+SUMMARY:Ističe 3 koncesije · Magdenovac
+DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2042. Godišnja fiksna na
+ knada: 3.541 €.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauze
+ tu površinu odobrenog eksploatacijskog polja (MAGADENOVAC)\, 3.541 €/go
+ d.\n• INA D.D. – Dozvola za eksploataciju ugljikovodika (prema Zakonu 
+ o ugljikovodicima) (MAGADENOVAC)\n• INA-INDUSTRIJA NAFTE  D.D. – Dozvo
+ la za eksploataciju ugljikovodika (prema Zakonu o ugljikovodicima) (MAGADE
+ NOVAC)\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942
+ 358B16839252431518\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski 
+ sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B16839252431518
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 3 koncesije · Magdenovac
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-c6ac742193a4d8a6@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20420630
+DTEND;VALUE=DATE:20420701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:31. 12. 2042. ističe 3 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauzetu površinu o
+ dobrenog eksploatacijskog polja (MAGADENOVAC)\, 3.541 €/god.\n• INA D.
+ D. – Dozvola za eksploataciju ugljikovodika (prema Zakonu o ugljikovodic
+ ima) (MAGADENOVAC)\n• INA-INDUSTRIJA NAFTE  D.D. – Dozvola za eksploat
+ aciju ugljikovodika (prema Zakonu o ugljikovodicima) (MAGADENOVAC)\n\nProf
+ il općine: https://koncesijski-sat.vercel.app/#opcina/41942358B1683925243
+ 1518
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B16839252431518
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-ac401d2e7dd1ab9c@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20470214
+DTEND;VALUE=DATE:20470215
+SUMMARY:Ističe koncesija: OBITELJSKO POLJOPRIVREDNO GOSPODARSTVO MIHALJ NE
+ DJELJKO
+DESCRIPTION:1 ugovor o koncesiji ističe 14. 2. 2047. Godišnja fiksna nakn
+ ada: 1.540 €.\n\n• OBITELJSKO POLJOPRIVREDNO GOSPODARSTVO MIHALJ NEDJE
+ LJKO – Koncesija za zahvaćanje voda za tehnološke potrebe (MAGADENOVAC
+ )\, 1.540 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#
+ opcina/41942358B16839252431518\nIzvor: Registar koncesija (FINA)\, obrada 
+ Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B16839252431518
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: OBITELJSKO POLJOPRIVREDNO GOSPODARSTVO MIHAL
+ J NEDJELJKO
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-ac401d2e7dd1ab9c@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20460814
+DTEND;VALUE=DATE:20460815
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (OBITELJSKO POLJO
+ PRIVREDNO GOSPODARSTVO MIHALJ NEDJELJKO)
+DESCRIPTION:14. 2. 2047. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• OBITELJSKO POLJOPRIVREDNO GOSPODARSTVO MIHALJ NEDJELJKO – Konce
+ sija za zahvaćanje voda za tehnološke potrebe (MAGADENOVAC)\, 1.540 €/
+ god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4194235
+ 8B16839252431518
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B16839252431518
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (OBITELJSKO P
+ OLJOPRIVREDNO GOSPODARSTVO MIHALJ NEDJELJKO)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-c76c3af11cac8de7@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20481231
+DTEND;VALUE=DATE:20490101
+SUMMARY:Ističe 3 koncesije · Magdenovac
+DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2048. Godišnja fiksna na
+ knada: 11.797 €.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauz
+ etu površinu odobrenog eksploatacijskog polja (MAGADENOVAC)\, 11.797 €/
+ god.\n• INA D.D. – Dozvola za eksploataciju ugljikovodika (prema Zakon
+ u o ugljikovodicima) (MAGADENOVAC)\n• INA-INDUSTRIJA NAFTE  D.D. – Doz
+ vola za eksploataciju ugljikovodika (prema Zakonu o ugljikovodicima) (MAGA
+ DENOVAC)\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
+ 42358B16839252431518\nIzvor: Registar koncesija (FINA)\, obrada Koncesijsk
+ i sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B16839252431518
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 3 koncesije · Magdenovac
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-c76c3af11cac8de7@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20480630
+DTEND;VALUE=DATE:20480701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:31. 12. 2048. ističe 3 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauzetu površinu o
+ dobrenog eksploatacijskog polja (MAGADENOVAC)\, 11.797 €/god.\n• INA D
+ .D. – Dozvola za eksploataciju ugljikovodika (prema Zakonu o ugljikovodi
+ cima) (MAGADENOVAC)\n• INA-INDUSTRIJA NAFTE  D.D. – Dozvola za eksploa
+ taciju ugljikovodika (prema Zakonu o ugljikovodicima) (MAGADENOVAC)\n\nPro
+ fil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B168392524
+ 31518
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B16839252431518
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-a870fa841c232026@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20500603
+DTEND;VALUE=DATE:20500604
+SUMMARY:Ističe koncesija: WEST D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 3. 6. 2050. Godišnja fiksna nakna
+ da: 1.871 €.\n\n• WEST D.O.O. – Koncesija za zahvaćanje voda za teh
+ nološke potrebe (MAGADENOVAC)\, 1.871 €/god.\n\nProfil općine: https:/
+ /koncesijski-sat.vercel.app/#opcina/41942358B16839252431518\nIzvor: Regist
+ ar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B16839252431518
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: WEST D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-a870fa841c232026@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20491203
+DTEND;VALUE=DATE:20491204
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (WEST D.O.O.)
+DESCRIPTION:3. 6. 2050. ističe 1 ugovor o koncesiji. Novi postupak dodjele
+  treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
+ \n\n• WEST D.O.O. – Koncesija za zahvaćanje voda za tehnološke potre
+ be (MAGADENOVAC)\, 1.871 €/god.\n\nProfil općine: https://koncesijski-s
+ at.vercel.app/#opcina/41942358B16839252431518
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B16839252431518
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (WEST D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-c417a6ca9cea7cbb@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20501022
+DTEND;VALUE=DATE:20501023
+SUMMARY:Ističe koncesija: ŽITO D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 22. 10. 2050. Godišnja fiksna nak
+ nada: 1.871 €.\n\n• ŽITO D.O.O. – Koncesija za zahvaćanje voda za 
+ tehnološke potrebe (MAGADENOVAC)\, 1.871 €/god.\n\nProfil općine: http
+ s://koncesijski-sat.vercel.app/#opcina/41942358B16839252431518\nIzvor: Reg
+ istar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B16839252431518
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: ŽITO D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-c417a6ca9cea7cbb@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20500422
+DTEND;VALUE=DATE:20500423
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ŽITO D.O.O.)
+DESCRIPTION:22. 10. 2050. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• ŽITO D.O.O. – Koncesija za zahvaćanje voda za tehnološke po
+ trebe (MAGADENOVAC)\, 1.871 €/god.\n\nProfil općine: https://koncesijsk
+ i-sat.vercel.app/#opcina/41942358B16839252431518
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B16839252431518
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ŽITO D.O.O.
+ )
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-ad8aee1399aa94e9@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20510901
+DTEND;VALUE=DATE:20510902
+SUMMARY:Ističe 2 koncesije · Magdenovac
+DESCRIPTION:2 ugovora o koncesiji ističe 1. 9. 2051. Godišnja fiksna nakn
+ ada: 1.486 €.\n\n• KRNJAK D.O.O. – Koncesija za zahvaćanje voda za 
+ tehnološke potrebe (MAGADENOVAC)\, 743 €/god.\n• KRNJAK D.O.O. – Ko
+ ncesija za zahvaćanje voda za tehnološke potrebe (MAGADENOVAC)\, 743 €
+ /god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419423
+ 58B16839252431518\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski s
+ at 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B16839252431518
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 2 koncesije · Magdenovac
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-ad8aee1399aa94e9@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20510301
+DTEND;VALUE=DATE:20510302
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:1. 9. 2051. ističe 2 ugovora o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• KRNJAK D.O.O. – Koncesija za zahvaćanje voda za tehnološke po
+ trebe (MAGADENOVAC)\, 743 €/god.\n• KRNJAK D.O.O. – Koncesija za zah
+ vaćanje voda za tehnološke potrebe (MAGADENOVAC)\, 743 €/god.\n\nProfi
+ l općine: https://koncesijski-sat.vercel.app/#opcina/41942358B16839252431
+ 518
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B16839252431518
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

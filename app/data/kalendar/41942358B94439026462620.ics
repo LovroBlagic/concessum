@@ -1,0 +1,344 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · Općina Vrsar
+X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Vrsar. Iz Regist
+ ra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podata
+ ka. https://koncesijski-sat.vercel.app/#opcina/41942358B94439026462620
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-10f1f4a769cbc1bc@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20291204
+DTEND;VALUE=DATE:20291205
+SUMMARY:Ističe koncesija: MLD-USLUGE D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 4. 12. 2029. Godišnja fiksna nakn
+ ada: 1.820 €.\n\n• MLD-USLUGE D.O.O. – Koncesija za obavljanje dimnj
+ ačarskih poslova (VRSAR - ORSERA)\, 1.820 €/god.\n\nProfil općine: htt
+ ps://koncesijski-sat.vercel.app/#opcina/41942358B94439026462620\nIzvor: Re
+ gistar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B94439026462620
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: MLD-USLUGE D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-10f1f4a769cbc1bc@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20290604
+DTEND;VALUE=DATE:20290605
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MLD-USLUGE D.O.O
+ .)
+DESCRIPTION:4. 12. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• MLD-USLUGE D.O.O. – Koncesija za obavljanje dimnjačarskih posl
+ ova (VRSAR - ORSERA)\, 1.820 €/god.\n\nProfil općine: https://koncesijs
+ ki-sat.vercel.app/#opcina/41942358B94439026462620
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B94439026462620
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MLD-USLUGE D
+ .O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-5022c6f0a34d5504@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20311129
+DTEND;VALUE=DATE:20311130
+SUMMARY:Ističe koncesija: ODVODNJA POREČ D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 29. 11. 2031. Godišnja fiksna nak
+ nada: 346 €.\n\n• ODVODNJA POREČ D.O.O. – Koncesija na pomorskom do
+ bru (VRSAR - ORSERA)\, 346 €/god.\n\nProfil općine: https://koncesijski
+ -sat.vercel.app/#opcina/41942358B94439026462620\nIzvor: Registar koncesija
+  (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B94439026462620
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: ODVODNJA POREČ D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-5022c6f0a34d5504@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20310529
+DTEND;VALUE=DATE:20310530
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ODVODNJA POREČ 
+ D.O.O.)
+DESCRIPTION:29. 11. 2031. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• ODVODNJA POREČ D.O.O. – Koncesija na pomorskom dobru (VRSAR -
+  ORSERA)\, 346 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.
+ app/#opcina/41942358B94439026462620
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B94439026462620
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ODVODNJA POR
+ EČ D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-2f0401a973ef2fea@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20330418
+DTEND;VALUE=DATE:20330419
+SUMMARY:Ističe 2 koncesije · Vrsar
+DESCRIPTION:2 ugovora o koncesiji ističe 18. 4. 2033. Godišnja fiksna nak
+ nada: 114.942 €.\n\n• MAISTRA D.D. – Koncesija na pomorskom dobru (V
+ RSAR - ORSERA)\, 99.334 €/god.\n• VALAMAR RIVIERA D.D. – Koncesija n
+ a pomorskom dobru (VRSAR - ORSERA)\, 15.608 €/god.\n\nProfil općine: ht
+ tps://koncesijski-sat.vercel.app/#opcina/41942358B94439026462620\nIzvor: R
+ egistar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B94439026462620
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 2 koncesije · Vrsar
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-2f0401a973ef2fea@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20321018
+DTEND;VALUE=DATE:20321019
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:18. 4. 2033. ističe 2 ugovora o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• MAISTRA D.D. – Koncesija na pomorskom dobru (VRSAR - ORSERA)\,
+  99.334 €/god.\n• VALAMAR RIVIERA D.D. – Koncesija na pomorskom dobr
+ u (VRSAR - ORSERA)\, 15.608 €/god.\n\nProfil općine: https://koncesijsk
+ i-sat.vercel.app/#opcina/41942358B94439026462620
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B94439026462620
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-0aa21e217dd77ec3@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20360623
+DTEND;VALUE=DATE:20360624
+SUMMARY:Ističe koncesija: PETROL DRUŠTVO S OGRANIČENOM ODGOVORNOŠĆU ZA
+  TRGOVINU I PRIJEVOZ NAFTE I NAFTNIH DERIVATA
+DESCRIPTION:1 ugovor o koncesiji ističe 23. 6. 2036. Godišnja fiksna nakn
+ ada: 3.500 €.\n\n• PETROL DRUŠTVO S OGRANIČENOM ODGOVORNOŠĆU ZA TR
+ GOVINU I PRIJEVOZ NAFTE I NAFTNIH DERIVATA – Koncesija na pomorskom dobr
+ u (VRSAR - ORSERA)\, 3.500 €/god.\n\nProfil općine: https://koncesijski
+ -sat.vercel.app/#opcina/41942358B94439026462620\nIzvor: Registar koncesija
+  (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B94439026462620
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: PETROL DRUŠTVO S OGRANIČENOM ODGOVORNOŠĆ
+ U ZA TRGOVINU I PRIJEVOZ NAFTE I NAFTNIH DERIVATA
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-0aa21e217dd77ec3@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20351223
+DTEND;VALUE=DATE:20351224
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PETROL DRUŠTVO 
+ S OGRANIČENOM ODGOVORNOŠĆU ZA TRGOVINU I PRIJEVOZ NAFTE I NAFTNIH DERIV
+ ATA)
+DESCRIPTION:23. 6. 2036. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• PETROL DRUŠTVO S OGRANIČENOM ODGOVORNOŠĆU ZA TRGOVINU I PRIJE
+ VOZ NAFTE I NAFTNIH DERIVATA – Koncesija na pomorskom dobru (VRSAR - ORS
+ ERA)\, 3.500 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.ap
+ p/#opcina/41942358B94439026462620
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B94439026462620
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PETROL DRUŠ
+ TVO S OGRANIČENOM ODGOVORNOŠĆU ZA TRGOVINU I PRIJEVOZ NAFTE I NAFTNIH D
+ ERIVATA)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-0a862fad87eb4c92@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20401231
+DTEND;VALUE=DATE:20410101
+SUMMARY:Ističe 3 koncesije · Vrsar
+DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2040. Godišnja fiksna na
+ knada: 19.250 €.\n\n• KAMEN D.D. – Koncesija za površinu utvrđenog
+  eksploatacijskog polja neenergetskih mineralnih sirovina (VRSAR - ORSERA)
+ \, 19.250 €/god.\n• KAMEN D.D. – Koncesija za eksploataciju arhitekt
+ onsko-građevnog kamena (VRSAR - ORSERA)\n• KAMEN D.D. – Koncesija za 
+ eksploataciju arhitektonsko-građevnog kamena (VRSAR - ORSERA)\n\nProfil o
+ pćine: https://koncesijski-sat.vercel.app/#opcina/41942358B94439026462620
+ \nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B94439026462620
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 3 koncesije · Vrsar
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-0a862fad87eb4c92@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20400630
+DTEND;VALUE=DATE:20400701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:31. 12. 2040. ističe 3 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• KAMEN D.D. – Koncesija za površinu utvrđenog eksploatacijsk
+ og polja neenergetskih mineralnih sirovina (VRSAR - ORSERA)\, 19.250 €/g
+ od.\n• KAMEN D.D. – Koncesija za eksploataciju arhitektonsko-građevno
+ g kamena (VRSAR - ORSERA)\n• KAMEN D.D. – Koncesija za eksploataciju a
+ rhitektonsko-građevnog kamena (VRSAR - ORSERA)\n\nProfil općine: https:/
+ /koncesijski-sat.vercel.app/#opcina/41942358B94439026462620
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B94439026462620
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-3b109b3504b4f684@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20440606
+DTEND;VALUE=DATE:20440607
+SUMMARY:Ističe koncesija: HRVATSKE VODE\, PRAVNA OSOBA ZA UPRAVLJANJE VODA
+ MA
+DESCRIPTION:1 ugovor o koncesiji ističe 6. 6. 2044. Godišnja fiksna nakna
+ da: 29 €.\n\n• HRVATSKE VODE\, PRAVNA OSOBA ZA UPRAVLJANJE VODAMA – 
+ Posebna upotreba pomorskog dobra (VRSAR - ORSERA)\, 29 €/god.\n\nProfil 
+ općine: https://koncesijski-sat.vercel.app/#opcina/41942358B9443902646262
+ 0\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B94439026462620
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: HRVATSKE VODE\, PRAVNA OSOBA ZA UPRAVLJANJE 
+ VODAMA
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-3b109b3504b4f684@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20431206
+DTEND;VALUE=DATE:20431207
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKE VODE\, 
+ PRAVNA OSOBA ZA UPRAVLJANJE VODAMA)
+DESCRIPTION:6. 6. 2044. ističe 1 ugovor o koncesiji. Novi postupak dodjele
+  treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
+ \n\n• HRVATSKE VODE\, PRAVNA OSOBA ZA UPRAVLJANJE VODAMA – Posebna upo
+ treba pomorskog dobra (VRSAR - ORSERA)\, 29 €/god.\n\nProfil općine: ht
+ tps://koncesijski-sat.vercel.app/#opcina/41942358B94439026462620
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B94439026462620
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKE VOD
+ E\, PRAVNA OSOBA ZA UPRAVLJANJE VODAMA)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-5758a2da3ee3c949@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20440801
+DTEND;VALUE=DATE:20440802
+SUMMARY:Ističe koncesija: MARIBU D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 1. 8. 2044. Godišnja fiksna nakna
+ da: 8.734 €.\n\n• MARIBU D.O.O. – Koncesija na pomorskom dobru (VRSA
+ R - ORSERA)\, 8.734 €/god.\n\nProfil općine: https://koncesijski-sat.ve
+ rcel.app/#opcina/41942358B94439026462620\nIzvor: Registar koncesija (FINA)
+ \, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B94439026462620
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: MARIBU D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-5758a2da3ee3c949@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20440201
+DTEND;VALUE=DATE:20440202
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MARIBU D.O.O.)
+DESCRIPTION:1. 8. 2044. ističe 1 ugovor o koncesiji. Novi postupak dodjele
+  treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
+ \n\n• MARIBU D.O.O. – Koncesija na pomorskom dobru (VRSAR - ORSERA)\, 
+ 8.734 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opci
+ na/41942358B94439026462620
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B94439026462620
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MARIBU D.O.O
+ .)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-40705a2cd3c8d0f3@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20760717
+DTEND;VALUE=DATE:20760718
+SUMMARY:Ističe koncesija: HRVATSKI TELEKOM D.D.
+DESCRIPTION:1 ugovor o koncesiji ističe 17. 7. 2076. Godišnja fiksna nakn
+ ada: 254 €.\n\n• HRVATSKI TELEKOM D.D. – Posebna upotreba pomorskog 
+ dobra (VRSAR - ORSERA)\, 254 €/god.\n\nProfil općine: https://koncesijs
+ ki-sat.vercel.app/#opcina/41942358B94439026462620\nIzvor: Registar koncesi
+ ja (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B94439026462620
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: HRVATSKI TELEKOM D.D.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-40705a2cd3c8d0f3@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20760117
+DTEND;VALUE=DATE:20760118
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKI TELEKOM
+  D.D.)
+DESCRIPTION:17. 7. 2076. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• HRVATSKI TELEKOM D.D. – Posebna upotreba pomorskog dobra (VRSAR
+  - ORSERA)\, 254 €/god.\n\nProfil općine: https://koncesijski-sat.verce
+ l.app/#opcina/41942358B94439026462620
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B94439026462620
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKI TEL
+ EKOM D.D.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

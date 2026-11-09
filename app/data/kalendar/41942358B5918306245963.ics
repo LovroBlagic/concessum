@@ -1,0 +1,139 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · Grad Mursko Središće
+X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Grad Mursko Središće. 
+ Iz Registra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obra
+ de podataka. https://koncesijski-sat.vercel.app/#opcina/41942358B591830624
+ 5963
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-7a83d9fdbb94c58b@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20290215
+DTEND;VALUE=DATE:20290216
+SUMMARY:Ističe koncesija: MEDIA-MIX-RADIO 105 D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 15. 2. 2029. Godišnja fiksna nakn
+ ada: 66 €.\n\n• MEDIA-MIX-RADIO 105 D.O.O. – Koncesija za obavljanje
+  djelatnosti radija (MURSKO SREDIŠĆE\, SELNICA\, SVETI MARTIN NA MURI\, 
+ VRATIŠINEC)\, 66 €/god.\n\nProfil općine: https://koncesijski-sat.verc
+ el.app/#opcina/41942358B5918306245963\nIzvor: Registar koncesija (FINA)\, 
+ obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B5918306245963
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: MEDIA-MIX-RADIO 105 D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-7a83d9fdbb94c58b@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20280815
+DTEND;VALUE=DATE:20280816
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MEDIA-MIX-RADIO 
+ 105 D.O.O.)
+DESCRIPTION:15. 2. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• MEDIA-MIX-RADIO 105 D.O.O. – Koncesija za obavljanje djelatnost
+ i radija (MURSKO SREDIŠĆE\, SELNICA\, SVETI MARTIN NA MURI\, VRATIŠINEC
+ )\, 66 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opc
+ ina/41942358B5918306245963
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B5918306245963
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MEDIA-MIX-RA
+ DIO 105 D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-1208954a24260a51@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20321231
+DTEND;VALUE=DATE:20330101
+SUMMARY:Ističe koncesija: DIMNJAČAR RADOVAN ZVER D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 31. 12. 2032. Godišnja fiksna nak
+ nada: 5.309 €.\n\n• DIMNJAČAR RADOVAN ZVER D.O.O. – Koncesija za ob
+ avljanje dimnjačarskih poslova (MURSKO SREDIŠĆE)\, 5.309 €/god.\n\nPr
+ ofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B59183062
+ 45963\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 20
+ 26.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B5918306245963
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: DIMNJAČAR RADOVAN ZVER D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-1208954a24260a51@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20320630
+DTEND;VALUE=DATE:20320701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DIMNJAČAR RADOV
+ AN ZVER D.O.O.)
+DESCRIPTION:31. 12. 2032. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• DIMNJAČAR RADOVAN ZVER D.O.O. – Koncesija za obavljanje dimnj
+ ačarskih poslova (MURSKO SREDIŠĆE)\, 5.309 €/god.\n\nProfil općine: 
+ https://koncesijski-sat.vercel.app/#opcina/41942358B5918306245963
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B5918306245963
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DIMNJAČAR R
+ ADOVAN ZVER D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-6dc30c0070c28020@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20461231
+DTEND;VALUE=DATE:20470101
+SUMMARY:Ističe 2 koncesije · Mursko Središće
+DESCRIPTION:2 ugovora o koncesiji ističe 31. 12. 2046.\n\n• INA-INDUSTRI
+ JA NAFTE  D.D. – Dozvola za eksploataciju ugljikovodika (prema Zakonu o 
+ ugljikovodicima) (MURSKO SREDIŠĆE)\n• INA D.D. – Dozvola za eksploat
+ aciju ugljikovodika (prema Zakonu o ugljikovodicima) (MURSKO SREDIŠĆE)\n
+ \nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B5918
+ 306245963\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11
+ . 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B5918306245963
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 2 koncesije · Mursko Središće
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-6dc30c0070c28020@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20460630
+DTEND;VALUE=DATE:20460701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:31. 12. 2046. ističe 2 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Dozvola za eksploataciju ugljiko
+ vodika (prema Zakonu o ugljikovodicima) (MURSKO SREDIŠĆE)\n• INA D.D. 
+ – Dozvola za eksploataciju ugljikovodika (prema Zakonu o ugljikovodicima
+ ) (MURSKO SREDIŠĆE)\n\nProfil općine: https://koncesijski-sat.vercel.ap
+ p/#opcina/41942358B5918306245963
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B5918306245963
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,89 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · Općina Podturen
+X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Podturen. Iz Reg
+ istra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade pod
+ ataka. https://koncesijski-sat.vercel.app/#opcina/41942358B67321750216915
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-11125cf41055bc73@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20361231
+DTEND;VALUE=DATE:20370101
+SUMMARY:Ističe koncesija: INA\, D.D.
+DESCRIPTION:1 ugovor o koncesiji ističe 31. 12. 2036. Godišnja fiksna nak
+ nada: 124 €.\n\n• INA\, D.D. – Koncesija za zauzetu površinu odobre
+ nog eksploatacijskog polja (PODTUREN)\, 124 €/god.\n\nProfil općine: ht
+ tps://koncesijski-sat.vercel.app/#opcina/41942358B67321750216915\nIzvor: R
+ egistar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B67321750216915
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: INA\, D.D.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-11125cf41055bc73@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20360630
+DTEND;VALUE=DATE:20360701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA\, D.D.)
+DESCRIPTION:31. 12. 2036. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• INA\, D.D. – Koncesija za zauzetu površinu odobrenog eksploat
+ acijskog polja (PODTUREN)\, 124 €/god.\n\nProfil općine: https://konces
+ ijski-sat.vercel.app/#opcina/41942358B67321750216915
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B67321750216915
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA\, D.D.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-444b29ab423a8450@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20461231
+DTEND;VALUE=DATE:20470101
+SUMMARY:Ističe koncesija: INA\, D.D.
+DESCRIPTION:1 ugovor o koncesiji ističe 31. 12. 2046.\n\n• INA\, D.D. 
+ – Dozvola za eksploataciju ugljikovodika (prema Zakonu o ugljikovodicima
+ ) (PODTUREN)\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina
+ /41942358B67321750216915\nIzvor: Registar koncesija (FINA)\, obrada Konces
+ ijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B67321750216915
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: INA\, D.D.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-444b29ab423a8450@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20460630
+DTEND;VALUE=DATE:20460701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA\, D.D.)
+DESCRIPTION:31. 12. 2046. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• INA\, D.D. – Dozvola za eksploataciju ugljikovodika (prema Zak
+ onu o ugljikovodicima) (PODTUREN)\n\nProfil općine: https://koncesijski-s
+ at.vercel.app/#opcina/41942358B67321750216915
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B67321750216915
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA\, D.D.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

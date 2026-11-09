@@ -1,0 +1,73 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · Općina Breznica
+X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Breznica. Iz Reg
+ istra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade pod
+ ataka. https://koncesijski-sat.vercel.app/#opcina/41942358B63351390978471
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-363a1665637347b7@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+SUMMARY:Ističe koncesija: MULL-TRANS D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 1. 1. 2027.\n\n• MULL-TRANS D.O.
+ O. – Koncesija skupljanja i odvoza komunalnog otpada (BREZNICA)\n\nProfi
+ l općine: https://koncesijski-sat.vercel.app/#opcina/41942358B63351390978
+ 471\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026
+ .
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B63351390978471
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: MULL-TRANS D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-f186e1fc94891745@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20390515
+DTEND;VALUE=DATE:20390516
+SUMMARY:Ističe koncesija: TERMOPLIN D.D.
+DESCRIPTION:1 ugovor o koncesiji ističe 15. 5. 2039. Godišnja fiksna nakn
+ ada: 1.327 €.\n\n• TERMOPLIN D.D. – Koncesija za obavljanje distribu
+ cije plina na postojećem distribucijskom sustavu (BREZNICA\, VISOKO\, VIS
+ OKO)\, 1.327 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.ap
+ p/#opcina/41942358B63351390978471\nIzvor: Registar koncesija (FINA)\, obra
+ da Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B63351390978471
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: TERMOPLIN D.D.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-f186e1fc94891745@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20381115
+DTEND;VALUE=DATE:20381116
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (TERMOPLIN D.D.)
+DESCRIPTION:15. 5. 2039. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• TERMOPLIN D.D. – Koncesija za obavljanje distribucije plina na 
+ postojećem distribucijskom sustavu (BREZNICA\, VISOKO\, VISOKO)\, 1.327 
+ €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
+ 42358B63351390978471
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B63351390978471
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (TERMOPLIN D.
+ D.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,57 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · Općina Klana
+X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Klana. Iz Regist
+ ra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podata
+ ka. https://koncesijski-sat.vercel.app/#opcina/41942358B52907632095617
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-d5a5c2d2b692bee7@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20530630
+DTEND;VALUE=DATE:20530701
+SUMMARY:Ističe 3 koncesije · Klana
+DESCRIPTION:3 ugovora o koncesiji ističe 30. 6. 2053. Godišnja fiksna nak
+ nada: 7.400 €.\n\n• GP KRK D.D. – Koncesija za eksploataciju tehnič
+ ko-građevnog kamena (KLANA)\, 3.700 €/god.\n• GP KRK D.D. – Koncesi
+ ja za površinu utvrđenog eksploatacijskog polja neenergetskih mineralnih
+  sirovina (KLANA)\, 3.700 €/god.\n• GP KRK D.D. – Koncesija za ekspl
+ oataciju tehničko-građevnog kamena (KLANA)\n\nProfil općine: https://ko
+ ncesijski-sat.vercel.app/#opcina/41942358B52907632095617\nIzvor: Registar 
+ koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B52907632095617
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 3 koncesije · Klana
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-d5a5c2d2b692bee7@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20521230
+DTEND;VALUE=DATE:20521231
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:30. 6. 2053. ističe 3 ugovora o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• GP KRK D.D. – Koncesija za eksploataciju tehničko-građevnog 
+ kamena (KLANA)\, 3.700 €/god.\n• GP KRK D.D. – Koncesija za površin
+ u utvrđenog eksploatacijskog polja neenergetskih mineralnih sirovina (KLA
+ NA)\, 3.700 €/god.\n• GP KRK D.D. – Koncesija za eksploataciju tehni
+ čko-građevnog kamena (KLANA)\n\nProfil općine: https://koncesijski-sat.
+ vercel.app/#opcina/41942358B52907632095617
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B52907632095617
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

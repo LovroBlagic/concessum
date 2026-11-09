@@ -1,0 +1,105 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · Grad Pregrada
+X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Grad Pregrada. Iz Regist
+ ra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podata
+ ka. https://koncesijski-sat.vercel.app/#opcina/41942358B83553979787526
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-753f170930e38f9b@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20290711
+DTEND;VALUE=DATE:20290712
+SUMMARY:Ističe koncesija: LENKO CELENT\, OBRT ZA TRGOVINU\, UGOSTITELJSTVO
+  I USLUGE\,VL. LENKO CELENT
+DESCRIPTION:1 ugovor o koncesiji ističe 11. 7. 2029. Godišnja fiksna nakn
+ ada: 48.311 €.\n\n• LENKO CELENT\, OBRT ZA TRGOVINU\, UGOSTITELJSTVO I
+  USLUGE\,VL. LENKO CELENT – Koncesija pomorskog dobra u svrhu izgradnje 
+ i gospodarskog korištenja luke posebne namjene (PREGRADA\, PREKO\, PREKO)
+ \, 48.311 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#
+ opcina/41942358B83553979787526\nIzvor: Registar koncesija (FINA)\, obrada 
+ Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B83553979787526
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: LENKO CELENT\, OBRT ZA TRGOVINU\, UGOSTITELJ
+ STVO I USLUGE\,VL. LENKO CELENT
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-753f170930e38f9b@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20290111
+DTEND;VALUE=DATE:20290112
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (LENKO CELENT\, O
+ BRT ZA TRGOVINU\, UGOSTITELJSTVO I USLUGE\,VL. LENKO CELENT)
+DESCRIPTION:11. 7. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• LENKO CELENT\, OBRT ZA TRGOVINU\, UGOSTITELJSTVO I USLUGE\,VL. LE
+ NKO CELENT – Koncesija pomorskog dobra u svrhu izgradnje i gospodarskog 
+ korištenja luke posebne namjene (PREGRADA\, PREKO\, PREKO)\, 48.311 €/g
+ od.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358
+ B83553979787526
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B83553979787526
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (LENKO CELENT
+ \, OBRT ZA TRGOVINU\, UGOSTITELJSTVO I USLUGE\,VL. LENKO CELENT)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-cde39f0a6873b477@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20391231
+DTEND;VALUE=DATE:20400101
+SUMMARY:Ističe 3 koncesije · Pregrada
+DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2039. Godišnja fiksna na
+ knada: 4.984 €.\n\n• NISKOGRADNJA D.O.O. – Koncesija za eksploatacij
+ u tehničko-građevnog kamena (PREGRADA)\, 2.492 €/god.\n• NISKOGRADNJ
+ A D.O.O. – Koncesija za površinu utvrđenog eksploatacijskog polja neen
+ ergetskih mineralnih sirovina (PREGRADA)\, 2.492 €/god.\n• NISKOGRADNJ
+ A D.O.O. – Koncesija za eksploataciju tehničko-građevnog kamena (PREGR
+ ADA)\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4194235
+ 8B83553979787526\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sa
+ t 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B83553979787526
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 3 koncesije · Pregrada
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-cde39f0a6873b477@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20390630
+DTEND;VALUE=DATE:20390701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:31. 12. 2039. ističe 3 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• NISKOGRADNJA D.O.O. – Koncesija za eksploataciju tehničko-gr
+ ađevnog kamena (PREGRADA)\, 2.492 €/god.\n• NISKOGRADNJA D.O.O. – K
+ oncesija za površinu utvrđenog eksploatacijskog polja neenergetskih mine
+ ralnih sirovina (PREGRADA)\, 2.492 €/god.\n• NISKOGRADNJA D.O.O. – K
+ oncesija za eksploataciju tehničko-građevnog kamena (PREGRADA)\n\nProfil
+  općine: https://koncesijski-sat.vercel.app/#opcina/41942358B835539797875
+ 26
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B83553979787526
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

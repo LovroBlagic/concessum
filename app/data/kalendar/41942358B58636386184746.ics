@@ -1,0 +1,222 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · Općina Jelsa
+X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Jelsa. Iz Regist
+ ra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podata
+ ka. https://koncesijski-sat.vercel.app/#opcina/41942358B58636386184746
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-462656afdd747796@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20270531
+DTEND;VALUE=DATE:20270601
+SUMMARY:Ističe 3 koncesije · Jelsa
+DESCRIPTION:3 ugovora o koncesiji ističe 31. 5. 2027. Godišnja fiksna nak
+ nada: 15.150 €.\n\n• JELKOM D.O.O ZA KOMUNALNU DJELATNOST – Koncesij
+ a za luku (JELSA)\, 5.050 €/god.\n• JELKOM D.O.O ZA KOMUNALNU DJELATNO
+ ST – Koncesija za luku (JELSA)\, 5.050 €/god.\n• JELKOM D.O.O ZA KOM
+ UNALNU DJELATNOST – Koncesija za luku (JELSA)\, 5.050 €/god.\n\nProfil
+  općine: https://koncesijski-sat.vercel.app/#opcina/41942358B586363861847
+ 46\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B58636386184746
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 3 koncesije · Jelsa
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-462656afdd747796@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:31. 5. 2027. ističe 3 ugovora o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• JELKOM D.O.O ZA KOMUNALNU DJELATNOST – Koncesija za luku (JELS
+ A)\, 5.050 €/god.\n• JELKOM D.O.O ZA KOMUNALNU DJELATNOST – Koncesij
+ a za luku (JELSA)\, 5.050 €/god.\n• JELKOM D.O.O ZA KOMUNALNU DJELATNO
+ ST – Koncesija za luku (JELSA)\, 5.050 €/god.\n\nProfil općine: https
+ ://koncesijski-sat.vercel.app/#opcina/41942358B58636386184746
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B58636386184746
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-79ac845c86693611@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20271025
+DTEND;VALUE=DATE:20271026
+SUMMARY:Ističe koncesija: CONTADINO\, OBRT ZA USLUGE\, VL. FABIJAN GABELI
+ Ć\, VRBOSKA\, VRBOSKA 456
+DESCRIPTION:1 ugovor o koncesiji ističe 25. 10. 2027. Godišnja fiksna nak
+ nada: 1.000 €.\n\n• CONTADINO\, OBRT ZA USLUGE\, VL. FABIJAN GABELIĆ\
+ , VRBOSKA\, VRBOSKA 456 – Koncesija za luku (JELSA)\, 1.000 €/god.\n\n
+ Profil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B586363
+ 86184746\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11.
+  2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B58636386184746
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: CONTADINO\, OBRT ZA USLUGE\, VL. FABIJAN GAB
+ ELIĆ\, VRBOSKA\, VRBOSKA 456
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-79ac845c86693611@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20270425
+DTEND;VALUE=DATE:20270426
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (CONTADINO\, OBRT
+  ZA USLUGE\, VL. FABIJAN GABELIĆ\, VRBOSKA\, VRBOSKA 456)
+DESCRIPTION:25. 10. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• CONTADINO\, OBRT ZA USLUGE\, VL. FABIJAN GABELIĆ\, VRBOSKA\, VR
+ BOSKA 456 – Koncesija za luku (JELSA)\, 1.000 €/god.\n\nProfil općine
+ : https://koncesijski-sat.vercel.app/#opcina/41942358B58636386184746
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B58636386184746
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (CONTADINO\, 
+ OBRT ZA USLUGE\, VL. FABIJAN GABELIĆ\, VRBOSKA\, VRBOSKA 456)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-2b361c709839d7f1@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20290210
+DTEND;VALUE=DATE:20290211
+SUMMARY:Ističe koncesija: PRIJATELJI ŠĆEDRA D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 10. 2. 2029. Godišnja fiksna nakn
+ ada: 17.967 €.\n\n• PRIJATELJI ŠĆEDRA D.O.O. – Koncesija pomorskog
+  dobra u svrhu izgradnje i gospodarskog korištenja luke posebne namjene (
+ JELSA)\, 17.967 €/god.\n\nProfil općine: https://koncesijski-sat.vercel
+ .app/#opcina/41942358B58636386184746\nIzvor: Registar koncesija (FINA)\, o
+ brada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B58636386184746
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: PRIJATELJI ŠĆEDRA D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-2b361c709839d7f1@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20280810
+DTEND;VALUE=DATE:20280811
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PRIJATELJI ŠĆE
+ DRA D.O.O.)
+DESCRIPTION:10. 2. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• PRIJATELJI ŠĆEDRA D.O.O. – Koncesija pomorskog dobra u svrhu 
+ izgradnje i gospodarskog korištenja luke posebne namjene (JELSA)\, 17.967
+  €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41
+ 942358B58636386184746
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B58636386184746
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PRIJATELJI 
+ ŠĆEDRA D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-66aeca123b52db22@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20571110
+DTEND;VALUE=DATE:20571111
+SUMMARY:Ističe koncesija: HRVATSKI OPERATOR PRIJENOSNOG SUSTAVA D.D.
+DESCRIPTION:1 ugovor o koncesiji ističe 10. 11. 2057. Godišnja fiksna nak
+ nada: 5.274 €.\n\n• HRVATSKI OPERATOR PRIJENOSNOG SUSTAVA D.D. – Kon
+ cesija pomorskog dobra za posebnu upotrebu u svrhu gradnje kabelske veze (
+ JELSA)\, 5.274 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.
+ app/#opcina/41942358B58636386184746\nIzvor: Registar koncesija (FINA)\, ob
+ rada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B58636386184746
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: HRVATSKI OPERATOR PRIJENOSNOG SUSTAVA D.D.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-66aeca123b52db22@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20570510
+DTEND;VALUE=DATE:20570511
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKI OPERATO
+ R PRIJENOSNOG SUSTAVA D.D.)
+DESCRIPTION:10. 11. 2057. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• HRVATSKI OPERATOR PRIJENOSNOG SUSTAVA D.D. – Koncesija pomorsk
+ og dobra za posebnu upotrebu u svrhu gradnje kabelske veze (JELSA)\, 5.274
+  €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41
+ 942358B58636386184746
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B58636386184746
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKI OPE
+ RATOR PRIJENOSNOG SUSTAVA D.D.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-859a06c1b5c22372@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20760717
+DTEND;VALUE=DATE:20760718
+SUMMARY:Ističe koncesija: HRVATSKI TELEKOM D.D.
+DESCRIPTION:1 ugovor o koncesiji ističe 17. 7. 2076. Godišnja fiksna nakn
+ ada: 5.562 €.\n\n• HRVATSKI TELEKOM D.D. – Posebna upotreba pomorsko
+ g dobra (JELSA)\, 5.562 €/god.\n\nProfil općine: https://koncesijski-sa
+ t.vercel.app/#opcina/41942358B58636386184746\nIzvor: Registar koncesija (F
+ INA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B58636386184746
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: HRVATSKI TELEKOM D.D.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-859a06c1b5c22372@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20760117
+DTEND;VALUE=DATE:20760118
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKI TELEKOM
+  D.D.)
+DESCRIPTION:17. 7. 2076. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• HRVATSKI TELEKOM D.D. – Posebna upotreba pomorskog dobra (JELSA
+ )\, 5.562 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#
+ opcina/41942358B58636386184746
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B58636386184746
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKI TEL
+ EKOM D.D.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

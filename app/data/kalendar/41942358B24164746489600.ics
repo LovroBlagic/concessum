@@ -1,0 +1,234 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · Općina Špišić Bukovica
+X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Špišić Bukovi
+ ca. Iz Registra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake 
+ obrade podataka. https://koncesijski-sat.vercel.app/#opcina/41942358B24164
+ 746489600
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-76414324d1f04aca@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20291231
+DTEND;VALUE=DATE:20300101
+SUMMARY:Ističe 5 koncesija · Špišić Bukovica
+DESCRIPTION:5 ugovora o koncesiji ističe 31. 12. 2029. Godišnja fiksna na
+ knada: 9.622 €.\n\n• ATIKA - ZANATSKO OBRTNIČKA RADNJA – Koncesija 
+ za eksploataciju građevnog pijeska i šljunka (ŠPIŠIĆ BUKOVICA)\, 4.30
+ 7 €/god.\n• OBRT ATIKA VL. ZLATKO PTIČEK – Koncesija za eksploataci
+ ju građevnog pijeska i šljunka (ŠPIŠIĆ BUKOVICA)\, 4.307 €/god.\n
+ • ATIKA - ZANATSKO OBRTNIČKA RADNJA – Koncesija za zauzetu površinu 
+ odobrenog eksploatacijskog polja (ŠPIŠIĆ BUKOVICA)\, 504 €/god.\n• 
+ OBRT ATIKA VL. ZLATKO PTIČEK – Koncesija za površinu utvrđenog eksplo
+ atacijskog polja neenergetskih mineralnih sirovina (ŠPIŠIĆ BUKOVICA)\, 
+ 504 €/god.\n• OBRT ATIKA\, VL. ZLATKO PTIČEK – Koncesija za eksploa
+ taciju građevnog pijeska i šljunka (ŠPIŠIĆ BUKOVICA)\n\nProfil općin
+ e: https://koncesijski-sat.vercel.app/#opcina/41942358B24164746489600\nIzv
+ or: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B24164746489600
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 5 koncesija · Špišić Bukovica
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-76414324d1f04aca@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20290630
+DTEND;VALUE=DATE:20290701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 5 koncesija
+DESCRIPTION:31. 12. 2029. ističe 5 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• ATIKA - ZANATSKO OBRTNIČKA RADNJA – Koncesija za eksploataci
+ ju građevnog pijeska i šljunka (ŠPIŠIĆ BUKOVICA)\, 4.307 €/god.\n
+ • OBRT ATIKA VL. ZLATKO PTIČEK – Koncesija za eksploataciju građevno
+ g pijeska i šljunka (ŠPIŠIĆ BUKOVICA)\, 4.307 €/god.\n• ATIKA - ZA
+ NATSKO OBRTNIČKA RADNJA – Koncesija za zauzetu površinu odobrenog eksp
+ loatacijskog polja (ŠPIŠIĆ BUKOVICA)\, 504 €/god.\n• OBRT ATIKA VL.
+  ZLATKO PTIČEK – Koncesija za površinu utvrđenog eksploatacijskog pol
+ ja neenergetskih mineralnih sirovina (ŠPIŠIĆ BUKOVICA)\, 504 €/god.\n
+ • OBRT ATIKA\, VL. ZLATKO PTIČEK – Koncesija za eksploataciju građev
+ nog pijeska i šljunka (ŠPIŠIĆ BUKOVICA)\n\nProfil općine: https://kon
+ cesijski-sat.vercel.app/#opcina/41942358B24164746489600
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B24164746489600
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 5 koncesija
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-0485ed02d0a85e0e@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20310318
+DTEND;VALUE=DATE:20310319
+SUMMARY:Ističe koncesija: DIMKO D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 18. 3. 2031. Godišnja fiksna nakn
+ ada: 743 €.\n\n• DIMKO D.O.O. – Koncesija za obavljanje dimnjačarsk
+ ih poslova (ŠPIŠIĆ BUKOVICA)\, 743 €/god.\n\nProfil općine: https://
+ koncesijski-sat.vercel.app/#opcina/41942358B24164746489600\nIzvor: Regista
+ r koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B24164746489600
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: DIMKO D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-0485ed02d0a85e0e@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20300918
+DTEND;VALUE=DATE:20300919
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DIMKO D.O.O.)
+DESCRIPTION:18. 3. 2031. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• DIMKO D.O.O. – Koncesija za obavljanje dimnjačarskih poslova (
+ ŠPIŠIĆ BUKOVICA)\, 743 €/god.\n\nProfil općine: https://koncesijski-
+ sat.vercel.app/#opcina/41942358B24164746489600
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B24164746489600
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DIMKO D.O.O.
+ )
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-1ff07af962df9b52@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20351231
+DTEND;VALUE=DATE:20360101
+SUMMARY:Ističe 2 koncesije · Špišić Bukovica
+DESCRIPTION:2 ugovora o koncesiji ističe 31. 12. 2035. Godišnja fiksna na
+ knada: 222 €.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauzetu
+  površinu odobrenog eksploatacijskog polja (ŠPIŠIĆ BUKOVICA)\, 222 €
+ /god.\n• INA-INDUSTRIJA NAFTE  D.D. – Dozvola za eksploataciju ugljiko
+ vodika (prema Zakonu o ugljikovodicima) (ŠPIŠIĆ BUKOVICA)\n\nProfil op
+ ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B24164746489600\
+ nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B24164746489600
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 2 koncesije · Špišić Bukovica
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-1ff07af962df9b52@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20350630
+DTEND;VALUE=DATE:20350701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:31. 12. 2035. ističe 2 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauzetu površinu o
+ dobrenog eksploatacijskog polja (ŠPIŠIĆ BUKOVICA)\, 222 €/god.\n• I
+ NA-INDUSTRIJA NAFTE  D.D. – Dozvola za eksploataciju ugljikovodika (prem
+ a Zakonu o ugljikovodicima) (ŠPIŠIĆ BUKOVICA)\n\nProfil općine: https:
+ //koncesijski-sat.vercel.app/#opcina/41942358B24164746489600
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B24164746489600
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-7a871888a772aa2f@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20401231
+DTEND;VALUE=DATE:20410101
+SUMMARY:Ističe 3 koncesije · Špišić Bukovica
+DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2040. Godišnja fiksna na
+ knada: 2.895 €.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauze
+ tu površinu odobrenog eksploatacijskog polja (ŠPIŠIĆ BUKOVICA)\, 2.895
+  €/god.\n• INA-INDUSTRIJA NAFTE  D.D. – Dozvola za eksploataciju ugl
+ jikovodika (prema Zakonu o ugljikovodicima) (ŠPIŠIĆ BUKOVICA)\n• INA 
+ D.D. – Dozvola za eksploataciju ugljikovodika (prema Zakonu o ugljikovod
+ icima) (ŠPIŠIĆ BUKOVICA)\n\nProfil općine: https://koncesijski-sat.ver
+ cel.app/#opcina/41942358B24164746489600\nIzvor: Registar koncesija (FINA)\
+ , obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B24164746489600
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 3 koncesije · Špišić Bukovica
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-7a871888a772aa2f@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20400630
+DTEND;VALUE=DATE:20400701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:31. 12. 2040. ističe 3 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauzetu površinu o
+ dobrenog eksploatacijskog polja (ŠPIŠIĆ BUKOVICA)\, 2.895 €/god.\n•
+  INA-INDUSTRIJA NAFTE  D.D. – Dozvola za eksploataciju ugljikovodika (pr
+ ema Zakonu o ugljikovodicima) (ŠPIŠIĆ BUKOVICA)\n• INA D.D. – Dozvo
+ la za eksploataciju ugljikovodika (prema Zakonu o ugljikovodicima) (ŠPIŠ
+ IĆ BUKOVICA)\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcin
+ a/41942358B24164746489600
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B24164746489600
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-90eca1b62b45fcbd@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20431231
+DTEND;VALUE=DATE:20440101
+SUMMARY:Ističe koncesija: BIOFARMA D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 31. 12. 2043. Godišnja fiksna nak
+ nada: 80 €.\n\n• BIOFARMA D.O.O. – Koncesija za zahvaćanje voda za 
+ melioracijsko navodnjavanje (ŠPIŠIĆ BUKOVICA)\, 80 €/god.\n\nProfil o
+ pćine: https://koncesijski-sat.vercel.app/#opcina/41942358B24164746489600
+ \nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B24164746489600
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: BIOFARMA D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-90eca1b62b45fcbd@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20430630
+DTEND;VALUE=DATE:20430701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BIOFARMA D.O.O.)
+DESCRIPTION:31. 12. 2043. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• BIOFARMA D.O.O. – Koncesija za zahvaćanje voda za melioracijs
+ ko navodnjavanje (ŠPIŠIĆ BUKOVICA)\, 80 €/god.\n\nProfil općine: htt
+ ps://koncesijski-sat.vercel.app/#opcina/41942358B24164746489600
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B24164746489600
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BIOFARMA D.O
+ .O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

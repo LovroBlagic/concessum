@@ -1,0 +1,94 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · Općina Gradec
+X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Gradec. Iz Regis
+ tra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podat
+ aka. https://koncesijski-sat.vercel.app/#opcina/41942358B6560721693792
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-681f94136efdae2c@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20271113
+DTEND;VALUE=DATE:20271114
+SUMMARY:Ističe koncesija: ASPECT CROATIA KFT.
+DESCRIPTION:1 ugovor o koncesiji ističe 13. 11. 2027. Godišnja fiksna nak
+ nada: 3.531 €.\n\n• ASPECT CROATIA KFT. – Dozvola za istraživanje u
+ gljikovodika (prema Zakonu o ugljikovodicima) (GRADEC)\, 3.531 €/god.\n\
+ nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B65607
+ 21693792\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11.
+  2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B6560721693792
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: ASPECT CROATIA KFT.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-681f94136efdae2c@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20270513
+DTEND;VALUE=DATE:20270514
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ASPECT CROATIA K
+ FT.)
+DESCRIPTION:13. 11. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• ASPECT CROATIA KFT. – Dozvola za istraživanje ugljikovodika (
+ prema Zakonu o ugljikovodicima) (GRADEC)\, 3.531 €/god.\n\nProfil općin
+ e: https://koncesijski-sat.vercel.app/#opcina/41942358B6560721693792
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B6560721693792
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ASPECT CROAT
+ IA KFT.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-b83abb3bb93a0660@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20451112
+DTEND;VALUE=DATE:20451113
+SUMMARY:Ističe koncesija: BELJE PLUS D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 12. 11. 2045. Godišnja fiksna nak
+ nada: 5.500 €.\n\n• BELJE PLUS D.O.O. – Koncesija za zahvaćanje vod
+ a za tehnološke potrebe (GRADEC)\, 5.500 €/god.\n\nProfil općine: http
+ s://koncesijski-sat.vercel.app/#opcina/41942358B6560721693792\nIzvor: Regi
+ star koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B6560721693792
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: BELJE PLUS D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-b83abb3bb93a0660@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20450512
+DTEND;VALUE=DATE:20450513
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BELJE PLUS D.O.O
+ .)
+DESCRIPTION:12. 11. 2045. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• BELJE PLUS D.O.O. – Koncesija za zahvaćanje voda za tehnološ
+ ke potrebe (GRADEC)\, 5.500 €/god.\n\nProfil općine: https://koncesijsk
+ i-sat.vercel.app/#opcina/41942358B6560721693792
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B6560721693792
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BELJE PLUS D
+ .O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,144 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · Općina Bedekovčina
+X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Bedekovčina. Iz
+  Registra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade
+  podataka. https://koncesijski-sat.vercel.app/#opcina/41942358B37540360196
+ 284
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-08e217c0897dd101@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20270831
+DTEND;VALUE=DATE:20270901
+SUMMARY:Ističe koncesija: ZAGORSKI RADIO D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 31. 8. 2027. Godišnja fiksna nakn
+ ada: 133 €.\n\n• ZAGORSKI RADIO D.O.O. – Koncesija za obavljanje dje
+ latnosti radija (BEDEKOVČINA\, DONJA STUBICA\, KRAPINA\, KRAPINSKE TOPLIC
+ E\, LOBOR\, MAČE\, OROSLAVJE\, STUBIČKE TOPLICE\, SVETI KRIŽ ZAČRETJE\
+ , ZABOK\, ZLATAR\, ZLATAR BISTRICA)\, 133 €/god.\n\nProfil općine: http
+ s://koncesijski-sat.vercel.app/#opcina/41942358B37540360196284\nIzvor: Reg
+ istar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B37540360196284
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: ZAGORSKI RADIO D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-08e217c0897dd101@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270301
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ZAGORSKI RADIO D
+ .O.O.)
+DESCRIPTION:31. 8. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• ZAGORSKI RADIO D.O.O. – Koncesija za obavljanje djelatnosti rad
+ ija (BEDEKOVČINA\, DONJA STUBICA\, KRAPINA\, KRAPINSKE TOPLICE\, LOBOR\, 
+ MAČE\, OROSLAVJE\, STUBIČKE TOPLICE\, SVETI KRIŽ ZAČRETJE\, ZABOK\, ZL
+ ATAR\, ZLATAR BISTRICA)\, 133 €/god.\n\nProfil općine: https://koncesij
+ ski-sat.vercel.app/#opcina/41942358B37540360196284
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B37540360196284
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ZAGORSKI RAD
+ IO D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-4a8fc3105972282a@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20280323
+DTEND;VALUE=DATE:20280324
+SUMMARY:Ističe koncesija: JAKUŠ DIMOVODNI SUSTAVI J.D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 23. 3. 2028. Godišnja fiksna nakn
+ ada: 800 €.\n\n• JAKUŠ DIMOVODNI SUSTAVI J.D.O.O. – Koncesija za ob
+ avljanje dimnjačarskih poslova (BEDEKOVČINA)\, 800 €/god.\n\nProfil op
+ ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B37540360196284\
+ nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B37540360196284
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: JAKUŠ DIMOVODNI SUSTAVI J.D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-4a8fc3105972282a@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20270923
+DTEND;VALUE=DATE:20270924
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (JAKUŠ DIMOVODNI
+  SUSTAVI J.D.O.O.)
+DESCRIPTION:23. 3. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• JAKUŠ DIMOVODNI SUSTAVI J.D.O.O. – Koncesija za obavljanje dim
+ njačarskih poslova (BEDEKOVČINA)\, 800 €/god.\n\nProfil općine: https
+ ://koncesijski-sat.vercel.app/#opcina/41942358B37540360196284
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B37540360196284
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (JAKUŠ DIMOV
+ ODNI SUSTAVI J.D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-39aa3779fc9a21c6@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20301231
+DTEND;VALUE=DATE:20310101
+SUMMARY:Ističe 3 koncesije · Bedekovčina
+DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2030. Godišnja fiksna na
+ knada: 9.120 €.\n\n• AGRARIA-GLINOKOP D.O.O. – Koncesija za eksploat
+ aciju keramičke i vatrostalne gline (BEDEKOVČINA)\, 3.040 €/god.\n• 
+ AGRARIA-GLINOKOP D.O.O. – Koncesija za površinu utvrđenog eksploatacij
+ skog polja neenergetskih mineralnih sirovina (BEDEKOVČINA)\, 3.040 €/go
+ d.\n• AGRARIA-GLINOKOP D.O.O. – Koncesija za eksploataciju keramičke 
+ i vatrostalne gline (BEDEKOVČINA)\, 3.040 €/god.\n\nProfil općine: htt
+ ps://koncesijski-sat.vercel.app/#opcina/41942358B37540360196284\nIzvor: Re
+ gistar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B37540360196284
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 3 koncesije · Bedekovčina
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-39aa3779fc9a21c6@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20300630
+DTEND;VALUE=DATE:20300701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:31. 12. 2030. ističe 3 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• AGRARIA-GLINOKOP D.O.O. – Koncesija za eksploataciju keramič
+ ke i vatrostalne gline (BEDEKOVČINA)\, 3.040 €/god.\n• AGRARIA-GLINOK
+ OP D.O.O. – Koncesija za površinu utvrđenog eksploatacijskog polja nee
+ nergetskih mineralnih sirovina (BEDEKOVČINA)\, 3.040 €/god.\n• AGRARI
+ A-GLINOKOP D.O.O. – Koncesija za eksploataciju keramičke i vatrostalne 
+ gline (BEDEKOVČINA)\, 3.040 €/god.\n\nProfil općine: https://koncesijs
+ ki-sat.vercel.app/#opcina/41942358B37540360196284
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B37540360196284
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

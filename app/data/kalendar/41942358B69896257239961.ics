@@ -1,0 +1,136 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · Grad Slunj
+X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Grad Slunj. Iz Registra 
+ koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podataka.
+  https://koncesijski-sat.vercel.app/#opcina/41942358B69896257239961
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-2f019108764e6717@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20270807
+DTEND;VALUE=DATE:20270808
+SUMMARY:Ističe koncesija: ENERGON DIMNJAČARSKI OBRT
+DESCRIPTION:1 ugovor o koncesiji ističe 7. 8. 2027.\n\n• ENERGON DIMNJA
+ ČARSKI OBRT – Koncesija za obavljanje dimnjačarskih poslova (SLUNJ)\n\
+ nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B69896
+ 257239961\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11
+ . 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B69896257239961
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: ENERGON DIMNJAČARSKI OBRT
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-2f019108764e6717@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270208
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ENERGON DIMNJAČ
+ ARSKI OBRT)
+DESCRIPTION:7. 8. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodjele
+  treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
+ \n\n• ENERGON DIMNJAČARSKI OBRT – Koncesija za obavljanje dimnjačars
+ kih poslova (SLUNJ)\n\nProfil općine: https://koncesijski-sat.vercel.app/
+ #opcina/41942358B69896257239961
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B69896257239961
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ENERGON DIMN
+ JAČARSKI OBRT)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-f1a2fc83e6601e98@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20271112
+DTEND;VALUE=DATE:20271113
+SUMMARY:Ističe koncesija: RADIO SLUNJ D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 12. 11. 2027. Godišnja fiksna nak
+ nada: 66 €.\n\n• RADIO SLUNJ D.O.O. – Koncesija za obavljanje djelat
+ nosti radija (SLUNJ)\, 66 €/god.\n\nProfil općine: https://koncesijski-
+ sat.vercel.app/#opcina/41942358B69896257239961\nIzvor: Registar koncesija 
+ (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B69896257239961
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: RADIO SLUNJ D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-f1a2fc83e6601e98@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20270512
+DTEND;VALUE=DATE:20270513
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (RADIO SLUNJ D.O.
+ O.)
+DESCRIPTION:12. 11. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• RADIO SLUNJ D.O.O. – Koncesija za obavljanje djelatnosti radij
+ a (SLUNJ)\, 66 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.
+ app/#opcina/41942358B69896257239961
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B69896257239961
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (RADIO SLUNJ 
+ D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-284f35c067b48f8a@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20321231
+DTEND;VALUE=DATE:20330101
+SUMMARY:Ističe koncesija: OBRT ZA PRIJEVOZ I USLUGE VL. SLAVKO KOVAČEVIĆ
+DESCRIPTION:1 ugovor o koncesiji ističe 31. 12. 2032. Godišnja fiksna nak
+ nada: 718 €.\n\n• OBRT ZA PRIJEVOZ I USLUGE VL. SLAVKO KOVAČEVIĆ –
+  Koncesija za površinu utvrđenog eksploatacijskog polja neenergetskih mi
+ neralnih sirovina (SLUNJ)\, 718 €/god.\n\nProfil općine: https://konces
+ ijski-sat.vercel.app/#opcina/41942358B69896257239961\nIzvor: Registar konc
+ esija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B69896257239961
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: OBRT ZA PRIJEVOZ I USLUGE VL. SLAVKO KOVAČE
+ VIĆ
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-284f35c067b48f8a@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20320630
+DTEND;VALUE=DATE:20320701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (OBRT ZA PRIJEVOZ
+  I USLUGE VL. SLAVKO KOVAČEVIĆ)
+DESCRIPTION:31. 12. 2032. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• OBRT ZA PRIJEVOZ I USLUGE VL. SLAVKO KOVAČEVIĆ – Koncesija z
+ a površinu utvrđenog eksploatacijskog polja neenergetskih mineralnih sir
+ ovina (SLUNJ)\, 718 €/god.\n\nProfil općine: https://koncesijski-sat.ve
+ rcel.app/#opcina/41942358B69896257239961
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B69896257239961
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (OBRT ZA PRIJ
+ EVOZ I USLUGE VL. SLAVKO KOVAČEVIĆ)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

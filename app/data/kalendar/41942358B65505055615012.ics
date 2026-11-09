@@ -1,0 +1,136 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · Općina Popovac
+X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Popovac. Iz Regi
+ stra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade poda
+ taka. https://koncesijski-sat.vercel.app/#opcina/41942358B65505055615012
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-1ce31afdd4209665@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20300303
+DTEND;VALUE=DATE:20300304
+SUMMARY:Ističe koncesija: BELJE PLUS D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 3. 3. 2030. Godišnja fiksna nakna
+ da: 3.185 €.\n\n• BELJE PLUS D.O.O. – Koncesija za zahvaćanje voda 
+ radi korištenja u proizvodnom postupku (POPOVAC)\, 3.185 €/god.\n\nProf
+ il općine: https://koncesijski-sat.vercel.app/#opcina/41942358B6550505561
+ 5012\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 202
+ 6.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B65505055615012
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: BELJE PLUS D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-1ce31afdd4209665@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20290903
+DTEND;VALUE=DATE:20290904
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BELJE PLUS D.O.O
+ .)
+DESCRIPTION:3. 3. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodjele
+  treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
+ \n\n• BELJE PLUS D.O.O. – Koncesija za zahvaćanje voda radi korišten
+ ja u proizvodnom postupku (POPOVAC)\, 3.185 €/god.\n\nProfil općine: ht
+ tps://koncesijski-sat.vercel.app/#opcina/41942358B65505055615012
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B65505055615012
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BELJE PLUS D
+ .O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-8709edf9f52fa40f@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20300322
+DTEND;VALUE=DATE:20300323
+SUMMARY:Ističe koncesija: BELJE PLUS D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 22. 3. 2030. Godišnja fiksna nakn
+ ada: 1.486 €.\n\n• BELJE PLUS D.O.O. – Koncesija za zahvaćanje voda
+  radi korištenja u proizvodnom postupku (POPOVAC)\, 1.486 €/god.\n\nPro
+ fil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B655050556
+ 15012\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 20
+ 26.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B65505055615012
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: BELJE PLUS D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-8709edf9f52fa40f@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20290922
+DTEND;VALUE=DATE:20290923
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BELJE PLUS D.O.O
+ .)
+DESCRIPTION:22. 3. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• BELJE PLUS D.O.O. – Koncesija za zahvaćanje voda radi korište
+ nja u proizvodnom postupku (POPOVAC)\, 1.486 €/god.\n\nProfil općine: h
+ ttps://koncesijski-sat.vercel.app/#opcina/41942358B65505055615012
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B65505055615012
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BELJE PLUS D
+ .O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-9f7f252abfe5619d@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20341026
+DTEND;VALUE=DATE:20341027
+SUMMARY:Ističe koncesija: BELJE PLUS D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 26. 10. 2034. Godišnja fiksna nak
+ nada: 112.789 €.\n\n• BELJE PLUS D.O.O. – Koncesija za korištenje p
+ oljoprivrednog zemljišta u vlasništvu države (POPOVAC)\, 112.789 €/go
+ d.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B
+ 65505055615012\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 
+ 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B65505055615012
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: BELJE PLUS D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-9f7f252abfe5619d@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20340426
+DTEND;VALUE=DATE:20340427
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BELJE PLUS D.O.O
+ .)
+DESCRIPTION:26. 10. 2034. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• BELJE PLUS D.O.O. – Koncesija za korištenje poljoprivrednog z
+ emljišta u vlasništvu države (POPOVAC)\, 112.789 €/god.\n\nProfil op
+ ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B65505055615012
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B65505055615012
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BELJE PLUS D
+ .O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,293 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · Grad Virovitica
+X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Grad Virovitica. Iz Regi
+ stra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade poda
+ taka. https://koncesijski-sat.vercel.app/#opcina/41942358B86189890542862
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-d9fece8a7578dbe4@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20270628
+DTEND;VALUE=DATE:20270629
+SUMMARY:Ističe koncesija: INA\, D.D.
+DESCRIPTION:1 ugovor o koncesiji ističe 28. 6. 2027. Godišnja fiksna nakn
+ ada: 7.737 €.\n\n• INA\, D.D. – Dozvola za istraživanje ugljikovodi
+ ka (prema Zakonu o ugljikovodicima) (VIROVITICA)\, 7.737 €/god.\n\nProfi
+ l općine: https://koncesijski-sat.vercel.app/#opcina/41942358B86189890542
+ 862\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026
+ .
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B86189890542862
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: INA\, D.D.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-d9fece8a7578dbe4@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20261228
+DTEND;VALUE=DATE:20261229
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA\, D.D.)
+DESCRIPTION:28. 6. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• INA\, D.D. – Dozvola za istraživanje ugljikovodika (prema Zako
+ nu o ugljikovodicima) (VIROVITICA)\, 7.737 €/god.\n\nProfil općine: htt
+ ps://koncesijski-sat.vercel.app/#opcina/41942358B86189890542862
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B86189890542862
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA\, D.D.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-db25a670814f94d1@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20271112
+DTEND;VALUE=DATE:20271113
+SUMMARY:Ističe koncesija: UDRUGA RADIO MARIJA
+DESCRIPTION:1 ugovor o koncesiji ističe 12. 11. 2027. Godišnja fiksna nak
+ nada: 66 €.\n\n• UDRUGA RADIO MARIJA – Koncesija za obavljanje djela
+ tnosti radija (VIROVITICA)\, 66 €/god.\n\nProfil općine: https://konces
+ ijski-sat.vercel.app/#opcina/41942358B86189890542862\nIzvor: Registar konc
+ esija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B86189890542862
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: UDRUGA RADIO MARIJA
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-db25a670814f94d1@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20270512
+DTEND;VALUE=DATE:20270513
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (UDRUGA RADIO MAR
+ IJA)
+DESCRIPTION:12. 11. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• UDRUGA RADIO MARIJA – Koncesija za obavljanje djelatnosti radi
+ ja (VIROVITICA)\, 66 €/god.\n\nProfil općine: https://koncesijski-sat.v
+ ercel.app/#opcina/41942358B86189890542862
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B86189890542862
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (UDRUGA RADIO
+  MARIJA)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-3a488aff0d7a139f@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20291027
+DTEND;VALUE=DATE:20291028
+SUMMARY:Ističe koncesija: RADIO VIROVITICA D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 27. 10. 2029. Godišnja fiksna nak
+ nada: 66 €.\n\n• RADIO VIROVITICA D.O.O. – Koncesija za obavljanje d
+ jelatnosti radija (VIROVITICA)\, 66 €/god.\n\nProfil općine: https://ko
+ ncesijski-sat.vercel.app/#opcina/41942358B86189890542862\nIzvor: Registar 
+ koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B86189890542862
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: RADIO VIROVITICA D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-3a488aff0d7a139f@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20290427
+DTEND;VALUE=DATE:20290428
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (RADIO VIROVITICA
+  D.O.O.)
+DESCRIPTION:27. 10. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• RADIO VIROVITICA D.O.O. – Koncesija za obavljanje djelatnosti 
+ radija (VIROVITICA)\, 66 €/god.\n\nProfil općine: https://koncesijski-s
+ at.vercel.app/#opcina/41942358B86189890542862
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B86189890542862
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (RADIO VIROVI
+ TICA D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-32bcd5414e29098a@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20350228
+DTEND;VALUE=DATE:20350301
+SUMMARY:Ističe koncesija: DIM - DIMNJAČARSKI OBRT\, VL. SUZANA PASARIĆ
+DESCRIPTION:1 ugovor o koncesiji ističe 28. 2. 2035. Godišnja fiksna nakn
+ ada: 2.004 €.\n\n• DIM - DIMNJAČARSKI OBRT\, VL. SUZANA PASARIĆ – 
+ Koncesija za obavljanje dimnjačarskih poslova (VIROVITICA)\, 2.004 €/go
+ d.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B
+ 86189890542862\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 
+ 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B86189890542862
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: DIM - DIMNJAČARSKI OBRT\, VL. SUZANA PASARI
+ Ć
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-32bcd5414e29098a@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20340828
+DTEND;VALUE=DATE:20340829
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DIM - DIMNJAČAR
+ SKI OBRT\, VL. SUZANA PASARIĆ)
+DESCRIPTION:28. 2. 2035. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• DIM - DIMNJAČARSKI OBRT\, VL. SUZANA PASARIĆ – Koncesija za o
+ bavljanje dimnjačarskih poslova (VIROVITICA)\, 2.004 €/god.\n\nProfil o
+ pćine: https://koncesijski-sat.vercel.app/#opcina/41942358B86189890542862
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B86189890542862
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DIM - DIMNJA
+ ČARSKI OBRT\, VL. SUZANA PASARIĆ)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-4c3c625de739f25d@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20390120
+DTEND;VALUE=DATE:20390121
+SUMMARY:Ističe koncesija: AGROMILK D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 20. 1. 2039. Godišnja fiksna nakn
+ ada: 4.280 €.\n\n• AGROMILK D.O.O. – Koncesija za korištenje poljop
+ rivrednog zemljišta u vlasništvu države (VIROVITICA)\, 4.280 €/god.\n
+ \nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B8618
+ 9890542862\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 1
+ 1. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B86189890542862
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: AGROMILK D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-4c3c625de739f25d@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20380720
+DTEND;VALUE=DATE:20380721
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (AGROMILK D.O.O.)
+DESCRIPTION:20. 1. 2039. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• AGROMILK D.O.O. – Koncesija za korištenje poljoprivrednog zeml
+ jišta u vlasništvu države (VIROVITICA)\, 4.280 €/god.\n\nProfil opći
+ ne: https://koncesijski-sat.vercel.app/#opcina/41942358B86189890542862
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B86189890542862
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (AGROMILK D.O
+ .O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-44b95b43ac3ff2fd@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20421231
+DTEND;VALUE=DATE:20430101
+SUMMARY:Ističe koncesija: INA-INDUSTRIJA NAFTE  D.D.
+DESCRIPTION:1 ugovor o koncesiji ističe 31. 12. 2042.\n\n• INA-INDUSTRIJ
+ A NAFTE  D.D. – Dozvola za eksploataciju ugljikovodika (prema Zakonu o u
+ gljikovodicima) (VIROVITICA)\n\nProfil općine: https://koncesijski-sat.ve
+ rcel.app/#opcina/41942358B86189890542862\nIzvor: Registar koncesija (FINA)
+ \, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B86189890542862
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: INA-INDUSTRIJA NAFTE  D.D.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-44b95b43ac3ff2fd@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20420630
+DTEND;VALUE=DATE:20420701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA-INDUSTRIJA N
+ AFTE  D.D.)
+DESCRIPTION:31. 12. 2042. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Dozvola za eksploataciju ugljikov
+ odika (prema Zakonu o ugljikovodicima) (VIROVITICA)\n\nProfil općine: htt
+ ps://koncesijski-sat.vercel.app/#opcina/41942358B86189890542862
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B86189890542862
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA-INDUSTRI
+ JA NAFTE  D.D.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-4c1258c4ee73dd7e@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20470510
+DTEND;VALUE=DATE:20470511
+SUMMARY:Ističe koncesija: HEP-PLIN D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 10. 5. 2047.\n\n• HEP-PLIN D.O.O
+ . – Koncesija za obavljanje distribucije plina na postojećem distribuci
+ jskom sustavu (VIROVITICA)\n\nProfil općine: https://koncesijski-sat.verc
+ el.app/#opcina/41942358B86189890542862\nIzvor: Registar koncesija (FINA)\,
+  obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B86189890542862
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: HEP-PLIN D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-4c1258c4ee73dd7e@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20461110
+DTEND;VALUE=DATE:20461111
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP-PLIN D.O.O.)
+DESCRIPTION:10. 5. 2047. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• HEP-PLIN D.O.O. – Koncesija za obavljanje distribucije plina na
+  postojećem distribucijskom sustavu (VIROVITICA)\n\nProfil općine: https
+ ://koncesijski-sat.vercel.app/#opcina/41942358B86189890542862
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B86189890542862
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP-PLIN D.O
+ .O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

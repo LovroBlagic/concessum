@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · Grad Hrvatska Kostajnica
+X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Grad Hrvatska Kostajnica
+ . Iz Registra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake ob
+ rade podataka. https://koncesijski-sat.vercel.app/#opcina/41942358B9918929
+ 4915481
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-5709ef268e4b0b20@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20270301
+DTEND;VALUE=DATE:20270302
+SUMMARY:Ističe koncesija: ČAZMATRANS PROMET D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 1. 3. 2027. Godišnja fiksna nakna
+ da: 796 €.\n\n• ČAZMATRANS PROMET D.O.O. – Koncesija za obavljanje 
+ prijevoza putnika u javnom prometu (HRVATSKA KOSTAJNICA)\, 796 €/god.\n\
+ nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B99189
+ 294915481\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11
+ . 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B99189294915481
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: ČAZMATRANS PROMET D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-ae18fab41ab9f6ff@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20300406
+DTEND;VALUE=DATE:20300407
+SUMMARY:Ističe koncesija: DIMNJAČARSKI SERVIS J.D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 6. 4. 2030. Godišnja fiksna nakna
+ da: 530 €.\n\n• DIMNJAČARSKI SERVIS J.D.O.O. – Koncesija za obavlja
+ nje dimnjačarskih poslova (HRVATSKA KOSTAJNICA)\, 530 €/god.\n\nProfil 
+ općine: https://koncesijski-sat.vercel.app/#opcina/41942358B9918929491548
+ 1\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B99189294915481
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: DIMNJAČARSKI SERVIS J.D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-ae18fab41ab9f6ff@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20291006
+DTEND;VALUE=DATE:20291007
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DIMNJAČARSKI SE
+ RVIS J.D.O.O.)
+DESCRIPTION:6. 4. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodjele
+  treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
+ \n\n• DIMNJAČARSKI SERVIS J.D.O.O. – Koncesija za obavljanje dimnjač
+ arskih poslova (HRVATSKA KOSTAJNICA)\, 530 €/god.\n\nProfil općine: htt
+ ps://koncesijski-sat.vercel.app/#opcina/41942358B99189294915481
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B99189294915481
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DIMNJAČARSK
+ I SERVIS J.D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

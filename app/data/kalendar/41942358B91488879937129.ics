@@ -1,0 +1,136 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · Općina Kršan
+X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Kršan. Iz Regis
+ tra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podat
+ aka. https://koncesijski-sat.vercel.app/#opcina/41942358B91488879937129
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-97fa73660594d511@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20330908
+DTEND;VALUE=DATE:20330909
+SUMMARY:Ističe koncesija: PLOMIN HOLDING D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 8. 9. 2033. Godišnja fiksna nakna
+ da: 5.682 €.\n\n• PLOMIN HOLDING D.O.O. – Koncesija na pomorskom dob
+ ru (KRŠAN)\, 5.682 €/god.\n\nProfil općine: https://koncesijski-sat.ve
+ rcel.app/#opcina/41942358B91488879937129\nIzvor: Registar koncesija (FINA)
+ \, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B91488879937129
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: PLOMIN HOLDING D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-97fa73660594d511@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20330308
+DTEND;VALUE=DATE:20330309
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PLOMIN HOLDING D
+ .O.O.)
+DESCRIPTION:8. 9. 2033. ističe 1 ugovor o koncesiji. Novi postupak dodjele
+  treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
+ \n\n• PLOMIN HOLDING D.O.O. – Koncesija na pomorskom dobru (KRŠAN)\, 
+ 5.682 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opci
+ na/41942358B91488879937129
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B91488879937129
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PLOMIN HOLDI
+ NG D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-0568424b7e83655e@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20380207
+DTEND;VALUE=DATE:20380208
+SUMMARY:Ističe koncesija: PLINARA D.O.O. PULA
+DESCRIPTION:1 ugovor o koncesiji ističe 7. 2. 2038. Godišnja fiksna nakna
+ da: 1.327 €.\n\n• PLINARA D.O.O. PULA – Koncesija za izgradnju distr
+ ibucijskog sustava plinovoda i pružanje usluga distribucijskim sustavom (
+ KRŠAN\, PIĆAN\, PIĆAN)\, 1.327 €/god.\n\nProfil općine: https://konc
+ esijski-sat.vercel.app/#opcina/41942358B91488879937129\nIzvor: Registar ko
+ ncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B91488879937129
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: PLINARA D.O.O. PULA
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-0568424b7e83655e@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20370807
+DTEND;VALUE=DATE:20370808
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PLINARA D.O.O. P
+ ULA)
+DESCRIPTION:7. 2. 2038. ističe 1 ugovor o koncesiji. Novi postupak dodjele
+  treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
+ \n\n• PLINARA D.O.O. PULA – Koncesija za izgradnju distribucijskog sus
+ tava plinovoda i pružanje usluga distribucijskim sustavom (KRŠAN\, PIĆA
+ N\, PIĆAN)\, 1.327 €/god.\n\nProfil općine: https://koncesijski-sat.ve
+ rcel.app/#opcina/41942358B91488879937129
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B91488879937129
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PLINARA D.O.
+ O. PULA)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-5b205645b3388892@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20441212
+DTEND;VALUE=DATE:20441213
+SUMMARY:Ističe koncesija: KAPTOL-GRUPA D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 12. 12. 2044. Godišnja fiksna nak
+ nada: 929 €.\n\n• KAPTOL-GRUPA D.O.O. – Koncesija za korištenje vod
+ ne snage radi proizvodnje električne energije (KRŠAN)\, 929 €/god.\n\n
+ Profil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B914888
+ 79937129\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11.
+  2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B91488879937129
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: KAPTOL-GRUPA D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-5b205645b3388892@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20440612
+DTEND;VALUE=DATE:20440613
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (KAPTOL-GRUPA D.O
+ .O.)
+DESCRIPTION:12. 12. 2044. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• KAPTOL-GRUPA D.O.O. – Koncesija za korištenje vodne snage rad
+ i proizvodnje električne energije (KRŠAN)\, 929 €/god.\n\nProfil opći
+ ne: https://koncesijski-sat.vercel.app/#opcina/41942358B91488879937129
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B91488879937129
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (KAPTOL-GRUPA
+  D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

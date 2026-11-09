@@ -1,0 +1,297 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · Općina Okrug
+X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Okrug. Iz Regist
+ ra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podata
+ ka. https://koncesijski-sat.vercel.app/#opcina/41942358B85370902157409
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-34e51b2cbaebd84b@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20360612
+DTEND;VALUE=DATE:20360613
+SUMMARY:Ističe koncesija: HRVATSKI OPERATOR PRIJENOSNOG SUSTAVA D.D.
+DESCRIPTION:1 ugovor o koncesiji ističe 12. 6. 2036. Godišnja fiksna nakn
+ ada: 3.086 €.\n\n• HRVATSKI OPERATOR PRIJENOSNOG SUSTAVA D.D. – Konc
+ esija na pomorskom dobru (OKRUG)\, 3.086 €/god.\n\nProfil općine: https
+ ://koncesijski-sat.vercel.app/#opcina/41942358B85370902157409\nIzvor: Regi
+ star koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B85370902157409
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: HRVATSKI OPERATOR PRIJENOSNOG SUSTAVA D.D.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-34e51b2cbaebd84b@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20351212
+DTEND;VALUE=DATE:20351213
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKI OPERATO
+ R PRIJENOSNOG SUSTAVA D.D.)
+DESCRIPTION:12. 6. 2036. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• HRVATSKI OPERATOR PRIJENOSNOG SUSTAVA D.D. – Koncesija na pomor
+ skom dobru (OKRUG)\, 3.086 €/god.\n\nProfil općine: https://koncesijski
+ -sat.vercel.app/#opcina/41942358B85370902157409
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B85370902157409
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKI OPE
+ RATOR PRIJENOSNOG SUSTAVA D.D.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-525a05147124dd53@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20370319
+DTEND;VALUE=DATE:20370320
+SUMMARY:Ističe koncesija: VODOVOD I KANALIZACIJA  D.O.O.-USLUGE
+DESCRIPTION:1 ugovor o koncesiji ističe 19. 3. 2037. Godišnja fiksna nakn
+ ada: 719 €.\n\n• VODOVOD I KANALIZACIJA  D.O.O.-USLUGE – Koncesija n
+ a pomorskom dobru (OKRUG)\, 719 €/god.\n\nProfil općine: https://konces
+ ijski-sat.vercel.app/#opcina/41942358B85370902157409\nIzvor: Registar konc
+ esija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B85370902157409
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: VODOVOD I KANALIZACIJA  D.O.O.-USLUGE
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-525a05147124dd53@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20360919
+DTEND;VALUE=DATE:20360920
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VODOVOD I KANALI
+ ZACIJA  D.O.O.-USLUGE)
+DESCRIPTION:19. 3. 2037. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• VODOVOD I KANALIZACIJA  D.O.O.-USLUGE – Koncesija na pomorskom 
+ dobru (OKRUG)\, 719 €/god.\n\nProfil općine: https://koncesijski-sat.ve
+ rcel.app/#opcina/41942358B85370902157409
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B85370902157409
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VODOVOD I KA
+ NALIZACIJA  D.O.O.-USLUGE)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-5772af63a73e960a@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20370521
+DTEND;VALUE=DATE:20370522
+SUMMARY:Ističe 2 koncesije · Okrug
+DESCRIPTION:2 ugovora o koncesiji ističe 21. 5. 2037. Godišnja fiksna nak
+ nada: 288 €.\n\n• VODOVOD I KANALIZACIJA  D.O.O. – Koncesija na pomo
+ rskom dobru (OKRUG)\, 144 €/god.\n• VODOVOD I KANALIZACIJA  D.O.O.-USL
+ UGE – Koncesija na pomorskom dobru (OKRUG)\, 144 €/god.\n\nProfil opć
+ ine: https://koncesijski-sat.vercel.app/#opcina/41942358B85370902157409\nI
+ zvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B85370902157409
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 2 koncesije · Okrug
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-5772af63a73e960a@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20361121
+DTEND;VALUE=DATE:20361122
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:21. 5. 2037. ističe 2 ugovora o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• VODOVOD I KANALIZACIJA  D.O.O. – Koncesija na pomorskom dobru 
+ (OKRUG)\, 144 €/god.\n• VODOVOD I KANALIZACIJA  D.O.O.-USLUGE – Konc
+ esija na pomorskom dobru (OKRUG)\, 144 €/god.\n\nProfil općine: https:/
+ /koncesijski-sat.vercel.app/#opcina/41942358B85370902157409
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B85370902157409
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-17b9cdfc6126f1c1@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20371122
+DTEND;VALUE=DATE:20371123
+SUMMARY:Ističe koncesija: VODOVOD I KANALIZACIJA  D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 22. 11. 2037. Godišnja fiksna nak
+ nada: 144 €.\n\n• VODOVOD I KANALIZACIJA  D.O.O. – Koncesija na pomo
+ rskom dobru (OKRUG)\, 144 €/god.\n\nProfil općine: https://koncesijski-
+ sat.vercel.app/#opcina/41942358B85370902157409\nIzvor: Registar koncesija 
+ (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B85370902157409
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: VODOVOD I KANALIZACIJA  D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-17b9cdfc6126f1c1@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20370522
+DTEND;VALUE=DATE:20370523
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VODOVOD I KANALI
+ ZACIJA  D.O.O.)
+DESCRIPTION:22. 11. 2037. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• VODOVOD I KANALIZACIJA  D.O.O. – Koncesija na pomorskom dobru 
+ (OKRUG)\, 144 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.a
+ pp/#opcina/41942358B85370902157409
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B85370902157409
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VODOVOD I KA
+ NALIZACIJA  D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-2513399bd7ab57e0@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20450514
+DTEND;VALUE=DATE:20450515
+SUMMARY:Ističe koncesija: VODOVOD I KANALIZACIJA D.O.O. ZA VODOOPS KRBU\, 
+ ODVODNJU I PROČIŠĆAVANJE OTPADNIH
+DESCRIPTION:1 ugovor o koncesiji ističe 14. 5. 2045. Godišnja fiksna nakn
+ ada: 11.502 €.\n\n• VODOVOD I KANALIZACIJA D.O.O. ZA VODOOPS KRBU\, OD
+ VODNJU I PROČIŠĆAVANJE OTPADNIH – Koncesija na pomorskom dobru (OKRUG
+ )\, 11.502 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/
+ #opcina/41942358B85370902157409\nIzvor: Registar koncesija (FINA)\, obrada
+  Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B85370902157409
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: VODOVOD I KANALIZACIJA D.O.O. ZA VODOOPS KRB
+ U\, ODVODNJU I PROČIŠĆAVANJE OTPADNIH
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-2513399bd7ab57e0@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20441114
+DTEND;VALUE=DATE:20441115
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VODOVOD I KANALI
+ ZACIJA D.O.O. ZA VODOOPS KRBU\, ODVODNJU I PROČIŠĆAVANJE OTPADNIH)
+DESCRIPTION:14. 5. 2045. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• VODOVOD I KANALIZACIJA D.O.O. ZA VODOOPS KRBU\, ODVODNJU I PROČI
+ ŠĆAVANJE OTPADNIH – Koncesija na pomorskom dobru (OKRUG)\, 11.502 €/
+ god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4194235
+ 8B85370902157409
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B85370902157409
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VODOVOD I KA
+ NALIZACIJA D.O.O. ZA VODOOPS KRBU\, ODVODNJU I PROČIŠĆAVANJE OTPADNIH)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-54c73d40a3b5eea6@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20460927
+DTEND;VALUE=DATE:20460928
+SUMMARY:Ističe koncesija: VODOVOD I KANALIZ.DOO-KK2021-2027-FAZA2AKT
+DESCRIPTION:1 ugovor o koncesiji ističe 27. 9. 2046. Godišnja fiksna nakn
+ ada: 170 €.\n\n• VODOVOD I KANALIZ.DOO-KK2021-2027-FAZA2AKT – Posebn
+ a upotreba pomorskog dobra (OKRUG)\, 170 €/god.\n\nProfil općine: https
+ ://koncesijski-sat.vercel.app/#opcina/41942358B85370902157409\nIzvor: Regi
+ star koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B85370902157409
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: VODOVOD I KANALIZ.DOO-KK2021-2027-FAZA2AKT
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-54c73d40a3b5eea6@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20460327
+DTEND;VALUE=DATE:20460328
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VODOVOD I KANALI
+ Z.DOO-KK2021-2027-FAZA2AKT)
+DESCRIPTION:27. 9. 2046. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• VODOVOD I KANALIZ.DOO-KK2021-2027-FAZA2AKT – Posebna upotreba p
+ omorskog dobra (OKRUG)\, 170 €/god.\n\nProfil općine: https://koncesijs
+ ki-sat.vercel.app/#opcina/41942358B85370902157409
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B85370902157409
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VODOVOD I KA
+ NALIZ.DOO-KK2021-2027-FAZA2AKT)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-3938c585bd9c94d1@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20760717
+DTEND;VALUE=DATE:20760718
+SUMMARY:Ističe koncesija: HRVATSKI TELEKOM D.D.
+DESCRIPTION:1 ugovor o koncesiji ističe 17. 7. 2076. Godišnja fiksna nakn
+ ada: 3.268 €.\n\n• HRVATSKI TELEKOM D.D. – Posebna upotreba pomorsko
+ g dobra (OKRUG)\, 3.268 €/god.\n\nProfil općine: https://koncesijski-sa
+ t.vercel.app/#opcina/41942358B85370902157409\nIzvor: Registar koncesija (F
+ INA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B85370902157409
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: HRVATSKI TELEKOM D.D.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-3938c585bd9c94d1@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20760117
+DTEND;VALUE=DATE:20760118
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKI TELEKOM
+  D.D.)
+DESCRIPTION:17. 7. 2076. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• HRVATSKI TELEKOM D.D. – Posebna upotreba pomorskog dobra (OKRUG
+ )\, 3.268 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#
+ opcina/41942358B85370902157409
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B85370902157409
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKI TEL
+ EKOM D.D.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

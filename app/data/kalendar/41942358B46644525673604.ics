@@ -1,0 +1,143 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · Općina Civljane
+X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Civljane. Iz Reg
+ istra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade pod
+ ataka. https://koncesijski-sat.vercel.app/#opcina/41942358B46644525673604
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-1c81900985d9b438@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20280902
+DTEND;VALUE=DATE:20280903
+SUMMARY:Ističe koncesija: HIT RADIO D.O.O. ZA RADIJSKU I TELEVIZIJSKU DJEL
+ ATNOST
+DESCRIPTION:1 ugovor o koncesiji ističe 2. 9. 2028. Godišnja fiksna nakna
+ da: 66 €.\n\n• HIT RADIO D.O.O. ZA RADIJSKU I TELEVIZIJSKU DJELATNOST 
+ – Koncesija za obavljanje djelatnosti radija (CIVLJANE\, DICMO\, DUGOPOL
+ JE\, HRVACE\, KIJEVO\, SINJ\, VRLIKA)\, 66 €/god.\n\nProfil općine: htt
+ ps://koncesijski-sat.vercel.app/#opcina/41942358B46644525673604\nIzvor: Re
+ gistar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B46644525673604
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: HIT RADIO D.O.O. ZA RADIJSKU I TELEVIZIJSKU 
+ DJELATNOST
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-1c81900985d9b438@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20280302
+DTEND;VALUE=DATE:20280303
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HIT RADIO D.O.O.
+  ZA RADIJSKU I TELEVIZIJSKU DJELATNOST)
+DESCRIPTION:2. 9. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodjele
+  treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
+ \n\n• HIT RADIO D.O.O. ZA RADIJSKU I TELEVIZIJSKU DJELATNOST – Koncesi
+ ja za obavljanje djelatnosti radija (CIVLJANE\, DICMO\, DUGOPOLJE\, HRVACE
+ \, KIJEVO\, SINJ\, VRLIKA)\, 66 €/god.\n\nProfil općine: https://konces
+ ijski-sat.vercel.app/#opcina/41942358B46644525673604
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B46644525673604
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HIT RADIO D.
+ O.O. ZA RADIJSKU I TELEVIZIJSKU DJELATNOST)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-55994139448a055b@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20321231
+DTEND;VALUE=DATE:20330101
+SUMMARY:Ističe 3 koncesije · Civljane
+DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2032. Godišnja fiksna na
+ knada: 4.894 €.\n\n• INTERIER ĆURKO D.O.O. – Koncesija za površinu
+  utvrđenog eksploatacijskog polja neenergetskih mineralnih sirovina (CIVL
+ JANE)\, 4.894 €/god.\n• INTERIER ĆURKO D.O.O. – Koncesija za eksplo
+ ataciju arhitektonsko-građevnog kamena (CIVLJANE)\n• INTERIER ĆURKO\, 
+ D.O.O. – Koncesija za eksploataciju arhitektonsko-građevnog kamena (CIV
+ LJANE)\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942
+ 358B46644525673604\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski 
+ sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B46644525673604
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 3 koncesije · Civljane
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-55994139448a055b@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20320630
+DTEND;VALUE=DATE:20320701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:31. 12. 2032. ističe 3 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• INTERIER ĆURKO D.O.O. – Koncesija za površinu utvrđenog ek
+ sploatacijskog polja neenergetskih mineralnih sirovina (CIVLJANE)\, 4.894 
+ €/god.\n• INTERIER ĆURKO D.O.O. – Koncesija za eksploataciju arhite
+ ktonsko-građevnog kamena (CIVLJANE)\n• INTERIER ĆURKO\, D.O.O. – Kon
+ cesija za eksploataciju arhitektonsko-građevnog kamena (CIVLJANE)\n\nProf
+ il općine: https://koncesijski-sat.vercel.app/#opcina/41942358B4664452567
+ 3604
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B46644525673604
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-65afb0382e17eca2@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20460505
+DTEND;VALUE=DATE:20460506
+SUMMARY:Ističe koncesija: NATURALIS D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 5. 5. 2046. Godišnja fiksna nakna
+ da: 200.000 €.\n\n• NATURALIS D.O.O. – Koncesija za zahvaćanje voda
+  radi prodaje na tržištu (CIVLJANE)\, 200.000 €/god.\n\nProfil općine
+ : https://koncesijski-sat.vercel.app/#opcina/41942358B46644525673604\nIzvo
+ r: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B46644525673604
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: NATURALIS D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-65afb0382e17eca2@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20451105
+DTEND;VALUE=DATE:20451106
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (NATURALIS D.O.O.
+ )
+DESCRIPTION:5. 5. 2046. ističe 1 ugovor o koncesiji. Novi postupak dodjele
+  treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
+ \n\n• NATURALIS D.O.O. – Koncesija za zahvaćanje voda radi prodaje na
+  tržištu (CIVLJANE)\, 200.000 €/god.\n\nProfil općine: https://konces
+ ijski-sat.vercel.app/#opcina/41942358B46644525673604
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B46644525673604
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (NATURALIS D.
+ O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,53 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · Općina Desinić
+X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Desinić. Iz Reg
+ istra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade pod
+ ataka. https://koncesijski-sat.vercel.app/#opcina/41942358B73267213731269
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-09542645997d5f65@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20300831
+DTEND;VALUE=DATE:20300901
+SUMMARY:Ističe koncesija: MARKO POGAČIĆ - DIMNJAČAR
+DESCRIPTION:1 ugovor o koncesiji ističe 31. 8. 2030. Godišnja fiksna nakn
+ ada: 405 €.\n\n• MARKO POGAČIĆ - DIMNJAČAR – Koncesija za obavlja
+ nje dimnjačarskih poslova (DESINIĆ)\, 405 €/god.\n\nProfil općine: ht
+ tps://koncesijski-sat.vercel.app/#opcina/41942358B73267213731269\nIzvor: R
+ egistar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B73267213731269
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: MARKO POGAČIĆ - DIMNJAČAR
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-09542645997d5f65@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20300228
+DTEND;VALUE=DATE:20300301
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MARKO POGAČIĆ 
+ - DIMNJAČAR)
+DESCRIPTION:31. 8. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• MARKO POGAČIĆ - DIMNJAČAR – Koncesija za obavljanje dimnjač
+ arskih poslova (DESINIĆ)\, 405 €/god.\n\nProfil općine: https://konces
+ ijski-sat.vercel.app/#opcina/41942358B73267213731269
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B73267213731269
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MARKO POGAČ
+ IĆ - DIMNJAČAR)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

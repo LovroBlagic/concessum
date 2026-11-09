@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · Grad Delnice
+X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Grad Delnice. Iz Registr
+ a koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podatak
+ a. https://koncesijski-sat.vercel.app/#opcina/41942358B66479585284218
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-2a35748d2cf2e2dc@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20270426
+DTEND;VALUE=DATE:20270427
+SUMMARY:Ističe koncesija: RADIO GORSKI KOTAR D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 26. 4. 2027. Godišnja fiksna nakn
+ ada: 66 €.\n\n• RADIO GORSKI KOTAR D.O.O. – Koncesija za obavljanje 
+ djelatnosti radija (DELNICE)\, 66 €/god.\n\nProfil općine: https://konc
+ esijski-sat.vercel.app/#opcina/41942358B66479585284218\nIzvor: Registar ko
+ ncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B66479585284218
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: RADIO GORSKI KOTAR D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

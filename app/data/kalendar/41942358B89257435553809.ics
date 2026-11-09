@@ -1,0 +1,284 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · Grad Labin
+X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Grad Labin. Iz Registra 
+ koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podataka.
+  https://koncesijski-sat.vercel.app/#opcina/41942358B89257435553809
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-efe57add2736f703@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20270426
+DTEND;VALUE=DATE:20270427
+SUMMARY:Ističe koncesija: RADIO LABIN ZA RADIJSKU DJELATNOST DRUŠTVO SA O
+ GRANIČENOM ODOGOVORNOŠĆU
+DESCRIPTION:1 ugovor o koncesiji ističe 26. 4. 2027. Godišnja fiksna nakn
+ ada: 66 €.\n\n• RADIO LABIN ZA RADIJSKU DJELATNOST DRUŠTVO SA OGRANI
+ ČENOM ODOGOVORNOŠĆU – Koncesija za obavljanje djelatnosti radija (LAB
+ IN)\, 66 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#o
+ pcina/41942358B89257435553809\nIzvor: Registar koncesija (FINA)\, obrada K
+ oncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B89257435553809
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: RADIO LABIN ZA RADIJSKU DJELATNOST DRUŠTVO 
+ SA OGRANIČENOM ODOGOVORNOŠĆU
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-f48116a9b8f9328f@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20280203
+DTEND;VALUE=DATE:20280204
+SUMMARY:Ističe koncesija: KOVAČIĆ\, OBRT ZA DIMNJAČARSKE USLUGE\, VL.KR
+ EŠIMIR KOVAČIĆ
+DESCRIPTION:1 ugovor o koncesiji ističe 3. 2. 2028. Godišnja fiksna nakna
+ da: 6.810 €.\n\n• KOVAČIĆ\, OBRT ZA DIMNJAČARSKE USLUGE\, VL.KREŠI
+ MIR KOVAČIĆ – Koncesija za obavljanje dimnjačarskih poslova (LABIN)\,
+  6.810 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opc
+ ina/41942358B89257435553809\nIzvor: Registar koncesija (FINA)\, obrada Kon
+ cesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B89257435553809
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: KOVAČIĆ\, OBRT ZA DIMNJAČARSKE USLUGE\, V
+ L.KREŠIMIR KOVAČIĆ
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-f48116a9b8f9328f@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20270803
+DTEND;VALUE=DATE:20270804
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (KOVAČIĆ\, OBRT
+  ZA DIMNJAČARSKE USLUGE\, VL.KREŠIMIR KOVAČIĆ)
+DESCRIPTION:3. 2. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodjele
+  treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
+ \n\n• KOVAČIĆ\, OBRT ZA DIMNJAČARSKE USLUGE\, VL.KREŠIMIR KOVAČIĆ 
+ – Koncesija za obavljanje dimnjačarskih poslova (LABIN)\, 6.810 €/god
+ .\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B8
+ 9257435553809
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B89257435553809
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (KOVAČIĆ\, 
+ OBRT ZA DIMNJAČARSKE USLUGE\, VL.KREŠIMIR KOVAČIĆ)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-c9e250da8f345ca5@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20360420
+DTEND;VALUE=DATE:20360421
+SUMMARY:Ističe koncesija: VALAMAR RIVIERA D.D.
+DESCRIPTION:1 ugovor o koncesiji ističe 20. 4. 2036. Godišnja fiksna nakn
+ ada: 25.535 €.\n\n• VALAMAR RIVIERA D.D. – Koncesija na pomorskom do
+ bru (LABIN)\, 25.535 €/god.\n\nProfil općine: https://koncesijski-sat.v
+ ercel.app/#opcina/41942358B89257435553809\nIzvor: Registar koncesija (FINA
+ )\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B89257435553809
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: VALAMAR RIVIERA D.D.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-c9e250da8f345ca5@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20351020
+DTEND;VALUE=DATE:20351021
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VALAMAR RIVIERA 
+ D.D.)
+DESCRIPTION:20. 4. 2036. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• VALAMAR RIVIERA D.D. – Koncesija na pomorskom dobru (LABIN)\, 2
+ 5.535 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opci
+ na/41942358B89257435553809
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B89257435553809
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VALAMAR RIVI
+ ERA D.D.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-77639b2f3125222c@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20360503
+DTEND;VALUE=DATE:20360504
+SUMMARY:Ističe koncesija: VALAMAR RIVIERA D.D.
+DESCRIPTION:1 ugovor o koncesiji ističe 3. 5. 2036. Godišnja fiksna nakna
+ da: 9.239 €.\n\n• VALAMAR RIVIERA D.D. – Koncesija na pomorskom dobr
+ u (LABIN)\, 9.239 €/god.\n\nProfil općine: https://koncesijski-sat.verc
+ el.app/#opcina/41942358B89257435553809\nIzvor: Registar koncesija (FINA)\,
+  obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B89257435553809
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: VALAMAR RIVIERA D.D.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-77639b2f3125222c@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20351103
+DTEND;VALUE=DATE:20351104
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VALAMAR RIVIERA 
+ D.D.)
+DESCRIPTION:3. 5. 2036. ističe 1 ugovor o koncesiji. Novi postupak dodjele
+  treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
+ \n\n• VALAMAR RIVIERA D.D. – Koncesija na pomorskom dobru (LABIN)\, 9.
+ 239 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina
+ /41942358B89257435553809
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B89257435553809
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VALAMAR RIVI
+ ERA D.D.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-3ee1b0c2e9b4f834@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20430701
+DTEND;VALUE=DATE:20430702
+SUMMARY:Ističe koncesija: AQUA FUN\, OBRT ZA TURIZAM U USLUGE\, VL. NIKOLA
+  BENAZIĆ
+DESCRIPTION:1 ugovor o koncesiji ističe 1. 7. 2043. Godišnja fiksna nakna
+ da: 60.268 €.\n\n• AQUA FUN\, OBRT ZA TURIZAM U USLUGE\, VL. NIKOLA BE
+ NAZIĆ – Koncesija na pomorskom dobru (LABIN)\, 60.268 €/god.\n\nProfi
+ l općine: https://koncesijski-sat.vercel.app/#opcina/41942358B89257435553
+ 809\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026
+ .
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B89257435553809
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: AQUA FUN\, OBRT ZA TURIZAM U USLUGE\, VL. NI
+ KOLA BENAZIĆ
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-3ee1b0c2e9b4f834@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20430101
+DTEND;VALUE=DATE:20430102
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (AQUA FUN\, OBRT 
+ ZA TURIZAM U USLUGE\, VL. NIKOLA BENAZIĆ)
+DESCRIPTION:1. 7. 2043. ističe 1 ugovor o koncesiji. Novi postupak dodjele
+  treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
+ \n\n• AQUA FUN\, OBRT ZA TURIZAM U USLUGE\, VL. NIKOLA BENAZIĆ – Konc
+ esija na pomorskom dobru (LABIN)\, 60.268 €/god.\n\nProfil općine: http
+ s://koncesijski-sat.vercel.app/#opcina/41942358B89257435553809
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B89257435553809
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (AQUA FUN\, O
+ BRT ZA TURIZAM U USLUGE\, VL. NIKOLA BENAZIĆ)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-7a7b42a4f9a9ff2a@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20460717
+DTEND;VALUE=DATE:20460718
+SUMMARY:Ističe koncesija: HRVATSKA ELEKTROPRIVREDA  D.D.
+DESCRIPTION:1 ugovor o koncesiji ističe 17. 7. 2046. Godišnja fiksna nakn
+ ada: 1.639 €.\n\n• HRVATSKA ELEKTROPRIVREDA  D.D. – Koncesija pomors
+ kog dobra u svrhu izgradnje i gospodarskog korištenja luke posebne namjen
+ e (LABIN)\, 1.639 €/god.\n\nProfil općine: https://koncesijski-sat.verc
+ el.app/#opcina/41942358B89257435553809\nIzvor: Registar koncesija (FINA)\,
+  obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B89257435553809
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: HRVATSKA ELEKTROPRIVREDA  D.D.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-7a7b42a4f9a9ff2a@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20460117
+DTEND;VALUE=DATE:20460118
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKA ELEKTRO
+ PRIVREDA  D.D.)
+DESCRIPTION:17. 7. 2046. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• HRVATSKA ELEKTROPRIVREDA  D.D. – Koncesija pomorskog dobra u sv
+ rhu izgradnje i gospodarskog korištenja luke posebne namjene (LABIN)\, 1.
+ 639 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina
+ /41942358B89257435553809
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B89257435553809
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKA ELE
+ KTROPRIVREDA  D.D.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-c736aff35e726f44@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20760717
+DTEND;VALUE=DATE:20760718
+SUMMARY:Ističe koncesija: HRVATSKI TELEKOM D.D.
+DESCRIPTION:1 ugovor o koncesiji ističe 17. 7. 2076. Godišnja fiksna nakn
+ ada: 1.170 €.\n\n• HRVATSKI TELEKOM D.D. – Posebna upotreba pomorsko
+ g dobra (LABIN)\, 1.170 €/god.\n\nProfil općine: https://koncesijski-sa
+ t.vercel.app/#opcina/41942358B89257435553809\nIzvor: Registar koncesija (F
+ INA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B89257435553809
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: HRVATSKI TELEKOM D.D.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-c736aff35e726f44@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20760117
+DTEND;VALUE=DATE:20760118
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKI TELEKOM
+  D.D.)
+DESCRIPTION:17. 7. 2076. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• HRVATSKI TELEKOM D.D. – Posebna upotreba pomorskog dobra (LABIN
+ )\, 1.170 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#
+ opcina/41942358B89257435553809
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B89257435553809
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKI TEL
+ EKOM D.D.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,302 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · Općina Privlaka
+X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Privlaka. Iz Reg
+ istra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade pod
+ ataka. https://koncesijski-sat.vercel.app/#opcina/41942358B7892972817029
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-b16b45a9b23cab8e@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20280210
+DTEND;VALUE=DATE:20280211
+SUMMARY:Ističe koncesija: NEVKOŠ D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 10. 2. 2028. Godišnja fiksna nakn
+ ada: 3.500 €.\n\n• NEVKOŠ D.O.O. – Koncesija skupljanja i odvoza ko
+ munalnog otpada (PRIVLAKA)\, 3.500 €/god.\n\nProfil općine: https://kon
+ cesijski-sat.vercel.app/#opcina/41942358B7892972817029\nIzvor: Registar ko
+ ncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B7892972817029
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: NEVKOŠ D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-b16b45a9b23cab8e@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20270810
+DTEND;VALUE=DATE:20270811
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (NEVKOŠ D.O.O.)
+DESCRIPTION:10. 2. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• NEVKOŠ D.O.O. – Koncesija skupljanja i odvoza komunalnog otpad
+ a (PRIVLAKA)\, 3.500 €/god.\n\nProfil općine: https://koncesijski-sat.v
+ ercel.app/#opcina/41942358B7892972817029
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B7892972817029
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (NEVKOŠ D.O.
+ O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-7e4a92f0b6c5a4e8@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20300316
+DTEND;VALUE=DATE:20300317
+SUMMARY:Ističe koncesija: DIMNJAČARSKO-USLUŽNI OBRT EKO-DIM\, VL. HRVOJE
+  HORVAT
+DESCRIPTION:1 ugovor o koncesiji ističe 16. 3. 2030. Godišnja fiksna nakn
+ ada: 600 €.\n\n• DIMNJAČARSKO-USLUŽNI OBRT EKO-DIM\, VL. HRVOJE HORV
+ AT – Koncesija za obavljanje dimnjačarskih poslova (PRIVLAKA)\, 600 €
+ /god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419423
+ 58B7892972817029\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sa
+ t 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B7892972817029
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: DIMNJAČARSKO-USLUŽNI OBRT EKO-DIM\, VL. HR
+ VOJE HORVAT
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-7e4a92f0b6c5a4e8@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20290916
+DTEND;VALUE=DATE:20290917
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DIMNJAČARSKO-US
+ LUŽNI OBRT EKO-DIM\, VL. HRVOJE HORVAT)
+DESCRIPTION:16. 3. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• DIMNJAČARSKO-USLUŽNI OBRT EKO-DIM\, VL. HRVOJE HORVAT – Konce
+ sija za obavljanje dimnjačarskih poslova (PRIVLAKA)\, 600 €/god.\n\nPro
+ fil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B789297281
+ 7029
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B7892972817029
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DIMNJAČARSK
+ O-USLUŽNI OBRT EKO-DIM\, VL. HRVOJE HORVAT)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-18abffa3abc65a33@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20320923
+DTEND;VALUE=DATE:20320924
+SUMMARY:Ističe koncesija: OPĆINSKO KOMUNALNO DRUŠTVO ARTIĆ DRUŠTVO S O
+ GRANIČENOM ODGOVORNOŠĆU ZA KOMUNALNE POSLOVE
+DESCRIPTION:1 ugovor o koncesiji ističe 23. 9. 2032. Godišnja fiksna nakn
+ ada: 739 €.\n\n• OPĆINSKO KOMUNALNO DRUŠTVO ARTIĆ DRUŠTVO S OGRANI
+ ČENOM ODGOVORNOŠĆU ZA KOMUNALNE POSLOVE – Koncesija za obavljanje pos
+ lova organizacije i naplate parkiranja (PRIVLAKA)\, 739 €/god.\n\nProfil
+  općine: https://koncesijski-sat.vercel.app/#opcina/41942358B789297281702
+ 9\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B7892972817029
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: OPĆINSKO KOMUNALNO DRUŠTVO ARTIĆ DRUŠTVO
+  S OGRANIČENOM ODGOVORNOŠĆU ZA KOMUNALNE POSLOVE
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-18abffa3abc65a33@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20320323
+DTEND;VALUE=DATE:20320324
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (OPĆINSKO KOMUNA
+ LNO DRUŠTVO ARTIĆ DRUŠTVO S OGRANIČENOM ODGOVORNOŠĆU ZA KOMUNALNE PO
+ SLOVE)
+DESCRIPTION:23. 9. 2032. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• OPĆINSKO KOMUNALNO DRUŠTVO ARTIĆ DRUŠTVO S OGRANIČENOM ODGOV
+ ORNOŠĆU ZA KOMUNALNE POSLOVE – Koncesija za obavljanje poslova organiz
+ acije i naplate parkiranja (PRIVLAKA)\, 739 €/god.\n\nProfil općine: ht
+ tps://koncesijski-sat.vercel.app/#opcina/41942358B7892972817029
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B7892972817029
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (OPĆINSKO KO
+ MUNALNO DRUŠTVO ARTIĆ DRUŠTVO S OGRANIČENOM ODGOVORNOŠĆU ZA KOMUNALN
+ E POSLOVE)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-aef85fdf792e3d32@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20340220
+DTEND;VALUE=DATE:20340221
+SUMMARY:Ističe koncesija: KOMUNALIJE I ODVODNJA D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 20. 2. 2034. Godišnja fiksna nakn
+ ada: 3.198 €.\n\n• KOMUNALIJE I ODVODNJA D.O.O. – Koncesija na pomor
+ skom dobru (PRIVLAKA)\, 3.198 €/god.\n\nProfil općine: https://koncesij
+ ski-sat.vercel.app/#opcina/41942358B7892972817029\nIzvor: Registar koncesi
+ ja (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B7892972817029
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: KOMUNALIJE I ODVODNJA D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-aef85fdf792e3d32@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20330820
+DTEND;VALUE=DATE:20330821
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (KOMUNALIJE I ODV
+ ODNJA D.O.O.)
+DESCRIPTION:20. 2. 2034. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• KOMUNALIJE I ODVODNJA D.O.O. – Koncesija na pomorskom dobru (PR
+ IVLAKA)\, 3.198 €/god.\n\nProfil općine: https://koncesijski-sat.vercel
+ .app/#opcina/41942358B7892972817029
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B7892972817029
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (KOMUNALIJE I
+  ODVODNJA D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-6f05f824609c8f11@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20360612
+DTEND;VALUE=DATE:20360613
+SUMMARY:Ističe koncesija: HRVATSKI OPERATOR PRIJENOSNOG SUSTAVA D.D.
+DESCRIPTION:1 ugovor o koncesiji ističe 12. 6. 2036. Godišnja fiksna nakn
+ ada: 923 €.\n\n• HRVATSKI OPERATOR PRIJENOSNOG SUSTAVA D.D. – Konces
+ ija na pomorskom dobru (PRIVLAKA)\, 923 €/god.\n\nProfil općine: https:
+ //koncesijski-sat.vercel.app/#opcina/41942358B7892972817029\nIzvor: Regist
+ ar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B7892972817029
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: HRVATSKI OPERATOR PRIJENOSNOG SUSTAVA D.D.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-6f05f824609c8f11@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20351212
+DTEND;VALUE=DATE:20351213
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKI OPERATO
+ R PRIJENOSNOG SUSTAVA D.D.)
+DESCRIPTION:12. 6. 2036. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• HRVATSKI OPERATOR PRIJENOSNOG SUSTAVA D.D. – Koncesija na pomor
+ skom dobru (PRIVLAKA)\, 923 €/god.\n\nProfil općine: https://koncesijsk
+ i-sat.vercel.app/#opcina/41942358B7892972817029
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B7892972817029
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKI OPE
+ RATOR PRIJENOSNOG SUSTAVA D.D.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-17fc35d9bce9b422@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20460901
+DTEND;VALUE=DATE:20460902
+SUMMARY:Ističe koncesija: PIK-VINKOVCI PLUS D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 1. 9. 2046. Godišnja fiksna nakna
+ da: 1.075 €.\n\n• PIK-VINKOVCI PLUS D.O.O. – Koncesija za zahvaćanj
+ e voda za tehnološke potrebe (PRIVLAKA)\, 1.075 €/god.\n\nProfil općin
+ e: https://koncesijski-sat.vercel.app/#opcina/41942358B7892972817029\nIzvo
+ r: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B7892972817029
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: PIK-VINKOVCI PLUS D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-17fc35d9bce9b422@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20460301
+DTEND;VALUE=DATE:20460302
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PIK-VINKOVCI PLU
+ S D.O.O.)
+DESCRIPTION:1. 9. 2046. ističe 1 ugovor o koncesiji. Novi postupak dodjele
+  treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
+ \n\n• PIK-VINKOVCI PLUS D.O.O. – Koncesija za zahvaćanje voda za tehn
+ ološke potrebe (PRIVLAKA)\, 1.075 €/god.\n\nProfil općine: https://kon
+ cesijski-sat.vercel.app/#opcina/41942358B7892972817029
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B7892972817029
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PIK-VINKOVCI
+  PLUS D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-d6685fc619aa6dca@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20760717
+DTEND;VALUE=DATE:20760718
+SUMMARY:Ističe koncesija: HRVATSKI TELEKOM D.D.
+DESCRIPTION:1 ugovor o koncesiji ističe 17. 7. 2076. Godišnja fiksna nakn
+ ada: 251 €.\n\n• HRVATSKI TELEKOM D.D. – Posebna upotreba pomorskog 
+ dobra (PRIVLAKA)\, 251 €/god.\n\nProfil općine: https://koncesijski-sat
+ .vercel.app/#opcina/41942358B7892972817029\nIzvor: Registar koncesija (FIN
+ A)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B7892972817029
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: HRVATSKI TELEKOM D.D.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-d6685fc619aa6dca@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20760117
+DTEND;VALUE=DATE:20760118
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKI TELEKOM
+  D.D.)
+DESCRIPTION:17. 7. 2076. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• HRVATSKI TELEKOM D.D. – Posebna upotreba pomorskog dobra (PRIVL
+ AKA)\, 251 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/
+ #opcina/41942358B7892972817029
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B7892972817029
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKI TEL
+ EKOM D.D.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

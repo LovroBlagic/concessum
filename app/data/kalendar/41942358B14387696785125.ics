@@ -1,0 +1,142 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · Općina Sirač
+X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Sirač. Iz Regis
+ tra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podat
+ aka. https://koncesijski-sat.vercel.app/#opcina/41942358B14387696785125
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-67606083ab6fc366@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20281231
+DTEND;VALUE=DATE:20290101
+SUMMARY:Ističe 2 koncesije · Sirač
+DESCRIPTION:2 ugovora o koncesiji ističe 31. 12. 2028. Godišnja fiksna na
+ knada: 42.938 €.\n\n• KAMEN SIRAČ D.D. – Koncesija za eksploataciju
+  tehničko-građevnog kamena (SIRAČ)\, 42.938 €/god.\n• KAMEN SIRAČ 
+ D.D. – Koncesija za eksploataciju tehničko-građevnog kamena (SIRAČ)\n
+ \nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B1438
+ 7696785125\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 1
+ 1. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B14387696785125
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 2 koncesije · Sirač
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-67606083ab6fc366@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20280630
+DTEND;VALUE=DATE:20280701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:31. 12. 2028. ističe 2 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• KAMEN SIRAČ D.D. – Koncesija za eksploataciju tehničko-gra
+ đevnog kamena (SIRAČ)\, 42.938 €/god.\n• KAMEN SIRAČ D.D. – Konce
+ sija za eksploataciju tehničko-građevnog kamena (SIRAČ)\n\nProfil opći
+ ne: https://koncesijski-sat.vercel.app/#opcina/41942358B14387696785125
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B14387696785125
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-1f842be7ab1634d7@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20301231
+DTEND;VALUE=DATE:20310101
+SUMMARY:Ističe koncesija: KAMEN SIRAČ D.D.
+DESCRIPTION:1 ugovor o koncesiji ističe 31. 12. 2030. Godišnja fiksna nak
+ nada: 8.614 €.\n\n• KAMEN SIRAČ D.D. – Koncesija za površinu utvr
+ đenog eksploatacijskog polja neenergetskih mineralnih sirovina (SIRAČ)\,
+  8.614 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opc
+ ina/41942358B14387696785125\nIzvor: Registar koncesija (FINA)\, obrada Kon
+ cesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B14387696785125
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: KAMEN SIRAČ D.D.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-1f842be7ab1634d7@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20300630
+DTEND;VALUE=DATE:20300701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (KAMEN SIRAČ D.D
+ .)
+DESCRIPTION:31. 12. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• KAMEN SIRAČ D.D. – Koncesija za površinu utvrđenog eksploat
+ acijskog polja neenergetskih mineralnih sirovina (SIRAČ)\, 8.614 €/god.
+ \n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B14
+ 387696785125
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B14387696785125
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (KAMEN SIRAČ
+  D.D.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-be7aaf7aaa27f5c5@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20321231
+DTEND;VALUE=DATE:20330101
+SUMMARY:Ističe 3 koncesije · Sirač
+DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2032. Godišnja fiksna na
+ knada: 6.684 €.\n\n• KAMEN SIRAČ D.D. – Koncesija za površinu utvr
+ đenog eksploatacijskog polja neenergetskih mineralnih sirovina (SIRAČ)\,
+  6.684 €/god.\n• KAMEN SIRAČ D.D. – Koncesija za eksploataciju karb
+ onatne mineralne sirovine za industrijsku preradbu (SIRAČ)\n• KAMEN SIR
+ AČ D.D. – Koncesija za eksploataciju karbonatne mineralne sirovine za i
+ ndustrijsku preradbu (SIRAČ)\n\nProfil općine: https://koncesijski-sat.v
+ ercel.app/#opcina/41942358B14387696785125\nIzvor: Registar koncesija (FINA
+ )\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B14387696785125
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 3 koncesije · Sirač
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-be7aaf7aaa27f5c5@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20320630
+DTEND;VALUE=DATE:20320701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:31. 12. 2032. ističe 3 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• KAMEN SIRAČ D.D. – Koncesija za površinu utvrđenog eksploa
+ tacijskog polja neenergetskih mineralnih sirovina (SIRAČ)\, 6.684 €/god
+ .\n• KAMEN SIRAČ D.D. – Koncesija za eksploataciju karbonatne mineral
+ ne sirovine za industrijsku preradbu (SIRAČ)\n• KAMEN SIRAČ D.D. – K
+ oncesija za eksploataciju karbonatne mineralne sirovine za industrijsku pr
+ eradbu (SIRAČ)\n\nProfil općine: https://koncesijski-sat.vercel.app/#opc
+ ina/41942358B14387696785125
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B14387696785125
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

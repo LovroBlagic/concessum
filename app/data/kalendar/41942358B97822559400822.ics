@@ -1,0 +1,210 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · Općina Sopje
+X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Sopje. Iz Regist
+ ra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podata
+ ka. https://koncesijski-sat.vercel.app/#opcina/41942358B97822559400822
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-764fa97253ea40d8@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20270628
+DTEND;VALUE=DATE:20270629
+SUMMARY:Ističe koncesija: INA\, D.D.
+DESCRIPTION:1 ugovor o koncesiji ističe 28. 6. 2027. Godišnja fiksna nakn
+ ada: 6.225 €.\n\n• INA\, D.D. – Dozvola za istraživanje ugljikovodi
+ ka (prema Zakonu o ugljikovodicima) (SOPJE)\, 6.225 €/god.\n\nProfil op
+ ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B97822559400822\
+ nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B97822559400822
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: INA\, D.D.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-764fa97253ea40d8@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20261228
+DTEND;VALUE=DATE:20261229
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA\, D.D.)
+DESCRIPTION:28. 6. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• INA\, D.D. – Dozvola za istraživanje ugljikovodika (prema Zako
+ nu o ugljikovodicima) (SOPJE)\, 6.225 €/god.\n\nProfil općine: https://
+ koncesijski-sat.vercel.app/#opcina/41942358B97822559400822
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B97822559400822
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA\, D.D.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-810fdff51c302726@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20270930
+DTEND;VALUE=DATE:20271001
+SUMMARY:Ističe koncesija: MULL-TRANS D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 30. 9. 2027.\n\n• MULL-TRANS D.O
+ .O. – Koncesija skupljanja i odvoza komunalnog otpada (SOPJE)\n\nProfil 
+ općine: https://koncesijski-sat.vercel.app/#opcina/41942358B9782255940082
+ 2\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B97822559400822
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: MULL-TRANS D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-810fdff51c302726@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20270330
+DTEND;VALUE=DATE:20270331
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MULL-TRANS D.O.O
+ .)
+DESCRIPTION:30. 9. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• MULL-TRANS D.O.O. – Koncesija skupljanja i odvoza komunalnog ot
+ pada (SOPJE)\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina
+ /41942358B97822559400822
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B97822559400822
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MULL-TRANS D
+ .O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-04c910cc59af034b@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20310929
+DTEND;VALUE=DATE:20310930
+SUMMARY:Ističe koncesija: ŽDREBAC D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 29. 9. 2031. Godišnja fiksna nakn
+ ada: 1.100 €.\n\n• ŽDREBAC D.O.O. – Koncesija za obavljanje dimnja
+ čarskih poslova (SOPJE)\, 1.100 €/god.\n\nProfil općine: https://konce
+ sijski-sat.vercel.app/#opcina/41942358B97822559400822\nIzvor: Registar kon
+ cesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B97822559400822
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: ŽDREBAC D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-04c910cc59af034b@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20310329
+DTEND;VALUE=DATE:20310330
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ŽDREBAC D.O.O.)
+DESCRIPTION:29. 9. 2031. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• ŽDREBAC D.O.O. – Koncesija za obavljanje dimnjačarskih poslov
+ a (SOPJE)\, 1.100 €/god.\n\nProfil općine: https://koncesijski-sat.verc
+ el.app/#opcina/41942358B97822559400822
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B97822559400822
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ŽDREBAC D.O
+ .O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-9fdc84b1209d0c94@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20431119
+DTEND;VALUE=DATE:20431120
+SUMMARY:Ističe koncesija: BISTRICA D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 19. 11. 2043. Godišnja fiksna nak
+ nada: 32 €.\n\n• BISTRICA D.O.O. – Koncesija za zahvaćanje voda za 
+ melioracijsko navodnjavanje (SOPJE)\, 32 €/god.\n\nProfil općine: https
+ ://koncesijski-sat.vercel.app/#opcina/41942358B97822559400822\nIzvor: Regi
+ star koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B97822559400822
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: BISTRICA D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-9fdc84b1209d0c94@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20430519
+DTEND;VALUE=DATE:20430520
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BISTRICA D.O.O.)
+DESCRIPTION:19. 11. 2043. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• BISTRICA D.O.O. – Koncesija za zahvaćanje voda za melioracijs
+ ko navodnjavanje (SOPJE)\, 32 €/god.\n\nProfil općine: https://koncesij
+ ski-sat.vercel.app/#opcina/41942358B97822559400822
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B97822559400822
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BISTRICA D.O
+ .O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-d6e04b4042dffcf9@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20490820
+DTEND;VALUE=DATE:20490821
+SUMMARY:Ističe koncesija: GEO POWER ZAGOCHA D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 20. 8. 2049. Godišnja fiksna nakn
+ ada: 15.091 €.\n\n• GEO POWER ZAGOCHA D.O.O. – Dozvola za eksploatac
+ iju geotermalne vode za energetske svrhe (prema Zakonu o ugljikovodicima) 
+ (SOPJE)\, 15.091 €/god.\n\nProfil općine: https://koncesijski-sat.verce
+ l.app/#opcina/41942358B97822559400822\nIzvor: Registar koncesija (FINA)\, 
+ obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B97822559400822
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: GEO POWER ZAGOCHA D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-d6e04b4042dffcf9@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20490220
+DTEND;VALUE=DATE:20490221
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (GEO POWER ZAGOCH
+ A D.O.O.)
+DESCRIPTION:20. 8. 2049. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• GEO POWER ZAGOCHA D.O.O. – Dozvola za eksploataciju geotermalne
+  vode za energetske svrhe (prema Zakonu o ugljikovodicima) (SOPJE)\, 15.09
+ 1 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4
+ 1942358B97822559400822
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B97822559400822
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (GEO POWER ZA
+ GOCHA D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,216 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · Općina Selnica
+X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Selnica. Iz Regi
+ stra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade poda
+ taka. https://koncesijski-sat.vercel.app/#opcina/41942358B58087706082188
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-ee6196c5ea0e54d3@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20270630
+DTEND;VALUE=DATE:20270701
+SUMMARY:Ističe koncesija: INA-INDUSTRIJA NAFTE  D.D.
+DESCRIPTION:1 ugovor o koncesiji ističe 30. 6. 2027.\n\n• INA-INDUSTRIJA
+  NAFTE  D.D. – Dozvola za eksploataciju ugljikovodika (prema Zakonu o ug
+ ljikovodicima) (SELNICA)\n\nProfil općine: https://koncesijski-sat.vercel
+ .app/#opcina/41942358B58087706082188\nIzvor: Registar koncesija (FINA)\, o
+ brada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B58087706082188
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: INA-INDUSTRIJA NAFTE  D.D.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-ee6196c5ea0e54d3@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261231
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA-INDUSTRIJA N
+ AFTE  D.D.)
+DESCRIPTION:30. 6. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• INA-INDUSTRIJA NAFTE  D.D. – Dozvola za eksploataciju ugljikovo
+ dika (prema Zakonu o ugljikovodicima) (SELNICA)\n\nProfil općine: https:/
+ /koncesijski-sat.vercel.app/#opcina/41942358B58087706082188
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B58087706082188
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA-INDUSTRI
+ JA NAFTE  D.D.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-b310d9e82c5c088c@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20271231
+DTEND;VALUE=DATE:20280101
+SUMMARY:Ističe 2 koncesije · Selnica
+DESCRIPTION:2 ugovora o koncesiji ističe 31. 12. 2027. Godišnja fiksna na
+ knada: 116 €.\n\n• INA-INDUSTRIJA NAFTE D.D. – Koncesija za zauzetu 
+ površinu odobrenog eksploatacijskog polja (SELNICA)\, 58 €/god.\n• IN
+ A-INDUSTRIJA NAFTE D.D. – Dozvola za eksploataciju ugljikovodika (prema 
+ Zakonu o ugljikovodicima) (SELNICA)\, 58 €/god.\n\nProfil općine: https
+ ://koncesijski-sat.vercel.app/#opcina/41942358B58087706082188\nIzvor: Regi
+ star koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B58087706082188
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 2 koncesije · Selnica
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-b310d9e82c5c088c@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20270630
+DTEND;VALUE=DATE:20270701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:31. 12. 2027. ističe 2 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• INA-INDUSTRIJA NAFTE D.D. – Koncesija za zauzetu površinu od
+ obrenog eksploatacijskog polja (SELNICA)\, 58 €/god.\n• INA-INDUSTRIJA
+  NAFTE D.D. – Dozvola za eksploataciju ugljikovodika (prema Zakonu o ugl
+ jikovodicima) (SELNICA)\, 58 €/god.\n\nProfil općine: https://koncesijs
+ ki-sat.vercel.app/#opcina/41942358B58087706082188
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B58087706082188
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-0905798e14fe4f5b@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20290214
+DTEND;VALUE=DATE:20290215
+SUMMARY:Ističe koncesija: ROBERT ZVER\, DIMOS\, OBRT
+DESCRIPTION:1 ugovor o koncesiji ističe 14. 2. 2029. Godišnja fiksna nakn
+ ada: 1.075 €.\n\n• ROBERT ZVER\, DIMOS\, OBRT – Koncesija za obavlja
+ nje dimnjačarskih poslova (SELNICA)\, 1.075 €/god.\n\nProfil općine: h
+ ttps://koncesijski-sat.vercel.app/#opcina/41942358B58087706082188\nIzvor: 
+ Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B58087706082188
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: ROBERT ZVER\, DIMOS\, OBRT
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-0905798e14fe4f5b@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20280814
+DTEND;VALUE=DATE:20280815
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ROBERT ZVER\, DI
+ MOS\, OBRT)
+DESCRIPTION:14. 2. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• ROBERT ZVER\, DIMOS\, OBRT – Koncesija za obavljanje dimnjačar
+ skih poslova (SELNICA)\, 1.075 €/god.\n\nProfil općine: https://koncesi
+ jski-sat.vercel.app/#opcina/41942358B58087706082188
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B58087706082188
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ROBERT ZVER\
+ , DIMOS\, OBRT)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-73c84d5338fcb33a@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20290215
+DTEND;VALUE=DATE:20290216
+SUMMARY:Ističe koncesija: ROBERT ZVER\, DIMOS\,OBRT
+DESCRIPTION:1 ugovor o koncesiji ističe 15. 2. 2029. Godišnja fiksna nakn
+ ada: 1.075 €.\n\n• ROBERT ZVER\, DIMOS\,OBRT – Koncesija za obavljan
+ je dimnjačarskih poslova (SELNICA)\, 1.075 €/god.\n\nProfil općine: ht
+ tps://koncesijski-sat.vercel.app/#opcina/41942358B58087706082188\nIzvor: R
+ egistar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B58087706082188
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: ROBERT ZVER\, DIMOS\,OBRT
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-73c84d5338fcb33a@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20280815
+DTEND;VALUE=DATE:20280816
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ROBERT ZVER\, DI
+ MOS\,OBRT)
+DESCRIPTION:15. 2. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• ROBERT ZVER\, DIMOS\,OBRT – Koncesija za obavljanje dimnjačars
+ kih poslova (SELNICA)\, 1.075 €/god.\n\nProfil općine: https://koncesij
+ ski-sat.vercel.app/#opcina/41942358B58087706082188
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B58087706082188
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ROBERT ZVER\
+ , DIMOS\,OBRT)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-738de795b5dcca9d@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20461231
+DTEND;VALUE=DATE:20470101
+SUMMARY:Ističe 2 koncesije · Selnica
+DESCRIPTION:2 ugovora o koncesiji ističe 31. 12. 2046.\n\n• INA-INDUSTRI
+ JA NAFTE  D.D. – Dozvola za eksploataciju ugljikovodika (prema Zakonu o 
+ ugljikovodicima) (SELNICA)\n• INA D.D. – Dozvola za eksploataciju uglj
+ ikovodika (prema Zakonu o ugljikovodicima) (SELNICA)\n\nProfil općine: ht
+ tps://koncesijski-sat.vercel.app/#opcina/41942358B58087706082188\nIzvor: R
+ egistar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B58087706082188
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 2 koncesije · Selnica
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-738de795b5dcca9d@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20460630
+DTEND;VALUE=DATE:20460701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:31. 12. 2046. ističe 2 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Dozvola za eksploataciju ugljiko
+ vodika (prema Zakonu o ugljikovodicima) (SELNICA)\n• INA D.D. – Dozvol
+ a za eksploataciju ugljikovodika (prema Zakonu o ugljikovodicima) (SELNICA
+ )\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B5
+ 8087706082188
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B58087706082188
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

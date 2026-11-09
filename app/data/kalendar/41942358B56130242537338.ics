@@ -1,0 +1,97 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · Općina Tuhelj
+X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Tuhelj. Iz Regis
+ tra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podat
+ aka. https://koncesijski-sat.vercel.app/#opcina/41942358B56130242537338
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-c53aeab6ad692c69@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20270520
+DTEND;VALUE=DATE:20270521
+SUMMARY:Ističe koncesija: MARKO POGAČIĆ - DIMNJAČAR\, USLUŽNI OBRT\, V
+ L.  MARKO POGAČIĆ
+DESCRIPTION:1 ugovor o koncesiji ističe 20. 5. 2027. Godišnja fiksna nakn
+ ada: 936 €.\n\n• MARKO POGAČIĆ - DIMNJAČAR\, USLUŽNI OBRT\, VL.  M
+ ARKO POGAČIĆ – Koncesija za obavljanje dimnjačarskih poslova (TUHELJ)
+ \, 936 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opc
+ ina/41942358B56130242537338\nIzvor: Registar koncesija (FINA)\, obrada Kon
+ cesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B56130242537338
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: MARKO POGAČIĆ - DIMNJAČAR\, USLUŽNI OBRT
+ \, VL.  MARKO POGAČIĆ
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-c53aeab6ad692c69@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MARKO POGAČIĆ 
+ - DIMNJAČAR\, USLUŽNI OBRT\, VL.  MARKO POGAČIĆ)
+DESCRIPTION:20. 5. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• MARKO POGAČIĆ - DIMNJAČAR\, USLUŽNI OBRT\, VL.  MARKO POGAČI
+ Ć – Koncesija za obavljanje dimnjačarskih poslova (TUHELJ)\, 936 €/g
+ od.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358
+ B56130242537338
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B56130242537338
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MARKO POGAČ
+ IĆ - DIMNJAČAR\, USLUŽNI OBRT\, VL.  MARKO POGAČIĆ)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-645c219b5a1eaa3b@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20500203
+DTEND;VALUE=DATE:20500204
+SUMMARY:Ističe koncesija: TERME TUHELJ D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 3. 2. 2050. Godišnja fiksna nakna
+ da: 21.302 €.\n\n• TERME TUHELJ D.O.O. – Koncesija za crpljenje mine
+ ralnih i termalnih voda (TUHELJ)\, 21.302 €/god.\n\nProfil općine: http
+ s://koncesijski-sat.vercel.app/#opcina/41942358B56130242537338\nIzvor: Reg
+ istar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B56130242537338
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: TERME TUHELJ D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-645c219b5a1eaa3b@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20490803
+DTEND;VALUE=DATE:20490804
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (TERME TUHELJ D.O
+ .O.)
+DESCRIPTION:3. 2. 2050. ističe 1 ugovor o koncesiji. Novi postupak dodjele
+  treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
+ \n\n• TERME TUHELJ D.O.O. – Koncesija za crpljenje mineralnih i termal
+ nih voda (TUHELJ)\, 21.302 €/god.\n\nProfil općine: https://koncesijski
+ -sat.vercel.app/#opcina/41942358B56130242537338
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B56130242537338
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (TERME TUHELJ
+  D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

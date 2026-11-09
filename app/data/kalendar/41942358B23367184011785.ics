@@ -1,0 +1,422 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · Općina Orebić
+X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Orebić. Iz Regi
+ stra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade poda
+ taka. https://koncesijski-sat.vercel.app/#opcina/41942358B23367184011785
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-8a231fed5acb9c4b@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20280630
+DTEND;VALUE=DATE:20280701
+SUMMARY:Ističe koncesija: MOORING SERVICE D.O.O. ZA USLUGE U POMORSTVU
+DESCRIPTION:1 ugovor o koncesiji ističe 30. 6. 2028. Godišnja fiksna nakn
+ ada: 146 €.\n\n• MOORING SERVICE D.O.O. ZA USLUGE U POMORSTVU – Konc
+ esija za obavljanje komunalnih djelatnosti (OREBIĆ)\, 146 €/god.\n\nPro
+ fil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B233671840
+ 11785\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 20
+ 26.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B23367184011785
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: MOORING SERVICE D.O.O. ZA USLUGE U POMORSTVU
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-8a231fed5acb9c4b@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20271230
+DTEND;VALUE=DATE:20271231
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MOORING SERVICE 
+ D.O.O. ZA USLUGE U POMORSTVU)
+DESCRIPTION:30. 6. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• MOORING SERVICE D.O.O. ZA USLUGE U POMORSTVU – Koncesija za oba
+ vljanje komunalnih djelatnosti (OREBIĆ)\, 146 €/god.\n\nProfil općine:
+  https://koncesijski-sat.vercel.app/#opcina/41942358B23367184011785
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B23367184011785
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MOORING SERV
+ ICE D.O.O. ZA USLUGE U POMORSTVU)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-e284dd32a1af4903@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20301231
+DTEND;VALUE=DATE:20310101
+SUMMARY:Ističe koncesija: HEP-OPERATOR PRIJENOSNOG SUSTAVA D.O.O. SPLIT
+DESCRIPTION:1 ugovor o koncesiji ističe 31. 12. 2030. Godišnja fiksna nak
+ nada: 16.922 €.\n\n• HEP-OPERATOR PRIJENOSNOG SUSTAVA D.O.O. SPLIT –
+  Koncesija na pomorskom dobru (OREBIĆ)\, 16.922 €/god.\n\nProfil općin
+ e: https://koncesijski-sat.vercel.app/#opcina/41942358B23367184011785\nIzv
+ or: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B23367184011785
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: HEP-OPERATOR PRIJENOSNOG SUSTAVA D.O.O. SPLI
+ T
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-e284dd32a1af4903@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20300630
+DTEND;VALUE=DATE:20300701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP-OPERATOR PRI
+ JENOSNOG SUSTAVA D.O.O. SPLIT)
+DESCRIPTION:31. 12. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• HEP-OPERATOR PRIJENOSNOG SUSTAVA D.O.O. SPLIT – Koncesija na p
+ omorskom dobru (OREBIĆ)\, 16.922 €/god.\n\nProfil općine: https://konc
+ esijski-sat.vercel.app/#opcina/41942358B23367184011785
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B23367184011785
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP-OPERATOR
+  PRIJENOSNOG SUSTAVA D.O.O. SPLIT)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-9b37354222031051@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20320531
+DTEND;VALUE=DATE:20320601
+SUMMARY:Ističe koncesija: KAMP PALME D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 31. 5. 2032. Godišnja fiksna nakn
+ ada: 929 €.\n\n• KAMP PALME D.O.O. – Koncesija na pomorskom dobru (O
+ REBIĆ)\, 929 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.a
+ pp/#opcina/41942358B23367184011785\nIzvor: Registar koncesija (FINA)\, obr
+ ada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B23367184011785
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: KAMP PALME D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-9b37354222031051@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20311130
+DTEND;VALUE=DATE:20311201
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (KAMP PALME D.O.O
+ .)
+DESCRIPTION:31. 5. 2032. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• KAMP PALME D.O.O. – Koncesija na pomorskom dobru (OREBIĆ)\, 92
+ 9 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4
+ 1942358B23367184011785
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B23367184011785
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (KAMP PALME D
+ .O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-cc2c84099f55d56d@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20331231
+DTEND;VALUE=DATE:20340101
+SUMMARY:Ističe koncesija: GRADINA D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 31. 12. 2033. Godišnja fiksna nak
+ nada: 7.300 €.\n\n• GRADINA D.O.O. – Koncesija na pomorskom dobru (O
+ REBIĆ)\, 7.300 €/god.\n\nProfil općine: https://koncesijski-sat.vercel
+ .app/#opcina/41942358B23367184011785\nIzvor: Registar koncesija (FINA)\, o
+ brada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B23367184011785
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: GRADINA D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-cc2c84099f55d56d@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20330630
+DTEND;VALUE=DATE:20330701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (GRADINA D.O.O.)
+DESCRIPTION:31. 12. 2033. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• GRADINA D.O.O. – Koncesija na pomorskom dobru (OREBIĆ)\, 7.30
+ 0 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4
+ 1942358B23367184011785
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B23367184011785
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (GRADINA D.O.
+ O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-7f2d8bfca44caa5d@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20351130
+DTEND;VALUE=DATE:20351201
+SUMMARY:Ističe koncesija: FRESH FISH D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 30. 11. 2035. Godišnja fiksna nak
+ nada: 1.450 €.\n\n• FRESH FISH D.O.O. – Koncesija na pomorskom dobru
+  (OREBIĆ)\, 1.450 €/god.\n\nProfil općine: https://koncesijski-sat.ver
+ cel.app/#opcina/41942358B23367184011785\nIzvor: Registar koncesija (FINA)\
+ , obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B23367184011785
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: FRESH FISH D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-7f2d8bfca44caa5d@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20350530
+DTEND;VALUE=DATE:20350531
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (FRESH FISH D.O.O
+ .)
+DESCRIPTION:30. 11. 2035. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• FRESH FISH D.O.O. – Koncesija na pomorskom dobru (OREBIĆ)\, 1
+ .450 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcin
+ a/41942358B23367184011785
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B23367184011785
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (FRESH FISH D
+ .O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-837b71c17d06aea1@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20351231
+DTEND;VALUE=DATE:20360101
+SUMMARY:Ističe 3 koncesije · Orebić
+DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2035. Godišnja fiksna na
+ knada: 4.372 €.\n\n• KTD BILAN D.O.O. – Koncesija za eksploataciju t
+ ehničko-građevnog kamena (OREBIĆ)\, 2.186 €/god.\n• KTD BILAN D.O.O
+ . – Koncesija za površinu utvrđenog eksploatacijskog polja neenergetsk
+ ih mineralnih sirovina (OREBIĆ)\, 2.186 €/god.\n• KTD BILAN D.O.O. 
+ – Koncesija za eksploataciju tehničko-građevnog kamena (OREBIĆ)\n\nPr
+ ofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B23367184
+ 011785\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2
+ 026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B23367184011785
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 3 koncesije · Orebić
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-837b71c17d06aea1@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20350630
+DTEND;VALUE=DATE:20350701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:31. 12. 2035. ističe 3 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• KTD BILAN D.O.O. – Koncesija za eksploataciju tehničko-građ
+ evnog kamena (OREBIĆ)\, 2.186 €/god.\n• KTD BILAN D.O.O. – Koncesij
+ a za površinu utvrđenog eksploatacijskog polja neenergetskih mineralnih 
+ sirovina (OREBIĆ)\, 2.186 €/god.\n• KTD BILAN D.O.O. – Koncesija za
+  eksploataciju tehničko-građevnog kamena (OREBIĆ)\n\nProfil općine: ht
+ tps://koncesijski-sat.vercel.app/#opcina/41942358B23367184011785
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B23367184011785
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-29ba9d09fe7ac24a@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20360612
+DTEND;VALUE=DATE:20360613
+SUMMARY:Ističe koncesija: HRVATSKI OPERATOR PRIJENOSNOG SUSTAVA D.D.
+DESCRIPTION:1 ugovor o koncesiji ističe 12. 6. 2036. Godišnja fiksna nakn
+ ada: 5.095 €.\n\n• HRVATSKI OPERATOR PRIJENOSNOG SUSTAVA D.D. – Konc
+ esija na pomorskom dobru (OREBIĆ)\, 5.095 €/god.\n\nProfil općine: htt
+ ps://koncesijski-sat.vercel.app/#opcina/41942358B23367184011785\nIzvor: Re
+ gistar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B23367184011785
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: HRVATSKI OPERATOR PRIJENOSNOG SUSTAVA D.D.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-29ba9d09fe7ac24a@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20351212
+DTEND;VALUE=DATE:20351213
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKI OPERATO
+ R PRIJENOSNOG SUSTAVA D.D.)
+DESCRIPTION:12. 6. 2036. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• HRVATSKI OPERATOR PRIJENOSNOG SUSTAVA D.D. – Koncesija na pomor
+ skom dobru (OREBIĆ)\, 5.095 €/god.\n\nProfil općine: https://koncesijs
+ ki-sat.vercel.app/#opcina/41942358B23367184011785
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B23367184011785
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKI OPE
+ RATOR PRIJENOSNOG SUSTAVA D.D.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-c75c66a62e3db45b@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20370731
+DTEND;VALUE=DATE:20370801
+SUMMARY:Ističe koncesija: AMINESS D.D.
+DESCRIPTION:1 ugovor o koncesiji ističe 31. 7. 2037. Godišnja fiksna nakn
+ ada: 13.000 €.\n\n• AMINESS D.D. – Koncesija na pomorskom dobru (ORE
+ BIĆ)\, 13.000 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.
+ app/#opcina/41942358B23367184011785\nIzvor: Registar koncesija (FINA)\, ob
+ rada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B23367184011785
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: AMINESS D.D.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-c75c66a62e3db45b@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20370131
+DTEND;VALUE=DATE:20370201
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (AMINESS D.D.)
+DESCRIPTION:31. 7. 2037. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• AMINESS D.D. – Koncesija na pomorskom dobru (OREBIĆ)\, 13.000 
+ €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
+ 42358B23367184011785
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B23367184011785
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (AMINESS D.D.
+ )
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-36c52c08055a8749@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20440314
+DTEND;VALUE=DATE:20440315
+SUMMARY:Ističe koncesija: HEP-OPERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O.\, EL
+ EKTROJUG DUBROVNIK
+DESCRIPTION:1 ugovor o koncesiji ističe 14. 3. 2044. Godišnja fiksna nakn
+ ada: 1.786 €.\n\n• HEP-OPERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O.\, ELEKT
+ ROJUG DUBROVNIK – Koncesija pomorskog dobra za posebnu upotrebu u svrhu 
+ gradnje kabelske veze (OREBIĆ)\, 1.786 €/god.\n\nProfil općine: https:
+ //koncesijski-sat.vercel.app/#opcina/41942358B23367184011785\nIzvor: Regis
+ tar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B23367184011785
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: HEP-OPERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O.\
+ , ELEKTROJUG DUBROVNIK
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-36c52c08055a8749@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20430914
+DTEND;VALUE=DATE:20430915
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP-OPERATOR DIS
+ TRIBUCIJSKOG SUSTAVA D.O.O.\, ELEKTROJUG DUBROVNIK)
+DESCRIPTION:14. 3. 2044. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• HEP-OPERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O.\, ELEKTROJUG DUBROVNI
+ K – Koncesija pomorskog dobra za posebnu upotrebu u svrhu gradnje kabels
+ ke veze (OREBIĆ)\, 1.786 €/god.\n\nProfil općine: https://koncesijski-
+ sat.vercel.app/#opcina/41942358B23367184011785
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B23367184011785
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP-OPERATOR
+  DISTRIBUCIJSKOG SUSTAVA D.O.O.\, ELEKTROJUG DUBROVNIK)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-95c751d21ce00b9c@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20760717
+DTEND;VALUE=DATE:20760718
+SUMMARY:Ističe koncesija: HRVATSKI TELEKOM D.D.
+DESCRIPTION:1 ugovor o koncesiji ističe 17. 7. 2076. Godišnja fiksna nakn
+ ada: 5.801 €.\n\n• HRVATSKI TELEKOM D.D. – Posebna upotreba pomorsko
+ g dobra (OREBIĆ)\, 5.801 €/god.\n\nProfil općine: https://koncesijski-
+ sat.vercel.app/#opcina/41942358B23367184011785\nIzvor: Registar koncesija 
+ (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B23367184011785
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: HRVATSKI TELEKOM D.D.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-95c751d21ce00b9c@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20760117
+DTEND;VALUE=DATE:20760118
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKI TELEKOM
+  D.D.)
+DESCRIPTION:17. 7. 2076. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• HRVATSKI TELEKOM D.D. – Posebna upotreba pomorskog dobra (OREBI
+ Ć)\, 5.801 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app
+ /#opcina/41942358B23367184011785
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B23367184011785
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKI TEL
+ EKOM D.D.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

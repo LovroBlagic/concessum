@@ -1,0 +1,93 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · Općina Trpinja
+X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Trpinja. Iz Regi
+ stra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade poda
+ taka. https://koncesijski-sat.vercel.app/#opcina/41942358B79245749905340
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-c4e92859b1e6a531@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20310420
+DTEND;VALUE=DATE:20310421
+SUMMARY:Ističe koncesija: HEP PLIN D.O.O. OSIJEK
+DESCRIPTION:1 ugovor o koncesiji ističe 20. 4. 2031.\n\n• HEP PLIN D.O.O
+ . OSIJEK – Koncesija za obavljanje distribucije plina na postojećem dis
+ tribucijskom sustavu (TRPINJA)\n\nProfil općine: https://koncesijski-sat.
+ vercel.app/#opcina/41942358B79245749905340\nIzvor: Registar koncesija (FIN
+ A)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B79245749905340
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: HEP PLIN D.O.O. OSIJEK
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-c4e92859b1e6a531@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20301020
+DTEND;VALUE=DATE:20301021
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP PLIN D.O.O. 
+ OSIJEK)
+DESCRIPTION:20. 4. 2031. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• HEP PLIN D.O.O. OSIJEK – Koncesija za obavljanje distribucije p
+ lina na postojećem distribucijskom sustavu (TRPINJA)\n\nProfil općine: h
+ ttps://koncesijski-sat.vercel.app/#opcina/41942358B79245749905340
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B79245749905340
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP PLIN D.O
+ .O. OSIJEK)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-277ac3d0df1dd7df@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20460321
+DTEND;VALUE=DATE:20460322
+SUMMARY:Ističe koncesija: VUPIK PLUS D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 21. 3. 2046. Godišnja fiksna nakn
+ ada: 1.340 €.\n\n• VUPIK PLUS D.O.O. – Koncesija za zahvaćanje voda
+  za tehnološke potrebe (TRPINJA)\, 1.340 €/god.\n\nProfil općine: http
+ s://koncesijski-sat.vercel.app/#opcina/41942358B79245749905340\nIzvor: Reg
+ istar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B79245749905340
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: VUPIK PLUS D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-277ac3d0df1dd7df@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20450921
+DTEND;VALUE=DATE:20450922
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VUPIK PLUS D.O.O
+ .)
+DESCRIPTION:21. 3. 2046. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• VUPIK PLUS D.O.O. – Koncesija za zahvaćanje voda za tehnološk
+ e potrebe (TRPINJA)\, 1.340 €/god.\n\nProfil općine: https://koncesijsk
+ i-sat.vercel.app/#opcina/41942358B79245749905340
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B79245749905340
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VUPIK PLUS D
+ .O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

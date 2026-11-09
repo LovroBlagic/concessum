@@ -1,0 +1,382 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · Općina Karlobag
+X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Karlobag. Iz Reg
+ istra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade pod
+ ataka. https://koncesijski-sat.vercel.app/#opcina/41942358B43833873401555
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-1c916c61948d72aa@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20280517
+DTEND;VALUE=DATE:20280518
+SUMMARY:Ističe koncesija: KOMUNALNO DRUŠTVO PAG D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 17. 5. 2028. Godišnja fiksna nakn
+ ada: 1.070 €.\n\n• KOMUNALNO DRUŠTVO PAG D.O.O. – Koncesija pomorsk
+ og dobra u svrhu izgradnje i gospodarskog korištenja (KARLOBAG)\, 1.070 
+ €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
+ 42358B43833873401555\nIzvor: Registar koncesija (FINA)\, obrada Koncesijsk
+ i sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B43833873401555
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: KOMUNALNO DRUŠTVO PAG D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-1c916c61948d72aa@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20271117
+DTEND;VALUE=DATE:20271118
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (KOMUNALNO DRUŠT
+ VO PAG D.O.O.)
+DESCRIPTION:17. 5. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• KOMUNALNO DRUŠTVO PAG D.O.O. – Koncesija pomorskog dobra u svr
+ hu izgradnje i gospodarskog korištenja (KARLOBAG)\, 1.070 €/god.\n\nPro
+ fil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B438338734
+ 01555
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B43833873401555
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (KOMUNALNO DR
+ UŠTVO PAG D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-aa495f7a01afed6d@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20281231
+DTEND;VALUE=DATE:20290101
+SUMMARY:Ističe koncesija: MADI\, OBRT ZA UGOST.VL. MARKO VUKELIĆ
+DESCRIPTION:1 ugovor o koncesiji ističe 31. 12. 2028. Godišnja fiksna nak
+ nada: 1.500 €.\n\n• MADI\, OBRT ZA UGOST.VL. MARKO VUKELIĆ – Konces
+ ija za luku (KARLOBAG)\, 1.500 €/god.\n\nProfil općine: https://koncesi
+ jski-sat.vercel.app/#opcina/41942358B43833873401555\nIzvor: Registar konce
+ sija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B43833873401555
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: MADI\, OBRT ZA UGOST.VL. MARKO VUKELIĆ
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-aa495f7a01afed6d@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20280630
+DTEND;VALUE=DATE:20280701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MADI\, OBRT ZA U
+ GOST.VL. MARKO VUKELIĆ)
+DESCRIPTION:31. 12. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• MADI\, OBRT ZA UGOST.VL. MARKO VUKELIĆ – Koncesija za luku (K
+ ARLOBAG)\, 1.500 €/god.\n\nProfil općine: https://koncesijski-sat.verce
+ l.app/#opcina/41942358B43833873401555
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B43833873401555
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MADI\, OBRT 
+ ZA UGOST.VL. MARKO VUKELIĆ)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-3291633cd8a77973@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20291231
+DTEND;VALUE=DATE:20300101
+SUMMARY:Ističe 4 koncesije · Karlobag
+DESCRIPTION:4 ugovora o koncesiji ističe 31. 12. 2029. Godišnja fiksna na
+ knada: 16.200 €.\n\n• VEGIUM D.O.O. – Koncesija za luku (KARLOBAG)\,
+  5.100 €/god.\n• S&BAG J.D.O.O. – Koncesija za luku (KARLOBAG)\, 3.7
+ 00 €/god.\n• TUŠAK D.O.O. – Koncesija za luku (KARLOBAG)\, 3.700 
+ €/god.\n• IRIS\, OBRT ZA TRGOVINU I GRAĐEVINSKE RADOVE\, VL. RAJKA VR
+ BAN LILION – Koncesija za luku (KARLOBAG)\, 3.700 €/god.\n\nProfil op
+ ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B43833873401555\
+ nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B43833873401555
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 4 koncesije · Karlobag
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-3291633cd8a77973@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20290630
+DTEND;VALUE=DATE:20290701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 4 koncesije
+DESCRIPTION:31. 12. 2029. ističe 4 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• VEGIUM D.O.O. – Koncesija za luku (KARLOBAG)\, 5.100 €/god.
+ \n• S&BAG J.D.O.O. – Koncesija za luku (KARLOBAG)\, 3.700 €/god.\n
+ • TUŠAK D.O.O. – Koncesija za luku (KARLOBAG)\, 3.700 €/god.\n• I
+ RIS\, OBRT ZA TRGOVINU I GRAĐEVINSKE RADOVE\, VL. RAJKA VRBAN LILION – 
+ Koncesija za luku (KARLOBAG)\, 3.700 €/god.\n\nProfil općine: https://k
+ oncesijski-sat.vercel.app/#opcina/41942358B43833873401555
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B43833873401555
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 4 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-11ad6a0156ae2580@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20360612
+DTEND;VALUE=DATE:20360613
+SUMMARY:Ističe koncesija: HRVATSKI OPERATOR PRIJENOSNOG SUSTAVA D.D.
+DESCRIPTION:1 ugovor o koncesiji ističe 12. 6. 2036. Godišnja fiksna nakn
+ ada: 945 €.\n\n• HRVATSKI OPERATOR PRIJENOSNOG SUSTAVA D.D. – Konces
+ ija na pomorskom dobru (KARLOBAG)\, 945 €/god.\n\nProfil općine: https:
+ //koncesijski-sat.vercel.app/#opcina/41942358B43833873401555\nIzvor: Regis
+ tar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B43833873401555
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: HRVATSKI OPERATOR PRIJENOSNOG SUSTAVA D.D.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-11ad6a0156ae2580@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20351212
+DTEND;VALUE=DATE:20351213
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKI OPERATO
+ R PRIJENOSNOG SUSTAVA D.D.)
+DESCRIPTION:12. 6. 2036. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• HRVATSKI OPERATOR PRIJENOSNOG SUSTAVA D.D. – Koncesija na pomor
+ skom dobru (KARLOBAG)\, 945 €/god.\n\nProfil općine: https://koncesijsk
+ i-sat.vercel.app/#opcina/41942358B43833873401555
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B43833873401555
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKI OPE
+ RATOR PRIJENOSNOG SUSTAVA D.D.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-76dedded419bec3a@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20390430
+DTEND;VALUE=DATE:20390501
+SUMMARY:Ističe koncesija: NORDIC FISH D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 30. 4. 2039. Godišnja fiksna nakn
+ ada: 2.986 €.\n\n• NORDIC FISH D.O.O. – Koncesija na pomorskom dobru
+  (KARLOBAG)\, 2.986 €/god.\n\nProfil općine: https://koncesijski-sat.ve
+ rcel.app/#opcina/41942358B43833873401555\nIzvor: Registar koncesija (FINA)
+ \, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B43833873401555
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: NORDIC FISH D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-76dedded419bec3a@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20381030
+DTEND;VALUE=DATE:20381031
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (NORDIC FISH D.O.
+ O.)
+DESCRIPTION:30. 4. 2039. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• NORDIC FISH D.O.O. – Koncesija na pomorskom dobru (KARLOBAG)\, 
+ 2.986 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opci
+ na/41942358B43833873401555
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B43833873401555
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (NORDIC FISH 
+ D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-585319125740a13f@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20410705
+DTEND;VALUE=DATE:20410706
+SUMMARY:Ističe koncesija: SLAVICA ŠOTA
+DESCRIPTION:1 ugovor o koncesiji ističe 5. 7. 2041. Godišnja fiksna nakna
+ da: 279 €.\n\n• SLAVICA ŠOTA – Koncesija za plažu (KARLOBAG)\, 279
+  €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41
+ 942358B43833873401555\nIzvor: Registar koncesija (FINA)\, obrada Koncesijs
+ ki sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B43833873401555
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: SLAVICA ŠOTA
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-585319125740a13f@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20410105
+DTEND;VALUE=DATE:20410106
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (SLAVICA ŠOTA)
+DESCRIPTION:5. 7. 2041. ističe 1 ugovor o koncesiji. Novi postupak dodjele
+  treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
+ \n\n• SLAVICA ŠOTA – Koncesija za plažu (KARLOBAG)\, 279 €/god.\n\
+ nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B43833
+ 873401555
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B43833873401555
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (SLAVICA ŠOT
+ A)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-cd447dfd49c15c49@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20440612
+DTEND;VALUE=DATE:20440613
+SUMMARY:Ističe koncesija: VODOVOD D.O.O. - IZGRAD. I REKON. VOD. NA PODRU
+ ČJU ZADARSKE ŽUPANIJE
+DESCRIPTION:1 ugovor o koncesiji ističe 12. 6. 2044. Godišnja fiksna nakn
+ ada: 2.198 €.\n\n• VODOVOD D.O.O. - IZGRAD. I REKON. VOD. NA PODRUČJU
+  ZADARSKE ŽUPANIJE – Posebna upotreba pomorskog dobra (KARLOBAG)\, 2.19
+ 8 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4
+ 1942358B43833873401555\nIzvor: Registar koncesija (FINA)\, obrada Koncesij
+ ski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B43833873401555
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: VODOVOD D.O.O. - IZGRAD. I REKON. VOD. NA PO
+ DRUČJU ZADARSKE ŽUPANIJE
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-cd447dfd49c15c49@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20431212
+DTEND;VALUE=DATE:20431213
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VODOVOD D.O.O. -
+  IZGRAD. I REKON. VOD. NA PODRUČJU ZADARSKE ŽUPANIJE)
+DESCRIPTION:12. 6. 2044. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• VODOVOD D.O.O. - IZGRAD. I REKON. VOD. NA PODRUČJU ZADARSKE ŽUP
+ ANIJE – Posebna upotreba pomorskog dobra (KARLOBAG)\, 2.198 €/god.\n\n
+ Profil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B438338
+ 73401555
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B43833873401555
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VODOVOD D.O.
+ O. - IZGRAD. I REKON. VOD. NA PODRUČJU ZADARSKE ŽUPANIJE)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-41aaf09c7e7ea590@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20601015
+DTEND;VALUE=DATE:20601016
+SUMMARY:Ističe koncesija: DRŽAVNI HIDROMETEOROLOŠKI ZAVOD
+DESCRIPTION:1 ugovor o koncesiji ističe 15. 10. 2060. Godišnja fiksna nak
+ nada: 22 €.\n\n• DRŽAVNI HIDROMETEOROLOŠKI ZAVOD – Koncesija na po
+ morskom dobru (KARLOBAG)\, 22 €/god.\n\nProfil općine: https://koncesij
+ ski-sat.vercel.app/#opcina/41942358B43833873401555\nIzvor: Registar konces
+ ija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B43833873401555
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: DRŽAVNI HIDROMETEOROLOŠKI ZAVOD
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-41aaf09c7e7ea590@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20600415
+DTEND;VALUE=DATE:20600416
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DRŽAVNI HIDROME
+ TEOROLOŠKI ZAVOD)
+DESCRIPTION:15. 10. 2060. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• DRŽAVNI HIDROMETEOROLOŠKI ZAVOD – Koncesija na pomorskom dob
+ ru (KARLOBAG)\, 22 €/god.\n\nProfil općine: https://koncesijski-sat.ver
+ cel.app/#opcina/41942358B43833873401555
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B43833873401555
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DRŽAVNI HID
+ ROMETEOROLOŠKI ZAVOD)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-db6b5c21d806cdf5@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20760717
+DTEND;VALUE=DATE:20760718
+SUMMARY:Ističe koncesija: HRVATSKI TELEKOM D.D.
+DESCRIPTION:1 ugovor o koncesiji ističe 17. 7. 2076. Godišnja fiksna nakn
+ ada: 2.705 €.\n\n• HRVATSKI TELEKOM D.D. – Posebna upotreba pomorsko
+ g dobra (KARLOBAG)\, 2.705 €/god.\n\nProfil općine: https://koncesijski
+ -sat.vercel.app/#opcina/41942358B43833873401555\nIzvor: Registar koncesija
+  (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B43833873401555
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: HRVATSKI TELEKOM D.D.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-db6b5c21d806cdf5@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20760117
+DTEND;VALUE=DATE:20760118
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKI TELEKOM
+  D.D.)
+DESCRIPTION:17. 7. 2076. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• HRVATSKI TELEKOM D.D. – Posebna upotreba pomorskog dobra (KARLO
+ BAG)\, 2.705 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.ap
+ p/#opcina/41942358B43833873401555
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B43833873401555
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKI TEL
+ EKOM D.D.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

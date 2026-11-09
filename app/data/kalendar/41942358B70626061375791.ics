@@ -1,0 +1,224 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · Općina Andrijaševci
+X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Andrijaševci. I
+ z Registra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrad
+ e podataka. https://koncesijski-sat.vercel.app/#opcina/41942358B7062606137
+ 5791
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-a939c69736578df0@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20271012
+DTEND;VALUE=DATE:20271013
+SUMMARY:Ističe koncesija: UDRUGA RADIO MARIJA
+DESCRIPTION:1 ugovor o koncesiji ističe 12. 10. 2027. Godišnja fiksna nak
+ nada: 100 €.\n\n• UDRUGA RADIO MARIJA – Koncesija za obavljanje djel
+ atnosti radija (ANDRIJAŠEVCI\, BOGDANOVCI\, BOROVO\, ERNESTINOVO\, IVANKO
+ VO\, JARMINA\, MARKUŠICA\, NUŠTAR\, PRIVLAKA\, TORDINCI\, TRPINJA\, VINK
+ OVCI\, VUKOVAR\, ŠODOLOVCI)\, 100 €/god.\n\nProfil općine: https://kon
+ cesijski-sat.vercel.app/#opcina/41942358B70626061375791\nIzvor: Registar k
+ oncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B70626061375791
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: UDRUGA RADIO MARIJA
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-a939c69736578df0@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20270412
+DTEND;VALUE=DATE:20270413
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (UDRUGA RADIO MAR
+ IJA)
+DESCRIPTION:12. 10. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• UDRUGA RADIO MARIJA – Koncesija za obavljanje djelatnosti radi
+ ja (ANDRIJAŠEVCI\, BOGDANOVCI\, BOROVO\, ERNESTINOVO\, IVANKOVO\, JARMINA
+ \, MARKUŠICA\, NUŠTAR\, PRIVLAKA\, TORDINCI\, TRPINJA\, VINKOVCI\, VUKOV
+ AR\, ŠODOLOVCI)\, 100 €/god.\n\nProfil općine: https://koncesijski-sat
+ .vercel.app/#opcina/41942358B70626061375791
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B70626061375791
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (UDRUGA RADIO
+  MARIJA)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-d242bd6085b22e67@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20310531
+DTEND;VALUE=DATE:20310601
+SUMMARY:Ističe koncesija: NEVKOŠ D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 31. 5. 2031.\n\n• NEVKOŠ D.O.O.
+  – Koncesija za obavljanje komunalnih djelatnosti (ANDRIJAŠEVCI)\n\nPro
+ fil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B706260613
+ 75791\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 20
+ 26.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B70626061375791
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: NEVKOŠ D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-d242bd6085b22e67@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20301130
+DTEND;VALUE=DATE:20301201
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (NEVKOŠ D.O.O.)
+DESCRIPTION:31. 5. 2031. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• NEVKOŠ D.O.O. – Koncesija za obavljanje komunalnih djelatnosti
+  (ANDRIJAŠEVCI)\n\nProfil općine: https://koncesijski-sat.vercel.app/#op
+ cina/41942358B70626061375791
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B70626061375791
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (NEVKOŠ D.O.
+ O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-5dd547e6d8e20b73@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20451231
+DTEND;VALUE=DATE:20460101
+SUMMARY:Ističe koncesija: PIK-VINKOVCI PLUS D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 31. 12. 2045. Godišnja fiksna nak
+ nada: 2.668 €.\n\n• PIK-VINKOVCI PLUS D.O.O. – Koncesija za zahvaća
+ nje voda za tehnološke potrebe (ANDRIJAŠEVCI)\, 2.668 €/god.\n\nProfil
+  općine: https://koncesijski-sat.vercel.app/#opcina/41942358B706260613757
+ 91\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B70626061375791
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: PIK-VINKOVCI PLUS D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-5dd547e6d8e20b73@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20450630
+DTEND;VALUE=DATE:20450701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PIK-VINKOVCI PLU
+ S D.O.O.)
+DESCRIPTION:31. 12. 2045. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• PIK-VINKOVCI PLUS D.O.O. – Koncesija za zahvaćanje voda za te
+ hnološke potrebe (ANDRIJAŠEVCI)\, 2.668 €/god.\n\nProfil općine: http
+ s://koncesijski-sat.vercel.app/#opcina/41942358B70626061375791
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B70626061375791
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PIK-VINKOVCI
+  PLUS D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-d10627f7cc8cab58@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20481209
+DTEND;VALUE=DATE:20481210
+SUMMARY:Ističe koncesija: PLINARA ISTOČNE SLAVONIJE D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 9. 12. 2048.\n\n• PLINARA ISTOČ
+ NE SLAVONIJE D.O.O. – Koncesija za obavljanje distribucije plina na post
+ ojećem distribucijskom sustavu (ANDRIJAŠEVCI\, BABINA GREDA\, BOŠNJACI\
+ , CERNA\, DRENOVCI\, GRADIŠTE\, GUNJA\, ILOK\, IVANKOVO\, JARMINA\, LOVAS
+ \, NUŠTAR\, OTOK\, PRIVLAKA\, STARI JANKOVCI\, STARI MIKANOVCI\, VINKOVCI
+ \, VOĐINCI\, VRBANJA\, ŠTITAR\, ŽUPANJA)\n\nProfil općine: https://kon
+ cesijski-sat.vercel.app/#opcina/41942358B70626061375791\nIzvor: Registar k
+ oncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B70626061375791
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: PLINARA ISTOČNE SLAVONIJE D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-d10627f7cc8cab58@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20480609
+DTEND;VALUE=DATE:20480610
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PLINARA ISTOČNE
+  SLAVONIJE D.O.O.)
+DESCRIPTION:9. 12. 2048. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• PLINARA ISTOČNE SLAVONIJE D.O.O. – Koncesija za obavljanje dis
+ tribucije plina na postojećem distribucijskom sustavu (ANDRIJAŠEVCI\, BA
+ BINA GREDA\, BOŠNJACI\, CERNA\, DRENOVCI\, GRADIŠTE\, GUNJA\, ILOK\, IVA
+ NKOVO\, JARMINA\, LOVAS\, NUŠTAR\, OTOK\, PRIVLAKA\, STARI JANKOVCI\, STA
+ RI MIKANOVCI\, VINKOVCI\, VOĐINCI\, VRBANJA\, ŠTITAR\, ŽUPANJA)\n\nProf
+ il općine: https://koncesijski-sat.vercel.app/#opcina/41942358B7062606137
+ 5791
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B70626061375791
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PLINARA ISTO
+ ČNE SLAVONIJE D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-5a3458a9ad26981f@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20520406
+DTEND;VALUE=DATE:20520407
+SUMMARY:Ističe koncesija: PIK-VINKOVCI PLUS D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 6. 4. 2052. Godišnja fiksna nakna
+ da: 1.593 €.\n\n• PIK-VINKOVCI PLUS D.O.O. – Koncesija za zahvaćanj
+ e voda za tehnološke potrebe (ANDRIJAŠEVCI)\, 1.593 €/god.\n\nProfil o
+ pćine: https://koncesijski-sat.vercel.app/#opcina/41942358B70626061375791
+ \nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B70626061375791
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: PIK-VINKOVCI PLUS D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-5a3458a9ad26981f@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20511006
+DTEND;VALUE=DATE:20511007
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PIK-VINKOVCI PLU
+ S D.O.O.)
+DESCRIPTION:6. 4. 2052. ističe 1 ugovor o koncesiji. Novi postupak dodjele
+  treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
+ \n\n• PIK-VINKOVCI PLUS D.O.O. – Koncesija za zahvaćanje voda za tehn
+ ološke potrebe (ANDRIJAŠEVCI)\, 1.593 €/god.\n\nProfil općine: https:
+ //koncesijski-sat.vercel.app/#opcina/41942358B70626061375791
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B70626061375791
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PIK-VINKOVCI
+  PLUS D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

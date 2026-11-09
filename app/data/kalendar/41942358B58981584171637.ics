@@ -1,0 +1,58 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · Općina Lupoglav
+X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Lupoglav. Iz Reg
+ istra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade pod
+ ataka. https://koncesijski-sat.vercel.app/#opcina/41942358B58981584171637
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-143e29b0c0c7ef71@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20301231
+DTEND;VALUE=DATE:20310101
+SUMMARY:Ističe 3 koncesije · Lupoglav
+DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2030. Godišnja fiksna na
+ knada: 2.194 €.\n\n• HOLCIM (HRVATSKA) D.O.O. – Koncesija za površi
+ nu utvrđenog eksploatacijskog polja neenergetskih mineralnih sirovina (LU
+ POGLAV)\, 2.194 €/god.\n• HOLCIM (HRVATSKA) D.O.O. – Koncesija za ek
+ sploataciju tehničko-građevnog kamena (LUPOGLAV)\n• HOLCIM (HRVATSKA) 
+ D.O.O. – Koncesija za eksploataciju tehničko-građevnog kamena (LUPOGLA
+ V)\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B
+ 58981584171637\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 
+ 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B58981584171637
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 3 koncesije · Lupoglav
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-143e29b0c0c7ef71@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20300630
+DTEND;VALUE=DATE:20300701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:31. 12. 2030. ističe 3 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• HOLCIM (HRVATSKA) D.O.O. – Koncesija za površinu utvrđenog 
+ eksploatacijskog polja neenergetskih mineralnih sirovina (LUPOGLAV)\, 2.19
+ 4 €/god.\n• HOLCIM (HRVATSKA) D.O.O. – Koncesija za eksploataciju te
+ hničko-građevnog kamena (LUPOGLAV)\n• HOLCIM (HRVATSKA) D.O.O. – Kon
+ cesija za eksploataciju tehničko-građevnog kamena (LUPOGLAV)\n\nProfil o
+ pćine: https://koncesijski-sat.vercel.app/#opcina/41942358B58981584171637
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B58981584171637
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

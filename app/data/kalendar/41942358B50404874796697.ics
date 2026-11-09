@@ -1,0 +1,255 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · Općina Pisarovina
+X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Pisarovina. Iz R
+ egistra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade p
+ odataka. https://koncesijski-sat.vercel.app/#opcina/41942358B5040487479669
+ 7
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-8c1a43e01e2a8798@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20291112
+DTEND;VALUE=DATE:20291113
+SUMMARY:Ističe koncesija: JAMNICA PLUS D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 12. 11. 2029.\n\n• JAMNICA PLUS 
+ D.O.O. – Koncesija za zahvaćanje voda radi prodaje na tržištu (PISARO
+ VINA)\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419423
+ 58B50404874796697\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski s
+ at 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B50404874796697
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: JAMNICA PLUS D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-8c1a43e01e2a8798@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20290512
+DTEND;VALUE=DATE:20290513
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (JAMNICA PLUS D.O
+ .O.)
+DESCRIPTION:12. 11. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• JAMNICA PLUS D.O.O. – Koncesija za zahvaćanje voda radi proda
+ je na tržištu (PISAROVINA)\n\nProfil općine: https://koncesijski-sat.ve
+ rcel.app/#opcina/41942358B50404874796697
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B50404874796697
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (JAMNICA PLUS
+  D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-9f7e8ce3911f4909@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20310201
+DTEND;VALUE=DATE:20310202
+SUMMARY:Ističe koncesija: MULL-TRANS D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 1. 2. 2031. Godišnja fiksna nakna
+ da: 1.880 €.\n\n• MULL-TRANS D.O.O. – Koncesija za obavljanje komuna
+ lnih djelatnosti (PISAROVINA)\, 1.880 €/god.\n\nProfil općine: https://
+ koncesijski-sat.vercel.app/#opcina/41942358B50404874796697\nIzvor: Regista
+ r koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B50404874796697
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: MULL-TRANS D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-9f7e8ce3911f4909@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20300801
+DTEND;VALUE=DATE:20300802
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MULL-TRANS D.O.O
+ .)
+DESCRIPTION:1. 2. 2031. ističe 1 ugovor o koncesiji. Novi postupak dodjele
+  treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
+ \n\n• MULL-TRANS D.O.O. – Koncesija za obavljanje komunalnih djelatnos
+ ti (PISAROVINA)\, 1.880 €/god.\n\nProfil općine: https://koncesijski-sa
+ t.vercel.app/#opcina/41942358B50404874796697
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B50404874796697
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MULL-TRANS D
+ .O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-87b00111d9944c85@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20310801
+DTEND;VALUE=DATE:20310802
+SUMMARY:Ističe koncesija: DIMNJAČAR OBRT
+DESCRIPTION:1 ugovor o koncesiji ističe 1. 8. 2031. Godišnja fiksna nakna
+ da: 620 €.\n\n• DIMNJAČAR OBRT – Koncesija za obavljanje komunalnih
+  djelatnosti (PISAROVINA)\, 620 €/god.\n\nProfil općine: https://konces
+ ijski-sat.vercel.app/#opcina/41942358B50404874796697\nIzvor: Registar konc
+ esija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B50404874796697
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: DIMNJAČAR OBRT
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-87b00111d9944c85@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20310201
+DTEND;VALUE=DATE:20310202
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DIMNJAČAR OBRT)
+DESCRIPTION:1. 8. 2031. ističe 1 ugovor o koncesiji. Novi postupak dodjele
+  treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
+ \n\n• DIMNJAČAR OBRT – Koncesija za obavljanje komunalnih djelatnosti
+  (PISAROVINA)\, 620 €/god.\n\nProfil općine: https://koncesijski-sat.ve
+ rcel.app/#opcina/41942358B50404874796697
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B50404874796697
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DIMNJAČAR O
+ BRT)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-c7f6da39c59e6764@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20470809
+DTEND;VALUE=DATE:20470810
+SUMMARY:Ističe koncesija: ARBUSTA SOL D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 9. 8. 2047. Godišnja fiksna nakna
+ da: 11 €.\n\n• ARBUSTA SOL D.O.O. – Koncesija za zahvaćanje voda za
+  melioracijsko navodnjavanje (PISAROVINA)\, 11 €/god.\n\nProfil općine:
+  https://koncesijski-sat.vercel.app/#opcina/41942358B50404874796697\nIzvor
+ : Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B50404874796697
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: ARBUSTA SOL D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-c7f6da39c59e6764@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20470209
+DTEND;VALUE=DATE:20470210
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ARBUSTA SOL D.O.
+ O.)
+DESCRIPTION:9. 8. 2047. ističe 1 ugovor o koncesiji. Novi postupak dodjele
+  treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
+ \n\n• ARBUSTA SOL D.O.O. – Koncesija za zahvaćanje voda za melioracij
+ sko navodnjavanje (PISAROVINA)\, 11 €/god.\n\nProfil općine: https://ko
+ ncesijski-sat.vercel.app/#opcina/41942358B50404874796697
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B50404874796697
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ARBUSTA SOL 
+ D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-215d14bb3236c46d@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20490806
+DTEND;VALUE=DATE:20490807
+SUMMARY:Ističe koncesija: JAMNICA PLUS D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 6. 8. 2049. Godišnja fiksna nakna
+ da: 11.281 €.\n\n• JAMNICA PLUS D.O.O. – Koncesija za zahvaćanje vo
+ da za tehnološke potrebe (PISAROVINA)\, 11.281 €/god.\n\nProfil općine
+ : https://koncesijski-sat.vercel.app/#opcina/41942358B50404874796697\nIzvo
+ r: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B50404874796697
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: JAMNICA PLUS D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-215d14bb3236c46d@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20490206
+DTEND;VALUE=DATE:20490207
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (JAMNICA PLUS D.O
+ .O.)
+DESCRIPTION:6. 8. 2049. ističe 1 ugovor o koncesiji. Novi postupak dodjele
+  treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
+ \n\n• JAMNICA PLUS D.O.O. – Koncesija za zahvaćanje voda za tehnološ
+ ke potrebe (PISAROVINA)\, 11.281 €/god.\n\nProfil općine: https://konce
+ sijski-sat.vercel.app/#opcina/41942358B50404874796697
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B50404874796697
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (JAMNICA PLUS
+  D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-d49437176751426b@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20550626
+DTEND;VALUE=DATE:20550627
+SUMMARY:Ističe koncesija: ASPECT CROATIA KFT. - PODRUŽNICA ZAGREB
+DESCRIPTION:1 ugovor o koncesiji ističe 26. 6. 2055. Godišnja fiksna nakn
+ ada: 6.798 €.\n\n• ASPECT CROATIA KFT. - PODRUŽNICA ZAGREB – Dozvol
+ a za istraživanje ugljikovodika (prema Zakonu o ugljikovodicima) (PISAROV
+ INA)\, 6.798 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.ap
+ p/#opcina/41942358B50404874796697\nIzvor: Registar koncesija (FINA)\, obra
+ da Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B50404874796697
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: ASPECT CROATIA KFT. - PODRUŽNICA ZAGREB
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-d49437176751426b@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20541226
+DTEND;VALUE=DATE:20541227
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ASPECT CROATIA K
+ FT. - PODRUŽNICA ZAGREB)
+DESCRIPTION:26. 6. 2055. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• ASPECT CROATIA KFT. - PODRUŽNICA ZAGREB – Dozvola za istraživ
+ anje ugljikovodika (prema Zakonu o ugljikovodicima) (PISAROVINA)\, 6.798 
+ €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
+ 42358B50404874796697
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B50404874796697
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ASPECT CROAT
+ IA KFT. - PODRUŽNICA ZAGREB)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

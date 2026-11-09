@@ -1,0 +1,309 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · Grad Komiža
+X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Grad Komiža. Iz Registr
+ a koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podatak
+ a. https://koncesijski-sat.vercel.app/#opcina/41942358B14610637892959
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-2e3d2e12d2abcc8f@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20270531
+DTEND;VALUE=DATE:20270601
+SUMMARY:Ističe koncesija: NAUTIČKI CENTAR KOMIŽA\, D.O.O. PODRAČUN
+DESCRIPTION:1 ugovor o koncesiji ističe 31. 5. 2027. Godišnja fiksna nakn
+ ada: 1.000 €.\n\n• NAUTIČKI CENTAR KOMIŽA\, D.O.O. PODRAČUN – Kon
+ cesija za luku (KOMIŽA)\, 1.000 €/god.\n\nProfil općine: https://konce
+ sijski-sat.vercel.app/#opcina/41942358B14610637892959\nIzvor: Registar kon
+ cesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B14610637892959
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: NAUTIČKI CENTAR KOMIŽA\, D.O.O. PODRAČUN
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-2e3d2e12d2abcc8f@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (NAUTIČKI CENTAR
+  KOMIŽA\, D.O.O. PODRAČUN)
+DESCRIPTION:31. 5. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• NAUTIČKI CENTAR KOMIŽA\, D.O.O. PODRAČUN – Koncesija za luku
+  (KOMIŽA)\, 1.000 €/god.\n\nProfil općine: https://koncesijski-sat.ver
+ cel.app/#opcina/41942358B14610637892959
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B14610637892959
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (NAUTIČKI CE
+ NTAR KOMIŽA\, D.O.O. PODRAČUN)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-555867ffc5278ffd@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20300904
+DTEND;VALUE=DATE:20300905
+SUMMARY:Ističe koncesija: JADRANSKA RADIJSKA MREŽA D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 4. 9. 2030. Godišnja fiksna nakna
+ da: 66 €.\n\n• JADRANSKA RADIJSKA MREŽA D.O.O. – Koncesija za obavl
+ janje djelatnosti radija (KOMIŽA\, VIS)\, 66 €/god.\n\nProfil općine: 
+ https://koncesijski-sat.vercel.app/#opcina/41942358B14610637892959\nIzvor:
+  Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B14610637892959
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: JADRANSKA RADIJSKA MREŽA D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-555867ffc5278ffd@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20300304
+DTEND;VALUE=DATE:20300305
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (JADRANSKA RADIJS
+ KA MREŽA D.O.O.)
+DESCRIPTION:4. 9. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodjele
+  treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
+ \n\n• JADRANSKA RADIJSKA MREŽA D.O.O. – Koncesija za obavljanje djela
+ tnosti radija (KOMIŽA\, VIS)\, 66 €/god.\n\nProfil općine: https://kon
+ cesijski-sat.vercel.app/#opcina/41942358B14610637892959
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B14610637892959
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (JADRANSKA RA
+ DIJSKA MREŽA D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-99cad7719274d459@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20341114
+DTEND;VALUE=DATE:20341115
+SUMMARY:Ističe koncesija: NAUTIČKI CENTAR KOMIŽA\, D.O.O. ZA USLUGE U NA
+ UTIČKOM TURIZMU\, OSTALE LUČKE USLUGE\, KOMUNALNE DJELATNOSTI I GRADITE
+DESCRIPTION:1 ugovor o koncesiji ističe 14. 11. 2034. Godišnja fiksna nak
+ nada: 2.035 €.\n\n• NAUTIČKI CENTAR KOMIŽA\, D.O.O. ZA USLUGE U NAUT
+ IČKOM TURIZMU\, OSTALE LUČKE USLUGE\, KOMUNALNE DJELATNOSTI I GRADITE 
+ – Koncesija na pomorskom dobru (KOMIŽA)\, 2.035 €/god.\n\nProfil opć
+ ine: https://koncesijski-sat.vercel.app/#opcina/41942358B14610637892959\nI
+ zvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B14610637892959
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: NAUTIČKI CENTAR KOMIŽA\, D.O.O. ZA USLUGE 
+ U NAUTIČKOM TURIZMU\, OSTALE LUČKE USLUGE\, KOMUNALNE DJELATNOSTI I GRAD
+ ITE
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-99cad7719274d459@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20340514
+DTEND;VALUE=DATE:20340515
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (NAUTIČKI CENTAR
+  KOMIŽA\, D.O.O. ZA USLUGE U NAUTIČKOM TURIZMU\, OSTALE LUČKE USLUGE\, 
+ KOMUNALNE DJELATNOSTI I GRADITE)
+DESCRIPTION:14. 11. 2034. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• NAUTIČKI CENTAR KOMIŽA\, D.O.O. ZA USLUGE U NAUTIČKOM TURIZMU
+ \, OSTALE LUČKE USLUGE\, KOMUNALNE DJELATNOSTI I GRADITE – Koncesija na
+  pomorskom dobru (KOMIŽA)\, 2.035 €/god.\n\nProfil općine: https://kon
+ cesijski-sat.vercel.app/#opcina/41942358B14610637892959
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B14610637892959
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (NAUTIČKI CE
+ NTAR KOMIŽA\, D.O.O. ZA USLUGE U NAUTIČKOM TURIZMU\, OSTALE LUČKE USLUG
+ E\, KOMUNALNE DJELATNOSTI I GRADITE)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-106608d01613d9b7@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20350417
+DTEND;VALUE=DATE:20350418
+SUMMARY:Ističe 2 koncesije · Komiža
+DESCRIPTION:2 ugovora o koncesiji ističe 17. 4. 2035. Godišnja fiksna nak
+ nada: 78.400 €.\n\n• NAUTIČKI CENTAR KOMIŽA\, D.O.O. ZA USLUGE U NAU
+ TIČKOM TURIZMU\, OSTALE LUČKE USLUGE\, KOMUNALNE DJELATNOSTI I GRADITE 
+ – Koncesija na pomorskom dobru (KOMIŽA)\, 39.200 €/god.\n• NAUTIČK
+ I CENTAR KOMIŽA\, D.O.O. ZA USLUGE U NAUTIČKOM TURIZMU\, OSTALE LUČKE U
+ SLUGE\, KOMUNALNE DJELATNOSTI I GRADITE – Koncesija na pomorskom dobru (
+ KOMIŽA)\, 39.200 €/god.\n\nProfil općine: https://koncesijski-sat.verc
+ el.app/#opcina/41942358B14610637892959\nIzvor: Registar koncesija (FINA)\,
+  obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B14610637892959
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 2 koncesije · Komiža
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-106608d01613d9b7@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20341017
+DTEND;VALUE=DATE:20341018
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:17. 4. 2035. ističe 2 ugovora o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• NAUTIČKI CENTAR KOMIŽA\, D.O.O. ZA USLUGE U NAUTIČKOM TURIZMU
+ \, OSTALE LUČKE USLUGE\, KOMUNALNE DJELATNOSTI I GRADITE – Koncesija na
+  pomorskom dobru (KOMIŽA)\, 39.200 €/god.\n• NAUTIČKI CENTAR KOMIŽA
+ \, D.O.O. ZA USLUGE U NAUTIČKOM TURIZMU\, OSTALE LUČKE USLUGE\, KOMUNALN
+ E DJELATNOSTI I GRADITE – Koncesija na pomorskom dobru (KOMIŽA)\, 39.20
+ 0 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4
+ 1942358B14610637892959
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B14610637892959
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-982cf795e5305f78@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20401112
+DTEND;VALUE=DATE:20401113
+SUMMARY:Ističe koncesija: NAUTIČKI CENTAR KOMIŽA\, D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 12. 11. 2040. Godišnja fiksna nak
+ nada: 1.000 €.\n\n• NAUTIČKI CENTAR KOMIŽA\, D.O.O. – Koncesija na
+  pomorskom dobru (KOMIŽA)\, 1.000 €/god.\n\nProfil općine: https://kon
+ cesijski-sat.vercel.app/#opcina/41942358B14610637892959\nIzvor: Registar k
+ oncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B14610637892959
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: NAUTIČKI CENTAR KOMIŽA\, D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-982cf795e5305f78@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20400512
+DTEND;VALUE=DATE:20400513
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (NAUTIČKI CENTAR
+  KOMIŽA\, D.O.O.)
+DESCRIPTION:12. 11. 2040. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• NAUTIČKI CENTAR KOMIŽA\, D.O.O. – Koncesija na pomorskom dob
+ ru (KOMIŽA)\, 1.000 €/god.\n\nProfil općine: https://koncesijski-sat.v
+ ercel.app/#opcina/41942358B14610637892959
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B14610637892959
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (NAUTIČKI CE
+ NTAR KOMIŽA\, D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-6d4a073a7cdddcc4@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20440312
+DTEND;VALUE=DATE:20440313
+SUMMARY:Ističe koncesija: HEP-OPERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O.\, DP
+  ELEKTRA ZAGREB
+DESCRIPTION:1 ugovor o koncesiji ističe 12. 3. 2044. Godišnja fiksna nakn
+ ada: 4.080 €.\n\n• HEP-OPERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O.\, DP EL
+ EKTRA ZAGREB – Koncesija na pomorskom dobru (KOMIŽA)\, 4.080 €/god.\n
+ \nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B1461
+ 0637892959\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 1
+ 1. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B14610637892959
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: HEP-OPERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O.\
+ , DP ELEKTRA ZAGREB
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-6d4a073a7cdddcc4@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20430912
+DTEND;VALUE=DATE:20430913
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP-OPERATOR DIS
+ TRIBUCIJSKOG SUSTAVA D.O.O.\, DP ELEKTRA ZAGREB)
+DESCRIPTION:12. 3. 2044. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• HEP-OPERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O.\, DP ELEKTRA ZAGREB 
+ – Koncesija na pomorskom dobru (KOMIŽA)\, 4.080 €/god.\n\nProfil opć
+ ine: https://koncesijski-sat.vercel.app/#opcina/41942358B14610637892959
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B14610637892959
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP-OPERATOR
+  DISTRIBUCIJSKOG SUSTAVA D.O.O.\, DP ELEKTRA ZAGREB)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-a25c329148384f9b@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20601015
+DTEND;VALUE=DATE:20601016
+SUMMARY:Ističe koncesija: DRŽAVNI HIDROMETEOROLOŠKI ZAVOD
+DESCRIPTION:1 ugovor o koncesiji ističe 15. 10. 2060. Godišnja fiksna nak
+ nada: 26 €.\n\n• DRŽAVNI HIDROMETEOROLOŠKI ZAVOD – Koncesija na po
+ morskom dobru (KOMIŽA)\, 26 €/god.\n\nProfil općine: https://koncesijs
+ ki-sat.vercel.app/#opcina/41942358B14610637892959\nIzvor: Registar koncesi
+ ja (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B14610637892959
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: DRŽAVNI HIDROMETEOROLOŠKI ZAVOD
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-a25c329148384f9b@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20600415
+DTEND;VALUE=DATE:20600416
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DRŽAVNI HIDROME
+ TEOROLOŠKI ZAVOD)
+DESCRIPTION:15. 10. 2060. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• DRŽAVNI HIDROMETEOROLOŠKI ZAVOD – Koncesija na pomorskom dob
+ ru (KOMIŽA)\, 26 €/god.\n\nProfil općine: https://koncesijski-sat.verc
+ el.app/#opcina/41942358B14610637892959
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B14610637892959
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DRŽAVNI HID
+ ROMETEOROLOŠKI ZAVOD)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

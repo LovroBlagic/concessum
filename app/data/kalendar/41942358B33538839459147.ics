@@ -1,0 +1,59 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · Općina Cetingrad
+X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Cetingrad. Iz Re
+ gistra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade po
+ dataka. https://koncesijski-sat.vercel.app/#opcina/41942358B33538839459147
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-3b060603133999fe@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20371231
+DTEND;VALUE=DATE:20380101
+SUMMARY:Ističe 3 koncesije · Cetingrad
+DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2037. Godišnja fiksna na
+ knada: 2.382 €.\n\n• HRVATSKE ŠUME D.O.O. – Koncesija za površinu 
+ utvrđenog eksploatacijskog polja neenergetskih mineralnih sirovina (CETIN
+ GRAD)\, 794 €/god.\n• HRVATSKE ŠUME D.O.O. – Koncesija za eksploata
+ ciju tehničko-građevnog kamena (CETINGRAD)\, 794 €/god.\n• HRVATSKE 
+ ŠUME D.O.O. – Koncesija za eksploataciju tehničko-građevnog kamena (C
+ ETINGRAD)\, 794 €/god.\n\nProfil općine: https://koncesijski-sat.vercel
+ .app/#opcina/41942358B33538839459147\nIzvor: Registar koncesija (FINA)\, o
+ brada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B33538839459147
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 3 koncesije · Cetingrad
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-3b060603133999fe@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20370630
+DTEND;VALUE=DATE:20370701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:31. 12. 2037. ističe 3 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• HRVATSKE ŠUME D.O.O. – Koncesija za površinu utvrđenog eks
+ ploatacijskog polja neenergetskih mineralnih sirovina (CETINGRAD)\, 794 
+ €/god.\n• HRVATSKE ŠUME D.O.O. – Koncesija za eksploataciju tehnič
+ ko-građevnog kamena (CETINGRAD)\, 794 €/god.\n• HRVATSKE ŠUME D.O.O.
+  – Koncesija za eksploataciju tehničko-građevnog kamena (CETINGRAD)\, 
+ 794 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina
+ /41942358B33538839459147
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B33538839459147
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

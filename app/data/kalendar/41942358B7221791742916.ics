@@ -1,0 +1,59 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · Općina Ribnik
+X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Ribnik. Iz Regis
+ tra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podat
+ aka. https://koncesijski-sat.vercel.app/#opcina/41942358B7221791742916
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-964b443c750140fe@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20501231
+DTEND;VALUE=DATE:20510101
+SUMMARY:Ističe 3 koncesije · Ribnik
+DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2050. Godišnja fiksna na
+ knada: 3 €.\n\n• KAMENOLOM ŽAKANJE D.O.O. – Koncesija za eksploatac
+ iju tehničko-građevnog kamena (RIBNIK)\, 1 €/god.\n• KAMENOLOM ŽAKA
+ NJE D.O.O. – Koncesija za eksploataciju tehničko-građevnog kamena (RIB
+ NIK)\, 1 €/god.\n• KAMENOLOM ŽAKANJE D.O.O. – Koncesija za površin
+ u utvrđenog eksploatacijskog polja neenergetskih mineralnih sirovina (RIB
+ NIK)\, 1 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#o
+ pcina/41942358B7221791742916\nIzvor: Registar koncesija (FINA)\, obrada Ko
+ ncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B7221791742916
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 3 koncesije · Ribnik
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-964b443c750140fe@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20500630
+DTEND;VALUE=DATE:20500701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:31. 12. 2050. ističe 3 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• KAMENOLOM ŽAKANJE D.O.O. – Koncesija za eksploataciju tehni
+ čko-građevnog kamena (RIBNIK)\, 1 €/god.\n• KAMENOLOM ŽAKANJE D.O.O
+ . – Koncesija za eksploataciju tehničko-građevnog kamena (RIBNIK)\, 1 
+ €/god.\n• KAMENOLOM ŽAKANJE D.O.O. – Koncesija za površinu utvrđe
+ nog eksploatacijskog polja neenergetskih mineralnih sirovina (RIBNIK)\, 1 
+ €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
+ 42358B7221791742916
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B7221791742916
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

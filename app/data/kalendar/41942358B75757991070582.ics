@@ -1,0 +1,221 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · Općina Bistra
+X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Bistra. Iz Regis
+ tra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podat
+ aka. https://koncesijski-sat.vercel.app/#opcina/41942358B75757991070582
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-3b970cb3f953b402@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20280108
+DTEND;VALUE=DATE:20280109
+SUMMARY:Ističe koncesija: HELLEA D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 8. 1. 2028. Godišnja fiksna nakna
+ da: 191 €.\n\n• HELLEA D.O.O. – Koncesija za zahvaćanje voda za mel
+ ioracijsko navodnjavanje (BISTRA)\, 191 €/god.\n\nProfil općine: https:
+ //koncesijski-sat.vercel.app/#opcina/41942358B75757991070582\nIzvor: Regis
+ tar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B75757991070582
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: HELLEA D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-3b970cb3f953b402@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20270708
+DTEND;VALUE=DATE:20270709
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HELLEA D.O.O.)
+DESCRIPTION:8. 1. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodjele
+  treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
+ \n\n• HELLEA D.O.O. – Koncesija za zahvaćanje voda za melioracijsko n
+ avodnjavanje (BISTRA)\, 191 €/god.\n\nProfil općine: https://koncesijsk
+ i-sat.vercel.app/#opcina/41942358B75757991070582
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B75757991070582
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HELLEA D.O.O
+ .)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-e68da5b12e2cb4df@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20290108
+DTEND;VALUE=DATE:20290109
+SUMMARY:Ističe koncesija: ZAGORSKI METALAC D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 8. 1. 2029. Godišnja fiksna nakna
+ da: 1.327 €.\n\n• ZAGORSKI METALAC D.O.O. – Koncesija za obavljanje 
+ distribucije plina na postojećem distribucijskom sustavu (BISTRA\, JAKOVL
+ JE\, JAKOVLJE\, LUKA\, LUKA)\, 1.327 €/god.\n\nProfil općine: https://k
+ oncesijski-sat.vercel.app/#opcina/41942358B75757991070582\nIzvor: Registar
+  koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B75757991070582
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: ZAGORSKI METALAC D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-e68da5b12e2cb4df@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20280708
+DTEND;VALUE=DATE:20280709
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ZAGORSKI METALAC
+  D.O.O.)
+DESCRIPTION:8. 1. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjele
+  treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
+ \n\n• ZAGORSKI METALAC D.O.O. – Koncesija za obavljanje distribucije p
+ lina na postojećem distribucijskom sustavu (BISTRA\, JAKOVLJE\, JAKOVLJE\
+ , LUKA\, LUKA)\, 1.327 €/god.\n\nProfil općine: https://koncesijski-sat
+ .vercel.app/#opcina/41942358B75757991070582
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B75757991070582
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ZAGORSKI MET
+ ALAC D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-8e90b2b305abbd56@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20321126
+DTEND;VALUE=DATE:20321127
+SUMMARY:Ističe koncesija: HEIDELBERG MATERIALS BETON HRVATSKA D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 26. 11. 2032.\n\n• HEIDELBERG MA
+ TERIALS BETON HRVATSKA D.O.O. – Koncesija za zahvaćanje voda radi kori
+ štenja u proizvodnom postupku (BISTRA)\n\nProfil općine: https://koncesi
+ jski-sat.vercel.app/#opcina/41942358B75757991070582\nIzvor: Registar konce
+ sija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B75757991070582
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: HEIDELBERG MATERIALS BETON HRVATSKA D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-8e90b2b305abbd56@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20320526
+DTEND;VALUE=DATE:20320527
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEIDELBERG MATER
+ IALS BETON HRVATSKA D.O.O.)
+DESCRIPTION:26. 11. 2032. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• HEIDELBERG MATERIALS BETON HRVATSKA D.O.O. – Koncesija za zahv
+ aćanje voda radi korištenja u proizvodnom postupku (BISTRA)\n\nProfil op
+ ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B75757991070582
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B75757991070582
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEIDELBERG M
+ ATERIALS BETON HRVATSKA D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-00a8473a1e8c9476@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20331231
+DTEND;VALUE=DATE:20340101
+SUMMARY:Ističe koncesija: HRVOJE POZAIĆ - DIMNJAČARSTVO POZAIĆ\, VL. HR
+ VOJE POZAIĆ
+DESCRIPTION:1 ugovor o koncesiji ističe 31. 12. 2033. Godišnja fiksna nak
+ nada: 2.100 €.\n\n• HRVOJE POZAIĆ - DIMNJAČARSTVO POZAIĆ\, VL. HRVO
+ JE POZAIĆ – Koncesija za obavljanje dimnjačarskih poslova (BISTRA)\, 2
+ .100 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcin
+ a/41942358B75757991070582\nIzvor: Registar koncesija (FINA)\, obrada Konce
+ sijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B75757991070582
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: HRVOJE POZAIĆ - DIMNJAČARSTVO POZAIĆ\, VL
+ . HRVOJE POZAIĆ
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-00a8473a1e8c9476@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20330630
+DTEND;VALUE=DATE:20330701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVOJE POZAIĆ -
+  DIMNJAČARSTVO POZAIĆ\, VL. HRVOJE POZAIĆ)
+DESCRIPTION:31. 12. 2033. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• HRVOJE POZAIĆ - DIMNJAČARSTVO POZAIĆ\, VL. HRVOJE POZAIĆ –
+  Koncesija za obavljanje dimnjačarskih poslova (BISTRA)\, 2.100 €/god.\
+ n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B757
+ 57991070582
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B75757991070582
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVOJE POZAI
+ Ć - DIMNJAČARSTVO POZAIĆ\, VL. HRVOJE POZAIĆ)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-1955f9d569df795e@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20450519
+DTEND;VALUE=DATE:20450520
+SUMMARY:Ističe koncesija: SJEVER SJEVEROZAPAD D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 19. 5. 2045. Godišnja fiksna nakn
+ ada: 199 €.\n\n• SJEVER SJEVEROZAPAD D.O.O. – Koncesija za obavljanj
+ e djelatnosti televizije (BISTRA\, BRDOVEC\, JAKOVLJE\, LUKA\, MARIJA GORI
+ CA\, PUŠČA\, SAMOBOR\, SVETA NEDELJA\, ZAPREŠIĆ)\, 199 €/god.\n\nPro
+ fil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B757579910
+ 70582\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 20
+ 26.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B75757991070582
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: SJEVER SJEVEROZAPAD D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-1955f9d569df795e@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20441119
+DTEND;VALUE=DATE:20441120
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (SJEVER SJEVEROZA
+ PAD D.O.O.)
+DESCRIPTION:19. 5. 2045. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• SJEVER SJEVEROZAPAD D.O.O. – Koncesija za obavljanje djelatnost
+ i televizije (BISTRA\, BRDOVEC\, JAKOVLJE\, LUKA\, MARIJA GORICA\, PUŠČA
+ \, SAMOBOR\, SVETA NEDELJA\, ZAPREŠIĆ)\, 199 €/god.\n\nProfil općine:
+  https://koncesijski-sat.vercel.app/#opcina/41942358B75757991070582
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B75757991070582
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (SJEVER SJEVE
+ ROZAPAD D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

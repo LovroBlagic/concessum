@@ -1,0 +1,121 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · Općina Veliko Trojstvo
+X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Veliko Trojstvo.
+  Iz Registra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obr
+ ade podataka. https://koncesijski-sat.vercel.app/#opcina/41942358B13904930
+ 038305
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-7dd2a93d14bf9c63@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:Ističe koncesija: INA-INDUSTRIJA NAFTE D.D.
+DESCRIPTION:1 ugovor o koncesiji ističe 31. 12. 2026.\n\n• INA-INDUSTRIJ
+ A NAFTE D.D. – Dozvola za eksploataciju ugljikovodika (prema Zakonu o ug
+ ljikovodicima) (VELIKO TROJSTVO)\n\nProfil općine: https://koncesijski-sa
+ t.vercel.app/#opcina/41942358B13904930038305\nIzvor: Registar koncesija (F
+ INA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B13904930038305
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: INA-INDUSTRIJA NAFTE D.D.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-172667f56d79855a@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20270630
+DTEND;VALUE=DATE:20270701
+SUMMARY:Ističe 2 koncesije · Veliko Trojstvo
+DESCRIPTION:2 ugovora o koncesiji ističe 30. 6. 2027.\n\n• INA D.D. – 
+ Dozvola za eksploataciju ugljikovodika (prema Zakonu o ugljikovodicima) (V
+ ELIKO TROJSTVO)\n• INA-INDUSTRIJA NAFTE D.D. – Dozvola za eksploatacij
+ u ugljikovodika (prema Zakonu o ugljikovodicima) (VELIKO TROJSTVO)\n\nProf
+ il općine: https://koncesijski-sat.vercel.app/#opcina/41942358B1390493003
+ 8305\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 202
+ 6.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B13904930038305
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 2 koncesije · Veliko Trojstvo
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-172667f56d79855a@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261231
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:30. 6. 2027. ističe 2 ugovora o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• INA D.D. – Dozvola za eksploataciju ugljikovodika (prema Zakon
+ u o ugljikovodicima) (VELIKO TROJSTVO)\n• INA-INDUSTRIJA NAFTE D.D. – 
+ Dozvola za eksploataciju ugljikovodika (prema Zakonu o ugljikovodicima) (V
+ ELIKO TROJSTVO)\n\nProfil općine: https://koncesijski-sat.vercel.app/#opc
+ ina/41942358B13904930038305
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B13904930038305
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-8961bf0f568010a5@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20471231
+DTEND;VALUE=DATE:20480101
+SUMMARY:Ističe 3 koncesije · Veliko Trojstvo
+DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2047. Godišnja fiksna na
+ knada: 9.192 €.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauze
+ tu površinu odobrenog eksploatacijskog polja (VELIKO TROJSTVO)\, 9.192 
+ €/god.\n• INA-INDUSTRIJA NAFTE  D.D. – Dozvola za eksploataciju uglj
+ ikovodika (prema Zakonu o ugljikovodicima) (VELIKO TROJSTVO)\n• INA D.D.
+  – Dozvola za eksploataciju ugljikovodika (prema Zakonu o ugljikovodicim
+ a) (VELIKO TROJSTVO)\n\nProfil općine: https://koncesijski-sat.vercel.app
+ /#opcina/41942358B13904930038305\nIzvor: Registar koncesija (FINA)\, obrad
+ a Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B13904930038305
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 3 koncesije · Veliko Trojstvo
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-8961bf0f568010a5@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20470630
+DTEND;VALUE=DATE:20470701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:31. 12. 2047. ističe 3 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauzetu površinu o
+ dobrenog eksploatacijskog polja (VELIKO TROJSTVO)\, 9.192 €/god.\n• IN
+ A-INDUSTRIJA NAFTE  D.D. – Dozvola za eksploataciju ugljikovodika (prema
+  Zakonu o ugljikovodicima) (VELIKO TROJSTVO)\n• INA D.D. – Dozvola za 
+ eksploataciju ugljikovodika (prema Zakonu o ugljikovodicima) (VELIKO TROJS
+ TVO)\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4194235
+ 8B13904930038305
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B13904930038305
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

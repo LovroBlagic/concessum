@@ -1,0 +1,103 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · Grad Metković
+X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Grad Metković. Iz Regis
+ tra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podat
+ aka. https://koncesijski-sat.vercel.app/#opcina/41942358B7490239387637
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-59d4333847aea289@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20331231
+DTEND;VALUE=DATE:20340101
+SUMMARY:Ističe 3 koncesije · Metković
+DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2033. Godišnja fiksna na
+ knada: 4.332 €.\n\n• HEIDELBERG MATERIALS DALMACIJA D.O.O. – Koncesi
+ ja za površinu utvrđenog eksploatacijskog polja neenergetskih mineralnih
+  sirovina (METKOVIĆ)\, 2.166 €/god.\n• HEIDELBERG MATERIALS DALMACIJA
+  D.O.O. – Koncesija za eksploataciju tehničko-građevnog kamena (METKOV
+ IĆ)\, 2.166 €/god.\n• HEIDELBERG MATERIALS DALMACIJA D.O.O. – Konce
+ sija za eksploataciju tehničko-građevnog kamena (METKOVIĆ)\n\nProfil op
+ ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B7490239387637\n
+ Izvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B7490239387637
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 3 koncesije · Metković
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-59d4333847aea289@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20330630
+DTEND;VALUE=DATE:20330701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:31. 12. 2033. ističe 3 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• HEIDELBERG MATERIALS DALMACIJA D.O.O. – Koncesija za površin
+ u utvrđenog eksploatacijskog polja neenergetskih mineralnih sirovina (MET
+ KOVIĆ)\, 2.166 €/god.\n• HEIDELBERG MATERIALS DALMACIJA D.O.O. – Ko
+ ncesija za eksploataciju tehničko-građevnog kamena (METKOVIĆ)\, 2.166 
+ €/god.\n• HEIDELBERG MATERIALS DALMACIJA D.O.O. – Koncesija za ekspl
+ oataciju tehničko-građevnog kamena (METKOVIĆ)\n\nProfil općine: https:
+ //koncesijski-sat.vercel.app/#opcina/41942358B7490239387637
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B7490239387637
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-e41179476538cdd9@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20370813
+DTEND;VALUE=DATE:20370814
+SUMMARY:Ističe koncesija: NEW CONCRETE TECHNOLOGIES DRUŠTVO S OGRANIČENO
+ M ODGOVORNOŠĆU ZA USLUGE
+DESCRIPTION:1 ugovor o koncesiji ističe 13. 8. 2037. Godišnja fiksna nakn
+ ada: 494 €.\n\n• NEW CONCRETE TECHNOLOGIES DRUŠTVO S OGRANIČENOM ODG
+ OVORNOŠĆU ZA USLUGE – Koncesija na pomorskom dobru (METKOVIĆ)\, 494 
+ €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
+ 42358B7490239387637\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski
+  sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B7490239387637
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: NEW CONCRETE TECHNOLOGIES DRUŠTVO S OGRANI
+ ČENOM ODGOVORNOŠĆU ZA USLUGE
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-e41179476538cdd9@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20370213
+DTEND;VALUE=DATE:20370214
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (NEW CONCRETE TEC
+ HNOLOGIES DRUŠTVO S OGRANIČENOM ODGOVORNOŠĆU ZA USLUGE)
+DESCRIPTION:13. 8. 2037. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• NEW CONCRETE TECHNOLOGIES DRUŠTVO S OGRANIČENOM ODGOVORNOŠĆU 
+ ZA USLUGE – Koncesija na pomorskom dobru (METKOVIĆ)\, 494 €/god.\n\nP
+ rofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B7490239
+ 387637
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B7490239387637
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (NEW CONCRETE
+  TECHNOLOGIES DRUŠTVO S OGRANIČENOM ODGOVORNOŠĆU ZA USLUGE)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

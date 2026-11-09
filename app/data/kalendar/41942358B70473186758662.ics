@@ -1,0 +1,173 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · Općina Sućuraj
+X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Sućuraj. Iz Reg
+ istra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade pod
+ ataka. https://koncesijski-sat.vercel.app/#opcina/41942358B70473186758662
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-aea861007b28fb00@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20360731
+DTEND;VALUE=DATE:20360801
+SUMMARY:Ističe koncesija: HAMA D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 31. 7. 2036. Godišnja fiksna nakn
+ ada: 2.300 €.\n\n• HAMA D.O.O. – Koncesija na pomorskom dobru (SUĆU
+ RAJ)\, 2.300 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.ap
+ p/#opcina/41942358B70473186758662\nIzvor: Registar koncesija (FINA)\, obra
+ da Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B70473186758662
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: HAMA D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-aea861007b28fb00@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20360131
+DTEND;VALUE=DATE:20360201
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HAMA D.O.O.)
+DESCRIPTION:31. 7. 2036. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• HAMA D.O.O. – Koncesija na pomorskom dobru (SUĆURAJ)\, 2.300 
+ €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
+ 42358B70473186758662
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B70473186758662
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HAMA D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-48c121696f2c28e3@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20400618
+DTEND;VALUE=DATE:20400619
+SUMMARY:Ističe 2 koncesije · Sućuraj
+DESCRIPTION:2 ugovora o koncesiji ističe 18. 6. 2040. Godišnja fiksna nak
+ nada: 4.734 €.\n\n• HAMA D.O.O. – Koncesija na pomorskom dobru u svr
+ hu uzgoja morske ribe i školjkaša (SUĆURAJ)\, 2.367 €/god.\n• HAMA 
+ D.O.O. – Koncesija na pomorskom dobru u svrhu uzgoja morske ribe i škol
+ jkaša (SUĆURAJ)\, 2.367 €/god.\n\nProfil općine: https://koncesijski-
+ sat.vercel.app/#opcina/41942358B70473186758662\nIzvor: Registar koncesija 
+ (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B70473186758662
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 2 koncesije · Sućuraj
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-48c121696f2c28e3@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20391218
+DTEND;VALUE=DATE:20391219
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:18. 6. 2040. ističe 2 ugovora o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• HAMA D.O.O. – Koncesija na pomorskom dobru u svrhu uzgoja mors
+ ke ribe i školjkaša (SUĆURAJ)\, 2.367 €/god.\n• HAMA D.O.O. – Kon
+ cesija na pomorskom dobru u svrhu uzgoja morske ribe i školjkaša (SUĆUR
+ AJ)\, 2.367 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app
+ /#opcina/41942358B70473186758662
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B70473186758662
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-4aa883571a3bdcec@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20451123
+DTEND;VALUE=DATE:20451124
+SUMMARY:Ističe koncesija: VODOVOD I ODVODNJA BRAČA I HVARA D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 23. 11. 2045. Godišnja fiksna nak
+ nada: 133 €.\n\n• VODOVOD I ODVODNJA BRAČA I HVARA D.O.O. – Koncesi
+ ja na pomorskom dobru (SUĆURAJ)\, 133 €/god.\n\nProfil općine: https:/
+ /koncesijski-sat.vercel.app/#opcina/41942358B70473186758662\nIzvor: Regist
+ ar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B70473186758662
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: VODOVOD I ODVODNJA BRAČA I HVARA D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-4aa883571a3bdcec@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20450523
+DTEND;VALUE=DATE:20450524
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VODOVOD I ODVODN
+ JA BRAČA I HVARA D.O.O.)
+DESCRIPTION:23. 11. 2045. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• VODOVOD I ODVODNJA BRAČA I HVARA D.O.O. – Koncesija na pomors
+ kom dobru (SUĆURAJ)\, 133 €/god.\n\nProfil općine: https://koncesijski
+ -sat.vercel.app/#opcina/41942358B70473186758662
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B70473186758662
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VODOVOD I OD
+ VODNJA BRAČA I HVARA D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-755d1773703adfb5@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20760717
+DTEND;VALUE=DATE:20760718
+SUMMARY:Ističe koncesija: HRVATSKI TELEKOM D.D.
+DESCRIPTION:1 ugovor o koncesiji ističe 17. 7. 2076. Godišnja fiksna nakn
+ ada: 1.647 €.\n\n• HRVATSKI TELEKOM D.D. – Posebna upotreba pomorsko
+ g dobra (SUĆURAJ)\, 1.647 €/god.\n\nProfil općine: https://koncesijski
+ -sat.vercel.app/#opcina/41942358B70473186758662\nIzvor: Registar koncesija
+  (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B70473186758662
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: HRVATSKI TELEKOM D.D.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-755d1773703adfb5@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20760117
+DTEND;VALUE=DATE:20760118
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKI TELEKOM
+  D.D.)
+DESCRIPTION:17. 7. 2076. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• HRVATSKI TELEKOM D.D. – Posebna upotreba pomorskog dobra (SUĆU
+ RAJ)\, 1.647 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.ap
+ p/#opcina/41942358B70473186758662
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B70473186758662
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKI TEL
+ EKOM D.D.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

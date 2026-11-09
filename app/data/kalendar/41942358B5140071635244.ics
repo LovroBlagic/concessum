@@ -1,0 +1,72 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · Općina Lovinac
+X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Lovinac. Iz Regi
+ stra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade poda
+ taka. https://koncesijski-sat.vercel.app/#opcina/41942358B5140071635244
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-a530b116633bd8a0@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:Ističe koncesija: DIVEKS J.D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 10. 12. 2026. Godišnja fiksna nak
+ nada: 74 €.\n\n• DIVEKS J.D.O.O. – Koncesija za obavljanje dimnjača
+ rskih poslova (LOVINAC)\, 74 €/god.\n\nProfil općine: https://koncesijs
+ ki-sat.vercel.app/#opcina/41942358B5140071635244\nIzvor: Registar koncesij
+ a (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B5140071635244
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: DIVEKS J.D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-ac481c425c2cb6f7@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20460515
+DTEND;VALUE=DATE:20460516
+SUMMARY:Ističe koncesija: SVETI ROK D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 15. 5. 2046. Godišnja fiksna nakn
+ ada: 60.500 €.\n\n• SVETI ROK D.O.O. – Koncesija za zahvaćanje voda
+  radi prodaje na tržištu (LOVINAC)\, 60.500 €/god.\n\nProfil općine: 
+ https://koncesijski-sat.vercel.app/#opcina/41942358B5140071635244\nIzvor: 
+ Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B5140071635244
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: SVETI ROK D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-ac481c425c2cb6f7@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20451115
+DTEND;VALUE=DATE:20451116
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (SVETI ROK D.O.O.
+ )
+DESCRIPTION:15. 5. 2046. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• SVETI ROK D.O.O. – Koncesija za zahvaćanje voda radi prodaje n
+ a tržištu (LOVINAC)\, 60.500 €/god.\n\nProfil općine: https://koncesi
+ jski-sat.vercel.app/#opcina/41942358B5140071635244
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B5140071635244
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (SVETI ROK D.
+ O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

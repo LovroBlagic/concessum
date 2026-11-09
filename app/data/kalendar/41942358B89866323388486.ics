@@ -1,0 +1,103 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · Općina Krnjak
+X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Krnjak. Iz Regis
+ tra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podat
+ aka. https://koncesijski-sat.vercel.app/#opcina/41942358B89866323388486
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-0a1c15841175d485@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20351231
+DTEND;VALUE=DATE:20360101
+SUMMARY:Ističe 3 koncesije · Krnjak
+DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2035. Godišnja fiksna na
+ knada: 886 €.\n\n• DOLOMIT – Koncesija za površinu utvrđenog ekspl
+ oatacijskog polja neenergetskih mineralnih sirovina (KRNJAK)\, 886 €/god
+ .\n• DOLOMIT – Koncesija za eksploataciju tehničko-građevnog kamena 
+ (KRNJAK)\n• DOLOMIT – Koncesija za eksploataciju tehničko-građevnog 
+ kamena (KRNJAK)\n\nProfil općine: https://koncesijski-sat.vercel.app/#opc
+ ina/41942358B89866323388486\nIzvor: Registar koncesija (FINA)\, obrada Kon
+ cesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B89866323388486
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 3 koncesije · Krnjak
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-0a1c15841175d485@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20350630
+DTEND;VALUE=DATE:20350701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:31. 12. 2035. ističe 3 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• DOLOMIT – Koncesija za površinu utvrđenog eksploatacijskog 
+ polja neenergetskih mineralnih sirovina (KRNJAK)\, 886 €/god.\n• DOLOM
+ IT – Koncesija za eksploataciju tehničko-građevnog kamena (KRNJAK)\n
+ • DOLOMIT – Koncesija za eksploataciju tehničko-građevnog kamena (KR
+ NJAK)\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419423
+ 58B89866323388486
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B89866323388486
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-8ea428c5f5c38793@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20451231
+DTEND;VALUE=DATE:20460101
+SUMMARY:Ističe 3 koncesije · Krnjak
+DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2045. Godišnja fiksna na
+ knada: 7.251 €.\n\n• TURKOVIĆ D.O.O. – Koncesija za eksploataciju t
+ ehničko-građevnog kamena (KRNJAK)\, 2.417 €/god.\n• TURKOVIĆ D.O.O.
+  – Koncesija za eksploataciju tehničko-građevnog kamena (KRNJAK)\, 2.4
+ 17 €/god.\n• TURKOVIĆ D.O.O. – Koncesija za površinu utvrđenog ek
+ sploatacijskog polja neenergetskih mineralnih sirovina (KRNJAK)\, 2.417 
+ €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
+ 42358B89866323388486\nIzvor: Registar koncesija (FINA)\, obrada Koncesijsk
+ i sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B89866323388486
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 3 koncesije · Krnjak
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-8ea428c5f5c38793@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20450630
+DTEND;VALUE=DATE:20450701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:31. 12. 2045. ističe 3 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• TURKOVIĆ D.O.O. – Koncesija za eksploataciju tehničko-građ
+ evnog kamena (KRNJAK)\, 2.417 €/god.\n• TURKOVIĆ D.O.O. – Koncesija
+  za eksploataciju tehničko-građevnog kamena (KRNJAK)\, 2.417 €/god.\n
+ • TURKOVIĆ D.O.O. – Koncesija za površinu utvrđenog eksploatacijsko
+ g polja neenergetskih mineralnih sirovina (KRNJAK)\, 2.417 €/god.\n\nPro
+ fil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B898663233
+ 88486
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B89866323388486
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

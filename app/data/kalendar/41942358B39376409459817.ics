@@ -1,0 +1,175 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · Općina Stupnik
+X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Stupnik. Iz Regi
+ stra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade poda
+ taka. https://koncesijski-sat.vercel.app/#opcina/41942358B39376409459817
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-ab0d27206e6a9355@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20271204
+DTEND;VALUE=DATE:20271205
+SUMMARY:Ističe koncesija: MULL-TRANS D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 4. 12. 2027. Godišnja fiksna nakn
+ ada: 5.403 €.\n\n• MULL-TRANS D.O.O. – Koncesija za obavljanje komun
+ alnih djelatnosti (STUPNIK)\, 5.403 €/god.\n\nProfil općine: https://ko
+ ncesijski-sat.vercel.app/#opcina/41942358B39376409459817\nIzvor: Registar 
+ koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B39376409459817
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: MULL-TRANS D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-ab0d27206e6a9355@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20270604
+DTEND;VALUE=DATE:20270605
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MULL-TRANS D.O.O
+ .)
+DESCRIPTION:4. 12. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• MULL-TRANS D.O.O. – Koncesija za obavljanje komunalnih djelatno
+ sti (STUPNIK)\, 5.403 €/god.\n\nProfil općine: https://koncesijski-sat.
+ vercel.app/#opcina/41942358B39376409459817
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B39376409459817
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MULL-TRANS D
+ .O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-223cd33484469314@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20290208
+DTEND;VALUE=DATE:20290209
+SUMMARY:Ističe koncesija: DIMNJAČAR OBRT - VL. MUHAMED HUSIĆ
+DESCRIPTION:1 ugovor o koncesiji ističe 8. 2. 2029. Godišnja fiksna nakna
+ da: 1.311 €.\n\n• DIMNJAČAR OBRT - VL. MUHAMED HUSIĆ – Koncesija z
+ a obavljanje dimnjačarskih poslova (STUPNIK)\, 1.311 €/god.\n\nProfil o
+ pćine: https://koncesijski-sat.vercel.app/#opcina/41942358B39376409459817
+ \nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B39376409459817
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: DIMNJAČAR OBRT - VL. MUHAMED HUSIĆ
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-223cd33484469314@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20280808
+DTEND;VALUE=DATE:20280809
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DIMNJAČAR OBRT 
+ - VL. MUHAMED HUSIĆ)
+DESCRIPTION:8. 2. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjele
+  treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
+ \n\n• DIMNJAČAR OBRT - VL. MUHAMED HUSIĆ – Koncesija za obavljanje d
+ imnjačarskih poslova (STUPNIK)\, 1.311 €/god.\n\nProfil općine: https:
+ //koncesijski-sat.vercel.app/#opcina/41942358B39376409459817
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B39376409459817
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DIMNJAČAR O
+ BRT - VL. MUHAMED HUSIĆ)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-320f7fbe7a698df5@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20300720
+DTEND;VALUE=DATE:20300721
+SUMMARY:Ističe koncesija: E.ON DISTRIBUCIJA PLINA D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 20. 7. 2030.\n\n• E.ON DISTRIBUC
+ IJA PLINA D.O.O. – Koncesija za opskrbu potrošača prirodnim plinom (ST
+ UPNIK)\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942
+ 358B39376409459817\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski 
+ sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B39376409459817
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: E.ON DISTRIBUCIJA PLINA D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-320f7fbe7a698df5@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20300120
+DTEND;VALUE=DATE:20300121
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (E.ON DISTRIBUCIJ
+ A PLINA D.O.O.)
+DESCRIPTION:20. 7. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• E.ON DISTRIBUCIJA PLINA D.O.O. – Koncesija za opskrbu potroša
+ ča prirodnim plinom (STUPNIK)\n\nProfil općine: https://koncesijski-sat.
+ vercel.app/#opcina/41942358B39376409459817
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B39376409459817
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (E.ON DISTRIB
+ UCIJA PLINA D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-bf6f53ab2936e924@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20421031
+DTEND;VALUE=DATE:20421101
+SUMMARY:Ističe 2 koncesije · Stupnik
+DESCRIPTION:2 ugovora o koncesiji ističe 31. 10. 2042. Godišnja fiksna na
+ knada: 321 €.\n\n• GPC INSTRUMENTATION PROCESS D.O.O. – Koncesija za
+  zauzetu površinu odobrenog eksploatacijskog polja (STUPNIK)\, 321 €/go
+ d.\n• GPC INSTRUMENTATION PROCESS D.O.O. – Koncesija za eksploataciju 
+ mineralnih sirovina (STUPNIK)\n\nProfil općine: https://koncesijski-sat.v
+ ercel.app/#opcina/41942358B39376409459817\nIzvor: Registar koncesija (FINA
+ )\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B39376409459817
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 2 koncesije · Stupnik
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-bf6f53ab2936e924@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20420430
+DTEND;VALUE=DATE:20420501
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:31. 10. 2042. ističe 2 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• GPC INSTRUMENTATION PROCESS D.O.O. – Koncesija za zauzetu pov
+ ršinu odobrenog eksploatacijskog polja (STUPNIK)\, 321 €/god.\n• GPC 
+ INSTRUMENTATION PROCESS D.O.O. – Koncesija za eksploataciju mineralnih s
+ irovina (STUPNIK)\n\nProfil općine: https://koncesijski-sat.vercel.app/#o
+ pcina/41942358B39376409459817
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B39376409459817
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

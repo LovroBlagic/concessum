@@ -1,0 +1,140 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · Općina Bosiljevo
+X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Bosiljevo. Iz Re
+ gistra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade po
+ dataka. https://koncesijski-sat.vercel.app/#opcina/41942358B68392687471832
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-c03c4517c4ebac58@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20270801
+DTEND;VALUE=DATE:20270802
+SUMMARY:Ističe koncesija: EDI ALAGIĆ\, ENERGON DIMNJAČARSKI OBRT
+DESCRIPTION:1 ugovor o koncesiji ističe 1. 8. 2027. Godišnja fiksna nakna
+ da: 16 €.\n\n• EDI ALAGIĆ\, ENERGON DIMNJAČARSKI OBRT – Koncesija 
+ za obavljanje komunalnih djelatnosti (BOSILJEVO)\, 16 €/god.\n\nProfil o
+ pćine: https://koncesijski-sat.vercel.app/#opcina/41942358B68392687471832
+ \nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B68392687471832
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: EDI ALAGIĆ\, ENERGON DIMNJAČARSKI OBRT
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-c03c4517c4ebac58@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20270201
+DTEND;VALUE=DATE:20270202
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (EDI ALAGIĆ\, EN
+ ERGON DIMNJAČARSKI OBRT)
+DESCRIPTION:1. 8. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodjele
+  treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
+ \n\n• EDI ALAGIĆ\, ENERGON DIMNJAČARSKI OBRT – Koncesija za obavljan
+ je komunalnih djelatnosti (BOSILJEVO)\, 16 €/god.\n\nProfil općine: htt
+ ps://koncesijski-sat.vercel.app/#opcina/41942358B68392687471832
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B68392687471832
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (EDI ALAGIĆ\
+ , ENERGON DIMNJAČARSKI OBRT)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-5e207e540ec92a2a@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20401231
+DTEND;VALUE=DATE:20410101
+SUMMARY:Ističe 3 koncesije · Bosiljevo
+DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2040. Godišnja fiksna na
+ knada: 9.512 €.\n\n• PARON D.O.O. – Koncesija za eksploataciju tehni
+ čko-građevnog kamena (BOSILJEVO)\, 4.756 €/god.\n• PARON D.O.O. – 
+ Koncesija za površinu utvrđenog eksploatacijskog polja neenergetskih min
+ eralnih sirovina (BOSILJEVO)\, 4.756 €/god.\n• PARON D.O.O. – Konces
+ ija za eksploataciju tehničko-građevnog kamena (BOSILJEVO)\n\nProfil op
+ ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B68392687471832\
+ nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B68392687471832
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 3 koncesije · Bosiljevo
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-5e207e540ec92a2a@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20400630
+DTEND;VALUE=DATE:20400701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:31. 12. 2040. ističe 3 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• PARON D.O.O. – Koncesija za eksploataciju tehničko-građevno
+ g kamena (BOSILJEVO)\, 4.756 €/god.\n• PARON D.O.O. – Koncesija za p
+ ovršinu utvrđenog eksploatacijskog polja neenergetskih mineralnih sirovi
+ na (BOSILJEVO)\, 4.756 €/god.\n• PARON D.O.O. – Koncesija za eksploa
+ taciju tehničko-građevnog kamena (BOSILJEVO)\n\nProfil općine: https://
+ koncesijski-sat.vercel.app/#opcina/41942358B68392687471832
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B68392687471832
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-5e8b728c40303bba@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20591209
+DTEND;VALUE=DATE:20591210
+SUMMARY:Ističe koncesija: HRVATSKA ELEKTROPRIVREDA  D.D.
+DESCRIPTION:1 ugovor o koncesiji ističe 9. 12. 2059. Godišnja fiksna nakn
+ ada: 621.467 €.\n\n• HRVATSKA ELEKTROPRIVREDA  D.D. – Koncesija za k
+ orištenje vodne snage radi proizvodnje električne energije (BOSILJEVO\, 
+ GENERALSKI STOL\, GENERALSKI STOL\, OGULIN\, OGULIN)\, 621.467 €/god.\n\
+ nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B68392
+ 687471832\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11
+ . 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B68392687471832
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: HRVATSKA ELEKTROPRIVREDA  D.D.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-5e8b728c40303bba@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20590609
+DTEND;VALUE=DATE:20590610
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKA ELEKTRO
+ PRIVREDA  D.D.)
+DESCRIPTION:9. 12. 2059. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• HRVATSKA ELEKTROPRIVREDA  D.D. – Koncesija za korištenje vodne
+  snage radi proizvodnje električne energije (BOSILJEVO\, GENERALSKI STOL\
+ , GENERALSKI STOL\, OGULIN\, OGULIN)\, 621.467 €/god.\n\nProfil općine:
+  https://koncesijski-sat.vercel.app/#opcina/41942358B68392687471832
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B68392687471832
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKA ELE
+ KTROPRIVREDA  D.D.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

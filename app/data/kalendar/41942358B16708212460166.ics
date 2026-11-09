@@ -1,0 +1,98 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · Općina Donji Kraljevec
+X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Donji Kraljevec.
+  Iz Registra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obr
+ ade podataka. https://koncesijski-sat.vercel.app/#opcina/41942358B16708212
+ 460166
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-4846f0bd490719d2@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20280301
+DTEND;VALUE=DATE:20280302
+SUMMARY:Ističe koncesija: ROBERT ZVER\, DIMOS\,OBRT
+DESCRIPTION:1 ugovor o koncesiji ističe 1. 3. 2028. Godišnja fiksna nakna
+ da: 1.526 €.\n\n• ROBERT ZVER\, DIMOS\,OBRT – Koncesija za obavljanj
+ e dimnjačarskih poslova (DONJI KRALJEVEC)\, 1.526 €/god.\n\nProfil opć
+ ine: https://koncesijski-sat.vercel.app/#opcina/41942358B16708212460166\nI
+ zvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B16708212460166
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: ROBERT ZVER\, DIMOS\,OBRT
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-4846f0bd490719d2@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20270901
+DTEND;VALUE=DATE:20270902
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ROBERT ZVER\, DI
+ MOS\,OBRT)
+DESCRIPTION:1. 3. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodjele
+  treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
+ \n\n• ROBERT ZVER\, DIMOS\,OBRT – Koncesija za obavljanje dimnjačarsk
+ ih poslova (DONJI KRALJEVEC)\, 1.526 €/god.\n\nProfil općine: https://k
+ oncesijski-sat.vercel.app/#opcina/41942358B16708212460166
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B16708212460166
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ROBERT ZVER\
+ , DIMOS\,OBRT)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-e6ee16d647fc517e@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20461012
+DTEND;VALUE=DATE:20461013
+SUMMARY:Ističe koncesija: OBRT KUDEC\, VOĆARSTVO I PROTUGRADNE MREŽE\, V
+ L. IVAN KUDEC
+DESCRIPTION:1 ugovor o koncesiji ističe 12. 10. 2046. Godišnja fiksna nak
+ nada: 12 €.\n\n• OBRT KUDEC\, VOĆARSTVO I PROTUGRADNE MREŽE\, VL. IV
+ AN KUDEC – Koncesija za zahvaćanje voda za melioracijsko navodnjavanje 
+ (DONJI KRALJEVEC)\, 12 €/god.\n\nProfil općine: https://koncesijski-sat
+ .vercel.app/#opcina/41942358B16708212460166\nIzvor: Registar koncesija (FI
+ NA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B16708212460166
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: OBRT KUDEC\, VOĆARSTVO I PROTUGRADNE MREŽE
+ \, VL. IVAN KUDEC
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-e6ee16d647fc517e@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20460412
+DTEND;VALUE=DATE:20460413
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (OBRT KUDEC\, VO
+ ĆARSTVO I PROTUGRADNE MREŽE\, VL. IVAN KUDEC)
+DESCRIPTION:12. 10. 2046. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• OBRT KUDEC\, VOĆARSTVO I PROTUGRADNE MREŽE\, VL. IVAN KUDEC 
+ – Koncesija za zahvaćanje voda za melioracijsko navodnjavanje (DONJI KR
+ ALJEVEC)\, 12 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.a
+ pp/#opcina/41942358B16708212460166
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B16708212460166
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (OBRT KUDEC\,
+  VOĆARSTVO I PROTUGRADNE MREŽE\, VL. IVAN KUDEC)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,386 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · Općina Fažana
+X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Fažana. Iz Regi
+ stra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade poda
+ taka. https://koncesijski-sat.vercel.app/#opcina/41942358B45168798602767
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-54e9d1c558f05090@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20270531
+DTEND;VALUE=DATE:20270601
+SUMMARY:Ističe koncesija: OLEAGINUS J.V. D.O.O. ZA UGOSTITELJSTVO I TURIST
+ IČKA AGENCIJA
+DESCRIPTION:1 ugovor o koncesiji ističe 31. 5. 2027. Godišnja fiksna nakn
+ ada: 6.767 €.\n\n• OLEAGINUS J.V. D.O.O. ZA UGOSTITELJSTVO I TURISTIČ
+ KA AGENCIJA – Koncesija za luku (FAŽANA - FASANA)\, 6.767 €/god.\n\nP
+ rofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B4516879
+ 8602767\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 
+ 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45168798602767
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: OLEAGINUS J.V. D.O.O. ZA UGOSTITELJSTVO I TU
+ RISTIČKA AGENCIJA
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-54e9d1c558f05090@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (OLEAGINUS J.V. D
+ .O.O. ZA UGOSTITELJSTVO I TURISTIČKA AGENCIJA)
+DESCRIPTION:31. 5. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• OLEAGINUS J.V. D.O.O. ZA UGOSTITELJSTVO I TURISTIČKA AGENCIJA 
+ – Koncesija za luku (FAŽANA - FASANA)\, 6.767 €/god.\n\nProfil općin
+ e: https://koncesijski-sat.vercel.app/#opcina/41942358B45168798602767
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45168798602767
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (OLEAGINUS J.
+ V. D.O.O. ZA UGOSTITELJSTVO I TURISTIČKA AGENCIJA)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-a876c3045d2cffaf@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20330626
+DTEND;VALUE=DATE:20330627
+SUMMARY:Ističe koncesija: INDUSTRIAL PROJECTS D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 26. 6. 2033. Godišnja fiksna nakn
+ ada: 15.819 €.\n\n• INDUSTRIAL PROJECTS D.O.O. – Koncesija na pomors
+ kom dobru (FAŽANA - FASANA)\, 15.819 €/god.\n\nProfil općine: https://
+ koncesijski-sat.vercel.app/#opcina/41942358B45168798602767\nIzvor: Regista
+ r koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45168798602767
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: INDUSTRIAL PROJECTS D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-a876c3045d2cffaf@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20321226
+DTEND;VALUE=DATE:20321227
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INDUSTRIAL PROJE
+ CTS D.O.O.)
+DESCRIPTION:26. 6. 2033. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• INDUSTRIAL PROJECTS D.O.O. – Koncesija na pomorskom dobru (FAŽ
+ ANA - FASANA)\, 15.819 €/god.\n\nProfil općine: https://koncesijski-sat
+ .vercel.app/#opcina/41942358B45168798602767
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45168798602767
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INDUSTRIAL P
+ ROJECTS D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-0890a058d07f3f81@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20341231
+DTEND;VALUE=DATE:20350101
+SUMMARY:Ističe 3 koncesije · Fažana
+DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2034. Godišnja fiksna na
+ knada: 758 €.\n\n• KAVA EXPORT-IMPORT D.O.O. – Koncesija za površin
+ u utvrđenog eksploatacijskog polja neenergetskih mineralnih sirovina (FA
+ ŽANA - FASANA)\, 758 €/god.\n• KAVA EXPORT-IMPORT D.O.O. – Koncesij
+ a za eksploataciju tehničko-građevnog kamena (FAŽANA - FASANA)\n• KAV
+ A EXPORT-IMPORT D.O.O. – Koncesija za eksploataciju tehničko-građevnog
+  kamena (FAŽANA - FASANA)\n\nProfil općine: https://koncesijski-sat.verc
+ el.app/#opcina/41942358B45168798602767\nIzvor: Registar koncesija (FINA)\,
+  obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45168798602767
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 3 koncesije · Fažana
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-0890a058d07f3f81@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20340630
+DTEND;VALUE=DATE:20340701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:31. 12. 2034. ističe 3 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• KAVA EXPORT-IMPORT D.O.O. – Koncesija za površinu utvrđenog
+  eksploatacijskog polja neenergetskih mineralnih sirovina (FAŽANA - FASAN
+ A)\, 758 €/god.\n• KAVA EXPORT-IMPORT D.O.O. – Koncesija za eksploat
+ aciju tehničko-građevnog kamena (FAŽANA - FASANA)\n• KAVA EXPORT-IMPO
+ RT D.O.O. – Koncesija za eksploataciju tehničko-građevnog kamena (FAŽ
+ ANA - FASANA)\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcin
+ a/41942358B45168798602767
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45168798602767
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-d7ed93e4b6987f5b@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20360809
+DTEND;VALUE=DATE:20360810
+SUMMARY:Ističe koncesija: PLINARA D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 9. 8. 2036. Godišnja fiksna nakna
+ da: 1.327 €.\n\n• PLINARA D.O.O. – Koncesija za obavljanje distribuc
+ ije plina na postojećem distribucijskom sustavu (FAŽANA - FASANA\, LIŽN
+ JAN - LISIGNANO\, LIŽNJAN - LISIGNANO\, MEDULIN\, MEDULIN\, PULA - POLA\,
+  PULA - POLA\, VODNJAN - DIGNANO\, VODNJAN - DIGNANO)\, 1.327 €/god.\n\n
+ Profil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B451687
+ 98602767\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11.
+  2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45168798602767
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: PLINARA D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-d7ed93e4b6987f5b@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20360209
+DTEND;VALUE=DATE:20360210
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PLINARA D.O.O.)
+DESCRIPTION:9. 8. 2036. ističe 1 ugovor o koncesiji. Novi postupak dodjele
+  treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
+ \n\n• PLINARA D.O.O. – Koncesija za obavljanje distribucije plina na p
+ ostojećem distribucijskom sustavu (FAŽANA - FASANA\, LIŽNJAN - LISIGNAN
+ O\, LIŽNJAN - LISIGNANO\, MEDULIN\, MEDULIN\, PULA - POLA\, PULA - POLA\,
+  VODNJAN - DIGNANO\, VODNJAN - DIGNANO)\, 1.327 €/god.\n\nProfil općine
+ : https://koncesijski-sat.vercel.app/#opcina/41942358B45168798602767
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45168798602767
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PLINARA D.O.
+ O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-547c92f4ec299ad3@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20371230
+DTEND;VALUE=DATE:20371231
+SUMMARY:Ističe koncesija: PRAGRANDE D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 30. 12. 2037. Godišnja fiksna nak
+ nada: 1.094 €.\n\n• PRAGRANDE D.O.O. – Koncesija na pomorskom dobru 
+ (FAŽANA - FASANA)\, 1.094 €/god.\n\nProfil općine: https://koncesijski
+ -sat.vercel.app/#opcina/41942358B45168798602767\nIzvor: Registar koncesija
+  (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45168798602767
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: PRAGRANDE D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-547c92f4ec299ad3@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20370630
+DTEND;VALUE=DATE:20370701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PRAGRANDE D.O.O.
+ )
+DESCRIPTION:30. 12. 2037. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• PRAGRANDE D.O.O. – Koncesija na pomorskom dobru (FAŽANA - FAS
+ ANA)\, 1.094 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.ap
+ p/#opcina/41942358B45168798602767
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45168798602767
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PRAGRANDE D.
+ O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-8d85f9955f5423cd@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20390205
+DTEND;VALUE=DATE:20390206
+SUMMARY:Ističe koncesija: PRAGRANDE D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 5. 2. 2039. Godišnja fiksna nakna
+ da: 94 €.\n\n• PRAGRANDE D.O.O. – Koncesija na pomorskom dobru (FAŽ
+ ANA - FASANA)\, 94 €/god.\n\nProfil općine: https://koncesijski-sat.ver
+ cel.app/#opcina/41942358B45168798602767\nIzvor: Registar koncesija (FINA)\
+ , obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45168798602767
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: PRAGRANDE D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-8d85f9955f5423cd@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20380805
+DTEND;VALUE=DATE:20380806
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PRAGRANDE D.O.O.
+ )
+DESCRIPTION:5. 2. 2039. ističe 1 ugovor o koncesiji. Novi postupak dodjele
+  treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
+ \n\n• PRAGRANDE D.O.O. – Koncesija na pomorskom dobru (FAŽANA - FASAN
+ A)\, 94 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#op
+ cina/41942358B45168798602767
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45168798602767
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PRAGRANDE D.
+ O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-0f409e63b507bb5c@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20390927
+DTEND;VALUE=DATE:20390928
+SUMMARY:Ističe koncesija: HRVATSKA ELEKTROPRIVREDA  D.D.
+DESCRIPTION:1 ugovor o koncesiji ističe 27. 9. 2039. Godišnja fiksna nakn
+ ada: 8 €.\n\n• HRVATSKA ELEKTROPRIVREDA  D.D. – Koncesija na pomorsk
+ om dobru (FAŽANA - FASANA)\, 8 €/god.\n\nProfil općine: https://konces
+ ijski-sat.vercel.app/#opcina/41942358B45168798602767\nIzvor: Registar konc
+ esija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45168798602767
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: HRVATSKA ELEKTROPRIVREDA  D.D.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-0f409e63b507bb5c@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20390327
+DTEND;VALUE=DATE:20390328
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKA ELEKTRO
+ PRIVREDA  D.D.)
+DESCRIPTION:27. 9. 2039. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• HRVATSKA ELEKTROPRIVREDA  D.D. – Koncesija na pomorskom dobru (
+ FAŽANA - FASANA)\, 8 €/god.\n\nProfil općine: https://koncesijski-sat.
+ vercel.app/#opcina/41942358B45168798602767
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45168798602767
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKA ELE
+ KTROPRIVREDA  D.D.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-8633eeb73a7b85ac@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20510406
+DTEND;VALUE=DATE:20510407
+SUMMARY:Ističe koncesija: INA-INDUSTRIJA NAFTE  D.D.
+DESCRIPTION:1 ugovor o koncesiji ističe 6. 4. 2051. Godišnja fiksna nakna
+ da: 112.682 €.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija na pomors
+ kom dobru (FAŽANA - FASANA)\, 112.682 €/god.\n\nProfil općine: https:/
+ /koncesijski-sat.vercel.app/#opcina/41942358B45168798602767\nIzvor: Regist
+ ar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45168798602767
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: INA-INDUSTRIJA NAFTE  D.D.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-8633eeb73a7b85ac@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20501006
+DTEND;VALUE=DATE:20501007
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA-INDUSTRIJA N
+ AFTE  D.D.)
+DESCRIPTION:6. 4. 2051. ističe 1 ugovor o koncesiji. Novi postupak dodjele
+  treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
+ \n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija na pomorskom dobru (FAŽA
+ NA - FASANA)\, 112.682 €/god.\n\nProfil općine: https://koncesijski-sat
+ .vercel.app/#opcina/41942358B45168798602767
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45168798602767
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA-INDUSTRI
+ JA NAFTE  D.D.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-9a2dea6b715b8342@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20760717
+DTEND;VALUE=DATE:20760718
+SUMMARY:Ističe koncesija: HRVATSKI TELEKOM D.D.
+DESCRIPTION:1 ugovor o koncesiji ističe 17. 7. 2076. Godišnja fiksna nakn
+ ada: 746 €.\n\n• HRVATSKI TELEKOM D.D. – Posebna upotreba pomorskog 
+ dobra (FAŽANA - FASANA)\, 746 €/god.\n\nProfil općine: https://koncesi
+ jski-sat.vercel.app/#opcina/41942358B45168798602767\nIzvor: Registar konce
+ sija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45168798602767
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: HRVATSKI TELEKOM D.D.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-9a2dea6b715b8342@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20760117
+DTEND;VALUE=DATE:20760118
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKI TELEKOM
+  D.D.)
+DESCRIPTION:17. 7. 2076. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• HRVATSKI TELEKOM D.D. – Posebna upotreba pomorskog dobra (FAŽA
+ NA - FASANA)\, 746 €/god.\n\nProfil općine: https://koncesijski-sat.ver
+ cel.app/#opcina/41942358B45168798602767
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B45168798602767
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKI TEL
+ EKOM D.D.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

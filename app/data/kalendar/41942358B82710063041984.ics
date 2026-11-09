@@ -1,0 +1,101 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · Općina Martijanec
+X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Martijanec. Iz R
+ egistra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade p
+ odataka. https://koncesijski-sat.vercel.app/#opcina/41942358B8271006304198
+ 4
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-f13eacd812a25366@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20300205
+DTEND;VALUE=DATE:20300206
+SUMMARY:Ističe koncesija: COLAS - MINERAL D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 5. 2. 2030. Godišnja fiksna nakna
+ da: 25.801 €.\n\n• COLAS - MINERAL D.O.O. – Koncesija za zahvaćanje
+  voda radi korištenja u proizvodnom postupku (MARTIJANEC)\, 25.801 €/go
+ d.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B
+ 82710063041984\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 
+ 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B82710063041984
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: COLAS - MINERAL D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-f13eacd812a25366@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20290805
+DTEND;VALUE=DATE:20290806
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (COLAS - MINERAL 
+ D.O.O.)
+DESCRIPTION:5. 2. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodjele
+  treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
+ \n\n• COLAS - MINERAL D.O.O. – Koncesija za zahvaćanje voda radi kori
+ štenja u proizvodnom postupku (MARTIJANEC)\, 25.801 €/god.\n\nProfil op
+ ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B82710063041984
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B82710063041984
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (COLAS - MINE
+ RAL D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-661dcf51f0e1fd1a@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20351231
+DTEND;VALUE=DATE:20360101
+SUMMARY:Ističe 3 koncesije · Martijanec
+DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2035. Godišnja fiksna na
+ knada: 27.892 €.\n\n• COLAS MINERAL D.O.O. – Koncesija za eksploatac
+ iju građevnog pijeska i šljunka (MARTIJANEC)\, 13.946 €/god.\n• COLA
+ S MINERAL D.O.O. – Koncesija za površinu utvrđenog eksploatacijskog po
+ lja neenergetskih mineralnih sirovina (MARTIJANEC)\, 13.946 €/god.\n• 
+ COLAS MINERAL D.O.O. – Koncesija za eksploataciju građevnog pijeska i 
+ šljunka (MARTIJANEC)\n\nProfil općine: https://koncesijski-sat.vercel.ap
+ p/#opcina/41942358B82710063041984\nIzvor: Registar koncesija (FINA)\, obra
+ da Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B82710063041984
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 3 koncesije · Martijanec
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-661dcf51f0e1fd1a@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20350630
+DTEND;VALUE=DATE:20350701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:31. 12. 2035. ističe 3 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• COLAS MINERAL D.O.O. – Koncesija za eksploataciju građevnog 
+ pijeska i šljunka (MARTIJANEC)\, 13.946 €/god.\n• COLAS MINERAL D.O.O
+ . – Koncesija za površinu utvrđenog eksploatacijskog polja neenergetsk
+ ih mineralnih sirovina (MARTIJANEC)\, 13.946 €/god.\n• COLAS MINERAL D
+ .O.O. – Koncesija za eksploataciju građevnog pijeska i šljunka (MARTIJ
+ ANEC)\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419423
+ 58B82710063041984
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B82710063041984
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

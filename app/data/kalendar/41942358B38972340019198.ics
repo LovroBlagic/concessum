@@ -1,0 +1,97 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · Općina Skrad
+X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Skrad. Iz Regist
+ ra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podata
+ ka. https://koncesijski-sat.vercel.app/#opcina/41942358B38972340019198
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-a437196a735837cf@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20411220
+DTEND;VALUE=DATE:20411221
+SUMMARY:Ističe koncesija: HRVATSKA ELEKTROPRIVREDA  D.D.
+DESCRIPTION:1 ugovor o koncesiji ističe 20. 12. 2041. Godišnja fiksna nak
+ nada: 5.806 €.\n\n• HRVATSKA ELEKTROPRIVREDA  D.D. – Koncesija za ko
+ rištenje vodne snage radi proizvodnje električne energije (SKRAD)\, 5.80
+ 6 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4
+ 1942358B38972340019198\nIzvor: Registar koncesija (FINA)\, obrada Koncesij
+ ski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B38972340019198
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: HRVATSKA ELEKTROPRIVREDA  D.D.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-a437196a735837cf@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20410620
+DTEND;VALUE=DATE:20410621
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKA ELEKTRO
+ PRIVREDA  D.D.)
+DESCRIPTION:20. 12. 2041. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• HRVATSKA ELEKTROPRIVREDA  D.D. – Koncesija za korištenje vodn
+ e snage radi proizvodnje električne energije (SKRAD)\, 5.806 €/god.\n\n
+ Profil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B389723
+ 40019198
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B38972340019198
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKA ELE
+ KTROPRIVREDA  D.D.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-0374b25d035577ca@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20470515
+DTEND;VALUE=DATE:20470516
+SUMMARY:Ističe koncesija: MALA HE ZELENI VIR D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 15. 5. 2047. Godišnja fiksna nakn
+ ada: 3.716 €.\n\n• MALA HE ZELENI VIR D.O.O. – Koncesija za korište
+ nje vodne snage radi proizvodnje električne energije (SKRAD)\, 3.716 €/
+ god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4194235
+ 8B38972340019198\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sa
+ t 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B38972340019198
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: MALA HE ZELENI VIR D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-0374b25d035577ca@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20461115
+DTEND;VALUE=DATE:20461116
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MALA HE ZELENI V
+ IR D.O.O.)
+DESCRIPTION:15. 5. 2047. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• MALA HE ZELENI VIR D.O.O. – Koncesija za korištenje vodne snag
+ e radi proizvodnje električne energije (SKRAD)\, 3.716 €/god.\n\nProfil
+  općine: https://koncesijski-sat.vercel.app/#opcina/41942358B389723400191
+ 98
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B38972340019198
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MALA HE ZELE
+ NI VIR D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

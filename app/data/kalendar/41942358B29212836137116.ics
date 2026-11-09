@@ -1,0 +1,165 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · Općina Jasenice
+X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Jasenice. Iz Reg
+ istra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade pod
+ ataka. https://koncesijski-sat.vercel.app/#opcina/41942358B29212836137116
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-88b09e47a73d66f1@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:Ističe koncesija: LANTERNA\, OBRT ZA UZGOJ ŠKOLJKI
+DESCRIPTION:1 ugovor o koncesiji ističe 24. 11. 2026. Godišnja fiksna nak
+ nada: 1.378 €.\n\n• LANTERNA\, OBRT ZA UZGOJ ŠKOLJKI – Koncesija na
+  pomorskom dobru u svrhu uzgoja morske ribe i školjkaša (JASENICE)\, 1.3
+ 78 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/
+ 41942358B29212836137116\nIzvor: Registar koncesija (FINA)\, obrada Koncesi
+ jski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B29212836137116
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: LANTERNA\, OBRT ZA UZGOJ ŠKOLJKI
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-62606bd981846567@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20291122
+DTEND;VALUE=DATE:20291123
+SUMMARY:Ističe koncesija: BONACA\, OBRT ZA UZGOJ ŠKOLJAKA\, VL. ŠIME MAR
+ UNA
+DESCRIPTION:1 ugovor o koncesiji ističe 22. 11. 2029. Godišnja fiksna nak
+ nada: 1.327 €.\n\n• BONACA\, OBRT ZA UZGOJ ŠKOLJAKA\, VL. ŠIME MARUN
+ A – Koncesija na pomorskom dobru u svrhu uzgoja morske ribe i školjkaš
+ a (JASENICE)\, 1.327 €/god.\n\nProfil općine: https://koncesijski-sat.v
+ ercel.app/#opcina/41942358B29212836137116\nIzvor: Registar koncesija (FINA
+ )\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B29212836137116
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: BONACA\, OBRT ZA UZGOJ ŠKOLJAKA\, VL. ŠIME
+  MARUNA
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-62606bd981846567@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20290522
+DTEND;VALUE=DATE:20290523
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BONACA\, OBRT ZA
+  UZGOJ ŠKOLJAKA\, VL. ŠIME MARUNA)
+DESCRIPTION:22. 11. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• BONACA\, OBRT ZA UZGOJ ŠKOLJAKA\, VL. ŠIME MARUNA – Koncesij
+ a na pomorskom dobru u svrhu uzgoja morske ribe i školjkaša (JASENICE)\,
+  1.327 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opc
+ ina/41942358B29212836137116
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B29212836137116
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BONACA\, OBR
+ T ZA UZGOJ ŠKOLJAKA\, VL. ŠIME MARUNA)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-d088e305b27b65c5@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20381231
+DTEND;VALUE=DATE:20390101
+SUMMARY:Ističe 3 koncesije · Jasenice
+DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2038. Godišnja fiksna na
+ knada: 1.536 €.\n\n• KAMEN D.O.O. – Koncesija za površinu utvrđeno
+ g eksploatacijskog polja neenergetskih mineralnih sirovina (JASENICE)\, 1.
+ 536 €/god.\n• KAMEN D.O.O. – Koncesija za eksploataciju arhitektonsk
+ o-građevnog kamena (JASENICE)\n• KAMEN D.O.O. – Koncesija za eksploat
+ aciju arhitektonsko-građevnog kamena (JASENICE)\n\nProfil općine: https:
+ //koncesijski-sat.vercel.app/#opcina/41942358B29212836137116\nIzvor: Regis
+ tar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B29212836137116
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 3 koncesije · Jasenice
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-d088e305b27b65c5@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20380630
+DTEND;VALUE=DATE:20380701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:31. 12. 2038. ističe 3 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• KAMEN D.O.O. – Koncesija za površinu utvrđenog eksploatacij
+ skog polja neenergetskih mineralnih sirovina (JASENICE)\, 1.536 €/god.\n
+ • KAMEN D.O.O. – Koncesija za eksploataciju arhitektonsko-građevnog k
+ amena (JASENICE)\n• KAMEN D.O.O. – Koncesija za eksploataciju arhitekt
+ onsko-građevnog kamena (JASENICE)\n\nProfil općine: https://koncesijski-
+ sat.vercel.app/#opcina/41942358B29212836137116
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B29212836137116
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-a2a91aa8672d23ed@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20431231
+DTEND;VALUE=DATE:20440101
+SUMMARY:Ističe 3 koncesije · Jasenice
+DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2043. Godišnja fiksna na
+ knada: 2.244 €.\n\n• COLAS MINERAL D.O.O. – Koncesija za površinu u
+ tvrđenog eksploatacijskog polja neenergetskih mineralnih sirovina (JASENI
+ CE)\, 2.244 €/god.\n• COLAS MINERAL D.O.O. – Koncesija za eksploatac
+ iju tehničko-građevnog kamena (JASENICE)\n• COLAS MINERAL D.O.O. – K
+ oncesija za eksploataciju tehničko-građevnog kamena (JASENICE)\n\nProfil
+  općine: https://koncesijski-sat.vercel.app/#opcina/41942358B292128361371
+ 16\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B29212836137116
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 3 koncesije · Jasenice
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-a2a91aa8672d23ed@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20430630
+DTEND;VALUE=DATE:20430701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:31. 12. 2043. ističe 3 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• COLAS MINERAL D.O.O. – Koncesija za površinu utvrđenog eksp
+ loatacijskog polja neenergetskih mineralnih sirovina (JASENICE)\, 2.244 
+ €/god.\n• COLAS MINERAL D.O.O. – Koncesija za eksploataciju tehničk
+ o-građevnog kamena (JASENICE)\n• COLAS MINERAL D.O.O. – Koncesija za 
+ eksploataciju tehničko-građevnog kamena (JASENICE)\n\nProfil općine: ht
+ tps://koncesijski-sat.vercel.app/#opcina/41942358B29212836137116
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B29212836137116
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

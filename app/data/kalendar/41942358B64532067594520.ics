@@ -1,0 +1,225 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · Općina Hlebine
+X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Hlebine. Iz Regi
+ stra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade poda
+ taka. https://koncesijski-sat.vercel.app/#opcina/41942358B64532067594520
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-4a87777bab2caf12@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20290724
+DTEND;VALUE=DATE:20290725
+SUMMARY:Ističe koncesija: MLD-USLUGE D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 24. 7. 2029. Godišnja fiksna nakn
+ ada: 400 €.\n\n• MLD-USLUGE D.O.O. – Koncesija za obavljanje dimnja
+ čarskih poslova (HLEBINE)\, 400 €/god.\n\nProfil općine: https://konce
+ sijski-sat.vercel.app/#opcina/41942358B64532067594520\nIzvor: Registar kon
+ cesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B64532067594520
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: MLD-USLUGE D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-4a87777bab2caf12@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20290124
+DTEND;VALUE=DATE:20290125
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MLD-USLUGE D.O.O
+ .)
+DESCRIPTION:24. 7. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• MLD-USLUGE D.O.O. – Koncesija za obavljanje dimnjačarskih posl
+ ova (HLEBINE)\, 400 €/god.\n\nProfil općine: https://koncesijski-sat.ve
+ rcel.app/#opcina/41942358B64532067594520
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B64532067594520
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MLD-USLUGE D
+ .O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-fc022a46a038bd3a@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20290725
+DTEND;VALUE=DATE:20290726
+SUMMARY:Ističe koncesija: MLD-USLUGE D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 25. 7. 2029. Godišnja fiksna nakn
+ ada: 400 €.\n\n• MLD-USLUGE D.O.O. – Koncesija za obavljanje dimnja
+ čarskih poslova (HLEBINE)\, 400 €/god.\n\nProfil općine: https://konce
+ sijski-sat.vercel.app/#opcina/41942358B64532067594520\nIzvor: Registar kon
+ cesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B64532067594520
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: MLD-USLUGE D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-fc022a46a038bd3a@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20290125
+DTEND;VALUE=DATE:20290126
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MLD-USLUGE D.O.O
+ .)
+DESCRIPTION:25. 7. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• MLD-USLUGE D.O.O. – Koncesija za obavljanje dimnjačarskih posl
+ ova (HLEBINE)\, 400 €/god.\n\nProfil općine: https://koncesijski-sat.ve
+ rcel.app/#opcina/41942358B64532067594520
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B64532067594520
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MLD-USLUGE D
+ .O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-f119d2503bf34dd7@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20291231
+DTEND;VALUE=DATE:20300101
+SUMMARY:Ističe 2 koncesije · Hlebine
+DESCRIPTION:2 ugovora o koncesiji ističe 31. 12. 2029. Godišnja fiksna na
+ knada: 3.726 €.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauze
+ tu površinu odobrenog eksploatacijskog polja (HLEBINE)\, 1.863 €/god.\n
+ • INA-INDUSTRIJA NAFTE  D.D. – Dozvola za eksploataciju ugljikovodika 
+ (prema Zakonu o ugljikovodicima) (HLEBINE)\, 1.863 €/god.\n\nProfil opć
+ ine: https://koncesijski-sat.vercel.app/#opcina/41942358B64532067594520\nI
+ zvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B64532067594520
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 2 koncesije · Hlebine
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-f119d2503bf34dd7@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20290630
+DTEND;VALUE=DATE:20290701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:31. 12. 2029. ističe 2 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauzetu površinu o
+ dobrenog eksploatacijskog polja (HLEBINE)\, 1.863 €/god.\n• INA-INDUST
+ RIJA NAFTE  D.D. – Dozvola za eksploataciju ugljikovodika (prema Zakonu 
+ o ugljikovodicima) (HLEBINE)\, 1.863 €/god.\n\nProfil općine: https://k
+ oncesijski-sat.vercel.app/#opcina/41942358B64532067594520
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B64532067594520
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-32045763f39d5368@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20321231
+DTEND;VALUE=DATE:20330101
+SUMMARY:Ističe 4 koncesije · Hlebine
+DESCRIPTION:4 ugovora o koncesiji ističe 31. 12. 2032. Godišnja fiksna na
+ knada: 11.924 €.\n\n• IGMA D.O.O. – Koncesija za površinu utvrđeno
+ g eksploatacijskog polja neenergetskih mineralnih sirovina (HLEBINE)\, 9.9
+ 24 €/god.\n• IGMA D.O.O-PROJEKT TERUG – Koncesija za zahvaćanje vod
+ a za tehnološke potrebe (HLEBINE)\, 2.000 €/god.\n• IGMA D.O.O. – K
+ oncesija za eksploataciju građevnog pijeska i šljunka (HLEBINE)\n• IGM
+ A  D.O.O. – Koncesija za eksploataciju građevnog pijeska i šljunka (HL
+ EBINE)\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942
+ 358B64532067594520\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski 
+ sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B64532067594520
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 4 koncesije · Hlebine
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-32045763f39d5368@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20320630
+DTEND;VALUE=DATE:20320701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 4 koncesije
+DESCRIPTION:31. 12. 2032. ističe 4 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• IGMA D.O.O. – Koncesija za površinu utvrđenog eksploatacijs
+ kog polja neenergetskih mineralnih sirovina (HLEBINE)\, 9.924 €/god.\n
+ • IGMA D.O.O-PROJEKT TERUG – Koncesija za zahvaćanje voda za tehnolo
+ ške potrebe (HLEBINE)\, 2.000 €/god.\n• IGMA D.O.O. – Koncesija za 
+ eksploataciju građevnog pijeska i šljunka (HLEBINE)\n• IGMA  D.O.O. 
+ – Koncesija za eksploataciju građevnog pijeska i šljunka (HLEBINE)\n\n
+ Profil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B645320
+ 67594520
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B64532067594520
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 4 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-785a7a79c0a1fcb4@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20401231
+DTEND;VALUE=DATE:20410101
+SUMMARY:Ističe 2 koncesije · Hlebine
+DESCRIPTION:2 ugovora o koncesiji ističe 31. 12. 2040. Godišnja fiksna na
+ knada: 158 €.\n\n• INA-INDUSTRIJA NAFTE D.D. – Koncesija za zauzetu 
+ površinu odobrenog eksploatacijskog polja (HLEBINE)\, 79 €/god.\n• IN
+ A-INDUSTRIJA NAFTE D.D. – Dozvola za eksploataciju ugljikovodika (prema 
+ Zakonu o ugljikovodicima) (HLEBINE)\, 79 €/god.\n\nProfil općine: https
+ ://koncesijski-sat.vercel.app/#opcina/41942358B64532067594520\nIzvor: Regi
+ star koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B64532067594520
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 2 koncesije · Hlebine
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-785a7a79c0a1fcb4@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20400630
+DTEND;VALUE=DATE:20400701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:31. 12. 2040. ističe 2 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• INA-INDUSTRIJA NAFTE D.D. – Koncesija za zauzetu površinu od
+ obrenog eksploatacijskog polja (HLEBINE)\, 79 €/god.\n• INA-INDUSTRIJA
+  NAFTE D.D. – Dozvola za eksploataciju ugljikovodika (prema Zakonu o ugl
+ jikovodicima) (HLEBINE)\, 79 €/god.\n\nProfil općine: https://koncesijs
+ ki-sat.vercel.app/#opcina/41942358B64532067594520
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B64532067594520
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

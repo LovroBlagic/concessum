@@ -1,0 +1,92 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · Grad Garešnica
+X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Grad Garešnica. Iz Regi
+ stra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade poda
+ taka. https://koncesijski-sat.vercel.app/#opcina/41942358B15886751744680
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-5a41ad6d8a3e7634@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20451231
+DTEND;VALUE=DATE:20460101
+SUMMARY:Ističe koncesija: KRUGOVAL 93\,1 MHZ GAREŠNICA D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 31. 12. 2045. Godišnja fiksna nak
+ nada: 66 €.\n\n• KRUGOVAL 93\,1 MHZ GAREŠNICA D.O.O. – Koncesija za
+  obavljanje djelatnosti radija (GAREŠNICA)\, 66 €/god.\n\nProfil općin
+ e: https://koncesijski-sat.vercel.app/#opcina/41942358B15886751744680\nIzv
+ or: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B15886751744680
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: KRUGOVAL 93\,1 MHZ GAREŠNICA D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-5a41ad6d8a3e7634@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20450630
+DTEND;VALUE=DATE:20450701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (KRUGOVAL 93\,1 M
+ HZ GAREŠNICA D.O.O.)
+DESCRIPTION:31. 12. 2045. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• KRUGOVAL 93\,1 MHZ GAREŠNICA D.O.O. – Koncesija za obavljanje
+  djelatnosti radija (GAREŠNICA)\, 66 €/god.\n\nProfil općine: https://
+ koncesijski-sat.vercel.app/#opcina/41942358B15886751744680
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B15886751744680
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (KRUGOVAL 93\
+ ,1 MHZ GAREŠNICA D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-36ec4c029ad09784@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20540213
+DTEND;VALUE=DATE:20540214
+SUMMARY:Ističe koncesija: FRIDRIH D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 13. 2. 2054. Godišnja fiksna nakn
+ ada: 1.060 €.\n\n• FRIDRIH D.O.O. – Koncesija za zahvaćanje voda za
+  tehnološke potrebe (GAREŠNICA)\, 1.060 €/god.\n\nProfil općine: http
+ s://koncesijski-sat.vercel.app/#opcina/41942358B15886751744680\nIzvor: Reg
+ istar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B15886751744680
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: FRIDRIH D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-36ec4c029ad09784@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20530813
+DTEND;VALUE=DATE:20530814
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (FRIDRIH D.O.O.)
+DESCRIPTION:13. 2. 2054. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• FRIDRIH D.O.O. – Koncesija za zahvaćanje voda za tehnološke p
+ otrebe (GAREŠNICA)\, 1.060 €/god.\n\nProfil općine: https://koncesijsk
+ i-sat.vercel.app/#opcina/41942358B15886751744680
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B15886751744680
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (FRIDRIH D.O.
+ O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

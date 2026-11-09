@@ -1,0 +1,95 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · Općina Trnovec Bartolovečki
+X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Trnovec Bartolov
+ ečki. Iz Registra koncesija (FINA\, data.gov.hr). Osvježava se nakon sva
+ ke obrade podataka. https://koncesijski-sat.vercel.app/#opcina/41942358B66
+ 089922837763
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-7c81dd2093d5dbdb@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20310410
+DTEND;VALUE=DATE:20310411
+SUMMARY:Ističe koncesija: CAMINUS J.D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 10. 4. 2031. Godišnja fiksna nakn
+ ada: 1.200 €.\n\n• CAMINUS J.D.O.O. – Koncesija za obavljanje dimnja
+ čarskih poslova (TRNOVEC BARTOLOVEČKI)\, 1.200 €/god.\n\nProfil općin
+ e: https://koncesijski-sat.vercel.app/#opcina/41942358B66089922837763\nIzv
+ or: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B66089922837763
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: CAMINUS J.D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-7c81dd2093d5dbdb@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20301010
+DTEND;VALUE=DATE:20301011
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (CAMINUS J.D.O.O.
+ )
+DESCRIPTION:10. 4. 2031. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• CAMINUS J.D.O.O. – Koncesija za obavljanje dimnjačarskih poslo
+ va (TRNOVEC BARTOLOVEČKI)\, 1.200 €/god.\n\nProfil općine: https://kon
+ cesijski-sat.vercel.app/#opcina/41942358B66089922837763
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B66089922837763
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (CAMINUS J.D.
+ O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-1ac90f2f91d487e3@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20450607
+DTEND;VALUE=DATE:20450608
+SUMMARY:Ističe koncesija: BOXMARK LEATHER D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 7. 6. 2045. Godišnja fiksna nakna
+ da: 1.725 €.\n\n• BOXMARK LEATHER D.O.O. – Koncesija za zahvaćanje 
+ voda za tehnološke potrebe (TRNOVEC BARTOLOVEČKI)\, 1.725 €/god.\n\nPr
+ ofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B66089922
+ 837763\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2
+ 026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B66089922837763
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: BOXMARK LEATHER D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-1ac90f2f91d487e3@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20441207
+DTEND;VALUE=DATE:20441208
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BOXMARK LEATHER 
+ D.O.O.)
+DESCRIPTION:7. 6. 2045. ističe 1 ugovor o koncesiji. Novi postupak dodjele
+  treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
+ \n\n• BOXMARK LEATHER D.O.O. – Koncesija za zahvaćanje voda za tehnol
+ oške potrebe (TRNOVEC BARTOLOVEČKI)\, 1.725 €/god.\n\nProfil općine: 
+ https://koncesijski-sat.vercel.app/#opcina/41942358B66089922837763
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B66089922837763
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BOXMARK LEAT
+ HER D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

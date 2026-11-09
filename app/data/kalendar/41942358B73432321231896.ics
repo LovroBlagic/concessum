@@ -1,0 +1,223 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · Općina Kloštar Ivanić
+X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Kloštar Ivanić
+ . Iz Registra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake ob
+ rade podataka. https://koncesijski-sat.vercel.app/#opcina/41942358B7343232
+ 1231896
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-2ebf741a960295df@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20271113
+DTEND;VALUE=DATE:20271114
+SUMMARY:Ističe koncesija: ASPECT CROATIA KFT.
+DESCRIPTION:1 ugovor o koncesiji ističe 13. 11. 2027. Godišnja fiksna nak
+ nada: 2.938 €.\n\n• ASPECT CROATIA KFT. – Dozvola za istraživanje u
+ gljikovodika (prema Zakonu o ugljikovodicima) (KLOŠTAR IVANIĆ)\, 2.938 
+ €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
+ 42358B73432321231896\nIzvor: Registar koncesija (FINA)\, obrada Koncesijsk
+ i sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B73432321231896
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: ASPECT CROATIA KFT.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-2ebf741a960295df@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20270513
+DTEND;VALUE=DATE:20270514
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ASPECT CROATIA K
+ FT.)
+DESCRIPTION:13. 11. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• ASPECT CROATIA KFT. – Dozvola za istraživanje ugljikovodika (
+ prema Zakonu o ugljikovodicima) (KLOŠTAR IVANIĆ)\, 2.938 €/god.\n\nPro
+ fil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B734323212
+ 31896
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B73432321231896
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ASPECT CROAT
+ IA KFT.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-5db6ba42c8e61682@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20280926
+DTEND;VALUE=DATE:20280927
+SUMMARY:Ističe koncesija: MIVEGRA D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 26. 9. 2028. Godišnja fiksna nakn
+ ada: 900 €.\n\n• MIVEGRA D.O.O. – Koncesija za obavljanje komunalnih
+  djelatnosti (KLOŠTAR IVANIĆ)\, 900 €/god.\n\nProfil općine: https://
+ koncesijski-sat.vercel.app/#opcina/41942358B73432321231896\nIzvor: Regista
+ r koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B73432321231896
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: MIVEGRA D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-5db6ba42c8e61682@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20280326
+DTEND;VALUE=DATE:20280327
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MIVEGRA D.O.O.)
+DESCRIPTION:26. 9. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• MIVEGRA D.O.O. – Koncesija za obavljanje komunalnih djelatnosti
+  (KLOŠTAR IVANIĆ)\, 900 €/god.\n\nProfil općine: https://koncesijski-
+ sat.vercel.app/#opcina/41942358B73432321231896
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B73432321231896
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MIVEGRA D.O.
+ O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-ee31ddb30c2da38b@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20351231
+DTEND;VALUE=DATE:20360101
+SUMMARY:Ističe 2 koncesije · Kloštar Ivanić
+DESCRIPTION:2 ugovora o koncesiji ističe 31. 12. 2035. Godišnja fiksna na
+ knada: 2.670 €.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauze
+ tu površinu odobrenog eksploatacijskog polja (KLOŠTAR IVANIĆ)\, 1.335 
+ €/god.\n• INA-INDUSTRIJA NAFTE  D.D. – Dozvola za eksploataciju uglj
+ ikovodika (prema Zakonu o ugljikovodicima) (KLOŠTAR IVANIĆ)\, 1.335 €/
+ god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4194235
+ 8B73432321231896\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sa
+ t 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B73432321231896
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 2 koncesije · Kloštar Ivanić
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-ee31ddb30c2da38b@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20350630
+DTEND;VALUE=DATE:20350701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:31. 12. 2035. ističe 2 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauzetu površinu o
+ dobrenog eksploatacijskog polja (KLOŠTAR IVANIĆ)\, 1.335 €/god.\n• I
+ NA-INDUSTRIJA NAFTE  D.D. – Dozvola za eksploataciju ugljikovodika (prem
+ a Zakonu o ugljikovodicima) (KLOŠTAR IVANIĆ)\, 1.335 €/god.\n\nProfil 
+ općine: https://koncesijski-sat.vercel.app/#opcina/41942358B7343232123189
+ 6
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B73432321231896
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-e5a931cadac13cbe@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20401231
+DTEND;VALUE=DATE:20410101
+SUMMARY:Ističe 2 koncesije · Kloštar Ivanić
+DESCRIPTION:2 ugovora o koncesiji ističe 31. 12. 2040.\n\n• INA-INDUSTRI
+ JA NAFTE  D.D. – Dozvola za eksploataciju ugljikovodika (prema Zakonu o 
+ ugljikovodicima) (KLOŠTAR IVANIĆ)\n• INA D.D. – Dozvola za eksploata
+ ciju ugljikovodika (prema Zakonu o ugljikovodicima) (KLOŠTAR IVANIĆ)\n\n
+ Profil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B734323
+ 21231896\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11.
+  2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B73432321231896
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 2 koncesije · Kloštar Ivanić
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-e5a931cadac13cbe@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20400630
+DTEND;VALUE=DATE:20400701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:31. 12. 2040. ističe 2 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Dozvola za eksploataciju ugljiko
+ vodika (prema Zakonu o ugljikovodicima) (KLOŠTAR IVANIĆ)\n• INA D.D. 
+ – Dozvola za eksploataciju ugljikovodika (prema Zakonu o ugljikovodicima
+ ) (KLOŠTAR IVANIĆ)\n\nProfil općine: https://koncesijski-sat.vercel.app
+ /#opcina/41942358B73432321231896
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B73432321231896
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-6edc3e58f42805b7@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20421231
+DTEND;VALUE=DATE:20430101
+SUMMARY:Ističe koncesija: INA-INDUSTRIJA NAFTE  D.D.
+DESCRIPTION:1 ugovor o koncesiji ističe 31. 12. 2042. Godišnja fiksna nak
+ nada: 11.668 €.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauze
+ tu površinu odobrenog eksploatacijskog polja (KLOŠTAR IVANIĆ)\, 11.668 
+ €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
+ 42358B73432321231896\nIzvor: Registar koncesija (FINA)\, obrada Koncesijsk
+ i sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B73432321231896
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: INA-INDUSTRIJA NAFTE  D.D.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-6edc3e58f42805b7@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20420630
+DTEND;VALUE=DATE:20420701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA-INDUSTRIJA N
+ AFTE  D.D.)
+DESCRIPTION:31. 12. 2042. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauzetu površinu od
+ obrenog eksploatacijskog polja (KLOŠTAR IVANIĆ)\, 11.668 €/god.\n\nPro
+ fil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B734323212
+ 31896
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B73432321231896
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA-INDUSTRI
+ JA NAFTE  D.D.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

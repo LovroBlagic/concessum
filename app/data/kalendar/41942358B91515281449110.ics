@@ -1,0 +1,57 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · Općina Matulji
+X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Matulji. Iz Regi
+ stra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade poda
+ taka. https://koncesijski-sat.vercel.app/#opcina/41942358B91515281449110
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-3182e8bea83853f9@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20270831
+DTEND;VALUE=DATE:20270901
+SUMMARY:Ističe koncesija: KOVAČIĆ\, OBRT ZA DIMNJAČARSKE USLUGE\, VL.KR
+ EŠIMIR KOVAČIĆ
+DESCRIPTION:1 ugovor o koncesiji ističe 31. 8. 2027. Godišnja fiksna nakn
+ ada: 1.097 €.\n\n• KOVAČIĆ\, OBRT ZA DIMNJAČARSKE USLUGE\, VL.KREŠ
+ IMIR KOVAČIĆ – Koncesija za obavljanje dimnjačarskih poslova (MATULJI
+ )\, 1.097 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#
+ opcina/41942358B91515281449110\nIzvor: Registar koncesija (FINA)\, obrada 
+ Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B91515281449110
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: KOVAČIĆ\, OBRT ZA DIMNJAČARSKE USLUGE\, V
+ L.KREŠIMIR KOVAČIĆ
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-3182e8bea83853f9@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270301
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (KOVAČIĆ\, OBRT
+  ZA DIMNJAČARSKE USLUGE\, VL.KREŠIMIR KOVAČIĆ)
+DESCRIPTION:31. 8. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• KOVAČIĆ\, OBRT ZA DIMNJAČARSKE USLUGE\, VL.KREŠIMIR KOVAČIĆ
+  – Koncesija za obavljanje dimnjačarskih poslova (MATULJI)\, 1.097 €/
+ god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4194235
+ 8B91515281449110
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B91515281449110
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (KOVAČIĆ\, 
+ OBRT ZA DIMNJAČARSKE USLUGE\, VL.KREŠIMIR KOVAČIĆ)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

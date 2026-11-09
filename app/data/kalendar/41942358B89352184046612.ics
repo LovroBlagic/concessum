@@ -1,0 +1,95 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · Općina Biskupija
+X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Biskupija. Iz Re
+ gistra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade po
+ dataka. https://koncesijski-sat.vercel.app/#opcina/41942358B89352184046612
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-467450703062c4ae@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20401231
+DTEND;VALUE=DATE:20410101
+SUMMARY:Ističe 2 koncesije · Biskupija
+DESCRIPTION:2 ugovora o koncesiji ističe 31. 12. 2040.\n\n• KNAUF D.O.O.
+  – Koncesija za eksploataciju gipsa (BISKUPIJA)\n• KNAUF D.O.O. – Ko
+ ncesija za eksploataciju gipsa (BISKUPIJA)\n\nProfil općine: https://konc
+ esijski-sat.vercel.app/#opcina/41942358B89352184046612\nIzvor: Registar ko
+ ncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B89352184046612
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 2 koncesije · Biskupija
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-467450703062c4ae@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20400630
+DTEND;VALUE=DATE:20400701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:31. 12. 2040. ističe 2 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• KNAUF D.O.O. – Koncesija za eksploataciju gipsa (BISKUPIJA)\n
+ • KNAUF D.O.O. – Koncesija za eksploataciju gipsa (BISKUPIJA)\n\nProfi
+ l općine: https://koncesijski-sat.vercel.app/#opcina/41942358B89352184046
+ 612
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B89352184046612
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-e9d571ecec29b4be@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20571231
+DTEND;VALUE=DATE:20580101
+SUMMARY:Ističe 3 koncesije · Biskupija
+DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2057. Godišnja fiksna na
+ knada: 70.142 €.\n\n• KNAUF D.O.O. – Koncesija za površinu utvrđen
+ og eksploatacijskog polja neenergetskih mineralnih sirovina (BISKUPIJA)\, 
+ 70.142 €/god.\n• KNAUF D.O.O. – Koncesija za eksploataciju gipsa (BI
+ SKUPIJA)\n• KNAUF D.O.O. – Koncesija za eksploataciju gipsa (BISKUPIJA
+ )\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B8
+ 9352184046612\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9
+ . 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B89352184046612
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 3 koncesije · Biskupija
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-e9d571ecec29b4be@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20570630
+DTEND;VALUE=DATE:20570701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:31. 12. 2057. ističe 3 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• KNAUF D.O.O. – Koncesija za površinu utvrđenog eksploatacij
+ skog polja neenergetskih mineralnih sirovina (BISKUPIJA)\, 70.142 €/god.
+ \n• KNAUF D.O.O. – Koncesija za eksploataciju gipsa (BISKUPIJA)\n• K
+ NAUF D.O.O. – Koncesija za eksploataciju gipsa (BISKUPIJA)\n\nProfil op
+ ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B89352184046612
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B89352184046612
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

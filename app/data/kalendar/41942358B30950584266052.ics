@@ -1,0 +1,339 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · Općina Otok
+X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Otok. Iz Registr
+ a koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podatak
+ a. https://koncesijski-sat.vercel.app/#opcina/41942358B30950584266052
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-b4f05ef23c9cc224@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20270731
+DTEND;VALUE=DATE:20270801
+SUMMARY:Ističe 2 koncesije · Otok
+DESCRIPTION:2 ugovora o koncesiji ističe 31. 7. 2027.\n\n• INA D.D. – 
+ Dozvola za eksploataciju ugljikovodika (prema Zakonu o ugljikovodicima) (O
+ TOK)\n• INA-INDUSTRIJA NAFTE  D.D. – Dozvola za eksploataciju ugljikov
+ odika (prema Zakonu o ugljikovodicima) (OTOK)\n\nProfil općine: https://k
+ oncesijski-sat.vercel.app/#opcina/41942358B30950584266052\nIzvor: Registar
+  koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B30950584266052
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 2 koncesije · Otok
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-b4f05ef23c9cc224@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:31. 7. 2027. ističe 2 ugovora o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• INA D.D. – Dozvola za eksploataciju ugljikovodika (prema Zakon
+ u o ugljikovodicima) (OTOK)\n• INA-INDUSTRIJA NAFTE  D.D. – Dozvola za
+  eksploataciju ugljikovodika (prema Zakonu o ugljikovodicima) (OTOK)\n\nPr
+ ofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B30950584
+ 266052
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B30950584266052
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-747b5efc275456ad@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20271218
+DTEND;VALUE=DATE:20271219
+SUMMARY:Ističe 2 koncesije · Otok
+DESCRIPTION:2 ugovora o koncesiji ističe 18. 12. 2027. Godišnja fiksna na
+ knada: 2.654 €.\n\n• ĐURO ČAČIĆ\, DIMNJAK\, VL. ĐURO ČAČIĆ –
+  Koncesija za obavljanje dimnjačarskih poslova (OTOK)\, 1.327 €/god.\n
+ • DIMNJAK\, OBRT ZA DIMNJAČARSKE USLUGE\, VL. ĐURO ČAČIĆ – Konces
+ ija za obavljanje dimnjačarskih poslova (OTOK)\, 1.327 €/god.\n\nProfil
+  općine: https://koncesijski-sat.vercel.app/#opcina/41942358B309505842660
+ 52\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B30950584266052
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 2 koncesije · Otok
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-747b5efc275456ad@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20270618
+DTEND;VALUE=DATE:20270619
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:18. 12. 2027. ističe 2 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• ĐURO ČAČIĆ\, DIMNJAK\, VL. ĐURO ČAČIĆ – Koncesija za 
+ obavljanje dimnjačarskih poslova (OTOK)\, 1.327 €/god.\n• DIMNJAK\, O
+ BRT ZA DIMNJAČARSKE USLUGE\, VL. ĐURO ČAČIĆ – Koncesija za obavljan
+ je dimnjačarskih poslova (OTOK)\, 1.327 €/god.\n\nProfil općine: https
+ ://koncesijski-sat.vercel.app/#opcina/41942358B30950584266052
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B30950584266052
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-d186f8d1c2daff09@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20290404
+DTEND;VALUE=DATE:20290405
+SUMMARY:Ističe koncesija: ĐURO ČAČIĆ\, DIMNJAK\, VL. ĐURO ČAČIĆ
+DESCRIPTION:1 ugovor o koncesiji ističe 4. 4. 2029. Godišnja fiksna nakna
+ da: 1.327 €.\n\n• ĐURO ČAČIĆ\, DIMNJAK\, VL. ĐURO ČAČIĆ – Ko
+ ncesija za obavljanje dimnjačarskih poslova (OTOK)\, 1.327 €/god.\n\nPr
+ ofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B30950584
+ 266052\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2
+ 026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B30950584266052
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: ĐURO ČAČIĆ\, DIMNJAK\, VL. ĐURO ČAČI
+ Ć
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-d186f8d1c2daff09@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20281004
+DTEND;VALUE=DATE:20281005
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ĐURO ČAČIĆ\,
+  DIMNJAK\, VL. ĐURO ČAČIĆ)
+DESCRIPTION:4. 4. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjele
+  treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
+ \n\n• ĐURO ČAČIĆ\, DIMNJAK\, VL. ĐURO ČAČIĆ – Koncesija za oba
+ vljanje dimnjačarskih poslova (OTOK)\, 1.327 €/god.\n\nProfil općine: 
+ https://koncesijski-sat.vercel.app/#opcina/41942358B30950584266052
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B30950584266052
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ĐURO ČAČI
+ Ć\, DIMNJAK\, VL. ĐURO ČAČIĆ)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-07cc71adec64cf6e@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20320318
+DTEND;VALUE=DATE:20320319
+SUMMARY:Ističe koncesija: HRVATSKA ELEKTROPRIVREDA  D.D.
+DESCRIPTION:1 ugovor o koncesiji ističe 18. 3. 2032.\n\n• HRVATSKA ELEKT
+ ROPRIVREDA  D.D. – Koncesija za korištenje vodne snage radi proizvodnje
+  električne energije (OTOK)\n\nProfil općine: https://koncesijski-sat.ve
+ rcel.app/#opcina/41942358B30950584266052\nIzvor: Registar koncesija (FINA)
+ \, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B30950584266052
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: HRVATSKA ELEKTROPRIVREDA  D.D.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-07cc71adec64cf6e@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20310918
+DTEND;VALUE=DATE:20310919
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKA ELEKTRO
+ PRIVREDA  D.D.)
+DESCRIPTION:18. 3. 2032. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• HRVATSKA ELEKTROPRIVREDA  D.D. – Koncesija za korištenje vodne
+  snage radi proizvodnje električne energije (OTOK)\n\nProfil općine: htt
+ ps://koncesijski-sat.vercel.app/#opcina/41942358B30950584266052
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B30950584266052
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKA ELE
+ KTROPRIVREDA  D.D.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-b83d01234bc61b58@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20331003
+DTEND;VALUE=DATE:20331004
+SUMMARY:Ističe koncesija: SEM 1986 D.D.
+DESCRIPTION:1 ugovor o koncesiji ističe 3. 10. 2033.\n\n• SEM 1986 D.D. 
+ – Koncesija za zahvaćanje voda radi prodaje na tržištu (OTOK)\n\nProf
+ il općine: https://koncesijski-sat.vercel.app/#opcina/41942358B3095058426
+ 6052\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 202
+ 6.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B30950584266052
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: SEM 1986 D.D.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-b83d01234bc61b58@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20330403
+DTEND;VALUE=DATE:20330404
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (SEM 1986 D.D.)
+DESCRIPTION:3. 10. 2033. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• SEM 1986 D.D. – Koncesija za zahvaćanje voda radi prodaje na t
+ ržištu (OTOK)\n\nProfil općine: https://koncesijski-sat.vercel.app/#opc
+ ina/41942358B30950584266052
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B30950584266052
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (SEM 1986 D.D
+ .)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-8438357238556bfc@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20391231
+DTEND;VALUE=DATE:20400101
+SUMMARY:Ističe koncesija: INA-INDUSTRIJA NAFTE  D.D.
+DESCRIPTION:1 ugovor o koncesiji ističe 31. 12. 2039.\n\n• INA-INDUSTRIJ
+ A NAFTE  D.D. – Dozvola za eksploataciju ugljikovodika (prema Zakonu o u
+ gljikovodicima) (OTOK)\n\nProfil općine: https://koncesijski-sat.vercel.a
+ pp/#opcina/41942358B30950584266052\nIzvor: Registar koncesija (FINA)\, obr
+ ada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B30950584266052
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: INA-INDUSTRIJA NAFTE  D.D.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-8438357238556bfc@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20390630
+DTEND;VALUE=DATE:20390701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA-INDUSTRIJA N
+ AFTE  D.D.)
+DESCRIPTION:31. 12. 2039. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Dozvola za eksploataciju ugljikov
+ odika (prema Zakonu o ugljikovodicima) (OTOK)\n\nProfil općine: https://k
+ oncesijski-sat.vercel.app/#opcina/41942358B30950584266052
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B30950584266052
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA-INDUSTRI
+ JA NAFTE  D.D.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-75a1ad90e48ce184@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20401231
+DTEND;VALUE=DATE:20410101
+SUMMARY:Ističe 2 koncesije · Otok
+DESCRIPTION:2 ugovora o koncesiji ističe 31. 12. 2040. Godišnja fiksna na
+ knada: 3.832 €.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauze
+ tu površinu odobrenog eksploatacijskog polja (OTOK)\, 2.153 €/god.\n•
+  INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauzetu površinu odobrenog e
+ ksploatacijskog polja (OTOK)\, 1.679 €/god.\n\nProfil općine: https://k
+ oncesijski-sat.vercel.app/#opcina/41942358B30950584266052\nIzvor: Registar
+  koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B30950584266052
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 2 koncesije · Otok
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-75a1ad90e48ce184@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20400630
+DTEND;VALUE=DATE:20400701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:31. 12. 2040. ističe 2 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauzetu površinu o
+ dobrenog eksploatacijskog polja (OTOK)\, 2.153 €/god.\n• INA-INDUSTRIJ
+ A NAFTE  D.D. – Koncesija za zauzetu površinu odobrenog eksploatacijsko
+ g polja (OTOK)\, 1.679 €/god.\n\nProfil općine: https://koncesijski-sat
+ .vercel.app/#opcina/41942358B30950584266052
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B30950584266052
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-f3f36bd6834db35c@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20420418
+DTEND;VALUE=DATE:20420419
+SUMMARY:Ističe koncesija: MIJATOVIĆ ANDRIJA\, OPG
+DESCRIPTION:1 ugovor o koncesiji ističe 18. 4. 2042. Godišnja fiksna nakn
+ ada: 13 €.\n\n• MIJATOVIĆ ANDRIJA\, OPG – Koncesija za zahvaćanje 
+ voda za melioracijsko navodnjavanje (OTOK)\, 13 €/god.\n\nProfil općine
+ : https://koncesijski-sat.vercel.app/#opcina/41942358B30950584266052\nIzvo
+ r: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B30950584266052
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: MIJATOVIĆ ANDRIJA\, OPG
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-f3f36bd6834db35c@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20411018
+DTEND;VALUE=DATE:20411019
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MIJATOVIĆ ANDRI
+ JA\, OPG)
+DESCRIPTION:18. 4. 2042. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• MIJATOVIĆ ANDRIJA\, OPG – Koncesija za zahvaćanje voda za mel
+ ioracijsko navodnjavanje (OTOK)\, 13 €/god.\n\nProfil općine: https://k
+ oncesijski-sat.vercel.app/#opcina/41942358B30950584266052
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B30950584266052
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MIJATOVIĆ A
+ NDRIJA\, OPG)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

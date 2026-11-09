@@ -1,0 +1,512 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · Grad Ivanić Grad
+X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Grad Ivanić Grad. Iz Re
+ gistra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade po
+ dataka. https://koncesijski-sat.vercel.app/#opcina/41942358B6406776425998
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-1660f61c35f06427@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:Ističe 2 koncesije · Ivanić Grad
+DESCRIPTION:2 ugovora o koncesiji ističe 31. 12. 2026.\n\n• INA-INDUSTRI
+ JA NAFTE  D.D. – Dozvola za eksploataciju ugljikovodika (prema Zakonu o 
+ ugljikovodicima) (IVANIĆ GRAD)\n• INA D.D. – Dozvola za eksploataciju
+  ugljikovodika (prema Zakonu o ugljikovodicima) (IVANIĆ GRAD)\n\nProfil o
+ pćine: https://koncesijski-sat.vercel.app/#opcina/41942358B6406776425998\
+ nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B6406776425998
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 2 koncesije · Ivanić Grad
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-73cd866799f08ad0@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20271113
+DTEND;VALUE=DATE:20271114
+SUMMARY:Ističe koncesija: ASPECT CROATIA KFT.
+DESCRIPTION:1 ugovor o koncesiji ističe 13. 11. 2027. Godišnja fiksna nak
+ nada: 5.685 €.\n\n• ASPECT CROATIA KFT. – Dozvola za istraživanje u
+ gljikovodika (prema Zakonu o ugljikovodicima) (IVANIĆ GRAD)\, 5.685 €/g
+ od.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358
+ B6406776425998\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 
+ 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B6406776425998
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: ASPECT CROATIA KFT.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-73cd866799f08ad0@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20270513
+DTEND;VALUE=DATE:20270514
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ASPECT CROATIA K
+ FT.)
+DESCRIPTION:13. 11. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• ASPECT CROATIA KFT. – Dozvola za istraživanje ugljikovodika (
+ prema Zakonu o ugljikovodicima) (IVANIĆ GRAD)\, 5.685 €/god.\n\nProfil 
+ općine: https://koncesijski-sat.vercel.app/#opcina/41942358B6406776425998
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B6406776425998
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ASPECT CROAT
+ IA KFT.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-00af301ce1eeae3c@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20271231
+DTEND;VALUE=DATE:20280101
+SUMMARY:Ističe koncesija: INA-INDUSTRIJA NAFTE  D.D.
+DESCRIPTION:1 ugovor o koncesiji ističe 31. 12. 2027.\n\n• INA-INDUSTRIJ
+ A NAFTE  D.D. – Dozvola za eksploataciju geotermalne vode za energetske 
+ svrhe (prema Zakonu o ugljikovodicima) (IVANIĆ GRAD)\n\nProfil općine: h
+ ttps://koncesijski-sat.vercel.app/#opcina/41942358B6406776425998\nIzvor: R
+ egistar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B6406776425998
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: INA-INDUSTRIJA NAFTE  D.D.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-00af301ce1eeae3c@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20270630
+DTEND;VALUE=DATE:20270701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA-INDUSTRIJA N
+ AFTE  D.D.)
+DESCRIPTION:31. 12. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Dozvola za eksploataciju geoterma
+ lne vode za energetske svrhe (prema Zakonu o ugljikovodicima) (IVANIĆ GRA
+ D)\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B
+ 6406776425998
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B6406776425998
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA-INDUSTRI
+ JA NAFTE  D.D.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-926a37fa97e32cea@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20280228
+DTEND;VALUE=DATE:20280229
+SUMMARY:Ističe koncesija: IVAPLIN D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 28. 2. 2028. Godišnja fiksna nakn
+ ada: 1.327 €.\n\n• IVAPLIN D.O.O. – Koncesija za obavljanje distribu
+ cije plina na postojećem distribucijskom sustavu (IVANIĆ GRAD)\, 1.327 
+ €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
+ 42358B6406776425998\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski
+  sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B6406776425998
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: IVAPLIN D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-926a37fa97e32cea@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20270828
+DTEND;VALUE=DATE:20270829
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (IVAPLIN D.O.O.)
+DESCRIPTION:28. 2. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• IVAPLIN D.O.O. – Koncesija za obavljanje distribucije plina na 
+ postojećem distribucijskom sustavu (IVANIĆ GRAD)\, 1.327 €/god.\n\nPro
+ fil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B640677642
+ 5998
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B6406776425998
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (IVAPLIN D.O.
+ O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-0c88e977c860e7ad@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20351231
+DTEND;VALUE=DATE:20360101
+SUMMARY:Ističe 3 koncesije · Ivanić Grad
+DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2035. Godišnja fiksna na
+ knada: 10.201 €.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauz
+ etu površinu odobrenog eksploatacijskog polja (IVANIĆ GRAD)\, 10.201 €
+ /god.\n• INA-INDUSTRIJA NAFTE  D.D. – Dozvola za eksploataciju ugljiko
+ vodika (prema Zakonu o ugljikovodicima) (IVANIĆ GRAD)\n• INA D.D. – D
+ ozvola za eksploataciju ugljikovodika (prema Zakonu o ugljikovodicima) (IV
+ ANIĆ GRAD)\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/
+ 41942358B6406776425998\nIzvor: Registar koncesija (FINA)\, obrada Koncesij
+ ski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B6406776425998
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 3 koncesije · Ivanić Grad
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-0c88e977c860e7ad@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20350630
+DTEND;VALUE=DATE:20350701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:31. 12. 2035. ističe 3 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauzetu površinu o
+ dobrenog eksploatacijskog polja (IVANIĆ GRAD)\, 10.201 €/god.\n• INA-
+ INDUSTRIJA NAFTE  D.D. – Dozvola za eksploataciju ugljikovodika (prema Z
+ akonu o ugljikovodicima) (IVANIĆ GRAD)\n• INA D.D. – Dozvola za ekspl
+ oataciju ugljikovodika (prema Zakonu o ugljikovodicima) (IVANIĆ GRAD)\n\n
+ Profil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B640677
+ 6425998
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B6406776425998
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-6fc80435fd09dae9@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20370112
+DTEND;VALUE=DATE:20370113
+SUMMARY:Ističe koncesija: ŠIRJAN D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 12. 1. 2037. Godišnja fiksna nakn
+ ada: 26.173 €.\n\n• ŠIRJAN D.O.O. – Koncesija za korištenje poljop
+ rivrednog zemljišta u vlasništvu države (IVANIĆ GRAD)\, 26.173 €/god
+ .\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B6
+ 406776425998\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9.
+  11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B6406776425998
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: ŠIRJAN D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-6fc80435fd09dae9@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20360712
+DTEND;VALUE=DATE:20360713
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ŠIRJAN D.O.O.)
+DESCRIPTION:12. 1. 2037. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• ŠIRJAN D.O.O. – Koncesija za korištenje poljoprivrednog zemlj
+ išta u vlasništvu države (IVANIĆ GRAD)\, 26.173 €/god.\n\nProfil op
+ ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B6406776425998
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B6406776425998
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ŠIRJAN D.O.
+ O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-329b2fec0b75e4d3@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20401231
+DTEND;VALUE=DATE:20410101
+SUMMARY:Ističe 3 koncesije · Ivanić Grad
+DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2040. Godišnja fiksna na
+ knada: 4.495 €.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauze
+ tu površinu odobrenog eksploatacijskog polja (IVANIĆ GRAD)\, 4.495 €/g
+ od.\n• INA-INDUSTRIJA NAFTE  D.D. – Dozvola za eksploataciju ugljikovo
+ dika (prema Zakonu o ugljikovodicima) (IVANIĆ GRAD)\n• INA D.D. – Doz
+ vola za eksploataciju ugljikovodika (prema Zakonu o ugljikovodicima) (IVAN
+ IĆ GRAD)\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41
+ 942358B6406776425998\nIzvor: Registar koncesija (FINA)\, obrada Koncesijsk
+ i sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B6406776425998
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 3 koncesije · Ivanić Grad
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-329b2fec0b75e4d3@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20400630
+DTEND;VALUE=DATE:20400701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:31. 12. 2040. ističe 3 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauzetu površinu o
+ dobrenog eksploatacijskog polja (IVANIĆ GRAD)\, 4.495 €/god.\n• INA-I
+ NDUSTRIJA NAFTE  D.D. – Dozvola za eksploataciju ugljikovodika (prema Za
+ konu o ugljikovodicima) (IVANIĆ GRAD)\n• INA D.D. – Dozvola za eksplo
+ ataciju ugljikovodika (prema Zakonu o ugljikovodicima) (IVANIĆ GRAD)\n\nP
+ rofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B6406776
+ 425998
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B6406776425998
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-4b26b2e2c2ee6ef0@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20411231
+DTEND;VALUE=DATE:20420101
+SUMMARY:Ističe 9 koncesija · Ivanić Grad
+DESCRIPTION:9 ugovora o koncesiji ističe 31. 12. 2041. Godišnja fiksna na
+ knada: 28.679 €.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauz
+ etu površinu odobrenog eksploatacijskog polja (IVANIĆ GRAD)\, 14.207 €
+ /god.\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauzetu površinu o
+ dobrenog eksploatacijskog polja (IVANIĆ GRAD)\, 14.207 €/god.\n• INA-
+ INDUSTRIJA NAFTE  D.D. – Koncesija za zauzetu površinu odobrenog eksplo
+ atacijskog polja (IVANIĆ GRAD)\, 265 €/god.\n• INA D.D. – Dozvola z
+ a eksploataciju ugljikovodika (prema Zakonu o ugljikovodicima) (IVANIĆ GR
+ AD)\n• INA-INDUSTRIJA NAFTE  D.D. – Dozvola za eksploataciju ugljikovo
+ dika (prema Zakonu o ugljikovodicima) (IVANIĆ GRAD)\n• INA-INDUSTRIJA N
+ AFTE  D.D. – Dozvola za eksploataciju ugljikovodika (prema Zakonu o uglj
+ ikovodicima) (IVANIĆ GRAD)\n• INA-INDUSTRIJA NAFTE  D.D. – Dozvola za
+  eksploataciju ugljikovodika (prema Zakonu o ugljikovodicima) (IVANIĆ GRA
+ D)\n• INA D.D. – Dozvola za eksploataciju ugljikovodika (prema Zakonu 
+ o ugljikovodicima) (IVANIĆ GRAD)\n• INA D.D. – Dozvola za eksploataci
+ ju ugljikovodika (prema Zakonu o ugljikovodicima) (IVANIĆ GRAD)\n\nProfil
+  općine: https://koncesijski-sat.vercel.app/#opcina/41942358B640677642599
+ 8\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B6406776425998
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 9 koncesija · Ivanić Grad
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-4b26b2e2c2ee6ef0@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20410630
+DTEND;VALUE=DATE:20410701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 9 koncesija
+DESCRIPTION:31. 12. 2041. ističe 9 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauzetu površinu o
+ dobrenog eksploatacijskog polja (IVANIĆ GRAD)\, 14.207 €/god.\n• INA-
+ INDUSTRIJA NAFTE  D.D. – Koncesija za zauzetu površinu odobrenog eksplo
+ atacijskog polja (IVANIĆ GRAD)\, 14.207 €/god.\n• INA-INDUSTRIJA NAFT
+ E  D.D. – Koncesija za zauzetu površinu odobrenog eksploatacijskog polj
+ a (IVANIĆ GRAD)\, 265 €/god.\n• INA D.D. – Dozvola za eksploataciju
+  ugljikovodika (prema Zakonu o ugljikovodicima) (IVANIĆ GRAD)\n• INA-IN
+ DUSTRIJA NAFTE  D.D. – Dozvola za eksploataciju ugljikovodika (prema Zak
+ onu o ugljikovodicima) (IVANIĆ GRAD)\n• INA-INDUSTRIJA NAFTE  D.D. – 
+ Dozvola za eksploataciju ugljikovodika (prema Zakonu o ugljikovodicima) (I
+ VANIĆ GRAD)\n• INA-INDUSTRIJA NAFTE  D.D. – Dozvola za eksploataciju 
+ ugljikovodika (prema Zakonu o ugljikovodicima) (IVANIĆ GRAD)\n• INA D.D
+ . – Dozvola za eksploataciju ugljikovodika (prema Zakonu o ugljikovodici
+ ma) (IVANIĆ GRAD)\n• INA D.D. – Dozvola za eksploataciju ugljikovodik
+ a (prema Zakonu o ugljikovodicima) (IVANIĆ GRAD)\n\nProfil općine: https
+ ://koncesijski-sat.vercel.app/#opcina/41942358B6406776425998
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B6406776425998
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 9 koncesija
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-90ec19cbf0be2257@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20441231
+DTEND;VALUE=DATE:20450101
+SUMMARY:Ističe koncesija: ŠIRJAN D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 31. 12. 2044. Godišnja fiksna nak
+ nada: 1.356 €.\n\n• ŠIRJAN D.O.O. – Koncesija za zahvaćanje voda z
+ a tehnološke potrebe (IVANIĆ GRAD)\, 1.356 €/god.\n\nProfil općine: h
+ ttps://koncesijski-sat.vercel.app/#opcina/41942358B6406776425998\nIzvor: R
+ egistar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B6406776425998
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: ŠIRJAN D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-90ec19cbf0be2257@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20440630
+DTEND;VALUE=DATE:20440701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ŠIRJAN D.O.O.)
+DESCRIPTION:31. 12. 2044. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• ŠIRJAN D.O.O. – Koncesija za zahvaćanje voda za tehnološke 
+ potrebe (IVANIĆ GRAD)\, 1.356 €/god.\n\nProfil općine: https://koncesi
+ jski-sat.vercel.app/#opcina/41942358B6406776425998
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B6406776425998
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ŠIRJAN D.O.
+ O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-8b180be9c92c504d@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20451231
+DTEND;VALUE=DATE:20460101
+SUMMARY:Ističe koncesija: OBITELJSKI RADIO IVANIĆ D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 31. 12. 2045. Godišnja fiksna nak
+ nada: 66 €.\n\n• OBITELJSKI RADIO IVANIĆ D.O.O. – Koncesija za obav
+ ljanje djelatnosti radija (IVANIĆ GRAD)\, 66 €/god.\n\nProfil općine: 
+ https://koncesijski-sat.vercel.app/#opcina/41942358B6406776425998\nIzvor: 
+ Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B6406776425998
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: OBITELJSKI RADIO IVANIĆ D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-8b180be9c92c504d@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20450630
+DTEND;VALUE=DATE:20450701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (OBITELJSKI RADIO
+  IVANIĆ D.O.O.)
+DESCRIPTION:31. 12. 2045. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• OBITELJSKI RADIO IVANIĆ D.O.O. – Koncesija za obavljanje djel
+ atnosti radija (IVANIĆ GRAD)\, 66 €/god.\n\nProfil općine: https://kon
+ cesijski-sat.vercel.app/#opcina/41942358B6406776425998
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B6406776425998
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (OBITELJSKI R
+ ADIO IVANIĆ D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-362379d9c0d7221f@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20480920
+DTEND;VALUE=DATE:20480921
+SUMMARY:Ističe koncesija: INA-INDUSTRIJA NAFTE  D.D.
+DESCRIPTION:1 ugovor o koncesiji ističe 20. 9. 2048. Godišnja fiksna nakn
+ ada: 37.162 €.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zahva
+ ćanje voda za tehnološke potrebe (IVANIĆ GRAD)\, 37.162 €/god.\n\nPro
+ fil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B640677642
+ 5998\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 202
+ 6.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B6406776425998
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: INA-INDUSTRIJA NAFTE  D.D.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-362379d9c0d7221f@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20480320
+DTEND;VALUE=DATE:20480321
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA-INDUSTRIJA N
+ AFTE  D.D.)
+DESCRIPTION:20. 9. 2048. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zahvaćanje voda za t
+ ehnološke potrebe (IVANIĆ GRAD)\, 37.162 €/god.\n\nProfil općine: htt
+ ps://koncesijski-sat.vercel.app/#opcina/41942358B6406776425998
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B6406776425998
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA-INDUSTRI
+ JA NAFTE  D.D.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-e8d02ef7da733850@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20481204
+DTEND;VALUE=DATE:20481205
+SUMMARY:Ističe koncesija: ŠIRJAN D.O.O. PODRAČUN
+DESCRIPTION:1 ugovor o koncesiji ističe 4. 12. 2048. Godišnja fiksna nakn
+ ada: 2.708 €.\n\n• ŠIRJAN D.O.O. PODRAČUN – Koncesija za zahvaćan
+ je voda za tehnološke potrebe (IVANIĆ GRAD)\, 2.708 €/god.\n\nProfil o
+ pćine: https://koncesijski-sat.vercel.app/#opcina/41942358B6406776425998\
+ nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B6406776425998
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: ŠIRJAN D.O.O. PODRAČUN
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-e8d02ef7da733850@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20480604
+DTEND;VALUE=DATE:20480605
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ŠIRJAN D.O.O. P
+ ODRAČUN)
+DESCRIPTION:4. 12. 2048. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• ŠIRJAN D.O.O. PODRAČUN – Koncesija za zahvaćanje voda za teh
+ nološke potrebe (IVANIĆ GRAD)\, 2.708 €/god.\n\nProfil općine: https:
+ //koncesijski-sat.vercel.app/#opcina/41942358B6406776425998
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B6406776425998
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ŠIRJAN D.O.
+ O. PODRAČUN)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

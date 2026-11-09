@@ -1,0 +1,57 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · Općina Kraljevec na Sutli
+X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Kraljevec na Sut
+ li. Iz Registra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake 
+ obrade podataka. https://koncesijski-sat.vercel.app/#opcina/41942358B14841
+ 32319361
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-45bef15a9c926c1d@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20300926
+DTEND;VALUE=DATE:20300927
+SUMMARY:Ističe koncesija: DIMNJAČAR\, USLUŽNI OBRT\, VL. MARKO POGAČIĆ
+DESCRIPTION:1 ugovor o koncesiji ističe 26. 9. 2030. Godišnja fiksna nakn
+ ada: 280 €.\n\n• DIMNJAČAR\, USLUŽNI OBRT\, VL. MARKO POGAČIĆ – 
+ Koncesija za obavljanje dimnjačarskih poslova (KRALJEVEC NA SUTLI)\, 280 
+ €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
+ 42358B1484132319361\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski
+  sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B1484132319361
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: DIMNJAČAR\, USLUŽNI OBRT\, VL. MARKO POGA
+ ČIĆ
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-45bef15a9c926c1d@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20300326
+DTEND;VALUE=DATE:20300327
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DIMNJAČAR\, USL
+ UŽNI OBRT\, VL. MARKO POGAČIĆ)
+DESCRIPTION:26. 9. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• DIMNJAČAR\, USLUŽNI OBRT\, VL. MARKO POGAČIĆ – Koncesija za
+  obavljanje dimnjačarskih poslova (KRALJEVEC NA SUTLI)\, 280 €/god.\n\n
+ Profil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B148413
+ 2319361
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B1484132319361
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DIMNJAČAR\,
+  USLUŽNI OBRT\, VL. MARKO POGAČIĆ)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,103 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · Općina Perušić
+X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Perušić. Iz Re
+ gistra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade po
+ dataka. https://koncesijski-sat.vercel.app/#opcina/41942358B37400713872492
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-58a8d6be3fd66d4d@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20291231
+DTEND;VALUE=DATE:20300101
+SUMMARY:Ističe 3 koncesije · Perušić
+DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2029. Godišnja fiksna na
+ knada: 3.344 €.\n\n• ROXIT HRVATSKA D.O.O. – Koncesija za površinu 
+ utvrđenog eksploatacijskog polja neenergetskih mineralnih sirovina (PERU
+ ŠIĆ)\, 1.672 €/god.\n• ROXIT HRVATSKA D.O.O. – Koncesija za eksplo
+ ataciju tehničko-građevnog kamena (PERUŠIĆ)\, 1.672 €/god.\n• ROXI
+ T HRVATSKA D.O.O. – Koncesija za eksploataciju tehničko-građevnog kame
+ na (PERUŠIĆ)\n\nProfil općine: https://koncesijski-sat.vercel.app/#opci
+ na/41942358B37400713872492\nIzvor: Registar koncesija (FINA)\, obrada Konc
+ esijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B37400713872492
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 3 koncesije · Perušić
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-58a8d6be3fd66d4d@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20290630
+DTEND;VALUE=DATE:20290701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:31. 12. 2029. ističe 3 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• ROXIT HRVATSKA D.O.O. – Koncesija za površinu utvrđenog eks
+ ploatacijskog polja neenergetskih mineralnih sirovina (PERUŠIĆ)\, 1.672 
+ €/god.\n• ROXIT HRVATSKA D.O.O. – Koncesija za eksploataciju tehnič
+ ko-građevnog kamena (PERUŠIĆ)\, 1.672 €/god.\n• ROXIT HRVATSKA D.O.
+ O. – Koncesija za eksploataciju tehničko-građevnog kamena (PERUŠIĆ)\
+ n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B374
+ 00713872492
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B37400713872492
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-8182127d8e87b09f@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20301231
+DTEND;VALUE=DATE:20310101
+SUMMARY:Ističe 3 koncesije · Perušić
+DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2030. Godišnja fiksna na
+ knada: 6.558 €.\n\n• LIKA KAMEN D.O.O. – Koncesija za površinu utvr
+ đenog eksploatacijskog polja neenergetskih mineralnih sirovina (PERUŠIĆ
+ )\, 6.558 €/god.\n• LIKA KAMEN D.O.O. – Koncesija za eksploataciju t
+ ehničko-građevnog kamena (PERUŠIĆ)\n• LIKA KAMEN D.O.O. – Koncesij
+ a za eksploataciju tehničko-građevnog kamena (PERUŠIĆ)\n\nProfil opći
+ ne: https://koncesijski-sat.vercel.app/#opcina/41942358B37400713872492\nIz
+ vor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B37400713872492
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 3 koncesije · Perušić
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-8182127d8e87b09f@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20300630
+DTEND;VALUE=DATE:20300701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:31. 12. 2030. ističe 3 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• LIKA KAMEN D.O.O. – Koncesija za površinu utvrđenog eksploa
+ tacijskog polja neenergetskih mineralnih sirovina (PERUŠIĆ)\, 6.558 €/
+ god.\n• LIKA KAMEN D.O.O. – Koncesija za eksploataciju tehničko-građ
+ evnog kamena (PERUŠIĆ)\n• LIKA KAMEN D.O.O. – Koncesija za eksploata
+ ciju tehničko-građevnog kamena (PERUŠIĆ)\n\nProfil općine: https://ko
+ ncesijski-sat.vercel.app/#opcina/41942358B37400713872492
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B37400713872492
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

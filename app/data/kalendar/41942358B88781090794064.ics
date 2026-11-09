@@ -1,0 +1,181 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · Grad Ogulin
+X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Grad Ogulin. Iz Registra
+  koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podataka
+ . https://koncesijski-sat.vercel.app/#opcina/41942358B88781090794064
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-5132ceb8c22e28e6@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20281231
+DTEND;VALUE=DATE:20290101
+SUMMARY:Ističe 3 koncesije · Ogulin
+DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2028. Godišnja fiksna na
+ knada: 798 €.\n\n• HRVATSKE ŠUME D.O.O. – Koncesija za površinu ut
+ vrđenog eksploatacijskog polja neenergetskih mineralnih sirovina (OGULIN)
+ \, 798 €/god.\n• HRVATSKE ŠUME D.O.O. – Koncesija za eksploataciju 
+ tehničko-građevnog kamena (OGULIN)\n• HRVATSKE ŠUME D.O.O. – Konces
+ ija za eksploataciju tehničko-građevnog kamena (OGULIN)\n\nProfil općin
+ e: https://koncesijski-sat.vercel.app/#opcina/41942358B88781090794064\nIzv
+ or: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B88781090794064
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 3 koncesije · Ogulin
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-5132ceb8c22e28e6@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20280630
+DTEND;VALUE=DATE:20280701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:31. 12. 2028. ističe 3 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• HRVATSKE ŠUME D.O.O. – Koncesija za površinu utvrđenog eks
+ ploatacijskog polja neenergetskih mineralnih sirovina (OGULIN)\, 798 €/g
+ od.\n• HRVATSKE ŠUME D.O.O. – Koncesija za eksploataciju tehničko-gr
+ ađevnog kamena (OGULIN)\n• HRVATSKE ŠUME D.O.O. – Koncesija za ekspl
+ oataciju tehničko-građevnog kamena (OGULIN)\n\nProfil općine: https://k
+ oncesijski-sat.vercel.app/#opcina/41942358B88781090794064
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B88781090794064
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-b149b4ef2598fd25@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20320318
+DTEND;VALUE=DATE:20320319
+SUMMARY:Ističe koncesija: HRVATSKA ELEKTROPRIVREDA  D.D.
+DESCRIPTION:1 ugovor o koncesiji ističe 18. 3. 2032.\n\n• HRVATSKA ELEKT
+ ROPRIVREDA  D.D. – Koncesija za korištenje vodne snage radi proizvodnje
+  električne energije (OGULIN)\n\nProfil općine: https://koncesijski-sat.
+ vercel.app/#opcina/41942358B88781090794064\nIzvor: Registar koncesija (FIN
+ A)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B88781090794064
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: HRVATSKA ELEKTROPRIVREDA  D.D.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-b149b4ef2598fd25@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20310918
+DTEND;VALUE=DATE:20310919
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKA ELEKTRO
+ PRIVREDA  D.D.)
+DESCRIPTION:18. 3. 2032. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• HRVATSKA ELEKTROPRIVREDA  D.D. – Koncesija za korištenje vodne
+  snage radi proizvodnje električne energije (OGULIN)\n\nProfil općine: h
+ ttps://koncesijski-sat.vercel.app/#opcina/41942358B88781090794064
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B88781090794064
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKA ELE
+ KTROPRIVREDA  D.D.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-bd9b00151af7d2aa@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20320908
+DTEND;VALUE=DATE:20320909
+SUMMARY:Ističe koncesija: STAMBENO KOMUNALNO GOSPODARSTVO D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 8. 9. 2032.\n\n• STAMBENO KOMUNA
+ LNO GOSPODARSTVO D.O.O. – Koncesija za obavljanje komunalne djelatnosti 
+ opskrbe toplinskom energijom (OGULIN)\n\nProfil općine: https://koncesijs
+ ki-sat.vercel.app/#opcina/41942358B88781090794064\nIzvor: Registar koncesi
+ ja (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B88781090794064
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: STAMBENO KOMUNALNO GOSPODARSTVO D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-bd9b00151af7d2aa@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20320308
+DTEND;VALUE=DATE:20320309
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (STAMBENO KOMUNAL
+ NO GOSPODARSTVO D.O.O.)
+DESCRIPTION:8. 9. 2032. ističe 1 ugovor o koncesiji. Novi postupak dodjele
+  treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
+ \n\n• STAMBENO KOMUNALNO GOSPODARSTVO D.O.O. – Koncesija za obavljanje
+  komunalne djelatnosti opskrbe toplinskom energijom (OGULIN)\n\nProfil op
+ ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B88781090794064
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B88781090794064
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (STAMBENO KOM
+ UNALNO GOSPODARSTVO D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-9b97cfe20f7c63d3@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20351231
+DTEND;VALUE=DATE:20360101
+SUMMARY:Ističe 3 koncesije · Ogulin
+DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2035. Godišnja fiksna na
+ knada: 1.862 €.\n\n• GTM-GAVAN D.O.O. – Koncesija za površinu utvr
+ đenog eksploatacijskog polja neenergetskih mineralnih sirovina (OGULIN)\,
+  1.862 €/god.\n• GTM-GAVAN D.O.O. – Koncesija za eksploataciju tehni
+ čko-građevnog kamena (OGULIN)\n• GTM-GAVAN D.O.O. – Koncesija za eks
+ ploataciju tehničko-građevnog kamena (OGULIN)\n\nProfil općine: https:/
+ /koncesijski-sat.vercel.app/#opcina/41942358B88781090794064\nIzvor: Regist
+ ar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B88781090794064
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 3 koncesije · Ogulin
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-9b97cfe20f7c63d3@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20350630
+DTEND;VALUE=DATE:20350701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:31. 12. 2035. ističe 3 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• GTM-GAVAN D.O.O. – Koncesija za površinu utvrđenog eksploat
+ acijskog polja neenergetskih mineralnih sirovina (OGULIN)\, 1.862 €/god.
+ \n• GTM-GAVAN D.O.O. – Koncesija za eksploataciju tehničko-građevnog
+  kamena (OGULIN)\n• GTM-GAVAN D.O.O. – Koncesija za eksploataciju tehn
+ ičko-građevnog kamena (OGULIN)\n\nProfil općine: https://koncesijski-sa
+ t.vercel.app/#opcina/41942358B88781090794064
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B88781090794064
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

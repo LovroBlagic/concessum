@@ -1,0 +1,55 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · Općina Strahoninec
+X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Strahoninec. Iz 
+ Registra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade 
+ podataka. https://koncesijski-sat.vercel.app/#opcina/41942358B932069392310
+ 13
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-c8f6e73a8e9dcad8@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20431026
+DTEND;VALUE=DATE:20431027
+SUMMARY:Ističe koncesija: DIMNJAČARSKI OBRT IVAN ZVER\, ČAKOVEC
+DESCRIPTION:1 ugovor o koncesiji ističe 26. 10. 2043. Godišnja fiksna nak
+ nada: 2.004 €.\n\n• DIMNJAČARSKI OBRT IVAN ZVER\, ČAKOVEC – Konces
+ ija za obavljanje dimnjačarskih poslova (STRAHONINEC)\, 2.004 €/god.\n\
+ nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B93206
+ 939231013\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11
+ . 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B93206939231013
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: DIMNJAČARSKI OBRT IVAN ZVER\, ČAKOVEC
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-c8f6e73a8e9dcad8@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20430426
+DTEND;VALUE=DATE:20430427
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DIMNJAČARSKI OB
+ RT IVAN ZVER\, ČAKOVEC)
+DESCRIPTION:26. 10. 2043. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• DIMNJAČARSKI OBRT IVAN ZVER\, ČAKOVEC – Koncesija za obavlja
+ nje dimnjačarskih poslova (STRAHONINEC)\, 2.004 €/god.\n\nProfil općin
+ e: https://koncesijski-sat.vercel.app/#opcina/41942358B93206939231013
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B93206939231013
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DIMNJAČARSK
+ I OBRT IVAN ZVER\, ČAKOVEC)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

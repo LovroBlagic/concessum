@@ -1,0 +1,411 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · Grad Slavonski Brod
+X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Grad Slavonski Brod. Iz 
+ Registra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade 
+ podataka. https://koncesijski-sat.vercel.app/#opcina/41942358B700569946581
+ 96
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-abe6e3eba0d99923@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20270209
+DTEND;VALUE=DATE:20270210
+SUMMARY:Ističe koncesija: HIDROGRADNJA D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 9. 2. 2027. Godišnja fiksna nakna
+ da: 3.836 €.\n\n• HIDROGRADNJA D.O.O. – Koncesija za zahvaćanje vod
+ a za tehnološke potrebe (SLAVONSKI BROD)\, 3.836 €/god.\n\nProfil opći
+ ne: https://koncesijski-sat.vercel.app/#opcina/41942358B70056994658196\nIz
+ vor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B70056994658196
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: HIDROGRADNJA D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-424102e9310c9f29@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20271231
+DTEND;VALUE=DATE:20280101
+SUMMARY:Ističe koncesija: RADIO BROD-INFORMIRANJE I MARKETING D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 31. 12. 2027. Godišnja fiksna nak
+ nada: 133 €.\n\n• RADIO BROD-INFORMIRANJE I MARKETING D.O.O. – Konce
+ sija za obavljanje djelatnosti radija (SLAVONSKI BROD)\, 133 €/god.\n\nP
+ rofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B7005699
+ 4658196\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 
+ 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B70056994658196
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: RADIO BROD-INFORMIRANJE I MARKETING D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-424102e9310c9f29@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20270630
+DTEND;VALUE=DATE:20270701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (RADIO BROD-INFOR
+ MIRANJE I MARKETING D.O.O.)
+DESCRIPTION:31. 12. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• RADIO BROD-INFORMIRANJE I MARKETING D.O.O. – Koncesija za obav
+ ljanje djelatnosti radija (SLAVONSKI BROD)\, 133 €/god.\n\nProfil općin
+ e: https://koncesijski-sat.vercel.app/#opcina/41942358B70056994658196
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B70056994658196
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (RADIO BROD-I
+ NFORMIRANJE I MARKETING D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-d2c41f3610336524@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20321025
+DTEND;VALUE=DATE:20321026
+SUMMARY:Ističe 3 koncesije · Slavonski Brod
+DESCRIPTION:3 ugovora o koncesiji ističe 25. 10. 2032. Godišnja fiksna na
+ knada: 5.973 €.\n\n• IN-GRUPA DIMNJAČARSKI OBRT VL. IGOR NENADIĆ –
+  Koncesija za obavljanje dimnjačarskih poslova (SLAVONSKI BROD)\, 1.991 
+ €/god.\n• IN-GRUPA DIMNJAČARSKI OBRT VL. IGOR NENADIĆ – Koncesija 
+ za obavljanje dimnjačarskih poslova (SLAVONSKI BROD)\, 1.991 €/god.\n
+ • IN-GRUPA DIMNJAČARSKI OBRT VL. IGOR NENADIĆ – Koncesija za obavlja
+ nje dimnjačarskih poslova (SLAVONSKI BROD)\, 1.991 €/god.\n\nProfil op
+ ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B70056994658196\
+ nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B70056994658196
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 3 koncesije · Slavonski Brod
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-d2c41f3610336524@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20320425
+DTEND;VALUE=DATE:20320426
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:25. 10. 2032. ističe 3 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• IN-GRUPA DIMNJAČARSKI OBRT VL. IGOR NENADIĆ – Koncesija za 
+ obavljanje dimnjačarskih poslova (SLAVONSKI BROD)\, 1.991 €/god.\n• I
+ N-GRUPA DIMNJAČARSKI OBRT VL. IGOR NENADIĆ – Koncesija za obavljanje d
+ imnjačarskih poslova (SLAVONSKI BROD)\, 1.991 €/god.\n• IN-GRUPA DIMN
+ JAČARSKI OBRT VL. IGOR NENADIĆ – Koncesija za obavljanje dimnjačarski
+ h poslova (SLAVONSKI BROD)\, 1.991 €/god.\n\nProfil općine: https://kon
+ cesijski-sat.vercel.app/#opcina/41942358B70056994658196
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B70056994658196
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-ca978f7855013f1a@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20370914
+DTEND;VALUE=DATE:20370915
+SUMMARY:Ističe koncesija: MANŠPED DRUŠTVO S OGRANIČENOM ODGOVORNOŠĆU 
+ ZA MEĐUNARODNI PRIJEVOZ I P
+DESCRIPTION:1 ugovor o koncesiji ističe 14. 9. 2037. Godišnja fiksna nakn
+ ada: 19.908 €.\n\n• MANŠPED DRUŠTVO S OGRANIČENOM ODGOVORNOŠĆU ZA
+  MEĐUNARODNI PRIJEVOZ I P – Koncesija za luku (SLAVONSKI BROD)\, 19.908
+  €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41
+ 942358B70056994658196\nIzvor: Registar koncesija (FINA)\, obrada Koncesijs
+ ki sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B70056994658196
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: MANŠPED DRUŠTVO S OGRANIČENOM ODGOVORNOŠ
+ ĆU ZA MEĐUNARODNI PRIJEVOZ I P
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-ca978f7855013f1a@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20370314
+DTEND;VALUE=DATE:20370315
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MANŠPED DRUŠTV
+ O S OGRANIČENOM ODGOVORNOŠĆU ZA MEĐUNARODNI PRIJEVOZ I P)
+DESCRIPTION:14. 9. 2037. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• MANŠPED DRUŠTVO S OGRANIČENOM ODGOVORNOŠĆU ZA MEĐUNARODNI P
+ RIJEVOZ I P – Koncesija za luku (SLAVONSKI BROD)\, 19.908 €/god.\n\nPr
+ ofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B70056994
+ 658196
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B70056994658196
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MANŠPED DRU
+ ŠTVO S OGRANIČENOM ODGOVORNOŠĆU ZA MEĐUNARODNI PRIJEVOZ I P)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-06f6ba1df644037a@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20380801
+DTEND;VALUE=DATE:20380802
+SUMMARY:Ističe koncesija: BROD-PLIN D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 1. 8. 2038. Godišnja fiksna nakna
+ da: 3.982 €.\n\n• BROD-PLIN D.O.O. – Koncesija za obavljanje komunal
+ ne djelatnosti opskrbe toplinskom energijom (SLAVONSKI BROD)\, 3.982 €/g
+ od.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358
+ B70056994658196\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat
+  9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B70056994658196
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: BROD-PLIN D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-06f6ba1df644037a@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20380201
+DTEND;VALUE=DATE:20380202
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BROD-PLIN D.O.O.
+ )
+DESCRIPTION:1. 8. 2038. ističe 1 ugovor o koncesiji. Novi postupak dodjele
+  treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
+ \n\n• BROD-PLIN D.O.O. – Koncesija za obavljanje komunalne djelatnosti
+  opskrbe toplinskom energijom (SLAVONSKI BROD)\, 3.982 €/god.\n\nProfil 
+ općine: https://koncesijski-sat.vercel.app/#opcina/41942358B7005699465819
+ 6
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B70056994658196
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BROD-PLIN D.
+ O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-878d916f6854008e@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20430731
+DTEND;VALUE=DATE:20430801
+SUMMARY:Ističe koncesija: DRUŠTVO MULTIPLE SKLEROZE BRODSKO-POSAVSKE ŽUP
+ ANIJE
+DESCRIPTION:1 ugovor o koncesiji ističe 31. 7. 2043. Godišnja fiksna nakn
+ ada: 66 €.\n\n• DRUŠTVO MULTIPLE SKLEROZE BRODSKO-POSAVSKE ŽUPANIJE 
+ – Koncesija za obavljanje djelatnosti radija (SLAVONSKI BROD)\, 66 €/g
+ od.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358
+ B70056994658196\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat
+  9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B70056994658196
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: DRUŠTVO MULTIPLE SKLEROZE BRODSKO-POSAVSKE 
+ ŽUPANIJE
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-878d916f6854008e@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20430131
+DTEND;VALUE=DATE:20430201
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DRUŠTVO MULTIPL
+ E SKLEROZE BRODSKO-POSAVSKE ŽUPANIJE)
+DESCRIPTION:31. 7. 2043. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• DRUŠTVO MULTIPLE SKLEROZE BRODSKO-POSAVSKE ŽUPANIJE – Koncesi
+ ja za obavljanje djelatnosti radija (SLAVONSKI BROD)\, 66 €/god.\n\nProf
+ il općine: https://koncesijski-sat.vercel.app/#opcina/41942358B7005699465
+ 8196
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B70056994658196
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DRUŠTVO MUL
+ TIPLE SKLEROZE BRODSKO-POSAVSKE ŽUPANIJE)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-3fd3e4ff9d7abb5d@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20460831
+DTEND;VALUE=DATE:20460901
+SUMMARY:Ističe koncesija: DELTA ENERGETIKA D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 31. 8. 2046. Godišnja fiksna nakn
+ ada: 106.178 €.\n\n• DELTA ENERGETIKA D.O.O. – Koncesija za luku (SL
+ AVONSKI BROD)\, 106.178 €/god.\n\nProfil općine: https://koncesijski-sa
+ t.vercel.app/#opcina/41942358B70056994658196\nIzvor: Registar koncesija (F
+ INA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B70056994658196
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: DELTA ENERGETIKA D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-3fd3e4ff9d7abb5d@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20460228
+DTEND;VALUE=DATE:20460301
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DELTA ENERGETIKA
+  D.O.O.)
+DESCRIPTION:31. 8. 2046. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• DELTA ENERGETIKA D.O.O. – Koncesija za luku (SLAVONSKI BROD)\, 
+ 106.178 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#op
+ cina/41942358B70056994658196
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B70056994658196
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DELTA ENERGE
+ TIKA D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-b1701db67c22057a@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20471221
+DTEND;VALUE=DATE:20471222
+SUMMARY:Ističe koncesija: SLAVONIJA DI  D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 21. 12. 2047. Godišnja fiksna nak
+ nada: 6.377 €.\n\n• SLAVONIJA DI  D.O.O. – Koncesija za zahvaćanje 
+ voda za tehnološke potrebe (SLAVONSKI BROD)\, 6.377 €/god.\n\nProfil op
+ ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B70056994658196\
+ nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B70056994658196
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: SLAVONIJA DI  D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-b1701db67c22057a@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20470621
+DTEND;VALUE=DATE:20470622
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (SLAVONIJA DI  D.
+ O.O.)
+DESCRIPTION:21. 12. 2047. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• SLAVONIJA DI  D.O.O. – Koncesija za zahvaćanje voda za tehnol
+ oške potrebe (SLAVONSKI BROD)\, 6.377 €/god.\n\nProfil općine: https:/
+ /koncesijski-sat.vercel.app/#opcina/41942358B70056994658196
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B70056994658196
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (SLAVONIJA DI
+   D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-2f19f88fd9f44a21@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20540514
+DTEND;VALUE=DATE:20540515
+SUMMARY:Ističe koncesija: VINDON D. O. O.
+DESCRIPTION:1 ugovor o koncesiji ističe 14. 5. 2054. Godišnja fiksna nakn
+ ada: 6.275 €.\n\n• VINDON D. O. O. – Koncesija za zahvaćanje voda z
+ a tehnološke potrebe (SLAVONSKI BROD)\, 6.275 €/god.\n\nProfil općine:
+  https://koncesijski-sat.vercel.app/#opcina/41942358B70056994658196\nIzvor
+ : Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B70056994658196
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: VINDON D. O. O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-2f19f88fd9f44a21@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20531114
+DTEND;VALUE=DATE:20531115
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VINDON D. O. O.)
+DESCRIPTION:14. 5. 2054. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• VINDON D. O. O. – Koncesija za zahvaćanje voda za tehnološke 
+ potrebe (SLAVONSKI BROD)\, 6.275 €/god.\n\nProfil općine: https://konce
+ sijski-sat.vercel.app/#opcina/41942358B70056994658196
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B70056994658196
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VINDON D. O.
+  O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-0b1408dc9208f60d@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20550626
+DTEND;VALUE=DATE:20550627
+SUMMARY:Ističe koncesija: ASPECT CROATIA KFT. - PODRUŽNICA ZAGREB
+DESCRIPTION:1 ugovor o koncesiji ističe 26. 6. 2055. Godišnja fiksna nakn
+ ada: 2.873 €.\n\n• ASPECT CROATIA KFT. - PODRUŽNICA ZAGREB – Dozvol
+ a za istraživanje ugljikovodika (prema Zakonu o ugljikovodicima) (SLAVONS
+ KI BROD)\, 2.873 €/god.\n\nProfil općine: https://koncesijski-sat.verce
+ l.app/#opcina/41942358B70056994658196\nIzvor: Registar koncesija (FINA)\, 
+ obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B70056994658196
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: ASPECT CROATIA KFT. - PODRUŽNICA ZAGREB
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-0b1408dc9208f60d@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20541226
+DTEND;VALUE=DATE:20541227
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ASPECT CROATIA K
+ FT. - PODRUŽNICA ZAGREB)
+DESCRIPTION:26. 6. 2055. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• ASPECT CROATIA KFT. - PODRUŽNICA ZAGREB – Dozvola za istraživ
+ anje ugljikovodika (prema Zakonu o ugljikovodicima) (SLAVONSKI BROD)\, 2.8
+ 73 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/
+ 41942358B70056994658196
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B70056994658196
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ASPECT CROAT
+ IA KFT. - PODRUŽNICA ZAGREB)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

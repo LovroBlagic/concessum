@@ -1,0 +1,241 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · Općina Tompojevci
+X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Tompojevci. Iz R
+ egistra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade p
+ odataka. https://koncesijski-sat.vercel.app/#opcina/41942358B1504854742228
+ 3
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-a3b8e528e2ee0494@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:Ističe koncesija: DIMNJAČARSKO-UZSLUŽNI OBRT EKO-DIM\, VL. HRVOJ
+ E HORVAT
+DESCRIPTION:1 ugovor o koncesiji ističe 24. 11. 2026. Godišnja fiksna nak
+ nada: 531 €.\n\n• DIMNJAČARSKO-UZSLUŽNI OBRT EKO-DIM\, VL. HRVOJE HO
+ RVAT – Koncesija za obavljanje dimnjačarskih poslova (TOMPOJEVCI)\, 531
+  €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41
+ 942358B15048547422283\nIzvor: Registar koncesija (FINA)\, obrada Koncesijs
+ ki sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B15048547422283
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: DIMNJAČARSKO-UZSLUŽNI OBRT EKO-DIM\, VL. H
+ RVOJE HORVAT
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-e606b4466cd4f59e@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20281008
+DTEND;VALUE=DATE:20281009
+SUMMARY:Ističe koncesija: KOMUNALAC D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 8. 10. 2028.\n\n• KOMUNALAC D.O.
+ O. – Koncesija skupljanja i odvoza komunalnog otpada (TOMPOJEVCI)\n\nPro
+ fil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B150485474
+ 22283\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 20
+ 26.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B15048547422283
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: KOMUNALAC D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-e606b4466cd4f59e@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20280408
+DTEND;VALUE=DATE:20280409
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (KOMUNALAC D.O.O.
+ )
+DESCRIPTION:8. 10. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• KOMUNALAC D.O.O. – Koncesija skupljanja i odvoza komunalnog otp
+ ada (TOMPOJEVCI)\n\nProfil općine: https://koncesijski-sat.vercel.app/#op
+ cina/41942358B15048547422283
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B15048547422283
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (KOMUNALAC D.
+ O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-2273801b36d19cd0@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20291011
+DTEND;VALUE=DATE:20291012
+SUMMARY:Ističe koncesija: VERMILION ZAGREB EXPLORATION D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 11. 10. 2029. Godišnja fiksna nak
+ nada: 3.185 €.\n\n• VERMILION ZAGREB EXPLORATION D.O.O. – Dozvola za
+  eksploataciju ugljikovodika (prema Zakonu o ugljikovodicima) (TOMPOJEVCI)
+ \, 3.185 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#o
+ pcina/41942358B15048547422283\nIzvor: Registar koncesija (FINA)\, obrada K
+ oncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B15048547422283
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: VERMILION ZAGREB EXPLORATION D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-2273801b36d19cd0@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20290411
+DTEND;VALUE=DATE:20290412
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VERMILION ZAGREB
+  EXPLORATION D.O.O.)
+DESCRIPTION:11. 10. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• VERMILION ZAGREB EXPLORATION D.O.O. – Dozvola za eksploataciju
+  ugljikovodika (prema Zakonu o ugljikovodicima) (TOMPOJEVCI)\, 3.185 €/g
+ od.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358
+ B15048547422283
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B15048547422283
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VERMILION ZA
+ GREB EXPLORATION D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-6b0b895bbfb356d3@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20291231
+DTEND;VALUE=DATE:20300101
+SUMMARY:Ističe koncesija: VERMILION ZAGREB EXPLORATION D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 31. 12. 2029.\n\n• VERMILION ZAG
+ REB EXPLORATION D.O.O. – Dozvola za eksploataciju ugljikovodika (prema Z
+ akonu o ugljikovodicima) (TOMPOJEVCI)\n\nProfil općine: https://koncesijs
+ ki-sat.vercel.app/#opcina/41942358B15048547422283\nIzvor: Registar koncesi
+ ja (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B15048547422283
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: VERMILION ZAGREB EXPLORATION D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-6b0b895bbfb356d3@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20290630
+DTEND;VALUE=DATE:20290701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VERMILION ZAGREB
+  EXPLORATION D.O.O.)
+DESCRIPTION:31. 12. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• VERMILION ZAGREB EXPLORATION D.O.O. – Dozvola za eksploataciju
+  ugljikovodika (prema Zakonu o ugljikovodicima) (TOMPOJEVCI)\n\nProfil op
+ ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B15048547422283
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B15048547422283
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VERMILION ZA
+ GREB EXPLORATION D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-5d6969e83920fcac@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20350920
+DTEND;VALUE=DATE:20350921
+SUMMARY:Ističe koncesija: HEP-PLIN D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 20. 9. 2035.\n\n• HEP-PLIN D.O.O
+ . – Koncesija za obavljanje distribucije plina na postojećem distribuci
+ jskom sustavu (TOMPOJEVCI)\n\nProfil općine: https://koncesijski-sat.verc
+ el.app/#opcina/41942358B15048547422283\nIzvor: Registar koncesija (FINA)\,
+  obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B15048547422283
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: HEP-PLIN D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-5d6969e83920fcac@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20350320
+DTEND;VALUE=DATE:20350321
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP-PLIN D.O.O.)
+DESCRIPTION:20. 9. 2035. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• HEP-PLIN D.O.O. – Koncesija za obavljanje distribucije plina na
+  postojećem distribucijskom sustavu (TOMPOJEVCI)\n\nProfil općine: https
+ ://koncesijski-sat.vercel.app/#opcina/41942358B15048547422283
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B15048547422283
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP-PLIN D.O
+ .O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-902e5f6a8ea21963@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20460321
+DTEND;VALUE=DATE:20460322
+SUMMARY:Ističe 2 koncesije · Tompojevci
+DESCRIPTION:2 ugovora o koncesiji ističe 21. 3. 2046. Godišnja fiksna nak
+ nada: 4.804 €.\n\n• VUPIK PLUS D.O.O. ZA PROIZVODNJU\, USLUGE I TRGOVI
+ NU – Koncesija za zahvaćanje voda za tehnološke potrebe (TOMPOJEVCI)\,
+  2.402 €/god.\n• VUPIK PLUS D.O.O. ZA PROIZVODNJU\, USLUGE I TRGOVINU 
+ – Koncesija za zahvaćanje voda za tehnološke potrebe (TOMPOJEVCI)\, 2.
+ 402 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina
+ /41942358B15048547422283\nIzvor: Registar koncesija (FINA)\, obrada Konces
+ ijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B15048547422283
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 2 koncesije · Tompojevci
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-902e5f6a8ea21963@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20450921
+DTEND;VALUE=DATE:20450922
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:21. 3. 2046. ističe 2 ugovora o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• VUPIK PLUS D.O.O. ZA PROIZVODNJU\, USLUGE I TRGOVINU – Koncesi
+ ja za zahvaćanje voda za tehnološke potrebe (TOMPOJEVCI)\, 2.402 €/god
+ .\n• VUPIK PLUS D.O.O. ZA PROIZVODNJU\, USLUGE I TRGOVINU – Koncesija 
+ za zahvaćanje voda za tehnološke potrebe (TOMPOJEVCI)\, 2.402 €/god.\n
+ \nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B1504
+ 8547422283
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B15048547422283
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

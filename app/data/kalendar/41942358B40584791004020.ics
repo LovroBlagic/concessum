@@ -1,0 +1,200 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · Općina Bale
+X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Bale. Iz Registr
+ a koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podatak
+ a. https://koncesijski-sat.vercel.app/#opcina/41942358B40584791004020
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-dca64daa29e73602@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20281201
+DTEND;VALUE=DATE:20281202
+SUMMARY:Ističe koncesija: DIMNJAK D.O.O. ZA DIMNJAČARSKE USLUGE I LOŽIŠ
+ NU TEHNIKU
+DESCRIPTION:1 ugovor o koncesiji ističe 1. 12. 2028. Godišnja fiksna nakn
+ ada: 500 €.\n\n• DIMNJAK D.O.O. ZA DIMNJAČARSKE USLUGE I LOŽIŠNU TE
+ HNIKU – Koncesija za obavljanje dimnjačarskih poslova (BALE - VALLE)\, 
+ 500 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina
+ /41942358B40584791004020\nIzvor: Registar koncesija (FINA)\, obrada Konces
+ ijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B40584791004020
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: DIMNJAK D.O.O. ZA DIMNJAČARSKE USLUGE I LO
+ ŽIŠNU TEHNIKU
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-dca64daa29e73602@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20280601
+DTEND;VALUE=DATE:20280602
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DIMNJAK D.O.O. Z
+ A DIMNJAČARSKE USLUGE I LOŽIŠNU TEHNIKU)
+DESCRIPTION:1. 12. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• DIMNJAK D.O.O. ZA DIMNJAČARSKE USLUGE I LOŽIŠNU TEHNIKU – Ko
+ ncesija za obavljanje dimnjačarskih poslova (BALE - VALLE)\, 500 €/god.
+ \n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B40
+ 584791004020
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B40584791004020
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DIMNJAK D.O.
+ O. ZA DIMNJAČARSKE USLUGE I LOŽIŠNU TEHNIKU)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-2d17b69bb0414f08@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20400617
+DTEND;VALUE=DATE:20400618
+SUMMARY:Ističe koncesija: PLINARA D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 17. 6. 2040.\n\n• PLINARA D.O.O.
+  – Koncesija za izgradnju distribucijskog sustava plinovoda i pružanje 
+ usluga distribucijskim sustavom (BALE - VALLE\, BARBAN\, BRTONIGLA - VERTE
+ NEGLIO\, BUJE - BUIE\, BUZET\, CEROVLJE\, FUNTANA - FONTANE\, GRAČIŠĆE\
+ , GROŽNJAN - GRISIGNANA\, KANFANAR\, KAROJBA\, KAŠTELIR - LABINCI - CAST
+ ELLIERE-S.DOMENICA\, LABIN\, LANIŠĆE\, LUPOGLAV\, MARČANA\, MOTOVUN - M
+ ONTONA\, NOVIGRAD\, OPRTALJ - PORTOLE\, PAZIN\, POREČ - PARENZO\, RAŠA\,
+  ROVINJ - ROVIGNO\, SVETA NEDELJA\, SVETI LOVREČ\, SVETI PETAR U ŠUMI\, 
+ SVETVINČENAT\, TAR-VABRIGA - TORRE - ABREGA\, TINJAN\, UMAG - UMAGO\, VI
+ ŠNJAN - VISIGNANO\, VIŽINADA - VISINADA\, VRSAR - ORSERA\, ŽMINJ)\n\nPr
+ ofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B40584791
+ 004020\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2
+ 026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B40584791004020
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: PLINARA D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-2d17b69bb0414f08@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20391217
+DTEND;VALUE=DATE:20391218
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PLINARA D.O.O.)
+DESCRIPTION:17. 6. 2040. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• PLINARA D.O.O. – Koncesija za izgradnju distribucijskog sustava
+  plinovoda i pružanje usluga distribucijskim sustavom (BALE - VALLE\, BAR
+ BAN\, BRTONIGLA - VERTENEGLIO\, BUJE - BUIE\, BUZET\, CEROVLJE\, FUNTANA -
+  FONTANE\, GRAČIŠĆE\, GROŽNJAN - GRISIGNANA\, KANFANAR\, KAROJBA\, KA
+ ŠTELIR - LABINCI - CASTELLIERE-S.DOMENICA\, LABIN\, LANIŠĆE\, LUPOGLAV\
+ , MARČANA\, MOTOVUN - MONTONA\, NOVIGRAD\, OPRTALJ - PORTOLE\, PAZIN\, PO
+ REČ - PARENZO\, RAŠA\, ROVINJ - ROVIGNO\, SVETA NEDELJA\, SVETI LOVREČ\
+ , SVETI PETAR U ŠUMI\, SVETVINČENAT\, TAR-VABRIGA - TORRE - ABREGA\, TIN
+ JAN\, UMAG - UMAGO\, VIŠNJAN - VISIGNANO\, VIŽINADA - VISINADA\, VRSAR -
+  ORSERA\, ŽMINJ)\n\nProfil općine: https://koncesijski-sat.vercel.app/#o
+ pcina/41942358B40584791004020
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B40584791004020
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PLINARA D.O.
+ O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-21690cbd7ba92c1b@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20411215
+DTEND;VALUE=DATE:20411216
+SUMMARY:Ističe koncesija: BINA-ISTRA D.D.
+DESCRIPTION:1 ugovor o koncesiji ističe 15. 12. 2041.\n\n• BINA-ISTRA D.
+ D. – Koncesija radi financiranja \, gradnje\, upravljanja i održavanja 
+ auto-ceste (BALE - VALLE\, BRTONIGLA - VERTENEGLIO\, BUJE - BUIE\, CEROVLJ
+ E\, KANFANAR\, KAŠTELIR - LABINCI - CASTELLIERE-S.DOMENICA\, LUPOGLAV\, M
+ ARČANA\, NOVIGRAD\, PAZIN\, POREČ - PARENZO\, SVETI LOVREČ\, SVETI PETA
+ R U ŠUMI\, SVETVINČENAT\, TAR-VABRIGA - TORRE - ABREGA\, VIŠNJAN - VISI
+ GNANO\, VODNJAN - DIGNANO\, ŽMINJ)\n\nProfil općine: https://koncesijski
+ -sat.vercel.app/#opcina/41942358B40584791004020\nIzvor: Registar koncesija
+  (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B40584791004020
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: BINA-ISTRA D.D.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-21690cbd7ba92c1b@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20410615
+DTEND;VALUE=DATE:20410616
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BINA-ISTRA D.D.)
+DESCRIPTION:15. 12. 2041. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• BINA-ISTRA D.D. – Koncesija radi financiranja \, gradnje\, upr
+ avljanja i održavanja auto-ceste (BALE - VALLE\, BRTONIGLA - VERTENEGLIO\
+ , BUJE - BUIE\, CEROVLJE\, KANFANAR\, KAŠTELIR - LABINCI - CASTELLIERE-S.
+ DOMENICA\, LUPOGLAV\, MARČANA\, NOVIGRAD\, PAZIN\, POREČ - PARENZO\, SVE
+ TI LOVREČ\, SVETI PETAR U ŠUMI\, SVETVINČENAT\, TAR-VABRIGA - TORRE - A
+ BREGA\, VIŠNJAN - VISIGNANO\, VODNJAN - DIGNANO\, ŽMINJ)\n\nProfil opći
+ ne: https://koncesijski-sat.vercel.app/#opcina/41942358B40584791004020
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B40584791004020
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BINA-ISTRA D
+ .D.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-3d24a8ee475e82c9@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20440731
+DTEND;VALUE=DATE:20440801
+SUMMARY:Ističe koncesija: MEDIA FI D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 31. 7. 2044. Godišnja fiksna nakn
+ ada: 66 €.\n\n• MEDIA FI D.O.O. – Koncesija za obavljanje djelatnost
+ i radija (BALE - VALLE\, KANFANAR\, ROVINJ - ROVIGNO\, SVETI PETAR U ŠUMI
+ \, VRSAR - ORSERA\, ŽMINJ)\, 66 €/god.\n\nProfil općine: https://konce
+ sijski-sat.vercel.app/#opcina/41942358B40584791004020\nIzvor: Registar kon
+ cesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B40584791004020
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: MEDIA FI D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-3d24a8ee475e82c9@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20440131
+DTEND;VALUE=DATE:20440201
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MEDIA FI D.O.O.)
+DESCRIPTION:31. 7. 2044. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• MEDIA FI D.O.O. – Koncesija za obavljanje djelatnosti radija (B
+ ALE - VALLE\, KANFANAR\, ROVINJ - ROVIGNO\, SVETI PETAR U ŠUMI\, VRSAR - 
+ ORSERA\, ŽMINJ)\, 66 €/god.\n\nProfil općine: https://koncesijski-sat.
+ vercel.app/#opcina/41942358B40584791004020
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B40584791004020
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MEDIA FI D.O
+ .O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

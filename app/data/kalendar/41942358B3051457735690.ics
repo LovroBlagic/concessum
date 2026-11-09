@@ -1,0 +1,447 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · Općina Šolta
+X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Šolta. Iz Regis
+ tra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podat
+ aka. https://koncesijski-sat.vercel.app/#opcina/41942358B3051457735690
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-00f861eb23a1c5e7@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:Ističe koncesija: KRILO SHIPPING COMPANY D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 31. 12. 2026. Godišnja fiksna nak
+ nada: 1.800 €.\n\n• KRILO SHIPPING COMPANY D.O.O. – Koncesija za luk
+ u (ŠOLTA)\, 1.800 €/god.\n\nProfil općine: https://koncesijski-sat.ver
+ cel.app/#opcina/41942358B3051457735690\nIzvor: Registar koncesija (FINA)\,
+  obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B3051457735690
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: KRILO SHIPPING COMPANY D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-e4ee553d551011ed@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20270531
+DTEND;VALUE=DATE:20270601
+SUMMARY:Ističe 3 koncesije · Šolta
+DESCRIPTION:3 ugovora o koncesiji ističe 31. 5. 2027. Godišnja fiksna nak
+ nada: 5.000 €.\n\n• UPS – Koncesija za luku (ŠOLTA)\, 3.000 €/god
+ .\n• KOMUNALNO BASILIJA D.O.O. – Koncesija za luku (ŠOLTA)\, 1.000 
+ €/god.\n• KOMUNALNO BASILIJA D.O.O. – Koncesija za luku (ŠOLTA)\, 1
+ .000 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcin
+ a/41942358B3051457735690\nIzvor: Registar koncesija (FINA)\, obrada Konces
+ ijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B3051457735690
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 3 koncesije · Šolta
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-e4ee553d551011ed@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:31. 5. 2027. ističe 3 ugovora o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• UPS – Koncesija za luku (ŠOLTA)\, 3.000 €/god.\n• KOMUNAL
+ NO BASILIJA D.O.O. – Koncesija za luku (ŠOLTA)\, 1.000 €/god.\n• KO
+ MUNALNO BASILIJA D.O.O. – Koncesija za luku (ŠOLTA)\, 1.000 €/god.\n\
+ nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B30514
+ 57735690
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B3051457735690
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-56a49365b05867ac@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20290905
+DTEND;VALUE=DATE:20290906
+SUMMARY:Ističe koncesija: INA\, D.D.
+DESCRIPTION:1 ugovor o koncesiji ističe 5. 9. 2029. Godišnja fiksna nakna
+ da: 6.375 €.\n\n• INA\, D.D. – Koncesija na pomorskom dobru (ŠOLTA)
+ \, 6.375 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#o
+ pcina/41942358B3051457735690\nIzvor: Registar koncesija (FINA)\, obrada Ko
+ ncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B3051457735690
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: INA\, D.D.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-56a49365b05867ac@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20290305
+DTEND;VALUE=DATE:20290306
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA\, D.D.)
+DESCRIPTION:5. 9. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjele
+  treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
+ \n\n• INA\, D.D. – Koncesija na pomorskom dobru (ŠOLTA)\, 6.375 €/g
+ od.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358
+ B3051457735690
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B3051457735690
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA\, D.D.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-3a312673bd0e6dfa@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20301231
+DTEND;VALUE=DATE:20310101
+SUMMARY:Ističe 3 koncesije · Šolta
+DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2030. Godišnja fiksna na
+ knada: 488 €.\n\n• KALEBIĆ D.O.O. – Koncesija za površinu utvrđen
+ og eksploatacijskog polja neenergetskih mineralnih sirovina (ŠOLTA)\, 488
+  €/god.\n• KALEBIĆ D.O.O. – Koncesija za eksploataciju tehničko-gr
+ ađevnog kamena (ŠOLTA)\n• KALEBIĆ D.O.O. – Koncesija za eksploataci
+ ju tehničko-građevnog kamena (ŠOLTA)\n\nProfil općine: https://koncesi
+ jski-sat.vercel.app/#opcina/41942358B3051457735690\nIzvor: Registar konces
+ ija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B3051457735690
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 3 koncesije · Šolta
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-3a312673bd0e6dfa@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20300630
+DTEND;VALUE=DATE:20300701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:31. 12. 2030. ističe 3 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• KALEBIĆ D.O.O. – Koncesija za površinu utvrđenog eksploata
+ cijskog polja neenergetskih mineralnih sirovina (ŠOLTA)\, 488 €/god.\n
+ • KALEBIĆ D.O.O. – Koncesija za eksploataciju tehničko-građevnog ka
+ mena (ŠOLTA)\n• KALEBIĆ D.O.O. – Koncesija za eksploataciju tehničk
+ o-građevnog kamena (ŠOLTA)\n\nProfil općine: https://koncesijski-sat.ve
+ rcel.app/#opcina/41942358B3051457735690
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B3051457735690
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-0a1e964840eaccd1@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20331109
+DTEND;VALUE=DATE:20331110
+SUMMARY:Ističe koncesija: TRAMAK 22 J.D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 9. 11. 2033. Godišnja fiksna nakn
+ ada: 12.092 €.\n\n• TRAMAK 22 J.D.O.O. – Koncesija na pomorskom dobr
+ u (ŠOLTA)\, 12.092 €/god.\n\nProfil općine: https://koncesijski-sat.ve
+ rcel.app/#opcina/41942358B3051457735690\nIzvor: Registar koncesija (FINA)\
+ , obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B3051457735690
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: TRAMAK 22 J.D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-0a1e964840eaccd1@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20330509
+DTEND;VALUE=DATE:20330510
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (TRAMAK 22 J.D.O.
+ O.)
+DESCRIPTION:9. 11. 2033. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• TRAMAK 22 J.D.O.O. – Koncesija na pomorskom dobru (ŠOLTA)\, 12
+ .092 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcin
+ a/41942358B3051457735690
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B3051457735690
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (TRAMAK 22 J.
+ D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-82d0293b1cec5b79@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20360612
+DTEND;VALUE=DATE:20360613
+SUMMARY:Ističe koncesija: HRVATSKI OPERATOR PRIJENOSNOG SUSTAVA D.D.
+DESCRIPTION:1 ugovor o koncesiji ističe 12. 6. 2036. Godišnja fiksna nakn
+ ada: 4.214 €.\n\n• HRVATSKI OPERATOR PRIJENOSNOG SUSTAVA D.D. – Konc
+ esija na pomorskom dobru (ŠOLTA)\, 4.214 €/god.\n\nProfil općine: http
+ s://koncesijski-sat.vercel.app/#opcina/41942358B3051457735690\nIzvor: Regi
+ star koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B3051457735690
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: HRVATSKI OPERATOR PRIJENOSNOG SUSTAVA D.D.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-82d0293b1cec5b79@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20351212
+DTEND;VALUE=DATE:20351213
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKI OPERATO
+ R PRIJENOSNOG SUSTAVA D.D.)
+DESCRIPTION:12. 6. 2036. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• HRVATSKI OPERATOR PRIJENOSNOG SUSTAVA D.D. – Koncesija na pomor
+ skom dobru (ŠOLTA)\, 4.214 €/god.\n\nProfil općine: https://koncesijsk
+ i-sat.vercel.app/#opcina/41942358B3051457735690
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B3051457735690
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKI OPE
+ RATOR PRIJENOSNOG SUSTAVA D.D.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-8ac8d655606b17d6@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20381024
+DTEND;VALUE=DATE:20381025
+SUMMARY:Ističe koncesija: H.L. DVORAC D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 24. 10. 2038. Godišnja fiksna nak
+ nada: 1.327 €.\n\n• H.L. DVORAC D.O.O. – Koncesija za luku (ŠOLTA)\
+ , 1.327 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#op
+ cina/41942358B3051457735690\nIzvor: Registar koncesija (FINA)\, obrada Kon
+ cesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B3051457735690
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: H.L. DVORAC D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-8ac8d655606b17d6@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20380424
+DTEND;VALUE=DATE:20380425
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (H.L. DVORAC D.O.
+ O.)
+DESCRIPTION:24. 10. 2038. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• H.L. DVORAC D.O.O. – Koncesija za luku (ŠOLTA)\, 1.327 €/go
+ d.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B
+ 3051457735690
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B3051457735690
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (H.L. DVORAC 
+ D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-e25813717d16b70f@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20390911
+DTEND;VALUE=DATE:20390912
+SUMMARY:Ističe koncesija: SAJTIJA D.O.O ZA UZGOJ RIBE I TRGOVINU
+DESCRIPTION:1 ugovor o koncesiji ističe 11. 9. 2039. Godišnja fiksna nakn
+ ada: 4.339 €.\n\n• SAJTIJA D.O.O ZA UZGOJ RIBE I TRGOVINU – Koncesij
+ a na pomorskom dobru u svrhu uzgoja morske ribe i školjkaša (ŠOLTA)\, 4
+ .339 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcin
+ a/41942358B3051457735690\nIzvor: Registar koncesija (FINA)\, obrada Konces
+ ijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B3051457735690
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: SAJTIJA D.O.O ZA UZGOJ RIBE I TRGOVINU
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-e25813717d16b70f@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20390311
+DTEND;VALUE=DATE:20390312
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (SAJTIJA D.O.O ZA
+  UZGOJ RIBE I TRGOVINU)
+DESCRIPTION:11. 9. 2039. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• SAJTIJA D.O.O ZA UZGOJ RIBE I TRGOVINU – Koncesija na pomorskom
+  dobru u svrhu uzgoja morske ribe i školjkaša (ŠOLTA)\, 4.339 €/god.\
+ n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B305
+ 1457735690
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B3051457735690
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (SAJTIJA D.O.
+ O ZA UZGOJ RIBE I TRGOVINU)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-efd67a4a43cef9b0@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20421016
+DTEND;VALUE=DATE:20421017
+SUMMARY:Ističe koncesija: VODOVOD I KANALIZACIJA D.O.O. ZA VODOOPSKRBU\, O
+ DVODNJU I PROČIŠĆAVANJE OTPADNIH VODA
+DESCRIPTION:1 ugovor o koncesiji ističe 16. 10. 2042. Godišnja fiksna nak
+ nada: 2.337 €.\n\n• VODOVOD I KANALIZACIJA D.O.O. ZA VODOOPSKRBU\, ODV
+ ODNJU I PROČIŠĆAVANJE OTPADNIH VODA – Koncesija na pomorskom dobru (
+ ŠOLTA)\, 2.337 €/god.\n\nProfil općine: https://koncesijski-sat.vercel
+ .app/#opcina/41942358B3051457735690\nIzvor: Registar koncesija (FINA)\, ob
+ rada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B3051457735690
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: VODOVOD I KANALIZACIJA D.O.O. ZA VODOOPSKRBU
+ \, ODVODNJU I PROČIŠĆAVANJE OTPADNIH VODA
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-efd67a4a43cef9b0@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20420416
+DTEND;VALUE=DATE:20420417
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VODOVOD I KANALI
+ ZACIJA D.O.O. ZA VODOOPSKRBU\, ODVODNJU I PROČIŠĆAVANJE OTPADNIH VODA)
+DESCRIPTION:16. 10. 2042. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• VODOVOD I KANALIZACIJA D.O.O. ZA VODOOPSKRBU\, ODVODNJU I PROČI
+ ŠĆAVANJE OTPADNIH VODA – Koncesija na pomorskom dobru (ŠOLTA)\, 2.337
+  €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41
+ 942358B3051457735690
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B3051457735690
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VODOVOD I KA
+ NALIZACIJA D.O.O. ZA VODOOPSKRBU\, ODVODNJU I PROČIŠĆAVANJE OTPADNIH VO
+ DA)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-58346e7e5738da8d@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20481231
+DTEND;VALUE=DATE:20490101
+SUMMARY:Ističe 3 koncesije · Šolta
+DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2048. Godišnja fiksna na
+ knada: 940 €.\n\n• KLARITAC D.O.O. – Koncesija za površinu utvrđen
+ og eksploatacijskog polja neenergetskih mineralnih sirovina (ŠOLTA)\, 940
+  €/god.\n• KLARITAC D.O.O. – Koncesija za eksploataciju tehničko-gr
+ ađevnog kamena (ŠOLTA)\n• KLARITAC D.O.O. – Koncesija za eksploataci
+ ju tehničko-građevnog kamena (ŠOLTA)\n\nProfil općine: https://koncesi
+ jski-sat.vercel.app/#opcina/41942358B3051457735690\nIzvor: Registar konces
+ ija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B3051457735690
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 3 koncesije · Šolta
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-58346e7e5738da8d@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20480630
+DTEND;VALUE=DATE:20480701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:31. 12. 2048. ističe 3 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• KLARITAC D.O.O. – Koncesija za površinu utvrđenog eksploata
+ cijskog polja neenergetskih mineralnih sirovina (ŠOLTA)\, 940 €/god.\n
+ • KLARITAC D.O.O. – Koncesija za eksploataciju tehničko-građevnog ka
+ mena (ŠOLTA)\n• KLARITAC D.O.O. – Koncesija za eksploataciju tehničk
+ o-građevnog kamena (ŠOLTA)\n\nProfil općine: https://koncesijski-sat.ve
+ rcel.app/#opcina/41942358B3051457735690
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B3051457735690
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-030f48c601e50ff2@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20760717
+DTEND;VALUE=DATE:20760718
+SUMMARY:Ističe koncesija: HRVATSKI TELEKOM D.D.
+DESCRIPTION:1 ugovor o koncesiji ističe 17. 7. 2076. Godišnja fiksna nakn
+ ada: 6.078 €.\n\n• HRVATSKI TELEKOM D.D. – Posebna upotreba pomorsko
+ g dobra (ŠOLTA)\, 6.078 €/god.\n\nProfil općine: https://koncesijski-s
+ at.vercel.app/#opcina/41942358B3051457735690\nIzvor: Registar koncesija (F
+ INA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B3051457735690
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: HRVATSKI TELEKOM D.D.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-030f48c601e50ff2@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20760117
+DTEND;VALUE=DATE:20760118
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKI TELEKOM
+  D.D.)
+DESCRIPTION:17. 7. 2076. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• HRVATSKI TELEKOM D.D. – Posebna upotreba pomorskog dobra (ŠOLT
+ A)\, 6.078 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/
+ #opcina/41942358B3051457735690
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B3051457735690
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKI TEL
+ EKOM D.D.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

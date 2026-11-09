@@ -1,0 +1,138 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · Općina Martinska Ves
+X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Martinska Ves. I
+ z Registra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrad
+ e podataka. https://koncesijski-sat.vercel.app/#opcina/41942358B7678552872
+ 6296
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-0d561c81082a2f5d@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20271113
+DTEND;VALUE=DATE:20271114
+SUMMARY:Ističe koncesija: ASPECT CROATIA KFT.
+DESCRIPTION:1 ugovor o koncesiji ističe 13. 11. 2027. Godišnja fiksna nak
+ nada: 6.680 €.\n\n• ASPECT CROATIA KFT. – Dozvola za istraživanje u
+ gljikovodika (prema Zakonu o ugljikovodicima) (MARTINSKA VES)\, 6.680 €/
+ god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4194235
+ 8B76785528726296\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sa
+ t 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B76785528726296
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: ASPECT CROATIA KFT.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-0d561c81082a2f5d@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20270513
+DTEND;VALUE=DATE:20270514
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ASPECT CROATIA K
+ FT.)
+DESCRIPTION:13. 11. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• ASPECT CROATIA KFT. – Dozvola za istraživanje ugljikovodika (
+ prema Zakonu o ugljikovodicima) (MARTINSKA VES)\, 6.680 €/god.\n\nProfil
+  općine: https://koncesijski-sat.vercel.app/#opcina/41942358B767855287262
+ 96
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B76785528726296
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ASPECT CROAT
+ IA KFT.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-d6188bd6ad5a9e87@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20271115
+DTEND;VALUE=DATE:20271116
+SUMMARY:Ističe 2 koncesije · Martinska Ves
+DESCRIPTION:2 ugovora o koncesiji ističe 15. 11. 2027.\n\n• ASPECT CROAT
+ IA KFT. - PODRUŽNICA ZAGREB – Dozvola za istraživanje ugljikovodika (p
+ rema Zakonu o ugljikovodicima) (MARTINSKA VES)\n• ASPECT CROATIA KFT. - 
+ PODRUŽNICA ZAGREB – Dozvola za istraživanje ugljikovodika (prema Zakon
+ u o ugljikovodicima) (MARTINSKA VES)\n\nProfil općine: https://koncesijsk
+ i-sat.vercel.app/#opcina/41942358B76785528726296\nIzvor: Registar koncesij
+ a (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B76785528726296
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 2 koncesije · Martinska Ves
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-d6188bd6ad5a9e87@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:15. 11. 2027. ističe 2 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• ASPECT CROATIA KFT. - PODRUŽNICA ZAGREB – Dozvola za istraž
+ ivanje ugljikovodika (prema Zakonu o ugljikovodicima) (MARTINSKA VES)\n•
+  ASPECT CROATIA KFT. - PODRUŽNICA ZAGREB – Dozvola za istraživanje ugl
+ jikovodika (prema Zakonu o ugljikovodicima) (MARTINSKA VES)\n\nProfil opć
+ ine: https://koncesijski-sat.vercel.app/#opcina/41942358B76785528726296
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B76785528726296
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-9f75e20b8038be34@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20411231
+DTEND;VALUE=DATE:20420101
+SUMMARY:Ističe koncesija: INA-INDUSTRIJA NAFTE  D.D.
+DESCRIPTION:1 ugovor o koncesiji ističe 31. 12. 2041.\n\n• INA-INDUSTRIJ
+ A NAFTE  D.D. – Dozvola za eksploataciju ugljikovodika (prema Zakonu o u
+ gljikovodicima) (MARTINSKA VES)\n\nProfil općine: https://koncesijski-sat
+ .vercel.app/#opcina/41942358B76785528726296\nIzvor: Registar koncesija (FI
+ NA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B76785528726296
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: INA-INDUSTRIJA NAFTE  D.D.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-9f75e20b8038be34@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20410630
+DTEND;VALUE=DATE:20410701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA-INDUSTRIJA N
+ AFTE  D.D.)
+DESCRIPTION:31. 12. 2041. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Dozvola za eksploataciju ugljikov
+ odika (prema Zakonu o ugljikovodicima) (MARTINSKA VES)\n\nProfil općine: 
+ https://koncesijski-sat.vercel.app/#opcina/41942358B76785528726296
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B76785528726296
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA-INDUSTRI
+ JA NAFTE  D.D.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

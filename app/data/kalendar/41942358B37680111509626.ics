@@ -1,0 +1,287 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · Grad Petrinja
+X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Grad Petrinja. Iz Regist
+ ra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podata
+ ka. https://koncesijski-sat.vercel.app/#opcina/41942358B37680111509626
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-3f16de0cd73878bd@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20270426
+DTEND;VALUE=DATE:20270427
+SUMMARY:Ističe koncesija: PETRINJSKI RADIO D.O.O. ZA RADIJSKU DJELATNOST
+DESCRIPTION:1 ugovor o koncesiji ističe 26. 4. 2027. Godišnja fiksna nakn
+ ada: 66 €.\n\n• PETRINJSKI RADIO D.O.O. ZA RADIJSKU DJELATNOST – Kon
+ cesija za obavljanje djelatnosti radija (PETRINJA)\, 66 €/god.\n\nProfil
+  općine: https://koncesijski-sat.vercel.app/#opcina/41942358B376801115096
+ 26\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B37680111509626
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: PETRINJSKI RADIO D.O.O. ZA RADIJSKU DJELATNO
+ ST
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-a98b1d675a397966@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20271113
+DTEND;VALUE=DATE:20271114
+SUMMARY:Ističe koncesija: ASPECT CROATIA KFT.
+DESCRIPTION:1 ugovor o koncesiji ističe 13. 11. 2027. Godišnja fiksna nak
+ nada: 153 €.\n\n• ASPECT CROATIA KFT. – Dozvola za istraživanje ugl
+ jikovodika (prema Zakonu o ugljikovodicima) (PETRINJA)\, 153 €/god.\n\nP
+ rofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B3768011
+ 1509626\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 
+ 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B37680111509626
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: ASPECT CROATIA KFT.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-a98b1d675a397966@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20270513
+DTEND;VALUE=DATE:20270514
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ASPECT CROATIA K
+ FT.)
+DESCRIPTION:13. 11. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• ASPECT CROATIA KFT. – Dozvola za istraživanje ugljikovodika (
+ prema Zakonu o ugljikovodicima) (PETRINJA)\, 153 €/god.\n\nProfil općin
+ e: https://koncesijski-sat.vercel.app/#opcina/41942358B37680111509626
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B37680111509626
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ASPECT CROAT
+ IA KFT.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-8647515fd1a28d89@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20290219
+DTEND;VALUE=DATE:20290220
+SUMMARY:Ističe koncesija: CRNKOVIĆ\, OBRT ZA DIMNJAČARSKE USLUGE\, VL. J
+ OSIP CRNKOVIĆ\, PETRINJA\, I. HANGIJA 19
+DESCRIPTION:1 ugovor o koncesiji ističe 19. 2. 2029. Godišnja fiksna nakn
+ ada: 1.141 €.\n\n• CRNKOVIĆ\, OBRT ZA DIMNJAČARSKE USLUGE\, VL. JOSI
+ P CRNKOVIĆ\, PETRINJA\, I. HANGIJA 19 – Koncesija za obavljanje dimnja
+ čarskih poslova (PETRINJA)\, 1.141 €/god.\n\nProfil općine: https://ko
+ ncesijski-sat.vercel.app/#opcina/41942358B37680111509626\nIzvor: Registar 
+ koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B37680111509626
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: CRNKOVIĆ\, OBRT ZA DIMNJAČARSKE USLUGE\, V
+ L. JOSIP CRNKOVIĆ\, PETRINJA\, I. HANGIJA 19
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-8647515fd1a28d89@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20280819
+DTEND;VALUE=DATE:20280820
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (CRNKOVIĆ\, OBRT
+  ZA DIMNJAČARSKE USLUGE\, VL. JOSIP CRNKOVIĆ\, PETRINJA\, I. HANGIJA 19)
+DESCRIPTION:19. 2. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• CRNKOVIĆ\, OBRT ZA DIMNJAČARSKE USLUGE\, VL. JOSIP CRNKOVIĆ\, 
+ PETRINJA\, I. HANGIJA 19 – Koncesija za obavljanje dimnjačarskih poslov
+ a (PETRINJA)\, 1.141 €/god.\n\nProfil općine: https://koncesijski-sat.v
+ ercel.app/#opcina/41942358B37680111509626
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B37680111509626
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (CRNKOVIĆ\, 
+ OBRT ZA DIMNJAČARSKE USLUGE\, VL. JOSIP CRNKOVIĆ\, PETRINJA\, I. HANGIJA
+  19)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-8828df83b2f2bb0a@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20381231
+DTEND;VALUE=DATE:20390101
+SUMMARY:Ističe 3 koncesije · Petrinja
+DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2038. Godišnja fiksna na
+ knada: 8.276 €.\n\n• KAMENOLOM MEĐURAČE D.O.O. – Koncesija za eksp
+ loataciju tehničko-građevnog kamena (PETRINJA)\, 4.138 €/god.\n• KAM
+ ENOLOM MEĐURAČE D.O.O. – Koncesija za površinu utvrđenog eksploataci
+ jskog polja neenergetskih mineralnih sirovina (PETRINJA)\, 4.138 €/god.\
+ n• KAMENOLOM MEĐURAČE D.O.O. – Koncesija za eksploataciju tehničko-
+ građevnog kamena (PETRINJA)\n\nProfil općine: https://koncesijski-sat.ve
+ rcel.app/#opcina/41942358B37680111509626\nIzvor: Registar koncesija (FINA)
+ \, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B37680111509626
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 3 koncesije · Petrinja
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-8828df83b2f2bb0a@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20380630
+DTEND;VALUE=DATE:20380701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:31. 12. 2038. ističe 3 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• KAMENOLOM MEĐURAČE D.O.O. – Koncesija za eksploataciju tehn
+ ičko-građevnog kamena (PETRINJA)\, 4.138 €/god.\n• KAMENOLOM MEĐURA
+ ČE D.O.O. – Koncesija za površinu utvrđenog eksploatacijskog polja ne
+ energetskih mineralnih sirovina (PETRINJA)\, 4.138 €/god.\n• KAMENOLOM
+  MEĐURAČE D.O.O. – Koncesija za eksploataciju tehničko-građevnog kam
+ ena (PETRINJA)\n\nProfil općine: https://koncesijski-sat.vercel.app/#opci
+ na/41942358B37680111509626
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B37680111509626
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-5432443c1e4b2b8c@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20420119
+DTEND;VALUE=DATE:20420120
+SUMMARY:Ističe koncesija: GAVRILOVIĆ D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 19. 1. 2042. Godišnja fiksna nakn
+ ada: 26.545 €.\n\n• GAVRILOVIĆ D.O.O. – Koncesija za zahvaćanje vo
+ da za tehnološke potrebe (PETRINJA)\, 26.545 €/god.\n\nProfil općine: 
+ https://koncesijski-sat.vercel.app/#opcina/41942358B37680111509626\nIzvor:
+  Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B37680111509626
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: GAVRILOVIĆ D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-5432443c1e4b2b8c@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20410719
+DTEND;VALUE=DATE:20410720
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (GAVRILOVIĆ D.O.
+ O.)
+DESCRIPTION:19. 1. 2042. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• GAVRILOVIĆ D.O.O. – Koncesija za zahvaćanje voda za tehnološ
+ ke potrebe (PETRINJA)\, 26.545 €/god.\n\nProfil općine: https://koncesi
+ jski-sat.vercel.app/#opcina/41942358B37680111509626
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B37680111509626
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (GAVRILOVIĆ 
+ D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-dfdb82c60907cb0b@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20510427
+DTEND;VALUE=DATE:20510428
+SUMMARY:Ističe koncesija: POLJOPRIVREDA STANCI D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 27. 4. 2051. Godišnja fiksna nakn
+ ada: 1.274 €.\n\n• POLJOPRIVREDA STANCI D.O.O. – Koncesija za zahva
+ ćanje voda za tehnološke potrebe (PETRINJA)\, 1.274 €/god.\n\nProfil o
+ pćine: https://koncesijski-sat.vercel.app/#opcina/41942358B37680111509626
+ \nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B37680111509626
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: POLJOPRIVREDA STANCI D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-dfdb82c60907cb0b@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20501027
+DTEND;VALUE=DATE:20501028
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (POLJOPRIVREDA ST
+ ANCI D.O.O.)
+DESCRIPTION:27. 4. 2051. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• POLJOPRIVREDA STANCI D.O.O. – Koncesija za zahvaćanje voda za 
+ tehnološke potrebe (PETRINJA)\, 1.274 €/god.\n\nProfil općine: https:/
+ /koncesijski-sat.vercel.app/#opcina/41942358B37680111509626
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B37680111509626
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (POLJOPRIVRED
+ A STANCI D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-05cf9190941dff96@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20550626
+DTEND;VALUE=DATE:20550627
+SUMMARY:Ističe koncesija: ASPECT CROATIA KFT. - PODRUŽNICA ZAGREB
+DESCRIPTION:1 ugovor o koncesiji ističe 26. 6. 2055. Godišnja fiksna nakn
+ ada: 14.694 €.\n\n• ASPECT CROATIA KFT. - PODRUŽNICA ZAGREB – Dozvo
+ la za istraživanje ugljikovodika (prema Zakonu o ugljikovodicima) (PETRIN
+ JA)\, 14.694 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.ap
+ p/#opcina/41942358B37680111509626\nIzvor: Registar koncesija (FINA)\, obra
+ da Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B37680111509626
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: ASPECT CROATIA KFT. - PODRUŽNICA ZAGREB
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-05cf9190941dff96@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20541226
+DTEND;VALUE=DATE:20541227
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ASPECT CROATIA K
+ FT. - PODRUŽNICA ZAGREB)
+DESCRIPTION:26. 6. 2055. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• ASPECT CROATIA KFT. - PODRUŽNICA ZAGREB – Dozvola za istraživ
+ anje ugljikovodika (prema Zakonu o ugljikovodicima) (PETRINJA)\, 14.694 
+ €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
+ 42358B37680111509626
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B37680111509626
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ASPECT CROAT
+ IA KFT. - PODRUŽNICA ZAGREB)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

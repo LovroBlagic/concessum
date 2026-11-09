@@ -1,0 +1,194 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · Općina Bizovac
+X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Bizovac. Iz Regi
+ stra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade poda
+ taka. https://koncesijski-sat.vercel.app/#opcina/41942358B72049313505597
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-e4de7100a14b8622@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:Ističe koncesija: INA-INDUSTRIJA NAFTE  D.D.
+DESCRIPTION:1 ugovor o koncesiji ističe 31. 12. 2026.\n\n• INA-INDUSTRIJ
+ A NAFTE  D.D. – Dozvola za eksploataciju geotermalne vode za energetske 
+ svrhe (prema Zakonu o ugljikovodicima) (BIZOVAC)\n\nProfil općine: https:
+ //koncesijski-sat.vercel.app/#opcina/41942358B72049313505597\nIzvor: Regis
+ tar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B72049313505597
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: INA-INDUSTRIJA NAFTE  D.D.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-dd325d9a9f66219f@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20330406
+DTEND;VALUE=DATE:20330407
+SUMMARY:Ističe koncesija: SAMOSTAL.DIMNJAČARSKA RADNJA TIBORJANCI
+DESCRIPTION:1 ugovor o koncesiji ističe 6. 4. 2033. Godišnja fiksna nakna
+ da: 150 €.\n\n• SAMOSTAL.DIMNJAČARSKA RADNJA TIBORJANCI – Koncesija
+  za obavljanje dimnjačarskih poslova (BIZOVAC)\, 150 €/god.\n\nProfil o
+ pćine: https://koncesijski-sat.vercel.app/#opcina/41942358B72049313505597
+ \nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B72049313505597
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: SAMOSTAL.DIMNJAČARSKA RADNJA TIBORJANCI
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-dd325d9a9f66219f@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20321006
+DTEND;VALUE=DATE:20321007
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (SAMOSTAL.DIMNJA
+ ČARSKA RADNJA TIBORJANCI)
+DESCRIPTION:6. 4. 2033. ističe 1 ugovor o koncesiji. Novi postupak dodjele
+  treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
+ \n\n• SAMOSTAL.DIMNJAČARSKA RADNJA TIBORJANCI – Koncesija za obavljan
+ je dimnjačarskih poslova (BIZOVAC)\, 150 €/god.\n\nProfil općine: http
+ s://koncesijski-sat.vercel.app/#opcina/41942358B72049313505597
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B72049313505597
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (SAMOSTAL.DIM
+ NJAČARSKA RADNJA TIBORJANCI)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-ad4392488ef18d0d@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20330806
+DTEND;VALUE=DATE:20330807
+SUMMARY:Ističe koncesija: HEP - PLIN  D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 6. 8. 2033.\n\n• HEP - PLIN  D.O
+ .O. – Koncesija za opskrbu potrošača prirodnim plinom (BIZOVAC)\n\nPro
+ fil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B720493135
+ 05597\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 20
+ 26.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B72049313505597
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: HEP - PLIN  D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-ad4392488ef18d0d@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20330206
+DTEND;VALUE=DATE:20330207
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP - PLIN  D.O.
+ O.)
+DESCRIPTION:6. 8. 2033. ističe 1 ugovor o koncesiji. Novi postupak dodjele
+  treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
+ \n\n• HEP - PLIN  D.O.O. – Koncesija za opskrbu potrošača prirodnim 
+ plinom (BIZOVAC)\n\nProfil općine: https://koncesijski-sat.vercel.app/#op
+ cina/41942358B72049313505597
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B72049313505597
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP - PLIN  
+ D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-71654f181eb54362@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20351231
+DTEND;VALUE=DATE:20360101
+SUMMARY:Ističe koncesija: INA-INDUSTRIJA NAFTE  D.D.
+DESCRIPTION:1 ugovor o koncesiji ističe 31. 12. 2035. Godišnja fiksna nak
+ nada: 4.601 €.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauzet
+ u površinu odobrenog eksploatacijskog polja (BIZOVAC)\, 4.601 €/god.\n\
+ nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B72049
+ 313505597\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11
+ . 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B72049313505597
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: INA-INDUSTRIJA NAFTE  D.D.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-71654f181eb54362@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20350630
+DTEND;VALUE=DATE:20350701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA-INDUSTRIJA N
+ AFTE  D.D.)
+DESCRIPTION:31. 12. 2035. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauzetu površinu od
+ obrenog eksploatacijskog polja (BIZOVAC)\, 4.601 €/god.\n\nProfil općin
+ e: https://koncesijski-sat.vercel.app/#opcina/41942358B72049313505597
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B72049313505597
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA-INDUSTRI
+ JA NAFTE  D.D.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-2a9a653cf7ab4589@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20370112
+DTEND;VALUE=DATE:20370113
+SUMMARY:Ističe koncesija: PPK VALPOVO  D.D.
+DESCRIPTION:1 ugovor o koncesiji ističe 12. 1. 2037. Godišnja fiksna nakn
+ ada: 166.905 €.\n\n• PPK VALPOVO  D.D. – Koncesija za korištenje po
+ ljoprivrednog zemljišta u vlasništvu države (BIZOVAC)\, 166.905 €/god
+ .\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B7
+ 2049313505597\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9
+ . 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B72049313505597
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: PPK VALPOVO  D.D.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-2a9a653cf7ab4589@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20360712
+DTEND;VALUE=DATE:20360713
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PPK VALPOVO  D.D
+ .)
+DESCRIPTION:12. 1. 2037. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• PPK VALPOVO  D.D. – Koncesija za korištenje poljoprivrednog ze
+ mljišta u vlasništvu države (BIZOVAC)\, 166.905 €/god.\n\nProfil opć
+ ine: https://koncesijski-sat.vercel.app/#opcina/41942358B72049313505597
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B72049313505597
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PPK VALPOVO 
+  D.D.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

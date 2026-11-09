@@ -1,0 +1,113 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · Grad Vrgorac
+X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Grad Vrgorac. Iz Registr
+ a koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podatak
+ a. https://koncesijski-sat.vercel.app/#opcina/41942358B33340702216756
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-4405b40f0fbc9a49@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20270426
+DTEND;VALUE=DATE:20270427
+SUMMARY:Ističe koncesija: RADIO BIOKOVO D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 26. 4. 2027. Godišnja fiksna nakn
+ ada: 66 €.\n\n• RADIO BIOKOVO D.O.O. – Koncesija za obavljanje djela
+ tnosti radija (VRGORAC)\, 66 €/god.\n\nProfil općine: https://koncesijs
+ ki-sat.vercel.app/#opcina/41942358B33340702216756\nIzvor: Registar koncesi
+ ja (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B33340702216756
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: RADIO BIOKOVO D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-48e432d532274f47@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20381223
+DTEND;VALUE=DATE:20381224
+SUMMARY:Ističe koncesija: LM-COMMERCE D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 23. 12. 2038. Godišnja fiksna nak
+ nada: 1.007 €.\n\n• LM-COMMERCE D.O.O. – Koncesija za korištenje po
+ ljoprivrednog zemljišta u vlasništvu države (VRGORAC)\, 1.007 €/god.\
+ n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B333
+ 40702216756\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 
+ 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B33340702216756
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: LM-COMMERCE D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-48e432d532274f47@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20380623
+DTEND;VALUE=DATE:20380624
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (LM-COMMERCE D.O.
+ O.)
+DESCRIPTION:23. 12. 2038. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• LM-COMMERCE D.O.O. – Koncesija za korištenje poljoprivrednog 
+ zemljišta u vlasništvu države (VRGORAC)\, 1.007 €/god.\n\nProfil opć
+ ine: https://koncesijski-sat.vercel.app/#opcina/41942358B33340702216756
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B33340702216756
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (LM-COMMERCE 
+ D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-73e45e31e75700bc@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20440401
+DTEND;VALUE=DATE:20440402
+SUMMARY:Ističe koncesija: LM-COMMERCE D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 1. 4. 2044. Godišnja fiksna nakna
+ da: 42 €.\n\n• LM-COMMERCE D.O.O. – Koncesija za zahvaćanje voda za
+  melioracijsko navodnjavanje (VRGORAC)\, 42 €/god.\n\nProfil općine: ht
+ tps://koncesijski-sat.vercel.app/#opcina/41942358B33340702216756\nIzvor: R
+ egistar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B33340702216756
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: LM-COMMERCE D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-73e45e31e75700bc@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20431001
+DTEND;VALUE=DATE:20431002
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (LM-COMMERCE D.O.
+ O.)
+DESCRIPTION:1. 4. 2044. ističe 1 ugovor o koncesiji. Novi postupak dodjele
+  treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
+ \n\n• LM-COMMERCE D.O.O. – Koncesija za zahvaćanje voda za melioracij
+ sko navodnjavanje (VRGORAC)\, 42 €/god.\n\nProfil općine: https://konce
+ sijski-sat.vercel.app/#opcina/41942358B33340702216756
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B33340702216756
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (LM-COMMERCE 
+ D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

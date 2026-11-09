@@ -1,0 +1,257 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · Općina Malinska - Dubašnica
+X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Malinska - Duba
+ šnica. Iz Registra koncesija (FINA\, data.gov.hr). Osvježava se nakon sv
+ ake obrade podataka. https://koncesijski-sat.vercel.app/#opcina/41942358B5
+ 836347330991
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-bbbc34315ff711a4@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20270612
+DTEND;VALUE=DATE:20270613
+SUMMARY:Ističe koncesija: AQUA FUN OBRT ZA USLUGE VL. TADEJ ŠIROKA
+DESCRIPTION:1 ugovor o koncesiji ističe 12. 6. 2027. Godišnja fiksna nakn
+ ada: 1.736 €.\n\n• AQUA FUN OBRT ZA USLUGE VL. TADEJ ŠIROKA – Konce
+ sija na pomorskom dobru (MALINSKA-DUBAŠNICA)\, 1.736 €/god.\n\nProfil o
+ pćine: https://koncesijski-sat.vercel.app/#opcina/41942358B5836347330991\
+ nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B5836347330991
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: AQUA FUN OBRT ZA USLUGE VL. TADEJ ŠIROKA
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-bbbc34315ff711a4@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (AQUA FUN OBRT ZA
+  USLUGE VL. TADEJ ŠIROKA)
+DESCRIPTION:12. 6. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• AQUA FUN OBRT ZA USLUGE VL. TADEJ ŠIROKA – Koncesija na pomors
+ kom dobru (MALINSKA-DUBAŠNICA)\, 1.736 €/god.\n\nProfil općine: https:
+ //koncesijski-sat.vercel.app/#opcina/41942358B5836347330991
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B5836347330991
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (AQUA FUN OBR
+ T ZA USLUGE VL. TADEJ ŠIROKA)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-84b60d07ee20d1a5@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20280115
+DTEND;VALUE=DATE:20280116
+SUMMARY:Ističe 2 koncesije · Malinska - Dubašnica
+DESCRIPTION:2 ugovora o koncesiji ističe 15. 1. 2028. Godišnja fiksna nak
+ nada: 20.216 €.\n\n• G.P.P. MIKIĆ D.O.O. – Koncesija na pomorskom d
+ obru (MALINSKA-DUBAŠNICA)\, 10.108 €/god.\n• G.P.P. MIKIĆ D.O.O. –
+  Koncesija na pomorskom dobru (MALINSKA-DUBAŠNICA)\, 10.108 €/god.\n\nP
+ rofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B5836347
+ 330991\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2
+ 026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B5836347330991
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 2 koncesije · Malinska - Dubašnica
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-84b60d07ee20d1a5@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20270715
+DTEND;VALUE=DATE:20270716
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:15. 1. 2028. ističe 2 ugovora o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• G.P.P. MIKIĆ D.O.O. – Koncesija na pomorskom dobru (MALINSKA-
+ DUBAŠNICA)\, 10.108 €/god.\n• G.P.P. MIKIĆ D.O.O. – Koncesija na p
+ omorskom dobru (MALINSKA-DUBAŠNICA)\, 10.108 €/god.\n\nProfil općine: 
+ https://koncesijski-sat.vercel.app/#opcina/41942358B5836347330991
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B5836347330991
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-e86fc44e3e4bcd52@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20280509
+DTEND;VALUE=DATE:20280510
+SUMMARY:Ističe koncesija: MLD-USLUGE D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 9. 5. 2028. Godišnja fiksna nakna
+ da: 640 €.\n\n• MLD-USLUGE D.O.O. – Koncesija za obavljanje dimnjač
+ arskih poslova (MALINSKA-DUBAŠNICA)\, 640 €/god.\n\nProfil općine: htt
+ ps://koncesijski-sat.vercel.app/#opcina/41942358B5836347330991\nIzvor: Reg
+ istar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B5836347330991
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: MLD-USLUGE D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-e86fc44e3e4bcd52@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20271109
+DTEND;VALUE=DATE:20271110
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MLD-USLUGE D.O.O
+ .)
+DESCRIPTION:9. 5. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodjele
+  treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
+ \n\n• MLD-USLUGE D.O.O. – Koncesija za obavljanje dimnjačarskih poslo
+ va (MALINSKA-DUBAŠNICA)\, 640 €/god.\n\nProfil općine: https://koncesi
+ jski-sat.vercel.app/#opcina/41942358B5836347330991
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B5836347330991
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MLD-USLUGE D
+ .O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-074e9ef2d4b4258c@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20290623
+DTEND;VALUE=DATE:20290624
+SUMMARY:Ističe koncesija: KOMUNALNO DRUŠTVO DUBAŠNICA D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 23. 6. 2029. Godišnja fiksna nakn
+ ada: 23.625 €.\n\n• KOMUNALNO DRUŠTVO DUBAŠNICA D.O.O. – Koncesija
+  na pomorskom dobru (MALINSKA-DUBAŠNICA)\, 23.625 €/god.\n\nProfil opć
+ ine: https://koncesijski-sat.vercel.app/#opcina/41942358B5836347330991\nIz
+ vor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B5836347330991
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: KOMUNALNO DRUŠTVO DUBAŠNICA D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-074e9ef2d4b4258c@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20281223
+DTEND;VALUE=DATE:20281224
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (KOMUNALNO DRUŠT
+ VO DUBAŠNICA D.O.O.)
+DESCRIPTION:23. 6. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• KOMUNALNO DRUŠTVO DUBAŠNICA D.O.O. – Koncesija na pomorskom d
+ obru (MALINSKA-DUBAŠNICA)\, 23.625 €/god.\n\nProfil općine: https://ko
+ ncesijski-sat.vercel.app/#opcina/41942358B5836347330991
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B5836347330991
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (KOMUNALNO DR
+ UŠTVO DUBAŠNICA D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-7b73f6c245a83300@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20290704
+DTEND;VALUE=DATE:20290705
+SUMMARY:Ističe koncesija: KOMUNALNO DRUŠTVO DUBAŠNICA D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 4. 7. 2029. Godišnja fiksna nakna
+ da: 3.283 €.\n\n• KOMUNALNO DRUŠTVO DUBAŠNICA D.O.O. – Koncesija z
+ a obavljanje poslova organizacije i naplate parkiranja (MALINSKA-DUBAŠNIC
+ A)\, 3.283 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/
+ #opcina/41942358B5836347330991\nIzvor: Registar koncesija (FINA)\, obrada 
+ Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B5836347330991
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: KOMUNALNO DRUŠTVO DUBAŠNICA D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-7b73f6c245a83300@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20290104
+DTEND;VALUE=DATE:20290105
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (KOMUNALNO DRUŠT
+ VO DUBAŠNICA D.O.O.)
+DESCRIPTION:4. 7. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjele
+  treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
+ \n\n• KOMUNALNO DRUŠTVO DUBAŠNICA D.O.O. – Koncesija za obavljanje p
+ oslova organizacije i naplate parkiranja (MALINSKA-DUBAŠNICA)\, 3.283 €
+ /god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419423
+ 58B5836347330991
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B5836347330991
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (KOMUNALNO DR
+ UŠTVO DUBAŠNICA D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-be2a04d6d9a931bb@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20340423
+DTEND;VALUE=DATE:20340424
+SUMMARY:Ističe koncesija: MALINSKA\, VL. FRANKO KRALJIĆ
+DESCRIPTION:1 ugovor o koncesiji ističe 23. 4. 2034. Godišnja fiksna nakn
+ ada: 2.260 €.\n\n• MALINSKA\, VL. FRANKO KRALJIĆ – Koncesija na pom
+ orskom dobru (MALINSKA-DUBAŠNICA)\, 2.260 €/god.\n\nProfil općine: htt
+ ps://koncesijski-sat.vercel.app/#opcina/41942358B5836347330991\nIzvor: Reg
+ istar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B5836347330991
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: MALINSKA\, VL. FRANKO KRALJIĆ
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-be2a04d6d9a931bb@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20331023
+DTEND;VALUE=DATE:20331024
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MALINSKA\, VL. F
+ RANKO KRALJIĆ)
+DESCRIPTION:23. 4. 2034. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• MALINSKA\, VL. FRANKO KRALJIĆ – Koncesija na pomorskom dobru (
+ MALINSKA-DUBAŠNICA)\, 2.260 €/god.\n\nProfil općine: https://koncesijs
+ ki-sat.vercel.app/#opcina/41942358B5836347330991
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B5836347330991
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MALINSKA\, V
+ L. FRANKO KRALJIĆ)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

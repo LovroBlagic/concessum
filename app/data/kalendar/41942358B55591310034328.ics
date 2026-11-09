@@ -1,0 +1,569 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · Grad Bjelovar
+X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Grad Bjelovar. Iz Regist
+ ra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podata
+ ka. https://koncesijski-sat.vercel.app/#opcina/41942358B55591310034328
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-12e47f32a1dec56d@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:Ističe koncesija: INFORMATIVNI CENTAR-HRVATSKA RADIO POSTAJA ČAZM
+ A D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 31. 12. 2026. Godišnja fiksna nak
+ nada: 133 €.\n\n• INFORMATIVNI CENTAR-HRVATSKA RADIO POSTAJA ČAZMA D.
+ O.O. – Koncesija za obavljanje djelatnosti radija (BJELOVAR\, FARKAŠEVA
+ C\, ČAZMA\, ŠTEFANJE)\, 133 €/god.\n\nProfil općine: https://koncesij
+ ski-sat.vercel.app/#opcina/41942358B55591310034328\nIzvor: Registar konces
+ ija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B55591310034328
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: INFORMATIVNI CENTAR-HRVATSKA RADIO POSTAJA 
+ ČAZMA D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-e00653163da16419@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20270630
+DTEND;VALUE=DATE:20270701
+SUMMARY:Ističe 2 koncesije · Bjelovar
+DESCRIPTION:2 ugovora o koncesiji ističe 30. 6. 2027.\n\n• INA D.D. – 
+ Dozvola za eksploataciju ugljikovodika (prema Zakonu o ugljikovodicima) (B
+ JELOVAR)\n• INA-INDUSTRIJA NAFTE  D.D. – Dozvola za eksploataciju uglj
+ ikovodika (prema Zakonu o ugljikovodicima) (BJELOVAR)\n\nProfil općine: h
+ ttps://koncesijski-sat.vercel.app/#opcina/41942358B55591310034328\nIzvor: 
+ Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B55591310034328
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 2 koncesije · Bjelovar
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-e00653163da16419@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261231
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:30. 6. 2027. ističe 2 ugovora o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• INA D.D. – Dozvola za eksploataciju ugljikovodika (prema Zakon
+ u o ugljikovodicima) (BJELOVAR)\n• INA-INDUSTRIJA NAFTE  D.D. – Dozvol
+ a za eksploataciju ugljikovodika (prema Zakonu o ugljikovodicima) (BJELOVA
+ R)\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B
+ 55591310034328
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B55591310034328
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-690ab23a68271e04@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20271113
+DTEND;VALUE=DATE:20271114
+SUMMARY:Ističe koncesija: ASPECT CROATIA KFT.
+DESCRIPTION:1 ugovor o koncesiji ističe 13. 11. 2027. Godišnja fiksna nak
+ nada: 167 €.\n\n• ASPECT CROATIA KFT. – Dozvola za istraživanje ugl
+ jikovodika (prema Zakonu o ugljikovodicima) (BJELOVAR)\, 167 €/god.\n\nP
+ rofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B5559131
+ 0034328\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 
+ 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B55591310034328
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: ASPECT CROATIA KFT.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-690ab23a68271e04@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20270513
+DTEND;VALUE=DATE:20270514
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ASPECT CROATIA K
+ FT.)
+DESCRIPTION:13. 11. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• ASPECT CROATIA KFT. – Dozvola za istraživanje ugljikovodika (
+ prema Zakonu o ugljikovodicima) (BJELOVAR)\, 167 €/god.\n\nProfil općin
+ e: https://koncesijski-sat.vercel.app/#opcina/41942358B55591310034328
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B55591310034328
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ASPECT CROAT
+ IA KFT.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-992c366a1753c992@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20271118
+DTEND;VALUE=DATE:20271119
+SUMMARY:Ističe koncesija: RADIO TEREZIJA D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 18. 11. 2027. Godišnja fiksna nak
+ nada: 66 €.\n\n• RADIO TEREZIJA D.O.O. – Koncesija za obavljanje dje
+ latnosti radija (BJELOVAR)\, 66 €/god.\n\nProfil općine: https://konces
+ ijski-sat.vercel.app/#opcina/41942358B55591310034328\nIzvor: Registar konc
+ esija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B55591310034328
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: RADIO TEREZIJA D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-992c366a1753c992@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20270518
+DTEND;VALUE=DATE:20270519
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (RADIO TEREZIJA D
+ .O.O.)
+DESCRIPTION:18. 11. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• RADIO TEREZIJA D.O.O. – Koncesija za obavljanje djelatnosti ra
+ dija (BJELOVAR)\, 66 €/god.\n\nProfil općine: https://koncesijski-sat.v
+ ercel.app/#opcina/41942358B55591310034328
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B55591310034328
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (RADIO TEREZI
+ JA D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-760e48936bfa1bd8@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20280501
+DTEND;VALUE=DATE:20280502
+SUMMARY:Ističe 3 koncesije · Bjelovar
+DESCRIPTION:3 ugovora o koncesiji ističe 1. 5. 2028. Godišnja fiksna nakn
+ ada: 6.600 €.\n\n• ZDRAVKO JANKOVIĆ\, DIMNJAČARSKI OBRT – Koncesij
+ a za obavljanje dimnjačarskih poslova (BJELOVAR)\, 2.500 €/god.\n• OB
+ RT DIMKO VL DRAGAN OKRUGIĆ – Koncesija za obavljanje dimnjačarskih pos
+ lova (BJELOVAR)\, 2.050 €/god.\n• DIMNJAČARSKI OBRT DIMKO VL DRAGAN O
+ KRUGIĆ – Koncesija za obavljanje dimnjačarskih poslova (BJELOVAR)\, 2.
+ 050 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina
+ /41942358B55591310034328\nIzvor: Registar koncesija (FINA)\, obrada Konces
+ ijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B55591310034328
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 3 koncesije · Bjelovar
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-760e48936bfa1bd8@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20271101
+DTEND;VALUE=DATE:20271102
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:1. 5. 2028. ističe 3 ugovora o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• ZDRAVKO JANKOVIĆ\, DIMNJAČARSKI OBRT – Koncesija za obavljanj
+ e dimnjačarskih poslova (BJELOVAR)\, 2.500 €/god.\n• OBRT DIMKO VL DR
+ AGAN OKRUGIĆ – Koncesija za obavljanje dimnjačarskih poslova (BJELOVAR
+ )\, 2.050 €/god.\n• DIMNJAČARSKI OBRT DIMKO VL DRAGAN OKRUGIĆ – Ko
+ ncesija za obavljanje dimnjačarskih poslova (BJELOVAR)\, 2.050 €/god.\n
+ \nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B5559
+ 1310034328
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B55591310034328
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-2ede09042169cc04@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20291201
+DTEND;VALUE=DATE:20291202
+SUMMARY:Ističe koncesija: ZDRAVKO JANKOVIĆ\, DIMNJAČARSKI OBRT
+DESCRIPTION:1 ugovor o koncesiji ističe 1. 12. 2029. Godišnja fiksna nakn
+ ada: 2.000 €.\n\n• ZDRAVKO JANKOVIĆ\, DIMNJAČARSKI OBRT – Koncesij
+ a za obavljanje dimnjačarskih poslova (BJELOVAR)\, 2.000 €/god.\n\nProf
+ il općine: https://koncesijski-sat.vercel.app/#opcina/41942358B5559131003
+ 4328\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 202
+ 6.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B55591310034328
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: ZDRAVKO JANKOVIĆ\, DIMNJAČARSKI OBRT
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-2ede09042169cc04@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20290601
+DTEND;VALUE=DATE:20290602
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ZDRAVKO JANKOVI
+ Ć\, DIMNJAČARSKI OBRT)
+DESCRIPTION:1. 12. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• ZDRAVKO JANKOVIĆ\, DIMNJAČARSKI OBRT – Koncesija za obavljanj
+ e dimnjačarskih poslova (BJELOVAR)\, 2.000 €/god.\n\nProfil općine: ht
+ tps://koncesijski-sat.vercel.app/#opcina/41942358B55591310034328
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B55591310034328
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ZDRAVKO JANK
+ OVIĆ\, DIMNJAČARSKI OBRT)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-b49937b75ae7b9ac@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20291231
+DTEND;VALUE=DATE:20300101
+SUMMARY:Ističe 2 koncesije · Bjelovar
+DESCRIPTION:2 ugovora o koncesiji ističe 31. 12. 2029. Godišnja fiksna na
+ knada: 22.927 €.\n\n• GEOEN D.O.O. – Dozvola za eksploataciju geoter
+ malne vode za energetske svrhe (prema Zakonu o ugljikovodicima) (BJELOVAR)
+ \, 22.927 €/god.\n• GEOEN D.O.O. – Dozvola za eksploataciju geoterma
+ lne vode za energetske svrhe (prema Zakonu o ugljikovodicima) (BJELOVAR)\n
+ \nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B5559
+ 1310034328\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 1
+ 1. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B55591310034328
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 2 koncesije · Bjelovar
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-b49937b75ae7b9ac@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20290630
+DTEND;VALUE=DATE:20290701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:31. 12. 2029. ističe 2 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• GEOEN D.O.O. – Dozvola za eksploataciju geotermalne vode za e
+ nergetske svrhe (prema Zakonu o ugljikovodicima) (BJELOVAR)\, 22.927 €/g
+ od.\n• GEOEN D.O.O. – Dozvola za eksploataciju geotermalne vode za ene
+ rgetske svrhe (prema Zakonu o ugljikovodicima) (BJELOVAR)\n\nProfil općin
+ e: https://koncesijski-sat.vercel.app/#opcina/41942358B55591310034328
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B55591310034328
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-cbde4be6a1ce1186@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20311231
+DTEND;VALUE=DATE:20320101
+SUMMARY:Ističe 2 koncesije · Bjelovar
+DESCRIPTION:2 ugovora o koncesiji ističe 31. 12. 2031.\n\n• INA-INDUSTRI
+ JA NAFTE  D.D. – Dozvola za eksploataciju ugljikovodika (prema Zakonu o 
+ ugljikovodicima) (BJELOVAR)\n• INA D.D. – Dozvola za eksploataciju ugl
+ jikovodika (prema Zakonu o ugljikovodicima) (BJELOVAR)\n\nProfil općine: 
+ https://koncesijski-sat.vercel.app/#opcina/41942358B55591310034328\nIzvor:
+  Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B55591310034328
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 2 koncesije · Bjelovar
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-cbde4be6a1ce1186@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20310630
+DTEND;VALUE=DATE:20310701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:31. 12. 2031. ističe 2 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Dozvola za eksploataciju ugljiko
+ vodika (prema Zakonu o ugljikovodicima) (BJELOVAR)\n• INA D.D. – Dozvo
+ la za eksploataciju ugljikovodika (prema Zakonu o ugljikovodicima) (BJELOV
+ AR)\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358
+ B55591310034328
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B55591310034328
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-1eb1e292b8daf5de@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20390401
+DTEND;VALUE=DATE:20390402
+SUMMARY:Ističe koncesija: DUKAT D.D.
+DESCRIPTION:1 ugovor o koncesiji ističe 1. 4. 2039. Godišnja fiksna nakna
+ da: 18.050 €.\n\n• DUKAT D.D. – Koncesija za zahvaćanje voda za teh
+ nološke potrebe (BJELOVAR)\, 18.050 €/god.\n\nProfil općine: https://k
+ oncesijski-sat.vercel.app/#opcina/41942358B55591310034328\nIzvor: Registar
+  koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B55591310034328
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: DUKAT D.D.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-1eb1e292b8daf5de@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20381001
+DTEND;VALUE=DATE:20381002
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DUKAT D.D.)
+DESCRIPTION:1. 4. 2039. ističe 1 ugovor o koncesiji. Novi postupak dodjele
+  treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
+ \n\n• DUKAT D.D. – Koncesija za zahvaćanje voda za tehnološke potreb
+ e (BJELOVAR)\, 18.050 €/god.\n\nProfil općine: https://koncesijski-sat.
+ vercel.app/#opcina/41942358B55591310034328
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B55591310034328
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DUKAT D.D.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-6b598b6d0502a983@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20420508
+DTEND;VALUE=DATE:20420509
+SUMMARY:Ističe koncesija: SIROVINA - TRGOPRERADA D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 8. 5. 2042. Godišnja fiksna nakna
+ da: 2.203 €.\n\n• SIROVINA - TRGOPRERADA D.O.O. – Koncesija za skupl
+ janje ambalažnog otpada (BJELOVAR)\, 2.203 €/god.\n\nProfil općine: ht
+ tps://koncesijski-sat.vercel.app/#opcina/41942358B55591310034328\nIzvor: R
+ egistar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B55591310034328
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: SIROVINA - TRGOPRERADA D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-6b598b6d0502a983@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20411108
+DTEND;VALUE=DATE:20411109
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (SIROVINA - TRGOP
+ RERADA D.O.O.)
+DESCRIPTION:8. 5. 2042. ističe 1 ugovor o koncesiji. Novi postupak dodjele
+  treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
+ \n\n• SIROVINA - TRGOPRERADA D.O.O. – Koncesija za skupljanje ambalaž
+ nog otpada (BJELOVAR)\, 2.203 €/god.\n\nProfil općine: https://koncesij
+ ski-sat.vercel.app/#opcina/41942358B55591310034328
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B55591310034328
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (SIROVINA - T
+ RGOPRERADA D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-ffc6eb76ed185cae@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20440618
+DTEND;VALUE=DATE:20440619
+SUMMARY:Ističe koncesija: VRT D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 18. 6. 2044.\n\n• VRT D.O.O. –
+  Koncesija za zahvaćanje voda za melioracijsko navodnjavanje (BJELOVAR)\n
+ \nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B5559
+ 1310034328\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 1
+ 1. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B55591310034328
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: VRT D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-ffc6eb76ed185cae@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20431218
+DTEND;VALUE=DATE:20431219
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VRT D.O.O.)
+DESCRIPTION:18. 6. 2044. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• VRT D.O.O. – Koncesija za zahvaćanje voda za melioracijsko nav
+ odnjavanje (BJELOVAR)\n\nProfil općine: https://koncesijski-sat.vercel.ap
+ p/#opcina/41942358B55591310034328
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B55591310034328
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VRT D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-d248c1b1b719b281@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20471231
+DTEND;VALUE=DATE:20480101
+SUMMARY:Ističe 3 koncesije · Bjelovar
+DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2047. Godišnja fiksna na
+ knada: 594 €.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauzetu
+  površinu odobrenog eksploatacijskog polja (BJELOVAR)\, 594 €/god.\n•
+  INA-INDUSTRIJA NAFTE  D.D. – Dozvola za eksploataciju ugljikovodika (pr
+ ema Zakonu o ugljikovodicima) (BJELOVAR)\n• INA D.D. – Dozvola za eksp
+ loataciju ugljikovodika (prema Zakonu o ugljikovodicima) (BJELOVAR)\n\nPro
+ fil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B555913100
+ 34328\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 20
+ 26.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B55591310034328
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 3 koncesije · Bjelovar
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-d248c1b1b719b281@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20470630
+DTEND;VALUE=DATE:20470701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:31. 12. 2047. ističe 3 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauzetu površinu o
+ dobrenog eksploatacijskog polja (BJELOVAR)\, 594 €/god.\n• INA-INDUSTR
+ IJA NAFTE  D.D. – Dozvola za eksploataciju ugljikovodika (prema Zakonu o
+  ugljikovodicima) (BJELOVAR)\n• INA D.D. – Dozvola za eksploataciju ug
+ ljikovodika (prema Zakonu o ugljikovodicima) (BJELOVAR)\n\nProfil općine:
+  https://koncesijski-sat.vercel.app/#opcina/41942358B55591310034328
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B55591310034328
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-da78ec3c1611c59e@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20490308
+DTEND;VALUE=DATE:20490309
+SUMMARY:Ističe koncesija: GALA D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 8. 3. 2049. Godišnja fiksna nakna
+ da: 1.594 €.\n\n• GALA D.O.O. – Koncesija za zahvaćanje voda za teh
+ nološke potrebe (BJELOVAR)\, 1.594 €/god.\n\nProfil općine: https://ko
+ ncesijski-sat.vercel.app/#opcina/41942358B55591310034328\nIzvor: Registar 
+ koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B55591310034328
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: GALA D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-da78ec3c1611c59e@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20480908
+DTEND;VALUE=DATE:20480909
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (GALA D.O.O.)
+DESCRIPTION:8. 3. 2049. ističe 1 ugovor o koncesiji. Novi postupak dodjele
+  treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
+ \n\n• GALA D.O.O. – Koncesija za zahvaćanje voda za tehnološke potre
+ be (BJELOVAR)\, 1.594 €/god.\n\nProfil općine: https://koncesijski-sat.
+ vercel.app/#opcina/41942358B55591310034328
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B55591310034328
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (GALA D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-fc6607ba442bae25@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20550626
+DTEND;VALUE=DATE:20550627
+SUMMARY:Ističe koncesija: ASPECT CROATIA KFT. - PODRUŽNICA ZAGREB
+DESCRIPTION:1 ugovor o koncesiji ističe 26. 6. 2055. Godišnja fiksna nakn
+ ada: 4.523 €.\n\n• ASPECT CROATIA KFT. - PODRUŽNICA ZAGREB – Dozvol
+ a za istraživanje ugljikovodika (prema Zakonu o ugljikovodicima) (BJELOVA
+ R)\, 4.523 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/
+ #opcina/41942358B55591310034328\nIzvor: Registar koncesija (FINA)\, obrada
+  Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B55591310034328
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: ASPECT CROATIA KFT. - PODRUŽNICA ZAGREB
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-fc6607ba442bae25@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20541226
+DTEND;VALUE=DATE:20541227
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ASPECT CROATIA K
+ FT. - PODRUŽNICA ZAGREB)
+DESCRIPTION:26. 6. 2055. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• ASPECT CROATIA KFT. - PODRUŽNICA ZAGREB – Dozvola za istraživ
+ anje ugljikovodika (prema Zakonu o ugljikovodicima) (BJELOVAR)\, 4.523 €
+ /god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419423
+ 58B55591310034328
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B55591310034328
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ASPECT CROAT
+ IA KFT. - PODRUŽNICA ZAGREB)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

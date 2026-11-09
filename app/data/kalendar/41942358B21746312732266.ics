@@ -1,0 +1,262 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · Općina Smokvica
+X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Smokvica. Iz Reg
+ istra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade pod
+ ataka. https://koncesijski-sat.vercel.app/#opcina/41942358B21746312732266
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-61a6b9641d4ef27a@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20271231
+DTEND;VALUE=DATE:20280101
+SUMMARY:Ističe 3 koncesije · Smokvica
+DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2027. Godišnja fiksna na
+ knada: 1.296 €.\n\n• KONSTRUKTOR-HOTINA D.O.O. – Koncesija za površ
+ inu utvrđenog eksploatacijskog polja neenergetskih mineralnih sirovina (S
+ MOKVICA)\, 1.296 €/god.\n• KONSTRUKTOR-HOTINA D.O.O. – Koncesija za 
+ eksploataciju tehničko-građevnog kamena (SMOKVICA)\n• KONSTRUKTOR - HO
+ TINA D.O.O. – Koncesija za eksploataciju tehničko-građevnog kamena (SM
+ OKVICA)\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4194
+ 2358B21746312732266\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski
+  sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B21746312732266
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 3 koncesije · Smokvica
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-61a6b9641d4ef27a@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20270630
+DTEND;VALUE=DATE:20270701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:31. 12. 2027. ističe 3 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• KONSTRUKTOR-HOTINA D.O.O. – Koncesija za površinu utvrđenog
+  eksploatacijskog polja neenergetskih mineralnih sirovina (SMOKVICA)\, 1.2
+ 96 €/god.\n• KONSTRUKTOR-HOTINA D.O.O. – Koncesija za eksploataciju 
+ tehničko-građevnog kamena (SMOKVICA)\n• KONSTRUKTOR - HOTINA D.O.O. 
+ – Koncesija za eksploataciju tehničko-građevnog kamena (SMOKVICA)\n\nP
+ rofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B2174631
+ 2732266
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B21746312732266
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-76743a941be94399@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20350601
+DTEND;VALUE=DATE:20350602
+SUMMARY:Ističe koncesija: AMINESS D.D.
+DESCRIPTION:1 ugovor o koncesiji ističe 1. 6. 2035. Godišnja fiksna nakna
+ da: 10.920 €.\n\n• AMINESS D.D. – Koncesija na pomorskom dobru (SMOK
+ VICA)\, 10.920 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.
+ app/#opcina/41942358B21746312732266\nIzvor: Registar koncesija (FINA)\, ob
+ rada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B21746312732266
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: AMINESS D.D.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-76743a941be94399@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20341201
+DTEND;VALUE=DATE:20341202
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (AMINESS D.D.)
+DESCRIPTION:1. 6. 2035. ističe 1 ugovor o koncesiji. Novi postupak dodjele
+  treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
+ \n\n• AMINESS D.D. – Koncesija na pomorskom dobru (SMOKVICA)\, 10.920 
+ €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
+ 42358B21746312732266
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B21746312732266
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (AMINESS D.D.
+ )
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-1c4711da4aa9c7a7@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20401030
+DTEND;VALUE=DATE:20401031
+SUMMARY:Ističe koncesija: VODOVOD D.O.O.IZGRADNJA PODSUSTAVA ODVODNJE
+DESCRIPTION:1 ugovor o koncesiji ističe 30. 10. 2040.\n\n• VODOVOD D.O.O
+ .IZGRADNJA PODSUSTAVA ODVODNJE – Koncesija na pomorskom dobru (SMOKVICA)
+ \n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B21
+ 746312732266\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9.
+  11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B21746312732266
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: VODOVOD D.O.O.IZGRADNJA PODSUSTAVA ODVODNJE
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-1c4711da4aa9c7a7@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20400430
+DTEND;VALUE=DATE:20400501
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VODOVOD D.O.O.IZ
+ GRADNJA PODSUSTAVA ODVODNJE)
+DESCRIPTION:30. 10. 2040. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• VODOVOD D.O.O.IZGRADNJA PODSUSTAVA ODVODNJE – Koncesija na pom
+ orskom dobru (SMOKVICA)\n\nProfil općine: https://koncesijski-sat.vercel.
+ app/#opcina/41942358B21746312732266
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B21746312732266
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VODOVOD D.O.
+ O.IZGRADNJA PODSUSTAVA ODVODNJE)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-a6b6ff412ae47ff8@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20401229
+DTEND;VALUE=DATE:20401230
+SUMMARY:Ističe koncesija: VODOVOD D.O.O.IZGRADNJA PODSUSTAVA ODVODNJE
+DESCRIPTION:1 ugovor o koncesiji ističe 29. 12. 2040.\n\n• VODOVOD D.O.O
+ .IZGRADNJA PODSUSTAVA ODVODNJE – Koncesija na pomorskom dobru (SMOKVICA)
+ \n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B21
+ 746312732266\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9.
+  11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B21746312732266
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: VODOVOD D.O.O.IZGRADNJA PODSUSTAVA ODVODNJE
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-a6b6ff412ae47ff8@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20400629
+DTEND;VALUE=DATE:20400630
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VODOVOD D.O.O.IZ
+ GRADNJA PODSUSTAVA ODVODNJE)
+DESCRIPTION:29. 12. 2040. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• VODOVOD D.O.O.IZGRADNJA PODSUSTAVA ODVODNJE – Koncesija na pom
+ orskom dobru (SMOKVICA)\n\nProfil općine: https://koncesijski-sat.vercel.
+ app/#opcina/41942358B21746312732266
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B21746312732266
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VODOVOD D.O.
+ O.IZGRADNJA PODSUSTAVA ODVODNJE)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-10514aa3b8b89dd8@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20440314
+DTEND;VALUE=DATE:20440315
+SUMMARY:Ističe koncesija: HEP-OPERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O.\, EL
+ EKTROJUG DUBROVNIK
+DESCRIPTION:1 ugovor o koncesiji ističe 14. 3. 2044. Godišnja fiksna nakn
+ ada: 4.652 €.\n\n• HEP-OPERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O.\, ELEKT
+ ROJUG DUBROVNIK – Koncesija pomorskog dobra za posebnu upotrebu u svrhu 
+ gradnje kabelske veze (SMOKVICA)\, 4.652 €/god.\n\nProfil općine: https
+ ://koncesijski-sat.vercel.app/#opcina/41942358B21746312732266\nIzvor: Regi
+ star koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B21746312732266
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: HEP-OPERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O.\
+ , ELEKTROJUG DUBROVNIK
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-10514aa3b8b89dd8@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20430914
+DTEND;VALUE=DATE:20430915
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP-OPERATOR DIS
+ TRIBUCIJSKOG SUSTAVA D.O.O.\, ELEKTROJUG DUBROVNIK)
+DESCRIPTION:14. 3. 2044. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• HEP-OPERATOR DISTRIBUCIJSKOG SUSTAVA D.O.O.\, ELEKTROJUG DUBROVNI
+ K – Koncesija pomorskog dobra za posebnu upotrebu u svrhu gradnje kabels
+ ke veze (SMOKVICA)\, 4.652 €/god.\n\nProfil općine: https://koncesijski
+ -sat.vercel.app/#opcina/41942358B21746312732266
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B21746312732266
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP-OPERATOR
+  DISTRIBUCIJSKOG SUSTAVA D.O.O.\, ELEKTROJUG DUBROVNIK)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-988346ef0d35fe3c@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20760717
+DTEND;VALUE=DATE:20760718
+SUMMARY:Ističe koncesija: HRVATSKI TELEKOM D.D.
+DESCRIPTION:1 ugovor o koncesiji ističe 17. 7. 2076. Godišnja fiksna nakn
+ ada: 4.555 €.\n\n• HRVATSKI TELEKOM D.D. – Posebna upotreba pomorsko
+ g dobra (SMOKVICA)\, 4.555 €/god.\n\nProfil općine: https://koncesijski
+ -sat.vercel.app/#opcina/41942358B21746312732266\nIzvor: Registar koncesija
+  (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B21746312732266
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: HRVATSKI TELEKOM D.D.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-988346ef0d35fe3c@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20760117
+DTEND;VALUE=DATE:20760118
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKI TELEKOM
+  D.D.)
+DESCRIPTION:17. 7. 2076. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• HRVATSKI TELEKOM D.D. – Posebna upotreba pomorskog dobra (SMOKV
+ ICA)\, 4.555 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.ap
+ p/#opcina/41942358B21746312732266
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B21746312732266
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKI TEL
+ EKOM D.D.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

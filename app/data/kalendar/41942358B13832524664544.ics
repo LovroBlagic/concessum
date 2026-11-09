@@ -1,0 +1,393 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · Grad Kutina
+X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Grad Kutina. Iz Registra
+  koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podataka
+ . https://koncesijski-sat.vercel.app/#opcina/41942358B13832524664544
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-05fd8744100440f5@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20270630
+DTEND;VALUE=DATE:20270701
+SUMMARY:Ističe 2 koncesije · Kutina
+DESCRIPTION:2 ugovora o koncesiji ističe 30. 6. 2027.\n\n• INA-INDUSTRIJ
+ A NAFTE  D.D. – Dozvola za eksploataciju ugljikovodika (prema Zakonu o u
+ gljikovodicima) (KUTINA)\n• INA D.D. – Dozvola za eksploataciju ugljik
+ ovodika (prema Zakonu o ugljikovodicima) (KUTINA)\n\nProfil općine: https
+ ://koncesijski-sat.vercel.app/#opcina/41942358B13832524664544\nIzvor: Regi
+ star koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B13832524664544
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 2 koncesije · Kutina
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-05fd8744100440f5@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261231
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:30. 6. 2027. ističe 2 ugovora o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Dozvola za eksploataciju ugljikov
+ odika (prema Zakonu o ugljikovodicima) (KUTINA)\n• INA D.D. – Dozvola 
+ za eksploataciju ugljikovodika (prema Zakonu o ugljikovodicima) (KUTINA)\n
+ \nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B1383
+ 2524664544
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B13832524664544
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-8d6bd160f63aa073@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20271231
+DTEND;VALUE=DATE:20280101
+SUMMARY:Ističe 3 koncesije · Kutina
+DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2027. Godišnja fiksna na
+ knada: 9.888 €.\n\n• IGM MOSLAVINAKAMEN D.O.O. – Koncesija za eksplo
+ ataciju tehničko-građevnog kamena (KUTINA)\, 4.944 €/god.\n• IGM MOS
+ LAVINAKAMEN D.O.O. – Koncesija za površinu utvrđenog eksploatacijskog 
+ polja neenergetskih mineralnih sirovina (KUTINA)\, 4.944 €/god.\n• IGM
+  MOSLAVINAKAMEN D.O.O. – Koncesija za eksploataciju tehničko-građevnog
+  kamena (KUTINA)\n\nProfil općine: https://koncesijski-sat.vercel.app/#op
+ cina/41942358B13832524664544\nIzvor: Registar koncesija (FINA)\, obrada Ko
+ ncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B13832524664544
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 3 koncesije · Kutina
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-8d6bd160f63aa073@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20270630
+DTEND;VALUE=DATE:20270701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:31. 12. 2027. ističe 3 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• IGM MOSLAVINAKAMEN D.O.O. – Koncesija za eksploataciju tehni
+ čko-građevnog kamena (KUTINA)\, 4.944 €/god.\n• IGM MOSLAVINAKAMEN D
+ .O.O. – Koncesija za površinu utvrđenog eksploatacijskog polja neenerg
+ etskih mineralnih sirovina (KUTINA)\, 4.944 €/god.\n• IGM MOSLAVINAKAM
+ EN D.O.O. – Koncesija za eksploataciju tehničko-građevnog kamena (KUTI
+ NA)\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358
+ B13832524664544
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B13832524664544
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-0dbc25c6c3d25da2@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20311031
+DTEND;VALUE=DATE:20311101
+SUMMARY:Ističe koncesija: MIVEGRA D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 31. 10. 2031. Godišnja fiksna nak
+ nada: 2.000 €.\n\n• MIVEGRA D.O.O. – Koncesija za obavljanje dimnja
+ čarskih poslova (KUTINA)\, 2.000 €/god.\n\nProfil općine: https://konc
+ esijski-sat.vercel.app/#opcina/41942358B13832524664544\nIzvor: Registar ko
+ ncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B13832524664544
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: MIVEGRA D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-0dbc25c6c3d25da2@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20310430
+DTEND;VALUE=DATE:20310501
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MIVEGRA D.O.O.)
+DESCRIPTION:31. 10. 2031. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• MIVEGRA D.O.O. – Koncesija za obavljanje dimnjačarskih poslov
+ a (KUTINA)\, 2.000 €/god.\n\nProfil općine: https://koncesijski-sat.ver
+ cel.app/#opcina/41942358B13832524664544
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B13832524664544
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MIVEGRA D.O.
+ O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-55663ad488101c8b@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20390302
+DTEND;VALUE=DATE:20390303
+SUMMARY:Ističe koncesija: MOSLAVINA PLIN D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 2. 3. 2039. Godišnja fiksna nakna
+ da: 1.327 €.\n\n• MOSLAVINA PLIN D.O.O. – Koncesija za obavljanje di
+ stribucije plina na postojećem distribucijskom sustavu (KUTINA\, POPOVAČ
+ A\, POPOVAČA\, VELIKA LUDINA\, VELIKA LUDINA)\, 1.327 €/god.\n\nProfil 
+ općine: https://koncesijski-sat.vercel.app/#opcina/41942358B1383252466454
+ 4\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B13832524664544
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: MOSLAVINA PLIN D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-55663ad488101c8b@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20380902
+DTEND;VALUE=DATE:20380903
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MOSLAVINA PLIN D
+ .O.O.)
+DESCRIPTION:2. 3. 2039. ističe 1 ugovor o koncesiji. Novi postupak dodjele
+  treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
+ \n\n• MOSLAVINA PLIN D.O.O. – Koncesija za obavljanje distribucije pli
+ na na postojećem distribucijskom sustavu (KUTINA\, POPOVAČA\, POPOVAČA\
+ , VELIKA LUDINA\, VELIKA LUDINA)\, 1.327 €/god.\n\nProfil općine: https
+ ://koncesijski-sat.vercel.app/#opcina/41942358B13832524664544
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B13832524664544
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MOSLAVINA PL
+ IN D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-429b3907a392e0f2@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20391231
+DTEND;VALUE=DATE:20400101
+SUMMARY:Ističe 2 koncesije · Kutina
+DESCRIPTION:2 ugovora o koncesiji ističe 31. 12. 2039. Godišnja fiksna na
+ knada: 361 €.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauzetu
+  površinu odobrenog eksploatacijskog polja (KUTINA)\, 361 €/god.\n• I
+ NA-INDUSTRIJA NAFTE  D.D. – Dozvola za eksploataciju ugljikovodika (prem
+ a Zakonu o ugljikovodicima) (KUTINA)\n\nProfil općine: https://koncesijsk
+ i-sat.vercel.app/#opcina/41942358B13832524664544\nIzvor: Registar koncesij
+ a (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B13832524664544
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 2 koncesije · Kutina
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-429b3907a392e0f2@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20390630
+DTEND;VALUE=DATE:20390701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:31. 12. 2039. ističe 2 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauzetu površinu o
+ dobrenog eksploatacijskog polja (KUTINA)\, 361 €/god.\n• INA-INDUSTRIJ
+ A NAFTE  D.D. – Dozvola za eksploataciju ugljikovodika (prema Zakonu o u
+ gljikovodicima) (KUTINA)\n\nProfil općine: https://koncesijski-sat.vercel
+ .app/#opcina/41942358B13832524664544
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B13832524664544
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-b8c8418b723d4b1c@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20401231
+DTEND;VALUE=DATE:20410101
+SUMMARY:Ističe koncesija: INA-INDUSTRIJA NAFTE  D.D.
+DESCRIPTION:1 ugovor o koncesiji ističe 31. 12. 2040. Godišnja fiksna nak
+ nada: 11.708 €.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauze
+ tu površinu odobrenog eksploatacijskog polja (KUTINA)\, 11.708 €/god.\n
+ \nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B1383
+ 2524664544\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 1
+ 1. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B13832524664544
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: INA-INDUSTRIJA NAFTE  D.D.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-b8c8418b723d4b1c@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20400630
+DTEND;VALUE=DATE:20400701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA-INDUSTRIJA N
+ AFTE  D.D.)
+DESCRIPTION:31. 12. 2040. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauzetu površinu od
+ obrenog eksploatacijskog polja (KUTINA)\, 11.708 €/god.\n\nProfil općin
+ e: https://koncesijski-sat.vercel.app/#opcina/41942358B13832524664544
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B13832524664544
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA-INDUSTRI
+ JA NAFTE  D.D.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-bfbde4bc27d6ce87@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20411231
+DTEND;VALUE=DATE:20420101
+SUMMARY:Ističe 2 koncesije · Kutina
+DESCRIPTION:2 ugovora o koncesiji ističe 31. 12. 2041. Godišnja fiksna na
+ knada: 350 €.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauzetu
+  površinu odobrenog eksploatacijskog polja (KUTINA)\, 175 €/god.\n• I
+ NA-INDUSTRIJA NAFTE  D.D. – Dozvola za eksploataciju ugljikovodika (prem
+ a Zakonu o ugljikovodicima) (KUTINA)\, 175 €/god.\n\nProfil općine: htt
+ ps://koncesijski-sat.vercel.app/#opcina/41942358B13832524664544\nIzvor: Re
+ gistar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B13832524664544
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 2 koncesije · Kutina
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-bfbde4bc27d6ce87@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20410630
+DTEND;VALUE=DATE:20410701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:31. 12. 2041. ističe 2 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauzetu površinu o
+ dobrenog eksploatacijskog polja (KUTINA)\, 175 €/god.\n• INA-INDUSTRIJ
+ A NAFTE  D.D. – Dozvola za eksploataciju ugljikovodika (prema Zakonu o u
+ gljikovodicima) (KUTINA)\, 175 €/god.\n\nProfil općine: https://koncesi
+ jski-sat.vercel.app/#opcina/41942358B13832524664544
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B13832524664544
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-9bb1871c2660a650@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20451231
+DTEND;VALUE=DATE:20460101
+SUMMARY:Ističe 3 koncesije · Kutina
+DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2045. Godišnja fiksna na
+ knada: 534 €.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauzetu
+  površinu odobrenog eksploatacijskog polja (KUTINA)\, 234 €/god.\n• I
+ NA-INDUSTRIJA NAFTE  D.D. – Dozvola za eksploataciju ugljikovodika (prem
+ a Zakonu o ugljikovodicima) (KUTINA)\, 234 €/god.\n• MOSLAVAČKI LIST 
+ D.O.O. – Koncesija za obavljanje djelatnosti radija (KUTINA\, POPOVAČA)
+ \, 66 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opci
+ na/41942358B13832524664544\nIzvor: Registar koncesija (FINA)\, obrada Konc
+ esijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B13832524664544
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 3 koncesije · Kutina
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-9bb1871c2660a650@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20450630
+DTEND;VALUE=DATE:20450701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:31. 12. 2045. ističe 3 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauzetu površinu o
+ dobrenog eksploatacijskog polja (KUTINA)\, 234 €/god.\n• INA-INDUSTRIJ
+ A NAFTE  D.D. – Dozvola za eksploataciju ugljikovodika (prema Zakonu o u
+ gljikovodicima) (KUTINA)\, 234 €/god.\n• MOSLAVAČKI LIST D.O.O. – K
+ oncesija za obavljanje djelatnosti radija (KUTINA\, POPOVAČA)\, 66 €/go
+ d.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B
+ 13832524664544
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B13832524664544
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-75e273ff6bfc7275@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20520324
+DTEND;VALUE=DATE:20520325
+SUMMARY:Ističe koncesija: PETROKEMIJA\, D.D. TVORNICA GNOJIVA
+DESCRIPTION:1 ugovor o koncesiji ističe 24. 3. 2052. Godišnja fiksna nakn
+ ada: 214.905 €.\n\n• PETROKEMIJA\, D.D. TVORNICA GNOJIVA – Koncesija
+  za zahvaćanje voda za tehnološke potrebe (KUTINA)\, 214.905 €/god.\n\
+ nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B13832
+ 524664544\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11
+ . 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B13832524664544
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: PETROKEMIJA\, D.D. TVORNICA GNOJIVA
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-75e273ff6bfc7275@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20510924
+DTEND;VALUE=DATE:20510925
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PETROKEMIJA\, D.
+ D. TVORNICA GNOJIVA)
+DESCRIPTION:24. 3. 2052. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• PETROKEMIJA\, D.D. TVORNICA GNOJIVA – Koncesija za zahvaćanje 
+ voda za tehnološke potrebe (KUTINA)\, 214.905 €/god.\n\nProfil općine:
+  https://koncesijski-sat.vercel.app/#opcina/41942358B13832524664544
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B13832524664544
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PETROKEMIJA\
+ , D.D. TVORNICA GNOJIVA)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

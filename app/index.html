@@ -120,6 +120,7 @@
             <select id="f-opcina"></select>
           </label>
           <button type="button" class="gumb" id="opcina-ispis" title="Ispis ili spremanje profila kao PDF">Ispiši izvještaj</button>
+          <button type="button" class="gumb gumb-puni" id="opcina-pretplata" aria-haspopup="dialog" title="Kalendar s rokovima ove općine koji se sam osvježava">Pretplati se na rokove</button>
         </div>
       </div>
       <div class="kpi-red" id="opcina-kpi"></div>
@@ -140,7 +141,7 @@
         <div class="kartica-glava red-razmak"><h2>Svi ugovori</h2>
           <div class="gumbi">
             <button type="button" class="gumb" id="opcina-csv" title="Svi ugovori općine, za Excel">Preuzmi CSV</button>
-            <button type="button" class="gumb" id="opcina-ics" title="Rokovi aktivnih ugovora kao događaji, s podsjetnikom 6 mjeseci i mjesec dana prije">Dodaj rokove u kalendar</button>
+            <button type="button" class="gumb" id="opcina-ics" title="Jednokratna kopija rokova (.ics) s podsjetnikom 6 mjeseci i mjesec dana prije; za kalendar koji se sam osvježava koristite pretplatu">Preuzmi rokove (.ics)</button>
           </div>
         </div>
         <div class="tablica-omotac"><table class="tablica" id="tablica-opcina"></table></div>
@@ -189,6 +190,28 @@
       <a href="data/koncesije.csv" download>Preuzmi podatke (CSV)</a> · <a href="https://github.com/LovroBlagic/koncesijski-sat" rel="noopener">Izvorni kod</a> ·
       Datathon Portala otvorenih podataka, izazov <em>Gospodarstvo i učinkovito upravljanje</em>.</p>
   </footer>
+
+  <dialog id="pretplata" class="dijalog" aria-labelledby="pretplata-naslov">
+    <h2 id="pretplata-naslov">Pretplata na rokove</h2>
+    <p class="dijalog-opcina" id="pretplata-opcina"></p>
+    <div id="pretplata-sadrzaj">
+      <p>Dodajte kalendar <b>jednom</b> – novi rokovi pojavit će se sami nakon svakog osvježavanja podataka. Za svaki datum isteka dobit ćete događaj, a <b>6 mjeseci ranije</b> podsjetnik „pripremiti postupak“.</p>
+      <ul class="pretplata-veze">
+        <li><a id="pp-google" href="#" target="_blank" rel="noopener">Google kalendar</a></li>
+        <li><a id="pp-m365" href="#" target="_blank" rel="noopener">Outlook – Microsoft 365 (poslovni račun)</a></li>
+        <li><a id="pp-outlook" href="#" target="_blank" rel="noopener">Outlook.com</a></li>
+        <li><a id="pp-webcal" href="#">Apple kalendar, Outlook na računalu, Thunderbird</a></li>
+      </ul>
+      <label for="pp-url">Adresa kalendara (za ručno dodavanje „s interneta“ / „iz URL-a“)</label>
+      <div class="pretplata-url">
+        <input id="pp-url" type="text" readonly>
+        <button type="button" class="gumb" id="pp-kopiraj">Kopiraj</button>
+      </div>
+      <p class="opis">Bez prijave i bez e-adrese: ne prikupljamo nikakve podatke. Programi sami povlače promjene, Google kalendar u pravilu jednom u 24 sata.</p>
+    </div>
+    <p id="pretplata-prazno" class="opis" hidden>Ova općina nema aktivnih ugovora pa nema rokova za pretplatu.</p>
+    <form method="dialog" class="dijalog-dno"><button class="gumb">Zatvori</button></form>
+  </dialog>
 
   <div id="tooltip-zivo" class="vizualno-skriveno" aria-live="polite"></div>
 

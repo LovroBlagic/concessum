@@ -1,0 +1,221 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · Grad Buje
+X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Grad Buje. Iz Registra k
+ oncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podataka. 
+ https://koncesijski-sat.vercel.app/#opcina/41942358B27785188555823
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-1f2a51472cfaf913@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20290409
+DTEND;VALUE=DATE:20290410
+SUMMARY:Ističe 2 koncesije · Buje
+DESCRIPTION:2 ugovora o koncesiji ističe 9. 4. 2029. Godišnja fiksna nakn
+ ada: 1.380 €.\n\n• SARGUS ZADRUGA ZA PROIZVODNJU I IZLOV RIBE I ŠKOLJ
+ KAŠA – Koncesija na pomorskom dobru (BUJE - BUIE)\, 796 €/god.\n• R
+ .A.K. OBRT ZA RIBOLOV I PODVODNE DJELATNOSTI\, VL. ALDO KOČAREV – Konce
+ sija na pomorskom dobru (BUJE - BUIE)\, 584 €/god.\n\nProfil općine: ht
+ tps://koncesijski-sat.vercel.app/#opcina/41942358B27785188555823\nIzvor: R
+ egistar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B27785188555823
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 2 koncesije · Buje
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-1f2a51472cfaf913@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20281009
+DTEND;VALUE=DATE:20281010
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:9. 4. 2029. ističe 2 ugovora o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• SARGUS ZADRUGA ZA PROIZVODNJU I IZLOV RIBE I ŠKOLJKAŠA – Konc
+ esija na pomorskom dobru (BUJE - BUIE)\, 796 €/god.\n• R.A.K. OBRT ZA 
+ RIBOLOV I PODVODNE DJELATNOSTI\, VL. ALDO KOČAREV – Koncesija na pomors
+ kom dobru (BUJE - BUIE)\, 584 €/god.\n\nProfil općine: https://koncesij
+ ski-sat.vercel.app/#opcina/41942358B27785188555823
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B27785188555823
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-cf25dbf24f720210@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20301231
+DTEND;VALUE=DATE:20310101
+SUMMARY:Ističe koncesija: D.M.M. - TIM D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 31. 12. 2030. Godišnja fiksna nak
+ nada: 2.000 €.\n\n• D.M.M. - TIM D.O.O. – Koncesija za obavljanje di
+ mnjačarskih poslova (BUJE - BUIE)\, 2.000 €/god.\n\nProfil općine: htt
+ ps://koncesijski-sat.vercel.app/#opcina/41942358B27785188555823\nIzvor: Re
+ gistar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B27785188555823
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: D.M.M. - TIM D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-cf25dbf24f720210@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20300630
+DTEND;VALUE=DATE:20300701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (D.M.M. - TIM D.O
+ .O.)
+DESCRIPTION:31. 12. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• D.M.M. - TIM D.O.O. – Koncesija za obavljanje dimnjačarskih p
+ oslova (BUJE - BUIE)\, 2.000 €/god.\n\nProfil općine: https://koncesijs
+ ki-sat.vercel.app/#opcina/41942358B27785188555823
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B27785188555823
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (D.M.M. - TIM
+  D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-d26bc0ff5c26bf67@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20330418
+DTEND;VALUE=DATE:20330419
+SUMMARY:Ističe koncesija: PLAVA LAGUNA D.D.
+DESCRIPTION:1 ugovor o koncesiji ističe 18. 4. 2033. Godišnja fiksna nakn
+ ada: 20.446 €.\n\n• PLAVA LAGUNA D.D. – Koncesija na pomorskom dobru
+  (BUJE - BUIE)\, 20.446 €/god.\n\nProfil općine: https://koncesijski-sa
+ t.vercel.app/#opcina/41942358B27785188555823\nIzvor: Registar koncesija (F
+ INA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B27785188555823
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: PLAVA LAGUNA D.D.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-d26bc0ff5c26bf67@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20321018
+DTEND;VALUE=DATE:20321019
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PLAVA LAGUNA D.D
+ .)
+DESCRIPTION:18. 4. 2033. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• PLAVA LAGUNA D.D. – Koncesija na pomorskom dobru (BUJE - BUIE)\
+ , 20.446 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#o
+ pcina/41942358B27785188555823
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B27785188555823
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PLAVA LAGUNA
+  D.D.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-3a1b423f56d1c8d2@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20341219
+DTEND;VALUE=DATE:20341220
+SUMMARY:Ističe 2 koncesije · Buje
+DESCRIPTION:2 ugovora o koncesiji ističe 19. 12. 2034. Godišnja fiksna na
+ knada: 1.062 €.\n\n• SARGUS ZADRUGA ZA PROIZVODNJU I IZLOV RI BE I ŠK
+ OLJKAŠA – Koncesija na pomorskom dobru (BUJE - BUIE)\, 531 €/god.\n
+ • VL.VLADIMIR BAŠIĆ\, MORSKI RIBOLOV – Koncesija na pomorskom dobru 
+ (BUJE - BUIE)\, 531 €/god.\n\nProfil općine: https://koncesijski-sat.ve
+ rcel.app/#opcina/41942358B27785188555823\nIzvor: Registar koncesija (FINA)
+ \, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B27785188555823
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 2 koncesije · Buje
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-3a1b423f56d1c8d2@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20340619
+DTEND;VALUE=DATE:20340620
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:19. 12. 2034. ističe 2 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• SARGUS ZADRUGA ZA PROIZVODNJU I IZLOV RI BE I ŠKOLJKAŠA – K
+ oncesija na pomorskom dobru (BUJE - BUIE)\, 531 €/god.\n• VL.VLADIMIR 
+ BAŠIĆ\, MORSKI RIBOLOV – Koncesija na pomorskom dobru (BUJE - BUIE)\, 
+ 531 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina
+ /41942358B27785188555823
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B27785188555823
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-52af7a41bb09b260@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20380618
+DTEND;VALUE=DATE:20380619
+SUMMARY:Ističe koncesija: SARGUS ZADRUGA ZA PROIZVODNJU I IZLOV RI BE I Š
+ KOLJKAŠA
+DESCRIPTION:1 ugovor o koncesiji ističe 18. 6. 2038. Godišnja fiksna nakn
+ ada: 292 €.\n\n• SARGUS ZADRUGA ZA PROIZVODNJU I IZLOV RI BE I ŠKOLJK
+ AŠA – Koncesija na pomorskom dobru u svrhu uzgoja morske ribe i školjk
+ aša (BUJE - BUIE)\, 292 €/god.\n\nProfil općine: https://koncesijski-s
+ at.vercel.app/#opcina/41942358B27785188555823\nIzvor: Registar koncesija (
+ FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B27785188555823
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: SARGUS ZADRUGA ZA PROIZVODNJU I IZLOV RI BE 
+ I ŠKOLJKAŠA
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-52af7a41bb09b260@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20371218
+DTEND;VALUE=DATE:20371219
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (SARGUS ZADRUGA Z
+ A PROIZVODNJU I IZLOV RI BE I ŠKOLJKAŠA)
+DESCRIPTION:18. 6. 2038. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• SARGUS ZADRUGA ZA PROIZVODNJU I IZLOV RI BE I ŠKOLJKAŠA – Kon
+ cesija na pomorskom dobru u svrhu uzgoja morske ribe i školjkaša (BUJE -
+  BUIE)\, 292 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.ap
+ p/#opcina/41942358B27785188555823
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B27785188555823
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (SARGUS ZADRU
+ GA ZA PROIZVODNJU I IZLOV RI BE I ŠKOLJKAŠA)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

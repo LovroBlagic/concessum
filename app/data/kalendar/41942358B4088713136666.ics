@@ -1,0 +1,175 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · Općina Povljana
+X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Povljana. Iz Reg
+ istra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade pod
+ ataka. https://koncesijski-sat.vercel.app/#opcina/41942358B4088713136666
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-a3b1cf239392a826@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20360612
+DTEND;VALUE=DATE:20360613
+SUMMARY:Ističe koncesija: HRVATSKI OPERATOR PRIJENOSNOG SUSTAVA D.D.
+DESCRIPTION:1 ugovor o koncesiji ističe 12. 6. 2036. Godišnja fiksna nakn
+ ada: 923 €.\n\n• HRVATSKI OPERATOR PRIJENOSNOG SUSTAVA D.D. – Konces
+ ija na pomorskom dobru (POVLJANA)\, 923 €/god.\n\nProfil općine: https:
+ //koncesijski-sat.vercel.app/#opcina/41942358B4088713136666\nIzvor: Regist
+ ar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B4088713136666
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: HRVATSKI OPERATOR PRIJENOSNOG SUSTAVA D.D.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-a3b1cf239392a826@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20351212
+DTEND;VALUE=DATE:20351213
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKI OPERATO
+ R PRIJENOSNOG SUSTAVA D.D.)
+DESCRIPTION:12. 6. 2036. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• HRVATSKI OPERATOR PRIJENOSNOG SUSTAVA D.D. – Koncesija na pomor
+ skom dobru (POVLJANA)\, 923 €/god.\n\nProfil općine: https://koncesijsk
+ i-sat.vercel.app/#opcina/41942358B4088713136666
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B4088713136666
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKI OPE
+ RATOR PRIJENOSNOG SUSTAVA D.D.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-350190362a7c6328@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20361124
+DTEND;VALUE=DATE:20361125
+SUMMARY:Ističe koncesija: MARINA POVLJANA D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 24. 11. 2036. Godišnja fiksna nak
+ nada: 33.514 €.\n\n• MARINA POVLJANA D.O.O. – Koncesija pomorskog do
+ bra u svrhu izgradnje i gospodarskog korištenja luke posebne namjene (POV
+ LJANA)\, 33.514 €/god.\n\nProfil općine: https://koncesijski-sat.vercel
+ .app/#opcina/41942358B4088713136666\nIzvor: Registar koncesija (FINA)\, ob
+ rada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B4088713136666
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: MARINA POVLJANA D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-350190362a7c6328@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20360524
+DTEND;VALUE=DATE:20360525
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MARINA POVLJANA 
+ D.O.O.)
+DESCRIPTION:24. 11. 2036. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• MARINA POVLJANA D.O.O. – Koncesija pomorskog dobra u svrhu izg
+ radnje i gospodarskog korištenja luke posebne namjene (POVLJANA)\, 33.514
+  €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41
+ 942358B4088713136666
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B4088713136666
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MARINA POVLJ
+ ANA D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-130f4aa73b502f5f@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20460319
+DTEND;VALUE=DATE:20460320
+SUMMARY:Ističe koncesija: ADRIATIC SHELL D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 19. 3. 2046. Godišnja fiksna nakn
+ ada: 5.188 €.\n\n• ADRIATIC SHELL D.O.O. – Koncesija na pomorskom do
+ bru (POVLJANA)\, 5.188 €/god.\n\nProfil općine: https://koncesijski-sat
+ .vercel.app/#opcina/41942358B4088713136666\nIzvor: Registar koncesija (FIN
+ A)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B4088713136666
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: ADRIATIC SHELL D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-130f4aa73b502f5f@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20450919
+DTEND;VALUE=DATE:20450920
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ADRIATIC SHELL D
+ .O.O.)
+DESCRIPTION:19. 3. 2046. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• ADRIATIC SHELL D.O.O. – Koncesija na pomorskom dobru (POVLJANA)
+ \, 5.188 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#o
+ pcina/41942358B4088713136666
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B4088713136666
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ADRIATIC SHE
+ LL D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-d6ed373f2b8ba695@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20760717
+DTEND;VALUE=DATE:20760718
+SUMMARY:Ističe koncesija: HRVATSKI TELEKOM D.D.
+DESCRIPTION:1 ugovor o koncesiji ističe 17. 7. 2076. Godišnja fiksna nakn
+ ada: 469 €.\n\n• HRVATSKI TELEKOM D.D. – Posebna upotreba pomorskog 
+ dobra (POVLJANA)\, 469 €/god.\n\nProfil općine: https://koncesijski-sat
+ .vercel.app/#opcina/41942358B4088713136666\nIzvor: Registar koncesija (FIN
+ A)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B4088713136666
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: HRVATSKI TELEKOM D.D.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-d6ed373f2b8ba695@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20760117
+DTEND;VALUE=DATE:20760118
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKI TELEKOM
+  D.D.)
+DESCRIPTION:17. 7. 2076. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• HRVATSKI TELEKOM D.D. – Posebna upotreba pomorskog dobra (POVLJ
+ ANA)\, 469 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/
+ #opcina/41942358B4088713136666
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B4088713136666
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKI TEL
+ EKOM D.D.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

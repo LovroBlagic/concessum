@@ -1,0 +1,183 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · Općina Krašić
+X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Krašić. Iz Reg
+ istra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade pod
+ ataka. https://koncesijski-sat.vercel.app/#opcina/41942358B26709106096571
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-8a1929f41090a692@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20280229
+DTEND;VALUE=DATE:20280301
+SUMMARY:Ističe koncesija: EKO-FLOR PLUS D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 29. 2. 2028. Godišnja fiksna nakn
+ ada: 8.099 €.\n\n• EKO-FLOR PLUS D.O.O. – Koncesija djelatnosti prem
+ ještanja i uklanjanja nepropisno parkiranih i napuštenih vozila (KRAŠI
+ Ć)\, 8.099 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app
+ /#opcina/41942358B26709106096571\nIzvor: Registar koncesija (FINA)\, obrad
+ a Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B26709106096571
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: EKO-FLOR PLUS D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-8a1929f41090a692@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20270829
+DTEND;VALUE=DATE:20270830
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (EKO-FLOR PLUS D.
+ O.O.)
+DESCRIPTION:29. 2. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• EKO-FLOR PLUS D.O.O. – Koncesija djelatnosti premještanja i uk
+ lanjanja nepropisno parkiranih i napuštenih vozila (KRAŠIĆ)\, 8.099 €
+ /god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419423
+ 58B26709106096571
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B26709106096571
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (EKO-FLOR PLU
+ S D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-d8a6c3ef5ea98711@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20280828
+DTEND;VALUE=DATE:20280829
+SUMMARY:Ističe 3 koncesije · Krašić
+DESCRIPTION:3 ugovora o koncesiji ističe 28. 8. 2028. Godišnja fiksna nak
+ nada: 4.276 €.\n\n• KAMENOLOMI KRAŠIĆ D.O.O. – Koncesija za eksplo
+ ataciju tehničko-građevnog kamena (KRAŠIĆ)\, 2.138 €/god.\n• KAMEN
+ OLOMI KRAŠIĆ D.O.O. – Koncesija za površinu utvrđenog eksploatacijsk
+ og polja neenergetskih mineralnih sirovina (KRAŠIĆ)\, 2.138 €/god.\n
+ • KAMENOLOMI KRAŠIĆ D.O.O. – Koncesija za eksploataciju tehničko-gr
+ ađevnog kamena (KRAŠIĆ)\n\nProfil općine: https://koncesijski-sat.verc
+ el.app/#opcina/41942358B26709106096571\nIzvor: Registar koncesija (FINA)\,
+  obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B26709106096571
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 3 koncesije · Krašić
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-d8a6c3ef5ea98711@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20280228
+DTEND;VALUE=DATE:20280229
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:28. 8. 2028. ističe 3 ugovora o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• KAMENOLOMI KRAŠIĆ D.O.O. – Koncesija za eksploataciju tehni
+ čko-građevnog kamena (KRAŠIĆ)\, 2.138 €/god.\n• KAMENOLOMI KRAŠI
+ Ć D.O.O. – Koncesija za površinu utvrđenog eksploatacijskog polja nee
+ nergetskih mineralnih sirovina (KRAŠIĆ)\, 2.138 €/god.\n• KAMENOLOMI
+  KRAŠIĆ D.O.O. – Koncesija za eksploataciju tehničko-građevnog kamen
+ a (KRAŠIĆ)\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina
+ /41942358B26709106096571
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B26709106096571
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-d794a2f4f9bc3de6@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20450609
+DTEND;VALUE=DATE:20450610
+SUMMARY:Ističe koncesija: MM MESNA INDUSTRIJA D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 9. 6. 2045. Godišnja fiksna nakna
+ da: 1.991 €.\n\n• MM MESNA INDUSTRIJA D.O.O. – Koncesija za zahvaća
+ nje voda za tehnološke potrebe (KRAŠIĆ)\, 1.991 €/god.\n\nProfil opć
+ ine: https://koncesijski-sat.vercel.app/#opcina/41942358B26709106096571\nI
+ zvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B26709106096571
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: MM MESNA INDUSTRIJA D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-d794a2f4f9bc3de6@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20441209
+DTEND;VALUE=DATE:20441210
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MM MESNA INDUSTR
+ IJA D.O.O.)
+DESCRIPTION:9. 6. 2045. ističe 1 ugovor o koncesiji. Novi postupak dodjele
+  treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
+ \n\n• MM MESNA INDUSTRIJA D.O.O. – Koncesija za zahvaćanje voda za te
+ hnološke potrebe (KRAŠIĆ)\, 1.991 €/god.\n\nProfil općine: https://k
+ oncesijski-sat.vercel.app/#opcina/41942358B26709106096571
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B26709106096571
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MM MESNA IND
+ USTRIJA D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-e44dee3b638101c4@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20550626
+DTEND;VALUE=DATE:20550627
+SUMMARY:Ističe koncesija: ASPECT CROATIA KFT. - PODRUŽNICA ZAGREB
+DESCRIPTION:1 ugovor o koncesiji ističe 26. 6. 2055. Godišnja fiksna nakn
+ ada: 1.216 €.\n\n• ASPECT CROATIA KFT. - PODRUŽNICA ZAGREB – Dozvol
+ a za istraživanje ugljikovodika (prema Zakonu o ugljikovodicima) (KRAŠI
+ Ć)\, 1.216 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app
+ /#opcina/41942358B26709106096571\nIzvor: Registar koncesija (FINA)\, obrad
+ a Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B26709106096571
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: ASPECT CROATIA KFT. - PODRUŽNICA ZAGREB
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-e44dee3b638101c4@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20541226
+DTEND;VALUE=DATE:20541227
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ASPECT CROATIA K
+ FT. - PODRUŽNICA ZAGREB)
+DESCRIPTION:26. 6. 2055. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• ASPECT CROATIA KFT. - PODRUŽNICA ZAGREB – Dozvola za istraživ
+ anje ugljikovodika (prema Zakonu o ugljikovodicima) (KRAŠIĆ)\, 1.216 €
+ /god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419423
+ 58B26709106096571
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B26709106096571
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ASPECT CROAT
+ IA KFT. - PODRUŽNICA ZAGREB)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

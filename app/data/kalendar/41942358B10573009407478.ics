@@ -1,0 +1,124 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · Općina Šandrovac
+X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Šandrovac. Iz R
+ egistra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade p
+ odataka. https://koncesijski-sat.vercel.app/#opcina/41942358B1057300940747
+ 8
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-b76af9e5674b31cc@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:Ističe 2 koncesije · Šandrovac
+DESCRIPTION:2 ugovora o koncesiji ističe 31. 12. 2026.\n\n• INA D.D. –
+  Dozvola za eksploataciju ugljikovodika (prema Zakonu o ugljikovodicima) (
+ ŠANDROVAC)\n• INA-INDUSTRIJA NAFTE  D.D. – Dozvola za eksploataciju u
+ gljikovodika (prema Zakonu o ugljikovodicima) (ŠANDROVAC)\n\nProfil opći
+ ne: https://koncesijski-sat.vercel.app/#opcina/41942358B10573009407478\nIz
+ vor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B10573009407478
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 2 koncesije · Šandrovac
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-42d677cc08ae3c74@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20281124
+DTEND;VALUE=DATE:20281125
+SUMMARY:Ističe 2 koncesije · Šandrovac
+DESCRIPTION:2 ugovora o koncesiji ističe 24. 11. 2028. Godišnja fiksna na
+ knada: 400 €.\n\n• IVAN GALOVIĆ\, DIMNJAČARSTVO GALOVIĆ\, VL. IVAN 
+ GALOVIĆ – Koncesija za obavljanje dimnjačarskih poslova (ŠANDROVAC)\,
+  200 €/god.\n• IVAN GALOVIĆ\, DIMNJAČARSTVO GALOVIĆ\, VL. IVAN GALO
+ VIĆ – Koncesija za obavljanje dimnjačarskih poslova (ŠANDROVAC)\, 200
+  €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41
+ 942358B10573009407478\nIzvor: Registar koncesija (FINA)\, obrada Koncesijs
+ ki sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B10573009407478
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 2 koncesije · Šandrovac
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-42d677cc08ae3c74@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20280524
+DTEND;VALUE=DATE:20280525
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:24. 11. 2028. ističe 2 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• IVAN GALOVIĆ\, DIMNJAČARSTVO GALOVIĆ\, VL. IVAN GALOVIĆ –
+  Koncesija za obavljanje dimnjačarskih poslova (ŠANDROVAC)\, 200 €/god
+ .\n• IVAN GALOVIĆ\, DIMNJAČARSTVO GALOVIĆ\, VL. IVAN GALOVIĆ – Kon
+ cesija za obavljanje dimnjačarskih poslova (ŠANDROVAC)\, 200 €/god.\n\
+ nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B10573
+ 009407478
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B10573009407478
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-5bd19acd0de7da72@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20471231
+DTEND;VALUE=DATE:20480101
+SUMMARY:Ističe 3 koncesije · Šandrovac
+DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2047. Godišnja fiksna na
+ knada: 7.237 €.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauze
+ tu površinu odobrenog eksploatacijskog polja (ŠANDROVAC)\, 7.237 €/god
+ .\n• INA-INDUSTRIJA NAFTE  D.D. – Dozvola za eksploataciju ugljikovodi
+ ka (prema Zakonu o ugljikovodicima) (ŠANDROVAC)\n• INA D.D. – Dozvola
+  za eksploataciju ugljikovodika (prema Zakonu o ugljikovodicima) (ŠANDROV
+ AC)\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358
+ B10573009407478\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat
+  9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B10573009407478
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 3 koncesije · Šandrovac
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-5bd19acd0de7da72@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20470630
+DTEND;VALUE=DATE:20470701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:31. 12. 2047. ističe 3 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauzetu površinu o
+ dobrenog eksploatacijskog polja (ŠANDROVAC)\, 7.237 €/god.\n• INA-IND
+ USTRIJA NAFTE  D.D. – Dozvola za eksploataciju ugljikovodika (prema Zako
+ nu o ugljikovodicima) (ŠANDROVAC)\n• INA D.D. – Dozvola za eksploatac
+ iju ugljikovodika (prema Zakonu o ugljikovodicima) (ŠANDROVAC)\n\nProfil 
+ općine: https://koncesijski-sat.vercel.app/#opcina/41942358B1057300940747
+ 8
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B10573009407478
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

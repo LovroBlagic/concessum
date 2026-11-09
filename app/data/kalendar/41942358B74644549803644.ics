@@ -1,0 +1,544 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · Grad Orahovica
+X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Grad Orahovica. Iz Regis
+ tra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podat
+ aka. https://koncesijski-sat.vercel.app/#opcina/41942358B74644549803644
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-cd5a7477b91d2b4c@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20270426
+DTEND;VALUE=DATE:20270427
+SUMMARY:Ističe koncesija: RADIO ORAHOVICA D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 26. 4. 2027. Godišnja fiksna nakn
+ ada: 66 €.\n\n• RADIO ORAHOVICA D.O.O. – Koncesija za obavljanje dje
+ latnosti radija (ORAHOVICA)\, 66 €/god.\n\nProfil općine: https://konce
+ sijski-sat.vercel.app/#opcina/41942358B74644549803644\nIzvor: Registar kon
+ cesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B74644549803644
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: RADIO ORAHOVICA D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-112edb51f3d2f37f@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20270628
+DTEND;VALUE=DATE:20270629
+SUMMARY:Ističe koncesija: INA\, D.D.
+DESCRIPTION:1 ugovor o koncesiji ističe 28. 6. 2027. Godišnja fiksna nakn
+ ada: 1.223 €.\n\n• INA\, D.D. – Dozvola za istraživanje ugljikovodi
+ ka (prema Zakonu o ugljikovodicima) (ORAHOVICA)\, 1.223 €/god.\n\nProfil
+  općine: https://koncesijski-sat.vercel.app/#opcina/41942358B746445498036
+ 44\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B74644549803644
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: INA\, D.D.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-112edb51f3d2f37f@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20261228
+DTEND;VALUE=DATE:20261229
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA\, D.D.)
+DESCRIPTION:28. 6. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• INA\, D.D. – Dozvola za istraživanje ugljikovodika (prema Zako
+ nu o ugljikovodicima) (ORAHOVICA)\, 1.223 €/god.\n\nProfil općine: http
+ s://koncesijski-sat.vercel.app/#opcina/41942358B74644549803644
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B74644549803644
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA\, D.D.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-d6a6eec544475743@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20271231
+DTEND;VALUE=DATE:20280101
+SUMMARY:Ističe 3 koncesije · Orahovica
+DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2027. Godišnja fiksna na
+ knada: 36.093 €.\n\n• RADLOVAC D.D. – Koncesija za eksploataciju teh
+ ničko-građevnog kamena (ORAHOVICA)\, 27.491 €/god.\n• RADLOVAC D.D. 
+ – Koncesija za površinu utvrđenog eksploatacijskog polja neenergetskih
+  mineralnih sirovina (ORAHOVICA)\, 8.602 €/god.\n• RADLOVAC D.D. – K
+ oncesija za eksploataciju tehničko-građevnog kamena (ORAHOVICA)\n\nProfi
+ l općine: https://koncesijski-sat.vercel.app/#opcina/41942358B74644549803
+ 644\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026
+ .
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B74644549803644
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 3 koncesije · Orahovica
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-d6a6eec544475743@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20270630
+DTEND;VALUE=DATE:20270701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:31. 12. 2027. ističe 3 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• RADLOVAC D.D. – Koncesija za eksploataciju tehničko-građevn
+ og kamena (ORAHOVICA)\, 27.491 €/god.\n• RADLOVAC D.D. – Koncesija z
+ a površinu utvrđenog eksploatacijskog polja neenergetskih mineralnih sir
+ ovina (ORAHOVICA)\, 8.602 €/god.\n• RADLOVAC D.D. – Koncesija za eks
+ ploataciju tehničko-građevnog kamena (ORAHOVICA)\n\nProfil općine: http
+ s://koncesijski-sat.vercel.app/#opcina/41942358B74644549803644
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B74644549803644
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-34d4f7c307be5879@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20321231
+DTEND;VALUE=DATE:20330101
+SUMMARY:Ističe 3 koncesije · Orahovica
+DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2032. Godišnja fiksna na
+ knada: 500 €.\n\n• HRVATSKE ŠUME D.O.O. – Koncesija za površinu ut
+ vrđenog eksploatacijskog polja neenergetskih mineralnih sirovina (ORAHOVI
+ CA)\, 500 €/god.\n• HRVATSKE ŠUME D.O.O. – Koncesija za eksploataci
+ ju tehničko-građevnog kamena (ORAHOVICA)\n• HRVATSKE ŠUME D.O.O. – 
+ Koncesija za eksploataciju tehničko-građevnog kamena (ORAHOVICA)\n\nProf
+ il općine: https://koncesijski-sat.vercel.app/#opcina/41942358B7464454980
+ 3644\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 202
+ 6.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B74644549803644
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 3 koncesije · Orahovica
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-34d4f7c307be5879@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20320630
+DTEND;VALUE=DATE:20320701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:31. 12. 2032. ističe 3 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• HRVATSKE ŠUME D.O.O. – Koncesija za površinu utvrđenog eks
+ ploatacijskog polja neenergetskih mineralnih sirovina (ORAHOVICA)\, 500 
+ €/god.\n• HRVATSKE ŠUME D.O.O. – Koncesija za eksploataciju tehnič
+ ko-građevnog kamena (ORAHOVICA)\n• HRVATSKE ŠUME D.O.O. – Koncesija 
+ za eksploataciju tehničko-građevnog kamena (ORAHOVICA)\n\nProfil općine
+ : https://koncesijski-sat.vercel.app/#opcina/41942358B74644549803644
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B74644549803644
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-9d2639feb7e5361f@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20371231
+DTEND;VALUE=DATE:20380101
+SUMMARY:Ističe 3 koncesije · Orahovica
+DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2037. Godišnja fiksna na
+ knada: 33.838 €.\n\n• RADLOVAC D.D. – Koncesija za eksploataciju teh
+ ničko-građevnog kamena (ORAHOVICA)\, 28.188 €/god.\n• RADLOVAC D.D. 
+ – Koncesija za površinu utvrđenog eksploatacijskog polja neenergetskih
+  mineralnih sirovina (ORAHOVICA)\, 5.650 €/god.\n• RADLOVAC D.D. – K
+ oncesija za eksploataciju tehničko-građevnog kamena (ORAHOVICA)\n\nProfi
+ l općine: https://koncesijski-sat.vercel.app/#opcina/41942358B74644549803
+ 644\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026
+ .
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B74644549803644
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 3 koncesije · Orahovica
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-9d2639feb7e5361f@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20370630
+DTEND;VALUE=DATE:20370701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:31. 12. 2037. ističe 3 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• RADLOVAC D.D. – Koncesija za eksploataciju tehničko-građevn
+ og kamena (ORAHOVICA)\, 28.188 €/god.\n• RADLOVAC D.D. – Koncesija z
+ a površinu utvrđenog eksploatacijskog polja neenergetskih mineralnih sir
+ ovina (ORAHOVICA)\, 5.650 €/god.\n• RADLOVAC D.D. – Koncesija za eks
+ ploataciju tehničko-građevnog kamena (ORAHOVICA)\n\nProfil općine: http
+ s://koncesijski-sat.vercel.app/#opcina/41942358B74644549803644
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B74644549803644
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-0062dc892a668f93@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20381015
+DTEND;VALUE=DATE:20381016
+SUMMARY:Ističe koncesija: POLJOPRIVREDNO PODUZEĆE ORAHOVICA D.D.
+DESCRIPTION:1 ugovor o koncesiji ističe 15. 10. 2038. Godišnja fiksna nak
+ nada: 21.579 €.\n\n• POLJOPRIVREDNO PODUZEĆE ORAHOVICA D.D. – Konce
+ sija za korištenje poljoprivrednog zemljišta u vlasništvu države (ORAH
+ OVICA)\, 21.579 €/god.\n\nProfil općine: https://koncesijski-sat.vercel
+ .app/#opcina/41942358B74644549803644\nIzvor: Registar koncesija (FINA)\, o
+ brada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B74644549803644
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: POLJOPRIVREDNO PODUZEĆE ORAHOVICA D.D.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-0062dc892a668f93@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20380415
+DTEND;VALUE=DATE:20380416
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (POLJOPRIVREDNO P
+ ODUZEĆE ORAHOVICA D.D.)
+DESCRIPTION:15. 10. 2038. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• POLJOPRIVREDNO PODUZEĆE ORAHOVICA D.D. – Koncesija za korišt
+ enje poljoprivrednog zemljišta u vlasništvu države (ORAHOVICA)\, 21.579
+  €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41
+ 942358B74644549803644
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B74644549803644
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (POLJOPRIVRED
+ NO PODUZEĆE ORAHOVICA D.D.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-f6cfa2c765ec8f02@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20440131
+DTEND;VALUE=DATE:20440201
+SUMMARY:Ističe koncesija: PAPUK PLIN D.O.O. ZA OBAVLJANJE DJELATNOSTI U SE
+ KTORU PLINA
+DESCRIPTION:1 ugovor o koncesiji ističe 31. 1. 2044.\n\n• PAPUK PLIN D.O
+ .O. ZA OBAVLJANJE DJELATNOSTI U SEKTORU PLINA – Koncesija za obavljanje 
+ distribucije plina na postojećem distribucijskom sustavu (ORAHOVICA)\n\nP
+ rofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B7464454
+ 9803644\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 
+ 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B74644549803644
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: PAPUK PLIN D.O.O. ZA OBAVLJANJE DJELATNOSTI 
+ U SEKTORU PLINA
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-f6cfa2c765ec8f02@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20430731
+DTEND;VALUE=DATE:20430801
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PAPUK PLIN D.O.O
+ . ZA OBAVLJANJE DJELATNOSTI U SEKTORU PLINA)
+DESCRIPTION:31. 1. 2044. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• PAPUK PLIN D.O.O. ZA OBAVLJANJE DJELATNOSTI U SEKTORU PLINA – K
+ oncesija za obavljanje distribucije plina na postojećem distribucijskom s
+ ustavu (ORAHOVICA)\n\nProfil općine: https://koncesijski-sat.vercel.app/#
+ opcina/41942358B74644549803644
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B74644549803644
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PAPUK PLIN D
+ .O.O. ZA OBAVLJANJE DJELATNOSTI U SEKTORU PLINA)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-547add29648e815e@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20440602
+DTEND;VALUE=DATE:20440603
+SUMMARY:Ističe koncesija: RADLOVAC D.D.
+DESCRIPTION:1 ugovor o koncesiji ističe 2. 6. 2044. Godišnja fiksna nakna
+ da: 2.654 €.\n\n• RADLOVAC D.D. – Koncesija za zahvaćanje voda za t
+ ehnološke potrebe (ORAHOVICA)\, 2.654 €/god.\n\nProfil općine: https:/
+ /koncesijski-sat.vercel.app/#opcina/41942358B74644549803644\nIzvor: Regist
+ ar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B74644549803644
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: RADLOVAC D.D.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-547add29648e815e@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20431202
+DTEND;VALUE=DATE:20431203
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (RADLOVAC D.D.)
+DESCRIPTION:2. 6. 2044. ističe 1 ugovor o koncesiji. Novi postupak dodjele
+  treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
+ \n\n• RADLOVAC D.D. – Koncesija za zahvaćanje voda za tehnološke pot
+ rebe (ORAHOVICA)\, 2.654 €/god.\n\nProfil općine: https://koncesijski-s
+ at.vercel.app/#opcina/41942358B74644549803644
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B74644549803644
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (RADLOVAC D.D
+ .)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-348006a940443c98@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20451106
+DTEND;VALUE=DATE:20451107
+SUMMARY:Ističe koncesija: RADLOVAC D.D.
+DESCRIPTION:1 ugovor o koncesiji ističe 6. 11. 2045. Godišnja fiksna nakn
+ ada: 4.950 €.\n\n• RADLOVAC D.D. – Koncesija za zahvaćanje voda za 
+ tehnološke potrebe (ORAHOVICA)\, 4.950 €/god.\n\nProfil općine: https:
+ //koncesijski-sat.vercel.app/#opcina/41942358B74644549803644\nIzvor: Regis
+ tar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B74644549803644
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: RADLOVAC D.D.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-348006a940443c98@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20450506
+DTEND;VALUE=DATE:20450507
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (RADLOVAC D.D.)
+DESCRIPTION:6. 11. 2045. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• RADLOVAC D.D. – Koncesija za zahvaćanje voda za tehnološke po
+ trebe (ORAHOVICA)\, 4.950 €/god.\n\nProfil općine: https://koncesijski-
+ sat.vercel.app/#opcina/41942358B74644549803644
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B74644549803644
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (RADLOVAC D.D
+ .)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-258fff2b5ad2d6f7@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20480901
+DTEND;VALUE=DATE:20480902
+SUMMARY:Ističe koncesija: POLJOPRIVREDNO PODUZEĆE ORAHOVICA D.D.
+DESCRIPTION:1 ugovor o koncesiji ističe 1. 9. 2048. Godišnja fiksna nakna
+ da: 5.592 €.\n\n• POLJOPRIVREDNO PODUZEĆE ORAHOVICA D.D. – Koncesij
+ a za korištenje poljoprivrednog zemljišta u vlasništvu države (ORAHOVI
+ CA)\, 5.592 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app
+ /#opcina/41942358B74644549803644\nIzvor: Registar koncesija (FINA)\, obrad
+ a Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B74644549803644
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: POLJOPRIVREDNO PODUZEĆE ORAHOVICA D.D.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-258fff2b5ad2d6f7@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20480301
+DTEND;VALUE=DATE:20480302
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (POLJOPRIVREDNO P
+ ODUZEĆE ORAHOVICA D.D.)
+DESCRIPTION:1. 9. 2048. ističe 1 ugovor o koncesiji. Novi postupak dodjele
+  treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
+ \n\n• POLJOPRIVREDNO PODUZEĆE ORAHOVICA D.D. – Koncesija za korišten
+ je poljoprivrednog zemljišta u vlasništvu države (ORAHOVICA)\, 5.592 
+ €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
+ 42358B74644549803644
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B74644549803644
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (POLJOPRIVRED
+ NO PODUZEĆE ORAHOVICA D.D.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-cd077c575e7869df@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20500604
+DTEND;VALUE=DATE:20500605
+SUMMARY:Ističe koncesija: RADLOVAC INDUSTRIJA GRAĐEVINSKOG MATERIJALA\, D
+ IONIČKO DRUŠTVO
+DESCRIPTION:1 ugovor o koncesiji ističe 4. 6. 2050. Godišnja fiksna nakna
+ da: 3.822 €.\n\n• RADLOVAC INDUSTRIJA GRAĐEVINSKOG MATERIJALA\, DIONI
+ ČKO DRUŠTVO – Koncesija za zahvaćanje voda za tehnološke potrebe (OR
+ AHOVICA)\, 3.822 €/god.\n\nProfil općine: https://koncesijski-sat.verce
+ l.app/#opcina/41942358B74644549803644\nIzvor: Registar koncesija (FINA)\, 
+ obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B74644549803644
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: RADLOVAC INDUSTRIJA GRAĐEVINSKOG MATERIJALA
+ \, DIONIČKO DRUŠTVO
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-cd077c575e7869df@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20491204
+DTEND;VALUE=DATE:20491205
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (RADLOVAC INDUSTR
+ IJA GRAĐEVINSKOG MATERIJALA\, DIONIČKO DRUŠTVO)
+DESCRIPTION:4. 6. 2050. ističe 1 ugovor o koncesiji. Novi postupak dodjele
+  treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
+ \n\n• RADLOVAC INDUSTRIJA GRAĐEVINSKOG MATERIJALA\, DIONIČKO DRUŠTVO 
+ – Koncesija za zahvaćanje voda za tehnološke potrebe (ORAHOVICA)\, 3.8
+ 22 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/
+ 41942358B74644549803644
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B74644549803644
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (RADLOVAC IND
+ USTRIJA GRAĐEVINSKOG MATERIJALA\, DIONIČKO DRUŠTVO)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-16509c1ed11d6e74@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20520920
+DTEND;VALUE=DATE:20520921
+SUMMARY:Ističe 3 koncesije · Orahovica
+DESCRIPTION:3 ugovora o koncesiji ističe 20. 9. 2052. Godišnja fiksna nak
+ nada: 30.559 €.\n\n• RADLOVAC D.D. – Koncesija za eksploataciju tehn
+ ičko-građevnog kamena (ORAHOVICA)\, 22.597 €/god.\n• RADLOVAC D.D. 
+ – Koncesija za površinu utvrđenog eksploatacijskog polja neenergetskih
+  mineralnih sirovina (ORAHOVICA)\, 7.962 €/god.\n• RADLOVAC D.D. – K
+ oncesija za eksploataciju tehničko-građevnog kamena (ORAHOVICA)\n\nProfi
+ l općine: https://koncesijski-sat.vercel.app/#opcina/41942358B74644549803
+ 644\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026
+ .
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B74644549803644
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 3 koncesije · Orahovica
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-16509c1ed11d6e74@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20520320
+DTEND;VALUE=DATE:20520321
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:20. 9. 2052. ističe 3 ugovora o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• RADLOVAC D.D. – Koncesija za eksploataciju tehničko-građevno
+ g kamena (ORAHOVICA)\, 22.597 €/god.\n• RADLOVAC D.D. – Koncesija za
+  površinu utvrđenog eksploatacijskog polja neenergetskih mineralnih siro
+ vina (ORAHOVICA)\, 7.962 €/god.\n• RADLOVAC D.D. – Koncesija za eksp
+ loataciju tehničko-građevnog kamena (ORAHOVICA)\n\nProfil općine: https
+ ://koncesijski-sat.vercel.app/#opcina/41942358B74644549803644
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B74644549803644
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-3da4d5d7f216bce1@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20581231
+DTEND;VALUE=DATE:20590101
+SUMMARY:Ističe 3 koncesije · Orahovica
+DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2058. Godišnja fiksna na
+ knada: 12.918 €.\n\n• RADLOVAC D.D. – Koncesija za površinu utvrđe
+ nog eksploatacijskog polja neenergetskih mineralnih sirovina (ORAHOVICA)\,
+  6.840 €/god.\n• RADLOVAC D.D. – Koncesija za eksploataciju tehničk
+ o-građevnog kamena (ORAHOVICA)\, 6.078 €/god.\n• RADLOVAC D.D. – Ko
+ ncesija za eksploataciju tehničko-građevnog kamena (ORAHOVICA)\n\nProfil
+  općine: https://koncesijski-sat.vercel.app/#opcina/41942358B746445498036
+ 44\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B74644549803644
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 3 koncesije · Orahovica
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-3da4d5d7f216bce1@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20580630
+DTEND;VALUE=DATE:20580701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:31. 12. 2058. ističe 3 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• RADLOVAC D.D. – Koncesija za površinu utvrđenog eksploataci
+ jskog polja neenergetskih mineralnih sirovina (ORAHOVICA)\, 6.840 €/god.
+ \n• RADLOVAC D.D. – Koncesija za eksploataciju tehničko-građevnog ka
+ mena (ORAHOVICA)\, 6.078 €/god.\n• RADLOVAC D.D. – Koncesija za eksp
+ loataciju tehničko-građevnog kamena (ORAHOVICA)\n\nProfil općine: https
+ ://koncesijski-sat.vercel.app/#opcina/41942358B74644549803644
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B74644549803644
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

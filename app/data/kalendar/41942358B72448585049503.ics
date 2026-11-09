@@ -1,0 +1,143 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · Općina Belica
+X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Belica. Iz Regis
+ tra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podat
+ aka. https://koncesijski-sat.vercel.app/#opcina/41942358B72448585049503
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-97ec4aee9e67aa71@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20271231
+DTEND;VALUE=DATE:20280101
+SUMMARY:Ističe 3 koncesije · Belica
+DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2027. Godišnja fiksna na
+ knada: 877 €.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauzetu
+  površinu odobrenog eksploatacijskog polja (BELICA)\, 372 €/god.\n• I
+ NA-INDUSTRIJA NAFTE  D.D. – Dozvola za eksploataciju ugljikovodika (prem
+ a Zakonu o ugljikovodicima) (BELICA)\, 372 €/god.\n• RADIO POSTAJA NED
+ ELIŠĆE D.O.O. – Koncesija za obavljanje djelatnosti radija (BELICA\, D
+ EKANOVEC\, DOMAŠINEC\, MALA SUBOTICA\, MURSKO SREDIŠĆE\, NEDELIŠĆE\, 
+ PODTUREN\, PRIBISLAVEC\, SELNICA\, STRAHONINEC\, SVETI JURAJ NA BREGU\, VR
+ ATIŠINEC\, ČAKOVEC\, ŠENKOVEC)\, 133 €/god.\n\nProfil općine: https:
+ //koncesijski-sat.vercel.app/#opcina/41942358B72448585049503\nIzvor: Regis
+ tar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B72448585049503
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 3 koncesije · Belica
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-97ec4aee9e67aa71@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20270630
+DTEND;VALUE=DATE:20270701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:31. 12. 2027. ističe 3 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauzetu površinu o
+ dobrenog eksploatacijskog polja (BELICA)\, 372 €/god.\n• INA-INDUSTRIJ
+ A NAFTE  D.D. – Dozvola za eksploataciju ugljikovodika (prema Zakonu o u
+ gljikovodicima) (BELICA)\, 372 €/god.\n• RADIO POSTAJA NEDELIŠĆE D.O
+ .O. – Koncesija za obavljanje djelatnosti radija (BELICA\, DEKANOVEC\, D
+ OMAŠINEC\, MALA SUBOTICA\, MURSKO SREDIŠĆE\, NEDELIŠĆE\, PODTUREN\, P
+ RIBISLAVEC\, SELNICA\, STRAHONINEC\, SVETI JURAJ NA BREGU\, VRATIŠINEC\, 
+ ČAKOVEC\, ŠENKOVEC)\, 133 €/god.\n\nProfil općine: https://koncesijsk
+ i-sat.vercel.app/#opcina/41942358B72448585049503
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B72448585049503
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-ad9fd86878c9f448@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20280213
+DTEND;VALUE=DATE:20280214
+SUMMARY:Ističe koncesija: TVORNICA STOČNE HRANE D.D.
+DESCRIPTION:1 ugovor o koncesiji ističe 13. 2. 2028. Godišnja fiksna nakn
+ ada: 325 €.\n\n• TVORNICA STOČNE HRANE D.D. – Koncesija za zahvaća
+ nje voda za tehnološke potrebe (BELICA)\, 325 €/god.\n\nProfil općine:
+  https://koncesijski-sat.vercel.app/#opcina/41942358B72448585049503\nIzvor
+ : Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B72448585049503
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: TVORNICA STOČNE HRANE D.D.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-ad9fd86878c9f448@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20270813
+DTEND;VALUE=DATE:20270814
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (TVORNICA STOČNE
+  HRANE D.D.)
+DESCRIPTION:13. 2. 2028. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• TVORNICA STOČNE HRANE D.D. – Koncesija za zahvaćanje voda za 
+ tehnološke potrebe (BELICA)\, 325 €/god.\n\nProfil općine: https://kon
+ cesijski-sat.vercel.app/#opcina/41942358B72448585049503
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B72448585049503
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (TVORNICA STO
+ ČNE HRANE D.D.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-9639632d9c5b019c@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20480601
+DTEND;VALUE=DATE:20480602
+SUMMARY:Ističe koncesija: OPG MIRJAN DODLEK
+DESCRIPTION:1 ugovor o koncesiji ističe 1. 6. 2048. Godišnja fiksna nakna
+ da: 127 €.\n\n• OPG MIRJAN DODLEK – Koncesija za zahvaćanje voda za
+  melioracijsko navodnjavanje (BELICA)\, 127 €/god.\n\nProfil općine: ht
+ tps://koncesijski-sat.vercel.app/#opcina/41942358B72448585049503\nIzvor: R
+ egistar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B72448585049503
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: OPG MIRJAN DODLEK
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-9639632d9c5b019c@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20471201
+DTEND;VALUE=DATE:20471202
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (OPG MIRJAN DODLE
+ K)
+DESCRIPTION:1. 6. 2048. ističe 1 ugovor o koncesiji. Novi postupak dodjele
+  treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
+ \n\n• OPG MIRJAN DODLEK – Koncesija za zahvaćanje voda za melioracijs
+ ko navodnjavanje (BELICA)\, 127 €/god.\n\nProfil općine: https://konces
+ ijski-sat.vercel.app/#opcina/41942358B72448585049503
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B72448585049503
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (OPG MIRJAN D
+ ODLEK)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

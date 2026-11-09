@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · Općina Kula Norinska
+X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Kula Norinska. I
+ z Registra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrad
+ e podataka. https://koncesijski-sat.vercel.app/#opcina/41942358B3233909093
+ 0363
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-79a371fa6512799e@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20270426
+DTEND;VALUE=DATE:20270427
+SUMMARY:Ističe koncesija: RADIO DELTA D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 26. 4. 2027. Godišnja fiksna nakn
+ ada: 66 €.\n\n• RADIO DELTA D.O.O. – Koncesija za obavljanje djelatn
+ osti radija (KULA NORINSKA\, METKOVIĆ\, OPUZEN\, ZAŽABLJE)\, 66 €/god.
+ \n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B32
+ 339090930363\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9.
+  11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B32339090930363
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: RADIO DELTA D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

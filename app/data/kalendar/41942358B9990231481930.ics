@@ -1,0 +1,236 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · Grad Sinj
+X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Grad Sinj. Iz Registra k
+ oncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podataka. 
+ https://koncesijski-sat.vercel.app/#opcina/41942358B9990231481930
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-85e2aa499e90d48f@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20271115
+DTEND;VALUE=DATE:20271116
+SUMMARY:Ističe koncesija: ŠPACAKAMIN\, OBRT ZA DIMNJAČARSKE USLUGE\, VL.
+  ANTONIO ŽAJA
+DESCRIPTION:1 ugovor o koncesiji ističe 15. 11. 2027. Godišnja fiksna nak
+ nada: 2.112 €.\n\n• ŠPACAKAMIN\, OBRT ZA DIMNJAČARSKE USLUGE\, VL. A
+ NTONIO ŽAJA – Koncesija za obavljanje dimnjačarskih poslova (SINJ)\, 2
+ .112 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcin
+ a/41942358B9990231481930\nIzvor: Registar koncesija (FINA)\, obrada Konces
+ ijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B9990231481930
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: ŠPACAKAMIN\, OBRT ZA DIMNJAČARSKE USLUGE\,
+  VL. ANTONIO ŽAJA
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-85e2aa499e90d48f@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ŠPACAKAMIN\, OB
+ RT ZA DIMNJAČARSKE USLUGE\, VL. ANTONIO ŽAJA)
+DESCRIPTION:15. 11. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• ŠPACAKAMIN\, OBRT ZA DIMNJAČARSKE USLUGE\, VL. ANTONIO ŽAJA 
+ – Koncesija za obavljanje dimnjačarskih poslova (SINJ)\, 2.112 €/god.
+ \n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B99
+ 90231481930
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B9990231481930
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ŠPACAKAMIN\
+ , OBRT ZA DIMNJAČARSKE USLUGE\, VL. ANTONIO ŽAJA)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-cb0d31e3627a822a@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20320925
+DTEND;VALUE=DATE:20320926
+SUMMARY:Ističe 3 koncesije · Sinj
+DESCRIPTION:3 ugovora o koncesiji ističe 25. 9. 2032. Godišnja fiksna nak
+ nada: 2.724 €.\n\n• MEGRAM D.O.O. – Koncesija za eksploataciju tehni
+ čko-građevnog kamena (SINJ)\, 1.362 €/god.\n• MEGRAM D.O.O. – Konc
+ esija za površinu utvrđenog eksploatacijskog polja neenergetskih mineral
+ nih sirovina (SINJ)\, 1.362 €/god.\n• MEGRAM D.O.O. – Koncesija za e
+ ksploataciju tehničko-građevnog kamena (SINJ)\n\nProfil općine: https:/
+ /koncesijski-sat.vercel.app/#opcina/41942358B9990231481930\nIzvor: Regista
+ r koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B9990231481930
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 3 koncesije · Sinj
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-cb0d31e3627a822a@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20320325
+DTEND;VALUE=DATE:20320326
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:25. 9. 2032. ističe 3 ugovora o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• MEGRAM D.O.O. – Koncesija za eksploataciju tehničko-građevno
+ g kamena (SINJ)\, 1.362 €/god.\n• MEGRAM D.O.O. – Koncesija za povr
+ šinu utvrđenog eksploatacijskog polja neenergetskih mineralnih sirovina 
+ (SINJ)\, 1.362 €/god.\n• MEGRAM D.O.O. – Koncesija za eksploataciju 
+ tehničko-građevnog kamena (SINJ)\n\nProfil općine: https://koncesijski-
+ sat.vercel.app/#opcina/41942358B9990231481930
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B9990231481930
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-c0b4fdd1a4f6af9e@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20421231
+DTEND;VALUE=DATE:20430101
+SUMMARY:Ističe 3 koncesije · Sinj
+DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2042. Godišnja fiksna na
+ knada: 660 €.\n\n• ARHITEKTONSKI KAMEN D.O.O. – Koncesija za površi
+ nu utvrđenog eksploatacijskog polja neenergetskih mineralnih sirovina (SI
+ NJ)\, 660 €/god.\n• ARHITEKTONSKI KAMEN D.O.O. – Koncesija za eksplo
+ ataciju arhitektonsko-građevnog kamena (SINJ)\n• ARHITEKTONSKI KAMEN D.
+ O.O. – Koncesija za eksploataciju arhitektonsko-građevnog kamena (SINJ)
+ \n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B99
+ 90231481930\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 
+ 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B9990231481930
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 3 koncesije · Sinj
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-c0b4fdd1a4f6af9e@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20420630
+DTEND;VALUE=DATE:20420701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:31. 12. 2042. ističe 3 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• ARHITEKTONSKI KAMEN D.O.O. – Koncesija za površinu utvrđeno
+ g eksploatacijskog polja neenergetskih mineralnih sirovina (SINJ)\, 660 
+ €/god.\n• ARHITEKTONSKI KAMEN D.O.O. – Koncesija za eksploataciju ar
+ hitektonsko-građevnog kamena (SINJ)\n• ARHITEKTONSKI KAMEN D.O.O. – K
+ oncesija za eksploataciju arhitektonsko-građevnog kamena (SINJ)\n\nProfil
+  općine: https://koncesijski-sat.vercel.app/#opcina/41942358B999023148193
+ 0
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B9990231481930
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-5f7916d80dd18550@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20551231
+DTEND;VALUE=DATE:20560101
+SUMMARY:Ističe 3 koncesije · Sinj
+DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2055. Godišnja fiksna na
+ knada: 9.432 €.\n\n• DRAGA-SADRA D.O.O. – Koncesija za površinu utv
+ rđenog eksploatacijskog polja neenergetskih mineralnih sirovina (SINJ)\, 
+ 9.432 €/god.\n• DRAGA SADRA D.O.O. – Koncesija za eksploataciju gips
+ a (SINJ)\n• DRAGA-SADRA D.O.O. – Koncesija za eksploataciju gipsa (SIN
+ J)\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B
+ 9990231481930\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9
+ . 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B9990231481930
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 3 koncesije · Sinj
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-5f7916d80dd18550@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20550630
+DTEND;VALUE=DATE:20550701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:31. 12. 2055. ističe 3 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• DRAGA-SADRA D.O.O. – Koncesija za površinu utvrđenog eksplo
+ atacijskog polja neenergetskih mineralnih sirovina (SINJ)\, 9.432 €/god.
+ \n• DRAGA SADRA D.O.O. – Koncesija za eksploataciju gipsa (SINJ)\n• 
+ DRAGA-SADRA D.O.O. – Koncesija za eksploataciju gipsa (SINJ)\n\nProfil o
+ pćine: https://koncesijski-sat.vercel.app/#opcina/41942358B9990231481930
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B9990231481930
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-6d58f672b4a97ed5@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20581231
+DTEND;VALUE=DATE:20590101
+SUMMARY:Ističe 3 koncesije · Sinj
+DESCRIPTION:3 ugovora o koncesiji ističe 31. 12. 2058. Godišnja fiksna na
+ knada: 5.910 €.\n\n• BETON-HRVACE D.O.O. – Koncesija za eksploatacij
+ u arhitektonsko-građevnog kamena (SINJ)\, 1.970 €/god.\n• BETON-HRVAC
+ E D.O.O. – Koncesija za eksploataciju arhitektonsko-građevnog kamena (S
+ INJ)\, 1.970 €/god.\n• BETON-HRVACE D.O.O. – Koncesija za površinu 
+ utvrđenog eksploatacijskog polja neenergetskih mineralnih sirovina (SINJ)
+ \, 1.970 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#o
+ pcina/41942358B9990231481930\nIzvor: Registar koncesija (FINA)\, obrada Ko
+ ncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B9990231481930
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 3 koncesije · Sinj
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-6d58f672b4a97ed5@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20580630
+DTEND;VALUE=DATE:20580701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:31. 12. 2058. ističe 3 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• BETON-HRVACE D.O.O. – Koncesija za eksploataciju arhitektonsk
+ o-građevnog kamena (SINJ)\, 1.970 €/god.\n• BETON-HRVACE D.O.O. – K
+ oncesija za eksploataciju arhitektonsko-građevnog kamena (SINJ)\, 1.970 
+ €/god.\n• BETON-HRVACE D.O.O. – Koncesija za površinu utvrđenog ek
+ sploatacijskog polja neenergetskih mineralnih sirovina (SINJ)\, 1.970 €/
+ god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4194235
+ 8B9990231481930
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B9990231481930
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,227 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · Općina Sukošan
+X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Sukošan. Iz Reg
+ istra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade pod
+ ataka. https://koncesijski-sat.vercel.app/#opcina/41942358B67958087170818
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-75e93940b5441450@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20280504
+DTEND;VALUE=DATE:20280505
+SUMMARY:Ističe 3 koncesije · Sukošan
+DESCRIPTION:3 ugovora o koncesiji ističe 4. 5. 2028. Godišnja fiksna nakn
+ ada: 10.068 €.\n\n• ZLATNA LUKA SUKOŠAN D.O.O. – Koncesija na pomor
+ skom dobru (SUKOŠAN)\, 3.356 €/god.\n• ZLATNA LUKA SUKOŠAN D.O.O. 
+ – Koncesija na pomorskom dobru (SUKOŠAN)\, 3.356 €/god.\n• ZLATNA L
+ UKA SUKOŠAN D.O.O. – Koncesija na pomorskom dobru (SUKOŠAN)\, 3.356 
+ €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419
+ 42358B67958087170818\nIzvor: Registar koncesija (FINA)\, obrada Koncesijsk
+ i sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B67958087170818
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 3 koncesije · Sukošan
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-75e93940b5441450@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20271104
+DTEND;VALUE=DATE:20271105
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+DESCRIPTION:4. 5. 2028. ističe 3 ugovora o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• ZLATNA LUKA SUKOŠAN D.O.O. – Koncesija na pomorskom dobru (SUK
+ OŠAN)\, 3.356 €/god.\n• ZLATNA LUKA SUKOŠAN D.O.O. – Koncesija na 
+ pomorskom dobru (SUKOŠAN)\, 3.356 €/god.\n• ZLATNA LUKA SUKOŠAN D.O.
+ O. – Koncesija na pomorskom dobru (SUKOŠAN)\, 3.356 €/god.\n\nProfil 
+ općine: https://koncesijski-sat.vercel.app/#opcina/41942358B6795808717081
+ 8
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B67958087170818
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 3 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-c6d402ffbda20fe4@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20330906
+DTEND;VALUE=DATE:20330907
+SUMMARY:Ističe koncesija: ZLATNA LUKA SUKOŠAN D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 6. 9. 2033. Godišnja fiksna nakna
+ da: 1.464 €.\n\n• ZLATNA LUKA SUKOŠAN D.O.O. – Koncesija za obavlja
+ nje poslova organizacije i naplate parkiranja (SUKOŠAN)\, 1.464 €/god.\
+ n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B679
+ 58087170818\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 
+ 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B67958087170818
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: ZLATNA LUKA SUKOŠAN D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-c6d402ffbda20fe4@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20330306
+DTEND;VALUE=DATE:20330307
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ZLATNA LUKA SUKO
+ ŠAN D.O.O.)
+DESCRIPTION:6. 9. 2033. ističe 1 ugovor o koncesiji. Novi postupak dodjele
+  treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
+ \n\n• ZLATNA LUKA SUKOŠAN D.O.O. – Koncesija za obavljanje poslova or
+ ganizacije i naplate parkiranja (SUKOŠAN)\, 1.464 €/god.\n\nProfil opć
+ ine: https://koncesijski-sat.vercel.app/#opcina/41942358B67958087170818
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B67958087170818
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ZLATNA LUKA 
+ SUKOŠAN D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-0156479fbefcaa5f@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20420808
+DTEND;VALUE=DATE:20420809
+SUMMARY:Ističe koncesija: BRODOGRADILIŠTE FILIPI\, D.O.O. ZA GRADNJU\, PO
+ PRAVAK I IZNAJMLJIVANJE BRODOVA\, PRIJEVOZ PUTNIKA MOREM I TRGOVINU
+DESCRIPTION:1 ugovor o koncesiji ističe 8. 8. 2042. Godišnja fiksna nakna
+ da: 5.718 €.\n\n• BRODOGRADILIŠTE FILIPI\, D.O.O. ZA GRADNJU\, POPRAV
+ AK I IZNAJMLJIVANJE BRODOVA\, PRIJEVOZ PUTNIKA MOREM I TRGOVINU – Konces
+ ija pomorskog dobra u svrhu izgradnje i gospodarskog korištenja luke pose
+ bne namjene (SUKOŠAN)\, 5.718 €/god.\n\nProfil općine: https://koncesi
+ jski-sat.vercel.app/#opcina/41942358B67958087170818\nIzvor: Registar konce
+ sija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B67958087170818
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: BRODOGRADILIŠTE FILIPI\, D.O.O. ZA GRADNJU\
+ , POPRAVAK I IZNAJMLJIVANJE BRODOVA\, PRIJEVOZ PUTNIKA MOREM I TRGOVINU
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-0156479fbefcaa5f@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20420208
+DTEND;VALUE=DATE:20420209
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BRODOGRADILIŠTE
+  FILIPI\, D.O.O. ZA GRADNJU\, POPRAVAK I IZNAJMLJIVANJE BRODOVA\, PRIJEVOZ
+  PUTNIKA MOREM I TRGOVINU)
+DESCRIPTION:8. 8. 2042. ističe 1 ugovor o koncesiji. Novi postupak dodjele
+  treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
+ \n\n• BRODOGRADILIŠTE FILIPI\, D.O.O. ZA GRADNJU\, POPRAVAK I IZNAJMLJI
+ VANJE BRODOVA\, PRIJEVOZ PUTNIKA MOREM I TRGOVINU – Koncesija pomorskog 
+ dobra u svrhu izgradnje i gospodarskog korištenja luke posebne namjene (S
+ UKOŠAN)\, 5.718 €/god.\n\nProfil općine: https://koncesijski-sat.verce
+ l.app/#opcina/41942358B67958087170818
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B67958087170818
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (BRODOGRADILI
+ ŠTE FILIPI\, D.O.O. ZA GRADNJU\, POPRAVAK I IZNAJMLJIVANJE BRODOVA\, PRIJ
+ EVOZ PUTNIKA MOREM I TRGOVINU)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-bb25a4619a91a4ad@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20481110
+DTEND;VALUE=DATE:20481111
+SUMMARY:Ističe koncesija: MARINA DALMACIJA D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 10. 11. 2048. Godišnja fiksna nak
+ nada: 32.692 €.\n\n• MARINA DALMACIJA D.O.O. – Koncesija pomorskog d
+ obra u svrhu gospodarskog korištenja luke (SUKOŠAN)\, 32.692 €/god.\n\
+ nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B67958
+ 087170818\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11
+ . 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B67958087170818
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: MARINA DALMACIJA D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-bb25a4619a91a4ad@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20480510
+DTEND;VALUE=DATE:20480511
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MARINA DALMACIJA
+  D.O.O.)
+DESCRIPTION:10. 11. 2048. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• MARINA DALMACIJA D.O.O. – Koncesija pomorskog dobra u svrhu go
+ spodarskog korištenja luke (SUKOŠAN)\, 32.692 €/god.\n\nProfil općine
+ : https://koncesijski-sat.vercel.app/#opcina/41942358B67958087170818
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B67958087170818
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (MARINA DALMA
+ CIJA D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-8aaee19567dd2e3b@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20600502
+DTEND;VALUE=DATE:20600503
+SUMMARY:Ističe koncesija: HRVATSKE CESTE D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 2. 5. 2060. Godišnja fiksna nakna
+ da: 427 €.\n\n• HRVATSKE CESTE D.O.O. – Posebna upotreba pomorskog d
+ obra (SUKOŠAN)\, 427 €/god.\n\nProfil općine: https://koncesijski-sat.
+ vercel.app/#opcina/41942358B67958087170818\nIzvor: Registar koncesija (FIN
+ A)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B67958087170818
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: HRVATSKE CESTE D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-8aaee19567dd2e3b@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20591102
+DTEND;VALUE=DATE:20591103
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKE CESTE D
+ .O.O.)
+DESCRIPTION:2. 5. 2060. ističe 1 ugovor o koncesiji. Novi postupak dodjele
+  treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
+ \n\n• HRVATSKE CESTE D.O.O. – Posebna upotreba pomorskog dobra (SUKOŠ
+ AN)\, 427 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#
+ opcina/41942358B67958087170818
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B67958087170818
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HRVATSKE CES
+ TE D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,98 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · Općina Hum na Sutli
+X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Hum na Sutli. Iz
+  Registra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade
+  podataka. https://koncesijski-sat.vercel.app/#opcina/41942358B72798442770
+ 714
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-c15ae074ae3355d9@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20370719
+DTEND;VALUE=DATE:20370720
+SUMMARY:Ističe koncesija: VETROPACK STRAŽA D.D.
+DESCRIPTION:1 ugovor o koncesiji ističe 19. 7. 2037. Godišnja fiksna nakn
+ ada: 1.287 €.\n\n• VETROPACK STRAŽA D.D. – Koncesija za zahvaćanje
+  voda za tehnološke potrebe (HUM NA SUTLI)\, 1.287 €/god.\n\nProfil op
+ ćine: https://koncesijski-sat.vercel.app/#opcina/41942358B72798442770714\
+ nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B72798442770714
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: VETROPACK STRAŽA D.D.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-c15ae074ae3355d9@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20370119
+DTEND;VALUE=DATE:20370120
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VETROPACK STRAŽ
+ A D.D.)
+DESCRIPTION:19. 7. 2037. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• VETROPACK STRAŽA D.D. – Koncesija za zahvaćanje voda za tehno
+ loške potrebe (HUM NA SUTLI)\, 1.287 €/god.\n\nProfil općine: https://
+ koncesijski-sat.vercel.app/#opcina/41942358B72798442770714
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B72798442770714
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (VETROPACK ST
+ RAŽA D.D.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-f4c4f5d9068571cc@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20451130
+DTEND;VALUE=DATE:20451201
+SUMMARY:Ističe koncesija: RADIO HRVATSKO ZAGORJE - KRAPINA D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 30. 11. 2045. Godišnja fiksna nak
+ nada: 66 €.\n\n• RADIO HRVATSKO ZAGORJE - KRAPINA D.O.O. – Koncesija
+  za obavljanje djelatnosti radija (HUM NA SUTLI\, KLANJEC\, KRAPINA\, KRAP
+ INSKE TOPLICE\, MIHOVLJAN\, PETROVSKO\, PREGRADA\, RADOBOJ\, SVETI KRIŽ Z
+ AČRETJE\, TUHELJ)\, 66 €/god.\n\nProfil općine: https://koncesijski-sa
+ t.vercel.app/#opcina/41942358B72798442770714\nIzvor: Registar koncesija (F
+ INA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B72798442770714
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: RADIO HRVATSKO ZAGORJE - KRAPINA D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-f4c4f5d9068571cc@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20450530
+DTEND;VALUE=DATE:20450531
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (RADIO HRVATSKO Z
+ AGORJE - KRAPINA D.O.O.)
+DESCRIPTION:30. 11. 2045. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• RADIO HRVATSKO ZAGORJE - KRAPINA D.O.O. – Koncesija za obavlja
+ nje djelatnosti radija (HUM NA SUTLI\, KLANJEC\, KRAPINA\, KRAPINSKE TOPLI
+ CE\, MIHOVLJAN\, PETROVSKO\, PREGRADA\, RADOBOJ\, SVETI KRIŽ ZAČRETJE\, 
+ TUHELJ)\, 66 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.ap
+ p/#opcina/41942358B72798442770714
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B72798442770714
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (RADIO HRVATS
+ KO ZAGORJE - KRAPINA D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

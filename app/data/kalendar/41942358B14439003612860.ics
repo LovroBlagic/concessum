@@ -1,0 +1,340 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · Grad Valpovo
+X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Grad Valpovo. Iz Registr
+ a koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podatak
+ a. https://koncesijski-sat.vercel.app/#opcina/41942358B14439003612860
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-b1f58511e712438c@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20270615
+DTEND;VALUE=DATE:20270616
+SUMMARY:Ističe 2 koncesije · Valpovo
+DESCRIPTION:2 ugovora o koncesiji ističe 15. 6. 2027.\n\n• INA-INDUSTRIJ
+ A NAFTE  D.D. – Dozvola za eksploataciju ugljikovodika (prema Zakonu o u
+ gljikovodicima) (VALPOVO)\n• INA D.D. – Dozvola za eksploataciju uglji
+ kovodika (prema Zakonu o ugljikovodicima) (VALPOVO)\n\nProfil općine: htt
+ ps://koncesijski-sat.vercel.app/#opcina/41942358B14439003612860\nIzvor: Re
+ gistar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B14439003612860
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 2 koncesije · Valpovo
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-b1f58511e712438c@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:15. 6. 2027. ističe 2 ugovora o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Dozvola za eksploataciju ugljikov
+ odika (prema Zakonu o ugljikovodicima) (VALPOVO)\n• INA D.D. – Dozvola
+  za eksploataciju ugljikovodika (prema Zakonu o ugljikovodicima) (VALPOVO)
+ \n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B14
+ 439003612860
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B14439003612860
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-9ababca7fcc48ed5@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20270628
+DTEND;VALUE=DATE:20270629
+SUMMARY:Ističe koncesija: INA\, D.D.
+DESCRIPTION:1 ugovor o koncesiji ističe 28. 6. 2027. Godišnja fiksna nakn
+ ada: 458 €.\n\n• INA\, D.D. – Dozvola za istraživanje ugljikovodika
+  (prema Zakonu o ugljikovodicima) (VALPOVO)\, 458 €/god.\n\nProfil opći
+ ne: https://koncesijski-sat.vercel.app/#opcina/41942358B14439003612860\nIz
+ vor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B14439003612860
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: INA\, D.D.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-9ababca7fcc48ed5@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20261228
+DTEND;VALUE=DATE:20261229
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA\, D.D.)
+DESCRIPTION:28. 6. 2027. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• INA\, D.D. – Dozvola za istraživanje ugljikovodika (prema Zako
+ nu o ugljikovodicima) (VALPOVO)\, 458 €/god.\n\nProfil općine: https://
+ koncesijski-sat.vercel.app/#opcina/41942358B14439003612860
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B14439003612860
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA\, D.D.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-e008180f98443100@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20330425
+DTEND;VALUE=DATE:20330426
+SUMMARY:Ističe koncesija: HEP - PLIN  D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 25. 4. 2033.\n\n• HEP - PLIN  D.
+ O.O. – Koncesija za opskrbu potrošača prirodnim plinom (VALPOVO)\n\nPr
+ ofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B14439003
+ 612860\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2
+ 026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B14439003612860
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: HEP - PLIN  D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-e008180f98443100@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20321025
+DTEND;VALUE=DATE:20321026
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP - PLIN  D.O.
+ O.)
+DESCRIPTION:25. 4. 2033. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• HEP - PLIN  D.O.O. – Koncesija za opskrbu potrošača prirodnim
+  plinom (VALPOVO)\n\nProfil općine: https://koncesijski-sat.vercel.app/#o
+ pcina/41942358B14439003612860
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B14439003612860
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (HEP - PLIN  
+ D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-6c06072bd10ba87c@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20331015
+DTEND;VALUE=DATE:20331016
+SUMMARY:Ističe koncesija: DIMNJAČARSKI OBRT VALPOVO\, VL. ROBERT POHIŽEK
+DESCRIPTION:1 ugovor o koncesiji ističe 15. 10. 2033. Godišnja fiksna nak
+ nada: 1.500 €.\n\n• DIMNJAČARSKI OBRT VALPOVO\, VL. ROBERT POHIŽEK 
+ – Koncesija za obavljanje dimnjačarskih poslova (VALPOVO)\, 1.500 €/g
+ od.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358
+ B14439003612860\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat
+  9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B14439003612860
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: DIMNJAČARSKI OBRT VALPOVO\, VL. ROBERT POHI
+ ŽEK
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-6c06072bd10ba87c@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20330415
+DTEND;VALUE=DATE:20330416
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DIMNJAČARSKI OB
+ RT VALPOVO\, VL. ROBERT POHIŽEK)
+DESCRIPTION:15. 10. 2033. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• DIMNJAČARSKI OBRT VALPOVO\, VL. ROBERT POHIŽEK – Koncesija z
+ a obavljanje dimnjačarskih poslova (VALPOVO)\, 1.500 €/god.\n\nProfil o
+ pćine: https://koncesijski-sat.vercel.app/#opcina/41942358B14439003612860
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B14439003612860
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (DIMNJAČARSK
+ I OBRT VALPOVO\, VL. ROBERT POHIŽEK)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-650cc845cd2b0c3f@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20351231
+DTEND;VALUE=DATE:20360101
+SUMMARY:Ističe koncesija: INA-INDUSTRIJA NAFTE  D.D.
+DESCRIPTION:1 ugovor o koncesiji ističe 31. 12. 2035. Godišnja fiksna nak
+ nada: 1.711 €.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauzet
+ u površinu odobrenog eksploatacijskog polja (VALPOVO)\, 1.711 €/god.\n\
+ nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B14439
+ 003612860\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11
+ . 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B14439003612860
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: INA-INDUSTRIJA NAFTE  D.D.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-650cc845cd2b0c3f@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20350630
+DTEND;VALUE=DATE:20350701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA-INDUSTRIJA N
+ AFTE  D.D.)
+DESCRIPTION:31. 12. 2035. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauzetu površinu od
+ obrenog eksploatacijskog polja (VALPOVO)\, 1.711 €/god.\n\nProfil općin
+ e: https://koncesijski-sat.vercel.app/#opcina/41942358B14439003612860
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B14439003612860
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (INA-INDUSTRI
+ JA NAFTE  D.D.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-01a76a28bdfad7e9@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20370112
+DTEND;VALUE=DATE:20370113
+SUMMARY:Ističe koncesija: PPK VALPOVO  D.D.
+DESCRIPTION:1 ugovor o koncesiji ističe 12. 1. 2037. Godišnja fiksna nakn
+ ada: 222.588 €.\n\n• PPK VALPOVO  D.D. – Koncesija za korištenje po
+ ljoprivrednog zemljišta u vlasništvu države (VALPOVO)\, 222.588 €/god
+ .\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B1
+ 4439003612860\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9
+ . 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B14439003612860
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: PPK VALPOVO  D.D.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-01a76a28bdfad7e9@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20360712
+DTEND;VALUE=DATE:20360713
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PPK VALPOVO  D.D
+ .)
+DESCRIPTION:12. 1. 2037. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• PPK VALPOVO  D.D. – Koncesija za korištenje poljoprivrednog ze
+ mljišta u vlasništvu države (VALPOVO)\, 222.588 €/god.\n\nProfil opć
+ ine: https://koncesijski-sat.vercel.app/#opcina/41942358B14439003612860
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B14439003612860
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PPK VALPOVO 
+  D.D.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-928b4c482c1d7258@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20371231
+DTEND;VALUE=DATE:20380101
+SUMMARY:Ističe koncesija: PPK VALPOVO EKO D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 31. 12. 2037. Godišnja fiksna nak
+ nada: 49.755 €.\n\n• PPK VALPOVO EKO D.O.O. – Koncesija za korišten
+ je poljoprivrednog zemljišta u vlasništvu države (VALPOVO)\, 49.755 €
+ /god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/419423
+ 58B14439003612860\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski s
+ at 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B14439003612860
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: PPK VALPOVO EKO D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-928b4c482c1d7258@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20370630
+DTEND;VALUE=DATE:20370701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PPK VALPOVO EKO 
+ D.O.O.)
+DESCRIPTION:31. 12. 2037. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• PPK VALPOVO EKO D.O.O. – Koncesija za korištenje poljoprivred
+ nog zemljišta u vlasništvu države (VALPOVO)\, 49.755 €/god.\n\nProfil
+  općine: https://koncesijski-sat.vercel.app/#opcina/41942358B144390036128
+ 60
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B14439003612860
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PPK VALPOVO 
+ EKO D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-745291fbb411d1ae@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20481231
+DTEND;VALUE=DATE:20490101
+SUMMARY:Ističe 2 koncesije · Valpovo
+DESCRIPTION:2 ugovora o koncesiji ističe 31. 12. 2048. Godišnja fiksna na
+ knada: 1.134 €.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauze
+ tu površinu odobrenog eksploatacijskog polja (VALPOVO)\, 1.134 €/god.\n
+ • INA-INDUSTRIJA NAFTE  D.D. – Dozvola za eksploataciju ugljikovodika 
+ (prema Zakonu o ugljikovodicima) (VALPOVO)\n\nProfil općine: https://konc
+ esijski-sat.vercel.app/#opcina/41942358B14439003612860\nIzvor: Registar ko
+ ncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B14439003612860
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe 2 koncesije · Valpovo
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-745291fbb411d1ae@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20480630
+DTEND;VALUE=DATE:20480701
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+DESCRIPTION:31. 12. 2048. ističe 2 ugovora o koncesiji. Novi postupak dodj
+ ele treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovo
+ ra.\n\n• INA-INDUSTRIJA NAFTE  D.D. – Koncesija za zauzetu površinu o
+ dobrenog eksploatacijskog polja (VALPOVO)\, 1.134 €/god.\n• INA-INDUST
+ RIJA NAFTE  D.D. – Dozvola za eksploataciju ugljikovodika (prema Zakonu 
+ o ugljikovodicima) (VALPOVO)\n\nProfil općine: https://koncesijski-sat.ve
+ rcel.app/#opcina/41942358B14439003612860
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B14439003612860
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 2 koncesije
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

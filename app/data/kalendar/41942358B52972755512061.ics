@@ -1,0 +1,112 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · Općina Vuka
+X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Vuka. Iz Registr
+ a koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podatak
+ a. https://koncesijski-sat.vercel.app/#opcina/41942358B52972755512061
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-2cde569cb558bf30@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:Ističe koncesija: VATRO-DIM J.D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 30. 11. 2026. Godišnja fiksna nak
+ nada: 267 €.\n\n• VATRO-DIM J.D.O.O. – Koncesija za obavljanje dimnj
+ ačarskih poslova (VUKA)\, 267 €/god.\n\nProfil općine: https://koncesi
+ jski-sat.vercel.app/#opcina/41942358B52972755512061\nIzvor: Registar konce
+ sija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B52972755512061
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: VATRO-DIM J.D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-a60b97e2dc3c819f@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20370530
+DTEND;VALUE=DATE:20370531
+SUMMARY:Ističe koncesija: NOVI AGRAR D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 30. 5. 2037. Godišnja fiksna nakn
+ ada: 14.428 €.\n\n• NOVI AGRAR D.O.O. – Koncesija za korištenje pol
+ joprivrednog zemljišta u vlasništvu države (VUKA)\, 14.428 €/god.\n\n
+ Profil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B529727
+ 55512061\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11.
+  2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B52972755512061
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: NOVI AGRAR D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-a60b97e2dc3c819f@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20361130
+DTEND;VALUE=DATE:20361201
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (NOVI AGRAR D.O.O
+ .)
+DESCRIPTION:30. 5. 2037. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• NOVI AGRAR D.O.O. – Koncesija za korištenje poljoprivrednog ze
+ mljišta u vlasništvu države (VUKA)\, 14.428 €/god.\n\nProfil općine:
+  https://koncesijski-sat.vercel.app/#opcina/41942358B52972755512061
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B52972755512061
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (NOVI AGRAR D
+ .O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-1ed9ed29c701bd2e@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20440827
+DTEND;VALUE=DATE:20440828
+SUMMARY:Ističe koncesija: ŽITO D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 27. 8. 2044. Godišnja fiksna nakn
+ ada: 2.920 €.\n\n• ŽITO D.O.O. – Koncesija za zahvaćanje voda za t
+ ehnološke potrebe (VUKA)\, 2.920 €/god.\n\nProfil općine: https://konc
+ esijski-sat.vercel.app/#opcina/41942358B52972755512061\nIzvor: Registar ko
+ ncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B52972755512061
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: ŽITO D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-1ed9ed29c701bd2e@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20440227
+DTEND;VALUE=DATE:20440228
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ŽITO D.O.O.)
+DESCRIPTION:27. 8. 2044. ističe 1 ugovor o koncesiji. Novi postupak dodjel
+ e treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora
+ .\n\n• ŽITO D.O.O. – Koncesija za zahvaćanje voda za tehnološke pot
+ rebe (VUKA)\, 2.920 €/god.\n\nProfil općine: https://koncesijski-sat.ve
+ rcel.app/#opcina/41942358B52972755512061
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B52972755512061
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (ŽITO D.O.O.
+ )
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

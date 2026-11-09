@@ -1,0 +1,175 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koncesijski sat//HR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rokovi koncesija · Općina Lovran
+X-WR-CALDESC:Rokovi isteka ugovora o koncesiji – Općina Lovran. Iz Regis
+ tra koncesija (FINA\, data.gov.hr). Osvježava se nakon svake obrade podat
+ aka. https://koncesijski-sat.vercel.app/#opcina/41942358B16590455349788
+X-WR-TIMEZONE:Europe/Zagreb
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istek-d8c910753e20f262@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20290303
+DTEND;VALUE=DATE:20290304
+SUMMARY:Ističe koncesija: PORTIĆ ZA ODMOR I REKREACIJU NA MORU D. O. O.
+DESCRIPTION:1 ugovor o koncesiji ističe 3. 3. 2029. Godišnja fiksna nakna
+ da: 17.870 €.\n\n• PORTIĆ ZA ODMOR I REKREACIJU NA MORU D. O. O. – 
+ Koncesija na pomorskom dobru (LOVRAN)\, 17.870 €/god.\n\nProfil općine:
+  https://koncesijski-sat.vercel.app/#opcina/41942358B16590455349788\nIzvor
+ : Registar koncesija (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B16590455349788
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: PORTIĆ ZA ODMOR I REKREACIJU NA MORU D. O. 
+ O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-d8c910753e20f262@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20280903
+DTEND;VALUE=DATE:20280904
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PORTIĆ ZA ODMOR
+  I REKREACIJU NA MORU D. O. O.)
+DESCRIPTION:3. 3. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjele
+  treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
+ \n\n• PORTIĆ ZA ODMOR I REKREACIJU NA MORU D. O. O. – Koncesija na po
+ morskom dobru (LOVRAN)\, 17.870 €/god.\n\nProfil općine: https://konces
+ ijski-sat.vercel.app/#opcina/41942358B16590455349788
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B16590455349788
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (PORTIĆ ZA O
+ DMOR I REKREACIJU NA MORU D. O. O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-3fce7adc2e328d41@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20290603
+DTEND;VALUE=DATE:20290604
+SUMMARY:Ističe koncesija: TRADE CONCEPT LIMITED D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 3. 6. 2029. Godišnja fiksna nakna
+ da: 8.889 €.\n\n• TRADE CONCEPT LIMITED D.O.O. – Koncesija na pomors
+ kom dobru (LOVRAN)\, 8.889 €/god.\n\nProfil općine: https://koncesijski
+ -sat.vercel.app/#opcina/41942358B16590455349788\nIzvor: Registar koncesija
+  (FINA)\, obrada Koncesijski sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B16590455349788
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: TRADE CONCEPT LIMITED D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-3fce7adc2e328d41@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20281203
+DTEND;VALUE=DATE:20281204
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (TRADE CONCEPT LI
+ MITED D.O.O.)
+DESCRIPTION:3. 6. 2029. ističe 1 ugovor o koncesiji. Novi postupak dodjele
+  treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
+ \n\n• TRADE CONCEPT LIMITED D.O.O. – Koncesija na pomorskom dobru (LOV
+ RAN)\, 8.889 €/god.\n\nProfil općine: https://koncesijski-sat.vercel.ap
+ p/#opcina/41942358B16590455349788
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B16590455349788
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (TRADE CONCEP
+ T LIMITED D.O.O.)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-cbe38f80cc13af70@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20300805
+DTEND;VALUE=DATE:20300806
+SUMMARY:Ističe koncesija: OBELIX D.O.O.
+DESCRIPTION:1 ugovor o koncesiji ističe 5. 8. 2030. Godišnja fiksna nakna
+ da: 6.300 €.\n\n• OBELIX D.O.O. – Koncesija za luku (LOVRAN)\, 6.300
+  €/god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/41
+ 942358B16590455349788\nIzvor: Registar koncesija (FINA)\, obrada Koncesijs
+ ki sat 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B16590455349788
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: OBELIX D.O.O.
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-cbe38f80cc13af70@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20300205
+DTEND;VALUE=DATE:20300206
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (OBELIX D.O.O.)
+DESCRIPTION:5. 8. 2030. ističe 1 ugovor o koncesiji. Novi postupak dodjele
+  treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovora.
+ \n\n• OBELIX D.O.O. – Koncesija za luku (LOVRAN)\, 6.300 €/god.\n\nP
+ rofil općine: https://koncesijski-sat.vercel.app/#opcina/41942358B1659045
+ 5349788
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B16590455349788
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (OBELIX D.O.O
+ .)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istek-1c80e66783d23ed9@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20451218
+DTEND;VALUE=DATE:20451219
+SUMMARY:Ističe koncesija: UDRUGA RADIO MARIJA
+DESCRIPTION:1 ugovor o koncesiji ističe 18. 12. 2045. Godišnja fiksna nak
+ nada: 133 €.\n\n• UDRUGA RADIO MARIJA – Koncesija za obavljanje djel
+ atnosti radija (LOVRAN\, MATULJI\, OPATIJA\, RIJEKA\, VIŠKOVO)\, 133 €/
+ god.\n\nProfil općine: https://koncesijski-sat.vercel.app/#opcina/4194235
+ 8B16590455349788\nIzvor: Registar koncesija (FINA)\, obrada Koncesijski sa
+ t 9. 11. 2026.
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B16590455349788
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ističe koncesija: UDRUGA RADIO MARIJA
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:priprema-1c80e66783d23ed9@koncesijski-sat
+DTSTAMP:20261109T134442Z
+DTSTART;VALUE=DATE:20450618
+DTEND;VALUE=DATE:20450619
+SUMMARY:Pripremiti postupak: za 6 mj. ističe 1 koncesija (UDRUGA RADIO MAR
+ IJA)
+DESCRIPTION:18. 12. 2045. ističe 1 ugovor o koncesiji. Novi postupak dodje
+ le treba pokrenuti na vrijeme\, da prostor ili usluga ne ostanu bez ugovor
+ a.\n\n• UDRUGA RADIO MARIJA – Koncesija za obavljanje djelatnosti radi
+ ja (LOVRAN\, MATULJI\, OPATIJA\, RIJEKA\, VIŠKOVO)\, 133 €/god.\n\nProf
+ il općine: https://koncesijski-sat.vercel.app/#opcina/41942358B1659045534
+ 9788
+URL:https://koncesijski-sat.vercel.app/#opcina/41942358B16590455349788
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pripremiti postupak: za 6 mj. ističe 1 koncesija (UDRUGA RADIO
+  MARIJA)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

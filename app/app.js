@@ -358,6 +358,32 @@
   $("#opcina-ics").onclick = () => ics(opcLista, "rokovi_" + slug(nazivOpcine[S.opcina]));
   $("#opcina-ispis").onclick = () => window.print();
 
+  // ---------- pretplata na kalendar (statični feed po općini, generira izvoz_web.py) ----------
+  const JAVNO = /^(localhost|127\.0\.0\.1)$/.test(location.hostname) ? "https://koncesijski-sat.vercel.app" : location.origin;
+  const GEN = parse(P.generirano);
+  $("#opcina-pretplata").onclick = () => {
+    const id = S.opcina, naziv = nazivOpcine[id];
+    const ima = U.some((u) => u.opc === id && u.do >= GEN);
+    $("#pretplata-opcina").textContent = naziv;
+    $("#pretplata-sadrzaj").hidden = !ima; $("#pretplata-prazno").hidden = ima;
+    const https = `${JAVNO}/data/kalendar/${id}.ics`, webcal = https.replace(/^https?:/, "webcal:");
+    const ime = encodeURIComponent("Rokovi koncesija · " + naziv);
+    $("#pp-google").href = "https://calendar.google.com/calendar/render?cid=" + encodeURIComponent(webcal);
+    $("#pp-m365").href = `https://outlook.office.com/calendar/0/addfromweb?url=${encodeURIComponent(https)}&name=${ime}`;
+    $("#pp-outlook").href = `https://outlook.live.com/calendar/0/addfromweb?url=${encodeURIComponent(https)}&name=${ime}`;
+    $("#pp-webcal").href = webcal;
+    $("#pp-url").value = https;
+    $("#pp-kopiraj").textContent = "Kopiraj";
+    $("#pretplata").showModal();
+  };
+  $("#pp-kopiraj").onclick = async () => {
+    const polje = $("#pp-url");
+    try { await navigator.clipboard.writeText(polje.value); } catch (e) { polje.select(); document.execCommand("copy"); }
+    $("#pp-kopiraj").textContent = "Kopirano ✓";
+  };
+  $("#pp-url").onfocus = (e) => e.target.select();
+  $("#pretplata").addEventListener("click", (e) => { if (e.target === e.currentTarget) e.currentTarget.close(); });   // klik izvan prozora
+
   // ---------- brza pretraga općine (zaglavlje) ----------
   const nazivUId = {};
   opcSortirane.forEach((k) => { nazivUId[nazivOpcine[k].toLowerCase()] = k; });
